@@ -1,4 +1,5 @@
 
+This Chapter 06 of CD 11 for Mental and Behavioural Disorders in a more readable format, using sphinx (Read The Docs Theme).
 
 © World Health Organization 2022
 

@@ -8,3 +8,7 @@ Some rights reserved. This work is available under the Creative Commons Attribut
 The use of ICD-11 in software products is subject to the following license: https://icd.who.int/en/docs/ICD11-license.pdf
 
 International Classification of Diseases Eleventh Revision (ICD-11). Geneva: World Health Organization; 2022. License: CC BY-ND 3.0 IGO.
+
+.. toctree::
+    :caption: Contents
+    :maxdepth: 5

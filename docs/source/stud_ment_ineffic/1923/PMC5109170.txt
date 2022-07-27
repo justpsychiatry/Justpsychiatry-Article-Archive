@@ -1,11 +1,11 @@
 A Note on the Size-Weight Illusion
 ===================================
 
-STUDIES IN MENTAL INEFFICIENCY.
+:Author: W. B. Drummond, M.D., F.R.C.P. (Edin).
 
-By W. B. Drummond, M.D., F.R.C.P. (Edin).
 Medical Superintendent, Baldovan Institution for Feeble-Minded Children, near
 Dundee.
+
 The statement has been made that the Mentally Defective do not experience the
 Size-Weight Illusion. By whom the statement was first made I do not know,
 but it has been copied into several books without verification. As I have not
@@ -13,6 +13,7 @@ verified my references, I cannot quote chapter and verse, but anyhow a professio
 psychologist recently asked me whether the statement is true. I replied that I
 thought it extremely improbable, but that, as Kirkpatrick said, when Bruce
 stabbed the Red Comyn, I would "male siccar."
+
 It is perhaps scarcely necessary to explain that the illusion referred to is as
 follows:?Two weights are preps red which differ considerably in size but are
 equal in weight. If these are lifted one in each hand and compared, the smaller
@@ -21,6 +22,7 @@ to believe that the weights are equal until they see tham weighed on a balance.
 Now it is affirmed that if a mentally defective person is tested, and asked which
 of the weights is the heavier, he will indicate the larger, thus showing that he
 does not experience the illusion.
+
 To test the matter I made use of two wooden weights, one about the size and
 shape of the cork of a large bottle (5 c.m. x 2.4 c.m.), the other a short broad
 cylinder like the bung of a large barrel (3.2 c.m. x 6 c.m.). The smaller piece
@@ -33,11 +35,13 @@ use the word "heavy" which the children naturally hear frequently, rather than
 the word "heavier" which they rarely hear, and certainly never use. If the
 child gave the smaller weight, he was marked correct or plus. If he gave the
 larger weight, or proffered both, he was marked incorrect or minus.
+
 Practically all the children examined belong to the imbecile class. They
 are able to understand simple questions, and to attend to their own wants, e.g., to
 feed themselves with a spoon.
 Of 33 boys tested, 20 were marked plus; of 33 girls tested, 19 were marked
 plus.
+
 The Mental Ages and Intelligence Quotients of the children tested had been
 ascertained at various periods prior to the test, and the children were not re-
 examined. But if we assume that Intelligence Quotients remain practically
@@ -46,14 +50,15 @@ Quotient is above 40 are likely to succeed in the test unless they are very youn
 while children with an Intelligence Quotient below 40 are not likely to succeed,
 though a few of the older children did so. Evidently experience counts for
 something.
+
 I tested several feeble-minded lads who work with the tradesmen. These
 &re not included in the experiment. These lads promptly and with great assure
-8TUDIES IN MENTAL INEFFICIENCY. 9
 ance gave the smaller weight, and seemed much amused at being asked such a
 simple question!
 It does not seem worth while to draw up a table of all the children tested.
 The following table shows a number of typical successes and failures, selected
 according to age.
+
 TABLE.
 Boys.
 No. Age. Mental Age. Intelligence Result.
@@ -70,6 +75,7 @@ No. Age. Mental Age. Intelligence Result.
 10 10 4 40 ?
 11 8 5 62 ?
 12 7 3.5 50 ?
+
 The next question which requires a little consideration is why so many chil-
 dren failed. With the idea of ascertaining whether the children did not under-
 stand the problem, I retested all those who had failed. In each case, I intro-
@@ -82,6 +88,7 @@ fully, and give me the heavy one." The difference between the weights is of
 course very obvious. As a child may easily be correct by chance, the test was
 repeated three times. All had to be successful for a pass. If the child offered
 both weights, the trial did not count, and the directions were repeated carefully.
+
 Of the 13 boys who failed with the Illusion Test, only 2 succeeded with the
 ^eights. Twelve of these boys failed again with the Illusion Test. One failed
 ^'ith the weights, but passed the Illusion Test (three times repeated). This is
@@ -91,6 +98,7 @@ ted to pass the test, as he has such a high Intelligence Quotient. He succeeded
 ^th the Illusion Test each time it was tried. He is an impulsive little boy who
 Responded to the question instantly, without pausing a moment for consideration.
 ?y 12, though less intelligent, is more deliberate and careful.
+
 , The conclusion reached, therefore, is that the Mentally Defective do not
 uiffer from normal persons in their response to the Illusion experiment, provided
 hey have sufficient intelligence to appreciate the question; also that the degree

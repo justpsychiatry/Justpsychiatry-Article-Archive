@@ -1,0 +1,7 @@
+sphinx
+sphinx_rtd_theme
+docutils
+pybtex
+setuptools
+sphinxcontrib-bibtex
+myst_parser

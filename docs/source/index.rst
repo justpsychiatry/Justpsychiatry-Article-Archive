@@ -24,9 +24,8 @@ Welcome to Justpsychiatry Article Archive!
 
 
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
 * :ref:`search`
-* :ref:`home`
 

@@ -5,8 +5,10 @@ This is a collection of articles in the feild of psychiatry and psychology trans
 
 
 .. toctree::
-    :caption: Contents
-    :maxdepth: 5
+   :glob:
+   :caption: Contents
+   :maxdepth: 5
+    
     
     
 :Copyrights: The copyrights of individual articles vary; some articles are in the public domain, others open-access commercial use, or open-access non-commercial use. please check the original article for copyright information of each article while we are working to add them here. 

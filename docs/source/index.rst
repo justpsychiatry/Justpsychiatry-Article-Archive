@@ -24,4 +24,9 @@ Foundation URI : http://id.who.int/icd/entity/334423054
    :maxdepth: 2
    
    ICD11.md
+   ICD*
+   *
+
+...
+
 

@@ -6,7 +6,6 @@ sys.path.insert(0, os.path.abspath('.'))
 import sphinx_rtd_theme
 import sphinxcontrib.bibtex
 import myst_parser
-import sphinx_opensearch
 import sphinxcontrib.apa
 
 

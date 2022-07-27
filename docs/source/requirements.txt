@@ -5,3 +5,5 @@ pybtex
 setuptools
 sphinxcontrib-bibtex
 myst_parser
+sphinxcontrib.apa
+sphinx_opensearch

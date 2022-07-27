@@ -1,7 +1,8 @@
 
 .. _psychol-clin:
+=====================
 Psychological Clinic
-===============
+=====================
 
 .. toctree::
    :caption: Year of Publication
@@ -30,11 +31,10 @@ Psychological Clinic
    ./1928/index.rst
    ./1929/index.rst
    ./1930/index.rst
-   ./1930/index.rst
    ./1931/index.rst
    ./1932/index.rst
    ./1933/index.rst
-   ./1933/index.rst
+   ./1934/index.rst
    ./1935/index.rst
 
 ...

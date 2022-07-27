@@ -2,10 +2,7 @@ Some Rambling Experiences in the Training of Low-Grade Defectives
 ==================================================================
 
 :Author: Margaret Macdowall 
-
-:Reference Type:  Journal Article
-:Record Number: 17123
-Author: Macdowall, Margaret
+:Reference-type:  Journal Article
 :Year: 1920
 :Title: Some Rambling Experiences in the Training of Low-Grade Defectives
 :Journal: Studies in mental inefficiency
@@ -14,9 +11,9 @@ Author: Macdowall, Margaret
 :Pages: 55-60
 :Date-of-publication: 1920/07//
 :Short-title: Some Rambling Experiences in the Training of Low-Grade Defectives
-Alternate Journal: Stud Ment Ineffic
-:Accession Number: 28909948
-Name of Database: PubMed
+:Alternate-journal: Stud Ment Ineffic
+:Accession-number: 28909948
+:Name-of-database: PubMed
 :Language: eng
 
 
@@ -31,8 +28,7 @@ on its beginning.
 There is an old saying: "Take care of the pence, and the pounds will take
 care of themselves.'' Every farthing we save helps the nation by some means.
 How much more, then, shall we help by our efforts, by giving ourselves, soul,
-mind and 'body to raising these children from labour-taking inefficients to laboursaving self-helpful citizens; even if it takes two to carry water or hew wood, they
-set a more able person free for more effective work.
+mind and 'body to raising these children from labour-taking inefficients to laboursaving self-helpful citizens; even if it takes two to carry water or hew wood, they set a more able person free for more effective work.
 
 Mercier says "Education is a preparation for life, to fit the child for life
 when he is no longer a child." I ask everyone to consider well the needs of
@@ -124,15 +120,14 @@ each moment letting thjem do every mite they are capable of by their own will J
 feeling each day has been ill-spent if we have not added something to their power.
 It is much harder work to stand at the foot of a staircase, fixing our attention on
 a child going up alonq, than to lead or carry him up, but to the child s future it
-makes all the difference in the world : ?
-" Love has two elements; the elements of severance, which is only an
-appearance, and the element of union, which is the ultimate truth.
-" Just as when the father tosses his child up from his arms it has the
-appearance of rejection, but its truth is quite the reverse."
+makes all the difference in the world : 
+
+	" Love has two elements; the elements of severance, which is only an appearance, and the element of union, which is the ultimate truth.
+	Just as when the father tosses his child up from his arms it has the appearance of rejection, but its truth is quite the reverse."
+
 Tagore.
 
-I have spent much time and thought upon the best way of gaining the interest and attention of a class of children in these first stages. I have come to the
-conclusion it is by touch. We comfort infants always by touch, and these little
+I have spent much time and thought upon the best way of gaining the interest and attention of a class of children in these first stages. I have come to the conclusion it is by touch. We comfort infants always by touch, and these little
 ones need the same treatment.
 
 We must imagine five or six little ones who have not great interest in their
@@ -142,8 +137,7 @@ needs consideration, and the shake must be done in a manner likely to attract
 the individuality of each member. Sometimes getting them all to hold a bright
 hoop together is successful. Some action in unison is the best thing. The
 greater difficulty is to know what to say. So few children in their beginnings
-understand the meaning of words?with the exception of nouns. If we say
-" Fetch me a book," or " Put it on the table," " floor " or " chair," the command will probably be obeyed quite quickly because the nouns are familiar to the
+understand the meaning of words?with the exception of nouns. If we say "Fetch me a book," or " Put it on the table," " floor " or " chair," the command will probably be obeyed quite quickly because the nouns are familiar to the
 children. If the same commands were given in connection with unknown nouns
 they would not be understood. When the children are given beads to thread it
 is possible for some to make good progress by imitation of action alone. Those
@@ -170,6 +164,7 @@ but it depends on the will of the guardian; it is uphill all the way until the
 habit is formed.
 
 We now come to a stage higher. It is probable that the powers and experience of our pupils may be limited through life. We must therefore bring them
+
 into touch with the limitless as early as possible; we must give them the most
 powerful ideals in the world, and teach them to know, love, and serve God
 through Jesus Christ, remembering that in the words of Bishop Creightoi^, " All
@@ -232,13 +227,13 @@ time, unless their attention is constantly directed to it. This is to be account
 for by their lack of responsibility as time-keepers, which might be made more a
 point of with advantage. The days of the week, and date of the month, and the
 year should be kept present with the children; it helps progress. Any movement should be made the most of, and dates do not stand still.
+
 We have thought of purposes, and have spoken of teaching children how to
 act so as to achieve them. Mercier says: " Children are to te taught to know,
 but they must first he taught to do, and it is in doing that knowledge is most
 naturally, most easily, and most tenaciously acquired." He quotes a letter of
 Sir Clifford Allbutt, who says, " That in action there is a certain pregnancy, that
-by action is developed inward rudiments, which left unprovoked would die unborn, that the limbs in their adventures have a wider compass, awaken wider
-responses, lay up in the nervous system, and bring into gear, much beyond the
+by action is developed inward rudiments, which left unprovoked would die unborn, that the limbs in their adventures have a wider compass, awaken wider responses, lay up in the nervous system, and bring into gear, much beyond the
 design of their immediate purpose."
 
 Let me give an example of a child who has been trained to act, and one who
@@ -251,12 +246,13 @@ feeling his responsibility at end, he took himself to another staircase and ran 
 The elder child was quite unresisting, and stood where he was placed, until told
 to move.
 
-Reconstruction is much in the thought of everyone at present, and the welfare of the feeble-minded is not left out. I hope the day is not far distant when
-a more natural, fuller, freer life will be given them; when people who are true
+Reconstruction is much in the thought of everyone at present, and the welfare of the feeble-minded is not left out. I hope the day is not far distant when a more natural, fuller, freer life will be given them; when people who are true
 to the normal will think it a pleasure and privilege to mix with them and help to
 draw out and to heal. Perhaps a variety of recreation is needed more than anything else, as there is nothing so quickening as the lightning of laughter."
 
+
 Bibliography
+-------------
 
 1.	Macdowall M. Some Rambling Experiences in the Training of Low-Grade Defectives. Stud Ment Ineffic. 1920;1(3):55-60.
 

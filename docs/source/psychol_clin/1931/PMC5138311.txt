@@ -1,0 +1,974 @@
+Sibship: Intelligence and Behavior
+===================================
+
+The Psychological Clinic
+Copyright, 1931, by Lightner Witmer, Editor
+Vol. XX, No. 4 j? June, 1931
+
+By Arthur Phillips, Ph.D.
+Executive Officer, The Psychological Clinic, University of Pennsylvania
+A. Statistical Study
+In the files of the Psychological Clinic, founded by Dr. Lightner
+^Vitmer at the Universitj7 of Pennsylvania in 1896, are records
+?f nearly 9,500 cases, examined in the general mental, speech, and
+vocational guidance clinics of the institution.
+The writer of this article some time ago turned to these files in
+3- study of sibship, behavior and intelligence. From the index of
+cases, alphabetically arranged, desired data were taken from the
+cards of children belonging to families two or more of whose chil-
+dren had been examined in the Psychological Clinic. These cards
+were found between the letters A and Gr, which contain approxi-
+mately one-third the cases examined. There were 102 families,
+represented by 226 children, all of whom had received a Binet-
+Simon intelligence quotient. Birth order data for these cases had
+been accurately kept. Of the total number of children 55.3 per cent
+are bo3rs, 44.6 per cent are girls.
+Table 1
+Range
+Mean (mos.)
+S.D.
+Skewness
+C.A..
+m.a.
+I.Q..
+2-6 to 16-7
+2-9 to 18-5
+45.2 to 180.0
+112.3
+117.3
+106.8
+36.00
+40.68
+25.83
+-.64
++ .45
+-.02
+Table 1 gives statistical data for chronological age, mental age,
+and intelligence quotient for the 226 children examined. The mean
+mental and chronological ages are given in months. It is to be
+97
+98 THE PSYCHOLOGICAL CLINIC
+noted that the mean intelligence quotient of the group is 6.8 points
+above par. The distribution of the intelligence quotients is skewed
+to the lower end; there is a slight piling up of cases with high
+I.Q.'s. The variability in mental ages is greater than the varia-
+bility in chronological ages.
+I. Birth Order and I.Q.
+Table 2
+1
+1
+2
+3
+4
+5
+Y
+N
+67
+16
+19
+6
+6
+6
+110
+Ma
+108.89
+94.37
+98.68
+103.78
+123.42
+108.06
+106.00
+Mb
+112.97
+105.60
+109.73
+107.46
+121.18
+111.36
+119.51
+28.17
+21.05
+22.43
+25.41
+21.81
+21.05
+20.61
+23.56
+Da ? b
+- 4.08
+-11.23
+-11.15
+- 3.68
++ 2.24
+- 3.30
+-13.51
+D
+a diff.
+.94
+1.47
+1.65
+4.10
+Table 2 presents seven comparisons, six of which are between
+birth orders. The seventh lies between all younger and next older
+children in the entire group. Columns 1 and 2 give the ordinal
+numbers of birth order; column 3 gives the number of comparisons;
+columns 4 and 5 give the mean intelligence quotient of birth orders
+in columns a and b; columns 6 and 7 give the standard deviations;
+column 8 gives the difference between the I.Q.'s in columns 4 and
+5; column 9 gives the D/a diff.
+In the first six comparisons, social and economic factors are
+equalized. Every older child is matched by the next younger child
+of the same family. Fifty-nine of the 67 pair of first and second
+born were examined on the same date, the mean difference in ages
+being 2.5 years. Size of family is fairly well controlled as 42 pair
+are the only children in the family at the time of the examination,
+and 20 pair are from families with only three children.
+All the comparisons are in favor of the older child except one,
+the fourth and fifth born, where the number of cases is but 6, as it
+is in the last three birth orders compared.
+The difference between the mean I.Q. of the first born and second
+born is 4.08. The D/a- diff. is .94. The chance that there is a true
+difference greater than zero is about 83 in 100. The ratio between
+the difference and the sigma of the distribution of differences is
+only 30 per cent of what it should be in order to insure a difference
+always greater than zero.
+SIBSHIP: INTELLIGENCE AND BEHAVIOR 99
+In the case of the seventh, where 110 comparisons were secured
+by pairing in 102 families each child against the next older, the
+difference in mean I.Q. between the younger and the older children
+is 13.51 points. The ratio between the difference and the sigma
+?f the distribution of differences is 4.10. The reliability of the
+difference found in this comparison may be regarded as established.
+Concerning the nature of this group of younger-older compari-
+sons the following data are of interest:
+1. Nationality of Families:
+American   70
+Jewish  21
+Italian  9
+Colored   2
+Total   102
+The average I.Q. of the 157 American children is 112.5; of the 44
+Jewish children, 104; of the 21 Italian children, 73.7; of the 4
+colored children, 78.6.
+2. Size of Family:
+42 families have 2 children 3 families have 7 children
+28 " " 3 " 4 11 11 8 11
+5 " " 4 " 1 family has 9
+9 " " 5 " 1 " " 10 "
+7 " " 6 " 2 families have 12
+68.6 per cent4of the families have 2 or 3 children.
+3. In the 102 families, 7 still births, 1 miscarriage, 2 insane, 1
+feebleminded were reported.
+II. Coefficients of Correlation
+Table 3
+B
+N
+PE.r
+67
+16
+19
+110
+.11
+.17
+.11
+.11
+.08
+.16
+.15
+.06
+Columns A and B give the ordinal numbers of the siblings com-
+pared. Column N gives the number of cases. The number of
+100 THE PSYCHOLOGICAL CLINIC
+cases is too small to indicate the degree of relationship, though
+some tendency to likeness is noted. There is some indication that
+the relationship between the first and second born is as great as
+that which prevails between younger and older children when each
+younger is paired with the next older member of the family.
+III. Age and I.Q.
+Table 4
+1. Regression of I.Q. on Age
+C.A.
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+N.
+1
+10
+9
+13
+23
+25
+23
+19
+21
+20
+17
+19
+15
+6
+5
+Av. I.Q.
+180.00
+137.00
+115.39
+120.39
+119.76
+110.79
+102.40
+96.05
+110.23
+109.00
+93.24
+93.43
+90.63
+88.34
+93.00
+2. Regression of Age on I.Q.
+I.Q.
+40-19
+50-59
+60-69
+70-79
+80-89
+90-99
+100-109
+110-119
+120-129
+130-139
+140-149
+150-159
+160-169
+170-179
+180-189
+N.
+2
+5
+14
+17
+22
+35
+28
+31
+32
+21
+9
+6
+1
+2
+1
+Av. C.A.
+9.5
+15.4
+10.1
+11.1
+10.1
+10.1
+9.0
+9.1
+8.5
+8.9
+7.4
+6.1
+7.0
+5.5
+2.6
+Grouping ages 2, 3, and 4 in part 1 the average I.Q. is 125.00.
+The intelligence quotients, from this point on to age 16, decrease
+in amount with an increase at the ten and eleven year levels.
+This may be a reflexion of the defective standardization of the
+Binet-Simon battery?too easy at the lower levels and too difficult
+at the higher levels. However, the number of cases in each group
+is small. The difference between the five older groups is slight.
+The regression of age on intelligence quotient seems to indicate
+that bright children are brought to the clinic younger, while dull
+children arrive older than average children. The average age of
+19 children with I.Q.'s of 140 and above is 6.5. The average age
+of the 21 children with I.Q.'s of 40 to 69 is 10.4.
+IY. Size op Sibship and I.Q.
+Part 1, Table 5, appears to show that the intelligence quotients
+of children in families with not more than two or three children are
+likely to be higher than that of children from families with more
+than three children. There is not a great deal of difference in
+S1BSHIP: INTELLIGENCE AND BEHAVIOR 101
+Table 5
+1. Regression of I.Q. on Size
+Size
+2
+3
+4
+5
+6
+7
+8
+9
+10
+12
+N.
+S7
+68
+12
+24
+15
+7
+11
+2
+4
+4
+Av. I.Q.
+115.00
+103.09
+86.82
+97.08
+89.00
+92.26
+75.00
+90.00
+82.50
+82.50
+2. Regression of Size on I.Q.
+I.Q.
+40-49
+50-59
+60-69
+70-79
+80-89
+90-99
+100-109
+110-119
+120-129
+130-139
+140-149
+150-159
+160-169
+170-179
+180-189
+N.
+4
+6
+14
+18
+21
+38
+30
+33
+30
+21
+9
+5
+o
+Size
+4.0
+5.1
+5.2
+4.2
+4.3
+4.6
+3.6
+3.3
+2.3
+3.0
+2.7
+2.4
+2.0
+2.0
+3.0
+I-Q. in families with four, five, six, and seven children. A signifi-
+cant decrease over the preceding four classifications appears in
+families with eight children. The last three classifications are too
+small to fall under consideration.
+If, as it is likely, about 75 per cent of the children who are
+brought to the Psychological Clinic are problem children, then the
+regression table would appear to indicate:
+1. That problem children are found predominately among chil-
+dren with more than average I.Q.
+2. That problem children are found predominately in families
+with not more than two or three children.
+The second conclusion is based on the fact that 37.1 per cent of
+the 234 cases are found in families with two children, 29 per cent
+in families with three children. It may be that the small family
+is a good breeding ground for problem children. This fact needs
+further investigation.
+Part 2 appears to show that size of sibship increases with di-
+minishing intelligence quotient beginning with I.Q. classification
+150-159 and extending with some irregularities to I.Q. GO-69.
+In interpreting the above table, it must be remembered that
+there is a large preponderance of boys in the 102 families studied,
+the boys exceeding the girls by 10.7 per cent.
+The children brought to the Psychological Clinic are largely
+problem children. An analysis of 65 cases seen in Dr. Witmer's
+102 TIIE PSYCHOLOGICAL CLINIC
+Clinic in the summer session of 1930 shows that 78.4 per cent were
+brought as problems of behavior or intellectual deficiency; 21.6 per
+cent, because the parents desired to obtain the mental status of their
+children. Behind this latter reason often some problem lay hidden.
+Frequently siblings are brought with the problem child. It is Dr.
+Witmer's custom in such cases to examine the siblings, so that
+data on intrafamily relations may be secured. The figure quoted
+in the foregoing paragraph would seem to indicate that problem
+children brought to the clinic show a preponderance of boys. This
+need not mean that boys are more often problem children than
+girls. It probably means that boys are brought in larger numbers.
+Girls who are problem children are more often shielded than boys.
+Y. Effect of Sex on Siblings
+Table 6
+No. of Cases Per Cent
+Case a boy
+Next older sibling a boy 39 59.0
+Next older sibling a girl 27 40.9
+Case a boy
+Next younger sibling a boy 36 59.0
+Next younger sibling a girl 25 40.9
+Case a girl
+Next older sibling a boy 27 50.0
+Next older sibling a girl 27 50.0
+Case a girl
+Next younger sibling a boy 28 48.2
+Next younger sibling a girl 30 51.7
+Table 6 shows the relation of the sex of the next older and next
+younger child in families of cases brought to the Clinic. All the
+comparisons are between children who have been examined in the
+Clinic. The nationality and size of the families have been given
+above.
+As far as conclusions may be drawn from a limited number of
+cases, the table confirms the findings of Prof. Tliurstone.1 For the
+sex of the next older or next younger child to be a boy is more
+unfavorable to the adjustment of a child if the child be male than
+if it be female. The portion of boys with a boy as a next older sib-
+ling exceeds the portion of girls with a boy as the next older sibling
+by 9 per cent. The portion of boys with a boy as the next younger
+sibling exceeds the portion of girls with a boy as the next younger
+i Tliurstone, L. L., and Jenkins, Bichard, Order of Birth, Parent-Age, and
+Intelligence. University of Chicago Press, 1931. Pp. 32-37.
+SIB SHIP: INTELLIGENCE AND BEHAVIOR 103
+sibling by 10.8 per cent. For the sex of the next older child or the
+next younger child to be a girl is more unfavorable to the adjust-
+ment of the child if the child be female than if it be male. The
+portion of girls with the next older sibling a girl exceeds the portion
+of boys with the next older sibling a girl by 9.1 per cent. The
+portion of girls with the next younger sibling a girl exceeds the
+portion of boys with a girl as the next younger sibling by 10.8
+per cent.
+Summary
+1. The mean intelligence quotient of the 226 children consid-
+ered is 106.8. The distribution shows a slight degree of negative
+skewness.
+2. In the comparison of first and second, first and third, second
+and third born, the younger child appears to be handicapped.
+There are about 82 to 85 chances in a hundred that the obtained
+difference is greater than zero.
+3. In the comparison between all younger and next older chil-
+dren there is an apparent handicapping of the younger children.
+The observed difference is completely reliable as indicating that a
+difference greater than zero has been found.
+4. There is some indication that the degree of likeness of the
+first born and second born is as great as that between all younger
+and next older children in an intrafamily comparison.
+5. There is a tendency for bright children to be brought to the
+Psychological Clinic younger; for dull children to be brought
+older than average children.
+6. It would appear that problem children are found predomi-
+nately among children of more than average I.Q. and in families
+with not more than two or three children.
+7. As far as observations on a limited number of cases go, it
+would appear that for the sex of the next older or next younger
+child to be a boy is more unfavorable for the adjustment of the
+child if the child be a male than if it be a female; for the sex of
+the next older or next younger child to be a girl is more unfavor-
+able to the adjustment of a child if it be a female than if it be a
+male.
+8. Size of sibship appears to increase with diminishing intelli-
+gence quotient.
+9. There appears to be a preponderance of boys over girls in
+cases brought to the Psychological Clinic.
+104 THE PSYCHOLOGICAL CLINIC
+B. Clinical Study
+Eleven pair of siblings were examined in the Psychological
+Clinic in the months of May and June 1931. Nine pair were the
+only children in the family; two were from families with but three
+children. All were first and second born with the exception of
+one pair which consisted of the second born and the third born
+children. In one pair, the first born child was suffering from
+what was afterward diagnosed at the University Hospital as arach-
+noiditis. He was so distractible and unmanageable that it was im-
+possible to obtain an intelligence quotient. The brother was a
+normal child with an intelligence quotient of 105.6.
+Leaving this pair out of consideration, the average intelligence
+quotient of the younger children was 123.5, and of the older was
+124.3. The intelligence quotients of the younger children range
+from 105 to 150, those of the older children from 111.5 to 137.5.
+Five of the younger were superior in intelligence to the older and
+five of the older were superior to the younger. The average dif-
+ference in intelligence quotient in favor of the older child in five
+comparisons was 16.6; the average difference in intelligence quotient
+in favor of the younger child in five comparisons was 22.9, making
+the average difference in intelligence quotient between the members
+of the ten pair 19.5.
+In eight pair there was a problem child, a case of maladjustment
+at home or school. They were all boys. Only five presented seri-
+ous problems. One was a boy of three years, four months, who
+had become unmanageable. The second was a boy of six years, six
+months, who was disobedient, uncooperative, infantile in orienta-
+tion, and displayed temper tantrums. The third was a boy of nine,
+of more than average intelligence, who was doing unsatisfactory
+work in school, showing lack of concentration of attention and such
+troublesome conduct in annoying his school mates that he was
+becoming a nuisance. The fourth was a boy of fourteen years, ten
+months, whom his teachers described as having an odd turn, who
+was difficult to handle, always reluctant and hesitating in obedience,
+too polite to be finally disobedient, yet a rebel in spirit. He co-
+operated only with such teachers as he liked; for others he refused
+to work. He was failing in school. His intelligence quotient was
+above average. The fifth was a boy of seven years, eight months,
+of superior intelligence, with an intelligence quotient of 141, in
+the second grade, doing passing work. He spent most of his time
+in school in annoying the children about him. In fact he was show-
+SIB SHIP: INTELLIGENCE AND BEHAVIOR 105
+ing considerable distaste for school and often stated that he did not
+consider school worth while. Outside of school he spent his spare
+time in reading articles in the Readers' Digest and in constructing
+mechanical toys and airplanes. Two boys presented minor prob-
+lems. Their parents regarded them as lacking in initiative and
+diffident. One of them was regarded as considerably duller than
+his sister though he exceeded her in intelligence quotient by nine-
+teen points.
+In four of the cases the next older sibling is a girl, in two cases
+the next younger is a girl, and in one case the next younger is a
+boy. The problem cases in this small group are found in a situa-
+tion contrary to the conclusion reached by a study of a larger group
+of 226 children. The boys under consideration make an unfavor-
+able adjustment when the next younger or the next older is a girl.
+This fact points in two directions: (1) It is unsafe to generalize
+from too few cases. (2) It is not wise to apply generalizations
+indiscriminately. There is no indication in the case histories that
+Would throw light upon the question as to whether the next younger
+or next older children had any direct influence in producing a
+Problem child, but there is indication in several of the cases that
+the parents' attitude toward both their children was influential in
+producing personality traits.
+Not only is there the difference in intelligence quotient that has
+already been pointed out between the two members of each sibling
+group, but there are decided personality contrasts in the case of
+eight of the pair. A girl popular with her school teachers and her
+companions, possessing much social grace as well as intellectual
+ability, is paired with a younger brother who is diffident, slow to
+adapt himself to new situations, and somewhat lacking in initiative.
+The girl is three years and three months older than her brother
+and excels him by 24.4 points in intelligence quotient. The second
+pair consists of a girl who is well poised, self-confident, aggressive,
+conscious of her superiority, and a boy who is unmanageable, not
+disciplined, asocial, and definitely spoiled. The age interval is six
+years and two months and the difference in intelligence quotient
+is 19.4 in favor of the girl. The third pair consists of a girl,
+physically attractive, socially well oriented, a favorite with her
+father and mother, a leader among her companions, and a boy,
+deliberate, more accurate than speedy, who is considered not as
+alert or brilliant as his sister. The age interval is two years and
+two months. The boy excels his sister in intelligence quotient by
+106 THE PSYCHOLOGICAL CLINIC
+19 points. In the fourth pair the boy was again discounted in
+favor of his sister. The mother describes him as diffident, timid,
+lacking in initiative. He proved to be one of the accurate, deliber-
+ate type who analysed out situations mentally before making any
+move to solve them. He has the attitude of one repressed when in
+the presence of his mother but in school asserts himself by annoying
+his mates in his spare time. The girl, the younger of the pair, on
+the other hand, is a prime favorite with her mother because she
+"conforms beautifully." The method of training the boy has been
+that of severe discipline; the girl has been stimulated by approval.
+The boy is two years older than his sister and excels her in intel-
+ligence quotient by 22.3 points.
+In the fifth pair the girl is a well-balanced personality with a
+talent for sociability and hospitality, generous in thought and ac-
+tion toward others. Her brother is disobedient, rebellious, infan-
+tile, and possessed of an unstable temper. The girl is four years
+and nine months older than her brother and surpasses him in intel-
+ligence quotient by 15 points. In the sixth pair the girl is serious-
+minded, deliberate in her actions, reserved in her manner, careful
+in her work, possessed of superior self-control, while the brother
+is a school problem, lacks concentration of attention and is disposed
+to avoid tasks that require effort. He has been antagonistic both to
+the teachers and his work, obstinate, and even at times insolent. The
+boy is one year and four months older than his sister and is inferior
+to her in intelligence quotient by 12.7 points. He stands in the
+family between two girls; his older sister, not examined in the
+Clinic, is reported to be of the conformed type and is doing well in
+school. The only case of a behavior problem where a boy is the
+next younger sibling is our seventh pair. This boy from the begin-
+ning of his school days has been maladjusted and has proved diffi-
+cult to handle in the school room, reluctant in carrying out orders,
+deliberately refusing to work for teachers whom he disliked. He
+has an unpleasant disposition and is characterized by a spirit of
+rebellion and lack of cooperation. His younger brother has an
+entirely different disposition, is interested in his school work, tries
+hard to succeed; while not aggressive, he has a good measure of
+ambition to do well. He is four years and five months younger
+than his brother and exceeds him in intelligence quotient by 12.6
+points. A third child in the family examined recently is a girl
+of five years and one month with an intelligence quotient of 157.
+In three of our pairs of siblings there appeared to be very little
+SIBSIIIP: INTELLIGENCE AND BEHAVIOR 107
+difference in personality between the two members. One pair con-
+sisted of a quiet mannered boy and girl, reflecting the culture and
+refinement of a superior Quaker home. They were both a trifle
+shy, slow to make new acquaintances, with little interest in group
+activities. Both were athletic, enjoyed swimming, riding horse-
+back, rowing a boat. Both were in need of social contacts with
+children of their own age and intellectual level. The girl is two
+years and ten months older than her brother, who excels her in
+intelligence quotient by 26.5 points. The ninth pair consisted of
+two sisters, both of whom excelled in the social graces and reflected
+the background of a home of intellectual and social excellence.
+They both showed considerable nonchalance, unwillingness to assert
+themselves in the tests, refusal to go on with a task unless more
+help, further directions were given. With both it was hard to
+establish rapport on any serious basis. They both were physically
+attractive and thoroughly likeable children. The older child ex-
+ceeded her sister in age by four years and ten months and was her
+inferior in intelligence quotient by 19 points. The last pair con-
+sists of two boys who were brought to the Clinic in order to deter-
+mine their mental status. Neither one of them was a problem.
+They were both well trained children, unspoiled by too much atten-
+tion at home, and quite unaware of their superior intelligence.
+They were receiving careful and wise training from their parents
+and were making a good adjustment both with reference to one
+another and with reference to their companions in school. The
+age interval was two years and ten months; the intelligence quo-
+tients, 150 and 128.
+A detailed study of the second, third, fourth and seventh pair
+follows.
+Helen and IIarold (No. 9330 and No. 9331)
+Helen and Harold, ages 9 years and 6 months and 3 years
+and 4 months respectively, were brought to the Psychological
+Clinic because the parents wanted to determine their mental
+status and obtain educational guidance. The social and economic
+background is good. The father is an insurance agent; the mother,
+a clerical assistant in the public schools. She explained that she
+did not exactly have to engage in commercial work, but that she
+disliked housework, and went to business to " justify herself."
+The children were brought to the Clinic by the maid.
+Helen obtained a Binet-Simon I.Q. of 139.4. Iler discernment
+108 THE PSYCHOLOGICAL CLINIC
+span, audito-vocal, was 8, visual, 9, reverse, 5. On the Witmer
+Cylinders, her first performance was superior to 20 per cent; her
+second, to 30 per cent. Iier first performance on the Dearborn
+Formboard was superior to 60 per cent; her second, to 50 per cent.
+She succeeds better in psychomotor tests that are not mechanical
+predominately. She is in the 5B grade in school. Iier arithmetic
+proficiency is 6A, spelling 5B, reading of high school competency.
+Helen is superior to the median at 11 years in height, and
+slightly inferior to the median at 13 in weight. She is sixteen
+per cent overweight for her height. She is well poised and self
+confident, speaks of her superiority to other girls in some respects
+and admits frankly that in other things they excel her. She is
+fond of outdoor games and likes to play with boys rather than
+with girls.
+Diagnosis: Normal mentality. General competency, superior
+to 99 per cent. Type, intellectual. Language ability. Recom-
+mendation : Treatment accorded a normal child. Superior educa-
+tional facilities. Prognosis for high school and college favorable.
+Harold obtained a Binet-Simon I.Q. of 120. His discernment
+span, audito-vocal, was 4. On the Witmer Formboard, a test
+at the four-year level, his rating was superior to 90 per cent on
+first and second trials. He showed good distribution of attention
+and analytical discrimination. He failed the Witmer Cylinders?
+standardized at the six-year level.
+The real reason for bringing this boy was because he was prov-
+ing unmanageable. The mother said he was "beyond her." His
+conduct in the Clinic suggested the undisciplined rather than the
+naughty boy. Placed with a group of children who are being
+taught in the Clinic, during the play hour, he proved unsocial. He
+preferred to play alone. His contact with other children in the
+group resulted in a primitive quarrel. He acted liked a child who
+was accustomed to get what he wanted when he wanted it. The
+mother admitted that his father spoiled him; that she gave him too
+little attention; that the present maid who brought the children to
+the Clinic (the mother was employed) was able to keep the boy
+wTithin limits, but that she could not make him mind.
+Average or slightly above in height and weight, with light curly
+hair, bright eyes, clear skin indicative of good health, abundant
+energy, he is a very attractive child, but suffering from lack of
+contact with his parents, being handed over to the companionship
+of a maid. He is intelligent enough to know when he must obey
+SIBSI1IP: INTELLIGENCE AND BEHAVIOR 109
+and when lie dare take liberties. The little lad needs to know that
+his happiness depends upon conformity to the demands of his en-
+vironment; otherwise he will become unmanageable and pass from
+under social control, make his life difficult for himself and burden-
+some to others. He needs the discipline of obedience in a few
+essential things. Intelligent guidance rather than sternness is
+demanded in his case.
+The diagnosis is normal mentality; general competency, su-
+perior to 80 per cent. The recommendation is immediate and co-
+operative training 011 the part of the parents, especially in the
+discipline of obedience, and reexamination when he is six years old.
+Lucy and Donald (No. 9296 and No. 9297)
+Lucy, age 14 years and 3 months, and Donald, age 12 years
+and 1 month, were brought by their mother to the Psychological
+Clinic in order to determine their mental status. The father is
+in an important executive position with a Philadelphia construction
+firm. He left school at the age of 12 and educated himself by
+reading. Both children are in good physical condition. Lucy is
+superior to the 75th percentile at 16 and Donald to the median
+at 14 in both height and weight. They reside in a neighbor-
+hood from which the American population has fast retreated before
+a colored invasion, and attend a school where their associations are
+not of their social level and where there is very little challenge for
+the abilities which both children proved they possess.
+Lucy obtained a Binet-Simon Mental Age of 16 years, 9 months,
+and an intelligence quotient of 118, which places her in a group of
+10 per cent superior to 80 per cent and inferior to 10 per cent
+according to the Witmer standards. Her discernment span, audito-
+vocal, is 7, visual, 10, and reverse, 6. On the Witmer Cylinders
+both performances were superior to 90 per cent; she showed good
+mental analysis, good analytical discrimination, and speed and
+accuracy of movement. She had good motor control and coordina-
+tion. On the Dearborn Formboard her first trial was superior to
+90 per cent, her second to 99 per cent. She apparently had the
+problem solved mentally before the instructions were completed, for
+she attacked the problem in the midst of the instructions. But for
+a slight difficulty with the diamond her performance was qualita-
+tively excellent.
+She is physically attractive, tall and blond. Some years previ-
+110 THE PSYCHOLOGICAL CLINIC
+ous she suffered from an anemic condition but with dietetic care
+this has disappeared. She is fond of out-door sports, interested
+in the activities of the Girl Scout organization. She is an om-
+nivorous reader though her reading has been largely undirected.
+In the tests she showed superior motivation, a desire to do and to
+surpass her best. She is mentally alert, quick in her analysis of
+situations, rapid in the execution of her movements. She is the
+favorite with her father and mother, who consider her superior to
+her brother. The diagnosis is normal mentality, general compe-
+tency superior to 80 per cent. The recommendations were: first,
+that her reading should be directed; and second, that she should
+be encouraged to write by keeping a diary. The prognosis for high
+school and college is good.
+Donald obtained a Binet-Simon Mental Age of 16 years, 7
+months, and an intelligence quotient of 137. His Mental Age is
+only two months less than that of his sister and his Intelligence
+Quotient is 19 points higher. His discernment span, audito-vocal,
+is 7, visual, 8, and reverse, 5. His audito-vocal span is the same as
+his sister's; she surpasses him by two points in the visual span and
+by one in the reverse. On the Witmer Cylinders Donald's first
+performance was superior to 70 per cent, his second to 60 per cent.
+In this test, which may be regarded as predominately mechanical,
+he is inferior to his sister. On the Dearborn Formboard he is her
+superior on the first trial, for his first trial as well as his second was
+superior to 99 per cent. His first performance was qualitatively
+excellent. The boy rates high not only in intellectual capacity but
+also in motor ability. Though his sister surpasses him somewhat
+in the tests that, are mechanical he surpasses her in the tests where
+the intellectual element plays a larger part. He possesses both
+good mathematical and good language ability. In the psychologi-
+cal examination he was alert and interested. While his sister
+showed quicker attack on the problems presented, Donald was more
+deliberate, thought out his procedure and excelled in accuracy.
+The contrast between the two may be put in this fashion: Lucy is
+speedy, Donald is accurate; Lucy excels in the mechanical, Donald
+in the intellectual; Lucy is impulsive, Donald is deliberate. It is
+probably Donald's deliberation before making a move that has
+given his parents the impression that he is duller than his sister.
+The diagnosis is normal mentality, general competency superior
+to 90 per cent. The recommendations are the same as in the case
+of his sister. It was suggested that, if possible, the family move
+SIB SHIP: INTELLIGENCE AND BEHAVIOR 111
+from the neighborhood in which they are now living in order that
+both children might receive the developmental advantages that come
+from association with boys and girls of their own intellectual level.
+Carl and Mary (No. 9311 and No. 9312)
+Carl, age 7 years and 8 months, and Mary, age 5 years and 8
+months, were brought to the Psychological Clinic by their mother
+April 28, 1931, in order to determine their mental status and to
+know their mental possibilities. Their father is a college graduate,
+by profession a mechanical engineer. The mother, prior to the
+marriage, was a music supervisor in a school system. The father
+is in good health, but the mother, owing to a very serious operation,
+feels that her tenure of life is insecure, and showed herself anxious
+to do her utmost to prepare the children for the future. Both
+children are in good health at present. Carl is at the median for
+10 years in height and weight, while Mary is superior to the me-
+dian for 7 years in both respects.
+Carl obtained a Binet-Simon Mental Age of 10 years, 10 months,
+and an intelligence quotient of 141.3. His discernment span,
+audito-vocal, was 5, visual, 5, reverse, 5. On the Witmer Form-
+board and Cylinders his performances were superior to 90 per cent,
+while on the Dearborn Formboard his performance was superior
+to 30 per cent on first trial, and to 70 per cent on second trial at
+the 10-year level. In the psychomotor tests he displayed good
+powers of observation, form discrimination and analysis of the
+size, number, and relation of the parts in the tests involved. In
+Young's Maze A his rating was superior to 80 per cent of boys of
+his age. In all these tests his time rating was increased, owing
+to his deliberateness in proceeding and the careful mental analysis
+that he made prior to the execution of moves. Consequently his
+performances were qualitatively excellent. False moves were rare.
+In both types of tests (academic and psychomotor) he displayed a
+well-balanced personality, his intelligence functioning equally well
+m both types of performance.
+His personality as described by his mother is characterized by
+diffidence, timidity, and a lack of initiative. This would appear
+to be a misunderstanding of this child's nature. In all the tests
+in the Clinic he displayed considerable initiative. What was iden-
+tified as deliberate forethought and planfulness would likely give
+the impression of slowness and lack of initiative. The picture that
+112 THE PSYCHOLOGICAL CLINIC
+the school gives is that of a boy who in the second grade is doing
+adequate work, but who spends his spare time in annoying the
+children about him. The boy himself has recently shown some dis-
+taste for school and wonders whether it is worth while. Recently
+his mother found him reading an article on " How I Breed Ani-
+mals " in the Readers' Digest. In his spare time he also shows
+initiative in the construction of mechanical toys and airplanes,
+planning and constructing according to his own models. This boy
+is an intelligent individual who is somewhat repressed, probably
+because his mother was anxious to bring his life into conformity
+with the social standards. She admits severity in her discipline of
+the boy. The problem is to develop a conformed type of behavior
+without destroying his initiative. In all activities he shows the
+type of initiative that is based upon careful analysis and deliberate
+foresight. In school the probability is that his work is not difficult
+enough to challenge his attention. Instead of taking eight years
+to cover the grades, it is a fair presumption that this boy could
+cover the ground acceptably in five years.
+The diagnosis was: normal mentality; general competency su-
+perior to 90 per cent and probably higher. He has a well-balanced
+personality. The recommendations were: treatment accorded the
+normal child with more opportunity for self-expression, and edu-
+cationally more advanced work.
+Mary obtained an intelligence quotient of 119. Her discern-
+ment span was audito-vocal 6, visual 6, and reverse 3. She excelled
+her brother in the forward and visual span, but her intelligence
+quotient was 22 points lower. Neither did she show the same
+ability in the psychomotor tests as her brother. Her first trial on
+the Witmer Formboard was superior to 90 per cent, but on the
+second trial it was superior to but 50 per cent. On the Witmer
+Cylinders, a test at her own age level, she failed the first trial, but
+showed considerable trainability in the second trial with a rating
+of superior to 80 per cent. She also failed the Dearborn Form-
+board. In Young's Maze A her performance was superior quanti-
+tatively to 60 per cent of children of her age, but she showed a
+striking difference of mental behavior to that of lier brother. She
+was more impulsive in her discharge of energy, and when she
+reached difficulty, instead of stopping to plan ahead, she retraced
+her steps to the beginning. The performance, however, for a 6-
+year-okl child was qualitatively good. Her mother describes her
+personality as ''conforming beautifully." She accepts responsi-
+SIB SHIP: INTELLIGENCE AND BEHAVIOR 113
+bility well, and responds to encouragement. The chief method of
+motivating her is to give her approval. Traces of this disposition
+were noticed during the testing, especially during the performance
+tests. Much time was lost in the performances by the child's
+looking at the examiner and waiting for a word of approval before
+proceeding.
+Mary is an attractive, pleasant, agreeable child and a good con-
+versationalist. It was obvious that she had been spared the stern-
+ness and severity of discipline that had been given to her brother.
+She entered a private school at the age of 5 and has made reason-
+able progress in all subjects except reading. Her reading ability
+at the close of the first year was not any better than that which the
+modal child would make in one semester. For this there are two
+causes: first, her distractibility and lack of control of attention;
+second, an infantile mutilation of speech.
+The diagnosis in the case was: normal mentality; general com-
+petency superior to 80 per cent, and the recommendations were:
+that the analytico-synthetic method be used in teaching her to read,
+phonic analysis being taught in connection with the reading situa-
+tion.
+William and Ronald (No. 9065 and No. 9066)
+William and Ronald, ages 14 years and 10 years and 5 months,
+respectively, were brought to the Psychological Clinic by their
+mother in order to obtain their mental status. The social and
+economic background is good. The father is a successful business
+man with high school education. The mother is a Normal School
+graduate and taught school for 10 years. She is also greatly in-
+terested in ward and city politics.
+William obtained a Binet-Simon intelligence quotient of 105.
+His discernment span, audito-vocal, was 7, visual, 8, reverse, 5. In
+psychomotor tests, he proved to be relatively superior in the test
+that correlates best with intellect. On the Witmer Cylinders his
+rating on first trial was superior to 40 per cent and on second trial,
+superior to 30 per cent. On the Dearborn Formboard his rating
+on first and second trials was superior to 60 per cent. He was in
+the 8B grade in school. His reading proficiency was adequate for
+his grade, but in spelling and arithmetic his proficiency was 5B.
+His school teachers thought that he had an " odd turn lie
+would not apply himself to anything uninteresting. His school his-
+tory showed that he had trouble in learning to read, being unwilling
+114 THE PSYCHOLOGICAL CLINIC
+to apply himself. Some teachers got good work out of him; others
+did not. His application varied with his own attitude to the
+teacher. He was a difficult child to handle. In fifth grade, he
+did well, rather poorly in the sixth though he made promotion.
+In the eighth grade, he progressed fairly well, enjoying history
+especially, though his motivation for school work was not keen.
+Part of the difficulty especially in arithmetic was due to the fact
+that he was trying to do the work of a grade for which he had
+not acquired the preparatory efficiencies. Promoted to the high
+school he was making grades of 7 and 6, and was definitely failing
+in Latin, perhaps in Algebra.
+His personal talent was his artistic ability. When stories were
+read to him, as a child, he would illustrate them with childish draw-
+ings. He was selected out of his grade when he was 10 years of
+age as a boy worthy of special attention because of his artistic
+ability and sent to the Art School conducted by the Public School
+authorities. He enjoyed this instruction for one year, but was
+withdrawn in order that he might spend all his time on academic
+work.
+William is slightly below the median for 12 years in height
+and weight?about two years undersize. His disposition is not very
+pleasing. He is reluctant, hesitant, too polite and well trained
+to be rebellious, yet a rebel in spirit. His non-cooperative behavior
+has made him a problem in motivation. Of average intellect, his
+school progress would be difficult enough, necessitating assiduous
+^efforts to make a creditable showing. With his present lack of
+interest and motive, the prognosis for high school is not good.
+Diagnosis: Normal mentality. Median general competency.
+Recommendation: That he return to the Art School to continue his
+art studies and receive training along the line of his personal talent.
+Ronald obtained an intelligence quotient of 127.6. His discern-
+ment span, audito-vocal, was 7, visual, 10, reverse, 4. His first per-
+formance on the Witmer Cylinders was superior to 50 per cent;
+his second, to 80 per cent. His first performance on the Dearborn
+Formboard was superior to 60 per cent; his second, to 50 per cent.
+There is not much difference between the boys in psychomotor
+ability. Both succeed better where the task is more intellectual
+than mechanical.
+In height and weight, Ronald is superior to the median at eleven
+years, but a few centimeters shorter, and a few pounds lighter than
+his brother. In disposition he is directly opposite. He has never
+S1BSI1IP: INTELLIGENCE AND BEHAVIOR 115
+been a school problem, is interested in his work, tries hard to suc-
+ceed. He is in the fifth grade. His proficiency measures show
+that lie is competent for the work of the grade. The problem with
+a boy of his intelligence?an I.Q. of 134.6 was obtained five months
+after his initial examination?is to challenge his abilities. The
+danger is that this boy will learn to work at and be satisfied with
+less than his best, A report from his mother subsequent to his
+examination would seem to indicate that he was finding an outlet
+for his energy and imagination in reenacting the "gang movies."
+Less conscientious about his school work than formerly, he spends
+more time in day dreaming. Both boys need the challenge of
+something that interests them. William with his artistic ability
+finds a good outlet in drawing and art work. For Ronald, there
+is no outlet as yet. School work does not challenge him. It should
+he harder or he will develop lazy day dreaming habits. Both
+boys are independent, able to give account of themselves in any
+situation. So they have been trained. Charles has been considered
+the family problem until now. From this time on, we venture the
+prediction that the honor will fall to Robert.
+Diagnosis: Normal mentality. General competency superior to
+90 per cent, type intellectual. Recommendation: Superior educa-
+tional facilities. Reading program adapted to his intellectual
+status. Prognosis for high school and college good.

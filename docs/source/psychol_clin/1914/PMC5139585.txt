@@ -1,0 +1,332 @@
+Experience and the Binet-Simon Tests
+=====================================
+
+By Rudolf Pintner and Donald G. Paterson,
+Ohio State U7iiversity, Columbus, Ohio.
+The ideal measuring scale would test a child's innate mental
+ability without taking into account knowledge that he may have
+acquired through experience. This is obviously an ideal that will
+never be absolutely realized. The nearer we can approach this
+ideal, however, the more reliable a scale shall we possess for the
+grading of children and adults. The Binet-Simon Scale at first
+made great claim to be immune from the influences of experience.
+Although this is, no doubt, true of many of the tests, perhaps of a
+majority of them, there seem to be a few at least that can be justly
+criticized in this respect. Without agreeing entirely with the sweep-
+ing criticisms of Ayres,1 we believe there is much to be said on this
+point, particularly with two of the tests, i.e. naming the days of the
+week and naming the months of the year.
+The days of the week was regarded originally by Binet as a
+nine year old test and the months of the year as a ten year old test.
+In the revised scale of 1911, however, Binet2 omitted some of the
+original tests and one of these is the Days test. He says, "There
+are some tests which demand knowledge that does not do any honor
+to the intelligence of a child. To know one's age, to know the number
+of one's fingers and to know how to name the days of the week proves
+above all that these simple lessons have been learned from the
+parents. We have thought it well, therefore, to omit these three
+tests." On the other hand the Months test is retained, but is made
+a nine year old test without further comment.
+Goddard's3 results on 2000 normal children for the two tests in
+question are given on the following page:?
+1 L. P. Ayres, The Binet-Simon Measuring Scale for Intelligence: Some Criticisms and Sug-
+gestions. The Psychological Clinic, Vol. V, 6, pp. 187-197.
+1 Binet, Nouvelles Recherches sur la mfaure du niveau intellectuel chez les enfants d'ficole.
+L'annie psychologique, Vol. 17, 1911; pp. 145 ff.
+3 H. H. Goddard, Two thousand children measured by the Binet Measuring Scale of Intelli-
+gence. Pedagogical Seminary, June, 1911, Vol. 18, pp. 232-259.
+(197)
+198 THE PSYCHOLOGICAL CLINIC.
+TABLE I.
+Binet
+Old Scale.
+Age
+10
+11
+12
+1X2. Days
+X 1. Months
+13
+0
+11
+1
+85
+11
+55
+48
+2
+102
+1
+14
+P=Passed, F=Failed.
+Upon these results is based to a great extent his revision of the Binet
+Scale as now generally used in this country. It seems questionable
+to the writers as to whether he is warranted in replacing the Days
+test as an eight-year-old test, when he has tested only 24 seven-year-
+olds and finds among these a percentage of 54 correct answers.
+Again with the months there are only 17 cases among the eight-year
+olds and 65 per cent of these pass. With Binet, on the other hand,
+only 20 per cent of his eight-year-olds pass this test. It is not the
+purpose of this paper to go further into this question. The uncer-
+tainty of these two tests even as they now stand for normal children
+in the approved scale, has only been mentioned in view of the results
+that have been found by the writers in work with adults.
+Even if these tests are adequate for children, are they equally so
+for adults? Is not such ordinary knowledge as is contained in know-
+ing the days and the months likely to be forced upon an adult during
+years of experience in the outside world or within the walls of an
+institution, even although the adult possesses a lower mentality
+than the child of nine or eight? In other words does not the factor
+of experience, of constant repetition of these common names, enter
+unduly into these two tests? We believe this to be the case from a
+study of 988 Binet blanks of the inmates of a large institution for
+the feebleminded.4 The results of the tabulation of these cases seem
+to point to the fact that as a feebleminded person grows older his
+ability to pass these two tests increases. The cases have been divided
+into two groups,?those below a chronological age of fifteen when
+tested, and those above fifteen when tested. Age fifteen was chosen
+arbitrarily. Tables II and III show the number of failures and
+passes in the two tests for those below and those above fifteen respec-
+tively.
+'The Ohio Institution for the Feebleminded. The authors desire here to thank Dr. E. J.
+Emerick, superintendent of the institution, for his kindness and courtesy.
+EXPERIENCE AND THE BINET-SIMON TESTS. 199
+TABLE II.
+ALL AGES BELOW 15 WHEN TESTED.
+Mental
+Age.
+3
+4
+5
+6
+7
+8
+9
+10
+Number
+of
+Cases.
+3
+21
+52
+95
+100
+72
+31
+Days of Week
+Passed. Failed
+1
+1
+14
+56
+87
+71
+31
+2
+20
+38
+39
+13
+1
+0
+0
+Percent-
+age of
+Passes.
+33
+4.
+27
+59
+87
+98.
+100
+100
+Number
+of
+Cases.
+1
+2
+19
+66
+100
+71
+31
+Months
+of
+Passed.
+0
+0
+1
+7
+35
+55
+27
+6
+Year
+Failed.
+1
+2
+18
+59
+65
+16
+4
+2
+Percent-
+age of
+0
+0
+5.3
+10.6
+35
+77.5
+87
+75
+Total.. .382
+TABLE III.
+ALL AGES ABOVE 15 WHEN TESTED.
+Mental
+Age.
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Number
+of
+Cases.
+Days of Week
+Passed. Failed
+5
+28
+50
+77
+127
+128
+101
+70
+20
+2
+4
+27
+62
+125
+128
+101
+70
+20
+3
+24
+23
+15
+2
+0
+0
+0
+0
+Percent-
+age of
+Passes.
+40
+14.3
+54
+80.5
+98.5
+100
+100
+100
+100
+Number
+of
+Cases.
+1
+15
+36
+70
+112
+128
+101
+70
+20
+Months
+of
+Passed.
+0
+2
+5
+20
+76
+118
+94
+68
+20
+Year
+Failed.
+1
+13
+31
+50
+46
+10
+7
+2
+0
+Percent-
+age of
+0
+13.3
+13.9
+28.6
+68
+92.3
+93
+97.2
+100
+Total.. .606
+Grand total. .!
+In the first column the mental age as determined by the Binet-
+Simon scale (Goddard's revision) is given, in the second column the
+number of cases, in the third column the number passing the Days
+of the Week test, in the fourth column the number failing in that test,
+and in the fifth column the percentage of cases correct for that test.
+The last four columns give the analogous data for the Months of the
+Year test.
+Looking at the percentage of passes for all ages in table II,
+it would seem that the Days test is too easy for our eight year olds,
+200 THE PSYCHOLOGICAL CLINIC.
+that it is in fact a seven year old test. The significant rise in the
+percentages is between ages six and seven, a rise from 59 to 87 per
+cent. Similarly with the months, we have the significant rise between
+the ages of seven and eight, a rise in this case from 35 to 77.5 per cent.
+We do not mean to infer that these tests are not correctly placed in
+the Binet Scale as it now stands, since it may be that these large
+percentages in ages seven and eight respectively are caused by
+children who are chronologically between ten and fifteen. What we
+are particularly interested in here is to compare the percentages
+in table II with those in table III. Here the significant rise in the
+percentages takes place one year earlier than in the first set of cases.
+For the Days test at age six we have now 80 per cent passes as com-
+pared with only 59 per cent for the younger children. For the
+Months test at age seven we have 68 per cent passes as compared
+with only 35 for the younger group. In other words we might say
+that about 80 per cent of the feebleminded adults of a mentality of
+six can pass an eight-year-old test and that 68 per cent of a mentality
+of seven can pass a nine-year-old test. This must be obviously due
+to the fact that they have come to learn or have been taught this
+commonplace knowledge. It may be in many cases a mere repetition
+of words with very little meaning content. But the point seems to be
+that it is experience alone and not mental ability that is shown. The
+inability of a child of nine or ten to pass these two tests does not
+preclude him from being able to pass them at a later date notwith-
+standing permanent mental arrest.
+If the entire scale were made up of such tests it is obvious
+that it would be of little use in testing adults. But such is not the
+case. It might seem well, however, in view of the facts we have
+called attention to in the present study, to improve the scale by
+eliminating these two tests altogether, or at least in placing them
+two years lower in a revised scale for testing subjects chronologically
+older than fifteen years.

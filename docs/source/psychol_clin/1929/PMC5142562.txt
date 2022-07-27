@@ -1,0 +1,194 @@
+Stanford Binet "Indicators" of Mechanical Ability
+==================================================
+
+G. Riley, Research Fellow, The Training School, Vineland, N.J.
+One of the common practices in clinical psychology is the use
+of the results from one test to indicate the advisability and the
+direction of further testing. The development of this method is
+largely a matter of individual clinical experience and is rarely
+validated quantitatively. This study is an attempt to make a sta-
+tistical evaluation of the items in the Stanford Binet and, inci-
+dentally, of certain performance tests that might indicate the
+presence of mechanical ability.
+The theory that general intelligence and mechanical ability are
+distinct traits is consistently confirmed by the low correlations found
+between tests of intelligence and mechanical ability. Almost all of
+these studies are based on the total score or verbal "pencil and
+paper" type of intelligence test. Because of the variety of tests
+in the Stanford Binet, which presumably taps many functions, some
+might be sufficiently prognostic of the presence of mechanical ability
+to be of practical clinical value. The Stanford Binet has the
+further advantage in that it is more frequently used as the base
+of a test battery than any other test.
+Performance tests seem to require, in common with tests of
+mechanical ability, speed of activity, motor coordination, manipu-
+lative skill, and a certain ability "to see relationships of a concrete
+nature." From this overlapping in the functions necessary for
+these two types of tests a higher correlation between them might
+be anticipated than with Binet and mechanical ability, and so be of
+greater prognostic value.
+The Arthur Performance Scale1 was used in this study. It
+is composed of nine tests (in this experiment the Kohs was omitted
+to conserve time) : Knox Cube, Seguin, Two Figure, Casuist, Mani-
+kin and Feature Profile, Mare and Foal, and Healy I?Picture Com-
+pletion. The scores were obtained by applying a differentiating
+formula to the norms of Pintner and Paterson2. This weights the
+1 Arthur, Grace: A New Point Performance Scale?Journal of Applied
+Psychology, 1925, 9: 390.
+'Pintner, B., and Peterson, D. G.: A Scale of Performance Tests.
+"INDICATORS" OF MECHANICAL ABILITY 129
+tests according to their ability to separate an age level from the suc-
+ceeding one. The tests are combined into a scale by taking the
+Median mental age.
+As a test of mechanical ability the Minnesota Assembly3 was
+Used. This is a revision of the Stenquist Assembly. It is arranged
+in three boxes containing thirty-three common mechanical objects.
+There are to be put together correctly, as rapidly as possible. The
+time is cumulative for each box and the score is from zero to ten for
+each object.
+The reliability and validity of this test are comparable to the
+Results obtained for intelligence tests. The correlation of odd and
+even items raised by Brown's formula gives a reliability coefficient
+for the total scale of plus 94. The criterion of mechanical ability
+used was the quality of the boy's work in shop graded in a semi-
+?bjective way against certain standard objects. This correlation
+was plus 55.
+The subjects of this study were sixty-five boys from the Henne-
+pin County Probation Office. The usual procedure in giving an
+individual test battery was employed. Special care was taken to
+establish rapport because of the type of subjects and to avoid fatigue
+because of the length of the examination (about three hours).
+The life ages of these boys extended from 10 to 17 years (median
+14.0 years). Their mental ages on the Binet ranged from 8.0 to
+18-5 years (median 12.1 years) and on the Arthur Performance
+Scale from 9.0 to 15 plus years (median 13.0 years). On the
+Assembly they made scores from 160 to 320 (median 255).
+Their scores on all tests were in line with other findings, keep-
+ing in mind the selection and small number of cases. Although
+the distribution is not normal, this would not materially vitiate the
+results for the purpose of this study. A wide variation might do so,
+but this as indicated by the standard deviation of the Binet I.Q.s is
+13, which is similar to Terman's result and identical with the pupils
+?f one of the city high schools.
+A summary of the correlations computed from these data is
+given in Tables I and II.
+As shown by the intercorrelation of the various boxes, the
+Minnesota Assembly shows a reliability comparable to the coefficients
+at its formation. In its standardization two boxes of ten items each
+3 Anderson, D., Paterson, D. Gr., et al: Tests of Mechanical Ability
+(manuscript).
+130 THE PSYCHOLOGICAL CLINIC
+gave a correlation of 63. The average in the present study for the
+three boxes is 66 (Table I).
+The low correlation (r 13, life age constant) between the Binet
+M. A. and the Minnesota Assembly in consistent with other findings
+and confirms the "unique trait" theory.
+As was anticipated, the Arthur Performance Scale gave an
+appreciably higher correlation than the Binet with the Assembly
+(r 44, life age constant). This is 11 points higher than the corre-
+lation with the Stanford Binet. If the validity and reliability of
+the Arthur Performance Scales were known, this might have certain
+theoretical implications regarding the nature of intelligence.
+The individual tests of the Arthur Performance Scale show
+some range in their correlation with the Minnesota Assembly (r 42 to
+13). The Knox Cube (r 52) and the Casuist (r 40) show the highest
+coefficients and therefore are the most valid indicators of mechanical
+ability as measured by the Minnesota Assembly.
+Considering the separate items on the Stanford Binet, the
+scores (passes and failures) form a series of dichotomous measures
+which are to be compared with a series of graduated measures, and
+so the biserial r method was used. Correlations were not calculated
+for tests having less than ten passes or failures. The results (Table
+II) show a rather wide range (58 to ?14). In general the verbal
+and memory tests show little relationship with mechanical ability
+while the problem and perceptual tests are fairly close, although
+the clock test is an exception to the latter statement.
+The ten tests in the Binet showing the highest correlation with
+the Assembly (starred in Table II) were combined into a scale by
+adding up the number of mental ages represented in the scattering
+in each case. This was expressed as a per cent of the possible starred
+tests in the scattering and the results correlated by the product
+moment method with the Assembly. As this gave a correlation of
+only 45, the complexity of its formation would not warrant the
+slight gain in validity.
+The application of these findings to clinical procedure may be
+illustrated by the situation which originated the study. Part of the
+subsidiary work for the Minneapolis Child Guidance Clinic consists
+in a brief study of certain cases from the County Probation Office.
+The minimum psychometric datum is a Stanford Binet. The sched-
+ule allows about an average of forty-five minutes for additional test-
+ing.
+"INDICATORS" OF MECHANICAL ABILITY 131
+Studying the Binet scores on some two hundred cases shows
+there is a bimodality in the distributions of I.Q.s. The high points
+occur at 85 and 105. This, with other data, suggests that one of the
+chief factors in the delinquency among these boys is that they have
+reached their academic limit. In such cases the advisability of their
+transfer to a vocational or trade school is the paramount problem.
+This in turn raises the question of their mechanical ability. As
+there is insufficient time to give every case the Assembly Test, which
+takes an hour, it can only be used in cases where is will be of positive
+prognostic value. This will be indicated by comparing the "scat-
+tering" on the Binet with the correlations in Table II. If the
+highest tests passed are those showing the highest correlations (the
+starred tests), or if a high score is made on the Knox Cube and
+Casuist, the Assembly Test should be given to obtain confirmation of
+the presence of mechanical ability.
+Table I
+Correlations N-65
+Inter-correlations of the Minnesota Assembly
+Box A?Box B r equals 61? .05
+Box A?Box C r equals 63? .05
+Box B?Box C r equals 73? .04
+Life Ages and Tests
+Life Age?Stanford Binet r equals 55? .07
+Life Ago?Arthur Performance Scale r equals 49? .07
+Life Age?Minnesota Assembly r equals 42? .07
+Partial Correlations (Life Age Constant)
+Stanford Binet (MA.)?Arthur Performance Scale (score) r equals 39? .07
+Stanford Binet (MA.)?Minnesota Assembly r equals 13? .08
+Arthur Performance Scale (score)?Minnesota Assembly r equals 44? .07
+Arthur Performance Tests?Minnesota Assembly
+Knox Cube?Minnesota Assembly r equals 52? .07
+Casuist?Minnesota Assembly r equals 40? .07
+Two Figure?Minnesota Assembly r equals 34? .07
+Feature Profile?Minnesota Assembly r equals 24? .08
+Knox Cube?Minnesota Assembly r equals 18? .08
+Seguin?Minnesota Assembly r equals 17? .08
+Healy Pictorial I?Minnesota Assembly r equals 13? 08
+132 THE PSYCHOLOGICAL CLINIC
+Table II
+Biserial r's between Stanford Binet (test items) and Minnesota Assembly
+Scores
+Test Year Name r
+10 *1 Vocabulary .38
+2 Absurdities ?
+*3 Designs .58
+4 Beport ?
+5 Comprehension .03
+6 Sixty Words .14
+12 1 Vocabulary .25
+2 Abstract Words .26
+*3 Ball and Field .31
+4 Dissected Sentences .11
+*5 Fables .37
+6 (Six) Digits Backwards .16
+*7 Pictures .40
+8 Similarities .18
+14 1 Vocabulary .20
+*2 Induction .33
+3 Difference of President and King .24
+4 Problems .14
+*5 Arithmetic .33
+6 Clock Test .21
+16 1 Vocabulary ?
+2 Fables .28
+3 Differences of Words .21
+*4 Problem Boxes .42
+5 (Seven) Digits Backwards .09
+*6 Code .30
+18 *2 Binet?Paper Cutting .33
+3 (Eight) Digits .11
+Mean .24
+Scale of starred tests?Minnesota Assembly r equals 45? .07
+* Tests used in forming scale to indicate mehanical ability.

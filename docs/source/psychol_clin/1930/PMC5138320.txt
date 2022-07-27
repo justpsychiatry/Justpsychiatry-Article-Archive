@@ -1,0 +1,155 @@
+The Status of Tests for the Measurement of Clerical Aptitude
+=============================================================
+
+By Roy N. Anderson
+Associate in Guidance and Personnel, Teachers College, Columbia University
+The past two decades have brought forth considerable activity
+in the measurement or testing of a variety of supposed personal
+traits and, from the results of these tests, predictions are being made
+regarding the possible achievements of the individuals tested.
+Among the proposed tests a considerable number have been
+devised for the detection of "clerical aptitude". In combing the
+literature over sixty articles on such tests have been found. The
+length and content of the articles range from a few pages of general
+information with a title "Empty Heads Make Poor Clerks" to a
+volume entitled "A Diagnostic Test of Aptitude for Clerical Office
+Work." Of the articles in this group only fourteen present data rela-
+tive to the specific testing procedures involved in the measurement
+of clerical aptitude.2
+Just because a test is called a test of clerical aptitude is no
+guarantee that it measures such aptitude. No matter how interest-
+ing the title of the test sounds, we must critically examine its funda-
+mental concepts and structure. We must insist that it conform to
+the requirements that embrace scientific procedure. Fortunately
+these scientific principles are rather clearly defined. Let us enumer-
+ate them and see how this group of so-called tests of" clerical apti-
+tude" meet their requirements.
+It is generally agreed that before a test can be shown to measure
+a given aptitude, it must be given to persons known to possess that
+aptitude, and their standings in the test must correspond with
+their working proficiency. The question that always perplexes the
+investigator is: What shall I use an an index of their proficiency?
+In technical terms, what shall be the criterion?
+The criterion, according to Burtt, "is an index of occupational
+proficiency which is used in evaluating the tests designed to predict
+that proficiency."3 If the criterion is inadequate then the test can
+1 An address given at the meeting of the National Vocational Guidance
+Association, Feb. 21, 1930, Atlantic City, N.J.
+2 For full description of tests see Anderson, Roy N. Measurement of
+Clerical Ability?The Personnel Journal, Vol. VIII, No. 4, Dec. 1929.
+3 Burtt, Harold E., Employment Psychology, Houghton Mifflin Com-
+pany, New York, 1926, p. 169.
+TESTS OF CLINICAL APTITUDE 215
+have no proven validity. A valid criterion is admittedly hard to
+obtain. What should one use as a measure of the proficiency of a
+clerical worker? When we attempt to define clerical work we are
+amazed at its ramifications, ranging from the activities performed
+by the humble file clerk to the duties performed by the expert secre-
+tary. One investigator found thirty different titles assigned to clerks.
+With such a diversity of activities and unstandardized pro-
+cedures it is extremely difficult to secure measures of proficiency.
+Hull lists three types of aptitude criteria4: 1. Product; for example,
+the number of entries made in a ledger. 2. Action; for example, the
+time required to file a given number of cards. 3. Subjective impres-
+sion. This is generally obtained by having the workers rated by one
+or more superiors.
+Let us examine the so-called tests of "clerical aptitude" and
+see whether they fulfil the demands of scientific procedure. Though
+there were in the literature examined fourteen tests, four of this
+number did not publish information concerning their criteria of
+vocational success. Of the remaining ten, one test utilized a criterion
+consisting of production: efficiency was determined in terms of
+speed and accuracy. Eight tests used criteria which Hull would call
+subjective impressions, the ratings being made in most cases by
+department heads or supervisors. One test utilized scores on other
+performance tests.
+The second respect in which we should examine these tests is
+in regard to their reliability. That is, does an experimenter obtain
+the same results every time he administers the test? Since a test is
+at best only a sample of the aptitude which is being measured, this
+sample should be as representative as possible. The measure of reli-
+ability is generally given in terms of a coefficient of correlation. The
+correlation coefficient should be .90 or above. Only two of the four-
+teen investigators whose tests were examined reported an index of
+reliability. In one case it was .82 + .02 and in the other investiga-
+tion reliabilities of .49 (one test) and .26 (in another) were reported.
+It is inconceivable that this fundamental procedure was not fol-
+lowed out in the construction of the other twelve tests.
+The third fundamental requirement in scientific method is to
+ascertain the validity of the test. This is determined by comparing
+the scores received on the test with the scores received on the criter-
+ion. One must prove that the persons who stand high in the test
+4 Hull, Clark L., Aptitude Testing, World Book Company, Yonkers,
+New York, 1928, pp. 375-376.
+216 THE PSYCHOLOGICAL CLINIC
+stand high on the criterion, which is supposed to be a measure of
+occupational proficiency, and that those who stand low in the test
+stand low on the criterion. The method usually employed is to com-
+pute some index of correlation. It is generally expressed by the
+Pearson r, but this measure is valid only if the relationship is recti-
+linear. With a curved regression line the correlation ratio or eta
+is the preferable method.
+There is a misunderstanding as to how high the correlation
+coefficient should be in order to be "significant." Some investigators
+point to a correlation coefficient of .50 as "high" where as it may be
+really only "significant." Statisticians generally require a correla-
+tion of .70 or more to indicate a high degree of relationship. Table
+I shows the size of the various correlations reported:
+Table I
+5 tests had correlations between 30-40
+6 tests had correlations between 40-50
+1 test had correlations between 50-60
+5 tests had correlations between 60-70
+2 tests had correlations between 70-80
+1 test had correlations between 80-90
+Here we see that only three of the correlation coefficients are
+above the minimum generally required.
+The validity of a test is dependent not only on the size of the
+correlation coefficient, but also upon the reliability of the coefficient.
+This in turn depends on the number of cases used. Some of the in-
+vestigators do not even report the number of cases on which they
+standardized the test. Of those listed, the number of cases are 43,
+50, 55, 90, 100, 188, 200. The number in some of the investigations
+is probably so small as not to constitute an adequate sampling.
+Statisticians say that an investigator should furnish figures re-
+garding the "probable error" of his data in order to permit others to
+check and verify the findings, and also to enable other investigators
+to determine what the chances are that any other sample taken at
+random will fall within the proper limits. In order that we may be
+sure there is some correlation present, the coefficient of correlation
+should be at least four times its probable error. Only four of the
+studies listed "probable errors" with their findings.
+In discussing the use of correlations in examining the validity
+of a test, we might call attention to a misunderstanding many peo-
+ple seem to have regarding a high correlation. They assume that it
+is indicative of causal relationship supposing, that because two things
+TESTS OF CLINICAL APTITUDE 217
+show a high correlation, one is the cause of the other. Such a
+dependence does not necessarily hold true. Granting that there is
+dependence, there is always the possibility that there is a third fac-
+tor on which both depend and hence even with a high correlation,
+we dare not assert that a test really measures the aptitude for which
+we are searching.
+Summary
+After this careful scrutiny of the clerical tests which have been
+recommended for use, one is impressed with the valiant attempts
+that have been made, but one is obliged to admit that most of them
+have failed to produce tests which are scientifically defensible.
+The vocational counselor who desires to use these tests will
+find them of little or no value. We should, however, distinguish be-
+tween tests for the measurements of "aptitude for clerical work
+and tests for the measurement of proficiency in clerical work. "An
+aptitude test is a test designed to discover what potentially a given
+person has for learning some particular vocation or acquiring some
+particular skill." (Hull)5 AVhile not one of these tests can lay clear
+claim to be an aptitude test, some of them, which may have been
+designed to measure acquired skill, may perhaps be legitimately
+classed as proficiency tests.
+A further distinction should be drawn between the value of
+tests in vocational guidance?helping a person to choose a vocation,
+and vocational selection?selecting a worker for a job. A few of
+these tests may be useful in vocational selection (probably because
+they measure learned skills), but that does not render them equally
+valuable in vocational guidance and it does not prove that they de-
+tect "clerical aptitude."
+6 Clark L. Hull, op. cit., p. 50.

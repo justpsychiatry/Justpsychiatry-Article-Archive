@@ -1,0 +1,13 @@
+======
+1971
+======
+
+:ref:`mind_ment_health_mag`
+
+.. toctree::
+   :caption: Articles
+   :glob:
+
+   PMC*
+   *
+...

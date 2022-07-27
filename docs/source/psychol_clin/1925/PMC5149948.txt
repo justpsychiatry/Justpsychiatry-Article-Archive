@@ -1,0 +1,85 @@
+The Relationship Between Suggestibility and Intelligence in Delinquents
+=========================================================================
+s
+John A. McGeoch
+Assistant Professor of Psychology, Washington University
+Two tests of suggestibility?the size-weight illusion and the
+progressive weights1?were given to thirty-five of the delinquents
+brought to the St. Louis Psychiatric Clinic2 for examination during
+January and February, 1924. The Stanford Revision of the Binet-
+Simon Intelligence Scale was given to each as part of the routine
+work of the clinic. The suggestibility tests were given at the same
+sitting as the intelligence test, and according to the standard direc-
+tions cited by Whipple3. The size-weight illusion was scored in
+terms of the difference in weight, in grams, between the two com-
+parison blocks which the subjects selected as being equal in weight
+to the two standard blocks. The progressive weights were scored in
+terms of the number of times the judgment "heavier" was given in
+the last ten judgments. The I.Q.'s of the group range from 37 to
+106, the average being 72.7, P.E. 18.2.
+The correlations between the suggestibility scores and those
+made on the Stanford Revision are of some significance, and afford
+interesting data on a problem about which too little is known. In
+some cases high suggestibility seems to be one of the factors under-
+lying delinquency, and it is worth while to know how suggestibility
+relates with intelligence. The coefficients of correlation (Pearson's
+product-moment formula) are given below.
+I. Q. with size-weight illusion r. = -.150 ? .110
+I. Q. with progressive weights r. = -.472 ? .087
+M. A. with size-weight illusion r. = -.118 ? .111
+M. A. with progressive weights r. = -.421 ? .098
+Size-weight illusion with progressive weights r. = -.005 ? .113
+From these coefficients of correlation it appears that the rela-
+tionship between the I.Q. and the size-weight illusion scores is
+small and inverse, with a P.E. which indicates that it is negligible.
+The relationship between I.Q. and progressive weight scores, how-
+ever, is inverse and moderately high. When mental ages, instead
+of I.Q., is used, the same general relationship obtains between them
+1 The weights used were, in both cases, the standard ones furnished by
+C. H. Stoelting Co.
+2 Under the direction of Dr. William Nelson.
+3 Whipple, G. M. Manual of Mental and Physical Tests, Baltimore, War-
+wick and York, 1921, Vol. 2.
+134 THE PSYCHOLOGICAL CLINIC
+as between suggestibility and I.Q. The correlation between the two
+suggestibility tests themselves is practically zero, which bears out
+Scott's conclusion that there is no general suggestibility.4
+If, in the case of the progressive weights, the times that the
+judgment "heavier" is given and the times that the judgment
+"lighter" is given are added together and correlated with I.Q. and
+size-weight illusion, the following results appear:
+I. Q. with progressive weights, H plus L r. = -.486 ? .086
+Size-weight illusion with progressive weights H
+plus L r. = -.048 ? .113
+The correlations here are only slightly higher than when the
+"heavier" judgments are used alone.
+Inspection of the scatter-diagram shows that, for both suggest-
+ibility tests, the relationship between I.Q. and suggestibility is
+greater at the ends of the I.Q. distribution. The force of this can
+also be seen, if the suggestibility scores of those cases falling in the
+upper and lower ten per cent of I.Q.'s are considered. The figures
+are as follows:
+Lowest 10 per cent in I. Q.
+Size-weight average  51.00
+Progressive wt. aver  10.00
+Highest 10 per cent in I. Q.
+Size-weight average   32.00
+Progressive wt. aver  2.70
+The cases involved were unequally divided as to sex, there
+being twenty-six boys and nine girls, but, as they stand, the girls
+appear distinctly more suggestible than the boys. The averages of
+the I.Q.'s for the two sexes differ by only two points. The follow-
+ing table expresses the sex differences.
+Cases Size-weight illusion Progressive weights
+Boys 26 38.4 5.1
+Girls 9 40.0 8.1
+Summary
+In the group studied, the relationship between suggestibility
+and intelligence is inverse. It is moderately high and inverse in
+the case of the progressive weights and slight in the case of the size-
+weight illusion, the inverse relationship being greater in both in-
+stances at the ends of the intelligence distribution. The girls ap-
+pear more suggestible than the boys, the difference being greater
+with the progressive weights.
+4 Scott, W. D. Personal Differences in Suggestibility, Psychol. Rev. 1910,
+17:147-154.

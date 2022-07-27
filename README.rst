@@ -1,15 +1,14 @@
-ICD-11
-======
- 
- :Copyrights: World Health Organization 2022
+Justpsychiatry Article Archive
+===============================
 
-  Some rights reserved. This work is available under the Creative Commons Attribution-NoDerivatives 3.0 IGO license (CC BY-ND 3.0 IGO; (https://creativecommons.org/licenses/by-nd/3.0/igo/)).
+This is a collection of articles in the feild of psychiatry and psychology transformed and shared for high readability and accessibility. 
 
-  The use of ICD-11 in software products is subject to the following license: https://icd.who.int/en/docs/ICD11-license.pdf
-
-.. admoniton:: Citation
-   International Classification of Diseases Eleventh Revision (ICD-11). Geneva: World Health Organization; 2022. License: CC BY-ND 3.0 IGO.
 
 .. toctree::
-    :caption: Contents
-    :maxdepth: 5
+   :glob:
+   :caption: Contents
+   :maxdepth: 5
+    
+    
+    
+:Copyrights: The copyrights of individual articles vary; some articles are in the public domain, others open-access commercial use, or open-access non-commercial use. please check the original article for copyright information of each article while we are working to add them here. 

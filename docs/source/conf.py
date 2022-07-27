@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ICD-11-RTD'
+copyright = '2021, WHO'
+author = 'WHO'
 
 release = '0.1'
 version = '0.1.0'

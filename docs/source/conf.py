@@ -32,7 +32,6 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinxcontrib.bibtex',
     'sphinxcontrib.apa',
-    'sphinxprettysearchresults',
     'myst_parser',
     'sphinx_rtd_theme',
 ]

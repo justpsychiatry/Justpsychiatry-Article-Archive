@@ -15,9 +15,10 @@ Welcome to Justpsychiatry Article Archive!
    ./stud_ment_ineffic/index.rst
    ./ment_welf/index.rst
    ./psychol_clin/index.rst
-   ./j_psychol_med_ment_pathol_(lond)/index.rst
+   ./j_psychol_med_ment_pathol_lond/index.rst
    ./j_psychol_med_ment_pathol/index.rst
    ./ment_health_lond/index.rst
+   ./j_pak_psych_soc/index.rst
    ./plos/index.rst
    
 

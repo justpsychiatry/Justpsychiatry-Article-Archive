@@ -1,7 +1,9 @@
 
 .. _j-psychol-med-ment-pathol-lond:
+
+==============================================================
 Journal of Psychological Medicine and Mental Pathology (London)
-===============
+===============================================================
 
 
 

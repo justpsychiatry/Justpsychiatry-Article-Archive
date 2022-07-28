@@ -2,7 +2,7 @@
    sphinx-quickstart on Wed Jul 20 00:15:05 2022.
    You can adapt this file completely to your liking, but it should at least credit Justpsychiatry 
 
-.. _home:
+
 Welcome to Justpsychiatry Article Archive!
 ==========================================
 
@@ -20,7 +20,7 @@ We intend to clean up the articles, add metadata, structure and objects (images,
    ./j_psychol_med_ment_pathol_lond/index.rst
    ./j_psychol_med_ment_pathol/index.rst
    ./ment_health_lond/index.rst
-   ./j_pak_psych_soc/index.rst
+   ./J_pak_psych_soc/index.rst
    ./plos/index.rst
    
 

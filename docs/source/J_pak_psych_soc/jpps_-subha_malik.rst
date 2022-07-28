@@ -1,5 +1,7 @@
-   Department of Gender and Development Studies Lahore College for Women
-   University Lahore, Pakistan
+================================================================================================
+Department of Gender and Development Studies Lahore College for Women University Lahore, Pakistan
+=================================================================================================
+
 
 +-----------------------------------------------------------------------+
 | Submitted: February 04, 2021                                          |
@@ -10,10 +12,12 @@
 
 **CORRESPONDENCE: DR. SUBHA MALIK** E-mail: subhamalik@yahoo.com
 
-   **ABSTRACT**
 
-OBJECTIVE 
-==========
+**ABSTRACT**
+=============
+
+   OBJECTIVE 
+   ==========
 
    To examine reasons behind psycho-social challenges and
    violence/harassment related issues faced by female nurses in
@@ -23,14 +27,14 @@ OBJECTIVE
 
    Mixed Method Correlational research.
 
-PLACE AND DURATION OF THE STUDY
-===============================
+   PLACE AND DURATION OF THE STUDY
+   ===============================
 
    The study was conducted during March-May 2019 at public and private
    hospitals of Lahore.
 
-SUBJECTS AND METHODS
-====================
+   SUBJECTS AND METHODS
+   ====================
 
    Sexual Harassment Experience questionnaire was used for quantitative
    analysis for which 250 female nurses from public/private hospitals
@@ -38,8 +42,8 @@ SUBJECTS AND METHODS
    were conducted on a sample of 20 female nurse participants, 10 each
    from public and private hospitals.
 
-RESULTS
-=======
+   RESULTS
+   =======
 
    Independent sample t test showed that private hospital nurses were
    facing more gender based harassment and sexual coercion as compared
@@ -47,21 +51,21 @@ RESULTS
    major themes comprising of factors affecting performance, lack of
    facilities, coping tactics and psychosocial issues.
 
-CONCLUSION 
-===========
+   CONCLUSION 
+   ===========
 
    In a culture where giving voice to sexual harassment turns into
    stigma, it is difficult for nurses to report their problems which can
    influence their professional or personal growth.
 
-KEY WORDS 
-==========
+   KEYWORDS 
+   ==========
 
-   Psycho-social challenges, Gender harassment, Sexual attention, Sexual
+   Psychosocial challenges, Gender harassment, Sexual attention, Sexual
    coercion
 
-INTRODUCTION 
-=============
+   INTRODUCTION 
+   =============
 
    Social Policy Statement of Nursing outlines that nursing as an
    occupation has a social contract with society. The nurses contribute
@@ -102,8 +106,9 @@ INTRODUCTION
    meta-analysis of electronic databases to identify the prevalence of
    sexual harassment of nurses and nursing students. The results
    revealed that there was prevalence of sexual harassment that was
-   significantly associated with negative consequences\ :sup:`7`. Hence
-   the objectives of the present study are;
+   significantly associated with negative consequences\ :sup:`7`. 
+   
+   Hence the objectives of the present study are:
 
 1. To identify the different types of violence and harassment prevalent
    from which nurses suffer in public and private hospitals.
@@ -123,8 +128,8 @@ INTRODUCTION
 SUBJECTS AND METHODS
 ====================
 
-Participants
-------------
+ Participants
+ ------------
 
    A mixed method research design was used in present study. In
    quantitative phase, survey method was used to collect data from 250
@@ -148,14 +153,14 @@ Instruments
    for in-depth information from nurses of private/public hospitals.
    Thematic analysis was done on the obtained data.
 
-Procedure
----------
+ Procedure
+ ---------
 
    Researcher took permission for collecting data from the hospital
    administration after BOS approval of the study. In qualitative phase
 
-Table 1 
---------
+ Table 1 
+ --------
 
    Demographic information of nurses.
 
@@ -183,10 +188,8 @@ RESULTS
    *(M=9.71, S.D=3.37)* and were more exposed to SC *(M=9.38, S.D=2.95)*
    as compared with public hospital nurses *(M=8.42, S.D=3.01)*.
 
-Independent sample t test could not find significant differences in SA
-between public and private sector nurses (see table 2 for
-
-details).
+  Independent sample t test could not find significant differences in SA
+  between public and private sector nurses (see table 2 for details).
 
 +--------------------+------------+-----------+-----------+-----------+
 |    *               |            |           | **Nurses  |           |
@@ -441,7 +444,6 @@ DISCUSSION
    organizes seminars and conferences on gender and employee rights
    awareness but this is a*
 
-*PAGE 18 APRIL - JUNE 2021 VOLUME 18 NUMBER 2*
 
    *patriarchal society where the boss is a male”. "Equality should
    exist between the two sexes, with both men and women privileged'.*
@@ -508,11 +510,8 @@ CONCLUSION
    harassment, gender inequity/inequality because of lack of practice/
    availability of appropriate policies by administration, while public
    hospital nurses were more vulnerable to antagonistic issues including
-   disrespectful and rude behavior/attitude but due to security of
-
-*APRIL - JUNE 2021 VOLUME 18 NUMBER 2*
-
-   permanent job and better leave structure they faced less financial
+   disrespectful and rude behavior/attitude but due to security of permanent 
+   job and better leave structure they faced less financial
    complications.
 
 REFERENCES
@@ -575,31 +574,14 @@ REFERENCES
     baseline. International Journal for Quality in Health Care. 2010;
     22(5): 386-395.
 
-1. Dr. Subha Assistant Professor, Supervisor,
+.. admonition:: About the Authors
+   
+   1. Dr. Subha Assistant Professor, Supervisor, Malik Incharge Department of Gender conception and Development Studies, Lahore reviewing final draft College For Women University, of the paper, & Lahore, Pakistan Correspondent
 
-Malik Incharge Department of Gender conception and
+    2. Mahnoor MS Student of Gender and Research write up Iftikhar Development Studies Department, designing & data Lahore College For Women collection University, Pakistan
+    
+    3. Maryam Lecture Assistant, Department of Paper write up & Zafar Gender and Development Studies, formatting Lahore College For Women University, Lahore, Pakistan
 
-   and Development Studies, Lahore reviewing final draft College For
-   Women University, of the paper, &
-
-Lahore, Pakistan Correspondent
-
-2. Mahnoor MS Student of Gender and Research write up Iftikhar
-   Development Studies Department, designing & data
-
-Lahore College For Women collection
-
-   University, Pakistan
-
-3. Maryam Lecture Assistant, Department of Paper write up &
-
-Zafar Gender and Development Studies, formatting
-
-   Lahore College For Women
-
-   University, Lahore, Pakistan
-
-*PAGE 19*
 
 .. |image1| image:: media/image1.jpg
    :width: 0.57475in

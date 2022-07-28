@@ -1,16 +1,14 @@
-7
 
-**ORIGINAL AR IC.LE·**
-
-   **GEAND VERBALIZING-VISUALIZING COGNITIVE STYLES DIFFERENCE AMONG
-   HEARING IMPAIRED STUDENTS**
+===========================================================================================
+Age And Verbalizing Visualizing Cognitive Styles Difference Among Hearing Impaired Students
+===========================================================================================
 
 IFFAT BATOOL, NUSRAT BATOOL, FAKHER ELAHI, SHAHRUKH TARIQ
 ---------------------------------------------------------
+  Department of Psychology, GC University, Lahore.
+  **CORRESPONDENCE: IFFAT BATOOL,** E-mail: driffatbatool@gmail.com
 
-   Department of Psychology, GC University, Lahore.
-
-   **CORRESPONDENCE: IFFAT BATOOL,** E-mail: driffatbatool@gmail.com
+:Type:**ORIGINAL ARTICLE·**
 
 ABSTRACT
 --------
@@ -20,36 +18,33 @@ ABSTRACT
    The present research aims to identify the individual difference in
    cognitive styles and age groups of hearing impaired students.
 
-STUDY DESIGN
-------------
+   **STUDY DESIGN**
 
    Cross-sectional research design.
 
-PLACE AND DURATION OF STUDY
----------------------------
+   PLACE AND DURATION OF STUDY
+   ---------------------------
 
    This study was conducted at Government College for the Deaf and Dumb,
    Gung Mahal, Gulberg, Lahore in approximately one year.
 
-SUBJECTS AND METHOD
--------------------
+   SUBJECTS AND METHOD
+   -------------------
 
    Thirty one (n = 31) hearing impaired students participated in the
    research through purposive sampling technique. The mean
-   ageofsamplewas21.2years (SD
+   ageofsamplewas21.2years (SD = 1.92; age range 19-27).
 
-   = 1.92; age range 19-27).
-
-RESULTS
--------
+   RESULTS
+   -------
 
    Results indicated significant mean difference existed between the
    cognitive styles that hearing impaired used, but no significant mean
    difference on cognitive styles was found between the age groups in
    hearing impaired.
 
-CONCLUSION
-----------
+   CONCLUSION
+   ----------
 
    The study explored mean differences in cognitive styles and age
    groups of hearing impaired students on a computerized Verbal Imagery
@@ -57,11 +52,12 @@ CONCLUSION
    impaired students exhibit significant differences in cognitive styles
    which are used in education for learning, comprehension, and reading.
 
-KEYWORDS
---------
+   KEYWORDS
+   --------
 
    Cognitive styles, Verbalizing-visualizing Cognitive styles, Hearing
    impaired.
+...
 
 INTRODUCTION
 ------------
@@ -447,18 +443,10 @@ REFERENCES
    Presentation on Learning Performance. British Journal of Educational
    Psychology 1993; 63: 297-307.
 
-3. Riding RJ, Caine T. Cognitive style and GCSE performance in
-
-..
-
-   mathematics, English language and French. Educational Psychology
+3. Riding RJ, Caine T. Cognitive style and GCSE performance in mathematics, English language and French. Educational Psychology
    1993; 13: 59-67.
 
-4. Paivio A. Images in mind: The Evolution ofTheory in New York,
-
-..
-
-   USA 1991.
+4. Paivio A. Images in mind: The Evolution ofTheory in New York, USA 1991.
 
 5. Paivio A. Mental Representations: A Dual Coding Approach in New York,
       USA 1986.
@@ -470,11 +458,7 @@ REFERENCES
 7. Riding RJ, Rayner S. Cognitive Styles and Learning Strategies in
    London 1998.
 
-8. Riding RJ, Calvey I. The Assessment of Verbal-Imagery Learning
-
-..
-
-   Styles and their Effect on the Recall of Concrete and Abstract Prose
+8. Riding RJ, Calvey I. The Assessment of Verbal-Imagery Learning Styles and their Effect on the Recall of Concrete and Abstract Prose
    Passages by Eleven-Year old Children. British Journal of Psychologyl
    981; 79: 59-64.
 
@@ -483,23 +467,13 @@ REFERENCES
 10. Paivio, A. Perceptual Comparisons through the Mind's Eye. Memory and
     Cognition 1988; 3(5): 653-668.
 
-11. Batool I. Role of Visual Imagery in Classroom Processes
-
-..
-
-   (Unpublished M.Phil Dissertation) in National Institute of
+11. Batool I. Role of Visual Imagery in Classroom Processes (Unpublished M.Phil Dissertation) in National Institute of
    Psychology, Islamabad,Pakistan 2002.
 
-12. Peterson ER, Deary IJ, Austin EJ. A new measure of Verbal­
-
-..
-
-   Imagery Cognitive Style: VICS. Personality and Individual Differences
+12. Peterson ER, Deary IJ, Austin EJ. A new measure of Verbal­ Imagery Cognitive Style: VICS. Personality and Individual Differences
    2005; 38:1269-1281.
 
-13. Riding RJ, Sanabani SA. The Effect of Cognitive Style, Age, Gender
-       and Structure on the Recall of Prose Passages. International
-       Journal of Educational Research 1998; 29:173-185.
+13. Riding RJ, Sanabani SA. The Effect of Cognitive Style, Age, Gender and Structure on the Recall of Prose Passages. International Journal of Educational Research 1998; 29:173-185.
 
 ..
 

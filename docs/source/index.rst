@@ -6,6 +6,8 @@
 Welcome to Justpsychiatry Article Archive!
 ==========================================
 
+This is a collection of articles in the feild of psychiatry and psychology transformed and shared for high readability and accessibility. 
+We intend to clean up the articles, add metadata, structure and objects (images, tables, etc) in the near future. 
 
 .. toctree::
    :maxdepth: 1
@@ -29,3 +31,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`search`
 
+
+:Copyrights: The copyrights of individual articles vary; some articles are in the public domain, others open-access commercial use, or open-access non-commercial use. please check the original article for copyright information of each article while we are working to add them here. 

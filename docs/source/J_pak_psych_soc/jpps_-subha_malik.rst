@@ -578,9 +578,9 @@ REFERENCES
    
    1. Dr. Subha Assistant Professor, Supervisor, Malik Incharge Department of Gender conception and Development Studies, Lahore reviewing final draft College For Women University, of the paper, & Lahore, Pakistan Correspondent
 
-    2. Mahnoor MS Student of Gender and Research write up Iftikhar Development Studies Department, designing & data Lahore College For Women collection University, Pakistan
+   2. Mahnoor MS Student of Gender and Research write up Iftikhar Development Studies Department, designing & data Lahore College For Women collection University, Pakistan
     
-    3. Maryam Lecture Assistant, Department of Paper write up & Zafar Gender and Development Studies, formatting Lahore College For Women University, Lahore, Pakistan
+   3. Maryam Lecture Assistant, Department of Paper write up & Zafar Gender and Development Studies, formatting Lahore College For Women University, Lahore, Pakistan
 
 
 .. |image1| image:: media/image1.jpg

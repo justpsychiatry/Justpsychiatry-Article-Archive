@@ -1,5 +1,6 @@
 EDITORIAL
-=========
+#########
+
 
    **NIGHAT HAIDER1, IMTIAZ AHMAD DOGAR2**
 
@@ -110,14 +111,6 @@ EDITORIAL
    Knowledge which does not evolve as per the four main phases,
    according to Kuhn, may not be considered scientific. The first phase
 
-   *APRIL - JUNE 2021*
-
-   *VOLUME 18 NUMBER 2*
-
-   *PAGE 05*
-
-Journal of Pakistan Psychiatric Society
-=======================================
 
    is pre-paradigmatic; it is a period before a scientific consensus has
    been reached. A time of disorganized and diverse activity
@@ -241,14 +234,8 @@ Journal of Pakistan Psychiatric Society
 2. Kuhn TS. The structure of scientific revolution. Chicago/London.
    University of Chicago Press. 2012.
 
-3. McLeod S. Thomas Kuhn; Science as a paradigm. 2020. retrieved f r o m
-   h t t p s : / / w w w. s i m p l y p s y c h o l o gy. o r g/ K u h n
-   - Paradigm.html.
+3. McLeod S. Thomas Kuhn; Science as a paradigm. 2020. retrieved from
+   https://www.simplypsychology.org/Kuhn-Paradigm.html
 
 4. Popper vs Kuhn; the philosophy of Lakatos. 2011. retrieved from
-      https://antimatter.ie/2011/02/11/kuhn-vs-popper-the-
-      philosophy-of-lakatos/.
-
-..
-
-   *PAGE 06 APRIL - JUNE 2021 VOLUME 18 NUMBER 2*
+      https://antimatter.ie/2011/02/11/kuhn-vs-popper-the-philosophy-of-lakatos/

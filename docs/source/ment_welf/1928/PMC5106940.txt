@@ -1,10 +1,11 @@
 The Investigation and Diagnosis of Behaviour Disorders in Children
 ===================================================================
 
-By R. Evelyn Lucas, M.B., Ch.B.
+:Author: R. Evelyn Lucas, M.B., Ch.B.
 [The following paper is a summary of two lectures given by Dr. Lucas, of the Maudsley
 Hospital, at the Secretaries' Course in February, and is reprinted at the request of those who
 attended the Course.]
+
 Behaviour disorders in childhood and adolescence are of more serious import
 than is usually recognised. Too often are they the direct precursors of neurosis
 and of crime in adult life, yet it is only within recent years that this fact has
@@ -16,6 +17,7 @@ of the former theories as to the causation of delinquency and to consider whethe
 any of these theories now suffice for our needs, or whether in the light of our
 present knowledge of the subject, the previous hypotheses need some modifica-
 tion.
+
 1 he attitude of society in general towards the anti-social behaviour of de-
 linquents and criminals has altered considerably during the past century. At one
 time, the criminal was considered to be a fixed and unalterable type, presenting
@@ -27,9 +29,10 @@ that a wide-spread belief in a criminal type produced at the time a completely
 paralysing effect upon constructive efforts towards the prevention of crime, the
 attitude being that life-long incarceration was the only means of controlling this
 menace to society.
+
 At a later date, environmental conditions came into prominence as a causal
 factor of delinquency. It was realised that many, perhaps the majority of law-
-30 MENTAL WELFARE.
+
 breakers lived in degrading surroundings under circumstances which provided
 no stimulus for the formation of decent habits of ideation and behaviour. The view
 was taken that a period of training in a correctional institution would suffice to
@@ -40,6 +43,7 @@ tion and training in various types of work, in the hope that they would seek and
 obtain honest employment upon their discharge. This method, though started
 on a more rational and hopeful basis, was doomed at least to partial failure for the
 following reasons: ?
+
 In the first place, the duration of institutional treatment was often very short,
 so short indeed that it could not be expected to correct those fixed habits into
 whose formation the experience of years or even of a life-time had gone.
@@ -53,6 +57,7 @@ that of the old time physician who caused his tubercular patients to wear masks,
 thus protecting them from direct contact with the air which had originally borne
 the infection, while neglecting, at the same time, the hidden disease which was
 making its progress within.
+
 Thirdly, the delinquents were treated en masse, no attempt being made to
 understand and remedy the personal difficulties of the unit individual. It was not
 realised that a few months of systematic training could not alter the whole trend
@@ -65,14 +70,17 @@ tuberculosis, assumed that the next patient with similar symptoms would benefit
 by the same treatment, neglecting to consider the fact that a slippery banana
 skin, a hard kerbstone and a resulting fractured rib could produce the same
 apparent results.
+
 Fourthly, the delinquent, after a shorter or longer period of detention, was
 permitted without further investigation or constructive effort, to return again to
 his past haunts with a resultant reawakening of old associations and renewed con-
 tact with all the earlier temptations.
+
 It is not to be denied that these flaws in the method were recognised, to some
 extent at least, by a few far-sighted individuals, but the fact remains that the
 system as a whole was, and indeed is now, permitted to remain unaltered in many
 large areas both in England and in other countries.
+
 Much more recent is the doctrine, still fashionable in some quarters, that
 delinquency is due to disease. For a time, the medical world was so attracted by
 the discovery of the effects of auto-intoxication and of hidden foci of sepsis that
@@ -84,7 +92,6 @@ in these beliefs to make the theory apparently work out in practice providing th
 the cases are carefully selected, but wider experience shows that this one factor
 alone by no means suffices to explain the origin of delinquency as a whole. One
 has more than once observed a physician expressing surprise at the fact that most
-MENTAL WELFARE. 31
 delinquents are not subnormal in stature, development and physical health, this
 surprise being, no doubt, due to the fact that only those cases in which ill health
 is a prominent factor would ordinarily cross the path of a practising physician.
@@ -95,11 +102,13 @@ brain tissue which subserves the functions of morality. This belief rests upon
 very insecure foundations and leaves unexplained so many important facts that
 it is unnecessary to deal at length with the numerous arguments against its
 acceptance.
+
 Now most, if not all of these theories have a certain amount of truth in them
 but fail in one important respect, in that each theory so far mentioned has ex-
 plained delinquency by reference to only one possible causal factor. It is evidently
 necessary to widen our conception of the nature and causation of the delinquent
 reaction, a matter in which modern psychology may give some assistance.
+
 Most psychologists of to-day, whatever the school to which they belong, hold
 views that are to some extent deterministic. That is to say, they consider that no
 thought or action occurs accidentally or without a definite cause. Just as a solid
@@ -108,6 +117,7 @@ the resultant of these two forces acts, so are our actions determined by the res
 ant of the forces which are and have been acting upon us, both in the present and
 in the past. These forces, as we will call them, may be split up roughly into
 three groups.
+
 First there are our hereditary predispositions. It seems probable that children
 inherit to some extent their temperamental characteristics and are born with a
 tendency to react in a certain manner to certain situations. We know, however,
@@ -115,6 +125,7 @@ that these tendencies, particularly in the early years of life, can be considera
 modified. It is very unlikely, both on theoretical and on practical grounds, that
 a child is ever born with criminal tendencies, but the reason for this statement
 would take too long to discuss in the present paper.
+
 Secondly we have what may be called the previous conditionings. This in-
 cludes all the experiences to which the child has ever been subjected, whether
 remembered or forgotten. We know now that past experiences, particularly those
@@ -127,6 +138,7 @@ past. In all people there is a tendency for the reaction to a present situa-
 tion to be influenced by the previous reaction to a past experience which
 the present one to some extent resembles. This tendency has very important
 bearings on our dealings with delinquent children.
+
 Thirdly there is the present environment. It is necessary to know something
 of all those conditions which influence the child at the present time. His own
 physical state, his home and people, his school or work, his intellectual interests,
@@ -139,13 +151,14 @@ fall far below our standards and yet be in no sense a causal factor of the delin
 reaction. The investigation of the specific individual response of the child to
 various situations is of paramount importance in the examination of a case and
 unless great care is taken, it is sometimes surprisingly easy to lay the blame in the
-32 MENTAL WELFARE.
 wrong quarter. This, of course, renders our treatment of the case correspondingly-
 ineffective.
+
 We have thus three factors which influence behaviour and determine the type
 of reaction which will be produced by a given situation. These factors?the
 hereditary predispositions, the previous conditionings and the present environ-
 ment all need investigation in any case of delinquency.
+
 The majority of cases are somewhat complicated, as there may be many
 factors more or less equally operative in producing the delinquent reaction. I
 cannot recall a case in which heredity alone played a part or even one in which it
@@ -164,6 +177,7 @@ cards, until we have given due consideration to other possible causal factors. T
 is the only satisfactory basis upon which we can hope to formulate and carry out
 a constructive plan which will ultimately be for the benefit both of the individual
 offender and of society as a whole.
+
 In dealing with behaviour problems in young children, one always has to
 begin with a recognition of the fact that no child is born with his morals ready
 made. This seems an absurdly obvious statement, yet the truth of it is often
@@ -173,6 +187,7 @@ result in pain. The former tend to be repeated in order that further pleasure
 may be obtained, while the latter are checked, owing to their previous painful
 effects. This is the earliest and most primitive type of learning and one which,
 though modified by other factors, remains with us throughout life.
+
 Now, with repetition, the pleasure-producing action is each time performed
 more readily and easily until in time it becomes more or less habitual and a slighter
 stimulus is required to cause it. At length, a certain pattern of behaviour is laid
@@ -180,6 +195,7 @@ down, which is facilitated by constant use and which will not cease to exist unt
 no further advantage can be gained by its continuation. If misbehaviour is
 allowed to result, as it so often does, in the attainment of desired ends, there is a
 tendency for it to increase until the child may become definitely delinquent.
+
 So-called uncontrollable tempers are often explicable along these lines. A
 child shouts and cries until his wishes are granted. After this has happened several
 times, the mother decides to remain firm, whereupon, the child, being disappointed,
@@ -192,13 +208,13 @@ way blaming the child's nervous system for a condition which is, in reality, her
 fault. When a child has once learned to dominate his parents and his home envir-
 onment, irregular and unsustained efforts at discipline will only drive him into fur-
 ther excesses. In his desire to retain his command of the situation, the child may
-Cental welfare. 33
 eventually end by making himself and everyone else unhappy by aiming at an end
 which he cannot be allowed to attain. If the parents are intelligent and co-opera-
 tive, such cases can often be quite adequately treated at home, but with weak-
 willed and nervous parents, it is sometimes necessary that the child should temp-
 orarily be removed to more normal surroundings where no advantage can be
 gained by violent temper.
+
 The beginning of school life is often beset with difficulties. At home, the
 young child has received individual care, while at school, however kindly he is
 treated, he is, nevertheless, one of the crowd and is expected to take his place
@@ -220,6 +236,7 @@ self, that his resistance could be broken down. He then asked to be sent away
 from home and removal to a specially selected school resulted in a rapid and
 complete change in behaviour, the development of normal interests and excellent
 progress in learning.
+
 Another common cause of misbehaviour is the unwise attention which child-
 ren often receive from adults. Most parents cannot help being proud of their off-
 spring. This would be quite a satisfactory state of affairs, were it not for the fact
@@ -243,11 +260,11 @@ fit in with any institutional regime, for the simple fact that, as they themselv
 sometimes expressed it, they did not feel that they " belonged " anywhere. Such
 children often do very well in foster homes, where they can feel that at least
 one person has an affectionate interest in them.
+
 On the other hand, children may be driven into delinquency by too strict
 treatment at home. Some parents treat their offspring as crosses which must
 grudgingly be borne and line the child's path with an imposing list of " don'ts."
 Now a child who finds that everything he does is " naughty," soon begins to
-34 MENTAL WELFARE.
 think that, as all actions are equally reprehensible, it does not matter what he
 does. The young child should constantly be finding out how to deal with his
 surroundings and how to acquire more perfect muscular control. In the process
@@ -267,6 +284,7 @@ checked until his remarkable mechanical ability was recognised and he was given
 work in which his manipulative skill was of use. He had burgled for the sheer
 joy of using his hands rather than for any definite gain and his criminal tendencies
 ceased to exist when he found work upon which he could exercise his powers.
+
 A bright boy may become delinquent because his ordinary routine of school
 or work does not provide sufficient challenge for his capabilities, whilst a back-
 ward boy may commit the same offence for totally different reasons. In the first
@@ -289,6 +307,7 @@ unwanted or neglected child, even though not backward in intellect, and one
 sometimes finds that an ill-treated step-child will both steal from and give presents
 to the step-parent, the underlying motive being a curious mixture of antagonism
 and desire for affection.
+
 Sex misdemeanours in children are very common, and their causes are
 legion. They form an important problem in many cases, and well repay careful
 study. In the first place, it is well to remember that so-called sex delinquency often
@@ -299,10 +318,10 @@ organs, the habit being, at an early age, comparable to thumb-sucking, nail-biti
 or nose-picking, and needing treatment by similar methods. Severe punishment
 or terrifying threats serve merely to frighten the child and to concentrate his
 thoughts upon a habit which he would normally abandon on growing older.
+
 During school age, a boy or girl is often introduced to the habit of masturba-
 tion by another child who, owing to the manner in which the subject has been
 treated at home, has come to the conclusion that there is something strange and
-MENTAL WELFARE. 35
 wicked about the habit and that he or she is defying some terrible, though little
 understood, social taboo. Time and again, one meets with a little group which is
 held together merely by the knowledge of some trivial sex habit, which the child-
@@ -323,6 +342,7 @@ and masturbation denotes a turning of interest back to oneself and a consequent
 reversion to a more childish form of behaviour. The child who realises that he
 is merely being self-absorbed and babyish, often finds it quite easy to direct his
 interest into more normal channels.
+
 Promiscuous sexual intercourse among adolescents is another condition which
 one must be ready to deal with and here also one's treatment must depend rather
 upon the delinquent's mental attitude, than upon any preconceived standards
@@ -341,6 +361,7 @@ overt action or to a tendency to repress and avoid any ideas pertaining to sex
 matters. In the former case, delinquency results, while the latter state is pro-
 ductive of many of the nervous manifestations which are seen in the out-patient
 departments of our hospitals.
+
 In conclusion, I should like to say that, whatever the type of case, one ought
 never to be discouraged by one's failures. The subject of the treatment of delin-
 quent children is, as yet, in its infancy and we have a great deal still to learn.

@@ -1,8 +1,8 @@
 The Reading Difficuilties shown by Types
 ==========================================
 
-MENTAL WELFARE 89
-By HELEN C. DALBY, M.A., Ph.D.,
+:Author: Helen C. Dalby, M.A., Ph.D.,
+
 Lecturer in Education, Avery Hill Training College
 The retarded child is often greatly hampered both as regards his progress
 in school studies, and his mental development, by an inherent disability in
@@ -20,6 +20,7 @@ position of one who has the advantage of a shorthand mode of expression
 which may be regarded in the light of an extension of the understanding, just
 as a telescope, or wireless apparatus extend the possibilities of eyesight or
 hearing.
+
 The child who is beginning to learn to read has necessarily to adjust him-
 self to a new mode of interpretation of his perceptual patterns. He must now
 become familiar with a whole group of visual patterns which he must associate
@@ -42,7 +43,7 @@ stantly directed from left to right in a horizontal manner, and the steady move-
 ments of the eye necessary for this controlled adjustment have to be acquired.
 The child's attention must, therefore, very closely follow an ordered sequence
 ?f visual impressions which must be rapidly assimilated and apprehended in
-9o MENTAL WELFARE
+
 language form. It will be realised, therefore, that in reading the child must
 develop a new modification of his perceptual capacities involving a closer con-
 centration upon form and direction than he has hitherto known. His power to
@@ -56,10 +57,12 @@ the whole must be combined with the movements required in speech. Thus
 kinaesthetic imagery is also included. The child does not fully comprehend
 the meaning of the written word until he has passed through the preliminary
 stages of visual and auditory imagery.
+
 These preliminary perceptual processes, so necessary for the mastery of
 the mechanical steps in reading, provide possibilities for several pitfalls when
 a child is mentally retarded. Apart from a lack of general intelligence, he may
 fail to master these mechanical elements for the following reasons.
+
 He may have (i) Poor powers of visual discrimination,
 (2) Poor powers of auditory discrimination,
 (3) Weak associative powers.
@@ -87,7 +90,6 @@ to overcome his initial difficulties can be provoked. Fortunately, it is possibl
 to encourage the child to make the necessary efforts, by attacking reading from
 an angle which immediately awakens his interest. He should be given mean-
 ingful matter which he can easily understand and relate to his experience and
-MENTAL WELFARE 91
 mental content from the beginning. When the child is satisfied of the necessity
 for mastering the fine differences between words he is able to give his attention
 and interest to the finer perceptual processes. He can then proceed to the
@@ -98,6 +100,7 @@ willingly undertake the special exercises in form and sound discrimination
 which are generally assumed to be of interest only to the younger children. If
 his specific defect is mainly visual there is no reason why he should be behind
 children better endowed visually for very long.
+
 Among the earlier perceptual processes of reading there occurs the necess-
 ity of acquiring skill in a directional movement of the eyes from left to right
 in a horizontal manner which is continued downward, line by line, to the
@@ -117,6 +120,7 @@ than beginnings, and the motor co-ordination shows a tendency to follow the
 lead of the clearer imagery. The arbitrary nature of the sensori-motor co-
 ordination required for reading and writing proves more difficult in conse-
 quence of this peculiarity.
+
 If visual defects are complicated by poor auditory discrimination, the
 difficulty of overcoming the mechanical processes is even more evident. It is
 probable that the young child's form of mental imagery is in the main visual,
@@ -132,10 +136,10 @@ children are unable to discern fine differences in the higher-pitched vowel
 sounds. Rapidly spoken sentences sound to them a confused jumble, and only
 by long training and perseverance can they be taught to understand ordinary
 specch. In the early stages of school life their reactions to sound are hardly
-92 MENTAL WELFARE
 to be distinguished from those of a child who is ordinarily deaf. They there-
 fore naturally fall within the category of those who should attend a special
 school.
+
 The child whose general intelligence is retarded presents a different prob-
 lem. He may be able to master the mechanical reading processes with com-
 parative ease. He reads words, successfully combines them into phrases and
@@ -166,6 +170,7 @@ the increased possibilities of communication with his fellows which these
 mental changes make possible. The normal child's mental content is suffic-
 ient to enable him to use the material provided in books, and to advance stage
 by stage to the use of his higher capacities.
+
 The retarded child, suffering from a defective general intelligence, is by
 no means equipped for this type of activity. He gains very little from the
 wealth of sense impressions to which he is exposed. His perceptual patterns
@@ -177,8 +182,6 @@ may be done to effect this by constant repetition, by conversation, by the use o
 pictures, and., above all, by allowing opportunity for movement and action. The-
 reafter of ordinary reading books is for a long time a mere abstraction to such
 a child, though he may be taught to read the words. He should be given
-MENTAL WELFARE
-93
 matter closely related to the ordinary daily events of his life, in order that he
 may relate his reading to his own experiences. He should be provided also
 with matter which he can interpret in action, so that he may realise that what

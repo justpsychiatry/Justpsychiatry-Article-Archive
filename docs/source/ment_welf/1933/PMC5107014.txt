@@ -1,7 +1,8 @@
 A Visit to Gfaeel Colony, Belgium
 ===================================
 
-BY S. CLEMENT BROWN
+:Author: S. Clement Brown
+
 The history of the care of the insane is one of special fascination to those
 who are interested in the social anomalies arising where human relationships
 move the emotions most deeply. In the formation and growth of social institu-
@@ -11,6 +12,7 @@ run scientific analysis and ethical thought, and be later explained by the one
 and justified by the other; or, conversely, social habits of action may persist
 long after the judgment of individuals has shown that the means used have
 little relation to the end in view.
+
 The tools of social research which make it possible for the Blue Book
 to shape for us maps of social problems, sometimes beguile us into thinking
 that to plan the route of the journey is to accomplish our purpose. Such a
@@ -19,10 +21,11 @@ where the private family shares the responsibility of the socially irresponsible
 with the institution or with the hospital, is not always considered from the
 standpoint of the slow growth of social attitudes and integrity. Gheel Colony,
 in which there has been continuity of family care of mental patients for at
-2 MENTAL WELFARE
+
 least seven centuries, and which has already an honourable name in the history
 of psychiatry, justifies, therefore, a more intimate appreciation from the stand-
 point of the sociologist.
+
 The market town of Gheel lies inland from the city of Antwerp about
 an hour's journey, and a little further from Brussels. It is a scattered com-
 munity, with a population of eighteen thousand, covering an area of about
@@ -31,6 +34,7 @@ century two-roomed thatched cottages, to modern red-brick, slate-roofed, three-
 storey villas. The surrounding country is typical Flemish flat agricultural land,
 and the men of Gheel are mainly occupied locally, in the fields, or in the
 marketing of produce.
+
 The central buildings of the Colony, which include a reception block, an
 observation department for men and for women, and facilities for special
 therapy, was opened only in 1925, and appears pleasantly hospitable, and
@@ -41,6 +45,7 @@ of the four districts, into which, for purposes of medical care, the area of the
 town is divided, there is a central bath house, for which patients are given
 special tickets. These are made very necessary by the fact that water is not laid
 on in the majority of the houses.
+
 The medical staff consists of the Director, Dr. Sano,1 well known to
 members of the International Council of Mental Hygiene and a leader of this
 movement in his own country, and six assistants: one for general charge, one
@@ -49,6 +54,7 @@ Thus the average number of patients to each physician is six hundred, a propor-
 tion considerably higher than that in most of the mental hospitals in this
 country. One must bear in mind, however, that a proportion of the patients
 are defectives, for whom less medical attention is necessary.
+
 Although at one time a service founded by the Church, and conducted
 as a religious charity, the Colony is now the property of the State, and is used
 for rate-aided patients from any province in the country.2 Private patients are
@@ -59,18 +65,20 @@ from the United States by her husband, and a Londoner who had been at
 Gheel since before the War, were as pleased as the visitor to have a talk in their
 1 To Dr. Sano's kind hospitality I am indebted for this visit and for all the information and
 opportunities for observation of which this account is a result.
+
 2 The Province pays the Institution about 10/6 a week per patient. The rates paid to the
 foster homes vary from 6/- to 8/- in accordance with the capacities of the patient. There
 is thus a small balance for overhead expenditure. These expenses, however, seem mainly
 to be met by the fees of private patients who pay about ?250 a year, of which 15% goeS
 to the administrative side of the Institution. The Colony provides clothes for rate-aided
 patients.
-MENTAL WELFARE 3
+
 own language. While, rather surprisingly, both private and rate-aided adult
 patients are at Gheel under judicial certificate, no difference of procedure seems
 to arise until the patients arrive at the Institution, when it is generally arranged
 for private patients to go direct to their foster homes, whereas rate-aided patients
 must be examined at the Reception building before they are placed.
+
 An effort is made to adapt the type of home: to the social status and other
 needs of the patient. Obviously, the paying patient receives better care, if
 " better " is interpreted in absolute rather than in relative terms. Within
@@ -84,6 +92,7 @@ reviewing these decisions, and when changes are made, the Medical Director
 himself often pays a visit. Where emergencies arise, an ambulance can be sent
 immediately from the central building, and the patient detained there. Patients
 unsuitable for the Colony may be transferred to other State Mental Hospitals.
+
 So much our Blue Book might have mapped for us in planning the care
 of three thousand patients. The point which really concerns us here is, how
 has this become possible in terms of community life ? Why are the inhabitants
@@ -93,6 +102,7 @@ the fact that every sixth inhabitant is suffering from mental disorder or defect
 make to individual attitudes and social relationships? How effective in the
 healing of his condition is this acceptance of the patient as a member of society
 within the limits of his social capacities ?
+
 It would be presumptuous to suppose that a twenty-four hour visit to
 Gheel could supply us with an answer to these questions. To solve the prob-
 lem of the difference between a community of this sort and a Welsh border
@@ -105,12 +115,13 @@ different way, the criminologist, must be concerned almost as much with the
 meaning of these conditions to society, and with the attitudes of individuals
 towards them, as he is with the mentally disordered patient or with the
 criminal himself.
+
 One of the conditions of the acceptance of foster parents as such is that they should have
 an adequate independent income. There has never been a time in the recorded history of
 Oheel when there are not more applications from foster homes than can be accepted. In
 ^pril, 1932, the number of applications on the waiting list was thirty, and there were over
 vacancies in homes already approved.
-4 MENTAL WELFARE
+
 Perhaps the first thing that is apparent to the visitor is that every section
 of the community is absorbed into the scheme, from the stationmaster who
 welcomes die patient and the relatives on arrival, to the village inn-keeper who
@@ -120,6 +131,7 @@ the patients were under no general rules of supervision. They went about their
 business with the purposefulness or the aimlessness appropriate to their con-
 dition. The village seemed to be theirs. The feeble-minded boy went for his
 foster family to purchase the daily paper, and greeted the Director with a smile.
+
 He had been entrusted with a simple money transaction which he was unable
 to explain, but which, it was found, involved no loss to his guardians. The
 imbecile spent his time babbling by the village pump in the traditional manner
@@ -140,6 +152,7 @@ a response to argument. Another patient, skilled in clerical work, assisted
 with zest in the tracing of his own heredity in the administrative building. The
 clues to his possible descent from Napoleon were followed up, even to the
 obtaining of birdi certificates.
+
 Obviously, not all the patients could be trusted at large. But the degree
 of freedom possible under these circumstances seemed astonishing. In the
 middle of the market-place in the early morning, while a funeral procession
@@ -154,7 +167,7 @@ crowd that amused them more than the patient. The medical staff themselves
 have doubted the advisability of placing epileptic patients in families with
 children; but even this concession to accepted theories has been abandoned.
 " The children take over the same attitude as their parents," says Dr. Sano.
-MENTAL WELFARE 5
+
 Along with this acceptance of different degrees of responsibility goes,
 apparently, a willingness to accept guidance in their homes in a friendly,
 informal way. One can hardly imagine, in England, the visiting physician
@@ -164,11 +177,13 @@ house family in this country tolerating a group of about thirty students tramp-
 ing from the mud of their yard through the kitchen in order to see the con-
 ditions under which patients are living. Yet these kindly people seem, as a
 matter of course, to accept the needs of the student as well as of the patient.
+
 Many of the homes are extremely simple; none are probably up to the standard
 of cleanliness and ventilation of our mental hospitals. But appreciation and
 criticism alike seem to be taken in good humour, and from the patients one
 got the impression of a certain underlying self-respect which, from the social
 standpoint, must be a valuable foundation for readjustment.
+
 The fact of social acceptance which is such an important one in the con-
 sideration of Community Care, may be largely accounted for by sheer familiar-
 ity. Does this familiarity alter the standards of hnman conduct for the people
@@ -188,6 +203,7 @@ even within the wide confines of the Colony, are dealt with in this way.4 But
 M. Sano writes: " the tendency to escape is equal to so many other small diffi-
 culties which must be overcome by patience and training in discipline. It is a
 minor difficulty in the system of family care."
+
 Perhaps the solution to many of the subtle problems of the social life of
 the village is to be found with the patron saint of the people?the prematurely
 wise, serene little figure of St. Dimphne, who stands silently presiding over
@@ -198,13 +214,14 @@ present. 176 times patients who wandered into neighbouring villages, escaped wil
 ?r broke their parole, had to be returned. Only once a patient was not found, and it is
 Presumed that she went to France. Some of the patients go over the nearby Dutch
 border, but by special arrangement the authorities return them to the frontier.
-6 MENTAL WELFARE
+
 herself?by legend an Irish princess of the seventh century?had been the
 victim of the uncontrolled passions of her father, from whose incestuous desires
 she fled with her priest, St. Gerebernus, across the stormy channel into the port
 of Antwerp, where they took refuge in the village of Gheel. Here their hiding
 place was discovered by the enraged king, and, in the words of the local history:
 " Dimphne and Gerebernus are martyrs of the chastity."5
+
 The peculiar potency of the tomb of St. Dimphne for the healing of dis-
 orders of the mind is not elaborated in the story. But the graphic portrayal in
 the carving of types of mental disturbance?the manic, whose wrists are
@@ -215,17 +232,20 @@ protesting dramatically against them; the senile dement, with his detached,
 vacant stare?all these are unmistakable. It is, says the local account, the
 " unhappies " who are kneeling before the relic; and we are told that " St.
 Dimphne secured a great number of sicks."
+
 Further evidence that the church was originally the centre of the work
 of mental healing at Gheel is to be found in the annexe to the church, dating
 from the 17th century, and containing rooms in which the patients were cared
 for while they were waiting to attend religious services. The unlit cells with
 indirect ventilation and barred gratings show that the church of St. Dimphne
 had not altogether discarded the methods current at the time.
+
 It is understandable enough that the hospitality of the church might often
 be too much in demand by the relatives of the " unhappies," and that the local
 inhabitants, eager to have a part in the dramatic events at the tomb, would
 offer to take to their own homes those who had made long pilgrimages. In this
 way the Colony of Gheel is said to have grown up.
+
 Without the background of this story as the traditional heritage of the
 people, it seems doubtful whether anything comparable to the community
 integrity which has been described could ever have been brought about. The
@@ -236,12 +256,13 @@ of Electra theme which proved the social magnet. Be that as it may, the
 conscious use of psycho-analytic, or indeed other direct psycho-therapeutic
 measures does not play an important part in the present methods of the Colony
 ?for, as the Director remarked : " The priests do our analysis."
+
 Social psychiatry at Gheel is, however, a recognised, well-considered
 service. An " assistant social psychiatrique " has been employed since 1923,
 and there is a trained social worker occupied on, the task of social readaptation
 5 This and other quotations are from a locally translated account of the story which is
 recorded in Flemish and French and accompanied by excellent photographs.
-MENTAL WELFARE 7
+
 of Gheel patients throughout the country.6 Limitations of time determine the
 fact that the social worker is occupied mainly in social readjustment rather than
 on the side of social diagnosis, but that this is inconsistent with general outlook
@@ -258,6 +279,7 @@ a considerable amount of very careful personal work is carried out by her, both
 with the patient himself, after discharge, and also with the relatives, and
 M. Borgers has made a most useful analysis of the social application of psychia-
 tric methods.
+
 The Colony of Gheel stands as a demonstration of the effectiveness of slow
 unconscious growth in social situations where studied, imposed plans often seem
 to present insuperable difficulties. The obvious danger of such undirected
@@ -267,6 +289,7 @@ which members of the staff at Gheel take part in and make use of the attempts
 to analyse more closely the objectives and methods of mental hygiene, particu-
 larly on the social side, seems to show that they are aware of this danger, and,
 therefore, perhaps, proof from it.
+
 The fact that different forms of Community Care are now discussed upon
 a basis of recent knowledge, and with recognition of the fact that to some
 extent social control is learned through social responsibility, seems to show
@@ -275,6 +298,7 @@ if the same truth, learned at her shrine, is more effective than when it is
 delivered from the platform of the most enlightened Societies, these are facts
 which the sociologist may offer for the consideration of psychiatrists and social
 workers.
+
 This service was started by M. Adolphe Borgers, from whose posthumously published
 reprint, " L'Hygiene Mentale et ses Applications," information is obtained. This has been
 supplemented by Madame Borgers, who now carries out her late husband's work.

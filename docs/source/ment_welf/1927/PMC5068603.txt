@@ -1,7 +1,8 @@
 The Essential Unity of the Mental Problem
 ==========================================
 
-By W. F. Menzies, M.D., B.Sc., F.R.C.P.
+:Author: W. F. Menzies, M.D., B.Sc., F.R.C.P.
+
 I must thank most cordially the Committee of the Staffordshire Association
 for Mental Welfare for their kindness in inviting me to fulfil this year the pleasing-
 duty of delivering- the Annual Address, and I hope what I have to say will be
@@ -11,6 +12,7 @@ the Mental Problem " because the treatment of the mentally affected is consider-
 ably handicapped by well-meant, but, as I think, misdirected efforts to confine the
 problems of mental illness within water-tight compartments?that is, on the one
 hand Mental Defect, on the other hand Mental Disorder.
+
 The Brain.?I am not going to waste your time over a long discourse on brain
 physiology, but in order to begin at the beginning, or as near that point as justifi-
 able, I must ask you to bear with me for a few minutes while I give a very sketchy
@@ -31,7 +33,7 @@ sensation, a fourth to movement. Each of these functions is connected with the
 basal ganglia. But in man, what a difference? Round each of the four special
 * The Annual Address to the Staffordshire Association for Mental Welfare, delivered at Stafford
 on 30th April, 1927, illustrated by wall diagrams.
-66 MENTAL WELFARE.
+
 sense areas there is a supplemental area, called an association area, where the
 special functions are elaborated. These association areas are connected, not only
 with the basal ganglia and with the organs of sense and the voluntary body
@@ -39,8 +41,10 @@ muscles, but also with one another, each to every other one. How is this done?
 In the lower mammals, guinea pigs, rabbits, etc., there are layers of brain cells,
 neurons, as they are called, whose long fibres run out from brain to body. These
 may be three or four or 20 deep according to the activity of the various senses.
+
 But in man, and to some extent in the higher mammals?dog, cat, elephant?the
 telephone exchange system, as it might be called, is infinitely more complicated.
+
 Above the first layer is another, composed of small cells, granular cells they are
 called, which are the jack plugs in the switch board, and above them an associa-
 tion layer, called the supragranular layer, 20, 40, 60 cells deep, sending fibres
@@ -51,6 +55,7 @@ reaching the brain second by second, sleeping and waking, from conception to
 dissolution, ever stimulated or controlled by the great system of endocrine glands,
 which are the basis of what we call emotion, that wonderful mainspring of energy,
 interest and endeavour, of joy and sorrow, of hope and despair.
+
 But this is not all. As we rise in the scale of intelligence the brain cells
 themselves become more complicated. Here is a human brain cell; note the bushy
 network of fine fibrils, stretching out to embrace similar fibrils of a neighbouring
@@ -71,27 +76,31 @@ few yards on one, a few yards on another, you could pursue many millions of
 paths, and could not use them up in 10 generations. Such is the difference between
 the brain of the lowest and highest vertebrate animal. When we raise the arm
 the supragranular cortex does not concern itself with the details of the movement.
+
 These are all arranged by the infragranular layers, basal ganglia, spinal cord, and
 elsewhere, according to patterns worked out through millions of years of trial and
 error, and now become automatic, instinctive, even unconscious. What the supra-
 granular layer cares for is the purpose of the movement, and here again patterns
 have been worked out by thousands of years of habits, beliefs, manners, and ways
 of thought acquired throughout each successive culture phase in human history.
+
 This is why the higher mammals alone have the power of learning by experience,
 and of varying almost infinitely the thousands of millions of alternative pattern
 paths of nerve force. The conflicting emotional stimuli involved in the choice of
 these paths are a well recognised basis of worry, or even of mental breakdown.
+
 Just one other law of evolution :?The oldest acquired structure or function is the
 most stable, the newest is the most vulnerable to disease or accident. The brain
 stem is the oldest part of the brain ; it has varied very little since backbones were
 first evolved in the fishes of the Silurian geological series countless ages ago.
+
 The supragranular layers of the brain cortex are the newest developments ; they
 perish easily under embryonic or environmental stress, more especially in the
-Mental welfare. 67
 prefrontal, or extreme front portion of the brain, the part where ideas and problems
 of highly complicated movements, which we call thought, are worked out, that
 part of the brain possessed by the human race only. When this goes man might
 as well have no forehead; his behaviour is on the level of that of a monkey.
+
 Next a few words about how heredity affects things. As soon as a fertilised
 vegetable or animal germ begins to develop it divides into two portions, the body-
 plasm and the germ-plasm. The body-plasm grows on to form the individual,
@@ -111,6 +120,7 @@ be lucky who succeeded in removing even 10 per cent, of mental deficiency by suc
 means; for it must be remembered that in the present culture phase of civilised
 society sterility necessarily accompanies the graver forms of mental defect. Nor
 does sterilisation save the cost of segregation, most defectives being asocial.
+
 We have now arrived at the position that, as regards heredity in mental
 weakness, what is inherited is not a tendency to mania, or melancholia, or mental
 deficiency, or epilepsy, or neurasthenia, but is an inherited weakness of con-
@@ -143,6 +153,7 @@ the strain, we get precocious dementia, dementia praecox, a most unfavourable
 type of mental illness, and one all too common under the increasing worries of
 competition. But who can say that this is wholly an evil? To the individual
 68 Mental welfare.
+
 it is a calamity, but to the race a blessing-, for these cases rarely marry, and
 so the neurosis cures itself. Nature is ever careless of the individual, but ever
 careful of the race. The brains of many idiots are grossly malformed, and those
@@ -161,6 +172,7 @@ it has to carry. The strong-er the rope the longer it will carry a given weight,
 the heavier the weight the sooner will it wear out a given rope. But whether
 mental failure is pre-natal, or infantile, or adult, or senile, becomes merely an
 equation of accumulated severity of causes versus the resistance of the individual.
+
 Ascertainment.?Having dealt with continuity of causation, I now come
 to the question of ascertainment. There are a good many social services already
 in existence which are or might be utilised for the early detection of mental
@@ -188,6 +200,7 @@ on require mental attention; for the origins of bodily and mental illnesses are
 common and indivisible, and one never knows what information as to bodily
 conditions may not in the future indicate the special direction to be followed in
 mental treatment. Let us consider the work of some of these agencies.
+
 Probably the most useful of all is the ante-natal clinic, not only because
 it holds the earliest inquiry in the child's existence, but also because at it the
 parent is examined, and the large field of disease which in later life displays a
@@ -198,7 +211,6 @@ heart disease, tuberculosis and Bright's disease, the first of which notoriously
 affects the grovvth of the infant's brain almost more than its body, accounting
 for one-fifth to one-fourth of mental cases, congenital or acquired. If a history
 of still-births or miscarriages is elicited, or signs of active disease noted in
-MENTAL WELFARE. 69
 the mother or her elder children, absolutely specific and sure treatment can be given
 and the unborn child saved from all taint. Things are not quite so hopeful
 in Bright's disease, but if convulsive seizures in the mother can be prevented,
@@ -210,6 +222,7 @@ dementia, the latter in birth paralysis and mental defect. Lastly, the nutrition
 of the mother is attended to, especially cases of semi-starvation or dietary defects,
 which, would, if neglected, inevitably lead to rickets, deformities, or mental defect
 in the infant.
+
 From the age of a fortnight up to 2 years or older, children are brought
 to Infant Welfare Centres. Sometimes, if attached to hospitals or instituted
 by the local authority, these centres carry on the work progressively from the
@@ -231,6 +244,7 @@ signs of rickets, eczema, cretinism, mongolism, hydrocephalus, dysthyroidism,
 flaccid or spastic paralysis, tetany, chorea, etc. All these and many others are
 important as regards subsequent mental defect or illness. Cod liver oil and ultra-
 violet ray treatment are often provided.
+
 From 3 years onwards the child begins to come under the Education
 Authorities, and thenceforwards up to 14 he is under a most carefully devised
 and skilfully organised scheme of progressive training. The play schools for
@@ -252,9 +266,9 @@ sufficiently often. I understand they aim at three examinations in the nine year
 of school life?clearly not enough. But the teachers are wonderful in spotting
 mental and character anomalies in the pupils; and if the school nurses spend
 enough time over the teeth and adenoids, the worst shortcomings are avoided.
+
 The shy and reticent child, often inclined to be delicate, the one, as we say, with
 an "inferiority complex," is too apt to be left severely alone in a large class
-70 MENTAL WELFARE.
 until repeated failures to reach the required standard compel attention. These
 are the children often slightly defective congenitally, made worse by the deafness
 of adenoids and mouth-breathing, who recruit the ranks of the mental defectives,
@@ -284,6 +298,7 @@ What modern system of detention will control these people in the future, certain
 not a criminal lunatic asylum as at present constituted ? Luckily, this type seems
 rarely to occur when the original infection appears in an adult, but only in those
 whose brains are yet far off full development.
+
 The Industrial Welfare Clinics deserve a few words. The working of the
 Industrial Research Board on the physical and psychical sides of employment
 will lead to the diagnosis of the mental waverers. Transference to more suitable
@@ -300,6 +315,7 @@ and insanity. The casuals and unemployables will still need to be provided for,
 but it is not beyond the wit of man, although it may seem beyond the pecuniary
 capacity of successive governments, to devise remedies for roping them in before
 their cases have become hopeless.
+
 Administration.?I have tried to show that the same sets of causes, hereditary
 and environmental, are at work in producing mental defect and mental illness,
 and that, beyond certain fairly-defined limits, it seems to our present knowledge
@@ -308,9 +324,9 @@ see constantly in our hospitals mental defectives who have regular relapses into
 active insanity, in no way distinguished from other persons who between their
 attacks are normal members of society. The rest of my address will be devoted
 to administrative recommendations for unifying treatment.
+
 There are two societies devoted to the amelioration of the mental problem.
 The older is the Mental After-Care Association, founded in 1886 for the purpose
-MENTAL WELFARE. 71
 of supervising- discharges from asylums. There are many local branches, but
 none in this district. By its assistance many men and women, all of them poor,
 some friendless, yet capable with a modicum of assistance of earning- their own
@@ -342,10 +358,12 @@ that local mental deficiency committees should lose their identity, but that eac
 authority should appoint one or more members of the board from their own mental
 deficiency committee, if indeed they have not already one common committee
 for mental work. But this alone would not satisfy those of us who are idealists.
+
 We say that there should be no divorce between education and mental treatment,
 or between mental treatment and public health. Accordingly, we should like it
 made possible to have members of these committees of each authority upon what
 would then, we hope, bear the name of the Staffordshire Board of Mental Health.
+
 Following the precedent of the Education Acts, we should like other special
 interests co-opted, although of persons not responsible to the ratepayers; I can
 instance voluntary societies, the Police Court Mission, the Staffordshire Nursing
@@ -360,13 +378,13 @@ and institutions should confidentially refer all mental cases in their early and
 unconfirmed stages to the Board of Mental Health, much as cases of infectious
 disorders are reported, no publicity would be entailed, and in many cases pre-
 ventive measures, physical or psychological, could be taken without loss of time.
+
 But it must be acknowledged that such suggestions are Utopian, and could only
 be brought about gradually after an Early Mental Treatment Act and amendments
 to the Mental Deficiency Acts had paved the way for the education of the public
 in these matters. There would then be in the offices of the Board of Mental
 Health a complete card index record of the salient features from the ante-natal
 clinics onwards through life of all who might presumably require medical advice
-11 Mental welfare.
 on their mental health. The Board of Mental Health would have one senior medical
 official, the Medical Officer of Mental Health, who would be responsible to the
 Board for the classification of all cases reported to them, and who, after a personal
@@ -379,6 +397,7 @@ mental cases, the same individuals, or some of them. Officials of other bodies
 co-ordinating would act for the Board on a part-time basis. The Medical Officer
 of Mental Health should be an official of long experience, co-ordinate to, but
 independent of, the Medical Officer of Health. I am aware that the British
+
 Medical Association and many of the higher Ministry of Health officials would
 have him as an Assistant Medical Officer of Health, but both the Board of Control
 and the Royal Medico-Psychological Association are opposed to this on many
@@ -402,6 +421,7 @@ one or more medical officers of the latter would be appointed honorary psychiatr
 to the neighbouring general hospital. With these out-patient or in-patient clinics,
 set up by the local authority in alliance with the hospital managers, the medical
 officer of mental health would be connected in a consultant capacity alone.
+
 Voluntary and uncertified early cases, as suggested under the Early Mental
 Treatment Bill, would in a few years comprise quite half the admissions to the
 mental hospitals. It is so in Scotland, where voluntary boarders are more
@@ -417,20 +437,22 @@ elaborate scheme for covering the whole geographical area would result in
 roping into institutions large numbers of mental cases who need never go there.
 We aim at quite the opposite goal, the idea is to keep as many out as possible,
 but to have these under such supervision that the best could be got out of them.
+
 For instance, we receive into mental hospitals many middle-aged defectives with
 the history that they worked as unskilled labourers under father, brother or
 friend for many years, and got along all right, earning a small wage, until
 the relative died or gave up work; then they were helpless. A case like this
 would no longer require to spend the rest of his life in a hospital or colony; a
-MENTAL WELFARE. 73
 suitable place of work, perhaps on the land or away from the former city factory,
 would be found for him, and if necessary the guardian would be allowed a small
 weekly grant if the patient's wage-earning capacity were very low. But at
 present city is separated from country, and there is no list of suitable country
 guardians available in the town.
+
 Before concluding I should say a few words about mental defective colonies.
 I estimate that there may be 1,500 deficients in the Staffordshire geographical
 area who would benefit by institution treatment, at least in their earlier years.
+
 1 fear it is too late to hope for one institution for the county, the next best
 hope is one for the north of, say, 750 beds. This is too small to get the best
 value out of the money spent, but makes the best of a bad job. Many of the
@@ -448,12 +470,14 @@ best need supervision for life, so there is little use in troubling them with a
 literary education further than trying to teach them to read simple stories as a
 means of relaxation and to keep them out of mischief in the evenings. Further,
 they can learn only one process in any trade, and can then perform it mechanically.
+
 The larger the institution the more grading can be done. Large classes are a
 serious handicap in a normal school; in a defective colony they are anathema.
 There must be individual attention if successful results are to be attained, and
 the children must be caught young. I suppose at Cheddleton we have the lowest
 grade school in the country. The paralysed idiots, utterly helpless, with less
 sense than a fish, first have orthopaedic treatment to reduce their deformities.
+
 Then they have to be taught cleanliness, grasping and walking. Needless to
 say, little can be expected if we get them at 11 or 12?we must have them at
 2 or 3. The greatest difficulty is talking; for often the speech centres in the

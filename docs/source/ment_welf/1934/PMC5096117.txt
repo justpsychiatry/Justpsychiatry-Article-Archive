@@ -1,14 +1,16 @@
 Address Given
 ===============
 
- by MR. L. G. BROCK, C.B.,
+:Author: MR. L. G. BROCK, C.B.,
 Chairman of the Board of Control,
+
 at a Conference of Mental Health Workers held at Bristol on April 14th, 1934
 I have not come down here with any idea of propaganda; this is not the
 occasion for it, nor is it my task. We were appointed as a Departmental Com-
 mittee to find the facts and to ascertain how far on scientific grounds there is
 a case for sterilisation. To the best of our ability we have done so. It rests
 With the Government to decide what action to take on our recommendations.
+
 I have only come here this afternoon because Miss Darwin thought it might be
 ?f interest to you if I attempted some explanation of the main points in the
 report. I thought at one time I might have tried to deal in my address with
@@ -18,13 +20,13 @@ tive criticism to which I could attempt any reply this afternoon. Of course,
 there has been a certain amount of abuse; that must be expected. A critic in
 orie paper, whose name I cannot remember, said that the appendices to the
 report would have been quite as useful and quite as convincing if the figures
-62 MENTAL WELFARE
 had been thrown together by " orderly monkeys." Although I have a great
 regard for monkeys, which seem to me extraordinarily intelligent animals,
 few people I imagine would put them on the same level with Professor Fisher
 as statisticians. I need not waste time on mere essays in vituperation like
 this, and I had better come at once to the two main points, closely connected
 points, on which the whole report turns.
+
 The first question is, what conclusions did the Committee reach as to the
 inheritance of mental abnormalities, and the second is, how far do their find-
 ings of fact establish a case for sterilisation on scientific grounds? If I am to
@@ -63,12 +65,13 @@ father, then the given characteristic which those genes determine is bound to
 show itself. But supposing you get two genes that don't match, what happens
 then ? Either the result is intermediate, as happens with some physical charac-
 teristics, or, as far more generally happens, one gene prevails over the other.
-MENTAL WELFARE 63
+
 The gene which prevails is called " dominant," and the one that recedes, or
 remains latent, is called " recessive." But the important point is that though
 only the dominant gene shows itself by producing the given character in that
 particular generation, the recessive gene may be passed on to the next
 generation.
+
 The simplest illustration of this that I can give is eye colour. Eye colour
 is generally supposed to be the result of a single gene, or what, in the jargon
 of biology, is called a unit character. Now if you get the gene for brown eyes
@@ -93,6 +96,7 @@ brown eyes, it does not follow that he is, so to speak, pure bred in this respcc
 In other words, it does not follow that both parents were brown-eyed, or that
 all his children will be brown-eyed. Two brown-eyed people who are hetero-
 zygous, or carriers of a gene for blue eyes, may have blue-eyed children.
+
 The point is important because people are so apt to think about inherit-
 ance in the terms of the old saying " Like father like son," but that does not
 describe inheritance as it is now understood, and it does not follow that because
@@ -100,6 +104,7 @@ the son does not resemble his parents in some particular characteristic, this
 characteristic has not been inherited. Characteristics in which children differ
 from their parents may have remained latent and been transmitted through the
 parents from an earlier generation.
+
 It is one of the great difficulties in investigating inheritance that there is
 generally nothing to distinguish the heterozygote, or carrier, from the homo-
 zygote, or pure bred type. In the case of some physical characteristics, the
@@ -108,7 +113,6 @@ characteristics, so far as we know, there is nothing to distinguish the hetero-
 zygous person from the homozygous. It follows that dissimilarity in type
 between parent and child is in no way a disproof of inheritance. The qualities
 which the child shows may have been recessive and therefore latent in the
-64 MENTAL WELFARE
 parents. Most defects are recessive; if this was not so, defects would be far
 commoner than they are. Normality is generally dominant, abnormality
 recessive. In the case of the rarer recessives, a defect may be passed on from
@@ -124,6 +128,7 @@ time to time black sheep continue to appear. In other words, in every flock
 there is a certain number of sheep carrying the gene for this defect, and, sooner
 or later, they will mate with a ram which is also a carrier, and when this
 happens, a certain number of the offspring will be black.
+
 There could be no better illustration of the way in which the Mendelian
 theory works than the piece of research mentioned in our report which was
 undertaken in Sweden by Dr. Sjogren. He was extraordinarily fortunate,
@@ -153,9 +158,9 @@ again, and an examination of pedigrees showed that every single case could
 be traced back to one or other of the three original defectives of three or four
 generations earlier. The isolation of the village and the well marked charac-
 teristics of that particular type of defect created ideal conditions for research,
-MENTAL WELFARE 65
 and so afforded a classic demonstration of a mental defect inherited as a simple
 Mendelian recessive.
+
 That helps to explain what has puzzled a great many people when they
 come to look for the causes of mental defect, that so surprisingly few defectives
 can be shown to have had defective fathers or mothers. But, you may say, are
@@ -165,9 +170,11 @@ question to answer. There are certain types of low grade defect which have
 heen definitely proved to be simple recessives. Both types of amaurotic idiocy
 are simple recessives, and so is the type of low grade defect which Sjogren
 found. But most types of mental defect are certainly not simple recessives.
+
 Some of them may be, but I am inclined to think many are, in fact, multi-
 factorial recessives, that is, characters which require a combination of genes in
 order to produce them.
+
 Another difficulty in any enquiry into the causation of mental defect is
 that the more you come to study it, the more I think you will be convinced
 that it is not a single character, and that the difference between one defective
@@ -193,12 +200,12 @@ also be homozygous in respect of that character. The fact that you can find
 two defectives mating and producing apparently normal children does, I think,
 go to reinforce the view that there are far more different types of defect than
 Jt has yet been found possible to identify.
+
 Of course, the crux of the problem is always going to be feeble-minded-
 ness. When you get to the higher grades, mental defect is not necessarily
 associated with the physical abnormalities which are almost always exhibited
 111 one form or another by the lower grades, and there are people who take the
 view that a good deal of higher grade defect is really only a section of what
-66 MENTAL WELFARE
 they call the general curve of intelligence. In other words, the people who
 hold this view believe that defect is only an extreme form of dulness, and
 that the point at which you draw the line between the child who is dull and
@@ -234,7 +241,9 @@ the same schools. Of course, the superior children enjoy a more favourable
 environment, but, making allowance for this, I think no one would now
 seriously question that intelligence is transmitted, though there is the widest
 difference of opinion as to the manner of its transmission.
+
 Research into the causation of defect may go either up stream or down.
+
 Hitherto all enquiries, both in this country and on the Continent, have gone
 up stream. The investigators have studied the families from which the defec-
 tives came. We were peculiarly fortunate in having the co-operation of the
@@ -243,7 +252,6 @@ to study the characteristics of the descendants. With the help of the local
 authorities, and I am glad to take this opportunity of thanking you for the
 part which many of you played in this enquiry, we were able to obtain par-
 ticulars of some thousands of children of known defectives. That enquiry
-MENTAL WELFARE 67
 produced very startling results. The children were divided into age groups,
 and we found that with the higher ages and the consequent greater certainty
 of diagnosis, the proportion of defective children showed a marked increase.
@@ -254,6 +262,7 @@ children of known defectives who are old enough for a definite diagnosis of
 their mental condition to be made, we find that 45% exhibit marked mental
 abnormality. That is a most astonishing result and one which has not yet
 received the attention it deserves.
+
 The enquiry would have been still more valuable if we had been able to
 get more information as to the mental condition of the other parents. Prob-
 ably in the majority of cases the other parent, if not actually defective, was not
@@ -265,6 +274,7 @@ carriers of defect. But, even allowing for this factor, the proportion of defec-
 tive children is so large that it suggests that possibly some forms of defect may
 be really not recessives but partial dominants. However, that is merely
 speculation.
+
 There is one other feature of the inheritance of mental abnormality which
 still further complicates the problem. There are many families in which you
 find more than one kind of mental abnormality. You find defectives coming
@@ -282,13 +292,13 @@ theory seems to me to involve serious difficulties, because it cuts across the
 ^lendelian hypothesis which has such a mass of experimental work to support
 it- It is possible, however, that the clue to the problem is to be found in the
 lrtfluence of environment.
+
 You are all of you familiar with the distinction between heredity and
 environment, nature versus nurture. It is a beautifully clear cut logical dis-
 tinction; the trouble is that it leads us to assume that any particular character
 must be due to one cause or the other. But heredity and environment are not
 Mutually exclusive causes. Nobody lives, as it were, in a vacuum; everyone
 ls influenced in a greater or less degree by his environment. While experi-
-68 MENTAL WELFARE
 ment lias shown that some genes will produce a given character in any environ-
 ment in which the individual can live, others will only produce it in a favour-
 able environment. It is extraordinarily difficult, and indeed, often impossible,
@@ -318,7 +328,7 @@ Lewis has well called the stratum at the bottom the " social problem group."
 There you have a group who combine the worst possible inheritance with the
 worst possible environment, an environment from which they have no chance
 of escape, because it is of their own creation.
-j 7
+
 What are the conclusions which the Committee base on these findings of
 fact? The importance of the hereditary factor is beyond question, but, in the
 present state of knowledge, we cannot predict with certainty the results of any
@@ -334,11 +344,11 @@ practical objections to compulsion. In practice, it does not work, as the ex-
 perience of the United States has shown. Judged by the number of operations,
 sterilisation has been most successful in those States where it is worked on a
 voluntary basis. But there is the further objection that compulsion will in-
-MENTAL WELFARE 69
 crease the difficulties of ascertainment by " driving defect underground."
 Already there is evidence that one result of compulsory sterilisation in Ger-
 many is that many doctors are refusing to give certificates in terms which
 would bring the patient within the scope of the sterilisation law.
+
 There are, of course, objections to a voluntary scheme; in this world there
 are objections to most proposals. The objections to voluntary sterilisation fall
 under four main heads. In the first place, it is said that a voluntary scheme
@@ -361,6 +371,7 @@ suggested every possible safeguard to prevent this. As for the suggestibility of
 defectives, they are suggestible, but so are many other people. Provided that
 those who object are free to refuse, does it greatly matter if patients accept
 the advice of those to whom they naturally look for guidance.
+
 There is nothing sensational or drastic in the report, but it is at least an
 attempt to apply the principles of biology to a practical problem of everyday
 life. But there is one caveat which I am bound to add. Sterilisation can never

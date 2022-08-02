@@ -1,7 +1,8 @@
 A New Experiment
 =================
 
-By C. J. WATKINS
+:Author: C. J. Watkins
+
 An interesting experiment is being made in Northampton which is of
 more than local interest. On May 28th a Home was formally opened for
 Maladjusted Girls, which is the first of its kind in this country to be approved
@@ -9,40 +10,47 @@ by the Board of Education and recognised for grant purposes. The type of
 child for whom the Home is intended may be indicated by some of the diffi-
 culties we are trying to help. The Matron has therefore supplied the following
 instances.
+
 There is the child who comes to us with a history of unreliability
 and untruthfulness?sometimes, we find, the result of fear from too strict
 treatment, or lack of understanding. We have handled many such during the
 past two years and often more freedom and the feeling that the child is
 trusted, will help much.
+
 Stealing presents another problem. We try first to find out the reason
 why the child stole. This can only be done by gaining the child's confidence
 and affection. The other children help much in the re-education of such a
 child?they learn to have more respect for the community?and with fair
 treatment we have had encouraging results.
+
 Enurecis is often the result of a child losing her mother or feeling that she
 is supplanted. One such child we have who was whipped daily for this, but
 now that we have made her feel that she is needed and vital to us, she is
 nearly cured.
+
 We find that a feeling of inferiority plays a large part with many of our
 difficult girls. If they cannot be proud of their homes and parents they will
 invent wonderful stories. A child came to us with a wretched background,
 moved from Home to workhouse, etc., and she tells the other children that
 she has come from College and before that that she was ill in hospital. We
-62 MENTAL WELFARE
 hope she will in time feel this is a real home with a small " h," and with
 pretty frocks and things of her very own, and this, together with the feeling
 that she is needed, may wean her from her lies and tempers.
+
 A little girl with sly ways and a tendency towards masturbation, has
 shown great improvement when we realized that she was overshadowed by
 a younger child. By bringing her especially forward and giving her all the
 interests possible, she has responded wonderfully, and is now much more
 open and the masturbation, we think, has ceased.
+
 As each child comes to us now a Psychiatrist will see her and give advice
 as to the best lines to work on, then, with careful observation individually, we
 hope to help the children to readjust themselves to life.
+
 As it is hoped that, when better days come, other Homes of a similar
 kind may be started?one for boys is badly needed?it may be of help to
 others to know something of the way into which it came into being.
+
 It originated out of the Northamptonshire Orphanage for girls, which
 was founded in 1858 in Northampton. The property was given by a benefactor,
 but the institution was supported by voluntary subscriptions, and the sub-
@@ -57,6 +65,7 @@ widely interpreted, and girls were admitted from outside the County and
 Borough of Northampton. When the numbers fell to 9, in a building which
 accommodated 27, the subscribers appointed a sub-committee to consider the
 situation and report.
+
 Our first consideration was the possibility of selling the Orphanage and
 acquiring new premises outside the town for a Children's Convalescent Home
 in connection with the General Hospital, but it seemed unlikely that we should
@@ -68,18 +77,19 @@ Association then brought to our notice the need for a Home for Maladjusted
 Girls, and consultations with others led the sub-committee to explore this
 proposal and finally to recommend it to the subscribers. It was accepted and
 the committee proceeded along these lines.
+
 Three main difficulties had to be faced at the outset: ?
 1. The difficulty of finding suitable premises. The Orphanage is an
 old building near the centre of the town, and, apart from a large field attached
 to it, unattractive both inside and out. We heard of a large modern house
 standing in two acres of garden in a residential district on the outskirts of the
-MENTAL WELFARE 63
 town which belonged to the County Council and had been used by their
 Education Committee as a Resident School of Domestic Economy, but had
 been closed for financial reasons. Our approach to the secretary of the Educa-
 tion Committee encouraged us to believe that, if our proposal was sanctioned
 by die Board of Education, it might be possible for us to acquire the house
 on a long lease.
+
 2. The insufficiency of our own resources to maintain such a Home.
 Our next step was to approach the Board of Education to enquire whether
 there was any possibility of obtaining a grant under Section 80 of the Educa-
@@ -94,6 +104,7 @@ penditure by local Education Authorities in sending children of Elementary
 School age to the Home which means that any local Education Authority
 in England or Wales who sends us a child at 26/- per week can recover half
 that amount from the Board.
+
 3. The difficulty of diverting the funds of an old Charity to a new
 purpose. While these negotiations were proceeding with the Board of Educa-
 tion and the County Council, the Charity Commissioners were approached
@@ -104,6 +115,7 @@ intention to keep to the original foundation in three respects: ?
 England.
 (c) Preference would be given to girls from the County and Borough of
 Northampton.
+
 These three Public Bodies were, of course, in communication with one
 another while negotiations were proceeding, and eventually the Charity Com-
 missioners drafted a scheme on the lines suggested by the committee.
@@ -115,9 +127,9 @@ would endorse their approval given in the previous April. However, they
 were satisfied that, on the strength of that approval our proposal had so far
 materialised that delay would be impossible: also a purchaser was found for
 the Orphanage.
+
 All this time, preparations were going on for the change over within the
 Orphanage itself. The Matron left for another post, and the Committee
-64 MENTAL WELFARE
 decided to appoint a lady who would be qualified to deal with the new type
 of child. We were fortunate in securing the services of Miss Hollick, who is
 a fully trained nurse, and has some knowledge of psychology and experience
@@ -125,6 +137,7 @@ in dealing with difficult girls. We admitted one or two such girls to the
 Orphanage on a small payment from relations, and found no difficulty arising
 from their living with the normal children; on the contrary, we had quite
 encouraging results.
+
 An interesting point arose in the earlier stages of our negotiations?as
 to whether we should attempt internal education. We came to the conclusion
 that maladjusted children should not be segregated, and obtained permission
@@ -137,6 +150,7 @@ per week for the child's maintenance under skilled supervision in the Home
 does not cover the whole cost. The rent, rates, and cost of internal repairs of
 the house are paid by the Committee out of the interest on invested capital
 and voluntary subscriptions.
+
 On its medical side the Home is under the direction of Dr. William
 Moodie, Director of the London Child Guidance Clinic, who has kindly con-
 sented to be the honorary psychiatrist. He will visit the Home from time to
@@ -144,6 +158,7 @@ time, and, when necessary, the Matron will take children to him. We have
 also the services of an honorary chaplain?the Vicar of the parish in which
 the Home is situated?an honorary lady physician and an honorary dental
 surgeon.
+
 The Home has been inspected by an official of the Board of Education,
 and several improvements were made before we moved into it, including the
 installation of central heating and electric light. The Home stands in a delight-
@@ -157,13 +172,14 @@ Parish Church and Sunday School, and the Girl Guides on one evening in
 the week, while in the Home itself arrangements are made to interest them
 in gardening under the direction of the lady gardener, and to have outings
 and picnics.
+
 At present the Staff consists of the Matron, Assistant Matron, Cook
 Matron, and Lady Gardener, and provision is made in the budget for an
 additional House Matron as the number of children increases. There is
 accommodation for 26 children in addition to the Staff. A good deal of the
 house work is now being done by four elder girls who came from the Orphan-
-MENTAL WELFARE 65
 age, but when they leave at 16 years of age it will probably be done by adults.
+
 In framing the budget and estimating the cost per week of maintaining a
 child, we had to take into account that it must necessarily be some time before
 the Home could be full, but allowance was made for this by estimating the
@@ -181,6 +197,7 @@ tion Authority to send us a girl who was brought by the Secretary herself, and
 she has since written : ?" I was very interested in the Home, and will certainly
 try to interest people in the work, because I think it is really wonderful that
 we have such a Home as yours to place girls now."
+
 Several eminent doctors, psychologists and others, have written to com-
 mend this new enterprise. Sir W. Clarke Hall, Metropolitan Magistrate,
 says:?" I am very fully convinced of the need of such an Institution as this
@@ -196,6 +213,7 @@ of a Psychological Expert are of little value unless they can be followed by a
 period of treatment carrying out his advice, and many Education Authorities
 have been seriously handicapped in their efforts to deal with this problem by
 the lack of suitable accommodation."
+
 The method of procedure for admission is as follows:?Application^ is
 addressed to the Matron, who, if the case appears suitable, forwards it to
 Dr. Moodie. He sends a form asking questions as to the nature of the child's
@@ -205,5 +223,6 @@ sent, giving details as to travelling, and a list of clothing to be sent with th
 child. The length of the child's stay in the Home will be by arrangement.
 Reports of her progress will be sent to the body or individual responsible for
 sending her.
+
 NOTE.?The Secretary of the C.A.M.W. will be glad to forward to anyone interested
 the address of the home described in the above article.

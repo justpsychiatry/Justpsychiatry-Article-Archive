@@ -1,13 +1,13 @@
 Medical Aspects of Crime
 =========================
 
-124 MENTAL WELFARE
 Book Reviews.
 
-By W. Norwood
+:Author: W. Norwood
 East, M.S., F.R.C.P. With a Foreword by
 the Rt. Hon. Sir John Simon. J. & A.
 Churchill, Ltd. 18/-.
+
 The writer of this volume of studies on
 criminology has had the advantage of a life
 time of experience as prison doctor and Prison
@@ -25,6 +25,7 @@ crime is in itself a symptom of abnormal mental-
 ity. The criminals lie knows are, for the most
 part, singularly like ordinary men and are gov-
 erned by similar instincts.
+
 Dr. East does not consider that prison is use-
 less as a deterrent, for he has not in his experi-
 ence found it so. He does not believe that even
@@ -62,6 +63,7 @@ from mental or nervous disorder. A psy-
 chological investigation is usually desirable in
 the case of adolescents, whatever the nature
 of the offence may be."
+
 Dr. East gives an admirable analysis of the
 many types of instability and incomplete mental
 development found among young offenders. He
@@ -76,6 +78,7 @@ than their share to the prison population, but
 the author evidently finds it easier to describe
 them than to suggest a satisfactory method of
 dealing with them.
+
 In view of the great importance which Dr.
 East attaches to a full and accurate history in
 arriving at a diagnosis and prognosis in mentally
@@ -85,9 +88,11 @@ valuable as members of a remand prison staff.
 The importance of the medical reports made to
 the Courts might justify urging the experiment
 on a probably reluctant Treasury.
+
 Readers will be glad to have available the
 paper on " Attempted Suicide," originally
 printed in 1913 and still a classic on the subject.
+
 The side lights on social conditions are inter-
 esting; one is reminded that though unemploy-
 ment was less common thirty years ago, the con-
@@ -107,4 +112,4 @@ decent treatment of the criminal and the steady
 diminution of crime. The writer is firm in his
 conviction that for the attainment of these ends,
 psychological medicine is playing a supremely
-important part. ^ P
+important part. 

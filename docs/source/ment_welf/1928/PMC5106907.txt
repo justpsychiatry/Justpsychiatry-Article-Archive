@@ -1,7 +1,8 @@
 Vocational Testing in Relation to Professor Spearman's Theories
 ================================================================
 
-By F. M. EARLE.
+:Author: F. M. Earle.
+
 (Reprinted by courtesy of the National Institute of Industrial Psychology.
 The use of psychological tests for various educational and vocational purposes
 has been growing rapidly during the last ten years and many persons are con-
@@ -11,6 +12,7 @@ proper application. Quite recently 1 Professor Spearman has suggested that the
 procedure of many compilers and users of psychological tests is not founded upon
 any sound or consistent theory as to the nature of ability and that, in consequence,
 their conclusions are not sufficiently reliable.
+
 Such criticism from the author of some of the most original and constructive
 contributions to modern theories of intelligence must be taken seriously. But,
 although no one who has thoroughly examined the processes of test construction
@@ -21,9 +23,10 @@ great service in the organisation of school activities, in the important work of
 vocational guidance, and in other ways. It will be interesting, therefore, to
 examine current practice in mental testing in the light of Professor Spearman's
 present theories as to the nature of ability.
+
 1 Spearman, C., The Abilities of Man (London : Macmillan & Co. 1927), Appendix, p. xviii
-58 MENTAL WELFARE
 THE TWO-FACTOR THEORY.
+
 For those who are unacquainted with Professor Spearman's writings some
 explanation is necessary. The Two-Factor Theory, in brief, is that all human
 activities which are mental in origin depend for their successful operation upon
@@ -49,6 +52,7 @@ same. Nevertheless Professor Spearman allows that there may be ' group '
 factors over a somewhat narrow range, such, for instance, as in operations which
 require the perception of shape and form, (in geometry, for example), or in tasks
 which involve constructive mechanical ability.2
+
 Persons may be regarded as differing greatly in their endowment in regard
 both to ' g ' and to ' s.' Accordingly, in order to predict the success of any
 person in a given activity, it is necessary to know
@@ -70,9 +74,9 @@ Musical ability is probably if this kind.) Usually, however, unless we are able
 to separate the components of the activity in such a manner as to enable us to say
 how much of the person's success is due to intelligence (or to ' g ') and how much
 1 Op. cit., p. 40. 1 Op. cit., chap. xiii.
+
 3 Professor Spearman does not identify these two, but many people mean by ' intelligence '
 what ' g ' may very likely prove to be.
-MENTAL WELFARE j>9
 is due to other abilities, we shall not be in a position to predict his probable
 success in other tasks. A great deal of Professor Spearman's research has been
 directed towards perfecting methods by which values for ' g ' and for ' s ' for
@@ -80,11 +84,15 @@ each person and for each task may be determined. At the same time it must be
 borne in mind that this analysis applies only to the cognitive aspects of mental
 processes. Temperament and character, which are vocationally of great im-
 portance, are not here under consideration.
+
 RELATION TO CURRENT PRACTICE.
+-----------------------------
+
 It is noteworthy that the tests which according to Professor Spearman's
 results correlate most highly with ' g ' (and which, therefore, may be expected
 to be most useful in evaluating the ' g ' of the individual) are just those which
 psychologists and others have usually regarded as the best tests of ' intelligence.'
+
 Such tasks as completing sentences from which words have been omitted, saying
 whether pairs of words are alike or opposite in meaning, solving simple problems
 in reasoning, and so forth, invariably appear in the best standard tests of in-
@@ -102,6 +110,7 @@ man 2 proposes to save our time by giving us other methods of eliminating the
 influence of the specific factors. He suggests that we should calculate the value
 of ' g ' more directly, and he seems to imply that by suitable methods any task
 may be used to give the value of a person's ' g.'
+
 It is, however, in regard to the use of vocational tests that Professor Spear-
 man has been most critical. Yet there are no really vital differences between the
 procedure which his theory sanctions and that which is in current practice, at
@@ -110,7 +119,10 @@ This is without doubt partly due to the influence which Professor Spearman has
 himself exerted upon the theory and practice of mental testing. Nevertheless,
 since vocational psychology has had to serve a number of practical needs, it has
 been developing along lines of its own.
+
 VOCATIONAL SELECTION.
+----------------------
+
 In vocational selection there has been a strong tendency to follow up the
 psychological analysis of each factory process by arranging that the test problems
 shall resemble the actual process as much as possible. Sometimes the complete
@@ -118,9 +130,10 @@ task is divided into elements and the tests are made analogous to these; sometim
 the test is a complex one introducing all the various components of the task.
 Generally, the validity of this procedure is established by the agreement between
 a person's success in the test and his skill in the actual work.
+
 1 The Measurement of Intelligence. New York : Teacher's College, Columbia University, 1926.
 ? Op. cit.
-60 MENTAL WELFARE
+
 Now in many factory operations high general intelligence does not seem to
 be necessary; in most cases specific abilities, to some extent encouraged by train-
 ing in the work itself, are important factors in success. Many of the tasks require
@@ -129,6 +142,7 @@ these processes (in the sense of activity at the highest cortical levels) are no
 conspicuous. Consequently it seems probable that the ' g ' factor tends to be
 reduced in importance, while, conversely, the specific factors become highly
 significant.
+
 The question then arises whether abilities depending mainly upon uncor-
 rected specific factors rather than upon the ' g ' factor can be successfully pre-
 dicted by any other process than trial at the work itself; for if other tasks be used
@@ -150,7 +164,10 @@ of the pschological processes taking place. Moreover, in standardising the tests
 there has been obtained abundant support for the belief that many specific abilities
 arise from innate suitability for the task, and the use of the tests for the selection
 of new operatives has been to that extent justified.
+
 VOCATIONAL GUIDANCE.
+---------------------
+
 In vocational guidance the purpose of special tests is to confirm what is
 known of a child's attainment and progress in school subjects and to disclose
 and measure abilities which may have had no opportunity for expression. The
@@ -159,6 +176,7 @@ occupations have to be considered and their requirements analysed before a
 decision can be made. It is, therefore, important to know to what extent a com-
 paratively short psychological examination can cover all the most likely occupa-
 tions.
+
 Hitherto, the practice has been to examine each child first of all for general
 intelligence, and then for special abilities such as are required in the occupations
 under consideration. In many cases it is not necessary to consider numerous
@@ -173,7 +191,9 @@ calculating and the like. Similarly, for children of fourteen who seek employ-
 ment on leaving the elementary schools, tests which provide information con-
 cerning the children's ability to deal with mechanisms and with relations of form,
 or to use their hands dexterously and rapidly, have been found useful.
+
 MENTAL WELI-AUE 61
+----------
 How far do these practical methods receive support from Professor Spearman's
 general point of view ? At first sight, it would appear that the theory of one single
 universal factor combined with innumerable other uncorrelated specific factors
@@ -182,6 +202,7 @@ seems to imply that there must be a separate test for every specific ability whi
 it is necessary to consider. If so, the process of examination would be so long
 and fatiguing both to the child and to the examiner that as a practical method
 it would be useless.
+
 But the fact that most mental activities are probably correlated through the
 operation of the ' g ' factor helps considerably. We can get a satisfactory meas-
 ure of a person's 1 g ' either by means of suitable tests of 1 general intelligence,'
@@ -197,6 +218,7 @@ ing, but the necessary general ability must be possessed if this development is 
 occur. In such occupations therefore, other things (such as temperament) being
 equal, success may be predicted if the requisite amount of ' g ' is known to be
 present in the individual.
+
 On the other hand, in some occupations specific abilities of innate origin
 appear to be much more important than general intelligence or ' g.' For example,
 the ability to maintain a series of operations in proper sequence, attending now
@@ -207,6 +229,7 @@ with the researches of Dr. E. Neil McQueen, the distribution of attention is in
 every case specific to the particular task. In such cases, then, it would seem
 impossible to predict the success of a person in a given task on the basis of his
 performance in another task.
+
 But the experimental work in the distribution of attention referred to above
 was concerned with processes which were extremely unlike one another. In
 situations which are similar, as the writer hopes soon to show elsewhere, there does
@@ -222,11 +245,13 @@ carpenter, activities similar to those required in the test are found, and it is
 significant that higher correlations occur between proficiency in the work of the
 carpenter and of the mechanic and success in this test, than between proficiency
 and intelligence measured in other ways.
+
 VOCATIONAL GUIDANCE IN THE FUTURE.
+-----------------------------------
+
 The use of psychological tests in vocational guidance is, of course, of com-
 paratively recent origin, and much of the work has necessarily been of an empirical
 nature. Consequently there is enormous scope for progress and advancement in
-62 MENTAL WELFARE
 a field of inquiry which is full of difficult and involved problems. No one can
 claim that he has reached a final solution of any of them. Professor Spearman's
 investigations and explanations of his results have been most helpful. Empirical
@@ -239,6 +264,7 @@ Institute of Industrial Psychology tests for ' creative imagination ' gave such
 high correlations with tests of intelligence that it was reasonable to assume that
 the same ability was the determining factor in both. But there are also many
 instances in which specific abilities are quite as important as any general ability.
+
 There is much work yet to be done in the examination and measurement of
 special abilities, and in the analysis of occupations in order that the nature of
 the abilities required may be more fully known. It is quite possible that the over-

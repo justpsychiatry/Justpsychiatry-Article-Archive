@@ -1,7 +1,8 @@
 Combined Defect
 ================
 
-By A. Carleton Williams, M.R.C.S., D.P.H.
+:Author: A. Carleton Williams, M.R.C.S., D.P.H.
+
 These few notes embody the results of personal experience with some of
 the conditions that complicate the problem of Mental Deficiency. The question
 has to be faced under various aspects. Sometimes it is a matter of differential
@@ -12,17 +13,20 @@ special methods of examination must be adopted. In this short paper it is obviou
 that a few only of the most important conditions can be discussed, and these but
 briefly. The subject matter has been arranged so as to reproduce the various
 questions that have arisen in actual practice.
+
 Three kinds of disability will be considered :?
 i. Paralysis.
 ii. Blindness and Defective Vision.
 iii. Deafness, Complete and Partial.
+
 Section I.?Paralysis.
+----------------------
+
 The types of paralysis which occasion most difficulty are the Infantile Hemi-
 plegias and the Diplegias. The physical handicaps due to these conditions make
 both education and employment difficult, often the paralysis is accompanied by
 epilepsy; in the Hemiplegias, especially, there are not infrequently emotional
 disturbances and failures in self-control, amounting sometimes to outbursts of
-84 MENTAL WELFARE.
 violence which make them a danger to others, and there is often some mental
 subnormality. Freud, in one of his early works, before he devoted himself to
 Psychopathology, described how the cerebral paralysis of children may be accom-
@@ -30,11 +34,17 @@ panied by epilepsy and mental impairment varying greatly in degree, and not
 necessarily proportionate to the severity of the physical handicaps.
 A survey of 490 children in Cripple Schools made by the writer gave the
 following figures :?
+
 Anterior Poliomyelitis
+-----------------------
+
 (Infantile Paralysis)
 Infantile Hemiplegia ...
 Cerebral Diplegia
+
 INTELLIGENCE.
+-------------
+
 Above Average.
 18.1
 Average.
@@ -49,6 +59,7 @@ Nearly M.D.
 7.5
 27.9
 60.6
+
 Besides these, there are, of course, very many feeble-minded, imbeciles and
 idiots not admitted to the schools for the Physically Defective.
 The estimates of mental ability were those given by their teachers, supple-
@@ -77,10 +88,10 @@ very slowly ; often the examiner finds it very difficult to understand the answe
 of the subject, and occasionally this may go so far as to render ordinary verbal
 tests impossible; and they have to be replaced by performance tests or by questions
 which can be answered by an affirmative nod or a shake of the head.
+
 When both speech and motor functions are impaired difficulty becomes very
 great; but even in these cases a rough idea of the mentalitv can be obtained
 by a study of the type of the reactions, aided by an account of the child's
-MENTAL WELFARE. 85
 ordinary behaviour. In certain types of cerebral paralysis, efforts to get out correct
 replies cause gross, almost violent, involuntary movements. Another difficulty
 arises from the great fatigability of these children, which renders a strict and
@@ -91,6 +102,7 @@ so that there is a tendency to give a favourable prognosis which is not borne
 out by experience. They may also respond to mental tests in the brief period
 of an examination and yet be incapable of sustained efforts necessary for school
 progress.
+
 With paralysed persons who are outside the limits of school age, the diffi-
 culties of the examination have to be met by similar modifications, the question
 determine, however, is no longer educability, but the need for institutional
@@ -104,13 +116,17 @@ however, although their reactions to tests rarely show the all-round lowering fo
 in ordinary primary aments, there is often evidence of marked intellectual
 failure in several directions, and this, coupled with reports of irresponsible con-
 duct, should, in my opinion, justify certification.
+
 Section II.?Blindness and Defective Vision.
+--------------------------------------------
+
 The mentality of the blind child may be considerably affected; even the
 dreams of the congenitally blind are unlike those of the seeing children, and there
 is often an attitude of timidity and distrust. But when this is overcome, the
 behaviour and reactions of the intelligent child are quite unlike those of the
 Mentally deficient. Some of the blind, however, have also mental subnormality
 ln varying degrees, even imbecility or idiocy.
+
 For the purposes of education, it may be necessary to determine whether
 a blind child who is said to be rather backward is fit for the teaching of a Blind
 School. Naturally, one wishes to give the child the opportunity, if possible, but
@@ -129,13 +145,16 @@ told to feel the blocks and spaces and fit them in, and he may also be asked to
 name objects given him to hold. If greater accuracy is desired, it may be
 pbtained by the use of the Point Scale for the Blind, described by Drummond
 111 the Edinburgh Medical Journal for February, 1920.
+
 Partial blindness (including high myopia) is not infrequently complicated by
 mental deficiency; if the latter is markedly present, the child is unsuited for
 Myope School, and unless special accommodation can be found, he must be sent
 to an M.D. School for oral teaching only. The determination in such cases is
 considered in the next paragraph.
-86 MENTAL WELFARE.
+
 M.D. School Examinations.
+-------------------------
+
 In all examinations for M.D. Schools, it is essential to know whether the
 vision is normal. If no record exists, it must be specifically tested?for children
 who do not know their letters the E card can be used ; the writer prefers to
@@ -150,6 +169,7 @@ Journal of Psychology for 1921). There are also many non-readers in whom the
 cause appears to be partly a defect of vision with perhaps eye-strain, and a lack
 of effort and of interest in the subject. Failure to read is not in itself much
 evidence of certifiable mental defect.
+
 In the certification of infants under the M.D. Act, the matter becomes more
 serious. They may be reported not to notice things and the parents are often
 in doubt as to whether this is due to mental or visual defect; it is, therefore,
@@ -162,6 +182,7 @@ then be tested on the assumption that he is blind. With the smallest children
 and those of the lowest mental level, it should first be noticed if a bright light is
 followed by the eyes, and if this fails, recourse must be had to objective methods,
 the reaction of the pupil or an ophthalmoscopic examination.
+
 In the certification of adults under the M.D. Act, the common difficulty is to
 know how far defective vision has been a handicap to social efficiency. Mental
 Defectives, especially those seen in prison, often make a great deal of a minor
@@ -175,7 +196,10 @@ to have an accurate record of visual acuity. Malingering partial blindness is
 common among delinquents, but in them it is, as a rule, fairly readily detected,
 and the examination follows its usual course, the examiner being put on his
 guard against other forms of trickery.
+
 Section III.?Deafness.
+----------------------
+
 Deafness is a far more troublesome complication than either of those dealt
 with above, and serious mistakes are more likely to arise. Statements of others
 are often quite fallacious guides; for parents and even experienced teachers occa-
@@ -183,11 +207,11 @@ sionally ascribe to mental defect behaviour in children which is, in fact, due t
 deafness ; or they make the opposite error and think that a child is suitable for
 a Deaf School who is nearly or quite imbecile. Examination, too, is
 rendered very difficult by the lack of means of communication. For these reasons
-MENTAL WELFARE. 87
 there are widely varying estimates of the percentage of the deaf who are mentally
 detective. From such figures as are available, it would appear to the writer
 that the real figure is a little less than 10 per cent., and this proportion is in
 agreement with the opinion of the chief experts on deafness.
+
 Proper education of the deaf, including lip-reading and the acquisition of
 speech, is of immense importance, and training should begin at the earliest
 possible age. Excellent results are obtained in the schools for the deaf, but the
@@ -206,13 +230,17 @@ to the inertness or futile actions of the mentally defective. The personal histo
 js also of value, including an account of the powers of communication established
 in his home, though it must be remembered that even in such matters as the
 acquisition of correct habits, the deaf child sometimes shows a slight disadvantage.
+
 The right way to deal with partially deaf children is to send them to a
 Hard of Hearing School; or if the defect is slight, to insist on their being kept
 in the front row of an Elementary School. If, however, they are in addition really
 Mentally defective, these methods are unsuccessful, and they must go to the front
 r?w of an M.D. School. For this, a certificate of mental deficiency is, of course,
 necessary, and the methods of examination are those described below.
+
 M.D. School Examinations.
+--------------------------
+
 On these occasions, anything like complete deafness is rarely met with, but
 slighter degrees are often found, in fact, no examination for M.D. Schools can
 be called satisfactory unless the hearing, like the vision, is specifically tested.
@@ -227,12 +255,13 @@ often associated with adenoids, and is, in the majority of cases, the main reaso
 for the dullness. Observations made by the writer on children in M.D. Schools
 who had adenoids removed, showed that mental benefit was marked only in those
 cases where there had been some deafness.
+
 Deatness, whether present, past or intermittent, causes much hindrance to
 educational progress, and a mental stagnation which is far greater than might be
 anticipated. Thus, much allowance must be made for it, and the examination
 itself conducted in a loud, clear voice, and the child should be told to repeat
 the questions aloud before attempting to answer them.
-88 MENTAL WELFARE.
+
 Here may be noted the interesting- condition of word-deafness, in which the
 child is able to hear what is said to him but is unable to attach any meaning to
 the word, and therefore fails to answer questions or to carry out commands. This
@@ -241,8 +270,13 @@ nations of slight deafness, slight mental deficiency and especially repression d
 to adverse home conditions; for these cases change of environment as in a resi-
 dential school often works wonders. In general, for children who are M.D. and
 also slightly deaf, the bestitreatment is M.D. School (Front Row).
+
 M.D. Act Examinations.
+----------------------
+
 Infants.
+--------
+
 With little children who are examined for mental deficiency, it is essential to
 make sure that they are not deaf. The parents' report is often unreliable, though
 it is of more Value if they can give practical reasons for their opinions. The
@@ -253,7 +287,10 @@ child is either a low-grade imbecile or deaf, or possibly both. The methods of
 differentiation are largely those described for the disposal of the deaf in schools,
 but with the youngest children more depends upon the accounts of the child's
 ordinary behaviour and the tests used will be the very simplest.
-A dults.
+
+Adults.
+--------
+
 Here again, the first thing is to test the hearing. For this purpose the forced
 whisper test is the best, but it needs special care, for mistakes are remarkably
 frequent. Malingering deafness is very common in delinquents, and the examiner
@@ -261,6 +298,7 @@ must be prepared to meet and expose it. On the other hand, real deafness has
 been unrecognised because the subject had good powers of lip-reading, but this
 possibility is excluded if the test is always conducted with the subject's back to
 the examiner.
+
 If a defect of hearing is present, but not severe, it is merely necessary
 to make allowances for it and modify the examination accordingly ; but if complete
 deafness is present, the problem of means of communication has to be faced.
@@ -273,6 +311,7 @@ to connote mental deficiency. Others, again, can express themselves with the
 finger alphabet only, and this fact makes it a little more likely that they are
 mentally deficient, but it may be due to lack of facilities for instruction by oral
 methods.
+
 Lastly, there are those whose only language is that of signs, and it is useful
 for the examiner to know a few of these for the purpose of giving directions; but
 the examination must consist almost exclusively of the performance and picture
@@ -283,14 +322,20 @@ have a marked lack of capacity for dealing with abstract questions and with
 numbers, and they often show ignorance of social conventions and a tendency to
 temperamental instability, in sharp contrast to good powers of memory and reason-
 ing, and skilled craftsmanship.
+
 Mental welfare!. yg
+--------------------
+
 When deafness and blindness are combined, the handicap is very great, so
 that many writers speak of "Imbecility by deprivation," but how little the intrinsic
 intelligence may be affected is shown by the famous cases of Helen Keller and
 Laura Bridgman. The real potentialities can be roughly gauged by watching
 the general behaviour, and the perlormance with certain tests, particularly the
 Norsworthy Form Board as described for the Blind.
+
 Non-Verbal Tests.
+------------------
+
 A. Those given for infants (1 to 2) by Binet in his 1905 series only.
 1. Eye follows a light.
 2. Objects shown are grasped and handled.
@@ -320,7 +365,7 @@ will just admit a plug, while the others are a shade too small. The
 subject is shown which is the right hole; the board is then reversed
 and he is directed to re-insert the plug. A defective would fail by
 trying again in the same corner.)
-90 MENTAL WELFARE.
+
 9. " Patience " in frame, done in 15 seconds. (Age 5.)
 (Two wooden triangles have to be fitted into a rectangular frame.)
 10. Binet's design A. (Age 8.)
@@ -343,6 +388,7 @@ deaf, and with it mental ages from 9 to 12 can be determined.
 It is rather expensive and has to be obtained specially from America,
 Messrs. Stoelting, of Chicago.)
 17. Words in order test. (Ages 9 to 11.)
+
 (Each word of a simple sentence, such as " The cat ran after the
 mouse and caught it," is written on a separate card. These cards
 are then put on the table in a wrong order and the subject is
@@ -351,6 +397,7 @@ to show children what is wanted by making them watch the
 re-arrangement of another set of words. This example with nine
 simple words, is usually done by the deaf who have a mental age
 of 11; a sentence of six. words can be done at age 9.)
+
 These tests do not form a complete series, but a selection from them is
 found to give a fairly accurate estimate of the mental level and an opportunity
 for observing the type of reaction. In tests Nos. 8, 9, 13, 14 and 15 especially,

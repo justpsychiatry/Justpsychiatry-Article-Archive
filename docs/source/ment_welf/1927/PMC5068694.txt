@@ -1,14 +1,16 @@
 Diphtheria is an Institution
 =============================
 
-MENTAL WELFARE. 21
 an ACCOUNT OF THE APPLICATION OF THE SCHICK TEST
 AT THE ROYAL EASTERN COUNTIES INSTITUTION.
-By F. Douglas Turner, M.B.
+
+:Author: F. Douglas Turner, M.B.
+
 No doubt many Institutions for defectives get outbreaks of diphtheiia, and
 I thought, therefore, it might be of interest, and perhaps a help to those lespon-
 sible for other Institutions, to have an account of our experience heie and our
 method of dealing with it.
+
 For several years we have had frequent small outbreaks of diphtheria. In
 *924, there were fifteen apparently separate outbreaks with a total of twenty
 eases, and in the early part of 1925, there were at different times six patients <ind
@@ -24,6 +26,7 @@ and several of them spent many pleasant and idle months there till, at length, w
 tired of paying for them. Then the virulence of the bacillus in their throats
 was tested; they proved to be non-virulent. Ihey returned to the Institution, and
 they did not appear to be connected with any of the further outbi eaks.
+
 It was obvious, however, that something must be done to try and check the
 trouble. Apart from the illness to the individual patient or patients, the con-
 stant alarms and quarantinings were upsetting all regular work and classes.
@@ -35,8 +38,10 @@ Laboratory, Dr. O'Brien, to whom we are much indebted. The whole of the
 testing and injections have been carried out by Dr. Munro peisonally,^ and the
 complete absence of bad results is, I believe, due to the extreme care with which
 he carried out all the details of treatment.
+
 The friends of every patient had a full explanation of the method sent them,
 and only those patients whose friends gave their consent were tested.
+
 By means of the Schick Test, it is possible to decide whether individuals
 are liable to catch diphtheria, or are immune. Those who prove susceptible can,
 in most cases, be made immune by the injection of a diphtheria toxin-antitoxin
@@ -45,9 +50,10 @@ standardised diluted toxin, and into the right arm, as a contiol, the same amoun
 of diluted toxin which has been heated. The local leaction to the injections is
 watched day by day, and from the character of this it is decided whether the
 patient is likely to catch diphtheria or not.
-22 MENTAL WELFARE.
+
 We have now tested 1,037 patients and 47 staff. The following- are the
 results :?'
+
 Number Positive ^Positive ??
 Tested Reaction Reactions
 Under 5 years ... ... ?? 7 3 42.8 per cent.
@@ -57,6 +63,7 @@ Over 15 years ... ??? ??? 825 187 22.6 per cent.
 1,037 248 23.9 per cent.
 Staff.?Number tested: 47; Positive Reaction: 18; Percentage of Positive
 Reactions : 38 per cent.
+
 It will be seen that the younger the patient the higher the percentage of
 positive reactions though the number of those tested under 5 years is too few
 to be of any value. The curious thing, however, is the high percentage of
@@ -64,6 +71,7 @@ positive reactions among the staff. Possibly this may have been because only
 those members of the staff were persuaded to submit to the test who knew they
 generally caught everything that came along, or who had had attacks of
 tonsillitis.
+
 The whole of the 266 cases who proved to be positive were then given
 injections of diphtheria toxin-antitoxin. The first injection was 0.5 c.c., followed
 by two other injections of 1 c.c. each at intervals of seven days. Most of the
@@ -74,6 +82,7 @@ test itself, and only three reactions of moderate severity occurred with the pre
 ventive injections. Two of these were in the staff. Many of the patients were
 low grade, both mentally and physically, and these results are, therefore,
 satisfactory.
+
 No further cases of diphtheria have occurred since. This may be only coinci-
 dence, or it may be because we have now ceased to swab all cases of tonsillitis.
 Obviously, if the population of your Institution has been proved to be immune to

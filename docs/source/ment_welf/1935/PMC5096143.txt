@@ -1,8 +1,6 @@
 Another Year's Work, Report Of The Board Of Control,  1934
 ===========================================================
 
-82 MENTAL WELFARE
-,^
 The Board of Control's Report is an annual landmark recording the
 position reached by the community in dealing with the problem of the men-
 tally disordered and the mentally defective. As such, it is worthy of close
@@ -10,7 +8,10 @@ attention by everyone concerned in that work, and the following summary
 of the position arrived at by the end of 1934 with regard to Mental Deficiency
 will be of interest to those who have not had an opportunity of reading the
 Report itself.
+
 Ascertainment
+--------------
+
 The total number of defectives under the care of Local Authorities on
 1st January, 1935, was 74,691 (in State Institutions, 1,268; in Certified In-
 stitutions, 26,782; in Public Assistance Institutions (Section 37 of the M.D.
@@ -28,11 +29,13 @@ Wood Committee's Report of the number likely to be found in the com-
 munity, is 4.52. The discrepancy is obvious and is no doubt in part due to
 inadequate methods of ascertainment by certain Authorities, for the propor-
 tion of defectives ascertained ranges from 0.68 per 1,000 to 7.05.
+
 Feeble-Minded Children between 14 and 16
 The position with regard to feeble-minded children in this age-group
 the Board view with " much uneasiness," for in their case a position has
 arisen which was not contemplated when the Mental Deficiency Act of 1914
 was passed.
+
 Under that Act, educable feeble-minded children can only be dealt with,
 except in special circumstances, if notified to the Local Authority when they
 are about to leave a Special School or Class, and despite the Education Act
@@ -43,13 +46,15 @@ of the estimated number of feeble-minded children in the country are provided
 for. Consequently the number of feeble-minded children notified and thus
 ensured of the legal protection they need, was in 1934 only 3,488?a decrease
 of 55 on the 1933 figure.
+
 *21st Annual Report of the Board of Control for the year 1934. Part I, H.M. Stationery
 Office. 1/6.
-MENTAL WELFARE 83
+
 Until amending legislation is introduced enabling the feeble-minded child
 between 14 and 16 to be notified whether he is in attendance at a Special
 School or not, large numbers of these children?though definitely known
 to be mentally defective?
+
 " are left at a most critical period in their lives without the supervision
 and control which the Legislature intended to give them. Even when they
 emerge from limbo at the age of sixteen, nothing can be done for them
@@ -57,10 +62,12 @@ by the local mental deficiency authority unless they are neglected or unless
 their anti-social behaviour brings them into conflict with the law
 Legislation will be needed to fill this gap and the need for filling it is
 becoming more and more generally recognised."
+
 The difficulty which this anomalous position creates for Local Authorities
 with every desire to carry out their obligations, is further illustrated in the
 Report by a statement taken from the Annual Report of the Nottingham
 County Council: ?
+
 " Again it is necessary to emphasise the very great handicap to the
 effective performance of their duties by the local authority as a result of
 the large number of educable defectives who evade notification because
@@ -69,17 +76,22 @@ the next two years, more than 100 educable defectives will pass out of the
 jurisdiction of the Nottinghamshire Local Education Authority without
 having been to Special Schools and the majority of them will fail to become
 ' subject to be dealt with.'
+
 By close and informal co-operation between Mental Deficiency Com-
 mittees, Education Committees and Voluntary Associations?the Board point
 out?the gap can be bridged to some extent, but nothing short of legislation
 can fill it effectively.
+
 Institutional Accommodation
+---------------------------
+
 In reporting steady progress in this direction, the Board refer to the
 part played by the transfer of Public Assistance Institutions to County and
 County Borough Councils. This they suggest, has had the effect of bringing
 the urgency of the problem to the notice of Local Authorities, for formerly
 a considerable part of the expenditure on mental defectives was merged in
 general Poor Law expenditure.
+
 During 1934, there has been an increase of 2,026 beds in Certified In-
 stitutions provided by Local Authorities, making the total number available,
 17*452. Most of the increase is accounted for by extensions at already existing
@@ -87,19 +99,23 @@ institutions, and several further schemes were being undertaken by Local
 Authorities at the end of the year under review. In addition, 9,053 beds
 are available in Institutions provided by other bodies, and 9978 in Public
 Assistance Institutions under Section 37.*
+
 *In this connection it may be noted that in another section of the Report, the Board
 comment unfavourably on the practice of sending low-grade mentally defective children
 to mental institutions as voluntary patients under Section I of the Mental Treatment Act
 ?f which a certain number of instances have been noted. Such a proceeding is, they
 consider, an abuse of the provisions of the Mental Treatment Act and of doubtful legality.
-84 MENTAL WELFARE
+
 Community Care
+-----------------
+
 The development of an efficient system of Community Care for
 defectives for whom permanent institutional accommodation is not necessary,
 is recognised by the Board to be of great importance. Indeed, the care of
 defectives living in the community is stated in the Report to be " perhaps
 one of the gravest responsibilities confronting those administering the M.D.
 Acts."
+
 In any effective programme for Community Care, the following are
 considered to be essential items: ?
 (a) Guardianship
@@ -108,6 +124,7 @@ considered to be essential items: ?
 (d) Statutory Supervision (with some provision for training or occupation)
 (e) Licensing from Institutions Hostels.
 (a) Guardianship
+
 The number of cases under Guardianship on ist January, 1935, was
 3,083, an increase of 274 on the 1933 figure. The Board urge Local Authorities
 to consider this alternative to institution care in all cases of defectives of
@@ -116,12 +133,14 @@ but with the proviso that no such child should be placed with a Guardian
 unless an Occupation Centre is available, and that in placing high grade
 adults in private homes, care should be taken to ensure for them some sort
 of employment, paid or unpaid.
+
 (b) Occupation Centres
 The rate of increase in the number of Occupation Centres, Industrial
 Centres and Clubs for defectives is regarded by the Board as disappointingly
 small, for there are still only 191 throughout the whole country, ana 42 towns
 with a population of over 50,000 have failed as yet to do anything in this
 direction.
+
 That the Centres are appreciated by those whom they are designed to
 help is strikingly proved by the regularity of attendance. The average attend-
 ance in 1934 at the 52 whole-time Centres was 75.8% of the numbers on the
@@ -129,6 +148,7 @@ registers?an achievement which the Board considers remarkable in view
 of the enfeebled condition of many of the children and of the fact that there
 is no legal compulsion. At the 9 whole-time industrial centres the average
 attendance was 88%.
+
 (c) Home Training
 In cases where defectives are unfitted to attend Centres or where no
 Centre exists, the Board urge the provision of Home Teaching. This can,
@@ -136,32 +156,40 @@ they consider, be best given by supervising officers of Local Authorities, as is
 done in Suffolk, Wiltshire and Kent, whereby overlapping of visiting is
 avoided, and they suggest one of the qualifications looked for in making such
 appointments should be some knowledge of handwork and training methods.
-MENTAL WELFARE 85
 (d) Statutory Supervision
+
 Under statutory supervision?a method of care which should, wherever
 possible, be combined with some provision for occupation and training?
 there were on 1st January, 1935, 33,377 defectives this being an increase of
 r)456 on the 1933 number. In addition there were 23,544 cases under " volun-
 tary supervision " compared with 22,665 last year. There are still six areas
 m which no use at all is made of this provision of the Mental Deficiency Act.
+
 Licence and Hostels
+--------------------
+
 Discharge from institutions " on licence " is urged by the Board as being
 not only a means of testing capacity for complete discharge but in some
 cases as the most suitable form of prolonged care following on a period spent
 *n an institution. Stable low-grade patients may be licensed to foster-parents,
 and high-grade patients may be allowed to return home on licence or be placed
 with employers.
+
 The Board consider that a Hostel from which selected patients go out to
 work daily, should be attached to every large institution and used as a pre-
 liminary to Licence, but at present only five of the larger institutions have
 such hostels attached to them. There are, in addition, 13 other Hostels
 functioning as separate establishments under the control of local authorities
 ?r of voluntary organisations.
+
 Mental Defect and Crime
+------------------------
+
 The Report for the year 1933 dealt with this question viewed from the
 standpoint of the triennial period, 1931-3, and when the figures for the further
 triennial period, 1934-6 have .been obtained, it is proposed to deal with the
 subject in greater detail.
+
 During 1934, 334 persons found guilty of criminal offences were dealt
 With as mentally defective (compared with 278 in 1933). Of: this number,
 48-4% were between the ages of 16 and 20; 18.3% were under 16, and
@@ -172,20 +200,24 @@ and 4% placed under Guardianship shows, observes the Board, that many
 Local Authorities when called upon to find a vacancy for an urgent case
 coming before the Courts, " have to fall back upon these admittedly inadequate
 alternatives owing to lack of colony provision."
+
 It is regarded as significant that out of the 334 criminal defectives dealt
 With in 1934, only 32.4% had been previously ascertained by Local Authorities
 and of these only 28.8% had attended Special Schools. This throws another
 side-light on the present legislative position with regard to feeble-minded
 children between 14 and 16.
+
 Nursing in Institutions for the Mentally Defective
+----------------------------------------------------
+
 During die past year, the Board record some inquiries made into the
 nursing in Institutions for Mental Defectives. Their returns are not yet com-
-86 MENTAL WELFARE
 plete, but they serve to show that considerably more than half the Matrons
 in the 67 Institutions where there are more than 100 patients, are either
 registered or certificated in Mental Nursing, or State registered in General
 Nursing, and of these, several are doubly qualified. A rather smaller propor-
 tion of Assistant Matrons in these Institutions possess similar qualifications.
+
 Whilst stressing the importance of both general and mental training for
 Matrons and Superintendents, the Board urge also that additional experience
 in the training of low-grade defectives should be regarded as an essential
@@ -196,7 +228,10 @@ Deficiency Institutions are at present recognised as training schools. The
 Board therefore hope that Managers of unrecognised Institutions will consider
 the possibility of obtaining recognition through application to the General
 Nursing Council or to the Royal Medico-Psychological Association.
+
 The Defective and Ourselves
+-----------------------------
+
 The general attitude of the Board to the whole social problem of the
 mentally defective and an indication of what they expect from Local Authori-
 ties, may well form the concluding paragraph of this summary: ?
@@ -218,7 +253,10 @@ adapted to the defective. The task is not an easy one and requires skilled
 and experienced workers to carry it out; otherwise it fails. But the ex-
 penditure which must be faced by the local authority is worth while
 economically and socially."
+
 Sir Leslie Scott
+----------------
+
 As we go to press, news reaches us that the Rt. Hon.
 Sir Leslie Scott, K.C., President of our Association, has been
 appointed a Lord Justice of Appeal. Readers of Mental Welfare

@@ -1,7 +1,8 @@
 Some Observations on the Mental Changes occurring in Encephalitis/Lethargica
 ===================================================================================
 
-By A. F. Tredgold, M.D., F.R.S.Ed.
+:Author: A. F. Tredgold, M.D., F.R.S.Ed.
+
 Physician to Out-Patient Department and Lecturer, Bethlem Royal Hospital.
 In the spring of 1918 there appeared in England a mysterious an r ?
 new disease. Its main characteristics were a curious combination o n
@@ -12,6 +13,7 @@ applied to an undoubtedly different disease prevalent in equatorial A rica, 1 w
 renamed Sleepy Sickness, and it is by this term that it is now popu ar y^ no> .
 Its official and scientific designation is Encephalitis Lethargica or Epi emic
 phalitis.
+
 I have said an apparently new disease advisedly. For it has been remarked,
 with a good deal of truth, that there is nothing new under the sun, an we.
 this disease is really new is open to considerable doubt. At any ra e researc e
@@ -23,7 +25,7 @@ in England in 1673, in Tubingen in 1712, and in various parts of Europe in
 1890. Although, after this lapse of time it is not possible to say definitely that
 these outbreaks were really sleepy sickness, there is reason for thinking that this
 probably was the case.
-2 MENTAL WELFARE.
+
 However this may be, the appearance of the disease in England in 1918
 was followed by a rapid spread, as will be seen by the following- figures of the
 cases officially notified. In the year 1919, 538 cases; in 1920, 914 cases; in
@@ -32,6 +34,7 @@ cases officially notified. In the year 1919, 538 cases; in 1920, 914 cases; in
 the real incidence, because even now, although the disease is better known and
 more cases are undoubtedly diagnosed, I constantly see cases which have escaped
 recognition.
+
 It is clear, therefore, that if only by reason of its rate of incidence, the
 disease has now become one of considerable importance. This importance is
 increased when we learn that the death rate is high; thus of 1,273 which were
@@ -39,11 +42,15 @@ investigated during the years 1919-20 no less than 48.3 per cent, proved fatal;
 and it is still further increased by reason of the serious mental changes which
 may occur in, or result from the disease. It is with these mental changes that
 I propose to deal.
+
 The mental changes in sleepy sickness are best considered under two head-
 ings, first, those which occur during the active stages of the disease, and secondly
 those occurring when the patient has recovered from the acute stage and has
 ceased to be physically ill.
+
 I.?Mental Changes of the Active Stage.
+---------------------------------------
+
 In a proportion of cases, beyond the characteristic sleepiness, which varies
 very greatly in degree, there are no mental symptoms at all. In a considerable
 number, however, there are mental changes of importance. The nature of these
@@ -66,6 +73,7 @@ patients are drowsy by day but extremely restless and excited at night. In
 fact during the night time they may be in a state very similar indeed to that
 of delirium tremens. They see animals and insects creeping up the walls, running
 over and under the bed, and they are kept in bed with the greatest difficulty.
+
 They keep up an incessant chatter with people they imagine to be present. A
 similar condition is not uncommon in children, a number of whom, in the acute
 stage of the disease, suffer at night from extreme restlessness accompanied by
@@ -76,7 +84,6 @@ in restraining such persons from injuring themselves or those about them. Other
 cases pass through the acute stage without showing any excitement whatever,
 and their general condition is one of marked apathy. They are not asleep, their
 eyes are wide open and they appear to be noticing what is happening round them ;
-MENTAL WELFARE. 3
 but to all questions they make no reply, or at most a curt monosyllable. They
 give the nurse no assistance whatever in her ministrations, at times they even
 offer a certain amount of resistance, as if objecting to being disturbed. They do
@@ -87,6 +94,7 @@ memory which takes place in persons ill from this disease. On several occasions,
 after carrying on a conversation with a patient for a considerable time, I have
 gone away and returned after a short interval, but he has not had the slightest
 recollection of having ever seen me before.
+
 There are many other mental changes to be seen in the acute stages of
 this exceedinglv interesting disease, indeed of some hundreds of cases I have
 never seen two precisely the same; those I have mentioned, however, are the most
@@ -106,6 +114,7 @@ there are nearly 100 cases in Mental Hospitals. Here again I think the numbers
 are understated, because I have seen post-mortem evidence of Encephalitis in
 patients dying in asylums where the disease had not been suspected during life.
 II.?Later Menial Changes.
+
 When Encephalitis first made its appearance it was commonly stated that
 if the patient did not die during the active stage of the disease his recovery
 would be complete and unattended by any ill after effects. Unfortunately further
@@ -114,6 +123,7 @@ sequelae of the utmost gravity may supervene months, or even years, after the
 patient has apparently recovered. Some of these after effects are on the physical
 side and consist of grave forms of paralysis; others are mental and these are even
 more serious.
+
 Impairment of the intellectual processes of mind is seen in a proportion of
 cases and its disabling effects may be very severe and prolonged. One such
 sufferer whom I first saw two years ago had occupied a very responsible position
@@ -129,7 +139,7 @@ marked defect of attention and memory, and a liability to fatigue on comparative
 slight mental exertion. So far as my experience goes many, but by no means
 all, of such cases do improve in time under suitable treatment, but the excessive
 fatiguability makes treatment very difficult and progress very slow.
-4 MENTAL WELFARE.
+
 Another common after effect is seen in a lack of interest and initiative. I
 have known patients of either sex, who have previously been full of life and
 energy, scrupulously particular in their person and dress and keenly interested
@@ -137,6 +147,7 @@ in home and social duties, reduced to such a state as to be utterly indifferent
 to anything happening round them, quite satislied to go about unwashed, unkempt
 and ill-clad, entirely careless as to the future of themselves or those belonging
 to them.
+
 One such man told me that he realised that his wife had been compelled to
 sell some of her jewellery to keep the house going and that he supposed the
 home would have to be broken up, but he said he did not mind, he had no feel-
@@ -144,6 +155,7 @@ ing at all about it. And yet, strangely enough, such people often evince an
 extreme degree of irritability and are apt to break out into a violent passion
 when pressure is put upon them, or when an attempt is made to rouse them
 from their inertia.
+
 This brings me to what I am disposed to regard as perhaps the most
 prevalent and most serious mental change of all, namely, the profound alteration
 in character which is so often seen after Encephalitis. The patient has appar-
@@ -169,6 +181,7 @@ adults, but it does occur, and it can readily be seen how dire the consequences
 may be, more especially so if the nature of the disease has not been recognised.
 Such a person may easily suffer imprisonment for acts which would formerly have
 horrified him and for which he is certainly not responsible.
+
 But while this serious state of affairs is relatively rare in adults, it is unde-
 niably far from being so in children, and the number of these latter in whom a
 marked intellectual or moral degradation has taken place has become so great
@@ -183,13 +196,13 @@ siderable. In some of these cases it is the intellectual functions of mind which
 have chiefly suffered. The child who had previously been bright becomes dull.
 He can no longer do the work of the standard he was in before his illness ; he may
 even lose some of his acquirements and the school knowledge he had formerly
-MENTAL WELFARE. 5
 possessed. His power of attention and concentration is impaired, he is no longer
 capable of making- mental effort and he becomes fatigued and confused in the
 attempt to do so. In a considerable number of cases the intellectual impair-
 ment is so pronounced that the child conforms to the definition of a mental defec-
 tive given in the Education Act, in that he is " incapable of receiving proper
 benefit " from the instruction in a public elementary school.
+
 In other children, with or without this impairment of educability, there is
 a marked alteration in the whole disposition and behaviour. The child who had
 previously been a well-behaved and affectionate member of the family, ceases to
@@ -212,6 +225,7 @@ to realise how great may be the change in disposition and behaviour, and what
 serious and seemingly wicked and senseless acts such children may commit. Again
 and again I have been told by a parent that a child whose behaviour had pre-
 viously been irreproachable has now become a veritable little fiend.
+
 There can be no doubt that in the cases I have just described there is a
 very serious impairment of both moral feeling and common sense. The altera-
 tion of moral feeling is shown by the lack of affection and self-respect, the want
@@ -227,6 +241,7 @@ capable of profiting by experience. Indeed, with regard to the nature of the
 misconduct of these children, also, I think, with regard to the psychology under-
 lying this, many of them are indistinguishable from that class of defectives known
 as moral imbeciles.
+
 I have seen a few cases in which, whilst the general misbehaviour is similar,
 the mental disorder underlying it appears to me to be slightly different. In these
 the child does show evidence of shame and regret for the acts he has committed.
@@ -236,8 +251,8 @@ says that he misbehaves because something seems to come over him and he cannot
 help himself. I think it is likely that in cases of this kind the region of the brain
 chiefly affected by the disease has been that concerned with the function of
 control.
+
 Such then are some of the chief mental changes which may follow this
-6 MENTAL WELFARE.
 extraordinarily interesting-, but truly terrible disease. It is of extreme interest for
 several reasons. In the first place it affords additional confirmation of the rela-
 tionship between mind and brain tissue. It demonstrates how changes in this
@@ -261,6 +276,7 @@ there are various forms of paralysis, or of tremor and rigidity, but the mind
 remains unaffected. In yet others the change is entirely mental, and it may then
 consist of intellectual impairment, of a deterioration of moral feeling, of a weak-
 ening of judgment, an incapacity to profit from experience, or of a loss of control.
+
 This surely suggests that these different functions have localisations in the brain
 cortex which further research may reveal. Assuming, as I think we must assume,
 that these changes are the consequence of alterations in the cells of the brain,
@@ -288,11 +304,11 @@ recovery. Some of these cases do slowly improve, the functions of mind have
 been embarrassed in their development, but have not been entirely arrested. It
 is, therefore, wise to allow of a reasonable time for improvement to take place
 before resorting to certification under the Act.
+
 This raises a very important administrative problem with regard to the class
 unable to pay for private care. If it is inadvisable without some delay to certify
 such children and young persons under the Mental Deficiency Act, and the same
 applies to certification under the Lunacy Act, what is to be done with them ? Some
-MENTAL WELFARE.
 of those whose educational capacity has been seriously impaired, and whose
 conduct is not too outrageous, may possibly be dealt with by being" sent to a resi-
 dential special school under the Educational Act. But the proportion of these is
@@ -304,6 +320,7 @@ of course, is worse than either the asylum or the institution foi defectives. I
 am inclined to think that the best solution of the problem would be the founda-
 tion of a special establishment with adequate medical supervision, undei th^.
 administration of the Ministry of Health or the Home Ofiice.
+
 It is clear, therefore, that while the disease presents many points of extreme
 interest, it is nevertheless a very terrible one. At the present time 0111^ expci ience
 is not sufficiently lengthy to enable us to say in what proportion the changes

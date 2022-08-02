@@ -1,7 +1,8 @@
 Architecture and the care of the Mentally Deficient
 ====================================================
 
-By Clough Williams-Ellis.
+:Author: Clough Williams-Ellis.
+
 [Mr. Clough Williams-Ellis is no doubt known to many of our readers by his delightful book,
 entitled " The Pleasures of Architecture." He is particularly well-qualified to discuss the
 question of Institutional architecture, as much of his finest work has been done on public
@@ -9,11 +10,13 @@ buildings, among them buildings for purposes of education or for the care of the
 He built, several years ago, tho Girls' Home of the Princess Christian Colony at Hilden-
 borough, Kent, and before that, the Cumnor Rise Home, near Oxford. He has built schools
 in Ireland, a Hospital in North Wales, and a Nursing Home in Surrey.
+
 Recently he was entrusted with the adaptation and extension of Stowe House for the
 purposes of a Public School, and anyone who has seen his dignified and harmonious buildings
 will not doubt that he understands the modern requirements of life in large communities.
 At present, he is also engaged on the conversion of Dartmouth House into a Club for the
 English Speaking Union.]
+
 None but a pessimist can regard the care of the feeble-minded on a large
 scale as anything but temporary. The whole point of the movement is not that
 it alleviates, but, so far as feeble-mindedness is a disease of the body politic,
@@ -26,7 +29,7 @@ for the present afflicted. It is rather a determination that the incidence of th
 scourge shall be more and more restricted in the future by wise action now,
 until recruits for the tragic army of defectives are sporadic and accidental only,
 and not predestined by heredity.
-60 MENTAL WELFARE.
+
 It would seem, therefore, that the more thoroughly the thing is tackled in
 our time the less need there will be for any permanent provision in the way of
 homes, settlements, and centres ; we should think of such institutions as emergency
@@ -37,6 +40,7 @@ health, eugenics, psychology and education, and the arts of living generally,
 are better appreciated and more thoroughly applied, mental efficiency will have
 been brought within manageable "bounds, and what is now an appallingly
 wholesale affair could then be tackled in detail.
+
 If this view is true and its realisation possible (if, alas ! not probable), we
 should be better advised in segregating and treating the maximum numbers of
 cases in our generation, even if less adequately than we should wish, rather
@@ -44,6 +48,7 @@ than at the same expenditure demonstrating on a smaller scale how perfectly the
 work should be done and the patients should be housed, were it economically
 possible, and were public opinion more determinedly behind the movement than
 it is at present.
+
 This is a hard saying for architects, because the implication is Army huts,
 not almshouses. Asked to plan any rural institution?and, of course, the mentally
 defective should be housed in the country?the architect's normal reaction is to
@@ -59,6 +64,7 @@ its less successful specimens. In the perfect state, all buildings, for whatever
 purpose, would be beautiful; in the more enlightened states even to-day all State
 and public buildings are at least seemly?that certainly being the impression that
 one brings back from Sweden and Holland and from many parts of Germany.
+
 Seemliness is probably all that we can aspire to in any project for the housing
 of defectives?seemliness, cheerfulness and convenience, none of which, fortu-
 nately, mean costliness. The same thing applies to a large extent in the building
@@ -79,7 +85,6 @@ fresh air was discovered by the last generation : we have now discovered, or
 at any rate believe we have discovered, the equal importance of sunshine, or at
 any rate of "sky-shine"; and the advanced doctor or schoolmaster almost
 demands a glasshouse for those in his charge?a glasshouse, moreover, the
-MENTAL WELFARE. 61
 walls of which are removable. Even private clients have already begun asking
 me to glaze their windows with the new glass that allows the valuable and
 certainly fashionable ultra-violet rays to pass through unobstructed.
@@ -91,6 +96,7 @@ Were certainly identified by numbers, and were disciplined and schooled, fed and
 tended ^as far as they were tended) in the wholesale manner so efficient from the
 Governors' and the financial point of view, so disastrous if the final product of
 the institution was what it was judged by.
+
 Happily, we have come to recognise that children are individuals, that they
 are separate persons, more individual, more diversified even than grown-ups, and
 we have learnt that to get anything approaching reasonably satisfactory results
@@ -99,6 +105,7 @@ Would seem that they were intended to grow up in families they have done so
 time out of mind?and there is no doubt something in them that demands, at
 any rate, an approach to family life, without which they cannot and will not
 develop normally or satisfactorily.
+
 That, I take it?possibly in a less, possibly in a greater degree?is true of
 defective children and adolescents, and indeed of defective grown-ups, so far as
 they do grow up. This means that the highly convenient, highly economical
@@ -110,6 +117,7 @@ that might be reasonably hoped for, as a colony of little houses pleasantly
 grouped about the main building, where would be the central kitchens and
 Probably central dining halls, the laundries, workshops, schoolrooms, etc., etc.,
 as well as the administrative offices.
+
 This all sounds very grand and ambitious; but as we hope the provision
 ?f such institutions is only a passing phase of one of the dangerous ages of
 ?ur civilisation, we must clearly either build them frankly for the emergency in
@@ -118,6 +126,7 @@ conveniently and usefully serve some other communal purpose that we have in
 view when their immediate object has been achieved ; or, lastly, we should make
 use of existing buildings at present unemployed or not usefully employed, that
 can be adapted at no great cost.
+
 Anyone who goes about \the Country or studies the advertisements in
 Country Life or on the back page of The Times will have been struck and
 Perhaps depressed by the number of large country houses now in the market,
@@ -131,9 +140,9 @@ Work can be picked up at such derisory prices. Where it is urgently necessary
 that funds be made to do as much as possible, and where the exact location or
 architectural character of the house is not of the first importance, one can scarcely
 conceive of anyone building when he might buy. One is comforted to know
-62 MENTAL WELFARE.
 that good architecture, whether ancient or modern, always seems to command
 its price, or still, at least, find a good market.
+
 There are, however, plenty of large houses, charmingly situated and with
 every sort of amenity, but having no particular architectural character, that can
 be bought for little more than site value, and that would seem to have all the
@@ -144,6 +153,7 @@ fulfilling of functions quite different from those for which they were originall
 built. Partly, of course, this is because they were not very well adapted for
 their original purpose, and therefore not too highly specialised as would be a
 modern house.
+
 What do we find are the usual amenities and services of an ordinary country
 mansion? Its site has usually been chosen with care, its aspect has been thought
 of, and its prospects are probably pleasant. It is set back from the main road,
@@ -156,12 +166,14 @@ modern methods and the reduced staffs of a private house, would probably be
 quite adequate with a little alteration for institutional cooking. Probably there
 is already a large laundry and estate workshop, and public rooms as large and
 many as would be needed for dining and recreation.
+
 The most skilfully devised settlement founded on a new site would take
 many years to mature into anything approaching what can be had almost at
 once in an old setting such as that described. Given a nucleus, given existing old
 buildings, established gardens, and old trees, anything built with a little care
 and imagination would fit into the picture and produce an ensemble entirely
 attractive.
+
 The land-owner's present embarrassment would seem to be the public
 institution's opportunity. Even the additions to the original fabric?which I
 conceive of chiefly in the form of separate buildings ranged around its old
@@ -173,6 +185,7 @@ some to stay, some to disappear again. As the outside walls of a house account
 for only a relatively small portion of the total cost, a slight economy in the
 outer walls makes sadly little difference to the whole cost of the building, if its
 internal fitting-up and finishing, its roof, etc., are normal and the same.
+
 To make any real difference between temporary and permanent building one
 needs to adopt a different outlook and a different standard throughout, and there
 is no one system or method that can be recommended as solving the problem

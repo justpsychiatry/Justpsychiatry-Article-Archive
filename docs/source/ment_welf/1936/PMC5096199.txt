@@ -1,9 +1,9 @@
 Psychology and Modern Problems
 ===============================
 
-Edited
-by J. A. Hadfield, M.A., M.B., Ch.B. Uni-
-versity of London Press. 5/-.
+:Author: J. A. Hadfield, M.A., M.B., Ch.B. Uni-
+versity of London Press. 5/
+
 In this volume is published a series of lectures
 held at the Institute of Medical Psychology i11
 London. Dr. J. A. Hadfield contributes an
@@ -20,6 +20,7 @@ Fliigel; " The Artist in Modern Civilisation,
 by Dr. Emanuel Miller; " Psychology and the
 Future of Religion," by the Very Rev. the
 Dean of St. Paul's.
+
 The subjects and their sponsors are in them-
 selves such as to ensure the deep interest of
 the book, whose chapters should, as Dr.

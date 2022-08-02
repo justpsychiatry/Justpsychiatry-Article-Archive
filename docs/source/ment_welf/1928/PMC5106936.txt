@@ -1,9 +1,9 @@
 Mental Defectiveness
 ======================
 
-36 MENTAL WELFARE.
 As defined in the Mental Deficiency Act 1927.
-By A. F. Tredgold, M.D.
+:Author: A. F. Tredgold, M.D.
+
 Since the beginning of this century, the interest of the general public and
 the medical profession in the subject of Mental Deficiency has been steadily
 increasing. The reason is clear. It is now known that the number of Mental
@@ -15,6 +15,7 @@ ascertainment, correct diagnosis, and proper administrative care, have become
 matters which the Nation can no longer afford to neglect. At the present day
 the subject is undoubtedly one concerning which every medical practitioner and
 social worker must have an adequate working knowledge.
+
 The term Mental Deficiency is comparatively new. Literally, it may be said
 to embrace all conditions of mind in which there is marked diminution of capacity.
 It may, for instance, be applied to the dement and the insane. For some
@@ -22,6 +23,7 @@ years past, however, the term has gradually been acquiring a more restricted and
 specific meaning, and at the present day when we speak of mental deficiency we
 mean a condition of incomplete mental development, or, as it is technically
 termed, " Amentia."
+
 From at least as early as the fourteenth, to near the close of the nineteenth
 century, the only forms of such incomplete mental development which were
 generally recognized were the severe and obvious ones termed Idiocy and Im-
@@ -36,6 +38,7 @@ that a class existed who, whilst similarly not so defective as imbeciles, nevert
 less suffered from such a degree of defect that they were unable to compete on
 equal terms with their normal fellows, or to maintain an independent existence
 without some external care, supervision or control.
+
 In the course of time the recognition of these two groups resulted in the
 passing of two Acts of Parliament. The first of these was the Defective and
 Fpileptic Children (Education) Act, 1899, which was subsequently retraced by
@@ -44,6 +47,7 @@ Act, 1913, which was subsequently amended in certain particulars by the Mental
 Deficiency Act, 1927. The Education Act, 1921, and the Mental Deficiency Acts,
 1913 and 1927, are therefore the authoritative and legal pronouncements as to
 what constitutes Mental Deficiency.
+
 Unfortunately, the definitions in these respective Acts are not quite in
 agreement, and this has led to some confusion, and to two different types of
 individuals being designated mental defectives. This discrepancy in the defini-
@@ -53,7 +57,6 @@ provide suitable education for those who cannot profitably be taught in ordinary
 schools, hence the criterion adopted is that of educational incapacity. The main
 purpose of the Mental Deficiency Acts, on the other hand, is to provide suitable
 care and control, and hence the criterion is that of social incapacity. Although
-MENTAL WELFARE. 37
 the only test laid down by the definition in the Education Act is that of scholastic
 ineducability, I am of the opinion that the intention of the framers of the Act
 was not to legislate for children who were solely and simply defective in capacity
@@ -73,6 +76,7 @@ this class in mind, although in my opinion it is unfair to stigmatize such child
 as mentally deficient. I regard them as belonging to the lower stratum, the "dull
 and backward" group, of the normal population. It is with Mental Deficiency
 as defined in the Mental Deficiency Acts that I now propose to deal.
+
 The Mental Deficiency Act of 1913 did not define mental deficiency as such,
 but it defined four classes of defectives, namely:?Idiots, Imbeciles, Feeble-
 minded, and Moral Imbeciles. With the purpose of making it clear that the Act
@@ -84,9 +88,11 @@ was largely to remedy them that the Mental Deficiency Act 1927 was passed
 last year. In this Act, in addition to certain alterations in the definitions of the
 four classes, a new section was added defining mental deficiency. This Section,
 1. (2), is as follows : ?
+
 " Mental Defectiveness means a condition of arrested or incomplete develop-
 ment of mind existing before the age of 18 years, whether arising from in-
 herent causes or induced by disease or injury."
+
 It is at once apparent that this definition is based upon a much wider con-
 cept of the nature of mental deficiency than that which was held by the Law
 before 1913. Prior to that date mental defect was legally and commonly regarded
@@ -96,6 +102,7 @@ says " arrested or incomplete development of mind." It therefore becomes of
 importance to consider what form and degree of arrest or incompletion are nec-
 essary to bring the individual within the various classes of defectives defined by
 the Act.
+
 In order rightly to understand this fundamental question, it is necessary to
 make a short digression, and to refer very briefly to certain points regarding the
 constitution of mind. We may regard mind as divisible into three main groups
@@ -108,7 +115,7 @@ and the perpetuation of his kind, and hence they became organically fixed. At
 the present day, human instincts constitute powerful urges to particular modes
 of conduct, such, for example, as those of sex, self-preservation, combat, ac-
 quisition, self-display, and many others.
-38 MENTAL WELFARE.
+
 The emotional functions are the affective or feeling processes of mind. Each
 instinct is accompanied by its corresponding emotion. The instinct of combat,
 for instance, is accompanied by the emotion of anger or rage. Emotions, how-
@@ -119,6 +126,7 @@ sound, for instance, constitutes the aesthetic sentiment; that which attaches to
 ideas of right and wrong, and of moral duty, constitutes the moral sentiment.
 Since the emotions serve to reinforce and increase the driving power of the in-
 stinct or idea, they are exceedingly powerful incentives to behaviour.
+
 The intellectual functions consist of the perceiving, understanding, delib-
 erating, discriminating, planning, co-ordinating and controlling processes of
 mind. Their development increases with man's gradual evolution from a state of
@@ -128,6 +136,7 @@ and their importance consists in the increased capacity they bestow upon man
 for acquiring knowledge, understanding relationships, making plans, learning
 from experience, and modifying and controlling primitive instincts and emotions
 so as to enable him to adapt himself to his surroundings and achieve an ideal.
+
 Let us now consider the importance respectively of these instinctive,
 emotional and intellectual functions of mind in enabling the individual to main-
 tain an independent existence in a civilized community. There is no doubt that
@@ -149,6 +158,7 @@ become of more and more importance. We may say, in fact, that while in the
 case of the lower animals survival is largely, although perhaps not entirely, de-
 pendent upon instincts, in man it is dependent upon the intellectual functions
 of mind.
+
 It is necessary to point out, however, that what we term the intellectual func-
 tions consist of several groups of processes. The chief of these groups are as
 follows:?(1) That group of processes concerned in the acquirement of know-
@@ -163,11 +173,12 @@ sphere. (3) That group of processes concerned in the co-ordination and general
 control of conduct, and its adaptation to present and future needs. An individual
 with a high development of these may have little learning and no special ability,
 but he will be adaptive, and the possessor of " common sense."
-MENTAL WELFARE. 39
+
 Now, whilst there are, of course, certain basic processes, such as attention,
 perception, memory and ideation, common to all these groups, there is no doubt
 that the special processes which are characteristic of each group may be developed
 in very different degrees in different individuals.
+
 There is equally no doubt that these groups are not of equal value in enabling
 the individual to maintain an independent existence. Thus, there are persons
 with a high capacity for learning, or a degree of special ability amounting to
@@ -188,6 +199,7 @@ variations in the development of the various processes which determine adaptatio
 Hence, mental defectiveness may be of various grades, and, dependent upon the
 defect falling more particularly upon certain processes, it may be of various
 types.
+
 It is these variations in degree and type of defect which give rise to the
 different classes of defectives defined by Law. There is no hard and sharp line
 of demarcation, either between the different grades of defect, or between mental
@@ -199,14 +211,17 @@ the greatest difficulty. However, apart from individuals on the borderland,
 either of the different grades of defect or of the normal, the bulk of those in the
 four classes of defectives do present certain tolerably well defined characteristics
 which will be briefly described.
+
 Idiots are the lowest grade of defectives. They are characterized by such a
 profound defect of adaptiveness that they are unable to understand the relation-
 ship between simple causes and their effects.
+
 Imbeciles are less defective and have sufficient understanding to protect
 themselves from ordinary physical dangers. They are defined by the Act as
 " incapable of managing themselves or their affairs." This is true, but it is a
 misleading definition which does not at all adequately describe the marked
 deficiency of imbeciles.
+
 The Feeble-viinded are the mildest grade of defectives and are by far the
 most important class for several reasons. They are the most numerous; for every
 idiot there are approximately 3 imbeciles and 15 feeble-minded. The fact that
@@ -218,10 +233,10 @@ range of school and general knowledge, and, if provided with a suitable occupa-
 tion and afforded a little supervision, can earn wages which will pay for, or con-
 tribute materially to, their keep. In spite of this superiority, a careful mental
 investigation will usually reveal such a definite defect of general adaptiveness
-40 MENTAL WELFARE.
 as to leave no doubt regarding them. Cut in some of them the degree of defect
 is so slight that diagnosis may be a matter of considerable difficulty, and it is
 necessary to describe these in greater detail.
+
 Many of these high grade feeble-minded have been educated in ordinary
 schools, and although enquiry will show that the majority of them have been
 behind the average standard for their years, when they are seen as adolescents
@@ -260,6 +275,7 @@ of general control, and that in most, if not all, of these persons this defect o
 trol is merely an additional complication which is superadded to defects similar
 to those which exist in the stable type. I therefore prefer to call them the " un-
 stable " type of feeble-minded.
+
 Now whilst the life history of these high grade feeble-minded persons, of
 either the stable or unstable type, clearly shows that they are in some way
 defective and in need of care and supervision either for their own protection or
@@ -273,7 +289,6 @@ They make mistakes, but they profit by the experience and do not repeat them.
 Their ability is limited, but they have some ability to adapt themselves to con-
 ditions outside their previous experience. They may not be able to look a long
 way ahead, but they can look far enough for their needs. They can make plans
-MENTAL WELFARE. 41
 for their future, and they can co-ordinate and direct their conduct so as to achieve
 these plans. The feeble-minded are lacking in these aptitudes. In one person
 it may be discrimination or judgment that is chiefly at fault, in another provision
@@ -284,6 +299,7 @@ iently termed " wisdom " or " common sense." The lack of this, which can
 usually be demonstrated by appropriate tests and careful investigation, renders
 them in need of care, supervision or control, and brings them within the mean-
 ing of the Act.
+
 The fourth and last class of defectives specified by the Act are the Moral
 Defectives. They are defined as " persons in whose case there exists mental
 defectiveness coupled with strongly vicious or criminal propensities, and who
@@ -299,11 +315,13 @@ stincts and the regulation of conduct. (3) The presence of strongly pronounced
 instinctive tendencies of the purely self seeking order. The net result of this
 combination is to give rise to an individual whose whole life is one of senseless
 misdoing, and who is as devoid of shame as he is of sense.
+
 Having now attempted to describe the nature of Mental Deficiency from the
 psychological aspect, it remains to consider two other terms of the statutory
 definition; namely, that the arrested or incomplete development of mind must
 have been in existence before the age of 18 years, and that it must either arise
 from inherent causes or be induced by disease or injury.
+
 The development of mind is dependent upon two factors :?(1) a potentiality
 for development inherent in the germ cell, and (2) external factors of the environ-
 ment which operate to favour or thwart the realization of this potentiality. If
@@ -320,6 +338,7 @@ of all is that of the sentiments, such as those of right and wrong, of honour,
 honesty, and of social and moral obligation. With the acquirement of these,
 mental development becomes complete, and the individual is fully equipped to
 maintain an independent existence in a well ordered and law abiding community.
+
 It is not possible to say precisely at what age this development of mind
 reaches completion, and undoubtedly there are individual differences. It is now
 generally agreed, however, that in the great majority of individuals development
@@ -329,7 +348,6 @@ the mental capacity of the youth of 18 years is equal to that of the mature indi
 idual of 45. Clearly this is not the case. What is meant is that by the age of
 IS or thereabouts, the normal individual is in possession of all the processes of
 mind, and that they are sufficiently developed to admit of independent social
-42 MENTAL WELFARE.
 adaptation. With further years he undoubtedly acquires more knowledge and
 experience. He is capable of a wider outlook, his judgment becomes more sound,
 and his general mental capacity greater. But no new mental processes are
@@ -337,6 +355,7 @@ acquired; the achitecture of mind is complete by about the 18th year. To descend
 to a very materialistic metaphor, we may say that by this age the normal indiv-
 idual is equipped with a full set of mental tools, and that further years merely add
 to his skill in using them.
+
 It is for this reason that the words "from birth or from an early age " have
 been deleted and that the new definition specifies that the defect of mind must
 have existed before the age of 18 years. Any mental disability sufficient to
@@ -346,6 +365,7 @@ Amentia, and they are not intended to be included within the Mental Deficiency
 Act. There is no doubt, however, that under the old definitions many defectives
 who were urgently in need of protection, were debarred from the provisions of
 the Act. It will now be possible to include them.
+
 It has been said that mental growth is the resultant of two sets of factors,
 intrinsic and extrinsic. There are some points regarding these to which it is
 necessary to refer. The factor of chief importance is the intrinsic one; that is,
@@ -366,6 +386,7 @@ until the age at which these processes are normally evolved, that the deficiency
 becomes manifest. In such a case the individual may not show any serious
 abnormality until he is required to take the responsibilities of life upon his own
 shoulders. His defect then stands revealed.
+
 But even if the developmental potentiality of the germ cell be perfectly nor-
 mal, arrest of mental growth may be brought about by factors of the environ-
 ment causing injury or disease to the growing brain. Although these will produce
@@ -385,10 +406,11 @@ they may be conveniently divided into three groups : ?namely, those incident
 before, during, and after birth. During birth, the chief factor is some form of
 injury. Before and after birth, toxic processes of some kind or other predominate,
 causing the various forms of meningitis and encephalitis.
-MENTAL WELFARE. 43
+
 In conclusion, the essential concept to keep clearly in mind is this:?That
 the legal criterion of Mental Deficiency is social incapacity of such degree and
 kind as to necessitate care, supervision and control. If this incapacity is due to
 any imperfection of mental development, of no matter what kind, so long as it
 has existed before the age of 18 years, then the individual is a mental defective
 within the meaning of the Act.
+

@@ -1,7 +1,8 @@
 Primary and Secondary Amentia
 ================================
 
-By L. S. PENROSE, M.A., M.D.,
+:Author: L. S. Penrose, M.A., M.D.,
+
 Research Medical Officer, Royal Eastern Counties' Institution
 The tradition of classifying all mental defectives into the two categories
 of primary and secondary amentia has been very widely known and followed.
@@ -19,11 +20,13 @@ French physicians who used the term idiocy to signify congenital and im-
 becility to signify acquired defect. In 1877 Ireland C) proposed a grouping
 based on pathological considerations and gave the name " genetous idiocy "
 to the cases which he considered to be determined by heredity, among which
+
 (x) Idiocy and Imbecility.
-58 MENTAL WELFARE
+
 he included mongolism The remaining patients were named under a number
 of different headings such as " microcephalic idiocy," " epileptic idiocy," and
 " paralytic idiocy."
+
 Tredgold, (2) in 1920, revised this classification, calling those cases
 which he deemed to be of hereditary or germinal origin, Primary and the
 remainder, Secondary. At the same time he retained the descriptions of the
@@ -38,11 +41,13 @@ not apply so much. The estimate of Shrubsall and Williams (") in 10,000
 cases was 71% primary. Larsen (4), in a series of 1,000 examinations, gave
 the value 76% for what he termed " endogenous " defectives?a group con-
 forming closely, by definition, to Tredgold's primary group.
+
 Let us now consider the question from the critical point of view. Imagine
 we are faced with the problem of deciding whether a given patient is to be
 placed in the group of Primary or Secondary defectives. We are to consider
 every relevant fact in the personal and family history and make up our minds
 one way or the other. I will illustrate this by describing a case.
+
 There is a female patient in the R.E.C.I., aged 19, who shows a very
 characteristic post-encephalitic condition. She is much retarded in all her
 actions and in speech. She drags her feet when walking and does not swing
@@ -57,22 +62,24 @@ a miscarriage. This led to her institutional detention, first as a place-of-safe
 case and later on she was certified feeble-minded. Fler mental age, as judged
 by the Stanford-Binet scale, is ten years and she scored nine years six months
 on the Porteus Maze Tests.
+
 One's first impulse in a case of this kind is to say that it is clearly an
 example of purely secondary amentia, if indeed one would call it amentia
 at all. But there is another side to the picture. By careful investigation, we
 found evidence of mental retardation previous to the attack of encephalitis.
+
 (2) Mental Deficiency, 1st Edition.
 (3) Mental Deficiency Practice.
 (4) A Neurologic-Etiologic Study. (Acta Psychiatrica et Neurologica, Vol. VI, 1931,
 Fac. 1.)
-MENTAL WELFARE
-59
+
 The mistress of the school she attended up to the age of ten remembered her
 well and informed us that she was rather restless and backward in her work,
 definitely above the special school standard but two or three years retarded
 in some subjects, for example, she was very bad at arithmetic and " altogether
 a C child." She further said that, although the child was sensible and like-
 able, she seemed a bit naughtier than the other children.
+
 Now it seems clear that this girl was below the normal standard of
 intelligence and would have come into the group of dull or backward child-
 ren in any circumstances. An organic disease was sufficient to produce mental
@@ -94,6 +101,7 @@ primary or secondary amenta. They must belong to a class which is primary
 in the sense of susceptibility which is genetically determined, and secondary
 in the sense that the condition would not have come about but for the
 accidental presence of the infective agent.
+
 I have described this one case because it shows the difficulty of classifica-
 tion fairly freely, but I could have described almost any case in the institution
 to illustrate the same difficulty. Very often the more one knows about a case
@@ -112,7 +120,7 @@ that there is not a hereditary disposition present in infective conditions. In
 mongolism and some other definite types we have strong indications that both
 hereditary and environmental adverse factors work together to form the final
 product.
-60 MENTAL WELFARE
+
 It is curious that the belief that all defectives can be divided into the two
 groups of primary or secondary or similar classes should be so widely accepted.
 If we take a case at random and examine it carefully we are extremely likely

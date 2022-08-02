@@ -1,7 +1,8 @@
 A Note on the Sterilization' of Mental Defectives
 ==================================================
 
-By A. F. TREDGOLD, M.D., F.R.C.P., F.R.S.E.
+:Author: A. F. Tredgold, M.D., F.R.C.P., F.R.S.E.
+
 The recently published Report of the Joint Mental Deficiency Committee
 of the Board of Education and the Board of Control has shown that the num-
 ber of defectives in the country is almost double that ascertained by the Royal
@@ -15,11 +16,12 @@ as to demand the most serious consideration by the community. The most
 important aspect of the problem is unquestionably that of prevention, and in
 regard to this it is very natural that the subject of sterilization should have
 attracted a large measure of public attention.
+
 This subject was considered very carefully by the Central Association for
 Mental Welfare several years ago and in 1926 I wrote an article which was
 afterwards published as a separate pamphlet. This pamphlet is now out of
 print and I have been asked to write another note on the subject.
-10 MENTAL WELFARE
+
 There has been no material change in the arguments for and against the
 sterilization of defectives. Its advocates make three main claims; first, that it
 would greatly diminish, if not entirely eliminate, mental defect; secondly, that
@@ -44,6 +46,7 @@ defect is not due to the absence from the germ of a definite factor, or even of
 a series of factors; but that it is the expression of an impairment of develop-
 mental potentiality. In other words, it is due to a qualitative rather than to a
 quantitative change; this change being of the nature of a germinal vitiation.
+
 There is reason to think, however, that the amount of this vitiation varies not
 only in the germ cells of different individuals of the same stock but also in the
 germ cells of the same individual. Moreover, it is highly probable that even
@@ -64,7 +67,7 @@ doubtedly is in the majority of cases, without the parent or parents of the
 affected child being defective. As a matter of fact, my own observations show
 that, in relation to the total number of defectives, the proportion of those who
 are the offspring of a certifiably defective parent or parents is extremely small.
-MENTAL WELFARE n
+
 And I have no doubt that this is the general experience of all those who have
 investigated any considerable number of these cases. This, however, is a very
 important fact in relation to the preventive effect of the sterilization of defec-
@@ -109,7 +112,6 @@ and tools of the ignorant, designing and unscrupulous. They would have no
 real companions, and they would inevitably drift into destitution, vice and
 crime. In other words, the liberation of defectives to an extent which would
 make an appreciable difference to the nation in the cost of their maintenance
-12 MENTAL WELFARE
 in institutions, would simply result in a return to the evil days which existed
 before the passing of the Mental Deficiency Act, and those who are familiar
 with those days know only too well how evil they were, and how wretched
@@ -126,6 +128,7 @@ be an uneconomic proposition, but I am of opinion that, on the whole, institu-
 tional care is certainly more economical than were the conditions which
 formerly prevailed and which would again prevail were any considerable
 number of these persons to be discharged from such care.
+
 There is, moreover, another important point which has to be considered
 in regard to this. It is well known that under the conditions which formerly
 prevailed a considerable amount of promiscuous sexual intercourse took place
@@ -148,13 +151,13 @@ ization may, and do, pooh-pooh this aspect of the question and affect to regard
 it as a thing which is not at all likely to happen, but I venture to believe that
 what I have stated will be endorsed by everyone having practical experience
 of defectives.
+
 The third claim is that sterilization, by permitting the discharge of defec-
 tives from institutions, would conduce to their greater happiness. It is true
 that a small proportion of defectives do resent being detained in institutions.
 They object to the routine and the discipline. They dislike having to do any
 work. They would much rather be released from all oversight and control
 and be where they could do exactly what they pleased, how they pleased and
-MENTAL WELFARE 13
 when they pleased. Almost invariably, however, these are the very persons
 who have proved their utter incapacity for social adaptation, who are so fickle
 and unstable that no one will employ them, and for whom the supervision,
@@ -166,6 +169,7 @@ On the contrary, institutional life affords far greater opportunities for compan
 ionship, recreation and amusement than they would obtain outside, besides
 shielding them from that constant reminder of inferiority which results from
 their incapacity to succeed in competition against their normal fellows.
+
 So far I have been considering the question of sterilization as a general
 policy and a wholesale measure to be applied to all defectives. I think it is
 clear that it would fail to accomplish any of the things which have been claimed
@@ -181,6 +185,7 @@ trained and inefficient defectives. It is more conducive to their happiness. It
 ls> in the long run, almost certainly less costly; and, if carried out in suitably
 staffed and up-to-date institutions, it is attended with some degree of remun-
 erative return.
+
 It is now necessary to consider another aspect of the question. It is recog-
 nised that there are many defectives who are stable and well conducted and for
 whom, after training in institutions, suitable employment could probably be
@@ -193,13 +198,13 @@ different proposition to that of the wholesale and indiscriminate sterilization 
 nave hitherto been considering. It is also one which has received a considerable
 measure of support from persons having practical knowledge of defectives. It
 is therefore worthy of careful and serious consideration.
+
 My personal opinion is that there are certain cases of this kind in which
 sterilization might well be an appropriate and desirable procedure. Its sanction
 w?uld, however, necessitate an alteration in the Law and the practical diffi-
 culty, to my mind, consists in drafting such legal definitions and regulations
 as would ensure its restriction to suitable cases. It must be remembered that
 emands for the discharge of patients who are quite unsuitable for discharge
-i4 MENTAL WELFARE
 are very frequent and insistent. They come from parents, friends, lay com-
 mittees and authorities responsible for payment. If sterilization were legalized
 these demands would certainly be increased and there would be a very real
@@ -207,6 +212,7 @@ danger of the operation being extended to those defectives who were quite un-
 suited to be outside institutions. In the minds of those who had not carefully
 considered the matter the discharge of these persons would appear so safe and
 it would unquestionably be used as a lever in favour of such discharge.
+
 Now it cannot be too strongly emphasised that, whether sterilized or un-
 sterilized, institutional treatment has been shown by years of experience to be
 the most satisfactory means of dealing with the bulk of defectives. It cannot
@@ -225,6 +231,7 @@ community and the defectives. I do not say that these objections are insuper-
 able; but they are certainly serious and require careful consideration before
 sterilization, even if intended to be restricted to a particular class, were made
 legal.
+
 I have not considered it within my province to deal with any objections
 to sterilization which might be made on religious or ethical grounds, although
 doubtless such would be advanced. Nor have I considered the question from

@@ -1,7 +1,8 @@
 Speech Training for Defective Children
 =======================================
 
-By EILEEN C. MACLEOD
+:Author: Eileen C. Macleod
+
 Article Two
 There is a very high percentage of speech-defects among defective child-
 ren, which is, of course, not surprising, since the production of speech is a
@@ -18,7 +19,7 @@ the thought-process is slow, and faltering, or spasmodic and uncontrolled, the
 speech will be the same. Thus it is necessary to take a wide view of the speech
 processes when planning a course of speech-training exercises for defective
 children.
-2 MENTAL WELFARE
+
 When a defective child is placed under the care of a trained teacher, or
 enters a school or institution, it is important that a thorough investigation be
 made into the child's understanding of speech, and of his capacity for using
@@ -33,6 +34,7 @@ Repeat the sound which evoked the quickest response, gradually increasing the
 distance or decreasing the strength of the sound, until the minimum is reached
 ?take careful notes, and repeat the procedure after an interval of a day or so.
 These tests are for general aural acuity.
+
 To proceed to voice and pitch, take various widely different vowel sounds,
 such as ah, ee, and oh, keep the pitch the same, and see whether the child can
 distinguish them when he does not see the speaker's mouth. Here it is as well
@@ -47,6 +49,7 @@ recognise a difference between tunes; but this is often recognised by the change
 of rhythm rather than by any distinction of pitch or melody, although some
 defective children have a very highly developed ear for melody, and can hum
 tunes accurately after hearing them only two or three times.
+
 All the foregoing tests are to determine what the child hears, rather than
 how much he understands. This is accomplished by taking a well-known
 object such as a shoe, a sweet, a spoon, etc,, which a normal child might be
@@ -63,7 +66,7 @@ other child should be present?only the tester, the child and a third person
 sitting quite still and silently taking iiotes. Do not attempt too much at once
 as such tests require a great deal of concentration, and are tiring for defective
 children.
-MENTAL WELFARE 3
+
 Having determined roughly the degree of speech-understanding, the next
 step is to find out how far the child can imitate accurately the various sounds
 necessary for English speech; it does not matter whether the vowels are tried
@@ -71,11 +74,13 @@ first or the consonants, or whether they are taken indiscriminately, the import-
 ant point is to see that all the sounds are tested, and those readers who have
 some phonetic training will have no difficulty in grouping the various sounds
 suitably, passing from the simpler to the more complicated.
+
 For the benefit of those who have not any knowledge of the phonetic
 structure of English, I give a list of the sounds which are used in educated
 Southern English, using a system of key words instead of phonetic symbols.
 The Sounds of Educated Southern English
 Single Vowels
+
 ee as in meet a as in mad aw as in awe
 mid ah ? ? calm u ? ? put
 met o ? ? cot 00 ,, ? boot
@@ -115,33 +120,38 @@ s ? ? see spl ? splendid
 z ? ? ^rone, seai"
 sh ? ? shoe
 zh ? ? measure
+
 Careful note should be taken of any sounds which are incorrectly articu-
 lated, or which call for great effort, and of course, any that are missing; also
 sounds which do not actually occur in English may be used in an attempt to
 produce a sound which the child has not " heard " correctly; for example it is
 not unusual to find the Welsh 11 (in reality an / made without voice) or a
 German ch (whispered y) used instead of an s.
+
 It will be seen that up to now no attempt has been made to teach the
 child any sounds or words, the sole object has been to ascertain his present
 attainment in the field of speech and sound recognition and production. Unless
 this is carefully done much time may be wasted on attempting the impossible,
 or in teaching the more difficult sounds before the child has mastered the
 simpler ones
+
 In considering the method to be employed in developing speech in
 defective children, we cannot do better than follow as closely as possible the
 manner in which normal children acquire the faculty of speech, but naturally
 it is necessary to simplify, slow-down and magnify each step.
+
 The first essential is practice in listening to sounds so that the child's ear
 may be trained to distinguish one from the other, and to register mental im-
 pressions of the various sounds which have to be used as patterns when the
 child tries to make the sound himself.
+
 This listening-practice should be immediately followed by practice in
 making the sound or sounds which have been given, so that a firm link is
-MENTAL WELFARE 5
 forged between aural impression and oral expression. Most children are
 natural mimics, and defective children within their individual capacities, are
 no exception to this rule, therefore this is one of the best ways of focussing
 attention on sounds.
+
 At first it is best to practice single sounds, vowels and consonants, but
 as the children become proficient in reproducing these accurately one may pass
 on to syllables such as pa, be, too, so, ess, op, to dissyllables, aba, atee, eeso,
@@ -149,6 +159,7 @@ amay, etc., and thence to more complicated combinations of vowels and double
 consonants. It is advisable that this practice shall be wholly composed of
 nonsense " words, as the object is to concentrate on sounds, entirely apart
 from meaning.
+
 To exercise the voice and ear for pitch, take a vowel, ah, or ee, first with
 a rising pitch, then falling, then fall-rise, rise-fall, and finally various level
 pitches. In order to hold the children's attention it is useful to vary this by
@@ -160,6 +171,7 @@ to be made as the pitch changes; this is a good exercise for precision of articu
 tion. There are many more exercises I could mention for developing the
 mechanical side of speech, but I am sure my readers will have no difficulty
 in working out others to suit individual requirements.
+
 I advise that all defective children should have five or ten minutes ear
 and sound drill each day, as it is extremely good training in concentration and
 muscular co-ordination; those children who can produce the sounds easily and
@@ -173,13 +185,14 @@ weeks of inertia, a low-grade child's attempts to copy a sound which the
 others have been making daily, and little by little he may acquire a repertoire
 ?f 4j 5 or more sounds instead of the single grunt he possessed before; surely a
 great advance in control.
+
 To conclude, may I sum up the various points of importance.
 I- Investigate thoroughly and systematically the child's capacity of sound
 recognition, sound production, understanding of spoken word.
 Develop along natural lines?ear-training, sound-drill, word-association;
 using wherever possible actual objects, daily necessities, rather than
 pictures.
-6 MENTAL WELFARE
+
 3. Capacity for using speech intelligently is determined by mental capacity.
 This can be used to the fullest extent only when mechanical difficulties
 are removed, so that the limited capacity of the child is not divided between
@@ -187,6 +200,7 @@ the thought-process and the actual articulation of the sounds.
 4. Ear-training and sound-production exercises are stimulating and should be
 part of the daily routine of all defective children, even of low-grade
 defectives.
+
 5. Proceed slowly, introducing new sounds gradually.
 6. Do not teach the alphabet or names of the letters, use the sounds only.
 I feel I must apologise for the complete absence of literary style from this

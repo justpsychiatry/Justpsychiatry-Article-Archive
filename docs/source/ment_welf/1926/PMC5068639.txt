@@ -1,11 +1,10 @@
 Mental Welfare and the Endocrine Organs
 ========================================
 
-
-MENTAL WELFARE. 63
-By Ivo Geikie Cobb, M.D., M.R.C.S.
+:Author: Ivo Geikie Cobb, M.D., M.R.C.S.
 Author of " The Organs of Internal Secretion" Aids to Organotherapy," etc.
 Introduction.
+
 It is only in recent years that our knowledge of those small bodies which
 are known as the Endocrine glands has been sufficient to be of any real practical
 value to the physician. We are still, moreover, only on the threshold of ^the
@@ -20,7 +19,9 @@ to bodily health and mental efficiency. Furthermore, it behoves us all to realis
 that the future holds out hope that the treatment of many disorders of mind and
 body will be materially helped by the use of preparations manufactured from the
 glands of animals.
-Historical.,
+
+Historical.
+-----------
 Interest was aroused among physiologists as early as the middle of the last
 century in those organs of the body, which, while of definite glandular structure,
 yet appeared to possess no ducts through which to deliver their secretions. 1 his
@@ -29,6 +30,7 @@ We go back to less enlightened days, we can trace the administration of
 Preparations of animal organs down to very early times. Shakespeare's " eye
 of newt and toe of frog " reminds the reader of an empericism both nasty and
 Meaningless.
+
 In 1859, a physiologist named Schiff discovered that the removal of the
 thyroid led to death. Kocher's work subsequently confirmed and enlarged this
 knowledge; while the work of Vassale in Italy, Gley in France, and G. R.
@@ -37,6 +39,7 @@ of the thyroid gland and the possibility of feeding individuals deficient in the
 secretion of this gland with the thyroid of the sheep. This was the first positive
 proof that a deficient thyroid could be replaced per os, and was, in fact, the
 dawn of modern scientific organotherapy.
+
 Previous to this, a physician named Brown-S?quard had published the
 results of administering organic substances, more especially in senility, and
 had claimed that their use warded off the onset of old age and neutralised the
@@ -45,16 +48,20 @@ and to some extent, perhaps, his claims were exaggerated. Nevertheless, he is
 known as the " Father of Organotherapy," and it must be conceded that he
 Was the first to draw attention to the possibility of treating disease by means oi
 Preparations manufactured from animals.
+
 Many other names stand out as pioneers in this field, both as to the role
 ?f the ductless glands and as to their efficacy in treatment. Enough has been
 said, however, to indicate in general terms how the comparatively recent develop-
 ment of this subject has revolutionised medicine and has placed in the hands of
 the clinician fresh weapons with which to fight disease.
-64 MENTAL WELFARE.
+
 General Considerations.
+------------------------
+
 There are several glands in the body which are unprovided with ducts and
 which pour their secretions directly into the blood-stream. The chief among
 these are the thyroid, parathyroids, pituitary, and adrenals.
+
 Other organs are provided with ducts through which the juice they
 manufacture can reach its destination. While some?possibly many more than is
 at present believed?produce both an internal secretion which is absorbed directly
@@ -66,14 +73,17 @@ is a point not yet settled. Certain glands, however, are known to be so
 constructed, and perhaps the best example is the pancreas, commonly known as
 the " sweetbread." This gland furnishes its external digestive juice and also
 possesses an internal secretion, whose function is to regulate sugar metabolism.
+
 Any damage to the cells in the pancreas which manufacture this secretion results
 in the appearance of increased amounts of sugar in the blood and sugar in the
 urine?in other words, diabetes.
+
 The production of insulin (the substance obtained from the pancreas of
 animals) and its use in the treatment of diabetes, is one of the most brilliant
 and epoch-making achievements in the history of the subject we are now
 considering. Prior to this discovery, diabetes could be treated only by diet and
 symptomatic drugs.
+
 Other glands possessing both internal and external secretions are to be
 found among the sexual organs, and probably many of the glands, such as the
 liver, spleen, etc., whose work is concerned primarily with metabolism. The
@@ -83,11 +93,15 @@ of life, and extreme old age. When the boy merges into the man, the so-called
 secondary sex characters " are produced by an internal secretion. The mental
 development which takes place at such times is due to the sensitising or the reverse
 of these secretions upon the central and sympathetic nervous systems.
+
 Many so-called metastatic effects, i.e., changes in distant organs dependent
 upon the development of some change in a disordered gland, were thought
 formally to be dependent upon reflex causes. They are now known to be the
 result of chemical messages, initiated by the secretions of the endocrine glands.
+
 Individual Glands.
+-------------------
+
 The corner-stone of the Endocrine system is the thyroid. This gland is
 situated across the larynx and can be felt at either side of the " Adam's apple."
 It is composed of two lobes connected with each other by a central lobe or
@@ -98,12 +112,13 @@ of soldiers is pushed on by his neighbour, who, in turn, bumps against the next
 man, and so on down the line. Excess or deficiency of the thyroid hormone leads
 to changes in the adrenals, to disturbance of the pituitary, parathyroids, and,
 it may be, several other of the endocrine system.
+
 Speaking in general terms, the function of the thyroid is to nourish the
 skin, nails and hair; to regulate the circulation; to act (in conjunction with the
 adrenals and pituitary) in the sympathetic control of the body; and (in virtue of
-MENTAL WELFARE. 65
 *ts relation with the sympathetic) to play an important r61e in the formation of
 the emotional life of the body.
+
 As we shall see in a later page, excess of thyroid secretion is
 always associated with undue emotionalism. The disease variously known as
 exophalmic goitre, Graves's disease, or hyperthyroidism, changes the personality
@@ -111,6 +126,7 @@ exophalmic goitre, Graves's disease, or hyperthyroidism, changes the personality
 excitable, irritable, and unreliable. That it is not solely due to over-action of
 the thyroid will appear later in this paper; but that it is partly due to this factor
 now abundantly clear.
+
 In close anatomical proximity to the thyroid gland, there are found two
 Pairs of small neighbours called the parathyroids. Originally believed to be
 part of the thyroid and to consist of thyroid tissue which had become separated
@@ -120,6 +136,7 @@ experiments carried out on the thyroid led to conflicting results, because some
 observers had removed the parathyroids, while others had left these glands
 tn situ.. The results varied according to whether the entire thyro-parathyroid
 had been removed, or solely the thyroid.
+
 Removal of the parathyroids is always fatal if complete; if part only is
 removed, marked changes take place in the nervous system of the animal, and
 a condition known as " tetany " ensues. In some way, the parathyroids are
@@ -129,9 +146,11 @@ to say that a condition such as Anxiety Neurosis can be attributed to parathyroi
 deficiency; or that it is relieved by the administration of extract of the parathyroids.
 There are, however, instances on record in which thyroid extract has done harm
 to such a case, while parathyroid extract has been beneficial.
+
 The clinical pictures of over-action of the thyroid and under-action of the
 Parathyroids have certain points in common. This would suggest an antagonism
 between the two secretions, and this view is now generally he'd.
+
 Situated at the base of the brain, enclosed in a small bony box, is a gland
 known as the Pituitary. It consists of an anterior and posterior lobe and a
 stalk, and its structure is partly glandular, partly nervous. Our knowledge of
@@ -144,34 +163,39 @@ failure of this part of the gland results in a disease characterised by obesity 
 deficient development, although doubt has been cast upon this view y one
 school which believes it is the posterior portion which is responsible tor pituitary
 obesity.
+
 With the space at our disposal it is impossible to do more than take a general
 survey of the main glandular secretions and their functions, and we must be
 excused for apparent dogmatism if we state the position briefly in order to show
 that the mentality of the normal and the abnormal is dependent respectively
 upon glandular efficiency or failure.
+
 It is at least likely that the pituitary gland should be regarded as one_organ
 rather than from the angle of two parts, possibly antagonistic or wide y dif ering
 in their functions. The gland is one of the dynamic structures of the body. It
 works in conjunction with the thyroid, gonads, and adrenals; and we shall refer
-66 MENTAL WELFARE.
 in a later section to the type which is believed to result when its secretion is
 the dominant one in the endocrine hierarchy.
+
 A few words about the thymus. This gland, which is situated in the thorax,
 is active principally during- infancy and childhood, and diminishes in importance
 as the sexual activities develop. In some instances it continues its activities into
 adolescence and causes delay in normal development or produces a general
 disturbance of the glandular balance.
+
 The adrenal glands are two small structures found above the upper part of
 each kidney. They consist of two parts, a cortex and a medulla, the functions
 of which are strictly differentiated. The former is much larger than the latter
 and is different histologically. It bears a close and intimate relation with the
 sexual glands, and tumours of this part of the gland have been shown to be
 associated with the premature development of sex.
+
 The medulla, on the other hand, is the part of the adrenals which secretes
 adrenalin. This substance, the isolation of which was carried out by Takamine,
 is a remarkable and vitally important secretion; its introduction into medicine
 and surgery has marked an epoch in the practical application of the internal
 secretions in treatment.
+
 What is of greater interest to us in this connection is the relation of the
 adrenal glands and their functions to the nervous system, and particularly to
 that part known as the sympathetic. It must be remembered that the most
@@ -181,6 +205,7 @@ scale, and were evolved as the organism became more complex and its need for
 rapid communication became more essential. The central nervous system furnishes
 this means; the sympathetic, more closely allied in time and function to the
 endocrine glands, developed pari passu with them.
+
 The adrenal system, with its secretions, is very similar in its work to the
 sympathetic nervous system. It controls the involuntary muscular system, and
 in conjunction with the thyroid and pituitary, is responsible largely for the
@@ -189,12 +214,15 @@ colour, if they do not determine, the mental type of the individual. Further, we
 now know that changes in the mental outlook?the temporary states known as
 " moods "?can be correlated with the undue activity or quiescence of the
 sympathetic nervous system and its colleagues.
+
 Enough has now been said to indicate that the mental life of the individual
 owes much to the glands of internal secretion. Not only in the determination
 of the type to which he will belong, but to the changes which will take place
 from time to time in the endocrine balance, will he owe alterations in his emotional
 life and in his relations to his environment.
+
 Inter-Relation of the Ductless Glands.
+
 There is a definite balance recognised in the endocrine hierarchy; that is to
 say, one set of glands may be regarded as dynamic or positive; the opposing
 glands are inhibitory or negative. Excess of thyroid secretion may be associated
@@ -204,7 +232,6 @@ very important part in mental and bodily health, there is no doubt; but it
 cannot be said that changes in the health due to these glands can be recognised
 definitely, except perhaps in a very limited manner. Many attempts have been
 made to neutralise the excess of one gland by the administration of an extract
-MENTAL WELFARE. 67
 Of one which may be regarded as antagonistic. One of the early examples of
 these was to endeavour to neutralise excessive thyroid secretion by extracts of
 the adrenal glands. It is now believed, however, that the symptoms of nervous
@@ -229,7 +256,10 @@ Period. Thus Trousseau describes a lady who was suffering great grief on the
 death of her father and she suddenly felt her eyes swell and lift up her eyelids,
 which was accompanied by violent palpitations and throbbing and enlargement
 of the thyroid.
+
 The Endocrines and the Emotiohs.
+--------------------------------
+
 Many such cases were seen during the war where sudden or prolonged strain
 Produced a disturbance in the endocrine balance. Anyone who observed such
 cases in the battle areas will agree that the group of disorders variously called
@@ -246,7 +276,10 @@ histological changes in the cells of the thyroid by repeated injections of adren
 Again, adrenalin will alter the metabolism of the body, and a more or less
 constant disturbance of the adrenal system may lead to such changes as we may
 group under the generic name of debility.
+
 Personality and the Ductless Glands.
+-------------------------------------
+
 Dr. Louis Berman published a fascinating book in 1922 entitled The
 Elands Regulating Personality." His object was to show, from the purely
 Physical standpoint, how the mind and its attributes depended upon the action
@@ -255,7 +288,6 @@ speak, depends upon w'hat may be called the relative proportion of the different
 ?nternal secretions. Many of Dr. Berman's types of personality are definitely
 recognisable, and the interest of the reader is kept up by a chapter describing
 some historic personages. As an example of his contentions, we may quote
-68 MENTAL WELFARE.
 from chapter nine of his book, which is called the " Backgrounds of Personality."
 There is a brief review here of the methods of approach which have been adopted
 towards " nerves " and nervous disorders, and the evolution of the present
@@ -271,16 +303,19 @@ apparatus than for the brain. So we begin to glimpse why an emotion seems
 to be experienced before the visceral changes that really preceded it, but pressed
 their way into consciousness later. This gives us a clue to the unconscious
 as the more sensitive and deeper part of the mind.
+
 " More than that, it supplies us with a physical basis for the unconscious,
 which will explain much of the observed laws of its workings. It provides a
 reason for the apparent swiftness, spontaneity and unreasonableness of what is
 called intuition. And it may show us a source for a good deal of the material
 of dreams and dream states.
+
 "We have said that we think and we remember, not alone with the brain,
 but with the muscles, the viscera and the endocrines. So do we forget, not alone
 with the brain, but with the muscles, the viscera, the endocrines and their
 nerves. The utmost importance of muscle attitudes in remembering has been
 established in the experimental laboratory."
+
 In marked disorders of the endocrines it can often be said which gland is
 mainly disturbed. Let us consider for a moment one or two of the types seen
 and recognised as due to a disordered endocrine balance. Most people are
@@ -300,6 +335,7 @@ individual will be lively, emotional and unreasonable. The French have spoken
 of this type as " the syndrome of persistent juvenilityIn between these two
 extremes there is a range of almost indefinite nature in which the thyroid may
 be slightly in excess or slightly deficient.
+
 It is interesting to try and estimate what part the thyroid is playing in the
 personality of any one individual. There are now certain laboratory tests
 depending upon the rate of wear and tear in the body, and these indicate, although
@@ -308,16 +344,18 @@ I think it may be said that the thyroid stands out pre-eminently in considering
 personality and the endocrines. It may be that as our knowledge progresses
 and we know more about the part which others of the endocrine hierarchy play,
 * pp, 194-195.
-MENTAL WELFARE. 69
+
 that the thyroid will sink to a lower level in this scheme. At present, however,
 we can be more definite in regard to this gland than we can to any other ol the
 endocrine organs. The following are a few brief points in connection with the
 influence of other glands on the personality.
+
 Ihe adrenal personality is a type of individual dominated by his adrenal
 gland. According to Dr. Berman, these types are normal individuals, enjoying
 good health and comfortably adapted to their environment. The skin is always
 more or less pigmented, and areas of darker nature than the surrounding skin
 are said to be related to past illnesses.
+
 In Addison's disease, where there is deficiency of the adrenal secretion, the
 general bronzing of the skin is found in like manner. It is presumed that the
 dark areas seen in the adrenal type point to past deficiencies. The adienal
@@ -331,6 +369,7 @@ large spare frame, eyes wide apart, broad face, large teeth, square-featured
 jaws, an aggressive, calculating, able character. When the gland is not
 dominant, small delicate skeleton, adipose and weak muscles, dry, flabby but
 smooth skin, mentally sluggish, dull and apathetic.
+
 Much that we have written here is, of course, hypothetical, but it is becoming
 increasingly clear that the types of personality can be correlated to what has
 been called the endocrine pattern. In any case, it is interesting to try and
@@ -343,7 +382,10 @@ influenza. On the other hand, it is believed that over-action of this gland is
 always due to the presence of irritating poisons somewhere or other in the body,
 and medical science has laid it down in the treatment of such cases that all
 septic or toxic sources must be eradicated.
+
 The Theory of Organotherapy.
+-----------------------------
+
 The brilliant results which followed tne administration of thyroid substance
 to cretins and the subjects of myxoedema led to the attempt to supply to the
 ?rganism any secretion presumed to be missing. Ihus, in a case showing
@@ -356,18 +398,20 @@ Was destroyed in the stomach or otherwise interfered with by the process of
 digestion. In some instances there can be no doubt that preparations manu-
 actured from endocrine organs other than the thyroid, are active and have a
 definite effect on the individual.
+
 This use of organotherapy?the substitutive?is not the only method
 employed. Some of the secretions are employed for their pharmacological effect,
 lust as drugs are so utilised. Chief among these are adrenalin and pituitrin.
 ?th of these substances have found a very definite place in surgery, a place,
 moreover, that could scarcely be filled by any other substance.
-70 MENTAL WELFARE.
+
 Still another approach to the therapeutic side of the endocrines is afforded
 by the attempt to balance the over-action of one g-land by the administration of
 an antagonistic secretion. This has already been referred to by quoting- the
 prescription of adrenal substance in pver-action of the thyroid. Attempts have
 likewise been made to balance over-action of the adrenals by the exhibition of
 pancreatic substance.
+
 There is not much to be said in favour of either of these examples, but they
 are quoted to show the lines along which experiments have been made.
 Combinations of glandular substances have been very popular of late years,
@@ -376,6 +420,7 @@ appear unscientific and illegitimate. But it must be remembered that it is very
 difficult to diagnose accurately in practice the actual gland which must be
 indicted, whatever it may be in theory. It is better to use a " mitrailleuse "
 than attempt no alleviation.
+
 Finally, we must realise that we are only on the fringe of this subject. As
 far as we have got, the achievements are considerable. The future seems to
 promise well; and it may be that to endocrinology?and its therapeutic companion,

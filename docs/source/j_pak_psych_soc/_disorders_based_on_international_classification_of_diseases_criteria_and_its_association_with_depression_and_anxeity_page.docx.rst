@@ -1,23 +1,25 @@
-JAWED AKBAR OARS, ROYALA ZAKA, ALI TAHIR, ZOHRA KHAN NIAZI, MUHAMMAD IQBALAFRIDI, AlYCIA CHEEMA
-===============================================================================================
+#####
+Disorders Based On International Classification Of Diseases Criteria And Its Association With Depression And Anxiety Page.docx.rst
 
-   Jinnah Postgraduate Medical Center (JPMC), Jinnah Sindh Medical
-   University (JSMU).
+:Authors: Jawed Akbar, Oars Royala, Zaka Ali Tahir, Zohra Khan Niazi, Muhammad Iqbalafridi, Al Ycia Cheema
 
-   **CORRESPONDENCE: ORJAWEDDARS@YAHOO.COM;** E-mail: aneezapervez@gmail
-   com
+   Jinnah Postgraduate Medical Center (JPMC), Jinnah Sindh Medical University (JSMU).
+
+   **CORRESPONDENCE: ORJAWEDDARS@YAHOO.COM;** :Email: aneezapervez@gmail.com
 
 .. image:: media/image2.jpeg
 
    **ABSTRACT**
+   ============
 
-OBIECTIVE
-=========
+    OBJECTIVE
+    ---------
 
-   To assess the frequency ofanxiety and depression in patients
-   withophthalmologicaldisorders based 011 ICD-l O criteria.
+    To assess the frequency ofanxiety and depression in patients
+    withophthalmologicaldisorders based 011 ICD-l O criteria.
 
-   **STUDY DESIGN**
+   STUDY DESIGN
+   ------------
 
    Cross-seaional Study
 
@@ -27,7 +29,7 @@ OBIECTIVE
    Postgraduate Medical Center, in collaboration with Department of
    Psychiatry and Behavioral Sciences, from September to November 2015,
 
-   **SU Bl ECTS A ND METHODS**
+   **SUBlECTS A ND METHODS**
 
    160 randomly selected patients ufferlng from different visual
 
@@ -43,9 +45,9 @@ OBIECTIVE
    Anxiety and Hamilton rating scale for depression respectively.
 
    RESULTS
+   -------
 
-   Ou1 of 160 randomly selected patients 63% were male and
-
+   Out of 160 randomly selected patients 63% were male and
    37% female. The mean age ±SD was 44.1±15.16. Our study revealed that
    19.4% had depression and anxiety disorder.
 
@@ -58,17 +60,18 @@ OBIECTIVE
 
    Decreased vision had significant effect on anxiety and depression
    irrespective of diagnostic entity **or** Ophthalmology according to
-   ICD-1 O. Fema le **gender,**
+   ICD-1 O. Female **gender,**
 
    Increasing age, divorced, widowed/ separated, Illiteracy and loss of
    job were found to have significant relation wlth depressionand
    anxiety disorder.
 
-   **KEYWORDS**
+:Keywords:Impaired Vision, Eye, Psychiatric disorders
 
-   Impaired Vision,Eye,Psychiatric disorders
+... 
 
-   **INTRODUCTION**
+INTRODUCTION**
+**************
 
    Eye is one of the most complex organs of our body and its proper
    functioning is essential for carrying out daily activities. According
@@ -108,7 +111,7 @@ OBIECTIVE
    it fs Imperative to evaluate a correlation between different visua I
    disordersand depression or anxiety.
 
-SU8JfCTSAND MHHODS
+SU8JfCTS AND METODS
 ~~~~~~~~~~~~~~~~~~
 
    **Participant!**
@@ -156,7 +159,6 @@ Instruments
    symptoms they were categorized wlthll'l different eye disorders
    according to International Classification ofDlseases version l O
    (ICD-1Q), which was recorded on semi structured proforma, along
-
    withtheir socio-demographic details.
 
 Procedure
@@ -193,14 +195,12 @@ Procedure
    for association and **P**\ value < 0.0\ *5* was takel'l\ **as** slgn
    ificant.
 
-RE ULTS
--------
+RESULTS
+*******
 
-   Out of 160 randomly selected patients, majority i.e. 63% was male
-
+   Out of 160 randomly selected patients, majority i.e. 63% was male 
    and the rest 37% female. Mean age ± SD of the patients was 44.1±15.16
    with the age range of 18 to 60 years, majority of them
-
    were within the *age* bracket of 50 years and above, as mentioned In
    table1. Major share of the sample patients were local reside11ts
    (from Karachi 72.5% and 27\ *5%* were from outside Karachi). More
@@ -210,14 +210,10 @@ RE ULTS
    l).
 
    depression, with 11.8 % and 63% having mild depression and
-
    anxiety respectiveiy (Tabte 2 ). The mest striking finding of the
    study that came out incidentally was the significant association
-   (Le.p-v.ilue
-
-   <0.SJ between symptoms of eye diseases and psychiatric co­
-
-   morbidity (Table 4). However, the association between eye diseases as
+   between symptoms of eye diseases and psychiatric co­ morbidity (Table 4). 
+   However, the association between eye diseases as
    per ICD-10 and anxiety and/or depression was not significant.
    **(Table4)**
 
@@ -264,12 +260,12 @@ RE ULTS
 
 **Dl&<ast**
 
-   wa-s observed, gender, **age,** marital status, education and
+   was observed, gender, **age,** marital status, education and
    occupation came out as significant, I.e. with p-value <0.05. However,
    language and placeof residence were non significant.
 
-DISCUS ION
-----------
+DISCUSION
+*********
 
    We found that 19.4% of our subjects aged 18 or more years, with
    different ophthalmologlcal disorders were either depresse-d or had
@@ -402,10 +398,6 @@ DISCUS ION
       http:/*I*\ a pps.who.in\ *ti* dasslftca tions/apps/kd/icd1
       OonIine2006/
 
-..
-
-   rr 11. tnc y
-
 4.  Boyd K. What Are Floaters and Flashes? [Online]. American Academy of
        Ophthalmology. 2017 [cited 23 October 2016!. Available from:
        https:/`/www.aao.org/eye-health/diseases/ <http://www.aao.org/eye-health/diseases/>`__
@@ -427,7 +419,7 @@ DISCUS ION
        related eye disease in America. 5'haumburg, IL:Prevent Blindness
        Amerlcil, 2012. Available from URL:
        `www.ujVlslonproblems.org. <http://www.ujVlslonproblems.org/>`__\ [accessed
-       augustOS,2016)
+       augustOS,2016]
 
 9.  Murray CJ, Lopez AD, Jamiwn DT, The global burden of disease in
        1990: summary results, sensitivity analysis and future
@@ -442,12 +434,7 @@ DISCUS ION
     response on survival in breast cancer: a population-based cohort
     study. Lancet.1999;354:1331-1336.
 
-12. Frasure-Smith N, Lesperance F, Talajlc M. Depression and 18-
-
-..
-
-   month prognosis after myocardial infarction. Circulation.
-   1995;91:999-100S.
+9. Frasure-Smith N, Lesperance F, Talajlc M. Depression and 18-month prognosis after myocardial infarction. Circulation. 10.1995;91:999-100S.
 
 13. Wan HX, Mittleman MA, Leineweber C. Orth-Gomer K
 

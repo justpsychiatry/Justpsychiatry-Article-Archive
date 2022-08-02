@@ -1,12 +1,11 @@
 The Range of Human Capacities
 ==============================
 
-54 MENTAL WELFARE
-Book Reviews
-
-By David
+:Type: Book Reviews
+:Author: David
 Wechsler, Ph.D. Bailliere, Tmdall and Cox,
 London, 1935. 11/6.
+
 I find this to be a stimulating, if not an im-
 portant piece of work, and propose to give it a
 fairly exhaustive review. It is concerned, as
@@ -21,6 +20,7 @@ nigh limitless." Wechsler begins with these
 words, and then proceeds to ask how extensive
 these differences are. How much do the least
 and the most able individual differ?
+
 Some few years ago Wechsler startled some of
 us by suggesting that the differences between
 individuals at most amounted to the important
@@ -34,6 +34,7 @@ must not prevent us from paying serious atten-
 tion to the present study, which indeed is a
 model of its kind, a valuable and almost ex-
 haustive scientific study.
+
 Wechsler's method is to search all the litera-
 ture available to him for satisfactory data upon
 which to apply his measurement of range. Some
@@ -44,6 +45,7 @@ about the paucity of published data; few of us
 now emulate the great Galton and work with
 thousands of persons as population. Fewer still
 report all the necessary data in their papers.
+
 Wechsler, nevertheless, is able to draw upon
 measurements for such capacities as stature
 (96,239 American soldiers), span of arms (1,241
@@ -56,6 +58,7 @@ well as upon abilities of the kind tapping,
 stringing discs, running 60 metres, card sorting,
 memory span, intelligence quotient, and form-
 board ability.
+
 As his measure of range he uses the ratio
 between the ability of the 2nd and the 999th
 person in each 1,000 individuals. These ex-
@@ -65,6 +68,7 @@ The range is, therefore, 164.9 divided by 152.6,
 an amount 1.28. The following figures give
 examples of such ranges, taken from the ninety
 or so reported by Wechsler:
+
 Body temperature ... ... 1.04
 Calcium in blood ... ... ... 1.26
 CO2 production per minute ... 1.54
@@ -80,6 +84,7 @@ The most striking thing about such ratios _lS
 certainly their smallness, and also the way i11
 which they increase with increasing complexity
 of the capacity or ability.
+
 Wechsler supports his criterion of range,
 the face of current opinion that a measure in
 terms of extreme values (such as the 2nd and
@@ -113,7 +118,7 @@ Monograph Supplement XVII), and it would W
 an extraordinary fact if this same kind 0
 geometricity appeared in gross abilities anC
 growths of the human being.
-MENTAL WELFARE 55
+
 Having admitted the validity, to my mind, of
 the statistical procedure, it remains to interpret
 the results and to examine whether they are
@@ -141,6 +146,7 @@ rather than from the old, but it needs the sanity
 aud maturity of the older, their judgment and
 Perspective, to place these ideas on a charitable
 aud reasonably conservative footing.
+
 His discussion of genius leaves much to be
 desired. He considers that the genius and the
 fuperior person differ very little in capacity,
@@ -174,6 +180,7 @@ simple ideas of a Newton of a Freud, or of an
 Einstein, are not beyond the range of vast num-
 bers of persons who little believe that they could
 have been capable of such flights.
+
 All this, however, does not necessarily follow
 from Wechsler's data. I am certain that
 Wechsler could have found facts very different
@@ -207,6 +214,7 @@ but the more certain the work becomes on the
 purely psychological side of man, the more likely
 does it seem that the range will be much greater
 than that reported by Wechsler.
+
 Nevertheless, the author has to be compli-
 mented on bringing to completion a very sound
 piece of work, the result, I am sure, of many

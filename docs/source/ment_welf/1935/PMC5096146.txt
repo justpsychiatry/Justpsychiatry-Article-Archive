@@ -1,13 +1,15 @@
 lome Aspects of Character Defect
 =================================
 
-By IAN SKOTTOWE, M.D., D.P.M.
+:Author: Ian Skottowe, M.D., D.P.M.
+
 Those who are concerned with Mental Deficiency as a social problem
 seldom fail to stress the point that in assessing the degree of defectiveness,
 and in deciding the form of care or treatment to be applied, greater im-
 portance ought to be attached to the ability of the defective to adapt himself
 to his social environment than to any formalised set of intelligence or per-
 formance tests.
+
 The Law, however, lays not a little stress on " Mental " Defectiveness
 ln the limited sense of " intellectual " defectiveness. Thus, even in cases
 where there is clear clinical evidence of antisocial behaviour dependent upon
@@ -19,13 +21,14 @@ who may nevertheless have an intelligence quotient of more than about 70,
 has little hope of receiving, under proper legal control and safeguard, the
 treatment which he may require, unless his social inadaptability is extremely
 gross.
+
 A plausible manner, coupled with an intellectual level of about 12 to 14
 years, is often a sufficient offset to persistent lying, stealing, sex offences,
-78 MENTAL WELFARE
 temper tantrums, or inability to " settle down " in any occupation, to prevent
 these pathological states from being treated as such; and the unfortunate
 subjects of them may find themselves dealt with as criminals rather than as
 sick persons.
+
 Per contra, if any attempt is made?especially if it be against the wishes
 of parents or other near relations?to provide institutional treatment or even
 statutory supervision before the onset of the graver forms of antisocial
@@ -43,19 +46,23 @@ are sporadically and in very small numbers up and down the country centres,
 clinics and institutes where a genuine?and be it marked, voluntary?attempt
 is made, often in the face of very great difficulties, to cope with this particularly
 exacting group of patients.
+
 This group falls as it were between two official stools; for the patients
 in it are not moral defectives within the meaning of the Act; and they are
 not suffering from any recognisable frank psychosis or psychoneurosis. Yet
 they are undoubtedly in a state of mental ill health.
+
 A girl of twenty, the daughter of a professional man, and a personable,
 plausible, not unattractive girl at that, persuades her mother to buy her
 a new frock, which she immediately destroys by fire " to spite mother."
 She writes mischievous letters to friends of the family with a view to pre-
 tending that she is ill-treated.
+
 A boy of seventeen, with an Intelligence Quotient of 90, commits
 almost every known petty crime in the calendar, from larceny to indecent
 exposure?apparently without reasonable motive, and in spite of punish-
 ment?knowing full well that he is doing wrong.
+
 A young man of good family and education, already something of an
 alcoholic and suffering from Venereal Disease at the age of twenty-three,
 repeatedly makes unauthorised joy-rides in motor cars and drives them
@@ -63,23 +70,26 @@ in a reckless manner resulting in two major accidents, for the first of which
 he served a term of imprisonment. He is unable to apply himself for more
 than a few months to any one of the half-dozen jobs that have been found
 for him by his influential Father.
+
 Not one of these cases showed intellectual defect on Binet Standards,
 not one of these fulfilled the clinical criterion of any recognised psychosis
 or psychoneurosis, not one of them had a reasonable motive for such conduct,
 but they all had one feature in common; they were unable to apply them-
-MENTAL WELFARE 79
 selves to any task with reasonable assiduity for a reasonable period of time;
 and it is this shiftlessness, this lack of singleness of purpose, this inability
 to apply oneself, which is the clinical criterion of the group.
+
 The name which we give them matters but little, we may call them
 constitutional psychopathic personalities, behaviour problems and so forth,
 but what is the underlying process?
+
 Clinical experience leads me to believe that the shiftlessness, the in-
 capability of sustained effort, the inability to make use of the emotions and
 the intellect for adaptative purpose is, in popular and rather misleading lan-
 guage, a failure or distortion of development of the will. Let not the
 psychological hedonists and determinists raise their hands in horror, for I
 do not suggest a return to the old " faculty psychology."
+
 If we consider " character " in the sense in which McDougall uses the
 Word?that is, the integration and organisation of the higher acquired senti-
 ments?and bear in mind all that he implies in its development?" Will power
@@ -104,6 +114,7 @@ cuffs, or at the mental level of reasoned argument, is inevitably accompanied
 by a " scene," an exhibition of bad temper, or a mulish and ill-mannered
 silence; never, by any chance, is defeat gracefully acknowledged: dignity
 ls not an attribute of this group.
+
 Characteristically, this type of stubbornness is associated with an
 exaggerated degree of facility in other directions. Such persons are easily
 led; in spite of good homes they have a genius for picking undesirable friends
@@ -112,10 +123,10 @@ the associates of street bookmakers, public-house touts and women of the
 streets, or in a superficially different but fundamentally similar stratum of
 society they fall into the hands of expensive gamblers, the more showy types
 of places of light entertainment and eventually of the Official Receiver.
-80 MENTAL WELFARE
 There then, are the clinical criteria of a clearly defined form of character
 defect; inability to apply oneself: unreasoning stubbornness towards authority
 and a capacity for being " easily led " by the wrong kind of people.
+
 What is to be done about it?
 An earlier, and possibly wiser if less humane-and-social-improvement-
 minded generation simply regarded these people as ne'er-do-wells; and accord-
@@ -131,6 +142,7 @@ is open to question. The less such education smacks of intellectualised
 officialdom the better; and one cannot help feeling that guidance by family
 physicians might be a big factor in bringing about earlier recognition of these
 states for what they are.
+
 The next step is the administrative machinery. To envisage the needs
 of the country being put on a purely voluntary basis (in the financial as well
 as the legal sense) is but an empty dream. Local Authorities would have
@@ -138,6 +150,7 @@ to be brought into it: but that need not debar the patients or the rate-payers
 from the advantages of voluntary co-operation on the clinical side of a few
 (very few of this group, I fear) patients and their relatives; and on the financial
 side of voluntary associations and helpers.
+
 I do not profess to assess the numerical incidence of these character
 defect cases in relation to size of population. There are no official statistics
 to guide us, for these cases are not ascertainable as defectives, and seldom
@@ -148,6 +161,7 @@ to the community, for whom the present administrative machinery does not
 provide. Assuming such machinery to exist?and it is, of course, open to
 argument whether it is desirable to " mechanise " the practice of medicine any
 further?what can be done by way of treatment for such cases?
+
 The answer, unfortunately, is " very little." Apart from the remote
 possibility of a biochemical attack upon the endocrine gland functions, these
 cases do not lend themselves to treatment, for very lack of desire to co-operate
@@ -158,10 +172,11 @@ able to sublimate at a useful social level, for the same reason. Punishment
 only makes them worse; and with a well defined case the only course at present
 open to us is rational persuasion applied with infinite patience, while the
 patient remains under some form of Social Guardianship.
-MENTAL WELFARE 81
+
 Inasmuch as the essence of character defect states is a faulty organisation
 ?f the acquired higher sentiments, the keynote to their eradication is education
 during the impressionable years of early childhood.
+
 This is not to be conceived as being a plea for bureaucratic interference
 in family life; but I do suggest that the family physician, were he better
 instructed in psychiatry than is at present considered necessary?and always
@@ -170,6 +185,7 @@ by the march of well intentioned but badly executed efforts to provide more
 rare and refreshing fruit?might well be in a position to give something
 more than a timely hint to parents on the psychological upbringing of their
 children.
+
 Once again therefore, we come back as in so many other psychiatric
 problems to the education of the general practitioner in psychological
 rnedicine. At present these cases are not even suspected, let alone diagnosed
@@ -186,6 +202,7 @@ occasion, to be received with quite the same confidence and, in a sense, the
 same affection as it would be if it came from the family physician. Confidence
 and a degree of affection are necessary prodromal states for the successful
 education of anybody in anything worth while.
+
 Social conditions being what they are, and with the spread of industrial-
 ism and an atmosphere of mass-produced specialisation in semi-state medicine
 slowly turning " the flower of our modern civilisation " into a uniformly
@@ -193,11 +210,13 @@ dull, impersonal?but admittedly efficient?signpost, we are getting further
 from instead of closer to a condition in which the ancient relationship of
 physician to patient forms a solid and necessary background to the technical
 practice of psychological medicine.
+
 Character defect is one of the by-products of a too-rapidly socialising
 machine. It is a mistake to make life too easy too quickly; and it is a striking
 fact that the form of character defect of which I speak is seldom if ever seen
 in those who, through circumstantial adversity, have achieved a proper and
 balanced sense of humility; they get their values right.
+
 The socialising machine, however, is going on; and no one could stop
 it even if they wanted to; so perhaps, after all, the negativistic brigade are
 right?quite unwittingly?and it is better just to go on doing nothing about

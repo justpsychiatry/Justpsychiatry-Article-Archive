@@ -1,17 +1,16 @@
 The Border Lime FeeMe-Miiided Child: How can he be catered for in the School System?
 =====================================================================================
 
-MENTAL WELFARE
-99
-By RAYMOND B. CATTELL, M.A., B.Sc., Ph.D.,
+:Author: Raymond B. Cattell, M.A., B.Sc., Ph.D.,
 Psychologist to the Leicester Education Committee
+
 Before we can get to grips with the educational problem we must define
 more exactly the type of child with whom we are dealing?the much neglected
 border line feeble-minded child, widely scattered in our schools. Current ideas
 as to the extent of feeble-mindedness remain surprisingly conflicting. We are
 also in some doubt as to whether defect is increasing or decreasing and at what
-o o
 rates in various types of locality.
+
 This being so, it follows that the I.Q. level below which, other things
 being equal, feeble-mindedness can be said to exist, is a highly debatable matter.
 As everyone knows, the criterion is not in the first place one of I.Q. at all
@@ -24,6 +23,7 @@ and defectives fall below the 70 I.Q. mark, it is frequently but illogically sup
 posed that one per cent, of children have I.Q.'s below 70. Actually the per-
 centage of persons with I.Q.'s below 70, is much greater, since not all of them
 attract attention or are referred to the certifying officer.
+
 In the report of the Mentally Deficiency Committee the proportion of
 children with I.Q.'s below these figures varies from 2.2 to 5.1%, according to
 whether urban or rural areas are concerned. The recent investigation of the
@@ -43,7 +43,7 @@ which still attaches to mental defect, are keen to keep the child in the normal
 school if he can possibly be educated there. The teacher is loathe to report
 1 " Occupational Norms of Intelligence and Standardisation of an Adult Intelligence
 Test." British Journal of Psychology, July, 1934.
-100 MENTAL WELFARE
+
 the border line defective; the parents resent his being transferred and the
 medical officer is generally highly cautious. In short, the cumulative effect of
 a whole series of reluctances is to keep in the normal schools a considerable
@@ -60,6 +60,7 @@ little better off than their coevals in the special school. They differ from the
 special school child in one other important respect, namely, that they succeed
 much more readily in obtaining and retaining employment when they leave
 school.
+
 So much for the general state of affairs. The next question is what can
 be done for the education of this type of child?the retarded or border line
 feeble-minded child?a type numerically much more important than the certi-
@@ -72,9 +73,9 @@ special school for children who are definitely feeble-minded and who are un-
 likely to be in employment in later life (even under normal economic con-
 ditions) and, on the other hand, with classes specifically designed to cater for
 border line feeble-minded children who nevertheless have a good chance of
-o
 finding useful employment of a simple kind if they are not labelled as special
 school children.
+
 This question of employment needs stressing for it reminds us of the
 important discrepancy that exists between the legal definition of mental defect
 among adults and that among children. As everyone with experience of this
@@ -90,10 +91,10 @@ avoided or to question whether the adult standard might not be adjusted to
 the childhood one, e.g., by the provision of agricultural colonies to accommo-
 date adult feeble-minded who otherwise swell the ranks of the unemployed.
 Suffice it that the problem is partly solved by sending to the special school only
-MENTAL WELFARE 101
 those who are most unlikely to become successful wage earning citizens and
 by drafting into special classes those who may reasonably be expected to earn
 a living in later life.
+
 It is found that the accommodation required in the Special Classes is five
 or six times as great as that available in the Special Schools. This, in any case,
 is exactly what one would expect from the normal distribution curve of in-
@@ -107,6 +108,7 @@ have been provided in each school department in order that the age range in
 one class may not have to include the whole school range. Unless this is done,
 the age range in the junior school classes, for example, may extend over three
 or four years.
+
 Nevertheless, the range of mental age is not as great as this, since,
 on an average, these children only make two-thirds of a year's progress
 in mental age for every year's increase in actual age. In practice there is no
@@ -122,6 +124,7 @@ schools are divided into five regions, each being supplied with three or more
 special classes. These regions are not of equal area because it is found that
 the incidence of special class children is much higher in some?notably in
 slum areas and slum-clearance estates?than in others.
+
 All the children who enter these classes are given intelligence tests and
 attainment tests by the Psychologist or his Assistant and are examined again
 from time to time. Except in rare instances, a child who has been drafted into
@@ -129,6 +132,7 @@ a Special Class in the infant school will continue to pass from one special clas
 to another throughout his school life. This is a necessary consequence of the
 constancy of the I.Q. Thus he receives a suitable education at every stage of
 his school life.
+
 This conception of the special class as a permanent home for certain child-
 ren at first surprised many teachers who were accustomed to placing in the
 old-style special class a good proportion of children accidentally backward but
@@ -136,13 +140,13 @@ of good intelligence. In fact there is considerable confusion of thought as to
 the real object of Special Classes. They contained a mixture of children of low
 intelligence quotients and others who had good intelligence quotients but who,
 through accidental circumstances, had low scholastic attainment. As a result,
-102 MENTAL WELFARE
 unless the classes were very small, neither type of child received a suitable edu-
 cation. Under the present arrangement, children with scholastic disabilities are
 drafted to an Experimental School where the staff is specially trained and
 constantly concerned in remedying, in a comparatively short time, years of
 retardation in school subjects. The Special Classes, on the other hand, contain
 only those children who are of definitely low intelligence.
+
 Under the new conditions just described, the teaching can be much better
 adapted to the particular mentality of the children for whom these classes are
 designed. The classes can also be much larger. Such a statement, though it
@@ -152,7 +156,6 @@ pletely different treatment, the teaching had to be highly individual and in
 consequence the numbers could only be about one third or one quarter of those
 in the normal classes. Individual teaching may, of course, be considered as
 the ideal in all education, but it is unfair and foolish to wive to the child of
-o
 small promise what we cannot afford to give to the normal child. Adminis-
 trators, moreover, are in practice unwilling to create adequate special class
 accommodation on these extravagant terms. The belief that these classes must
@@ -162,6 +165,7 @@ special class containing children carefully selected to be of approximately
 uniform I.Q. and mental age need be only slightly smaller than a normal class
 providing the goals of school attainment aimed at by the teacher are suited to
 the natural abilities and interests of these children.
+
 The principal modifications of curriculum consist of (i) the introduction
 of more handwork and manual skills generally, (2) the postponement of read-
 ing, etc., until the children have more nearly attained the mental age at which
@@ -172,22 +176,24 @@ ing for after-life, (4) the introduction of lessons akin to the infant school
 by success in matters in which these children are under no handicap relative to
 children of good intelligence and, again, to provide direct training in habits
 required in after school life.
+
 Arithmetic becomes practical training in buying and selling, with a shop
 set up in the classroom. Boys and girls who cannot work out the simplest
 sum in abstract terms can nevertheless acquire calculating habits which enable
 them to give correct change, to calculate tram and bus fares, and realise the
 value of various wages, etc.
+
 Reading is, in the last resort, more important to the child than arithme-
 tic, for without it he cannot find his way about or respond to the simplest
 notices. Although reading is postponed until the child has a mental age of
 five or six, i.e., until he is in the junior school, it then receives considerable
 attention. Here, too, the teaching method involves an emphasis on reading
 for practical purposes. Some action follows on the sentence read. Dramatisa-
-MENTAL WELFARE 103
 tion has been very successfully employed here. The handwriting of special
 class children is frequently decidedly better than that of children in the normal
 classes, though, owing to the association of motor inco-ordination with low
 intelligence, there are some marked exceptions to this.
+
 The emphasis on handwork is symbolised by a re-shaping of the class-
 room itself. It becomes, primarily, a work room, with tables and benches
 replacing desks. In addition to ordinary woodwork or metal-work, there is a
@@ -196,6 +202,7 @@ needlework. In a few places where gardening has been tried out, it has
 evoked considerable interest and, if taught on suitable lines, can have great
 training value, but the distribution of special classes, unfortunately, does not
 permit of its being a regular subject of instruction in most of them.
+
 It is a common observation that the majority of entrants to special classes
 come with a sense of failure and frustration from the ordinary schools in which
 they have been trying to struggle along. One of the most important aims of
@@ -211,6 +218,7 @@ ness and good memory rather than intelligence, the special class child rapidly
 acquires skill surpassing that of the normal child who does not get so much
 training in this direction. He thus realises that by close application he can
 actually excel in competition with children from the other classes.
+
 There is still room for considerable experiment in lessons on these lines,
 i.e., lessons designed to increase alertness, to give a sense of achievement and
 to supply the child with skills and information which will be directly useful to
@@ -228,12 +236,13 @@ logical answering are developed. It should not be overlooked that one of the
 most frequent criticisms from employers and others is that they are unable to
 get a sensible question or answer from this type of child or get him to speak
 in intelligible sentences.
-io4 MENTAL WELFARE
+
 For certain subjects the special class children are dispersed among the
 other classes. Indeed, it is a definite policy to give them a place in the general
 work of the school and to do away with any suggestion that they are a special
 class. They can join in singing, in physical training, in games, and in some
 handwork activities, with the rest of the school.
+
 Wherever psychological testing has been carried out, both in this country
 and abroad, it has been found that the population below an I.Q. of 80 generally
 contains an undue proportion of difficult and delinquent people. Consequently,
@@ -273,9 +282,9 @@ in behaviour after even a comparatively short vacation in which they have
 been exposed to a slack, indifferent or disorderly home atmosphere. Character
 training in the special classes is largely a matter of habit formation. That
 freedom from supervision and interference which is essential to the character
-MENTAL WELFARE 105
 development of the highly intelligent child is inappropriate in most situations
 in the special class.
+
 On leaving school, the special class child generally needs some assistance
 in finding a suitable job. The majority succeed in holding simple repetitive
 jobs in factories. Among the boys, a fair proportion successfully hold jobs as
@@ -284,14 +293,17 @@ time, for the work of a shop assistant to which they would normally graduate
 is too much for them. Of one girl who had become a shop assistant the em-
 ployers wrote: " She is getting on quite well provided her work is well super-
 vised, but she is not quite up to the standard we usually employ."
+
 Considering the greater cost involved in educating the child of this level
 11. r* ?
+
 of intelligence and the difficulty in finding suitable employment for him in
 after life, it is obviously incumbent upon society to adopt eugenic measures to
 reduce the number of children so handicapped. This falls outside the province
 of the educator, but it is his duty to point it out, for no one else is in a position
 to observe so clearly the sad fact that the majority of special class children grow
 up in families of five or six or more.
+
 A word about the training of the teacher. There has been in the past a
 common attitude, rarely frankly expressed, that the poorest teacher should be
 relegated to looking after the special class. Yet if these children are to be
@@ -313,6 +325,7 @@ out the schools. The child in a Special Class moreover has a special record form
 on which I.Q., attainment on performance tests, school attainment in English
 and arithmetic on various occasions, and medical and home history are entered.
 This goes with the child from school to school.
+
 As emphasised at the beginning of this article, it is as yet too early to pre-
 dict exactly what numbers and what I.Q. ranges are the optimum ones for
 Special Classes. Some senior school Special Classes have been successfully run

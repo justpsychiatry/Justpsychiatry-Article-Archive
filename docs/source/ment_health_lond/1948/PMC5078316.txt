@@ -1,9 +1,31 @@
 Psychiatry in India and Pakistan
 =================================
 
-XJ By E. A. BENNET, M.C., M.A., Sc.D., M.D., D.P.M.
-Senior Physician in Psychotherapy, the Maudsley Hospital; Psychiatrist, West End Hospital for Nervous
-Diseases; previously Consulting Psychiatrist, India Command
+..::Admonition: About the Author 
+By EA. BENNET, MC, MA, ScD, MD, DPM.Senior Physician in Psychotherapy, the Maudsley Hospital; Psychiatrist, West End Hospital for Nervous Diseases; previously Consulting Psychiatrist, India Command
+
+:Reference type:  Journal Article
+:Record-number: 18331
+:Author: Bennet, E. A.
+:Year: 1948
+:Title: Psychiatry in India and Pakistan
+:Journal: Ment Health (Lond)
+:Volume: 8
+:Issue: 1
+:Pages: 2-5
+:Epub-Date: 1948/08/01
+:Date: Aug
+:Short-title: Psychiatry in India and Pakistan
+:ISSN: 0025-9632 (Print) 0025-9632
+:PMCID: PMC5078316
+:Accession-number: 18885356
+:Keywords: Humans, India, Pakistan, Psychiatry, PSYCHIATRY/India and Pakistan
+:Notes: Bennet, e a Journal Article Ment Health (Lond). 1948 Aug;8(1):2-5.
+:URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5078316/:Language: eng
+
+
+
+
 The partition of India has thrown upon the
 Governments of the two Dominions responsi-
 bilities of such urgency that time must elapse

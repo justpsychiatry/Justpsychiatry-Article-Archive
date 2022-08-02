@@ -1,8 +1,7 @@
 Classes for Dull and Backward Children
-========================================
+=======================================
 
 :Author: Miss K. L. Marsden. 
-
 Inspectress of Infant Schools, City of Nottingham
 Education Committee.
 
@@ -27,8 +26,9 @@ manual training in place of the ordinary subjects of the curriculum are pro-
 vided. The report points out, however, that manual work is not a panacea
 for backwardness. There is great need for schooling under the best health
 conditions?open air work, adequate feeding, exercise and rest, and for the
-proper understanding of the mentally weak child. In connection with the
-latter requirements there is abundant room for expert research. In one way
+proper understanding of the mentally weak child.
+ 
+In connection with the latter requirements there is abundant room for expert research. In one way
 it seems absurd to spend money so freely on the backward child: but, until
 t Paper read at the Tenth Annual Conference of Educational Associations, 1922, University
 ollege, London, social conditions make the production of such children less common, the pro-
@@ -68,6 +68,7 @@ be taught to look upon them as members of a small class, not in any sense as bei
 members of a 'silly' class which is a term that is often attached to children who
 attend a Special School. The attitude of the rest of the school towards these
 children depends, as you will all realise, upon the attitude of the staff towards it.
+
 The parents of the children who are recommended to attend these classes
 often object, on the ground that the class is for defectives. These objections are
 overcome by explaining that the class is in an ordinary elementary school, but
@@ -129,7 +130,6 @@ nearest school to his home, and if necessary car fares are paid by the Local Aut
 ty. At the present time the schools at which it is possible to form these Special
 Classes are those in which the number on roll is less than the accommodation of the
 school, as only in those buildings is it possible to give up a 60 room for 30 children.
-
 Under these circumstances some of the children have to come distances which can
 only be covered by car; this of course is a very undesirable state of affairs. I
 hope we shall not feel satisfied until every large department has its Special Class in
@@ -172,11 +172,12 @@ the School of Art two afternoons a week.
 A child may be as short a time as three months in the Special Class or he may
 remain in it until he leaves school. The following are records of the time spent by
 different types of children in one of these classes:?
+
 SCHOOL A. Record of last 24 promotions.
 
 No. of Children. Time in Class.
-1 5 years. Three years absent through ringworm on scalp.
 
+1 5 years. Three years absent through ringworm on scalp.
 During the whole period made 365 attendances.
 1 3| years. A very dull boy.
 1 3 years. do.
@@ -186,7 +187,6 @@ to learn to read.
 4 1\ years.
 4 1 year.
 3 6 months.
-
 SCHOOL B.
 There are three Special Classes in this school. Seventy-four children ad-
 mitted during the year. August 1920?July 1921. Of these, eight returned to
@@ -195,10 +195,8 @@ their own schools:?
 2 > > )3 5 ,,
 1 )> i) ? >>
 2 ,, ,, 11
-
 The three cases of rapid improvement were two in Arithmetic and one in
 Reading.
-
 studies in mental inefficiency. 59
 Twenty other children who had been in the Class more than a year also
 returned to ordinary schools during the period 1920-21:?
@@ -232,6 +230,7 @@ For Reading and Number Work apparatus of all kind is used. It is important
 that the apparatus should be progressive, and in the earlier stages self-corrective.
 The apparatus is planned to meet the needs of the child's developing ability and is
 constantly being added to, improved upon and renewed.
+
 Number Work is based on the use of the concrete. A good deal of time is given
 to shopping exercises as these are most familiar to the children and make excellent
 foundation for other work.

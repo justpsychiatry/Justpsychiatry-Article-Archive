@@ -1,8 +1,7 @@
 Mental Defectives Under the Poor Law: How the Problem is Dealt with at Ipswich by Co-operation with other Bodies
 =================================================================================================================
 
-:Author: M. Jefferies. V
-
+:Auhtor: M. Jefferies. V
 (Chairman of the Ipswich Board of Guardians).
 
 The proper care of the mentally deficient who become chargeable to the rates is
@@ -41,7 +40,7 @@ through their mental infirmity and through no fault of their own, and therefore 
 is the duty of the State to make their lives in the Institution as happy as possible.
 In a few Workhouses the mental defectives have special classes and are taught
 * For a lucid account of the legal position, see "The Poor Lam Officers' Journal," Feb. 2nd.
-1938.?Ed.
+1938.?Ed,
 
 various handicrafts, but, although such a course has proved to be very beneficial,
 most Boards of Guardians are reluctant to incur the expense of having a whole-
@@ -70,6 +69,7 @@ Sales, and the proceeds of the sale more than cover the cost of the material.
 The defectives go for a weekly walk outside the Workhouse grounds; at
 Christmas each is given a present and in summer those, who are well enough, are
 taken for an outing into the country or to the seaside.
+
 The Classes have brought a great deal of interest and pleasure into the lives of
 the defectives; the teacher usually gives them work to do which appeals to their
 sense of beauty and the)' are very proud of the articles they make.
@@ -140,7 +140,6 @@ grade defectives to leave an Institution. It therefore appears desirable that th
 Regulation should be so amended as to ensure that leave of absence exceeding 48
 hours should only be granted to certified patients in Workhouses with the approval
 of the Medical Officer and with the concurrence of the Statutory Committee.
-
 Since persons of low mentality are more likely than persons of average
 intellect to require indoor relief for themselves and their children, it is extremely
 probable that a considerable proportion of the children under the Guardians' care

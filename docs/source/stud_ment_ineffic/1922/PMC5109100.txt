@@ -1,9 +1,7 @@
 The Mentally Unstable Child Jand its Needs
-============================================
+==========================================
 
-:Author: Robert Hughes
-
-M.B. (Lond.); M.P.C.
+:Author: Robert Hughes, M.B. (Lond.); M.P.C.
 School Medical Officer, Stoke-on-Trent. |L
 
 Every medical officer, concerned with the duty of "ascertainment," must, often-
@@ -32,8 +30,8 @@ ly," from the definition of a defective child in the 1899 Act, has been rendered
 the words, "within the meaning of the Mental Deficiency Act 1913," contained in Form 302 .M.
 As to whether, when applied to children, it signifies, "so long as these are legally children,"
 or "lifelong inability," is another matter.
-ness in school subjects, no matter what other kind of mental inability it may show.
 
+ness in school subjects, no matter what other kind of mental inability it may show.
 Some of my cases might be regarded as covered by the legal definition of a
 "moral imbecile." Personally, I have the strongest objection to certifying any
 child as such, moreover the definition of this term in the Mental Deficiency Act
@@ -50,7 +48,6 @@ adopt means appropriate and proportionate to ends, and to regulate conduct in
 accordance with social requirements, undoubtedly is, and absence or defect of
 such ability constitutes a far greater menace to the welfare of the individual and
 of the community than any mere lack of scholastic attainments.
-
 The late Dr. Mercier was wont to lay great stress on disorder of conduct as
 an indication of mental unfitness ,f and disorder of conduct has been a notable
 feature of my cases, indeed natural law and positive law are so closely related,
@@ -61,7 +58,6 @@ To attempt to review the psychological factors concerned with conduct and
 character formation, is to tread on delicate ground. I propose, therefore, to
 confine my remarks strictly to those aspects of the problem which have a direct
 bearing on the general line of treatment advocated.
-
 There appears to be a tendency on the part of some to maintain that there is
 no distinction between instinctive action and intelligent action, no innate ten-
 dency natural to man beyond those connected with the animal instincts, and that
@@ -92,9 +88,11 @@ Journal of Mental Science the doctrine that disorder of conduct should enter as 
 part of our conception of what insanity is." Dr. Mercier was here describing a case in which
 disorder of conduct was the only indication of insanity.
 
+
 J Aristotle appears to have meant that man, in contemplation, (decopia) being capable of
 attaining to ideals, and ideals, being divine things, must have in himself something that is
-divine. Ethics. Book. X. Ch. VIII. posium. This natural tendency in man towards the "summum bonum" is a
+divine. Ethics. Book. X. Ch. VIII.
+posium. This natural tendency in man towards the "summum bonum" is a
 definite conation, an urge, and is known by the name of "rational desire."
 Although the good of the higher must always take precedence, it is not con-
 tended that the good of the lower nature merits no consideration. The Stoic rule
@@ -123,7 +121,6 @@ gether, and to express itself in other ways by the setting up of a species of au
 tism, so that the mentally unstable, besides exhibiting a number of mannerisms,
 and other instances of the "psychopathology of everyday life," are specially liable
 to disorders of conduct or even a definite neurosis, such as stammering.*
-
 Another way in which this deficiency of rational control is shown by these
 cases, is their inability to observe, what Aristotle in his famous definition of
 moral virtue termed, the "golden mean." They are as immoderat2 in the
@@ -153,6 +150,7 @@ desires as these, felt in his own childhood, that Hebbel's genius created the po
 tag." Dr. Putnam states, in the translator's preface:?"Psychoanalysis studies a certain
 portion of the influences, mainly in the form of passions and cravings but, in the opinion
 of the writer of this preface, other influences still more important are at work as well."
+
 tomed to call a "three cornered" mental conflict.* In these, the repression is
 essentially emotional, and based, in my own cases, on a wrong emotional atti-
 tude towards the sex question .f I have rather a striking case illustrating the
@@ -170,7 +168,6 @@ country, succeeded far beyond expectation, and, after little more than six month
 residence, he is now doing work almost equivalent to that of standard four, an
 utterly impossible advance had there been any real innate defect of intelligence.
 He was well nourished and, apparently, in good bodily health.
-
 Inability to progress at school owing to the existence of an "unconscious
 wish" not to learn and the consequent unconscious creation of difficulties which
 should not exist, is alluded to in text books dealing with psychoanalysis in rela-
@@ -192,6 +189,7 @@ All intellectual operations, being so closely interwoven with those which are
 sensory and motor, it is probable that an act which is purely intellectual never
 occurs in man. It is, therefore, easy to appreciate the extent to which abnor-
 mal cerebral conditions may influence intellectual operations.
+
 The influence of physical abnormality on mentality, however, may be
 indirect. Anyone with experience of cripples must have met with cases where an
 abnormal mental state has been due, not to any direct lesion of the cerebro-spinal
@@ -207,10 +205,12 @@ t I have found the little pamphlet by Dr. Mary Scharlieb: "What Mothers must tel
 Children" of great service in the treatment of these cases. Published by the N.C.C.V.D.
 J For example:?Sect. 4'Transference and Identification," pp. 270?271 in "The Child's
 Unconscious Mind," by Dr. Wilfred Lay.
+
 ? Apart from these cases, the correlations obtained between E.Q's and I.Q's and between
 Binet and Porteus I.Q's work out at a lower figure than was anticipated:
 Binet and E.Q's?r= .51; p.e.= .031. Porteus &E.Q's?r= .47; p.e.= .065. Porteus
 and Binet?r= .56; p.e.= .051.
+
 My cases, however, contain a large number of backward and mentally defective children.
 Results obtained from a fair sample of the general school population might give very different
 results. Disproportinate development is characteristic of mental deficiency.
@@ -238,13 +238,13 @@ ple, parents are slow to realize that correction by punishment is of less import
 than appreciation on the part of the child of why it has merited punishment at all.
 This is often quite as hazy as that of the little boy who was heard to sob out:?
 "they told me to try and be a man and when I said damn I got spanked."
-
 A child who is punished continually, but no pains taken to insure that it
 appreciates why, will soon develop the rudiments of an anti-social grudge,
 which, later on, may have very far reaching effects.
 
 Some of my cases have been rendered much worse through the application of
 the "give a dog a bad name and hang him principle."
+
 The general aim of treatment consists of an endeavour to instil into the mind
 of the child a series of definite "ideals," suited to mental and moral age (both
 very different things to chronological age), and so to substitute rational for
@@ -268,15 +268,15 @@ patient.
 In these days of "strictest economy," it would be futile to advocate the pro-
 vision of any new type of institution, moreover, some of these cases may be treated
 successfully at home under general guidance from the psychiatric clinic.
-
 There are numbers, however, whose presence in an ordinary school is dis-
 tinctly "detrimental to the interests of other children" who, on account of school
 attainments, are not "feebleminded within the meaning of the Mental Deficiency
 Act 1913" and, therefore, cannot be certified and dealt with as such.
+
 These require special treatment at a residential school, as do a fair number
 of delinquent children at present 4 'on probation.''
-
 * Epilepsy is omitted as epileptic children are already legally provided for.
+
 As stated elsewhere,* I have found our residential open-air school in the
 country of great service in this respect. Few such schools, however, exist; and
 those that do, our own included, are intended for the treatment of quite different
@@ -338,10 +338,7 @@ this official is also Medical Officer of Health, by the Senior School Medical In
 tor, and is one of so many other duties, that the time available is totally inade-
 quate.
 
-*"The Psychiatric Clinic for Children."
--------------------------------------- 
-
-The Child, Vol. XI. No. 12.
+* "The Psychiatric Clinic for Children." The Child, Vol. XI. No. 12.
 The appointment of a psychological expert by the Birmingham Justices was
 a move in the right direction, and the work of Dr. W. A. Potts demonstrates the
 urgent need of the services of an expert of this kind if the problem of Juvenile
@@ -353,3 +350,4 @@ already overburdened official, whose activities have consequently been restricte
 to ascertaining whether the delinquent is certifiable as mentally defective. In
 many places one whole-time expert could act as mental specialist to the Local
 Control Authority, the Local Education Authority and the Local Justices.
+/

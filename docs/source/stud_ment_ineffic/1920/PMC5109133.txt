@@ -1,11 +1,9 @@
 The English Convict
-====================
+=====================
 
-:Auhtor: Professor Karl Pearson
-
-STUDIES IN MENTAL INEFFICIENCY. 21
-Book Reviews.
-New issue with an introduction
+:Type: Book Reviews
+:Author: Professor Karl Pearson
+New issue with an introduction by Professor Karl Pearson.
 Published by H.M. Stationery Office.
 1919. Price 3s.
 
@@ -67,6 +65,7 @@ W. A. Potts.
 The Measurement of Intelligence, by
 Lewis M. Terman. Published by George
 Harrap & Co. Price 6/-.
+
 This book is very well worth reading by
 anyone desirous of dealing with the measure-
 ment of intelligence. It is probably the most
@@ -112,7 +111,6 @@ Ph.D. Kegau, Paul, Trench, Treubner
 This book is an interesting contribution to
 an aspect of the study of Education which
 has been, so far,?too much neglected.
-
 It is an experimental investigation of the
 actual capacity of individual children, with
 a view to suggesting suitable educational
@@ -138,7 +136,8 @@ ledge of the individual.
 The Boston Way. Plans for the Develop-
 ment of the Individual Child?compiled
 bv the Special Class Teachers of Boston.
-Published by The Romford Press, Con-cord, N.H.
+Published by The Romford Press, Con-
+cord, N.H.
 
 This book is a compilation of devices and
 methods which have been found valuable in

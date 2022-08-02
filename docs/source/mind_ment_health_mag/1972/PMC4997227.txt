@@ -1,7 +1,8 @@
 Social Work
 ============
 
-Jef Smith
+:Author: Jef Smith
+
 My local branch of the British Association of Social
 Workers is holding a meeting in the spring to discuss
 'Specialisation and the Social Services'. Only months
@@ -19,7 +20,10 @@ after only a couple of years? With swings of this
 speed, the social services could find themselves
 accused of being on a roundabout of ephemeral
 fashion.
+
 Skill and resources
+-------------------
+
 The picture is not quite so desperate. First, the
 Seebohm Report never said dogmatically that every
 social worker should carry a total range of cases.
@@ -33,6 +37,7 @@ pattern of specialisation that might emerge from the
 present confused picture would look anything like the
 random groupings of clients served by the social
 services of the sixties.
+
 The new specialties are more likely to cover quite
 specific, small fields like adolescent immigrants, one-
 parent families, the elderly confused, or children in
@@ -49,7 +54,8 @@ service territory into neat and mutually exclusive
 client-groups, but a flexible recognition of the sort of
 areas that could require specialist attention once we
 have the basic general practice operating satisfactorily.
-Unconvincing package
+Unconvincing package.
+
 All this is critical for mental health, an area of
 specialty that even the most loyal Seebohmists will
 concede has suffered in the short term. Mental health
@@ -58,6 +64,7 @@ own. At best it involved two sorts of work - with the
 mentally ill and mentally handicapped respectively -
 that had little overlap and called for quite different
 skills and resources.
+
 There are indications that the handicapped are at
 last getting something of the attention their often
 desperate situation demands, among the public and
@@ -71,7 +78,6 @@ and memoranda from the DHSS, which is all we have
 had on services for the mentally ill for the last two
 years, do not constitute even an approach to policy.
 The psychiatric problems of the mentally ill are
-29
 characterised by being inextricably interwoven with
 their social, familial and economic problems, a
 complexity for which the pre-Seebohm jungle of
@@ -90,7 +96,10 @@ change-over is wearing thin, what ought we to be
 demanding of social workers as an essential re-
 assertion of the peculiar skills of working with the
 mentally ill?
+
 A lively link
+-------------
+
 The first aptitude to be rediscovered concerns not
 the mentally ill themselves but the range of other
 caring staff with whom the social workers need
@@ -107,6 +116,7 @@ harsher reality of the wider community, the social
 worker must be a lively link, for the patient must
 always be working towards leaving the hospital,
 perhaps the hardest task of his recovery.
+
 Relating to institutions of this sort - children's
 homes, boarding schools and prisons have many
 similar characteristics - calls for unique skills, for the
@@ -130,6 +140,7 @@ intervention is possible though social workers must
 admit that their operations in the past (and therefore
 the bulk of their present skill) have been in work with
 the immediate families of patient.
+
 The techniques relevant to wider flfelds of educative
 and community work are still being worked out, but
 whether it is helping a tenants' association to set up a
@@ -140,6 +151,7 @@ colleagues of a client to interpret otherwise inexplic-
 able behaviour to them, the social worker must be
 learning new skills to help forge a more caring
 community.
+
 One area of the work of social services departments
 has attracted particular and unfavourable mention
 over the last year - their emergency night-time and
@@ -152,6 +164,7 @@ and confused negotiations, but it was certainly
 significant that this was the chosen battleground for
 the first concerted action by social workers to with-
 draw their labour.
+
 Being on call causes strain out of all proportion to
 the number of cases handled or the gravity of the
 matters dealt with. At all hours of the night a duty
@@ -163,7 +176,10 @@ mental health sector where the action to be taken can
 include the separation of fighting couples, the counsel-
 ling of a potential suicide or the compulsory admission
 of a dangerous patient.
+
 Exposed to pressure
+--------------------
+
 Whatever the outcome of the dispute over payment,
 social workers clearly must develop greater confidence
 to cope with such emergencies, and departments
@@ -172,7 +188,6 @@ to ensure that duty social workers are not left exposed
 to pressure without access to the necessary advice and
 information. The sorts of skills and back-up required
 have wider relevance than just to overnight problems;
-30
 they apply in all of the many crisis situations with
 which social workers deal, crises which can so easily
 be intensified by fumbling efforts or false reassurance,
@@ -184,6 +199,7 @@ new departure in the life of a disturbed person, but
 we are still far from developing the tools of rapid
 diagnosis and aid which we need to utilise our clients'
 crises confidently.
+
 So the mental health worker must call on a wide
 range of skills from community development to
 psychotherapy. In this context it is worth reasserting
@@ -201,7 +217,10 @@ we need urgently is a clear understanding that case-
 work and psychotherapeutic techniques can be radical
 in their application, just as community work, of
 course, can be conservative.
+
 Complex services
+-----------------
+
 The complexity of services from the point of view
 of the client makes the willingness of social workers
 to relate on an individual counselling basis all the more
@@ -218,6 +237,7 @@ ively, who will make sure that at each stage the patient
 really gets the service to which he has a right? This is
 surely a job which radical social workers can tackle
 with enthusiasm.
+
 Seebohm presented social service professionals with
 their biggest challenge on the mental health front. An
 area of work for which medical supervision was
@@ -237,6 +257,7 @@ work, it is true, has yet to come up with a more
 satisfactory model, has even to find a language free of
 the smell of medicine with which to talk about the
 phenomena we witness.
+
 The challenge is a large one - to devise environ-
 ments more therapeutic than hospitals, treatments
 less repressive than drugs, a theory of mental disturb-

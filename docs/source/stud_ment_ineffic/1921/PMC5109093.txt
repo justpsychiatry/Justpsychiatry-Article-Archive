@@ -1,8 +1,7 @@
 A Method of Personality Diagnosis and Evaluation With Provision for Social Service Propaganda
-===============================================================================================
+==============================================================================================
 
-:Author: Guy G. Fernald 
-A.M., M.D., 
+:Author: Guy G. Fernald, A.M., M.D. 
 Massachusetts Reformatory, Concord, U.S.A.
 
 In the comparatively rapid advancement made in recent years in that branch of
@@ -19,8 +18,6 @@ hand and "Intelligence" and other mentality components on the other and by the
 appearance in recent literature of such terms as "Behavior Disorders," "Conduct
 Anomalies," "Personality Studies," "Personality Ratings," "Characterial
 Deviations," etc.
-
-26 STUDIES IN MENTAL INEFFICIENCY. 
 
 The mental organisation or system which eventuates in action is quite as
 significant as an index of personality efficiency as is the mental organisation
@@ -73,26 +70,20 @@ or a moron or an imbecile.
 Character vs. Intelligence in Personality Studies," by the author. Journal of Abnormal
 Psychology, Vol. XV., No. 1, April, 1920.
 
-STUDIES IN MENTAL INEFFICIENCY. 27
-
 TENTATIVE CLASSIFICATION OF BEHAVIOUR DISORDERS
 PSYCHOPATHIC LABORATORY MASS. REFORMATORY CONCORD, MASS.
-----------------------------------------------------------
 
 Imbecilc
-Moron ?/I Subnormal
+Moron
+?/I Subnormal
 Behavior Limited < Psychoneuroses
 Disorders J ? Con'1 Psychopathies
 ^Aberrations Neuro'l Disorders
 Endocrenopathies
 v Entire Habits of Action Characterial Devi-
 ations or rectitude
-
 GRADES OF EFFICIENCY.
----------------------
 DIAGNOSES
-----------
-
 Super-
 Normal
 Normal
@@ -137,13 +128,11 @@ Tremors, tics, chorea
 Endocrenopathies
 Characterial Deviations*
 
-?Specified in case notes and there associated, contrasted and illustrated. Certain observed
+Specified in case notes and there associated, contrasted and illustrated. Certain observed
 deviations of frequent occurrence are the following, viz.: Too egocentric, lacks self respect, sex
 conflict, lacks definite ambition, acquisitiveness uncontrolled, lacks foresight, sordid tastes
 unchecked, too labile emotionally, too suggestible, misanthropy uncontrolled, too tenacious,
 unamenable to reason or authority, etc. ad lib.
-
-28 STUDIES IN MENTAL INEFFICIENCY.
 
 No form of case presentation is complete which does not recognise the limita-
 tions of categorization. Our classification deals with the functional content of
@@ -188,7 +177,6 @@ since one may know full well that continued self-denial is necessary and still b
 unwilling to compass the sacrifice involved. Failure, sociologically and econo-
 mically is at least as often due to mediocrity of ability to continue to pursue a
 well selected purpose as to paucity of academic knowledge of the course to pursue.
-
 We know a young man of superior intelligence who has spent about five
 years in prison for repeated thefts. He knows the disaster consequent upon
 stealing; but he is weak in his ability to resist the temptation to steal, the tempta-
@@ -198,7 +186,6 @@ happily on a farm and drives cows, milks, etc., always under supervision, but
 trusted within limits. The other, of no lower order of intelligence will not work,
 but will beg. He is a tramp in pleasant weather and does not hesitate to pilfer
 or falsify to gain his little ends. The actions of the one measure up well with his
-STUDIES IN MENTAL INEFFICIENCY. 2&
 intelligence rating; while the actions of the other do not correspond with his
 roughly equal academic knowledge. The one does as well as he knows how to do;
 but the other does not do as well as he could. The essential differences in the two
@@ -250,14 +237,11 @@ stop the habit and that one who does not do so, should hardly expect to succeed
 in other really worthy undertakings. These points were made late in the inter-
 view with the reactant whose case abstract is given, viz.:
 
-30 STUDIES IN MENTAt INEFFICIENCY.
-
 SPECIMEN ABSTRACT FROM A PSYCHIATRICAL NOTE.
 ---------------------------------------------
 
 No  (Name) 20 (age). Date
 Ethical Discrimination Test :* .56.
-
 (A judgment and observation test, standardised with nine others, this one employ-
 ing 10 offences as units to be arranged in a series from least to greatest
 in the order of their gravity from top to bottom. Stimulus given by
@@ -298,7 +282,6 @@ got into the habit of giving the answer j^ou thought you could get by on whether
 true or not." . . ."Yes, I have." "Those are disagreeable questions to
 ariswer. You have stopped trying to impose on me and have made yourself stop
 and think before answering and you have met the disagreeable issues presented.
-
 What is the reason I put these disagreeable questions and raise these unpleasant
 issues and stimulate you to answer truthfully ?" ' 'Because you have a good
 reason to." ' 'What good reason would I have ? " . . . "You want to help me
@@ -306,6 +289,7 @@ reason to." ' 'What good reason would I have ? " . . . "You want to help me
 Prufung des Sittlichen Fuhlens und iiber ihre weiters Ausgestaltung." Beihefte zur Zeitschrift
 fur angewandte Psychologie Herausgegeben von William Stern und Otto Lipmann. 24. Leip-
 zig, 1920. Verlag von Johann Ambrosius Barth, Dorrienstr. 16.
+
 Also "The Defective Delinquent Class: Differentiating Tests," by the author. Am.
 Journ. Insanity, Vol. XLVIII., No. 4, April, 1912. Second Edition, 1917.
 'A0Nai3i^aMi ivxmhk ni saianxs 31
@@ -329,11 +313,11 @@ another disagreeable issue to face." "It has been good." "You ought not to
 "fall down on" that after the lesson I've given you on the wisdom of telling the
 truth." . . . "It's been bad, I guess . . . I've done nothing worse than
 smoking in the morning here.''
-
 Epilepsy eliminated, also insanity. No evidence of neurological disorder
 nor of psychoneurosis. The tests for intelligence age level are given at this point.
 The age level by the Terman tests falls at 10-2 years. Blood Wassermann is
 negative.
+
 ' '3/8 plus 5/16 ? " ' '8/24." "17ft. 8in. equal how many inches ?'' Asks if
 he shall multiply by 12. Makes a mistake in multiplying and is shown that his
 incorrect answer is due to that error. Had studied "Interest" in school.
@@ -344,6 +328,7 @@ let you eat all you wanted to ? " ' 'No, they told me not to." ' 'Your answers a
 not very consistent. Why didn't you do as they told you ? " ' 'Too young
 7 or 8." "Then you weren't taught to mind and were disobedient and are now
 paying the price.''
+
 ' 'Look back over your actions and see what they show you wanted most in
 life. The merchant wants success in his business and his actions show it. The
 teacher wants to do his best as a teacher as shown by his actions. He works hard
@@ -352,7 +337,6 @@ does thorough work; but the hired brick-layer might work slowly or carelessly;
 if he were a timeserver. Now, what do your actions show you wanted most in
 life ? " ' 'Success." ' 'But you haven't succeeded . . . why not ?" "I was
 all right till I got in with the crowd." "Don't try to shift the responsibility.
-
 You lived your own life. That doesn't answer my question." ....
 ' 'Because I didn't get enough school in the first place." ' 'Are you sure you wanted
 to succeed most of anything ? " "Yes." ' 'What kind of success did you have in
@@ -362,7 +346,6 @@ worked for success. Admits he did not study evenings and that he left after a
 year and a half without notice to take a vacation in summer and that on his return
 he was told another had his place. ' 'Do not your actions show that you really
 wanted a good time more than you wanted success ?'' "Yes.'' (With conviction,
-32 STUDIES IN MENTAL INEFFICIENCY.
 apparently). "I've been reformed since I've been here." "Oh, no! You are
 not yet reformed, . . . not in this short time. You need to change yourself
 over in your habits of thinking and acting, to really make a man of yourself. It is
@@ -373,6 +356,7 @@ reformed you are only sorry you are here. Now if you were going to really under-
 take a job like that how would you go about it ? Your being sorry you are here is
 only the first step. That is good as far as it goes." "And sorry for what I've
 done." ' 'That is one of the best things you 've said yet. I've no doubt you are.
+
 Now when one is sorry what is the next step toward better acting and living?"
 "Have a good ambition." "Yes, that is good too, or have good intentions.
 The ambitions come a little later. Is anyone reformed who has good intentions ?''
@@ -416,7 +400,6 @@ about how much it will cost you to reform yourself at this late day. You are
 almost at the end of the formative period of life. No one learns a trade or reforms
 after 25. Habits are fixed by that time.
 
-STUDIES IN MENTAL INEFFICIENCY. 33
 Now your work is outlined and you know something of the difficulties ahead
 of you; but you also know something about how to go to work on your own re-
 building. No matter how hard you work on your plan you will be no more than
@@ -445,20 +428,24 @@ success and he was taught how to utilize these and other good qualities in his
 strife for success.
 
 Following is a copy of an abstract of his case from our case files, viz.:
+
 MASSACHUSETTS REFORMATORY PSYCHOPATHIC LABORATORY
 Case Abstract
 Summary
 No  19 (age) Date
 Intelligence Age Level: 10-2 years I.Q. .65
 Category: Middle Grade Moron
+
 Characterial Deviations: These are wide. He cast loose from home and school
 restraints too early and has been a pleasure seeker since, often in vicious
 surroundings. Falsifies easily and habitually. Has been damaged
 especially in self respect by vicious sex indulgence. Is too easily grouchy
 and offensive. Unpractised in self control.
+
 Sociologic Maladjustment: Thief and unreliable.
 Physical Health: Free from disease, well nourished. Sexual excesses have
 damaged him somewhat.
+
 Laboratory Classification: Characterial Deviate.
 Mental Disease: None.
 
@@ -470,8 +457,6 @@ the grade of efficiency. Findings of social maladjustment, sanity, physical
 handicaps and our recommendations are not included in the card index. They
 are included in abstracts, however, as these are of administrative importance
 and of special interest to the Board of Parole,
-
-84 STUDIES IN MENTAL INEFFICIENCY.
 
 The plan of laboratory procedure outlined and partly illustrated which
 serves fairly well the scientific and practical needs of our clientele would almost

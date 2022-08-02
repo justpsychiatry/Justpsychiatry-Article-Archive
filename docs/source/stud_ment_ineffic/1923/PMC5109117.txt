@@ -1,7 +1,7 @@
 The Neurotic School Child
 ==========================
 
-:Atuthor: Cyril Burt
+:Auhtor: Cyril Burt.
 
 Psychologist to the London County Council (Education Department.)
 A neurosis* is commonly defined as a functional nervous disorder, that is, a
@@ -9,6 +9,7 @@ nervous affection unattended by any gross or demonstrable change in the organic
 structure of the nerves or nervous system. In this group of diseases (if they can
 be called diseases) both the symptoms and the causes appear to be predominantly
 mental. Such a definition and description are certainly vague and indefinite.
+
 What particular disorders are to be comprehended under the general term will
 become sufficiently evident from the subsequent discussion of the specific types.
 Most neuroses, as recent investigation has shown, have their ultimate origin,
@@ -49,7 +50,8 @@ which are sometimes distinguished as 'actual neuroses.'
 t Hygiene of the School Child, p. 290.
 t Report of an Investigation upon BacKucard Children in Birmingham, p. 13.
 tion of the ordinary elementary school would probably drop to less than one per
-cent.*
+cent.
+
 In what follows I shall have space to attempt only a classificationf and
 description of the chief neurotic conditions observable among school children.
 Causes and treatment I shall not venture to discuss.
@@ -103,7 +105,7 @@ reported or supervised for some other subnormality?such as backwardness or delin
 which the previous history or subsequent supervision is thorough enough to reveal neurotic
 complications.
 
-Of Most medical textbooks recognise only two forms of neurosis?hysteria and neurasthenia.
+f Most medical textbooks recognise only two forms of neurosis?hysteria and neurasthenia.
 The French school haj split the latter into two distinct conditions?neurasthenia proper and
 psychasthenia. The Austrian school again subdivides each of these into, firstly, neurasthenia
 and anxiety-neurosis, and secondly, anxiety-hysteria and compulsion-neurosis. The latter
@@ -116,8 +118,6 @@ Oxford Medical Publications, 1909) devotes only a few scattered pages to neurast
 hysteria; and, for the rest, discusses in successive chapters, either such wide-spread symptoms as
 fears, fretting, moral failings, and disorders of sleep, or such special maladies as epilepsy,
 asthma, and chorea, which hardly belong to the group as above defined.
-
-
 to his work and reaps the benefit of adaptation and practice, shows at first a discernible improve-
 ment. Fatigue may not appear for several seconds or even minutes, the time varying con-
 siderably with the age and ability of the examinee and with the special conditions of the experi-
@@ -143,6 +143,7 @@ Sleeplessness is almost an invariable complaint. Sleep-walking, sleep-talking, a
 are not common; nor is the insomnia severe; but the child finds it difficult to get to sleep during
 the first hours of the night; and often dozes on until late in the morning. Bad sex habits are
 frequently discoverable, and may perhaps be intimately connected with the child's condition.
+
 Many common ailments are accompanied or followed by similar states of nervous debility.
 A condition of high fatiguability is a common sequel to influenzal attacks, and a frequent con-
 comitant of chronic gastro-intestinal catarrh. Thus it seems legitimate to recognise a secondary
@@ -153,9 +154,7 @@ nervous system either by auto-intoxication or by disturbances of internal secret
 that the assistance of the medical man is most necessary, since he may be able to detect and deal
 with some underlying physical factor. As a rule, the disorder rests upon a vicious circle; the
 mental trouble aggravates the physical, and this in turn reacts upon the mental.
-
 Anxiety States.
----------------
 
 Of the children reported by teachers as "nervous" by far the majority are suffering from
 what may be broadly named anxiety-states. The examiner's first impression is that the child is
@@ -187,14 +186,13 @@ be noticed, it is usual to find symptoms belonging to one accompanving the sympt
 other.
 
 Anxiety-Neurosis.
------------------
+-------------------
 
 In some cases?generally (though by no means exclusively) among the duller and the
 younger children?it is the physical symptoms that become the more pronounced. These physi-
 * In some of these instances a more careful analysis will reveal the operation of some exciting
 shock or situation about the second or third year.
-
-Physical'symptoms are largely paroxysmal. They often appear for the first time after some severe shock
+cal'symptoms are largely paroxysmal. They often appear for the first time after some severe shock
 or fright, or some prolonged tension or strain. Afterwards they tend to recur; and are easily
 re-aroused by a milder crisis or excitement. During the war an anxiety-neurosis was a frequent
 consequence of air-raids. But the precipitating shock is not necessarily a shock of terror. The
@@ -214,7 +212,7 @@ particular organ or system, that the physician is apt to suspect some organic di
 stomach or lung.
 
 Anxiety-Hysteria.
--------------------
+------------------
 
 In the preceding cases it would seem as if the child had developed some mechanism whereby
 his excessive fear could vent itself directly in bodily reactions, without any of the accumulated
@@ -222,6 +220,7 @@ tension which is perhaps needed to generate the more painful and more intimate e
 forms the subjective emotion. Older and brighter children avoid the arousal of such emotions
 by a different process. They carefully shun all objects or situations that are likely to set up the
 reaction of fright. Thus certain specific fears or phobias are progressively evolved.
+
 As with every mood or emotion, a free floating fund of anxiety is apt to attach itself to
 definite ideas or objects. The child thus ceases to be, or perhaps never lias been, generally
 timid; but begins to betray an irrational dread of particular classes of things. In the initial
@@ -301,7 +300,7 @@ ments that the child now makes, the actions that he is impelled to commit, can b
 some associative connection with the penalties he believes he is still deserving, or with some
 penance or other compensation that he feels himself bound co carry out.
 
-Conversion Hysteria .
+Conversion Hysteria .*
 ---------------------
 
 Hysteria in the true sense of the word is rarely seer, before puberty Most of the younger
@@ -342,9 +341,7 @@ schools that never come before a specialist.
 
 $In one of my cases the child was at first supposed to be suffering from hip-disease. He was
 ?eventually discharged from the hospital as cured. He suffered, however, from several relapses;
-and in the last the disability suddenly changed from the right to the left leg.
-
-
+and in the last the disability suddenly changed from the right to the left leg
 of a fear or wish that is more or less repressed. The physical disability, thus mentally pro-
 duced, is a mode of unconscious self-defence. For example, the child, who has first been for
 many years spoilt and indulged as the only child of the family, and has then become jealous of a

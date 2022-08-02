@@ -1,5 +1,5 @@
 The Memory of the Feeble-Minded
-=================================
+================================
 
 :Author: E. O. Lewis M.A., D.Sc., M.R.C.S.
 
@@ -41,7 +41,7 @@ defectives would be most valuable. This paper, however, deals with some pre-
 liminary observations I made of the learning and memory processes of a group of
 feeble-minded children. The group consisted of various mental types, and data
 obtained from such a heterogeneous group should obviously be interpreted cau-
-tiously.
+tiously .
 
 It may be of interest to state what induced me to collect these data. Mr.
 Burt in his extensive statistical and experimental studies* has demonstrated how
@@ -84,8 +84,7 @@ this paper the discussion will be limited to this special problem.
 It will be helpful, before we proceed to discuss the data of the present inves-
 tigation, to summarise briefly the conclusions of previous writers. The Chief
 Medical Officer of the Board of Education in his 1920 Report writes as follows:
-
-Absence or impairment of memory power is the one quality which all mentally
+' 'Absence or impairment of memory power is the one quality which all mentally
 defectives hold in common, and with which all other psychological manifestations
 are related. A child who cannot remember has nothing to store?he has not the
 mental material to enable him contrast or compare, and thence to form a proper
@@ -103,7 +102,6 @@ memory of mentally defectives are relatively few and meagre. Galton* found
 that most imbeciles failed to repeat more than four digits: while several imbeciles
 who had remarkable memories for dates or passages in books showed equally
 remarkable failure (a span of only three) in immediate memory for digits.
-
 Johnsonf concludes from his data that the degree to which the memory of feeble-
 minded children is inferior to that of normal children is net commensurate with
 the disparity in general intelligence. NorsworthyJ compared normal and feeble-
@@ -159,7 +157,7 @@ higher than those of the defectives. It would have been better had it been arran
 mental ages of the two groups were approximately the same.
 
 1. The Construction Test.
----------------------------
+--------------------------
 
 In this test the subjects learnt to construct a simple model of an aeroplane. The material
 used were thirty sticks of various lengths ; in fact there were only four sizes. The sticks could be
@@ -184,8 +182,8 @@ Defectives .. 15 3 9 4 4
 Normals. .... 11 2 4 2 1
 (Total 20).
 
-2. Association Test.
----------------------
+2. Association Test
+-------------------
 
 The task set in this test was to learn twelve arbitrary associations of letters and pictures;
 thus the letter B printed on one card was presented simultaneously with the picture of a monkey
@@ -210,8 +208,6 @@ Normals. 1 week. 9 2 3 ? ? 1 ?
 (Total 15). 1 month. 6 1 5 1 ? 2 ? ?
 
 3. Recitation Test.
---------------------
-
 This was a simple educational test of learning a six-line stanza containing thirty-three
 words. The context of the stanza was such that the lowest of the defectives tested could under-
 stand it easily. As with the previous test, reproductions were required a week, and a month
@@ -303,7 +299,6 @@ be the case. The point of special interest, however, is that the records of the 
 subjects depart from the law stated by Ebbinghaus to a much greater extent than even those of the
 normal subjects. The tables indicate that whereas the defectives compare favourably with
 normals in short-distance memories they are distinctly inferior in long-distance memories.
-
 My attention was first drawn to this feature by a decided contrast between two successive
 records of one of my subjects in recalling a story I had told him. His records at the end of the
 first, second, and fourth weeks had been fairly creditable. When tested at the end of the second
@@ -329,6 +324,7 @@ duced the model correctly, three others made 1-10 errors, four made 10-20 errors
 remaining twelve failed badly. In the control group, eight reproduced it correctly, se\en
 made 1-10 errors, two made 10-20 errors and only one failed completely. Therefore in this test
 also the defectives compare very badly with the normal children in remote memory work.
+
 One characteristic feature of the reproductions of most of the defectives in these tests should
 be mentioned in this context. When the defective reproduced correctly, it was done without
 much hesitation or faltering: and in a case where only a portion was remembered this was recalled
@@ -361,7 +357,6 @@ Some of the individual records in this investigation were of special interest.
 One boy whose mental defect was largely temperamental, had a verbal memory
 quite superior to the majority of the normal children. He memorised the thirty-
 three word stanza after only three repetitions: and reproduced the twelve associa-
-
 tions of pictures and letters correctly after two repetitions only. His long-dis-
 tance memory with these two tests was also distinctly good. With the construc-
 tion test his records were below the average. In six other cases there was marked

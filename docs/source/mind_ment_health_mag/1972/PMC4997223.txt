@@ -1,11 +1,9 @@
 Community Care
 ===============
 
-COMMUNITY CARE COMMUNITY CARE COMMUNITY CARE COMMUNITY CARE CO
-MMUNITY CARE COMMUNITY CARE COMMUNITY CARE COMMUNITY CARE COMIV
-Focusing on
-individual needs
-Hugh Freeman
+Focusing on individual needs
+:Author: Hugh Freeman
+
 When this magazine started life (as 'Mental Health')
 in 1947, the treatment of psychiatric disorder was a
 matter almost exclusively for large mental hospitals.
@@ -15,6 +13,7 @@ provided some psychotherapeutic treatment for
 neurotic patients, these too were merely satellites of
 mental hospitals - seeing people before or after
 admission.
+
 Added to all the familiar drawbacks of the mental
 hospital - its usually remote situation, its forbidding
 towers and corridors, the anonymity of its huge
@@ -30,6 +29,7 @@ all that had been possible before ECT came into
 general use, apart from the operation of prefrontal
 leucotomy, which was still in an early and rather
 crude form.
+
 In spite of all the cogent reasons, therefore, for not
 going into mental hospitals, people were admitted to
 them in ever-increasing numbers. Certainly, more
@@ -39,6 +39,7 @@ the balance was always on the side of larger numbers
 being inside hospital. Since there was practically no
 new building, overcrowding grew year by year and
 added even further to the hospitals problems.
+
 But, if many patients were going in mainly to be
 treated with ECT and were not so disturbed as to
 need constant nursing supervision or security, why
@@ -57,6 +58,7 @@ mental hospital, but the great majority didn't; they
 were treated as out-patients or with a short stay in a
 general teaching hospital and the contact with their
 homes and families was preserved all the time.
+
 Of course, psychiatric beds were not completely
 unknown before in general hospitals. But they were
 usually in a small corner of a ward, grudingly con-
@@ -65,6 +67,7 @@ rest of the hospital with the greatest suspicion. Any
 patient admitted to one of these beds had to be relied
 on to cause no trouble; otherwise, his departure to a
 mental hospital was likely to be swift.
+
 To treat people effectively in a general hospital,
 there had to be a unit of reasonable size with its own
 nursing staff and space for activities like occupational
@@ -77,6 +80,7 @@ soon showed that it was possible for them to treat the
 great bulk of serious psychiatric disorder arising in
 their populations, in the same way that people with
 other kinds of illness were treated at a local hospital.
+
 When the revolutionary advances in drug treatment
 took place, in the mid 1950s, producing the tranquill-
 isers and anti-depressives, the whole process opened
@@ -103,6 +107,7 @@ or rehabilitation for them and had the resources to
 apply it, then the logistics were relatively simple. But
 the new approach involved what has been called a
 'dispersed institution'.
+
 If we think of the population of a medium-sized
 town, it will be served by a variety of mental health
 resources. These will probably include now a unit in a
@@ -116,6 +121,7 @@ nursing, therapeutic social clubs and a sheltered
 workshop. In all these facilities, there may be a
 contribution by voluntary organisations, such as local
 mental health associations.
+
 This multiplication and dispersal of resources has
 been one of the most important changes of recent
 years, particularly in the period following the 1959
@@ -124,6 +130,7 @@ buildings and people who are now concerned gives
 some idea of the problems of communication and
 management which arise when a service is commun-
 ity-based, rather than institution-based.
+
 Yet it is obviously right that services should be
 focussed on the needs of the individual person, rather
 than forcing patients to conform to the demands of
@@ -132,6 +139,7 @@ processes of the large institution, so well described by
 the sociologist Irving Goffman in his book 'Asylums',
 can be as harmful to staff as to patients, especially
 when continuing over long periods of time.
+
 To avoid the secondary handicaps resulting from
 this process of institutionalisation, (in addition to the
 primary effects of the illness itself) is tremendously
@@ -146,6 +154,7 @@ was perhaps what was most wrong with the system
 that existed largely unchanged up to about twenty
 years ago and which was based on the large mental
 hospital.
+
 The greater effectiveness of psychiatric treatment
 methods has helped enormously in the decentralisa-
 tion of services. One important recent advance in
@@ -160,6 +169,7 @@ often in circumstances that were very distressing to all
 concerned. Research has shown that regular injections
 can make these further breakdowns much less likely.
 Almost obsolete
+
 But if the effective decentralisation of treatment is
 to be achieved, it will inevitably demand the efforts of
 a team of the various medico-social professions, rather
@@ -171,6 +181,7 @@ obsolete today, particularly for forms of severe
 psychiatric disorder which last for many years and
 need a whole range of services beyond the resources
 of the single family doctor.
+
 No individual - whether a doctor, a nurse, a social
 worker or any other professional - can be available
 continuously and over the length of time that is in-
@@ -185,6 +196,7 @@ things then return to normal, has to be largely aband-
 oned because it cannot cope with either the complex-
 ity of these situations or the periods of time they are
 likely to cover.
+
 In recent years there has been a change towards
 multi-disciplinary professional teams taking over the
 responsibility which formerly belonged to the doctor
@@ -205,6 +217,7 @@ Services Act of 1970 established their independence,
 at least outside hospitals, and the new social services
 departments have now been operating for nearly two
 years in most areas.
+
 Frequently the upheaval involved in this reorganis-
 ation has been associated with muddle, bitterness and
 disappointment. Local authority health departments
@@ -222,6 +235,7 @@ given the responsibility of dealing with mental health
 cases have been completely at a loss, because their
 training was in child care or welfare. These criticisms
 are justified, but only to a certain extent.
+
 In the first place, any new system must be given a
 reasonable chance to settle down; the National Health
 Service reorganisation scheduled for next year will
@@ -243,10 +257,12 @@ of local authorities had quite failed to carry out the
 assumptions and implied promises of the Mental
 Health Act about community care, during the time
 that Medical Officers of Health were responsible.
+
 Already, there has been a big increase in the numbers
 of social workers operating in local authority services,
 whilst the quality of staff and their level of training
 are improving steadily.
+
 All these considerations give ground for reasonable
 optimism about the future of social services in relation
 to mental health, though as 'Dymphna' pointed out in

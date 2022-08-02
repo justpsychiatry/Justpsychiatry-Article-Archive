@@ -23,6 +23,8 @@ We intend to clean up the articles, add metadata, structure and objects (images,
    ./J_pak_psych_soc/index.rst
    ./plos/index.rst
    
+   
+   ...
 
 
 Indices and tables

@@ -1,12 +1,11 @@
-   JPPS 2008; 5(2): 68-71
+      JPPS 2008; 5(2): 68-71       SPECIAL ARTICLE
 
-FROM DOTS TO STOPS —
+====================
+FROM DOTS TO STOPS  
 ====================
 
-   SPECIAL ARTICLE
-
 PUBLIC HEALTH INTERVENTION FOR SCHIZOPHRENIA IN LOW AND MIDDLE INCOME COUNTRIES
-===============================================================================
+-------------------------------------------------------------------------------
 
    Saeed Farooq, Zahid Nazar, Javaid Akhtar, Muhammad Irfan, Sher Naeem
 

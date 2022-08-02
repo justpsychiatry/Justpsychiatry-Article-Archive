@@ -7,7 +7,7 @@ FROM DOTS TO STOPS
 PUBLIC HEALTH INTERVENTION FOR SCHIZOPHRENIA IN LOW AND MIDDLE INCOME COUNTRIES
 -------------------------------------------------------------------------------
 
-   Saeed Farooq, Zahid Nazar, Javaid Akhtar, Muhammad Irfan, Sher Naeem
+:Authors:   Saeed Farooq, Zahid Nazar, Javaid Akhtar, Muhammad Irfan, Sher Naeem
 
 ABSTRACT
 --------
@@ -32,8 +32,7 @@ ABSTRACT
    chronic disorder based on preliminary analysis of data from our
    recent study and discuss how this can be implemented.
 
-   K\ **eywords**: Schizophrenia, Public health, Adherence,
-   Intervention, Effectiveness.
+   **Keywords**: Schizophrenia, Public health, Adherence, Intervention, Effectiveness.
 
 THE CHALLENGE
 -------------
@@ -46,38 +45,14 @@ treatment for those suffering from psychosis.
 More than half of these countries have either no or less than 1% of
 health budget for mental health and the treatment gap for psychiatric
 disorders is close to 90%. Most individuals are, therefore left to cope
-with severe mental illness on their own1. Consequently, there is high
-
-   **Saeed Farooq,** MCPS (Psych), FCPS (Psych). Associate Pro- fessor &
-   Head Department of Psychiatry, Postgraduate Medi- cal Institute, Lady
-   Reading Hospital, Peshawar, Pakistan. E-mail: sfarooqlrh@yahoo.com
-
-   **Zahid Nazar,** FCPS (Psych). Assistant Professor, Department of
-   Psychiatry, Postgraduate Medical Institute, Lady Reading Hospital,
-   Peshawar, Pakistan.
-
-   **Javaid Akhtar,** MCPS (Psych), FCPS (Psych). Senior Regis- trar,
-   Department of Psychiatry, Postgraduate Medical Insti- tute, Lady
-   Reading Hospital, Peshawar, Pakistan.
-
-   **Muhammad Irfan,** MCPS (Psych). Department of Psychiatry,
-   Postgraduate Medical Institute, Lady Reading Hospital, Peshawar,
-   Pakistan. `E-mail:mirfan78@yahoo.com <mailto:mirfan78@yahoo.com>`__
-
-   **Sher Naeem,** Drug Abuse & Treatment Center, Postgraduate Medical
-   Institute, Lady Reading Hospital, Peshawar, Pakistan.
-
-   **Correspondence: Dr. Saeed Farooq**
-
-   untreated prevalence of schizophrenia in the form of undetected as
-   well as inadequately and partially treated cases. While it may be
-   difficult to reach for the undetec- ted cases, the present level of
-   untreated cases in pa- tients who have had some contact with mental
-   health services represents a catastrophic failure of mental health
-   policy and services in these countries. In this article, we will
-   argue that a public health intervention based on the principles of
-   DOTS could be an effective strategy for coping with schizophrenia in
-   these coun- tries.
+with severe mental illness on their own1. Consequently, there is high untreated prevalence of schizophrenia in the form of undetected as well as inadequately and partially treated cases. 
+While it may be difficult to reach for the undetec- ted cases, the present level of
+untreated cases in pa- tients who have had some contact with mental
+health services represents a catastrophic failure of mental health
+policy and services in these countries. In this article, we will
+argue that a public health intervention based on the principles of
+DOTS could be an effective strategy for coping with schizophrenia in
+these coun- tries.
 
 WHAT IS DOTS?
 -------------
@@ -91,23 +66,14 @@ non-adherence and maintaining long term treatment for tuberculosis.
    all the five components of DOTS and its implementation see WHO,
    1999)2.
 
-(a) A regular uninterrupted supply of all essential Anti TB drugs backed
-    by governments’ commitment to sustained TB control activities.
+(a) A regular uninterrupted supply of all essential Anti TB drugs backed by governments’ commitment to sustained TB control activities.
 
-(b) Standardized treatment regimen of six to eight months chemotherapy
-    under supervision. In many LAMICs the role of DOTS supervisor is
-    assigned
+(b) Standardized treatment regimen of six to eight months chemotherapy under supervision. In many LAMICs the role of DOTS supervisor is assigned to a family or a community member who regularly administers the drugs under close monitoring by a health worker.
 
-..
-
-   to a family or a community member who regularly administers the drugs
-   under close monitoring by a health worker.
-
-The World Bank considers DOTS to be one of the most cost effective
-health interventions. DOTS are more cost effective than
+The World Bank considers DOTS to be one of the most cost effective health interventions. DOTS are more cost effective than
 self-administered treatment3, 4.
 
-Supervised treatment for schizophrenia in commu- nity - What is the theoretical rationale?
+Supervised treatment for schizophrenia in community - What is the theoretical rationale?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We believe that there is urgent need for a public health intervention
@@ -290,81 +256,49 @@ reduce the stigma for the disorder as effectively as the advent and
 effective implementation of anti tuberculosis treatment did for
 tuberculosis.
 
+
+About the Authors
+-----------------
+
+**Saeed Farooq,** MCPS (Psych), FCPS (Psych). Associate Pro- fessor &
+   Head Department of Psychiatry, Postgraduate Medi- cal Institute, Lady
+   Reading Hospital, Peshawar, Pakistan. E-mail: sfarooqlrh@yahoo.com
+
+   **Zahid Nazar,** FCPS (Psych). Assistant Professor, Department of
+   Psychiatry, Postgraduate Medical Institute, Lady Reading Hospital,
+   Peshawar, Pakistan.
+
+   **Javaid Akhtar,** MCPS (Psych), FCPS (Psych). Senior Regis- trar,
+   Department of Psychiatry, Postgraduate Medical Insti- tute, Lady
+   Reading Hospital, Peshawar, Pakistan.
+
+   **Muhammad Irfan,** MCPS (Psych). Department of Psychiatry,
+   Postgraduate Medical Institute, Lady Reading Hospital, Peshawar,
+   Pakistan. `E-mail:mirfan78@yahoo.com <mailto:mirfan78@yahoo.com>`__
+
+   **Sher Naeem,** Drug Abuse & Treatment Center, Postgraduate Medical
+   Institute, Lady Reading Hospital, Peshawar, Pakistan.
+
+   **Correspondence: Dr. Saeed Farooq**
+
+
 REFERENCES
 ----------
 
-1.  World Health Organization. Investing in mental health. Geneva: World
-    Health Organization, 2003.
-
-2.  World Health Organization. What is DOTS: A Guide to WHO recommended
-    TB control strategy known as DOTS. Geneva: WHO, 1999.
-
-3.  Moore RD, Chaulk CP, Griffiths R, Cavalcante S, Chaisson RE. Cost
-    effectiveness of directly observed versus self- administered therapy
-    for tuberculosis. Am J Resp Crit Care Med 1996; 154: 835-6.
-
-4.  Floyed K, Wilkinson D, Gilk C. Comparison of cost effec- tiveness of
-    directly observed therapy (DOT) and con- ventionally delivered
-    treatment for tuberculosis: experi- ence from rural South Africa. Br
-    Med J 1997; 315: 1407-11.
-
-5.  Lieberman JA, Fenton WS. Delayed detection of psy- chosis: causes
-    consequences and effect on public health. Am J Psychiatry 2000; 157:
-    1727-30.
-
-6.  Robinson D, Woerner MG, Alvir JMJ, Bilder R; Goldman R, Geisler S,
-    et al. Predictors of Relapse Following Response from a First Episode
-    of Schizophrenia or Schizoaffective Disorder. Arch Gen Psychiatry
-    1999; 56: 241-7.
-
-7.  Lehman AF, Kreyenbuhl J, Buchanan RW, Dickerson FB, Dixon LB,
-    Goldberg R et al .The schizophrenia Pa- tient Outcomes Research Team
-    (PORT): updated treat- ment recommendations 2003. Schizophrenia Bull
-    2004; 30: 193-217.
-
-8.  Andrews G, Sanderson K, Corry J, Issakidis C, Lapsley H. Cost
-    effectiveness of current and optimal treatment for schizophrenia. Br
-    J Psychiatry 2003; 183: 427-35.
-
-9.  Kampman O, Lehtinen K.Compliance in psy- chosis. Acta Psychiatrica
-    Scandinavica 1999; 100: 167-75.
-
-10. Qui F, Lu S. Guardianship networks for rural psychiatric patients.
-    Br J Psychiatry 1994; 165: 114-20.
-
-11. Murthy R S, Kishore KVK, Chisolm D, Thomas T, Seskar K,
-    Chandrashekar CR. Community outreach for un-
-
-..
-
-   treated schizophrenia in rural India: a follow-up study of symptoms,
-   disability, family burden and costs. Psycholog Med 2005; 35: 341-51.
-
-12. Chatterjee S, Patel V, Chatterjee A, Weis HA. Evaluation of
-    community based rehabilitation model for chronic schizophrenia in
-    rural India. Br J Psychiatry 2003; 182: 57-62.
-
-13. Zygmunt A, Olfson M, Boyer CA, Mechanic D. The inter- ventions to
-    improve medication adherence in schizo- phrenia. Am J Psychiatry
-    2002; 159: 1653-64.
-
-14. American Psychiatric Association. Diagnostic and statis- tical
-    manual of mental disorders. 4th ed TR. Washington DC: American
-    Psychiatric Association 2002: p. 32.
-
-15. Harrison G, Hooper K, Craig T, Laska E, Siegel C, Waderling J, et al
-    .Recovery from psychotic illness: a 15
-
-..
-
-   - and 25- years international follow up study. Br J Psy- chiatry
-   2001; 178: 506-17.
-
-16. International Diabetic Federation. Insulin Demonstration project.
-    [Online] 2004 [Cited on 2008, Oct 01]. Avail- able from:
-    `URL://http://www <http://www.idf.org/e-atlas/home/index>`__.idf\ `.org/e-atlas/home/index. <http://www.idf.org/e-atlas/home/index>`__
-
-17. International Diabetic Federation. Insulin prices and state
-    subsidies in IDF member countries. [Online] 2004 [Cited on 2008, Oct
-    01]. Available from: URL://http://
-    `www.idf.org/e-atlas/atlas/index. <http://www.idf.org/e-atlas/atlas/index>`__
+1.  World Health Organization. Investing in mental health. Geneva: World Health Organization, 2003.
+2.  World Health Organization. What is DOTS: A Guide to WHO recommended TB control strategy known as DOTS. Geneva: WHO, 1999.
+3.  Moore RD, Chaulk CP, Griffiths R, Cavalcante S, Chaisson RE. Cost effectiveness of directly observed versus self- administered therapy for tuberculosis. Am J Resp Crit Care Med 1996; 154: 835-6.
+4.  Floyed K, Wilkinson D, Gilk C. Comparison of cost effec- tiveness of directly observed therapy (DOT) and con- ventionally delivered treatment for tuberculosis: experi- ence from rural South Africa. Br Med J 1997; 315: 1407-11.
+5.  Lieberman JA, Fenton WS. Delayed detection of psy- chosis: causes consequences and effect on public health. Am J Psychiatry 2000; 157:1727-30.
+6.  Robinson D, Woerner MG, Alvir JMJ, Bilder R; Goldman R, Geisler S et al. Predictors of Relapse Following Response from a First Episode of Schizophrenia or Schizoaffective Disorder. Arch Gen Psychiatry 1999; 56: 241-7.
+7.  Lehman AF, Kreyenbuhl J, Buchanan RW, Dickerson FB, Dixon LB, Goldberg R et al .The schizophrenia Pa- tient Outcomes Research Team (PORT): updated treat- ment recommendations 2003. Schizophrenia Bull 2004; 30: 193-217.
+8.  Andrews G, Sanderson K, Corry J, Issakidis C, Lapsley H. Cost-effectiveness of current and optimal treatment for schizophrenia. Br J Psychiatry 2003; 183: 427-35.
+9.  Kampman O, Lehtinen K.Compliance in psy- chosis. Acta Psychiatrica Scandinavica 1999; 100: 167-75.
+10. Qui F, Lu S. Guardianship networks for rural psychiatric patients. Br J Psychiatry 1994; 165: 114-20.
+11. Murthy R S, Kishore KVK, Chisolm D, Thomas T, Seskar K, Chandrashekar CR. Community outreach for untreated schizophrenia in rural India: a follow-up study of symptoms, disability, family burden and costs. Psycholog Med 2005; 35: 341-51.
+12. Chatterjee S, Patel V, Chatterjee A, Weis HA. Evaluation of community based rehabilitation model for chronic schizophrenia in rural India. Br J Psychiatry 2003; 182: 57-62.
+13. Zygmunt A, Olfson M, Boyer CA, Mechanic D. The inter- ventions to improve medication adherence in schizo- phrenia. Am J Psychiatry 2002; 159: 1653-64.
+14. American Psychiatric Association. Diagnostic and statistical manual of mental disorders. 4th ed TR. Washington DC: American  Psychiatric Association 2002: p. 32.
+15. Harrison G, Hooper K, Craig T, Laska E, Siegel C, Waderling J, et al. Recovery from psychotic illness: a 15- and 25-years international follow up study. Br J Psy- chiatry 2001; 178: 506-17.
+16. International Diabetic Federation. Insulin Demonstration project. [Online] 2004 [Cited on 2008, Oct 01]. Avail- able from: URL://http://www <http://www.idf.org/e-atlas/home/index>`__.idf\ `.org/e-atlas/home/index. <http://www.idf.org/e-atlas/home/index>`__
+17. International Diabetic Federation. Insulin prices and state     subsidies in IDF member countries. [Online] 2004 [Cited on 2008, Oct 01]. Available from: URL://http://www.idf.org/e-atlas/atlas/index. <http://www.idf.org/e-atlas/atlas/index>`__

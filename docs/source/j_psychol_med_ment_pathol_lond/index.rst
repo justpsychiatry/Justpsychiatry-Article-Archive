@@ -3,6 +3,7 @@ Journal of Psychological Medicine and Mental Pathology London
 #############################################################
 
 
+
 *Journal of Psychological Medicine and Mental Pathology London* continues as *Medical Critic and Psychological Journal.* 
 
 

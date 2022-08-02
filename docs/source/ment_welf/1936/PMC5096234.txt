@@ -1,8 +1,9 @@
 Special Education for Retarded Children
 =========================================
 
-By GRACE RAWLINGS, B.A.
+:Author: GRACE RAWLINGS, B.A.
 (Educational Psychologist, C.A.M.W.)
+
 In the early part of 1935 I had the privilege of visiting various Local
 Education Authorities in England and Scotland to learn of the provision made
 for the special education of backward children. During the summer months
@@ -10,14 +11,19 @@ I was helping to arrange three courses for teachers of retarded and defective
 children, and more recently I have been engaged in investigating in detail
 the problem presented by the backward child in the elementary schools of
 an urban area with a school population of about 10,000.
+
 It was suggested in the October issue of Mental Welfare that I might,
 therefore, contribute some information on the work now in progress on
 behalf of retarded children in the elementary schools.
+
 I.?Administrative Aspects
+---------------------------
+
 Under this heading it will be possible only to indicate the steps that
 are bein^ taken (1) to ascertain the number of children who are sufficiently
 retarded to require special attention, and (2) to describe some methods that
 have been adopted whereby this necessary attention is given.
+
 It is desirable to state specifically at this point what is meant by a
 2 MENTAL WELFARE
 " backward " cliild and a " retarded " child. In practice the term " backward "
@@ -26,8 +32,10 @@ is used of all children who fail in their school work whether by reason of
 (2) Emotional difficulties?constitutional or environmental, or
 (3) Extraneous circumstances, e.g., poor physical health, frequent change
 of school, etc.
+
 The failure of backward children in their work is judged from the average
 attainment of children of the same chronological age.*
+
 When it is found that, on intelligence tests, a child has a mental age
 markedly below his chronological age, whether he is backward in his school
 work (as is usual) or not, he is described as a retarded child. With a slight
@@ -38,7 +46,10 @@ portionately, then a special approach to the education of that child is necessar
 In many areas it is to this problem?the education of the retarded child?
 that administrators address themselves, and the backward child who is of
 average or superior intelligence receives no extraordinary consideration.
+
 Ascertainment
+---------------
+
 We may scan first of all the methods now in use for ascertaining the
 number of children in an area who are in need of special education.
 (1) By far the commonest is what may be called the " teacher's opinion "
@@ -48,6 +59,7 @@ behaviour, judge whether he is a suitable candidate for the particular form of
 special provision that is available. If there is reason to suppose that a child
 is mentally defective, he is, of course, referred to the School Medical Officer
 for examination.
+
 (2) Not infrequently this selection by teachers is a preliminary step, and
 further investigation is made of the cases they send forward. For instance,
 in Oxford, Head Teachers are asked to report any child 7 years old or over
@@ -56,6 +68,7 @@ cases are then investigated along Child Guidance lines. In Leicester children
 selected by teachers are given an intelligence test by trained workers, and
 cases of personality problems and delinquency are further investigated by the
 Psychologist to the Local Education Authority.
+
 (3) In some areas there is a systematic use of standardised tests for all
 school children as they reach a given age. Standardised tests of educational
 attainment may be used to select cases for individual investigation. Thus,
@@ -65,15 +78,16 @@ addition and subtraction (on Dr. Ballard's one minute tests) as they reach their
 terminology the word has a more limited meaning. It is to be borne in mind that if a child's attainments
 in school work are on a level with his "mental age" (however retarded he may be), he is not
 technically " backward."
-MENTAL WELFARE 3
 seventh birthday, and if the ratio between chronological age and educational
 age (an average of the three test results) is less than .9 the children are given
 an individual test of intelligence.
+
 In other places standardised tests of intelligence are used on the whole
 school population. In Dumbartonshire all children are tested with standardised
 group tests as they enter the Junior School. Individual cases that need further
 investigation are tested by the Psychologist, and, if queried mentally defective,
 referred to the School Medical Officer.
+
 There is a growing tendency for both intelligence and attainment tests
 to be used and the results considered in conjunction with one another. The
 system that is being developed in Kent is that, in time, there shall be on
@@ -84,9 +98,11 @@ to all children of 8 years old and over, and at the age of 11 + there is to be a
 supplementary group intelligence test. From these results a graphic record
 can be made for each child, and from this record it can be readily seen whether
 or not a child is in need of special education.
+
 (4) The methods so far described appear practicable for urban areas or
 for large schools in county areas, but they leave out of account the small one
 or two teacher schools of rural areas.
+
 In some rural areas the Local Education Authorities employ a peripatetic
 teacher whose function it is to test individually all the children who fail to
 make progress in their school work, and to advise as to suitable methods for
@@ -103,6 +119,7 @@ Comparatively little experiment has been carried out so far, and until there is
 evolved some method, or methods, practicable from every point of view and
 demonstrably superior to those now in use criticism is abortive; methods that
 have been found useful must continue to serve.
+
 However, I should like to venture on a personal opinion on one or two
 points. I prefer the use of standardised tests to the "teacher's opinion" method,
 based as it is on inspection of a progress record and the observation of
@@ -111,7 +128,6 @@ the part of the inspector or organiser who arranges the work for retarded
 children, of the people whose opinions are to guide him in his selection and
 classification of such children; otherwise he will not be able to interpret these
 opinions or to put them on a comparable basis. (He will probably be dealing
-4 MENTAL WELFARE
 with 20 or more Head Teachers contemporaneously.) Moreover, teachers have
 not always at their disposal accurate information on a child's school attend-
 ance and past history, and without this information their opinion may be
@@ -132,6 +148,7 @@ and standard of work. For this further investigation, individual tests must
 be used. Among these special cases all the " problem children " as judged
 by other standards will be found, and possibly a few others who would other-
 wise have been overlooked.
+
 The group test is easily obtained at a reasonable price (about 17/6 per
 hundred copies). There is a variety of well standardised tests on the market,
 and belonging to each is an explanatory booklet with explicit instructions,
@@ -146,6 +163,7 @@ fore the numerical result is vitiated in the case of backward children. But
 further, a group test cannot, under any circumstances, yield the useful infor-
 mation of a child's psychology that can be gleaned from a carefully
 administered individual test.
+
 Standardised Tests of Attainment in school work have, I think, an
 important role to play after the child's intelligence has been assessed. Given
 suitable opportunity it is in relation to his intelligence that an emotionally
@@ -154,12 +172,13 @@ mental age and as a result of an attainment test his reading level and his
 arithmetic level we can state whether or not he is working to capacity and
 making satisfactory progress. If he is not we must, if possible, discover the
 cause and remedy the defect.
+
 If these tests are used at definite intervals (say 12 months) an unbiassed
 estimate of the child's progress can be given, and lastly (and this holds good
 whether the child's mental age is known or not), an analysis of the results
-MENTAL WELFARE 5
 of these Attainment Tests indicates the point at which remedial teaching
 should begin and, not infrequently, the course it should follow.
+
 I would offer one last comment on the personnel responsible for testing.
 I think it is impossible to over-emphasise the necessity of both a sound
 psychological background and a thorough training in the technique of mental
@@ -174,17 +193,20 @@ Finally, if it is expected of a teacher that he should do individual testing, he
 must be granted the necessary facilities which include a separate room and
 freedom from interruptions. And, of course, this work will necessitate his
 absence from his class to the extent of about half an hour per child.
+
 II.?Provision
 When the children who would benefit by special education have been
 ascertained by one of the above or similar methods, a decision must be arrived
 at as to how they are to be classified and taught.
+
 If a child is retarded by more than two and a half years at the age of
 8, he is usually referred to the School Medical Officer (if this has not been
 done previously). He is re-examined and possibly certified as mentally
 defective. If he is an educable feeble-minded child he is transferred to a
 Special School for Mental Defectives, should such exist in that area. The
 remaining retarded children (and the educable defectives if no other provision
-is available) may be taught: ?
+is available) may be taught:?
+
 (1) In the lowest stream (D or E) of their age group in large schools.
 (2) In a special class in their elementary school, if the school is large
 enough to support one or more classes.
@@ -196,20 +218,22 @@ children of similar attainment. These latter groups may be taken by
 the Head Teacher, a visiting teacher or a floating teacher.
 (5) As individuals in a class. This is the only way in small all-standard
 schools.
+
 It may be thought that there is little or no difference between a " D "
 stream in a large school and a special class for retarded children. The
 distinction that I wish to draw is this. A " D " class in all probability is
 reckoned as a 40 class for staffing purposes and, although it may be possible
 to keep the roll down to 35 for part of the year, that is still too large a class
 for the teacher to undertake the amount of individual and practical work
-6 MENTAL WELFARE
 that is necessary for retarded children. In addition there are very few schools
 that are large enough to carry a " D " stream of purely retarded children and
 the consequence is that retarded and backward children, who want different
 treatment, are taught together.
+
 A special class is usually small enough (roll 25 or 30), for a competent
 teacher to plan absolutely individual work at least for the fundamental subjects,
 and it is recognised as a small class for purposes of staffing.
+
 The systems now working in Leicester City and Dumbartonshire may
 be quoted by way of illustration. In Dumbartonshire mentally defective
 children are transferred to Special Schools at the age of 8. Permanently
@@ -238,18 +262,18 @@ where he can achieve success and do it at his own rate until he can be trans-
 ferred back to his own age group to work there without undue strain and
 with satisfaction to himself. Also at the Experimental School are children
 who are mal-adjusted emotionally, and some delinquents.
+
 In both Dumbartonshire and Leicester City the special classes are
 recognised as such for purposes of staffing. The selection of the children
 is in the hands of an Educational Psychologist in Dumbartonshire and of
 trained workers under the direction of the Psychologist to the Education
 Committee in Leicester.
+
 Mention has already been made of the peripatetic teacher, as a form
 of provision for retarded children. In rural areas where most of the schools
 are small the formation of special classes is out of the question and the only
 way of arranging special work for retarded children is by having a teacher
 who has specially studied and qualified to teach difficult children, to visit
-MENTAL WELFARE
-7
 the school in a consultative capacity. He will examine the child, diagnose
 the difficulty and suggest to the class teacher ways of treating and teaching
 each case. This, in broad outline, is the experiment now in progress in
@@ -257,6 +281,7 @@ Westmorland and Leicestershire. If occasion demands, the peripatetic teacher
 will himself visit a school daily to get a group working or to demonstrate
 to an inexperienced teacher methods that are particularly useful with retarded
 children.
+
 There is at least one urban Authority that is experimenting with a visiting
 teacher. I refer to Nottingham City where there is already established a
 comprehensive system of practical classes for retarded children. The visiting
@@ -267,6 +292,7 @@ the equivalent of three half hours tuition a week, and may attend alone or
 with a small group. The teacher has special qualifications and experience
 and her equipment for the work includes a knowledge of child psychology
 and training in remedial teaching.
+
 Under Local Education Authorities where there is no organised provision
 for retarded children there are often found excellent classes in individual
 schools, but it is difficult to arrange any continuity of work, and sometimes,
@@ -278,6 +304,7 @@ numerary may be withdrawn. If such is the case, it is almost inevitable that
 this valuable group work will come to an end, and, of course, in fairness to
 the staff and to the other pupils classes should not be made abnormally large
 in order that tutorial groups may be continued.
+
 I have met and corresponded with scores of teachers who are in charge
 of these isolated classes. I have also visited many such classes, and without a
 doubt very valuable work is being carried out in many of them. The teacher
@@ -293,9 +320,9 @@ because of the influx to the class of some 10 or 15 extra children. The value
 of special class work may be reduced if there is a break in its continuity either
 in the way indicated above or on account of there being no other special class
 in the department from which, or to which, the child is moving.
+
 Another way in which a great part of the value of this work may be lost
 is through the lack of adequate record keeping. One hears sometimes, by word
-8 MENTAL WELFARE
 of mouth, of interesting educational experiments that have bearing on the
 retarded child. One day there comes an opportunity of visiting the school
 where such an experiment is being tried, but on arrival there is nothing to be
@@ -303,6 +330,7 @@ seen of it because Mr. or Miss X has left, and the scheme has been dropped or
 the class disbanded because nobody else had the knowledge or enthusiasm to
 carry it on. Such an occurrence is not uncommon and it shows how much is
 left to the initiative of individual teachers.
+
 This absence of records implies no criticism of the teacher. In all
 probability he has had his time fully occupied without thought of record keep-
 ing. And often these teachers are modest people who under-estimate the
@@ -310,7 +338,10 @@ value of their own experiments. It is, however, an indication that adminis-
 trators and organisers of elementary education are not yet fully cognisant of
 the necessity for intensive research before the most suitable methods and
 curricula for retarded children can be discovered.
+
 Practical Aspects
+-------------------
+
 i. Curricula for Retarded Children
 Personal experience, together with discussion and correspondence with
 many teachers, has revealed the fact that, where the organisation of special
@@ -320,21 +351,25 @@ the needs of children with inferior intelligence.
 The recommendations summarised below may be regarded as embodying
 the suggestions of those who are actually engaged in teaching retarded
 children: ?
+
 (1) That the attainment in English and Arithmetic expected from a
 retarded Senior on leaving school should be limited to the level reached by
 an average child in Standard III or IV (10 year level).
+
 (2) That a great part of the skill in Reading and Number should be
 acquired during the Junior School period, thus allowing for a late beginning,
 and leaving for the Senior School period the applications and uses of these
 skills that require more mature reasoning. (Some of the more elementary
 applications will, of course, be used in the Junior School for practical
 purposes.)
+
 (3) That History and Geography should not be included in the time-table
 as such, but suitable facts under the heading of General Knowledge, should
 be introduced through conversations and lessons on topical events and every-
 day science. The subjects would then be dealt with as they come within the
 purview of the child's experience. They thus become more meaningful to
 the child and easier to understand.
+
 (4) That every effort should be made, and every means at the command
 of the teacher used, to increase the responsiveness of retarded children and to
 stimulate their interest in their own surroundings and experience.
@@ -344,8 +379,8 @@ freedom as possible allowed in the choice of media of expression.
 that the children should spend much time in doing things and making things.
 I do not think that it is possible to be dogmatic about the detail of
 curricula for retarded children. There is urgent need for further experiment.
-MENTAL WELFARE 9
 ii. Method
+
 I do not propose here to discuss specific methods, but rather to give a few
 general suggestions that have proved helpful. First, the child's own emotional
 attitude to his work is of far greater importance than particular methods of
@@ -360,6 +395,7 @@ it; the time given to lessons must at first be arranged so that the child stops
 while he is still succeeding and wanting to do more, and a careful eye must
 be kept on the grading of all work so as to avoid introducing a sudden difficulty,
 and so on.
+
 When this all-important step of gaining the child's co-operation has been
 achieved, then we can consider "methods." This matter, too, I have dis-
 cussed with many teachers, and the following points summarise their joint
@@ -404,6 +440,7 @@ of intelligence tests and attainment tests.
 (3) That the distinction made in some areas between backward and
 retarded children is useful, but difficult from the point of view of
 organisation.
+
 The child of average or superior intelligence who is backward in
 school work, but offers no other problem, may, and probably will, do
 well after a period in an adjustment class. There will only be sufficient
@@ -417,6 +454,7 @@ special education for retarded children does not aim at bringing up their
 level of achievement to what is normal or average for their chronological
 age, but rather at providing means through which each child's personality
 will be developed to its fullest extent.
+
 (5) That with regard to the modifications needed in the organisation
 of the various departments, in the Infants' Department where individual
 methods are used, little modification should be made. Individual methods,
@@ -428,19 +466,21 @@ as being conspicuously slower than the others in progress. This investiga-
 tion could best be carried out by an Educational Psychologist who would
 subsequently refer to the Notifying Officer any child whose exclusion
 from school was considered desirable.
+
 (6) In Junior Schools in all urban and thickly populated rural areas
 provision can be made for special classes for retarded children if there is
 a roll of 250 or over. These classes should be small with a maximum of
 25 on the roll. Wherever possible, the class should be in charge of a
 specially trained teacher having, in addition to a suitable personality,
-MENTAL WELFARE u
 knowledge of individual methods of Leaching and ability to adapt her
 curricula and teaching to the needs of retarded children.
+
 If the numbers of children and the geographical position of the
 schools allow it, such classes can be made up of children from several
 schools; thus finer classification according to the child's capacity for learn-
 ing can be secured. The children to be drafted to these classes must be
 selected objectively, by a properly qualified person.
+
 (7) In Senior Schools small classes can be established as in the Junior
 Schools, but the area from which children might be drawn could be
 wider in the case of Seniors, if some form of transport were provided.
@@ -450,6 +490,7 @@ retarded children is rapidly becoming more widespread, and more popular
 with the teaching profession. May I say in conclusion that it is only intended
 to be a summary and a basis of discussion and that it is fully recognised to
 be incomplete.
+
 A Plea for the " Borderline " Child
 In a survey of the mental condition of 703 children reported by head
 teachers as being very markedly retarded in their school work, the Fifeshire
@@ -461,6 +502,7 @@ infrequently as if they were normal. It is from them that so many of
 our social misfits are recruited, and this is becoming more and more evident
 as the result of inquiries, and the increasing difficulties in the labour
 market."
+
 " Is it wise that a boy or girl with a three-quarter brain or less should
 be held as fully responsible as the ordinary average individual ? The non-
 recognition of his retarded mental condition, and the lack of education
@@ -469,6 +511,7 @@ branding of such a case as criminal, and doing him a grave injustice. Quite
 apart from the social aspect, it is of the utmost importance that these
 borderline cases should be early recognised and not allowed to drift on,
 or develop into an ' I don't care ' attitude to school matters."
+
 " Because of the large number of such cases and their proximity to the
 dull child, it will be obvious that these require a more careful and detailed
 examination than is necessary with low-grade mental defectives, the more

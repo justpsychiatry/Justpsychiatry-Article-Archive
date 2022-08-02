@@ -1,8 +1,8 @@
 Testing the Development of Young Children
 ===========================================
 
-MENTAL WELFARE 71
-By SUSAN ISAACS, M.A., D.Sc.
+:Author: Susan Isaacs, M.A., D.Sc.
+
 Charlotte Buehler's recent volume on this subject* is of great interest
 for all students of young children, whether for the purpose of understanding
 their development or of serving it practically. The book embodies, in so
@@ -10,6 +10,7 @@ condensed a form that it might easily fail to be appreciated, a considerable
 mass of concrete knowledge of the typical behaviour and individual variations
 of children between birth and six years of age, the product of a large amount
 of careful observation and experiment.
+
 The outstanding characteristic of the authors' work is the emphasis upon
 the study of the child in natural situations. The tests are not the artificial
 products of the laboratory, but of the child's spontaneous play in the natural
@@ -23,6 +24,7 @@ constant emphasis upon the need to study the child as a whole, and the
 performances of the child, viz., the activities which embody real motives and
 bring real satisfactions. No more effective antidote to a crude behaviourism
 could be found than this book.
+
 Connected with this quality is the insistence upon the need to test all
 aspects of the child's development, to see his intellectual achievements in their
 normal setting of interests and social relations. In this respect, of course, the
@@ -34,10 +36,12 @@ study it apart from manipulative play, sense perception and social relations.
 It may be possible to do this to a greater or lesser extent (less rather than greater)
 with the child of six or seven years and over; but quite impossible with the
 infant and young child.
+
 The ripe wisdom of the chapter on the technique of testing is outstanding.
 The practical instructions in the art of testing are based on a real appreciation
 of the child's interests and of the way in which his mind operates in relation
 to people and things.
+
 Unfortunately, however, it must be pointed out that three serious weak-
 nesses characterise the book. The first is the inadequacy and inaccuracy of
 the historical introduction. The account offered of the history of the develop-
@@ -47,7 +51,7 @@ figures and shows much confusion of thought. It is said, for instance, that
 *Testing Children's Development from Birth to School Age. By Charlotte Buehler, and
 Hildegard Hetzer. Translated from the German by Henry Beaumont. George
 Allen & Unwin, 1935. 12s. 6d. Pp. 191.
-72 MENTAL WELFARE
+
 development of intelligence without testing learning ability " (p. 20). But
 lower down on the same page it is remarked that " The improvement which
 German scientists, especially Stern, Lipmann and Bobertag, made in the
@@ -65,6 +69,7 @@ The large verbal element in the tests, however, did in fact render them
 applicable only to children who had had ordinary schooling and not, e.g.,
 to gipsy or canal boat children. Hence the later development of performance
 tests, not involving linguistic ability and applicable to all.
+
 Again, it is not adequate to the work of Gesell and others to say that
 " These systems ... are arranged without a unifying principle of selection "
 (p. 25). Gesell certainly avoided making any rigid classification of the child's
@@ -73,11 +78,13 @@ unifying principle of selection. To discover the principle of selection is surel
 part of the work, and tests are themselves one instrument for discovering this
 principle, as was shown, for example, by the critical work of Burt upon Binet's
 tests and indeed of Binet himself upon his first Scale.
+
 The theoretical, as distinct from the empirical, basis of the tests offered
 in this volume is weak in many points. It is emphasised that " one has to
 attempt to make sure what kind of ability and performance one wants to test
 before constructing a series of tests " (p. 20); and then the particular view-
 point of the authors is stated:
+
 "A knowledge of the fundamental categories of human behaviour was
 lacking. On the basis of experimental evidence and general observations, we
 distinguish six such categories which should be reached by the tests. In the
@@ -91,9 +98,9 @@ basis of experience and the activity of the individual by which he changes his
 environment. These facts are: (4) learning, and (5) manipulation of materials.
 Finally, the basic fact of the creation of and striving towards goals is to be called
 (6) mental productivity " (pp. 26-7).
+
 The view that these six categories are " fundamental categories " of
 human behaviour is of course a purely descriptive statement, and is, we would
-MENTAL WELFARE 73
 suggest, description of a distinctly superficial kind, useful for many practical
 working purposes, but not to be taken as even approaching a final analysis.
 We would criticise this conception from two points of view. First of all, it
@@ -105,6 +112,7 @@ appear to be in touch with modern statistical techniques, or to appreciate
 the results of tests in revealing those unifying principles from which it is here
 assumed one must set out. The unifying principle is surely the end product
 rather than the starting point of the work.
+
 Secondly, even without statistical procedure, a qualitative analysis based
 upon observational studies in development will show at once that these six
 categories overlap to a very considerable extent. Sense reception, e.g., is not
@@ -125,6 +133,7 @@ mother's face, trying to push his finger into her eyes and mouth, grasping at
 her hair, etc. Here are bodily and manipulative movements, a gradually
 refining visual perception of his mother's face, and social behaviour, all
 occurring intimately together.
+
 It is one of the most interesting facts of genetic psychology to-day how
 closely the qualitative analysis of the behaviour of young children and the
 conclusions of -Spearman and his co-workers support and confirm each other
@@ -140,20 +149,22 @@ does not appear after the eighteenth month, whereas manipulation does not
 begin until three months, and mental productivity until ten months. It would
 thus be a much more adequate statement of the facts to say that the learning
 JShirley : The First Two Years.
+
 2C. Spearman. : The Nature of Intelligence and the Principles of Cognition, p. 353,
-74 MENTAL WELFARE
 and mental productivity of the infant is evinced first of all through the medium
 of sense reception and bodily control, and then after a time begins to assume
 also the form of definitively social reactions, the manipulation of materials and
 verbal thinking. This would express, far more effectively than these six
 so-called fundamental categories, that unity in diversity of the child's growth,
 which in other regards the authors so rightly emphasise.
+
 I would suggest that in this crude classification, Charlott Buehler does
 much less than justice to her own so admirable observations upon the develop-
 ment of the infant in the first year of life. And in stressing so much that this
 is the ground-work of her tests and the special feature which distinguishes
 them from those of Gesell, the authors are emphasising one of the weakest
 points of their contribution.
+
 As regards the actual tests, they are, in spite of all the rightful emphasis
 upon the need to study all aspects of the child's behaviour, woefully inadequate
 on the social side. If one looks at the section of social behaviour in the
@@ -179,6 +190,7 @@ general intellectual development. Again, the verbal formulation of plans or
 the moral judgment of represented actions are important enough studies in
 themselves, but trivial and irrelevant as a means of diagnosis of social
 development. The fifth and sixth years are ludicrously inadequate.
+
 If these are adequate tests of social development, then the Binet-Simon
 scale itself is such, since the problems of comprehension, judging which is the
 prettier face, interpretation of pictures, and all the other tests involving verbal
@@ -187,13 +199,13 @@ element in fiction play " is indeed a significant matter, from which we could
 learn almost all we needed to know about the child's inner life. But every-
 thing depends upon what we do with the material which the child offers in
 his play, whether we can understand what he is showing us. The mere fact
-MENTAL WELFARE
-75
+
 that the child will play or not, will certainly be very important; even more
 significant may be the details of the way in which he plays. But then it is
 no longer a matter of a test which is passed or failed, but of the clinical and
 qualitative appreciation of the precise individual forms which the child's
 phantasies take.
+
 As far as these tests go, the work of Charlotte Buehler and Hildegard
 Hetzer cannot bear comparison with that of Katharine Bridges or Florence
 Goodenough or Rachel Stutsman. The construction of an adequate schedule
@@ -201,6 +213,7 @@ of social and emotional development still is one of the biggest problems await-
 ing research with young children, and it would appear lamentable if such a
 thin and superficial substitute for a genuine appreciation of the problem were
 to be accepted.
+
 The consensus of expert opinion at the present day is that all attempts
 to construct really reliable tests of temperament, character or social behaviour
 have proved largely sterile. As Dr. Vernon says: "Of the hundreds of tests
@@ -216,13 +229,18 @@ point scale) made during the whole of the responses to the test situation, and
 the child's behaviour in relation to the tester, is obviously a good deal nearer
 to the requirements of an adequate diagnosis of temperament than these few
 mainly linguistic tests of Buehler and Hetzer.
+
 It is fortunate that the clinical student and the diagnostic physician do
 not have to wait for precise and quantitative tests.
+
 The Decroly Class
+------------------
+
 Mile. Amelie Hamai'de, Principal of the Ecole Nouvelle Amelie Hamai'de,
 Ixelles, Belgium, is to give four lectures in London, at the County Hall,
 Westminster Bridge Road, on Monday, Wednesday, Friday and Monday,
 31st August, 2nd, 4th and 7th September.
+
 The lectures will describe an experiment in the education of children from
 6 to 12 years, initiated in Brussels by the late Dr. Decroly and carried on by
 Mile. Hamai'de.

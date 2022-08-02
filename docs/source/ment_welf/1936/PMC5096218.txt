@@ -1,9 +1,9 @@
 Teaching Creative Art in Schools
 =================================
 
-By
-Rosalind Eccott and Arthur Eccott, A.R.C.A.
+:Author: Rosalind Eccott and Arthur Eccott, A.R.C.A.
 Evans Bros. 4/6.
+
 The authors of this book have chosen a title
 with a familiar sound. In the first chapter, the
 Theory of New Art Teaching, it is said of normal
@@ -36,6 +36,7 @@ been proved by the excellent examples seen a
 contemporary exhibitions of children's work'
 and by the illustrations in recent publications 011
 the subject of Art in Schools.
+
 It seems that by allowing children to make
 a comparatively small picture and enlarge
 or rather " reserve this honour of enlarging
@@ -50,6 +51,7 @@ methods described in Chapter I from eight yea#
 old till adolescence, it will not be found neceS
 sary to resort to the photograph to stimuli
 interest.
+
 The subjects in the chapters on Design
 Pattern-Making, Co-operative Work in ^
 Classroom, and The Value of Lino-Cuts, ha^

@@ -1,13 +1,16 @@
 A Nerves as a Handicap to Efficiency
 =========================================
-By MAY SMITH, M.A., D.Sc.
+
+:Author: May Smith, M.A., D.Sc.
 (Industrial Health Research Board)
+
 No one doubts that serious intellectual or physical defect handicaps the
 sufferer in his task of earning a living, just as no one doubts that high in-
 tellectual and physical gifts are an advantage. There are, however, examples
 of people who are lacking neither an adequate intellectual nor physical equip-
 ment, but who are nevertheless handicapped. The handicap is due to some
 inadequacy of functioning on the emotional plane.
+
 If we knew that A and B were equally intelligent?and it is possible
 now to test for intelligence with reasonable accuracy?and that they were
 equally equipped physically and practically for a specific occupation, we could
@@ -21,7 +24,7 @@ Word to hand is " temperament." Literally, the word means " mixture," and
 was used by the Ancients to stand for the physiological mixture or the make-up
 *Based on an address given at the Annual Conference of the Association oft Mental
 Health Workers, Harrogate, March, 1936.
-66 MENTAL WELFARE
+
 of the individual, differences in the observed behaviour and character being
 supposed to be due to differences in the mixture. A person in whom the
 elements forming the mixture were evenly balanced had a perfect tempera-
@@ -29,6 +32,7 @@ ment, while any one element in excess resulted in some degree of imperfection.
 What the elements were varied according to the scientific knowledge of the
 age, but the importance of the differences, whatever might be the cause, has
 been recognised by almost all the great physicians and philosophers.
+
 Now we limit the word to the emotional make-up and it is possible to
 investigate this without committing ourselves to the possible cause.
 Some years ago the Industrial Health (then Fatigue) Research Board
@@ -46,6 +50,7 @@ without any reference to the organic nerves, merely as a useful phrase which
 is in general use, although frequently misused: it stands for some form of
 emotional mal-adjustment which may be reflected in behaviour or in personal
 unhappiness.
+
 It is necessary to note what is meant by a " nervous " symptom. Keeping
 in mind that " emotional " would be really better than " nervous," we dis-
 tinguish a symptom from a normal characteristic or even some idiosyncracy
@@ -61,6 +66,7 @@ a bully; if, however, his actual experience of his chief is that he is reasonabl
 and if he has no power of dismissal, then to experience fear invariably in hisj
 presence, knowing it to be irrational, is a useless response, and that useless
 emotional response is called a " nervous symptom."
+
 Most people in life have to adjust to superiors, to equals, and subordinates,
 as well as to themselves and to their environment, and in each of these relation-
 ships emotional mal-adjustment can take place. For example, when asked
@@ -68,18 +74,20 @@ how he would feel if sent for by his chief, A will describe himself as mildly
 apprehensive at first, but the feeling will pass off; B will experience interested
 iA study of telegraphists' cramp. Industrial Health Research Board, Report No. 43.
 2 The nervous temperament. Industrial Health Research Board, Report No. 61.
-MENTAL WELFARE 67
 wonder and expect a rise; C will feel shaky at the knees; D will prepare for
 some most impossible worst. Clearly these reactions represent real differences
 in make-up.
+
 Some people have difficulties in getting into touch with their equals,
 while others can readily adjust; experience shows that the latter are more
 likely to be successful than the former.
+
 In relation to subordinates, some people in authority behave as if the
 group were a superior of whom they stood in dread, with the result that they
 have to prove to themselves that they are not afraid, and in doing so they assume
 a blustering or autocratic manner, or they worry their subordinates widi futile
 criticism or tactless opposition.
+
 With regard to oneself, there is at one extreme the person who is never
 emotionally sure he is right even when intellectually he knows he is, and at
 the other the person who is equally irrationally sure he can never be wrong.
@@ -104,11 +112,13 @@ some who, while not having psycho-neurotic symptoms, give the impression
 of not being emotionally well-adjusted, although there is no evidence to justify
 the impression: it is not unlikely that some at least of these will prove to be
 psychotics later.
+
 " 1 " was used for those who had only one symptom and that of such a
 nature as to affect their lives but little. In adolescents it was sometimes difficult
 to determine whether a symptom would develop or for practical purposes
 disappear, for example, adolescent shyness may be merely inexperience of life,
 or may be symptomatic of some serious instability.
+
 If a subject had definite symptoms he was marked 3, 3, 4 or 5, according
 to the severity. Obviously, such a classification can have only approximate
 value.
@@ -120,6 +130,7 @@ A 191 43.5 26.7 10.5 15.2 4.2
 B 69 60.9 16.0 14.5 8.7 0
 C 72 50.0 23.6 16.7 8.3 1.4
 D 187 52.4 19.7 11.2 9.6 7.0
+
 In the following table3 a selection is given from the various groups studied
 merely to show the relative proportions of workers (in these groups mainly
 clerical workers) with and without nervous symptoms. The range for those
@@ -132,18 +143,22 @@ down, and they constitute a by no means negligible number in each group.
 Now the question arises as to whether these symptoms really matter in
 practical life, i.e., do these emotional mal-adjustments make adjustments to
 the ordinary economic environment difficult?
+
 Obviously, it is extremely difficult to get evidence; still, while it cannot
 be claimed that proof was forthcoming, yet there is some data to show the
 general trend.
+
 In some of the groups it was found possible to have the subjects assessed
 for efficiency. The estimation of efficiency is not easy, for except in a few
 highly specialised occupations there is no objective criterion that can be
 regularly applied. Usually efficiency demands an ability to maintain a certain
 standard of work, and to adjust without friction to other people. In practice,
 a fairly wide margin of variability is tolerated.
+
 Where the work was of such a nature as to permit of the assessment,
 subjects were graded A, B or C for efficiency, A being the most efficient and
 C the least.
+
 It was found that in each group a higher percentage of those without
 nervous symptoms were graded A for efficiency and a higher percentage of
 nervous subjects were graded C. It must not, however, be argued from this
@@ -151,25 +166,29 @@ that therefore each nervous person is likely to be inefficient. All that can
 be said is that a group composed exclusively of people without nervous
 symptoms will, other things being equal, be more efficient than one composed
 of nervous people.
+
 Possibly some of this inefficiency is related to the problem of working
 with other people. In a small factory, where everyone is well known to
 everyone else, and where one person's behaviour was known to, and could
 *The full details will be found in " The nervous temperament," Industrial Health
 Research Board, Report No. 61.
-MENTAL WELFARE 69
+
 affect the others, descriptions of all the subjects, from the point of view of
 ability to get on with others, were obtained. They were classified into three
 groups, i.e., those who were recognised as difficult to get on with, those who
 were easy, and a third about which, in the opinion of the assessor, some doubt
 existed: these latter were almost all young workers, and although they were
 not exactly easy, yet it was difficult to be sure about them.
+
 Out of 180 subjects, 106 were described as " easy," and of these, about
 57% werc frce from nervous symptoms, about 27% had slight symptoms,
 and 16% more serious.
+
 Fifty-six were " difficult," and of these about 31% had no symptoms,
 23% slight, and 46% serious symptoms. There does seem to be a tendency
 for the difficulty in social adjustment to be related to the presence of nervous
 symptoms.
+
 Not only do workers have to adjust to the conditions of their actual work
 and to the people around them, but also to the material environment, e.g.,
 lighting, heating, ventilation, noise. It is well known that there are certain
@@ -180,17 +199,21 @@ between nervousness as estimated by the presence of symptoms and susceptibility
 to noise. Each subject was asked in the course of the ordinary investigation
 how he or she worked in a noise. The answers could be classified roughly
 into three categories: ?
+
 (1) Those indicating indifference to unavoidable noise.
 (2) Those indicating slight dislike.
 (3) Those indicating serious susceptibility so that physical symptoms or
 mental distress were set up.
+
 In a group of 49 girls there were 17 with no nervous symptoms: of
 these, 12 (i.e., nearly 71%) were able to adjust to noise; 13 had slight symptoms
 and of these 4 (i.e., about 31%) were able to adjust; 19 had severer symptoms
 and of these, only 1 could so adjust.
+
 A group of 156 men gave a similar result. Of 51 who were free from
 symptoms, 42 ( = 82%) were unaffected by noise; of 79 with severe symptoms,
 only 33 (=42%) were unaffected.
+
 Now, if the nervous person is under greater stress than the not-nervous
 person, it might be expected that this would be reflected in sickness absenteeism.
 Where it was possible to compare the sickness absenteeism over a considerable
@@ -202,11 +225,12 @@ who had reached late middle age without any break-down. It must be re-
 membered that a nervous symptom is the expression of a relationship between
 a person and his environment. Let us assume that we have two typists of
 equal intelligence and equal typing ability, equal physical health, and each
-70 MENTAL WELFARE
+
 with a fear of observation. Let one work in a room alone, and the other work
 with others and a supervisor watching. The first typist, being able to work
 unwatched, will rarely have her particular symptom " touched up," and that
 in itself is an advantage.
+
 But when people with this fear are watched, they are liable to make
 mistakes, so the second typist will have, in addition to the acute mental dis-
 comfort due to her fear, the effect of this expressed in mistakes and also the
@@ -218,6 +242,7 @@ acterised by rigidity of organisation and arbitrary personal criteria of efficie
 are difficult for nervous people. The type of mind can be the same, but if its
 anxieties receive little stimulation in the ordinary daily routine, there is less
 likelihood of a breakdown.
+
 From the point of view of health and successful work, the diagnosis and
 treatment of the nervous person is important. Just as there are some people
 who are physically unfitted for certain occupations, and are therefore kept
@@ -225,10 +250,13 @@ out, and some who are too intelligent and other too unintelligent for some
 work, so there are people temperamentally unsuited for the conditions of
 specialised work, and these should be diverted into occupations suitable for
 them.
-Experimental Work in the Teaching of Retarded
-Children
+
+Experimental Work in the Teaching of Retarded Children
+-------------------------------------------------------
+
 In our next issue, we propose to begin a series of Notes on modem educational
 developments in work affecting retarded children.
+
 To make this section of value, we ask the co-operation of our readers, specially
 of those who are teachers or in touch with schools or educational administration.
 Many experiments of great interest are being made by individual teachers
@@ -236,9 +264,11 @@ in Special 'Schools and in classes for Dull and Backward Children; new methods
 are being tried in many places for dealing with the whole educational problem of
 the retarded child, and experience of the uttfiost value is continually being gamed
 in many different directions.
+
 The difficulty is, however, to keep track of all this pioneer work, much of
 which is carried on in isolation by modest people who hesitate to tell of their
 adventurings, and we therefore appeal to our readers to send us news of any
 experiments known to them which should be recorded in this new section of the
 magazine.
+
 Ed. Mental Welfare.

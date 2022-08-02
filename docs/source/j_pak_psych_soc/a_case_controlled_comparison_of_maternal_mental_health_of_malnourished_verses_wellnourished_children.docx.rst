@@ -4,9 +4,8 @@
 
 **ORIGINAL ARTICLE**
 
-   **CASE CONTROLLED COMPARISON OF MATERNAL MENTAL HEALTH**
-
-   **FMALNOURISHED VERSES WELL-NOURISHED CHILDREN**
+CASE CONTROLLED COMPARISON OF MATERNAL MENTAL HEALTH MALNOURISHED VERSES WELL-NOURISHED CHILDREN
+################################################################################################
 
 BASHIR AHMAD', NAHMA SATTAR2, AZIZ MOHAMMAD3
 ============================================
@@ -22,24 +21,25 @@ BASHIR AHMAD', NAHMA SATTAR2, AZIZ MOHAMMAD3
 ABSTRACT
 ========
 
-   **OBJECTIVE**
+OBJECTIVE
+---------   
 
    To compare the maternal mental health status of malnourished verses
    well-nourished children.
 
-STUDY DESIGN
-============
+   STUDY DESIGN
+   ============
 
-   Cross sectionaI
+   Cross-sectional
 
-PLACE AND DURATION OF STUDY
-===========================
+ PLACE AND DURATION OF STUDY
+ ===========================
 
    The study conducted from April 2003 to October 2003 at pediatrics
    department PGMI, Lady Reading Hospital, Peshawar, KPK, Pakistan.
 
-SUBJECTS AND METHOD
-===================
+ SUBJECTS AND METHOD
+ ===================
 
    200 mothers including 100 of malnourished and 100 well­ nourished
    children's mothers admitted in Pediatrics unit lady Reading Hospital
@@ -48,8 +48,8 @@ SUBJECTS AND METHOD
    Diagnostic and Statistical Manual of Mental Disorders Version 4 Text
    Revision (DSM-IV TR).
 
-RESULTS
-=======
+ RESULTS
+ =======
 
    45 % mothers of the malnourished and 33% of the well­ nourished
    children were found to have a psychological problem, the most common
@@ -61,15 +61,15 @@ RESULTS
    ratio=l .94, 95 % Cl: 1.05-3.57, P <: 0.034) were found significantly
    correlated with malnourishment in children.
 
-CONCLUSION
-==========
+ CONCLUSION
+ ==========
 
    Maternal mental health problems, especially depression is associated
    with malnutrition in children and could be a potential target for
    intervention in dealing with malnourishment in children.
 
-KEYWORDS
-========
+ KEYWORDS
+ ========
 
    Maternal mental health, Mal/ well nourished children, Depression.
 

@@ -1,11 +1,18 @@
-'RABIA KHAWAR, 'FARH MALIK, 'SYEDA SHAHIDA BATOOL
+Validation of the Urdu Version of Revised Olweus Bully Victim Questionnaire
+###########################################################################
+
+
+:Authors: RABIA KHAWAR, 'FARH MALIK, 'SYEDA SHAHIDA BATOOL
 -------------------------------------------------
 
-   ,,GC University, Lahore. Pakistan 'University of Punjab Lahore.
+   GC University, Lahore. Pakistan 'University of Punjab Lahore.
    Pakistan
 
-|image1|\ OBJECTIVE
--------------------
+ABSTRACT
+********
+
+OBJECTIVE
+----------
 
    The study intended to validate the Urdu version of Revised Olweus
    Bully Victim Questionnaire (OBVQ) inourlocalsettings.
@@ -309,7 +316,6 @@ Table2
 |            |           |         |            |            |  817 |
 +------------+-----------+---------+------------+------------+------+
 
-..
 
    Total of 87% of the original grouped cases as a result of self-report
    (OBVQ-Urdu) has been correctly classified as evidenced by teacher
@@ -474,9 +480,6 @@ CONCLUSIONS
 
 4. Olweus D. The Nature of School Bullying: A Cross-National
    Perspective.London &New York.1999:2-27.
-
-..
-
    S. Centers for Disease Controland Prevention. Youth RiskBehavior
    Surveillance-United States". MMWR, Surveillance Summaries. 2012.
 
@@ -485,20 +488,13 @@ CONCLUSIONS
    Violence.1999;14(8):871-886.
 
 7. Selekman J, Vessey **J.**\ Bullying: It isn't what it used to be.
-   Kidbits.
-
-..
-
-   2004;30(3):246.
+   Kidbits.2004;30(3):246.
 
 8. Farrington D. Understanding and Preventing Bullying. In M. Tonry
    (ed.), Crime and Justice: A Review of Research, Chicago and
    London:University of ChicagoPress.2005;17.
 
 9. Due P, Holstein BE, Soc MS.. Bullying victimization among 13 to
-
-..
-
    |image2|\ 15-year-old school children: results from two comparative
    studies in 66 countries and regions. International Journal of Adolesc
    Med Health.2008;20(2):209-21.
@@ -528,9 +524,6 @@ CONCLUSIONS
     International.2008;29(5):574-589.
 
 16. Panayiotis S, Anna P, Charalambos T, Chrysostomos L.
-
-..
-
    Prevalence of Bullying among Cyprus Elementary and High School
    Students". International Journal of Violence and School. 201O;
    11:114-128.
@@ -540,9 +533,6 @@ CONCLUSIONS
        Behavior.2003;29(3):239-268.
 
 18. Tucker L, Lewis C. A Reliability Coefficient for Maximum
-
-..
-
    LikelihoodFactor Analysis. Psychometrika.1973;38:1,1-10.
 
 19. BrowneMW,Cudeck,R.Alternative Ways of Assessing ModelFit. Testing
@@ -560,12 +550,8 @@ CONCLUSIONS
     Differences.2007;42:831-839.
 
 23. Jackson DL, Gillaspy JA, Jr, Pure-Stephenson, R. Reporting
-
-..
-
    Practices in Confirmatory Factor Analysis: An Overview and Some
    Recommendations. Psychological Methods. 2009; 14:
-
    6-23.
 
 24. Markland D.The GoldenRule isthatThereare No GoldenRules: A

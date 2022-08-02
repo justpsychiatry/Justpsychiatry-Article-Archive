@@ -1,5 +1,6 @@
-#####
-Disorders Based On International Classification Of Diseases Criteria And Its Association With Depression And Anxiety Page.docx.rst
+Disorders Based On International Classification Of Diseases Criteria And Its Association With Depression And Anxiety
+####################################################################################################################
+
 
 :Authors: Jawed Akbar, Oars Royala, Zaka Ali Tahir, Zohra Khan Niazi, Muhammad Iqbalafridi, Al Ycia Cheema
 
@@ -18,53 +19,50 @@ Disorders Based On International Classification Of Diseases Criteria And Its Ass
     To assess the frequency ofanxiety and depression in patients
     withophthalmologicaldisorders based 011 ICD-l O criteria.
 
-   STUDY DESIGN
-   ------------
+    STUDY DESIGN
+    ------------
+    Cross-seaional Study
 
-   Cross-seaional Study
+    **PLACE ANO DURATION OF THE STUDY**
 
-   **PLACE ANO DURATION OF THE STUDY**
+    The study was carried out at Department of Ophthalmology, Jinnah
+    Postgraduate Medical Center, in collaboration with Department of
+    Psychiatry and Behavioral Sciences, from September to November 2015,
 
-   The study was carried out at Department of Ophthalmology, Jinnah
-   Postgraduate Medical Center, in collaboration with Department of
-   Psychiatry and Behavioral Sciences, from September to November 2015,
+    **SUBlECTS A ND METHODS**
 
-   **SUBlECTS A ND METHODS**
+    160 randomly selected patients ufferlng from different visual
 
-   160 randomly selected patients ufferlng from different visual
+    disorders participated in the study. Informed consent was
 
-   disorders participated in the study. Informed consent was
+    taken and a 5emi-ruuctured proforma was used to fill the demographic
+    variables as well as the baslc: complains or ophthalmologtcal disorders, and were placed In different diagnostic
+    categories of ophthalmologkal disorders as per ICD-10. HOlpital
+    anxiety and depression rating scale w.is applied toassess the anxiety
+    and depression and severitywas assessed on Hamilton rating scale for
+    Anxiety and Hamilton rating scale for depression respectively.
 
-   taken and a 5emi-ruuctured proforma was used to fill the demographic
-   variables as well as the baslc: complains or
+    RESULTS
+    -------
 
-   ophthalmologtcal disorders, and were placed In different diagnostic
-   categories of ophthalmologkal disorders as per ICD-10. HOlpital
-   anxiety and depression rating scale w.is applied toassess the anxiety
-   and depression and severitywas assessed on Hamilton rating scale for
-   Anxiety and Hamilton rating scale for depression respectively.
+    Out of 160 randomly selected patients 63% were male and
+    37% female. The mean age ±SD was 44.1±15.16. Our study revealed that
+    19.4% had depression and anxiety disorder.
 
-   RESULTS
-   -------
+    Although there was no significant relation between specific *eye*
+    disease and psychiatric aliment; however symptoms like deaeased
+    vision and floaters had significant relation with arudetyand
+    depression.
 
-   Out of 160 randomly selected patients 63% were male and
-   37% female. The mean age ±SD was 44.1±15.16. Our study revealed that
-   19.4% had depression and anxiety disorder.
+    **CONCLUSION**
 
-   Although there was no significant relation between specific *eye*
-   disease and psychiatric aliment; however symptoms like deaeased
-   vision and floaters had significant relation with arudetyand
-   depression.
+    Decreased vision had significant effect on anxiety and depression
+    irrespective of diagnostic entity **or** Ophthalmology according to
+    ICD-1 O. Female **gender,**
 
-   **CONCLUSION**
-
-   Decreased vision had significant effect on anxiety and depression
-   irrespective of diagnostic entity **or** Ophthalmology according to
-   ICD-1 O. Female **gender,**
-
-   Increasing age, divorced, widowed/ separated, Illiteracy and loss of
-   job were found to have significant relation wlth depressionand
-   anxiety disorder.
+    Increasing age, divorced, widowed/ separated, Illiteracy and loss of
+    job were found to have significant relation wlth depressionand
+    anxiety disorder.
 
 :Keywords:Impaired Vision, Eye, Psychiatric disorders
 
@@ -111,28 +109,28 @@ INTRODUCTION**
    it fs Imperative to evaluate a correlation between different visua I
    disordersand depression or anxiety.
 
-SU8JfCTS AND METODS
-~~~~~~~~~~~~~~~~~~
+SUBJECTS AND METHODS
+~~~~~~~~~~~~~~~~~~~~
 
-   **Participant!**
+   **Participants!**
 
-   160 randomly selected patients based on previous researchl 6,
-   suffering from different ophthalmologlcal disorders were enrolled
-   from out­ patient clinic, with. 95% confidence interval and 5%
-   absolute precision.16 Sample size was calculated on least value (12%)
-   using computer program Open Epi version 2. Patients of both genders
+    160 randomly selected patients based on previous researchl 6,
+    suffering from different ophthalmologlcal disorders were enrolled
+    from out­ patient clinic, with. 95% confidence interval and 5%
+    absolute precision.16 Sample size was calculated on least value (12%)
+    using computer program Open Epi version 2. Patients of both genders
 
-   .. image:: media/image3.jpeg
+    .. image:: media/image3.jpeg
       :width: 1.45402in
       :height: 0.18667in
 
-,I |image2|
+    ,I |image2|
 
-   reporting to out-patient clinic at Eye Department with various
-   symptoms and were at least 18 years old were Included In the study.
-   Patients already diagnosed with any psychiatric Illness, or cases
-   with acute presentation, ophthalmologlcal emergencies, and post
-   operative cases were excluded.
+    reporting to out-patient clinic at Eye Department with various
+    symptoms and were at least 18 years old were Included In the study.
+    Patients already diagnosed with any psychiatric Illness, or cases
+    with acute presentation, ophthalmologlcal emergencies, and post
+    operative cases were excluded.
 
 Instruments
 ~~~~~~~~~~~
@@ -219,7 +217,7 @@ RESULTS
 
    **Table2**
 
-   s venty cf Depre sio11 am.I A11xiety
+   venty of Depresion am.I A11xiety
 
 +-----------+----------+-----------+----------+-----------+----------+
 |    **D    |          |           |          |           |          |
@@ -326,7 +324,7 @@ DISCUSION
       :width: 1.45402in
       :height: 0.17333in
 
-   Journ I p
+   
 
    reponed increased prevalence of severe depression of 7.6% in patients
    with loss of visual acuity with age.2 However, In contrast to our
@@ -384,9 +382,6 @@ DISCUSION
       http://www.who.inVmediac:entre/factsheetslfs282/en/
 
 2. Augu5tin A,Sahel JA, Bandello F, Dardennes R, Maurel F, Negrini
-
-..
-
    C,HIekeK, Berdeaux G. Anxiety and depression prevalence rates in
    age-related macular degeneratiol\.. Investigative ophthalmology
    &visual science. 2007 Apr 1; 48(4]:1498-503.
@@ -437,9 +432,6 @@ DISCUSION
 9. Frasure-Smith N, Lesperance F, Talajlc M. Depression and 18-month prognosis after myocardial infarction. Circulation. 10.1995;91:999-100S.
 
 13. Wan HX, Mittleman MA, Leineweber C. Orth-Gomer K
-
-..
-
    Depressive symptoms, social isolation, and progn;ssion of coronary
    artery atherosclerosis: the Stockholm Female Coromiry Ar.giography
    Study. Psychotherapy and psycho,omatrcs.2006:75(2):96-102,
@@ -473,24 +465,12 @@ DISCUSION
 20. Evans.JR, Fletcher AE, Wormald RP.Causesofvi5Ual impairment In
        people aged 75years and older in Britain: an add--<m study to the
        MRC Trial of Assessment and Management of Older People in the
-       CtJmmunity. British Journal of Ophthalmology. 2004 Mor
+       CtJmmunity. British Journal of Ophthalmology. 2004 Mor   1;88(3):365-70.
 
-..
-
-   1;88(3):365-70.
-
-   1t 1 I Pt l<istar
-
-   *1* • .Ir, tv
-
-21. |image3|\ Le Q, Ge L, Li M, Wu L, Xu J, Hong J, Gong L. Comparison
+21. Le Q, Ge L, Li M, Wu L, Xu J, Hong J, Gong L. Comparison
        on the vision - related quality of life between outpatients and
        general population with dry eye syndrome, Acta
-       ophthalmologlca.2014
-
-..
-
-   Mar 1;92(2).124-32.
+       ophthalmologlca.2014  Mar 1;92(2).124-32.
 
 22. Erb C, Horn A, Gunthner A, Sal JG, Thiel HJ. Psychosomatische
        Aspekte bei Patienten mit primarer Keratoconjuncttvitis
@@ -498,12 +478,9 @@ DISCUSION
        Feb:208(02):96-99.
 
 23. Eramudugolla R, Wood J, Anstey KJ.Co morbidity of depression
-
-..
-
-   and anxiety in common age-related eye diseases: a population­ based
-   study of 662 adults, Frontiers in agln9 neuroscience.
-   2013;5,doi:10.3389/fnagi.2013,00056.
+    and anxiety in common age-related eye diseases: a population­ based
+    study of 662 adults, Frontiers in agln9 neuroscience.
+    2013;5,doi:10.3389/fnagi.2013,00056.
 
 24. Rovner BW, Ganguli M. Depressionn and diability associated with
        Impaired vision: the MoVies project. Journal of the American

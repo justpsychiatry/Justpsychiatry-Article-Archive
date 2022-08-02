@@ -1,7 +1,7 @@
 
 .. _j-psychol-med-ment-pathol:
 Journal of Psychological Medicine and Mental Pathology
-===============
+######################################################
 
 .. toctree::
    :caption: Year of Publication

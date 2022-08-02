@@ -1,4 +1,4 @@
-Validation of the Urdu Version of Revised Olweus Bully Victim Questionnaire
+Validation of the Urdu Version of Olweus Bully/Victim Questionnaire
 ###########################################################################
 
 
@@ -15,7 +15,7 @@ OBJECTIVE
 ----------
 
    The study intended to validate the Urdu version of Revised Olweus
-   Bully Victim Questionnaire (OBVQ) inourlocalsettings.
+   Bully Victim Questionnaire (OBVQ) in our local settings.
 
 DESIGN
 ------
@@ -56,15 +56,12 @@ CONCLUSION
    appropriate for measuring the involvement of Pakistani school
    students in a variety of bullying behaviors.
 
-KEYWORDS
---------
-
-   Bulling,BullingQuestionnaire,Adolescents
+:Kewords: Bulling, Bullying Questionnaire, Adolescents
 
 INTRODUCTION
-------------
+************
 
-   During the last two decades, bullying has been emerged asserious
+   During the last two decades, bullying has been emerged as serious
    problem affecting many students in schools throughout the world'·'.
    Researchers have distinguished bullying from ordinary fight or
    quarrelling between two parties of equal strength by emphasizing the
@@ -112,8 +109,8 @@ INTRODUCTION
    determine its convergent validity with teacher nominations of
    children's rolein bullying.
 
-METHOD
-------
+METHODS
+*******
 
 Participants
 ~~~~~~~~~~~~
@@ -167,7 +164,7 @@ Teacher Nominations of Students' Bullying Roles
 .. _results-1:
 
 RESULTS
-~~~~~~~
+*******
 
 Confirmatory Factor Analysis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -435,7 +432,7 @@ DISCUSSION
    psychologists for implementing suitable intervention strategies in
    educational institutions.
 
-LIMITATIONSANDSUGGESTIONS
+LIMITATIONS AND SUGGESTIONS
 -------------------------
 
    We administered OBVQ in a confidential manner instead of recommended
@@ -465,7 +462,10 @@ CONCLUSIONS
    affords insight to the school bullying phenomenon based on empirical
    findings fromalargesampie in Pakistan.
 
-   REFEREi'.CES
+
+   REFERENCES
+   ==========
+
 
 1. Rigby K. Consequen,ces of Bullying in School. Canadian Journal of
    Psychiatry.2002;48:583-590.

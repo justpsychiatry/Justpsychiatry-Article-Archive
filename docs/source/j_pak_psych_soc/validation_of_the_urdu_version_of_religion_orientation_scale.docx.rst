@@ -1,8 +1,8 @@
-   **C**
+VALIDATION OF THE URDU VERSION OF RELIGIOUS ORIENTATION SCALE
+#############################################################
 
-VALIDATION OFTHE URDU VERSION OF RELIGIOUS ORIENTATION SCALE
 
-AASIA KHAN, RABIA GHOUS, JAMIL A. MALIK
+:Authors: AASIA KHAN, RABIA GHOUS, JAMIL A. MALIK
 ---------------------------------------
 
    National Institute of Psychology, Center of Excellence, Quaid-i-Azam
@@ -12,8 +12,14 @@ AASIA KHAN, RABIA GHOUS, JAMIL A. MALIK
    `aasiaa1amkhan01@gmail.com, <mailto:aasiaa1amkhan01@gmail.com>`__
    Contact: 051-90644024
 
-|image1|\ ABSTRACT OBJECTIVE
-----------------------------
+|image1|\ 
+
+ABSTRACT 
+*********
+
+OBJECTIVE
+---------
+
 
    To determine the factor structure of the revised religious
    orientation scale for Pakistani adults and to establish psychometrics
@@ -64,7 +70,7 @@ KEY WORDS
    Religious orientation, Extrinsic/ Intrinsic, Validation
 
 INTRODUCTION
-------------
+************
 
    Religion plays very vital role in human life. The definition of
    religion is diverse, emphasizing different elements of religion. Some
@@ -236,7 +242,7 @@ RESULTS
 |                         |    Total           |   |    267 84.0      |
 +-------------------------+--------------------+---+------------------+
 
-..
+
 
    *Note: f= fi-equency;* %= *percentage.*
 
@@ -260,7 +266,7 @@ RESULTS
 |    Income      |        |   0.86 |   185 |   2.08 |  0.78 |   Ill |
 +----------------+--------+--------+-------+--------+-------+-------+
 
-..
+
 
    *Note: M= mean; SD=Standard deviation.*
 
@@ -279,7 +285,6 @@ RESULTS
 |    2      |   95.89(68) |         |         |         |   77.476(8) |
 +-----------+-------------+---------+---------+---------+-------------+
 
-..
 
    *Ml=default Model ofCFAfor religious orie11tatio11 with 2/actors M2=M
    I after adding covariance within factors*
@@ -449,7 +454,7 @@ RESULTS
 | . |                                                       |     |    |
 +---+-------------------------------------------------------+-----+----+
 
-..
+
 
    **Table 5**
 
@@ -477,13 +482,12 @@ RESULTS
 | **Extrinsic religious orientation**       | 6           |    .69     |
 +-------------------------------------------+-------------+------------+
 
-..
 
    **ReligiOus**
 
    *0oon1auon*
 
-   **Rel,gious**
+   **Religious**
 
    **ooenlBbon**
 
@@ -509,7 +513,7 @@ RESULTS
     Religious Orientation was improved from 8-items, a=.40 to 8-items,
     a=.84,
 
-..
+
 
    Extrinsic Religious Orientation was improved with *a* =.69 (6-items).
 
@@ -608,8 +612,6 @@ REFERENCES:
 ^^^^^^^^^^^
 
 1. Durkheim E,Swain JW.Theelementaryformsofthereligious life:
-
-..
 
    Courier Corporation; 2008.
 

@@ -1,6 +1,8 @@
 The Certification of Children of School Age
 ============================================
 
+
+
 By F. C. Shrubsall, Esq., M.A., M.D., F.R.C.P. ^
 (Principal Assistant Medical Officer, London County Council.)
 Although the existence of mental defect from birth or an early age has been
@@ -311,3 +313,33 @@ Attendance Officers and the like. It would not appear that the evidence avail-
 able need be sufficiently strong to enable the Local Control Authority to prove
 that any withholding of consent was unreasonable, though any evidence in sup-
 port of the view that the case might come under this category should be recorded.
+
+Bibliography
+
+:Reference type:  Journal Article
+:Record-number: 17213
+:Author: Shrubsall, F. C. Esq
+:Year: 1920
+:Title: The Certification of Children of School Age
+:Journal: Stud Ment Ineffic
+:Volume: 1
+:Issue: 2
+:Pages: 25-32
+:Epub-date: 1920/04/15
+:Date: Apr 15
+:Short-title: The Certification of Children of School Age
+:Alternate-journal-name: Stud Ment Ineffic
+:PMCID: PMC5109080 
+:Accession-number: 28909960
+.. note:: Shrubsall, F C Esq
+eng
+England
+Stud Ment Ineffic. 1920 Apr 15;1(2):25-32.
+ :URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5109080/
+:Author-address: Principal Assistant Medical Officer, London County Council.
+:Name-of-database: PubMed
+:Language: eng
+:Copyright: 	internal-pdf://2742356834/The Certification of Children of School Age.pdf
+
+
+

@@ -1,7 +1,8 @@
 Medical Superintendent, Lingfield Epileptic Colony
 ===================================================
 
-By J. TYLOR FOX, M.A., M.D. (Cantab.), D.P.M.
+:Author: J. TYLOR FOX, M.A., M.D. (Cantab.), D.P.M.
+
 There is a considerable epileptic population in institutions in our country.
 Over 11,000 epileptics are to be found in public mental hospitals, perhaps
 ^,000?4,000 in institutions for mental defectives, and just under 4,000 in
@@ -10,15 +11,17 @@ mentally defective. There are no figures to show the number of epileptics
 in general Public Assistance Hospitals and Institutions. It is probably pretty
 considerable and includes many who are badly placed in general or in
 " mental " wards.
+
 The number of epileptics living in the community, no one can number,
 nor is it likely that any accurate enumeration will be forthcoming, as cases
 with infrequent or slight fits would always escape observation. It is generally
 * Paper read at Public Health Congress, London, November, 1936.
-MENTAL WELFARE n
+
 recognized that there must be a good crowd of them, and that very many of
 them must find their complaint a serious handicap. But there exists no
 organization to help or advise them, no authority who has any knowledge
 of the extent or nature of the problems to which they give rise.
+
 Eight years ago the permanent Committee on Epileptics, a body which
 has been dormant of late, instituted an enquiry into the number of epileptics
 known to public authorities in the County of Surrey. The public authorities
@@ -27,7 +30,8 @@ Local Education Authorities, Mental Deficiency Authorities, Maternity and
 Child Welfare Authorities and the Ministry of Pensions. Hospitals were not
 approached. Out of a total of 781 epileptics reported there were 211 not in
 institutions, 57 of whom were in receipt of out-door relief. Those not in
-institutions were classified according to age and mental state as follows: ?
+institutions were classified according to age and mental state as follows:?
+
 TABLE I.
 Under School Age ...
 School Age?
@@ -58,10 +62,12 @@ Total.
 30
 122
 211
+
 No reference is made to employment in the Surrey enquiry, but the
 sources of the information make it likely that few epileptics in employment
 would be reported. These 211 cases represent a proportion of .22 per 1,000
 in the general population.
+
 In the early part of this year, a wider enquiry into the number of
 epileptics in the community, their mental condition, their social status and
 their need for assistance was undertaken by the Central Association for Mental
@@ -76,7 +82,6 @@ neurological and general hospitals and from private persons. As was to be
 expected, the response to enquiry varied a good deal in different districts and
 with different authorities, and the available information about individual cases
 was not always accurate and complete. Indeed, the investigators modesdy
-12 MENTAL WELFARE
 claim that their report is only to be regarded as a body of miscellaneous inform-
 ation which may serve as an indication of the state of affairs regarding epileptics
 in general. Of the 565 cases reported, 125 were in institutions, and these may,
@@ -86,6 +91,7 @@ total number of epileptics, which may very likely be twice as large. Even so,
 it shows an incidence of over .9 per 1,000 of the population. At a conservative
 estimate therefore there must be at least 50,000 epileptics living in the com-
 munity in England and Wales.
+
 An attempt is made to classify the 440 cases, according to the mental con-
 ditions, into mentally deficient, unstable, sane and those concerning whose
 mental state there was no information. The mentally defective group is well
@@ -108,6 +114,7 @@ often touch very lightly on a patient's mental state, and many of the mentally
 normal should no doubt really be placed in the unstable, and possibly the
 mentally defective group. The following table shows the classification by
 mental condition, as well as age distribution.
+
 TABLE II.
 Age.
 16 and under
@@ -140,9 +147,9 @@ Total.
 284
 32
 440
+
 This table comprises the facts and figures revealed by the investigation.
 Far more important are the impressions gained by personal visits of the
-MENTAL WELFARE 13
 investigators to 57 of the cases under review. First and foremost among these
 impressions was the exceptional warmth with which the visitors were in every
 case received, a warmth which showed beyond doubt that there were difficulties
@@ -160,6 +167,7 @@ though their fits were few and far between. Some mothers, on the other hand,
 judged that the post of errand boy on a bicycle was quite a desirable one for
 an epileptic, and one had allowed her son to become a painter with the result
 that he had fallen 20 feet through a window.
+
 Education often presents a difficult problem. As the law stands children
 are only sent to residential schools for epileptics if they have fits so frequent
 or so severe as to preclude their attendance at ordinary elementary schools.
@@ -189,7 +197,6 @@ employers were frightened of it. One man said " I am 25, strong enough to
 lift 2 cwt. and never done a day's work in my life. It's a pity." Depression
 irritability and resentment inevitably follow and in time turn an unemployed
 into an unemployable and eventually perhaps into a serious social misfit This
-14 MENTAL WELFARE
 process of course takes place more readily and quickly in an epileptic than
 in a normal person. To obtain, and to retain, work a man must make every
 effort to conceal his complaint, and at some hospitals it is a common practice
@@ -201,6 +208,7 @@ have household duties, and anyway they can obtain safe and sedentary occupa-
 tions more easily than men. Epileptics receiving out-relief are, like many
 others, directly discouraged from earning a few shillings in their homes or by
 part-time work. Says the report: ?
+
 '' In connection with the part-time or home employment of epileptics in
 receipt of Out-Relief, it is necessary to take into account that every penny
 they earn is deducted from their relief. Unless epileptics can earn by a
@@ -213,7 +221,10 @@ with the enlightened policy followed by Public Assistance Committees in
 other directions. It does not seem just, that certain persons through no
 fault of their own, should be compelled to live all their lives at the bare
 subsistence level and be deterred from ' coming off the rates.' "
+
 A truly deplorable state of affairs!
+-------------------------------------
+
 The whole problem of the epileptic in the community may be stated
 as a problem in mental health, or rather in mental ill-health. And it may
 be divided into two parts, the ill-health of the patient, and the ill-health of
@@ -230,6 +241,7 @@ relatives when fits occur are others. Greatest of all is the patient's realizati
 that he is, and is always destined to be, in some way an abnormal member
 of his family circle and of society at large, if not a useless burden who would
 be better out of the way. These added mental stresses are always in action.
+
 It is a commonplace observation that want of occupation and unhappiness
 increase the incidence of fits. More fits leave their inevitable mark on the
 patient's mind, and so the vicious circle goes round and round, with destruc-
@@ -237,7 +249,6 @@ tion of personality as the end. Important, too, is the mental ill-health of the
 family. Fits by themselves, involve no small strain. They are dramatic,
 unpredictable and often very distressing to witness. " I never goes out,"
 says one woman, " without being frightened I'll find him frizzlin' on the
-MENTAL WELFARE 15
 stove when I comes ome." But as will already have become evident, fits are
 only part of the story. Periods of irritability and depression in the patient,
 his anxiety about work and his resentment against society, must leave their
@@ -250,12 +261,14 @@ forcibly upon the investigators who prepared this report, and, although I have
 little experience of visiting epileptics in their homes, I can confirm the story
 a hundred times over from letters and talks with patients of my own who have
 gone out into the world.
+
 The problems which arise from the Essex enquiry are all too clear. Less
 clear is it how far and in what manner they can be solved. For some of the
 cases, institutional treatment would, no doubt, be best. But, apart from the
 institutions for the insane and mentally defective, there are less than 4,000 places
 in special institutions in England, and at a modest estimate the problem we
 are thinking of affects 50,000 people.
+
 In the ideal State, any handicapped citizen capable of some work would
 receive the standard weekly wage for the type of work he did, the employer
 paying a share of the wage representing the value of his work, and the State
@@ -284,7 +297,6 @@ the work of the residential schools of much of its value. Of course employ-
 ment will be the great difficulty. But with patience and perseverance, suit-
 able or relatively suitable jobs can be found for many patients, by people with
 local knowledge. Not everyone need ride a bicycle or tend a machine. I am
-16 MENTAL WELFARE
 often astonished at the large numbers of epileptics I have known, who keep
 their jobs, fits and all, as domestic servants, gardeners, general labourers,
 and even shop assistants and clerks. Still, for many, home trades will be
@@ -293,6 +305,7 @@ visitors, to know the kinds of home trade in being in any particular area,
 and in time to compile a list of firms which could offer employment. Home
 trades cover a considerable range, and probably the work involved in most
 of them is unskilled, only requiring a moderate dexterity and of course, speed.
+
 Where a little more skill is needed it should not be impossible to provide
 training. In the London area, the Council for the Provision of Occupational
 Industries among the Physically Handicapped is able and willing to help.
@@ -304,6 +317,7 @@ given towards the end of the school career. Frequent visits would be called
 for in the first year or two of the patients after-school life. He would probably
 need plenty of encouragement to stick to his home trade, for epileptics are not
 very adaptable people, but they do respond to praise.
+
 Aside from the visiting, an organization such as I have suggested, should
 press, by itself and in combination with other organizations, for the amend-
 ment of the out-relief regulations which, by demanding that any little sums
@@ -327,17 +341,18 @@ cut down to, say, one in every six months, if satisfactory arrangements could
 be made for the provision of medicine and ordinary medical supervision near
 the patient's home. The saving in time and money to patients and hospital
 authorities would be considerable.
+
 The Central Association for Mental Welfare have done well in making
 this enquiry into the position of epileptics in the community. The report of
 their workers, a model of careful observation, reflection and good expression,
 discloses in no uncertain terms a large and difficult problem, which concerns
-MENTAL WELFARE 17
 a number of our fellow citizens. There are men, women and children who
 are suffering from a complaint, often lifelong, that brings with it severe social
 handicaps, that may affect the happiness and well-being of the patient's imme-
 diate family, and ultimately, if severe and prolonged, may have a destructive
 effect on the patient's personality. The suggestions made whereby the lot of
 some of these patients may be ameliorated are neither definitive nor final.
+
 They are only suggestions, commended to the careful consideration of men
 and women of goodwill who have expert knowledge of epilepsy or who are
 wise and experienced in dealing with social problems.

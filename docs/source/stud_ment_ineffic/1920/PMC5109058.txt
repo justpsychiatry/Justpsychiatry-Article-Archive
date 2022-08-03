@@ -3,13 +3,39 @@ The Definition and Diagnosis of Mental Deficiency
 
 :Author: Cyril Burt, M.A., Psychologist to the London County Council.
 
+
+:Reference type:  Journal Article
+:Record-number: 17193
+:Author: Burt, Cyril
+:Year: 1920
+:Title: The Definition and Diagnosis of Mental Deficiency. Part I
+:Journal: Studies in mental inefficiency
+:Volume: 1
+:Issue: 3
+:Pages: 49-54
+:Epub-date: 1920/07/15
+:Date: 1920/07//
+:Short-title: The Definition and Diagnosis of Mental Deficiency. Part I
+:Alternate-journal-name: Stud Ment Ineffic
+:PMCID: PMC5109058 
+:Accession-number: 28909949
+.. note:: Burt, Cyril, eng, England, Stud Ment Ineffic. 1920 Jul 15;1(3):49-54.
+:URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5109058/
+:Author-address: Psychologist to the London County Council.
+:Name-of-database: PubMed
+:Language: eng
+:Copyright: 
+
+
+
+
 AMENTIA AS DISTINGUISHED FROM DEMENTIA
 --------------------------------------
 The earlier view that mental deficiency was a fairly definite disease, or at
 least a clearly marked condition,?like epilepsy or paralysis in the coarser levels
-of the nervous system?has now almost universally teen abandoned. Under the
+of the nervous system has now almost universally teen abandoned. Under the
 phrase "mental defective" is comprised a strange and ? heterogeneous variety of
-cases, persons whose mental states differ in essential rcspects widely from one to
+cases, persons whose mental states differ in essential respects widely from one to
 another. Some attempt to unify the incongruous meanings of the term is
 urgently needed. But the conclusions attained must necessarily be tentative.
 
@@ -19,7 +45,7 @@ a final solution had been reached, but simply from a desire to be brief.
 
 Mental deficiency, sometimes styled "amentia," is generally contrasted with
 "dementia" ; and defined to mean absence of mind, as the latter means loss of
-wind. The demented person is said to haive been bom with all his mental
+wind. The demented person is said to have been born with all his mental
 powers, full and complete, but in later life to have lost tliem, or at least their
 higher forms; the ament is said to be already, from the very moment of birth,
 devoid and destitute of these higher mental functions : he has none to lose.
@@ -29,7 +55,7 @@ embodies two notions, each of which requires precise definition. What is meant
 by "mind" or "mental"? What is meant by "absence" or "deficiency.
 
 I. The Meaning of "Mental."
-----------------------------
+---------------------------
 
 The word "mental" is highly ambiguous. In the writings and discussions
 of psychologists ;it is used in two senses: first, as the adjective of intelligence, a
@@ -43,8 +69,7 @@ which we loosely call the brain. For the psychologist, therefore, "mind," and
 intelligence; they include also the manifestations of character or temperament.
 
 These two aspects of human nature the psychology of popular speech has long
-recognised. It distinguishes the intellectual aspect from the moral. A reminis-
-aence of the same dichotomy is discernible in thie Mental Deficiency Act of
+recognised. It distinguishes the intellectual aspect from the moral. A reminisaence of the same dichotomy is discernible in thie Mental Deficiency Act of
 1913; and the antithesis, if pressed, might seem; to imply two alternative modes
 of mental defect: intellectual deficiency, on the one hand, and moral deficiency,
 on the other.
@@ -56,15 +81,13 @@ terms of an extremely limited number of fundamental factors. Three factors
 seem relatively independent. Provisionally lie terms them, Ability, Cleverness
 and Purpose or Will. The miind he depicts by a three-dimensional diagram;
 and claims that "when a person's 'representative point' in this diagram has been
-determined, a surprisingly large proportion of his moral as well as his intellect-
-ual qualities have also been defined."* How completely "cleverness as
+determined, a surprisingly large proportion of his moral as well as his intellectual qualities have also been defined."* How completely "cleverness as
 independent "ability" we need not here discuss; but it seems indisputable that
 in diagnosing mental inadequacy, besides noting defects in cleverness or ability,
 we are bound, even upon a priori grounds, to look also for defects in purpose or
 will.
 
-What may be the best nomenclature for distinguishing these alternative con-
-ditions is a problem of some difficulty. The Act insists that the defect shall be
+What may be the best nomenclature for distinguishing these alternative conditions is a problem of some difficulty. The Act insists that the defect shall be
 proved to be innate, or at all events permanent. The words "intellectual" and
 "moral" in common parlance relate to complex psychological activities, which
 change with changing surroundings, and which, in the viiew of most authorities,
@@ -78,15 +101,13 @@ Mental Measurements,' p. III. Cf. also British Journal of Psychology Vol. IX, 19
 Ability, Cleverness, and Purpose.'
 
 speak of defect in Intelligence and in Temperament, and uae the looser phrase,
-Intellectual Deficiency and Character Detect, to denote the more complex con-
-ditions th,at are actually observed, and that must be the resultant of interplay of
+Intellectual Deficiency and Character Detect, to denote the more complex conditions th,at are actually observed, and that must be the resultant of interplay of
 both in born constitution and post-natal environment.
 
 (a) So-called Deficiency, i.e., Temperamental Instability.
 
 In the whole of mental abnormality there is no problem so perplexing or
-obscure as the precise nature of what has hitherto been designated moral imbecil-
-ity. The very phrase is misleading.
+obscure as the precise nature of what has hitherto been designated moral imbecility. The very phrase is misleading.
 
 To say that average or normal man As born with a moral sense, but that a
 few are born wanting that moral sense, and so appear morally defective, is to
@@ -98,14 +119,12 @@ primitive instincts that are too strong rather than from some simple moral sense
 that is too weak. Will and the moral sense, if such terms can be accepted for
 any scientific purpose whatever, must be recognised as denoting tendencies, far
 too complex in their nature, and far too late in their emergence, to be hereditary
-or inborn. Emotions and instincts, however, are admittedly innate; and else-
-where I have given reasons for believing that their excitability and strength
+or inborn. Emotions and instincts, however, are admittedly innate; and elsewhere I have given reasons for believing that their excitability and strength
 depend largely upon a central factor, upon a single fund of energy, which I have
 termed "general emotionality," fand that instability in this central factor may
 occur as a primary and congenital condition.t For persons born with an
 intensely .emotional endowment perhaps the simplest and commonest designation
-is "the unstable," a term that has now found a firm footing-place in psycholo-
-gical works.
+is "the unstable," a term that has now found a firm footing-place in psychological works.
 
 The condition, indeed, is a condition of excess rather than deficiency; but,
 to accord with traditional nomenclature, I have suggested that, for rough
@@ -114,12 +133,10 @@ icquire care, supervision, and control for their own protection or for that of
 others, may perhaps be called "temperamentally defective."
 
 (b) Intellectual Deficiency, i.e., Deficiency in Intelligence.
-----------------------------------------------------------------
-
+---------------------------------------------------------------
 The ambiguities contained in the adjective "intellectual" are less dangerous
 and more (easily discerned than those lurking in the term "moral." With most
-persons, it may be admitted, life is not so much an affair of intellect as of intel-
-ligence. It entails practical as well as strictly intellectual processes. But to avoid
+persons, it may be admitted, life is not so much an affair of intellect as of intelligence. It entails practical as well as strictly intellectual processes. But to avoid
 coining some harsh neologism such as "intelligential," and, at the same time,
 T *S?ie the admirable discissions in Healy, The Individual Delinquent, Section 372> 11 Moral
 imbecility " and Holmes The Conservation of the Child, Chapter X, " Moral Deviates."
@@ -130,23 +147,18 @@ to escape the ambiguities of the more common adjective "mental," I shall use
 "intellectual" in the broader sense, comprehending under it all processes of the
 mind, except those connected essentially with character and temperament.
 
-The existence of some central psychological factor, more or less determin-
-fng all such activities, is now \iery generally conceded. Efficiency in any type of
+The existence of some central psychological factor, more or less determinfng all such activities, is now \iery generally conceded. Efficiency in any type of
 intellectual work, is due, it is maintained, to inborn capacities of two orders:
-first, a general ability entering into all mental performances, usually denomin-
-ated intelligence; and, secondly, one or more specific abilities?affecting only
+first, a general ability entering into all mental performances, usually denominated intelligence; and, secondly, one or more specific abilities?affecting only
 that limited group of processes in which they are immediately concerned.
 
 Defects in these more specific capacities do not in my opinion, form a valid
-ground for certification. Word-blindness, to take a familiar example, is cer-
-tainly, in the literal sense, a mental defect; and, in v,iew of the many, it is a
+ground for certification. Word-blindness, to take a familiar example, is certainly, in the literal sense, a mental defect; and, in v,iew of the many, it is a
 condition occurng in a congenital and permanent form. But, since congenital
-word-blindness does not directly affect general mental efficiency, but is by defi-
-nition specific and localised, it does not to my mind constitute deficiency, in the
+word-blindness does not directly affect general mental efficiency, but is by definition specific and localised, it does not to my mind constitute deficiency, in the
 technical sense. I have in other articles reported evidence in favour of the
 existence of "intelligence" as a distinct and all-pervading mental fiactor; and
-have there defined it as "inborn general intellectual efficiency." This hypo-
-thesis, however, a few authorities, still reject. For them all defects are specific.
+have there defined it as "inborn general intellectual efficiency." This hypothesis, however, a few authorities, still reject. For them all defects are specific.
 The only distinction they can countenance is the distinction between those
 specific defects, on the one hand, that do not entaiil grave social disability?as
 musical deficiency, or deficiency in the ability to draw?and those, on the other
@@ -166,8 +178,7 @@ inferred that, in the statute-book as well as in the text-book, mental defect ha
 this stricter connotation, and refers to inadequacy of intelligence alone.
 
 Mental Deficiency as an Administrative Concept
-----------------------------------------------
-
+---------------------------------------------
 I would, however, strongly urge that "mental deficiency" is, at bottom,
 not a genuine psychological term at all. It marks a legal or administrative
 category. The ultimate criterion is social inefficiency. Yet not all social
@@ -185,23 +196,16 @@ before the issue of technical "deficiency" can be decided.
 
 In this broader view, however, there aire grave dangers. It is not so safe in
 practice as it is sound iin theory. Of those obscure psychological activities that
-underlie social behaviour, and determine character as distinguished from intelli-
-gence, too little is known; practicable criteria and trustworthy tests for character-
-defect?for its nature, for its degree, for its permanence?are almost non-exis-
-tent; and patients whose deficiency is purely moral or temperamental need
+underlie social behaviour, and determine character as distinguished from intelligence, too little is known; practicable criteria and trustworthy tests for characterdefect?for its nature, for its degree, for its permanence?are almost non-existent; and patients whose deficiency is purely moral or temperamental need
 measures quite different, and institutions quite separate, from: those required by
 the more familiar cases of intellectual detect. Hence, with all this ambiguity of
-terms and difference of opinions, we should, as I shall presently urge, be particu-
-larly chary of describing as mentally defective a person whose intelligence is
+terms and difference of opinions, we should, as I shall presently urge, be particularly chary of describing as mentally defective a person whose intelligence is
 normal or nearly average.
 
 Finally, the distinction between these two contrasted aspects of the mind?
 the intellectual and the emotional?is not rigid or complete. The mind functions
-as a whole. Personality is one. A defect of temperament must inevitably im-
-pair intellectual efficiency; a defect of intellect cannot fail to impede the
-development of character. With dull and lethargic emotions, a low-grade intel-
-lect appears, even in tests designed specifically for intelligence, doubly incom-
-petent. And, with a weak and undeveloped intellect, a person of strong
+as a whole. Personality is one. A defect of temperament must inevitably impair intellectual efficiency; a defect of intellect cannot fail to impede the
+development of character. With dull and lethargic emotions, a low-grade intellect appears, even in tests designed specifically for intelligence, doubly incompetent. And, with a weak and undeveloped intellect, a person of strong
 emotions amd violent instincts becomes yet more incapable of co-ordinating his
 impulses and controlling his passions.
 
@@ -212,8 +216,7 @@ to exclude alike specific capacities, admired intellectual attainments, and
 acquired peculiarities of character.
 
 II. The Meaning of "Deficiency."
---------------------------------
-
+-------------------------------
 We have now to define the second termi of the original phrase, the term
 "deficiency." Amentia, we have seen, means absence of mind. But absence of
 mind is, of course, merely relative. No persons are born literally and entirely
@@ -222,20 +225,16 @@ majority. How defective, therefore, must a person's mind appear before lie can
 he deemed technically "deficient?"
 
 Diagnosis
----------
-The degree of mental inadequacy is always the crucial question upon which
+--------The degree of mental inadequacy is always the crucial question upon which
 diagnosis turns. It involves a scientific study of the child's personality, and this
 'in turn, particularly wth temperamental cases, can at times be made, if made at
 all, only with expert observation in a psychological clinic, or in some school or
-residential institution that may serve the samie purpose. The results of obser-
-vation should be sought and recorded systematically according to some pre-con-
-ceived plan of psychological functions and conditions. The broaxd headdngs which
+residential institution that may serve the samie purpose. The results of observation should be sought and recorded systematically according to some pre-conceived plan of psychological functions and conditions. The broaxd headdngs which
 for this purpose, I find most convenient, may be classified, in popular terms, as
 follows:
 
 PSYCHOGRAPHIC SCHEME
----------------------
-I. Environment.
+--------------------I. Environment.
 II. Personality.
 A. Physical Functions:
 B. Mental Functions:
@@ -254,18 +253,14 @@ B. Mental Functions:
    i. Specific sentiments and complexes.
    ii. General stability of character.
    
-(i) For those accustomed to think in more technical language, I may re-
-peat that "intellect" is used loosely to include psycho-motor as well as cogni-
-tive capacities; and temperament to include conative as well as affective
+(i) For those accustomed to think in more technical language, I may repeat that "intellect" is used loosely to include psycho-motor as well as cognitive capacities; and temperament to include conative as well as affective
 capacities.
 
 With the patient's environment and with his bodily condition, we are not
 here concerned. Both, however, must influence diagnosis. Among border-line
 cases, a relatively bright child, incapacitated by some marked physical disability,
 or situated in hopelessly poor home circumstances, will at times be certified as
-legally defective, while a slightly duller child, labouring under no such, dis-
-advantages will be passed over as technically normal. Such cases are exceptional;
-in the sequel I shall have in mind chiefly persons whose environmental and physi-
-cal conditions are roughly average, recollecting, of course, that along tlie lower
+legally defective, while a slightly duller child, labouring under no such, disadvantages will be passed over as technically normal. Such cases are exceptional;
+in the sequel I shall have in mind chiefly persons whose environmental and physical conditions are roughly average, recollecting, of course, that along the lower
 strata of an industrial area average conditions are always a little subnormal.
 (To be concluded).

@@ -1,9 +1,10 @@
 Manual of Psychiatry and Mental Hygiene
 ========================================
 
-By Aaron T. Rosanoff. Seventh edition,
+:Author: Aaron T. Rosanoff. Seventh edition,
 1938. Pp. 1,024. 37/6 net. London,
 Chapman and Hall.
+
 This, the seventh and latest edition of
 Rosanoff's Manual of Psychiatry, is a
 worthy successor of this well-known and
@@ -36,6 +37,7 @@ connection with the development of the
 individual and vice versa, further illustrates
 the wide range of subjects which the manual
 covers.
+
 Dr. Rosanoff explicitly recognises that
 no individual working in this field can write
 a textbook upon the basis of his own
@@ -53,7 +55,6 @@ however, except for some words referring
 to Adler, he makes little reference to other
 workers in this field. It is to be hoped that
 a future edition will repair this omission.
-MENTAL WELFARE 97
 On the whole the author shows careful
 judgment: he has selected from his own
 researches and opinions on the grounds of
@@ -64,4 +65,5 @@ theories presented and the views set forth.
 Individual thought and initiative everywhere
 receives encouragement. Altogether a help-
 ful and useful book.
+
 Hilda Weber.

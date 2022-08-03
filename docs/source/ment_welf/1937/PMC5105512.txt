@@ -1,10 +1,9 @@
 The Fight for Our National Intelligence
 =========================================
 
-88 MENTAL WELFARE
-
-by R. B. Cattell. London.
+:Author: R. B. Cattell. London.
 P. S. King & Son, 1937. 8/6.
+
 In recent years, many people interest-
 ed in social problems have been
 alarmed by dogmatic statements that
@@ -16,6 +15,7 @@ nation breeds too much from those of
 inferior intelligence and capacity, and
 that, as like breeds like, a decline of
 national intelligence is inevitable.
+
 Dr. R. B. Cattell, working under
 the auspices of the Eugenics Society,
 recently undertook extensive field re-
@@ -30,6 +30,7 @@ in future generations western civilisa-
 tion is in danger of being swamped
 beneath vast numbers of citizens of
 inferior quality.
+
 Dr. Cattell carried out his research
 in two contrasting parts of England.
 He chose an urban district?Leicester
@@ -48,6 +49,7 @@ trict. Dr. Cattell relates this rural
 poverty of intelligence to a greater
 readiness of the more intelligent fami-
 lies to migrate to the towns.
+
 Dr. Cattell also noted the number
 of brothers and sisters of each child
 he tested. He found that, in general,
@@ -62,6 +64,7 @@ In the rural area, those children with
 intelligence quotients from 40 to 60
 had the largest number of brothers and
 sisters.
+
 Dr. Cattell then applied his intelli-
 gence tests to the parents of 100
 families. He found that the order of
@@ -74,6 +77,7 @@ summarised, and it is concluded that
 environmental factors, such as poverty
 and malnutrition, have but little effect
 on intelligence.
+
 From these figures indicating the
 relation between birth-rate and intelli-
 gence, an estimate has been made of
@@ -98,7 +102,6 @@ not been made for the influence of this
 last factor, as it is known that persons
 of very low intelligence are compara-
 tively infertile. However, the author
-MENTAL WELFARE 89
 assumes that his estimate of the decline
 of intelligence is near the mark, and
 more than half the book is taken up
@@ -106,6 +109,7 @@ with a full discussion of the probable
 social effects of this drift into defect,
 and of the means which could be used
 to avert the national decay.
+
 The appalling effects on the struc-
 ture of society of a large number of
 defectives are graphically described.
@@ -122,6 +126,7 @@ than those which we, in the name of
 sentimentality and in the spirit of sloth-
 ful complacency, are allowing to perish
 in this generation."
+
 Dr. Cattell would deal first with the
 "subcultural" social problem group,
 which comprises 10 per cent, of the
@@ -137,8 +142,10 @@ maintenance allowance should be given
 to scholarship children, so that an able
 child would be an economic asset to its
 parents.
+
 The universal availability of birth
 control is essential.
+
 The later chapters discuss a great
 many topics from a eugenic aspect :
 poverty, unemployment, the crudity of

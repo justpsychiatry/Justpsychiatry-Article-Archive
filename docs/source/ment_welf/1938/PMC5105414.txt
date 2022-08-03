@@ -1,13 +1,12 @@
 Der Schwachsinn (Mental Defect)
 ================================
 
-MENTAL WELFARE 67
-. By
-By P. Dubitscher, remanent becretary
+:Author: P. Dubitscher, remanent becretary
 in the Reich Ministry of Health,
 Handbuch der Erbkrankheiten, heraus
 von Guett, Dok. med., Arthur, Berlin,
 Band !. Georg Thieme, Leipzig, pp. 358.
+
 This book is divided into two sections, one
 clinical, the second major section dealing
 throughout with researches into intelligence.
@@ -20,6 +19,7 @@ faculties. Symptoms, treatment, anatomy
 and transmission of the different forms of
 mental defect are described separately and
 in detail.
+
 The classification of Weygandt with very
 slight alteration appears to be the most
 practical of the attempts to group the
@@ -33,6 +33,7 @@ brilliantly the results both of the earliest and
 most recent genetical researches; indeed, the
 whole literature on mental deficiency is
 covered almost without omissions.
+
 The question of separate inheritance of
 the different grades of defect is left open by
 the author. Uniform approach to the
@@ -50,6 +51,7 @@ also mentions numerous authors, according
 to whom there is a high probability of
 unitary inheritance of feeble-mindedness as
 a single trait.
+
 The author regards it as important to
 distinguish more sharply special personality
 types amongst the feeble-minded which are
@@ -68,6 +70,7 @@ ception during intoxication and abnormal
 mental impressions of the pregnant mother.
 The factors which are recognised as causal
 may often act in combination.
+
 The desiderata for future research on
 feeble-mindedness are above all the identifi-
 cation of unitary biological and psycho-
@@ -86,6 +89,7 @@ thereby be entirely eradicated but rather
 what would be the incidence of mental
 deficiency after a given period without such
 measures.
+
 C. BRUGGER,
 Professor, University Psychiatric Clinic,
 Basic.

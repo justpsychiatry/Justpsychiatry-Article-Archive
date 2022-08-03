@@ -2,9 +2,12 @@ H.O Wildenskov
 ================
 
 s v^are ot ivientai juerectives J
-By H. O. WILDENSKOV, M.D.
+:Author: H. O. WILDENSKOV, M.D.
 Medical Superintendent of the Keller Institutions for Mental Defectives, Brejning, Denmark.
+
 Legislation
+-------------
+
 Prior to 1933 no special laws had been enacted by legislation concerning
 the care of mental defectives. Before that year, the committal of mental
 defectives to public care took place through the individual municipalities; the
@@ -13,6 +16,7 @@ maintenance and the State paid the rest. As a result many municipalities
 tried as long as possible to avoid such committal to public care and the
 expenses involved in it, by placing defectives as cheaply as possible in poor-
 houses or in cheap and inferior homes.
+
 These unfortunate conditions were altered radically with the passing
 of the Public Assistance Act in 1933, making the State responsible for the
 education, training, maintenance, treatment and general care of all needy
@@ -27,18 +31,21 @@ further institutional accommodation. The Act also decrees that all the present
 poor-houses shall be abolished, and their mentally defective inmates trans-
 ferred to the Department for the Public Care of Mental Defectives. In each
 municipality a social committee has to be appointed to administer the Act
-38 MENTAL WELFARE
 in the locality concerned. Finally the Act requires all doctors and teachers to
 report mentally defective children to the social committee, which must then
 arrange with the Department for the Public Care of Mental Defectives for
 the proper placing of these children.
+
 In carrying out this Act it was soon found, however, that other legislative
 directions were required concerning the mental defectives provided for. A
 new Bill covering these points was introduced in May, 1934, and passed by
 Parliament almost unanimously (with only two opposing votes). This Act
 gives directions for admission to and discharge from institutions and lays
 down rules concerning sterilisation.*
+
 Practice of the Public Care
+----------------------------
+
 In Denmark the public care of mental defectives is^ carried out by the
 authorised institutions, with accommodation for 5,700 inmates?or one in
 every 615 inhabitants. The greatest of these asylums is the Keller Institution,
@@ -54,6 +61,7 @@ in two branches of the institution on isolated islands, where they can move
 about freely. The Keller institutions are under the management of a medical
 superintendent who is responsible for administration as well as for the medical
 care of the inmates.
+
 When a defective is reported to this institution, our social worker is sent
 out to obtain supplementary information about him and investigate the social
 conditions under which he is living. The social worker then judges whether
@@ -63,19 +71,23 @@ on the most favourable arrangement for the patient. The institution then
 decides where the patient should be placed; in doubtful cases a staff physician
 is sent out to make an additional examination of the patient and his conditions.
 The institution provides the following forms of care :
+
 1. Institutional care.
+
 2. Care outside the institution; this is subsequently referred to as com-
 munity care, comprising :
+
 (a) Home care
 (b) Family care
 (c) Supervision without maintenance
 (d) Care " ad mod." Gheel.
 It will be convenient to deal with these forms of care separately.
+
 1. Institutional Care
+
 When the defective is admitted to the institution one physician enters all
 the information obtained about him in his case record, another physician
 * For further information on this point, see Eugenics Review, vol. XXVI, 1934, pp. 281-282.
-MENTAL WELFARE 39
 submits him to a physical examination, and a third records the results obtained
 from a very thorough neurological examination. When the patient is thought
 to have got accustomed to the conditions in the institution, a physician carries
@@ -84,6 +96,7 @@ own observations on the patient. Then the record goes to the chief physician,
 who goes through it as a whole and discusses the case with members of the
 staff, with the principal of the school and with the head nurse, finally placing
 the patient in the department where presumably he belongs.
+
 In the institution, the education and training of the pupils is based on
 the same principles as those adopted in England?so far as I have observed
 from my visits to English institutions. I think, however, the English institu-
@@ -96,6 +109,7 @@ English term " moral defective " as implying mental defect. In the " moral
 defective " the defect is in the realm of character, not, or only in a small
 degree, in that of intelligence. But seldom are we able to discharge mental
 defectives who are able to work at a trade.
+
 In the Danish industries there is so much unemployment amongst normal
 workers that there is no place for our mental defectives. As Denmark is
 predominantly an agricultural country with extensive subdivision of large
@@ -104,10 +118,12 @@ labourers and hence the training must be chiefly in farm and garden work.
 The girls are trained in household work; and it is our experience that far less
 intelligence is required for domestic employment than is required from the
 men in obtaining places.
+
 Our efforts are directed at keeping our patients away from the towns,
 for then they get along better. It will be remembered that the Wood Com-
 mittee actually found more mental defectives in the country than in the towns, and
 we are merely following the line of their natural distribution.
+
 As to the educational side of our work there is hardly any doubt that
 the principal of our school, Mr. J. L. Varming, in recent years has devised a
 particularly well adapted plan of education with a selection of apparatus and
@@ -116,17 +132,20 @@ attention of the mentally defective child. lie has arrived at this result after
 visits of observation in England, Sweden and Denmark, adopting the best of
 the various systems employed in these countries and adjusting it for his
 particular purpose?the education of mental defectives.
+
 2. Community Care
+
 This includes mental defectives registered under public care who have
 never been in any institution, and mental defectives who have had institu-
 tional care.
+
 (a) Home Care
+
 As already mentioned, the institution investigates the home conditions of
 every reported patient. If the conditions in his home are found to be suffi-
 ciently safe, if the patient is well taken care of, and if we find that there is
 adequate provision for education and training, the institution places him under
 home care. Now, it is a fact that the mental defective as a rule means a
-40 MENTAL WELFARE
 greater expense to the home than does a normal child of the same age. The
 mother, e.g., is prevented from going out to work as she has either to look
 after the defective or get some extra help because of him, and the expenses
@@ -139,6 +158,7 @@ actual cost of the patient's living at home. The Ministry takes it for granted,
 however, that this maintenance is considerably lower than would be the cost
 of his institutional care. The maximum annual maintenance paid to the family
 is generally set at 600 Danish kroner (about 600 shillings).
+
 If the patient has no home, or if the institution considers the conditions
 in his home unsatisfactory, he will either be placed in the institution, or pro-
 vision will be made for suitable family care in co-operation with the local
@@ -146,7 +166,9 @@ Social Committee. Rut whenever the question does not involve the mental
 defective's natural home, we are most cautious about placing him, and it is
 only very seldom we place the lower grades of patients (idiots and imbeciles)
 in the homes of other families.
+
 (b) " Family Care"
+
 It is a different matter in the case of feeble-minded persons who are able
 to write, read and go about by themselves. These persons have a chance to
 make written or verbal complaints if they are not treated properly?if, not-
@@ -169,7 +191,9 @@ if the home is approved by him as suitable for family care, a defective is then
 chosen who would fit in well in that particular home; the amount of main-
 tenance is also decided upon according to the conditions of the home and the
 mental condition, working capacity and character of the defective.
+
 (c) Supervision without Maintenance
+
 In a number of cases we judge the working yield of the feeble-minded to
 be so valuable that it is not necessary to contribute any maintenance. For
 the sake of regular supervision and control, however, these cases continue to
@@ -177,7 +201,6 @@ be kept under our supervision and if their conduct makes it desirable, they can
 be recalled without any formalities and put again under institutional care.
 Absolute discharge from public care seldom takes place direct from the
 institution. We always employ community care for a probationary period,
-MENTAL WELFARE 41
 and we try to make this period as long" as possible : we may allow the defective
 towards the end of his probation to look for a job himself on condition that
 he gives the institution precise information of his whereabouts. If he fails
@@ -189,7 +212,9 @@ self-criticism, and they are too optimistic, always thinking they can easily
 get a job with bigger pay; if left to themselves, they therefore keep going
 from one job to another, till one day they find themselves without employ-
 ment ; then they drift and from this stage to petty thieving is only a short step.
+
 (d) " Care ad mod. Ghecl"
+
 In recent years the Keller Institutions have adopted and further elaborated
 a new form of care, called ad mod. Gheel after the great Belgian centre of
 public care.* In the course of time a great institution will have an increasing
@@ -202,6 +227,7 @@ feel happy in those departments, and although they are no longer able to work,
 they are too good to be there. Therefore we have placed some of them
 (about 75) in special old age homes inside the institution; and we have placed
 others in care ad mod. Gheel.
+
 As the institution has developed, a veritable little town has grown up in
 its vicinity, inhabited by married staff, tradesmen and others who make their
 living by working for the institution. They build their own cottages and they
@@ -214,6 +240,7 @@ We do not consider care ad mod. Gheel to be advisable in more remote places
 where we should not be able to supervise the patients properly, and where they
 would not feel happy after being attached to the institution for a long span of
 years.
+
 Supervision of defectives in community care is always carried out by the
 institution to which they belong. Only his " home institution " can have a real
 knowledge of the patient's faculties and particular traits of character, and hence
@@ -221,13 +248,14 @@ it can best judge him and help him in any individual need. This is a point to wh
 1 attach great importance. For if the patient is to be corrected or guided by
 persons who know him only from what has been recorded in writing, we know
 from experience that the results will be less favourable.
+
 To-day the Department for the care of Mental Defectives in Denmark has
 about 3,000 patients placed under community care. The total number of defectives
 provided for in institutions or outside, amounts to 8,700, or 1 per 400 inhabitants.
 The Keller Institutions have 824 under community care; 365 under home care
 (a) and 459 under family care, supervision without maintenance and care ad
 * For information about Gheel, see Mental Welfare, vol. XIV, 1933.
-42 MENTAL WELFARE
+
 mod. Gheel (b, c, and d). Including- the patients kept in the institutions, the
 Keller Institutions thus have about 2,900 mental defectives under their care.
 The supervision of the patients under care outside is carried on exclusively by
@@ -237,9 +265,11 @@ is difficulty or disagreement. Further, the local Social Committee supervises th
 patient and his care, reports to the institution on any change or unfavourable
 condition; in several instances we have appointed a local supervising visitor in a
 parish or similar district.
+
 To me there is no doubt that this community care can be developed further
 and that the arrangement here outlined implies the possibility of a great reduction
 in the demand on institutional accommodation.
+
 But it must be realised that at the same time as we extend and amplify the
 concept " community care" the quality of the patients in the institution will
 naturally be modified greatly. Dr. Douglas Turner has said :
@@ -247,6 +277,7 @@ naturally be modified greatly. Dr. Douglas Turner has said :
 patients, but just as constantly passing back to the world in several directions and by
 several different methods many other patients who have been trained and stabilized
 while under its care."*
+
 In recent years the Keller Institutions have functioned as the " flowing lake"
 mentioned above, and the experiences we have gained now tell us that Dr.
 Turner's prediction is not likely fully to come true. The inflowing stream of
@@ -265,7 +296,10 @@ patients (men and women) capable of work; and it is getting more and more
 difficult for us to find enough patients to do the menial work in the institution ;
 it is a constant complaint that the quality is lowered so markedly because so
 many are transferred to outside care.
+
 Sterilisation
+--------------
+
 It is the general opinion of the medical staff of the institution that employment
 of sterilisation has brought about the position indicated above by further increasing
 the number of patients who may safely be discharged or transferred to outside
@@ -274,12 +308,13 @@ cases very carefully; yet we have now got to the number of 240 sterilised women
 and men, all able to work. After sterilisation the patients go over to outside care.
 In Denmark we consider sterilisation a very great help in the care of mental
 defectives which has now become indispensable.
+
 In the last annual report from a great English institution (about 1,500
 patients), sterilisation is looked upon as unnecessary and it is stated with a
 certain degree of pride that in the seventeen years the institution has employed
 discharge on licence, only three patients have returned on account of pregnancy.
 * Journal of Mental Science, 1933, />. 573.
-MENTAL WELFARE 43
+
 Our experience has not been so good, and I refuse to believe it is because mental
 defectives in Denmark have stronger sexual appetites than mental defectives in
 England. In that respect 1 think they are similar. I would rather be inclined to
@@ -292,11 +327,14 @@ to sexual temptation. If this English institution had attained our figures?800 (
 about 40 per cent.) in community care, not a few of whom have celebrated their
 semi-jubilee as outside patients?I think we should find several cases in which
 sterilisation would be a safeguarding measure.
+
 I shall briefly mention three important experiences we have gained through
 the employment of sterilisation :
+
 (a) It is really a surprisingly small amount of intelligence (as low as
 I.Q.45) that is required in women to make them useful for housework
 under outside care.
+
 (b) It is preferably the mental defective women who ought to be sterilised,
 for they are attractive regardless of their intelligence quotient, not
 only to the mentally defective male but also to the so-called normal
@@ -304,6 +342,7 @@ male. On the other hand it happens but seldom that the mentally
 defective man becomes a father, for he cannot attract the normal
 woman; as a rule the woman who responds to him is herself a mental
 defective.
+
 (c) Not a few mentally defective women of difficult character fail to settle
 down in an institution where they may be teased and upset by other
 patients and where they have but little opportunity to work alone and
@@ -312,7 +351,10 @@ them under outside care in more isolated districts, in small families
 without children, and we have found that whereas these patients were
 very troublesome in the institution where they hindered cur work
 with the others, they have now settled down contentedly.
+
 Occupation Centres
+-------------------
+
 In England I met with a special form of community care?viz., Occupation
 Centres?in which I was very interested; and I have tried to introduce something
 of the kind in Denmark. It seemed natural to begin this work in the largest
@@ -326,11 +368,13 @@ of this objection, and as I consider it most important that all educable defecti
 children should attend an institutional school?this principle being the keystone
 in both English and Danish legislation concerning mental defectives?I have
 temporarily postponed my plans about occupation centres.
+
 Two experiences, gained on my visits to England, have been contributory
 factors in this decision : (1) On my visits to occupation centres in London I
 {n England this very real difficulty is largely met by the existence of Day Special Schools
 inadequate though their number is.?Ed.
-44 MENTAL WELFARE
+
+
 noticed a pronounced prejudice against sending- defectives to institutions, and it
 was considered almost a confession of failure to have to refer a child for institu-
 tional care. (2) One day, in 1927, I was visiting- a Special School in London, and
@@ -341,7 +385,10 @@ educate and teach mentally defective children with intelligence quotients down t
 them home to surroundings that were often quite unsuitable, where the little
 progress made at school was lost again during the rest of the day. I have often
 thought of this remark, and I have to acknowledge its correctness.
+
 Statistics
+-----------
+
 The English reader would probably like to get some data on the movements
 of patients in the Danish institutions for mental defectives, for the sake of
 comparison with English institutions. I have, therefore, worked out the figures
@@ -355,6 +402,7 @@ A total of 330 patients have been discharged; of these 134 died, 85 went to othe
 institutions, 3 moved and were lost sight of and 41 were discharged subsequently
 as they proved not to be mentally defective. This, leaves 67 who have been
 discharged in the course of 2 years.
+
 I have always been an advocate of the large combined institution, which
 makes it possible to place the mental defective in that department where he
 properly belongs, according to his faculties and age. It will often happen that a
@@ -367,11 +415,13 @@ defectives, or two a day. Now if we had first to correspond with other instituti
 about such transfers, I doubt very much they would have been carried out to
 such a large extent; and that means that the patients would not have been
 classified and distributed properly according to qualities and inherent abilities.
+
 The expenses per patient in the institution itself amount to 983 kroner
 (shillings) per year. The expenses per patient under outside care amount to 451
 kroner (shillings) per year. In the establishment of a branch with accommodation
 for 350 patients the expenses per patient have come to 3,057 kroner (about
 ?136) including furniture and other equipment.
+
 I wish to thank Mental Welfare for inviting me to give an account of the
 public care of mental defectives in Denmark. I am very pleased to do so, in
 particular because I learnt so much on my study journeys in England and not least

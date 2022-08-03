@@ -398,9 +398,7 @@ REFERENCES
 3.  Sharma M, Romas JA. Theoretical foundations of health education and
        health promotion: Jones & Bartlett Publishers; 2011.
 
-4.  Prince M,Patel\ *V,* Saxena S,Maj M,Maselko J, Phillips MR, et al.
-       No health without mental health.The lancet. 2007; 370(9590): 859-
-       77.
+4.  Prince M,Patel\ *V,* Saxena S,Maj M,Maselko J, Phillips MR, et al. No health without mental health.The lancet. 2007; 370(9590): 859-77.
 
 5.  Almeida AdM, Godinho TM, Bitencourt AGV, Teles MS, Silva AS, Fonseca
        DC, et al. Common mental disorders among medical students.Jornal
@@ -433,18 +431,12 @@ REFERENCES
        Pakistani medical school. BMC medical education. 201O;10(1): 2.
 
 12. Sathidevi *V.* Developement of Medical Students Stressor
-
-..
-
    Questionaire.Kerala Medical Journal.2009; 2(3):69-75.
 
 13. Vandenbroucke JP, Von Elm E, Altman DG, G0tzsche PC, Mui row CD,
        Pocock SJ, et al. Strengthening the Reporting of Observational
        Studies in Epidemiology (STROBE): explanation and elaboration.
        Annals of Internal Medicine. 2007;147(8): W- 163-W-94.
-
-..
-
    Journal of Pavistan Psyd1iatric Soriety
 
 14. |image2|\ Beusenberg M, Orley JH, Organization WH. A User's guide to
@@ -457,17 +449,11 @@ REFERENCES
        International Journal of Medical Education.2012;3: 1-5.
 
 17. Manjunath R, Kulkarni P. Mental Health Status and Depression
-
-..
-
    among Medical Students in Mysore, Karnataka-An Untouched Public
    Health Issue. National Journal of Community Medicine. 2013;
    4(1):50-3.
 
 18. Bfr6 E,Adany R, Kosa K.Mental health and behaviour of students
-
-..
-
    of public health and their correlation with social support: a
    cross-sectionalstudy.BMC public health.2011;11(1):871.
 

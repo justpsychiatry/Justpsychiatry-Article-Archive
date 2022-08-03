@@ -1,9 +1,10 @@
 The Therapeutic Value in Mental Illness of Physical Fitness through Exercise
 =============================================================================
 
-By ROLF STROM-OLSEN, M.D., B.Sc., D.P.M.
+:Author: ROLF Strom-Olsen, M.D., B.Sc., D.P.M.
 Physician Superintendent of Runwell Hospital for Nervous and
 Mental Disorders, Wic\ford, Essex.
+
 To say that our attitude towards the treatment of mental illness has
 undergone a radical change during the last 15 to 20 years is to run the risk of
 reiterating a saying which has now almost become a platitude. Nevertheless,
@@ -14,19 +15,21 @@ therapy. To attempt to outline this development would go far beyond the
 scope of this paper, but I propose to deal in a general way with a mode of
 treatment which should form an integral part of an organised system of oc-
 cupational therapy in every modern mental hospital.
+
 The task of doctors and nurses in mental hospitals might perhaps be
 summed up as follows: firstly, the treatment, and the promotion of the most
 favourable conditions for the recovery of patients admitted to hospital;
 secondly, the management and care of the chronic insane. Treatment may be
 specific or general. In the specific treatment we aim at removing the cause
 Paper read at Public Health Congress, London, November, 1936.
-2 MENTAL WELFARE
+
 of the particular disorder where this is known (alas only too infrequently) or
 at hastening recovery by applying special remedies (e.g., malaria). In general
 treatment we have to fall back on empiricism by trying to improve the
 patient's health, by treating symptoms, by attempting to increase his powers
 of resistance and by endeavouring to resocialize him, notwithstanding the fact
 that we may remain fundamentally ignorant of the cause of his breakdown.
+
 For this purpose we make full use of fresh air, sunlight, diet, hydrotherapy,
 actinotherapy, and last but not least, occupational therapy. In the periphery
 of the latter we would include treatment by exercise and drill. For both the
@@ -34,6 +37,7 @@ above classes of patients the institution of physical exercise on a systematic
 basis is of the greatest importance, because not only does exercise exert its influ-
 ence on the physical health of the patient, but also, directly and indirectly, on
 his mental health.
+
 To enable us to understand more clearly how exercise exerts its thera-
 peutic effect in mental disease it would be of advantage to summarise the
 general effects on the body of muscular exertion. By exercise, of course, I do
@@ -67,14 +71,16 @@ latter kind of exercise are different. No increased attention is required for th
 easy movements, hence concentration is normal; moreover, the skill entailed
 is not more than that necessary for natural movements, and individual muscle
 groups do not tend to hypertrophy to a marked extent. On the other hand the
-MENTAL WELFARE 3
 indirect effect on the circulation and respiration is greater than in effort exer-
 cises, the individual developing a greater cardiac and pulmonary capacity to
 deal with the removal of waste and fatigue products of muscular contraction.
 In the long run exercises of endurance employed discriminately and in
 moderation produce a constitutional vigour and physical robustness far greater
 than those of effort.
+
 Organisation of Exercises and Games.
+-------------------------------------
+
 The organisation of a system of exercises and games in a mental hospital
 presents no great obstacles and the small expenditure involved on equipment
 is amply repaid in the improved condition and behaviour of the patients, and
@@ -103,6 +109,7 @@ armamentarium, as it has the advantage of being both an outdoor and an in-
 door game. The patients themselves will of course require the appropriate
 clothing. For the men I have found white singlets and football shorts the
 most economical and useful, whilst the women wear short gym. frocks.
+
 Patients should be carefully selected and graded for the physical drill
 class. Some must be excluded for mental reasons, for instance those suffering
 from severe depression, maniacal excitement or well-developed confusion. Ii}
@@ -112,7 +119,7 @@ attention is too defective for any useful co-operation, in addition his restless
 and exaltation would have too great a disturbing influence on the remainder of
 the class. In confusional states the marked clouding of consciousness and in-
 tellectual disturbance precludes the patient taking part for obvious reasons.
-4 MENTAL WELFARE
+
 Physical infirmities and age will exclude others from most systematic exer-
 cises, though by no means from all. I have found it a useful practice to issue
 a table to the drill instructor showing the safe age limits of patients for taking
@@ -159,11 +166,11 @@ give adequate attention to each individual member. In this connection it has
 been found extremely profitable to have a nurse assisting the instructor, who
 can walk around from patient to patient and encourage and help them with
 the various movements. This class of patient is the most difficult to deal with
-MENTAL WELFARE 5
 and requires considerable tact and perseverance on the part of the instructor
 and nurse> but it is time well spent, for nowhere else do we see such surpris-
 ing and gratifying results. Such patients as make sufficient progress are then
 promoted to grade " A " or " B," according to their mental state.
+
 The afternoon should be reserved for the better grades. Each class should
 not exceed 30 in number, and the time allowed for physical drill is 45 to 60
 minutes, followed by half an hour's complete rest. The first half of the period
@@ -184,6 +191,7 @@ female patients, and alternative programmes must be adopted. One of the
 most suitable substitutes is undoubtedly folk dancing, the learning of which
 is perhaps laborious and tedious, but creates a genuine sense of satisfaction and
 pleasure in a group that has learnt the art.
+
 Following the rest after the afternoon session patients may then return
 to their various occupations or to the wards as the case may be. After tea it is
 an exceedingly good practice (weather and light permitting of course) to allow
@@ -203,10 +211,10 @@ sity limited in scope. The watching of these games by a large body of patients
 is a healthy and pleasant pastime but falls under the category of amusement
 and recreation; certainly it is no exercise except perhaps that involved in their
 vigorous applause of opponents at a hospital match.
+
 The above remarks I think suffice to show the kind of scheme which the
 average public mental hospital will find most workable, though the details
 niay be varied to some extent. It follows in a general way the methods adopted
-6 MENTAL WELFARE
 at one or two hospitals in this country, though it differs in that a greater use of
 gymnastic apparatus is urged. This is an innovation which I venture to sug-
 gest will be found attractive by many patients as it adds more variety to the
@@ -231,6 +239,7 @@ exercises may proceed in gradual stages from the elementary to the more
 complicated, and from the purely objective to the more subjective forms.
 In the light of the above-considerations it will now be easier to appreciate
 The Therapeutic Value of Exercise in Mental Vatients.
+
 Every scheme of physical training for mental patients should be organ-
 ised so as to allow of an adequate proportion both of exercises of effort and of
 endurance. The line of demarcation is not a hard and fast one, indeed many
@@ -238,6 +247,7 @@ exercises are a mixture of both, but on the whole there is a strong predomin-
 ance of one over the other in each of the usual forms of gymnastics, athletics
 and games. The optimum ratio is discovered with increasing experience, and
 it is when that condition is fulfilled that we get the best results.
+
 The therapeutic effect is both physical and mental. The physical effects
 are well known to everybody; I will merely enumerate them. The bodily
 weight is rendered more normal; the circulation is improved, respiration is
@@ -251,12 +261,12 @@ upper air passages, headache, indigestion and lassitude. The net result is an
 all-round improvement in the general health. In fact exercise acts in a way
 which no physic does; it is, to use medical phraseology at one and the same
 time a cardiac and respiratory stimulant, a digestive tonic and aperitif, a
-MENTAL WELFARE 7
 diaphoretic, an analgesic, an aperient and a general tonic. Open air exercises
 by their hardening effect on the constitution increase the powers of resistance
 to disease, and will in the course of years quite perceptibly lessen the incidence
 of morbidity from respiratory and catarrhal affections, digestive disturbances
 and skin complaints.
+
 Of the mental effects of exercise we can draw no such uniform picture.
 So much depends on the type of disorder from which the patient is suffering,
 on its duration and whether faulty modes of thought and action have been
@@ -291,6 +301,7 @@ stubborn attitude of negativism in a repressed patient can be overcome more
 easily by approaching it through the more pleasant avenue of rhythmic exer-
 cises. There must be thousands of such cases in our mental hospitals to-day
 whose condition is or can be influenced in a similar way.
+
 Then there is the restless case who is sleepless at night, often irritating
 other patients by talkativeness and noisiness, and showing a marked pressure
 of activity. He is too unsettled and impatient to be able to concentrate on
@@ -298,7 +309,6 @@ any occupational task and gives the impression that he is overflowing with
 pent-up energy and cannot find a satisfactory outlet for it. Many such patients
 gradually merge into a state of maniacal excitement with violent and destruc-
 tive behaviour, and thereby become a special problem in treatment. I believe,
-8 MENTAL WELFARE
 however, that this excited phase may often be prevented by judicious applica-
 tion of physical drill at the right moment. They are difficult patients to deal
 with and often will not conform to the discipline of a class, hence informal
@@ -324,6 +334,7 @@ the course of a few months the average saving on narcotic drugs amounted
 to .?15 per month, and no hypnotics were administered at all! To a less
 extent economies are effected through the improved behaviour and better
 discipline, lessened destructiveness and fewer breakages.
+
 Let us also take the example of the young patient suffering from early
 dementia praecox, with ideas of reference or delusions of persecution and
 perhaps with hallucinations of hearing. These people are shy and seclusive,
@@ -345,7 +356,6 @@ in some form of occupation. Where occupational therapy fails to achieve
 co-operation, physical exercises and games may succeed. This is in fact
 borne out by experience both in this country and America. The appeal must
 be made to the patient's instinctual life to rouse him. Music, rhythm and
-MENTAL WELFARE 9
 the urge to imitation is more likely to break through the ice of negativism
 than purely objective methods. Daily group drill to music and throwing
 the medicine ball should be persevered with, but without unduly forcing the
@@ -360,6 +370,7 @@ from his delusions and hallucinations. Once the vicious circle of negativism
 and self-absorption has been broken the time is ripe to send him to the occu-
 pational therapy class, where if he is judiciously managed, the improvement
 in behaviour and habits can be maintained.
+
 Finally a few words about the value of exercise in the benign and
 recoverable cases of mental disorder. It is undoubtedly a useful adjuvant to
 supplement other forms of treatment, but its use must be subordinated to
@@ -387,12 +398,12 @@ we must not lose sight of the fact that in some measure the improved mental
 state may be a direct result of the effect on the physical health causing an
 increased feeling of well-being, general toning up of the musculature, im-
 proved circulation and better sleep through the fatigue produced.
+
 I have described the therapeutic effect of exercise in several typical
 forms of mental disorder, benign and malignant, and though I have by no
 means exhausted the list, I feel sufficient has been said to give an indication
 of its value. To summarise then, it may be said that the institution of a
 system of physical exercises, both formal and informal, has a marked bene-
-10 MENTAL WELFARE
 ficial effect on the general health of the mental patient. In the great majority
 of cases it produces an improvement in his mental state and conduct. Its
 socialising effect is a valuable means of combating negativism and faulty
@@ -410,6 +421,7 @@ and capacity for work are increased, discipline is improved and a feeling of
 well being and contentment is engendered. In the convalescing patient it has
 the effect of hastening recovery and promoting constitutional vigour, and
 may thus shorten his stay in hospital.
+
 In conclusion I should like to put forward a plea for the adoption of
 physical training on a systematic and extended basis in all our mental hospitals.
 I feel that a method, so simple and inexpensive and yet so obviously beneficial

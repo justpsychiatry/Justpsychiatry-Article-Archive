@@ -1,11 +1,11 @@
-ORIGINAL ARTICLE
 
+:Type-of-Article: ORIGINAL ARTICLE
+
+   
    **SUMMAIYA REHMAN, KHALIDA RAUF**
-
    Institute of Clinical Psychology, University of Karachi
-
    **CORRESPONDENCE: SUMMAIYA REHMAN** E-mail:
-   `hazasummaiyarehman@gmail.com <mailto:zasummaiyarehman@gmail.com>`__
+   `zasummaiyarehman@gmail.com <mailto:zasummaiyarehman@gmail.com>`__
 
 ABSTRACT OBJECTIVE
 ==================
@@ -101,7 +101,7 @@ CONCLUSION
    wellbeing on the measures of autonomy, purpose in life, environmental
    mastery and self- acceptance as compared with normal counterparts.
 
-KEY WORDS
+KEYWORDS
 =========
 
    Autonomy, Self acceptance mastery, Personal growth, Purpose and
@@ -345,7 +345,7 @@ Table 2
 | itive** |    users**  |       |        |      |       |           |
 +---------+-------------+-------+--------+------+-------+-----------+
 |    **Re |             |       |        |      |       |    0.01   |
-| lations |   **N=150** |       |        |  298 | -12.9 |           |
+|lations |   **N=150** |       |        |  298 | -12.9 |           |
 |         |             |       |        |      |       |           |
 |  with** |             |       |        |      |       |           |
 +---------+-------------+-------+--------+------+-------+-----------+
@@ -392,7 +392,6 @@ Table 2
 |         |   **N=150** |       |        |      |       |           |
 +---------+-------------+-------+--------+------+-------+-----------+
 
-..
 
    Table 2 presented scores on psychological well being between two
    groups. The mean difference indicated a variation between both groups
@@ -553,9 +552,6 @@ REFERENCES
    Chapter19 September 2015.
 
 9. Piehler F T , Veronneau H M, Dishion J T. Substance use
-
-..
-
    progression from adolescence to early adulthood: Effortful control in
    the context of friendship influence and early onset use. Journal of
    Abnormal Child Psychology 2012. Retrived from

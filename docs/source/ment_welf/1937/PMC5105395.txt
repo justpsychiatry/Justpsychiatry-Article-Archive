@@ -1,12 +1,12 @@
 An Introduction to Psychological Medicine
 ==========================================
 
-MENTAL WELFARE 31
-Book Reviews
-R. G. Gordon, M.D., D.Sc., F.R.C.P.
+:Type: Book Reviews
+:Author: R. G. Gordon, M.D., D.Sc., F.R.C.P.
 Ed., N. G. Harris, M.D., B.S., D.P.M., and
 J- R. Rees, M.A., M.D., D.P.H. Humphrey
 Hilford, Oxford Medical Publications. 10/6.
+
 It is now generally recognised that medical
 students should receive a fuller training in psy-
 chological medicine than is usually available,
@@ -25,6 +25,7 @@ ith pathology; then in his final year the student
 ould receive five lectures on the psycho-
 euroses, eight on the psychoses, and two on
 mental defidency.
+
 here can be no doubt that this general plan
 Presentation of the whole subject is sound
 . valuable in principle. It would certainly
@@ -35,6 +36,7 @@ instruction commonly provided at present.
 w 1 1S, ^ook covers the ground indicated in a
 and > *s Perfectly adequate for the student,
 It ^akes no claim to do more than that.
+
 relaf^01^ therefore be unfair to criticise
 doprnV ? m*nor instances of omissions or undue
 is vvriHtlSm 0n debatable questions. The book
@@ -59,6 +61,7 @@ receives more space than is devoted to an out-
 line of the various forms of mental analysis.
 A rather fuller account of these methods would
 not have been out of place.
+
 Of all branches of medical work psychiatry is
 perhaps the one which least readily lends itself
 to condensation and simplification for teaching

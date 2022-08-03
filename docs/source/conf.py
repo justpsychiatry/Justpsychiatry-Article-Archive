@@ -10,8 +10,6 @@ import sphinxcontrib.apa
 
 
 
-# -- Project information
-
 # -- Project information -----------------------------------------------------
 
 project = 'Justpsychiatry Article Archive'
@@ -56,7 +54,6 @@ exclude_patterns = []
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_title = "Justpsychiatry Article Archive"
-html_use_opensearch : True
 
 bibtex_bibfiles = ['refs.bib']
 bibtex_reference_style = 'author_year'

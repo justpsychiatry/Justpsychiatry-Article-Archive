@@ -1,8 +1,9 @@
 The Relative Functions of the Occupation Centre and  the Mental Deficiency Colony in the Training of Defectives
 ================================================================================================================
 
-By C. J. C. EARL, F.R.C.P., D.P.M.
+:Author: C. J. C. EARL, F.R.C.P., D.P.M.
 (Asst. Medical Officer, Caterham L.C.C. Mental Hospital)
+
 It has always been the tradition in this country, as in all civilised countries,
 to do something to help the helpless?and amongst the helpless, the Mentally
 Defective,?and this custom has arisen because of the traditions of our culture,
@@ -18,7 +19,6 @@ methods, when it became clear that mental subnormality was very much more
 common than had been previously supposed, the problem has grown steadily
 more difficult and more complex. Previous to that time, only those of imbecile
 Paper read at Public Health Services Congress, London, November, 1938.
-2 MENTAL WELFARE
 and idiot grade had been recognised to be mentally defective at all. And society,
 when it became alarmed, tried to deal with the new conditions as it had dealt
 with the old, in the old traditional way of providing institutions in which the
@@ -27,6 +27,7 @@ and danger of his presence among them. It is to be noted that we did not
 pause to be sure exactly what was the degree of this danger, nor even whether
 it existed at all; nor did we ask whether anything could be done to relieve
 these unfortunate people; we just said " lock 'em up".
+
 Since then the problem has become steadily greater, for we have come to
 realise that you cannot lock up all the subnormals in the country and that it
 is not only unfair to the defective, but grossly wasteful of public money, to
@@ -50,18 +51,19 @@ practical point of view, however, we have accumulated a lot of evidence in the
 last few years to show that it is not by any means always the best thing to
 do with a defective, and that in some respects it is quite certainly the ivorst
 thing?from the patients' point of view.
+
 And the contribution which I want to make to this afternoon's discussion?
 based on a good many years' experience of institution work?is to try to
 differentiate between those cases which should be dealt with in institutions and
 those which should not; and, though here 1 speak with considerably less authority
 than the other speakers, to say something of the training which can be obtained
 for the defective who remains in the community.
+
 The mentally defective, it must be remembered, are not a single homo-
 genous class?not even a series of distinct classes. There is 110 real dividing line
 between the best of the defectives and the worst of the non-defectives. Mental
 deficiency, in so far as it is a valid category at all, is a social and not a
 psychological one. We may start then by dividing defectives from the social
-MENTAL WELFARE 3
 point of view, into those who fail in society because society is too much for
 them, and those who fail because they are too much for society! These latter,
 the socially dangerous, the criminal, the wildly unstable, the sex-offender, and
@@ -71,6 +73,7 @@ quite often can. Of those who are not actual dangers to society, we may safely
 say that the very low grade and the severely crippled must also be institutionalised
 ?those, in other words, who are so helpless as to require constant and skilled
 attention if they are to be kept alive.
+
 We arc left with the more stable feebleminded and with the imbecile. The
 feebleminded, of course, are dealt with as children largely in Special Schools
 and under the Education Act; only if they are really difficult, or if the home
@@ -104,8 +107,8 @@ of the schoolmaster but of the psychiatrist. Given that a boy or girl is a socia
 or Special School failure, then the higher grade he or she is, the more likely
 he is to be suffering from an emotional disorder, and the more necessary it is
 for him or her to be sent where he can have proper treatment.
+
 Now we come to the imbecile category?accepting as imbecile, roughly,
-4 MENTAL WELFARE
 those patients who cannot be taught to read or write. What are we to say
 about them? They cannot become self-supporting. Must they not be sent to
 institutions ? And ought they not to be sent there at the earliest possible moment ?
@@ -125,6 +128,7 @@ in the case of inherent lacks which no treatment can replace. We want, alike
 in physical and mental medicine, to avoid more interference than is absolutely
 necessary. And sending a patient to an Institution is a gross interference?it
 is sending your patient into an artificial environment.
+
 If we are to take such a step, we should have a pretty clear idea of our
 reasons for doing it. We should weigh the pros and cons carefully, for we
 are committing both the child and the community. There are a number of
@@ -149,10 +153,10 @@ Such training is quite out of the question in the average home. In the instituti
 it is a matter of course. In addition there is, of course, training in more
 formal accomplishments; learning to do useful work, simple household tasks,
 handicrafts and the like. Here again, the Institution caters for the child, giving
-MENTAL WELFARE 5
 it a training which is out of the question in the home itself. So far, the
 institution accomplishes valuable and essential work, and in so far it may be
 called a successful method of treatment of the imbecile child.
+
 I believe myself that institutional training is essential for a great many
 patients of imbecile grade, particularly those from urban or slum areas. But
 I am bound to say that I do not know for how many of them. I do not
@@ -170,6 +174,7 @@ any rate in some cases, form a very serious objection to institution training.
 I think these cases are mainly the higher grade imbecile and lower grade
 feebleminded, the children who are just the doubtful bets in a Special School
 and who tend to be excluded and then institutionalised.
+
 The disadvantages of institutional life apply, of course, to all institution
 children?to the normal orphanage child, and to the feebleminded, as well as
 to the imbecile. In the case of the normal or feebleminded child, however,
@@ -178,6 +183,7 @@ advantages of training which they obtain. We must remember that, in the case
 of the imbecile no training can make him self-supporting; we are confined to
 making him fit for life in a sympathetic home or a very simple community?
 even then it is life as a passenger, so to speak.
+
 The objections to institutional life are mainly two.
 The first is that the very routine, through which the child is trained, is in
 itself an artificial routine from the social point of view, and that the child is
@@ -189,10 +195,10 @@ weapon, especially for the imbecile, who is more subjected to routine than any
 other institution child, and while I feel that it is very necessary in the cir-
 cumstances, I constantly wish that it did not have to go on for twenty-four
 hours a day.
+
 The second point is, in some respects, even more important. The normal
 environment for a young child is the family. The family is, after all, the normal
 unit of human society. In the family the child finds the emotional stimuli and
-6 MENTAL WELFARE
 the emotional satisfactions which are so essential for normal development. The
 emotional relationship between the child and his parents, between the child
 and his brothers and sisters, are most important factors in his development.
@@ -219,6 +225,7 @@ the institution child gets is not only artificial but it is governed largely by 
 public purse, which, in its turn, is governed by the attitude of the man-in-the-
 street, who can always think of something more important to do with public
 money than to spend it on the defective.
+
 The child who lives at home?on the other hand?has his fate governed
 by the private purse and the personal attitude of his parents. With regard to
 the first, one has to admit that in the majority of cases the purse is not deep
@@ -231,12 +238,12 @@ the majority of cases, however, the parental attitude is quite good, while in
 some cases at any rate, the economic situation is good enough to allow the
 child to be kept at home. But the question of training has to be faced and it
 is just for this purpose that the Occupation Centre exists.
+
 I would say that there are three main classes of case which should, par
 excellence, be sent to occupation centres. First are those younger children
 who are not good enough for elementary schools, and whose eventual acceptance
 at a special school is still doubtful. It seems a tragedy to let such children drift,
 and to allow them to do so may just weigh the balance against them. On the
-MENTAL WELFARE 7
 other hand, it is foolish to push them into institutions until one has to. In
 many of these cases the problem can be solved by Occupation Centre training.
 The second class of case is that group of children who come from the more
@@ -246,6 +253,7 @@ home. If such a child can be taken off his mother's hands for part of the day,
 and if, in addition, he can receive skilled training during that time, then the
 burden is lessened, both on the child and on the mother, and it may be possible
 for him to remain at home.
+
 The third class of case -is one in which both institution and Occupation
 Centre can play their part. In quite a number of cases the family circumstances
 which forced a child into an institution, change. The other children grow older,
@@ -262,6 +270,7 @@ an institution, when his parents grow old or die, for instance; but why should
 he not go home for as long as possible if he is temperamentally suitable?
 This last class is, perhaps, the most important of all, and it is the one which
 has been least exploited.
+
 Well, this is my concept of the functions of Occupation Centres, I dislike
 the word, by the way, because it suggests that these places do nothing but
 keep the defective out of mischief, whereas they provide admirable training for
@@ -276,16 +285,16 @@ co-ordinated, and their staffs rarely, if ever, meet. That is all wrong, of cour
 for real efficiency there must be a much freer exchange of ideas between us all.
 Whether this is necessary to centralise our administration further, I cannot say;
 possibly such a step would lead to too much red tape.
+
 Secondly, I would like to see very much more elasticity in the whole system
 of dealing with the defective child, in his transfer from one type of handling
 to another if this is thought to be more suitable. At the moment we have rarely
-/
-8 MENTAL WELFARE
 any guarantee, in sending a child home on trial, that anything at all will be done
 for him in the nature of training. We are naturally hesitant?knowing that
 he will likely be allowed to drift, and that his mother will find the burden too
 heavy for her, and that the chances are that he will come back to us?unhappy
 and unmanageable?in a very few months.
+
 Thirdly, I would like to see a more systematic and a much more skilled
 psychological service for defectives all round; in School, Special School, Occupa-
 tion Centre, and Institution, and I would like a very much more efficient record
@@ -293,6 +302,7 @@ system, so that a child transferred from Special School to Occupation Centre,
 Occupation Centre to Institution, or the other way round, would take with him
 an adequate record of his previous history and of the results of his examination
 by really competent specialists.
+
 Fourthly, I would like to see the Occupation Centre system extended far
 more widely and exploited more fully. I would like to see it used for some of
 the lower grade children in the Special Schools and especially I would like to

@@ -2,10 +2,11 @@ Boys in Trouble
 ==================
 
 A Study of Adolescent
-Crime and its Treatment. By L. Le
-Mesurier, O.B.E., with a Foreword
+Crime and its Treatment. 
+:Author: L. Le Mesurier, O.B.E., with a Foreword
 and Afterword by Alexander Paterson,
 M.C., Commissioner of Prisons.
+
 2nd Edition. John Murray, 3/6.
 The First Edition of this book was
 published in 1931 and the necessity for the
@@ -14,6 +15,7 @@ in his new Afterword, " from a growing
 interest in the adolescent offender, and from
 the fact that this is still the best book on
 the subject."
+
 In a new chapter, "After Nine Years,"
 the Criminal Justice Bill is discussed and
 other changes and developments are noted

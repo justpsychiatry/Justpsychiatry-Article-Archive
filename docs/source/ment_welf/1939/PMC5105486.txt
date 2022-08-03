@@ -1,10 +1,10 @@
 Pennorth of Chips
 ==================
 
-86 MENTAL WELFARE
-By Charles S. Segal,
+:Author: Charles S. Segal,
 with an Introductory Note by Dr. Cyril
 Burt. Gollancz, 3/6.
+
 The present conditions of classroom in-
 struction to numbers of children still too
 large to be adequately handled, makes it
@@ -33,6 +33,7 @@ tion. At the end of it all, much has been
 done, and it may be only the teacher
 herself can assess the disproportion of
 achievement to effort.
+
 It is at this stage that there is urgent
 need of someone to point out that no teacher
 can take on himself the whole burden of the
@@ -50,6 +51,7 @@ acutely alive to the part played by mal-
 nutrition, inadequate housing and the general
 poverty of cultural interests with which the
 lives of the poorer children are encumbered.
+
 It is for this reason that teachers and
 social workers will welcome the detailed
 study of these conditions in the life of a
@@ -97,6 +99,7 @@ out that psysical education by games and
 exercise may be a harmful waste where the
 child's bodily condition is so seriously below
 par.
+
 While the greater part of the book is
 devoted to a study of physical and
 nutritional conditions, there are some
@@ -115,7 +118,7 @@ classes and school cinemas, cricket and foot-
 ball matches and clubs for children and
 parents are part of a programme he has
 himself carried out.
-MENTAL WELFARE 87
+
 The psychologist and administrator will
 certainly not be satisfied that Mr. Segal has
 proved his underlying assumption that

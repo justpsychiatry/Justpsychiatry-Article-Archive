@@ -1,20 +1,22 @@
 A Judgment Test for Measuring Intelligence
 ============================================
 
-By CYRIL BURT, M.A., D.Sc.
+:Author: Cyril Burt, M.A., D.Sc.
+
 Psychologists are often asked for a good test of intelligence to be used with
 adults. Of those at present available none is wholly satisfactory. The harder
 problems in the Terman-Binet scale sound too much like a teacher's cross-
 questioning in school : " If two pencils cost fivepence, how many pencils can you
 buy for fifty pence?"* On the other hand, the booklets of logical problems used
 * Test 4 for "Average Adults" in the new Terman Merrill scale.
-46 MENTAL WELFARE
+
 for ordinary group-testing are to some examinees a painful reminder of the printed
 papers set at the end of a summer term and productive of so much dread and
 humiliation. Indeed, are not all adults, and particularly those whose education
 finished at fourteen in Standard V or VI, likely to feel embarrassed, not to say
 resentful, when some critical stranger arrives and proceeds openly to probe the
 shortcomings of their intellectual capacities or attainments?
+
 It is partly in the-hope of avoiding these and other difficulties that the following
 test has been constructed. The examinee is given a number of short reasoned
 statements, each typed out on separate cards, and relating to everyday facts and
@@ -29,6 +31,7 @@ little more than sort the statements into two main groups?those that they are
 willing to accept and those that they feel to be manifestly foolish or absurd. The
 abler persons can discriminate much finer shades of validity; and can sort the
 cards into five or ten groups, or even rank them in a sequence.
+
 The test has been tried out in two forms. The harder contains thirty
 reasoned statements, of which only a few are flagrantly absurd and the majority
 involve fallacies that are more subtle or concealed. This was the earliest form
@@ -41,20 +44,22 @@ after some revision of the material, it has been applied to forty-five senior st
 and members of a College staff, whose relative intelligence could be fairly
 accurately assessed; and, on correlating the results with the order of intelligence,
 a co-efficient of .67 has been obtained.
+
 This has encouraged us to attempt a more elementary form of the test; and,
 in spite of difficulties in choosing a sufficiently simple wording, we find that the
 general method is almost as effective with duller adults as with bright. Mr. Russell
 has tried out this simplified form with a group of thirty-three adults at a working
 men's club, and obtains a correlation of .73.
+
 Both groups were small; but, with adults, it is exceedingly difficult to procure
 any reliable estimation for the intelligence of larger groups against which the test
 can be checked. The test material itself will no doubt need further amendment
 and extension before it can be recommended for general use : Mr. Russell, for
-MENTAL WELFARE 47
 example, has been for some time experimenting with performance material, in
 order to avoid the handicap which all verbal tests at times impose. Meanwhile,
 we believe the underlying principle may be of interest to those who desire to
 construct tests of their own for similar purposes.
+
 The special advantages of the method would seem to be these. It is well
 known that tests that depend on logical reasoning, and presuppose no special
 knowledge of the subject-matter, yield by far the best measurements of intelligence.
@@ -67,6 +72,7 @@ arithmetical problem quoted above from Terman is of this type. In the other
 form, the whole argument is presented to the examinee ready-made, and the
 examinee has to judge its logical value : Binet's absurdity-tests are the best
 known examples.
+
 Now the orthodox view of the theoretical psychologist maintains that
 intelligence essentially consists in explicitly " educing relations and correlates ".
 So it does, when the reasoner is an adult theorist. But in a very early paper on
@@ -82,6 +88,7 @@ than tests requiring formal syllogistic inference. Further experience has led me
 to the conviction that the more familiar tests of the latter type may at times do
 grave injustice to the practical or intuitive intelligence of the " average pdult " as
 we find him in daily life.
+
 For this reason absurdity tests prove extremely effective so far as they go.
 But with adults, at any rate, a long series of statements containing nothing but
 absurdities is more likely to insult their intelligence than to measure it. Hence
@@ -93,7 +100,6 @@ flaw, and yet find it very hard to put his criticism into words. In testing aest
 f "Experimental Tests of Higher Mental Processes and their Relation to Intelligence,"
 J. Exp. Ped., I, 1911, pp. 101 et seq. Cf. Board of Education, " Report on Secondary
 Education, 1939," p. 436.
-48 MENTAL WELFARE
 appreciation we should never judge a person by his ability to append detailed
 reasons for his intuitive preferences; we should be satisfied if he could grade
 the test-specimens?pictures, patterns, musical extracts, or the like?in an order
@@ -101,6 +107,7 @@ which agreed with that of accredited experts on art. Similarly, I suggest that
 the best way to test appreciation of what is rational or irrational is to be found
 in a double comparison : the examinee compares the items and we compare the
 results of his comparison with those of the logical expert.
+
 The essential principle is by no means new. It was briefly described in a
 review of psychological tests drawn up for the Consultative Committee of the
 Board of Education*; but.it has mainly been employed for testing artistic and
@@ -109,6 +116,7 @@ require the examinee to arrange objects in order and then measure his accuracy
 by the correlation between his order and the true order : Binet's test of weights,
 for example, where five boxes are to be arranged according to their heaviness,
 really exploits the same procedure in an elementary guise.
+
 Perhaps the greatest merit of the test lies in the fact that its aim is not too
 plainly manifest. When the test was given to a class of students in 1935. not one
 suspected that the object was to measure their intelligence, though several of them
@@ -124,4 +132,5 @@ of acceptability, and then applying a factor-analysis to the results, striking s
 lights may be thrown on current views in regard to social, industrial, and even
 political problems. The method is therefore one of wide possibilities for the
 social psychologist.
+
 * Report on Psychological Tests of Edncable Capacity, 1924, p. 58.

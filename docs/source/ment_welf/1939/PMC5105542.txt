@@ -3,7 +3,7 @@ Recent Penal Legislation in Relation to
 
 MENTAL WELFARE 39
 
-By H. K. SNELL, M.D.
+:Author: H. K. Snell, M.D.
 Medical Officer, H.M. Prison, Liverpool
 The new scientific approach to the problem of the criminal may perhaps
 be said to date from the war period, but one of the most important measures
@@ -11,6 +11,7 @@ foretelling the change in opinion which was to follow later, was the Mental
 Deficiency Act of 1913. This (in Sections 8 and 9) involved the recognition of a
 partial lack of responsibility in the mentally defective individual who committed
 a crime.
+
 By the passing of this Act, means were afforded whereby our prisons were
 freed from the care of the mental defective who manifestly should not be committed
 to prison. In passing, we might note that the incidence of crime among mental
@@ -20,6 +21,7 @@ This represents only 1 in 290 of the total number of defectives reported. At
 Liverpool last year, out of a total of 3,591 receptions, 20 remand prisoners were
 reported to the Courts as mental defectives and it was necessary to deal with
 only three cases under Section 9.
+
 The borderline case, that falling between normality and certifiable mental
 defect, presents a greater problem. In Law they are not excused responsibility
 for their crimes and they constitute a not inconsiderable number of prison
@@ -40,16 +42,16 @@ practice. In placing them among normal prisoners they are at a disadvantage
 and also constitute a drag on their fellows and in some cases may become a
 * Address (abridged) given at Conference of Association of Mental Health Workers, Chester.
 February, 1939.
+
 Published with the permission of H. M. Prison Commissioners though it does not
-necessarily represent their viezvs.
-40 MENTAL WELFARE
-subject of ridicule. The nearer a case is to normal the better will he react to
+necessarily represent their viezvs. subject of ridicule. The nearer a case is to normal the better will he react to
 prison routine and the wiser and usual method is to place such patients in the
 ordinary prison, where a watchful but unobtrusive eye can be kept on their conduct
 and progress; but the lower grades are best dealt with under special conditions
 where they do not have to compete on equal terms with their fellow prisoners.
 (In this respect temperamental abnormalities are of more importance than
 intelligential defects.)
+
 The subnormal offender should, if possible, be dealt with by probation?super-
 vision and guidance being the immediate need?and co-operation between probation
 officers and mental welfare workers would seem to offer the most hopeful
@@ -60,10 +62,12 @@ The trend of legislation is to avoid imprisonment for all young persons and a
 growing tendency to send more subnormals to Borstal is being manifested because
 of the difficulty of dealing with them by other methods when they have failed
 to respond to probation.
+
 The compulsory centres, proposed by the Criminal Justice Bill, which a young
 offender would be required to attend in his leisure time, e.g., half-holidays and
 evenings, may prove a successful alternative to short terms of imprisonment, as
 may the residential institutions, which are to be called Howard Houses.
+
 May I remind you that before a lad is sent to Borstal he is medically examined
 as to his fitness to undergo and profit from the training, and reports are obtained
 from his parents, his school, employers, and the Police; these are carefully
@@ -74,6 +78,7 @@ examined psychologically and full regard paid to the circumstances of his case
 so that he may be sent to the Borstal best likely to suit his individual requirements.
 Throughout training, stress is laid on this individuality and the inmate's particular
 difficulties are studied so that he may be suitably guided and advised.
+
 This is the medical point of view, which emphasises the importance of
 individual treatment for the mentally ill-balanced person whether he be criminal
 or not, and it differs from the legal viewpoint which is concerned primarily with
@@ -81,14 +86,15 @@ public protection. It is, nevertheless, correct to say that the medical outlook 
 influencing legislation increasingly and is altering the attitude of the Courts to
 offenders when they are satisfied that some form of psychological or psychiatric
 treatment is desirable.
+
 In addition to cases of simple subnormal mentality a large number of
 adolescent delinquents exhibit emotional and temperamental abnormalities with
 varying degrees of mental instability. It is to be expected that a proportion of
 these, as they leave adolescence behind, will become stabilised and the training
-MENTAL WELFARE 41
 and the psychologically directed guidance which they receive in the institution
 assists to this end. Actual psychological treatment, as such, is not, however, always,
 nor in fact usually, a necessary adjunct to the training of the adolescent offender.
+
 Offences due to mental defect and those which result from immaturity of
 character formation and irregular development of the natural instincts must,
 therefore, be carefully distinguished. While the Mental Deficiency Acts provide
@@ -125,18 +131,20 @@ for accurate diagnosis. The natural outcome of focussing attention on the treat-
 ment of offenders is an increased interest in the prevention of crime and there
 is reason to hope that the Child Guidance Clinics help to prevent the problem
 child of to-day becoming the criminal of to-morrow.
+
 Now we come to the insane offender. I do not propose to discuss the legal
 definition of insanity, or the question of fitness to plead. Suffice it to say that
-42 MENTAL WELFARE
 all who have to assist in the working of these matters at least agree thai hardship
 to the individual does not occur in practice, and I think it is correct to add
 that the tendency is to apply the legal criteria of insanity less rigidly.
+
 Close 011 three thousand men and women are remanded to prison each year
 for reports as to their states of mind; of these nearly 300 are found to be insane
 and dealt with at the Courts. At Courts of Summary Jurisdiction, where the
 medical view of insanity is ordinarily accepted, it is usual in cases of lesser
 crime, where medical evidence of unsoundness of mind has been given, for steps
 to be taken to ensure the detention of the accused in a mental hospital.
+
 I*have referred to the power of the Court in the case of the certifiable mental
 defective, under existing law to make an order for him to be dealt with as a mental
 defective. If an offender is certifiable as insane, a Court of Summary Jurisdiction
@@ -144,15 +152,18 @@ in England and Wales has no similar power. Clause 30 of the new Bill proposes
 to enable such Courts to make an order for the treatment of an offender who
 is certifiable as insane in the same way as they can at present make an order
 for the treatment of an offender who is mentally defective.
+
 Cases of insanity among prisoners serving sentences are, of course, certified
 by two medical men and two magistrates and removed, by order of the Secretary
 of State, to a mental hospital.
+
 As with mental deficiency, so here, the real problem arises with the border-
 line cases, the incipient and undeveloped psychotic. The practice of the Courts
 in asking for reports meets the necessity as regards those cases remanded in
 custody and now if the Court omits to request a report the Prison Medical Officer
 always makes it aware of such medical matters as he thinks should be brought
 to its notice.
+
 The Bill before Parliament proposes to make some provision for Courts of
 Summary Jurisdiction to obtain a medical report on the mental condition of
 an offender who is not remanded to prison in order to assist the Court in deciding
@@ -160,6 +171,7 @@ how to deal with him. Clause 38 will enable the Court to remand an offender on
 bail with a requirement that he submits himself to medical examination, and
 provides for the payment of the cost of mental examinations at approved
 institutions or by approved persons.
+
 The importance of recognising such cases of non-certifiable mental
 abnormality and the possibility of their treatment by special methods has been
 appreciated by the Prison Medical Authorities and during the last four years an
@@ -170,13 +182,13 @@ to the prison and possible cases for treatment have been selected from time to
 time by Medical Officers at various prisons and Borstal Institutions throughout
 the country and transferred. We are now awaiting with interest the report which
 is being prepared. In estimating the success or failure of such treatment a
-MENTAL WELFARE 43
 thorough after history and follow-up is indispensable. Unless this is obtained
 from reliable sources but little regard can be paid to apparent successes. It is
 fortunate that in many of the prison cases the follow-up has been carried out by
 the Central Association for Mental Welfare. Certain facts are already accepted?
 perhaps the most striking among which is that the number of cases to whom
 psychotherapy is applicable is relatively small.*
+
 Apart from those considered suitable for intensive psychotherapy there exists
 a number of cases of minor abnormality, the temporarily mal-adjusted and the
 like, who benefit very appreciably from psychotherapic conversations. In prison,
@@ -193,12 +205,14 @@ These patients frequently require supervision for a lengthy period of time
 on release. Sometimes the Court will accept suggestions in the case of remand
 prisoners and deal with them in such a manner that the necessary supervision is
 obtained. The frequent difficulty is, who is to do the supervising.
+
 The Criminal Justice Bill recognises the existence of offenders who, though
 not certifiable as insane or mentally defective, are suffering from some form of
 mental illness or abnormality which may be susceptible to treatment. Clause 19
 provides that probation orders may include a provision requiring such persons to
 submit themselves to mental treatment and the Bill further enables payment
 to be made for such treatment as part of the expenses of probation committees.
+
 The orbit of the psychiatrist has now been extended beyond the confines of
 the mental hospital and I suggest that the sphere of action of the Prison Medical
 Officer might likewise be enlarged. It is not infrequently suggested that prison is
@@ -213,13 +227,13 @@ of which, perhaps, is not fully appreciated and it is that just because the Medi
 Officer is an official the prisoner regards him to some extent impartially and
 * As the Report has now been published and is reviewed on page 55, Dr. Swell's further
 references to it which here followed, are omitted.?Ed.
-44 MENTAL WELFARE
 does not expect to meet him outside in the future. I am speaking here more
 particularly of remand cases. The patient in these circumstances may discuss
 matters which he might otherwise conceal and often is prepared to accept advice
 of a personal nature which in other circumstances it would be hard for him to do.
 I firmly believe that sometimes a little plain speaking and straight talking does
 a world of good.
+
 A scheme in which a clinic could be run in connection with the prison and
 perhaps staffed by the prison Medical Officer might prove to be of benefit in
 dealing with some cases after they leave prison. This could be worked up to
@@ -227,6 +241,7 @@ bring about an increased co-operation between the probation officer, the mental
 health worker and the doctor with resultant benefit to the mental health of the
 non-certifiable offender. It might at least save some of them from committing
 repeated crimes and returning regularly to prison.
+
 Criminal conduct is not necessarily dependent on mental abnormality. A
 correct perspective is a first requirement in these matters; the safe-breaker who,
 when I was X-raying his wrist, asked me whether the X-ray apparatus would
@@ -235,6 +250,7 @@ a physically fit man of average intelligence who deliberately chose this method 
 livelihood and he and his partners had a business arrangement whereby their
 families were cared for while they were in prison. He said he expected to serve
 approximately 3 years in 4, in prison and was prepared to do so.
+
 Norwood East has stated "To ensure permanent advantage from medical
 methods of attack the approval of legal, medical and public opinion is necessary ",
 and he points to the satisfactory working of the Mental Deficiency Acts and the
@@ -245,6 +261,7 @@ principle must be remembered in discussing the scientific treatment of crime, an
 he goes on to say " No progress can be expected in this direction unless the judicial
 and administrative authorities, and the public are satisfied that modern therapy
 can be relied upon to produce beneficial results in certain cases of crime."
+
 To suggest that all criminals require psychological treatment is but to under-
 mine the cause of those who are in real need of it and likely to respond to it.
 Further it has been put forward by some that all offenders, including first offenders
@@ -256,7 +273,6 @@ not compulsion is the necessary setting for all psychological investigation.
 In conclusion I would say that prison is a deterrent principally to those who
 do not need a deterrent. The majority of prisoners settle down in a more or
 less comfortable manner to the circumstances and routine in a comparatively short
-MENTAL WELFARE 45
 time and this in my view shows the futility of the short sentences for most
 cases. Something more is required; investigation and guidance?not necessarily
 deep psychological analysis, but something which is continued on release from
@@ -269,10 +285,12 @@ The adequate protection of society must take priority over the interests of the
 individual; our contribution to the problem as workers on the mental health side
 must be to forward the study of the individual delinquent and therebv be in a
 position to determine the best methods of dealing with him.
+
 Immature prophecy and over zealous enthusiasm will bring into disrepute
 and enshroud in scepticism new departures from established practice. The careful
 worker, whether official or unofficial, will gradually adjust his perspective as new
 methods prove their worth.
+
 I have mentioned the new Criminal Justice Bill where it touches the mental
 side of our problem most intimately, but obviously it would not be proper for me
 to comment on its more controversial aspects. I have indicated the general penal

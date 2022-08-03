@@ -20,8 +20,6 @@ We intend to clean up the articles, add metadata, structure and objects (images,
    ./j_psychol_med_ment_pathol_lond/index.rst
    ./j_psychol_med_ment_pathol/index.rst
    ./ment_health_lond/index.rst
-   ./j_pak_psych_soc/jpps-index.rst
-   ./plos/index.rst
    
    
    ...

@@ -1,10 +1,11 @@
 A Mental Deficiency Institution in Wartime
 ===========================================
 
-MENTAL HEALTH 107
-By EDGAR BENJACAR, M.D.
+:Author: Edgar Benjacar, M.D.
+
 Deputy Medical Superintendent, Royal Eastern Counties Institution, Colchester;
 Medical Superintendent, Turner Village, Colchester.
+
 Situated as we are with only eighteen miles between us and the coast, and with
 the Central Institution and Turner Village and three other branches within a military
 town, it is not surprising that we should have had our first air raid warning within
@@ -13,12 +14,14 @@ screaming bombs, witnessed aerial dog-fights, steered clear of unexploded bombs,
 feasted our eyes on wrecks of enemy 'planes and treasured fragments of shells. Our
 boys and girls, in fact, pride themselves, not without some justification, on their
 Wartime experiences.
+
 a.r.p.
 Fully conscious of their responsibilities, the Board of Directors made early and
 extensive preparations for the protection of the Institution community, and as the
 Commissioners of the Board of Control remarked in their last Report, " A great deal
 ?f time, industry and money have been spent on equipping the place for A.R.P.
 Purposes."
+
 Most of us have discovered by now that the most arduous and difficult task of
 all was the digging of trenches. Having consulted veterans of the last war and
 questioned A.R.P. experts, we fondly imagined we were well-equipped to tackle this
@@ -31,6 +34,7 @@ most creditable. In record time, five open trenches, capable of holding between
 dually short space of time, much to our consternation and dismay, water welled
 UP from nowhere, the timber strutting gave way like match-sticks, and the sides
 c?llapsed.
+
 Primed with this mortifying experience, the boys redoubled their efforts, and
 remodelled the trenches?this time in reinforced concrete. With an elaborate
 system of drainage, the trenches are now kept dry, and the concrete sides and roof
@@ -39,15 +43,15 @@ system of drainage, the trenches are now kept dry, and the concrete sides and ro
 reservoirs, with a total capacity of over 24,000 cubic feet were also dug, concreted and
 > * I am indebted to Dr. F. Douglas Turner, Medical Superintendent, Royal Eastern Counties
 nstitution, for permission to publish this article and for valuable criticism.
-108
-MENTAL HEALTH
 covered in by the staff and boys, and a further reserve of water obtained by erecting
 a dam across the stream at Turner Village.
+
 In other parts of the Institution, cellars were cleared, supported, and gas-proofed.
 Easy access and alternative exits were provided. Many thousands of sand-bags were
 piled outside windows and other " vulnerable " areas. Most of them, however,
 have rotted and collapsed, and have now been replaced by more substantial and
 durable brick walls, 14 inches thick.
+
 To ensure a total black-out, with adequate ventilation, and without undue
 interference with daylight, was a problem which required much experiment. At
 Turner Village, the Villas alone have an area of 8,800 square feet of windows and
@@ -55,6 +59,7 @@ glass doors. Various different devices were adapted to our immediate needs. For
 instance, by covering fanlights with thick brown paper and partially screening with
 ply-board painted matt black, it was possible to provide adequate cross-ventilation
 without attracting the attention of our vigilant A.R.P. wardens.
+
 First Aid Units and Decontamination Centres were established in the three main
 departments of the Institution. At Turner Village, for example, the space under
 the stage in the Entertainment Hall was sub-divided into four sections, with shower-
@@ -64,16 +69,22 @@ sterilized ready for immediate use, and there is a record of the blood groups of
 Staff and patients, so that no time need be wasted if transfusion is indicated. A
 record is also kept of the Wassermann reaction and Kahn Test of all probable blood
 donors.
+
 By degrees, we have accumulated a liberal and varied stock of A.R.P. equipment,
 including oilskins, steel helmets, hoods, gloves, gum-boots, civilian duty respirators,
 hurricane lamps, chloride of lime, anti-gas ointment, stirrup pumps, Redhill con-
 tainers, pick-axes, crow-bars, and other demolition gear.
+
 Iron rations and fairly large quantities of food are in safe storage in gas-proofed
 rooms in the various branches of the Institution. Perishable stores are renewed
 periodically. Dressings, drugs, sera, splints, plaster of Paris, and anaesthetic apparatus
 are set apart for emergency use only.
+
 So far, our total A.R.P. expenditure is well over ?3,500.
+
 A.R.P. Training
+-----------------
+
 Much time and energy were devoted by the Staff to A.R.P. work. Two of our
 male Nurses specially trained at Falfield, were appointed Instructors and Examiners.
 Classes and Refresher Courses are held regularly throughout the year. Every
@@ -84,14 +95,14 @@ Patients are lowered by means of a rope from the top floor of a villa, where it 
 assumed that both staircases are blocked by fire and falling masonry. With
 pardonable pride, we record that one of our Instructors has recently been appointed
 Staff Officer to the local A.R.P. Casualty Services.
-MENTAL HEALTH
-109
+
 The women staff display exemplary keenness. They are well skilled in fire-
 fighting, decontamination and other A.R.P. work, and they vie with the men in
 physical endurance and efficiency. At the Central Institution, women Staff volunteer
 to keep a look-out during raids for incendiary bombs from the top floors of
 the buildings, and to be on the spot with stirrup pumps, Redhill containers and
 fire-hose.
+
 High grade defective boys and girls were enlisted in our A.R.P. scheme as
 stretcher-bearers and runners. Wearing steel helmets, gas masks and distinctive
 armlets, they feel they are being of real service to their community, and their zeal and
@@ -100,7 +111,10 @@ exercise at Turner Village, responsible A.R.P. authorities in East Anglia sugges
 that our best trained boys might be detailed to act as stretcher-bearers for
 civilian casualties outside the Institution. It was not possible to comply with this
 request.
+
 Training Patients
+------------------
+
 Contrary to general belief, little difficulty was experienced in securing the
 co-operation of the patients in A.R.P. As a rule, defectives are suggestible, sub-
 missive and tractable. Once they are told and made to understand what is expected
@@ -109,6 +123,7 @@ of disorder or panic. Calm and efficient leadership however, is, absolutely esse
 Diffident and faint-hearted nurses must be relieved of all A.R.P. duties, irrespective
 of any existing shortage of staff. Given the right kind of leadership, the demeanour
 of the average defective can be safely guaranteed.
+
 Repeated and regular A.R.P. exercises are imperative. The value of these
 rehearsals, superfluous as they might appear, can only be fully appreciated in times
 of emergency when bombs are falling and the danger very real. The Commissioners
@@ -129,19 +144,23 @@ nothing is happening in the immediate neighbourhood. At Turner Village the
 order " Proceed to trenches " is given by telephone to all the Villas simultaneously
 from the switchboard in the Central Office. Boy runners on bicycles stand by in
 case the telephone is put out of order.
-110 MENTAL HEALTH
+
 During actual air raids, a tour round the Institution by the Senior Medical Staff
 is encouraging and reassuring. Despite a lack of imagination, even the medium
 grade defective is vaguely aware of the potential dangers of an air raid, and the mere
 presence of a trusted person inspires confidence and is conducive to good demeanour.
 Rationing
+
 The rationing measures now enforced in the British Isles have not caused us
 much concern. Odd complaints are, of course, inevitable when catering for a
 community of over 2,000, but with the co-operation of the Steward and the Cook,
 the dietary has so far been wholesome, varied and plentiful, and there is not the
 slightest suggestion of under-nourishment. Defectives, like most children, have
 healthy appetites, and they appreciate good helpings.
+
 Conduct of Defectives
+----------------------
+
 The effect of wartime stress and strain on defectives differs markedly according to
 the degree of intelligence and emotional stability. Those on the lowest level of the
 intelligence scale?the complete idiots?do not, of course, even realize that hostilities
@@ -155,7 +174,10 @@ constitute a very real menacing factor to the orderly routine of an Institution,
 is wise to keep them discreetly under close supervision. During air raids, especially,
 tactful but firm control is indicated?a platitude of paramount significance to the
 experienced.
+
 Occupational Therapy
+---------------------
+
 The varied activities of the Institution had to be curtailed in some directions, and
 intensified in others. Owing to the shortage of timber, and as additional acreage
 was put under the plough, carpentry boys were transferred to the farm. Lower
@@ -164,14 +186,14 @@ hurdles in response to an appeal from the Local Authority. Boys in the brush sho
 are still fully occupied, and basket workers find it difficult to cope with the orders
 for hampers. Owing to wartime economy, more attention is being given to repair
 work in the tailoring and boot-making departments.
+
 Medium and high grade girls were sent out daily during the fruit-picking season.
 It is noteworthy that these girls earned ?30 in currant-picking alone, and the sum
 of ?28 was credited to the Local Authorities concerned. The balance was given out
 as pocket-money. Countless sand-bags and black-out curtains were made in record
 time by needlework girls. The weaving and fancy work departments have continued
 as in peacetime.
-MENTAL HEALTH
-111
+
 Defectives resent a sudden change of employment just as much as normal people
 do, but soon adapt themselves to new conditions and rise to the occasion. That there
 is no lack of patriotism is shown by the fact that many of the high grade boys,
@@ -180,18 +202,25 @@ Colours. As even high grade defectives are exempted from the provisions of the
 National Service (Armed Forces) Act, 1939, and debarred from voluntary enlistment,
 a small band of our lads ran away and somehow succeeded in joining the Armed
 Forces.
+
 Military Service
+------------------
+
 Up to the present, 52 members of our Staff have been called up for service with
 the Forces. Over 50 per cent, of the staff at Turner Village rallied instantly to
 Mr. Eden's call to enlist in the Home Guard. Following an intimation from the
 ^ar Office, that it was " not desirable for specific defence to be provided for M.D.
 Institutions ", the Turner Village Guard had to be disbanded.
+
 Overcrowding and Licence
+---------------------------
+
 On the outbreak of the War, over 120 evacuation cases from various areas,
 chiefly Walthamstow, Ilford, Dagenham and Kedington, were admitted at very short
 notice, and early this summer 68 patients from our Clacton Branch, situated on the
 sea-front, had to be evacuated. This entailed considerable overcrowding, which is
 gradually being offset by licence.
+
 The constant stream of re-socialized defectives leaving the Institution on licence
 has swelled very noticeably since the outbreak of the War, in response to appeals
 from parents and prospective employers. The increased probability of securing a
@@ -201,26 +230,32 @@ September, 1939, 46 jobs have been secured for our boys and girls, and 36 medium
 grade stable defectives have been boarded out to the care of foster-parents and to
 their own homes. Many of our boys are now engaged on work of national impor-
 tance, and a considerable number are earning over ?3 a week.
+
 Owing to evacuation measures, 15 girls out in domestic service in Clacton lost
 their jobs and had to return to the Institution. Eight have already been placed out
 again. The demand for service girls is increasing month by month.
+
 Recreation
+------------
+
 So far we have not found it necessary to make any very drastic change in our
 recreational activities. All through this last year, we have had talking pictures every
 week, and the usual number of concerts, whist drives and dances. We propose to
 Carry on this next winter in much the same way. Diversion and recreation are
 essential in these days of uncertainty and suspense.
+
 Half-day parole has been allowed as in peacetime. Boys and girls leaving the
 Institution are given a card with their name, address and identity number, and
 &as mask. An average of 80 boys are allowed parole every Saturday afternoon.
-112
-MENTAL HEALTH
+
 If caught out in an air raid, they take shelter wherever they happen to be, and return
 to the Institution when it is all over.
+
 Most of our Scouts and Guides missed their annual camp owing to wartime
 restrictions and the danger of air raids. East Hill House Troop, however, camped
 out during Whitsun week-end, and Halstead Guides resorted to a farm house for a
 fortnight.
+
 The lack of outside teams necessarily curtailed our football and cricket pro-
 grammes. A number of friendly games were played, but these somehow lacked the
 incentive and the excitement of a trophy or two at the end of the season.
@@ -231,4 +266,3 @@ usual by Dr. Turner, was heralded and ushered in to the loud strains of the Turn
 Village Band, and cheered as lustily as ever. The dancing and singing went on till
 the small hours of the morning. War, with all its horror and tragedy, was very distant
 on that Christmas day.
-/

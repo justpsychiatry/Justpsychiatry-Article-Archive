@@ -1,7 +1,8 @@
 Refugee Children in England
 ============================
 
-By PAUL PLAUT, M.D., D.Ph.
+:Auth: Paul Plaut, M.D., D.Ph.
+
 Problems arising from the evacuation of children have lately been discussed at
 length. This paper deals with a similar subject, an evacuation problem on the
 largest scale. Evacuation of schoolchildren means more than the separation of
@@ -9,16 +10,19 @@ children from their parents and home environment for an indefinite time; it mean
 also the abandonment of many factors which have been regarded as essential for
 their development. We are far from asserting that with evacuated children as
 contrasted with refugee children the problem of the " broken home " need arise.
+
 On the contrary, we may assume that life under new sociological and psychological
 conditions may very often have a positive influence on many children who, otherwise,
 Would never have had the opportunity to live and grow up outside the narrow confines
 ?f their " traditional " atmosphere, and to make contact with a wider world. In the
 case of the refugee child we may find a parallel state of affairs, but with specific
 Problems added.
+
 Refugees in Britain
+--------------------
+
 There are at present about 9,000 children under the guardianship of the
 " British Movement for the Care of Children from Germany In discussing
-38 MENTAL HEALTH
 this group (Castendyck, 1939) we must distinguish between children who came
 to England with their parents and those whose parents are still in Germany,
 Austria, etc. The first group may serve us as a control group. These children
@@ -40,6 +44,7 @@ language is the greatest hindrance to settling down. We may, therefore, summariz
 observations on this control group thus:?that these children had only to face a
 change of place under relatively favourable conditions, and we may add that this
 change may well become a positive factor for their future life.
+
 The " Genuine Refugee " presents a different picture. First of all we must
 point out that these children of different ages do not belong to a group which can be
 distinguished by certain uniform characteristics. They belong to different social
@@ -61,7 +66,6 @@ understanding which they have found here and which they had not known for years;
 they enjoyed the new life, they found it very interesting and they wrote letters to their
 parents abroad about it. We have often seen these letters from both sides but find
 a new and tragic situation developing for the youngsters. The parents abroad
-MENTAL HEALTH 39
 described their miserable and hopeless life in full detail, and they asked their " happy"
 children here to do their very best to bring them over. For many of the young
 children this knowledge and claim became another heavy burden and a source of
@@ -70,7 +74,10 @@ outbreak of war and the total interruption of communication between these childr
 and their parents abroad have not eased this situation; on the contrary, rumours
 and newspaper reports about ill-treatment, atrocities, deportations, have only
 heightened the whole tension.
+
 Lodging of Refugees
+--------------------
+
 Experiences with evacuated children have shown that the question of lodging is
 of the greatest importance for settlement and stabilization under the present conditions.
 Because of the facts we have mentioned above, it is obvious that various and often
@@ -78,6 +85,7 @@ very complicated situations could not be avoided with regard to the refugees liv
 with private families or in camps and hostels. Nevertheless, we may add that
 wartime conditions on the whole have cleared up the situation from many points
 of view.
+
 Where the children could be lodged with private families they have mostly found
 there boys or girls of about the same age, with whom they could easily mix; on the
 other hand jealousy between the host's own and refugee children, together with
@@ -86,6 +94,7 @@ the relations between his family and the refugee. Wartime conditions could only
 aggravate this situation and we have, therefore, often found refugees who have
 had to change their foster-homes several times and so found it difficult to settle
 down.
+
 There are many people who regard the placing of refugees in camps as an ideal
 solution in the belief that this type of organization can be a substitute community for
 Young people, who are bound by the same fate, and that it is the best and easiest way
@@ -105,8 +114,10 @@ and difficulties: they feel lonely, they do not know what to do with their spare
 they are longing for a small room " where they could sometimes be on their own
 find a similar position in hostels, where there are boys and girls over fourteen.
 * We have the same problem and outlook with regard to the evacuated children.
-40 MENTAL HEALTH
+
 Psycho-Social Abnormalities
+-----------------------------
+
 Dealing with these and other " difficulties " from an objective point of view we
 found all those problems which are in evidence in every other non-uniform group of
 children. There are a few pathological cases: young boys and girls who, after their
@@ -114,6 +125,7 @@ immigration, have developed epileptic fits or schizophrenia, and others who are
 evidently backward, imbecile, etc. These children have been separated at once and
 put under medical treatment and care. We found also nail biters, stammerers and
 bed-wetting children.
+
 Leaving aside these single cases we had to deal with boys and girls who were
 brought to the clinic* labelled as " difficult children The complaints have been
 of lying, stealing, undisciplined behaviour, sexual offences, etc. First of all, we
@@ -123,6 +135,7 @@ difference between the label and the facts. A boy of 14, labelled as '' sexual o
 had made a hole in a tent-roof to watch girls undressing; we could not discover any
 abnormal signs in this boy, who only showed a curiosity common at his age. Another
 boy had been labelled as "exhibitionist", because he passed water on a common.
+
 We found the same psychological background with boys accused of stealing; as a
 rule these boys take away small things from their companions, pencils, note-books,
 etc. All these " offences " must, of course, be taken notice of from the educational
@@ -131,7 +144,10 @@ have always to bear in mind that all these refugee children, particularly the ol
 ones, live, even here, under very difficult psychological conditions, and that these
 difficult surroundings have to be recognized as the source of many troubles thought
 to be due to inherent defects of the children.
+
 Education of Refugees
+-----------------------
+
 There is another important point with which we have to deal. To return to our
 control group we may refer to the following facts : Even if the members of this
 group now live on a standard far below that to which they were accustomed in
@@ -140,6 +156,7 @@ trade or profession, which they like or in which they may find interest in cours
 time. They have, moreover, according to the profession of their parents, the
 opportunity of finding a place, where they may learn their future profession. This
 is in contrast to their position before they came to this country.
+
 All these questions are more complicated when dealing with the group of the
 "Genuine Refugees", and from our experience, we consider that it is from the
 problems of education that the most serious difficulties for the refugees and for the
@@ -149,7 +166,7 @@ for some years because of the restrictions on Jews. On the one hand, they had to
 leave their schools at an early stage, on the other, they had no opportunity to be
 * We have seen these cases in the East London Child Guidance Clinic and in the Institute
 for the Scientific Treatment of Delinquency.
-MENTAL HEALTH 41
+
 trained in skilled work, with the exception of the agricultural group. In the midst
 of their miserable and hopeless life they lost any chance of planning for their
 future and for a profession they wished to take up. They do not know the
@@ -164,12 +181,14 @@ and housework in hostels where they live. They do it, but they may lose their te
 behave badly and get into troubles of every kind. Young girls find it much easier to
 occupy themselves, as there are many jobs to be found which suit their abilities and
 normal tastes.
+
 We do not intend to discuss the many problems arising from the fact that these
 refugees come from different countries with different standards of life, different
 mentalities and attitudes. They represent a variegated conglomerate of individuals,
 even if they are all refugees. The difficulties with which we have to deal will be very
 serious because of this, more especially as we have to face problems with which no
 other generation has ever been confronted.
+
 It is of course not only a question of good organization to find the best solution,
 but from our experience we consider that it would be easier for the various organizations, institutions and personalities who are responsible for the refugee children, if
 there were a Central Organization, not only to supervise the various hostels, camps,
@@ -183,5 +202,6 @@ but for the purpose of continuing the education of these youngsters on a wider
 scale. Just as home security must be regarded as the background for young children,
 self-security and self-confidence based on real knowledge is the sine qua non for the
 happiness and stabilization of these uprooted refugee youngsters.
+
 Castendyck, E., " Refugee Children in EuropeThe Social Service Review, XIII,
 uecember, 1939.

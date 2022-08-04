@@ -1,10 +1,11 @@
 Psychological Medicine: A Short Introduction to Psychiatry
 ============================================================
 
-By Desmond Curran, M.B., F.R.C.P.,
+:Author: Desmond Curran, M.B., F.R.C.P.,
 D.P.M., and Eric Guttmann, M.D., L.R.C.P.(Ed.).
 Foreword by J. J. Conybeare, D.M.(Oxon), F.R.C.P.
 E. & S. Livingstone, Edinburgh. 10s. 6d.
+
 The value of this book lies in its clear, relatively brief,
 yet comprehensive presentation of the disorders of the
 mind. It will have a real appeal to students, General
@@ -41,16 +42,16 @@ present the main syndromes and reactions together with
 descriptions of constitutional anomalies. Of especial
 value is the brief chapter on the legal aspects of mental
 illness.
+
 In the appendix on Wartime Psychiatry the reader is
 given the benefit of the authors' experiences of psychiatry
 in the Naval and Emergency Medical Services, and it is
 encouraging to note that most of the functional states in
 war-serving personnel are relatively simpler and easier
-Bv
-38 MENTAL HEALTH
-to manage than those in civilians, the external stress
+Bv to manage than those in civilians, the external stress
 having greater significance than internal conflict in their
 determination.
+
 This book is aptly sponsored by J. J. Conybeare, the
 protagonist of clarity and brevity in the exposition of
 medical knowledge.

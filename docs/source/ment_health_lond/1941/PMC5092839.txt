@@ -1,8 +1,9 @@
 The Factors of the Mind
 ==========================
 
-By Cyril Burt.
+:Author: Cyril Burt.
 University of London Press, Ltd. 21s.
+
 The book deals with the logical and meta-
 physical status of factors in psychology, the
 relations between different methods of factor
@@ -14,6 +15,7 @@ of the reader. Statistical theory is not discussed
 but working methods for computers and an
 analysis of a matrix into its latent roots and
 vectors are given as appendices.
+
 The book is concerned with methods rather
 than results. The author holds the view that
 many of the criticisms laid at the door of the
@@ -30,6 +32,7 @@ appreciate the logical method of his science than
 that he should memorise a mass of details
 about the facts and the latest fashionable
 theories."
+
 The thesis is developed that the factors
 arrived at, from the statistical analysis of and
 correlation between mental test measurements
@@ -37,6 +40,7 @@ are not, in reality, psychological entities but
 result from the principles of classification
 and method of analysis employed by the
 investigator.
+
 From the data discussed the conclusions are
 drawn that we use factors in psychology as we
 use rectangular co-ordinates in other sciences
@@ -49,6 +53,7 @@ or not any factor actually extracted happens to
 have a psychological significance is a problem
 that must depend upon the proper and relevant
 selection of traits and persons.
+
 There will undoubtedly be a general agreement
 with Dr. Burt's view that the current treatment
 of factors as causal abilities implies an antiquated
@@ -66,6 +71,7 @@ ment with reference to rectangular co-ordinates
 and one feels that in the later sections of the
 book, the writer is still mastered by the machinery
 of the statistician.
+
 After a highly technical discussion concerning
 the different methods of analysis Dr. Burt asks
 if temperamental characteristics are, like intel-
@@ -84,6 +90,7 @@ more typical introverts and extraverts appear in
 the main to be merely extreme cases taken from
 the opposite tail ends of a normal, or nearly
 normal, distribution.
+
 The " self", the causal factor .which gives a
 unique bias to every psychological event, slips
 unobserved between the meshes of statistical

@@ -1,9 +1,9 @@
 The Histamine and Insulin Treatment of Schizophrenia and Other Mental Diseases
 ================================================================================
 
-By
-Horace Hill, M.R.C.P. Baillifcre, Tindall
+:Author: Horace Hill, M.R.C.P. Baillifcre, Tindall
 & Cox. Price 6s. net.
+
 Dr. Hill has written an interesting and
 valuable handbook describing his technique of
 histamine and insulin treatment in schizophrenia
@@ -18,7 +18,7 @@ the capilliaries, an explanation which would
 account for the absence of organic changes found
 in post mortem cases. He also gives a number
 of interesting case histories.
-94 MENTAL HEALTH
+
 The book will be of especial interest to those
 who are treating cases of schizophrenia and the
 other so-called functional psychoses by shock

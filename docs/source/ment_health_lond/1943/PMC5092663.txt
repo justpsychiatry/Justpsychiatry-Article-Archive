@@ -1,8 +1,9 @@
 War in the Mind: The Case-Book of a Medical Psychologist
 ========================================================
  
-By Charles Berg, M.D.(Lond.j, u.f.M.
+:Author: Charles Berg, M.D.(Lond.j, u.f.M.
 Macaulay Press. 8s. 6d.
+
 The practice of psychotherapy depends not only on
 knowledge. Its success, like that of the surgeon, depends
 on an experienced and practised technique. It is an
@@ -12,6 +13,7 @@ tion, abreaction, free association, and the like depend on
 qualities of patience and delicacy on the part of the
 investigator and, equally, on the intelligence, the sincerity
 and the co-operation of the patient.
+
 For these and other reasons it is probably impossible
 to report accurately the various nuances, inflections, and
 implications on which the success of the technique

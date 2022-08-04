@@ -2,10 +2,11 @@ A Review of the Psychoneuroses at Stockbridge
 ===============================================
 
 MENTAL HEALTH 29
-Reviews
-% G. P. Coon and A. F. Raymond.
+:Type: Reviews
+:Author: G. P. Coon and A. F. Raymond.
 ? Austen Riggs Foundation Inc., Stockbridge,
 Mass.
+
 This work attempts a critical evaluation of the
 cases which have been under treatment at
 Rockbridge between the years 1910 and 1934.
@@ -24,11 +25,13 @@ throughout this section there is a careful attempt
 at comparison with the follow-up work of other
 linits, the most important being those of the
 avistock Clinic and the Cassel Hospital.
+
 In the third part there is a general summary
 ar>d a series of appendices giving not only
 uable information as to how the follow-up
 ^ork was done but also a vivid insight into the
 Methods of treatment in use at Stockbridge.
+
 hese evidently rely to an important extent upon
 |he education of the patient in sound psycho-
 logical knowledge of the workings of his mind
@@ -69,6 +72,7 @@ treatment at Stockbridge is not usually concluded
 at the end of the first admission, re-admission
 and subsequent treatment interviews being the
 common practice.
+
 The immediate results obtained appear to be
 very good, .57-8 per cent, of the cases being
 graded " much improved " on discharge. In
@@ -113,9 +117,9 @@ further 9-9 per cent, were classed as " good ".
 There can be no doubt that few psychiatric
 clinics would emerge with a better record than
 this, which is probably due to the copiousness
-30 MENTAL HEALTH
 of the data which have to be recorded and the
 tendency to omit negative findings.
+
 This is a book which should be in the hands
 of all those who are planning similar studies in
 the future and.of those who have to plan the

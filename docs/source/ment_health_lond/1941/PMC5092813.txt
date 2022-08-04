@@ -1,11 +1,12 @@
 A Study of the General Development of the Pre-School Child by Means of Record Forms
 ===================================================================================
 
-By AGATHA H. BOWLEY, Ph.D.
+:Author: Agatha H. Bowley, Ph.D.
 Psychologist, Dundee Child Guidance Clinic
 The nucleus of character, of mental and physical health, is laid in the pre-school
 years. For that reason alone a careful study of all phases of development at this
 age is worth while.
+
 The practical purpose of the research scheme described in this article was to
 devise a record form which might prove of value in estimating the general develop-
 ment of Nursery School children, and elucidate the factors which appear to hinder
@@ -13,9 +14,9 @@ ment of Nursery School children, and elucidate the factors which appear to hinde
 The main considerations in selecting observational items were :
 1. That the items should be of diagnostic value, i.e. should throw into relief
 certain aspects of development.
+
 2. That they should not be too numerous, as teachers usually have not the
 time to make detailed observations.
-12 MENTAL HEALTH
 3. That they should be related to the known stages of child development.
 4. That they should refer to every aspect of child development.
 The aspects of development especially studied were :
@@ -33,6 +34,7 @@ separation or re-marriage.
 5. The general psychological atmosphere in the home, described as serene,
 easy-going, irritable, excitable, indifferent, etc., and the presence or
 absence of discipline and affection.
+
 6. Sleeping arrangements and play space at home.
 Physical development was assessed by a letter rating (A, B, C) made by the
 Nursery School teacher, by information re age of teething, weaning, walking, number
@@ -43,28 +45,34 @@ Can he go upstairs one foot at a time ?
 Can he jump 1, 2 or 3 steps ?
 Can he catch large balls ?
 Does he enjoy climbing ?
+
 and a score was obtained from the scale.
+----------------------------------------
+
 Intellectual development was assessed by means of an Intelligence Test. I tested
 the majority of the 120 children myself on the Merrill-Palmer Scale, using Miss
 Bristol's norms for British children. In some cases the teachers had obtained an
 I.Q. themselves, a few on the Terman-Merrill Scale, and in a few cases, only an
 estimate of mental ability could be obtained from the teacher.
+
 The I.Q. range was from 80-140, excluding a small group of mental defectives in
 an institution whose I.Q.s ranged from 50-62.
+
 I do not myself attach very great importance to an I.Q. obtained before the age
 of five years, however reliable the test itself may be considered, because I think
 emotional factors influence mental productivity too greatly during these years. But
 an I.Q. is the best measure of intelligence we have at our disposal, and if one is careful
 to interpret it in the light of personality factors, a good deal of information can be
 gleaned from it.
+
 Language development was judged by means of a score obtained on a scale
 consisting of six items chosen to elucidate fluency, and clarity of speech, richness of
-MENTAL HEALTH 13
 vocabulary and comprehension of language. A letter rating was given A?F in
 respect of the mode of language usually employed?naming, exclaiming, commanding,
 questioning, making statements, or discussing with other children. Teachers were
 asked to include a few samples of the children's conversation. Unfortunately very
 few did.
+
 Data was also sought on the type of play enjoyed most frequently by the child:
 free muscular, experimental or manipulative, destructive, constructive, or dramatic-
 imitative; and teachers were asked to record any play incidents they could. As a
@@ -78,12 +86,14 @@ stage of social development depends so greatly on the stage of emotional develop
 For convenience sake, however, the observational items were listed separately. Under
 general emotional development, eight items were considered as positive factors
 showing a satisfactory emotional development, e.g.
+
 Does he appear contented, courageous, serene, keen, alert ?
 Is he normally demonstrative ?
 Does he conform to restrictions ?
 The highest score obtainable on this scale was + 8.
 Eight items were considered as negative factors detracting from a satisfactory
 adjustment, e.g.
+
 Does he seem anxious or worried over trifles ?
 Does he cry frequently ?
 Does he tend to evade difficulties ?
@@ -93,6 +103,7 @@ Teachers were also asked to state whether such characteristics (or neurotic trai
 as they might be termed if in excess) as: temper tantrums, nail biting, stuttering,
 masturbation, were observed, and to state any specific fears, of animals, strangers,
 dirt, noise, etc., which they had noted.
+
 Finally, under:
 (b) Relationship with adults,
 (c) Relationship with children,
@@ -101,14 +112,15 @@ ment, viz. dependence, non-co-operation, and co-operation in regard to adults, a
 aloofness, aggression and active co-operation with children. The two scores obtained
 for these two relationships were based on rather an arbitrary method but on certain
 developmental principles.
+
 If the record form had been fully completed the following information about a
 child was available: Certain numerical scores on a scale of gross motor development,
-14 MENTAL HEALTH
 of language development, and of social and emotional development; a letter rating
 in regard to health, language, and play maturity; the child's age; mental age; I.Q.;
 his length of school attendance; details about his home background from an economic
 and from a psychological standpoint; facts about his health history; and information
 about undesirable traits, such as fears, tantrums, etc.
+
 On the basis of the various scores it was possible to draw a profile.
 A total of 120 record forms were received, but were not all fully completed.
 The age range was from 2 years to 5-9 years (excluding the M.D.s). The I.Q. range
@@ -125,6 +137,7 @@ Age. No. Per cent. Merrill-Palmer I.Q.s No. Per cent.
 31 records were of children from economically superior homes.
 22 records were of pre-school children referred to a Child Guidance Clinic and attend-
 ing a play group.
+
 7 records were of M.D. children in an institution where ages ranged from 3-8 to
 5-0 years. (I.Q.s 50-62.)
 Eight different teachers besides myself undertook to fill up the forms for
@@ -154,7 +167,7 @@ Baldovan Institution for M.D.s, Dundee
 In this way an attempt was made to experiment with the record form on a number
 of children from a wide variety of social backgrounds and of very different intellectual
 abilities.
-MENTAL HEALTH 15
+
 After totalling all the scores it was possible to obtain an average score on each
 of the four scales of development: gross motor, language, emotional, and social,
 for 2, 3, 4, and 5 years of age. A maximum and minimum possible score on each
@@ -162,33 +175,41 @@ scale could also be computed and profiles for these scores drawn. Then when a
 profile was drawn for a particular child of say 3 years one could judge how much he
 might deviate from the average of his age group and how distant he was from the
 maximum or the minimum.
+
 The following are the most important results:
+
 1. As a qualitative estimate of the pre-school child's general development the
 record form was found to be adequate if fully completed. A profile can be drawn
 for each child based on the scores obtained on the various scales; this was found to
 give an accurate picture of the child in those cases where he or she was well known
 to the writer.
+
 2. Quantitative results can only be taken with caution as the numbers for the
 different age groups are rather small. They show, however, that physical and
 language development as estimated by this scale increase with age, but that emotional
 and social development do not do so uniformly though scores for five-year-olds tend
 to be greater than those for lower age levels.
+
 3. Positive correlation of language and gross motor development with age
 Were found to be + 56, + 53, ( ?-11) respectively.
+
 4. General emotional development and social adjustment to adults and
 children were found to correlate positively: -53 and -52, ? ? 11 respectively. Social
 adjustment to adults showed a positive correlation of -45, ? -11 with social adjust-
 ment to children. Gross motor development correlated positively with social adjust-
 ment to children to the extent of *52, ? *11.
+
 5. The results on the language development scale were unreliable and
 anomalous. There appeared to be no evident relation between language and level
 of I.Q., or superiority of home background. It seems very probable that the teachers
 were judging from different criteria, being unfamiliar with children from very different
 backgrounds, and that the rating scale was not sufficiently discriminative.
+
 It seems clear that the most reliable method to estimate this aspect of development
 would be to record actual sample conversations of the children, but I doubt whether
 the teachers had time to do this. It would also have been better to have correlated
 language and mental age rather than their I.Q.
+
 6. Comparative results for children coming from economically superior and
 mferior homes are interesting, and although numbers are small for any wide
 generalizations they tend to agree with the findings of other observers.
@@ -197,7 +218,7 @@ earlier than children from more well-to-do homes, but did not retain this at lat
 levels. Children from poorer homes tended to show a more satisfactory emotional
 adjustment and showed greater ease in social adjustment, than children from better
 homes.
-16 MENTAL HEALTH
+
 These findings may be due to the fact that the slum child gains independence
 earlier and is usually less protected than the better class child and so gains motor
 control slightly earlier. The better social-emotional adjustment of the poorer
@@ -207,9 +228,11 @@ some difficulty in adjustment, and also that the working class family is a large
 and social adaptation has to be made very quickly by the youngest members if their
 rights and privileges are to be maintained. The training in the art of social adapta-
 bility begins earlier in the working class home.
+
 7. Difficulties in emotional development and in social adjustment to children
 were most marked at three and four years of age. This is a fact well known and
 reported by many psychologists.
+
 8. Children from psychologically unsatisfactory home backgrounds show very
 clearly an inferior emotional and social adjustment to children from more satisfactory
 homes (i.e. judged serene, contented, etc.).
@@ -221,35 +244,44 @@ lowest among children from inferior homes (30 and 33 per cent, in two schools).
 10. Only children tended to be more advanced in language development than
 either oldest or youngest children probably because they had a greater companionship
 with adults.
+
 11. " Oldest " children found greater difficulty in social adjustment to adults
 than either " youngest " or " only " children.
+
 12. The children attending the Child Guidance Clinic had a higher percentage
 of unsatisfactory home backgrounds than any of the other children.
+
 13. The mentally defective children (7 cases only) whose mental ages fell
 between three and five years though their chronological ages were from six to nine
 years (average 8 ? 9 years) compared favourably with normal pre-school children in
 regard to physical, social and emotional development, but were retarded in language
 development.
+
 14. It is claimed that the record form has adequately served its purpose: it
 provides adequate data in regard to the pre-school child's all-round development and
 is sufficiently practical and simple for students and teachers to complete. It would
 be advisable to increase the number of cases particularly at the two and five year level.
+
 15. This research study showed the important part that parental attitudes and
 the atmosphere of the home play in relation to the child's social and emotional
 development. The effect of poor economic circumstances was far less deleterious.
+
 Nursery school attendances tended to affect language and social development
 favourably to some extent but other factors such as age and intelligence seemed more
 important.
-MENTAL HEALTH 17
+
 The following case studies are of interest:
 Isobel. 3 ? 6 years.
+
 Very superior intelligence.
+
 Isobel had not attended the Nursery School very long, only about three months,
 when this record was made. She had in that short time, however, made a very satis-
 factory adjustment for her age. She was a very intelligent child from a very intelligent
 family. Her language development, her vocabulary and frequent use of words were
 quite unusual for her age. She was a little small, and perhaps not very daring in
 achieving physical feats, but extremely active.
+
 She gained a maximum score for emotional development, very unusual at three
 years, and nearly a maximum score for social adjustment towards children. She was
 an extremely happy, lovable and easy going child, and was adored by all the small
@@ -258,14 +290,17 @@ Her mother was a sensible, placid, intelligent woman, and psychologically the ho
 was satisfactory. Isobel did, however, expect a good deal of personal attention from
 adults, and her profile shows her social adjustment towards adults to be inferior to
 that shown towards children.
+
 This little girl's general development was quite unusually good, and her profile is
 perhaps the best obtained.
+
 Betty. 3-6 years.
 Average intelligence.
 Betty was a typically spoilt child. She was an only child. She lived in a rather
 small modern flat, and had a nursery to herself. Her mother adored her, spent a great
 deal of money on her, and dressed her in extremely pretty clothes. She certainly had
 a very extensive wardrobe for a three-year-old.
+
 Betty sucked her thumb and had frequent temper tantrums. She used to bang her
 head on her cot at night, and wet her bed. Her mother felt quite hopeless about
 managing her, and alternatively bribed her and threatened her. She was a rather

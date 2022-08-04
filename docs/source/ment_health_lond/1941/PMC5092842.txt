@@ -1,8 +1,8 @@
 A Psychologist's Contribution to Air Raid Problems
 ===================================================
 
-I
-By M. T. DUNSDON
+:Author: M. T. DUNSTON
+
 Psychologist to the Bristol Education Authority
 In wartime the psychologist's work, like that of the greater proportion of
 workers in other fields, does not necessarily and suddenly become invested with
@@ -13,20 +13,22 @@ Psychologist, especially if employed by a Local Authority, is subject to a degre
 change which affects even the more routine matters; and while, in the normal course,
 the work is concerned largely with the problems of children and adolescents, there
 are opportunities to use that experience in wider fields.
+
 Changed living conditions in a heavily and frequently bombed city, disturbed
 rest and unsatisfactory sleeping arrangements in shelters, or with the family cramped
 1Qto one small room or even into cupboards, frequently cause friction and irritation,
 and magnify to an insupportable degree problems which formerly were tolerated,
 though not necessarily actively faced or dealt with in home and school.
+
 Wartime Causes of Mental Health Problems
+-------------------------------------------
+
 Many new situations and additional problems, which would not have arisen but
 for the advent of war, increase considerably the work of those engaged in a psycho-
 logical service. Changes in the economic conditions and personnel of families are
 aIso factors in aggravating symptoms of personality and behaviour disorders which
 Can no longer be disregarded if the home or other social unit is not to be disrupted,
 ^igh wages paid to young and unskilled workers provide spending power without a
-38
-MENTAL HEALTH
 necessary appreciation of values, and cause dissatisfaction and envy among com-
 panions of only very slightly younger age who are not yet earning. Opportunities
 to enter private and business premises, for instance, with the excuse of fire watching,
@@ -35,6 +37,7 @@ pilfer, while the protection offered by shelters encourages others to stay away 
 their homes until the small hours. All these, and many other factors contribute to
 a heavier incidence of cases before the Juvenile Court and to a proportionate increase
 in consultation cases at psychological clinics which co-operate with them.
+
 In schools working conditions are nowhere normal and where buildings have
 been demolished and seriously damaged and work must be carried on often precari-
 ously elsewhere, the insecurity of the maladjusted child is increased. Where there
@@ -56,6 +59,7 @@ known to be defective and likely to need special placement and supervision, freq
 manage to slip away with the main stream, and later cause difficulty in the reception
 area, unless information concerning them can be conveyed in time to the appropriate
 authorities.
+
 The Place of the Child Guidance Clinics in the Evacuation Scheme
 In the Child Guidance Clinic to which references in this article are made, the
 advent of an evacuation scheme resulted in a sudden increase of parents seeking
@@ -66,16 +70,16 @@ for fear it should influence the child's chance of going away. This covering fre
 had reference to neurotic traits, for which some children were already receiving
 treatment at the Clinic, or to delinquencies which had already brought the child
 to the notice of the Juvenile Court and Probation Officers.
+
 In an area where only certain districts are offered the chance to evacuate and
 where residential boundaries are therefore drawn, dissatisfaction and anxiety on
 the part of both parents and children are to be expected. Where children living
 at one end of a street or on one side of a road are allowed to go, while those at the
-MENTAL HEALTH
-39
 other end or on the opposite side, though subject to the same dangers and attending
 the same schools, are ineligible, there needs to be someone with whom the parents can
 discuss their grievances and preferably someone who can, if necessary, take preliminary
 steps in arranging for certain cases to receive special consideration.
+
 In the quieter and more private atmosphere of the Clinic it is possible to discuss
 these matters with parents and to allay, if not to dispel, their anxieties and concerns.
 In other cases a desire for continued contact with the Clinic and a fear that this
@@ -87,13 +91,17 @@ that they should not attempt to conceal sources of possible difficulty. Most par
 are only too ready for a confidential note to be sent to the evacuating and reception
 authorities, if they can be assured that this will result in a more satisfactory billeting
 and the avoidance of possible future embarrassment to the child.
+
 In order to cover this ground as adequately as possible and to ensure that the
 reception authorities were provided with an indication of any difficulties which might
 later give cause for concern, the staff of the Clinic undertook not only to indicate
 on the children's record cards those children known to the Child Guidance Clinic,
 but also those who had been attending Hospitals for treatment or who were under the
 supervision of Juvenile Probation Officers.
+
 Incidence of Psychological Shock amongst Schoolchildren
+--------------------------------------------------------
+
 Extra practical tasks such as these, which are time absorbing to an astonishing
 degree, make anything in the nature of research difficult to undertake, not for lack
 of material but solely for lack of time. However, while an evacuation scheme was
@@ -106,6 +114,7 @@ sufficient number of districts to ensure that they were, as far as possible, rep
 not only of those areas in which there had been considerable air raid damage, but of
 ?thers more favourably situated in the same city. The sampling also took into
 consideration such factors as difference in social and economic levels.
+
 Teachers were asked to report those children who presented symptoms of
 Physical and psychological illness during or after raids, and information was also
 mvited concerning those who were taken to rock or crypt shelters or who nightly
@@ -115,12 +124,11 @@ the differential diagnosis of psychological illness, many of the returns were di
 to classify and from subsequent discussions with many teachers it was obvious
 that many cases were overlooked because their symptoms were such as to attract
 little notice since they did not disturb their class or social group. That is to say
-40
-MENTAL HEALTH
 they were for instance subsequently reported as being " merely very depressed " or
 " quite unable to concentrate nowadays and used to be so bright "?but such
 symptoms, in spite of instructions given, were not necessarily perceived as having
 psychological significance.
+
 The main conclusions which the evidence, inadequate though it may be, appeared
 to indicate were?
 (a) that latent adaptation was strongest among nursery children aged 2-5;
@@ -131,6 +139,7 @@ senior children 11-14 years;
 (id) in all age groups the incidence of psychological disturbance among those
 remaining in the city was eight times as high as among those nightly evacuat-
 ing to rock shelters on the outskirts.
+
 Apart from the above work all of which is rather in the nature of an expansion
 of the normal psychological service?other fields of work have claimed attention.
 While co-operating with Relieving Officers in the registration of people rendered
@@ -139,7 +148,10 @@ problems causing anxiety, but of a nature which made them difficult to discuss w
 the various officers of other services who attended at centres with their own specialized
 job to perform, and who have no time or are otherwise unable, to attend to matters
 outside their particular department.
+
 Practical Problems arising from Air Raids
+-------------------------------------------
+
 Immediately following raids, a number of situations arise which it is no particular
 person's job to handle. They require more versatility than it is, on the whole,
 possible to expect from members of departments more closely confined by adminis-
@@ -150,22 +162,23 @@ convalescence arranged for cases of physical and nervous debility; rambling and
 incoherent recitals of anxious and confused evacuees must be unravelled, so that the
 required information may be given, together with reassurance that an interest is
 being taken in each individual case and that help will be forthcoming.
+
 Help is frequently required in filling up compensation forms which are the more
 confusing to people already in a state of bewilderment and are quite incomprehensible
 to many adult defectives who are scarcely able to sign their names and frequently
 find difficulty in recollecting their possessions or have only the vaguest notion of
 their comparative importance and value.
+
 One feeble-minded young woman, who was in a rest centre with her child, had
 not bothered to notify her husband who was in the army that their home had been
 destroyed; was unaware that her child of two years needed the attention of a Health
 Visitor, since it was suffering from impetigo, could not yet walk or crawl and was
 still being breast fed, and although her demolished home had consisted almost
-*
-MENTAL HEALTH 41
 entirely of articles on which instalments were being paid, her only apparent concern,
 since it alone had been mentioned on her claim form and occupied her conversation
 to the exclusion of all else, was a " gift trinket set " which had been presented to her
 by the hire purchase firm when she paid her original deposit.
+
 Besides such practical aids as these, members of the Clinic note cases who will
 probably require an occasional visit after they have been rehoused; for though the
 incidence of psychological symptoms in air raid victims is often relatively high,
@@ -175,7 +188,10 @@ be dissipated in their efforts to effect repairs, salvage furniture, and visit r
 agencies, reactive depression is likely to set in after a period of from ten days to
 three or four weeks, when the more urgent material problems have as far as possible
 been solved.
+
 Delay in Development of Symptoms
+----------------------------------
+
 This same time lag in the development of symptoms was noted also in another
 investigation carried out by the Clinic staff. In a house-to-house enquiry covering over
 100 persons in two roads where bombs had fallen, but from which few, if any, people
@@ -192,10 +208,12 @@ incident; while those whose shock is evident in more obvious psychological form
 are too ashamed of their weakness to consult a doctor, and instead take refuge in
 Popular tonics from the chemist and absence from work, often to the extent of some
 Weeks, on the grounds that they feel too tired.
+
 These enquiries have shown that the problem which these people constitute is
 ?f an increasing magnitude and that where they are normally engaged on work of
 national importance, as is frequently the case in this area, facilities for psychological
 treatment require expansion.
+
 Other enquiries of similar practical value have been undertaken into such
 Matters as the psychological attitude to different types of shelter and the type of
 Population resorting to each; the psychological effect of loss or diminution of

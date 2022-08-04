@@ -3,7 +3,8 @@ The Need for a Positive Philosophy of Life
 
 MENTAL HEALTH
 
-By KENNETH WALKER, M.B., F.R.C.S.
+:Author: KENNETH WALKER, M.B., F.R.C.S.
+
 Three years ago I had lunch with Mr. H. G. Wells. We were discussing the
 world, and more particularly the ideal world which is so often pictured in his books.
 I told him frankly that I did not believe in this march of humanity towards a glorious
@@ -16,10 +17,12 @@ disquieting features in the present situation. He complained of our tendency to
 tinker with our difficulties, when a wholesale and radical change of method was
 required. To give point to his remarks he contrasted the attitude of a Frenchman
 to machinery with that which he believed to be characteristic of the American.
+
 Whereas the Frenchman was essentially a botcher, the American scrapped what was
 inefficient and started all over again. If an engine worked badly, he threw it on the
 scrap heap and designed a new model. Although I do not see eye to eye with
 Mr. H. G. Wells, I am going to make use of this dictum of his in what is to follow.
+
 During the last fifty years we have all been botchers. Deep within us we have known
 that the machinery of living was working badly, yet all that we have done has been
 to attempt to make it run more smoothly by lubricating it with a variety of patent oils;
@@ -31,6 +34,7 @@ comprehensive though all these methods of treating the world's ills may have bee
 they all have this in common, that they have been superficial and incomplete. None
 of them has gone sufficiently deep to touch what has been, and still is, basically
 wrong in our method of living.
+
 When I advocate a far more radical dealing with our ills, please do not mistake
 me for a revolutionary out for an explosive treatment of society. I am speaking
 not so much of social ills, which are to a great extent secondary phenomena, but of
@@ -43,7 +47,7 @@ a new phrase by which to describe the age which, it is to be hoped, is drawing t
 close. He calls it the " stomach and pocket age ", meaning thereby that we have
 * Address given at the 18th Annual Meeting of the National Council for Mental Hygiene on
 July 31st, 1941.
-MENTAL HEALTH 103
+
 mistaken comfortable living and commercial prosperity for progress. However
 grandly we may have talked?and we have talked superlatively well !?we have lived
 for worldly ideals. These ideals have not only controlled each of us as individuals,
@@ -63,6 +67,7 @@ has given powder and matches. These gifts have led to our undoing, for whilst ou
 control over external nature has advanced with a terrifying speed, our inner nature
 has remained as it was. We have still to discover what we have assumed we auto-
 matically possessed, namely, a proper technique of living.
+
 Gilbert Murray, in a recent broadcast, drew a parallel between our own times
 and those of Athens when Socrates was walking its streets. Socrates, he pointed out,
 had once been the most prominent man of science in Athens, but he eventually
@@ -72,6 +77,7 @@ men should be better, with more " virtue " and more " goodness ". These were
 the qualities to wjiich men of science had given little or no consideration at all. They
 lay outside their terms of reference. When he asked his fellow-Athenians for a
 definition of these attributes, they floundered and began to contradict themselves.
+
 Socrates made himself very unpopular?and it must be admitted that his methods of
 questioning were highly irritating?by showing how ignorant the Athenians were
 about the true meaning of the words which they used so glibly. Undoubtedly he
@@ -80,6 +86,7 @@ that by questioning people he would induce them to think more clearly, to examin
 their lives and eventually to discover what good living really meant. If Socrates
 had walked the streets of London during the last twenty years he would have found
 that his difficulties were even greater than those which he had encountered in Athens.
+
 Few people would have had time for his questioning, and most of those whom he
 buttonholed would have thought him a silly and impertinent old man. If he had
 obtained an answer to his inquiry as to what was implied by the good fife, it would
@@ -88,7 +95,6 @@ respect of one's neighbours. Socrates was condemned to death by those who resent
 a public exposure of the fatuity of their own thinking. We would have been less
 drastic in our treatment of him. We would probably have allowed him a soap-box
 in Hyde Park and have left it to the police to decide whether he did or did not
-104 MENTAL HEALTH
 constitute a public nuisance. But whatever his contemporaries in Athens thought,
 the young men of that city were impressed by his questionings. This is evident from
 the terms of his indictment, for he was charged with " denying the gods whom the
@@ -100,6 +106,7 @@ achieved. But the professor went on to point out that after his death Socrates'
 sceptical attitude to current ideals began to bear fruit. Xenophon, Plato and
 Aristotle began to write, and with the rise of the Stoic and Epicurean schools of
 philosophy a new light burst upon Greece.
+
 No Socrates has yet appeared in our midst, but somehow I have the feeling that
 even in his absence many young people are beginning to question what we older
 people have hitherto taken for granted, namely, that prosperity was synonymous
@@ -112,6 +119,7 @@ are confident that they will make a far better job of living than did their fath
 unimportant, for each generation has thought this in turn. What is of importance
 is that there is a general tendency to examine what has too long been accepted without
 question.
+
 The fact that these younger people show little enthusiasm for organized religion
 does not alter my opinion that there is a general movement towards a more spiritual
 form of life. In the overhauling of old ideals, the tenets of the church must also be
@@ -121,6 +129,7 @@ a Christian nation, or that even the best of us are attempting to live according
 tenets laid down in the Sermon on the Mount. It is quite clear from the start that
 there has never existed such an anomaly as a Christian nation. It is equally obvious
 that even the clergy have found the Sermon on the Mount too difficult for them.
+
 The Church, like the rest of us, has been content to tinker with the more obvious
 defects in our method of living, and to hope for the best. During the twenty-odd
 years that separate us from the last war, the Church, as an institution, has only
@@ -133,7 +142,7 @@ also been much preoccupied with the relation of the sexes, and with the restrict
 of the size of the family by the use of contraceptives. All of these activities were
 comparatively unimportant and could be safely embarked upon without risk of
 becoming unpopular with those who contributed to the Church's financial support.
-MENTAL HEALTH 105
+
 It would have been unwise and undiplomatic to have imitated Socrates' irritating
 methods and questioned the whole basis of our living. Because of its poor record
 in initiating reform, those who'are now examining fundamentals do not look to the
@@ -143,6 +152,7 @@ even an ardent anti-clerical shows anything but profound reverence for the teach
 of Christ. He may regard the teaching as impracticable, he may feel that the ideals
 that Christ taught are beyond the attainment of ordinary mankind, but deep within
 him he has the conviction that Christ's words were true.
+
 I fully understand the attitude that the young intellectual of to-day adopts to
 institutional religion, and, like him, I do not expect a new movement to start within
 the churches. In saying this I have no wish to minimize the Church's services.
@@ -154,6 +164,7 @@ countless individuals who, to the best of their ability and in the face of great
 have tried to live according to the teaching of the Sermon on the Mount. But as a
 body, the Church has failed, and unless some great change comes over it, it is likely
 to have but little influence over our future.
+
 It is always necessary to make a distinction between the teaching of institution-
 alized religion and the words of the great founders of religion, so far as we can
 understand them. What has happened to Christianity has happened to all the great
@@ -178,13 +189,13 @@ do not imagine that I do not appreciate the debt we owe to medical psychologists
 When I say that the New Testament and tl^e sacred books of the East are profound
 psychological treatises, I mean that if we could take them as a guide to conduct, we
 should escape from many of the psychological dilemmas in which we now find
-106 MENTAL HEALTH
 ourselves. Take, for example, the principle of non-attachment, which constitutes
 such an important part of the teaching of Buddha. The same principle was enunciated
 by Christ, although less explicitly: " Take no thought for your life, what ye shall
 eat, or what ye shall drink; nor yet for your body, what ye shall put on. . . .
 Take therefore no thought for the morrow; for the morrow shall take thought for
 the things of itself."
+
 Christ saw how caught up people were with the lesser issues of life, how pre-
 occupied with, and immersed in, their own immediate wishes. When he bade the
 rich young ruler give what he had to the poor, he was not so much thinking of the
@@ -197,6 +208,7 @@ and worries. And detachment does not, as is often believed, imply either indiffe
 or complete inertia. Those who are dominated by their desires are entirely controlled
 by them. Only when a man is more detached is he able to see clearly, and, by acting
 wisely, to attain what he desires.
+
 A second principle which Christ and Buddha taught was that we should interpret
 life in terms of purpose. If anyone who was puzzled about the meaning of life had
 consulted a scientist at the beginning of this century, he would have been told that
@@ -219,13 +231,14 @@ after all these years of study, he was returning to the simple teaching, which, 
 he had fiercely repudiated. " I am more and more coming to the conclusion," he
 said, " that life can only be interpreted satisfactorily in terms of a struggle between
 good and evil." This was essentially the teaching of Christ and Buddha.
+
 There echoes through the words I have been using a faint overtone of sanctity
 and piety, which, try as I might, I have not been able to eliminate. A personal
 explanation must therefore be interpolated. Please let it be understood that I do
 not belong to the Oxford Group, am not a member of any church or religious body
-MENTAL HEALTH 107
 and that the conclusions at which I have arrived are the result of a scientific, rather
 than of a religious, study of the sayings of Christ and Buddha.
+
 Whatever may be the outcome of this stocktaking which I believe to be taking
 place, this critical overhauling of old ideals, there can be no doubt that it is a sign,
 of health. I would even go so far as to say that it is a true mental hygiene. Too long
@@ -238,6 +251,7 @@ tarianism offered an outlet. " The greatest good of the greatest number " was th
 religious creed of the warm-hearted intellectual, who did his best to make the machin-
 ery run more smoothly by means of all those patent " oils " to which we have already
 alluded.
+
 But in spite of this new disposition to overhaul old ideals, there still remain many
 who sincerely believe that everything can be remedied by a more skilful organization
 of society along scientific lines. Those who hold this idea feel that by means of
@@ -249,6 +263,7 @@ the truth of this statement were necessary we have only to look back at the lame
 story of the League of Nations. Exhausted and disillusioned by the last war, the
 nations of Europe created at Geneva a vast organization which was housed in the
 Palace of Peace, a building so immense that it contained about three miles of corridors.
+
 Here, amidst beautiful surroundings and organized by a formidable secretariat,
 innumerable committees met to draw up complicated forms of procedure. Henceforth
 the world was to be run on new and intelligent lines. The hopes of humanity
@@ -264,16 +279,17 @@ between the assemblies. In a few years the work of those idealists who had since
 believed that this was the beginning of a new age had been wrecked; the vast external
 structure of the League of Nations had become nothing but a hollow sham, a camou-
 flage for political trickery.
+
 Let us turn from this gloomy picture of the past to the more hopeful signs of the
 present moment. I believe with Havelock Ellis and many others that the religious
 sense is innate in mankind, and that deep in himself man is conscious of his need
 for a religion, or some positive philosophy. However long it may lie in abeyance,
-108 MENTAL HEALTH
 however strong may be the forces that are exerted in an effort to crush it, this feeling
 eventually asserts itself. In a broadcast on Sunday, June 29th of this year, we were
 told that 12,000 people, under the stress of the great national emergency, gathered
 in the cathedral in Moscow to take part in a service presided over by the Chief
 Patriarch. Similar services were held in a large number of other Russian churches.
+
 Now, for nearly a quarter of a century, the Bolshevik government has done its utmost
 to root out every vestige of religion in Russia. Anti-religious propaganda has been
 widely disseminated, the monasteries closed, the churches stripped of everything
@@ -282,6 +298,7 @@ covered with blasphemous posters. Yet, at the first threat to the safety of the
 Fatherland, the unquenchable religious sense of the Slav reasserted itself. Even
 though this innate reaching out for higher values may sometimes end in nothing but
 superstitions, in it lies man's chief hope for a better world.
+
 Before reading this paper to you I tried it out on a friend in order that I might
 have the benefit of his criticism. This was to the effect that, like most other people
 who are disillusioned about the world's progress, I have been destructive rather than
@@ -300,6 +317,7 @@ once made the following comment on us: "You have learnt how to fly above the
 clouds, you have learnt how to swim in the depths of the sea, but so far you have
 not learnt how to walk upon the surface of the earth." Let us hope that in the years
 to come we shall learn at last even this, the greatest of all lessons.
+
 " In my last Report, I expressed the opinion that there would be no notable increase
 in nervous illness during the war. The reason for this is that in the majority of such
 cases, the illness is due to personal problems, and the effect of the war is to encourage
@@ -308,5 +326,6 @@ country as a whole. . . . We must, however, look to the aftermath of the war.
 If peace brings with it another slump with consequent unemployment and a sense of
 personal economic insecurity, then we shall certainly see a sharp rise in the number of
 cases of nervous and psychotic illness."
+
 Arthur Pool, M.B., M.R.C.P., D.P.M.,
 Physician Superintendent, " The Retreat

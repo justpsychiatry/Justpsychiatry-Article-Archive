@@ -2,14 +2,15 @@ Intelligence and Fertility
 ============================
 
 By J. A. FRASER ROBERTS, M.A., M.B., D.Sc., F.R.S.E.
+
 Burden Mental Research Department, Stoke Park Colony, Bristol
 fertility of the Dull
+
 If the population is grouped in various ways, for example, according to occupation, or geographical situation, it is usually found that the different groups are not
 Producing at the same rate. This phenomenon is called differential fertility.
 n this paper the grouping to be considered is based upon general intelligence, as estimated so successfully on mental test scales such as the Binet. It is well known at present in this country, as in many others, that the dull have, on average, more burden than do the bright. The evidence for this is irrefutable; but most of us,
 We have given the matter thought, will probably have reached the same conclusion
 simply by observing facts within our personal knowledge. A teacher at a junior
-70 MENTAL HEALTH
 elementary school, drawing children from a well-mixed population, is probably as
 well placed as anyone for appreciating the full extent of the present tendency.
 General intelligence depends to a considerable extent on heredity. This is
@@ -22,7 +23,10 @@ perhaps, those operating very early in life. But as long as heredity plays a par
 and there is no doubt that that part is an important one, the fact that the dull are
 of higher fertility than the bright must inevitably be that a succeeding generation is
 inferior on the average in general intelligence to the generation that preceded it.
+
 The Effect of Unequal Fertility
+--------------------------------
+
 How great is the magnitude of this effect ? Is it comparatively trivial, or is it
 large ? A short while ago Cattell (1937) on the basis of a large scale experiment
 estimated the fall in average I.Q. to be about 3 points per generation. It should
@@ -46,11 +50,13 @@ in the community. Taking an I.Q. of 130 or more to correspond to a very high int
 mental deficiency, this rate of decline continued for only a single generation would
 mean that the highly gifted would be fewer by 20 per cent, while the very dull and
 mentally defective would be more numerous by more than 20 per cent.
+
 Fertility of Mental Defectives
+--------------------------------
+
 It is sometimes thought that it is sufficient to contrast "defectives " or very
 dull persons with "normals", conceding that the former show a higher average
 fertility. This is a very inadequate picture. Actually, the very brightest of all
-MENTAL HEALTH 71
 produce, on the average, the fewest children; those somewhat less bright somewhat
 more children ; those of average intelligence produce the average number of children;
 those who are somewhat below the average somewhat more than the average number;
@@ -61,6 +67,7 @@ similarly for the higher fertility of those of below average intelligence. Consi
 the extremes, it probably would not be far from the truth to say that the dullest
 Persons in the population have an average of about three times as many children as
 do the brightest.
+
 One important point should be noted in connection with mental deficiency.
 High grade mental defectives corresponding to the legal term " feeble-minded " are
 simply extremely dull persons, so dull that care and supervision are often required
@@ -74,11 +81,15 @@ therefore, holds until we reach this very lowest level of all, when it no longer
 Idiots and imbeciles, in fact, usually owe their mental state to causes, whether
 hereditary or non-hereditary, different from those which produce the dullness of the
 Very backward and the feeble-minded.
+
 It will be seen, therefore, that differential fertility in regard to intelligence is not
 Slmply a problem related to mental deficiency. It is a tendency common to the
 whole population, and any analysis of its causes, or estimation of its effects, or any
 attempts actually to alter it, must take into account this circumstance.
+
 Observations on Brothers and Sisters
+-------------------------------------
+
 So far we have considered differential fertility only in terms of parent and child:
 that the dull have more children than the bright is in fact the accurate way to describe
 Vyhat is happening. In practice, however, it is extremely difficult to make observations
@@ -93,9 +104,9 @@ the appropriate level of mental development. But as soon as they grow up differe
 Were identical. True underlying, potential mental ability?general intelligence?
 ecomes very difficult to measure because of confusion arising from different expense. It sounds paradoxical, but is probably quite true, that the effect on the test
 result of a highly efficient education could hardly be detected, if at all, while that
-72 MENTAL HEALTH
 education was taking place, but it would produce an effect, and an increasing one,
 if the test were given later, in adult life.
+
 A second, and equally important, difficulty is that of obtaining a sample of
 grown-up people which adequately represents the population. Actually, it is almost
 impossible. Schoolchildren, however, are available for such psychological observations and with some trouble a good sample can be selected; but any attempt to
@@ -104,6 +115,7 @@ differential fertility in regard to intelligence, therefore, by measuring parent
 children, it would be necessary in practice to test the parents as children and then
 wait until their own children were available for testing: needless to say a troublesome
 and unpractical proposition.
+
 The great majority of studies are carried out quite differently. Children only are
 measured and fertility is estimated by the number of sibs (brothers and sisters) that
 each child possesses. Such an investigation is comparatively easily carried out, and
@@ -125,7 +137,10 @@ how many sibs children of each intelligence class possess, and also what the ave
 intelligence of each group of sibs will be. Thus we arrive at the average I.Q. after
 the lapse of a generation. This is how the figure of one and a half points fall (or a
 little more) per generation, mentioned earlier in this paper, was obtained.
+
 A Misinterpretation
+---------------------
+
 The fact, however, that investigations are in practice made not on parents and
 children, which would theoretically be the direct way, but on brothers and sisters
 instead, has led to some misconception. The observer fully conversant with the
@@ -136,7 +151,7 @@ number of brothers and sisters. This does not matter if he is addressing an audi
 familiar with the general facts; but it may mislead those who are not. It may
 actually be thought that what he means is that children are bright because they come
 from small families.
-MENTAL HEALTH 73
+
 The possibility of misunderstanding was brought home to me eighteen months
 ago when I read a paper on intelligence and family size to the Eugenics Society.
 The audience was perfectly familiar with the general thesis and the paper was concerned
@@ -146,6 +161,7 @@ accurate. Correspondence and further press comment soon made it clear, however,
 how much I had contributed to a misunderstanding the possibility of which had
 hardly occurred to me previously. It may be useful to consider a few of these
 comments, especially as some of them raise points of much practical importance.
+
 The Daily Sketch (October 20th, 1938) printed a column under the heading
 ' Big Family Slander ", stating that doctors, psychologists, writers, people from the
 stage, business men, heads of working-class families?all were indignant at the report
@@ -157,6 +173,7 @@ to face his own problems. As regards intelligence he is quite equal to the only 
 The only child may develop a stronger imagination than a child from a large family
 hut his intellect is not usually any higher." Mr. Lupino Lane expressed much the
 same views.
+
 My observations dealt, of course, with intelligence test results, and intelligence
 m this sense, technically, general intelligence, is not appreciably influenced by such
 factors as the number of sibs a child possesses. Mr. Priestley was, of course, quite right
@@ -175,11 +192,11 @@ Furthermore, given a certain level of general intelligence there is no doubt tha
 child from the large family does enjoy advantages which may well permit him to use
 more successfully the native endowments which neither he nor anyone else can
 change.
+
 Mr. Sacheverell Sitwell, also interviewed, recalled Napoleon and John Sebastian
 Bach. " Read your history," he said, " look about you to-day." To take the
 Second point first, Mr. Sitwell could easily convince himself that the position to-day
 ls not what he imagines it to be. Even comparatively few enquiries amongst a
-74 MENTAL HEALTH
 well-mixed sample of people could leave no doubt about the magnitude of the present
 trend. What so often misleads us, unless we are careful, is the tendency to notice
 the striking and exceptional and not to see the far more numerous but not specially
@@ -199,7 +216,10 @@ had four sibs or more. In the case of the dullest 8 per cent, of children, once 
 all family sizes were represented; but only 7 per cent, were only children, and 51 per
 cent, had four or more sibs. The correct deduction to draw from the facts is that
 it is a great pity that many parents of bright only children did not proceed to contribute large families of children, who would also have been very bright.
+
 Past and Future
+-----------------
+
 Mr. Sitwell's first point, however, raises a question of much importance. There
 is no reason to suppose that the present inequality in fertility has existed for very long.
 His appeal to history would in all probability be upheld. Detailed information is
@@ -208,6 +228,7 @@ from the time of the sharp decline in the birth rate which occurred in so many c
 in the latter part of last century. In a word, from that time, when the total fertility
 of the population declined, the decline was greatest amongst those of highest intelligence. Actually, it is inconceivable that a fall at the present rate in average general
 intelligence could have been going on for very long.
+
 This immediately raises the point that perhaps differential fertility will soon
 cease to operate; that fertility will become equalized throughout groups of differing
 intelligence, and with the same suddenness as it must be presumed to have attained its
@@ -217,10 +238,12 @@ say, thirty years ago. For this reason some observers refuse to take too tragic 
 Nevertheless, we cannot be certain how soon this change will occur and a fall at the
 present rate continued for only a century would have very serious results.
 Possible Causes
+
 A final word may not be out of place about the possible causes of this kind of
 differential fertility, though in this paper I have been chiefly concerned to explain the facts and to do what I can to remove the erroneous impression which the press
 account of my lecture apparently helped to foster in the minds of a good many
 People.
+
 To say that reduced fertility is due to birth control is no answer at all. In one
 sense this may be largely true; but this is merely the method by which the result is
 attained; it merely explains how and not why. Questions of prudence, of anxiety
@@ -228,10 +251,12 @@ about supporting and educating a large family are undoubtedly factors. Thought
 for the future is a characteristic of the more intelligent, who are deterred from undertaking too great a responsibility. Related to this is the question of age at marriage.
 Women married at thirty will have, on the average, considerably fewer children than
 those married at twenty.
+
 It is not impossible that there is a real biological relation between high intelligence
 and low fertility. It may be that the higher the level of general intelligence, the more
 numerous are the objects of interest of life, with a consequent weakening sometimes
 ?f sex and parental instincts.
+
 Another important possibility has been pointed out by Prof. R. A. Fisher. There
 !s no doubt that at present, in every walk of life, there is an economic advantage in
 being one of a small family. Above all else this permits parents to give a child opportunities superior to those they themselves have enjoyed. Infertility is in fact a social
@@ -241,6 +266,7 @@ must add relative infertility. The effect is to concentrate these qualities in t
 same persons. That is, high intelligence and low fertility tend to become associated
 together not because of a real underlying biological correlation but because both are
 socially advantageous and thus tend to come together.
+
 Any discussion on causes must, however, be speculative. There is no doubt
 about the facts and the actual magnitude of the effect can be estimated reasonably
 accurately. What is required is further investigation into causes, for there is the

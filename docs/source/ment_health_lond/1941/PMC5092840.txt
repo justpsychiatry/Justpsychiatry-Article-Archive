@@ -5,7 +5,8 @@ MENTAL HEALTH
 The Editorial Board does not hold itself responsible for the opinions of contributors
 Vol. II. No. 2 APRIL 1941 Price lOd. (1/- Post Free)
 
-By DORIS M. ODLUM, M.A., M.R.C.S., L.R.C.P., D.P.M.
+:Author: DORIS M. ODLUM, M.A., M.R.C.S., L.R.C.P., D.P.M.
+
 Hon. Secretary, The National Council for Mental Hygiene
 It was to be expected that people who have been subjected to air raids and
 Specially those who have actually been bombed out or injured would show evidence
@@ -13,6 +14,7 @@ Specially those who have actually been bombed out or injured would show evidence
 ^rge majority appear hardly to feel any nervous strain at all in these circumstances,
 ?r, if they do, it is only of a transient nature and they soon regain their emotional
 equilibrium.
+
 There are, however, a certain number of persons, both adults and children,
 who do develop considerable nervous and emotional reactions, and these cases are
 met with in shelters, rest centres for those who have been bombed out, and at first aid
@@ -23,10 +25,14 @@ Person may infect a crowd with hysteria or even panic. The symptoms are dramatic
 and often alarming, but the condition if properly treated at the outset is seldom as
 Serious as it appears. First aid treatment is comparatively simple and is usually
 effective.
+
 Although conditions vary considerably as between shelters, rest centres and
 first aid posts the types of nervous and emotional instability encountered will be
 similar.
+
 The Normal and Abnormal Personality
+-------------------------------------
+
 The majority of persons as has already been stated are essentially well balanced
 and emotionally stable, and even if they have been bombed will quickly regain their
 emotional balance after the first shock is over. There are, however, people of the
@@ -34,8 +40,6 @@ emotional balance after the first shock is over. There are, however, people of t
 their balance, also the so-called hysterical type prone to excitability and loss of
 emotional control, and the chronic-anxiety type who are over-anxious and take
 themselves and life too seriously and may in addition suffer from physical sensations
-34
-MENTAL HEALTH
 induced by nervous instability, such as headaches, palpitations, attacks of trembling,
 breathlessness, etc. A comparatively small number of persons are more profoundly
 unbalanced and are liable to develop '' nervous breakdown '' so called as the result
@@ -47,6 +51,7 @@ into it. The condition develops swiftly, it reaches its maximum almost instantan
 ously and gradually decreases as the intense emotion fades and reason begins to
 regain control. It is impossible to remain in a state of intense emotion for more than
 a few minutes at a time.
+
 The aged are apt to become mentally confused and forgetful if they are subjected
 to sudden shock. Cases of head injury without evidence of any external damage
 may occur, and for these it is important to remember that after concussion or any
@@ -54,6 +59,7 @@ kind of head injury persons may show symptoms which occur in the other types of
 cases mentioned, especially mental confusion, loss of memory or stupor. Sometimes
 they appear fairly normal although in fact they are acting automatically without
 any real consciousness of what they are doing or saying.
+
 In the case of fear, which may be for one's own safety or that of another, the
 first sensations are of complete terror and panic with the desire to escape or, less
 commonly, to fight. The commonest symptoms resulting from fear and emotional
@@ -63,14 +69,19 @@ in the mouth ", sickness, dizziness, pressure on the head, the need to pass wate
 or faeces, weeping, and a desire to cling on to someone strong and protective. In this
 state the adult loses all sense of responsibility, dignity and self-control, and becomes
 like a frightened child.
+
 These are the sensations of the average person if subjected to a very severe and
 sudden emotional stress. In the normal person, however, these soon pass off even
 with little or no help from others and control and emotional balance are quickly
 regained.
+
 More serious manifestations include, hysteria, loss of consciousness, stupor,
 mental confusion, loss of memory, temporary loss of voice or sight or of the use of
 one or more limbs.
+
 First Aid Treatment
+--------------------
+
 The first aid treatment for all these conditions is of a somewhat similar character
 and fairly simple. The first thing is to avoid the spread of panic by adopting an air
 of calm assurance. Excitable people should always be spoken to in a calm level
@@ -79,10 +90,9 @@ but dealt with firmly and kindly and treated exactly like a frightened child. To
 one's temper or shout at them or to appear fussy or anxious not only increases the
 patients' symptoms but will spread the infection. It is wiser to explain to them that
 everyone is as frightened as they are and that no one thinks the worse of them for
-MENTAL HEALTH
-35
 their loss of control, but that they will be helping themselves and everyone else by
 trying to keep calm.
+
 Adults feel annoyed when bullied or patronized, and both of these attitudes
 should be avoided. A patient who is excitable is always better lying or sitting down
 and should not on any account be allowed to walk about. It is often of great comfort
@@ -93,6 +103,7 @@ quiet. Physical restraint should be avoided unless absolutely necessary and then
 must be adequate. A useful method of restraining an excited patient is to cover
 him with a blanket and have two people sitting on either side of it to keep it in
 position.
+
 In extreme cases of fear a state of true " shock " may arise. The patient becomes
 cold, pale, the pulse is weak, the breathing shallow, and there is a danger of collapse
 and heart failure. Warmth, quiet, and reassurance are essential and, if the patient
@@ -103,6 +114,7 @@ Gentle massage to the feet and hands helps to restore the circulation. If the pa
 is not fully conscious he should not be given anything to drink as he will choke,
 and if hot water bags are used they must not touch the flesh or they may make a
 bad burn.
+
 A cup of hot tea with plenty of sugar, or, failing that, sal volatile and hot water
 followed by a lump of sugar to suck have an extraordinarily beneficial effect. In
 every shelter and rest centre there should be available a supply of sugar or boiled sweets,
@@ -110,10 +122,12 @@ sal volatile, smelling salts, rugs or blankets, drinking water and, if possible,
 with milk well sweetened. Spirits are not necessary and are better avoided. They
 should never be given to anyone who is in a state of hysteria as this will only increase
 the excitement.
+
 Some of the milder cases will respond very well if they are given some small job
 to do. It should, however, not be anything that involves responsibility or that
 Matters if they fail to accomplish it, but the mere fact of being occupied has a stabiliz-
 1Jig effect on many people.
+
 Those subject to epileptic fits present a problem because they need much super-
 vision and are very distressing to others. The fit is not, however, dangerous provided
 the patient does not hurt himself in falling and is not allowed to bite his tongue.
@@ -122,15 +136,15 @@ Wrapped up in a handkerchief, or any object which will keep the teeth from clenc
 There is no cause for alarm as patients very soon recover. They are better left to
 steep the fit off if they seem drowsy afterwards. They should not be given anything
 to eat or drink unless they ask for it.
+
 Even for those showing less marked symptoms proper treatment by a doctor
 specially qualified to deal with these types of cases is an urgent necessity and should be
 Mailable as soon as possible. Facilities for treatment are available at many centres
-36
-MENTAL HEALTH
 in London and the larger provincial towns, and it would be of great value if a service
 could be provided at each Rest Centre and First Aid Post for patients to be
 accompanied to a clinic, since many will be too apathetic to go unless someone
 actually takes them.
+
 At a Rest Centre occupation and various amusements, games and other interests
 should be provided as a means of taking people's thoughts off their own troubles.
 There should be a supply of toys, books, a gramophone if possible, and games,
@@ -139,7 +153,10 @@ to assist harassed mothers by playing with the children or setting them simple l
 If people who have been through great strain are left to themselves they tend to become
 apathetic and dispirited, a prey to self-pity, and to spread an atmosphere of discourage-
 ment, criticism, and grievance around them.
+
 First Aid Posts
+-----------------
+
 Practically all that has been stated above applies to cases brought in to first aid
 posts, so far as first aid treatment is concerned, and it must be emphasized that no
 patientwho has shown symptoms of nervous or emotional instability should be allowed
@@ -147,8 +164,11 @@ to go home alone. If no one in authority is available, a more stable minor casua
 should be asked to accompany the nervous patient home and advise the relatives that
 the patient's own doctor should be consulted. The name of the nearest clinic for
 functional nervous disorders and the address and time of sessions should also be
-given in writing to the patient. \
+given in writing to the patient.
+
 Air Raid Shelters
+------------------
+
 The conditions in a shelter during a severe raid in some ways resemble those
 on a passenger liner during a dangerous storm at sea. The people who go into
 the shelter are of all sorts and all sizes, of both sexes, and of all ages. They
@@ -156,10 +176,12 @@ are extremely anxious about the safety of their house and household, and distres
 by their inability to protect them. In certain parts there may be a large number
 of foreigners in the shelter and it is well recognized that they are much more
 emotional than our own race and much more prone to panic.
+
 One of the most trying factors in an air raid is undoubtedly the noise. All
 so-called " highly-strung " people are hyper-sensitive to noise and feel an unreasoning
 fear of it, quite apart from the fact that it may have no hostile significance and indeed
 may represent the protection provided by our own anti-aircraft guns.
+
 In order to avoid panic and loss of control it is desirable that there should be
 a male air raid warden in charge of each shelter with experience of handling people
 in difficult circumstances, and also that he should have a trained woman as his
@@ -168,12 +190,11 @@ by a man, and there may be personal intimate services needed that only a woman
 can perform. It is, moreover, more difficult for a man to assess the nature and
 importance of symptoms in a woman than it would be for another woman to do so.
 The presence of a calm, trained woman will also help to steady the men in the shelter.
-MENTAL HEALTH
-37
 The provision now made for medical inspection in air raid shelters enables the
 visiting doctors to give helpful advice in many cases to the nervous and over-anxious
 and to put more serious cases in touch with hospital clinics or arrange for their special
 care and disposal.
+
 All those in positions of responsibility will have a most valuable opportunity of
 helping these unfortunate people, and if they avail themselves of the facilities at their
 disposal many of them will not only be helped temporarily but enabled to develop

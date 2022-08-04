@@ -1,13 +1,13 @@
 Neurology
 ==========
 
-By S. A. Kinnier Wilson, M.D.,
+:Author: S. A. Kinnier Wilson, M.D.,
 h.K.CJ.F., edited by Dr. Minian Bruce.
 Arnold & Co. Two vols., ?4 4s.
+
 Neurologists, and indeed the medical profes-
 sion as a whole, cannot be sufficiently grateful
 to Dr. Ninian Bruce for having edited Dr.
-MENTAL HEALTH 59
 Kinnier Wilson's truly monumental work. The
 need for such a comprehensive survey of the
 field of Neurology has long been recognized.
@@ -22,6 +22,7 @@ of the reader?unless he is fortunate enough to
 possess a stout book-rest?for these tomes may
 be said to be weighty in the literal sense of the
 term.
+
 The last section of the book, which is devoted
 to the motor and sensory neuroses, is particularly
 interesting to those who are more especially

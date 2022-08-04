@@ -1,12 +1,11 @@
 The Measurement of Abilities
 =============================
 
-MENTAL HEALTH 91
-Book Reviews
-
-By P. E. Vernon,
+:Type: Book Reviews
+:Author: P. E. Vernon,
 M.A., Ph.D. The University of London
 Press. 10s. 6d. net.
+
 This book is intended for teachers and
 examiners, and for psychologists with scientific
 or clinical interests. The author makes no
@@ -43,6 +42,7 @@ The qualities of good mental tests are carefully
 considered and much sound, simple advice is
 given concerning the choice and use of appro-
 priate tests.
+
 The last few chapters of the book are devoted,
 almost entirely, to the possible improvement of
 Present day examination methods. The writer

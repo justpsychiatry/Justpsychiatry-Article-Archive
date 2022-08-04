@@ -4,9 +4,9 @@ The Human Mind: The Organ of Thought in function and Dystunction
 MENTAL HEALTH 25
 Book Reviews
 
-By Murao
-Mackenzie, M.D., M.R.C.P. J. & A.
+:Author: Murao Mackenzie, M.D., M.R.C.P. J. & A.
 Churchill, Ltd., London. 7s. 6d.
+
 The domination of Freud over psychotherapy
 during the past decades has, to a considerable
 extent, obscured the study of mind as a thinking
@@ -21,6 +21,7 @@ stimulating to find a medical psychologist of
 standing who is blazing a new trail away from
 Freud yet, in the reviewer's opinion, who is
 advancing the path of true psychological progress.
+
 Dr. Murdo Mackenzie is well known for his
 original views on the subject of anxiety and
 depression, and the present work is a compre-
@@ -65,6 +66,7 @@ ment with assertion; followed by apathy and a
 secondary defence attitude of depression with
 inadequacy and guilt. Here is a conception
 which is at once novel and revolutionary.
+
 This is a major psychological work which
 demands the close study of all medical psycho-
 logists, especially those who feel that the current

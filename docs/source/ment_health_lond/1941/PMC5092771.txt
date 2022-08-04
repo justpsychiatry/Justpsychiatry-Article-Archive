@@ -1,14 +1,14 @@
 The Cambridge Evacuation Survey
 ================================
 
-120 MENTAL HEALTH
-Book Reviews
+:Type: Book Reviews
 
-Edited by
-Susan Isaacs, with the co-operation of
+:Author: Susan Isaacs, 
+with the co-operation of
 Sybil Clement Brown and R. H. Thouless.
 London: Methuen & Co., 1941. Pp. x.
 + 235.
+
 The study of evacuated children, edited by
 Dr. Isaacs and her colleagues, is in many ways
 unique. The numbers are smaller than those
@@ -33,6 +33,7 @@ the report appears to confirm the conclusions
 reached independently by other investigators,
 who have studied the same problem in other
 areas by extensive or intensive methods.
+
 At Cambridge, records were first obtained
 for 373 boys and girls evacuated from Totten-
 ham, mainly older and brighter children coming
@@ -49,6 +50,7 @@ however, was freely supplemented by informa-
 tion secured from other sources, particularly
 from teachers and from essays written by the
 children themselves.
+
 The investigations showed that only about
 8 per cent of the children were unsatisfactorily
 adjusted to their new environment. Some
@@ -65,6 +67,7 @@ of the two homes. Here, too, the main con-
 clusions agree with those of other investigators,
 namely, that non-psychological factors have
 comparatively little influence.
+
 To study the influence of psychological
 factors, an intensive investigation was attempted
 with a small group of 40 maladjusted children,
@@ -88,6 +91,7 @@ in the work; and consequently comparison
 with the results of other surveys, either before
 the war or during the war, may not be altogether
 justifiable.
+
 Lack of space has presumably prevented the
 writers from comparing the results of their own
 investigations with those of others, and thus
@@ -116,7 +120,6 @@ rightly emphasize that, with so complex and
 widespread a problem, collaboration is essential.
 Moreover, conditions are constantly changing,
 and fresh problems arising. Similar inquiries,
-MENTAL HEALTH 121
 for instance, are urgently needed on the evacua-
 tion of pre-school children, on the effects of air
 raids, food-restrictions, and the like; and not
@@ -136,6 +139,7 @@ their data upon some more or less uniform
 plan. Let us hope that the publication of this
 suggestive survey will stimulate many other
 inquiries along similar lines.
+
 Meanwhile, in regard to children of school
 age, the summary of provisional recommenda-
 tions with which the volume concludes should

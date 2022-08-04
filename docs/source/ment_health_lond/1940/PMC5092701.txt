@@ -1,8 +1,7 @@
 Mental Disorders
 =================
 
-26 MENTAL HEALTH
-Book Reviews
+:Type: Book Reviews
 Twenty-fifth Annual Report of the Board of
 Control for 1938.
 Parti. H.M. Stationery
@@ -53,6 +52,7 @@ neither the time nor the training to give this
 specialized and intensive form of treatment.
 The National Council for Mental Hygiene has
 long advocated this policy.
+
 Nurses'1 Homes. The provision of Nurses'
 Homes goes forward surely though slowly, and
 the Board's hope that demands for emergency
@@ -64,6 +64,7 @@ health and happiness are safeguarded can she b
 expected to carry out her duties with the efficient,
 and tranquillity that mean so much to th-
 patients under her charge.
+
 Voluntary Treatment. The increase of volun-
 tary admissions is encouraging, but the numbers
 are not so high in many hospitals as they ought
@@ -88,6 +89,7 @@ highest proportion of voluntary admissions do
 not necessarily show the highest proportion of
 voluntary patients discharging themselves against
 medical advice.
+
 Storage of Patients' Clothing. The insanitary
 habit of tying patients' clothes in a bundle at
 night is rapidly disappearing. Nothing could
@@ -102,6 +104,7 @@ improvement in the patient's outlook. An
 interest in his personal appearance is an impor-
 tant factor in restoring the patient's social
 adaptation.
+
 Physical Training is still very limited in mental
 hospitals, but it awakens the patient's interest
 and reality and should certainly take a more
@@ -109,13 +112,13 @@ prominent place. It must, however, be carried
 out by properly trained instructors or nurses,
 and the ex-army sergeant is quite an unsuitable
 person.
+
 Libraries. It is strange that there has been so
 much apathy and in some cases active opposition
 to the introduction of adequate library facilities
 in mental hospitals. Many medical superin-
 tendents seem to resent the introduction of
 voluntary visiting librarians as if they feared that
-MENTAL HEALTH 27
 would in some way have an unfavourable effect
 upon the hospital; but where the experiment has
 been tried the happiness of the patients has
@@ -124,18 +127,23 @@ for Mental Hygiene has strongly advocated the
 establishment of a well organized library in
 every mental hospital, and it is hoped that even
 in wartime the project will not be neglected.
+
 Mental Deficiency
+------------------
+
 The total number of defectives under care,
 either in institutions or in the community was,
 at the end of 1938, 89,904 (as compared with
 86,510 at the end of 1937). Of these 46,054
 were in Institutions or Homes, and 43,850 were
 under some form of community care.
+
 Ascertainment. The number of defectives
 reported to Local Authorities, whether subject
 to be dealt with or not, was 125,859 representing
 a proportion to the population of 3-07 per 1,000
 as against 2- 99 a year ago.
+
 In addition, 3,536 feeble-minded children
 between 1 and 16 were informally notified for
 After-Care on leaving school, and if these are
@@ -146,11 +154,13 @@ number of cases known to Local Authorities
 The number of defectives ascertained to be
 subject to be dealt with, was 95,418, viz. 2- 33 per
 1,000, as against 2-26 last year.
+
 The number of children between the ages of
 7 and 16 notified by Education Authorities
 during the year was 3,425, and it is discouraging
 to note that this represents a decrease of 485 on
 the number notified during 1937.
+
 The Board regret that the number of defectives
 ' subject to be dealt with " and in receipt of
 Poor Relief (8,506) has remained almost
@@ -163,6 +173,7 @@ Peficiency Act and continue to receive a grant
 ln aid. They urge that this procedure should be
 adopted in order that training and special care
 can be provided in addition to monetary relief.
+
 The Table of Ascertainment Rates provides,
 as always, much illuminating information as to
 the varying standards of administration which
@@ -177,6 +188,7 @@ under care. In Ipswich?to take another
 example?4-13 were reported, 3-76 were subject
 to be dealt with, and 3-67 were placed under
 care.
+
 Institutional Accommodation. During 1938,
 the total number of beds increased from 43,552
 to 45,717, and practically all the larger Authori-
@@ -191,6 +203,7 @@ of the defectives from the other inmates and
 the patients were restricted to a type for whose
 requirements it was within the capacity of the
 institution to provide.
+
 Community Care. Of the 36 per cent, of
 defectives subject to be dealt with, who were
 under statutory care in the community on
@@ -209,6 +222,7 @@ being those in which it was clear that Licence
 had ceased to fulfil a purpose which could not
 equally well be served by some measure of
 friendly supervision.
+
 Occupation Centres and Home Training. The
 number of Occupation Centres remained the
 same (191) as in the previous year, but there was
@@ -222,6 +236,7 @@ physical training is noted with satisfaction.
 Twenty-two Home Training schemes of varying
 types and scope were brought to the notice of
 the Board during the year.
+
 Attention is drawn to the urgent need for
 some recognized standard of training and salaries
 for Occupation Centre workers. Until, it is

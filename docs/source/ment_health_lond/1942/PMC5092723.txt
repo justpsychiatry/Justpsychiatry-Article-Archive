@@ -1,13 +1,14 @@
 Military Service for Mental Defectives
 ======================================
 
-MENTAL HEALTH
-By F. J. S. ESHER, M.B., Ch.B., M.R.C.S., L.R.C.P., D.P.M.
+:Author: F. J. S. ESHER, M.B., Ch.B., M.R.C.S., L.R.C.P., D.P.M.
 Medical Officer, Sheffield Mental Deficiency Acts Committee, Lecturer on Mental
 Deficiency to the D.S.P., War Office, and to the University, Sheffield
+
 The object of this article is to offer information gained in examining mentally
 defective soldiers, to show their limitations, and the risks involved in keeping them in
 the Army, and to outline the way in which they are being dealt with.
+
 In civilian life we have to consider mental defect as a failure in social adaptation
 due mainly to lack of sufficient intelligence but frequently also to poor upbringing
 in the family home. At the outset I would stress that intellectual subnormality?
@@ -21,6 +22,7 @@ are Intellectually Defective but, because they are sufficiently adapted socially
 Mentally Defective. They are not social failures, for they earn their livings, pay their
 way, and adhere to the moral codes, social conventions and laws. They are lowly
 but sound citizens.
+
 However, it is equally true to say that their social competence is more apparent
 than real, for they are frequently abnormally dependent upon the good offices of
 others, such as employers, wives or social services; they cannot adapt themselves to
@@ -31,6 +33,7 @@ to stick to one simple job which is not beyond them even though the pay is poor 
 prospects of advancement are non-existent or to do work which other people do not
 wish to do. Such men find niches in civilian life that are suited to their inferior
 intelligence and adaptability.
+
 In the Army, on the other hand, they have other difficulties to overcome.
 Supervision and control are much greater than in civilian life and this may help
 quite a number of defective recruits. But as they have a great deal to learn as soon
@@ -39,14 +42,15 @@ that many of them are soon discovered to be mentally defective from' a military
 standpoint?that is to say, they cannot acquire the fundamental knowledge necessary
 to modern troops, even if given more individual and lengthy training in squads for
 backward soldiers.
+
 In addition, their uprooting from familiar surroundings and their presence
 amongst strangers who do not understand and allow for their slowness and simplicity
 is to them a source of anxiety. They are bewildered by the speed at which they
 receive military uniform and equipment, medical examinations and inoculations, and
-MENTAL HEALTH 15
 at the necessity for quickly understanding orders and regulations, so that at the very
 beginning of their military careers, many respectable and worthy simpletons are
 thrown into a state of anxiety which increases their basic inefficiency.
+
 Many defective recruits, however, do not experience this anxiety, or at any rate
 get over it very soon. They learn the barrack square drills and the elements of
 military life, for these are well within the range of their competence. But later on
@@ -62,6 +66,7 @@ of dumping their rubbish on to someone else and so get the men transferred to ot
 and no more suitable regiments. Some units submit them to a psychiatrist for
 examination and disposal, and those who have once done so do not, as "a rule, revert
 to their former procedure.
+
 It may be remarked here that these inefficient men are not all mental defectives.
 There are also dullards, psychopathic personalities, psychoneurotics and psychotics.
 It is probably true to say that the more unstable tend to be examined, discharged or
@@ -79,6 +84,7 @@ end, the Army is at present testing the intelligence of all its new personnel an
 beginning "job analyses " in order to determine amongst other things the number
 of defectives or dullards which can be used by different Corps and for what work in
 the various Corps they are best suited.
+
 This survey is part of the work being undertaken by the newly-created Directorate
 for the Selection of Personnel (D.S.P.), which is now engaged in the formidable task
 of testing the intelligence and abilities of every man and woman in the Army and the
@@ -88,10 +94,10 @@ solve the vexed question as to whether dullards and defectives should or should 
 be expelled from the Army, but will give the numbers which may safely be retained
 in any unit. Defectives so retained, employed in work which is not beyond them
 can be quite efficient and content and so are less likely to become anxious or badly
-16 MENTAL HEALTH
 beljaved. But, unless their numbers and the work they are called upon to do are
 controlled by statistically examined investigations, their retention in fighting units
 in any but small numbers is a " bad risk " and bad business.
+
 We know that the work of defectives is often badly done but, quite apart from
 this, they present another problem in that their general health and mental stability
 are often much below par. It is not at all unusual to hear of a man taken into the
@@ -101,6 +107,7 @@ After such lengthy and presumably costly treatment, he may have proceeded to a
 training unit where he was inefficient and constantly falling sick with minor ailments
 for which no physical cause was discovered. For that reason he may then have been
 sent to a psychiatrist for investigation.
+
 Men with medical histories of this type whom I have examined, have generally
 proved to be mentally defective and their complaints?bad teeth, defective vision and
 speech, squints, dyspepsia, skin troubles, varicose veins, hernias, flat feet, enuresis,
@@ -117,6 +124,7 @@ still complained of pain three months later. The pain had excused him from many
 difficulties such as marches, drills and other irksome duties. In addition he received
 sympathy from his comrades rather than the well-known attitude of N.C.O.s towards
 slow and stupid privates.
+
 Anxiety states are frequent in defectives exposed to the dangers of active service,
 and such men are terrified at the idea of having to face similar conditions in the future.
 Many of them develop states of depression, if the anxiety remains unrecognized and
@@ -133,7 +141,6 @@ seen soon after the Dunkirk evacuation, I can give these instances.* One backwar
 youth joined up when his " school hero " did. (This " hero " had always protected
 him from being bullied at school and at the works where they were employed.)
 * Unfortunately full notes were not taken at the time and can only quote from memory.
-MENTAL HEALTH ' 17
 During an engagement against the Germans, he got into difficulties, and his hero,
 now a corporal in his Unit, came to rescue him. Bungling everything?in the Army
 no less than in civil life?he upset a lot of tins at a time when silence was safety.
@@ -148,6 +155,7 @@ depression, because he lost confidence in his ability to drive after fighting ha
 out in France. He had an accident with a loaded ambulance whilst in this mood,
 Sot " knocked out " and never discovered the fate of his cargo. He dared not ask
 in case he had killed some of the wounded men.
+
 Among the men found untrainable is a class not mentioned above, to which 1
 have given in my reports the term " scholastic defectives ". In these cases, there
 is often quite a clear history showing why education was faulty, such as nomadic
@@ -156,16 +164,19 @@ infantile psychoneurosis. These men tend to do poorly on tests of the Binet type
 (scoring such mental ages as 9\ to 12) years, but grade normally on most perfor-
 mance tests. Military training is as hard to them as it is to defectives, and their
 behaviour is often very similar.
+
 From the foregoing, it will be realized that the problem of Intellectual Defect in"
 the Army is a very large one. Some 5 per cent, of all men taken into the Forces are
 unable to learn the basic military training of the modern soldier and another 5 per
 cent. can only learn it with difficulty and if trained in special backward squads.
 The more complex and specialized military training becomes, the higher will such
 Percentages be found to be.
+
 The impression I have given so far is that there are many mental defectives in
 the Army and that speaking generally they are a nuisance and a risk, but I now hope
 to show that to discharge them is not the best solution of the problem and that the
 Army has made special provision for this particular group.
+
 At the outbreak of the war, the Army was largely unaware of the existence of
 the problem?still less that it would be magnified by conscription. In a voluntary
 recruitment system only a proportion of the nation's defectives join up, but into a
@@ -178,16 +189,17 @@ Population is under the care of a Local Authority and yet about 5 per cent, of t
 Army intake is of a standard of intelligence equivalent to that of the *2 per cent
 just mentioned. Thus, I have seen men with mental ages as low as 4 or 5 years who
 make good shepherds, labourers and roadmen?men with mental ages between
-18 MENTAL HEALTH
 () and 9 years who appear to be efficient tractor drivers, milk roundsmen, painters
 and automatic machine minders. But these men were quite out of their depth when
 confronted by the demands of modern military training.
+
 Broadly we may say that such intellectual (but not mental) defectives are good
 enough workmen if employed in simple repetitive manual labour, especially if those
 in authority treat them kindly and allow for some of their idiosyncrasies.
 We may also say that discharge from the Forces of soldiers who seem to
 their comrades to be merely slow and inefficient, is bad for military morale. It
 tends to encourage malingering and leads to discontent.
+
 A year or more ago psychiatrists who examined mentally defective men who had
 been employed in civil life, were healthy and yet were untrainable in a modern
 military sense, had no option but to discharge them, for even the Pioneer Corps
@@ -211,10 +223,12 @@ These, and most of the others to whom I spoke, confessed that they were miserabl
 in their previous units and found the work far too hard. Several said they were now
 in better health and were no longer always sick. They were satisfied that they were
 doing work of national importance and that they were doing it well.
+
 The latest development in this field is the establishment of whole companies of
 " Q " men, and this will help to develop an esprit de corps and a still better morale
 than could be developed when such a group was only a dull " hanger-on " to another
 company.
+
 To sum up?Intellectually Defective men are a very large problem to the British
 Army. They cannot assimilate the training necessary for a modern soldier. If
 retained in fighting or technical units, they tend to be inefficient, or troublesome, or

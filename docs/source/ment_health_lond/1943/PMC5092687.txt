@@ -1,7 +1,8 @@
 Observations on the Relationship between Child and Adult Neurosis
 =================================================================
 
-By R. G. McINNES, M.R.C.P.E.
+:Author: R. G. McINNES, M.R.C.P.E.
+
 ,A study of the relationships between neurosis in
 in i S- anc* in children necessarily involves the
 fusion of all those factors which go to the com-
@@ -28,11 +29,11 @@ proceed without fear of distortion to give you a
 few impressions arising from clinical experience
 regarding the relationship between child and adult
 in so far as the development of neurosis is concerned.
+
 - In-the?first~place, although one would have
 to states for special mention, I want" thought that the work of Freud, on the all-important
 ake it clear that this present preference should matter of the mother-child relationship, would
 * Adapted from a talk given at Oxford to Psychiatric Social Service Students.
-22 MENTAL HEALTH
 have effectively directed attention not only in
 theory but in practice to the enlightened manage-
 ment of the early days and weeks of the infant's
@@ -44,6 +45,7 @@ mothers, nurses, and even doctors have not yet
 reached the stage where the application of sound
 principles arising from analytic experience is yet
 a practicable proposition.
+
 It is often difficult to get accurate information
 about infant feeding, but in those cases where it
 can be traced, there is frequently a story of difficulty
@@ -74,6 +76,7 @@ own love accepted as being good. The failure
 to satisfy either of these needs leads to basic
 insecurity which may later give rise to neurosis
 or even more profound disorders.
+
 The second prominent impression on looking
 back collectively so to speak over the histories of
 neurotic patients, is the surprising extent to which
@@ -123,6 +126,7 @@ and poise in the children, and one is often str^cn
 by the sureness of touch which such people?-ofte.
 quite unintellectual?display in their persona
 relationships. <?
+
 To give a complete account of the effects 0
 parental influence on the laying down of has1
 emotional trends in children would be impossible
@@ -159,7 +163,6 @@ ately visible may be all the more profound f?
 being left unhealed at the time. The broken hon1
 with overt marital disharmony is of course serion
 for the emotional poise of the children, but w
-MENTAL HEALTH 23
 snK f1106 unconscious hostilities may be more
 title and prolonged in its effects. What is the
 echanism whereby unconscious content in the
@@ -167,6 +170,7 @@ f, rents is communicated to the unconscious of
 cin " The Jungians might call it " parti-
 Pation mystique" ; whatever its name and
 Th*6' it is very real.
+
 1 he second point I wish to mention is perhaps
 '0fe prosaic, and is consequently overlooked in
 lt ? Present-day welter of analytic theory and practice.
@@ -184,6 +188,7 @@ a sense of order, of appropriateness, of the
 ness of things, and more difficult with those
 a? ?Se habits of thought and conduct are shapeless
 floppy.
+
 to K fashioned training in good habits is not
 -J-, be despised. It can of course be overdone.
 q e day when children were obliged to read the
@@ -216,6 +221,7 @@ niponent part of the form in which human
 . e\ngs can be free to develop themselves; otherwise
 ,.ls merely a reversion to a more immature and
 ^archical level of existence.)
+
 J here comes a point in the treatment of many
 eurotics when the usual reductive procedures
 ave been completed, when explanation has done
@@ -232,6 +238,7 @@ called normality, this prosaic pattern of the ordinary
 the chief end of all the labour and sweat ? " One
 is bound to agree that if it were so, the effort would
 scarcely be worth while.
+
 Psychotherapy should properly have more than
 one aim. It should concern itself with the removal
 of symptoms either directly or by the reduction
@@ -286,7 +293,6 @@ or spiral nebulae, when it is exercised in the field
 of sociology it happens to produce the unfortunate
 result that it prohibits you from dealing with exactly
 that type of data which, from the point of view
-24 MENTAL HEALTH
 of understanding and controlling life, it is most
 important that you should handle. It is not that
 detachment in this field is undesirable, but that if
@@ -303,6 +309,7 @@ the truth about human beings can ever be apparent."
 This passage, although perhaps a slight over state-
 ment of the position, brings out clearly the point
 which I am trying to make.
+
 Now it seems to me that the " other " category of
 values, i.e. the non-scientific immeasurable category
 is spiritual and creative in nature, and that the
@@ -321,6 +328,7 @@ so far as to say that among all his patients there
 has not been one over the age of 35 whose problem
 in the last resort was not that of finding a religious
 outlook on life.
+
 This digression has taken us a long way from the
 question of habit formation, and yet behind it
 there has been the thought that in so far as the
@@ -334,6 +342,7 @@ word would be " integrating" function?thai
 which relates us to the wholeness of things. In
 no way do I use the word religious as denoting any
 particular creed or sectarian belief.
+
 One further impression from clinical experience
 deserves mention before concluding. It is thai
 of the great prevalence of devaluation and differentia-
@@ -375,6 +384,7 @@ bringing up children. I mean the possession of a
 sense of values of a creative and meaningful
 kind, in addition to the scale of material values
 by which we at present mostly live.
+
 The child must come to be honoured not only
 for what it can do, or can be made to do, but for
 what it is. How is this kind of insight to t>e
@@ -388,6 +398,7 @@ social workers and everyone whose profession
 brings them into influential contact with human
 beings ought ideally to be possessed of greater
 insight than is common.
+
 To some this kind of insight is a kind of gift* a
 kind of flair for human beings. To most it comeSr
 if it comes at all through contact with parents wh?
@@ -397,6 +408,7 @@ logical analysis provided that it includes the dis-
 covery of a philosophy; others achieve it by way
 of religion. The vast majority hardly possess
 it at all.
+
 We are really very much in the position of having
 grown so far away from nature that we have to
 re-learn laboriously how to be natural; on another
@@ -413,7 +425,6 @@ endocrine influences, and other biophysical ?r
 biochemical variations must be given due place-
 There is also a vast field for the investigation of
 social and economic conditions as factors in the
-MENTAL HEALTH 25
 of^ls of neurosis. Any adequate formulation
 in J . neurotic problem, either in general or in the
 ?yidual case must tak6 all of these into account,
@@ -444,7 +455,10 @@ should be diversity related to a central unifying
 principle. In a larger sense it is this central unifying
 principle which is longed for and sought after all
 over the world to-day.
+
 References
+-----------
+
 (1) W. R. D. Fairbairn: A Revised Psychopathology of
 . the Psychoses and Psychoneuroses. Int. Journal
 Psycho-analysis, vol. xxii, pts. 3 and 4.

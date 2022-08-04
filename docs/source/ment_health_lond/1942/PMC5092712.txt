@@ -1,7 +1,7 @@
 Psychology of the Interview
 ============================
 
-By R. C. Oldfield-
+:Author: R. C. Oldfield-
 Pp. 144. Methuen & Co., Ltd. 5s. net.
 The author has made an experimental and
 analytical study of the interview, and his
@@ -9,6 +9,7 @@ deductions shoukl be of considerable value to
 those who have to assess the personal characteris-
 tics of " candidates " after a brief encounter in
 an atmosphere not devoid of formality.
+
 It is asserted that the interviewer's task is to
 introduce suitable topics of conversation and to
 evoke the candidate's " attitudes Judgment
@@ -22,6 +23,7 @@ recorded. Stress is also made on the " matter "
 and " manner " of the candidate's remarks, as
 shown by relevancy, vivacity, choice of words,
 syntax, etc.
+
 Mr. Oldfield suggests that the " candidate in
 the waiting-room is the victim of violent, if
 temporary, conflict ", and therefore an attempt

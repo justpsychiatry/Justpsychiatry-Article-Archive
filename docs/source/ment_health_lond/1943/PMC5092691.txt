@@ -1,8 +1,9 @@
 Speech and Voice: Their Evolution, Pathology and Therapy
 =========================================================
 
-Leopold Stein, M.D. Methuen. 1942.
+:Author: Leopold Stein, M.D. Methuen. 1942.
 15s.
+
 Written primarily as a textbook for students of speech-
 therapy this important book makes a valuable and
 original contribution to the psycho-pathology of child-
@@ -24,6 +25,7 @@ For those engaged in speech-therapy and speech-
 training the value of Dr. Stein's theory lies in the fact,
 well established by him on a basis of long experience,
 ?j-lg
+
 that this theory aids diagnosis, makes forecast possi'd
 and suggests new and very promising methods of tre?.
 ment. Dr. Stein shows how the speech defects of a cni

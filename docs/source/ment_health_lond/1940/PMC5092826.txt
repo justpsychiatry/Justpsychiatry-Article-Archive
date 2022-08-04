@@ -1,11 +1,11 @@
 Fortitude in War
 ==================
 
-MENTAL HEALTH
 The Editorial Board does not hold itself responsible for the opinions of contributors
 Vol. I. No. 3 JULY 1940 Price lOd. (1/- Post Free)
 
-By H. CRICHTON-MILLER, M.A., M.D., F.R.C.P.
+:Author: H. CRICHTON-MILLER, M.A., M.D., F.R.C.P.
+
 Fortitude can be a great virtue. It can also be an innate quality. In so far as
 xt is innate, it is a fortunate attribute, and in so far as a man lacks innate fortitude,
 the more is he to be commended for displaying whatever fortitude he can achieve.
@@ -13,6 +13,7 @@ the more is he to be commended for displaying whatever fortitude he can achieve.
 are more marked as between the " quitters " and the " stickers ". The reason for
 this is that only in maturity do we reach our high-water mark of acquired fortitude,
 whereas our innate capacity for endurance shows itself in conduct from earliest years.
+
 To some, then, fortitude is a gift of the gods; to others, a moral achievement.
 If we analyse the different challenges that demand fortitude, we see that they can
 he roughly classified in two ways. First there is endurance in regard to a painful
@@ -25,6 +26,7 @@ as "jitter-bugs " until a bomb lands in their immediate neighbourhood, after whi
 they assume a totally different personality?or so it seems to observers. The first
 ?r?up react with apprehension to the objective menace; the second react to it with
 fortitude, although they wilted in the face of the imagined danger.
+
 The second way in which we can classify fortitude is according to the nature of
 the challenge?whether material or moral. Some men will stand shell fire heroically,
 and yet be unable to appear at a public function without some form of chemical
@@ -35,11 +37,11 @@ a?d out of fashion, causing her intense mortification. Yet this same woman not s
 ?ng after refused an anaesthetic for a fairly difficult confinement and astonished
 0ctors and nurses by her powers of silent endurance. In short, what is appropriately
 CaHed " animal courage " bears very little relation to social courage.
+
 This question of animal courage brings us back to the factor of inheritance.
+
 ls closely associated with aggressivity, and aggressivity is of all character traits
-It
-66 MENTAL HEALTH
-the one which is most closely based upon hormonic (or " glandular ") balance. As
+It the one which is most closely based upon hormonic (or " glandular ") balance. As
 proof of this we have only to consider the reduction in aggressivity which is unfailingly
 achieved by castration in most bisexual species. Hence we find, as we would expect,
 that the human subject displays fortitude when the glands of aggression are well
@@ -49,6 +51,7 @@ fashionable to equate with masochism, as it is to equate aggressivity with sadis
 This tendency is unfortunate, and leads to inaccuracy and superficial thinking. Just
 as aggressivity has its biological basis in glandular activity, so also has submissive-
 ness. And just as aggressivity contributes to fortitude, so also does submissiveness.
+
 In the last few weeks there must have been thousands of cases where a man was
 displaying aggression and fortitude in the front line, while his wife in flight and carrying
 an infant was displaying submissiveness and fortitude in no less measure.
@@ -82,8 +85,8 @@ basis that is ultimately chemical. But that is in no way equivalent to stating t
 personality is limited by its chemical components. Far from it. The unique quality
 of mankind is the capacity to make a choice and pursue a purpose that transcend mere
 physiological resources.
+
 This brings us to the purely psychological aspects of fortitude. First of all,
-MENTAL HEALTH 67
 let us consider habit formation. Consider two children of the same age, say two boys
 of seven years. The one has been taught to swim and is thoroughly at home in the
 Water; the other has been taught to climb trees and displays agility and self-assurance
@@ -93,6 +96,7 @@ swimmer will be afraid to trust himself to stout branches, despite your assuranc
 they are safe. In fact, what appears to be great courage resolves itself largely into
 a question of self-confidence based upon previous experience?in other words, the
 difference between the known and the unknown.
+
 A different aspect of habit formation presents itself in connection with what
 Psychologists call " patterns of infantile behaviour ". The simplest example is that
 of the child who is given a sweet to bribe him to stop crying. This procedure
@@ -128,7 +132,6 @@ Would be a mistake to ignore the social sources of fortitude. Leadership and soc
 contagion can count for much. These operate by suggestion, and the transmission
 r?m the leader to his subordinates, or from the group to the individual, of a common
 and transcending purpose. The best examples of the former mechanism comprise
-68 MENTAL HEALTH
 exploits of native levies or troops of primitive peoples led by Europeans. In such
 cases the troops are rarely in a position to choose their own purpose on any grounds
 of knowledge or reason. They simply accept the inspiring example of the leader as
@@ -140,6 +143,7 @@ a hero creates heroes." History will tell in ages to come of the heroic defence 
 Verdun in the Great War. It is impossible to believe that the men of the Maginot
 Line were essentially different. But in 1940 there was no one to rally his men with
 the grim challenge: " Debout les morts ! "
+
 When the individual derives his courage from the group in which he finds himself,
 rather than from the leader, the process is one of social identification. The forces
 of mob contagion can be so powerful as to make savage brutes out of decent men,
@@ -151,6 +155,7 @@ and rational, while that of the revolutionaries is more social and passionate.
 As far as one can learn from observers' reports, the populace of Barcelona, who
 were very inadequately protected from air attack, developed a high degree of fortitude
 on a basis of common social experience.
+
 It has been said by Harold Nicholson that the Germans possess every form of
 courage except civic courage. Accepting this as a correct estimate, it means that the
 national temperament and upbringing make for fortitude; that as a people they are
@@ -166,6 +171,7 @@ unconscious. There cannot be a science of human behaviour in so far as it is con
 and intentional." This means that human choice may be casually determined, or
 may be free and deliberate. One man " sticks " because his temperament imposes
 it upon him: another man " sticks " because he has consciously chosen his purpose.
+
 One man "quits " because his early upbringing has predisposed him to do so;
 another man " quits " because he has never accepted a value higher than self-interest.
 The highest form of fortitude from the ethical point of view is that which has
@@ -173,7 +179,6 @@ the least temperamental basis, which has developed in spite of adverse upbringin
 and which is most independent of social influences. In short, he is the greatest hero
 who was cast in the mould of a coward. For such a one must have accepted as
 his purpose in life a role for which he was fitted neither by nature nor nurture. And
-MENTAL HEALTH 69
 what matters to us as a nation at this crisis is not how well or how ill our children have
 been bred and brought up, but how to transform the material available from
 mediocrities into heroes. Clearly we must exploit leadership and social influences
@@ -188,9 +193,11 @@ Kingdom of God. But whether we accept new values that are merely political, or
 mainly ideological or frankly religious, the consideration that counts is whether a
 man's values are sufficiently dominating to neutralise completely all personal con-
 siderations that would otherwise limit his fortitude.
+
 And what are the criteria of such fortitude ? First the hero must be able to:
 " . . . meet with triumph and disaster,
 And treat those two imposters just the same."
+
 Then he must be able to wait?suspense, uncertainty, unemployment, immobility?
 aU the minor calls for fortitude?none of these things should take from him " Courage
 and gaiety and the quiet mind ". And when he has learnt " from fears to vanquish

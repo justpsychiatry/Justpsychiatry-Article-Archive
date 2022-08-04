@@ -1,11 +1,12 @@
 Science and Seizures?New Light on Epilepsy and Migraine
 ========================================================
 
-By William G. Lennox, M.D.,
+:Author: William G. Lennox, M.D.,
 Sc.D., Assistant Professor of Neurology,
 Harvard University; Visiting Neurologist,
 Boston City Hospital. London: Harper
 & Brothers, $2, pp. 258.
+
 It would not be surprising if some enterprising
 publishing firm brought out a series of inexpen-
 sive handbooks about the commoner chronic
@@ -54,6 +55,7 @@ pretation of the records. Moreover, electro-
 encephalography is in its infancy, and some may
 doubt if all Dr. Lennox's deductions from its
 findings will stand.
+
 But Dr. Lennox has written for a wider public
 than the epileptic and his relatives. He seeks
 to interest the intelligent and socially minded
@@ -62,6 +64,7 @@ disease, but as a widespread scourge which,
 given the will and the means, can be attacked
 at least as successfully as other disabling diseases
 that have caught hold of the public imagination.
+
 He estimates the incidence of epilepsy in the
 United States at about 1 in 200 of the population,
 a high figure, and points out that the Government
@@ -74,7 +77,6 @@ for maintenance, he remarks, but practically
 nothing for prevention. And yet the last few
 years have shown striking inroads made into
 our ignorance about epilepsy. New and more
-124 MENTAL HEALTH
 effective drug therapy, much biochemical and
 neurological discovery, and above all the fresh
 illumination afforded by electroencephalography

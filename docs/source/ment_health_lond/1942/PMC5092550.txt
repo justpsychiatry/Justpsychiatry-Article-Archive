@@ -1,8 +1,9 @@
 Health of the Future
 ====================
 
-By Aleck W. Bourne, M.B.,
+:Author: Aleck W. Bourne, M.B.,
 F.R.C.S. Penguin. 9d.
+
 It is impossible in the compass of a " Penguin " to
 give with any great statistical detail, a picture of the
 health of our community. Nor, in a book intended for a
@@ -21,11 +22,13 @@ as long as palliative measures only are applied to the
 four major manifestations of poverty. Bad housing, bad
 feeding, overwork and anxiety constitute an environment
 in which illness flourishes and " off-health " is normal.
+
 The facts and figures are gloomy enough. They strike
 the mind with the force of things, known, perhaps,
 but inadequately realized. That dark region lying
 beyond our surgeries and hospitals is vividly, if briefly,
 illuminated.
+
 There are some suggestions for immediate and
 practical advance. It is not quite clear whether Mr.
 . Bourne believes these to be useful in themselves, or only
@@ -40,6 +43,7 @@ in so far as they minister to the fuller and happier
 development of individual men. It is an attitude not
 yet altogether common either among professional
 administrators or professional medical men.
+
 Some of the philosophical premises are arguable.
 We may doubt whether happiness, even as a by-product,
 is the most satisfactory goal of life; we may wonder if

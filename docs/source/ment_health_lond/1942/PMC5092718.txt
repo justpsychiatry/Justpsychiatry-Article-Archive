@@ -1,10 +1,10 @@
 The Education of the Backward Child
 =====================================
 
-By
-Mary Stewart, with a preface by Margaret
+:Author: Mary Stewart, with a preface by Margaret
 Cole. Fabian Research Series, No. 57.
 Gollancz. 6d.
+
 This 24-page pamphlet is part of a general
 programme for post-war educational reform
 (eventually to appear as a book) which the
@@ -13,7 +13,6 @@ It is the shortest and most lucid exposition
 of an involved problem which we have met for a
 long time, making use of both the classic and
 the more recent surveys and researches without
-MENTAL HEALTH 31
 lessening its appeal to the general reader. It is
 0ne of the few expositions I have met which
 approaches the problem from a humanistic and
@@ -21,6 +20,7 @@ educational viewpoint and yet is wholly con-
 usant with the legal, administrative and
 Psychological difficulties which stand in the way
 ?f implementing its recommendations.
+
 The initial concern of the pamphlet is with
 our feeble-minded children, only one-eighth of
 whom are at present in Special Schools. The
@@ -32,6 +32,7 @@ and of adequate training in these matters of
 teachers and certifying officers, not to speak of
 supplementary staffing arrangements both on
 the medical and educational sides.
+
 For the major administrative problem of
 Providing special education throughout the
 country in the many small areas large enough
@@ -47,12 +48,14 @@ educators the choice of extending the facilities
 of special education so as to include the larger
 group realized by either lowering or raising the
 I.Q. for educational certification.
+
 " If there was a rigorous weeding out of all
 elementary school children whose I.Q.s fall below
 70, elementary schools would be relieved of a
 considerable number of children who . . . were
 unable to benefit by the education provided for
 them.''''
+
 Of the second group of children?the educa-
 tionally dull?Margaret Cole has much to say
 in respect of the organization of both their

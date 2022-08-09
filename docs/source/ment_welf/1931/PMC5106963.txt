@@ -5,7 +5,7 @@ The Difficult Child in Industry
 School Medical Officer, Birmingham
 
 Throughout the ages man has recognized that there is in some way or
-?ther an association between physical deformity and a twisted outlook on life.
+ther an association between physical deformity and a twisted outlook on life.
 When the Greeks fought under die walls of Troy, the one chieftain whom
 Homer described as ill-tempered and of unbridled tongue, hateful to his
 colleagues, and especially to Achilles, was " Thersites, whose mind was full
@@ -19,14 +19,14 @@ ave passed down to us as the worst, most cruel and most treacherous of char-
 acter, Richard the Hunchback, is well known to us from the self-portrait which
 akespeare puts into his mouth : ?
 
-" Cheated of feature by dissembling Nature,
-Deformed, unfinished, sent before my time
-Into this breathing world, scarce half made up,
-And that so lamely and unfashionable
-That dogs bark at me as I halt by them,
-And therefore
-I am determined to prove a villain."
-(Richard III, Act 1, Sc. 1.)
+	" Cheated of feature by dissembling Nature,
+	  Deformed, unfinished, sent before my time
+	  Into this breathing world, scarce half made up,
+	  And that so lamely and unfashionable
+	  That dogs bark at me as I halt by them,
+	  And therefore
+	  I am determined to prove a villain."
+	  (Richard III, Act 1, Sc. 1.)
 
 These are not mere idle figments of a poet's imagination, but the result
 of the human observation that very often a deformed body houses a perverted
@@ -64,8 +64,7 @@ ends and desires and the imperative demands of the society into which he has
 been born, the struggle for a freedom which is unattainable. Character is but
 the resultant of the impress of these forces on mental constitution. It is this
 organic and mental constitution which determines the temperament, which,
-in the words of Professor Hoffding, " as a background given from the begin-
-ning, determines the mode in which all experiences are received by the
+in the words of Professor Hoffding, " as a background given from the beginning, determines the mode in which all experiences are received by the
 individual, and consequently the mode in which the individual reacts upon the
 external world." (Hoffding, " Outlines of Psychology," p. 349.)
 We are thus compelled to the conclusion that all conduct, all behaviour,
@@ -77,8 +76,7 @@ of Kretschmer (" Korperbau und Character," Berlin, 1921), that there is a
 biological affinity between certain bodily conformations and the general
 attitude of mind, with the behaviour reactions towards external circumstances.
 The fact is reflected very distinctly by the type of behaviour which results in
-the case of a mental breakdown in these different bodily types. Without com-
-mitting ourselves to a full acceptance of this type-categorization, put forward
+the case of a mental breakdown in these different bodily types. Without committing ourselves to a full acceptance of this type-categorization, put forward
 by some continental writers, notably Kretschmer, Jung and Lazar, we can all
 recognize the validity of the more extreme types, illustrated by Don Quixote,
 the lean and lanky idealist, and Sancho Panza, the stout, full-bodied exponent

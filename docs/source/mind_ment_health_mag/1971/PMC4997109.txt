@@ -48,6 +48,8 @@ human figure. He is careful, however, not to argue
 that children's development recaptures the historical
 development of art.
 
+.. image:: drawaperson.png 
+
 He makes another interesting contribution to the
 study of children's drawings by reproducing pictures
 drawn by children during the last century in Italy;
@@ -55,6 +57,8 @@ these show that developmental stages which can be
 recognized today could also be recognized then. In
 other words, there is apparently some universality in
 children's representation of the human figure.
+
+.. image:: housetreeperson.png
 
 Part 2 of the book illustrates some of the ways in
 which children's drawings can be used to diagnose

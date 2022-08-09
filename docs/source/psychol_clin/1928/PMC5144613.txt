@@ -8,49 +8,38 @@ This study was undertaken in the attempt to help solve a
 practical clinical problem. The writer is the director of a child
 study clinic and has referred to her for examination and study
 large numbers of children from foreign, industrial communities. It
-is her custom to include the Stanford Binet in a minimum examina-
-tion schedule. In dealing with the child of foreign nativity or
+is her custom to include the Stanford Binet in a minimum examination schedule. In dealing with the child of foreign nativity or
 foreign parentage it is clearly necessary to evaluate very carefully
-mental age scores based on tests involving language. The par-
-ticular problem approached by this study is the determination of
+mental age scores based on tests involving language. The particular problem approached by this study is the determination of
 what can be expected of the normal child of foreign parentage and
 industrial background when the Stanford Binet is used.
 The obvious approach to this problem would be the testing of
-fairly large nationality groups with the complete, individual Stan-
-ford examination. Time for research through this clinic is limited,
+fairly large nationality groups with the complete, individual Stanford examination. Time for research through this clinic is limited,
 and such a large project was viewed as impractical for the present.
 Since in dealing with the foreign groups the chief variable factor
 is presumably the language factor, it seemed likely that some light
 might be thrown on the problem of expected performance on the
-Stanford Revision by the use of the vocabulary test. It was there-
-fore decided to approach the larger problem by giving the oral,
+Stanford Revision by the use of the vocabulary test. It was therefore decided to approach the larger problem by giving the oral,
 individual vocabulary test to the children of an entire elementary
 school system located in a largely foreign industrial community, to
-see what were the tentative norms obtained by such an investi-
-gation.1
+see what were the tentative norms obtained by such an investigation.1
 The Group
-The school district selected was that of Aliquippa, Pennsyl-
-vania. In Aliquippa is located a part of the Aliquippa plant of
+The school district selected was that of Aliquippa, Pennsylvania. In Aliquippa is located a part of the Aliquippa plant of
 the Jones and Laughlin Steel Corporation. The vast majority of
 the workers of the town are employed in the steel mills.
 1 That the use of the vocabulary test is justifiable for some predication
-of general success on the Stanford Binet is indicated in Doctor Terman's ar-
-ticle, "The Vocabulary Test as a Measure of Intelligence," J. of Ed. Psychol.
-1918, 9, 452-456. The implications of this article will be stressed in the dis-
-cussion of the results of this study.
+of general success on the Stanford Binet is indicated in Doctor Terman's article, "The Vocabulary Test as a Measure of Intelligence," J. of Ed. Psychol.
+1918, 9, 452-456. The implications of this article will be stressed in the discussion of the results of this study.
 14 THE PSYCHOLOGICAL CLINIC
 The group under consideration consists of all the public school
 children in Aliquippa up to the eighth grade, who were eight years
 of age and over at the time of the testing. This does not include
 all the school children of the community; there is a flourishing
-parochial school. (Judging from her experience in testing paro-
-chial school children in this district, however, the writer is con-
-vinced that a similar study in the parochial school would result
+parochial school. (Judging from her experience in testing parochial school children in this district, however, the writer is convinced that a similar study in the parochial school would result
 in lowering rather than raising norms found for foreign children in
 the public schools.)
 The children of the group range in age from eight to sixteen
-years and in grade from first to eighth. In nationality they dis-
-tribute as follows:
+years and in grade from first to eighth. In nationality they distribute as follows:
 Nationality Number of cases
 Italian   178
 Slavish   172
@@ -71,8 +60,7 @@ Roumanian   1
 Tyrolean   1
 Total 562
 This group is polyglot in the extreme. Approximately 90 per
-cent of the children are of foreign parentage. Of this non-
-American group, 70 per cent are distributed about equally between
+cent of the children are of foreign parentage. Of this nonAmerican group, 70 per cent are distributed about equally between
 the Italian and Slavish races.
 The economic situation in the town is, in general, good. Wages
 are adequate. Foreign living standards prevail for the most part.
@@ -105,21 +93,16 @@ number of eases at each age level at or exceeding the expected norm
 for their age (scores 20 or more at year 8, 25 or more at year 9,
 30 or more at year 10, etc.). Column two in this group shows the
 number of cases at each age level scoring 19 or less. This score
-was selected since 20 is the minimum score considered in the stand-
-ardization. Column three of this group shows the number of chil-
-dren at each age level who make a score only half their expected
+was selected since 20 is the minimum score considered in the standardization. Column three of this group shows the number of children at each age level who make a score only half their expected
 score or less (10 or less at year 8, 12 or less at year 9, 15 or less
 at year 10, etc.).
-To persons accustomed to using the Stanford Binet with for-
-eign children, a rather close scrutiny of these results is worth-while.
+To persons accustomed to using the Stanford Binet with foreign children, a rather close scrutiny of these results is worth-while.
 The range of scores is at all levels very wide and peculiar in
-that the minimum scores attained are so extremely low. The me-
-dians are, in all cases, also, very low. At the ten year level, for
+that the minimum scores attained are so extremely low. The medians are, in all cases, also, very low. At the ten year level, for
 instance, the median is 16, with an expected median of 30. This
 is the most striking case, but there is a consistent wide discrepancy
 2 The author is indebted to Doctor Eebecea Learning Fieger, former
-director of the Beaver County Child Study Bureau, for her assistance in con-
-ducting these tests.
+director of the Beaver County Child Study Bureau, for her assistance in conducting these tests.
 16 THE PSYCHOLOGICAL CLINIC
 between the expected score and the actual score. In no case does
 the upper quartile even approach the expected median score, while
@@ -138,8 +121,7 @@ Age
 14 yrs.
 15 yrs.
 16 yrs.
-Num-
-ber
+Number
 Cases
 95
 96
@@ -161,8 +143,7 @@ Range
 10-62
 16-60
 Upper
-Quar-
-tile
+Quartile
 14
 20
 21
@@ -172,8 +153,7 @@ tile
 44
 46
 Lower
-Q-
-10
+Q10
 10
 12
 17
@@ -181,8 +161,7 @@ Q-
 25
 28
 28
-Me-
-dian
+Median
 12
 16
 16
@@ -227,8 +206,7 @@ less
 No.
 Cases
 50% or
-less ex-
-pected
+less expected
 score
 33
 34
@@ -245,16 +223,14 @@ of the foreign group, fifty, or 10 per cent, of the children reach or
 exceed the expected score. Removing the American and Jewish
 group, leaves forty-one cases of the mixed foreign group (8.5 per
 cent) who reach or exceed the expected score.
-Two hundred and thirty-nine cases score 19 or less. This in-
-cludes children (presumably normal children) at every age level.
+Two hundred and thirty-nine cases score 19 or less. This includes children (presumably normal children) at every age level.
 Forty-two per cent of the entire group have a vocabulary score
 of less than eight years. No child in the group is less than eight
 years of age, and only seventeen per cent of the group is under
 nine years of age.
 One hundred and forty-nine children, or 27 per cent of the
 whole group, make only half the expected score or less.
-* Since so small a percentage of the cases were able to achieve the ex-
-pected norm, the nationalities represented were distributed. That distribution
+* Since so small a percentage of the cases were able to achieve the expected norm, the nationalities represented were distributed. That distribution
 is as follows: American 30, Slavish 16, Italian 13, Jewish 9, Russian 3,
 Grannish 2, Kroatian 2, Hungarian, Slovanian, Lithuanian, German, each 1
 case.
@@ -370,8 +346,7 @@ Total
 64
 488
 error are given for each grade. The median age for the grade as
-distributed is given for comparison with the median scores ob-
-tained. The number of cases at or exceeding the norm for the
+distributed is given for comparison with the median scores obtained. The number of cases at or exceeding the norm for the
 Table III
 TO SHOW RELATIVE SUCCESS OF VARIOUS NATIONALITY GROUPS
 Nationality Group
@@ -425,19 +400,13 @@ cases scoring at a point 50 per cent of their expected score or
 less.
 18 THE PSYCHOLOGICAL CLINIC
 There appears to be very little of contradictory significance
-in Table II. As much vocabulary handicap is encountered (rela-
-tively) grade by grade as age by age.
-Table III is inserted to show the relative success of the vari-
-ous nationality groups as measured in terms of the number of chil-
-dren able to reach the expected age norm, and the number who
-score half or less of the expected score for their ages. Only nation-
-alities where ten or more children were recruited are included in
+in Table II. As much vocabulary handicap is encountered (relatively) grade by grade as age by age.
+Table III is inserted to show the relative success of the various nationality groups as measured in terms of the number of children able to reach the expected age norm, and the number who
+score half or less of the expected score for their ages. Only nationalities where ten or more children were recruited are included in
 this table. The most superior group (although the number is so
-small as to make generalization dangerous) appears to be the Jew-
-ish. The poorest group is the Serbian, with only 2.8 per cent of
+small as to make generalization dangerous) appears to be the Jewish. The poorest group is the Serbian, with only 2.8 per cent of
 the cases scoring at norm or better, and 40 per cent giving a score
-of half the expected score or less. There seems to be a slight ad-
-vantage in favor of the Slavish as compared with the Italian group,
+of half the expected score or less. There seems to be a slight advantage in favor of the Slavish as compared with the Italian group,
 although both these larger groups show an extreme retardation
 with reference to both measures.
 Discussion
@@ -446,8 +415,7 @@ if we are to use this vocabulary test intelligently in the diagnosis
 of foreign children, we must build up separate norms for foreign
 children.
 These children constitute a normal group of the type which
-may be found in any industrial town of the same general nation-
-ality constitution. A recent survey of the school by the Illinois
+may be found in any industrial town of the same general nationality constitution. A recent survey of the school by the Illinois
 tests does not show the school to be retarded with reference to the
 established norms on that test. The writer has worked in and
 through the Aliquippa schools for three years. In spite of the
@@ -474,8 +442,7 @@ length upon many occasions. But clinicians on the job everywhere
 do continue to use the Stanford Revision and cannot help but be
 somewhat impressed by low mental ages and I.Q.'s as at least a
 part of the composite picture presented by a given case.
-There is surprisingly little investigation of the Stanford vo-
-cabulary test alone reported in the literature to date. Dr. Terman4
+There is surprisingly little investigation of the Stanford vocabulary test alone reported in the literature to date. Dr. Terman4
 in 1908, has an article in justification of the vocabulary test as a
 test of intelligence. In this article, he meets certain objections
 advanced by his critics, to the use of a vocabulary test as a test of
@@ -483,27 +450,20 @@ intelligence. His article has an extremely interesting and direct
 bearing on the present study.
 His method of demonstrating the validity of the vocabulary
 test consisted in correlating mental age and vocabulary scores.
-For a miscellaneous group of six hundred thirty-one school chil-
-dren the coefficient of correlation between mental age and vocabu-
-lary score was plus 0.91. Doctor Terman further states in the
+For a miscellaneous group of six hundred thirty-one school children the coefficient of correlation between mental age and vocabulary score was plus 0.91. Doctor Terman further states in the
 same article, that "the probable error of a mental age based on
 the vocabulary test alone, is only 9.6 months in the case of school
 children, and that the chances are approximately six to one that
 such a mental age will be in error more than a year and a half."
 Correlation between vocabulary score and mental age score
 would, of course, justify the vocabulary test as an intelligence
-measure if one admits the validity of the mental age as an intelli-
-gence measure. On the other hand, from the point of view of this in-
-vestigation, the high correlation which Doctor Terman discovered
+measure if one admits the validity of the mental age as an intelligence measure. On the other hand, from the point of view of this investigation, the high correlation which Doctor Terman discovered
 merely indicates the close interdependence between vocabulary and
-mental age, in other words, the vital importance played by vocabu-
-lary in a mental age rating on the Stanford Revision.
+mental age, in other words, the vital importance played by vocabulary in a mental age rating on the Stanford Revision.
 Doctor Terman states in the same article that "Portuguese and
 Italian children from homes where a foreign language is spoken,
 are, for the first two years of school life, considerably below the
-median for American children of the same mental age. The differ-
-ence, however, entirely disappears by the time the child has at-
-tained the mental age twelve years. (It is obviously true that the
+median for American children of the same mental age. The difference, however, entirely disappears by the time the child has attained the mental age twelve years. (It is obviously true that the
 child cannot attain the mental age 12 years without an adequate
 * Terman, L. M. The Vocabulary Test as a Measure of Intelligence, J. of
 Ed. Psychol. 1918, 9, 452-466
@@ -519,8 +479,7 @@ high correlation between mental age and vocabulary, it becomes
 inevitable that a vast number of these children who appear in the
 present study are foredoomed to a low mental age rating and a low
 I.Q. Every week the writer has occasion to examine children from
-one or the other of these nationality groups with findings some-
-what uniformly depressing. Test ratings on these cases, rigidly
+one or the other of these nationality groups with findings somewhat uniformly depressing. Test ratings on these cases, rigidly
 interpreted, would result in diagnosis of Borderline or Moron for
 children who probably are not even dull, as compared with their
 own nationality group.
@@ -532,38 +491,29 @@ groups. Especially, caution should be observed about "labeling"
 as borderline, doubtful, or possibly defective, children who may
 represent an average sampling from their own linguistic group.
 The writer has had enough clinic experience and contacts to realize
-the extent to which such ratings are prevalent. Pintner,5 in an ar-
-ticle on the comparison of American and foreign groups, shows
+the extent to which such ratings are prevalent. Pintner,5 in an article on the comparison of American and foreign groups, shows
 the relative standing of foreign children and American children on
 the National Intelligence Tests, and on a non-language test. His
 results show the foreign groups uniformly inferior on the National
 Intelligence Tests, but the total foreign group as equal to the
 American group, and the Polish and German groups as superior
-to the American on the non-language involving tests. He con-
-cludes with a wise note that "Caution is needed in drawing con-
-clusions as to the intelligence of foreign children when tested solely
+to the American on the non-language involving tests. He concludes with a wise note that "Caution is needed in drawing conclusions as to the intelligence of foreign children when tested solely
 by means of tests which pre-suppose the knowledge or reading of
-the English language." Just how much caution is needed is, I be-
-lieve, indicated, at least, by these very significant vocabulary find-
-ings.
-* Pintner, E. Comparison of American and Foreign children on Intelli-
-gence Tests, J. of Ed. Psychol., 1923, 14, 292-295
+the English language." Just how much caution is needed is, I believe, indicated, at least, by these very significant vocabulary findings.
+* Pintner, E. Comparison of American and Foreign children on Intelligence Tests, J. of Ed. Psychol., 1923, 14, 292-295
 VOCABULARY STUDY 21
-It is to be feared that many cases have been rated as dull, bor-
-derline, and defective, and consistently treated as such in school,
+It is to be feared that many cases have been rated as dull, borderline, and defective, and consistently treated as such in school,
 and by social agencies, where the controlling factor in the mental
 age score was the vocabulary.
 Summary
-Tests of 552 children in a foreign, industrial community, en-
-tire public school population, eight years of age and over, with
+Tests of 552 children in a foreign, industrial community, entire public school population, eight years of age and over, with
 vocabulary list I, Stanford Revision Binet Tests, oral, individual
 presentation shows:
 1. Very wide range and extremely low medians at each age
 and grade level. Medians in some cases scarcely more than half
 expected score. (Tables 1, 2, and 3.)
 2. Only 14.6 per cent of school population attain the expected
-score for their age or better. Of the mixed foreign groups (ex-
-cluding American and Jewish cases) only 8.5 per cent reach the
+score for their age or better. Of the mixed foreign groups (excluding American and Jewish cases) only 8.5 per cent reach the
 expected norm or better. Of the included small American group,
 living under identical economic and similar social conditions, 53.5
 per cent attain the expected norms for their age.
@@ -576,8 +526,7 @@ of less than eight years. No child in the group is less than eight
 years old, and only 17 per cent are under nine years of age.
 Conclusions
 1. Since, in justifying the use of a vocabulary test as a test
-of intelligence, Dr. Terman showed a correlation of plus 0.91 be-
-tween vocabulary score and mental age score on the Stanford Binet,
+of intelligence, Dr. Terman showed a correlation of plus 0.91 between vocabulary score and mental age score on the Stanford Binet,
 it becomes obvious that a large number of the children in this study
 are fore-doomed to a low mental age score.
 2. The study emphasizes in a striking way the care which

@@ -10,21 +10,16 @@ Assistant Professor of Psychology, St. Lawrence University
 Introduction
 This study is based upon standards of performance secured by
 testing children in the fifth and third grades of Philadelphia and
-its environs. Murphy 1 tested 500 fifth grade children and pub-
-lished his results in this journal. He points out that the chrono-
-logical ages represented run from eight to seventeen years, and
+its environs. Murphy 1 tested 500 fifth grade children and published his results in this journal. He points out that the chronological ages represented run from eight to seventeen years, and
 mentions that the children tested do not represent a homogeneous
 group either in respect to chronological age or school proficiency.
-He characterizes this level as that of "liminal intellectual ef-
-ficiency" and states that the child's progress through the grades
-Js differentiated through surpassing intellectual levels." Stand-
-ards, not yet published, were also secured by Genevieve McDermott
+He characterizes this level as that of "liminal intellectual efficiency" and states that the child's progress through the grades
+Js differentiated through surpassing intellectual levels." Standards, not yet published, were also secured by Genevieve McDermott
 Murphy by testing 500 children in third grade classes. She found
 the chronological ages to run from seven years and two months to
 fourteen years and eight months. In the reports of both of these
 mvestigations, the data were presented in decile form. Standards
-Were thus secured for chronological age and mental age, for In-
-telligence Quotient, for memory span (audito-vocal forward and
+Were thus secured for chronological age and mental age, for Intelligence Quotient, for memory span (audito-vocal forward and
 reverse and visuo-vocal) and for the first and second trials at the
 ^Vitmer Formboard, Witmer Cylinders, and Dearborn Formboard.
 The investigation of the fifth grade children also included an
@@ -40,11 +35,9 @@ of the group in respect to age, we limit the variability in test
 scores. The results were subjected to statistical treatment. The
 effort was then made to determine whether any relationship would
 be found to exist between the relative intellectual efficiency of
-children within the fifth grade and their proficiencies in the respec-
-tive tests.
+children within the fifth grade and their proficiencies in the respective tests.
 The word "proficiency" is here employed as used by Dr.
-Lightner Witmer.2 He defines "proficiency" as relative superi-
-ority demonstrated and expressed in terms of relative superiority
+Lightner Witmer.2 He defines "proficiency" as relative superiority demonstrated and expressed in terms of relative superiority
 or inferiority to other members of a group. It is a quantitative
 measure. The relative proficiency, at the Witmer Formboard, of
 an individual subject within the fifth grade may be expressed by
@@ -53,27 +46,21 @@ which his score places him. When we assert that a child falls within
 a group superior to 70 per cent and inferior to 20 per cent of
 fifth grade children, on the basis of time required for successful
 performance of the test we are stating his proficiency or relative
-superiority at the Witmer Formboard. Nothing is thereby men-
-tioned as to the qualitative aspects of the performance. These
+superiority at the Witmer Formboard. Nothing is thereby mentioned as to the qualitative aspects of the performance. These
 aspects are very important but do not lend themselves to statistical
-treatment. The phrase "relative intellectual efficiency" is sug-
-gested by Murphy's description of the ten-year-old child as possess-
-ing "liminal intellectual efficiency." The concept which the phrase
+treatment. The phrase "relative intellectual efficiency" is suggested by Murphy's description of the ten-year-old child as possessing "liminal intellectual efficiency." The concept which the phrase
 "relative intellectual efficiency" is intended here to express will
 be discussed later.
 Part I
 Procedure
-In the first place in order to obtain a group of fifth grade chil-
-dren more homogeneous in chronological age, the method adopted
+In the first place in order to obtain a group of fifth grade children more homogeneous in chronological age, the method adopted
 was to eliminate the deciles which varied most from the median
 chronological age. The middle 40 per cent of the age range was
 found to include those ages from ten years and four months to eleven
 years and six months. Upon the suggestion of Dr. Witmer the test
 results of the children whose chronological ages fell within this
 middle 40 per cent were first studied. By this procedure there
-were excluded both those considerably accelerated and those con-
-2 Witmer, Lightner, Psychological Diagnosis and the Psychonomic Orienta-
-tion of Analytical Science. Psychological Clinic, 1925, 1G, 1-18.
+were excluded both those considerably accelerated and those con2 Witmer, Lightner, Psychological Diagnosis and the Psychonomic Orientation of Analytical Science. Psychological Clinic, 1925, 1G, 1-18.
 STUDY OF TEST RESULTS 3
 siderably retarded for grade. There were 215 individuals in this
 group selected for study which will be referred to hereafter as
@@ -87,23 +74,19 @@ forty per cent of group II in chronological age. This smaller group
 consisted of 98 cases and will be designated as "group III. The
 same method of selection was followed with the third grade. In
 this grade group I consisted of 496 cases from seven years and two
-Months to fourteen years and eight months of age; group II con-
-sisted of 211 cases from eight years and six months to nine years
+Months to fourteen years and eight months of age; group II consisted of 211 cases from eight years and six months to nine years
 and four months of age; group III consisted of 115 cases from
 eight years and eight months to nine years of age. The decile
 tables for all these groups follow the body of this article.
 It is generally regarded as a valid assumption that the ability
 required for success at school is intellect, which Dr. Witmer defines
 as the ability to acquire, retain, organize, and use knowledge. In
-the case of groups II and III we have two factors which are rela-
-tively constant : (1) sameness of grade, i.e., the attained level of
+the case of groups II and III we have two factors which are relatively constant : (1) sameness of grade, i.e., the attained level of
 intellectual achievement, and (2) the range of age?fifteen months
 for group II and six months for group III. In the case of group
 I only the grade level is constant. It would seem legitimate to
 expect a much less wide scatter in test scores if proficiency in the
-tests and relative intellectual efficiency depend upon the same fac-
-tors. The decile tables, however, show that we do not find a limita-
-tion in range of scores at all in proportion to the limitation in the
+tests and relative intellectual efficiency depend upon the same factors. The decile tables, however, show that we do not find a limitation in range of scores at all in proportion to the limitation in the
 range of chronological ages, as will be pointed out later.
 We find in examining the fifth grade tables that while extremes
 I.Q. especially are cut off a wide variation in scores is still found.
@@ -134,29 +117,24 @@ mean, sigma, skewness, and coefficient of variation. It seemed to
 be desirable to make these calculations in the case of I.Q., mental
 age, visual memory span, Witmer Formboard (first trial), Witmer
 Cylinders (first trial), and Dearborn Formboard (first trial).
-The reason for the choice of I.Q. and of the non-verbal per-
-formance tests as bases for the comparison of group and sub-groups
+The reason for the choice of I.Q. and of the non-verbal performance tests as bases for the comparison of group and sub-groups
 is obvious. The mental age was retained as a basis for comparison,
 as it represents the total score of tests passed in the Binet-Simon
 scale. The visual memory span, rather than the auditory, was
 chosen because it had been discovered by Murphy that the greatest
-differences in memory span between the first4 and fifth grade chil-
-dren were in visual memory span. By the time the child reaches
+differences in memory span between the first4 and fifth grade children were in visual memory span. By the time the child reaches
 the fifth grade the visual span is pretty consistently one more than
 the auditory span and it was thought that the visual memory span
 might bear some relationship to what we are designating "relative
-intellectual efficiency." Actually the difference between the aver-
-age visual and the average auditory spans was found to be 1.16 for
+intellectual efficiency." Actually the difference between the average visual and the average auditory spans was found to be 1.16 for
 group I; 1.18 for group II; and 1.08 for group III. The median
 visual memory span for each group is 7 and the median auditory
 span is 6.
-The best means of comparing the groups with respect to homo-
-geneity is to examine the values of sigma and of the coefficient of
+The best means of comparing the groups with respect to homogeneity is to examine the values of sigma and of the coefficient of
 3 The writer wishes to express his appreciation to Dr. Morris S. Yiteles
 of the Department of Psychology of the University of Pennsylvania, for
 valued suggestions given as to the statistical treatment of results.
-4 Easby-Grave, Charlotte, Tests and Norms at the Six Year Old Per-
-formance Level. Psychological Clinic, 1924, 15, 261?300.
+4 Easby-Grave, Charlotte, Tests and Norms at the Six Year Old Performance Level. Psychological Clinic, 1924, 15, 261?300.
 STUDY OF TEST RESULTS 5
 variation. Garrett 5 states that the sigma is of value when the
 highest reliability is desired and when due weight must be given
@@ -167,14 +145,12 @@ sigma values for I.Q. are respectively 16.8, 12.8, and 11.5. The
 values of the coefficient of variation are respectively 16.9, 12.7, and
 11.1. With the Witmer Cylinders the elimination of variability is
 somewhat less evident. These measures appear in Tables I and Y.
-In the case of mental age, visual memory span, the Witmer Form-
-board, and the Dearborn Formboard, an increase in homogeneity is
+In the case of mental age, visual memory span, the Witmer Formboard, and the Dearborn Formboard, an increase in homogeneity is
 either absent or negligible. In tables I to IV, at the third grade
 level, we meet with similarly negative results. The method of
 forming the groups, it will be remembered, is analogous to that
 employed for the fifth grade groups.
-On the basis of sigma and of the coefficient of variation, possi-
-bly we might infer that our derived groups are more homogeneous
+On the basis of sigma and of the coefficient of variation, possibly we might infer that our derived groups are more homogeneous
 than is the whole group with respect to I.Q., and test scores at the
 ^Vitmer Cylinders, at the fifth grade level. At the third grade
 level, the derived groups may be slightly more homogeneous with
@@ -182,15 +158,12 @@ respect to I.Q. and scores at the Witmer Formboard.
 In order to examine more critically such differences as are
 found, further recourse was had to statistical treatment, as we are
 here concerned with the reliability of the obtained measures. We
-must investigate the reliability of the obtained means; their prob-
-able divergence from the true mean which we should get if we could
+must investigate the reliability of the obtained means; their probable divergence from the true mean which we should get if we could
 test all fifth grade children. The P.E. of the average serves as an
 index of reliability of the obtained mean. These obtained indices
 appear in the tables. Next we are interested in the reliability
 ?f the difference between the obtained means which is secured by
-the use of other formulae. Since we are concerned with the differ-
-ence between the means of a whole group and sub-groups, the fol-
-lowing complex formula was used instead of the usual formula
+the use of other formulae. Since we are concerned with the difference between the means of a whole group and sub-groups, the following complex formula was used instead of the usual formula
 employed when quite diverse groups are involved:
 ffy 77 2n\ n(M - m)2
 " Jiff- = \"n + - ~ N / ~ N(N ? n)2
@@ -227,14 +200,11 @@ between this sub-group and the whole group. In regard to mental
 age: the chances are 96 in 100 in the case of group II ("2" equals
 1.7) and 99 in 100 ("z" equals 2.38) in the case of group III
 that there is a true difference between group and sub-group. For
-the Cylinder test, the chances are 82 in 100 and 88 in 100 respec-
-tively in the cases of groups II and III of a true difference greater
+the Cylinder test, the chances are 82 in 100 and 88 in 100 respectively in the cases of groups II and III of a true difference greater
 than zero between group and sub-groups. The "2's" are .92 and
 1.23. It was mentioned that, at the third grade level, there is
 some suggestion of an increase in homogeneity in I.Q. and scores at
-the AVitmer Formboard in the case of the derived groups. How-
-ever, we cannot be certain of the reliability of the obtained differ-
-ences as indicative of a true difference.
+the AVitmer Formboard in the case of the derived groups. However, we cannot be certain of the reliability of the obtained differences as indicative of a true difference.
 At this point reference may be made to a report of Fernberger 7
 6 Garrett, op. cit., p. 134.
 7 Fernberger, S. W., Statistical and Non-Statistical Interpretation of Test
@@ -251,8 +221,7 @@ the distributions there is found a wide variation in test results, the
 probable errors of the differences become so great that a large "2"
 cannot be obtained. He concludes that mental tests show such a
 degree of variability within a relatively homogeneous group that
-the differences between the groups do not have statistical sig-
-nificance. In our tables, it is shown that the sigma difference,
+the differences between the groups do not have statistical significance. In our tables, it is shown that the sigma difference,
 corresponding to Fernberger's P.E. difference, is frequently large,
 especially in the case of the performance tests. In other cases we
 do obtain a value of 112" nearly or quite as great as the required 3.
@@ -274,8 +243,7 @@ homogeneous group except in respect to I.Q. and perhaps in mental
 age, at the fifth grade level. Inasmuch as the I.Q. is regarded as
 a measure of intellectual proficiency, we should expect to find a
 relationship between constancy in academic standing and constancy
-in respect to I.Q. By "constancy in academic standing" refer-
-ence is made to the fact that we are dealing with children of
+in respect to I.Q. By "constancy in academic standing" reference is made to the fact that we are dealing with children of
 approximately the same age and of the same level of intellectual
 proficiency as measured by grade in school. Greater constancy
 51 Learning, R. E., Tests and Norms for Vocational Guidance at the Fifteen
@@ -295,12 +263,10 @@ grade children if those composing the middle 40 per cent in the
 range of chronological age were tested as were secured by testing
 the larger number. Nearly the same norms would be secured by
 testing the middle 40 per cent of these, or approximately the middle
-20 per cent of the total group. This is not true of I.Q. It is inter-
-esting that with this increase in homogeneity from group I, through
+20 per cent of the total group. This is not true of I.Q. It is interesting that with this increase in homogeneity from group I, through
 group II, to group III with respect to I.Q., there is a rise in average
 I.Q. from 98.9 for group I to 101.3 for group II to 103.1 for group
-III. These sub-groups do not appear to be superior in the non-
-verbal performance tests. Apparently this conclusion would be
+III. These sub-groups do not appear to be superior in the nonverbal performance tests. Apparently this conclusion would be
 true also of third grade children.
 The reverse of this conclusion is the inference that in so far as
 the children tested are representative of fifth and of third grade
@@ -328,8 +294,7 @@ are printed in italics.
 Part II
 A Comparison of Three More Sub-groups, with the Total Group, in
 Terms of the Verbal Test Scores
-In the ease of groups II and III we were concerned with chil-
-dren of approximately the same age, the ranges being respectively
+In the ease of groups II and III we were concerned with children of approximately the same age, the ranges being respectively
 fifteen and six months. The intellectual level of the 500 fifth grade
 children tested may be regarded as having been raised to a certain
 level of achievement by the fact of inclusion within the fifth grade.
@@ -337,15 +302,12 @@ All of the children successfully doing the work of the fifth grade
 have attained this level as measured by grade. However, our
 whole group of fifth grade children, ranging in age from eight
 years and eleven months to seventeen years and three months, must
-include many children considerably accelerated and many con-
-siderably retarded for grade. Some of them may have required
+include many children considerably accelerated and many considerably retarded for grade. Some of them may have required
 a period of time twice as long as that required by others to reach
-this level. Regarding progress through the grades as a demon-
-strated proficiency in terms of "surpassing intellectual levels,'
+this level. Regarding progress through the grades as a demonstrated proficiency in terms of "surpassing intellectual levels,'
 the amount of acceleration or of retardation for grade would seem
 to furnish one index of relative intellectual efficiency. If we are
-interested in the relative intellectual efficiency of groups of chil-
-dren within the fifth grade, we must consider two factors which are
+interested in the relative intellectual efficiency of groups of children within the fifth grade, we must consider two factors which are
 involved. The constant factor is grade standing; chronological
 a?e is the variable. The ratio of the higher chronological ages of
 the retarded children to this grade level will differ from the ratio
@@ -353,15 +315,12 @@ the retarded children to this grade level will differ from the ratio
 same level. In terms of this ratio the retarded children may be
 Regarded as relatively lacking in intellectual efficiency and the
 accelerated children as relatively high in intellectual efficiency.
-Reference is made to this ratio when the phrase "relative intellec-
-tual efficiency" is employed. It may at first appear that the words
+Reference is made to this ratio when the phrase "relative intellectual efficiency" is employed. It may at first appear that the words
 proficiency'' and '1 efficiency'' as employed in this investigation are
 really synonymous. It seems possible, however, to discern a shade
-?f difference in meaning whereby the word "efficiency" is pref-
-erable when referring to the relationship between grade and age.
+?f difference in meaning whereby the word "efficiency" is preferable when referring to the relationship between grade and age.
 By "fifth grade proficiency" we mean demonstrated ability to do
-fifth grade work. "Efficiency," retaining something of its me-
-chanical signification, seems to include also the factor of time and
+fifth grade work. "Efficiency," retaining something of its mechanical signification, seems to include also the factor of time and
 effort involved in reaching this level of achievement.
 10 THE PSYCHOLOGICAL CLINIC
 Since limitation in the range of chronological ages was found
@@ -369,13 +328,11 @@ not to result in a corresponding limitation in the range of test
 scores, it is evident, as we should expect, that not the same factors
 are contributory to proficiency in each of the tests and to rate of
 progress through the grades. It seemed worthwhile, therefore, to
-compare the test scores of the accelerated pupils and of the re-
-tarded ones; to learn in which, if any, of these test scores a relative
+compare the test scores of the accelerated pupils and of the retarded ones; to learn in which, if any, of these test scores a relative
 proficiency or deficiency would be found corresponding to the
 relative acceleration or retardation for grade as the case might be.
 If the accelerated children should be found to be relatively superior
-to the retarded children in respect to any test or tests and the re-
-tarded children relatively inferior in the same, we might assume
+to the retarded children in respect to any test or tests and the retarded children relatively inferior in the same, we might assume
 some relationship between the abilities making for acceleration at
 school and for proficiency at the particular test or tests. If both
 of these groups of children should give very similar results in a
@@ -409,8 +366,7 @@ STUDY OF TEST RESULTS 11
 were those of groups II and III in the first part of this study. The
 statistical measures appear in the tables in the columns marked
 "IV" and "V." The sigma differences and the "z's," resulting
-from the division of the sigma differences into the differences be-
-tween the means of group and sub-group, also are shown. In each
+from the division of the sigma differences into the differences between the means of group and sub-group, also are shown. In each
 case we are comparing the sub-group IV or V with the whole group,
 group I.
 Group IV
@@ -424,21 +380,15 @@ lower the I.Q. The average mental age also is four months below
 that of the whole group and the "2" of 4 denotes reliability. In
 visual memory span also, this group is inferior and there is a real
 difference. The average and median audito-vocal forward spans also
-are lower for this group. If memory span is indicative of com-
-plexity of mental organization,0 or of native ability to organize
+are lower for this group. If memory span is indicative of complexity of mental organization,0 or of native ability to organize
 knowledge, we are not surprised to find a correspondence between
-relative intellectual deficiency in terms of school progress and rela-
-tive deficiency in visual memory span. At the third grade level
+relative intellectual deficiency in terms of school progress and relative deficiency in visual memory span. At the third grade level
 We find group IV, again the "old" group, significantly inferior in
-I.Q., apparently inferior in visual memory span, and slightly al-
-though not significantly superior in mental age. This slight superi-
-ority in mental age would appear to be an anomaly. The thought
+I.Q., apparently inferior in visual memory span, and slightly although not significantly superior in mental age. This slight superiority in mental age would appear to be an anomaly. The thought
 is suggested that the tests of the Binet-Simon scale up to and
 including the nine-year level?a mental age of nine years being
 roughly the mean and median for third grade children?are not
-yet of a sufficiently intellectual nature to weed out the non-intel-
-lectuals. The separation of the sheep from the goats by the Binet-
-Simon scale appears to be more thorough at the higher age levels.
+yet of a sufficiently intellectual nature to weed out the non-intellectuals. The separation of the sheep from the goats by the BinetSimon scale appears to be more thorough at the higher age levels.
 These results seem to indicate that the retarded children who are
 relatively inefficient in intellectual achievement, as we are defining
 this concept, are relatively deficient in comparison with the whole
@@ -449,8 +399,7 @@ not hold in respect to mental age.
 at the College Adult Level. Psychological Clinic, 1924, 15, 229-258.
 12 TIIE PSYCHOLOGICAL CLINIC
 Group V
-This group, called for convenience the "young" group, is com-
-posed of 137 cases ranging in chronological age from eight years
+This group, called for convenience the "young" group, is composed of 137 cases ranging in chronological age from eight years
 and eleven months to ten years and three months, representing the
 lower 30 per cent in age of the whole group at the fifth grade level.
 This group is significantly better than the whole group in I.Q. and
@@ -480,8 +429,7 @@ respect to I.Q. and visual memory span. In the case of the "old"
 group there was a relative deficiency in I.Q., mental age, and
 visual memory span at the fifth grade level. Jones states that in
 all forms of the memory span used, the median of her superior
-group was that of the high school level. That our "young" ac-
-celerated group is superior in visual memory span suggests, apart
+group was that of the high school level. That our "young" accelerated group is superior in visual memory span suggests, apart
 from the pedagogical acceleration of the group, that we are here
 concerned with children possessing some measure of intellectual
 superiority.
@@ -489,8 +437,7 @@ Jones, Alice M., An Analytical Study of One Hundred Twenty Superior
 Children. Psychological Clinic, 1925, 1G, 19-76.
 STUDY OF TEST RESULTS 13
 Group VI
-Since we are interested in the relationship of relative intel-
-lectual efficiency and of relative proficiency in I.Q., mental age,
+Since we are interested in the relationship of relative intellectual efficiency and of relative proficiency in I.Q., mental age,
 and in visual memory span, a sixth group was selected from the
 cases making up group I. Group VI is composed of 72 fifth grade
 children having reverse spans of 5 or 6. Group VI, at the third
@@ -527,8 +474,7 @@ The criterion for the selection of a corresponding group at the
 11 Starr, A. S., The Diagnostic Value of the Audito-Yoeal Digit Memory
 Span. Psychological Clinic, 1923, 15, Nos. 3-4.
 McCaulley, Selinda, A Study of the Relative Values of the Audito-Vocal
-Forward Memory Span and the Reverse Span as Diagnostic Tests. Psycho-
-logical Clinic, 1928, 16, 277-291.
+Forward Memory Span and the Reverse Span as Diagnostic Tests. Psychological Clinic, 1928, 16, 277-291.
 14 THE PSYCHOLOGICAL CLINIC
 third grade level seemed to be a reverse span of 4 or 5. At this
 level also group VI is significantly superior to the whole group in
@@ -536,8 +482,7 @@ I.Q., mental age, and in visual memory span.
 Group VI may be said to resemble the "young" group in
 respect to the factors making for success in the tests now under
 consideration. Both sub-groups are relatively superior in these
-respects but the superiority of group VI appears to be more pro-
-nounced. Inspection of both the charts and of the tables for the
+respects but the superiority of group VI appears to be more pronounced. Inspection of both the charts and of the tables for the
 third and fifth grade levels will make this clear. Thus it would
 appear that a high reverse memory span is a better criterion of
 intellectual superiority than is acceleration for grade. The high
@@ -548,67 +493,50 @@ the I.Q., the median I.Q. of group VI is five points higher than that
 of the "young" group. Should it be objected that the very fact
 of a high reverse span would tend to raise the I.Q. of group VI, we
 have still the higher visual span to consider.
-To the positive relationship obtained between relative pro-
-ficiency or deficiency in school progress (which we are calling
-"relative intellectual efficiency") and relative proficiency or de-
-ficiency in I.Q., visual memory span, and perhaps mental age, we
+To the positive relationship obtained between relative proficiency or deficiency in school progress (which we are calling
+"relative intellectual efficiency") and relative proficiency or deficiency in I.Q., visual memory span, and perhaps mental age, we
 now may add a positive relationship between these and the reverse
-memory span. To serve as a check upon this conclusion inter-
-correlations were made between I.Q., visual memory span and
-reverse memory span, at the fifth grade level. The "Product-
-Moment" method devised by Pearson was employed. The follow-
-ing r's were obtained: reverse memory span with I.Q., .436 ? .025;
+memory span. To serve as a check upon this conclusion intercorrelations were made between I.Q., visual memory span and
+reverse memory span, at the fifth grade level. The "ProductMoment" method devised by Pearson was employed. The following r's were obtained: reverse memory span with I.Q., .436 ? .025;
 reverse memory span with visual memory span, .442 ? .023; I.Q.
 with visual memory span, .40 ? .025.
 Since an "r" of -j- .40 may be regarded as indicative of a degree
 of correspondence analogous to that found to exist between siblings,
 these correlations although not high may be regarded as fitting in
-with the interrelationships otherwise obtained. The r's are ap-
-proximately sixteen times their probable errors and the number
+with the interrelationships otherwise obtained. The r's are approximately sixteen times their probable errors and the number
 of cases (500) is large. Therefore the conclusion may be drawn
 that a relationship exists between visual and reverse memory span,
 I.Q., perhaps mental age, and the factors making for success at
 school.
 STUDY OF TEST RESULTS 15
 Part III
-A Study of Groups IV, V, and VI with Regard to Relative Pro-
-ficiency at the Non-verbal Performance Tests
+A Study of Groups IV, V, and VI with Regard to Relative Proficiency at the Non-verbal Performance Tests
 If general competency may be defined as the ability "to succeed
 in the competitive events of a lifetime" or as the ability to make
 successful adaptations, we must think of it as an entity not entirely
-measurable but as involving an estimate based in part upon demon-
-strated proficiencies and upon other considerations not subject to
+measurable but as involving an estimate based in part upon demonstrated proficiencies and upon other considerations not subject to
 measurement. The proficiencies which we have been considering,
 and between which Ave have found a relationship, are only some
-?f the different proficiencies which can be demonstrated. It hap-
-pens that they have a relationship to relative intellectual pro-
-ficiency as we have defined it. Other proficiencies are required for
+?f the different proficiencies which can be demonstrated. It happens that they have a relationship to relative intellectual proficiency as we have defined it. Other proficiencies are required for
 success in the competitive events of a lifetime and it is with this in
 mind that observations and measurements are made of a number of
 test performances in the Psychological Clinic of the University of
-Pennsylvania. The three non-verbal performance tests most fre-
-quently emploj'ed are the Witmer Formboard, the Witmer Cyl-
-inders, and the Dearborn Formboard No. 1C. Reference is here
+Pennsylvania. The three non-verbal performance tests most frequently emploj'ed are the Witmer Formboard, the Witmer Cylinders, and the Dearborn Formboard No. 1C. Reference is here
 made to the various "abilities" or competencies exhibited in the
-Avay the child manipulates concrete objects, comprehends the prob-
-lem and carries it through to completion. Since it is of value in
+Avay the child manipulates concrete objects, comprehends the problem and carries it through to completion. Since it is of value in
 making an analytical diagnosis and an estimate of competency to
 discern as fully as possible the factors involved at different levels
 in the successful completion of a test, it seemed worth while to
 compare again groups IV, V, and VI, this time with reference to
 relative proficiency at these three performance tests. Since these
-groups vary in relative intellectual efficiency, a corresponding rela-
-tive proficiency or deficiencj' in scores for any test would seem to
+groups vary in relative intellectual efficiency, a corresponding relative proficiency or deficiencj' in scores for any test would seem to
 imply that the problems presented by the test were intellectual in
 character. The absence of variation between groups would seem
-to indicate that quite other factors are dominant in successful per-
-formance or else that the test is too easy at that particular level.
+to indicate that quite other factors are dominant in successful performance or else that the test is too easy at that particular level.
 In this case it becomes an efficiency test at the given level. The
-assumption is made that relative proficiency in time scores cor-
-responds to a greater development, refinement, or use of whatever
+assumption is made that relative proficiency in time scores corresponds to a greater development, refinement, or use of whatever
 abilities are involved in the performance of the test. Easby-Grave's
-study of first grade children would seem to negative this assump-
-tion at that level.
+study of first grade children would seem to negative this assumption at that level.
 16 THE PSYCHOLOGICAL CLINIC
 The Witmer Formboard
 Considering first the statistical results obtained from treatment
@@ -629,8 +557,7 @@ this is merely a test of efficiency, as no real problem exists. Murph}r,
 in the discussion of his results obtained at the fifth grade level,
 points out that the solution of the Witmer Formboard at this level
 is a display of efficiency rather than of intelligence. The present
-study further shows that it makes no distinction between the ac-
-celerated and the retarded children at this level. It may be
+study further shows that it makes no distinction between the accelerated and the retarded children at this level. It may be
 slightly selective at the third grade level. The "young" and the
 "old" groups tend to rate respectively a little poorer and a little
 better quantitatively in its solution.
@@ -639,12 +566,9 @@ This test is described by Paschal.13 Inspection of results shows
 that the differences between the whole group and the sub-groups in
 average and median scores are not significant. In no case does the
 average score of any sub-group vary from the average of the whole
-group by as much as six seconds. This is true both when the fail-
-ures are omitted and when they are included. In part I of this
+group by as much as six seconds. This is true both when the failures are omitted and when they are included. In part I of this
 study it was indicated that groups II and III appear to be slightly
-better than the whole group in average score but that the differ-
-ences are not statistically significant. When we examine the aver-
-age and median scores of the accelerated and of the retarded
+better than the whole group in average score but that the differences are not statistically significant. When we examine the average and median scores of the accelerated and of the retarded
 groups, the latter appears to be slightly superior and the former
 slightly inferior in this test. Statistical treatment of these results
 indicates that there are 84 chances in 100 ("2" equals 1.02) that
@@ -682,14 +606,12 @@ group succeed within three minutes; 54 per cent of "young" group
 succeed within three minutes. More than four minutes would be
 required to obtain 70 per cent of successes for the "young" group.
 So we seem to find an inverse relationship between intellectual
-efficiency as we have defined it?together with the related pro-
-ficiencies in I.Q., mental age, and the memory spans?and relative
+efficiency as we have defined it?together with the related proficiencies in I.Q., mental age, and the memory spans?and relative
 proficiency at the Witmer Cylinder test. The same thing may be
 true of the Witmer Formboard at the third grade level. Age,
 rather than relative intellectual efficiency, seems to make for success
 at the Cylinder test. Group VI, which pretty generally ranks
-highest in I.Q., mental age, and visual memory span, is not sig-
-nificantly different from the whole group in average score at the
+highest in I.Q., mental age, and visual memory span, is not significantly different from the whole group in average score at the
 Cylinder test. Group VI at the third grade level shows 14 per
 18 THE PSYCHOLOGICAL CLINIC
 cent of failures at this test, while the ''old" retarded group shows
@@ -705,12 +627,8 @@ represented by the fifth grade. If results at this level have any
 significance, the older subjects seem to be superior.
 All of this seems to indicate that proficiency ratings at the
 Witmer Cylinder test are not very significant at the fifth grade
-level. Like the Witmer Formboard it has, although to a less de-
-gree, become an efficiency test. This does not mean that the quali-
-tative aspects of the performance of children at this level are not
-important. At the third grade level, the test is indicative of in-
-dividual differences of some kind. The measures noted in the pre-
-ceding paragraph and the more than double number of failures
+level. Like the Witmer Formboard it has, although to a less degree, become an efficiency test. This does not mean that the qualitative aspects of the performance of children at this level are not
+important. At the third grade level, the test is indicative of individual differences of some kind. The measures noted in the preceding paragraph and the more than double number of failures
 for the "young" as compared with the "old" group suggest that
 the differences brought out by this test are dependent upon other
 factors as well as upon those of efficiency. Probably the test is
@@ -718,19 +636,14 @@ of value at this level, quantitatively as well as qualitatively. Upon
 whatever abilities success at this test depends, evidently they are
 other than those which characterize relative intellectual efficiency.
 The Dearborn Formboard
-Learning states that the Dearborn Formboard 15 seems to pro-
-vide a real intelligence test for the fifteen-year-old level. More
+Learning states that the Dearborn Formboard 15 seems to provide a real intelligence test for the fifteen-year-old level. More
 recent investigations have disclosed that, reducing the time limit
-to five minutes, approximately 30 per cent of fifth grade chil-
-dren and about 70 per cent of third grade children fail. Clearly
+to five minutes, approximately 30 per cent of fifth grade children and about 70 per cent of third grade children fail. Clearly
 the test is too hard to be of much value at the third grade level,
 but it is surely of value at the fifth and probably at the fourth
-grade level. Learning and others have indicated the great im-
-portance of this test. Because of its complexity "it gives the ex-
-14 Paschal, F. C., A Report on the Standardization of the Witmer Cylinder
+grade level. Learning and others have indicated the great importance of this test. Because of its complexity "it gives the ex14 Paschal, F. C., A Report on the Standardization of the Witmer Cylinder
 Test. Psychological Clinic, 1918, 12, 54-59.
-is W. F. Dearborn, J. E. Anderson, A. Christiansen, Formboard and Con-
-struction Tests of Mental Ability. Journal of Educational Psychology, 1916,
+is W. F. Dearborn, J. E. Anderson, A. Christiansen, Formboard and Construction Tests of Mental Ability. Journal of Educational Psychology, 1916,
 7, 448.
 STUDY OF TEST RESULTS 19
 aminer an insight into the way the child sets about solving new
@@ -740,16 +653,13 @@ the forms must be reconstructed in such a way as to fill up the
 empty spaces. Judgment is involved and displayed in the way
 that the subject goes about the solution of the problem.
 Inspection of table 6 shows the remarkable similarity between
-the different results of the whole group and of the two sub-
-groups discussed in the first part of this study. When we turn
+the different results of the whole group and of the two subgroups discussed in the first part of this study. When we turn
 our attention to groups IV and V we find that the "old" group
 (group IV) appears to be a little poorer than the whole group
 although statistically the difference is not significant. Ihe 2'
 is 1.33. The apparent superiority of the "young" group to the
 whole group is about as great as the apparent inferiority of the
-"old" group. The differences are more pronounced when we in-
-clude failures. With the ten minute time limit for successful per-
-formance of the test, 11.5 per cent of the "old" group and 5 per
+"old" group. The differences are more pronounced when we include failures. With the ten minute time limit for successful performance of the test, 11.5 per cent of the "old" group and 5 per
 cent of the "young" group are unsuccessful. When we reduce
 the time limit to five minutes, less than 22 per cent of the "young"
 group fail while 34 per cent of the "old" group fail to complete
@@ -757,13 +667,10 @@ the test. Statistically the superiority of the "young" group is not
 quite established. There are 99 chances in 100 ("2" equals 2.3)
 ?f a true difference greater than zero between the whole group and
 this sub-group.
-If we now look to the relative proficiency at the Dearborn Form-
-hoard of group VI, the group with high reverse memory span, we
+If we now look to the relative proficiency at the Dearborn Formhoard of group VI, the group with high reverse memory span, we
 find very little difference between the means and medians of the
-whole group and sub-group when failures are omitted in the statis-
-tical treatment of results. The measures are shown in the tables.
-However, when we include failures, treating them as already in-
-dicated, the difference is emphasized. The mean of group VI is
+whole group and sub-group when failures are omitted in the statistical treatment of results. The measures are shown in the tables.
+However, when we include failures, treating them as already indicated, the difference is emphasized. The mean of group VI is
 29 seconds lower (better) than that of the whole group. The
 medians also of the sub-group are better. Making due allowance
 for the difference in size of the group and sub-group, failures occur
@@ -776,8 +683,7 @@ group shows the lowest per cent of failures. Perhaps in this young
 accelerated group we meet with ji speed factor which takes the
 20 THE PSYCHOLOGICAL CLINIC
 form in this test of a quicker perception of form relations, analysis
-of the problem, and quickness of problem solving ability. Statis-
-tically, there are 97 chances in 100 ("z" equals 1.9) that there is a
+of the problem, and quickness of problem solving ability. Statistically, there are 97 chances in 100 ("z" equals 1.9) that there is a
 true difference greater than zero between sub-group VI and the
 whole group.
 The test scores of the groups which we are now studying at the
@@ -823,8 +729,7 @@ fifth grade level.
 Summarizing the findings relative to the proficiencies of the
 whole fifth grade group and of the sub-groups, we find that the
 "young" group and the group characterized by high reverse span
-appear to be superior at this test, although we do not obtain statis-
-tical certainty. Leaving failures out of consideration, the "young"
+appear to be superior at this test, although we do not obtain statistical certainty. Leaving failures out of consideration, the "young"
 group may prove to be a little quicker in the performance of the
 test. With the short time limit, the per cent of failures is lowest
 for the "young" group; with the long time limit the per cent of
@@ -832,8 +737,7 @@ failures is lowest for group VI. The "old" group is probably
 poorer at this test and gives relatively more failures. Relating
 these findings to those of part 2, we state that those groups which
 proved to be relatively more superior in I.Q., mental age, and visual
-memory span, also show relative superiority at the Dearborn Form-
-board. Group IV?the "old" group?is relatively deficient in
+memory span, also show relative superiority at the Dearborn Formboard. Group IV?the "old" group?is relatively deficient in
 these factors and at the Dearborn Formboard.
 Scores at the three performance tests were then correlated with
 '?Q. and reverse memory span, using the "Product-Moment"
@@ -867,16 +771,13 @@ Witmer Formboard and Cylinders.
 22 THE PSYCHOLOGICAL CLINIC
 General Discussion
 At the third grade level, the Cylinder test seems to be selective
-of relative superiority or inferiority in whatever abilities are in-
-volved in rapid performance of the test. Since the "old" group
+of relative superiority or inferiority in whatever abilities are involved in rapid performance of the test. Since the "old" group
 is significantly better and the "young" group significantly poorer
 than the whole group and since 91 failures occur within the whole
-group, the test does seem to present a problem at this level. Ef-
-ficiency rather than intelligence on the part of fifth grade children
+group, the test does seem to present a problem at this level. Efficiency rather than intelligence on the part of fifth grade children
 appears to be involved in success at the Cylinder test. Only 17
 failures occur within the whole group and the apparent differences
-between the sub-groups are much less pronounced. Proficiency rat-
-ings are of little significance except as efficiency indices. There
+between the sub-groups are much less pronounced. Proficiency ratings are of little significance except as efficiency indices. There
 appears to be no positive relationship between what we have called
 "relative intellectual efficiency" and relative proficiency at the
 Cylinders. Whatever relationship may exist, appears to be a
@@ -890,13 +791,11 @@ Dearborn Formboard includes those which are related to mental
 complexity of the kind probably tapped by the memory span tests.
 The fact that the "old" group is probably relatively inferior at the
 Dearborn test suggests that the relative deficiency of the "old"
-group in the factors making for progress at school more than out-
-weighs the contribution of more specific abilities also involved in
+group in the factors making for progress at school more than outweighs the contribution of more specific abilities also involved in
 successful completion of the test.
 Conclusions
 1. For practical purposes in securing norms for fifth grade
-children, essentially the same results would be secured if the chil-
-dren composing the middle 40 per cent in chronological age range
+children, essentially the same results would be secured if the children composing the middle 40 per cent in chronological age range
 were tested as were secured by testing 500 children. Nearly the
 same results would be secured by testing the middle 20 per cent
 in age range. This is not true of I.Q.
@@ -905,8 +804,7 @@ in visual and reverse memory span, I.Q., and the factors making
 for proficiency in progress through the grades.
 Freeman, F. N., Mental Tests. New York: Houghton and Mifflin. 1926.
 STUDY OF TEST RESULTS 23
-3. Proficiency ratings at the Witmer Formboard and the Wit-
-mer Cylinders are not significant at the fifth grade level except as
+3. Proficiency ratings at the Witmer Formboard and the Witmer Cylinders are not significant at the fifth grade level except as
 efficiency indices.
 4. The findings of this study indicate that the visual memory
 span is as indicative of intellectual competency as is the reverse
@@ -918,8 +816,7 @@ BIBLIOGRAPHY
 Bkotemarkle, R. A. Some Memory Span Problems?An Analytical Study
 at the College Adult Level. Psychological Clinic, 1924, 15, 229?258.
 Dearborn, W. F., Anderson, J. E., Christiansen, A. O. Formboard and
-Construction Tests of Mental Ability. Journal of Educational Psychol-
-ogy, 1916, 7, 445-458.
+Construction Tests of Mental Ability. Journal of Educational Psychology, 1916, 7, 445-458.
 Easby-Grave, Charlotte. Tests and Norms at the Six Year Old Performance
 Level. Psychological Clinic, 1924, 15, 261-300.
 Fernberger, S. W. Statistical and Non-Statistical Interpretation of Test
@@ -932,13 +829,11 @@ Children. Psychological Clinic, 1925, 16, 19-76.
 Leaming, R. E. Tests and Norms for Vocational Guidance at the Fifteen
 Year Old Performance Level. Psychological Clinic, 1922, 14, 193-220.
 McCaulley, Selinda. A Study of the Relative Values of the Audito-Vocal
-Forward Memory Span and the Reverse Span as Diagnostic Tests. Psy-
-chological Clinic-, 1928, 16, 277-291.
+Forward Memory Span and the Reverse Span as Diagnostic Tests. Psychological Clinic-, 1928, 16, 277-291.
 Murphy, Miles. The Ten Year Level of Competency. Psychological Clinic,
 1928, 17, 33-60.
 Paschal, F. C. The Witmer Cylinders. Hershey Press, Hershey, Pa.
-. A Report on the Standardization of the Witmer Cylinder Test. Psycho-
-logical Clinic, 1918, 12, 54-59.
+. A Report on the Standardization of the Witmer Cylinder Test. Psychological Clinic, 1918, 12, 54-59.
 Starr, A. S. The Diagnostic Value of the Audito-Vocal Digit Memory Span.
 Psychological Clinic, 1923, 15, Nos. 3-4.
 Witmer, Ligiitner. Intelligence?A Definition. Psychological Clinic, 1922,
@@ -1152,8 +1047,7 @@ span and the Dearborn Formboard at the third grade level. The decile tables
 for group VI are likewise omitted in botli grades. Mental age is shown in
 months; time for the performance tests is given in seconds. Unless otherwise
 indicated the skewness is positive. In only two cases was it negative; the plus
-signs were omitted where the skewness was positive. The numbers in paren-
-theses after "F" indicate number of failures.
+signs were omitted where the skewness was positive. The numbers in parentheses after "F" indicate number of failures.
 STUDY OF TEST RESULTS 25
 Table V
 Wither Cylinders (First Trial)
@@ -1258,8 +1152,7 @@ Sk.
 58.5
 54.7
 P.E. ...
-Mean bl?ma dlff-
-4.87
+Mean bl?ma dlff4.87
 7.68 8.43 .64
 10.89 14.0 .18
 9.27 11.79 1.33
@@ -1290,8 +1183,7 @@ Sk.
 10.2
 14.0
 P E
-Mean S'Kma dlff-
-.43
+Mean S'Kma dlff.43
 .53 .88 1.19
 .78 1.06 1.27
 .76 .94 12.5
@@ -1320,8 +1212,7 @@ Sk.
 11.6
 9.3
 9.9
-Mean SiKma diff-
-.34
+Mean SiKma diff.34
 .52
 .78
 .72 .88 .90
@@ -2297,8 +2188,7 @@ F(67)
 9-4
 9-3
 9-2
-9-
-8-11
+98-11
 8-10
 8-6
 8-6
@@ -2313,9 +2203,7 @@ F(67)
 8-4
 8-3
 7-9
-7-
-7-
-143.7
+77143.7
 132
 116.3
 109.5
@@ -2429,8 +2317,7 @@ I
 D.F.B.
 II
 9
-9-
-8-11
+98-11
 8-11
 8-10
 8-10
@@ -2446,8 +2333,7 @@ II
 9-6
 8-6
 8-3
-8-
-7-9
+87-9
 7
 7
 143.7
@@ -2582,12 +2468,9 @@ II
 10-3
 9-6
 9-3
-9-
-9-
-5-9
+995-9
 8-6
-8-
-7-9
+87-9
 6-6
 6-6
 143.7
@@ -2720,8 +2603,7 @@ tr ""I
 jf5 10-10
 10-1
 H 9-3
-o 3 9-
-8-2 8-9
+o 3 98-2 8-9
 t 8-6
 8-6
 7-H 8-3

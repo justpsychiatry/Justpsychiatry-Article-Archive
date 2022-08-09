@@ -22,16 +22,12 @@ the normal is qualitative rather than quantitative.
 We assume it is on the basis of these sweeping generalizations,
 which, we are led to conclude, represent merely the personal opinion
 of the authors as no supporting facts are adduced, that the conclusion
-has been drawn that the feebleminded "scatter" more in the Binet-
-Simon scale than do normal children, i. e. they fail on more tests
+has been drawn that the feebleminded "scatter" more in the BinetSimon scale than do normal children, i. e. they fail on more tests
 m lower age levels while passing more tests in various age levels
 above the basal age than do the normals. This alleged fact has
 almost been given the significance of a pathognomonic sign by
-which we are able to identify those who are "potentially feeble-
-minded," and by which we are thus enabled to make an early prog-
-nosis of feeblemindedness in the case of doubtful children who
-scatter" considerably, but who cannot be diagnosed as feeble-
-minded on the basis of the degree of mental deficiency which they
+which we are able to identify those who are "potentially feebleminded," and by which we are thus enabled to make an early prognosis of feeblemindedness in the case of doubtful children who
+scatter" considerably, but who cannot be diagnosed as feebleminded on the basis of the degree of mental deficiency which they
 evince. Thus we find Doll2 affirming that "In general a normal
 child develops intellectually more consisently than a potential
 defective. The component mental processes which determine the
@@ -65,16 +61,14 @@ than normal children. We do not know that any one has thus far
 presented any experimental data in support of the correctness of
 this hypothesis. Doll's conclusions are admittedly tentative:
 "It is at present only a result of observation that such differences
-do exist and experiment has too often demonstrated that observa-
-tion is mistaken." We have ourselves already called attention to
+do exist and experiment has too often demonstrated that observation is mistaken." We have ourselves already called attention to
 the extensive scattering on the Binet-Simon scale by epileptics
 (which we noted as early as 1910) and by insane subjects.1 From
 our data which have thus far appeared in print it has not been
 possible to determine the extent of the excess of scattering found
 among the epileptics and the insane as compared with other classes
 of persons. During the last eight years we have occasionally noticed
-that some feebleminded subjects scatter very widely on the Binet-
-Simon scale, while other feebleminded subjects scatter very little.
+that some feebleminded subjects scatter very widely on the BinetSimon scale, while other feebleminded subjects scatter very little.
 We, however, deemed it inadvisable to attempt to compile definite
 figures until we had a considerable accumulation of data available.
 We now have records for thousands of subjects whom we have
@@ -91,8 +85,7 @@ Clinic conducted by the Board of Education in the City of St. Louis.
 These cases were diagnosed as follows: normal, 5.5 per cent; retarded,
 7.9 per cent; backward, 38 per cent; borderline, 12.5 per cent;
 deferred, 6.4 per cent; and feebleminded, 29.4 per cent (morons,
-17.1 per cent and imbeciles 12.2 per cent). The average chrono-
-logical age of the boys was 11.10 years; of the girls, 10.87; and of
+17.1 per cent and imbeciles 12.2 per cent). The average chronological age of the boys was 11.10 years; of the girls, 10.87; and of
 both sexes, 11.07.
 Results.
 Table I shows the number of advance points which were earned
@@ -238,8 +231,7 @@ number of advance points were earned by the morons, followed by
 the imbeciles, while the greatest number were earned by the normal,
 followed by the backward. The same number of points were earned
 by the retarded and borderline. The greatest difference in the
-number of advance points earned is between the normal and border-
-line, amounting to .30 of a year. Exclusive of these two categories
+number of advance points earned is between the normal and borderline, amounting to .30 of a year. Exclusive of these two categories
 the greatest difference amounts to only .14 of a year, while the
 difference between those four of the seven categories which show
 the smallest difference varies from 0 to .10?differences which, in
@@ -248,8 +240,7 @@ For the boys, 1911 scale, the smallest scattering is among the
 morons, followed by the imbeciles; and for the girls, among the
 retarded, followed by the morons and imbeciles, whose averages
 are the same. The greatest scattering for both the boys and the
-girls is among the normals, followed by the backward. (The scatter-
-ing is the same among the girl morons and imbeciles.) The result
+girls is among the normals, followed by the backward. (The scattering is the same among the girl morons and imbeciles.) The result
 for the two sexes are in complete agreement with respect to the
 groups which scatter most, but in less close agreement with respect
 to the groups which scatter least. The extreme difference among
@@ -274,20 +265,17 @@ extreme categories is greater with the 1908 scale than with the
 1911 scale, but the differences are not'very pronounced with either
 scale.
 In order to lessen the number of categories, which may bring
-out more clearly the alleged tendency of the feebleminded or sub-
-normal to scatter more extensively than the normal, we have
+out more clearly the alleged tendency of the feebleminded or subnormal to scatter more extensively than the normal, we have
 reclassified the subjects in table II into three groups. The "normal"
 group comprises the backward and the retarded, who are certainly
 not feebleminded, as well as those who were technically classified
-as "normal" in table I. The subnormal group includes the border-
-line, deferred, morons, and imbeciles, all clearly below normal,
+as "normal" in table I. The subnormal group includes the borderline, deferred, morons, and imbeciles, all clearly below normal,
 while the feebleminded group is limited to those who have been
 classified as morons and imbeciles.
 Based on the averages for the two sexes the greatest scattering
 occurs among the normals and the least among the feebleminded,
 when using the 1911 scale. But the difference amounts to only
-?16 of a year. The difference between the normal and the sub-
-normal categories is greater (.12 of a year) than the difference between
+?16 of a year. The difference between the normal and the subnormal categories is greater (.12 of a year) than the difference between
 the subnormal and the feebleminded (.04). On the other hand,
 when using the 1908 scale the scattering is least among the normals,
 while it is the same among the subnormal and the feebleminded.
@@ -301,12 +289,9 @@ to only .14 of a year, and among the girls to only .04 of a year.
 184 THE PSYCHOLOGICAL CLINIC.
 Table II.?Advance Points earned according to the 1908 and 1911 Scales.
 Bots
-Normal (including 'back-
-ward," "retarded" and
+Normal (including 'backward," "retarded" and
 "normal")
-Subnormal (including "mo-
-rons," "imbeciles," border-
-line" and "deferred")
+Subnormal (including "morons," "imbeciles," borderline" and "deferred")
 Feebleminded (including
 "morons'' and " imbeciles ")
 No.
@@ -494,19 +479,16 @@ SCATTERING IN THE BINET-SIMON SCALE. 187
 Wst among the normal and backward. The proportion of those
 who passed from 6 to 10 advance tests according to the 1908 scale
 was greatest among the deferred and morons (closely followed by
-the imbeciles), and least among the normal, retarded and back-
-ward; while according to the 1911 scale the ratio was greatest among
+the imbeciles), and least among the normal, retarded and backward; while according to the 1911 scale the ratio was greatest among
 the borderline and imbeciles (closely followed by the normals),
 and least among the retarded and morons.
 It is evident, therefore, that the scattering according to the
 1908 scale is greatest among the morons and deferred children,
-some of the latter of whom will probably later prove to be feeble-
-minded, and least among the imbeciles and the borderline, some in
+some of the latter of whom will probably later prove to be feebleminded, and least among the imbeciles and the borderline, some in
 the later group being cases of so-called potential feeblemindedness.
 On the other hand, the scattering according to the 1911 scale is
 greatest among the normal cases (specifically the "normal,"
-"retarded" and "backward") and least among the mental defec-
-tives?i. e. the "borderline," "morons" and "imbeciles." Most
+"retarded" and "backward") and least among the mental defectives?i. e. the "borderline," "morons" and "imbeciles." Most
 of these results harmonize with those based on the analyses of the
 averages, pp. 181 to 184.
 If we adhere to the assumption which is usually made that the
@@ -521,8 +503,7 @@ analysis of the mental status of the normal cases by the 1908 scale,
 to be made presently.
 The data we have tabulated permit us to make yet another
 comparison. In table Y we give the average range of ages in which
-one or more tests were passed by the subjects in the different classi-
-fication. The "range" for each subject includes all the ages between
+one or more tests were passed by the subjects in the different classification. The "range" for each subject includes all the ages between
 and including the basal age and the highest age in which at least
 one test was passed. It does not necessarily imply that one or
 more tests were passed in all the ages between the "basal" and the
@@ -546,8 +527,7 @@ should also emphasize that the difference between the higher ages
 is, in general, smaller than the difference between the lower ages,
 while Age XV and the adult age are largely hypothetical. It is
 evident that the errors which arise from the above shortcomings
-affect particularly the older or more intelligent cases. Space limi-
-tations will restrict the comparisons to the averages for the two
+affect particularly the older or more intelligent cases. Space limitations will restrict the comparisons to the averages for the two
 sexes.
 Table V.?Average Number op Ages in which Tests were passed.
 Bots
@@ -619,8 +599,7 @@ is confined to the smallest range of ages among the normals, for an
 examination of the unabridged tables, which are not here reproduced,
 shows that a large proportion of the normal subjects graded in the
 higher Binet ages?by which we refer to a base of X or above?
-while a merely negligible number of those in the three other classi-
-fications reached a X-year base. Forty-two per cent of the normals
+while a merely negligible number of those in the three other classifications reached a X-year base. Forty-two per cent of the normals
 'Wide Range versus Narrow Range Binet-Simon Testing, Journal of Delinquency, 1917, p. 315ff.
 SCATTERING IN THE BINET-SIMON SCALE. 189
 had a base of from X to XIII,1 while only 1.8 per cent (one case)
@@ -630,8 +609,7 @@ VI. None of the morons reached X except those with a X-year
 base. Only one imbecile reached a VH-year base and only two a
 VI-year base. It is clear, therefore, that the reason the passed tests
 did not scatter over a wider range of ages for the normal subjects
-is that almost half of them had such a high base that it was impos-
-sible to give them as many higher tests as could be given to the
+is that almost half of them had such a high base that it was impossible to give them as many higher tests as could be given to the
 subjects in the other groups, owing to the lack of tests in ages above
 XIII and the relatively few tests available in ages XII and XIII?
 and the further fact that the tests in XII and XIII are admittedly
@@ -712,8 +690,7 @@ was 2.9 less than for the retarded subjects, and 3.4 less than for the
 * Sometimes due to this lack of higher tests in the scale, and sometimes due to the fact that the diagnosis did
 not present any difficulty, in consequence of which the examinations were occasionally curtailed because of the
 limited time at our disposal.
-1 Only those ages are included here in which all the tests were given. Because of time limitations it was some-
-times necessary to omit the longer tests in certain ages.
+1 Only those ages are included here in which all the tests were given. Because of time limitations it was sometimes necessary to omit the longer tests in certain ages.
 190 THE PSYCHOLOGICAL CLINIC.
 backward subjects. These three classes were given the fewest
 advance tests. On the other hand, the groups which were given
@@ -812,8 +789,7 @@ less than for our subnormal and feebleminded groups in Table II.
 I do not believe, however, that we can accept these figures at their
 face value, owing to the fact that 28 per cent of the insane passed
 Age XIII, and therefore could not earn any advance credits, because
-of the limitation of the scale, while only .47 per cent of the normal-
-subnormal group passed Age XIII.2 As a matter of fact, the average
+of the limitation of the scale, while only .47 per cent of the normalsubnormal group passed Age XIII.2 As a matter of fact, the average
 number of advance credits won by the insane patients who graded
 below X was 7.3 (median 6.5), which is somewhat higher than for
 any of the normal-subnormal classifications, while for those who
@@ -834,12 +810,10 @@ thesis. It has not yet been experimentally demonstrated that the
 mental "irregularity" is so much more pronounced in dements
 than in other types of the insane or in the epileptic or feebleminded
 that this phenomenon can be used as a pathognomonic sign of
-dementia. The amount of irregularity, as measured by Binet-
-Simon scattering, is not greater among the few dements that we
+dementia. The amount of irregularity, as measured by BinetSimon scattering, is not greater among the few dements that we
 have examined than among the feebleminded.
 2. In consequence of the above facts it is not safe to attempt to
-diagnose any one as potentially feebleminded or actually feeble-
-minded on the basis of unevenness of mental development, as
+diagnose any one as potentially feebleminded or actually feebleminded on the basis of unevenness of mental development, as
 evinced by extensive scattering on the Binet scale. It is possible
 for an expert who is familiar with the entire symptom complex of
 1 Cf. Problems of Subnormality, p. 163; and Wide Range versus Narrow Range Binet-Simon Testing,Journal
@@ -849,14 +823,11 @@ of Delinquency, 1917, Table I, p. 316.
 SCATTERING IN THE BINET-SIMON SCALE. 193
 special types of mental defectives to make a reliable diagnosis in
 the case of young children, even though the extent of the mental
-deficiency at the time is not sufficient to constitute the child feeble-
-minded. But the number of mental deficients who can be thus
+deficiency at the time is not sufficient to constitute the child feebleminded. But the number of mental deficients who can be thus
 reliably diagnosed early as feebleminded is probably smaller than
 has been ordinarily supposed. So far as the majority of cases are
-concerned we are not justified in making a diagnosis of feebleminded-
-ness, unless we find a pronounced degree of backwardness and
-unless we are reasonably sure of its permanent character. Feeble-
-mindedness, psychologically considered, means ineradicable arrest
+concerned we are not justified in making a diagnosis of feeblemindedness, unless we find a pronounced degree of backwardness and
+unless we are reasonably sure of its permanent character. Feeblemindedness, psychologically considered, means ineradicable arrest
 of mental development, dating from birth or from early life, of a
 very serious degree. This is of primary moment; whether or not
 the child is uneven in his mental development is of secondary
@@ -868,14 +839,12 @@ extensive "scattering" or unevenness of mental development among
 the feebleminded. On the contrary, we believe that the qualitative
 differences are ultimately resolvable into quantitative differences.
 When it is said that the normal child has a logical memory and the
-feebleminded child a rote memory it is not implied that the feeble-
-minded child is utterly devoid of logical memory, so that he is unable
+feebleminded child a rote memory it is not implied that the feebleminded child is utterly devoid of logical memory, so that he is unable
 to memorize or retain through a comprehension of the logical context.
 He has logical memory, but far less of it than the normal child.
 What he has is probably of the same kind as the normal child, but
 it is weaker in degree.
-4. There has been a tendency throughout this and other coun-
-tries, to which we have called special attention elsewhere,1 to assign
+4. There has been a tendency throughout this and other countries, to which we have called special attention elsewhere,1 to assign
 so-called potential mental defectives to special classes which were
 definitely established for "mentally defective" or feebleminded
 children on the assumption that such children would eventually
@@ -883,10 +852,8 @@ prove to be feebleminded. In consequence of this tendency, a
 large proportion of children who are dull, slow or backward, but
 not feebleminded, have been assigned to classes instituted for, and
 largely attended by, feebleminded children. We believe that this
-practice is educationally and socially unwise. The non-feeble-
-minded and doubtful types of mentally backward children should
-be assigned to ungraded classes, where the work can be more ade-
-quately adjusted to their needs. We have elsewhere outlined a
+practice is educationally and socially unwise. The non-feebleminded and doubtful types of mentally backward children should
+be assigned to ungraded classes, where the work can be more adequately adjusted to their needs. We have elsewhere outlined a
 plan for the organization of such classes, the practical workability
 1 Problems of Subnormality, 1917, Chapter I.
 194 THE PSYCHOLOGICAL CLINIC.
@@ -927,8 +894,7 @@ for the two sexes, namely, among the retarded children. On the
 other hand, the ratio of cases in which the 1911 base is lower than
 the 1908 varies from 39 per cent, among the deferred cases, to 70
 per cent, among the normal cases. In five of the seven classifications
-the 1911 base is lower than the 1908 for more than half of the sub-
-jects. In two classifications the bases are the same for more than
+the 1911 base is lower than the 1908 for more than half of the subjects. In two classifications the bases are the same for more than
 half of the subjects, while the percentage having equal bases in
 the other classifications varies from 27 to 45.
 It is evident, from the above figures, that one reason, at least,
@@ -1015,8 +981,7 @@ Both
 45
 54
 30
-and 1908 scales when the subjects are classified according to Binet-
-Simon age, compute the differences in the mental-age rating by the
+and 1908 scales when the subjects are classified according to BinetSimon age, compute the differences in the mental-age rating by the
 two scales, and analyze the data for the individual tests. We also
 expect in future to study the scattering in another scale which we
 are now using. Thus far we have found just as much scattering

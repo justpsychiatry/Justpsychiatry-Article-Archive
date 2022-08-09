@@ -30,8 +30,7 @@ best light available.
 All instructions to the child are positive. In no case is he given
 any help or suggestion. He is not given any instructions other than
 those included in the standard directions. Inability to follow these
-standard directions or to complete the test correctly without addi-
-tional instruction constitutes a failure and is labelled DNC, which
+standard directions or to complete the test correctly without additional instruction constitutes a failure and is labelled DNC, which
 means, Did Not Complete. The entire test consists of three trials
 given in as rapid succession as possible.
 First Trial. As soon as the subject has his correct position in
@@ -74,21 +73,17 @@ above their respective recesses. Since the examiner, in repeating
 the test, tends unconsciously to fall into the habit of removing the
 blocks always in a certain manner, it seemed advisable to determine
 the proper course of this habit before it was formed and thereby be
-assured that it will not defeat its purpose. The following arrange-
-ment was therefore decided upon and rigidly followed.
+assured that it will not defeat its purpose. The following arrangement was therefore decided upon and rigidly followed.
 The blocks are placed in the tray, arranged in three piles. One
-pile is set in the tray directly above the square and contains the semi-
-circle, the elongated hexagon, the isoceles triangle and the star. The
+pile is set in the tray directly above the square and contains the semicircle, the elongated hexagon, the isoceles triangle and the star. The
 second pile is placed in the middle of the tray and contains the
 diamond, the rectangle, and the equilateral triangle. The third pile
-is placed in the tray directly above the equilateral triangle and con-
-tains the square, the circle, the elongated oval and the maltese cross.
+is placed in the tray directly above the equilateral triangle and contains the square, the circle, the elongated oval and the maltese cross.
 THE WITHER FORMBOARD. 87
 The blocks of each pile are picked out of their recesses with one hand
 by taking them in the order named above. Thus the middle pile is
 formed by picking up the diamond, and placing it on the rectangle,
-then picking up these two and placing them on the equilateral tri-
-angle and then picking up all three and placing them in the middle
+then picking up these two and placing them on the equilateral triangle and then picking up all three and placing them in the middle
 of the tray.
 While the blocks are being removed in the manner described
 above, the examiner says, "Now I am going to take the blocks out
@@ -115,8 +110,7 @@ The shortest trial time was chosen as the index largely on the basis
 of work done by Sylvester which showed it to be the least variable
 of several indices.1 Other criteria which have been set up within
 the last few years indicate that the shortest of three trials is not a
-thoroughly satisfactory index of formboard ability. Recent investi-
-gations in differential psychology show that indices which reveal
+thoroughly satisfactory index of formboard ability. Recent investigations in differential psychology show that indices which reveal
 and vary with individual differences must be employed in clinical
 practice.
 Pintner and Paterson have computed the correlation of five
@@ -125,8 +119,7 @@ an interval of one year.2 These indices and correlations arranged
 in rank order are:
 1 Sylvester, Reuel Hull. The Formboard Test. Psychological Monographs, Vol. XV, No. 4. September,
 191o, Whole No. 65. Princeton, N. J.
-2 Pintner, Rudolf and Paterson, Donald G. A Discussion of the Index of Formboard Ability. The Psy-
-chological Clinic, 1916, X, 192-198.
+2 Pintner, Rudolf and Paterson, Donald G. A Discussion of the Index of Formboard Ability. The Psychological Clinic, 1916, X, 192-198.
 88 THE PSYCHOLOGICAL CLINIC.
 Index.
 P. E.
@@ -152,8 +145,7 @@ be interpreted, as much as upon its correlation. The average of
 three trials is a composite value which tends to smooth over individual
 differences just as it does chance facilitating the hindering influences.
 It is an averaging of (1) a child's adaptation to an initial attack upon
-a new problem as brought out by the first trial with (2) his improve-
-ment on the same task as brought out on the last two trials. Such
+a new problem as brought out by the first trial with (2) his improvement on the same task as brought out on the last two trials. Such
 a generalization has little definite psychological value, and as an
 index of formboard ability has less value than any of the other four
 indices. The shortest of three trials ranks third in correlation value.
@@ -165,8 +157,7 @@ trials. It falls most frequently on the third trial or after two practice
 trials. Because with different people it comes after unequal practice
 periods it can scarcely be considered a satisfactory standardizable
 index.
-Each of the three trials has more definite psychological signifi-
-cance than either the average or shortest of three trials. The first
+Each of the three trials has more definite psychological significance than either the average or shortest of three trials. The first
 trial is an individual's initial reaction to the formboard as a new
 problem. The second trial is his reaction after one practice trial,
 while the third is his reaction after two practice trials.
@@ -177,21 +168,17 @@ little value as an index of ability to learn or of trainability except as
 indicated by the reduction in time from that of the first trial.
 As the second trial time by itself does not permit of definite
 psychological interpretation, it must be compared with the first trial
-record to secure its definite significance. This requires the introduc-
-tion of one or two additional steps in the computation of the signifi-
-THE WITMER FORMBOARD. 89
+record to secure its definite significance. This requires the introduction of one or two additional steps in the computation of the signifiTHE WITMER FORMBOARD. 89
 cant index from the second trial time. It is doubtful if for practical
 purposes this index is valuable enough to justify its computation.
 As the third trial time is a statistical index of a child's formboard
 ability after two practice trials, its definite psychological value can
 be obtained only by subjecting it to statistical treatment similar to,
-but probably more complicated than that indicated above as neces-
-sary for the second trial time. The third trial time without such
+but probably more complicated than that indicated above as necessary for the second trial time. The third trial time without such
 interpretation has little definite psychological value.
 The first trial time is a statistical index of a child's formboard
 ability without previous acquaintance or practice on this specific
-problem. As such it emphasizes his proficiency in utilizing some-
-what similar, yet dissimilar previous experiences in the solution and
+problem. As such it emphasizes his proficiency in utilizing somewhat similar, yet dissimilar previous experiences in the solution and
 execution of this particular new problem. There is no obvious reason
 why a child's initial reaction to the formboard should differ materially
 from his initial reaction to other new problems. The only advantage
@@ -218,8 +205,7 @@ all other indices considered.
 This discussion of the psychological significance of formboard
 time records should not be construed to imply that psychological
 interpretations of this test should be restricted to the manipulation
-and interpretation of statistical data. Other psychologically sig-
-nificant features and limitations of this test which should always be
+and interpretation of statistical data. Other psychologically significant features and limitations of this test which should always be
 considered were published as the second report on the Witmer
 Formboard.1
 1 Young, Herman H. Physical and Mental Factors Involved in the Formboard Test. The Psychological
@@ -617,8 +603,7 @@ for 1669 girls and 103 women, a total of 1772 females. This makes
 a grand total of 3622 cases. Both tables are constructed on the same
 plan. The two upper rows of figures indicate the age intervals of
 the children whose time records are reported in the corresponding
-columns of the table directly below. The upper row of figures indi-
-cates age at last birthday, while the second row indicates the number
+columns of the table directly below. The upper row of figures indicates age at last birthday, while the second row indicates the number
 of months following the birthday which are included in each age
 interval. Thus the first age interval includes the records of all
 children whose ages lie within the interval of four years and no

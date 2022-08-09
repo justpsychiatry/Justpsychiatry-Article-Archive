@@ -7,28 +7,21 @@ The purpose of this investigation was to study the relationship
 between mental ability and certain physical defects among the
 pupils of the various elementary public schools of New York City,
 and the relationship between these factors and the social economic
-status of the neighborhoods where the respective schools are lo-
-cated.
+status of the neighborhoods where the respective schools are located.
 Sources of Data. During the year 1932, all the fifth grade
-pupils of the New York public schools were examined with a bat-
-tery of intelligence tests, including the National Intelligence Test
+pupils of the New York public schools were examined with a battery of intelligence tests, including the National Intelligence Test
 and the Pintner Survey Test. This educationally homogeneous
-group, tested under the auspices of the Board of Education, in-
-cluded some 100,098 pupils enrolled in 579 schools. The records of
+group, tested under the auspices of the Board of Education, included some 100,098 pupils enrolled in 579 schools. The records of
 achievement and progress were also obtained for each of the public
 schools. During the same year the pupils of Grade I of all schools
-were given health examinations under the auspices of the De-
-partment of Health. These included examinations of eyes, ears,
+were given health examinations under the auspices of the Department of Health. These included examinations of eyes, ears,
 teeth, nose, throat, heart, nutrition, etc.
 The Distribution of Intelligence. In view of the fact that these
-100,098 fifth grade pupils represent a cross section of the total popu-
-lation of the city, the distribution of their scores (I.Q.'s) is of con-
-siderable interest. It is particularly interesting to compare it with
+100,098 fifth grade pupils represent a cross section of the total population of the city, the distribution of their scores (I.Q.'s) is of considerable interest. It is particularly interesting to compare it with
 other distributions. Figure 1 presents a comparison between our
 distribution and the distribution of I.Q.'s presented by Terman.
 The latter is based on the scores of 905 unselected children from
-schools in California.1 Both distributions are in terms of per-
-centages.
+schools in California.1 Both distributions are in terms of percentages.
 It will be seen from Figure 1 that the two distributions differ
 considerably. Terman's distribution is leptocurtic, peaked in the
 center, while our distribution is platocurtic, relatively flat at the
@@ -37,22 +30,17 @@ i L. M. Terman, The measurement of intelligence, New York, Houghton
 Mifflin, 1916, chap. V.
 101
 102 THE PSYCHOLOGICAL CLINIC
-I.Q.'s between 90 and 110 while in the latter there is a correspond-
-ingly greater proportion of eases at the extremes. The differences
-are due to the difference in the nature of the test and the popula-
-tion tested.
+I.Q.'s between 90 and 110 while in the latter there is a correspondingly greater proportion of eases at the extremes. The differences
+are due to the difference in the nature of the test and the population tested.
 Variability of Intelligence. How do the schools of the city
 vary with regard to the average intelligence of their pupils? The
-distribution of the averages of the respective schools and neighbor-
-hoods were computed for each measure. Figure 2 shows the dis-
-tribution of intelligence scores (I.Q.'s) of 100,098 fifth grade pupils.
+distribution of the averages of the respective schools and neighborhoods were computed for each measure. Figure 2 shows the distribution of intelligence scores (I.Q.'s) of 100,098 fifth grade pupils.
 It also shows the distribution of the averages of the 579 schools
 and the averages of some 300 health areas, into which the city is
 divided.
 Sptt
 TTfT
--2V1--
-'CAUFO!?riiA Data
+-2V1-'CAUFO!?riiA Data
 "NewYork Data
 U-65 8H5 %-lo5 lot-US
 ?
@@ -70,18 +58,14 @@ California data
 MENTAL ABILITY AND RELATION TO HEALTH 103
 It will be seen from Figure 2 that the distribution of scores
 ranged from 50 to 160 with a mean of 100.2 and an S.D. of 20.9
-and that the respective public schools vary enormously with re-
-gard to average intelligence. The means ranged from 70 to 122
-with an average of 100.0 and an S.D. of 9.4. The means of neigh-
-borhoods ranged from 79 to 120 with a mean of 100.5 and an S.D.
+and that the respective public schools vary enormously with regard to average intelligence. The means ranged from 70 to 122
+with an average of 100.0 and an S.D. of 9.4. The means of neighborhoods ranged from 79 to 120 with a mean of 100.5 and an S.D.
 of 8.2. This inter-school heterogeneity or intra-school homogeneity
 (with regard to intelligence) may be expressed in terms of the
 ratio between the sigma of the means to the sigma of the total
 population. In our case this correlation ratio is .45 ? .02. For
 the neighborhoods this correlation ratio is .40 ? .03. It seems
-then that the respective schools as well as the respective neighbor-
-hoods are in no sense random samples of the total school popula-
-tion.2
+then that the respective schools as well as the respective neighborhoods are in no sense random samples of the total school population.2
 2 See J. B. Mailer, Economic and social correlatives of school progress in
 New York City, Teach. Coll. Bee., 1933, 34, 655-670.
 Individuals, N-100,098.
@@ -89,12 +73,10 @@ Schools, N-579.
 Neighborhoods, N-300.
 Fig. 2. The distribution of intelligence: individuals, schools, and neighborhoods
 104 THE PSYCHOLOGICAL CLINIC
-Health Measures. A summary of the results of health exam-
-inations is shown in Table 1. This is based on the examination of
+Health Measures. A summary of the results of health examinations is shown in Table 1. This is based on the examination of
 140,230 pupils of Grade I and Kindergarten of all New York City
 schools (including both public and parochial schools). Table 1
-presents the incidence of defects per 1000 cases. It reads as fol-
-lows: Of each 1000 children examined in Manhattan, 239 were
+presents the incidence of defects per 1000 cases. It reads as follows: Of each 1000 children examined in Manhattan, 239 were
 found free from all defects, 91 were found to have visual defect,
 496 had carious teeth, etc.
 Table 1
@@ -105,46 +87,30 @@ Location
 Free
 from
 all
-De-
-fects
-Vis-
-ual
-De-
-fects
-Cari-
-ous
+Defects
+Visual
+Defects
+Carious
 Teeth
 Mouth
-Hy-
-giene
+Hygiene
 Nasal
-Obstruc-
-tion
-Ton-
-sils
+Obstruction
+Tonsils
 Heart
-De-
-fect
-Or-
-tho-
-pedic
-Ner-
-vous
-Dis-
-turb.
-Mal-
-nutri-
-tion
+Defect
+Orthopedic
+Nervous
+Disturb.
+Malnutrition
 Manhattan
 Bronx
 Brooklyn
 Queens
 Richmond
 Total, city
-Average of neigh-
-borhoods
-S.D. of neighbor-
-hoods
+Average of neighborhoods
+S.D. of neighborhoods
 239
 367
 348
@@ -236,8 +202,7 @@ school population, while in the schools it ranged from 4 per cent
 to 72 per cent.
 The eta, expressing the relationship between the composite
 measure of health and location, was .29 ? .03. It was shown
-above that for intelligence the correlation ratio was .45 ? .02. Ap-
-parently the pupils of a given school in New York City are slightly
+above that for intelligence the correlation ratio was .45 ? .02. Apparently the pupils of a given school in New York City are slightly
 more homogeneous with regard to intelligence than with regard
 to aspects of health, and, conversely, there is greater variability
 among schools in respect to intelligence than in respect to health.
@@ -254,29 +219,21 @@ I.Q. and malnutrition  ?.2792 ? .03
 The average correlation between I.Q. and these incidences of
 defect was ?.3601. The average inter-correlation among the
 measures of health was .5106. Apparently measures of different
-aspects of physical health correlate slightly higher with one an-
-other than they correlate with mental ability. The relationship
+aspects of physical health correlate slightly higher with one another than they correlate with mental ability. The relationship
 among measures of health is also evidenced in the large number of
 cases having more than one defect. Thus, while fully 34 per cent
 of the children were free from all defects, among the remaining
 66 per cent the incidence was a little more than 2.0 defects per
 child.
-Data Concerning Neighborhoods. It is obvious that the corre-
-lation between average intelligence and index of health is partly
-due to the marked differences in the nature of the population re-
-siding in the various neighborhoods where the respective schools
+Data Concerning Neighborhoods. It is obvious that the correlation between average intelligence and index of health is partly
+due to the marked differences in the nature of the population residing in the various neighborhoods where the respective schools
 are located. As was stated above, New York City is divided into
 some 300 health areas or neighborhoods with about 2 elementary
 schools per neighborhood. Federal and municipal statistics are
 computed by these neighborhoods.3 Various data were available
 for each neighborhood, including the above measures of health,
-vital indices (birth rate and death rate), rate of juvenile delin-
-quency, and economic status based on values of homes and rentals.
-The average I.Q. of all fifth grade pupils residing in each neighbor-
-hood was computed (Fig. 1). These averages were then corre-
-lated with the above neighborhood factors. The correlations be-
-tween average intelligence and some of these factors will be pre-
-sented :
+vital indices (birth rate and death rate), rate of juvenile delinquency, and economic status based on values of homes and rentals.
+The average I.Q. of all fifth grade pupils residing in each neighborhood was computed (Fig. 1). These averages were then correlated with the above neighborhood factors. The correlations between average intelligence and some of these factors will be presented :
 Death rate  ?.4266 =fc .03
 Infant mortality rate  ?.5125 ? .03
 Juvenile delinquency rate  ?.5681 ?.03
@@ -288,15 +245,12 @@ s A more detailed presentation of these neighborhood factors is presented
 by the writer in Vital indices and their relation to psychological and social
 factors, Human Biol., 1933, 5, 94-121.
 106 THE PSYCHOLOGICAL CLINIC
-The correlations indicate that mental ability is correlated posi-
-tively with desirable characteristics such as health and economic
+The correlations indicate that mental ability is correlated positively with desirable characteristics such as health and economic
 status. It correlates negatively with all undesirable characteristics
 as high mortality and delinquency.
 Factor Analysis. The present considerations dealt primarily
 with the correlation between mental ability and other factors. The
-limited space will not permit the presentation of the various inter-
-correlations among the 14 other variables (measures of health, so-
-cial economic status and vital indices). Only one aspect of the
+limited space will not permit the presentation of the various intercorrelations among the 14 other variables (measures of health, social economic status and vital indices). Only one aspect of the
 intercorrelations will be presented. The tetrad difference analysis
 was applied to the table of 105 intercorrelations. There were a
 number of large and significant tetrad differences, indicating the
@@ -313,10 +267,8 @@ value and rental. The resulting tetrad differences were rather
 small, the largest one being less than three times its probable error
 (average correlation, .38; largest tetrad difference, .05; probable
 error, .02). This indicates that the four groups of measures may
-be considered as having one factor common to them. This com-
-mon factor may be looked upon as the developmental status of the
-group or neighborhood which expresses itself in the level of physi-
-cal, intellectual and social adjustment.
+be considered as having one factor common to them. This common factor may be looked upon as the developmental status of the
+group or neighborhood which expresses itself in the level of physical, intellectual and social adjustment.
 Summary
 The populations of different schools of New York City were
 found to vary enormously in regard to measures of mental ability
@@ -329,8 +281,7 @@ obvious.
 Mental ability was found to correlate positively with measures
 MENTAL ABILITY AND RELATION TO HEALTH 107
 of health and with index of social economic status. Even when
-social economic status is held constant, the correlation between in-
-telligence and health remains significantly positive. Mental ability
+social economic status is held constant, the correlation between intelligence and health remains significantly positive. Mental ability
 was found to correlate negatively with death rate, infant mortality,
 juvenile delinquency, and birth rate.
 An analysis of intercorrelations revealed the possible presence

@@ -4,8 +4,7 @@ A Comparative Study of Audito-Vocal Digit Spans
 By Mary H. Young
 I. Historical Statement
 A. FORWARD DIGIT SPAN
-Jacobs1 in 1887 seems to have originated the use of the immedi-
-ate reproduction of a series of letters, digits, words and other
+Jacobs1 in 1887 seems to have originated the use of the immediate reproduction of a series of letters, digits, words and other
 material as a mental test. Since that time many variations of his
 tests have been used.
 The digit span test was employed in the original Binet-Simon2
@@ -29,18 +28,15 @@ study.
 B. DIGIT LEARNING SPAN TEST
 In the use of the digit span test for diagnostic purposes, it was
 sometimes Dr. Witmer's practice to repeat a series of digits upon
-which a child had failed, in order to determine how many repeti-
-tions were required for the child to learn a series of digits one
+which a child had failed, in order to determine how many repetitions were required for the child to learn a series of digits one
 1 Jacobs, Joseph. Experiments in Prehension. Mind, 1887, vol. 12,
 pp. 75-79.
 3 Binet-Simon Tests. L'Annee Psychologique. 1905. xii, pp. 191-244.
-3 Humpstone, H. J. Some Aspects of Memory Span. A Study in Asso-
-ciability. Psychological Clinical Press, Philadelphia, Pennsylvania, 1917.
+3 Humpstone, H. J. Some Aspects of Memory Span. A Study in Associability. Psychological Clinical Press, Philadelphia, Pennsylvania, 1917.
 'Ibid.
 AUDITO-VOCAL DIGIT SPANS 171
 greater than his digit span. This practice suggested to the writer
-the possibility of working out a standard procedure for determin-
-ing what might be called the child's "learning span." This was
+the possibility of working out a standard procedure for determining what might be called the child's "learning span." This was
 first done in 1921 when the writer made a study of five hundred
 eighty-one children in Philadelphia.
 C. REVERSE DIGIT SPAN TEST
@@ -54,8 +50,7 @@ II. Groups Studied on Digit Span in Present Investigation
 1. In 1921-22 all children from 4 years and 0 months to 7
 years and 11 months of age in two Philadelphia public schools
 were tested. This gave a total of 581 children.
-2. In 1925 all the children of the Bloomington, Indiana Pub-
-lic Schools from 6 years, 0 months, to 10 years, 11 months of age
+2. In 1925 all the children of the Bloomington, Indiana Public Schools from 6 years, 0 months, to 10 years, 11 months of age
 were tested. The reverse digit span test was given only to this
 group. This gave a total of 1,179 children.
 3. Philadelphia groups and Bloomington groups combined
@@ -102,8 +97,7 @@ their learning spans within the first ten trials.
 The 52 per cent of the cases who succeeded in learning 1 digit
 above their Digit Spans. Only 12 cases or 10 per cent of the 115
 succeeded in learning two digits beyond their digit spans. All
-these children did this on the fifth, sixth, seventh or eighth repeti-
-tion. Since the cases of the entire group either learned two digits
+these children did this on the fifth, sixth, seventh or eighth repetition. Since the cases of the entire group either learned two digits
 beyond ther digit spans within 8 trials or failed entirely after 15
 trials it appears to have been a waste of time to have given any one
 more than 8 trials.
@@ -189,8 +183,7 @@ C 6-1-4-7-2-9-5-8-3
 10-A 7-9-1-3-5-8-2-6-4-1
 B 3-7-9-2-6-1-8-4-2-5
 C 2-5-8-3-9-7-4-1-6-8
-of six per five seconds) "4-9-7." If the child repeated these num-
-bers correctly, the examiner proceeded to the next higher set of
+of six per five seconds) "4-9-7." If the child repeated these numbers correctly, the examiner proceeded to the next higher set of
 digits?that of 4A. If these were repeated correctly, the examiner
 gave the next higher set of digits, and so on, until the child failed
 to repeat one of the "A" series at a given level. In this event,
@@ -215,17 +208,14 @@ ten trials. The longest series of digits learned on ten or less trials
 was taken as the learning span.
 C. REVERSE DIGIT SPAN TEST:
 Immediately after the digit span and the learning span had
-been obtained, the reverse span was secured in the following man-
-ner:
+been obtained, the reverse span was secured in the following manner:
 The examiner said to the child, '' I am going to read some more
 numbers. This time you must say them backwards. Suppose I
 said, '1-9' and you were to say it backwards, you would say '9-1.'
 Now you listen to these numbers and say them backwards." The
 examiner then turned to Digit List R and read Series 2-A. If
-the child did not get the concept of reversing the digits, the exam-
-iner told him the correct response. The child was then given Series
-2-B and if he failed the correct response, it was given again. Fi-
-nally the Series 2-C was read and in the event of failure, the child
+the child did not get the concept of reversing the digits, the examiner told him the correct response. The child was then given Series
+2-B and if he failed the correct response, it was given again. Finally the Series 2-C was read and in the event of failure, the child
 was again told the correct response. If he failed on this, he was
 given the 3-B, and then the 3-C. If he failed these three series, his
 memory span was marked zero. If, however, he repeated any one
@@ -235,8 +225,7 @@ child succeeded with the 3-A, B or C series, the examiner next read
 the 4-A series, and so on in the manner of the method of procedure
 for giving the digit memory span. In this way, each set of series
 of equal length was presented to the child until he failed all three,
-that is, the A, B and C series of the same length. The largest num-
-ber of digits a child repeated backwards correctly was taken as the
+that is, the A, B and C series of the same length. The largest number of digits a child repeated backwards correctly was taken as the
 reverse digit span.
 It is to be noted that the examiner must form the habit of
 saying the digits at the uniform rate of six in five seconds, in a
@@ -479,8 +468,7 @@ such assistance as is mentioned in the directions for giving the test
 should be offered, if results are to be comparable. Examiners must
 be careful not to give hints to the child by habits of lip movements
 or attitudes suggesting the correct digit. A moderate amount of
-encouragement without giving away the correct response is de-
-sirable and permissible.
+encouragement without giving away the correct response is desirable and permissible.
 Summary of Results
 I. The mode in digit span for 4 and 5 year old children is
 4 digits; for 6, 7, 8, 9, and 10 year old children is 5 digits and for
@@ -743,8 +731,7 @@ Of all children with a Digit Span of 8, 98 per cent earned Reverse Digit Spans.
 Digit Spans 2 and 9 produced reverse digit spans in 100 per cent
 of their cases but in the former there were only a total of 2 and in
 the latter a total of 11 cases.
-Irrespective of digit span, the reverse digit spans fell as fol-
-lows : 10 per cent at 0; 13 per cent at 2; 46 per cent at 3; 24 per
+Irrespective of digit span, the reverse digit spans fell as follows : 10 per cent at 0; 13 per cent at 2; 46 per cent at 3; 24 per
 cent at 4; 6 per cent at 5, and 1 per cent at a reverse span of 6.
 VII. Reverse span increases with age.
 Reverse spans of 0 decrease with age, i.e., there are 42 per cent
@@ -759,12 +746,10 @@ VIII. The Learning span-age-grade Table shows that:
 young for their grade in school, i.e., where an age group has grades
 I, II, III, and IV in it?an increase in learning span is expected
 with increasing grade within such age group.
-3. The minimum learning span is 3 digits. There were chil-
-dren who fell this low. All were in kindergarten and first grade.
+3. The minimum learning span is 3 digits. There were children who fell this low. All were in kindergarten and first grade.
 The maximum learning span is 15 digits. There were only
 2 children who rated this high. They were in 5th grade.
-4. The 60 per cent mode takes in learning spans 5-6-7 irrespec-
-tive of age and grade.
+4. The 60 per cent mode takes in learning spans 5-6-7 irrespective of age and grade.
 5. The average size of the learning span increases with age.
 The nine and ten year old children have no cases at the minimum
 learning span and only a few cases at the learning span of 4, while
@@ -776,8 +761,7 @@ Binett-Simon Tests. L'Annee Psychologique. 1905. xii, pp. 191-244.
 Brotemarkle, B. A. Some Memory Span Problems?An Analytical Study at
 the College-Adult Level. The Psychological, Clinic, 1924, vol. 15, no. 8,
 pp. 229-258.
-Clark, Arthur S. Correlation of the Auditory Digit Span With General In-
-telligence. The Psychological Clinic, 1924, vol 15, no. 8, pp. 259-260.
+Clark, Arthur S. Correlation of the Auditory Digit Span With General Intelligence. The Psychological Clinic, 1924, vol 15, no. 8, pp. 259-260.
 Easby-Grave, C. Tests and Norms at the Six Year Level of Competency.
 The Psychological Clinic, 1924, vol. 15, no. 9.
 Ebbinghouse, H. JJber das Gedachtnis. Leipzig, 1885.
@@ -790,10 +774,8 @@ Leaming, Rebecca E. Tests and Norms for Vocational Guidance at the
 Fifteen-Year-Old Performance Level. The Psychological Clinic, vol 14,
 pp. 207-208.
 Ninde, Frederick Ward. The Application of the Auditory Memory Span Test
-to Two Thousand Institutional Epileptics: A Study in Relative Asso-
-ciability. The Temple Press, West Chester, Pennsylvania, 1924.
-Oberly, H. Sherman. Range for Visual Attention, Cognition and Appre-
-hension. American Journal of Psychology, 1924, vol. 35, pp. 332-352.
+to Two Thousand Institutional Epileptics: A Study in Relative Associability. The Temple Press, West Chester, Pennsylvania, 1924.
+Oberly, H. Sherman. Range for Visual Attention, Cognition and Apprehension. American Journal of Psychology, 1924, vol. 35, pp. 332-352.
 Sherman, Irene Case. A Note on the Digest Test. The Psychological
 Clinic, 1923, vol. 15, nos. 3-4, p. 124.
 Skerrett, Helen S. The Educability of a Tvx>-Y ear-Old. The Psychological
@@ -804,8 +786,7 @@ pp. 61-84.
 Terman, Lewis M. The Measurement of Intelligence. Cambridge, 1916.
 Whipple, G. M. Manual of Mental and Physical Tests. Baltimore, 1915,
 vol. 2, p. 152.
-Witmer, Lightner. The Relation of Intelligence to Efficiency. The Psycho-
-logical Clinic, 1915, vol. 9, p. 61.
+Witmer, Lightner. The Relation of Intelligence to Efficiency. The Psychological Clinic, 1915, vol. 9, p. 61.
 Witmer, Lightner. Performance and Success. The Psychological Clinic,
 1919, vol. 12, p. 145.
 . The Problem of Educability. The Psychological Clinic, 1919, vol. 12,

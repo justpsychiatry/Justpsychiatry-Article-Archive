@@ -4,13 +4,11 @@ Statistical and Non-Statistical Interpretation of Test Results
 By Samuel W. Fernberger, Ph.D.,
 Assistant Professor of Psychology, University of Pennsylvania.
 Some time ago, a survey was made to determine standards for
-children of the fifteen-year-old level at the University of Pennsyl-
-vania.* This age is a critical one for vocational guidance and the
+children of the fifteen-year-old level at the University of Pennsylvania.* This age is a critical one for vocational guidance and the
 study is thus relatively important. From a preliminary study, it
 was decided to test three groups of children as follows: Group I,
 children applying to a Junior Employment Bureau for assistance in
-obtaining jobs; Group II, children who were working and also attend-
-ing Continuation School; Group III, children in High School who
+obtaining jobs; Group II, children who were working and also attending Continuation School; Group III, children in High School who
 were not working. A battery of tests was given each child which
 included?shortened Binet, Witmer Cylinders, Dearborn Formboard,
 Monroe Reading, Courtis Arithmetic, and Woodworth and Wells'
@@ -145,11 +143,9 @@ These values are to be found in Tables III-VIII. Tables III-V
 contain the values for the Binet I. Q., while Tables VI-VIII contain
 those for the Dearborn Formboard. Tables III and VI compare
 the boys and girls in each group. Tables IV and VII compare the
-different groups for boys and Tables V and VIII compare the differ-
-ent groups for girls. Each table is similarly constructed. In the
+different groups for boys and Tables V and VIII compare the different groups for girls. Each table is similarly constructed. In the
 first columns are indicated the groups compared. In the second
-columns are given the differences with the probable errors of the differ-
-ences in the third columns. In the last columns are given the values
+columns are given the differences with the probable errors of the differences in the third columns. In the last columns are given the values
 of P2, the index of significance.
 In the consideration of the I. Q. for boys and girls (Table III)
 none of the differences are at all significant. That for Group III is
@@ -159,14 +155,12 @@ Comparing the I. Q. for boys (Table IV), the differences between
 Groups I and II are very insignificant. Group III shows a much
 greater significance; indeed, comparing Groups I and III there is
 better than a four to five chance that the difference is not due to
-chance. Comparing the groups of girls (Table V) none of the differ-
-ences show a great degree of significance. That for Groups I and II
+chance. Comparing the groups of girls (Table V) none of the differences show a great degree of significance. That for Groups I and II
 is the lowest, however, and that for Groups I and III is the highest.
 In the case of the Dearborn Formboard (Tables VI, VII and
 VIII), none of the differences are at all statistically significant?none
 in fact show a difference as significant as a one to four chance.
-The obvious reason for the low degree of significance of the differ-
-ences is to be found in the size of the probable errors rather than in
+The obvious reason for the low degree of significance of the differences is to be found in the size of the probable errors rather than in
 the size of the differences themselves. Take, for example, Groups I
 and III Boys for the Dearborn Formboard. The difference is 44
 seconds which is nearly one-third as large as the lower average?a
@@ -175,8 +169,7 @@ within each group that the probable errors are so large that the value
 of z = (D/P. E.d) is small.
 It was therefore thought advisable to try and correct the values
 so as to obtain greater statistical significance. The obvious method
-is to lower the time limits beyond which the performance is con-
-sidered a failure. In the present experiment, a period of 10 minutes
+is to lower the time limits beyond which the performance is considered a failure. In the present experiment, a period of 10 minutes
 was allowed for the Dearborn Formboard and, if the task was not
 completed, it was scored a failure. Five failures were recorded for
 Group I; one failure for Group III. It is obviously the extreme
@@ -193,11 +186,9 @@ Table IX.
 Group.
 Average.
 I
-1-12 cases (cor-
-rected)
+1-12 cases (corrected)
 Ill
-III-5 cases (cor-
-rected)
+III-5 cases (corrected)
 194
 162
 150
@@ -207,8 +198,7 @@ Girls.
 P. E.d
 Pz
 I-III
-I?III (cor-
-rected) .
+I?III (corrected) .
 44
 27
 98
@@ -217,9 +207,7 @@ rected) .
 0.1971
 The size of the probable errors are considerably reduced by the
 assumption of a shorter time limit for failure. But it will also be
-noticed that the elimination of the few longer values from the calcu-
-lation of the averages also considerably reduces the size of the aver-
-ages themselves. The subsequent calculations, described above,
+noticed that the elimination of the few longer values from the calculation of the averages also considerably reduces the size of the averages themselves. The subsequent calculations, described above,
 were carried out for the "corrected" values and the results are given
 in Table X. It will be noted that the probable error of the differences
 is considerably smaller for the corrected values. But the size of the
@@ -237,8 +225,7 @@ the differences and disregards the probable errors these differences
 are very marked. But the extreme variability within each group
 increases the size of the probable errors so that, mathematically, the
 significance of the difference is obscured. These results also indicate
-the extreme relative importance of the "tails" of the curves of distri-
-bution both for the size of the average and of the probable errors.
+the extreme relative importance of the "tails" of the curves of distribution both for the size of the average and of the probable errors.
 In the non-mathematical interpretation of the results, one fact
 gave added conviction to the significance of the differences; namely,
 that when one compared two groups, the differences for all of the
@@ -246,8 +233,7 @@ tests in the battery were invariably in the same direction. Hence,
 72 THE PSYCHOLOGICAL CLINIC.
 for both boys and girls, the averages for Group II showed greater
 competency than for Group I and the averages for Group III showed
-much greater competency than for Group II in every test of the bat-
-tery. And, in comparing the sex results, the boys were almost
+much greater competency than for Group II in every test of the battery. And, in comparing the sex results, the boys were almost
 invariably, although only slightly, better in all the tests than the
 girls of the same group.
 Furthermore we do not see how one can expect mathematical
@@ -261,15 +247,13 @@ which is utterly incompatable with mathematical significance when
 one compares the results of one group with another.
 It seems possible to draw several conclusions from these results:
 1. Mental tests, as they are now developed, show such a degree
-of variability within a relatively homogeneous group that the differ-
-ences between two groups do not have statistical significance, even
+of variability within a relatively homogeneous group that the differences between two groups do not have statistical significance, even
 though the differences may be great. In this connection, the "tails"
 of the curves of distribution assume a relatively great importance
 both with regard to the size of the averages and of the probable
 errors. Such a degree of variability is the thing desired in a mental
 test?with the reduction of the variability one has a correspondingly
-great reduction in the value of the test for the purposes of differen-
-tiating the members of the group.
+great reduction in the value of the test for the purposes of differentiating the members of the group.
 2. From this it would seem that, if tests are to have a diagnostic
 value, which means great variability within the group, we can never
 hope to obtain differences between groups which will have statistical

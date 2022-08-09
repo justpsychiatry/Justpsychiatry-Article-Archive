@@ -6,31 +6,25 @@ New YorTc University
 Statement of the Problem
 This study investigates the effect on the output and variability
 of muscular work of telling the subject that his task is "easy,"
-"medium" or "hard," when actually the task is of uniform ob-
-jective difficulty.
+"medium" or "hard," when actually the task is of uniform objective difficulty.
 Subjects and Apparatus
 The subjects were fifty men and fifty women students between
 the ages of eighteen and twenty-five years. The subjects of each
 sex were divided at random into a control and an experimental
-group with twenty-five subjects in each of these groups. The mus-
-cular work studied consisted of maximal contractions on the Smed-
-ley hand dynamometer. Among the subjects of each sex both
+group with twenty-five subjects in each of these groups. The muscular work studied consisted of maximal contractions on the Smedley hand dynamometer. Among the subjects of each sex both
 groups, control and experimental, had practically the same mean
-initial strength of grip. Table 1 contains the means and the prob-
-Table 1
+initial strength of grip. Table 1 contains the means and the probTable 1
 Means and Probable Error of Means of Initial Contractions by Both
 Control and Experimental Groups (Kilograms)
 Men Subjects
 Control
 Group
-Experi-
-mental
+Experimental
 Group
 Women Subjects
 Control
 Group
-Experi-
-mental
+Experimental
 Group
 Number of cases.........
 Mean of first contractions.
@@ -59,8 +53,7 @@ Difference/P.E.diff.
 1.20
 able errors of the means of the first contractions. Among the men
 subjects, the difference between the means of the control and of the
-experimental group is 0.76 times its probable error; the correspond-
-248
+experimental group is 0.76 times its probable error; the correspond248
 EFFECT OF VERBAL SUGGESTION 249
 ing difference among the women subjects is 1.20 times its probable
 error. Since both differences are insignificant statistically, the
@@ -73,23 +66,18 @@ the subject was seated at a table. The dynamometer on the table
 was clamped vertically to an iron stand which was free to move
 over the surface of the table at the convenience of the subject.
 Both the apparatus and the record were completely hidden from
-the subject throughout the experiment. The experiment was de-
-scribed to each subject as a study of work and rest and so far as is
-known no subject suspected its real nature. The following instruc-
-tions were read to each subject at the beginning of the experi-
-mental period:
+the subject throughout the experiment. The experiment was described to each subject as a study of work and rest and so far as is
+known no subject suspected its real nature. The following instructions were read to each subject at the beginning of the experimental period:
 This experiment is concerned with work and rest. The work consists
 of squeezing a handle which compresses a spring. There are three different
-loads: easy, medium, and hard. There is also a standard load. We are inter-
-ested in comparing the easy, medium and hard loads with the standard load.
+loads: easy, medium, and hard. There is also a standard load. We are interested in comparing the easy, medium and hard loads with the standard load.
 Do your best each time you squeeze the handle. In order that you may do
 your best, you will be told what load you are using. The work is done in
 pairs: standard, easy; standard, medium; standard, hard; standard, standard.
 Do your best each time.
 After each contraction, the reading on the dial of the dynamometer
 was recorded by the experimenter and the pointer set back to zero.
-Each subject was given a practice period long enough to familiar-
-ize him with the apparatus and procedure but not so long as to
+Each subject was given a practice period long enough to familiarize him with the apparatus and procedure but not so long as to
 produce fatigue.
 In a series of preliminary trials it was found that, irrespective
 of the load reported to the subjects, there was a tendency to do
@@ -117,18 +105,14 @@ theoretically, the percentages of work done in these control series,
 in which standard, standard were the suggestions used throughout,
 are all very near one hundred.
 Each subject was given two tests; each test consisted of twenty
-pairs of contractions. In the experimental series, the verbal sug-
-gestions were given in the following order: standard, standard;
+pairs of contractions. In the experimental series, the verbal suggestions were given in the following order: standard, standard;
 standard, easy; standard, medium; standard, hard; standard,
 standard; standard, standard; standard, hard; standard, medium;
 standard, easy; standard, standard. When the test was repeated,
 the order of giving the suggestions was reversed: hard, standard;
-medium, standard; easy, standard, and so on. There was a one-
-second interval between the members of a pair of contractions and
-a fifteen-second interval between successive pairs. The rest be-
-tween tests was ten minutes. This interspersing of rest throughout
-the experiment was designed to keep fatigue at a minimum. Fol-
-lowing each verbal suggestion, spoken by the experimenter, the
+medium, standard; easy, standard, and so on. There was a onesecond interval between the members of a pair of contractions and
+a fifteen-second interval between successive pairs. The rest between tests was ten minutes. This interspersing of rest throughout
+the experiment was designed to keep fatigue at a minimum. Following each verbal suggestion, spoken by the experimenter, the
 subject made a maximal contraction on the hand dynamometer.
 The task, as has been said, was of uniform objective difficulty
 throughout the experiment.
@@ -137,12 +121,9 @@ The results of this study will be presented under two heads:
 Work and Variability. The data of the men and of the women
 subjects will be treated separately.
 Work. Tables 2 and 3 show the mean work done, the probable
-error and the probable error of the mean of the work series fol-
-lowing each of the verbal suggestions of both control and experi-
-mental groups. The percentages for the control groups in Tables
+error and the probable error of the mean of the work series following each of the verbal suggestions of both control and experimental groups. The percentages for the control groups in Tables
 2 and 3 are based upon the control contractions which correspond
-in location in the total work series to the contractions in the experi-
-mental series where the experimental suggestions, easy, medium,
+in location in the total work series to the contractions in the experimental series where the experimental suggestions, easy, medium,
 EFFECT OF VERBAL SUGGESTION 251
 Table 2
 Work Done by Control and by Experimental Groups
@@ -159,8 +140,7 @@ cent)
 100.76
 100.68
 100.21
-Prob-
-able
+Probable
 Error
 P.E.,
 5.06
@@ -181,8 +161,7 @@ cent)
 93.52
 95.86
 104.87
-Prob-
-able
+Probable
 Error
 11.94
 8.90
@@ -206,8 +185,7 @@ cent)
 100.66
 100.92
 100.46
-Prob-
-able
+Probable
 Error
 P.E.
 5.90
@@ -229,8 +207,7 @@ cent)
 99.42
 99.65
 107.49
-Prob-
-able
+Probable
 Error
 8.67
 8.64
@@ -242,14 +219,12 @@ P.E.,
 and hard, were used. It should be emphasized that the only verbal
 suggestion used throughout the entire control series was the word
 "standard." In view of the fact that the mean per cent of the
-control groups is 100 (or very near 100), it appears that the con-
-trol suggestion, standard, produced a uniform base or level of work
+control groups is 100 (or very near 100), it appears that the control suggestion, standard, produced a uniform base or level of work
 from which to measure the effect of the experimental suggestions.
 In the light of this uniformity of work following the suggestion,
 standard, we shall conclude that any significant difference between
 the work following the control suggestion and that following the
-experimental suggestions is indicative of the effect of these sug-
-gestions on work.
+experimental suggestions is indicative of the effect of these suggestions on work.
 That output of muscular work is actually affected by verbal
 suggestion can be seen upon examining the means, the probable
 errors and the probable errors of the means in the experimental
@@ -262,8 +237,7 @@ cent; the probable errors range from 5.29 per cent to 11.94 per
 cent. Among the women subjects, the means of the experimental
 group (Table 3) vary from 99.42 per cent to 107.49 per cent; the
 probable errors range from 8.64 per cent to 9.08 per cent.
-The Men Subjects. The means in Table 2 indicate that the sug-
-gestion, easy, resulted in a reduction of output of approximately
+The Men Subjects. The means in Table 2 indicate that the suggestion, easy, resulted in a reduction of output of approximately
 seven per cent; medium led to a reduction of about five per cent,
 while hard was followed by an increase of five per cent. The
 statistical significance of these differences is shown in Table 4.
@@ -271,14 +245,10 @@ Table 4
 Comparison of the Effects on Work of the Verbal Suggestions, Standard,
 Easy, Medium and Hard: Reliability of the Differences
 Men Subjects
-Stand-
-ard and
-Easy-
-Stand-
-ard and
+Standard and
+EasyStandard and
 Medium
-Stand-
-ard and
+Standard and
 Hard
 Easy
 and
@@ -312,14 +282,11 @@ Diff./P.E.diff
 1.85
 6.14
 Women Subjects
-Stand-
-ard and
+Standard and
 Easy
-Stand-
-ard and
+Standard and
 Medium
-Stand-
-ard and
+Standard and
 Hard
 Easy
 and
@@ -355,42 +322,30 @@ Diff./P.E.diff.
 This table contains the differences between the control suggestion
 and each of the experimental suggestions and also the differences
 between each pair of experimental suggestions, the probable errors
-of these differences and the critical ratios. Among the men sub-
-jects, the differences between standard and easy and between stand-
-ard and medium are 3.93 and 3.35 times their probable errors, re-
-spectively. The difference between standard and hard is 4.31 times
+of these differences and the critical ratios. Among the men subjects, the differences between standard and easy and between standard and medium are 3.93 and 3.35 times their probable errors, respectively. The difference between standard and hard is 4.31 times
 its probable error. Accepting the convention which regards a
-difference that is four or more times its probable error as signifi-
-cant, the statement is justified that the suggestions, easy and
+difference that is four or more times its probable error as significant, the statement is justified that the suggestions, easy and
 medium, almost certainly lead to a reduction in output among the
-men subjects (99.6 chances in 100 and 98.7 chances in 100, re-
-EFFECT OF VERBAL SUGGESTION 253
+men subjects (99.6 chances in 100 and 98.7 chances in 100, reEFFECT OF VERBAL SUGGESTION 253
 spectively), while the suggestion, hard, is followed by an increase
 in output that is fully significant, since this difference is 4.31 times
 its probable error.
-When the experimental suggestions are compared one with an-
-other, it is found that the suggestions, easy and medium, have essen-
-tially the same effect on the output of the men subjects?both these
+When the experimental suggestions are compared one with another, it is found that the suggestions, easy and medium, have essentially the same effect on the output of the men subjects?both these
 suggestions cause a reduction in work. Easy causes a somewhat
 greater reduction than does medium but the difference between the
 effects of these two suggestions is not significant since it is only
 1.11 times its probable error (77 chances in 100). The suggestion,
-hard, causes an increase of nine per cent above the work done fol-
-lowing medium. Each of these differences is more than six times
+hard, causes an increase of nine per cent above the work done following medium. Each of these differences is more than six times
 its probable error.
 The Women Subjects. Among the women subjects (Table 3),
-the control suggestion, standard, produces a highly uniform out-
-put. Unlike the men subjects, however, the women do as much
+the control suggestion, standard, produces a highly uniform output. Unlike the men subjects, however, the women do as much
 work following the suggestions, easy and medium, as they do after
 the control suggestion, standard. Such slight reductions in output
 as these suggestions cause (about one per cent) are only 0.84 and
 0.87 times their respective probable errors. The suggestion, hard,
 on the other hand, causes an increase in the output of the women
-subjects of seven per cent; this difference is 4.48 times its prob-
-able error (Table 4) and is therefore statistically significant. Com-
-parisons among the experimental suggestions show no difference
-between the effect of easy and that of medium. Hard causes al-
-most eight per cent more work than does either medium or easy;
+subjects of seven per cent; this difference is 4.48 times its probable error (Table 4) and is therefore statistically significant. Comparisons among the experimental suggestions show no difference
+between the effect of easy and that of medium. Hard causes almost eight per cent more work than does either medium or easy;
 the differences between hard and easy and between hard and
 medium are more than four times their respective probable errors.
 The difference between the effects of verbal suggestion upon the
@@ -399,9 +354,7 @@ is similar to the difference found by Hurlock1 between the effects
 of praise and reproof upon boys and girls. Hurlock found the boys
 the more responsive and because of the fact that the girls were
 more conscientious and interested from the start, the girls could
-not raise their rate of achievement as much as the boys when in-
-centives were used. The "conscientiousness" of the women sub-
-jects in the present study may have prevented their output from
+not raise their rate of achievement as much as the boys when incentives were used. The "conscientiousness" of the women subjects in the present study may have prevented their output from
 falling below "standard," but they did respond to the suggestion,
 hard, with an increase in work.
 i E. B. Hurlock, An evaluation of certain incentives used in school work.
@@ -411,36 +364,30 @@ In this connection it should be noted that difference in sex,
 which is generally regarded as important in the effectiveness of
 suggestions and incentives, has not been controlled in this study.
 Any generalization regarding the effects of these verbal suggestions
-on muscular work would have to await the findings of a study simi-
-lar to the present one carried out by a woman experimenter.
-Variability. The effect of the verbal suggestions upon variabil-
-ity can be found by comparing the work done in the control member
+on muscular work would have to await the findings of a study similar to the present one carried out by a woman experimenter.
+Variability. The effect of the verbal suggestions upon variability can be found by comparing the work done in the control member
 of the pairs of contractions with that done in the experimental
 member; that is to say, by finding the correlation between the work
-done in the pairs of contractions. Theoretically, it should be ex-
-pected that the correlation between pairs of contractions made
+done in the pairs of contractions. Theoretically, it should be expected that the correlation between pairs of contractions made
 under the same objective experimental conditions, separated by
 only a one-second interval and given as a response to the same
 verbal suggestion (standard, standard), would be very near unity.
 Such coefficients would provide a base with which to compare the
 effect of the experimental verbal suggestions, easy, medium, and
-hard, upon variability of output. In other words, if the experi-
-mental verbal suggestions, given just before one of the members
+hard, upon variability of output. In other words, if the experimental verbal suggestions, given just before one of the members
 of the experimental pairs of contractions, should cause an increase
 in variability of output, such increased variability would be shown
 in a reduction of the correlation between the work done in these
 paired contractions. It will be recalled that one member of the
 paired contractions was preceded by the control suggestion, the
-other member was preceded by one of the experimental sugges-
-tions.
+other member was preceded by one of the experimental suggestions.
 Table 5 contains the coefficients of correlation found between
 pairs of contractions in both the control and the experimental
 series of the men and of the women subjects. The correlations in
 the control groups show that the data approach very closely to the
 theoretical expectations stated above. Among the men subjects
 the correlations in the control group range from r = .9434 to
-r = .9439. These coefficients show that the verbal suggestion, stand-
-ard, given throughout the control series, leads to output of great
+r = .9439. These coefficients show that the verbal suggestion, standard, given throughout the control series, leads to output of great
 uniformity. A similar effect appears in the control group of the
 women subjects; the coefficients are of the order of r = .9400.
 In the experimental series (Table 5) it will be observed that the
@@ -504,23 +451,18 @@ P.E.r
 .0207
 coefficients are intermediate between that for easy and that for
 hard in both groups of subjects. The conclusion seems justified
-that all the experimental verbal suggestions increase the variabil-
-ity of output, though they differ regarding the extent of increase
+that all the experimental verbal suggestions increase the variability of output, though they differ regarding the extent of increase
 in variability produced. Output is most uniform when subjects
 are working under "standard" conditions.
 This study justifies drawing the conclusion that even when the
 task is of constant objective difficulty the description of the task to
 the worker as easy or hard affects the amount and the variability
-of the work. When he is making muscular contractions, the sub-
-ject is reacting not merely to the load but rather to a total situa-
-tion. Changes in such an apparently minor element in the total
+of the work. When he is making muscular contractions, the subject is reacting not merely to the load but rather to a total situation. Changes in such an apparently minor element in the total
 situation as the subject's attitude toward the difficulty of his task
 result in significant changes in output and in variability.
 Summary and Conclusions
-The problem studied was the effect on the output and variabil-
-ity of muscular work of telling the subject that his task was "easy,"
-"medium" or "hard," when actually the task was of uniform ob-
-jective difficulty.
+The problem studied was the effect on the output and variability of muscular work of telling the subject that his task was "easy,"
+"medium" or "hard," when actually the task was of uniform objective difficulty.
 The work consisted of pairs of maximal contractions on the
 Smedley hand dynamometer.
 256 THE PSYCHOLOGICAL CLINIC
@@ -542,8 +484,7 @@ respectively. The work done following the suggestion, hard, is
 11.35 per cent greater than that done following the suggestion,
 easy; the critical ratio is 6.14.
 2. Among the women subjects, the suggestions, easy and
-medium, cause no reduction in output that is statistically signifi-
-cant. Hard causes an increase above the work done following the
+medium, cause no reduction in output that is statistically significant. Hard causes an increase above the work done following the
 control suggestion of 7 per cent; this difference is 4.43 times its
 probable error. The work done following the suggestion, hard,
 is 8 per cent greater than that following the suggestion, easy; the

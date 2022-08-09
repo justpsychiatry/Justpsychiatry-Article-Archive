@@ -8,8 +8,7 @@ In the examination of young children in better babies contests
 and in baby clinics, of children and adults of low mentality, and of
 subjects with motor defects affecting the upper limbs, we have been
 greatly handicapped because of the lack of appropriate formboards.
-The power of language expression has been so limited in a con-
-siderable proportion of these subjects, that the examination perforce
+The power of language expression has been so limited in a considerable proportion of these subjects, that the examination perforce
 had to be restricted largely to motor tests?doing tasks?and the
 observation of the subject's instinctive and spontaneous behavior.
 The formboard tests have, in our experience, proved the most
@@ -132,8 +131,7 @@ from the home; 124 in the Episcopal Orphanage; 75 in the Bethesda
 Home for boarding, orphaned or illegitimate children; 156 in the
 Kingdom House, a day nursery; 517 in a better babies contest
 conducted in the Jewish Educational Alliance; and one (No. 100)
-was privately examined. All were St. Louis children. The con-
-ditions of testing at the contest were not always ideal as it had to be
+was privately examined. All were St. Louis children. The conditions of testing at the contest were not always ideal as it had to be
 done behind a screen and distracting noises sometimes occurred in
 other sections of the room. The younger children frequently had
 to be held by their mothers, and much urging was sometimes needed
@@ -148,8 +146,7 @@ were said to be of more than average intelligence, or so impressed
 the examiners. Nos. 1, 2, 4, 22, and 27 were reported to be poorly
 nourished or undeveloped, No. 22 was partly deaf and 27 was a
 speech defective with a congenitally deaf mother. No. 33 was
-recorded as an epileptic, and Nos. 5 and 7 were said to have a feeble-
-minded brother. No. 80 was backward in his school work, and is
+recorded as an epileptic, and Nos. 5 and 7 were said to have a feebleminded brother. No. 80 was backward in his school work, and is
 said to have a feebleminded mother. No. 11 was reported as "very
 apathetic," and No. 21 as "very slow". Of the 12 who were unable
 to do the tests, six were girls of the ages 9 months, 11 months (2),
@@ -371,8 +368,7 @@ are almost as frequent as the gains made in the second trial. In
 previous work with the Seguin formboard on a much larger number
 of subjects, we similarly found considerable improvement from two
 repetitions, based on the average amount of improvement rather
-than on the number of instances of improvement.2 In that inves-
-tigation we found that subnormal and dull children gained relatively
+than on the number of instances of improvement.2 In that investigation we found that subnormal and dull children gained relatively
 more than normal and bright children, the lower grades of the
 subnormal gained relatively more than the higher grades, the younger
 1 We have complete records of the numbers of right and wrong moves made to replace the blocks, but these
@@ -394,12 +390,9 @@ Board
 A
 Board
 B
-+ -
-+ -
-Board
++ + Board
 C
-+ -
-Board
++ Board
 D
 Third Trial Compared with Second
 Board
@@ -407,14 +400,11 @@ A
 + - =
 Board
 B
-+ -
-Board
++ Board
 C
-+ -
-Board
++ Board
 D
-+ -
-A
++ A
 A, C, D
 C, A, D
 A, D, C
@@ -511,10 +501,8 @@ improvement), 167 losses, and one instance in which the scores were
 1 One equal.
 48 THE PSYCHOLOGICAL CLINIC.
 equal. In other words, an improvement occurred in 56.2 per cent,
-a loss in 43.4 per cent, and equal scores in .2 per cent of the com-
-parisons. That the percentage of gains was not greater is probably
-due, first, to the fewness of the subjects, which gives undue promi-
-nence to accidental variations. Secondly, to the inclusion of dull
+a loss in 43.4 per cent, and equal scores in .2 per cent of the comparisons. That the percentage of gains was not greater is probably
+due, first, to the fewness of the subjects, which gives undue prominence to accidental variations. Secondly, to the inclusion of dull
 children, to which we have already alluded (p. 43). Some of the
 pupils reported as dull or physically weak did, as a matter of fact,
 make very poor records, and others not so reported undoubtedly
@@ -553,8 +541,7 @@ children.
 Table 2.?Improvement with Increasing Mattjritt as Determined by the
 Instances of Gain or Loss with Each Increasing Half-Year.
 Order of
-Presenta-
-tion
+Presentation
 A
 A,C,D...
 C.A.D...
@@ -566,17 +553,11 @@ C, D.A, B.
 B, C, D, A.
 Total...
 Board A
-+ -
-+ -
-Board B
-+ -
-15 9
++ + Board B
++ 15 9
 Board C
-+ -
-Board D
-+ -
-+ -
-3
++ Board D
++ + 3
 +
 The figures show the number of instances in which there were gains (+) or losses (?) with each higher
 half-year.
@@ -604,8 +585,7 @@ No. S. No. S. No S. No. S. No. S. No. S. No. S. No. S. No. S. No. S. No. S. No. 
 50 THE PSYCHOLOGICAL CLINIC.
 Table 4.?Comparison of Difficulty of the Different Boards.
 Order of
-Presenta-
-tion
+Presentation
 A, C, D...
 C, A, D...
 A, D, C...
@@ -726,8 +706,7 @@ board with the square holes is more difficult to do than the board
 with the round holes, the board with the square and round holes is
 more difficult than either the board with the round holes alone or
 the board with the square holes alone, and the board with the suqare,
-circular, and triangular holes is more difficult than the board con-
-taining only the circular and square holes. The largest difference
+circular, and triangular holes is more difficult than the board containing only the circular and square holes. The largest difference
 between adjacent boards is between the board with the square and
 circular holes and the board with only the square holes. Board C
 was harder than board B in 92.4 per cent, while board B was harder
@@ -804,8 +783,7 @@ by giving only one trial on the boards which clearly proved to be
 too easy for the subject, but this again, would afford less practice
 before the more difficult board or boards were attempted, which
 might prejudice the subject's performance with the harder boards.
-We must here content ourselves with pointing out the service-
-THE PEG FORMBOARDS. 53
+We must here content ourselves with pointing out the serviceTHE PEG FORMBOARDS. 53
 ability of this series of peg boards as a simple motor or psycho-motor
 test. The series would seem to make a valuable supplement to the
 scale of performance tests by Pintner and Patterson,1 which does

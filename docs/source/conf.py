@@ -96,5 +96,8 @@ source_suffix = {
 
 rst_epilog = """
 .. |M.B.B.S| replace:: MBBS
+.. |M.D.| replace:: MD
+.. |F.R.S.| replace:: FRS
+.. |F.R.C.S.| replace:: FRCS
 
 """

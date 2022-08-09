@@ -16,13 +16,11 @@ method, we wished to see how far it could be used as a reliable index
 of ability in college studies, when dealing with groups such as the
 Freshman and Sophomore classes, sex groups, and age groups. We
 did not attempt (as Travis2 did) to discover whether the test gave
-satisfactory results for individuals. For in order to gauge the intelli-
-gence of individuals it is generally agreed3 that one kind of test
+satisfactory results for individuals. For in order to gauge the intelligence of individuals it is generally agreed3 that one kind of test
 alone is insufficient, and that a series of different tests give better
 results; and in the second place, tests given to classes are not given
 under the clinical conditions desiderated by Binet and those who
-follow his methods;4 while finally, even under favorable clinical con-
-ditions, Goddard finds the tests for "fifteen" and "adult," of which
+follow his methods;4 while finally, even under favorable clinical conditions, Goddard finds the tests for "fifteen" and "adult," of which
 the present test is a modification, unreliable.5
 1See "Reproduction of Short Prose Passages: a Study of two Binet Tests," by A. Travis, Philadelphia,
 The Psychological Clinic, vol. ix, 1915, pp. 189-209. Miss Travis suggests for use with university students three
@@ -69,8 +67,7 @@ Totals.
 19
 179
 Procedure.
-The tests were given by R. C. L., who, on entering the class-
-room, distributed sheets of paper, one to each student, and gave the
+The tests were given by R. C. L., who, on entering the classroom, distributed sheets of paper, one to each student, and gave the
 following instructions: "Please write, at the head of your paper,
 your name, age in years and months, class, and the time. I am
 going to read a prose passage. You will be given three minutes
@@ -115,17 +112,14 @@ occupied about eighteen minutes.
 Marking.
 For marking the papers, two methods were adopted, which,
 following Travis, we shall call "qualitative" and "quantitative."
-The qualitative method, suggested by Travis as likely to be pre-
-ferable for the first two selections of prose,1 ranks the papers with
+The qualitative method, suggested by Travis as likely to be preferable for the first two selections of prose,1 ranks the papers with
 reference to the following qualities: "Judgment in organizing and
 condensing material, terseness and vigor of expression, and finally,
 what is hard to describe but easy to recognize, an effect of skill and
 mastery in the execution of the task."2 The quantitative method
 consists in rating the papers "on points," i. e. in giving unit credit
-for each idea reproduced. The chief difference is that the quantita-
-tive method allows nothing for "coherence," while the qualitative
-method allows no credit for detached words, which reproduce, per-
-haps, ideas, but not their connection. For the results obtained by
+for each idea reproduced. The chief difference is that the quantitative method allows nothing for "coherence," while the qualitative
+method allows no credit for detached words, which reproduce, perhaps, ideas, but not their connection. For the results obtained by
 the qualitative method R. C. L. is solely responsible, while J. L. J.
 carried through much of the quantitative rating. The two methods
 were applied independently of one another.
@@ -133,14 +127,12 @@ The qualitative method contains two parts. The papers were
 ranked, on the qualitative basis explained above, into five groups,
 A, B, C, D, E. This was done independently for Selection I, then
 for Selection II, and then for Selection III. The mark for each
-selection is called a "score," and for 179 students there are accord-
-ingly 537 scores in all. For the purpose of comparing the different
+selection is called a "score," and for 179 students there are accordingly 537 scores in all. For the purpose of comparing the different
 class-groups, sex-groups, etc., in which the numbers were unequal,
 the number of scores was expressed in percentages, so that the
 groups could be compared in respect of their percentage of A scores,
 B scores, etc. This represents the first part of the method. In the
-second part, as cases arose in which one class seemed to counter-
-balance a weakness in A scores with a superiority in B scores, and
+second part, as cases arose in which one class seemed to counterbalance a weakness in A scores with a superiority in B scores, and
 thus made this method of comparison difficult, it seemed advisable
 to devise some means whereby the average score of one group could
 1 Cf. Travis, pp. 203, 204.
@@ -151,8 +143,7 @@ another group. For this purpose, numerical values were assigned
 to A, B, C, etc., in each selection. In order (1) to avoid arbitrariness,
 and (2) to achieve a basis of comparison with the "quantitative"
 results, the numerical values assigned have precisely the value of
-the average A, B, C, etc. obtained in the application of the quantita-
-tive method. The exact values assigned were as follows:
+the average A, B, C, etc. obtained in the application of the quantitative method. The exact values assigned were as follows:
 Selection I. .
 Selection II.
 Selection III.
@@ -350,15 +341,12 @@ D
 23.6
 13.3
 14.0
-These results indicate that the general result obtained by com-
-parison of the sex-groups as wholes is fairly consistently maintained
+These results indicate that the general result obtained by comparison of the sex-groups as wholes is fairly consistently maintained
 in detail. The men tend towards the extremes in greater proportion
 REPRODUCTION OF PROSE PASSAGES. 133
 than the women, while the women are almost all to be found in the
-middle grades. But though this difference of distribution is strik-
-ingly displayed in this form of marking, it is not easy to see whether
-the men or the women "do better." As Travis, like most investi-
-gators in this field, insists that the women do better, it becomes
+middle grades. But though this difference of distribution is strikingly displayed in this form of marking, it is not easy to see whether
+the men or the women "do better." As Travis, like most investigators in this field, insists that the women do better, it becomes
 necessary to transform these marks into their numerical equivalents,
 in which case we find the results to be as follows:
 Class
@@ -400,8 +388,7 @@ in the field of tests.
 (c) Age groups.
 As eight of the students omitted to fulfil the instructions
 respecting their "age in years and months," only 171 students could
-be compared from the point of view of age. It was decided to com-
-pare those below the age of twenty-five with those of twenty-five
+be compared from the point of view of age. It was decided to compare those below the age of twenty-five with those of twenty-five
 and upwards, and also to compare students between the ages of
 eighteen and twenty-four (inclusive) with a group consisting of
 those above and those below those limits. By the second part of
@@ -441,9 +428,7 @@ whether morning tests gave higher scores than afternoon tests.
 With the material at our disposal, the results were negligible.
 Results Obtained by the Quantitative Method.
 By the quantitative method, marks were assigned to the papers
-in such a way as to express the percentage of possible work accom-
-plished.1 Further, (1) for purposes of comparison with the "qualita-
-tive" results, and (2) in order to make clear the distribution of
+in such a way as to express the percentage of possible work accomplished.1 Further, (1) for purposes of comparison with the "qualitative" results, and (2) in order to make clear the distribution of
 scores, a small group of the highest scores was called A, a larger
 group of the next highest scores was called B, the largest group of
 scores, distributed closely about the average, was called C, and D
@@ -660,23 +645,20 @@ These figures bear out the results obtained by the qualitative
 method.
 136 THE PSYCHOLOGICAL CLINIC.
 Conclusions from the Results Obtained by Both Methods.
-Without as yet raising the question of the validity of con-
-clusions obtained from these results, it is possible to draw tentatively
+Without as yet raising the question of the validity of conclusions obtained from these results, it is possible to draw tentatively
 certain definite conclusions. Where there is a difference amounting
 to a contradiction between the results obtained by the two methods,
 we have decided to prefer the "qualitative" results.1 Our
 conclusions are as follows:
 (a) Class groups. While it is far from easy to decide between
 the Freshmen and the Seniors, we are inclined, on the basis of the
-results before us, to consider the Freshman class as the more intelli-
-gent on the whole. This superiority seems to us to rest mainly on
+results before us, to consider the Freshman class as the more intelligent on the whole. This superiority seems to us to rest mainly on
 "natural ability," for a first-year class could hardly claim to have
 "superior training" as compared with men who have been trained in
 the institution for four years. The relatively high score of the
 Seniors, coupled with the fact that they appear yet higher when
 estimated on a basis which pays regard to quantity rather than
-quality of the reproduction, seems to us to indicate that the superi-
-ority of the Seniors to the Juniors, Sophomores, etc., is largely a
+quality of the reproduction, seems to us to indicate that the superiority of the Seniors to the Juniors, Sophomores, etc., is largely a
 matter of superior training, though here too it seems to us that the
 Seniors have slightly greater "natural ability" than any of the
 other classes, with the exception of the Freshmen.
@@ -689,8 +671,7 @@ sharp distinction; the difference appears to us to depend chiefly
 on persistence as opposed to laziness and unwillingness to throw
 themselves into work which was not to "count" from an academic
 point of view.
-The difference between the matriculant class and the matricu-
-lated students, in spite of one or two excellent matriculant papers,
+The difference between the matriculant class and the matriculated students, in spite of one or two excellent matriculant papers,
 appears to us to be clearly established; in this connection it is
 interesting to note that, while by the quantitative method all the
 other classes received a relatively higher score than when judged
@@ -701,10 +682,8 @@ training.
 groups, it appears to us necessary to take together the two main
 1 See Appendix.
 REPRODUCTION OF PROSE PASSAGES. 137
-conclusions to which the results by both methods point. If we con-
-sider the comparison by averages, we should tend to say, like
-Travis,1 that the women "do better;" but if we consider the com-
-parative distribution of the scores, especially the A and E scores, it
+conclusions to which the results by both methods point. If we consider the comparison by averages, we should tend to say, like
+Travis,1 that the women "do better;" but if we consider the comparative distribution of the scores, especially the A and E scores, it
 looks as though the men do both better and worse; i. e. they seem
 to exhibit greater excellence (A), and also a considerable degree of
 laziness (E). Consequently, although the women "do better" in
@@ -724,8 +703,7 @@ studies if they are below the age of twenty-five. The fact that
 the 16-24 group did slightly better than the 18-24 group appears
 to us to be due to the fact that the individual students under eighteen
 are rather more able than average individuals of that age. On the
-whole, then, we conclude that students below the age of twenty-
-five will tend to get the most out of their lectures and reading, at
+whole, then, we conclude that students below the age of twentyfive will tend to get the most out of their lectures and reading, at
 least so far as ability to reproduce the sense of what they have
 heard is concerned.
 General Conclusions.
@@ -735,18 +713,15 @@ the ablest "first year" which the university has known for many
 years; that of the other classes, the Senior year is considered the
 ablest, the Sophomore year the next in order along the lines of
 ability approved of in colleges, and that the Junior year, as far as
-the men are concerned, is not as successful, either in respect of aca-
-demic attainments or in the mysterious qualities which go to make
+the men are concerned, is not as successful, either in respect of academic attainments or in the mysterious qualities which go to make
 up "class spirit." We are further informed by the same authority
 that our general conclusions with regard to sex and age groups are
 in fair general agreement with what the university administration
-has come to believe on the basis of examinations. From this infor-
-]C?. Travis, p. 202.
+has come to believe on the basis of examinations. From this infor]C?. Travis, p. 202.
 138 THE PSYCHOLOGICAL CLINIC.
 mation it would appear that, in dealing with groups of students,
 the test gives sufficiently accurate results to warrant its use as an
-instrument of diagnosis. But, for the reasons stated in the intro-
-duction, as well as on account of the magnitude of the probable
+instrument of diagnosis. But, for the reasons stated in the introduction, as well as on account of the magnitude of the probable
 error, we do not recommend its use for mental diagnosis in dealing
 with individual students: we know of no test which can be used for
 this purpose when given by group methods.1
@@ -754,10 +729,8 @@ this purpose when given by group methods.1
 fundamental differences between the paper of Travis and the present
 investigation which make any comparison of their results difficult.
 In the first place we used material suggested, but not used, by
-Travis: the conclusions numbered (1) and (5) in her paper, there-
-fore, dependent, as they are, on material already employed for
-testing purposes, which is in many respects different from the mate-
-rial suggested by her as more desirable, are incapable of comparison
+Travis: the conclusions numbered (1) and (5) in her paper, therefore, dependent, as they are, on material already employed for
+testing purposes, which is in many respects different from the material suggested by her as more desirable, are incapable of comparison
 with any results obtained by us. In the second place, Travis is
 throughout attempting to use tests given by the group method in
 order to test individuals, and it is from this point of view that we
@@ -878,22 +851,19 @@ of Idea
 13, 16
 19
 5
-These results indicate that such ideas as "hand of God," "con-
-ceit," "counterfeit," "providence," and a few others were most
+These results indicate that such ideas as "hand of God," "conceit," "counterfeit," "providence," and a few others were most
 1 Travis (192) seems to approve of Finkelstein's marking system; but according to this ("The Marking
 System in Theory and Practice," 191.3, p. 16) "the theoretically ideal curve of . . . college marks is ... not
 the probability curve, but the skewed curve with the mode to the right of the middle of the abscissa. We have
 followed Boring in thinking this unjustified, and have retained the probability curve. (See E. G. Boring, "The
 Marking System in Theory," Pedagog. Seminar, vol. xxi, 1914, esp. p. 227.)
-2 The average attained in each of these grades has been given in dealing with the qualitative method above-
-140 THE PSYCHOLOGICAL CLINIC.
+2 The average attained in each of these grades has been given in dealing with the qualitative method above140 THE PSYCHOLOGICAL CLINIC.
 readily apperceived and reproduced by the students. But the
 small figures (only 35 per cent for the highest) show further that no
 one idea impressed itself on much more than a third of the students.
 There is thus a considerable degree of variation, and by this method
 of grading it is possible for two students to secure a similar score,
-in which, however, the points reproduced by the one consist of rela-
-tively essential ideas, while those reproduced by the other may
+in which, however, the points reproduced by the one consist of relatively essential ideas, while those reproduced by the other may
 consist of relatively unessential ideas, incoherently strung together.
 This is an inadequacy inherent1 in the "quantitative" method, as
 will be seen more clearly when we consider certain specimen papers:
@@ -928,8 +898,7 @@ follows:
 (10) heating (power) (20) at various points
 1 In Travis' paper a similar difficulty was experienced, but it seems to have been solved arbitrarily: cf. "a
 score of 81 per cent . . . strictly should be 79 per cent, but some papers with 11 points were better than others,
-and some were worse, so that in ranking the papers by percentages the seven papers with 11 "points each were dis-
-tributed over the range from 81 per cent down to 76 per cent inclusive" (p. 194).
+and some were worse, so that in ranking the papers by percentages the seven papers with 11 "points each were distributed over the range from 81 per cent down to 76 per cent inclusive" (p. 194).
 REPRODUCTION OF PROSE PASSAGES. l4l
 (21) to represent (28) which showed
 (22) the intensity (29) at a glance
@@ -1033,12 +1002,10 @@ of Idea
 14
 These results indicate that such ideas as "thermometers,"
 "exposing," "solar," "length of spectrum," "he obtained a curve,"
-and a few others made the most pronounced impression on the stu-
-dents. We further notice that the five ideas mentioned impressed
+and a few others made the most pronounced impression on the students. We further notice that the five ideas mentioned impressed
 themselves on more than one-half of the students, while no one
 idea failed to impress less than six per cent of the students tested.
-From this one might be tempted to infer that the content of selec-
-tion II came more within the grasp of university students than did
+From this one might be tempted to infer that the content of selection II came more within the grasp of university students than did
 the more abstract and "theological" selection I. To some extent
 this may perhaps have been the case. But an experiment which we
 142 THE PSYCHOLOGICAL CLINIC.
@@ -1066,11 +1033,9 @@ taken first and a prose passage taken second thus appears to be, in
 one case 40.41 per cent and the other 22.46 per cent, or, on the
 average for 171 students, 36.62 per cent, on the general basis chosen
 for comparison. The difference of 36.62 per cent on this basis is
-not due only to the order in which the passages are read: undoubt-
-edly other factors also enter in, but we have not been able to discover
+not due only to the order in which the passages are read: undoubtedly other factors also enter in, but we have not been able to discover
 any method for evaluating and discounting the other factors.
-In order to illustrate (1) the general inadequacy of the quanti-
-tative method in cases where its results conflict with "qualitative'
+In order to illustrate (1) the general inadequacy of the quantitative method in cases where its results conflict with "qualitative'
 scoring, and (2) the apparently greater ability to reproduce the sense
 displayed in dealing with selection II, two specimen papers are
 given which to some extent correspond to the similar papers given as
@@ -1078,8 +1043,7 @@ specimens of work done on selection I.
 Specimen Paper III. By exposing (1) his thermometers (2) to
 the sun, Sir Wm. Hershaw (? 7) found the heat (10) of each of colors
 (9). By drawing a line (15) to represent (17) the length of the ray
-(? 18) from ultra red to ultra violet (? 12, 13), and by erecting per-
-pendiculars (19) which represented (21) the intensity (22) of each
+(? 18) from ultra red to ultra violet (? 12, 13), and by erecting perpendiculars (19) which represented (21) the intensity (22) of each
 ray (? 24), he was able to draw a curve (27) representing (28) the
 different colors (? 3) of the spectrum (33).
 Specimen Paper IV. Sir William Herschel (7) exposed (1)
@@ -1132,8 +1096,7 @@ follows:
 (28) and in their thirst
 As there are thus fifty-five possible points, the score, expressed
 in percentages, is 1.82 for one idea reproduced, 3.04 for two ideas,
-and so on. The average score was 27.673 per cent, to which accord-
-ingly the grade C was assigned. The grades were assigned to the
+and so on. The average score was 27.673 per cent, to which accordingly the grade C was assigned. The grades were assigned to the
 different percentages as follows:
 eager (thirst)
 of wealth
@@ -1284,8 +1247,7 @@ of Idea
 24
 These figures show that such ideas as "the Normans," "delight,"
 "ability to endure," "military (life)," "indulgence," and a few
-others made a very considerable impression, as judged by the per-
-centage of students reproducing these ideas. This appears to
+others made a very considerable impression, as judged by the percentage of students reproducing these ideas. This appears to
 indicate (1) that the subject was well within the comprehension of
 the students, and especially (2) that the students were now well
 practised. Both factors were present, but the test does not provide
@@ -1311,13 +1273,11 @@ can endure (47) the rigor (50) of any climate (51) to which military
 (55) exigencies may expose them.
 From the purely quantitative point of view, V is assigned the
 grade A, and VI the grade C. But, when judged qualitatively
-V shows considerable weakness. The connection between the dif-
-ferent sentences "But ... So ..." is verbal only: there is no
+V shows considerable weakness. The connection between the different sentences "But ... So ..." is verbal only: there is no
 inner thought-connection. In VI, on the contrary, the general sense
 is well understood, though a certain condensation of the thought is
 evident: e. g., "they tend to luxuriousness, but . . seems to sum
-up both the "luxury of dress" idea and the "indulgence in licentious-
-ness of nature and passion" notion. Qualitatively considered, V
+up both the "luxury of dress" idea and the "indulgence in licentiousness of nature and passion" notion. Qualitatively considered, V
 was given C, and VI the grade A, after careful comparison with the
 other papers.
 Conclusions as to the value of the quantitative method.
@@ -1338,6 +1298,5 @@ first and an increased degree of accomplishment in the passages read
 later. Without the use of the quantitative method all A, B, C, etc.,
 scores would have to be treated as equal, whether assigned in
 selection I, in II, or in III.
-(5) The value of the quantitative method is merely supple-
-mentary to results obtained by the qualitative method.
+(5) The value of the quantitative method is merely supplementary to results obtained by the qualitative method.
 1 Cf. Tra-vis, p. 194, quoted in note 19.

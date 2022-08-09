@@ -28,8 +28,7 @@ To solve a mathematical problem is a complex performance involving
 the four elementary operations of arithmetic and many other
 operations.
 The operation is the analytic element of performance, a constant
-which may be repeated, but which, by definition, varies only quanti-
-tatively. The goal of scientific analysis is the differentiation of
+which may be repeated, but which, by definition, varies only quantitatively. The goal of scientific analysis is the differentiation of
 elementary, i. e., not further analyzable operations; theoretically,
 every
 P = xO+yO'+zO"+ (2)
@@ -48,8 +47,7 @@ as complex performances, depending on our point of view. All the
 behavior of a lifetime may be considered as an operation, i. e., a
 sequence of adaptations to environment.
 The outcome of a performance brings something into existence
-that did not exist before. This "something" is a product. A per-
-formance is usually defined by its product. The classification of
+that did not exist before. This "something" is a product. A performance is usually defined by its product. The classification of
 performances, therefore, will be a classification of products. We
 judge a tree by its fruits, and we assume competency from the
 products of an operation. We affirm the existence of an ability
@@ -57,19 +55,16 @@ whenever we see a particular operation eventuating in the production
 of some differentiated pattern of behavior. The performance, viz.,
 the operation, is a sequence of observed events?it is an observed
 fact, but the ability is an idea?as a cause, it is potential energy
-The operation is a form of motion producing an effect; it is a mechan-
-ism, a means to an end. The affirmation of the existence of an
+The operation is a form of motion producing an effect; it is a mechanism, a means to an end. The affirmation of the existence of an
 ability is only a promise of future performance. The diagnosis of
 an ability is a prognosis of future production under given conditions.
 Just as performances are analyzed into components called
 "operations," so an ability may be analyzed into cooperating
 abilities, a different ability for each qualitatively differentiated
 product.
-Competency is an aggregate of abilities. Thus, reading compe-
-tency is the aggregate of all the abilities necessary in order to read.
+Competency is an aggregate of abilities. Thus, reading competency is the aggregate of all the abilities necessary in order to read.
 The use of the word "competency" suggests that reading is the
-product or effect of many different operations, and that each differ-
-entiated operation implies a differentiated ability. Talking and
+product or effect of many different operations, and that each differentiated operation implies a differentiated ability. Talking and
 reading seem to be equally simple productions, but the ability to
 read is a more complex competency than the ability to talk. At
 one time it may serve our purpose to regard a particular product as
@@ -82,8 +77,7 @@ abilities. Every
 C = A+A'+A"+ (3)
 or C = No A's (4)
 Such statements, as "Man has more ability than any other
-species of animal," or, "Shakespeare is a greater poet than Long-
-THE ANALYTICAL DIAGNOSIS. 131
+species of animal," or, "Shakespeare is a greater poet than LongTHE ANALYTICAL DIAGNOSIS. 131
 fellow," are diagnostic estimates based partly on opinion and partly
 on observed production* As an opinion, the diagnosis is what I call
 (for reasons which I cannot enter into now) a "critical diagnosis."
@@ -97,8 +91,7 @@ to those of Longfellow. The critico-impressionistic diagnosis is an
 expression of preference. It implies relative value or importance; it
 displays appreciation or prejudice. It enters into every statement
 of relative competency; it is an integral part of every diagnosis.
-Let Cj represent the competency of one man and C2 the compe-
-tency of another, and let us suppose that
+Let Cj represent the competency of one man and C2 the competency of another, and let us suppose that
 Cx>C2 (5)
 then ViAj-f V,1A,1+V',1A"1+ >V2A2+V'2A'2+V',2A',S+ or,
 V1XN0. Ax's >V?xNo. A2's or,
@@ -110,8 +103,7 @@ denied that ViCi>V2C2, then productions must be measured,
 analyzed and valued, and, to do this, a standard unit of time must
 be introduced into the formula. This standard unit of time may be
 the lifetime of those whose competency is rated or it may be a smaller
-unit of time, for example, the time required to pass a test. Compe-
-tency is only a promise of future performance, but proficiency is a
+unit of time, for example, the time required to pass a test. Competency is only a promise of future performance, but proficiency is a
 rank order, i. e., a rating determined by the measurement of what
 has been produced during the passage of a standard measure of time;
 in other words,
@@ -147,14 +139,12 @@ goods with the Binet Test have the most intelligence?according to
 the Binet testers.
 While a similar assumption underlies most tests, the assumption
 is more often false than true, for the proficiency of performance
-varies more often with the number of abilities employed in produc-
-tion than with the efficiency of a particular operation. Nor must
+varies more often with the number of abilities employed in production than with the efficiency of a particular operation. Nor must
 the value of the diverse component products constituting the total
 production be overlooked, as is so often done. We must always
 bear in mind that
 Proficiency = VXCXE (10)
-Every test really results in a complex product made up of compo-
-nent products. It is important to know how many of these test
+Every test really results in a complex product made up of component products. It is important to know how many of these test
 products can be produced in a given unit of time, or, in other words,
 how much efficiency is developed by those tested, but it is equally
 important, if possible, to ascertain, by observation and analysis, how
@@ -165,15 +155,10 @@ The demonstrable diagnosis is a proficiency rating, which resolves
 itself theoretically into the measurement of efficiency, and a list
 of the analytically discriminated abilities, with an estimate of the
 relative value of each ability. This citation and estimate of abilities,
-I call the "analytical diagnosis." It is, in fact, an analytico-critico-
-impressionistic diagnosis. It is based on observation and measure-
-ment, but it is not a measurement. Exact measurement is a good
+I call the "analytical diagnosis." It is, in fact, an analytico-criticoimpressionistic diagnosis. It is based on observation and measurement, but it is not a measurement. Exact measurement is a good
 THE ANALYTICAL DIAGNOSIS. 133
-thing in its place, but any fool may use a tape to give specious exacti-
-tude to his opinions. This was the regular practice of the phren-
-ologists, and psychological charlatans will continue to flourish their
-tapes and batteries of tests. Science develops partly by measure-
-ment, but largely by analytical discrimination and the exercise of
+thing in its place, but any fool may use a tape to give specious exactitude to his opinions. This was the regular practice of the phrenologists, and psychological charlatans will continue to flourish their
+tapes and batteries of tests. Science develops partly by measurement, but largely by analytical discrimination and the exercise of
 good judgment, which is opinion refined by experience. This the
 Binet testers forget when they blindfold themselves and jump from
 an artificial performance score, good enough for some uses, to what
@@ -181,25 +166,18 @@ they call a "Mental Age" and an "Intelligence Quotient."
 Strictly speaking, then, the measured quantity dealt with as a
 result of tests is a measure of proficiency, i. e., the number of products
 produced in a unit of time by a number of operations. The more
-nearly this really composite operation approximates analytic sim-
-plicity, the more nearly does proficiency equal efficiency. It is
+nearly this really composite operation approximates analytic simplicity, the more nearly does proficiency equal efficiency. It is
 relatively easy to measure a child's ability to add, but it is more
-difficult to measure his ability to write a composition. Neverthe-
-less, even complex performances are measureable, and the compe-
-tency of one man may be diagnosed as "more" than the competency
+difficult to measure his ability to write a composition. Nevertheless, even complex performances are measureable, and the competency of one man may be diagnosed as "more" than the competency
 of another. In so far as the diagnosis depends on exact measurement,
 it is a demonstrable diagnosis; in so far as it depends on analysis and
 valuation, it is an analytical diagnosis.
-Every performance, then, is the product of an operating compe-
-tency. "How many abilities were concerned?" This question
-requires us to consider the number of abilities into which the compe-
-tency is to be analyzed. We may specify too many, or too few.
-Over specification is cumbersome and over generalization is unen-
-lightening. Biology assumes that self-preservation and reproduction
+Every performance, then, is the product of an operating competency. "How many abilities were concerned?" This question
+requires us to consider the number of abilities into which the competency is to be analyzed. We may specify too many, or too few.
+Over specification is cumbersome and over generalization is unenlightening. Biology assumes that self-preservation and reproduction
 are the two general abilities of organic life?two are not enough for
 psychological diagnosis. The Binet tester, talking about Mental
-Age at one moment and intelligence at another, assumes that men-
-tality is the same thing as intelligence, and that all behavior is the
+Age at one moment and intelligence at another, assumes that mentality is the same thing as intelligence, and that all behavior is the
 product of a single ability. Common sense and the purpose in hand
 determine how many categories it will be desirable to employ for
 the purpose of analytical diagnosis.
@@ -225,8 +203,7 @@ Balance
 3. Productivity (Sp) 3. Uniformity 3. Particularization 3. Comprehension 3. Exploration 3. Concernment
 Interest
 i. Order 4. Conformability 4. Discrimination 4. Organization 4. Originality 4. Conversion
-Convertibi-
-lity
+Convertibility
 5. Effort 5. Achievement 5. Persistence 5. Imagination 5. Origination 5. Aspiration
 Ambition
 6. Endurance 6. Judgment 6. Discernment 6. Culture 6. Confidence 6. Orientation
@@ -238,12 +215,9 @@ operations of qualitatively discriminated abilities, then psychology
 may also be defined as the science of competency. The thirty
 categories of behavior are the outline of a psychology of competency.
 These categories have also demonstrated their value for analytical
-diagnosis at the Psychological Clinic of the University of Pennsyl-
-vania. "The Analytical Diagnosis"1 Chart in use at the Psycho-
-logical Clinic contains the twenty-four items of the former schedule
+diagnosis at the Psychological Clinic of the University of Pennsylvania. "The Analytical Diagnosis"1 Chart in use at the Psychological Clinic contains the twenty-four items of the former schedule
 and a few more. In fact, this new "Analytical Diagnosis" chart
-comprises a total of fifty-six items?too many, perhaps, for a per-
-spicuous psychograph. I think the items cover the range of abilities
+comprises a total of fifty-six items?too many, perhaps, for a perspicuous psychograph. I think the items cover the range of abilities
 into which human competency may be satisfactorily analyzed. The
 number may be cut down in practice to suit the convenience of the
 diagnostician.

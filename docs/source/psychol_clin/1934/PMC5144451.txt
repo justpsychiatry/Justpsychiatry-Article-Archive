@@ -4,12 +4,10 @@ Education of Parents and Intelligence of Children
 By Claude L. Nemzek and F. H. Finch
 University of Minnesota
 That there exists some degree of relationship between the amount
-of schooling of parents and the measured intelligence of their chil-
-dren has been revealed by investigations dealing with a variety of
+of schooling of parents and the measured intelligence of their children has been revealed by investigations dealing with a variety of
 problems. Jones (6), in a study of 120 superior children, found
 that a large proportion of the parents were college graduates.
-Goodenough (5), using the Kuhlmann Revision, tested 213 chil-
-dren ranging in age between 18 and 54 months. Each child was
+Goodenough (5), using the Kuhlmann Revision, tested 213 children ranging in age between 18 and 54 months. Each child was
 retested with the same test after an interval of six weeks. The r
 between I.Q.'s on the first test and education of mother was
 .319 ? .042; between I.Q.'s on the first test and education of father,
@@ -26,8 +24,7 @@ age. A high degree of variability in intelligence characterizes her
 sample, the standard deviation of I.Q.'s being 21.67.
 Pater son and his colleagues (10), in their work upon mechanical
 ability, observed an r of .14 between Otis I.Q.'s of 100 junior high
-school boys and education of father. For the same group, educa-
-tion of mother gave a corresponding figure of .08.
+school boys and education of father. For the same group, education of mother gave a corresponding figure of .08.
 Carter (3), in his study of family resemblances, reported the
 following relationships:
 i The findings presented in this paper are from an analysis of the records
@@ -105,8 +102,7 @@ larger proportions of the dull children were the offspring of parents
 with the smallest number of years of education.
 Moore (9), in her study of high school graduates, selected by
 means of intelligence and objective achievement test records on
-27,219 cases a group of 341 whom she designates as gifted. A com-
-parison of the gifted and total groups on the basis of amount of
+27,219 cases a group of 341 whom she designates as gifted. A comparison of the gifted and total groups on the basis of amount of
 parental education is given below:
 Gifted Group Total Group
 per cent per cent
@@ -115,8 +111,7 @@ One or both parents attended college 33.4 10.9
 Both parents attended high school  17.9 16.1
 One parent attended high school  17.0 17.0
 Neither parent attended high school  31.7 56.0
-Bayley (1), who studied the mental growth of 61 children dur-
-ing the first three years of their lives by means of repeated infant
+Bayley (1), who studied the mental growth of 61 children during the first three years of their lives by means of repeated infant
 tests, calculated the relationships between mid-parent education and
 infant test scores for the various administrations of the tests. Her
 results are included in Table I.
@@ -197,10 +192,8 @@ which may possibly be due to the nature of the test employed.
 There is considerable evidence that such tests used at early ages do
 not measure the same traits as do tests designed for older children.2
 Three studies of foster children included an examination of the
-relation between amount of schooling of foster parent and intelli-
-gence of the child. Burks (2) reports on this relationship for a
-group of foster children and also for a control group of own chil-
-dren :
+relation between amount of schooling of foster parent and intelligence of the child. Burks (2) reports on this relationship for a
+group of foster children and also for a control group of own children :
 Foster Group
 P.E.
 N
@@ -225,11 +218,8 @@ Grade reached by mother
 The foster children on which Burks's results are based were placed
 in the foster homes before they had attained an age of 12 months,
 and ranged in age from 5 to 14 years at the time of test. Control
-cases were matched with foster cases in age, sex, locality of resi-
-dence, type of neighborhood, and occupational level of father.
-Freeman (4) reports a correlation of .42 ? .03 between educa-
-2 See Shirley, Mary M. The First Two Years, Vol. I, Postural and Loco-
-motor Development. Minneapolis, University of Minnesota Press, 1931 pp
+cases were matched with foster cases in age, sex, locality of residence, type of neighborhood, and occupational level of father.
+Freeman (4) reports a correlation of .42 ? .03 between educa2 See Shirley, Mary M. The First Two Years, Vol. I, Postural and Locomotor Development. Minneapolis, University of Minnesota Press, 1931 pp
 128-134. '
 Furfey, Paul Hanly and Muehlenbein, Josephine. The Validity of Infant
 Intelligence Tests, J. Genet. Psychol., 1932, 40, 219-223.
@@ -257,10 +247,8 @@ Father.
 .13
 Despite the fact that these cases were placed in foster homes at
 an age much below that typical of Freeman's cases, Leahy finds
-evidence that selection is to a large extent responsible for the ob-
-served relationship.
-The subjects furnishing the data for which the relationship be-
-tween amount of parental education and intelligence of offspring
+evidence that selection is to a large extent responsible for the observed relationship.
+The subjects furnishing the data for which the relationship between amount of parental education and intelligence of offspring
 is reported below were tested at the time of their admission to the
 University High School. A series of five group tests was given to
 each individual, and the results of the several tests were converted
@@ -276,8 +264,7 @@ Eesults are reported for six groups of subjects, as follows:
 1. High school entrants?719 cases representing as many families,
 not classified as to sex or to grade in which tests were given.
 2. High school graduates?boys who were tested at the beginning
-of the ninth grade (or later in a few cases) and who gradu-
-ated from University High School.
+of the ninth grade (or later in a few cases) and who graduated from University High School.
 3. High school graduates?girls who were tested at the beginning of
 the ninth grade (or later in a few cases) and who graduated
 from University High School.
@@ -406,21 +393,17 @@ N
 93
 108
 136
-From the tables it is obvious that in these data there is a posi-
-tive relationship between amount of parental education and I.Q. of
+From the tables it is obvious that in these data there is a positive relationship between amount of parental education and I.Q. of
 offspring. While the obtained values seem to center about .2 there
 268 THE PSYCHOLOGICAL CLINIC
 is no means of determining how well this figure will hold for the
 population in general, since the cases here available are largely
-from the upper part of the scale, both in education and in intelli-
-gence. The homogeneity of the data is such as to suggest that the
+from the upper part of the scale, both in education and in intelligence. The homogeneity of the data is such as to suggest that the
 observed value may be below that typical of the population of this
 country.
 It will be noted that the raw correlations are consistently higher
-for the fathers than for the mothers, but here again there is a dif-
-ference in variability in education that must be taken into account.
-The corrected values of r,5 given in Table IV, indicate that the ap-
-parent difference in the two groups is due to this factor, and that
+for the fathers than for the mothers, but here again there is a difference in variability in education that must be taken into account.
+The corrected values of r,5 given in Table IV, indicate that the apparent difference in the two groups is due to this factor, and that
 the same degree of relationship exists for the fathers and the
 mothers.
 Table IV
@@ -442,8 +425,7 @@ Mother's education (corrected).
 .143
 .109
 Bibliography
-1. Bayley, Nancy. Mental growth during the first three years: A develop-
-mental study of sixty-one children by repeated tests, Genet. Psychol.
+1. Bayley, Nancy. Mental growth during the first three years: A developmental study of sixty-one children by repeated tests, Genet. Psychol.
 Monog., 1933, 14, 1-92.
 2. Burks, Barbara Stoddard. The relative influence of nature and nurture
 upon mental development: A comparative study of foster parent-foster
@@ -451,20 +433,16 @@ child resemblance and true parent-true child resemblance, 27th Yrbh.
 Nat. Soc. Stud. Educ., Pt. I, 1928, 219-316.
 3. Carter, Harold Dean. Family resemblances in verbal and numerical
 abilities, Genet. Psychol. Monog., 1931, 10, 1-104.
-4. Freeman, Frank N., Holzinger, Karl J., and Mitchell, Blythe Clay-
-ton. The influence of environment on the intelligence, school achieve-
-ment, and conduct of foster children, 27th Yrbt. Nat. Soc. Stud. Educ.,
+4. Freeman, Frank N., Holzinger, Karl J., and Mitchell, Blythe Clayton. The influence of environment on the intelligence, school achievement, and conduct of foster children, 27th Yrbt. Nat. Soc. Stud. Educ.,
 Pt. I, 1928, 102-217.
 5. Goodenough, Florence L. The relation of the intelligence of pre-school
 children to the education of their parents, School and Soc., 1927, 26,
 54-56.
 6. Jones, Alice M. An analytical study of one hundred twenty superior
 children, Psychol. Clin., 1925, 16, 19-76.
-s Formula (186). Kelley, T. L. Statistical Method. New York, Mac-
-millan, 1924. 390 p.
+s Formula (186). Kelley, T. L. Statistical Method. New York, Macmillan, 1924. 390 p.
 EDUCATION OF PARENTS 269
-7. Leahy, Alice M. A study of certain selective factors influencing predic-
-tion of the mental status of adopted children in nature-nurture research,
+7. Leahy, Alice M. A study of certain selective factors influencing prediction of the mental status of adopted children in nature-nurture research,
 J. Genet. Psycliol., 1932, 41, 294?329.
 8. Miller, Joseph. Causes of failure and success in school?II, Educ.
 Method, 1933, 12, 364-366.

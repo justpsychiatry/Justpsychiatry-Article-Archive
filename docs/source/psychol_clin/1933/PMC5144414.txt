@@ -8,12 +8,9 @@ The first serious study of twin resemblance was made exactly
 fifty years ago (1883) by Sir Francis Galton.1 On the basis of
 written and verbal reports of thirty-five pairs of similar twins and
 twenty pairs of dissimilar twins, Galton concluded that heredity
-is more important than environment in determining adult char-
-acteristics. Thorndike in 1905 2 first attempted to discover the ex-
-tent of twin resemblance by means of a number of mental and
+is more important than environment in determining adult characteristics. Thorndike in 1905 2 first attempted to discover the extent of twin resemblance by means of a number of mental and
 physical measurements. Since that time, a growing realization of
-the importance of studying twin resemblance to determine the rela-
-tive influence of heredity and environment, has led a large number
+the importance of studying twin resemblance to determine the relative influence of heredity and environment, has led a large number
 of investigators to turn their attention to this problem. Rexroad,3
 in a recent article, has assembled the results of fifty-seven studies
 of twin resemblance, which have been conducted within the past
@@ -28,8 +25,7 @@ replies to a questionnaire and from personal interviews.
 The subjects for this study were twenty-six unselected pairs of
 twins living in or near New Brunswick, New Jersey. Their ages
 ranged from five years to sixteen years and five months, with a
-median age of nine years and one month. They all attended ele-
-mentary school with the exception of one pair who were in the
+median age of nine years and one month. They all attended elementary school with the exception of one pair who were in the
 1 Galton, Francis, Inquiries into Human Faculty. New York: Macmillan,
 1883.
 2 Thorndike, E. L., Measurement of Twins. J. of Phil., Psychol,
@@ -47,25 +43,20 @@ pairs of unlike sex were not available.
 Procedure
 In every case both members of a pair of twins were examined
 at the Rutgers Psychological and Mental Hygiene Clinic on the
-same afternoon. In so far as the age and ability of the twins al-
-lowed, the following tests were administered and were used for
-comparative purposes in this study: The Stanford-Binet, Kuhl-
-mann-Anderson Intelligence tests, Witmer Form Board, Witmer
+same afternoon. In so far as the age and ability of the twins allowed, the following tests were administered and were used for
+comparative purposes in this study: The Stanford-Binet, Kuhlmann-Anderson Intelligence tests, Witmer Form Board, Witmer
 Cylinder, and Healy A. For the most part, the examinations were
 conducted by two examiners. Dr. Anna S. Starr administered the
 form boards to each twin individually and the Binet to one of them;
 the writer gave the Kuhlmann-Anderson to both twins at the same
 time and the Binet to the other twin.
 In addition to these clinical tests, specimens of handwriting were
-secured from fifteen pairs of twins. Further information concern-
-ing the twins was secured from the parents, by means of a standard
+secured from fifteen pairs of twins. Further information concerning the twins was secured from the parents, by means of a standard
 questionnaire, and in many cases, by an interview with them.
-Twin resemblances will be reported in terms of correlation co-
-efficients. It was ascertained from the parents which of the twins
+Twin resemblances will be reported in terms of correlation coefficients. It was ascertained from the parents which of the twins
 was born first, or was the older. This twin is referred to as "twin
 A." The younger or last born in each pair is known as "twin
-B." Scores made on a given test by twins A can then be corre-
-lated with scores on the same test made by twins B. Since all
+B." Scores made on a given test by twins A can then be correlated with scores on the same test made by twins B. Since all
 correlation coefficients must be looked upon as only suggestive due
 to the small number of cases, all except in the case of memory span
 and quality of handwriting were determined by the method of
@@ -73,14 +64,11 @@ rank-differences rather than by the product-moment method. It
 would be desirable to divide the twins into identical and fraternal
 and to report the resemblance found in each group. Among our
 cases there were only ten pairs considered, on the basis of sex and
-physical appearance, to be identical twins, and seven pairs fra-
-ternal. The others we were quite uncertain about. Consequently,
+physical appearance, to be identical twins, and seven pairs fraternal. The others we were quite uncertain about. Consequently,
 we will not consider this interesting question in this paper.
 CLINICAL STUDY OF TWINS 245
 Intelligence Quotients
-The average intelligence quotients and the variability as de-
-termined by the Stanford-Binet and the Kuhlmann-Anderson In-
-telligence tests, for all of the twins studied, for twins A, and for
+The average intelligence quotients and the variability as determined by the Stanford-Binet and the Kuhlmann-Anderson Intelligence tests, for all of the twins studied, for twins A, and for
 twins B, are shown in Tables IA and IB.
 Table IA
 Intelligence Quotients of Entire Group of Twins
@@ -113,8 +101,7 @@ Average
 Range
 S.D.
 Binet
-Kuhlmann-
-Anderson
+KuhlmannAnderson
 26
 24
 98.2?2.
@@ -131,28 +118,21 @@ Anderson
 70-135
 13.2
 15.7
-An analysis of Tables IA and IB suggests some conclusions re-
-garding the intelligence quotients of the sample of twins included in
+An analysis of Tables IA and IB suggests some conclusions regarding the intelligence quotients of the sample of twins included in
 this study.
 1. The twenty-six pairs of twins, considered as a group, were of
 average intelligence when compared with Terman's study of the
-intelligence of a large number of school children. The average in-
-telligence quotients, of the twins here reported, was in close accord
-with the findings of Merriman, Lauterbach, Wingfield and Hol-
-zinger, all of whom used a larger number of subjects.4
+intelligence of a large number of school children. The average intelligence quotients, of the twins here reported, was in close accord
+with the findings of Merriman, Lauterbach, Wingfield and Holzinger, all of whom used a larger number of subjects.4
 2. The average I.Q. and the variability of the twins who were
 born first (Twins A) were approximately equal to that of the twins
-who were born last (Twins B). The Binet and the Kuhlmann-
-Anderson both indicate this equality. In order to take account of
-the slight difference in the average between the two groups, Pear-
-son's Coefficient of Variation was used to get the relative va-
-riability of each group. ("F = 100 S.D./Average.) It turned out
+who were born last (Twins B). The Binet and the KuhlmannAnderson both indicate this equality. In order to take account of
+the slight difference in the average between the two groups, Pearson's Coefficient of Variation was used to get the relative variability of each group. ("F = 100 S.D./Average.) It turned out
 4 Bexroad, Carl N., op. cit.
 246 THE PSYCHOLOGICAL CLINIC
 that this measure was almost equal for twins A and twins
 B on both intelligence tests. For this group of twins, then, order
-of birth seemed to have no consistent effect on the average intelli-
-gence quotient or the variability of the group.
+of birth seemed to have no consistent effect on the average intelligence quotient or the variability of the group.
 3. The Kuhlmann-Anderson gave a slightly higher average I.Q.
 for the twins as a whole, and for each of the smaller groups, than
 did the Binet.
@@ -161,8 +141,7 @@ twins as a whole, between members of the younger thirteen pairs,
 and between members of the thirteen older pairs, may be seen in
 Table II. In both the younger and older groups there were five
 pairs who were judged to be identical twins. The results of both
-intelligence tests are shown in Table II, resemblance being indi-
-cated by coefficients of correlation.5
+intelligence tests are shown in Table II, resemblance being indicated by coefficients of correlation.5
 Table II
 Resemblance of the Twins in I.Q.
 All Twins
@@ -193,8 +172,7 @@ Kuhlmann-Anderson.
 The correlation coefficients presented in Table II are based on
 only a few cases, and must therefore be considered only suggestive
 of the following tendencies.
-1. There was a marked correlation between the twins with re-
-spect to intelligence quotients, when determined by either the Binet
+1. There was a marked correlation between the twins with respect to intelligence quotients, when determined by either the Binet
 or Kuhlmann-Anderson tests. These coefficients were slightly
 higher than most investigators have reported for all twins taken
 together. They indicated a higher degree of resemblance between
@@ -203,33 +181,26 @@ s Rank order coefficients (p's) were changed to corresponding values of r
 by reference to Table XX in H. E. Garrett's Statistics in Psychology and
 Education. The probable error of the r's found from the p's was determined
 by the formula PZ?r = .7063(1 ? r*)/\/N.
-e Hildreth, in summarizing the results of several studies of sibling re-
-semblance, states that "siblings show on the average less resemblance than
+e Hildreth, in summarizing the results of several studies of sibling resemblance, states that "siblings show on the average less resemblance than
 twins. The amount appears to be on the average about .50, though it may
 vary greatly from this figure." Hildreth, Gertrude H., The Resemblance of
 Siblings in Intelligence and Achievement. Teachers College Contributions to
 Education, 1925, No. 186, p. 20.
 CLINICAL STUDY OF TWINS 247
-2. The correlation between the twins was higher on the Kuhl-
-mann-Anderson than on the Binet. This may be due to the fact
+2. The correlation between the twins was higher on the Kuhlmann-Anderson than on the Binet. This may be due to the fact
 that the Binet was given and scored in most cases by two different
-examiners, for each member of a pair separately. The Kuhlmann-
-Anderson, on the other hand, was given to both twins at the same
-time, thus assuring standard conditions, and is not subject to indi-
-vidual interpretations in scoring.
+examiners, for each member of a pair separately. The KuhlmannAnderson, on the other hand, was given to both twins at the same
+time, thus assuring standard conditions, and is not subject to individual interpretations in scoring.
 3. The comparison of the correlations found in the younger and
 older twin pairs, each group containing five pairs judged to be
 identical twins, gave conflicting results. The Kuhlmann-Anderson
-correlations suggest that there was no significant difference be-
-tween the resemblance of the younger and older twin pairs. The
+correlations suggest that there was no significant difference between the resemblance of the younger and older twin pairs. The
 results of the Stanford-Binet, on the other hand, would indicate
 that the members of the older twin pairs were much more alike than
-the members of the younger twin pairs. In view of the small num-
-ber of cases in each group, and the high probable error of the Binet
+the members of the younger twin pairs. In view of the small number of cases in each group, and the high probable error of the Binet
 correlation, these results are not very significant.
 Form Boards
-The correlation between the twins as shown by their perform-
-ance on three form boards is shown in Table III. Correlations are
+The correlation between the twins as shown by their performance on three form boards is shown in Table III. Correlations are
 based on time in seconds for each trial. Only those individuals who
 finished the trial without help are included. For this reason there
 are more cases considered in the second trial of the Witmer Cylinder
@@ -264,16 +235,13 @@ form board success. The results show a much lower correlation
 between the twins on the form boards than on the Binet or the
 248 THE PSYCHOLOGICAL CLINIC
 Kuhlmann-Anderson, a condition which might be expected from the
-nature of the problem. In fact, the correlation on the Witmer Cyl-
-inder and the Healy A might even be negative, in view of the high
+nature of the problem. In fact, the correlation on the Witmer Cylinder and the Healy A might even be negative, in view of the high
 probable error. The Witmer Form Board, which is standardized
 at the four year level, was quite easy for most of the twins. On
 this test we find a fairly high degree of resemblance between the
 twins, when the time taken to solve the problem is taken as the
 criterion of success.
-One would expect to find a greater degree of resemblance be-
-tween the twins on the second trial of the form boards. The ele-
-ment of novelty and strangeness is then absent, and the time taken
+One would expect to find a greater degree of resemblance between the twins on the second trial of the form boards. The element of novelty and strangeness is then absent, and the time taken
 by a pair of twins might feasibly be more nearly alike. On the
 second trial of the "Witmer Form Board and Witmer Cylinder, we
 find this to be the case. The correlations are much higher than on
@@ -286,13 +254,10 @@ time for a single trial is used as measure of the subject's ability.
 Qualitatively, the performance of some of the twin pairs on the
 form boards was very much alike. Their method of attacking the
 problem, their attitude toward it, and even the errors they made
-were often strikingly similar. There were other pairs whose per-
-formance was qualitatively very dissimilar. The individuals of
+were often strikingly similar. There were other pairs whose performance was qualitatively very dissimilar. The individuals of
 the same pair showed a wide difference in the rate of discharge of
-energy, in foresight and analytical ability, and the hand they pre-
-ferred to use. We were able to observe no general resemblance
-characteristic of all the twin pairs, with respect to qualitative per-
-formance on the form boards.
+energy, in foresight and analytical ability, and the hand they preferred to use. We were able to observe no general resemblance
+characteristic of all the twin pairs, with respect to qualitative performance on the form boards.
 Memory Span for Digits
 The forward memory span for digits of the twenty-six pairs of
 twins considered, ranged from 4 to 8. In twelve pairs the forward
@@ -305,9 +270,7 @@ for digits twice as often as members of the older twin pairs. Eight
 of the thirteen younger pairs had the same memory span; in only
 four of the thirteen older pairs was this true.
 CLINICAL STUDY OF TWINS 249
-The Reverse Memory Span for digits shows even a closer re-
-semblance between the twins than the forward span. Both mem-
-bers of three pairs of twins and one member of a fourth pair failed
+The Reverse Memory Span for digits shows even a closer resemblance between the twins than the forward span. Both members of three pairs of twins and one member of a fourth pair failed
 to grasp the idea of reversing the digits, so were unable to repeat
 even two correctly in the reverse order. The Reverse Memory Span
 of the remaining twenty-two pairs ranged from 2 to 7 digits. The
@@ -319,8 +282,7 @@ reverse memory span of the twenty-two pairs of twins who were
 able to do the problem (Pearson Formula) was .87 ? .04.
 The reverse memory span was more often alike for the younger
 twin pairs than for the older. In only three of the thirteen younger
-pairs was the reverse memory span of the two individuals un-
-equal. The remaining seven cases of unequal reverse memory spans
+pairs was the reverse memory span of the two individuals unequal. The remaining seven cases of unequal reverse memory spans
 were found among the thirteen older twin pairs, ranging in age
 from 9 years, 1 month to 16 years, 5 months. This observation is
 in close agreement with the result already noticed in connection
@@ -328,32 +290,24 @@ with the forward memory span.
 Handwriting
 A short sample of handwriting was obtained from fifteen pairs
 of twins. After the specimens were well mixed, each was given a
-quality rating by comparing it with the samples given in Thorn-
-dike's handwriting scale.7 In four pairs, the handwriting of both
+quality rating by comparing it with the samples given in Thorndike's handwriting scale.7 In four pairs, the handwriting of both
 members received the same quality rating. Individuals in most
 of the pairs differed by only one point and in two pairs by two
-points. The correlation between thes<? quality ratings of the fif-
-teen pairs of twins, although only suggestive, was .68 ? .09.
-Another method was used to get a rough measure of the similar-
-ity of the handwriting of the twins. Six judges were asked to match
-up the handwriting of the twins on the basis of similarity of gen-
-eral appearance and size and shape of the letters. By means of a
+points. The correlation between thes<? quality ratings of the fifteen pairs of twins, although only suggestive, was .68 ? .09.
+Another method was used to get a rough measure of the similarity of the handwriting of the twins. Six judges were asked to match
+up the handwriting of the twins on the basis of similarity of general appearance and size and shape of the letters. By means of a
 number system, unknown to the judges, the writer was able to check
 their accuracy. The number of specimens successfully matched
-ranged from five to eight, the average being six. This result indi-
-cated that in slightly less than half the cases, there was enough
-similarity between the handwritings of the twins to enable inex-
-7 Tliorndike, E. L., Handwriting. Teachers College Eecord, 1910 11
+ranged from five to eight, the average being six. This result indicated that in slightly less than half the cases, there was enough
+similarity between the handwritings of the twins to enable inex7 Tliorndike, E. L., Handwriting. Teachers College Eecord, 1910 11
 83-175.
 250 THE PSYCHOLOGICAL CLINIC
-perienced judges to pick them out. A certain similarity was fur-
-ther indicated by the fact that after the correct selections had been
+perienced judges to pick them out. A certain similarity was further indicated by the fact that after the correct selections had been
 removed, all of the judges were able to select from two to four more
 pairs which were similar. In all, there were eleven different pairs
 which were correctly matched by the judges as a whole.
 In six of the pairs consistently matched, the age of the twins
-was above nine and a half years. This might suggest that the hand-
-writing of older twins is more similar than that of younger twins,
+was above nine and a half years. This might suggest that the handwriting of older twins is more similar than that of younger twins,
 possibly due to the longer period of similar training and practice
 in this trait, enjoyed by the former group.
 General Observations Concerning the Twins
@@ -373,15 +327,12 @@ reported as having talked a language of their own, which no one
 could understand but themselves, before they began to talk in the
 usual way.
 In none of our cases was there any report of similar diseases
-or illnesses, other than contagious diseases such as measles, afflict-
-ing both twins at the same time?a report which is quite frequent
+or illnesses, other than contagious diseases such as measles, afflicting both twins at the same time?a report which is quite frequent
 in the literature of twins.
 In three pairs of twins, or 11.5 per cent, one is righthanded, and
-the other lefthanded. This percentage showing symmetrical re-
-versal of handedness is considerably lower than that reported by
+the other lefthanded. This percentage showing symmetrical reversal of handedness is considerably lower than that reported by
 Danforth, 19 per cent8 and Lauterbach, 35 per cent9 and may be
-due to the small number of cases investigated or inadequate de-
-termination of handedness. Of the fifty-two individual twins, five
+due to the small number of cases investigated or inadequate determination of handedness. Of the fifty-two individual twins, five
 8 Danfortli, C. H., Resemblance and Difference in Twins. J. of Hered.,
 1919, 10, 399-409.
 9 Lauterbach, C. E., Studies in Twin Eesemblance. Genetics, 1925, 10,
@@ -390,16 +341,14 @@ CLINICAL STUDY OF TWINS 251
 or 19+ per cent were lefthanded. Hirsch found that 25 per cent
 of 202 individual twins were lefthanded.10 AVhen it is realized that
 only about four per cent of the population at large is lefthanded
-and that twins comprise less than two per cent of the general popu-
-lation, it is suggested that lefthandedness is in some way connected
+and that twins comprise less than two per cent of the general population, it is suggested that lefthandedness is in some way connected
 with twinning.
 The median age of the mothers at the time of the birth of the
 twins, calculated with respect to twenty-one pairs, was 30 years.
 The ages range from 19 to 38 years.
 The average number of children in the twenty-five families
 represented in this study, including the twins, is four. The birth
-of twins seems to be in no way connected with the number of pre-
-vious births in the family or to have any influence on the number
+of twins seems to be in no way connected with the number of previous births in the family or to have any influence on the number
 of subsequent births. With seventeen pairs there were from one
 to seven previous births and 11 pairs have from one to seven
 younger brothers and sisters.
@@ -412,22 +361,18 @@ Since the statistical treatment of data obtained from only
 twenty-six or fewer cases is apt to lead to unwarranted conclusions,
 due caution should be employed in referring the conclusions of this
 study to the twin population in general. With the results of tests,
-used to measure twin resemblance by other investigators, our re-
-sults are in fairly close accord. With respect to the other tests used
+used to measure twin resemblance by other investigators, our results are in fairly close accord. With respect to the other tests used
 in this study, concerning the results of which there are few if any
 other reports available, such as the Kuhlmann-Anderson and the
 form boards, the conclusions presented here must be considered
 as only suggestive until these tests are applied to many more cases.
 1. The group of twenty-six pairs of twins studied, were as a
-whole, of average intelligence, when measured by the Stanford-
-Binet or Kuhlmann-Anderson Intelligence tests. The order of birth
+whole, of average intelligence, when measured by the StanfordBinet or Kuhlmann-Anderson Intelligence tests. The order of birth
 of the twins seemed to have no effect on the average intelligence
 quotient or on the variability of the group.
 2. There was a marked resemblance in the I.Q. between the
-twins when measured by the Binet or Kuhlmann-Anderson Intelli-
-gence tests. There was also a high resemblance between them in
-io Hirseh, Nathaniel, Twins, Heredity and Environment. Harvard Uni-
-versity Press. 1930.
+twins when measured by the Binet or Kuhlmann-Anderson Intelligence tests. There was also a high resemblance between them in
+io Hirseh, Nathaniel, Twins, Heredity and Environment. Harvard University Press. 1930.
 252 THE PSYCHOLOGICAL CLINIC
 the case of the forward and reverse memory span for digits. There
 was much less similarity between the twins on the first trial of

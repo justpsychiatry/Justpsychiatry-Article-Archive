@@ -22,16 +22,13 @@ ages from 16 to 50 years, and in mental ages from 8 years 6 months
 to 9 years 6 months. Their mean chronological age was 20.7 years
 and their median was 19.0 years. (See Table I).
 The same tests were given to a group of 41 normal 9-year-old
-boys. They were selected on the basis of their mental and chrono-
-logical ages. They ranged chronologically from 8 years 10 months to
+boys. They were selected on the basis of their mental and chronological ages. They ranged chronologically from 8 years 10 months to
 9 years 2 months, and mentally from 8 years 6 months to 9 years
 6 months.
 The Stanford-Binet Test was used to determine their general
 intelligence. The feebleminded subjects had an average I.Q. of 56,
 while the average for the normal boys was 100.
-The feebleminded subjects were selected from among the in-
-mates of two institutions for the feebleminded, The Ohio State In-
-stitution and The Oklahoma State Institution. The normal boys
+The feebleminded subjects were selected from among the inmates of two institutions for the feebleminded, The Ohio State Institution and The Oklahoma State Institution. The normal boys
 Were selected from the public schools of two cities in Oklahoma,
 Norman and Oklahoma City.
 The tests employed in this study are well known and need no
@@ -56,9 +53,7 @@ Age Number
 Total 41
 Scale of Performance Tests1 and were administered and scored
 according to the directions given by Pintner and Paterson. The
-only other test was the Whipple-Healy Tapping Test. It was ad-
-ministered and scored according to Hewes.2 All of the tests except-
-ing the Seguin Form Board, the Knox Cube Test and the Feature
+only other test was the Whipple-Healy Tapping Test. It was administered and scored according to Hewes.2 All of the tests excepting the Seguin Form Board, the Knox Cube Test and the Feature
 Profile Test were scored on the basis of both speed and accuracy of
 performance. The Seguin Form Board and the Feature Profile
 Test were scored on the basis of speed, and the Knox Cube Test
@@ -75,8 +70,7 @@ In this formula "Z" is the standard score, "X" the raw score,
 "M" the arithmetic mean of the total number of scores on each
 1 Pintner, E. and Paterson, D. G., A Scale of Performance Tests. D.
 Appleton and Company.
-'Hewes, A., Standardization of the Whipple-Healy Tapping Test. J-
-Appl. Psychol., 1922, 6, 113-119.
+'Hewes, A., Standardization of the Whipple-Healy Tapping Test. JAppl. Psychol., 1922, 6, 113-119.
 * Kelley, T. L., Statistical Method, p. 115, Macmillan.
 FEEBLEMINDED PERFORMANCE TESTS 267
 test made by both the normal and feebleminded subjects, and
@@ -86,8 +80,7 @@ Kelley makes the following statement regarding the Z-scores:
 "Such measures as these may be called 'standard scores' as they
 are measures of deviation expressed in terms of standard deviation."
 Table II presents the mean raw score, the P.E. of the mean raw
-score and the mean Z-score made by each of the two groups of sub-
-jects on the tests measuring speed and accuracy of performance.
+score and the mean Z-score made by each of the two groups of subjects on the tests measuring speed and accuracy of performance.
 The raw scores made on the tests marked "Time" represent the
 number of seconds required to perform the tests.
 Table II
@@ -165,8 +158,7 @@ Score
 ? .90
 ? .14
 Mean
-Z-
-Score
+ZScore
 - .073
 - .119
 - .573
@@ -239,8 +231,7 @@ Score
 ?1.78
 ? .12
 Mean
-Z-
-Score
+ZScore
 + .072
 + .119
 + .760
@@ -265,8 +256,7 @@ Score
 * Whipple-Healy Tapping Test.
 268 THE PSYCHOLOGICAL CLINIC
 Included in this group of tests is the Whipple-Healy Tapping Test
-which is marked "Speed." The raw score made on this test repre-
-sents the number of "taps" made in 30 seconds. The tests in
+which is marked "Speed." The raw score made on this test represents the number of "taps" made in 30 seconds. The tests in
 Table II measuring accuracy (most of them are listed twice because
 they measured both speed and accuracy) are indicated by "Errors,"
 "Moves," or "Scores."
@@ -337,12 +327,10 @@ feebleminded is .17, while for the normals it is ?.20. Thus, the
 mean difference between the normals and the feebleminded in speed
 of performance is .37 of one standard deviation.
 Accuracy of Performance: Normal Versus Feebleminded Subjects
-Figure 2 shows that the normals are superior to the feeble-
-minded on 7 of the 10 tests measuring accuracy of performance.
+Figure 2 shows that the normals are superior to the feebleminded on 7 of the 10 tests measuring accuracy of performance.
 The mean Z-score of these 10 tests (the mean of the means) for the
 normals is .09, while for the feebleminded it is ?.07 Thus, the
-mean difference between the normals and the feebleminded in accur-
-acy of performance is .16 of one standard deviation.
+mean difference between the normals and the feebleminded in accuracy of performance is .16 of one standard deviation.
 The Effect of Age on Speed and Accuracy of Performance
 To determine roughly the effect of age on speed and accuracy
 of performance, the mean scores of the 20 younger feebleminded
@@ -482,12 +470,10 @@ fa
 FEEBLEMINDED PERFORMANCE TESTS 273
 is .33 for the younger group and ?.09 for the older group. The
 difference between the two groups is .42 of one standard deviation.
-The mean Z-score of the means of the 10 tests measuring accuracy-
-is .06 for the younger group and ?.27 for the older group, making
+The mean Z-score of the means of the 10 tests measuring accuracyis .06 for the younger group and ?.27 for the older group, making
 a difference of .33 of one standard deviation.
 Improvement in Speed of Performance on the Sequin Form Board
-Are normal individuals more easily motivated than the feeble-
-minded? The results of the three trials on the Seguin Form Board
+Are normal individuals more easily motivated than the feebleminded? The results of the three trials on the Seguin Form Board
 might lead to such a conclusion.
 The directions require that the Seguin Form Board be given
 three times to each subject. On the first trial the tester says, "Let
@@ -515,10 +501,8 @@ Second trial 28.16 20.07
 Third trial 25.72 19.13
 Table V shows the per cent of improvement made by each
 group on the second trial over the first, on the third trial over the
-second, and on the third trial over the first. On the second the im-
-provement of the normals over the first trial was 16 per cent and
-the improvement of the feebleminded was 26 per cent. The im-
-provement on the third trial over the second was 9 per cent for the
+second, and on the third trial over the first. On the second the improvement of the normals over the first trial was 16 per cent and
+the improvement of the feebleminded was 26 per cent. The improvement on the third trial over the second was 9 per cent for the
 normals and 5 per cent for the feebleminded. The improvement on
 274 THE PSYCHOLOGICAL CLINIC
 Table V
@@ -540,8 +524,7 @@ normals improved only 23 per cent on the third trial over the first
 while the feebleminded improved 30 per cent. It is not certain that
 either group was working up to the limit of speed on the third trial
 although it seems reasonably safe to make this assumption. Then,
-if the results of the third trial do represent the limit of speed of per-
-formance by both groups the conclusion may be drawn that the
+if the results of the third trial do represent the limit of speed of performance by both groups the conclusion may be drawn that the
 stimulus which motivated the subjects on the first trial elicited
 greater speed from the normals than from the feebleminded because
 the former improved on the second and third trials over the first by
@@ -557,8 +540,7 @@ on the same tests.
 3. The group of 20 younger feebleminded subjects with a mean
 chronological age of 17 years showed a superiority of .42 of one
 standard deviation in speed of performance and .33 of one standard
-deviation in accuracy over the group of 21 older feebleminded sub-
-jects with a mean chronological age of 24.3 years.
+deviation in accuracy over the group of 21 older feebleminded subjects with a mean chronological age of 24.3 years.
 4. The stimulus, "Let us see how quickly you can put the
 blocks in place," for the Seguin Form Board elicited on the first
 trial a greater effort from the normals than from the feebleminded.

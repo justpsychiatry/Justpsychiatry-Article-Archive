@@ -19,8 +19,7 @@ administrators, sociologists, penologists, eugenists, and vocationalists
 must all consider mental defect and intellectual capacity as vital
 elements in their dealings with human material.
 But how shall society effectively recognize and take advantage
-of the significance of intelligence, if the means of determining intel-
-lectual capacity remain the property of a small group of experts,
+of the significance of intelligence, if the means of determining intellectual capacity remain the property of a small group of experts,
 whose working methods are far too laborious, too complex, and too
 time-consuming for the practical demands of every-day life? If
 applied psychology is to make its way in the world and become an
@@ -34,8 +33,7 @@ and for all intelligence levels, each particular arrangement possessing
 its own advantages and its own limitations. But although this
 scale has reduced mental measurement almost to rule-of-thumb
 procedures, it must be still further simplified and abbreviated before
-it can come within the widest ranges of practical utility. Its employ-
-ment still requires too much time for administration and too high a
+it can come within the widest ranges of practical utility. Its employment still requires too much time for administration and too high a
 degree of expert knowledge for the extensive uses to which such a
 scale might be put. If the Binet-Simon Scale, in any of its forms,
 1 The substance of sections I and III of this paper were presented in abstract before Section L of the American
@@ -49,8 +47,7 @@ could be abbreviated without serious loss of efficiency as a measure
 of intelligence levels, there would indeed result a great gain for
 mental measurement and its many fields of application.
 It has long been recognized that the individual tests of the
-Binet-Simon Scale do not present the same relative degrees of diffi-
-culty to feebleminded children that they do to normal children of the
+Binet-Simon Scale do not present the same relative degrees of difficulty to feebleminded children that they do to normal children of the
 same intelligence level. That is, while the individual tests are of
 approximately equal difficulty for normal subjects of a given age,
 some tests are characteristically difficult or characteristically easy
@@ -69,8 +66,7 @@ on a group of normal subjects and a group of feebleminded subjects.
 The experimental data on which this standardization is based
 consist of wide-range Binet-Simon tests (Goddard revision) of 88
 selected normal children from the public school of Yineland, N. J.,
-and 189 feebleminded "children" from the Training School at Vine-
-land, N. J. The test-records of the 88 public school children were
+and 189 feebleminded "children" from the Training School at Vineland, N. J. The test-records of the 88 public school children were
 selected from records obtained from 250 children by Miss Leila
 Martin. Two criteria of selection were used, namely, that the
 records should be complete wide-range tests (that is, should
@@ -93,8 +89,7 @@ A BRIEF BINET-SIMON SCALE. 199
 for their ages. The feebleminded subjects included all inmates of
 the Training School whose mental ages were between 5 and 10 years.
 The average life age for each mental age group was approximately
-20 years. The group represents a wide variety of clinical and patho-
-logical types of mental defectives. The tests were wide-range tests
+20 years. The group represents a wide variety of clinical and pathological types of mental defectives. The tests were wide-range tests
 conducted by members of the research staff.1
 Table I shows the classification of data, with the percentages
 of successes for each test and each age-group. For more direct
@@ -525,8 +520,7 @@ example, this order is, for the normal subjects, from easy to hard,
 V-4 (count four pennies), V-l (compare two weights), V-3 (repeat
 ten-syllable sentence), VI-5 (choose prettier), and so on; for the
 feebleminded subjects this order would be, V-4, VI-2, VI-3, V-5,
-and so on. The differential difficulty of each test for the feeble-
-minded subjects as distinguished from the normal subjects is found
+and so on. The differential difficulty of each test for the feebleminded subjects as distinguished from the normal subjects is found
 in the last line of table I; it has been obtained by subtracting
 algebraically the sums of percentages of each test for normals from
 the sums for defectives. For example, test V-l is passed by a total
@@ -593,13 +587,10 @@ questions at this time, but1 certainly they indicate a possible method
 of experimental investigation and analysis in a very fruitful field.
 The individual tests of the abbreviated scale have been selected
 on the basis of the data in table I. This selection is made directly
-from the experimental data and is not influenced by personal judg-
-ments regarding the practical validity of these tests. The selection
-is based on two considerations, first that each single test should pre-
-sent much greater difficulty of solution to defectives than to normals
+from the experimental data and is not influenced by personal judgments regarding the practical validity of these tests. The selection
+is based on two considerations, first that each single test should present much greater difficulty of solution to defectives than to normals
 as indicated by the differential difficulties, and secondly that the
-selected tests should standardize at some mental year by approxi-
-mately 75 per cent of passes for the normal subjects, with a steeply
+selected tests should standardize at some mental year by approximately 75 per cent of passes for the normal subjects, with a steeply
 and regularly rising standardization curve. Two tests were selected
 for each year because of the practical convenience of estimating
 results, and because, as it happened, there proved to be but two tests
@@ -610,8 +601,7 @@ proved too difficult with time-limits to standardize at year VIII,
 but when these tests were rescored for all subjects without regard for
 the time needed to obtain the correct response, then they
 standardize at year VIII.1
-In theory, no standardization percentage is adequate for arrang-
-ing tests into a scale unless account is taken of the correlations
+In theory, no standardization percentage is adequate for arranging tests into a scale unless account is taken of the correlations
 between the individual tests of such a scale. I have not computed
 these inter-correlations, for I have not been able to find a statistical
 method suited to the needs of the material. But in this respect this
@@ -643,8 +633,7 @@ VI. IX.
 VII. X.
 1. Show right and left 1. Give rimes
 2. Copy diamond 2. Reproduce design
-1 It is interesting to note that although the removal of the time-limits on these two tests affected the per-
-centages of passes for the normal subjects, it did not at all affect the percentages of passes for the feebleminded
+1 It is interesting to note that although the removal of the time-limits on these two tests affected the percentages of passes for the normal subjects, it did not at all affect the percentages of passes for the feebleminded
 lubjects.
 204 THE PSYCHOLOGICAL CLINIC.
 This brief scale is limited in range from 5 to 10 years, because
@@ -667,23 +656,20 @@ between the two sets of mental ratings for the range of ages 5 to 10
 was r = .98 (P. E. negligible) for the normal subjects, and r = .90
 (P. E. negligible) for the feebleminded subjects. The correlations
 were also computed for each mental age group instead of for the
-entire range, but the numbers of cases were too few and the possi-
-bility of variation too narrow for the coefficients to be of significance;
+entire range, but the numbers of cases were too few and the possibility of variation too narrow for the coefficients to be of significance;
 they ranged around r = .50. From these correlation values, which
 measure the degree of reliability of brief scale results in terms of
 complete scale results, one is justified for practical purposes in
 substituting brief scale ratings for complete scale ratings, by means
 of conversion constants. These substitutions, as mental ranks, will
 have practically the same reliability for normal subjects as for
-feebleminded subjects, but the mental age values for the feeble-
-minded subjects will be from 5 to 10 per cent lower (see table V)
+feebleminded subjects, but the mental age values for the feebleminded subjects will be from 5 to 10 per cent lower (see table V)
 by the brief scale than by the complete scale, whereas the mental
 age values of the normal subjects will be approximately the same by
 both scales.
 This conclusion is sufficiently surprising to merit further analysis.
 If mental measurement is to extend very far into the fields of pedagogy
-or of social science, simplicity and economy of technique are sec-
-ondary only to accuracy of results. Therefore, if two systems of
+or of social science, simplicity and economy of technique are secondary only to accuracy of results. Therefore, if two systems of
 measurement yield results which are so highly correlated that for
 practical purposes they may be interchanged, it is desirable for
 practical utility to eliminate the less efficient method, provided that
@@ -691,8 +677,7 @@ no loss of accuracy ensues. We have seen that this brief scale does
 retain the reliability of the complete scale as a measure of intelligence
 level, and in addition has the merits of reduced speed, simplified
 A BRIEF BINET-SIMON SCALE. 205
-technique, and reduced apparatus. The technique can be mas-
-tered in half an hour by intelligent persons acquainted with the
+technique, and reduced apparatus. The technique can be mastered in half an hour by intelligent persons acquainted with the
 essential principles of educational or psychological measurement,
 and individual subjects can be examined by this scale in from 5 to
 10 minutes. For example, in examining a 9-year-old boy, a mental
@@ -712,8 +697,7 @@ each test is presumed to be located at the year where it is passed
 by approximately 75 per cent of normal children of that age. The
 individual tests and the scale as a whole are designed to measure
 general intelligence. It is assumed that the more angles from which
-this general intelligence is examined, the better it will be for com-
-pleteness and accuracy of results. But if one test is statistically as
+this general intelligence is examined, the better it will be for completeness and accuracy of results. But if one test is statistically as
 good as another, and if psychologically each test actually does
 measure general intelligence, that is to say is highly correlated with
 each of the other tests, then more than one test per year should not
@@ -722,8 +706,7 @@ cases.
 The statistical reliability of the scale is a function of three
 variables, namely, the percentages of passes from year to year, the
 inter-correlations between tests, and the number of tests per year.
-Up to the present time no one has attempted to determine the relia-
-bility of the scale on the basis of these three elements. It has been
+Up to the present time no one has attempted to determine the reliability of the scale on the basis of these three elements. It has been
 shown above that a scale composed of two tests per year will give
 mental age results which correlate almost perfectly with results
 obtained from the scale with five tests per year. This can only
@@ -776,16 +759,13 @@ obtained by the complete scale are r = .95 for the normal subjects
 A BRIEF BINET-SIMON SCALE. 207
 feebleminded subjects (as compared with r = .90). Apparently,
 therefore, our conjectures are correct and the easy tests are just
-about as highly correlated (as a system) as the difficult tests. Con-
-sequently, one may expect to obtain almost identical rankings for
+about as highly correlated (as a system) as the difficult tests. Consequently, one may expect to obtain almost identical rankings for
 subjects whether one uses the complete scale or either of the brief
-scales. The actual mental ages themselves, however, while remain-
-ing approximately the same for normal subjects by any of the three
+scales. The actual mental ages themselves, however, while remaining approximately the same for normal subjects by any of the three
 scales, would be with defectives lowest by the first brief scale and
 highest by the second. To convert ratings from one scale to another
 it is necessary only to apply conversion constants which may be
-derived from the data of table V. The data of this table are com-
-puted for the mental age groups as classified by the complete scale
+derived from the data of table V. The data of this table are computed for the mental age groups as classified by the complete scale
 ratings. Mean variations from the averages have been omitted
 in order to simplify the presentation. These variations are so small
 (the coefficient of variability was not as great as .10 for any average)
@@ -855,8 +835,7 @@ Scale No. 2
 8.6
 9.2
 9.7
-From these considerations it appears that the present Binet-
-Simon Scale may be divided into two scales of approximately the
+From these considerations it appears that the present BinetSimon Scale may be divided into two scales of approximately the
 same degree of reliability, and that these brief scales might be used
 alternately by the aid of conversion constants to correct minor
 differences in estimated mental ages. One may also conclude that
@@ -873,13 +852,10 @@ feebleminded subjects are automatically reduced by approximately
 detecting feeblemindedness in potentially feebleminded subjects
 and in borderline cases. By the second brief scale the mental ages
 of mental defectives are slightly increased, which effect has no
-material value. On the other hand the mental ages of normal sub-
-jects are relatively the same by either of the brief scales or the
+material value. On the other hand the mental ages of normal subjects are relatively the same by either of the brief scales or the
 complete scale.
-Because of the automatic exaggeration in the mental retarda-
-tion which the first brief scale shows with feebleminded subjects,
-the first scale is to be commended to those examiners who must con-
-duct rapid mental examinations intended to yield preliminary
+Because of the automatic exaggeration in the mental retardation which the first brief scale shows with feebleminded subjects,
+the first scale is to be commended to those examiners who must conduct rapid mental examinations intended to yield preliminary
 indications of mental subnormality. It may also be pointed out that
 the tests which make up the first brief scale are for the most part
 the very tests which extended experience has indicated as the best
@@ -888,18 +864,15 @@ The tests of the second brief scale, on the contrary, are for the most
 part the least desirable tests of the scale, being too much influenced
 by chance errors and by mechanical memory.
 These brief scales are presented as valid only to a mental age of
-9 years (because of the absence of tests in higher levels), and conse-
-quently have a limited range of application. They were developed
+9 years (because of the absence of tests in higher levels), and consequently have a limited range of application. They were developed
 as an experimental demonstration of method; their practical value
 was not anticipated. But for practical utility I have extended the
 first brief scale in both directions, by adding tests for the years III,
 IV, XI, and XII. These additional tests were selected on the basis
 of my personal opinions as to the most satisfactory tests for those
 years. These opinions are based on observation and experience
-with both normal and feebleminded subjects, supported by mis-
-cellaneous experimental data. This entire brief scale as now
-employed for rapid examining at the Vineland Laboratory is pre-
-sented in table VI. It is to be noted that because of the absence of
+with both normal and feebleminded subjects, supported by miscellaneous experimental data. This entire brief scale as now
+employed for rapid examining at the Vineland Laboratory is presented in table VI. It is to be noted that because of the absence of
 tests beyond year XII this scale is not reliable in measuring mental
 capacity beyond 10 years.
 A similar record blank for the measurement of mental levels
@@ -910,8 +883,7 @@ the Stanford Extension and Revision of the Binet-Simon Scale. I
 have used this abbreviated Stanford scale with very satisfactory
 returns, but have not a sufficient amount of data yet on hand to
 be statistically significant. The selection of these tests is wholly
-conjectural, being based on my personal experiences with the Stan-
-A BRIEF BINET-SIMON SCALE. 209
+conjectural, being based on my personal experiences with the StanA BRIEF BINET-SIMON SCALE. 209
 Table VI.?Department op Research, the Training School at Vineland.
 Record blank for rapid Binel-Simon Testing*
 Name Date Mental age
@@ -1031,17 +1003,13 @@ year.
 A BRIEF BINET-SIMON SCALE. 211
 It may be advisable to emphasize some of the limitations of
 the brief scale as well as its advantages. Equivalence in mental
-age rating must not be misconstrued as meaning complete psycho-
-logical or clinical equivalence. Neither may one forget that a
+age rating must not be misconstrued as meaning complete psychological or clinical equivalence. Neither may one forget that a
 mental age rating does not in itself alone furnish a sufficient means
 of mental diagnosis or determinations of feeblemindedness. The
 more complete measuring scales of intelligence furnish a much
 greater variety of standard situations in which the subject may be
-caused to display his mental abilities to the trained observer. More-
-over, the results of the more extended examination are more satis-
-factory by reason of the more elaborate consideration of more phases
-of the subject's intelligence, and rule out the possibility of invalida-
-tion due to exceptional circumstances of environment or education.
+caused to display his mental abilities to the trained observer. Moreover, the results of the more extended examination are more satisfactory by reason of the more elaborate consideration of more phases
+of the subject's intelligence, and rule out the possibility of invalidation due to exceptional circumstances of environment or education.
 The chief consideration is that the gross mental ages and the resulting
 gross intelligence classifications obtained by use of the brief scales
 are practically the same as those obtained by the more extended

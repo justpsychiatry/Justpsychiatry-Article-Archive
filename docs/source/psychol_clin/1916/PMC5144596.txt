@@ -13,8 +13,7 @@ In a study of the intellectual status of the dependent children of
 a certain county, made by Mr. Stenquist, Mr. Trabue, and the author,
 four series of tests were used?the Binet-Simon series as arranged by
 Goddard, a series of 56 sentences with omitted words to be filled, a
-series of passages to be read with questions to measure the compre-
-hension gained by the reading, and a series of mechanisms to be put
+series of passages to be read with questions to measure the comprehension gained by the reading, and a series of mechanisms to be put
 together out of their loose parts, the mechanisms themselves being at
 hand for examination.* Each child was first given as a measure in
 each test the age of the median ordinary child attaining the score
@@ -22,9 +21,7 @@ which the dependent child in question attained. Then, as his final
 measures, the four differences (plus or minus) of these ages from the
 dependent child's actual chronological age were used.
 It is of some theoretical interest, and of great practical importance,
-to measure the correlations between these four measures of superior-
-ity or inferiority to the median ordinary child of the same chrono-
-logical age. I have therefore computed the Pearson coefficients of
+to measure the correlations between these four measures of superiority or inferiority to the median ordinary child of the same chronological age. I have therefore computed the Pearson coefficients of
 correlation with the following results:
 the interrelations of the three tests of intellect involving ability
 WITH WORDS, NUMBERS, AND THE LIKE.
@@ -65,13 +62,11 @@ Test.
 Archives of Psychology, No. 33, Sept., 1915.
 (121)
 122 THE PSYCHOLOGICAL CLINIC
-It is clear that these three series measure much the same com-
-plex of abilities and achievements. If the Binet tests measure general
+It is clear that these three series measure much the same complex of abilities and achievements. If the Binet tests measure general
 intellect, so to a high degree must the tests in merely reading a
 passage with understanding. The Binet tests are almost as much
 like intelligent reading in what they measure as the completion tests,
-dealing exclusively with words, are. If the Binet tests are really ade-
-quate to measure that mixture of ability to deal with words and with
+dealing exclusively with words, are. If the Binet tests are really adequate to measure that mixture of ability to deal with words and with
 facts expressed in words and other symbols, ability to deal with things
 of all sorts and ability to deal with people, whereby a person lives
 successfully, then the very much more convenient Completion and
@@ -91,8 +86,7 @@ test). They do not. On the contrary, they show no superiority in
 this respect to the completion test and very little superiority to the
 reading test. The correlations found (Pearson coefficients) are as
 follows:
-RELATIONS OF THE BINET, COMPLETION AND READING SCORES TO THE CONSTRUC-
-TION TEST SCORES.
+RELATIONS OF THE BINET, COMPLETION AND READING SCORES TO THE CONSTRUCTION TEST SCORES.
 28 10-year olds.
 11-year olds.
 12-year olds.
@@ -136,8 +130,7 @@ Construction.
 ? 55|
 .75
 .66
-Clearly the Binet test is not an adequate test of intellect in gen-
-eral for even very stupid children of ages 10-14. It tests much the
+Clearly the Binet test is not an adequate test of intellect in general for even very stupid children of ages 10-14. It tests much the
 SIGNIFICANCE OF BINET-SIMON TESTS. 123
 same ability or complex of abilities as the completion and reading
 tests. This ability or complex of abilities is far from identical with
@@ -147,8 +140,7 @@ amounts of these correlations for the purposes of the argument of
 this paper, their absolute amounts should not be assumed to hold
 good for a group formed by random sampling. These dependent
 children are inferior to average children of equal chronological age
-in the construction test, and are very much inferior to average chil-
-dren in the other three tests. Their deviations being taken from the
+in the construction test, and are very much inferior to average children in the other three tests. Their deviations being taken from the
 average child of the age in question, we have a selection largely of
 minus deviations, and it is not certain that the correlation calculated
 from such a selection will represent fairly the correlation calculated

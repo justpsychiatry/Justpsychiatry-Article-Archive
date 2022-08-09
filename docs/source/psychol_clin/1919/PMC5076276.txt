@@ -8,8 +8,7 @@ Psychologist at the Boston Psychopathic Hospital in the summer of
 1916, in "irregularity" on a psychological examination as shown by
 insane patients. The results of a special study of this subject, using
 the Point Scale, have already appeared,1 and were summarized
-briefly in a paper at the annual meetings of the Psychological Asso-
-ciation in December, 1917. In this paper a method for stating
+briefly in a paper at the annual meetings of the Psychological Association in December, 1917. In this paper a method for stating
 "irregularity" on the Binet scale was also suggested. Briefly, this
 method consisted in adding together the number of months failed
 below the mental age (each failure being multiplied by the number
@@ -27,14 +26,12 @@ a failure one year below the mental age is not of the same importance
 as a failure four years below the mental age; a success one year above
 the mental age is of much less significance than a success four years
 above. To put the situation concretely, a child with a "mental
-age" of ten years, who fails a six-year test and passes a sixteen-year-
-old test, is much more interesting material for further study than the
+age" of ten years, who fails a six-year test and passes a sixteen-yearold test, is much more interesting material for further study than the
 - child with a ten-year mentality who fails nothing below the nine-year
 group of tests and passes nothing above the twelve-year group. The
 expedient was, therefore, adopted of multiplying the value of each
 test appearing in the irregularity by the number of test groups which
-that test was away from the mental age. In the case of the ten-year-
-old child first mentioned, the failure of "two months' worth" of test
+that test was away from the mental age. In the case of the ten-yearold child first mentioned, the failure of "two months' worth" of test
 at six would be multiplied by three (this being the number of test
 groups away from the test group in which the mental age appears).
 1 IYessey, S. L.: "Distinctive Features in Psychological Test Measurements made upon Dementia Praecox
@@ -60,8 +57,7 @@ child to pass one test or "three months' worth" at twelve,to fail all
 the tests of the fourteen-year group, but to pass one test of the
 sixteen-year group. The irregularity in the twelve-year group (one
 test group away from that test group in which the mental age falls)
-would be counted as three months in making up the total of irregu-
-larity, and the five months' worth of success in the sixteen-year
+would be counted as three months in making up the total of irregularity, and the five months' worth of success in the sixteen-year
 group would be multiplied by three?the number of test groups
 which this last success is away from the test group where this child
 should, if the examination had been perfectly even, have stopped
@@ -87,8 +83,7 @@ can best be understood by clearly grasping its purpose. What is being sought, of
 variation of successes and failures about the mental age which shall give an expression simply, and solely, of the
 consistency of a subject's responses to the different parts of the examination, and which shall make possible a direct
 comparison of the consistency shown by different subjects, and at different ages. And the difficulties encountered
-are due to the fact that the mental age is not an average but a sum, and that even the Stanford scale is not suffi-
-ciently systematized for any very satisfactory statistical treatment.
+are due to the fact that the mental age is not an average but a sum, and that even the Stanford scale is not sufficiently systematized for any very satisfactory statistical treatment.
 238 THE PSYCHOLOGICAL CLINIC.
 The small number of cases at certain ages permits only tentative
 conclusions from these results, but the medians would suggest that
@@ -97,11 +92,9 @@ If we may suppose irregularity to be at least roughly constant over
 these ages, it will be permissible to lump the cases of different ages
 in studying possible relations of irregularity to "brightness." The
 results, when the cases are grouped according to I. Q., are as follows:
-I. Q  -7G 76-90 90-110 110-125 125-
-No  23 37 42 24 15 141
+I. Q  -7G 76-90 90-110 110-125 125No  23 37 42 24 15 141
 Median  9 8 9 10 14
-Clearly irregularity is, as thus stated, not distinctive of sub-
-normality.2 A greater scattering of scores in examinations from
+Clearly irregularity is, as thus stated, not distinctive of subnormality.2 A greater scattering of scores in examinations from
 superior children might seem suggested. But the increase is slight,
 individual differences arc great; the slightly greater irregularity can
 hardly, when everything is considered, be thought of any practical
@@ -117,10 +110,8 @@ group as a whole gives a median of 14 units irregularity. The 1G
 feebleminded adults show a median irregularity of 26. Such
 findings surely suggest that though irregularity may not vary with
 "brightness" it may, nevertheless, be indicative of some factor of
-importance in the examination. To see whether some further under-
-standing of the situation might not be given by intensive study of
-extreme cases, the children showing the highest ten per cent of irregu-
-larity were especially considered.
+importance in the examination. To see whether some further understanding of the situation might not be given by intensive study of
+extreme cases, the children showing the highest ten per cent of irregularity were especially considered.
 Only 15, or about 11 per cent, of the total 141 white children,
 show irregularities of 20 or over. The girl who shows the greatest
 irregularity (71 units, as compared with the average of 10) is the
@@ -138,8 +129,7 @@ IRREGULARITY ON A BINET EXAMINATION. 239
 vision is so defective that her teacher says she can "scarcely see
 even with glasses;" the teacher also says that home conditions
 are "dreadful." A third girl with an I. Q. of 72 and an irregularity
-of 22 has been out of school much, and is just recovering from pneu-
-monia. A boy with an I. Q. of 101 and irregularity of 26 was, the
+of 22 has been out of school much, and is just recovering from pneumonia. A boy with an I. Q. of 101 and irregularity of 26 was, the
 examiner notes, impatient of the examination, wished to get through
 with it as quickly as possible, and did not give satisfactory attention.
 Another boy?thirteen and a half years old, and in the fifth grade?
@@ -189,13 +179,11 @@ The conclusion is, of course, that a high irregularity indicates
 the presence in the examination (and in the score) of some more or
 less irrelevant factor, preventing a standard measurement of the
 "general intelligence" of the individual. A very unusual education
-or environment, marked sensory defect,physical illness,poor co-opera-
-tion, possibly age and racial peculiarity, may thus operate to prevent
+or environment, marked sensory defect,physical illness,poor co-operation, possibly age and racial peculiarity, may thus operate to prevent
 a satisfactory rating. And when they do thus operate, they show
 their presence most distinctively by increasing the irregularity.
 Irregularity might thus be said to give a measure of the reliability
-of an examination?of its freedom from such factors.1 And a state-
-ment of irregularity would seem of little less importance than the
+of an examination?of its freedom from such factors.1 And a statement of irregularity would seem of little less importance than the
 mental age and I. Q. in summarizing the findings of an examination.
 These are obviously very far-reaching conclusions from a very
 small amount of data. The present paper has been intended only

@@ -6,9 +6,7 @@ One of the common practices in clinical psychology is the use
 of the results from one test to indicate the advisability and the
 direction of further testing. The development of this method is
 largely a matter of individual clinical experience and is rarely
-validated quantitatively. This study is an attempt to make a sta-
-tistical evaluation of the items in the Stanford Binet and, inci-
-dentally, of certain performance tests that might indicate the
+validated quantitatively. This study is an attempt to make a statistical evaluation of the items in the Stanford Binet and, incidentally, of certain performance tests that might indicate the
 presence of mechanical ability.
 The theory that general intelligence and mechanical ability are
 distinct traits is consistently confirmed by the low correlations found
@@ -21,24 +19,20 @@ to be of practical clinical value. The Stanford Binet has the
 further advantage in that it is more frequently used as the base
 of a test battery than any other test.
 Performance tests seem to require, in common with tests of
-mechanical ability, speed of activity, motor coordination, manipu-
-lative skill, and a certain ability "to see relationships of a concrete
+mechanical ability, speed of activity, motor coordination, manipulative skill, and a certain ability "to see relationships of a concrete
 nature." From this overlapping in the functions necessary for
 these two types of tests a higher correlation between them might
 be anticipated than with Binet and mechanical ability, and so be of
 greater prognostic value.
 The Arthur Performance Scale1 was used in this study. It
 is composed of nine tests (in this experiment the Kohs was omitted
-to conserve time) : Knox Cube, Seguin, Two Figure, Casuist, Mani-
-kin and Feature Profile, Mare and Foal, and Healy I?Picture Com-
-pletion. The scores were obtained by applying a differentiating
+to conserve time) : Knox Cube, Seguin, Two Figure, Casuist, Manikin and Feature Profile, Mare and Foal, and Healy I?Picture Completion. The scores were obtained by applying a differentiating
 formula to the norms of Pintner and Paterson2. This weights the
 1 Arthur, Grace: A New Point Performance Scale?Journal of Applied
 Psychology, 1925, 9: 390.
 'Pintner, B., and Peterson, D. G.: A Scale of Performance Tests.
 "INDICATORS" OF MECHANICAL ABILITY 129
-tests according to their ability to separate an age level from the suc-
-ceeding one. The tests are combined into a scale by taking the
+tests according to their ability to separate an age level from the succeeding one. The tests are combined into a scale by taking the
 Median mental age.
 As a test of mechanical ability the Minnesota Assembly3 was
 Used. This is a revision of the Stenquist Assembly. It is arranged
@@ -50,11 +44,9 @@ The reliability and validity of this test are comparable to the
 Results obtained for intelligence tests. The correlation of odd and
 even items raised by Brown's formula gives a reliability coefficient
 for the total scale of plus 94. The criterion of mechanical ability
-used was the quality of the boy's work in shop graded in a semi-
-?bjective way against certain standard objects. This correlation
+used was the quality of the boy's work in shop graded in a semi?bjective way against certain standard objects. This correlation
 was plus 55.
-The subjects of this study were sixty-five boys from the Henne-
-pin County Probation Office. The usual procedure in giving an
+The subjects of this study were sixty-five boys from the Hennepin County Probation Office. The usual procedure in giving an
 individual test battery was employed. Special care was taken to
 establish rapport because of the type of subjects and to avoid fatigue
 because of the length of the examination (about three hours).
@@ -63,8 +55,7 @@ The life ages of these boys extended from 10 to 17 years (median
 18-5 years (median 12.1 years) and on the Arthur Performance
 Scale from 9.0 to 15 plus years (median 13.0 years). On the
 Assembly they made scores from 160 to 320 (median 255).
-Their scores on all tests were in line with other findings, keep-
-ing in mind the selection and small number of cases. Although
+Their scores on all tests were in line with other findings, keeping in mind the selection and small number of cases. Although
 the distribution is not normal, this would not materially vitiate the
 results for the purpose of this study. A wide variation might do so,
 but this as indicated by the standard deviation of the Binet I.Q.s is
@@ -85,8 +76,7 @@ M. A. and the Minnesota Assembly in consistent with other findings
 and confirms the "unique trait" theory.
 As was anticipated, the Arthur Performance Scale gave an
 appreciably higher correlation than the Binet with the Assembly
-(r 44, life age constant). This is 11 points higher than the corre-
-lation with the Stanford Binet. If the validity and reliability of
+(r 44, life age constant). This is 11 points higher than the correlation with the Stanford Binet. If the validity and reliability of
 the Arthur Performance Scales were known, this might have certain
 theoretical implications regarding the nature of intelligence.
 The individual tests of the Arthur Performance Scale show
@@ -115,9 +105,7 @@ The application of these findings to clinical procedure may be
 illustrated by the situation which originated the study. Part of the
 subsidiary work for the Minneapolis Child Guidance Clinic consists
 in a brief study of certain cases from the County Probation Office.
-The minimum psychometric datum is a Stanford Binet. The sched-
-ule allows about an average of forty-five minutes for additional test-
-ing.
+The minimum psychometric datum is a Stanford Binet. The schedule allows about an average of forty-five minutes for additional testing.
 "INDICATORS" OF MECHANICAL ABILITY 131
 Studying the Binet scores on some two hundred cases shows
 there is a bimodality in the distributions of I.Q.s. The high points
@@ -128,8 +116,7 @@ transfer to a vocational or trade school is the paramount problem.
 This in turn raises the question of their mechanical ability. As
 there is insufficient time to give every case the Assembly Test, which
 takes an hour, it can only be used in cases where is will be of positive
-prognostic value. This will be indicated by comparing the "scat-
-tering" on the Binet with the correlations in Table II. If the
+prognostic value. This will be indicated by comparing the "scattering" on the Binet with the correlations in Table II. If the
 highest tests passed are those showing the highest correlations (the
 starred tests), or if a high score is made on the Knox Cube and
 Casuist, the Assembly Test should be given to obtain confirmation of

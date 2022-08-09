@@ -8,13 +8,11 @@ Ill
 Although the brief scale was developed as an experimental
 method, it has seemed advisable to consider its actual practicability.
 As a critique of its practical value I have applied the first brief scale
-(table III) to 154 public school children in the first four primary-
-grades of a large school in Millville, N. J. I am indebted to Mr.
+(table III) to 154 public school children in the first four primarygrades of a large school in Millville, N. J. I am indebted to Mr.
 Ira J. Steiner, principal of the school, and to his teachers for the
 opportunity of making these tests. The tests were made by Mr.
 Steiner and myself with the assistance of three members of the
-Research Staff of the Vineland Laboratory. The purpose was two-
-fold, first to determine the value of the tests under practical working
+Research Staff of the Vineland Laboratory. The purpose was twofold, first to determine the value of the tests under practical working
 conditions, and second to test the validity of the method in the
 hands of an untrained examiner. Mr. Steiner had had some previous
 acquaintance with educational measurements, and also was familiar
@@ -64,11 +62,8 @@ The position of the I. Q. mode at 85 instead of at 100 might
 be interpreted as indicating either that the scaled arrangement of
 the tests was too difficult, or that the subjects actually represented
 inferior levels of ability. All available evidence points toward the
-latter assumption, for in addition to the inferior social and peda-
-gogical selection the school teachers and principal, from their experi-
-ence with the children, felt that they were decidedly inferior to the
-average "run" of school children. This conclusion is amply sup-
-ported by an analysis of the age-grade distribution of the children.
+latter assumption, for in addition to the inferior social and pedagogical selection the school teachers and principal, from their experience with the children, felt that they were decidedly inferior to the
+average "run" of school children. This conclusion is amply supported by an analysis of the age-grade distribution of the children.
 Conversely, the validity of the arrangement of the tests is supported
 by the fact that individual children were able to demonstrate very
 superior intelligence, for of the 154 children one was of I. Q. 125,
@@ -102,8 +97,7 @@ proposed as a measure of scholastic accomplishment and ability;
 illnesses, late entrance, language difficulties, many factors retard a
 child in school. But it was necessary to obtain some one reliable
 measure of school standing in order to avoid the difficulties of
-Table VIII.?Total Frequency Distribution of the P. Q.-I. Q. Relation-
-ship for 154 School Children. Median I. Q. =84, Median P. Q. =92.
+Table VIII.?Total Frequency Distribution of the P. Q.-I. Q. Relationship for 154 School Children. Median I. Q. =84, Median P. Q. =92.
 P. Q. ?I. Q. Correlation = .82
 Q. 50 55 60 65 70 75 80 85 90 95 100 105 110 115 120 125 130 135 Total
 pQ *
@@ -145,8 +139,7 @@ relation to their intelligence.
 From the foregoing it is not too much to hope that this study
 has indicated a profitable field of research and has developed a
 reliable ready-to-hand measuring scale for rapid mental testing.
-Without doubt, it is possible for psychology, by following the impli-
-cations of these results, to make mental tests available for everyday
+Without doubt, it is possible for psychology, by following the implications of these results, to make mental tests available for everyday
 uses and needs, by eliminating the prohibitive costs of time and
 expertness now required for reliable mental testing. If we can make
 these laboratory methods over into tools of everyday life we shall

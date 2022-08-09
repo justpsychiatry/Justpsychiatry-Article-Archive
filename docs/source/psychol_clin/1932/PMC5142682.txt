@@ -4,15 +4,12 @@ A Statistical Study of the Responses of a Group of Normal Children to the Indivi
 By Magda Skalet
 Research Associate, Brush Foundation, Western Reserve University
 It is a recognized fact that the intelligence quotient and mental
-age, either separately or together, constitute an altogether inade-
-quate description of any child's mental equipment, and yet these
+age, either separately or together, constitute an altogether inadequate description of any child's mental equipment, and yet these
 are usually the only data that are utilized for classification or
 analytical purposes. According to Bronner, Healy, Lowe, and
-Shimberg (1) a numerical evaluation is very limited in its revela-
-tions. As put together the Stanford-Binet forms a hodge-podge of
+Shimberg (1) a numerical evaluation is very limited in its revelations. As put together the Stanford-Binet forms a hodge-podge of
 tests and the values given for success in each are quite arbitrary.
-Thorndike (7) criticizes the scale for ambiguity of content, arbi-
-trariness in units, and ambiguity in significance.
+Thorndike (7) criticizes the scale for ambiguity of content, arbitrariness in units, and ambiguity in significance.
 "What the individual tests purport to measure, what types of
 tests are included in the series, and what the differences are between
 the responses made by children of various ages and mental levels,
@@ -22,18 +19,15 @@ normal and feebleminded children of a limited age range to the
 individual tests in the Stanford Revision of the Binet-Simon Scale,
 there has been no detailed analysis of the responses of a group of
 normal children to these tests. McFadden (4) and Wallin (9) have
-given comprehensive reviews of the literature concerning this ques-
-tion of success on the sub-tests in the scale. They have compared
-the relative difficulty of the tests for various grades of mental de-
-velopment and found that many of the tests were misplaced in the
+given comprehensive reviews of the literature concerning this question of success on the sub-tests in the scale. They have compared
+the relative difficulty of the tests for various grades of mental development and found that many of the tests were misplaced in the
 series according to the mental ages gained by the children, not
 only in the sub-normal group, but in the normal as well. Some
 were too difficult, and others too easy for the general year-level in
 which they were placed. Specific comparisons between the results
 of these two investigators and those obtained in this study will be
 made later.
-In the present study, the following specific problems were con-
-183
+In the present study, the following specific problems were con183
 184 THE PSYCHOLOGICAL CLINIC
 sidered: the responses of children of various mental ages to the
 individual tests in the series, types of test according to the mental
@@ -42,15 +36,13 @@ passed by children of various chronological ages, mental ages and
 intelligence quotients, and a determination of the range of the tests
 passed according to these three criteria.
 The data were obtained from the mental test records taken by
-the Bureau of Educational Experiments, New York City, of chil-
-dren enrolled in the City and Country School. The children came
+the Bureau of Educational Experiments, New York City, of children enrolled in the City and Country School. The children came
 mostly from the professional and managerial classes, and hence
 formed a rather highly selected group. A very rigid selection
 from the Bureau's records was made in order to insure accuracy
 of the data to be analyzed. The tests had been given from 1919 to
 1929 by three competent psychologists. Success in the individual
-tests, the chronological and mental ages, and the intelligence quo-
-tients were checked for each test.
+tests, the chronological and mental ages, and the intelligence quotients were checked for each test.
 In Table I is given the distribution of the tests included in this
 study.
 Table I
@@ -81,8 +73,7 @@ There were a total of 189 children included in the study, to whom
 295 tests had been given. No attempt was made to differentiate
 between the first and later tests in the analysis.
 The distribution of the tests according to C.A., M.A., and I.Q.,
-is given, in another connection, in Table IV. The range in chrono-
-logical age is from 2 years and 10 months to 13 years and 7 months,
+is given, in another connection, in Table IV. The range in chronological age is from 2 years and 10 months to 13 years and 7 months,
 with a mean of 7 years and 1 month. The mental age range is from
 3 years to 14 years and 10 months, with a mean of 8 years and 2
 months. The I.Q. range is from 79 to 165, with all but 15 cases
@@ -92,13 +83,9 @@ It would, no doubt, have been better to determine upon the
 type of sample desired before giving the tests so as to obtain a more
 representative normal group, and to use only the first test on each
 RESPONSES TO BINET-SIMON SCALE 185
-child, but since all of the data had been collected before this study-
-was contemplated, it was thought advisable to retain all of the
-records available. The number of cases does not provide an ade-
-quate basis for a conclusive study, but provides material for indi-
-cating the importance of an analysis of the individual tests and
-each child's performances in any general test such as the Stanford-
-Binet.
+child, but since all of the data had been collected before this studywas contemplated, it was thought advisable to retain all of the
+records available. The number of cases does not provide an adequate basis for a conclusive study, but provides material for indicating the importance of an analysis of the individual tests and
+each child's performances in any general test such as the StanfordBinet.
 A comparison of the intelligence quotients obtained indicates
 several marked differences in repeated tests. Two samples are given
 to indicate extreme and slight variation in repeated tests.
@@ -135,8 +122,7 @@ given 3, 4, and 5 tests the mean range is approximately 17 points
 in each case. According to Terman (5) repeated tests show a change
 of not more than 8 points, and only 4 points on the average. In a
 later book (6), however, he cites positive changes of as much as 49
-points, and negative changes of 36 points and less. Gates (3) re-
-ports deviations of plus 18 to minus 12 with an average change of
+points, and negative changes of 36 points and less. Gates (3) reports deviations of plus 18 to minus 12 with an average change of
 6 points in consecutive tests.
 The problem of variations in intelligence ratings of children in
 repeated tests is by no means solved. Our results merely point out
@@ -154,10 +140,8 @@ normal distribution of mental ratings around the norm for each
 age group. The actual distribution of these percentages has never
 been published, but studies reporting the results secured by other
 investigators show that there is an unequal proportion of children
-passing the individual tests in each age series. In Table II is pre-
-Table II
-Percentage of Subjects in the Different M.A. Groups Passing the Sub-
-tests IN THE STANFORD-BlNET
+passing the individual tests in each age series. In Table II is preTable II
+Percentage of Subjects in the Different M.A. Groups Passing the Subtests IN THE STANFORD-BlNET
 Mental ago.
 No. of cases.
 32
@@ -616,41 +600,32 @@ typical of a five year's performance. Comparing weights (V?1),
 naming colors (V?2), and carrying out three commands (V?6)
 appear to be too easy, since two-thirds of the four year old group
 pass these tests. An analysis of the responses made by children
-having mental ages of three, four, and five years has not been re-
-ported previously so that no comparisons can be made between
+having mental ages of three, four, and five years has not been reported previously so that no comparisons can be made between
 these results and those of other investigators.
-The tests for distinguishing right and left (VI?1) and the abil-
-ity to comprehend situations (VI?4) are relatively easier for chil-
-dren of five years than the other tests in the group. Only one-third
+The tests for distinguishing right and left (VI?1) and the ability to comprehend situations (VI?4) are relatively easier for children of five years than the other tests in the group. Only one-third
 of the six year old children are able to name three of four coins
 (VI?5), and it seems that this test would be more correctly placed
 at seven years. McFadden (4) also finds naming coins to be too
 difficult. He indicates that giving the number of fingers (VII?1)
 is too simple for the child with a mental age of seven as compared
 with the general difficulty of the year-level in which the test was
-placed, but this seems to be correctly placed according to the re-
-sults presented here. Describing pictures (VII?2) was less diffi-
-cult for the six year old children than any of the other seven year
+placed, but this seems to be correctly placed according to the results presented here. Describing pictures (VII?2) was less difficult for the six year old children than any of the other seven year
 tests.
-Counting backwards from 20 to 1 (VIII?2), and giving defi-
-nitions superior to use (VIII?5) are too hard as demonstrated
+Counting backwards from 20 to 1 (VIII?2), and giving definitions superior to use (VIII?5) are too hard as demonstrated
 both by these results and by those reported by McFadden (4).
-"VVallin (9) found that the ball and field test (VIII?1) is too com-
-RESPONSES TO BINET-SIMON SCALE 189
+"VVallin (9) found that the ball and field test (VIII?1) is too comRESPONSES TO BINET-SIMON SCALE 189
 plex for the eight year old, but this finding is not substantiated
 here.
 Making rhymes (IX?6) is too easy at nine years and should
 properly be placed in the eight year series in accordance with these
-findings as well as those of McFadden (4) and Wallin (9). Ar-
-ranging weights (IX?2) is passed by two-thirds of the children
+findings as well as those of McFadden (4) and Wallin (9). Arranging weights (IX?2) is passed by two-thirds of the children
 in the eight year mental age group.
 The number of cases included above the nine year group is too
 limited to permit of anything but a tentative interpretation. The
 number of words required in the vocabulary is too great in both the
 ten and fourteen year-level, and too small in the twelve year series,
 according to the percentage passing these tests at the various mental
-ages. The detection of absurdities (X?2), pointing out similari-
-ties (XII?8), giving differences between a president and a king
+ages. The detection of absurdities (X?2), pointing out similarities (XII?8), giving differences between a president and a king
 (XIV?3) and the problem of enclosed boxes (XVI?4) are easier
 than the other tests in those age groups.
 These internal inconsistencies indicate conclusively that the
@@ -658,9 +633,7 @@ individual's detailed performances must be considered together
 with his general rating in order to describe his mental ability. As
 pointed out (1) there is an abundance of evidence to indicate that
 the rating achieved is markedly influenced by specialized abilities
-and disabilities. If these are not adequately tested in the Stanford-
-Binet, other tests must be utilized, but it is apparent that the con-
-tribution of the individual tests in the Binet to this knowledge of
+and disabilities. If these are not adequately tested in the StanfordBinet, other tests must be utilized, but it is apparent that the contribution of the individual tests in the Binet to this knowledge of
 each child's specific abilities has been seriously neglected. It is to
 be regretted that the number of records is so limited in the upper
 age-levels, but the results indicate fruitful possibilities for further
@@ -668,8 +641,7 @@ study along these lines.
 Instead of attempting a comparison of the individual tests, with
 the small number of cases available, it was decided to group the
 tests into seven general types, in order to determine whether or not
-there are any differences between the children of various chrono-
-logical and mental ages and intelligence quotients in their ability
+there are any differences between the children of various chronological and mental ages and intelligence quotients in their ability
 to pass the tests in each classification. A list of the groupings is
 given here, and the specific tests referred to can be seen in Table II.
 A Classification of the Individual, Tests in the Stanford Revision of
@@ -705,13 +677,11 @@ more or less practical problems. Since the overlapping of such
 factors as attention, memory, reasoning, and imagination in the
 tests is so great, it is impractical to make any classification other
 than this objective one based upon the specific performances tested.
-In tabulating the individual records, only those tests were in-
-cluded which were given above the basal year, and only for those
+In tabulating the individual records, only those tests were included which were given above the basal year, and only for those
 years in which at least one test was passed. This was done so as not
 to include all of the tests passed below the basal year or all those
 failed above the last year where a success occurred which would
-conceal any differences that might exist. The purpose was to de-
-termine if there were some types of tests which were passed more
+conceal any differences that might exist. The purpose was to determine if there were some types of tests which were passed more
 frequently than other types classed as equal in difficulty.
 The per cent passed of each type was computed in the following
 manner. This example consists of the group of 55 children from
@@ -762,17 +732,13 @@ Total.
 60
 48
 RESPONSES TO BINET-SIMON SCALE 191
-It can be seen from this that the bases for the percentages are dif-
-ferent in each instance. Because of the unequal number of tests of
+It can be seen from this that the bases for the percentages are different in each instance. Because of the unequal number of tests of
 each tj7pe at the various year-levels, the percentages are not of
 equal significance. They do, nevertheless, permit of a comparison
 between the relative difficulty of the various kinds of tests for each
 age and between the ages for the same type.
-Although these percentages were computed for each chronolog-
-ical and mental age group, they are not included here because there
-was no internal consistency in the increase or decrease of these pro-
-portions for the various ages. The differences observed were prob-
-ably due to the sampling and not to any real differences between
+Although these percentages were computed for each chronological and mental age group, they are not included here because there
+was no internal consistency in the increase or decrease of these proportions for the various ages. The differences observed were probably due to the sampling and not to any real differences between
 the types of tests at each age.
 In the case of the intelligence quotient ratings, however, there
 are significant differences in the proportion of the various types
@@ -859,54 +825,43 @@ study is given in the second column of figures. These form the
 bases for only the last column of percentages. There is a consistent
 increase in the proportion of the tests of immediate memory (type
 1), and the recognition of differences and similarities (type 7)
-passed with increasing intelligence ratings in the case of these chil-
-dren. Comprehending situations (type 2) and tests of spontane-
-ous interest in numbers and time (type 3) are approximately as
+passed with increasing intelligence ratings in the case of these children. Comprehending situations (type 2) and tests of spontaneous interest in numbers and time (type 3) are approximately as
 difficult as the other tests in the same year levels for all of the
 children regardless of their rating. Tests of the perception of
 geometrical form (type 4), following a guiding idea (type 5), and
 vocabulary (type 6), do not reveal any notable differences in their
 relative difficulty except between the children of normal rating
 and those below this.
-In the last column on the page are given the percentages pass-
-ing each type for the group as a whole. Approximately half (49%)
+In the last column on the page are given the percentages passing each type for the group as a whole. Approximately half (49%)
 of all of the tests given above the basal year are passed in those age
-series where at least one test was completed satisfactorily. Compre-
-hending situations (type 2) seems to be slightly easier for the
+series where at least one test was completed satisfactorily. Comprehending situations (type 2) seems to be slightly easier for the
 children than the other tests at the same year levels as indicated by
 the fact that a greater proportion of these tests are passed than any
 other type. Those tests of spontaneous interest in numbers and
 time (type 3) and perception of geometrical forms (type 4) are
 more difficult than the other types. Individual differences are
-concealed in these percentages for the whole group, but the gen-
-eral differences are indicated in the comparative difficulty of each
+concealed in these percentages for the whole group, but the general differences are indicated in the comparative difficulty of each
 of the various types of tests included in the Stanford-Binet series.
 There is a slight increase in the percentage of tests passed at the
 higher I.Q. levels, as well as in the average number of tests given
 above the basal year per record.
-These conclusions hold for the group averages but are not ap-
-plicable to individual cases either for single records or for particu-
-lar children. For those children who were given from three to five
+These conclusions hold for the group averages but are not applicable to individual cases either for single records or for particular children. For those children who were given from three to five
 consecutive tests, the following analysis failed to distinguish any
 important characteristics. In each case, however, there were great
 individual differences in the proportions and ratios obtained.
 There was no tendency noted in the percentages of each type of
 tests passed which would definitely delineate the individuals with
 higher or lower I.Q.s. There were marked variations between
-individuals, but not with regard to I.Q. groupings, in the propor-
-tion contributed to the mental age by the various types above the
+individuals, but not with regard to I.Q. groupings, in the proportion contributed to the mental age by the various types above the
 RESPONSES TO BINET-SIMON SCALE 193
 basal age. This was true also with respect to the ratio between the
 amount that was contributed by each type and the amount that
-would have been contributed had all of the tests been of equal diffi-
-culty for the individual children. In the analysis of the individual
+would have been contributed had all of the tests been of equal difficulty for the individual children. In the analysis of the individual
 records, the number of sub-tests was too limited for computing any
 percentages of value. There was a marked inconsistency noted,
 however, between the types of tests above the basal age contributing
-the most to the mental age in successive tests. A study of the pro-
-portion of the mental age earned that was due to mixed tests of
-the basal year and below, showed that there was no relation be-
-tween the I.Q. rating and this percentage.
+the most to the mental age in successive tests. A study of the proportion of the mental age earned that was due to mixed tests of
+the basal year and below, showed that there was no relation between the I.Q. rating and this percentage.
 In an analysis of the number of year-series in which tests were
 passed above the basal year, several differences were noted. The
 data in Table IV present the mean age range in which tests were
@@ -1038,26 +993,21 @@ years. For instance, if the range for child W was three years, this
 would mean that he passed tests in three year-levels above the year
 in which he passed all of the tests. The mean range for all of the
 295 records was 2.8 years above the basal year obtained in each
-case. In the chronological and mental age levels there is no con-
-sistent tendency indicated for either an increase or decrease in the
-scatter in the tests passed. The Pearsonian coefficients of correla-
-tion of this variability in the range with C.A. is -f- .079, and with
+case. In the chronological and mental age levels there is no consistent tendency indicated for either an increase or decrease in the
+scatter in the tests passed. The Pearsonian coefficients of correlation of this variability in the range with C.A. is -f- .079, and with
 194 THE PSYCHOLOGICAL CLINIC
 M.A. it is + -173. This shows that there is a very slight and
 negligible relationship between the increase in age and the scatter
 in the tests that were passed. There is a significant increase in the
-number of years included for the higher intelligence quotients, ex-
-cept for the six tests with I.Q. ratings of from 150 to 165. The
-correlation between I.Q. and the extent of scatter is .292, indi-
-cating that the children of the higher mental ratings tend to have a
+number of years included for the higher intelligence quotients, except for the six tests with I.Q. ratings of from 150 to 165. The
+correlation between I.Q. and the extent of scatter is .292, indicating that the children of the higher mental ratings tend to have a
 wider age range in which they pass tests than do those of lower
 mental ratings. Although the means increase consistently, the
 variability within each I.Q. interval is wide, hence the relationship
 is not very close.
 There is a difference of opinion expressed in the literature as to
 the amount of variability or scatter in the tests passed by children
-of different mental levels. Wallin (8) holds that the normals suc-
-ceed in tests over a larger age range, and Doll (2) thinks that the
+of different mental levels. Wallin (8) holds that the normals succeed in tests over a larger age range, and Doll (2) thinks that the
 feebleminded individuals vary more. Scattering in the develops
 ment of different mental functions according to Wallin (8) is a
 perfectly normal and typical phenomenon among all classes of
@@ -1067,23 +1017,16 @@ Many of the individual tests in the Stanford-Binet Scale appear
 to be of unequal difficulty when compared with the other tests in
 the year level where they are placed. Some of the tests are too
 complex, and others are too simple, not only according to these
-findings but also according to those reported by other investiga-
-tors. This inequality indicates the necessity of a careful analysis
-of the successes and failures in order to differentiate between chil-
-dren of similar mental levels but dissimilar special abilities.
+findings but also according to those reported by other investigators. This inequality indicates the necessity of a careful analysis
+of the successes and failures in order to differentiate between children of similar mental levels but dissimilar special abilities.
 The classification of the sub-tests into types shows that those
-involving spontaneous interest in numbers and time, and geometri-
-cal form are relatively more difficult for all of the children, and
+involving spontaneous interest in numbers and time, and geometrical form are relatively more difficult for all of the children, and
 comprehending situations easier than the tests of the other types
-in each year series. There is no indication of any significant dif-
-ferences between the various C.A. and M.A. groups as to the rela-
-tive complexity of the different types of tests. The tests of immedi-
-ate memory, perception of geometrical forms, and the recognition
+in each year series. There is no indication of any significant differences between the various C.A. and M.A. groups as to the relative complexity of the different types of tests. The tests of immediate memory, perception of geometrical forms, and the recognition
 of differences and similarities are more difficult for children of the
 lower than the higher I.Q.s. The other types are approximately
 of equal difficulty for children of all levels.
-The analysis of individual performances indicates great differ-
-ences with respect to the relative proportion of the types of tests
+The analysis of individual performances indicates great differences with respect to the relative proportion of the types of tests
 RESPONSES TO BINET-SIMON SCALE 195
 passed in the successive tests and the proportion contributed by
 each to the mental ages earned. There was no consistent tendency
@@ -1102,20 +1045,17 @@ the interpretation of any mental test. It has not been possible,
 on the basis of these results, to make any conclusive statements as
 to the differences between single children of different mental
 ratings, but a few marked group tendencies have been pointed out.
-It is not surprising that the I.Q alone is insufficient as a descrip-
-tion of a child's mental status, in view of the wide variation in the
+It is not surprising that the I.Q alone is insufficient as a description of a child's mental status, in view of the wide variation in the
 individual tests contributing to the same mental age scores and the
 inconsistency in the relative proportion of the various types of
 tests passed from year to year by the same child.
 Bibliography
 1. Bronner, A. F., Healy, W., Lowe, G. M., and Shimberg, M. E.: A manual
 of individual mental testing. Boston: Little, Brown and Co., 1928.
-2. Doll, E. A.: A brief Binet-Simon scale. Psychol. Clin., 1917-18, 11, 197-
-211, 254-257.
+2. Doll, E. A.: A brief Binet-Simon scale. Psychol. Clin., 1917-18, 11, 197211, 254-257.
 3. Gates, A. T.: Psychology for students of education. New York: Macmillan
 Co., 1927.
-4. McFadden, J. H.: Differential responses of normal and feebleminded sub-
-jects of equal mental age, on the Kent-Bosanoff free association test
+4. McFadden, J. H.: Differential responses of normal and feebleminded subjects of equal mental age, on the Kent-Bosanoff free association test
 and the Stanford Kevision of the Binet-Simon intelligence test. Mental
 Measurement Monographs, 1931, No. 7.
 5. Terman, L. M.: The measurement of intelligence. New York: Houghton,

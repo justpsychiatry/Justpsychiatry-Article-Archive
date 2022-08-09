@@ -14,8 +14,7 @@ which is "actor (not movie)," the subject is asked to respond by
 circling one of the three letters, L, I, or B, meaning thereby that
 he would like, be indifferent to, or dislike that type of work. Of
 575 engineers, 52 circled L, 172 circled I, and 351 circled B. We
-have records from 3,071 men, typical of 27 professions and occupa-
-tions, as well as from 849 college seniors, making a total of 3,920
+have records from 3,071 men, typical of 27 professions and occupations, as well as from 849 college seniors, making a total of 3,920
 records. This group we refer to as our "men in general" group.
 There is no claim that it is a good sampling of the men in the
 United States, but it is the best approximation to such a sampling
@@ -33,10 +32,8 @@ Architect
 Army Officer
 Artist
 Per cent of
-"Men in Gen-
-eral" who
-like, are indif-
-ferent to, and
+"Men in General" who
+like, are indifferent to, and
 dislike these
 items
 D
@@ -47,8 +44,7 @@ D
 33 37 30
 Per cent of
 Engineers who
-like, are indif-
-ferent to and
+like, are indifferent to and
 dislike these
 items
 I D
@@ -58,11 +54,8 @@ I D
 32 32 36
 29 38 33
 Differences in
-per cents be-
-tween Engi-
-neers and
-"Men in Gen-
-eral ''
+per cents between Engineers and
+"Men in General ''
 I D
 -16 ?1 20
 -19 ?1 20
@@ -79,8 +72,7 @@ I D
 3 ?1 ?4
 1 1?2
 ?10 1
-1 Read at the annual meeting of the National Vocational Guidance Asso-
-ciation, Atlantic City, Feb. 20-22, 1930.
+1 Read at the annual meeting of the National Vocational Guidance Association, Atlantic City, Feb. 20-22, 1930.
 64 THE PSYCHOLOGICAL CLINIC
 that we have. Among these 3,920 men, 980 circled L, indicating
 thereby they would like the work of an actor, 1,333 circled I, and
@@ -95,8 +87,7 @@ in general" are similarly given in Table 1. These figures could
 be used for scoring the blank for engineering interest.
 The scoring weights, however, are obtained by us in another
 manner through the use of the following formula?, advocated by
-T. L. Kelly and found by K. M. Cowdery and the author to be ex-
-tremely valuable in this connection.
+T. L. Kelly and found by K. M. Cowdery and the author to be extremely valuable in this connection.
 <p ad?be
 Weight = 10 where ? ?==================
 (1? <p~)(T \/(a+c){b+d)(a+b)(c+d)
@@ -108,8 +99,7 @@ Weight = 10 where <p =
 (l?<p2)a \/(a+cK6+rfj
 and a = \;\/(a+c)(6+d)
 Furthermore it is possible to construct a table from which all
-weights may be read directly as soon as the two percentages repre-
-sented by "a" and "c" are determined. For example, by looking
+weights may be read directly as soon as the two percentages represented by "a" and "c" are determined. For example, by looking
 on the chart for the weight opposite the two percentages of 25 and
 9 (representing likes of "men in general" and engineers) the weight
 of 6 is obtained. This short cut saves an enormous amount of labor.1
@@ -129,12 +119,10 @@ Per cent liking 25 Per cent liking  9
 Per cent indifferent 34 Per cent indifferent 30
 Per cent disliking 41 Per cent disliking 01
 These must be reduced to a four-fold table in order to use the
-above formulce. Cowdery accomplished this by dividing the in-
-differences among the likes and dislikes. Since in a few cases
+above formulce. Cowdery accomplished this by dividing the indifferences among the likes and dislikes. Since in a few cases
 this did not give appropriate scores, the writer has followed the
 procedure of combining indifferences and dislikes together when
-calculating the weights for likes, combining likes and dislikes to-
-gether when calculating the weights for indifferences, etc.
+calculating the weights for likes, combining likes and dislikes together when calculating the weights for indifferences, etc.
 The calculation of the weight on the engineering interest scale
 for liking the item "actor (not movie)" is as follows:
 a.25:. 756 .25-.09 . 1G
@@ -158,22 +146,18 @@ sampling of men in the United States, then undoubtedly, as the size of tliis
 group increased, the reliability of averages would increase; but our "men in
 general" group is merely a sum of all our cases, and the occupational groups
 that constitute the whole have been selected because of ease of securing the
-data, ease of setting up an objective criterion as to who belong to the occupa-
-tion, and interest of college men in tlie occupation. Under such conditions
+data, ease of setting up an objective criterion as to who belong to the occupation, and interest of college men in tlie occupation. Under such conditions
 there is 110 way of proving that 10,000 cases is a better sampling of men in
 general than 4,000 cases, to say nothing of the possible chance that it is a
 worse sampling.
 66 THE PSYCHOLOGICAL CLINIC
-between engineers and "men in general" (represented by the numer-
-ator of the equation) ; and secondly, by the extent to which the data
+between engineers and "men in general" (represented by the numerator of the equation) ; and secondly, by the extent to which the data
 might be the resultant of chance (represented by the denominator
 of the equation). The more, then, the data differentiate the two
 groups and the less likely the data are due to mere chance, the larger
 the weighting, and vice versa.
-Furthermore, the whole procedure sets up standards for voca-
-tional selection and guidance on the basis of the differences between
-men in general and men in a particular occupation. The usual pro-
-cedure has been to measure traits in terms of their maximum. It
+Furthermore, the whole procedure sets up standards for vocational selection and guidance on the basis of the differences between
+men in general and men in a particular occupation. The usual procedure has been to measure traits in terms of their maximum. It
 would seem that absolute amounts of this and that trait are not
 so important in this connection as the fact that a person is superior
 in those traits, which the members of the occupation he wishes to
@@ -182,14 +166,10 @@ the occupational group are inferior to the general run of mankind.
 It seems possible that if this principle were applied, some of the
 attempts to develop vocational aptitude tests, which have not turned
 out successfully, might be found to be more useful. Attempts to
-handle our data in the customary manner have given us very indif-
-ferent results, but when the same data are handled in terms of differ-
-ences between men in general and the occupational group in ques-
-tion, satisfactory differentiation between groups has been obtained.
+handle our data in the customary manner have given us very indifferent results, but when the same data are handled in terms of differences between men in general and the occupational group in question, satisfactory differentiation between groups has been obtained.
 A Second Scoring Method
 M. Freyd and several other investigators have used another
-method. They calculated the significance of the difference by divid-
-ing the difference by the standard error of the differences. The
+method. They calculated the significance of the difference by dividing the difference by the standard error of the differences. The
 formulae are:
 Difference 2 PiQi Vili
 Significance of difference = where e = 1
@@ -208,27 +188,19 @@ did not exceed this amount the item was weighted 0. Whether
 the weight of 1 was to be called +1 or ?1 was determined in the
 manner used by us and described above.
 As far as is known, all who have calculated weights in terms of
-the standard error of the difference, have followed Freyd's proced-
-ure of reducing all weights to +1, 0, or ?1 and no one has made
+the standard error of the difference, have followed Freyd's procedure of reducing all weights to +1, 0, or ?1 and no one has made
 use of the weights themselves as obtained. How valuable they may
 be in this connection remains to be determined. In all probability,
 the reason that this procedure of Freyd has been followed, instead
-of using the weights as calculated, has been due to the small popula-
-tions upon which the weights were based. If instead of populations
-of 3,920 and 575, populations of 100 and 100 were used in the ex-
-ample above, then the weight turns out to be 0.98 instead of 11.6,
+of using the weights as calculated, has been due to the small populations upon which the weights were based. If instead of populations
+of 3,920 and 575, populations of 100 and 100 were used in the example above, then the weight turns out to be 0.98 instead of 11.6,
 which, being smaller than 2, would be rated as 0. Unless relatively
 large population groups are used, very few weights above 2 will
 be obtained by this method.
 A Third Scoring Method
-The scoring of the interest blank with our procedure is a la-
-borious task, since it must be scored separately for each occupa-
-tional rating. We have spent a great deal of time and money en-
-deavoring to discover worth while short cuts. Thanks to Mr. P. J.
-Rulon, a method has been developed of utilizing the Hollerith ma-
-chine whereby the blank may be scored for twenty occupations in
-considerably less time than an hour. This represents a real con-
-tribution to the scoring of the blank, but it is not representing
+The scoring of the interest blank with our procedure is a laborious task, since it must be scored separately for each occupational rating. We have spent a great deal of time and money endeavoring to discover worth while short cuts. Thanks to Mr. P. J.
+Rulon, a method has been developed of utilizing the Hollerith machine whereby the blank may be scored for twenty occupations in
+considerably less time than an hour. This represents a real contribution to the scoring of the blank, but it is not representing
 a change in the scoring method itself.
 Our experiences with a third method of determining weights
 and of scoring the blank is worth reporting, since it throws further
@@ -285,8 +257,7 @@ to place genuine confidence in the unit scales as substitutes for the
 weighted scales.
 SCORING AN INTEREST TEST 69
 When reliability of the two scales is considered, we find that
-the unit scales give slightly higher reliability based on the odd-
-even technique, an average of .839 in contrast with .799 for the
+the unit scales give slightly higher reliability based on the oddeven technique, an average of .839 in contrast with .799 for the
 weighted scales. The details are given in Tables 4 and 5.
 Table 4. Reliability of Weighted Scales Based on* Correlations Between
 Odd and Even .Items (Brown's Formula)
@@ -306,19 +277,15 @@ Law unit (odd) vs. Law unit (even)  .936 .887 .912
 CPA unit (odd) vs. CPA unit (even)  .755 .871 .846
 Arch, unit (odd) vs. Arch, unit (even)  .818 .765 .760
 Average of nine correlations is .S4.
-One would naturally assume that the unit scales could be sub-
-stituted for the weighted scales, since the two correlate .93 and
+One would naturally assume that the unit scales could be substituted for the weighted scales, since the two correlate .93 and
 the unit scales have slightly higher reliability, but such is not the
 case. The unit scalcs do not differentiate occupational groups from
 one another as well as do the weighted scales. The data are set
 forth in Table 6.
 Ten per cent of architects rate A on the lawyer scale, that is,
 have the interests of lawyers, when the weighted scale is used;
-whereas thirty per cent are so rated when the unit scale is em-
-ployed. In this case there is three times as much overlapping when
-the unit scale is used as when the weighted scale is utilized. Judg-
-ing from the average of these seven comparisons, overlapping is in-
-creased more than three times by the unit scales in contrast with
+whereas thirty per cent are so rated when the unit scale is employed. In this case there is three times as much overlapping when
+the unit scale is used as when the weighted scale is utilized. Judging from the average of these seven comparisons, overlapping is increased more than three times by the unit scales in contrast with
 the weighted scales, when measured by A ratings. Furthermore,
 twice as many men will be definitely rated as not belonging to a
 group to which they do not belong when the weighted scales are
@@ -421,17 +388,13 @@ used as when the unit scales are used. Such results eliminate the
 unit scales from further consideration.
 Many are urging today that in the absence of an adequate
 method of measuring validity one may accept a test that gives high
-reliability. Our experience, as outlined here and in other connec-
-tions, shows that two systems of testing may correlate over .90
+reliability. Our experience, as outlined here and in other connections, shows that two systems of testing may correlate over .90
 and have equally high reliability and yet one may have much higher
 validity than the other.
 Other Possible Changes in Scoring Technique
 There are other possible short cuts in scoring the interest blank.
 A preliminary sampling suggests the possibility of disregarding
-items that are marked as indifferent. When this is done the sep-
-aration of occupational groups was increased in four cases and de-
-creased in four other cases. We will know the answer to this pos-
-sibility in another month. If the change can be made it will cut
+items that are marked as indifferent. When this is done the separation of occupational groups was increased in four cases and decreased in four other cases. We will know the answer to this possibility in another month. If the change can be made it will cut
 the time of scoring the blank about one-third.
 Very few items are weighted over +13 or under ?13 on our
 occupational scales and most of these are for interests intimately
@@ -442,17 +405,13 @@ SCORING AN INTEREST TEST 71
 etc. Whether reducing the weights on these items will increase or
 decrease differentiation of occupational groups is not yet known.
 If the loss here is slight it probably will be well arbitrarily to limit
-weights between these limits of +13 and ?13, as a vocational guid-
-ance test should not penalize lack of knowledge too heavily. As it
+weights between these limits of +13 and ?13, as a vocational guidance test should not penalize lack of knowledge too heavily. As it
 is, a young man who should go into public accounting, but has never
-heard of it would probably mark the item C.P.A. as indifferent in-
-stead of liking, with a resulting loss of 39 points. (Being indifferent
-is weighted ?9). This seems to be too heavy a penalty. A pro-
-cedure which is statistically sound and of value in separating adult
+heard of it would probably mark the item C.P.A. as indifferent instead of liking, with a resulting loss of 39 points. (Being indifferent
+is weighted ?9). This seems to be too heavy a penalty. A procedure which is statistically sound and of value in separating adult
 members of occupational groups may not be desirable from the
 standpoint of a test designed to study young men who do not yet
-know what careers to enter, nor very much about the possible ca-
-reers themselves.
+know what careers to enter, nor very much about the possible careers themselves.
 Two graduate students at the University of Minnesota, Miss
 Isabelle Rosenstein and Mr. Edward Birnberg have experimented
 with weights ranging from 1 to 9 instead of our weights from +30
@@ -463,24 +422,18 @@ Conclusions
 What is needed first of all is a scoring method that gives high
 reliability. The method employed by the author gives reliability
 coefficients between .75 and .90 depending upon the occupational
-scales used, the occupational groups scored, and methods of meas-
-uring reliability, whether the odd-even technique or that of repeat-
-ing the test upon the same individuals after intervals of time as
+scales used, the occupational groups scored, and methods of measuring reliability, whether the odd-even technique or that of repeating the test upon the same individuals after intervals of time as
 long as a year and a half.
-What is needed second is high validity. There are two dif-
-ferent measures of validity in this connection. First, the degree of
-separation obtained between occupational groups. It is this meas-
-urement of our test which we consider of prime importance. So far
+What is needed second is high validity. There are two different measures of validity in this connection. First, the degree of
+separation obtained between occupational groups. It is this measurement of our test which we consider of prime importance. So far
 we have found no variation from our present procedure that does
 not lower the test's validity.
 A second measure of validity has reference to the degree to
-which the ratings given young men agree with their subsequent ca-
-reers. There has not yet been time enough to establish the degree
+which the ratings given young men agree with their subsequent careers. There has not yet been time enough to establish the degree
 of this second measure of validity. In a follow-up of Stanford 1927
 seniors two years after taking the test, we found that 50 per cent
 72 THE PSYCHOLOGICAL CLINIC
-of those who were sure they had settled their life work were en-
-gaged in the work on which they rated highest on the test, and
+of those who were sure they had settled their life work were engaged in the work on which they rated highest on the test, and
 71 per cent were engaged in the work 011 which they rated first or
 second highest. There were, however, 12 per cent who had entered
 an occupation in which, according to the test, they would not be

@@ -24,9 +24,7 @@ child's progress as far as possible through the Philadelphia schools,
 and (2) to obtain for each child the Intelligence Quotient given him
 when in the 6B (in the case of schools operating on the 6-3-3 plan)
 or in 8B (in the case of schools operating on the 8-4 plan). These
-Intelligence Quotients are derived from scores made on the Phila-
-delphia Group Test of Mental Ability, and are used by the Phila-
-delphia Schools for the purpose of classification of pupils into
+Intelligence Quotients are derived from scores made on the Philadelphia Group Test of Mental Ability, and are used by the Philadelphia Schools for the purpose of classification of pupils into
 ability groups in the Junior and Senior High Schools throughout
 the city.
 i C. Easby-Grave, Tests and Norms at the Six Year Old Performance
@@ -45,12 +43,10 @@ indices which might be continuous as far as the data would permit.
 This limitation reduced the number of cases to 229.
 The data necessary for this investigation could not have been
 secured without the cooperation of the Philadelphia Schools. I
-wish to thank personally Dr. Parke Schoch for permission to ex-
-amine the records of Junior and Senior High Schools throughout
+wish to thank personally Dr. Parke Schoch for permission to examine the records of Junior and Senior High Schools throughout
 the city. To Dr. Philip A. Boyer I am deeply grateful for many
 suggestions as to method of investigation. It was due to his advice
-that the Philadelphia Group Test of Mental Ability was incor-
-porated into the study. Dr. Morris S. Viteles was very kind in
+that the Philadelphia Group Test of Mental Ability was incorporated into the study. Dr. Morris S. Viteles was very kind in
 suggestions as to statistical treatment. I should like to thank Dr.
 Lightner Witmer for the opportunity of using the Easby-Grave
 data, and for permission further to investigate the results of work
@@ -107,8 +103,7 @@ Iowa as 93.3 (or .933) for 38,144 cases. This index remains at
 93.3 if we take the average for the 6,178 cases who have been in
 school for twelve terms or longer. Knight and Manuel4 report an
 investigation of high school graduates in the "Waco, Texas High
-School. These authors sought to determine the relationship be-
-tween age of school entrance and subsequent school record. Their
+School. These authors sought to determine the relationship between age of school entrance and subsequent school record. Their
 method was to determine the length of time graduates had spent
 in completing the eleven years required in that school system to
 graduate from high school. For the purpose of their experiment
@@ -116,24 +111,19 @@ they classified the group of 103 cases according to sex and age of
 entrance. We took the liberty of determining the average for the
 entire group studied by Knight and Manuel and found it to be
 11.32 years. The Progress Index for this group becomes, therefore,
-3 G. Freden, Age-Grade and Progress Indices for the Public Elementary-
-Schools of Iowa. University of Iowa Studies in Education, 1927, No. 4.
+3 G. Freden, Age-Grade and Progress Indices for the Public ElementarySchools of Iowa. University of Iowa Studies in Education, 1927, No. 4.
 4 J. Knight and H. T. Manuel, Age of School Entrance and Subsequent
 School Kecord. Sch. and Soe., 1930, 32, 24-26.
 140 THE PSYCHOLOGICAL CLINIC
-97.18. Our own average of 90.7 is not the index of average prog-
-ress, but the average index for the group. It is seen to be lower
-than the averages either for a group composed entirely of ele-
-mentary school pupils throughout Iowa (therefore more similar to
+97.18. Our own average of 90.7 is not the index of average progress, but the average index for the group. It is seen to be lower
+than the averages either for a group composed entirely of elementary school pupils throughout Iowa (therefore more similar to
 our own group) or for a group composed entirely of high school
 graduates. Whether or not the differences between these averages
 are significant cannot be determined.
 Figure 1 shows graphically the distribution of Progress Indices.
 The fact that the average Progress Index is but 90.7 might
 indicate that the schools are rather more prone to retard children
-than to give them double promotions. If this is the case the tend-
-ency fits in with the theory that the retarded child is given educa-
-tionally more consideration at present than is the accelerated child.
+than to give them double promotions. If this is the case the tendency fits in with the theory that the retarded child is given educationally more consideration at present than is the accelerated child.
 Progress Index
 Fig. 1. Curve showing distribution of Progress Indices. The area of
 the curve is divided into three sections, to show the approximate portions of
@@ -172,8 +162,7 @@ In order to determine whether or not the groups followed up
 were selected, comparisons on the basis of first grade I.Q.s were
 made. For purposes of convenience, the group of 500 children
 tested by Easby-Grave will be referred to hereafter as E-G, the
-whole group followed up as Group I, the group of 214 cases fol-
-lowed up for whom Indices were computed as Group II, the group
+whole group followed up as Group I, the group of 214 cases followed up for whom Indices were computed as Group II, the group
 of 135 cases for whom 6B or 8B I.Q.s were secured as Group III,
 and the group of 13 cases5 of special class pupils as Group IV.
 Table 3 illustrates the distributions of I.Q.s for Groups E-G,
@@ -325,8 +314,7 @@ E-G
 The differences between the Easby-Grave group of 500 and
 each of the sub-groups are significant. The fact that the whole
 group of 229 cases followed up should differ so significantly from
-the Easby-Grave group is rather difficult to explain. The drop-
-file system in the Philadelphia Schools is designed to permit of
+the Easby-Grave group is rather difficult to explain. The dropfile system in the Philadelphia Schools is designed to permit of
 quite as ready check-up on retarded children as on those who
 PSYCHOLOGICAL TESTS IN FIRST GRADE 143
 progress normally or better, so that if the relationship between
@@ -336,8 +324,7 @@ the fact that they remain in school longer is unlikely. The only
 explanation we can give at present is based on the schools in
 which children for the Easby-Grave standards were tested. The
 group of 229 cases followed up were, when originally examined,
-in three Philadelphia Public Schools. The approximate percent-
-ages of the group of 500 cases secured by Easby-Grave in each of
+in three Philadelphia Public Schools. The approximate percentages of the group of 500 cases secured by Easby-Grave in each of
 these three schools are listed below, with the percentages of our
 group of 229 secured from the same schools. The slight difference
 Easby-Grave 500 229 followed up
@@ -349,10 +336,8 @@ Total  100% 100%
 in percentages may account for some lack of balance in the selection
 of cases from different schools, although there is no evidence for
 this assumption. The fact that the group of OB pupils is composed
-of but 13 cases may suggest that statistical differences are unre-
-liable. From the point of view of the process of selection which
-created it, however (largely mental deficiency and school retarda-
-tion), the difference between its average and that for a normal
+of but 13 cases may suggest that statistical differences are unreliable. From the point of view of the process of selection which
+created it, however (largely mental deficiency and school retardation), the difference between its average and that for a normal
 group should be definite and significant.
 Part III
 Interrelationships of Tests within the Total Group
@@ -360,8 +345,7 @@ Followed Up
 The tests selected for correlation with school progress and with
 the I.Q. given in 6B and in 8B were (1) Stanford Revision of the
 Binet-Simon Scale (I.Q.) ; (2) memory spans, (a) auditory, (&)
-visual and (c) reverse; (3) performance tests, (a) Witmer form-
-board, and (&) Witmer cylinders. The group of 229 cases, Group
+visual and (c) reverse; (3) performance tests, (a) Witmer formboard, and (&) Witmer cylinders. The group of 229 cases, Group
 I, was used in the intercorrelations.
 The distribution of I.Q.s has been discussed in the foregoing
 paragraphs.
@@ -433,9 +417,7 @@ question. If we adopt this theoretical viewpoint and discard all
 assumes a more normal shape, though with a tendency to bimodality,
 at spans 4 and 5; the curve for reverse span closely approximates
 that of normal distribution.
-The Witmer formboard. The most striking aspect of these dis-
-tributions is the marked skewness. For purposes of greater clear-
-ness the curve has been drawn for the first and second trials, in Fig.
+The Witmer formboard. The most striking aspect of these distributions is the marked skewness. For purposes of greater clearness the curve has been drawn for the first and second trials, in Fig.
 2. The close approximation to normal distribution at the negative
 end of the curve and the stretching out of cases at the positive
 end suggested the possibility of cutting the time limit for the test
@@ -471,23 +453,17 @@ pSjOOiOeMOiCDCOOt^-^'-i
 <N <M <N r?I H ,-H i-H [
 I I II I I I IC ?o
 miOlOlOlOlOlOTtf 1-1
-LQ <M OS <0 CO O b-
-lO
-Fig. 2. Curve showing distribution of time scores for the Witmer form-
-board: Solid line 1st trial, dash 2nd. Line drawn at 124" to show effect
+LQ <M OS <0 CO O blO
+Fig. 2. Curve showing distribution of time scores for the Witmer formboard: Solid line 1st trial, dash 2nd. Line drawn at 124" to show effect
 of cutting time limit to 124".
 146 THE PSYCHOLOGICAL CLINIC
-the range narrow, it seemed advisable at first to use Pearson's co-
-efficient of mean square contingency described by Rugg,8 perhaps
-more clearly by Garrett.9 In the course of the statistical com-
-putation, however, it seemed wisest to discard all coefficients thus
-obtained. Yule's10 criticism that as the fineness of the classifica-
-tion is varied, the coefficients are not comparable one with the
+the range narrow, it seemed advisable at first to use Pearson's coefficient of mean square contingency described by Rugg,8 perhaps
+more clearly by Garrett.9 In the course of the statistical computation, however, it seemed wisest to discard all coefficients thus
+obtained. Yule's10 criticism that as the fineness of the classification is varied, the coefficients are not comparable one with the
 other, and the lack of comparability between C and r as well as
 between C's (since the number of cases also varied when 0 scores
 were omitted from memory span and DNC scores from cylinder
-correlations) seemed to justify such a step. The size of the co-
-efficients of contingency obtained seemed to have slight relation to
+correlations) seemed to justify such a step. The size of the coefficients of contingency obtained seemed to have slight relation to
 the scatter of cases, and in every case the coefficients of contingency
 were appreciably higher than the Pearson coefficients.
 The correlations secured appear in Table 6. For the Witmer
@@ -513,8 +489,7 @@ suggests that the tests at this level are measuring different abilities.
 In interpreting the coefficients found for the cylinders the facts must
 be kept in mind (1) that the cases used are selected, since they
 represent only the upper end of the distribution, and (2) there
-s H. O. Rugg, Statistical Methods Applied to Education. Boston, Hough-
-ton-Mifflin, 1917, pp. 299-307.
+s H. O. Rugg, Statistical Methods Applied to Education. Boston, Houghton-Mifflin, 1917, pp. 299-307.
 9 H. E. Garrett, Statistics in Psychology and Education. New York,
 Longmans Green, 1926, pp. 195?203.
 10 G. U. Yule, An Introduction to the Theory of Statistics, London, 1919,
@@ -526,8 +501,7 @@ variables for the Pearson formula. It is for those reasons unlikely
 that these coefficients are of much significance and their magnitude
 is hardly indicative of relationship with any other test.
 Coefficients of correlation between I.Q. and other tests are low.
-The abilities required to do well on the Stanford-Binet seem un-
-related at this grade-level to those required in performance tests;
+The abilities required to do well on the Stanford-Binet seem unrelated at this grade-level to those required in performance tests;
 the highest coefficient here obtained is but -f- .230, that with the
 five-minute formboard.
 Memory spans. For the purpose of showing relative frequency
@@ -679,10 +653,8 @@ Total
 7.9
 1.8
 100.9
-than might be expected from tests which suggest by their very-
-nature a high correlation.
-Generally, it seems safe to state that the tests used by Easby-
-Grave at the first-grade level intercorrelate poorly. If the object
+than might be expected from tests which suggest by their verynature a high correlation.
+Generally, it seems safe to state that the tests used by EasbyGrave at the first-grade level intercorrelate poorly. If the object
 in selecting a battery of tests is to measure by means of those tests
 different abilities, this purpose seems, empirically, to be fulfilled
 in the selection of the Witmer formboard and cylinders and the
@@ -700,8 +672,7 @@ test scores given in the first grade by Easby-Grave with the criterion
 of school progress. The coefficients secured for the Stanford-Binet
 and the performance tests, appear in Table 10.
 Table 10
-Pearson Coefficients Indicating the Relationship Between School Prog-
-ress and First-Grade Psychological Tests
+Pearson Coefficients Indicating the Relationship Between School Progress and First-Grade Psychological Tests
 r PE
 School progress with I.Q  +.413 ? .039
 School progress with Witmer formboard, 1st trial (5')  + .069 ? .046
@@ -713,8 +684,7 @@ coefficients between school progress and time scores on performance
 tests is negligible. The coefficient of -f- -413 secured in correlating
 the Stanford-Binet with school progress suggests a definite positive
 relationship, although not of high degree.
-Seeking further to study the relationship between school prog-
-ress and the tests used by Easby-Grave at the first-grade level, a
+Seeking further to study the relationship between school progress and the tests used by Easby-Grave at the first-grade level, a
 method was devised by which the group was divided into three
 sub-groups, on the basis of Progress Indices. Those children who
 progressed normally or better (had Indices of 100 or more) were
@@ -746,8 +716,7 @@ practical certainty that it exists (or is greater than 0). Those
 differences which seem actual have been indicated by an asterisk,
 on the basis of probability of their occurrence.
 The findings in regard to differences between Groups A, B and
-C should be interpreted very cautiously. There is much over-
-lapping on all tests, least marked, perhaps, on the I.Q., greatest
+C should be interpreted very cautiously. There is much overlapping on all tests, least marked, perhaps, on the I.Q., greatest
 on the performance tests. For I.Q. the differences are more reliable
 150 THE PSYCHOLOGICAL CLINIC
 Table 11
@@ -862,8 +831,7 @@ than for any other of the tests. Differences between groups for
 the memory span are real, though not as reliable as those for the
 I.Q. As one might expect, for I.Q. and memory spans, differences
 between Groups A and C are more significant than those between
-A and B or B and C. There seem to be no reliable differences be-
-tween averages for groups in the performance tests. (It must be
+A and B or B and C. There seem to be no reliable differences between averages for groups in the performance tests. (It must be
 remembered that these tests, particularly the cylinders, do not seem
 PSYCHOLOGICAL TESTS IN FIRST GRADE 151
 to distribute normally at this grade-level. The statistical measures
@@ -873,8 +841,7 @@ among groups of children separated on the basis of school progress
 seem to bear out the tendencies demonstrated in the coefficients of
 correlation already secured. The I.Q., which correlates best with
 the Progress Index, differentiates best for superiority in school
-progress. Memory spans seem to differentiate better than do time-
-scores on performance tests, which for our groups differentiate
+progress. Memory spans seem to differentiate better than do timescores on performance tests, which for our groups differentiate
 not at all.
 There seems to be little in the literature with which we might
 compare the results secured in this part of our study. Ziegler,11
@@ -890,18 +857,13 @@ acceleration or retardation in the seventh grade in Junior High
 School for 307 cases he found a Pearson coefficient of -f- .17, the
 probable error of which he does not present, but which appears to be
 for his group ? .037. This figure cannot, strictly, be compared with
-our own coefficient. Freden 12 found the correlation between in-
-dices calculated on the basis of age-grade status and according
+our own coefficient. Freden 12 found the correlation between indices calculated on the basis of age-grade status and according
 to the method we have here used (ratio of time to progress) to be:
 "?.0652, which indicates that they should not be used interchangeably.
-Average progress is one thing and overageness another, each being seem-
-ingly independent of the other. Average progress means the amount of
+Average progress is one thing and overageness another, each being seemingly independent of the other. Average progress means the amount of
 progress for each semester, or the rate at which children pass through a
-school system. Average overageness is the weighted average of the over-
-ageness for the various grades."
-Toops and Pintner13 found a positive relationship between age-
-grade status and intelligence, working with a large group of chil-
-dren and using a series of mental tests. They divided their data
+school system. Average overageness is the weighted average of the overageness for the various grades."
+Toops and Pintner13 found a positive relationship between agegrade status and intelligence, working with a large group of children and using a series of mental tests. They divided their data
 into four classes: school retarded and below median in mentality,
 11 C. W. Ziegler, School Attendance as a Factor in School Progress.
 Teach. Coll. Contrib. to Ed., No. 297, 1928, p. 63.
@@ -916,20 +878,17 @@ using Yule's formula,14 of -(-85. This coefficient is of course not
 comparable to our own, but suggests a positive relationship, which
 suggestion is borne out for I.Q. and perhaps for memory spans in
 our own study.
-Hart,15 using our own method of calculating the index of prog-
-ress showed the graphic relationship between intelligence and school
+Hart,15 using our own method of calculating the index of progress showed the graphic relationship between intelligence and school
 progress to be obliquely S-shaped.
 "... mental test ability . . . was determined from the results of Army
 Alpha National Intelligence and Stanford Binet tests. Some . . . took
 only the Alpha test; others took some combination of two of the three
-tests, and some . . . took all three. The results were reduced to quo-
-tients showing the mental-test achievement relative to the norm for the
+tests, and some . . . took all three. The results were reduced to quotients showing the mental-test achievement relative to the norm for the
 age."
 He reports for this scatter a Pearson coefficient of -f- .84.
 St. John,16 although he did not use indices of any sort for
 school progress, calculated the number and percentage of children
-in each of three groups who had had four years of schooling?spe-
-cial class pupils, repeaters and special class pupils, and children
+in each of three groups who had had four years of schooling?special class pupils, repeaters and special class pupils, and children
 who gained one year, in terms of I.Q. groups. A composite I.Q.
 derived from scores on the Stanford-Binet, Dearborn A and C
 (performance tests), Otis, and Myers Test was used. He used the
@@ -966,9 +925,7 @@ school progress and the Philadelphia Group Test of Mental Ability,
 given at a period slightly before the calculation of indices and
 thus more comparable to the results of the studies mentioned above
 was -|- .554 P.E. ? .040.
-To conclude the statistical analysis of data related to the prob-
-lem of the relationship between tests in the first grade and subse-
-quent school progress, it seems safe to state:
+To conclude the statistical analysis of data related to the problem of the relationship between tests in the first grade and subsequent school progress, it seems safe to state:
 (1) That there is a positive relationship between score on the
 "intellectual" tests,?the Stanford-Binet and the memory spans?
 and school progress in terms of the ratio of accomplishment to the
@@ -990,16 +947,12 @@ Part V
 The Relation Between First Grade Tests and the Results of
 the Philadelphia Group Test in 6b and 8b
 "We shall deal summarily with the results secured in this part
-of the experiment. In dealing with the data regarding the rela-
-tionship between results of psychological tests at the first grade
+of the experiment. In dealing with the data regarding the relationship between results of psychological tests at the first grade
 154 THE PSYCHOLOGICAL CLINIC
-level and those secured in the higher grades, certain factors con-
-cerning the raw data should be kept in mind.
-(1) Although the I.Q.s derived from test scores on the Phila-
-delphia Group Test of Mental Ability (referred to hereafter as
+level and those secured in the higher grades, certain factors concerning the raw data should be kept in mind.
+(1) Although the I.Q.s derived from test scores on the Philadelphia Group Test of Mental Ability (referred to hereafter as
 PTMA) were made by children when in either 6B or 8B and not
-at a constant chronological age, the comparison with Stanford-
-Binet I.Q.s given in the first grade should be suggestive, since
+at a constant chronological age, the comparison with StanfordBinet I.Q.s given in the first grade should be suggestive, since
 the data in the first grade were also secured with regard to grade
 rather than age constancy.
 (2) I.Q.s for the PTMA are the result of a group test, and
@@ -1042,13 +995,11 @@ data here presented and in comparison with the findings of other
 investigators within this field of interest. It may be reemphasized
 in this connection that here we are using the I.Q.s secured on two
 different measures. Most of the studies in the constancy of the
-I.Q. use measures secured on the same test. In addition, the in-
-terval between the tests in this study was extremely varied. Since
+I.Q. use measures secured on the same test. In addition, the interval between the tests in this study was extremely varied. Since
 the object of this experiment was not primarily to investigate the
 constancy of the I.Q., no attempt was made to control many of the
 factors which as Foran 17 points out in his excellent review of the
-literature in regard to the constancy of the I.Q., undoubtedly influ-
-ence the reliability of this measure over a period of time.
+literature in regard to the constancy of the I.Q., undoubtedly influence the reliability of this measure over a period of time.
 It is interesting to note the relationships, on the one hand,
 between intelligence, as tested by the Stanford-Binet in the first
 grade and the PTMA in the sixth and eighth grades, and school
@@ -1072,8 +1023,7 @@ The conclusions to this part of the investigation would appear
 to be as follows:
 (1) There is an actual relationship between the I.Q. given in the
 first grade on the Stanford-Binet and that given in the 6B and
-17 T. G. Foran, A Supplementary Review of the Constancy of the Intelli-
-gence Quotient, Cath. Univ. of Amer., Educ. Ees. Bull., 1929, 4, No. 9.
+17 T. G. Foran, A Supplementary Review of the Constancy of the Intelligence Quotient, Cath. Univ. of Amer., Educ. Ees. Bull., 1929, 4, No. 9.
 is Compare the coefficient of + .70 secured by Farson. M. E. Farson,
 A Report on the Examination of One Hundred 6B Children in Philadelphia
 Schools. Psychol. Clin., 1928, 17, 128-152.
@@ -1082,8 +1032,7 @@ Schools. Psychol. Clin., 1928, 17, 128-152.
 coefficient secured when the tests are correlated indicates slight
 predictive value for the first grade test.
 (2) The relationship between the 6B and 8B test and the first
-grade test is greater than that between either test and school prog-
-ress over twelve or more semesters of school.
+grade test is greater than that between either test and school progress over twelve or more semesters of school.
 (3) There is a difference of approximately 6 points between the
 average for the I.Q. in the first grade and that for 6B and 8B.
 This difference appears to be a true one.
@@ -1095,10 +1044,8 @@ in studies of the constancy of the I.Q. because no attempt was made
 so to control conditions as to eliminate factors other than growth
 of the abilities measured by the tests. Again, neither the age at
 which I.Q.s were given in either case, nor the variation in interval
-between the tests were held constant. In addition, as Part I has in-
-dicated, the group here used is a small one, slightly superior in
-first-grade I.Q. Finally, two different measures of "general in-
-telligence" were used in this study.
+between the tests were held constant. In addition, as Part I has indicated, the group here used is a small one, slightly superior in
+first-grade I.Q. Finally, two different measures of "general intelligence" were used in this study.
 (6) Undoubtedly factors such as language handicap, unequal
 environmental conditions, attendance in school, and the like, which
 have received no consideration in this investigation, have tended
@@ -1107,15 +1054,12 @@ results, school progress and later mental status.
 Part VI
 Studies of Special Class Pupils
 It will be recalled from the discussion in Parts I and II that
-thirteen children in the total group followed up were placed ulti-
-mately in special class. As no index for most of these children
+thirteen children in the total group followed up were placed ultimately in special class. As no index for most of these children
 could be secured (since in an OB class there is no grade standing),
 they were placed in a group by themselves (Group IV).
 Certain material regarding the examination by Easby-Grave
-and those given later by the Division of Special Education is pre-
-sented in case study form in some detail in Table 14. In the first
-column of the table appear the results of the Easby-Grave examina-
-tion, with any supplementary remarks of a qualitative sort which
+and those given later by the Division of Special Education is presented in case study form in some detail in Table 14. In the first
+column of the table appear the results of the Easby-Grave examination, with any supplementary remarks of a qualitative sort which
 PSYCHOLOGICAL TESTS IN FIRST GRADE 157
 were at that time recorded. In the five columns to the right appear
 the follow-up data secured.
@@ -1129,8 +1073,7 @@ German families, and one each from Hungarian and Russian
 families, although the child of Russian parents proved to be of
 a type definitely superior. Two of the children are girls; the
 remaining eleven are boys. The majority of the children became
-OB pupils because of "limited mental ability and school retarda-
-tion." Three and possibly four were thus classified largely for
+OB pupils because of "limited mental ability and school retardation." Three and possibly four were thus classified largely for
 restoration purposes. Eleven of the children had either dropped
 out of school because they had reached the age of sixteen, or were
 in OB until the close of the investigation. One child (the superior
@@ -1139,9 +1082,7 @@ in 10A, one year ahead of schedule, while another was transferred
 from OB to a disciplinary class.
 A comparison of test results, both quantitative and qualitative,
 between the original examination and those by the Division of
-Special Education indicates, above all, the lack of harmony be-
-tween conclusions made. No one of the thirteen children was re-
-ported in the first grade study as being especially inferior or
+Special Education indicates, above all, the lack of harmony between conclusions made. No one of the thirteen children was reported in the first grade study as being especially inferior or
 superior. This undoubtedly was due as much to the nature of the
 examination in the first grade as to the lack of similarity between
 the clinical pictures of the individuals tested. The first grade
@@ -1162,8 +1103,7 @@ Case
 (1)
 B.J.
 Italian
-parent-
-age.
+parentage.
 Male.
 White.
 1st Grade
@@ -1222,21 +1162,15 @@ Spelling 2A
 History None
 Notes on Examinations
 and Supplementary Remarks
-Italian home, undoubt-
-edly a language handicap.
+Italian home, undoubtedly a language handicap.
 Poor intellectual ability.
-Somewhat higher type so-
-cially than usual case in
+Somewhat higher type socially than usual case in
 Italian families. Very
-slow. Inferior comprehen-
-sion. Very poor knowl-
-edge of history and geog-
-raphy.
+slow. Inferior comprehension. Very poor knowledge of history and geography.
 (2)
 C.J.
 Italian
-parent-
-age.
+parentage.
 Male.
 White.
 Grade IB
@@ -1276,9 +1210,7 @@ School Profic:
 Reading?not 1A
 Spelling IB
 Arithmetic ?
-Very slow, lacked com-
-prehension, initiative, effi-
-ciency. Needed drill in
+Very slow, lacked comprehension, initiative, efficiency. Needed drill in
 reading and spelling.
 PSYCHOLOGICAL TESTS IN FIRST GRADE 159
 Table 14?Continued
@@ -1301,11 +1233,9 @@ School Profic:
 Reading IB
 Spelling IB
 Arith. 4 A
-Home situation of inter-
-est: C helped his rheumatic
+Home situation of interest: C helped his rheumatic
 father daily to buy and
-huckster fruit, necessitat-
-ing a very early hour of
+huckster fruit, necessitating a very early hour of
 rising and hence a long
 day. It seemed unlikely
 that the boy could progress
@@ -1317,13 +1247,11 @@ father could provide, but
 at a "low type" factory
 job with regular hours.
 We did not learn whether
-or not this recommenda-
-tion was followed.
+or not this recommendation was followed.
 (3)
 R.M.
 Italian
-parent-
-age.
+parentage.
 Male.
 White.
 Grade IB
@@ -1347,12 +1275,9 @@ Remained to close
 of investigation.
 Needed definite
 individual drill in
-vocabulary-build-
-ing, practice in
-reading, consider-
-able work in oral
-English, some ge-
-ography, some U.
+vocabulary-building, practice in
+reading, considerable work in oral
+English, some geography, some U.
 S. history.
 C.A. 13-5 (6B)
 M.A. 9-7
@@ -1369,11 +1294,9 @@ H-A (1) F
 D.F.B. (1) 188
 (2) 136
 (3) 64
-Italian home. Undoubt-
-edly language handicap
+Italian home. Undoubtedly language handicap
 throughout. Boy seemed
-quick, alert, hyperexcit-
-able, nervous, perhaps a
+quick, alert, hyperexcitable, nervous, perhaps a
 tic. Some trainability and
 efficiency, but poor ability
 to deal with abstract ideas.
@@ -1381,8 +1304,7 @@ Very limited intellectual
 ability.
 Note: For abbreviations in Table 14: C.A. chronological age; M.A. mental age; Aud., Vis., and Rev. memory spans; W.F.B.
 Witmer formboard; W.Cyl. Witmer cylinders; H-A, Healy A; D.F.B. Dearborn formboard (Witmer modification); OB, orthogenic
-backward, or special class for backward children. School proficiency is measured by use of the Philadelphia Public School profi-
-ciency test. Unless otherwise indicated, the Stanford-Binet was used in securing I.Q.
+backward, or special class for backward children. School proficiency is measured by use of the Philadelphia Public School proficiency test. Unless otherwise indicated, the Stanford-Binet was used in securing I.Q.
 160 THE PSYCHOLOGICAL CLINIC
 Table 14?Continued
 Case
@@ -1404,8 +1326,7 @@ and Supplementary Remarks
 (4)
 N.L.
 Italian
-parent-
-age.
+parentage.
 Male.
 White.
 Grade 1A
@@ -1428,20 +1349,17 @@ was eliminated
 by going to
 summer school)
 When in 7A. In
-OB at close of in-
-vestigation.
+OB at close of investigation.
 Seemed wholly
 unwise to continue
 him in junior high
-school. Intellec-
-tually inferior,
+school. Intellectually inferior,
 poor language
 ability. Very poor
 ability in reading
 and spelling.
 C.A. 14-4 (OB)
-(7A a few days be-
-fore)
+(7A a few days before)
 M.A. 9-9
 I.Q. 68
 Aud. 5
@@ -1457,27 +1375,22 @@ D.F.B. (1) 115
 (2) 133
 (3) 44
 Inferior memory spans,
-poor language ability, un-
-doubtedly influenced by
+poor language ability, undoubtedly influenced by
 Italian home. Inferior 3rd
 grade work, even when in
 7A. Arithmetic fairly
 good. Needs much drill.
 Works well with hands,
-speedily and demonstrat-
-ing recognizable ability to
-improve. Little planful-
-ness.
+speedily and demonstrating recognizable ability to
+improve. Little planfulness.
 In appearance dirty and
 careless. No interest in
 school. Helps father in
 grocery store.
 (5)
 N.L.
-Rus-
-sian
-parent-
-age.
+Russian
+parentage.
 Male.
 White.
 Grade IB
@@ -1492,9 +1405,7 @@ W.F.B.(l) 45
 W.Cyl.(l) 158
 (2) 118
 Good control,
-interest. Gen-
-eral informa-
-tion good.
+interest. General information good.
 Entered 1A:
 C.A. 4-11
 4B
@@ -1508,11 +1419,9 @@ his age level, it
 was recommended
 that he be placed
 in OB because of
-a seeming inabil-
-ity to concentrate,
+a seeming inability to concentrate,
 despite very good
-intellectual abil-
-ity.
+intellectual ability.
 C.A. 8-7 (4B)
 M.A. 12-9
 I.Q. 151
@@ -1530,25 +1439,20 @@ Reading 5th
 Spelling 5A
 Geog. 4th
 Hist. 4th
-School progress not re-
-tarded before or after
+School progress not retarded before or after
 placement in OB. When
 investigation closed he was
-in 10th grade of a Phila-
-delphia High School, hav-
-ing spent one year in the
+in 10th grade of a Philadelphia High School, having spent one year in the
 Temple University Junior
 High School, one year
 ahead of schedule.
 When in the 4th grade
 the boy seemed to have
-"mind and ability, but re-
-fuses to exercise either."
+"mind and ability, but refuses to exercise either."
 He required more of the
 teacher's time than she
 could afford to give him,
-and obviously required spe-
-cial attention. The boy
+and obviously required special attention. The boy
 PSYCHOLOGICAL TESTS IN FIRST GRADE 161
 Table 14?Continued
 C.A. 12-8
@@ -1564,46 +1468,32 @@ D.F.B.(l) 106
 (2) 61
 (3) 64
 needed observation and
-pushing. Psychiatric ex-
-amination soon after the
-special education examina-
-tion showed the boy to be
+pushing. Psychiatric examination soon after the
+special education examination showed the boy to be
 superior, and warning was
 given that unless he was
 treated properly he might
-be the object of much teas-
-ing from his schoolmates.
-Private school was recom-
-mended.
-OB placement was suc-
-cessful in that it stimulated
+be the object of much teasing from his schoolmates.
+Private school was recommended.
+OB placement was successful in that it stimulated
 the boy.
 At this examination L
 appeared bright, alert and
 well informed. He seemed
-of "good normal mental-
-ity, capable from the intel-
-lectual standpoint of main-
-taining a high degree of
+of "good normal mentality, capable from the intellectual standpoint of maintaining a high degree of
 work in regular class. He
-had an excellent vocabu-
-lary, was extremely ob-
-servant and handled both
-abstract and concrete ma-
-terial with great ability.
+had an excellent vocabulary, was extremely observant and handled both
+abstract and concrete material with great ability.
 Much initiative and energy
-were shown (probably mis-
-directed in the classroom)."
+were shown (probably misdirected in the classroom)."
 He attended summer
 demonstration school at
 the University and did
-very good work. The fol-
-lowing year was spent in
+very good work. The following year was spent in
 the Junior High School at
 Temple University. At
 close of investigation he
-was in 10A in a Philadel-
-phia high school.
+was in 10A in a Philadelphia high school.
 162 THE PSYCHOLOGICAL CLINIC
 Table 14?Continued
 Case
@@ -1624,10 +1514,8 @@ Notes on Examinations
 and Supplementary Remarks
 (6)
 G.A.
-Hun-
-garian
-parent-
-age.
+Hungarian
+parentage.
 Male.
 White.
 Grade IB
@@ -1641,8 +1529,7 @@ W.F.B.(l) 56
 (2) 32
 W.Cyl. (1) F
 (2) F
-"Dirty?bet-
-ter than he
+"Dirty?better than he
 looks. Never
 be anything
 special. Just
@@ -1654,14 +1541,11 @@ IA, 1A, IB,
 IB, 2B, 3A,
 3A, 3B
 When in 4A; C.A.
-13-1. Has re-
-mained OB until
-close of investiga-
-tion.
+13-1. Has remained OB until
+close of investigation.
 Because over age
 for grade and in
-need of special at-
-tention.
+need of special attention.
 Physically unfit
 for 5th grade,
 mentally retarded,
@@ -1697,12 +1581,10 @@ D.F.B. (1) 320
 Boy had much initiative,
 energy, poise, was pleasant
 and alert. Needs drill in
-reading and spelling to im-
-prove phonic analysis;
+reading and spelling to improve phonic analysis;
 needs encouragement and
 "habit training."
-Appeared to have spe-
-cific difficulty with reading
+Appeared to have specific difficulty with reading
 and spelling. Vocabulary
 poor. Use auditory field
 in teaching him.
@@ -1716,8 +1598,7 @@ Hist. 5B
 C.A. 16-2
 M.A. 13-3J
 I.Q. 83
-M.A. (Morgan Men-
-tal Ability)
+M.A. (Morgan Mental Ability)
 13.5
 Aud. 7
 Vis. 6
@@ -1737,13 +1618,11 @@ Geog. & Hist. 6th
 Arith. o.k.
 Now in the OB center.
 The boy seemed well
-placed. It was recom-
-mended that he remain for
+placed. It was recommended that he remain for
 the next few months, then
 leave as he planned to do,
 and go to work. Some
-suggestion of emotional in-
-stability, perhaps a more
+suggestion of emotional instability, perhaps a more
 serious nervous disorder.
 Follow-up, was not filed on
 records.
@@ -1768,8 +1647,7 @@ and Supplementary Remarks
 (7)
 D.F.
 German
-parent-
-age.
+parentage.
 Male.
 White.
 Grade 1A
@@ -1783,12 +1661,9 @@ W.F.B.(l) 35
 (2) 40
 W.Cyl. (1) F
 (2) F
-"Little initia-
-tive, though
-willing. Intel-
-ligence much
-better than in-
-tellect. Very
+"Little initiative, though
+willing. Intelligence much
+better than intellect. Very
 cooperative."
 Entered 1A:
 C.A. 6-5
@@ -1797,8 +1672,7 @@ C.A. 6-5
 When in 3B; C.A.
 11-3. Remained
 for two years, then
-sent into 4A dis-
-ciplinary class.
+sent into 4A disciplinary class.
 Limited mental
 ability and school
 retardation.
@@ -1823,17 +1697,12 @@ A lazy boy who makes
 careless mistakes. Shows
 little effort. When pushed
 he does better work.
-Fairly good learning abil-
-ity. Poor in dealing with
+Fairly good learning ability. Poor in dealing with
 abstract material.
-At C.A. 13-7 was recom-
-mended for and given dis-
-ciplinary class placement
+At C.A. 13-7 was recommended for and given disciplinary class placement
 because of truancy. He
-refused to respond to con-
-ferences, his family did not
-cooperate. He has re-
-mained in OD, until close
+refused to respond to conferences, his family did not
+cooperate. He has remained in OD, until close
 of investigation, and was
 at that point doing 6A
 work.
@@ -1859,26 +1728,19 @@ Entered 1A:
 C.A.
 (after month
 in 1A was sent
-back to kinder-
-garten for one
-year, then re-
-entered 1A)
+back to kindergarten for one
+year, then reentered 1A)
 IB, 2A, 3A,
 3B, 5A, 5A
 When in 5A; C.A.
 13-0. Remained
 OB for 2 years,
-then to continua-
-tion school. 9
+then to continuation school. 9
 months later sent
 back to OB but
-did not appear be-
-fore close of in-
-vestigation.
-Intellectual defi-
-ciency. Perhaps
-develop mechani-
-cal skill.
+did not appear before close of investigation.
+Intellectual deficiency. Perhaps
+develop mechanical skill.
 C.A. 12-11 (5A)
 M.A. 11- 0
 I.Q. 85.1
@@ -1898,10 +1760,7 @@ Sch. Profic.:
 5A, except.
 Arith. 3-4
 A mature adolescent boy.
-Healthy and well devel-
-oped. Good initiative, per-
-sistence, distribution of at-
-tention. Poor memory
+Healthy and well developed. Good initiative, persistence, distribution of attention. Poor memory
 spans. No interest in
 school work. Poor ability
 to organize material.
@@ -1939,21 +1798,15 @@ Entered 1A:
 C.A. 5-10
 1A, 1A, 2A,
 4A
-When in 4B. Re-
-mained in OB un-
-til close of inves-
-tigation.
+When in 4B. Remained in OB until close of investigation.
 Limited ability
-and school retar-
-dation.
+and school retardation.
 $
 60
 W.Cyl.(l) F
 (2) F
-Stopped by ob-
-stacles. Very
-shy or negati-
-vistic. Binet
+Stopped by obstacles. Very
+shy or negativistic. Binet
 may be unfair.
 C.A. 11-3 (4B)
 M.A. 8-3
@@ -1967,24 +1820,19 @@ H-A (1) F
 (2) F
 (3) F
 (4) 10
-Child was slow in re-
-sponses, showed very in-
-ferior comprehension.
+Child was slow in responses, showed very inferior comprehension.
 Seems to get ideas very
-slowly. Erratic in her re-
-sponses, needs constant
+slowly. Erratic in her responses, needs constant
 and vivid stimulation.
 Needs particular help in
-spelling, vocabulary build-
-ing. Auditory imagery
+spelling, vocabulary building. Auditory imagery
 perhaps best. Needed
 much drill in fundamental
 arithmetic.
 (10)
 G.D.
 U. S.
-parent-
-age.
+parentage.
 Male.
 White.
 Grade IB
@@ -2010,10 +1858,8 @@ in OB until close
 of investigation.
 For restoration
 purposes. Needed
-individual atten-
-tion. Perhaps for
-permanent place-
-ment.
+individual attention. Perhaps for
+permanent placement.
 C.A. 11-11 (4B)
 M.A. 10- 8
 I.Q. 90
@@ -2027,8 +1873,7 @@ H-A (1) 99
 (2) (3) o.k.
 D.F.B.(l) 127
 (2) 67
-Boy showed poor judg-
-ment when left to his own
+Boy showed poor judgment when left to his own
 devices. Does not apply
 himself; described as a
 "silly, ineffectual type of
@@ -2057,8 +1902,7 @@ and Supplementary Remarks
 (ID
 G.T.
 U. S.
-parent-
-age.
+parentage.
 Male.
 White.
 Grade IB
@@ -2074,9 +1918,7 @@ W.Cyl. (1) F
 (2) F
 An unpleasant
 looking child.
-Seemed fright-
-ened; was un-
-managable.
+Seemed frightened; was unmanagable.
 Entered 1A:
 C.A. 5-9
 1A, IB, IB, 2A,
@@ -2084,8 +1926,7 @@ C.A. 5-9
 spent one term
 in restoration
 class.
-When in restora-
-tion class. C.A.
+When in restoration class. C.A.
 12-9. Remained
 until 16 years of
 age, then dropped
@@ -2094,9 +1935,7 @@ out.
 OB by his school
 7 mos. after this
 examination.)
-Manual work, par-
-ticularly in car-
-pentry, should be
+Manual work, particularly in carpentry, should be
 stressed, in the
 OB class in which
 it is recommended
@@ -2136,22 +1975,18 @@ Recommended in first
 examination that he be
 placed in restoration class,
 with view of placing him
-ultimately in OB or in reg-
-ular grade.
+ultimately in OB or in regular grade.
 An alert, careless boy.
 Poor habits of work. Poor
-in arithmetic fundamen-
-tals. Poor comprehension
+in arithmetic fundamentals. Poor comprehension
 but good initiative and
 energy. Needs to be kept
 busy and thus out of
 trouble.
-Boy appeared very con-
-formed, cooperative. Slow
+Boy appeared very conformed, cooperative. Slow
 in responses. Showed good
 ability to follow directions,
-trainability. Work is nei-
-ther accurate nor efficient.
+trainability. Work is neither accurate nor efficient.
 Intellectually retarded.
 Wants to be a carpenter.
 He should be allowed to
@@ -2203,21 +2038,17 @@ When in 4B; C.A.
 13-4. Remained
 OB until close of
 investigation.
-Was doing unsat-
-isfactory work in
+Was doing unsatisfactory work in
 her class and
-needed much re-
-petitive drill.
+needed much repetitive drill.
 (TFas not placed
-after this examina-
-tion.)
+after this examination.)
 Needed special
 class instruction
 (was not placed
 until 2 years and
 5 months after
-this recommenda-
-tion.)
+this recommendation.)
 C.A. 8-11 (3A)
 M.A. 8- 0
 I.Q. 90
@@ -2256,8 +2087,7 @@ Arith. 1st (?)
 Unable to count by l's
 to 100. Poor, slow reader.
 Much trial and error in
-performances, and inabil-
-ity to profit therefrom.
+performances, and inability to profit therefrom.
 Deficient energy. Poor
 visual imagery. Narrow
 memory spans.
@@ -2267,11 +2097,8 @@ Memory span narrow.
 Poor ability to make fine
 discriminations. Good
 willingness and persistence.
-Imagery poor. Vocabu-
-lary very poor. Needs to
-have number concept es-
-tablished. Concrete mate-
-rial should be used for this.
+Imagery poor. Vocabulary very poor. Needs to
+have number concept established. Concrete material should be used for this.
 168 THE PSYCHOLOGICAL CLINIC
 Table 14?Continued
 Case
@@ -2293,8 +2120,7 @@ and Supplementary Remarks
 (13)
 O.N.
 u. s.
-parent-
-age.
+parentage.
 Male.
 White.
 Grade 1A
@@ -2310,22 +2136,19 @@ W.Cyl.(l) 45
 (2) 30
 "Very large
 head. Bad
-tonsils and ade-
-noids. Bulgy
+tonsils and adenoids. Bulgy
 eyes. Slow and
 lacks energy."
 Entered 1A:
 C.A. 5-9
 IB, 2A, 3A, 3B
-(2 mos. in res-
-toration class)
+(2 mos. in restoration class)
 (one term in
 summer school)
 6A
 When in 6A; C.A.
 14-4. Remained
-at close of inves-
-tigation.
+at close of investigation.
 (Recommended
 placement at first
 examination but
@@ -2333,8 +2156,7 @@ not followed.)
 Placement in OB
 center where he
 can be taught
-"6th grade mini-
-mum essentials."
+"6th grade minimum essentials."
 C.A. 10-1 (3B)
 M.A. 9-6
 I.Q. 94
@@ -2369,30 +2191,23 @@ D.F.B. (1) 62
 (2) 45
 (3) 44
 Good effort on all tests.
-Responds to encourage-
-ment and praise. Evi-
-dently a "nuisance" in
+Responds to encouragement and praise. Evidently a "nuisance" in
 class room, because he is
 inattentive and careless.
-Can not deal with abstrac-
-tions. Needs much extra
-help in spelling and read-
-ing. Recommended OB
+Can not deal with abstractions. Needs much extra
+help in spelling and reading. Recommended OB
 placement.
 Boy is excessively tall,
 thin, angular. Appearance
-undoubtedly makes differ-
-ence in attitude toward
+undoubtedly makes difference in attitude toward
 others. Lisps. Now a
 "tall, narrow head." Is
 careless and inattentive in
 class. " Not bright enough
-to work steadily. Audi-
-tory imagery is poor. He
+to work steadily. Auditory imagery is poor. He
 is efficient and skillful at
 work with his hands;
-should make a good plumb-
-er, painter, paperhanger.
+should make a good plumber, painter, paperhanger.
 Very poor at following
 written or oral directions."
 PSYCHOLOGICAL TESTS IN FIRST GRADE 169
@@ -2410,11 +2225,8 @@ average child takes about ten years to do the work of nine grades.
 The standard deviation from this average covers roughly more than
 one grade more or less than nine in ten years of schooling.
 (2) In terms of first-grade I.Q. the followed up group was
-found to be superior to the original group of 500 first-grade chil-
-dren. The selection thus shown to be operative was difficult of
-explanation. It is possible that the children followed-up repre-
-sented the superior schools of those used in the first-grade stand-
-ardization. This, however, is not indicated in the results, and is
+found to be superior to the original group of 500 first-grade children. The selection thus shown to be operative was difficult of
+explanation. It is possible that the children followed-up represented the superior schools of those used in the first-grade standardization. This, however, is not indicated in the results, and is
 only a possible explanation.
 (3) The inclusion of zero scores in reverse and visual memory
 span tests lead to a tendency of bimodality in distribution. It
@@ -2423,8 +2235,7 @@ score on the test rather than a zero amount of ability either to
 give back a series of visually presented discrete units, or to reverse
 the order of such a series presented auditorially.
 (4) By reducing the time limit for the Witmer formboard for
-first-grade children to two minutes, 7 per cent of cases in the dis-
-tribution for the first trial and 2 per cent of cases in the distribution
+first-grade children to two minutes, 7 per cent of cases in the distribution for the first trial and 2 per cent of cases in the distribution
 for the second trial are eliminated. For practical purposes of
 quantitative measurement on this test, the time limit may well be
 reduced without injuring the normal distribution of time-scores.
@@ -2439,11 +2250,9 @@ The first trial of the Witmer formboard correlates to some degree
 with the second trial; this is not true of the trials on the cylinders.
 170 THE PSYCHOLOGICAL CLINIC
 (7) Auditory, visual and reverse memory spans appear to
-relate to each other to a fairly high degree. Probably they meas-
-ure common factors.
+relate to each other to a fairly high degree. Probably they measure common factors.
 (8) For the purposes of measuring relatively unrelated traits,
-abilities or factors at the first-grade level, a battery of tests in-
-cluding Stanford-Binet I.Q., memory spans and performance tests
+abilities or factors at the first-grade level, a battery of tests including Stanford-Binet I.Q., memory spans and performance tests
 (the Witmer formboard and cylinders) is well suited.
 (9) There is a positive relationship between the Stanford-Binet
 I.Q. and school progress, as well as between memory spans and
@@ -2453,15 +2262,12 @@ and school progress.
 (10) The relationship stated in (9) is not of sufficiently high
 degree to warrant accurate prediction for school progress solely on
 the basis of the first grade test scores used in this study.
-(11) There is a relationship between I.Q. secured on an indi-
-vidual test in the first grade, and that secured on a group test in
+(11) There is a relationship between I.Q. secured on an individual test in the first grade, and that secured on a group test in
 the sixth and eighth grades. This relationship is greater than is
 the relationship between either of the tests to school progress.
-(12) The I.Q. given in the later grades appears to be signifi-
-cantly lower in average than that given in the first grade, and to
+(12) The I.Q. given in the later grades appears to be significantly lower in average than that given in the first grade, and to
 be more variable.
-(13) Factors such as language handicap, environmental differ-
-ences, and similar schooling were not controlled in this experiment.
+(13) Factors such as language handicap, environmental differences, and similar schooling were not controlled in this experiment.
 In addition, different tests were used in the first and later grades.
 Hence the reliability of statistical comparisons between I.Q. at the
 two levels is open to question.
@@ -2478,17 +2284,14 @@ Quotient. Cath. Univ. of Amer., Educ. Res. Bull., 1929, 4, No. 9,
 pp. 42.
 Freden, G.: Age-grade and Progress Indices for the Public Elementary Schools
 of Iowa. University of Iowa Studies in Education, 1927, 4, No. 4.
-Garrett, H. E.: Statistics in Psychology and Education. New York, Long-
-mans Green, 1926.
+Garrett, H. E.: Statistics in Psychology and Education. New York, Longmans Green, 1926.
 PSYCHOLOGICAL TESTS IN FIRST GRADE 171
 Hart, H.: School Progress and Mental Test Ability. Sell, and Soc., 1925, 21,
 181-182.
 Knight, J., and Manuel, H. T.: Age of School Entrance and Subsequent School
 Eecord. Sch. and Soc., 1930, 32, 24-26.
-Pearson, K.: Note on the Significant or Non-Significant Character of a Sub-
-sample Drawn from a Sample. Biometrika, 1906-7, pp. 181-183.
-Rugg, H. O.: Statistical Methods Applied to Education. Boston, Houghton-
-Mifflin, 1917.
+Pearson, K.: Note on the Significant or Non-Significant Character of a Subsample Drawn from a Sample. Biometrika, 1906-7, pp. 181-183.
+Rugg, H. O.: Statistical Methods Applied to Education. Boston, HoughtonMifflin, 1917.
 St. John, C. W.: Educational Achievement in Relation to Intelligence. Harv.
 Stud, in Educ., 1930, 15, Cambridge, Harv. Univ. Press, pp. viii, 219.
 Toops, H. A., and Pintner, R.: Mentality and School Progress. Jour. Educ.

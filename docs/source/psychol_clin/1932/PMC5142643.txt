@@ -5,8 +5,7 @@ By Clairette P. Armstrong
 New YorTc City
 Problem
 This study is an investigation of the reactions of normal public
-school children from eight to fifteen years of age on two Army Per-
-formance scales standardized for the most part on adult males
+school children from eight to fifteen years of age on two Army Performance scales standardized for the most part on adult males
 during the war.
 Scales of real diagnostic value for school children, that gauge
 the specialized intelligence involved in non-language tests, are
@@ -28,8 +27,7 @@ score, that test different abilities of a psycho-motor nature. There
 is room for many tests of capacity to react to concrete situations.
 Method and Procedure
 The short scale of the Army Individual Performance Test2
-consisted of designs, manikin and feature profile, mazes, cube imi-
-tation and ship tests. The Army Beta 3 is composed of seven items:
+consisted of designs, manikin and feature profile, mazes, cube imitation and ship tests. The Army Beta 3 is composed of seven items:
 iF. L. Wells, Mental Tests in Clinical Practice, p. 117.
 2 Yoakum & Yerkes, Army Mental Tests, p. 126.
 3 Ibid., p. 79.
@@ -42,9 +40,7 @@ The Army Beta Test as an individual test was administered
 to 436 children, whole grades, 4th to 8th inclusive, in public schools
 in New York City and in towns in northern Westchester County.
 The test was administered exactly according to Army directions,
-in pantomine. The demonstration tests were mimeographed in-
-stead of being shown on a blackboard. The experimenter per-
-formed the first item of each practice series on paper just as in
+in pantomine. The demonstration tests were mimeographed instead of being shown on a blackboard. The experimenter performed the first item of each practice series on paper just as in
 the army the experimenter did on the blackboard; then instead of
 having an assistant demonstrate the next item of the series, the
 child was told to do it. Generally the stimulus was successfully
@@ -60,16 +56,14 @@ administered to the same children and a few more, numbering 461.
 In scoring this test, the digit symbol test is included although
 administered only with the Beta Test first. The procedure of
 administering may be the same in the two scales. It was included
-in the scoring because it is a valuable adjunct to the short Indi-
-vidual Performance scale and exercises a different function from
+in the scoring because it is a valuable adjunct to the short Individual Performance scale and exercises a different function from
 the other items of the scale.
 For comparison, results are recorded of tests administered to
 417 of these children on the Otis Group Test for grades 4 to 8.
 Raw scores of the Army Individual Performance Test4 were
 transmuted into weighted scores and mental ages5 found from the
 tables, as with the Beta.6 For statistical purposes the scales offer
-much, since I.Q.s readily computed facilitate statistical compari-
-sons.
+much, since I.Q.s readily computed facilitate statistical comparisons.
 An I.Q. has many advantages and probably some disadvantages
 inherited from the Stanford-Binet situation. If it is generally
 remembered that the I.Q. is merely a ratio between a mental age
@@ -81,26 +75,19 @@ and a chronological age, a useful symbol in various situations, the
 "dogma" may tend to disappear from the I.Q. The I.Q. may be
 regarded in its true light, not as a mystic label of a cryptic faculty
 called intelligence which because of its esoteric character defies
-definition, but which none the less may be irremediably and irre-
-vocably attached to an individual. If I.Q.s of concrete abilities
-are a commonplace as well as I.Q.s of verbal abilities, the use-
-fulness of the I.Q. may be restored and a more accurate and en-
-lightened interpretation of it may prevail.
+definition, but which none the less may be irremediably and irrevocably attached to an individual. If I.Q.s of concrete abilities
+are a commonplace as well as I.Q.s of verbal abilities, the usefulness of the I.Q. may be restored and a more accurate and enlightened interpretation of it may prevail.
 Results
 Table I shows the number of children from 9 to 14 years of
 age (omitting the few of 8 and 15 years), the median scores and
-the test norms, all at six month intervals, on the two Army Per-
-formance scales and the verbal test. There is a consistent superi-
-ority of these children on all three tests up to 13 years, 6 months
+the test norms, all at six month intervals, on the two Army Performance scales and the verbal test. There is a consistent superiority of these children on all three tests up to 13 years, 6 months
 and a general inferiority to the norms from then on. On the
 Individual Performance Test most of the 452 children exceeded
 the Army norms.
-At 12 years they were inferior merely by a fraction and con-
-tinued so to a varying degree at 13^2 and 14^/2 again negligibly
+At 12 years they were inferior merely by a fraction and continued so to a varying degree at 13^2 and 14^/2 again negligibly
 at 14. A few children fell below the army norms on the Beta at
 131/2 and 14i/o years. The children were ahead of the Otis norms at
-all ages up to 13^ where they dropped slightly behind and re-
-mained so.
+all ages up to 13^ where they dropped slightly behind and remained so.
 Table I also shows by interpolations from the tables of norms
 the number of months' difference per six month interval, the
 superiority of the New York boys and girls indicated by plus,
@@ -330,8 +317,7 @@ in all three cases and show a fairly normal distribution of I.Q.s.
 There is only a slight skewness for each test.
 The average I.Q.s are also given in Table III, about 103 for
 the Individual Performance Test, 109 for the Beta and 103 for the
-Otis. The middle fifty per cent on the Performance Test fall be-
-tween 92 and 113, on the Beta between 99 and 117 and on the Otis
+Otis. The middle fifty per cent on the Performance Test fall between 92 and 113, on the Beta between 99 and 117 and on the Otis
 between 90 and 115. Terman's 7 middle fifty per cent fell between
 93 and 108. The Performance Test spreads somewhat above this
 at the upper end and is negligibly different at the lower; on the
@@ -351,9 +337,7 @@ Army Individual Performance Test
 \
 \
 \
--X-
-65- 75- 85- 95- 105- 115- 125- 135-
-74 84 94 104 114 124 134 144
+-X65- 75- 85- 95- 105- 115- 125- 13574 84 94 104 114 124 134 144
 % 1.74 8.68 20.83 24.29 25.81 12.36 4.98 1.3
 (Terman) 2.3 8.6 20.1 33.9 23.1 9.0 2.3 .55
 Army Individual Performance Test
@@ -366,17 +350,13 @@ M
 u ?
 / *
 V
--t-
--V-
-"T"!
+-t-V"T"!
 \
 \
-65^. 75?- 85~ 95~ 105_ 115~ 125- 135- 145- iv-
-74 84 94 104 114 124 134 144 ir.4 1fU
+65^. 75?- 85~ 95~ 105_ 115~ 125- 135- 145- iv74 84 94 104 114 124 134 144 ir.4 1fU
 .23 3.67 12.84 20.87 33.03 16.74 11.01 1 37 01
 Otia Test
-55- 65- 75- 85- 95- 105- 115- 125- 135- 145- 155- 165-
-64 74 84 94 104 114 124 134 144 154 164 174
+55- 65- 75- 85- 95- 105- 115- 125- 135- 145- 155- 16564 74 84 94 104 114 124 134 144 154 164 174
 % .72 3.11 10.31 21.58 21.58 17.03 12.95 7.44 4.08 .72 .24 .24
 PERFORMANCE TEST NORMS FOR CHILDREN 45
 Table III
@@ -479,8 +459,7 @@ Terman's percentages of children per I.Q. interval are also
 given under the Individual Performance Test column diagram,
 though his step intervals are slightly different, 66-75 instead of
 65-74 as with the New York children. The Performance Test
-shows a fairly similar spread but at a slightly higher level through-
-out except that Terman's with 33.9 per cent are somewhat more
+shows a fairly similar spread but at a slightly higher level throughout except that Terman's with 33.9 per cent are somewhat more
 massed between 96-105; between 95-104 are 24.29 per cent of the
 New York group with the largest percentage 25.8 per cent at the
 105-114 interval in contrast with Terman's 23 per cent.
@@ -555,8 +534,7 @@ the fact that the children were unselected and not within two
 months of a birthday as with Terman's group which also was
 larger than the New York group. The spread on the Otis and
 marked variability may be attributable to the presence of children
-of foreign-born parents, and a possible language or verbal in-
-equality.
+of foreign-born parents, and a possible language or verbal inequality.
 Table V
 Correlations (Scores)
 (417 boys and girls)
@@ -596,12 +574,10 @@ recruits in the army the mode falls near the upper limits of the
 scale with no trailing off; that it does not differentiate well, is not
 satisfactory for the high grade and is distinctly easier than Alpha
 or Binet. This may be due to the excessive amount of time allowed
-for each item of the Beta. Children in the New York group fre-
-quently finished far ahead of the allotted time.
+for each item of the Beta. Children in the New York group frequently finished far ahead of the allotted time.
 Occupational level may be an important factor in the high
 I.Q.s in the New York Group where there were no children of
-unskilled laborers. It is generally conceded on the basis of con-
-siderable research that children in inferior occupational classes
+unskilled laborers. It is generally conceded on the basis of considerable research that children in inferior occupational classes
 have lower test scores than children in higher occupational classes.
 This is true of ability to react to objective as well as to verbal
 situations.10
@@ -609,8 +585,7 @@ Since the schools were all in better residential districts there
 were fewer children of foreign-parentage than are found in public
 sc ools in other localities. This is another factor leading to the
 ig ler I.Q. First generation American children have been found
-in erior on non-language as well as verbal tests by many investi-
-gators among others Young11 and Kirkpatrick.12
+in erior on non-language as well as verbal tests by many investigators among others Young11 and Kirkpatrick.12
 ^ie biological Significance of Intelligence Tests. J. Educ. Psychol.,
 1S30, 21, 422-450.
 Memoirs National Academy of Sciences, V. 15, 1921, p. 394.
@@ -623,19 +598,15 @@ Ore.PuU.,l922, V. 15, pp. 417_434.
 I, 1926, N.
 48 THE PSYCHOLOGICAL CLINIC
 Summary and Conclusions
-1. The Army Individual Performance Test, short scale, is some-
-what easy for New York public school children from 9 to 11 years
-who at 12 approach the norm but at 13 and 14 it becomes some-
-what difficult.
+1. The Army Individual Performance Test, short scale, is somewhat easy for New York public school children from 9 to 11 years
+who at 12 approach the norm but at 13 and 14 it becomes somewhat difficult.
 2. The Army Beta is far too easy save at 13 and 14 years.
-3. These two non-language tests discriminate well and consist-
-ently between age levels.
+3. These two non-language tests discriminate well and consistently between age levels.
 4. They follow a fairly normal frequency curve.
 5. The middle 50 per cent per age level on the non-language
 tests do not vary greatly as to range.
 6. The higher than average I.Q.s of the New York group may
-be attributed to some selection as to occupational level and na-
-tionality.
+be attributed to some selection as to occupational level and nationality.
 7. The two non-language tests are testing the same thing as
 the verbal test to a marked degree.
 8. The two non-language tests for the most part are testing

@@ -6,9 +6,7 @@ University of Pennsylvania.
 The slot maze designed by the author employs the fundamental
 principles of the pencil and stylus mazes in such a manner as to set
 an interesting practical problem by such mechanical construction of
-the test that only one solution is actually possible. This is accom-
-plished by cutting the pattern of the maze out of a panel and mount-
-ing it in such manner that the slot with all its blind alleys furnishes
+the test that only one solution is actually possible. This is accomplished by cutting the pattern of the maze out of a panel and mounting it in such manner that the slot with all its blind alleys furnishes
 a free passage-way for the movement of a slider so constructed that
 it cannot be removed from the board except at the ends of the course.
 This makes the test practically "fool proof" and eliminates all
@@ -61,8 +59,7 @@ of the five-minute time limit, he is urged to continue by repeating
 part or all, as the case may require, of the original instructions, as,
 "The boy wants his shoe. Take it to him." Only in rare instances
 is it necessary to give the additional urge, "Go on, put the shoe in
-the boy's hands." If the child says he cannot do it, he is encourag-
-ingly told, "Oh, yes you can. The other boys (or girls) did it and
+the boy's hands." If the child says he cannot do it, he is encouragingly told, "Oh, yes you can. The other boys (or girls) did it and
 you can too." No other instructions, verbal or otherwise, are ever
 given. Encouragement, but no assistance dare be given, because the
 purpose of the test is to learn whether the child with the objective
@@ -262,14 +259,12 @@ Broken Line Girls.
 the actual time for completing the test, if sufficient time had been
 allowed, would have been over three hundred seconds for those
 scored DNC. Because the direction of the time curves beyond
-three hundred seconds is not known they stop just over the 300-
-second line.
+three hundred seconds is not known they stop just over the 300second line.
 This figure shows more clearly than Table I how within each
 sex the different age groups maintain their identity, never crossing
 or even approximating one another except at the 100th percentile.
 This is a convenient chart for comparing the time record of an
-individual child. His percentile rating can be determined by locat-
-ing the level of his score on the left of the chart and following it in on
+individual child. His percentile rating can be determined by locating the level of his score on the left of the chart and following it in on
 a horizontal line to his sex and age group. This point of intersection
 can be read into a percentile by noting its position on one or
 relative position between two of the vertical ten percentile lines.
@@ -370,26 +365,22 @@ DNC
 Table II is constructed for the second trial in the same manner
 as Table I for the first trial, except that only the median and every
 twentieth instead of every tenth percentile are given. That there
-are fewer cases here is due to the fact that those who failed to com-
-plete the test on the first trial within the five-minute time limit did
+are fewer cases here is due to the fact that those who failed to complete the test on the first trial within the five-minute time limit did
 not get a second trial. For the boys there is a consistent decrease in
 time with increasing age, but for the girls this is not true. For the
 20th, 40th and 50th percentiles the time for eight-year-old girls is
 longer than for the seven-year-old girls. The eight-year-old boys
 constitute the only group where every child successfully completed
-the second trial within the five-minute time limit. Of the eight-
-year-old girls only one failed.
+the second trial within the five-minute time limit. Of the eightyear-old girls only one failed.
 SLOT MAZE 79
-Figure 2 gives the medians for both sexes on both trials. It-
-shows the rapid decrease in time which accompanies increasing
+Figure 2 gives the medians for both sexes on both trials. Itshows the rapid decrease in time which accompanies increasing
 age, especially on the first trial. The young children do the second
 trial so well that on it it would be impossible to have the same rate
 of improvement with increasing age.
 Table III is employed to show that on an average within certain
 limits there is a direct ratio between rate on first trial and rate on
 second trial. The boys and girls are treated separately. The first
-column shows first trial time intervals, the second column the num-
-ber of boys who completed their first trial within the time interval
+column shows first trial time intervals, the second column the number of boys who completed their first trial within the time interval
 of the first column, the third column gives the median time for these
 same boys on their second trial, and the fourth column gives the
 Figure 2. Medians op First and Second Trials. Full Line Boys.
@@ -514,16 +505,14 @@ P. E.
 84
 54
 48
-probable error of this median. The P. E. here is one-half the dif-
-ference between the upper and lower quartiles. Thus the figures
+probable error of this median. The P. E. here is one-half the difference between the upper and lower quartiles. Thus the figures
 in the first line of the table mean that eight boys finished their first
 trial somewhere in the time interval between ten and nineteen
 seconds, and that the median time for these same boys on their
 second trial was thirteen seconds with a probable error of 0.5 seconds.
 The last three columns of the table give the same information about
 the girls as columns 2, 3 and 4 do for the boys. The second trial
-probable errors are very much smaller for those children who com-
-pleted the first trial in less than one minute, than for those children
+probable errors are very much smaller for those children who completed the first trial in less than one minute, than for those children
 consuming more than a minute on their first trial. Second trial
 times vary directly with first trial times up to one minute, but beyond
 this the second trial medians are much longer and do not show any
@@ -589,5 +578,4 @@ time of the second trial over the first is not the result of increased
 efficiency in the physical manipulation of the test. It is the average
 time required by the children to learn how to solve the problem of
 delivering the shoe.
-* S. W. Fernberger, "Statistical vs. Non-Statistical Interpretation of Test Results," Psycho-
-logical Clinic, 1922, XIV, 68.
+* S. W. Fernberger, "Statistical vs. Non-Statistical Interpretation of Test Results," Psychological Clinic, 1922, XIV, 68.

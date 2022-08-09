@@ -9,13 +9,10 @@ formed by omitting two tests at each age, may be used.1
 How accurate is this abbreviated scale?
 One way of answering this question is to compare individuals'
 IQ's on the complete scale with their IQ's derived by considering
-only the starred tests. This procedure involves, of course, the as-
-sumption that an individual taking the complete scale would have
+only the starred tests. This procedure involves, of course, the assumption that an individual taking the complete scale would have
 the same "passes" and "failures" on the starred tests as he would
 have had, if he had been given only the starred tests. We do not
-know how much error is involved in this assumption, but we are in-
-clined to believe that it is not significant. We doubt if any appreci-
-able suggestion or incentive comes from the unstarred tests which
+know how much error is involved in this assumption, but we are inclined to believe that it is not significant. We doubt if any appreciable suggestion or incentive comes from the unstarred tests which
 would enable the '' examinee " to do better on the starred ones. Any
 difference in accuracy of the long form over the abbreviated form
 is probably due to the relative general difficulty of the starred and
@@ -67,8 +64,7 @@ Table II
 THE RANGE, THE FIRST, SECOND, AND THIRD QUARTILIES, AND
 THE Q OF THE DIFFERENCES BETWEEN IQ'S ON THE STANFORD
 BINET AND ABBREVIATED STANFORD BINET SCALES
-Differences between Stanford-Binet IQ'S and IQ'S on Abbreviated Stanford-
-Binet Scale
+Differences between Stanford-Binet IQ'S and IQ'S on Abbreviated StanfordBinet Scale
 Age N Range Qx Qa Q Median
 6 13 ?21 to 31 ?1.75 .50 2.63 ?2.50
 7 50 ?16 to 10 ?3.79 .80 2.30 ?2.25
@@ -128,8 +124,7 @@ ABBREVIATED STANFORD BINET SCALES
 15 33 .966
 16 45 .946
 20 THE PSYCHOLOGICAL CLINIC
-Is the magnitude of the differences in IQ on the two scales re-
-lated to the degree of intelligence? Are the IQ's of the brighter,
+Is the magnitude of the differences in IQ on the two scales related to the degree of intelligence? Are the IQ's of the brighter,
 average, or duller individuals affected most by the omission of two
 tests at each age? The correlations (Table V) give some evidence
 that the omitted tests have greater effect upon the IQ's of the
@@ -151,8 +146,7 @@ Age N Pearson r
 15 33 .601
 16 45 .453
 Mean .347
-Conclusions. Our data on 575 individuals indicate the fol-
-lowing :
+Conclusions. Our data on 575 individuals indicate the following :
 1. The abbreviated Stanford-Binet scale gives IQ's from 2 to
 4 points less accurate than those from the complete scale.
 2. Abbreviated IQ's average somewhat less than those from
@@ -165,5 +159,4 @@ less accurate with the brighter individuals, the average correlations
 of IQ with differences between "long?" and "short-form" IQ's
 being .35.
 5. Accordingly the abbreviated scale is almost as accurate
-as the complete scale, whether it be used to determine an indivi-
-dual's IQ or the relative mental standings of a group.
+as the complete scale, whether it be used to determine an individual's IQ or the relative mental standings of a group.

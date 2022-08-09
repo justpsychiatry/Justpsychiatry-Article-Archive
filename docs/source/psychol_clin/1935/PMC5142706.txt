@@ -76,8 +76,7 @@ The Department of Child Study, New England Home for Little Wanderers.
 Cambridge:
 Psycho-Educational Clinic, Palfrey House, Harvard University.
 Watertown:
-Department of Personnel and Research, Perkins Institute and Massa-
-chusetts State School for the Blind.
+Department of Personnel and Research, Perkins Institute and Massachusetts State School for the Blind.
 Michigan (No License)
 Battle CreeTc:
 Mental Hygiene and Health Education Clinic.
@@ -201,10 +200,8 @@ A 8 The Clinic for Mental and Nervous Diseases, Providence Hospital,
 2nd and D Streets, South East, Washington, D. C.
 A 9 University of Georgia Clinic, Department of Psychology, University
 of Georgia, Athens, Georgia.
-A 10 Psychological and Psychopathic Clinic, University of Hawaii, Hono-
-lulu, Hawaii.
-A 11 Psycho-educational Clinic, Northwestern University, School of Edu-
-cation, Evanston, Illinois.
+A 10 Psychological and Psychopathic Clinic, University of Hawaii, Honolulu, Hawaii.
+A 11 Psycho-educational Clinic, Northwestern University, School of Education, Evanston, Illinois.
 A 12 Indiana University Psychological Clinic, Bloomington, Indiana.
 A 13 Indiana University Psychological Clinic, Indiana University Medical
 Center, Indianapolis, Indiana.
@@ -213,8 +210,7 @@ A 15 University of Kansas Educational Clinic, Lawrence, Kansas.
 A 16 Wichita Child Research Laboratory, Friends University, Wichita,
 Kansas.
 A 17 Psychological Clinic, University of Kentucky, Lexington, Kentucky.
-A 18 Clinic of the Psychological Department of Louisiana State Univer-
-sity, Baton Rouge, Louisiana.
+A 18 Clinic of the Psychological Department of Louisiana State University, Baton Rouge, Louisiana.
 A 19 Psycho-Educational Clinic, Palfrey House, Rear 50 Oxford Street,
 Cambridge, Massachusetts.
 A 20 University of Minnesota Speech Clinic, Minneapolis, Minnesota.
@@ -226,8 +222,7 @@ A 23 Mental Hygiene Institute, State Teachers College, Upper Montclair,
 New Jersey.
 A 24 Guidance Laboratory, Teachers College, Columbia University, New
 York City.
-A 25 Psycho-Educational Clinic, School of Education, New York Univer-
-sity, New York City.
+A 25 Psycho-Educational Clinic, School of Education, New York University, New York City.
 A 26 Educational Clinic, College of the City of New York, Department of
 Education, New York City.
 REPORT OF COMMITTEE OF CLINICAL SECTION 135
@@ -237,26 +232,21 @@ A 29 The Psychological Clinic, University of Pennsylvania, Philadelphia,
 Pennsylvania.
 A 30 Temple University Psychological Clinic, Temple University, Broad
 and Montgomery Avenue, Philadelphia, Pennsylvania.
-A 31 Psychological Clinic, University of Pittsburgh, Department of Psy-
-chology, Pittsburgh, Pennsylvania.
-A 32 Psycho-Educational Clinic, Penn State College, State College, Penn-
-sylvania.
-A 33 Psychological Clinic, Child Welfare Department, University of Wash-
-ington, Seattle, Washington.
+A 31 Psychological Clinic, University of Pittsburgh, Department of Psychology, Pittsburgh, Pennsylvania.
+A 32 Psycho-Educational Clinic, Penn State College, State College, Pennsylvania.
+A 33 Psychological Clinic, Child Welfare Department, University of Washington, Seattle, Washington.
 A 34 Psychological Clinic, Marshall College, Huntington, West Virginia.
 B. Clinics Supported by Public and Private Schools
 B 1 Bureau of Child Study and Guidance, Board of Education, 228 North
 LaSalle Street, Chicago, Illinois.
-B 2 Department of Educational Council, Winnetka Public Schools, Win-
-netka, Illinois.
+B 2 Department of Educational Council, Winnetka Public Schools, Winnetka, Illinois.
 B 3 Psychological Laboratory, Bureau of Besearch, Louisville Public
 Schools, Louisville, Kentucky.
 B 4 Detroit Psychological Clinic, Board of Education, 453 Stimson Avenue,
 Detroit, Michigan.
 B 5 Merrill-Palmer School Advisory Service for College Women, 71 Ferry
 Avenue, East Detroit, Michigan.
-B 6 Merrill-Palmer Special Behavior Clinic of Children's Hospital, Chil-
-dren's Hospital of Michigan, Detroit, Michigan.
+B 6 Merrill-Palmer Special Behavior Clinic of Children's Hospital, Children's Hospital of Michigan, Detroit, Michigan.
 B 7 Psychological Clinic, Lincoln Public Schools, 15th M Street, Lincoln,
 Nebraska.
 B 8 Psycho-Educational Clinic, Board of Education, 224 East 28th Street,
@@ -265,15 +255,13 @@ B 9 Clinic Division, Bureau of Child Guidance, Board of Education of the
 City of New York, 228 East 57th Street, New York City.
 B 10 Psychological Clinic, Child Study Department, Board of Education,
 13 South Fitzhugh Street, Rochester, New York.
-B 11 Psychological Clinic of School Medical Department, Board of Educa-
-tion, 13 Elizabeth Street, Utica, New York.
+B 11 Psychological Clinic of School Medical Department, Board of Education, 13 Elizabeth Street, Utica, New York.
 B 12 The Psychological Laboratory of the Vocational Bureau, Cincinnati
 Public Schools, 216 East Ninth Street, Cincinnati, Ohio.
 B 13 The Bureau of Psychology, Psychiatry and Visiting Teacher Service,
 Boom 203, Board of Education Building, Cleveland, Ohio.
 B 14 Child Study Department, Erie School District, Erie, Pennsylvania.
-B 15 Philadelphia Public School Clinic, Parkway at 21st Street, Philadel-
-phia, Pennsylvania.
+B 15 Philadelphia Public School Clinic, Parkway at 21st Street, Philadelphia, Pennsylvania.
 B 16 Providence Public School Clinic, 9 Exchange Terrace, Providence,
 Rhode Island.
 B 17 Child Study Department, Seattle Public Schools, 7th and Madison
@@ -288,8 +276,7 @@ Des Moines, Iowa.
 C 4 Child Guidance Clinie, Children's Aid Society, Baltimore County,
 Towson, Maryland.
 C 5 The Department of Child Study, New England Home for Little
-Wanderers, 161 South Huntington Avenue, Boston, Massachu-
-setts.
+Wanderers, 161 South Huntington Avenue, Boston, Massachusetts.
 C 6 Psychological Clinic, Children's Aid Society, 70 Chippewa Street,
 Buffalo, New York.
 C 7 Vocational Adjustment Bureau for Girls, 421 East 88th Street, New
@@ -305,20 +292,17 @@ Street, Philadelphia, Pennsylvania.
 C 12 Juvenile Court Clinic, Child Guidance Clinic, Rhode Island Society
 for Mental Hygiene, Pawtucket, Rhode Island.
 D. Clinics Supported by State Departments
-D 1 Traveling Child Guidance Clinic, California Bureau of Juvenile Re-
-search, Claremont, California.
+D 1 Traveling Child Guidance Clinic, California Bureau of Juvenile Research, Claremont, California.
 D 2 Division of Research, State Department of Public Institutions, State
 Capitol, St. Paul, Minnesota.
 D 3 Bureau of Mental Health and Hygiene, Stat? Board of Charities and
 Public Welfare, Box 632, Chapel Hill, North Carolina.
-D 4 Bureau of Examination and Classification of Prisoners, Ohio Peni-
-tentiary, Columbus, Ohio.
+D 4 Bureau of Examination and Classification of Prisoners, Ohio Penitentiary, Columbus, Ohio.
 D 5 Bureau of Juvenile Research, 2280 West Broad Street, Columbus,
 Ohio.
 D 6 Department of Public Instruction, Harrisburg, Pennsylvania.
 E. Clinics Supported by County Departments
-E 1 Wayne County Clinic for Child Study, 1025 East Forest Avenue, De-
-troit, Michigan.
+E 1 Wayne County Clinic for Child Study, 1025 East Forest Avenue, Detroit, Michigan.
 E 2 Clinie of Children's Court, County of Westchester, County Office
 Building, White Plains, New York.
 F. Clinics Supported by City Departments
@@ -339,13 +323,11 @@ Providence, Rhode Island.
 I. Clinics Supported by Institutions
 I 1 The Mooseheart Laboratory for Child Research, Mooseheart, Illinois.
 I 2 Department of Personnel and Research, Perkins Institution and
-Massachusetts State School for the Blind, Watertown, Massa-
-chusetts.
+Massachusetts State School for the Blind, Watertown, Massachusetts.
 I 3 The Yineland Laboratory, The Training School, Vineland, New Jersey.
 I 4 Mental Hygiene Clinic, Brooklyn Hebrew Orphan Asylum, 373 Ralph
 Avenue, Brooklyn, New York.
-I 5 Department of Child Guidance, Hebrew Orphan Asylum, 1560 Amster-
-dam Avenue, New York City.
+I 5 Department of Child Guidance, Hebrew Orphan Asylum, 1560 Amsterdam Avenue, New York City.
 I 6 Psychological Laboratory, Children's Hospital, Randall's Island, New
 York City.
 I 7 House of Refuge, Psychological Clinic, Randall's Island, New York

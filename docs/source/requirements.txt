@@ -8,3 +8,4 @@ myst_parser
 sphinxcontrib.apa
 sphinx_opensearch
 sphinx_design
+sphinx-sitemap

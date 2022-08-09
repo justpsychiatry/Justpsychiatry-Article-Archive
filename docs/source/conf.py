@@ -25,6 +25,7 @@ version = '0.3.0'
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
+    'sphinx_sitemap'
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
@@ -54,6 +55,7 @@ exclude_patterns = []
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_title = "Justpsychiatry Article Archive"
+html_baseurl ='https://justpsychiatry.co.uk/en/latest/'
 
 bibtex_bibfiles = ['refs.bib']
 bibtex_reference_style = 'author_year'

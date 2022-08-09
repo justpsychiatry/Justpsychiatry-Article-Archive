@@ -1,7 +1,7 @@
 Group Sentiment and Delinquency
 ==================================
 
-:Author: HOWARD JONES, B.Sc.(Econ.), D.P.A. ' j
+:Author: HOWARD JONES, B.Sc.(Econ.), DPA
 Psychiatric Social Worker, Monyhull Residential Special School, Birmingham
 Principles
 
@@ -15,7 +15,7 @@ decide what is meant by the term crime.
 
 I, for example, have been, am
 still a criminal. But there is a sense in
-which I have been an almost abjectly lawabiding person. From my very first years
+which I have been an almost abjectly law-abiding person. From my very first years
 I adapted myself wholeheartedly to the
 community I lived in, accepting its values,
 obeying its imperatives, observing its
@@ -25,12 +25,13 @@ according to the dictates of the community
 you were born into, there never was a more
 law-abiding person than myself.
 
-" But, unfortunately or otherwise, the
-community I was born into was a small one
-at variance with the larger community
-containing it. In obeying the laws of the
-criminal quarter, I incurred the disapproval
-of the law courts. "(1)
+    " But, unfortunately or otherwise, the
+    community I was born into was a small one
+    at variance with the larger community
+    containing it. In obeying the laws of the
+    criminal quarter, I incurred the disapproval
+    of the law courts. "(1)
+
 This neglected sociological factor is obviously
 of the greatest importance for any proper
 understanding of delinquency.
@@ -48,7 +49,7 @@ Rather is there a general laxity of morals,
 issuing in greater tolerance of crime and
 criminality, and in a tendency, for example,
 to scorn as a " mug " the man who, being
-given change for ?1 instead of 10s. at the
+given change for ?1 instead of 10 s. at the
 " local decides that he ought to return the
 excess.
 
@@ -74,12 +75,13 @@ local community.
 
 There is another type of group sentiment to
 be considered also: that of the local juvenile
-community?the gang. In one pre-war investigation(3) it was discovered that 71-6 per cent,
+community?the gang. In one prewar investigation(3) it was discovered that 71-6%,
 of all crimes by boys in the London area were
-gang offences, and 74 per cent, in six typical
-provincial towns. The writers conclude: " It
-is obvious that the majority of offences are
-committed when boys are in company."
+gang offences, and 74%, in six typical
+provincial towns. The writers conclude: 
+   
+    " It is obvious that the majority of offences are committed when boys are in company".
+
 Some doubt has been cast upon this conclusion by one of the contributors to the book,
 in a more recent but much more restricted
 study, (4) but even if the proportion is a little
@@ -109,12 +111,14 @@ limits, and that the pressure of group opinion
 has been the decisive factor. This view receives.
 powerful support from a careful clinical investigation of 803 delinquent boys and girls,
 conducted by the School Medical Officer of
-the L.C.C. in 1930. His report(5) points out:
-" In less than 2 per cent, of these cases did
+the LCC in 1930. His report(5) points out:
+" In less than 2%, of these cases did
 there appear to be a deeper psychological
-reaction calling for investigation." Nor does
-the classical work of Healy and Bronner (6)
-controvert this, for they studied only " potentially serious offenders who might be expected
+reaction calling for investigation.
+
+    "Nor does the classical work of Healy and Bronner (6) controvert this, for they studied only " 
+
+potentially serious offenders who might be expected
 to be more seriously disturbed than the general
 run of disorderly scamps.
 
@@ -144,7 +148,7 @@ Therapy
 Most of the proposals put forward for dealing
 with the gang come to much the same thing,
 and might be quite well expressed in the words
-of Professor Cyril Burt: '' banish the ring-leader
+of Professor Cyril Burt: "banish the ring-leader
 and break up the group ".(8) The gang is not
 recognized for what it really is, a wholesome,
 and, to some extent, inevitable manifestation
@@ -155,12 +159,12 @@ of well-meaning probation officers and social
 workers are dissipated upon the hopeless task
 of trying to prevent young people from associating.
 Why have gangs, which are essentially social
-phenomena, become such anti-social forces?
+phenomena, become such antisocial forces?
 What is this process which now has to be
 reversed? One must, of course, bear in mind
 the well-known fact that membership of a
 group tends to weaken the higher faculties of
-judgment and reason, and makes possible outbursts of uninhibited emotion. This is the
+judgement and reason, and makes possible outbursts of uninhibited emotion. This is the
 explanation of outbreaks of mob hysteria and
 violence. Nevertheless, very few even of those
 offences actually committed by delinquents,
@@ -178,12 +182,12 @@ he should receive. And his removal from the
 gang seems to be a precondition for successful
 therapeutic work with the group itself.
 Part of the solution is probably to be found
-in the fact that most gang-members are in the
+in the fact that most gang members are in the
 pre-adolescent age-group. In his study of
-delinquency in Liverpool, J. H. Bagot(9) found
-that 63 per cent, of the offences committed
+delinquency in Liverpool, JH Bagot(9) found
+that 63%, of the offences committed
 by boys aged 8-13 were gang offences, and only
-40 per cent, of those committed by boys aged
+40%, of those committed by boys aged
 14-16. It is unfortunately true that modern
 urban life does not provide nearly enough scope
 for the spirit of adventure and the, abounding
@@ -266,8 +270,7 @@ unnecks
 This undoubtedly accounts for the failure of youth clubs to appeal to the rougher and the delinquent elements in
 juvenile population, and enable the less discerning of our youth workers to stigmatize these young people falselyas
 "-clubable * A new youth club opened during the war in a slum district of Birmingham enrolled many young rougn.^ks " during its early pioneering months, but as the members became orderly and law-abiding, and the? club> sett ea
-down into routine and respectability, the flow of new members ceased. (See Youth in a City , oar j
-Pamphlet No. 117, 1943.)
+down into routine and respectability, the flow of new members ceased. (See Youth in a City , oar j Pamphlet No. 117, 1943.)
 44 MENTAL HEALTH
 friendships women who wait in the same
 fish queue, clients of the local pub.?may be
@@ -276,20 +279,18 @@ these units will soon lead to integration between
 them, and the development of a real and
 informed local opinion on things that matter.
 
-REFERENCES
+REFERENCES 
+---------- 
+
 (1) Benney, Mark. Low Company, p. 1. 1936.
-(2) Bagot, J. H. "Juvenile Delinquency: a comparative study of the position in Liverpool and in
-England and Wales." 1941.
-(3) Carr Saunders, Mannheim and Rhodes.
-" Young Offenders." 1942.
-(4) Mannheim, H. "Juvenile Delinquency in an
-English Middletown." 1948.
+(2) Bagot, J. H. "Juvenile Delinquency: a comparative study of the position in Liverpool and in England and Wales." 1941.
+(3) Carr Saunders, Mannheim and Rhodes. " Young Offenders." 1942.
+(4) Mannheim, H. "Juvenile Delinquency in an English Middletown." 1948.
 (5) L.C.C. Publications, Vol. Ill (Part II). 1930.
 (6) Healy and Bronner. " New Light on Delinquency." 1936.
 (7) Bowlby, J. " Forty-four Juvenile Thieves." 1946.
 (8) Burt, Cyril. " The Young Delinquent." 1925.
 (9) Ibid., p. 59.
-(10) George, W. R., and Stowe, L. B. " Citizens
-Made and Remade." 1913.
-(11) National Under-Fourteens Association, Mary Ward
-Settlement, W.C.I.
+(10) George, W. R., and Stowe, L. B. " Citizens Made and Remade". 1913.
+(11) National Under-Fourteens Association, Mary Ward Settlement, W.C.I.
+...

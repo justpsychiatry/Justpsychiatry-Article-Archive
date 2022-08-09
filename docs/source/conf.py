@@ -25,7 +25,7 @@ version = '0.3.0'
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
-    'sphinx_sitemap'
+    'sphinx_sitemap',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',

@@ -9,20 +9,17 @@ Physician to the Burd Orphan Asylum and to the Albion Society.*
 Statistics of physical or mental infirmities interest the curious inquirer
 more often than they reward the zeal of the compiler. The reason is
 obvious; a few new facts of little consequence, or a few old ones with
-which he has been unfamiliar, become magnified as objects of impor-
-tance in the eyes of the one, while the patience of the other receives
+which he has been unfamiliar, become magnified as objects of importance in the eyes of the one, while the patience of the other receives
 but slight satisfaction in the paucity of useful materials separated from
 the confused mass of details. Matters of slight moment are dwelt upon,
 considered and reconsidered, while what is truly important is thrown
 aside, rejected as worthless, or left to the exploration of more careful
 observers. The latter must always, of course, in numerical strength,
-be the fewer, but the grand results so often obtained by patient inves-
-tigation preserve the memories of their authors, when those who have
+be the fewer, but the grand results so often obtained by patient investigation preserve the memories of their authors, when those who have
 devoted themselves to unimportant abstractions have been forgotten,
 and their results have passed away with them.
 Perhaps statistics of infirmities of the organs of the senses furnish
-as striking an exemplification of this fact as any other sources of statis-
-tical information. The institutions devoted to the care and comfort
+as striking an exemplification of this fact as any other sources of statistical information. The institutions devoted to the care and comfort
 of the blind, deaf-mute, and insane portions of the population, do not
 appear equally to appreciate the value of general information upon
 points on which professional and unprofessional are eager to acquire
@@ -43,9 +40,7 @@ us in relieving the infirmities to which we are subject.
 If we could only bring home to our minds the consciousness of the
 fact that we are all exposed to most of the causes, of one kind or another,
 which predispose or excite to blindness, deaf-dumbness, or insanity, the
-world at large would be much less indifferent than it now is to con-
-siderations which seem at present to possess direct interest to compara-
-* From the North American Medico-Cliirurgical Review. July, 1860.
+world at large would be much less indifferent than it now is to considerations which seem at present to possess direct interest to compara* From the North American Medico-Cliirurgical Review. July, 1860.
 STATISTICS OF INSANITY IN THE UNITED STATES. 555
 tivelj a small proportion. It is not easy to impress this conviction
 upon the mind, and perhaps it may be as well that people generally
@@ -66,31 +61,21 @@ a grateful task, while aiming at unexceptionable accuracy, to discover
 how much disorder has been thrown into statistical records by the
 total carelessness, or only near approximation to accuracy, of those who
 should be the most worthy sources of information. If some system of
-classification were adopted which would furnish facilities for the collec-
-tion of facts, and be uniformly applicable to every institution in which
-the blind, or the deaf-mute, or the insane are cared for, the slight addi-
-tional trouble of registration would be amply compensated for by the
+classification were adopted which would furnish facilities for the collection of facts, and be uniformly applicable to every institution in which
+the blind, or the deaf-mute, or the insane are cared for, the slight additional trouble of registration would be amply compensated for by the
 grateful appreciation of those interested in human infirmities.
 Insanity, in all its phases of mental and moral perversion, is fully
-described in works devoted to special and general pathology. The pur-
-pose of this article is to avoid all such points as refer to symptomato-
-logy, diagnosis, or treatment, and to adhere, as far as practicable, to
+described in works devoted to special and general pathology. The purpose of this article is to avoid all such points as refer to symptomatology, diagnosis, or treatment, and to adhere, as far as practicable, to
 facts which may be confirmed or established by the numerical records
 and the enlarged experience of those who have devoted special attention
-to the subject. A complete statistical history of insanity from Euro-
-pean and American sources is almost impracticable. Continental autho-
-rities are often inaccessible, and from a few scattering details in countries
+to the subject. A complete statistical history of insanity from European and American sources is almost impracticable. Continental authorities are often inaccessible, and from a few scattering details in countries
 whose language is unintelligible to the rest, we can make no inferences
 which are worth recording. Our own country is rich in the registered
 history of mental ailments, and from these channels it is proposed to
-make such deductions and collect such materials as may furnish a con-
-densed history of insanity in the United States. As the reports of in-
-stitutions for the insane are the most prolific records it is in our power
-to consult, we shall collect from them statistical information upon pro-
-minent points of interest connected with the insane, having previously
+make such deductions and collect such materials as may furnish a condensed history of insanity in the United States. As the reports of institutions for the insane are the most prolific records it is in our power
+to consult, we shall collect from them statistical information upon prominent points of interest connected with the insane, having previously
 considered such facts, meagre as they are, as have been furnished in the
-details of the United States Census of 1850. We may therefore appro-
-priately touch first upon the statistics of the insane among the general
+details of the United States Census of 1850. We may therefore appropriately touch first upon the statistics of the insane among the general
 population, and afterwards upon institutions devoted to their care. We
 shall refer merely to those cases of mental alienation which occur from
 perversion of intellectual and moral qualities, and exclude entirely all
@@ -105,15 +90,12 @@ or how much reliance can be placed upon it, we cannot now argue ; but
 adopting as our standard the results which it has furnished, we are able
 to make certain estimates of the influence of race, of the proportionate
 numbers of this class of unfortunates in different states, and other points
-of interest which may have some value to statisticians, however accu-
-rate or inaccurate the figures may be. In referring to census details
-we become involuntarily disbelievers in the idea that figures are in-
-fallible, and we condemn the laxity with which facts are collected,
+of interest which may have some value to statisticians, however accurate or inaccurate the figures may be. In referring to census details
+we become involuntarily disbelievers in the idea that figures are infallible, and we condemn the laxity with which facts are collected,
 although we employ them almost as freely as if they were the most
 accurate results that census-takers could accomplish. The few facts
 obtained from the census of 1850 are embraced in the following tables.
-1. Comparison of the Insane, Blind, Deaf, and Dumb, Sfc.?The fol-
-lowing table, in an aggregate of 50,994 cases of infirmities of sense or
+1. Comparison of the Insane, Blind, Deaf, and Dumb, Sfc.?The following table, in an aggregate of 50,994 cases of infirmities of sense or
 the senses, exhibits the proportion of insane to the other classes in the
 general population:?
 Insane . . . 15,610, or 1 to 1485 of general population.
@@ -131,8 +113,7 @@ Idiots . . . .68
 Deaf-mutes . . .42
 2. In a previous article upon deaf-muteism,# we referred to the greater
 prevalence of that infirmity among the native than among the foreign
-population. If we adopt a similar mode of classification with the in-
-sane, excluding slaves only, we shall find insanity far more prevalent
+population. If we adopt a similar mode of classification with the insane, excluding slaves only, we shall find insanity far more prevalent
 among the foreign-born than among the native population.
 Proportion op Insane in the Native and Foreign Population.
 States.
@@ -150,8 +131,7 @@ Insane.
 1,963
 3,860
 12,865
-Native Popu-
-lation.
+Native Population.
 2,423,223
 4,884,356
 4,656,158
@@ -171,8 +151,7 @@ Insane.
 340
 268
 2,049
-Foreign Po-
-pulation.
+Foreign Population.
 299,340
 1,005,036
 638,784
@@ -188,15 +167,12 @@ to Pop.
 * Observations on the Deaf and Dumb, reprinted from the North American
 Medico-Chirurgical Review. Philadelphia, 1858.
 STATISTICS OF INSANITY IN THE UNITED STATES. 557
-Change of mode of living, intemperance and dissipation, the frustra-
-tion of fondly-indulged hopes of success, reverses of fortune, &c., are
-very often followed by insanity, and these, we imagine, operate power-
-fully among the foreign-born population. In the words of one of the
+Change of mode of living, intemperance and dissipation, the frustration of fondly-indulged hopes of success, reverses of fortune, &c., are
+very often followed by insanity, and these, we imagine, operate powerfully among the foreign-born population. In the words of one of the
 New England Institutions : "Driven from their early homes by poverty,
 ignorance, and delusive hopes, they are thrown on our shores, and left
 to contend as they may with the new circumstances around them, until
-disappointment or sickness, or intemperance, or other form of vice, ex-
-tinguishes the feeble light of reason, and consigns them to a lunatic
+disappointment or sickness, or intemperance, or other form of vice, extinguishes the feeble light of reason, and consigns them to a lunatic
 hospital. They are unpromising patients. They do not recover in
 so large a proportion as others, and consequently contribute largely
 to swell the number of incurable cases which crowd the wards of our
@@ -208,8 +184,7 @@ greater than exists among the native born. Reasons doubtless exist,
 which must be apparent to those familiar with the intimate domestic
 arrangements, habits, and feelings of each class.
 3. Influence of Mace.?It will be seen, by the following table, that
-insanity is far more prevalent among the white and free coloured popu-
-lation of the United States than among the slaves. It would be natural
+insanity is far more prevalent among the white and free coloured population of the United States than among the slaves. It would be natural
 to suppose that absence of care and freedom from anxiety as to the
 future would tranquillize the mind, and ward off disturbing elements.
 The condition of a happy slave, thinking only of the present, and not
@@ -217,8 +192,7 @@ dreaming of want in the future, would appear to be that which should
 give rise very unfrequently to causes of insanity. Intemperance, so
 fruitful a source of misery and unhappiness to the white and free
 coloured, is comparatively unknown among the slave population, every
-slaveholder striving to prohibit the use of alcoholic liquors, and dread-
-ing the proximity of taverns or drinking-places, which can supply
+slaveholder striving to prohibit the use of alcoholic liquors, and dreading the proximity of taverns or drinking-places, which can supply
 unlimited indulgence to his slave. Hence, intemperance itself does not
 exist as a cause of mental alienation, nor can the thousand evils it
 always brings in its train?disease, exposure, excesses, &c.?be worthy
@@ -229,19 +203,16 @@ whites in many of their occupations and modes of earning a livelihood.
 It would be interesting to pursue these inquiries further than they
 have already been carried, to determine what causes are mainly at work
 to produce insanity among the coloured race, and why in some portions
-of the country?New England and Delaware, for example?the propor-
-tion should be so large. It may be remarked, however, that in a small
+of the country?New England and Delaware, for example?the proportion should be so large. It may be remarked, however, that in a small
 population?in Maine, for instance?the number of insane must be so
 small that no very reliable deductions can be founded upon such meagre
 statistics. Yet New England, which contains but about one-thirtieth
 of the free coloured population of the Union, had within her limits
-* Third Annual Report of the State Lunatic Hospital at Northampton. Massa-
-chusetts, 1858, p, 31.
+* Third Annual Report of the State Lunatic Hospital at Northampton. Massachusetts, 1858, p, 31.
 558 STATISTICS OF INSANITY IN THE UNITED STATES.
 nearly an eighth of the free coloured insane. Ohio, with a larger free
 coloured population than that of all the New England States, had,
-in 1850, but one-third as many insane; while Maryland and Vir-
-ginia had but two and a-half times as large an insane free coloured
+in 1850, but one-third as many insane; while Maryland and Virginia had but two and a-half times as large an insane free coloured
 population as New England, although having more than five times the
 number of free coloured in the general population.
 Influence of Race in the production of Insanity.
@@ -259,8 +230,7 @@ Columb.
 17 West'n
 States.
 and
-4 Terri-
-tories.
+4 Territories.
 States.
 Maine . . .
 New Hampshire
@@ -429,13 +399,9 @@ tbat the farther removed the negro may be from the tropics, the more
 liable will he become to mental alienation.* M. Boudin asks : " Of
 what consequence is it, if the negro is able to succeed in living and even
 of perpetuating his race in a temperate zone, if it should be shown, as
-has been attempted, that he becomes insane there in an enormous pro-
-portion ?" A reference to the table disproves this assertion, and an-
-swers M. Boudin's questions satisfactorily. The farther north we go,
+has been attempted, that he becomes insane there in an enormous proportion ?" A reference to the table disproves this assertion, and answers M. Boudin's questions satisfactorily. The farther north we go,
 the less numerous do the slaves become, until at last we find all the
-coloured race free. It is then that causes of insanity become multi-
-plied to them, while climate, which is not a powerful cause of perver-
-sion of the mental and moral faculties, would operate more actively as
+coloured race free. It is then that causes of insanity become multiplied to them, while climate, which is not a powerful cause of perversion of the mental and moral faculties, would operate more actively as
 a predisposing cause of idiocy.
 4. The question may arise, Has insanity increased in the United
 States in a greater ratio than the population? Discrepancies certainly
@@ -473,40 +439,31 @@ probabilities, we were compelled to admit that there was some solid
 foundation for the difference exhibited, though it might be greatly
 * J. Nott, M.D. : Two Lectures on the Natural History of the Caucasian and
 Negro Races. Mobile, 1844.
-f Progress of the United States in Population and Wealth in Fifty Years. Ap-
-pendix, p. 24. 1856.
+f Progress of the United States in Population and Wealth in Fifty Years. Appendix, p. 24. 1856.
 560 STATISTICS OF INSANITY IN THE UNITED STATES.
 exaggerated. "VVe may add, that there is intrinsic evidence in favour
-of the census of 1840 on this point, which that of 1850 does not pos-
-sess. Nor is this all. That census itself affords grounds for question-
-ing its accuracy. It shows that while in the white population the
+of the census of 1840 on this point, which that of 1850 does not possess. Nor is this all. That census itself affords grounds for questioning its accuracy. It shows that while in the white population the
 proportion of the insane and idiotic is as much as 1 in GG8, in the
 coloured population it is only 1 in 1929; and though we cannot admit
 that, in New England, where the coloured population shows a small
 increase, the number of insane and idiotic has fallen from 383 to 45
-[55 ?], as the census shows; neither can we readily believe that, con-
-trary to all previous enumerations, the proportion of the white race
+[55 ?], as the census shows; neither can we readily believe that, contrary to all previous enumerations, the proportion of the white race
 thus afflicted is three times as great as that of the coloured. We must,
 then, look to future enumerations to decide whether the liability of
 the last-mentioned race to these mental maladies, which the census of
-1840 has confessedly exaggerated in some States, has not been gene-
-rally underrated by the census of 1850, and whether truth does not
+1840 has confessedly exaggerated in some States, has not been generally underrated by the census of 1850, and whether truth does not
 occupy a middle point between them." We cannot, therefore, decide
 whether insanity has increased generally, or whether the influence of
-race has been exhibited in either an increase or diminution of the ten-
-dency to mental alienation in the white or the coloured portions of our
+race has been exhibited in either an increase or diminution of the tendency to mental alienation in the white or the coloured portions of our
 population.
-II.?STATISTICS OF THE IN SAKE, DEBITED FKOM INSANE INSTI-
-TUTIONS.
+II.?STATISTICS OF THE IN SAKE, DEBITED FKOM INSANE INSTITUTIONS.
 The annals of the rise and progress of United States Institutions
 for the Insane may be briefly told. It is the history of philanthropic
 efforts to protect and relieve a numerous class of unfortunates, to
 shelter them from injurious influences, and to afford them a home,
 where, under the attentive care of those who would take an active
-interest in them, they might be placed under the best possible condi-
-tions for improvement or recovery. We cannot furnish a condensed
-historical account more appropriately than by adopting the brief state-
-ment which has already been published by one who has himself had
+interest in them, they might be placed under the best possible conditions for improvement or recovery. We cannot furnish a condensed
+historical account more appropriately than by adopting the brief statement which has already been published by one who has himself had
 such abundant opportunities of seeing
 " That noble and most sovereign reason,
 Like sweet bells jangled, out of tune and harsh."
@@ -515,10 +472,8 @@ United States.*
 " If we take a retrospective glance over a period of less than half a century,
 we find that, in 1815, throughout the whole domain of the United States, the
 only separate independent public institution for the insane, was that at
-W illiamsburg, Yirginia. That establishment had undergone serious vicissi-
-tudes. It was opened during our colonial dependence upon Great Britain, and,
-in the course of the Revolution, its operations were suspended, and the build-
-ings converted into military barracks.
+W illiamsburg, Yirginia. That establishment had undergone serious vicissitudes. It was opened during our colonial dependence upon Great Britain, and,
+in the course of the Revolution, its operations were suspended, and the buildings converted into military barracks.
 " In the latter half of the decennium ending on the 31st of December, 1820,
 two new institutions were opened. These were, the asylum at Prankford, now
 Philadelphia, in 1817; and the McLean Asylum, in what is now Somerville,
@@ -529,17 +484,14 @@ STATISTICS OF INSANITY IN THE UNITED STATES. 561
 " In the course of the deceimium terminating with the close of 1830, five
 establishments for the insane sprang into existence. The Bloomingdale Asylum
 went into operation in 1821; the Retreat at Hartford, Connecticut, and the
-asylum at Lexington, Kentucky, in 1824; and the asylums at Staunton, Vir-
-ginia, and Columbia, South Carolina, in 1828.
+asylum at Lexington, Kentucky, in 1824; and the asylums at Staunton, Virginia, and Columbia, South Carolina, in 1828.
 " Earliest in the next succeeding period of ten years was the Massachusetts
 State Hospital, at Worcester, which was opened in 1833 ; the Yermont State
-Asylum, at Brattleboro', followed in 1836; the Ohio State Asylum, at Colum-
-bus, in 1838 ; the pauper institutions for the cities of Bostonand New York,
+Asylum, at Brattleboro', followed in 1836; the Ohio State Asylum, at Columbus, in 1838 ; the pauper institutions for the cities of Bostonand New York,
 in 1839; and the Maine State Asylum, at Augusta, in 1810. It was during
 this period that the greatest impulse was given to the scheme for meliorating
 the condition of the insane in these United States. In the production of this
-impulse, no person exerted greater influence than the late Dr. Samuel B. Wood-
-ward, who was at that time superintendent at the hospital at Worcester. The
+impulse, no person exerted greater influence than the late Dr. Samuel B. Woodward, who was at that time superintendent at the hospital at Worcester. The
 zeal and hopefulness with which he ever pursued his occupation; the moral
 glow of sunlight which he disseminated all around him, over a sphere thitherto
 almost universally regarded, in the popular mind, as shrouded with clouds and
@@ -556,8 +508,7 @@ Utica, New York, in 1813; the Butler Hospital, at Providence, R. I., in
 Jackson, in Louisiana, 1818. About the middle of this decade, the Maryland
 Hospital, at Baltimore, theretofore devoted to the treatment of general diseases,
 was converted into an institution exclusively for the insane. No positive
-information upon the subject is now accessible to us; but it is our impres-
-sion, relying upon memory, that the original asylum at Nashville, Tennessee,
+information upon the subject is now accessible to us; but it is our impression, relying upon memory, that the original asylum at Nashville, Tennessee,
 and the asylum at Milledgeville, Georgia, were opened in the early part of this
 decennium.
 " Since 1850, several institutions have been brought into existence. The
@@ -574,10 +525,8 @@ was first occupied by patients in 1855,
 "We know of but five private establishments for the treatment of the insane
 in the United States. The oldest of these is that of Dr. Cutter, at Pepperell,
 Massachusetts. The late Dr. James Macdonald established a private institute
-at Murray Hill, New York City, about the year 1837, and some years after-
-wards removed it to Flushing, Long Island, where it is still continued under the
-title of Sanford Hall, and in charge of the doctor's brother, General Allan Mac-
-donald. It is one of the most complete and beautiful establishments of the
+at Murray Hill, New York City, about the year 1837, and some years afterwards removed it to Flushing, Long Island, where it is still continued under the
+title of Sanford Hall, and in charge of the doctor's brother, General Allan Macdonald. It is one of the most complete and beautiful establishments of the
 kind in the world. Dr. Edward Jarvis has an establishment at Dorchester,
 Massachusetts; Dr. Edward Mead one near Cincinnati, Ohio ; and Dr. George
 Cook one at Canandaigua, New York."
@@ -675,8 +624,7 @@ Butler Hospital for the Insane.
 Retreat for the Insane.
 New York State Lunatic Asylum.
 New York City Lunatic Asylum.
-Bloomingdalc Asylum for the In-
-sane.
+Bloomingdalc Asylum for the Insane.
 King's Co. Lunatic Asylum.
 Sanford Hall.
 Brigham Hall.
@@ -686,10 +634,8 @@ Penn'a Hospital for the Insane.
 State Lunatic Hospital of Penn'a.
 Western Pennsylvania Hospital for
 the Insane.
-Asylum for the Relief of Persons de-
-prived of the use of their reason.
-Insane Department of the Phila-
-delphia Hospital.
+Asylum for the Relief of Persons deprived of the use of their reason.
+Insane Department of the Philadelphia Hospital.
 Clifton Hall.
 Maryland Hospital for the Insane.
 Mt. Hope Institution.
@@ -713,8 +659,7 @@ Southern ? ?
 Hamilton Co. Lunatic Asylum.
 Retreat for the Insane.
 Indiana Hospital for the Insane.
-Illinois State Hospital for the In-
-sane.
+Illinois State Hospital for the Insane.
 State Insane Asylum of California.
 Foundation.
 State Inst.
@@ -1013,8 +958,7 @@ June 5, 1859.
 Oct. 1,1859.
 Dec. 1,1858.
 Dec. 31,1855.
-Dr. Henry M. Harlow.--
-Dr. Jesse P. Bancroft. ?
+Dr. Henry M. Harlow.-Dr. Jesse P. Bancroft. ?
 Dr. W. II. Rockwell. ?
 Dr. Merrick Bemis. ?
 Dr. George C. S. Choate.
@@ -1026,9 +970,7 @@ Dr. Isaac Ray. ?
 Dr. John S. Butler. ?
 Dr. Henry W. Buel. ?
 Dr. John P. Gray. ?
-Dr. M. H. Ranney. ?-
-Dr. D. Tilden Brown. -
-Dr. Edward R. Chapin. ?
+Dr. M. H. Ranney. ?Dr. D. Tilden Brown. Dr. Edward R. Chapin. ?
 Dr. Benj. Ogden, Visiting Phy.
 Dr. J. W. Barstow. Resident Phy,
 Drs. George Cook and John B.
@@ -1069,31 +1011,24 @@ Note.?One or two changes may have occurred from death or resignation among the s
 mentioned, but we have given, as far as was in our power, those whose names appeared upon the latest reports,
 lo those who kindly responded by letter or transmitted to us their reports in answer to our application for
 otormation, we desire to return our sincere thanks; and especially do we feel grateful to Dr. Kirkbride and
-I ? Edward A. Smith, of the Pennsylvania Hospital for the Insane, for facilities extended to us in our en-
-cavours to furnish accurate and reliable statistics.
+I ? Edward A. Smith, of the Pennsylvania Hospital for the Insane, for facilities extended to us in our encavours to furnish accurate and reliable statistics.
 564 STATISTICS OF INSANITY IN THE UNITED STATES.
 Since that time, others have been founded; their names and their
 dates of opening are furnished in " The Table of Institutions for the
-Insane in the United States," on the preceding page. Their rapid in-
-crease in the last twenty years evinces a lively interest on the part of
+Insane in the United States," on the preceding page. Their rapid increase in the last twenty years evinces a lively interest on the part of
 the people of the different States in one of the most numerous classes
 of infirmities.
 The table has been carefully prepared, with a view of affording an
 opportunity of learning how much has been done in this country to
 ameliorate the condition of those suffering from mental alienation.
-Every institution in the United States, whose statistics were other-
-wise imperfectly obtainable, except that in California, has been applied
+Every institution in the United States, whose statistics were otherwise imperfectly obtainable, except that in California, has been applied
 to for information. Most of them have responded to our desire for
-accuracy, and we regret that the silence of others may, in a few in-
-stances, prevent us from making the record complete. Some of the
+accuracy, and we regret that the silence of others may, in a few instances, prevent us from making the record complete. Some of the
 institutions are supported by appropriations from State Legislatures,
 some are incorporated, others are pauper institutions connected with
 the system of city government. Insane inmates may be found in every
-almshouse, but it has not been deemed expedient to give such an ar-
-rangement any prominence, unless the portion devoted to the insane is
-a separate department under the charge of a superintendent or phy-
-sician. The word " mixed" implies that the establishment is incor-
-porated but has received aid from the State. The recoveries, deaths,
+almshouse, but it has not been deemed expedient to give such an arrangement any prominence, unless the portion devoted to the insane is
+a separate department under the charge of a superintendent or physician. The word " mixed" implies that the establishment is incorporated but has received aid from the State. The recoveries, deaths,
 etc., are not furnished as comparative tables of the results of treatment
 of different institutions, so widely scattered, and therefore so variously
 exposed to favourable or unfavourable circumstances of climate or
@@ -1101,14 +1036,11 @@ locality, but as a sufficiently satisfactory method of condensing the
 history of each institution, and of exhibiting the number of insane who
 have received relief from their mental sufferings by recovery or death.
 Where no mention is made of the time from which the admissions are
-calculated, it may be inferred that the statistics date back to the open-
-ing of the institution.
+calculated, it may be inferred that the statistics date back to the opening of the institution.
 A sketch has thus been briefly given of the means which have been
 afforded by humane sympathy for the care and protection of the insane.
 That the power of some States to furnish adequate comfort to them is
-limited, is to be greatly regretted; yet many of the younger institu-
-tions are still in their infancy, and have not attained their full deve-
-lopment. As they progress in their usefulness, and as soon as the
+limited, is to be greatly regretted; yet many of the younger institutions are still in their infancy, and have not attained their full development. As they progress in their usefulness, and as soon as the
 public realize by more accurate statistical details how numerous the
 unfortunate insane are in proportion to the number accommodated in
 insane institutions, fewer patients will remain at home to be a source
@@ -1116,8 +1048,7 @@ of anxiety to their families, and the comforts of a home in which they
 can receive constant medical attention, and be removed from the causes
 of their malady, will be more fully appreciated.
 Facts collected from the materials furnished by so many institutions
-would, if carefully tabulated, supply statistical information of im-
-portance to those of the medical profession who are interested in them.
+would, if carefully tabulated, supply statistical information of importance to those of the medical profession who are interested in them.
 The scanty details from some of the institutions assist in making up a
 total, but the care with which some of the others have examined into
 facts connected with the insane, and collated them for the benefit of
@@ -1126,16 +1057,13 @@ the public, deserves especial commendation. So many points arise,
 however, in the consideration of such infirmities, which are of more
 interest to those connected with institutions than to the profession,
 that it is proposed to limit the field of our inquiries to questions of
-general importance which do not exclusively belong to the special pro-
-vince of institutions for the insane only.
+general importance which do not exclusively belong to the special province of institutions for the insane only.
 Some of the points may be studied as part of the personal history of
 the patient previous to the attack of insanity, such as the age, sex,
 conjugal condition, occupation, etc., while others belong more properly
-to the history of the attack, such as the period of the 3rear, the parti-
-cular form which the disease may assume, the cause of death, etc. If
+to the history of the attack, such as the period of the 3rear, the particular form which the disease may assume, the cause of death, etc. If
 the attack should not be the first from which he had suffered, we should
-naturally refer to the previous history of the disease, and learn some-
-thing of the duration and number of former attacks. Therapeutically,
+naturally refer to the previous history of the disease, and learn something of the duration and number of former attacks. Therapeutically,
 we shall have nothing to say here; to discuss merely a few pathological
 and psychological points of interest which seem to accumulate upon us
 at every step, we feel to be a task promising to claim our utmost
@@ -1152,8 +1080,7 @@ This is abundantly illustrated in the statistics of almost all our
 institutions.
 a. Sex.?Of the numerous circumstances under which the female sex
 is placed by her physical nature, her temperament and sympathies, we
-might infer that many are favourable to the production of mental dis-
-orders, and that woman would, on this account, be more liable to
+might infer that many are favourable to the production of mental disorders, and that woman would, on this account, be more liable to
 insanity than the other sex. It has been truly said by Cabanis,* that
 " by a severe necessity attached to the role which nature assigns to her,
 woman is subjected to many accidents and inconveniences; her life is
@@ -1162,8 +1089,7 @@ often the suffering predominates." Yet her constitution resists shocks
 and trials under which the more robust nature of man would shrink,
 and her delicate organization seems often to acquire strength after one
 series of trials to be prepared for those which are to follow.
-In viewing the relation of the sexes, in the liability to mental aber-
-ration, we must of course bear in mind the greater proportion of males
+In viewing the relation of the sexes, in the liability to mental aberration, we must of course bear in mind the greater proportion of males
 or females in the general population. Erroneous conclusions have in
 many cases been drawn from the mere fact of the number of insane
 females being greater in certain portions of the country, to found a
@@ -1177,15 +1103,12 @@ the males or females of one part of the United States from those of
 another? For even if the number of insane females should preserve
 the same general ratio to the female population, the devotion of the
 other sex to a different class of occupations might alter the ratios very
-sensibly. It has been exhibited in the experience of several Trans-
-atlantic observers, that psychical affections are far more prevalent in
-manufacturing than in agricultural districts?a fact which might per-
-haps affect the male ratio of the insane more than the female. The
+sensibly. It has been exhibited in the experience of several Transatlantic observers, that psychical affections are far more prevalent in
+manufacturing than in agricultural districts?a fact which might perhaps affect the male ratio of the insane more than the female. The
 mortality has also been found by statistics to be greater in the male
 sex than in the female, being estimated bj' one authority at 50 per
 cent, greater ; while the female recovers more frequently from insanity
-than the male. We have to distinguish, therefore, between the num-
-ber of either sex who have actually become insane and those who are
+than the male. We have to distinguish, therefore, between the number of either sex who have actually become insane and those who are
 found to be so, when mortality or recovery has exerted an influence to
 modify the ratio. And besides this, moral causes, such as' grief,
 anxiety, etc., affect women more than men, and the chances of recovery
@@ -1206,24 +1129,20 @@ In June, 1850, Dr. Edward Jarvis, of Dorchester, Massachusetts,
 presented to the Association of Medical Superintendents of American
 Institutions for the Insane, a paper on the " Comparative Liability of
 Males and Females to Insanity, and their comparative Curability and
-Mortality when Insane." His statistics of twenty-one American hos-
-pitals represent the proportion of males insane to females as 121 to
+Mortality when Insane." His statistics of twenty-one American hospitals represent the proportion of males insane to females as 121 to
 100 in a total of 24,573 cases. Our own estimate is founded upon
 nearly 25,000 more cases than are embraced in the investigations of
 Dr. Jarvis, and we find a much less difference in the proportion of the
 sexes than that determined upon at that time: 100 females are found
 by our own estimates to be insane?-judging merely from hospital
 records?to every 109 males. But the sexes are not represented in
-the institutions as they are in the general population. We shall here-
-after find that the period of life embraced between the years of 20 and
-50 is that in which mental disorder is of much more frequent occur-
-rence than after or before those ages. We must, therefore, in order to
+the institutions as they are in the general population. We shall hereafter find that the period of life embraced between the years of 20 and
+50 is that in which mental disorder is of much more frequent occurrence than after or before those ages. We must, therefore, in order to
 STATISTICS OF INSANITY IN THE UNITED STATES. 567
 learn what ratio the sexes bear to each other on the question of insanity
 between the ages of 20 and 50, determine also their relative number
 in the general population. The census of 1850, which we may?with
-some hesitation, perhaps?take as a convenient guide, gives a propor-
-tion of 108 males to 100 females in the general population between
+some hesitation, perhaps?take as a convenient guide, gives a proportion of 108 males to 100 females in the general population between
 the ages of 20 and 50. The number corresponds closely enough with
 that given in the general ratio of the sexes in insane institutions; but
 then we have to assume that those figures not only correspond with
@@ -1233,8 +1152,7 @@ over 50 years of age?two difficulties which we do not attempt further
 to solve.
 Dr. Tburnham,* in examining this question, in reference especially
 to European institutions, assumes that the proportions of men and
-- women admitted into public institutions during extensive periods, re-
-present, as, on the whole, they probably do represent, the cases which
+- women admitted into public institutions during extensive periods, represent, as, on the whole, they probably do represent, the cases which
 occur for the first time, and remarks as follows:?" Having thus
 shown that in the principal hospitals for the insane in these kingdoms,
 the proportion of men admitted is nearly always higher, and, in many
@@ -1246,16 +1164,14 @@ more liable to disorders of the mind than women." With Dr. Jarvis,
 we think that any statement in regard to peculiar liability of either
 sex " must vary with different nations, different periods of the world,
 and different'habits of the people;" and we may add that the peculiar
-constitution of the American people, as native and foreign born, manu-
-facturing and agricultural, may afford elements for variation, not only
+constitution of the American people, as native and foreign born, manufacturing and agricultural, may afford elements for variation, not only
 in the number of the sane of both sexes, but also in the proportionate
 relation of the insane.
 Leaving this question still in doubtful confusion, we shall examine,
 under each head, into the infiuence which sex exerts in the causes and
 results of mental disorders.
 b. Age at which Insanity first appears.?We are surprised to find
-such a scarcity of materials upon one of the most important and inter-
-esting points in the whole subject of our researches. We have been
+such a scarcity of materials upon one of the most important and interesting points in the whole subject of our researches. We have been
 unable in many of the reports to find the least reference made to this
 inquiry; but as the information derived from other reports embraces a
 large number of cases, what we have obtained in this way may be
@@ -1280,8 +1196,7 @@ Under 20 years of age . . . .1724 13"8
 60 to 70 ? .... 354 2-8
 Over 70 ? .... 115 '9
 Total .... 12,472
-It will thus be seen that more than 75 per cent, of the insane em-
-braced in this analysis became so between 20 and 50 years of age.
+It will thus be seen that more than 75 per cent, of the insane embraced in this analysis became so between 20 and 50 years of age.
 We are disposed to think that a larger number become insane between r
 the ages of 20 and 25 than at any other period of five years, but we
 cannot assert this confidently. A table like that given above, although
@@ -1311,9 +1226,7 @@ Prom 30 to 40. From 60 to 70.
 Insanity attacks the two sexes at different periods. Thus, of 9951
 cases of mental aberration comprised in the preceding statistics, of
 which 5211 were males and 4740 females, it is found by a comparison
-which we have made of the prevalence of insanity in either sex at par-
-ticular ages, with the number of the general population at correspond-
-ing ages, that in many cases while one sex predominates in the general
+which we have made of the prevalence of insanity in either sex at particular ages, with the number of the general population at corresponding ages, that in many cases while one sex predominates in the general
 population, the other may be in a greater proportion among the
 insane. We of course assume that the figures taken from our asylum
 statistics may be taken as a fair standard of the relation of the insane
@@ -1344,8 +1257,7 @@ of Dr. Earle,* of 1710 admissions into Bloomingdale Asylum (N. Y.),
 that our conclusions coincide exactly with his.
 It will be seen that some difference is observed here between the
 two modes of viewing the question of age; and it may be shown that,
-as far as the sexes are concerned, men are admitted in larger propor-
-tional numbers into the institutions from which we have quoted these
+as far as the sexes are concerned, men are admitted in larger proportional numbers into the institutions from which we have quoted these
 statistics, between the ages of 30 and 40, 40 and 50, and 50 and 60;
 and that women occupy a similar pre-eminence at ages under 20, from
 20 to 30, 60 to 70, and over 70.
@@ -1353,14 +1265,12 @@ c. Single or Conjugal Condition.?It is not our intention here to
 dwell upon domestic difficulties and ill-assorted matrimonial alliances
 as causes of mental aberration. However powerful they may be, we
 must not lose sight of the occasional probability of attacks of insanity
-occurring, and leading to the very results?painful distrusts and exhi-
-bitions of temper in the family circle?which are so often regarded as
+occurring, and leading to the very results?painful distrusts and exhibitions of temper in the family circle?which are so often regarded as
 the causes instead of the effects. We touch lightly here upon such
 domestic calamities, and refer merely to the actual condition of celibacy,
 married life, or widowhood, preferring to mention only the fact that
 the patient was single or married, without inquiring whether he may
-not have remained single because he had exhibited some mental pecu-
-liarity. From the recorded statistics of twenty institutions?and we
+not have remained single because he had exhibited some mental peculiarity. From the recorded statistics of twenty institutions?and we
 refer to none other than American institutions whenever we use the
 term?we have 25,721 cases placed in the category of single, married,
 widowed, and divorced, which we may classify, as follows :?
@@ -1377,8 +1287,7 @@ Divorced .
 570 STATISTICS OF INSANITY IN THE UNITED STATES.
 We should naturally infer that married life would be less frequently
 a cause of insanity than celibacy, from its being generally a more
-settled condition of existence, and less liable to fluctuations of agita-
-tions and emotions of the mind; and yet the thousand sources of
+settled condition of existence, and less liable to fluctuations of agitations and emotions of the mind; and yet the thousand sources of
 anxiety which a sensitive mind may feel for the happiness of those
 immediately around him may disturb the mental equilibrium of the
 married state, and induce morbid changes in his disposition and
@@ -1409,25 +1318,19 @@ are married, 484*5 single, and 81*3 widowed; and of every 1000 cases
 of the male sex, 555 are single, 393 married, and 51 widowers; while
 of the same number of females, 429 are single, 43(5 married, and 135
 widows.
-d. Occupations.?We can draw no inferences as to the greater pre-
-valence of mental disorder in particular trades or occupations from the
+d. Occupations.?We can draw no inferences as to the greater prevalence of mental disorder in particular trades or occupations from the
 mere statement of the fact that a certain number of persons who are
 engaged in them are insane, unless we also make some estimate of the
-proportion which occupations bear to each other in the general popu-
-lation. Such an estimate is possible, when we have such facilities for
+proportion which occupations bear to each other in the general population. Such an estimate is possible, when we have such facilities for
 obtaining it as are furnished by the United States census returns.
 Although errors may exist in it, so also may mistakes creep into the
-statistics of occupations furnished by ignorant persons to insane insti-
-tutions. It is, therefore, for ordinary purposes, sufficiently reliable as
+statistics of occupations furnished by ignorant persons to insane institutions. It is, therefore, for ordinary purposes, sufficiently reliable as
 a means of comparison. For convenience sake, we may adopt a system
-of classification similar to that suggested originally in the census sta-
-tistics of Great Britain, and modified so as to adapt it better to the
+of classification similar to that suggested originally in the census statistics of Great Britain, and modified so as to adapt it better to the
 peculiar circumstances of the United States. Any classification must
 STATISTICS OF INSANITY IN THE UNITED STATES. 571
-be difficult, but this is perhaps sufficiently simple. We give the per-
-centage of each class in the general population, and of the insane of
-each class in 7329 cases, collected from the statistics of fourteen Ame-
-rican institutions. The majority of our insane hospitals, probably
+be difficult, but this is perhaps sufficiently simple. We give the percentage of each class in the general population, and of the insane of
+each class in 7329 cases, collected from the statistics of fourteen American institutions. The majority of our insane hospitals, probably
 believing the subject a matter of less importance than the minority
 are disposed to consider it, pass it by entirely without remark of any
 kind.
@@ -1451,10 +1354,8 @@ which bear a greater ratio to the insane than to the general population,
 or the reverse. It will be seen, as might naturally be expected, that
 professional pursuits?and especially the learned professions?are more
 liable to insanity than those which are not characterized by great
-mental tension. Farmers, devoted to a quiet life of agricultural occu-
-pation, and removed from causes which distract the mind and harass
-the spirits of the busy commercial world, are able to live more regu-
-larly than the participants in active city life, and hence are found low
+mental tension. Farmers, devoted to a quiet life of agricultural occupation, and removed from causes which distract the mind and harass
+the spirits of the busy commercial world, are able to live more regularly than the participants in active city life, and hence are found low
 down in the scale of liability to insanity. We should expect, in our
 political system, with changes going on perpetually, that government
 officials would rarely be attacked with mental disorder connected in
@@ -1476,14 +1377,11 @@ of the white'and free coloured only, while the other may (we do not know that it
 does) include also the slave population. The number of slaves insane is, however,
 insignificant.
 572 STATISTICS OF INSANITY IN THE UNITED STATES.
-It is scarcely worth while inquiring into the relative liability of par-
-ticular trades, such as shoemaking, tailoring, etc., which are embraced
-in the main headings given above, although we may devote a mo-
-ment's consideration to classes 6 and 7 in the previous table, both of
+It is scarcely worth while inquiring into the relative liability of particular trades, such as shoemaking, tailoring, etc., which are embraced
+in the main headings given above, although we may devote a moment's consideration to classes 6 and 7 in the previous table, both of
 which are connected in some way or other with mental development
 or education. Leaving out of view those illustrations of each which
-furnish so trifling a number of cases as to make their statistics com-
-paratively worthless, it will be interesting to know how the learned
+furnish so trifling a number of cases as to make their statistics comparatively worthless, it will be interesting to know how the learned
 professions, in which we include clergymen, lawyers, doctors, and
 students generally, compare as to liability to mental aberration ; and
 how also pursuits requiring education, such as those of teachers, artists,
@@ -1492,21 +1390,17 @@ order seems to be as follows :?
 Law, Medicine, and Divinity. Pursuits requiring Education.
 Comparing these two classes with one another, we have the educated
 classes, par excellence, liable to insanity in the following order:?
-No statistics have been furnished in the United States census re-
-turns of the number of females occupied in the different branches of
+No statistics have been furnished in the United States census returns of the number of females occupied in the different branches of
 industry, so that it would be impossible for us to make any comparative
-table of occupations of that sex, as predisposing to insanity. Do-
-mestics, seamstresses, and teachers seem to be in large numbers, and
+table of occupations of that sex, as predisposing to insanity. Domestics, seamstresses, and teachers seem to be in large numbers, and
 so also do the wives and daughters of farmers and labourers, whose
 occupations must be of a domestic nature; but all these classes are
-numerous also in the general female population, and we should there-
-fore expect insanity to be prevalent among a large number in each.
+numerous also in the general female population, and we should therefore expect insanity to be prevalent among a large number in each.
 e. Hereditary Predisposition doubtless exists in a far greater number
 of cases than is generally supposed. Few of our institutions, however,
 class the inheritance of mental alienation among the causes in their
 lists, and in only one or two instances is any mention made of it at
-all. We know from other sources of information, such as those sup-
-plied to us by European channels, that particular forms of insanity
+all. We know from other sources of information, such as those supplied to us by European channels, that particular forms of insanity
 may be transmitted from parent to child, and that the eccentricities
 and disordered understanding peculiar to the one may, by hereditary
 predisposition, appear in all their force in the mental development and
@@ -1546,21 +1440,17 @@ hereditary predisposition in cases admitted into that institution. " Of
 1841 patients, 323?of whom 187 were males, and 136 females?are
 recorded as having one relative or more insane; this is equivalent to
 17J per cent. The percentage in each sex, taken separately, is as
-follows : men, 17'1G ; women, 18*11. It is not to be presumed, how-
-ever, that this is even a near approximation to the number actually
+follows : men, 17'1G ; women, 18*11. It is not to be presumed, however, that this is even a near approximation to the number actually
 having relatives of disordered mental powers.
-" Of the men included in the foregoing table, 118 inherited the pre-
-disposition from direct ancestors, and 33 of these had other relatives
+" Of the men included in the foregoing table, 118 inherited the predisposition from direct ancestors, and 33 of these had other relatives
 insane. Of the remainder, G8 had collateral relatives insane, but no
 direct ancestors; and one had a child insane. Of the 52 who had
 insane parents, it was the father in 27 cases, and the mother in 25. In
 one of these, both father and mother had been deranged. It is also
-stated that two of those included under the term hereditary, had an-
-cestors, both paternal and maternal, who were subject to the malady.
+stated that two of those included under the term hereditary, had ancestors, both paternal and maternal, who were subject to the malady.
 Of the women, the predisposition was transmitted from direct ancestors
 in 89, of whom 67 had other relatives insane. In the remaining 42,
-the disease is stated to have appeared only in persons collaterally con-
-nected ; and in 5 cases in their children alone. There are 18 cases in
+the disease is stated to have appeared only in persons collaterally connected ; and in 5 cases in their children alone. There are 18 cases in
 which it is mentioned that the father was insane. In 1 case, the father
 and mother were both deranged. In the case where it is asserted that
 the whole family were insane, it is said that all her father's family,
@@ -1570,11 +1460,9 @@ age of 21 years. Two brothers were patients here in 7 instances, 3
 brothers in 2, a brother and sister in 2, 2 sisters in 3, 2 sisters and 2
 of their cousins in 1, mother and son in 3, father and son in 1, father,
 daughter, and her son in 1, mother and daughter in 3, and uncle and
-niece in 1. It is obvious that the foregoing statistics are not suffi-
-ciently full or definite to be adopted as accurate data from which to
+niece in 1. It is obvious that the foregoing statistics are not sufficiently full or definite to be adopted as accurate data from which to
 estimate the proportion of the insane in whom it is transmitted from
-the father's or the mother's side, or any of the other important ques-
-tions involved in the subject."
+the father's or the mother's side, or any of the other important questions involved in the subject."
 Such are the main points of interest in relation to the subject of
 family predisposition ; they embrace much more minute details
 than can be found elsewhere in American reports. We regret our
@@ -1619,23 +1507,18 @@ dependent on?circumstances of relationship such as we have described.
 They form an interesting supplementary matter for investigation, after
 the remarks already made on hereditary predisposition.
 y. Education, Systems of Religion, etc., doubtless exert a powerful
-influence upon the mental development of the individual; but no accu-
-rate data are obtainable by which we may recognise how extensive that
+influence upon the mental development of the individual; but no accurate data are obtainable by which we may recognise how extensive that
 influence may be in a country like our own, so differently constituted
 from every other in its systems of education and its numerous forms of
 xeligious belief.
-Education, when carried so far as to produce overstrained mental ex-
-ertion, will frequently, doubtless, in the more delicately constituted
+Education, when carried so far as to produce overstrained mental exertion, will frequently, doubtless, in the more delicately constituted
 organization of some children, prove occasionally mentally injurious,
 and sow the seeds of future perversion of the intellectual and moral
-faculties. How far this influence is exerted in this country we are un-
-able to say.
+faculties. How far this influence is exerted in this country we are unable to say.
 IY.?niSTOBY OF THE ATTACK.
 Having studied the personal history of the patient previous to the
-attack, we have next to inquire into the statistics of the most interest-
-* Report on the Influence of Marriages of Consanguinity upon Offspring, by
-S. M. Bemiss, M.D., Louisville, Kentucky. Transactions of the American Me-
-dical Association, vol. xi. p. 319. 1858.
+attack, we have next to inquire into the statistics of the most interest* Report on the Influence of Marriages of Consanguinity upon Offspring, by
+S. M. Bemiss, M.D., Louisville, Kentucky. Transactions of the American Medical Association, vol. xi. p. 319. 1858.
 STATISTICS OF INSANITY IN THE UNITED STATES. 57-5
 ing points connected with the history of the attack itself. Although
 many of the causes which excite to insanity might be said properly to
@@ -1646,36 +1529,27 @@ sometimes in defining the exact lines, where one subject begins to be
 perfectly distinct from another, and hence any method of classification
 must have its defects. We shall find, indeed, that the two divisions
 we have adopted will occasionally run into each other; as when we refer
-to the influence of sex or marriage, both of which belong to the per-
-sonal history of the patient, upon mortality or recovery, subjects appro-
-priately considered in relation to the history of the attack. It seems
+to the influence of sex or marriage, both of which belong to the personal history of the patient, upon mortality or recovery, subjects appropriately considered in relation to the history of the attack. It seems
 advisable, however, to adopt some classification of this kind, as a means
-of avoiding the confusion which would result from the clustering to-
-gether of so many points of interest in a chaotic mass.
+of avoiding the confusion which would result from the clustering together of so many points of interest in a chaotic mass.
 Included in this department of our subject are the exciting causes
 of insanity, whether moral or physical; the statistics of recovery and
 mortality; and the influence of sex, marriage, and other conditions
-upon each. The recorded statistics on some of these points are co-
-piously illustrative, but many of the reports of institutions neglect
+upon each. The recorded statistics on some of these points are copiously illustrative, but many of the reports of institutions neglect
 them entirely for the sake of dwelling upon other matters of purely
 local interest.
 a. Causes of Insanity. The Tables of Causes which are furnished
 must always be very imperfect. Many of them are imaginary, and
-were two sane members of the same family consulted as to the ante-
-cedents of the attack, it is exceedingly doubtful whether they would
-assign the same causes. Especially is this the case in hereditary in-
-sanity, to mention which is by some regarded as a slur upon the family
+were two sane members of the same family consulted as to the antecedents of the attack, it is exceedingly doubtful whether they would
+assign the same causes. Especially is this the case in hereditary insanity, to mention which is by some regarded as a slur upon the family
 escutcheon, the publication of a stain upon family good name, by those
 who have no right to intrude within the privacies of a home-circle.
 We have heard of cases in which the father of a family had positively
 denied the existence of hereditary insanity in the presence of a relative,
 who was more honest, and less disposed to embarrass the researches of
 the physician. Against all these sources of error, the incompetency of
-deciding as to the true cause, the unwillingness to expose family infir-
-mities, the conjectural idea that some one cause may have been more
-potent than another, and the concealment of domestic troubles and diffi-
-culties, the physician has to contend in his attempts to study the sub-
-ject intimately.
+deciding as to the true cause, the unwillingness to expose family infirmities, the conjectural idea that some one cause may have been more
+potent than another, and the concealment of domestic troubles and difficulties, the physician has to contend in his attempts to study the subject intimately.
 The effect is doubtless very often made to supply the place of the
 cause, and because a patient exhibits a tendency to certain forms of
 mental alienation, the form itself is assigned as the cause of the malady.
@@ -1685,8 +1559,7 @@ regard to a future state has been the true moral cause F Insanity may
 have existed unsuspected, and when fully developed may have assumed
 the form of religious mania; but surely a thousand causes might have
 existed previously. The fallacies of the tables which occupy a large
-space in some of our reports are numerous, and yet the greatest refine-
-ment of divisions, down to the most trivial of probabilities, is practised
+space in some of our reports are numerous, and yet the greatest refinement of divisions, down to the most trivial of probabilities, is practised
 576 STATISTICS OF INSANITY IN THE UNITED STATES.
 without any attempt at a classification which would throw light upon
 the often obscure etiology of the affection. Added, therefore, to the
@@ -1705,14 +1578,12 @@ into those which are predisposing, and those which are exciting or
 productive of insanity. Numerous circumstances of constitutional
 predisposition, of temperament, education, sex, and age, exist to
 induce a predisposition to insanity; while who can estimate the
-number of exciting cases enumerated as the active agents in its pro-
-duction ?
+number of exciting cases enumerated as the active agents in its production ?
 Exciting Causes, Moral and Physical.?We may again subdivide
 the exciting causes into moral and physical; the latter class, it has
 been asserted, is more frequently met with among the lower ranks of
 society, while the former belongs to a higher class, whose intellects are
-more developed, and whose minds are subjected to more extensive in-
-fluences. The passions and emotions, when viewed as causes of mental
+more developed, and whose minds are subjected to more extensive influences. The passions and emotions, when viewed as causes of mental
 alienation, are referred to the class of moral causes. Physical causes
 include such agents as act by some influence exerted externally, and
 only secondarily affect the nervous system, while moral causes exert
@@ -1724,12 +1595,9 @@ accuracy is not always perfectly attainable, we may gain a certain
 amount of intelligence of the early history of the attack. We may
 illustrate what we mean by moral and physical causes in the following
 examples:?
-Moral causes, as domestic difficulties, religious anxiety, political ex-
-citement, intense mental application, etc. Physical causes: Intem-
-perance, ill health, epilepsy, sensuality, etc.
+Moral causes, as domestic difficulties, religious anxiety, political excitement, intense mental application, etc. Physical causes: Intemperance, ill health, epilepsy, sensuality, etc.
 The distinction is generally an obvious one, and the cases are readily
-arranged under one or the other heading. It will be seen by the fol-
-lowing table that the physical causes predominate over the moral?a
+arranged under one or the other heading. It will be seen by the following table that the physical causes predominate over the moral?a
 fact which is denied as probable, when applied to many of the European
 institutions, but yet which has been previously recognised as true in
 regard to the statistics of our own insane hospitals :?*
@@ -1745,8 +1613,7 @@ Mental anxiety 721
 Financial difficulties, reverses of
 fortune, &c 652
 Loss of friends 585
-Disappointment in love, ambi-
-tion, &c 576
+Disappointment in love, ambition, &c 576
 Excessive study or application
 to business 165
 Tear and fright 126
@@ -1806,11 +1673,9 @@ merely to the fact thatthe moral causes constitute only two-fifths,and the
 physical causes three-fifths of the whole number of causes above given.
 A glance at the table shows the order in which causes, taken as a whole,
 and not as divided into moral and physical, are arranged as exciting to
-insanity, and exhibits that ill health and intemperance rank first, do-
-mestic troubles and griefs next in order, then the conditions peculiar
+insanity, and exhibits that ill health and intemperance rank first, domestic troubles and griefs next in order, then the conditions peculiar
 to women, and so on.
-Sex has an important influence in the distribution of moral and phy-
-sical causes. The circumstances of exposure form so decided an element
+Sex has an important influence in the distribution of moral and physical causes. The circumstances of exposure form so decided an element
 in the latter class, that we would naturally suppose man to be much
 more liable to them than woman; while the latter would suffer more
 from domestic troubles, and from loss of those cherished by her, from
@@ -1833,16 +1698,14 @@ Having thus accounted for the production of the attack of mental
 aberration, we may watch its progress until it becomes introduced to
 the care and attention of an institution devoted to its protection and
 relief. Several considerations are worthy of being studied from the
-time of the invasion of the disease up to its actual admission to an in-
-sane hospital. By that time it will have assumed a definite form, such
+time of the invasion of the disease up to its actual admission to an insane hospital. By that time it will have assumed a definite form, such
 as dementia, melancholia, etc., and have possessed some interest in its
 duration ; its probable prognosis for recovery, or the reverse, being often
 influenced by the fact of its being an acute or a chronic case when
 admitted.
 b. The Special Forms of Insanity.?It is not our province to suggest
 any system of classification different from those adopted by experienced
-authorities on this subject, and we therefore, for simplicity's sake, em-
-ploy that followed in the Report of the Pennsylvania Hospital for the
+authorities on this subject, and we therefore, for simplicity's sake, employ that followed in the Report of the Pennsylvania Hospital for the
 Insane,* embracing the division into mania, melancholia, monomania,
 dementia, and delirium, the last of which, being so very unfrequent, is
 scarcely worthy of being referred to here. In the words of the Report
@@ -1860,8 +1723,7 @@ another. A perfect nomenclature of insanity is a great desideratum."t
 Now that the terms are rather more intelligible than they seem to
 have been formerly, the degree of confusion is less marked, and we
 may arrange under a few heads almost all of the forms which insanity
-assumes. In 7322 cases, embracing the four forms, mania, melan-
-cholia, monomania, and dementia, the number of each is as follows:?
+assumes. In 7322 cases, embracing the four forms, mania, melancholia, monomania, and dementia, the number of each is as follows:?
 Mania  3789, or 51*7 per cent.
 Melancholia .... 1366, or 18*7 ?
 Dementia  1265, or 17'3 ?
@@ -1881,13 +1743,10 @@ Of the females, 1G99, or 51*7 percent, were attacked with mania.
 718, or 218 ? ? melancholia.
 484, or 14"7 ? ? dementia.
 382, or 11'6 ? ? monomania.
-While each sex, therefore, is attacked with mania in an equal pro-
-portion, men are more often the subjects of dementia than women,
+While each sex, therefore, is attacked with mania in an equal proportion, men are more often the subjects of dementia than women,
 and the latter more often suffer from melancholia. This fact bears
-a decided influence upon the curability of the sexes, as we shall here-
-after see.
-We need not enter into a minute consideration of the various sub-
-divisions of each form of insanity, such as that species of mania which
+a decided influence upon the curability of the sexes, as we shall hereafter see.
+We need not enter into a minute consideration of the various subdivisions of each form of insanity, such as that species of mania which
 is connected with the puerperal state, or that which assumes incendiary,
 homicidal, or suicidal tendencies. Interesting as they would be, viewed
 as collateral subjects of inquiry, it is scarcely appropriate that we
@@ -1919,16 +1778,14 @@ June seems to take the precedence, a fact which coincides with the
 opinion of M. Esquirol, and of MM. Aubenal and Thore,fas the result
 of their European investigations ; but May ranks higher in the list of
 American monthly admissions than they are disposed to place it. Hie
-* Observations upon Puerperal Insanity. By Richard Grundy, M.D., Assistant-
-Physician to the Southern Ohio Lunatic Asylum. (Reprint.) Utica (N. ~Y..) btate
+* Observations upon Puerperal Insanity. By Richard Grundy, M.D., AssistantPhysician to the Southern Ohio Lunatic Asylum. (Reprint.) Utica (N. ~Y..) btate
 Lunatic Asylum, 1860. (An abstract of Dr. Grundy's paper will be found in the
 last number of this Journal, p. 414.) <
 f Bucknill and Tuke, op. at. p. 249.
 580 STATISTICS OF INSANITY IN THE UNITED STATES.
 order of the seasons, derived from the above table, is summer, spring,
 autumn, and winter. The admissions do not of course represent the
-occurring cases of insanity, but only such as are admitted into institu-
-tions ; some of them being chronic cases, while many of them are acute.
+occurring cases of insanity, but only such as are admitted into institutions ; some of them being chronic cases, while many of them are acute.
 The results for the sexes, individually, are as follows :?
 Per cent. Per cent. Per cent. Per cent.
 Winter. Spring. Summer. Autumn.
@@ -1947,26 +1804,20 @@ months ; while more than a quarter of the cases, about 2600 in all,
 have been insane from 1 to 5 years. The result of such cases must, of
 course, vary according to the general duration of the attack, chronic
 cases being much more intractable than acute. But this branch of our
-inquiry belongs more appropriately to the consideration of the termina-
-tions of insanity.
+inquiry belongs more appropriately to the consideration of the terminations of insanity.
 V.?INSANITY CONSIDERED IN ITS RESULTS.
 The experience of insane institutions throughout the world exhibits
 great diversity in the results of different modes of treatment, in the
 restoration to health, or in the tendency to relapse or death. So much
-depends upon other circumstances, too, than the mere routine of treat-
-ment, and so many more influences operate to produce a change in the
+depends upon other circumstances, too, than the mere routine of treatment, and so many more influences operate to produce a change in the
 condition of a patient in some parts of the country than in others, that
 the measures adopted for his restoration may prove less beneficial in one
 institution than in another. Climate is not one of the least important
-of these influences, and season exerts a decided effect upon the curabi-
-lity or non-curability of insanity. We need but consider three
+of these influences, and season exerts a decided effect upon the curability or non-curability of insanity. We need but consider three
 terminations of an attack of insanity, viz., restoration to good health,
-confirmed dementia, and death. And yet how difficult to decide in re-
-gard to a perfect restoration ! Must we merely take the statistics as
-we find them, and consider the case cured, because at the time of de-
-parture from an institution it was regarded as " cured" or " recovered ?"
-How much more perfect would be a history of the after-life of the indi-
-vidual during the first year, or two years afterwards, for instance, giving
+confirmed dementia, and death. And yet how difficult to decide in regard to a perfect restoration ! Must we merely take the statistics as
+we find them, and consider the case cured, because at the time of departure from an institution it was regarded as " cured" or " recovered ?"
+How much more perfect would be a history of the after-life of the individual during the first year, or two years afterwards, for instance, giving
 information of the permanency of the cure or the reverse ! It is a fact
 that can scarcely admit of contradiction, that the friends of a patient
 who has been discharged " cured" from an institution, will, occasionally,
@@ -1978,8 +1829,7 @@ STATISTICS OF INSANITY IN THE UNITED STATES. 581
 history is incomplete, and his friends may, perhaps, conceal the fact of
 his previous residence in another institution. As this, however, may
 apply to all such cases and all such establishments, a certain amount of
-practical information may be derived from the statistical records of re-
-coveries, relapses, and mortality. Death alone is certain ; its statistics
+practical information may be derived from the statistical records of recoveries, relapses, and mortality. Death alone is certain ; its statistics
 are invariably fixed; but the history of the progress of the case toward
 a fatal termination assumes a thousand varied phases.
 It has been frequently asserted that insanity is a morbid condition
@@ -1987,18 +1837,14 @@ upon which remedies may be emplo}red in vain ; that incurability is the
 rule, and recovery the exception. We need not appeal to European
 sources for a refutation of this fallacy; our own institutions afford
 abundant means of exhibiting how frequently the careful attention and
-skill of the physician are rewarded and his labours blessed with abun-
-dant sources of congratulation. Very few, however, have it in their
+skill of the physician are rewarded and his labours blessed with abundant sources of congratulation. Very few, however, have it in their
 power to watch the cases which leave them, improved, or removed
 sometimes too early, doubtless by the over-anxious interference of
 friends. Those who die while under the care of institutions afford
-only an approximative means of calculating the proportionate mor-
-tality ; for we cannot tell how many may have left the institution to
+only an approximative means of calculating the proportionate mortality ; for we cannot tell how many may have left the institution to
 die at home. Another difficulty in the way of accuracy of details exists
 in the admixture of chronic cases, which present but slight prospects of
-recovery, with those acute or less chronic cases, of which hopeful anti-
-cipations may be indulged. The proper mode to estimate the propor-
-tionate number of recoveries and deaths is to compare them, wherever
+recovery, with those acute or less chronic cases, of which hopeful anticipations may be indulged. The proper mode to estimate the proportionate number of recoveries and deaths is to compare them, wherever
 it is practicable, with the whole number of admissions ; but the great
 majority of the institutions follow a different method, and base their
 calculations upon the discharges, instead of the admissions. We shall
@@ -2008,15 +1854,12 @@ result with the number of admissions also.
 season, &c. Restoration is the result in a very large number of cases,
 but the chances for a favourable result must be influenced largely by
 conditions that operate in all diseases, whether mental or physical". A
-general idea of the proportion of recoveries may be given, however, with-
-out specifying what were the extraneous influences at work to. modify
-the nature of the termination of the attack. In 15,235 cases dis-
-charged from a number of American hospitals, the recoveries were 6549,
+general idea of the proportion of recoveries may be given, however, without specifying what were the extraneous influences at work to. modify
+the nature of the termination of the attack. In 15,235 cases discharged from a number of American hospitals, the recoveries were 6549,
 or 429 per cent, of the whole number; while in 58,607 cases admitted
 into 33 hospitals, the number of recoveries was 24,937, or 42*5 per
 cent. It seems to make no material difference whether we calculate
-recoveries according to the discharges or the admissions, the percen-
-tage being very nearly the same. This percentage is higher than that
+recoveries according to the discharges or the admissions, the percentage being very nearly the same. This percentage is higher than that
 given many years ago by Esquirol, as the result of the experience of the
 best English and French hospitals for the insane, the ratio of recoveries
 to admissions being at that time only 39 per cent, in nearly 22,000
@@ -2035,8 +1878,7 @@ recoveries in each sex is as follows:?
 3947 ? 8633 females ? 45*7 ?
 8042 17,833 45'0 per cent.
 Recovery is, therefore, more probable among females than among
-males, a fact which has been often noticed by those interested in in-
-sane matters. This more favourable result in that sex depends on the
+males, a fact which has been often noticed by those interested in insane matters. This more favourable result in that sex depends on the
 form of the attack, etc., and sometimes on revolutions in her system
 which produce happy changes when the resources of medical art have
 been ineffectual. Women suffer much more from melancholia than men,
@@ -2052,11 +1894,9 @@ Winter months . . . . . . 360
 Spring ?  410
 Summer ? ? . 475
 Autumn ?  411
-But we have no satisfactory record of the experience of other institu-
-tions.
+But we have no satisfactory record of the experience of other institutions.
 c. The form assumed by the attack modifies the prognosis as to the
-result. Thus in 6306 illustrations of four forms of insanity, dis-
-charged,?
+result. Thus in 6306 illustrations of four forms of insanity, discharged,?
 3576 were cases of mania, of which 2620, or 73'2 per cent, had recovered.
 1400 were cases of monomania, of which 829, or 59'2 per cent, had recovered.
 819 were eases of melancholia, of which 457, or 55 8 per ccnt. had recovered.
@@ -2065,13 +1905,10 @@ Mania is the form most curable, and dementia that which is least
 tractable to remedial or other influences.
 d. The duration of the attack, of course, has much to do with the
 prospects of recovery; the acute cases being much more susceptible of
-relief than the chronic. Thus of 619 cases that were chronic when ad-
-mitted into one of our institutions,* only 130, or 21 per cent., reco-
-vered ; while of 1134 that were recent, 688, or nearly 61 per cent.,
+relief than the chronic. Thus of 619 cases that were chronic when admitted into one of our institutions,* only 130, or 21 per cent., recovered ; while of 1134 that were recent, 688, or nearly 61 per cent.,
 recovered. In another,t only 2003 per cent, of cases that were of
 more than twelve months' duration, when admitted, recovered; while
-67-08 per cent, of those of twelve months' duration or less, when ad-
-* Indiana Hospital for the Insane, 1859. v
+67-08 per cent, of those of twelve months' duration or less, when ad* Indiana Hospital for the Insane, 1859. v
 t Report of the W. "Virginia Asylum, 1859.
 STATISTICS OF INSANITY IN THE UNITED STATES. 583
 mitted, were res'ored to health. In one institution,* 80 per cent, of
@@ -2092,15 +1929,13 @@ in one year, 726, or 82 per cent., were recent cases.
 may be shortened by attacks of insanity which exhaust the vital forces
 and so seriously disturb the various functions. An eminent writer
 assigns, as one of the modes in which the insane may fatally terminate
-their attacks of insanity, the masking or concealing of dangerous affec-
-tions by the mental disease, complaints of the patient being frequently
+their attacks of insanity, the masking or concealing of dangerous affections by the mental disease, complaints of the patient being frequently
 overlooked and taken for delusions, and the true pathology not being
 detected until after death.f Undoubtedly this is frequently true, but
 whatever be the cause of death, there are certain points which can only
 be studied in relation to the general subject of mortality, independent
 of the cause, whatever it may be, that may have terminated life?such
-as the relative number of deaths to the number of admissions or dis-
-charges, and the influence of sex, &c., on mortality.
+as the relative number of deaths to the number of admissions or discharges, and the influence of sex, &c., on mortality.
 In thirty-three of the U. S. institutions, the number of deaths based
 upon 56,405 admissions was 8638, or 153 per cent.; while in 15,235
 cases discharged from twenty-one hospitals for the insane, 3256 died,
@@ -2120,8 +1955,7 @@ follows:?
 If we study the fatal results in proportion to the discharges of each
 sex, we have 11,857 cases on which to found an estimate, 2631 of which
 proved fatal:?
-* Sixth Annual Report of the State Lunatic Hospital at Taunton, Massachu-
-setts, p. 28. 1859. .
+* Sixth Annual Report of the State Lunatic Hospital at Taunton, Massachusetts, p. 28. 1859. .
 + Dr. Copland: Dictionary of Practical Medicine, vol. n., p. 472. London, 1858.
 Q Q 2
 584 STATISTICS OF INSANITY IN THE UNITED STATES.
@@ -2165,13 +1999,10 @@ system, not including exhaustion, which would add a sixteenth more to
 that class of causes ; more than two-eighths (613 cases) were diseases
 of the digestive apparatus, and the same proportionate number (604
 cases) were morbid conditions of the respiratory apparatus, while
-fevers, accidents, suicides, etc. made up the balance. This result coin-
-cides pretty closely with that obtained by Esquirol in the post-mortem
-examination of more than 600 cases of insanity. He found that three-
-eighths had died of diseases of the abdomen, two-eighths of diseases of
+fevers, accidents, suicides, etc. made up the balance. This result coincides pretty closely with that obtained by Esquirol in the post-mortem
+examination of more than 600 cases of insanity. He found that threeeighths had died of diseases of the abdomen, two-eighths of diseases of
 the chest, and three-eighths of alterations of the brain and membranes.
-Dr. Copland, in calling attention to these investigations of the distin-
-guished psychologist, observes, " The proportion here assigned to the
+Dr. Copland, in calling attention to these investigations of the distinguished psychologist, observes, " The proportion here assigned to the
 Dementia, 105 ? 296
 Delirium, 9 ? 11
 yy
@@ -2179,17 +2010,13 @@ yy
 81*8 ?
 STATISTICS OF INSANITY IN THE UNITED STATES. 585
 first class of diseases is probably too bigh, and especially in respect of
-this country* (England). The remark is applicable also to the mor-
-tuary statistics of the insane in the United States.
+this country* (England). The remark is applicable also to the mortuary statistics of the insane in the United States.
 3. History of the Recurrence of Insanity. We have been baffled
 in a great measure in an attempt to discover what proportion of cases
-in'our hospitals for the insane were not first attacks, but mere recur-
-rences, probably after intervals of apparent sanity in many of the cases,
-by the little attention paid to this branch of the inquiry. It is ex-
-ceedingly difficult, also, to trace the history of a patient who leaves
+in'our hospitals for the insane were not first attacks, but mere recurrences, probably after intervals of apparent sanity in many of the cases,
+by the little attention paid to this branch of the inquiry. It is exceedingly difficult, also, to trace the history of a patient who leaves
 one institution, after what seemed to be a perfect restoration to health,
-to enter another, in which the fact of previous attacks may be con-
-cealed or not carefully inquired into. Nor does the mere fact stated,
+to enter another, in which the fact of previous attacks may be concealed or not carefully inquired into. Nor does the mere fact stated,
 that the patient is suffering from a first attack when admitted, prove
 that he may not have been intermittently or remittently insane or
 incurable for a series of years. But taking the classification as we
@@ -2237,8 +2064,7 @@ on the accuracy of deductions from them. We need not here inquire
 into the number of those who are admitted more than once into the
 same hospital in a series of years, as our information is indefinite and
 inconsequential.
-Such are the prominent topics which we have deemed worthy of in-
-vestigation, in the recorded statistics of our American institutions for
+Such are the prominent topics which we have deemed worthy of investigation, in the recorded statistics of our American institutions for
 the insane. The omission of several important subjects, which would
 have added fulness to our remarks, without increasing their value as
 results of the observations and experience of hospitals in this country,
@@ -2249,21 +2075,18 @@ has not been our object to dilate on abstract questions of insanity, or
 586 RECENT LEGISLATION ON CRIMINAL LUNATICS.
 to point out peculiarities in systems of treatment, or to devote any
 attention whatever to such considerations as can have attraction to
-psychologists only. Even some of the minor points of statistical in-
-terest have been passed over without remark, mainly because it has
+psychologists only. Even some of the minor points of statistical interest have been passed over without remark, mainly because it has
 not been .thought expedient to deduce general laws from meagre results,
 which have only been recorded in one or two institutions. A complete
 treatise on insanity would alone include all the complications of morbid
 phenomena which attend or are consequent upon attacks of mental
-disease, as well as a more full investigation of the post-mortem appear-
-ances observed in such cases. The phrenologist may interest himself
+disease, as well as a more full investigation of the post-mortem appearances observed in such cases. The phrenologist may interest himself
 in the form of the osseous prominences of the insane; the pathologist
 may watch the progress of the case from its inception to its close, and
 eagerly pursue his inquiries into the precise portion of the cerebral
 organs which has undergone a serious lesion, and hope to throw new
 light where all is darkness; and the therapeutist may strive in vain to
-procure the recovery of his patient while he allows him to remain ex-
-posed to the causes of his malady. It has been the purpose of this
+procure the recovery of his patient while he allows him to remain exposed to the causes of his malady. It has been the purpose of this
 article to watch merely the results of the observations of each, and,
 discarding some of their conclusions as unreasonable and unreliable,
 to furnish some of those which exhibit most satisfactorily, although

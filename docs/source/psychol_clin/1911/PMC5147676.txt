@@ -3,8 +3,7 @@ The Binet-Simon Measuring Scale for Intelligence: Some Criticisms and Suggestion
 
 Leonard P. Ayees, Ph.D.,
 Russell Sage Foundation.
-In 1908, the French psychologists Binet and Simon pub-
-lished their second and most famous series of tests for the diagnosis
+In 1908, the French psychologists Binet and Simon published their second and most famous series of tests for the diagnosis
 of the grade of intelligence of children. This series, translated
 and adapted for American use by Goddard and Whipple, has won
 for itself widespread acceptance and increasing application by
@@ -14,30 +13,25 @@ in various minor respects the tests, originally developed for use
 with French children, are ill adapted to the needs of Americans,
 and, as a result, many workers are at present engaged in trying
 out minor variations in the hope of improving the series. In
-other words, there is general agreement that the measuring instru-
-ment is based on correct principles, and constructed on the right
+other words, there is general agreement that the measuring instrument is based on correct principles, and constructed on the right
 plan, but that it needs minor adjustments to make it work smoothly
 under new conditions.
 The object of this article is to present considerations which
-lead the writer to believe that what we must have is a new instru-
-ment rather than the readjustment of the old; a new instrument
+lead the writer to believe that what we must have is a new instrument rather than the readjustment of the old; a new instrument
 utilizing what is good in the old, but largely planned on different
 principles and constructed along new lines.
 The Binet-Simon tests consist of a series of fifty-six tasks
 and questions adapted to the capabilities of normal children of
-from three to thirteen years of age, and their purpose is to pro-
-vide a measuring scale whereby the intellectual performance of
+from three to thirteen years of age, and their purpose is to provide a measuring scale whereby the intellectual performance of
 the child tested may be compared with that of the average normal
 child of the same age.
 This arrangement of the tests on an age scale constitutes the
 feature of greatest value in the Binet-Simon series, and accounts
 for the enthusiastic reception accorded them immediately upon
-their publication. It enables the examiner to test a seven-year-
-old child, for example, and to discover that his mental development
+their publication. It enables the examiner to test a seven-yearold child, for example, and to discover that his mental development
 is two years in arrears if he is able to pass successfully only the
 tests assigned for children five years of age and younger. This
-method provides for the first time a definite and universally intel-
-ligible scale by which to measure the performance of the subject.
+method provides for the first time a definite and universally intelligible scale by which to measure the performance of the subject.
 A general idea of the character of the tests for each year may
 be gained from the following table, which only roughly indicates
 the nature of the tasks and questions:
@@ -53,8 +47,7 @@ mouth? 34. Comparing objects from
 Four Years. and year.
 6. Sex of child. 36. Reciting days of week.
 7. Naming familiar objects. 37. Making change.
-8. Repetition of figures. 38. Definition of familiar ob-
-9. Comparison of lines. jects.
+8. Repetition of figures. 38. Definition of familiar ob9. Comparison of lines. jects.
 Five Years. 39. Reading and report.
 10. Comparison of weights. 40. Arrangement of weights.
 11. Copying square. Ten Years.
@@ -64,8 +57,7 @@ vided card. 42. Naming nine pieces of
 Six Years. 43. Sentence building.
 14. Indicating right hand, left 44. Problem questions.
 ear. Eleven Years.
-15. Repetition of sentence. 45. Detecting absurd state-
-16. Esthetic comparison. ments.
+15. Repetition of sentence. 45. Detecting absurd state16. Esthetic comparison. ments.
 17. Definition of objects. 46. Sentence building.
 18. Execution of triple order. 47. Naming sixty words in
 19. Own age. three minutes.
@@ -81,16 +73,13 @@ Seven Years. Tiuelve Years.
 27. Counting thirteen cents. paper.
 28. Naming four common coins. 55. Describing figure made
 Eight Years. from reversed triangle.
-29. Reading and report. 56. Differences between ab-
-30. Counting money. stract terms.
+29. Reading and report. 56. Differences between ab30. Counting money. stract terms.
 31. Naming four colors.
 BINET-SIMON SCALE FOR INTELLIGENCE. 189
 These tests are designed to measure native ability, not
 scholastic attainment. They aim to provide the investigator with
-an instrument which will enable him to form a trustworthy esti-
-mate of the child's capacity for adapting himself to his social
-environment, and so are designed with special reference to evalu-
-ating his judgment, good sense, initiative, and adaptability.
+an instrument which will enable him to form a trustworthy estimate of the child's capacity for adapting himself to his social
+environment, and so are designed with special reference to evaluating his judgment, good sense, initiative, and adaptability.
 Their value as a measure of this kind of intellectual capacity
 depends on whether or not they really test the qualities they aim
 to test and with what degree of accuracy. It is the opinion of
@@ -107,8 +96,7 @@ V. Too great weight is given to "puzzle tests."
 VI. Unreasonable emphasis is given to tests of ability to
 define abstract terms.
 I. Talking vs. Doing.
-The first and most serious criticism is that the ability pre-
-dominantly measured by these tests is the child's ability to use
+The first and most serious criticism is that the ability predominantly measured by these tests is the child's ability to use
 words fluently, and that this gives a warped and partial measure
 of his real degree of intelligence. The keynote of this criticism
 is founded in the tests themselves, among the questions assigned
@@ -142,9 +130,7 @@ real problem in life are invariably multiple and complex, whereas
 those which determine his answer to a hypothetical question are
 simple, few, and different in quality.
 An illustration of this may be secured by putting to a number
-of intelligent adults of demonstrated practical ability the ques-
-tions assigned to ten-year-old children in the tests under consider-
-ation. One of these reads, "What ought one to do before taking
+of intelligent adults of demonstrated practical ability the questions assigned to ten-year-old children in the tests under consideration. One of these reads, "What ought one to do before taking
 part in an important affair ?" The writer's experience in putting
 this question to business men is not encouraging. A few answers
 have been received ranging from "Take a bath," and, "Put on
@@ -169,8 +155,7 @@ between verbal equality and real equality which seldom exists.
 The blood-curdling series of tests put to eleven-year-old children
 to discover their ability to detect absurdities well illustrates this
 defect. The statement:
-"There was found in the park to-day the body of an un-
-BINET-SIMON SCALE FOR INTELLIGENCE. 191
+"There was found in the park to-day the body of an unBINET-SIMON SCALE FOR INTELLIGENCE. 191
 fortunate young girl, frightfully mutilated, and chopped into
 eighteen pieces. It is thought that she committed suicide."
 may well be a pleasant and entertaining narrative to a normal and
@@ -179,16 +164,12 @@ to his more sensitive companion. In the same statement read
 to both children there is verbal equality; in their psychical import
 there may be the most serious inequality.
 II. Recent Environmental Experience.
-Five tests depend in high degree on the child's recent environ-
-mental experiences. These are the tests relating to time and to
-money. Some of them are "doing" tests, and some of them "say-
-ing" ones. The assumption with regard to the "time" questions
+Five tests depend in high degree on the child's recent environmental experiences. These are the tests relating to time and to
+money. Some of them are "doing" tests, and some of them "saying" ones. The assumption with regard to the "time" questions
 is that intelligent children, irrespective of school training, should
 be able to name the day of the week, the month, the day of the
-month, the year, etc. Experiment among business and profes-
-sional men shows that they are frequently unable to supply these
-data off-hand unless the nature of their business requires con-
-stant reference to them. Probably every reader will recall that
+month, the year, etc. Experiment among business and professional men shows that they are frequently unable to supply these
+data off-hand unless the nature of their business requires constant reference to them. Probably every reader will recall that
 it requires only three or four days of a camping trip or an ocean
 voyage to lose track of the days of the week and the days of the
 month, and that a distinct shock is experienced when someone
@@ -216,8 +197,7 @@ or not lie is accustomed to see, have, handle or spend these pieces
 of money.
 III. Ability to Bead and Write.
 Seven tests depend on the subject's ability to read and write,
-which commonly depends on the amount and kind of school experi-
-ence he has had, and may be only slightly related to his native
+which commonly depends on the amount and kind of school experience he has had, and may be only slightly related to his native
 ability.
 IV. Repetition of Words and Numbers.
 The repetition of words and numbers has an even more remote
@@ -228,8 +208,7 @@ recently proved beyond the ability of a university professor tested
 by the writer.
 V. Puzzle Tests.
 Several of the tests seem best designated as "puzzle tests,"
-and appear to have strikingly little relation to anything the nor-
-mal person has to do in the ordinary day's work. Such a one
+and appear to have strikingly little relation to anything the normal person has to do in the ordinary day's work. Such a one
 is the demand that the eight-year-old child count backwards from
 twenty. Counting backwards is one of the rarest things most
 people are called to do, and yet the proposal has recently been
@@ -237,8 +216,7 @@ seriously made that these present tests be "improved" by requiring
 the subject to recite the names of the months from December back
 to January instead of forward from January to December. To
 teach children to recite backwards lists of words that have a normal
-fixed order is educationally vicious. To include such a require-
-ment in tests of intellectual ability is at least questionable.
+fixed order is educationally vicious. To include such a requirement in tests of intellectual ability is at least questionable.
 Another "puzzle test" for thirteen-year-old children seems as
 foreign to everyday experience as the foregoing. It uses for
 material a visiting card cut along the diagonal and asks the child
@@ -249,8 +227,7 @@ far the writer has failed to find any one able to describe the
 resulting shape.
 VI. Abstract Terms.
 Definitions of abstract terms and expressions of the difference
-between abstract words of similar sound but different meaning con-
-stitute the last class of tests to be here considered. The first
+between abstract words of similar sound but different meaning constitute the last class of tests to be here considered. The first
 objection to these is that philosophers are almost the only people
 BINET-SIMON SCALE FOB INTELLIGENCE. 193
 who think in abstractions and the second objection is that words
@@ -269,8 +246,7 @@ If not satisfied with their explanations recourse may be had to
 the Standard Dictionary where one will be rewarded by finding that
 an advent is the coming of an event, but just what the difference
 between them is remains undiscovered.
-To sum up the case to this point: two-thirds of the Binet-
-Simon tests are tests of the child's ability to use words, and only
+To sum up the case to this point: two-thirds of the BinetSimon tests are tests of the child's ability to use words, and only
 one-third tests of his ability to do acts. Among the reasons why
 certain of the tests fall short of providing satisfactory criteria for
 the judging of native ability are the following:?
@@ -290,43 +266,31 @@ depends directly on the excellence of the child's schooling.
 and numbers.
 7. Counting backwards and solving puzzles constitute several
 tests.
-8. Several tests turn on the ability to express in words com-
-prehension of difficult, abstract terms.
+8. Several tests turn on the ability to express in words comprehension of difficult, abstract terms.
 There are two important sets of evidence in favor of the tests
-and they are both good in the sense that they constitute "prag-
-matic" arguments showing that the tests "work" successfully when
+and they are both good in the sense that they constitute "pragmatic" arguments showing that the tests "work" successfully when
 194 THE PSYCHOLOGICAL CLINIC.
-applied. In the first place these tests have won rapid and wide-
-spread use and endorsement among hundreds of practical teachers
-and workers with children, whereas all previous tests of intelli-
-gence have been practically restricted in use to workers in psycho-
-logical laboratories.
+applied. In the first place these tests have won rapid and widespread use and endorsement among hundreds of practical teachers
+and workers with children, whereas all previous tests of intelligence have been practically restricted in use to workers in psychological laboratories.
 In the writer's opinion the reason for this has been pointed
-out by Professor Terman, of Stanford University, who calls atten-
-tion to the fact that here for the first time we have a set of tests
+out by Professor Terman, of Stanford University, who calls attention to the fact that here for the first time we have a set of tests
 arranged with reference to steps on a scale which is constant and
 universally understood. Everyone has a fairly accurate conception
-of what is meant when one says that a given child shows intelli-
-gence equal to that of a ten-year-old normal child. We have had
+of what is meant when one says that a given child shows intelligence equal to that of a ten-year-old normal child. We have had
 graded tests before but no one knew what the steps on the scale
 meant in terms of anything else, or where the lower end began or
 how far the upper end reached. This application of tests to a
-definite, universally understood scale constitutes the great contri-
-bution of Binet and Simon and it is so important a contribution
-that its excellence outweighs the shortcomings of the tests them-
-selves.
-The second set of evidence consists of the records of apply-
-ing the tests to large numbers of normal school children with the
+definite, universally understood scale constitutes the great contribution of Binet and Simon and it is so important a contribution
+that its excellence outweighs the shortcomings of the tests themselves.
+The second set of evidence consists of the records of applying the tests to large numbers of normal school children with the
 result that the distribution of the children into retarded, normal,
 and advanced groups corresponds fairly well with what is termed
 in statistics the normal frequency distribution. Such studies have
-been made by Binet and Simon in France with 203 normal chil-
-dren and by Goddard in this country with 1547 children. In
+been made by Binet and Simon in France with 203 normal children and by Goddard in this country with 1547 children. In
 both cases the results showed about such a distribution of retarded,
 normal and advanced children as the theory of normal frequency
 distribution tells us that we should find, and in both cases the
-results have been widely cited as constituting a scientific demon-
-stration of the correctness of the tests in so far as their degree of
+results have been widely cited as constituting a scientific demonstration of the correctness of the tests in so far as their degree of
 difficulty is concerned.
 Unfortunately this conclusion is hardly justified by the
 results of the investigations as made public, for the reason that
@@ -351,11 +315,9 @@ seven grades. Those who have done so in seven years are rated
 as normal; those who have taken six years, as one year ahead in
 progress; those taking eight years, as one year behind, etc. To
 secure a proper basis of comparison both the Goddard data and
-the writer's have been reduced to relative figures and are pre-
-sented on the basis of 1000 cases:?
+the writer's have been reduced to relative figures and are presented on the basis of 1000 cases:?
 The significant feature of the diagram is that the curves
-are closely similar. If the solid curve constitutes a scientific dem-
-onstration of the correctness of the Binet tests, then it may fairly
+are closely similar. If the solid curve constitutes a scientific demonstration of the correctness of the Binet tests, then it may fairly
 be argued that the dotted one constitutes a scientific demonstration
 that the public school systems and courses of study of these cities
 are correctly adjusted to the abilities of their pupils; neither too
@@ -366,20 +328,16 @@ tested by Binet-Simon scale (solid line) and 14,762 children in 28 cities
 rzted by their progress through seven grades (dotted line). Curves based
 on relative figures showing distribution of 1000 cases of each kind.
 196 THE PSYCHOLOGICAL CLINIC.
-would be far less need for securing a measuring scale of intelli-
-gence tlum there undoubtedly is, for in our public school system
+would be far less need for securing a measuring scale of intelligence tlum there undoubtedly is, for in our public school system
 we should have just such a scale, scientifically correct and already
 at hand.
-The fact is, however, that the progress figures from the twenty-
-eight cities referred to show great variations as between different
+The fact is, however, that the progress figures from the twentyeight cities referred to show great variations as between different
 grades and localities, and it is only by combining the figures for all
 the cities that the nearly normal curve shown is secured. A similar
 comparison could easily be made with the figures showing the
 results of the tests made by Binet and Simon in France. Indeed,
 it so happens that this curve almost exactly coincides with that
-showing the progress of the children in the eight grades of Bay-
-onne, New Jersey, and here again the almost normal curve dis-
-appears when the data are presented by separate grades.
+showing the progress of the children in the eight grades of Bayonne, New Jersey, and here again the almost normal curve disappears when the data are presented by separate grades.
 i. _
 In presenting the foregoing considerations the writer does
 not wish to appear as an antagonist of the Binet-Simon Measuring
@@ -392,8 +350,7 @@ with Mrs. Louise Stevens Bryant, of the Psychological Clinic of
 the University of Pennsylvania.
 Binet and Simon have done a great and lasting service for
 the cause of childhood in basing their tests on a definite scale.
-The present situation offers a splendid opportunity to psycholo-
-gists, teachers, and mothers to observe, discover, and record things
+The present situation offers a splendid opportunity to psychologists, teachers, and mothers to observe, discover, and record things
 which normal children do and know at each age. Work of this
 sort conducted by a large number of observers and co-ordinated
 by some central agency or agencies would soon give us a series of

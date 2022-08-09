@@ -5,8 +5,7 @@ The Vision" Of the Pupils of a1st Elementary School Tested by the Snellen Alphab
 By J. M. McCaulie,
 Principal of the Centennial School, Trenton, N. J.
 In 1862 Dr. Herman Snellen, professor of ophthalmology in
-the University of Utrecht, Holland, and director of the Nether-
-lands Institute for Diseases of the Eye, published an improved
+the University of Utrecht, Holland, and director of the Netherlands Institute for Diseases of the Eye, published an improved
 series of test types for measuring the acuity of vision. The
 principle which guided him in the construction of these test letters
 is based upon the fact that the normal eye can just discern objects
@@ -20,16 +19,14 @@ one minute. In constructing uniform letters in conformity to
 this principle, Snellen found that each letter must have at least
 one diameter equal to the tangent of a five minute angle. Each
 letter is therefore made in a square which is subdivided into
-twenty-five equal squares, each small square being equal in diam-
-eter to the tangent of a one minute angle. Since the tangent
+twenty-five equal squares, each small square being equal in diameter to the tangent of a one minute angle. Since the tangent
 of a five minute angle is equal to 0.001454, to obtain the longest
 diameter of a letter to be seen at a given distance, Snellen
 multiplied the length of the tangent of five minutes by the
 distance (in centimeters) of the letter from the nodal point of
 the eye; thus, at a distance of one hundred centimeters the
 height of the letters should be 0.1454 centimeter, and each stroke
-of the letter should be at least one-fifth of this, or 0.0291 centi-
-meter in length.
+of the letter should be at least one-fifth of this, or 0.0291 centimeter in length.
 The tests described in this paper were made during April
 and May, 1907, upon the children enrolled in the Centennial
 School, Trenton, K". J. Although made primarily, of course,
@@ -106,8 +103,7 @@ was not sufficiently acute to read the characters at that particular
 distance, and he was required to move up until he reached the
 point at which every character could be read correctly.
 The time taken by the pupils to recognize the letters varied
-considerably. It took some pupils three or four seconds to recog-
-nize some of the letters, but the average time for each letter
+considerably. It took some pupils three or four seconds to recognize some of the letters, but the average time for each letter
 was a little over a second. A pupil was allowed to study over
 one letter three or four seconds, only in case he named the others
 correctly and rapidly. Some pupils recognized the letters in
@@ -133,26 +129,22 @@ those tested last showed no improvement over those tested first.
 Some pupils could see the letters so far that it was necessary to
 place them out in a hall, or in another room, wherever conditions
 permitted it.
-Many pupils educated themselves very rapidly in the recog-
-nition of the letters, especially the "illiterate E." It was not an
+Many pupils educated themselves very rapidly in the recognition of the letters, especially the "illiterate E." It was not an
 uncommon thing for a pupil to have to move up to twelve feet
 in order to make out the direction of the E; but having once
-clearly seen it, he could recognize the other directions with ap-
-parent ease at twice the distance.
+clearly seen it, he could recognize the other directions with apparent ease at twice the distance.
 The results of this test are presented in the table on page
 179, which gives the number of eyes examined in grades I to
 VIII, with the distances at which the alphabet and illiterate
 characters could be distinguished. Four hundred and seventy
-pupils, or 940 eyes, were examined. These pupils were distrib-
-uted throughout the grades as follows: 72 in the first grade,
+pupils, or 940 eyes, were examined. These pupils were distributed throughout the grades as follows: 72 in the first grade,
 54 in the second, 39 in the third, 28 in the fourth, 41 in the
 fifth, 29 in the sixth, 130 in the seventh, and 77 in the eighth.
 Of these pupils, 344?those in grades III to VIII, inclusive?
 were tested with both the alphabet and illiterate characters.
 In the column headed, Totals III to VIII, may be found the
 figures affording the most ready comparison of the results with
-the alphabet and illiterate cards. Thus, with the alphabet char-
-acters, the largest number of eyes, 148, distinguished the letters
+the alphabet and illiterate cards. Thus, with the alphabet characters, the largest number of eyes, 148, distinguished the letters
 at fourteen feet; the next largest number, 128, at sixteen feet;
 and the next largest, 114, at twelve feet. Of the G88 eyes tested,
 390, or 5G.7 per cent, distinguished the characters at from twelvo
@@ -160,14 +152,12 @@ to sixteen feet. With the illiterate cards, however, these same eyes
 distinguished the character at a much greater distance, 94, the
 largest number, at twenty-two feet, 92 at twenty-four feet, and
 S6 at twenty feet. But a smaller number of eyes, only 272, or
-39.5 per cent, distinguished the character at these most fre-
-quent distances. The results of this comparative test with the two
+39.5 per cent, distinguished the character at these most frequent distances. The results of this comparative test with the two
 characters are exhibited in figure 1 on page 181, by Curve I for
 the alphabet test and by Curve II for the illiterate test.
 The pupils of the first and second grades, 126 in all, were
 tested with the iliterate cards only, because they did not all know
-the alphabet. Curve III represents the results obtained by test-
-ing these 252 eyes with the illiterate cards. Curve IV combines
+the alphabet. Curve III represents the results obtained by testing these 252 eyes with the illiterate cards. Curve IV combines
 in a single curve the results of the illiterate test with the 470
 pupils in all the grades.
 THE VISION OF PUPILS. 179
@@ -678,16 +668,13 @@ Curve I (alphabet test)... 128 or 18.G% 453 or 65.8% 107 or 15.5%
 Curve II (illiterate E)... 27 or 3.9% 50 or 8.1% 5GG or 82.2%
 Taking into consideration the manner in which these tests
 were made, it is evident at a glance that something is wrong,
-either with the letters used or with the "illiterate E." It is impos-
-sible for both to be correct, because with the "illiterate E" 8.1
+either with the letters used or with the "illiterate E." It is impossible for both to be correct, because with the "illiterate E" 8.1
 per cent of the pupils tested were near sighted and 82.2 per cent
 were far sighted; whereas with the alphabet test G5.8 per cent
 of the same pupils were found to be near sighted and only
 15.5 per cent far sighted. The fact that only 3.9 per
-cent of the pupils, according to the illiterate test, had noij-
-mal vision, and only 8.1 per cent were near sighted, would
-warrant the suspicion that something was wrong with the "illit-
-erate E." A close analysis of this letter will, I think, prove that
+cent of the pupils, according to the illiterate test, had noijmal vision, and only 8.1 per cent were near sighted, would
+warrant the suspicion that something was wrong with the "illiterate E." A close analysis of this letter will, I think, prove that
 the suspicion is well founded. The structure of the E is shown at
 the right-hand side of figure 1.
 A pupil being tested with this character has only to determine
@@ -717,8 +704,7 @@ than sixteen feet were also subnormal,?far sighted,?but this
 does not mean that all such eyes need the attention of an oculist. I
 think, however, it is safe to say that all eyes with T*V vision, or less,
 and all eyes with f i vision or more, need such attention. Taking
-these numbers as representing the least degree of deficiency re-
-quiring attention, it appears from the table that out of 688 eyes
+these numbers as representing the least degree of deficiency requiring attention, it appears from the table that out of 688 eyes
 tested, 15.1 per cent, or 104 eyes, may be classed as sufficiently near
 sighted to need attention, and 1.2 per cent, or 8 eyes, are sufficiently
 far sighted to need attention.
@@ -735,8 +721,7 @@ Grade. Eyes tested. Eyes &. or below. Eyes ?% or above.
 688 104 15 1% 8 1.2%
 The first and second grades were not tested with the alphabet,
 but with the "illiterate E" only, as I have said. Assuming that
-the normal distance for distinguishing this character is twenty-
-four feet, instead of sixteen feet, we have 56 normal eyes, 76
+the normal distance for distinguishing this character is twentyfour feet, instead of sixteen feet, we have 56 normal eyes, 76
 far sighted, and 120 near sighted. Again assuming, as in the
 alphabet test, that those eyes which could see the characters at
 only half the normal distance, twelve feet, or less, need attention,
@@ -757,12 +742,10 @@ that the types and characters prepared by many optical concerns
 with no guidance as to the principle upon which the letters are
 constructed, are even more likely to give unreliable results; and
 if there are such differences in the characters used in testing the
-eyes of school children in different parts of the country, the pub-
-lished result-s must be of but little value for comparison.
+eyes of school children in different parts of the country, the published result-s must be of but little value for comparison.
 In an affair of such vital importance to the nation as the
 testing of its children's eye-sight, there surely ought to be a
 uniform standard of measurement. It would be well if the
 Bureau of Education at Washington would take the matter under
 consideration, and establish a standard that could be registered
-and protected as are the weights and measures used in commer-
-cial transactions.
+and protected as are the weights and measures used in commercial transactions.

@@ -3,24 +3,20 @@ Accuracy of Pupil Reporting
 
 By J. C. Lewis, K. J. Hoke, J. B. Welles, and G. M. Wilson,
 Teachers College, New York City, N. Y.
-During the past few years many studies in education, particu-
-larly those concerning retardation and promotion, have been based
-upon the answers given by children to questions asked by the inves-
-tigators. While this method of collecting data has been known to be
+During the past few years many studies in education, particularly those concerning retardation and promotion, have been based
+upon the answers given by children to questions asked by the investigators. While this method of collecting data has been known to be
 inaccurate, no one has attempted to see how much the error was nor
 in which direction it lay, that is, whether it was in favor of the school
 examined or not. In order to get some idea of this problem, a study
 was made among the school children of a city near New York,*
-who had attended the schools for the past six years and whose cumu-
-lative record cards for this period were complete. The children
+who had attended the schools for the past six years and whose cumulative record cards for this period were complete. The children
 were a selected group in that they had spent their entire school life,
 six years in extent, in this particular school system. It was found
 however on careful examination that the selection with regard to
 race and financial circumstances was really a random one. The
 age distribution as well as the grade distribution was normal. The
 distribution by grades was,? grade three 9, grade four 33, grade five
-54, grade six 74, grade seven 5, grade eight 1, total 176. The dis-
-tribution by ages was,? 5 nine years old, 41 ten years old, 71 eleven
+54, grade six 74, grade seven 5, grade eight 1, total 176. The distribution by ages was,? 5 nine years old, 41 ten years old, 71 eleven
 years old, 42 twelve years old, 12 thirteen years old, 4 fourteen, 1
 fifteen; total 176. There were 63 boys and 93 girls, total 176.
 The pupils were asked to fill out the following blank, and the
@@ -77,8 +73,7 @@ O
 31
 Incorrect
 Say
-nor-
-mal
+normal
 27
 Say
 accel.
@@ -98,18 +93,13 @@ Reading the table from the left we find that of the normal children
 fifty-one gave correct answers, four incorrect; two of these saying
 that they had been retarded and two accelerated. Of the accelerated
 children three answered correctly and one incorrectly, the one saying
-that he was normal. Of the retarded children, we find that thirty-
-one answers were correct, and of those answering incorrectly, twenty-
-seven said that they were normal, seventeen that they were acceler-
-ated. Four reported that they had been retarded, but reported
+that he was normal. Of the retarded children, we find that thirtyone answers were correct, and of those answering incorrectly, twentyseven said that they were normal, seventeen that they were accelerated. Four reported that they had been retarded, but reported
 one year less than the records showed and four two years less
 than the records. Finally we find that six gave no answer at all.
 Reducing this table to a percentage basis, and charting it, we find
 that 93 per cent of the children who were normal answered correctly,
 ACCURACY OF PUPIL REPORTING. 137
-while 3.5 per cent said that they were retarded. Among the ac-
-celerated children the small number of cases distorted the percent-
-ages; one child said that he was normal.
+while 3.5 per cent said that they were retarded. Among the accelerated children the small number of cases distorted the percentages; one child said that he was normal.
 The most significant facts were found in the answers of the
 retarded children. Sixty-five per cent of the answers were incorrect.
 This percentage was distributed among the different mistakes as
@@ -142,8 +132,7 @@ Per cent of failures in the fifth grade  11.2
 " " " " third "   7.2
 " " " " " second "   6.6
 " " first "   7.2
-Since our study tends to show that in the lower grades these fig-
-ures are much too small, it is only fair to call attention to the evidence
+Since our study tends to show that in the lower grades these figures are much too small, it is only fair to call attention to the evidence
 in Blan's own study tending to support the conclusion which we reach.
 We are surprised that so careful a student should have neglected
 138 THE PSYCHOLOGICAL CLINIC.
@@ -169,8 +158,7 @@ as the eighth or seventh grade pupil."
 In Plainfield, N. J., there were cumulative record cards which
 Blan could have used, but of which he made little use. It appears
 however that they had some effect in helping the memory of pupils.
-The 485 pupils in this system reported 616 failures, or a larger pro-
-portion than in any of the other systems involved in the study.
+The 485 pupils in this system reported 616 failures, or a larger proportion than in any of the other systems involved in the study.
 The first grade failures reported in this system are from five to eight
 times the median per cent of the other systems, and range from 30
 to 39.2 per cent. In connection with this system Blan says: "The
@@ -250,16 +238,14 @@ three, 8 in grade two, and 14 in grade one; the distribution of total
 failures among fifth grade pupils being 1 in grade five, 4 in grade
 four, 6 in grade three, 14 in grade two, and 21 in grade one.
 The next line of table II shows the distribution of fourth grade
-retardations; the last line, the distribution of third grade retarda-
-tions. It will be seen from the table that fourth grade pupils report
+retardations; the last line, the distribution of third grade retardations. It will be seen from the table that fourth grade pupils report
 more inaccurately than fifth grade pupils, and that the third grade
 pupils do poorest of all.
 The only place where this table overlaps Blan's is in the fifth
 year. It will be interesting therefore to calculate the incidence of
 retardation for the fifth grade and compare the results with the
 figures in Blan's table. Since Blan used pupils' reports, however,
-it wall be proper for us to use pupils' reports in making the com-
-parison. This comparison is shown in table III.
+it wall be proper for us to use pupils' reports in making the comparison. This comparison is shown in table III.
 This table is derived directly from table II. The 4.7 per cent
 under grade I of table III, simply means that 7 in table II is 4.7
 per cent of 148,?148 being the total number of cases involved,
@@ -268,8 +254,7 @@ counted as a separate case. Likewise 6 in table II is 4.0 per cent
 of 148, etc.
 140 THE PSYCHOLOGICAL CLINIC.
 TABLE III.
-SHOWING THE INCIDENCE OF RETARDATION FOR FIFTH GRADE PUPILS ACCORD-
-ING TO THEIR OWN REPORTS.
+SHOWING THE INCIDENCE OF RETARDATION FOR FIFTH GRADE PUPILS ACCORDING TO THEIR OWN REPORTS.
 Grade
 As per pupils' reports.
 .7

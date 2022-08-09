@@ -3,42 +3,32 @@ Promotion, Retardation, and Elimination.
 
 By Edward L. Thorndike, Ph.D.,
 Teachers College, Columbia University.
-It is or should be well known that in every administrative edu-
-cational unit such as a city school system or a private secondary
+It is or should be well known that in every administrative educational unit such as a city school system or a private secondary
 school, the fractions of the total course nominally to be completed
 in equal times,?for example, the grades of the elementary school,
-or the years of the secondary school,?may actually require une-
-qual periods. This requirement of unequal periods is disclosed by
+or the years of the secondary school,?may actually require unequal periods. This requirement of unequal periods is disclosed by
 the fact that a large percentage of the pupils spend more time in
 one grade than in another. Nevertheless a year or half year, as
 the case may be, is assumed to be the normal time for all pupils
 and all grades alike.
 The general tendency of the elementary or secondary
-schools in this country is not known. If there is a general ten-
-dency affecting some particular grade or grades, the fact is of
+schools in this country is not known. If there is a general tendency affecting some particular grade or grades, the fact is of
 importance for three reasons. If there is a general tendency
 such as to make the completion of the second grade in the "normal"
 unit of time a specially difficult task for the pupil who reaches it,
-it would probably be advisable to eleminate this tendency. Teach-
-ers, pupils, and parents would thereby comprehend more easily
+it would probably be advisable to eleminate this tendency. Teachers, pupils, and parents would thereby comprehend more easily
 the work of the school and what is necessary to its satisfactory
 completion. If the inequality is not removed, its existence should
 at least be made known to teachers, pupils, and parents. A more
-precise knowledge of these inequalities will also help us to esti-
-mate the nature and amount of the retardation of pupils in school,
+precise knowledge of these inequalities will also help us to estimate the nature and amount of the retardation of pupils in school,
 and the elimination of pupils from school.
-I propose, therefore, to measure the extent to which the dif-
-ferent grades of the elementary and high schools are, in American
+I propose, therefore, to measure the extent to which the different grades of the elementary and high schools are, in American
 cities in general, of unequal length.
 The most desirable material from which to calculate this
-measurement would be a sufficient number of individual educa-
-tional histories, giving accurately how long each pupil took to com-
-plete grade 1, how long to complete grade 2, etc. Such life his-
-tories do not exist at all in published form, only rarely in the
+measurement would be a sufficient number of individual educational histories, giving accurately how long each pupil took to complete grade 1, how long to complete grade 2, etc. Such life histories do not exist at all in published form, only rarely in the
 written records of school officers, and could be secured in adequate
 number only at a cost for travel, time, and clerical assistance which
-is for the author prohibitive. The facts can be fairly well deter-
-(232)
+is for the author prohibitive. The facts can be fairly well deter(232)
 RETARDATION AND ELIMINATION. 233
 mined, however, from the city school reports, from an examination
 of the not infrequent statements of the number of promotions by
@@ -51,8 +41,7 @@ city in question, and four in which the same is true for the high
 school grades also.
 Although it is the relative length of the different grades which
 is to be measured, I shall give first the actual percentages of pupils
-who at the end of the year fail to be promoted, and would there-
-fore be compelled to repeat the work of the grade if they remained
+who at the end of the year fail to be promoted, and would therefore be compelled to repeat the work of the grade if they remained
 in school. I give them because they are the original data bearing
 on the general problem of retardation, and are in some respects
 superior to the statistics of over-age pupils that have hitherto been
@@ -62,8 +51,7 @@ enrolled in the grade at the end of the year, but in the case of three
 cities, Chicago, Kansas City, Mo., and Rochester, the best that
 could be done was to infer the enrolment at the end of the year
 according to the method shown in the appendix at the end of this
-part of the article. The sources of the data, with methods of in-
-ferring the June enrolment in the cases where it is not directly
+part of the article. The sources of the data, with methods of inferring the June enrolment in the cases where it is not directly
 given, are presented in the appendix. The calculated proportion
 of pupils enrolled at the end of the year who failed of promotion,
 is given in table I, on the following page.
@@ -110,8 +98,7 @@ Utica, N. Y., 1900
 1901,and 1902...
 Wheeling, W. Va
 1908
-C3 >-
-.5 a
+C3 >.5 a
 ^ to
 505
 510
@@ -387,15 +374,13 @@ o"
 a "Receiving class." &The total enrolment in Trenton in grade 1 shows that this relation would be much over 1. cFor grades 1, 2,
 and 3 together. dFor grades 4, 5, and 6 together.
 23G THE PSYCHOLOGICAL CLINIC.
-of the very great variability among cities in the proportion of fail-
-ures in the first grade, and because of certain eccentricities in the
+of the very great variability among cities in the proportion of failures in the first grade, and because of certain eccentricities in the
 reports of first grade enrolments, which will be discussed later.
 Before applying these facts to the discussion of the course of
 study, retardation, and elimination, we must consider how far
 these percentages of failures on enrolments at the end of the year,
 are valid measures of the inequality of the grades in length.
-The first inadequacy of these data as measures of the rela-
-tive length of the different grades, is that no account is taken by
+The first inadequacy of these data as measures of the relative length of the different grades, is that no account is taken by
 them of children who did the work of a grade in less than the
 normal time. Indeed, a child who is promoted during the year
 from grade 3 to grade 4, and then fails to be promoted at the end
@@ -404,18 +389,15 @@ and as a failure for grade 4, though he really completes grades
 3 and 4 in two years, and though his "failure" with grade 4 is not
 a proper measure of its relative difficulty compared with grade
 5, which he later completes in one year. But, as a matter of fact,
-for the relative lengths of the different grades, our reports of con-
-ditions at the end of the year are not seriously affected by this
+for the relative lengths of the different grades, our reports of conditions at the end of the year are not seriously affected by this
 inadequacy; first, because the pupil who is promoted during the
 year and is permitted to stay in the advanced grade until the end
 of the year, rarely if ever fails to be promoted from it at the
 close; and secondly, because there is a strong inverse correlation
-between the percentages of failures in a given city and the per-
-centages of achievements in less than the "normal" time. For the
+between the percentages of failures in a given city and the percentages of achievements in less than the "normal" time. For the
 first of these statements I have no evidence other than general
 observation, but I believe that no competent student of school
-administration will dispute it. The second I am able to demon-
-strate from the cases of Galesburg, 111., and Utica, N". Y., in whose
+administration will dispute it. The second I am able to demonstrate from the cases of Galesburg, 111., and Utica, N". Y., in whose
 reports the percentages of more rapid advance than usual are
 given. The relevant facts are given in table III.
 The second inadequacy is due to the fact that the second or
@@ -423,8 +405,7 @@ third annual failure of a pupil after two or more years in a grade
 is not given any more weight than a first failure. Here, again,
 the probability is that for our purpose the injury done is slight
 or none at all. There is probably a very close direct correlation
-between the percentages of failures as here measured, and the per-
-centages with due weight attached to second and third failures.
+between the percentages of failures as here measured, and the percentages with due weight attached to second and third failures.
 Of course, as I have already stated, the school histories of
 individual pupils are the proper data for our measurement. But
 the general relations in the whole group of cities, between the
@@ -438,8 +419,7 @@ of failures is based on the number of pupils in that grade at the
 end of the year, not of those who reached the grade and attempted
 its work, much less of children of equal original capacity. This
 TABLE III.
-DATA SHOWING INVERSE CORRELATION BETWEEN FAILURES AND RAPID PRO-
-MOTIONS.
+DATA SHOWING INVERSE CORRELATION BETWEEN FAILURES AND RAPID PROMOTIONS.
 Galesburg, III., 1898, p. 40.
 Grades
 Per cent of those promoted who
@@ -478,8 +458,7 @@ remember, for instance, that if all the pupils who began the work
 of the sixth grade had stayed in school until the end of the year,
 the percentage of failures would probably have risen, because the
 older, less scholarly, and duller pupils in the sixth grade probably
-tend more often to be eliminated. If all the pupils who com-
-pleted the second grade stayed in school long enough to spend
+tend more often to be eliminated. If all the pupils who completed the second grade stayed in school long enough to spend
 one year in the fourth high school, the percentage of failures there
 would almost certainly be very much higher, supposing present
 standards for promotion to be maintained.
@@ -507,18 +486,15 @@ the first grades.
 It is also a fact that children may be freely admitted to the
 first grade, wTho are not yet ready to do its work even very slowly.
 This cannot occur in later grades except by unusual grading of
-the schools. It is sure to happen as a result of the normal varia-
-bility of human intellect and character if the first grade work is
+the schools. It is sure to happen as a result of the normal variability of human intellect and character if the first grade work is
 such as the average child of normal age is ready for, so long as
-admission to the first grade is determined, without an examina-
-tion, on age as the main requirement. It therefore happens that
+admission to the first grade is determined, without an examination, on age as the main requirement. It therefore happens that
 the first grade is in part a mere abiding place for children until
 they are able to do its work.
 For later grades, then, our percentages are of those pupils
 who have been put there at the beginning of the year by school
 officers after the experience of the lower grades, while for grade
-1 our percentages are of those who have got into the grade some-
-how, chiefly because they were of a certain age, and have stayed
+1 our percentages are of those who have got into the grade somehow, chiefly because they were of a certain age, and have stayed
 there from some date or other until the end of the year or half
 year.
 It is very significant that in the cities where my records are
@@ -662,8 +638,7 @@ Williamsport, Pa., 1908.. . .
 it will be better to devote the remaining space to showing what
 they do mean, first, with respect to the course of study, secondly
 with respect to retardation, and thirdly with respect to elimination.
-Fortunately, in considering these topics we can use measure-
-ments of the relative length of the grades from more cities than
+Fortunately, in considering these topics we can use measurements of the relative length of the grades from more cities than
 I have reported. Ayres,1 working with recent reports, has found
 records in sixteen cities, thirteen of which are not included in my
 list. USTo substantial difference appears between the results from
@@ -695,11 +670,8 @@ is 95, the median is 97. If it is 93, the median is 96.
 APPENDIX.
 Sources of the data, with the methods of inferring the June enrolments
 in the cases where they were not directly given.
-1. Brooklyn, N. Y. Tenth Annual Report of the City Superin-
-tendent of Schools to the Board of Education of the City of New York
-for the year ending July 31, 1908, pp. 68-72. Number of pupils on reg-
-ister at end of semester; number of pupils promoted (during the semes-
-ter as well as at its close) ; per cent of pupils promoted.
+1. Brooklyn, N. Y. Tenth Annual Report of the City Superintendent of Schools to the Board of Education of the City of New York
+for the year ending July 31, 1908, pp. 68-72. Number of pupils on register at end of semester; number of pupils promoted (during the semester as well as at its close) ; per cent of pupils promoted.
 2. Chester, Pa. Manual of the Public Schools, 1903, p. 64. Per
 cent number promoted bears to number enrolled ill June. There are
 records for "Com'l 1st year," and "Com'l 2d year," in addition to those
@@ -707,8 +679,7 @@ for the regular high school. I have combined them with 1 and 2 of the
 regular high school.
 3. Chicago, III. Report of the Board of Education for the year
 ending June 23, 1899, pp. 123 and 242. The number promoted from
-grade 1 to grade 2, from grade 2 to grade 3, etc.; average daily mem-
-bership. The proportions of "number promoted" to "average daily
+grade 1 to grade 2, from grade 2 to grade 3, etc.; average daily membership. The proportions of "number promoted" to "average daily
 membership" are for grades 1 to 12 in order, .683, .815, .848, .862, .794,
 .804, .789, .862, .731, .729, .814, and 1.02. To estimate the enrolment at
 the end of the year from the average daily membership, we must
@@ -716,14 +687,10 @@ decrease the latter for grades where pupils are dropping out during the
 year (e. g., first year of high school), and increase it for grades where
 more pupils are entering late than are dropping out early (e. g., first
 primary grade). Data are lacking to do this with any closeness of
-approximation. Roughly I estimate the proportions of number pro-
-moted to enrolment at end of year for grades 1 to 12 in order as .64,
+approximation. Roughly I estimate the proportions of number promoted to enrolment at end of year for grades 1 to 12 in order as .64,
 .82, .85, .86, .82, .83, .84, .87, .80, .80, .84, .98.
-4. Columbus, Ohio. Report of the Public Schools for the year end-
-ing August, 1902, p. 200. The number in each grade failing of promo-
-tion and the number enrolled at the end of the year.
-5. Elgin, III. Report of the Board of Education for the year end-
-ing June 30, 1901, p. 12. Report is made by semesters, but for grades
+4. Columbus, Ohio. Report of the Public Schools for the year ending August, 1902, p. 200. The number in each grade failing of promotion and the number enrolled at the end of the year.
+5. Elgin, III. Report of the Board of Education for the year ending June 30, 1901, p. 12. Report is made by semesters, but for grades
 1, 2, 3, etc., not 1A, IB, 2A, 2B, etc. Number promoted to next
 grade; number retained; number in school at the close of the semester
 in each grade. There is one troublesome feature in the figures for
@@ -747,8 +714,7 @@ promoted at end of year, and not promoted at end of year.
 for the year ending June 30, 1907, pp. 88-99. Number promoted to
 each grade; total enrolment in each grade; number spending more than
 two hundred days in the grades. I infer the June enrolment for each
-grade with the aid of data given concerning those leaving school per-
-manently in grades 5, 6, and 7, and concerning the number of pupils
+grade with the aid of data given concerning those leaving school permanently in grades 5, 6, and 7, and concerning the number of pupils
 in attendance less than 20 days, 20-39, 40-59, 60-79, etc. Thus for 1907
 I take as the June enrolment for grades 5, 6, and 7, the total enrolment
 minus the number who left the school permanently, getting 2563, 2095,
@@ -769,10 +735,8 @@ it, allowing to the first grade 1132 repeaters. This gives 4170, 3259,
 3000, 3157, and 2980) are reasonably accurate, except that the actual
 June enrolment in the first grade may be higher than my estimate. The
 June enrolment in this grade of pupils who have attended 140 days or
-more, will bear approximately the same relation to the similar enrol-
-ment figures for other grades, as shown by my estimate.
-8. Manhattan, N. Y. Tenth Annual Report of the City Superin-
-tendent of Schools to the Board of Education of the City of New York
+more, will bear approximately the same relation to the similar enrolment figures for other grades, as shown by my estimate.
+8. Manhattan, N. Y. Tenth Annual Report of the City Superintendent of Schools to the Board of Education of the City of New York
 for the year ending 31, 1908, pp. f>8-72. Number of pupils on register
 at end of semester; number of pupils promoted (during the semester as
 well as at its close); per cent of pupils promoted.
@@ -804,8 +768,7 @@ Instruction for the year ending August 31, 1896, p. 162; 1897, p. 204.
 Number in grade at end of year; per cent promoted, given for grades
 3 to 8 only.
 14. Utica, N. Y. Annual Report of the Public Schools, 1900, p. 33;
-1901, p. 27; 1902, p. 25. Number in class at close of year; number pro-
-moted (divided into "fully qualified" and others promoted); number
+1901, p. 27; 1902, p. 25. Number in class at close of year; number promoted (divided into "fully qualified" and others promoted); number
 held back. Reported for primary, intermediate, and advanced grades
 of a nine grade system. Reported separately for the three advanced grades
 in the case of a school containing about three-fourths of them. I have
@@ -819,8 +782,7 @@ I have taken that proportion which the end-of-the-year enrolment is of
 the total enrolment in grades 6 and 7.
 The reasons why my data are so often for the years around 1900
 instead of later are, first, that I wished to use them as mentioned on
-p. 8 of "The Elimination of Pupils from School", to estimate elimina-
-tion from data of grade populations for the years around 1900; and
+p. 8 of "The Elimination of Pupils from School", to estimate elimination from data of grade populations for the years around 1900; and
 secondly, that I had already some considerable familiarity with and
 convenient access to school reports of that date.
 (To be concluded.)

@@ -9,15 +9,13 @@ Finkelstein's monograph, "is: What are the traits, qualities, or capacities that
 we are actually trying to measure in our marking systems? How are these
 capacities actually distributed in the body of pupils or students? What methods
 ought we to follow in measuring these capacities? What faults appear in the
-marking systems that we are now using, and how can these be avoided or min-
-imized?"
+marking systems that we are now using, and how can these be avoided or minimized?"
 In a very brief introductory chapter, the author sketches the problems
 which have arisen within the last decade with regard to the marking of students
 in schools and colleges. "From the studies of J. M. Cattell (1905), W. S. Hall
 (190G), Max Meyer (1908), W. F. Dearborn (1910), A. G. Smith (1911), A. G.
 Steele (1911), W. T. Foster (1911), and others who have discussed various phases
-of these problems, has come the demonstration that few teachers stop to con-
-sider what the marking system under which they work really implies; that the
+of these problems, has come the demonstration that few teachers stop to consider what the marking system under which they work really implies; that the
 variability in the marks given for the same subject and to the same pupils by
 different instructors is so great as frequently to work real injustice to students;
 and that the marking system in most common use?the percentage system with
@@ -40,22 +38,18 @@ Meyer  3 22 50 22 3
 Dearborn  2 23 50 23 2
 Cattell  10 20 40 20 10
 Criticizing the percentage system he makes an observation which will have
-weight with all who have studied its application to class grading. "Theoretic-
-ally," he says, "this scale implies that distinctions of a fineness of one-hundredth
+weight with all who have studied its application to class grading. "Theoretically," he says, "this scale implies that distinctions of a fineness of one-hundredth
 may be made, and in practice such distinctions are constantly attempted. But
 what is the difference, if any, between a mark of 75 and one of 76? What, for
 (181)
 182 THE PSYCHOLOGICAL CLINIC.
 that matter, does 75 mean? Has the student accomplished 75 per cent of some
-ideal accomplishment? . . . The very fact that its divisions [the hundred-
-point scale's] are so minute is doubly insidious; it promises precision, but it
-cannot afford it." In a footnote he quotes with apparent confidence the de-
-batable conclusion of Professor Starch: "The steps on a scale should be at
+ideal accomplishment? . . . The very fact that its divisions [the hundredpoint scale's] are so minute is doubly insidious; it promises precision, but it
+cannot afford it." In a footnote he quotes with apparent confidence the debatable conclusion of Professor Starch: "The steps on a scale should be at
 least twice the size of the mean variation or probable error of the measurements
 in order to be distinguishable steps. Hence the steps in a marking scale should
 be at least two times 4.2, or approximately 8 points. And hence on a scale of
-passing grades of 70 to 100 only four steps can be used with any degree of ob-
-jective reliability."
+passing grades of 70 to 100 only four steps can be used with any degree of objective reliability."
 Chapter III analyses the combined results for numerous college courses,
 using some 20,348 marks given at Cornell University during the first term of
 1902-03. The author finds that he is "justified in taking 75 as the net average
@@ -66,8 +60,7 @@ probability curve were the correct theoretical distribution, then if 75 were the
 median or mode, there ought to be equal divisions above and below this mode.
 But the deviations above 75 cannot exceed 25 points; hence the lowest possible
 mark, or complete failure, would have to be indicated by the mark of 50. It
-is perfectly evident that this conclusion leads to an absurdity. Complete igno-
-rance of a subject should be represented by a mark of 0."
+is perfectly evident that this conclusion leads to an absurdity. Complete ignorance of a subject should be represented by a mark of 0."
 If, however, he assumes that the correct theoretical distribution is a curve
 skewed to the right, then the translation of this curve to the actual distribution
 is feasible. He lays down as "the pattern or ideal distribution of marks the
@@ -75,8 +68,7 @@ following scheme:
 "Group Poorest Inferior Average Superior Excellent
 Percent  12 19 45 21 3
 Range in percentile scale 0-59 60-69 70-84 85-94 95-100"
-His conclusion is that "It would be in every respect desirable for Cornell Uni-
-versity, and any other institution of like character, and probably also for the
+His conclusion is that "It would be in every respect desirable for Cornell University, and any other institution of like character, and probably also for the
 secondary schools as well, to adopt a five-division system of marking with the
 express provision that, in the long run, the marks given by any instructor must
 not deviate widely from the distribution just indicated."
@@ -84,18 +76,15 @@ Chapter IV gives the distribution of marks by individual courses, a total
 of 8141 marks being analysed. Charts are used to show, among other things,
 the first term marks in one course as compared with second term marks in the
 same course, typical "high markers" as compared with "low markers," and
-the low standing of a class of engineering students taking a course in mathe-
-matics as required work, contrasted with the far better standing of a class of
+the low standing of a class of engineering students taking a course in mathematics as required work, contrasted with the far better standing of a class of
 arts students taking the same course as an elective.
 Mr. Finkelstein believes that while "marks may be based upon performance,
-upon ability, or accomplishment, the last named is, save under unusual cir-
-cumstances, the quality on which the marks should be based." Among his
+upon ability, or accomplishment, the last named is, save under unusual circumstances, the quality on which the marks should be based." Among his
 other conclusions there is at least one which might be adopted by college officers
 of administration, no matter what individual standards may be adhered to
 REVIEWS AND CRITICISM. 183
 by members of the faculty, "In order to insure the working of the system,"?
-and this applies equally, of course, to any system of marking,?"the distribu-
-tion actually given should be tabulated at stated intervals, say biennially, and
+and this applies equally, of course, to any system of marking,?"the distribution actually given should be tabulated at stated intervals, say biennially, and
 the distribution should be made public, so that every examiner shall know to
 what extent he conforms to the principles on which the system is based."
 A. T.

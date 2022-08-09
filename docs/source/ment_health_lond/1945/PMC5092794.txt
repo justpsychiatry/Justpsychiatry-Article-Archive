@@ -1,10 +1,11 @@
 An Introduction to Physical Methods of Treatment and Psychiatry
 ================================================================
 
-By William Sargant, M.A., M.B-
+:Author:  William Sargant, M.A., M.B-
 (Cantab), M.R.C.P., D.P.M. and Eliot Slater, M.A-,
 M.D.(Cantab), M.R.C.P., D.P.M. Livingstone
 Ltd., Edinburgh. Pp. 164. 8s. 6d.
+
 This is a most valuable contribution to the subject of
 modern physical methods of treatment in psychiatry'
 Great advances have been made in the last five years,
@@ -14,6 +15,7 @@ have so far been largely experimental, and there are
 many Medical Superintendents of mental hospitals and
 consulting psychiatrists who are still sceptical as to their
 value.
+
 The types of mental and nervous disorder which are
 most suitable for the various physical methods of
 treatment are still sub judice and there is considerable
@@ -33,6 +35,7 @@ and eminently readable even those whose time is very
 limited should be able to make themselves acquainted
 with its general thesis even if they do not study it in
 detail.
+
 The growing appreciation of the large part that
 psychiatric factors play in physical disorders, and of the
 important part that physical methods of treatment cafl

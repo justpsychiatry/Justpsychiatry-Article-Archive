@@ -92,3 +92,7 @@ source_suffix = {
     '.md': 'myst',
 }
 
+rst_epilog = """
+.. |M.B.B.S| replace:: MBBS
+
+"""

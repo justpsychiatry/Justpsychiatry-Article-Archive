@@ -1,10 +1,10 @@
 Psychotherapy?Its Uses and Limitations
 =======================================
 
-By D. R.
-Allison, M.D., M.K.C.r., and K. (J. Uordon,
+:Author: D. R. Allison, M.D., M.K.C.r., and K. (J. Uordon,
 M.D., D.Sc., F.R.C.P. Geoffrey Cumberlege,
 Oxford University Press. 8s. 6d.
+
 As the authors modestly say in their preface this small
 book sets out to be a guide to the student and practi-
 tioner, as to the sort of case where they may expect
@@ -24,6 +24,7 @@ find even more help and practical advice ; and though
 it is not written primarily for them, the social worker
 and nurse, and others interested in the human problems
 of their fellows will benefit from its lucidity.
+
 Indeed its common sense approach and reasoned tone,
 and the fact that it emphasizes psychotherapists' agree-
 ments rather than disagreements, will go far to achieve

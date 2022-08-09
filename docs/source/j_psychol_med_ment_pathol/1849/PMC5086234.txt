@@ -2,12 +2,12 @@ In Impairment Of Mind
 ======================
 
 Monograph Ii. On Softening Of The Brain Arising From &Nxtetb & ?N&Ue Jttental Isxerctse and Resulting .
-BY
-FORBES WINSLOW, M.D.
+:Author:  FORBES WINSLOW, M.D.
 LONDON:
 JOHN CHURCHILL, PRINCES STREET, SOHO.
 1849.
 i SI 11W US: | ? " ? WKM
+
 ADVERTISEMENT.
 In deference to the kind judgment of the members of
 the Medico-Chirurgical Society of Brighton, I have been
@@ -18,14 +18,12 @@ thought the subject of Ramollissement of the Brain,
 more particularly associated with Impairment of Mind,
 would be novel, and give rise to an interesting and a
 practical discussion. The essay has been sent to press
-as it was read;.'- I feel it necessary to make this state-
-\ment, as an excuse for. its desultory character, as well
-' Jk
+as it was read;.'- I feel it necessary to make this statement, as an excuse for. its desultory character, as well
 as .for the superficial mariner in which an important
-\
 subject has been treated. I append, as my excuse for
 printing the essay, the following resolution of the
 Society, before whom it was read:?
+
 " At a meeting of the Brighton Medical Society, held
 ? '-i V
 at the Town HaH-, Brighton, on Thursday, January 4th,
@@ -41,7 +39,7 @@ to further illustrate the subject, in the Psycho-
 logical Journal, edited by Dr. Forbes Winslow."
 Sussex House, Hammersmith,
 July, 1849.
-RAMOLLISSEMENT OF THE BRAIN.
+
 Nineteen years ago, I submitted to the profession,
 through the pages of " The Lancet," some observations
 on Ramollissement of the Brain. Since that period, my
@@ -113,10 +111,12 @@ In these particulars, I think it differs from ramollisse-
 ment of the brain unconnected with any well-marked
 lesions of the intelligence, and often combined with par-
 ticular and general paralysis.
+
 Before, however, directing the attention of the Society
 to the species of ramollissement more particularly con-
 nected with impairment of mind, I think it necessary to
 consider the subject more generally.
+
 The pathological change known as ramollissement, or
 softening of organic tissues, is not confined to nervous
 matter. The blood-vessels, both arteries and veins, are
@@ -129,7 +129,6 @@ is liable to these pathological changes, producing rickets
 or mollities ossium. The centre of circulation does
 not escape, and we occasionally find the heart, particu-
 larly its muscular structure, after death, in a state of
-8
 extreme ramollissement. Under these circumstances, the
 finger passes easily through its walls. The brain, then,
 is not the only organic structure liable to ramollissement.
@@ -140,6 +139,7 @@ the points of dispute among pathologists in reference to
 this disease. I shall confine myself principally to the
 most important facts, leaving the minutiae for subsequent
 discussion.
+
 I purpose" considering,
 1. The pathological character of Ramollissement of
 the Brain;
@@ -163,7 +163,6 @@ character. Softening may, as Dr. Watson observes,
 vary in degree, from the consistence which naturally
 belongs to the cerebral substance to that of thin cream.
 In its minor degree, it may be easily overlooked, and is
-9
 more perceptible to . the touch than to the eye; the
 cerebral matter is less coherent, but is not yet discon-
 tinuous or broken down. It may be washed away,
@@ -232,7 +231,6 @@ his microscopical observations, that in inflammatory
 softening there exist the formation and development
 of nucleated cells in exuded blood pliasmas. The non-
 inflammatory ramollissement consists, according to the
-11
 same authority, " in the mechanical destruction or ma-
 ceration of the nervous tissue in serum, or is the result
 of putrefaction." The yellow and -white softening is
@@ -247,6 +245,7 @@ grey-coloured softenings, on the presence of grey exuda-
 tion corpuscles; and white softenings, in the great ma-
 jority of cases, are post-mortem, and the result of mace-
 ration in serum.
+
 " In no single instance has softening of the nervous
 centres been traced to the presence or infiltration of pus.
 " That inflammation of the central parts of the brain
@@ -254,13 +253,16 @@ generally produce well-marked lesions of sensation and
 motion; whilst in inflammation of the peripheral por-
 tions, lesions of intelligence are commonly well pro-
 nounced.
+
 " That in idiopathic inflammatory softening of the
 brain, contraction in one or more limbs is a common
 symptom.
+
 " That the fawn-coloured spots described by Dr. Sims,
 are no evidence of the cure of inflammatory softening.
 " That inflammation accompanying haemorrhage is
 usually consecutive.
+
 " The softening surrounding apoplectic clots, or san-
 guineous infiltration, is no proof of inflammatory action.''
 Hamollissement of the brain is not confined to one
@@ -272,6 +274,7 @@ Corpus Callosum, Septum LucicLum, and Fornix, are also
 often the seat of this pathological change. Andral has
 published an analysis of 117 cases. The following is
 the result:
+
 Softness of the entire Hemisphere 4
 of only one Hemisphere in its entire extent 13
 ? of the convolutions alone, and others more
@@ -310,7 +313,6 @@ action, and is often seen as the effect of physical injury
 to the head, and an extension of disease from the
 internal ear to the brain. In these cases, we witness
 all the symptoms which precede inflammation of the
-13
 brain or its membranes. The more frequent causes, as
 far as they can be ascertained, of this morbid change,
 are, (I am now speaking without reference to age,)
@@ -344,7 +346,6 @@ so, I purpose confining my observations to cases occur-
 ring in the middle or advanced period of life. Ramol-
 lissement taking place at an early age, is generally
 associated with acute cerebral affections, and the indica-
-14
 tions are those of active disease going on in the head.
 It is a question among practical men, whether there are
 any well-marked characteristic symptoms which may be
@@ -370,6 +371,7 @@ itself. But even in cases where the disease appears to
 be fully developed, it is possible to effect a cure; if not,
 it is often in our power to mitigate considerably or
 alleviate its distressing symptoms.
+
 Attacks of acute ramollissement of the brain are
 generally preceded by all the symptoms indicative
 of the consecutive progress of inflammatory affec-
@@ -378,7 +380,6 @@ be the result of the congestion of that organ, it is most
 important to keep in recollection the symptoms cha-
 racterizing this state of the vascular system. 1 believe,
 in many cases, the softened state of the nervous pulp is
-15
 the effect of congestion, and congestion only. It is,
 therefore, of much consequence to detect in its earliest
 stage this premonitory sign. Before, however, speaking
@@ -410,9 +411,9 @@ that we should be on our guard whenever any of these
 signs are present. The symptoms of congestion of the
 brain are so well known, that it is unnecessary for me
 to recapitulate them.
+
 I now approach the consideration of the precursory
 symptoms. In the majority of cases I have usually
-16
 found the early signs to be headache, the pain being
 often circumscribed. This headache I have known to
 be of years' duration. Conjoined with it we have
@@ -446,7 +447,6 @@ a numbness of some portion of the body, which is
 generally attributed to an imperfect circulation of the
 blood in the part. Following this want of muscular
 tone, the patient complains of occasional weakness
-17
 of the leg or ankle coming on suddenly whilst taking
 exercise. He will when walking lose, perhaps only for
 a moment, complete control over the muscles of the leg,
@@ -477,10 +477,10 @@ I have been speaking. As this may properly be con-
 sidered as a mental symptom, I shall reserve what I
 have to say upon the point until I come to the con-
 sideration of that part of my subject.
+
 According to the experience of men who have had
 ample opportunities of studying the early or incipient
 symptoms of ramollissement of the brain, the following
-18
 are considered to be the usual symptoms of its approach,
 or actual existence. A sense of debility over the whole
 body, of heaviness, numbness, and loss of power in the
@@ -499,6 +499,7 @@ the patient frequently suffers from headache, giddiness,
 stammering, dimness of sight, visual spectra, noise in
 the ears. The circulation and vegetative functions are
 undisturbed during this stage.
+
 It has been maintained that in the early period of
 ramollissement there exists a permanently contracted
 state of the flexor muscles of one or more of the limbs.
@@ -514,7 +515,6 @@ fever when the cerebral disturbance is great. Of the
 more advanced symptoms it is unnecessary for me to
 speak. In conjunction with the physical signs pre-
 viously enumerated, we have certain mental indications
-19
 the effect of these pathological changes. I am now
 speaking of the ordinary attacks of ramollissement. In
 these instances, the mind is generally more or less affected,
@@ -548,8 +548,6 @@ mind. A gentleman who appeared apparently in excellent
 health, manifested this symptom for several days, much
 to the annoyance of himself and those about him. It
 excited no uneasiness in the mind of those who were
-b 2
-20
 witnesses to the irregularity of thought. About a week
 afterwards, whilst sitting at the breakfast-table, he was
 suddenly seized with paralysis, of which he ultimately
@@ -557,6 +555,7 @@ died. Extensive ramollissement in the central portion
 of the brain was detected after death. It must likewise
 never be forgotten that this symptom is often precursory
 of an attack of apoplexy.
+
 What can I say on the subject of treatment? Except
 in the early stage of this formidable disease, how vain
 are all our efforts to impede its march ? It has been
@@ -583,7 +582,6 @@ persons of plethoric habit, with decided indications of
 active disease in the head, cautious depletion will be
 necessary. The treatment must be conducted on ge-
 neral principles. Unfortunately, we possess no specifics
-21
 for this affection. The great question in reference to
 this part of the subject is, whether this morbid lesion
 does not often commence in the peripheral extremities of
@@ -617,7 +615,6 @@ pathological character of this species of morbid altera-
 tion, it is extremely difficult to speak. I do not consider
 it to be, in many cases, the result of inflammation; as a
 rule, it is connected with an ansemiated condition of the
-22
 system. It manifests indications which lead me to the
 conclusion, that we may with propriety consider it a
 disease sui generis, a something apart from those forms
@@ -651,7 +648,7 @@ conductor of its commands to the muscles, or of various
 impressions made upon the extremities of the nerves of
 sense, which it, the cineritious, perceives, and with which
 it works.
-2^
+
 It is extremely difficult to generalize satisfactorily the
 peculiar symptoms of this description of morbid alteration.
 Each case generally presents its own individual charac-
@@ -681,11 +678,11 @@ the brain, are exposed to severe and continued exercise,
 we cannot be too careful in watching the head symp-
 toms. Of the common physical signs of the approaching
 mischief I have previously spoken.
+
 In three cases which came under my notice, the only
 symptom of any importance, which existed for four years
 before the disease became more fully developed, was an
 intermittent pain, severe in its character, in the posterior
-24
 part of the head. For the removal of this pain various
 remedies were tried, but nothing appeared to do good.
 I could not ascertain that there existed any other indi-
@@ -719,7 +716,6 @@ I am of opinion that the pathological change commences
 earlier than most writers are inclined to admit. Are
 there any reasons why it should not? I believe it is im-
 possible to detect, in many cases, the presence of ramol-
-25 *
 lissement of the brain without a minute microscopical ex-
 amination. In most cases of cerebral organic disease, the
 mind cannot be otherwise than affected. I know that
@@ -735,6 +731,7 @@ psychological and a pathological absurdity to suppose, that
 any organic lesion can take place in the encephalon, in-
 volving the cortical structure, without affecting the
 'powers of the mind.
+
 What are the incipient mental symptoms of this form
 of softening? I can best reply to this interrogatory by
 referring to the history of several cases which have come
@@ -753,12 +750,12 @@ ceteris paribus, the sure forerunner of this condition of
 brain. I was consulted, not many days back, by a
 person who had filled for many years the situation of
 commercial traveller, and had been exposed to great
-* 26
 anxiety of mind. The principal mental symptom under
 which he laboured was a total loss of memory for recent
 occurrences. I have no doubt, from the history of the
 case, that ramollissement of the brain had commenced its
 ravages.
+
 A physician who had been engaged, for a period of
 twenty years, in active practice had been subject for a
 few years prior to his attack to an unusual degree of
@@ -781,13 +778,13 @@ trifles, and apprehensive of being left in adverse circum-
 stances. This alteration in his mental powers was per-
 ceptible eight months before the family would believe
 that anything serious was portending.
+
 A gentleman engaged on the Stock Exchange had for
 some months been exposed to great perturbation of mind.
 His brother, who was associated with him in business,
 perceived an alteration in the mind of his relative, and
 asked my opinion of the case. The symptoms were an
 undue anxiety about trifles, an inability to attend, as
-27
 usual, to the minutiae of business, and defective memory.
 It was evident that the brain had been overworked. I
 recommended immediate rest. I found that conjoined
@@ -818,10 +815,10 @@ ture of lyttse. This mode of treatment, conjoined with
 regular exercise in the open air, mineral tonics, and
 the employment of moral means, effected a permanent
 cure.
+
 A medical gentleman, a general practitioner, was placed
 under my care by Dr. Conolly. He had for some years
 been occupied in conducting an extensive country prac-
-28
 tice. Not satisfied with the amount of anxiety necessarily-
 resulting from his professional labours, he was in the
 habit of sitting up until two or three o'clock in the
@@ -845,6 +842,7 @@ most alarming symptoms, this gentleman was restored,
 re-entered his profession, and is now engaged in the
 exercise of its responsible duties. Alas! these cures
 are not of common occurrence.
+
 A gentleman, whose property was made the subject of
 vexatious and protracted litigation, presented evidences
 of great impairment of mind. The first symptom
@@ -855,7 +853,6 @@ bodily health appeared unaffected. He was physically
 vigorous, indulged in great exercise, and was able to take
 an active part in athletic games. His mental peculiarity
 was the only symptom which alarmed his family. I saw
-29
 the case with other practitioners, and he was immediately
 subjected to treatment; but notwithstanding the prompt
 and, it was hoped, efficient measures pursued, the
@@ -886,10 +883,10 @@ temper. Before friends, however, noticed the phenomena
 I have referred to, there existed evidence of an over-
 worked mind, clearly indicating the necessity of great
 caution in the exercise of its powers.
+
 A gentleman, aged twenty-five, who had exposed him-
 self to intense mental application for a period of twelve
 months, with the view of taking honours at one of our
-30
 universities, was noticed one day to manifest an extra-
 ordinary degree of risibility. He burst into a fit of
 laughter in the presence of a number of college friends,
@@ -923,7 +920,6 @@ be imperatively complied with, nothing?literally nothing
 judicious adoption of those means which are calculated
 to restore a fibrinous or plastic state of the blood, and
 to promote its healthy circulation in the brain. The
-31
 patient should live generously, and the digestive functions
 should be improved by the exhibition of gentle alteratives,
 tonics, and stimulants. After ramollissement has taken
@@ -957,7 +953,6 @@ reckless of this physiological fact than the profession
 I have the honour to address. It is, indeed, lament-
 able to witness the devastations which have followed
 a non-recognition of this important law among some
-32
 of the brightest ornaments of our profession. Let us
 be wise in time. As we rest the stomach when it
 presents evidence of its powers having been unduly
@@ -965,4 +960,5 @@ strained, so let us allow the brain to repose when we feel
 conscious that its peculiar functions have been severely
 exercised, and the mind presents deviations from a
 normal state.
+
 Savill & Edwards, Printers, Cliandos Street, Covent Garden.

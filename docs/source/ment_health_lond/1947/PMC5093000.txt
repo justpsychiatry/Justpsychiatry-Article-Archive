@@ -1,10 +1,9 @@
 Group Psycho Therapy? Theory and Practice
 ==========================================
 
-50 MENTAL HEALTH
-Reviews
-By J. W.
-klapman, M.D. Hememan. 21s.
+:Type: Reviews
+:Author: J. W. klapman, M.D. Hememan. 21s.
+
 Emotional disorders have been well described as
 disturbed adjustments of internal relations to external
 relations. In their treatment, much consideration has
@@ -24,6 +23,7 @@ modified on demand; they are not one-way but are
 inter-reactive, not simple but complex, not fixed but
 dynamic, and fruitful now of great rewards but then of
 painful frustrations.
+
 The study and treatment of inter-personal relations
 are, therefore, proper activities for those concerned with
 emotional disorders in the individual and it is not strange
@@ -41,12 +41,14 @@ participants, or of the group by the group ? What is
 the role of the group therapist ? What procedures are
 useful in group therapy ? What is known of the dynamics-
 of group formation and activity ?
+
 This book is less concerned with the delineation of a
 theory and the description of a practice than with an
 uncritical survey of some current theories and practices
 considered to be relevant to group psycho-therapy.
 It is, therefore, unprovocative and unchallenging and
 also unpatterned.
+
 Because of the stress on description and review rather
 than elucidation and definition, group therapy is given
 the vaguest terms of reference and one is left to believe
@@ -67,6 +69,7 @@ basic material for working hypotheses and to view group
 behaviour and individual illness in the light of concepts
 which, to say the least, are suspiciously like personal
 beliefs.
+
 The book appears to have been written for psychiatric
 " hill-billies" and contains a good short American
 isolationist history of group therapy. There are useful
@@ -97,6 +100,7 @@ sometimes apparent but it is massively assumptive to
 describe complex group phenomena by unmodified
 terms borrowed from the study of individual psycho-
 pathology.
+
 Groups are not individuals. Group hostility is some-
 thing more than "resistance", something more than
 the sum of individual transference-relationships to the
@@ -124,6 +128,7 @@ openings for individual therapy. Treatment is, there-
 fore, by the therapist of the individual set in a group
 rather than of the individual by the social forces within
 the group.
+
 Several procedures are held to be helpful. A course
 of lectures on physiology of the nervous system or on
 mental illness (such as a P.S.W. has experienced) is
@@ -133,7 +138,7 @@ mended and class dissemination and discussion of the
 principles of mental hygiene is regarded as valuable; for
 the author has a vigorous acceptance of the value of
 effecting emotional release by intellectual channels.
-MENTAL HEALTH 51
+
 Now didacticism and pedagogy are well known to have
 far-reaching effects, and collective explanation and
 persuasion is surely a useful procedure; class discussions

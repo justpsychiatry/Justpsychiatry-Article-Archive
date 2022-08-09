@@ -1,7 +1,7 @@
 Psychopathology
 =================
 
-By J. E. Nicole, L.M.S.S.A., D.P.M.,
+:Author: J. E. Nicole, L.M.S.S.A., D.P.M.,
 M.R.C.S. Bailli6re, Tindall & Cox. 15s.
 The fourth edition of Dr. Nicole's book contains, as
 he says, only a few additions and corrections to the
@@ -20,6 +20,7 @@ not the account of psychopathological views which
 seem to be needed here but the power to get these, ideas
 directly or indirectly (by public opinion) into the minds
 of governments and so into action.
+
 The accounts of the work and theories of the major
 schools is most clear and concise, and does not neglect
 to include also the work of Rivers, Watson and Kempf.
@@ -27,6 +28,7 @@ The contributions of endocrinology, biochemistry and
 physiology are discussed, and the work of Malinovski
 and Mead in sociology and ethnology is given its deserved
 place.
+
 Dr. Nicole has, however, restrained the temptation '
 to be too detailed, thinking rightly that the value of his
 book lies mostly in providing a guide to the many

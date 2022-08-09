@@ -1,9 +1,10 @@
 Hypnotism Today
 ===============
 
-By L. M. Lecron, B.A., and J.
+:Author: L. M. Lecron, B.A., and J.
 Bordeaux, M.A. Foreword by M. H. Erickson,
 M.D. Wm. Heinemann Medical Books Ltd. 25s.
+
 This is a timely and most useful book. Written by
 two consulting psychologists and introduced in a
 foreword by a psychiatrist, Dr. Milton A. Erickson,
@@ -28,6 +29,7 @@ afford to be ignorant of the subject, and no modern
 psychologist can evade the question of the normality
 or abnormality of the state of hypnosis or the justification
 of the use of hypnotism in special cases.
+
 As an exposition of almost all sides of the subject this
 book is excellent. Where it falls short is in an inadequate
 appreciation of the practical and medical (not the

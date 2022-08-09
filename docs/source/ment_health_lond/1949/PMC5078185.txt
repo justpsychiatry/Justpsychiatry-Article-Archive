@@ -1,7 +1,8 @@
 The Retarded Child. A Guide for Parents
 =========================================
-By
-Herta Loewy. Staples Press. 3s. 6d.
+
+:Author: Herta Loewy. Staples Press. 3s. 6d.
+
 This little book is, in the words of its author, " an
 outline of a method compiled through years for the
 general training of children who are mentally
@@ -11,6 +12,7 @@ on academic theorizing, and as so rarely do those
 who have first-hand knowledge in this field make
 that knowledge available for others, it should receive
 a specially warm welcome.
+
 A glance at the chapter headings reveals the wide
 scope of these 52 pages, e.g. " Care During Baby-
 hood and Early Infancy ", " General Training

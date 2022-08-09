@@ -1,8 +1,7 @@
 Mental Hygiene as an Academic Discipline at the University of Basle
 ====================================================================
 
-MENTAL HEALTH 63
-By C. M. SENN-DORCK, Baste
+:Author: C. M. SENN-DORCK, Baste
 From the Seminar on Mental Hygiene, University of Basle.
 I
 Through the efforts of Dr. Fritz Hauser, the
@@ -24,6 +23,7 @@ Institute for Modern Methods of Education "
 at Basle. The chair of Mental Hygiene at
 Basle University was converted into an extra-
 ordinary professorship in 1945.
+
 It was decided that Mental Hygiene should be
 laught at the University in the following manner :
 ?ne hour a week was devoted to lectures to
@@ -32,6 +32,7 @@ held especially for members of the medical, law,
 and other faculties according to the direction
 which interest in the subject developed.
 (See section VI.)
+
 As time went on, a demand for a special
 seminar arose. Students as well as young
 Physicians, lawyers, social workers, theologians
@@ -41,6 +42,7 @@ aid of private funds, a library (now containing
 0ver two thousand publications) and seminar
 r??m was established in 1943.
 II
+
 It was neither surprising nor unexpected that
 Rental Hygiene as a new discipline?like every-
 thing that is new?would encounter resistance,
@@ -55,6 +57,7 @@ objections to psychoanalysis which Dr. Meng
 considered the psychological basis of Mental
 Hygiene. A comment of Freud's sums up the
 situation :
+
 " It is a matter of general knowledge how
 often in the history of scientific research,
 new discoveries which later turned out to

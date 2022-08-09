@@ -1,10 +1,11 @@
 A Psychiatrist Looks at Tuberculosis
 =====================================
 
-By Eric Wittkower, M.D. With an Introduction by
+:Author: Eric Wittkower, M.D. With an Introduction by
 John Rickman, M.D. National Association
 for Prevention of Tuberculosis, Tavistock
 House North, W.C.I. 12s. 6d.
+
 Dr. Eric Wittkower is known throughout the
 world as an expert research psychiatrist in the
 psychosomatic field. The puzzling variety of
@@ -14,6 +15,7 @@ findings of 2\ years investigation show that by
 assessment of the previous personality of the patient,
 some prediction of the course of the illness is
 possible.
+
 This survey in no way invalidates the other
 aetiological factors, such as adverse living conditions,
 but offers some explanation as to why the patient
@@ -27,6 +29,7 @@ over dependent and leaning types. It is a pity that
 there has not been a control group and it is hoped
 that such an investigation will be done at a later
 date.
+
 There is an introduction by Dr. John Rickman,
 which contains an appreciation of Dr. Wittkower's
 interviewing skill. This book is to be recommended

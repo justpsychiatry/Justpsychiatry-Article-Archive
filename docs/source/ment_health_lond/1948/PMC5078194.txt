@@ -1,9 +1,9 @@
 The Unsuccessful Reader
 =======================
 
-34 MENTAL HEALTH
-By H. C. GUNZBURG, B.A., Ph.D.
+:Author: H. C. GUNZBURG, B.A., Ph.D.
 Monyhull Hall, Birmingham
+
 "... I was the worst reader in our class
 at that time. I had a book called All about
 the Circus and it was a baby's book. Well,
@@ -21,6 +21,7 @@ it and I am 15 now and I wish I was only
 I have got only one year here. I have
 heard many boys wish they were at school
 again."
+
 This extract from a short autobiographical
 note by one of the boys in my class is typical
 of the opinions of many unsuccessful readers
@@ -38,6 +39,7 @@ strengthening asocial tendencies, and many
 research workers have pointed out the close
 interrelationship between non-reading and
 behaviour troubles.
+
 The unsuccessful reader may be defined as a
 reader whose technical ability to read, or whose
 understanding for what he reads, does not
@@ -50,6 +52,7 @@ with normal intelligence. However, we find un-
 successful readers at all intelligence levels,
 though with a greater emphasis on the lower
 sections.
+
 The problem of the unsuccessful reader has
 been approached from many different sides.
 The physical bases have been investigated and
@@ -74,6 +77,7 @@ the theoretical assumptions, and some of the
 practical experiences gained in approaching
 the problem of reading disability from this
 particular side.
+
 To teach reading to senior boys of 14 to 16
 is very often a roundabout process needing
 much preliminary spadework before the initial
@@ -101,7 +105,6 @@ for these children's inability to adjust them-
 selves to the requirements of society, among
 them the task of reading. They become
 neurotic and delinquent, and reading represents
-MENTAL HEALTH 35
 a prime target for their resentment because it
 symbolizes society in its worst coercive features.
 There exists an interesting study of American
@@ -145,6 +148,7 @@ which a normal child passes without much
 difficulty, whilst the reading disability cases
 remain for one or the other reason fixed at that
 stage.
+
 Despite the existence of some sensory or
 psycho-physical handicap, this in itself does
 not provide the explanation for a fixation on
@@ -205,6 +209,7 @@ coming obstacles, as long as that intelligence
 has not been made to participate in the task
 and has not been integrated with the personality
 as a whole.
+
 Broadly speaking, the boys of my class are
 badly adjusted to society. They are unstable,
 immature, anxious, lack drive and ambition
@@ -214,7 +219,6 @@ delinquency and absconding appear to be
 mostly acts of despair: a breakdown of the
 feeble self-control which has been weakened by
 constant feelings of insecurity and inadequacy.
-36 MENTAL HEALTH
 There, then, a beginning has first of all to
 be made in stabilizing the unstable, in adjusting
 the unadjusted. As long as that negative
@@ -232,6 +236,7 @@ ally disturbed children find some ground under
 their feet, we will have created the favourable
 atmosphere for endeavouring to teach detestable
 school subjects like reading.
+
 The resentful, insecure, critical and timid
 attitude of many of these boys interferes con-
 siderably with the task of teaching to read, even
@@ -299,9 +304,11 @@ ions concerning the comprehension of those
 otherwise efficient readers. There are various
 factors which may be responsible for short-
 comings and which may be listed as follows:
+
 1. Lack of adequate experience.
 2. Lack of adequate vocabulary.
 3. Lack of emotional adaptability.
+
 As far as the first two factors are concerned,
 their influence on the misunderstanding of
 reading matter is quite obvious. Particularly
@@ -317,6 +324,7 @@ contact with the environment, leads of course
 to an inability to understand anything written
 in a slightly more mature language than the
 first primaries.
+
 But I should regard of even greater impor-
 tance the third factor, because here again can
 be found the roots of a deeply founded in-
@@ -327,7 +335,6 @@ hostility and immature critical opposition,
 which are responsible for a pronounced tendency
 on the part of the reader to misconstrue the
 meaning of sentences, to overlook relevant
-MENTAL HEALTH 37
 particulars, to read his own story into the story
 actually read, in short to go his own way in
 reading instead of following the author.
@@ -363,6 +370,7 @@ tongue, which in adults have been shown by
 psychoanalysis to be so richly symptomatic
 of the profounder secrets of the individual's
 mental attitude. "(4)
+
 These children, so constantly struggling with
 their rebellious inner forces and devoting nearly
 all the little energy of which they are capable
@@ -384,6 +392,7 @@ and story telling where it is exceptional if a
 child is able to employ throughout his narrative
 the third person without changing over into
 the first person.
+
 This dominance of the ego, so conspicuous
 in its personal life, must show itself in the
 way such a child absorbs his reading matter.
@@ -398,6 +407,7 @@ enforces more or less skilfull guessing, and by
 the narrow sphere of experience which has to be
 supplemented by the reader's own, and not
 always very healthy, phantasy. ,
+
 The conclusion from the above is, that many
 of the difficulties of the unsuccessful reader must
 be sought in his own unsatisfactory personal
@@ -422,7 +432,10 @@ will find little difficulty in eliminating the faulty
 reading habits which are now of a merely
 technical and habitual nature, deprived of their
 previous emotional roots.
-references
+
+References
+--------------
+
 (1) Gann, Edith. Reading Difficulty and Personality
 Organization. New York. 1945.
 (2) Vorhaus, Pauline G. " Non-Reading as an Expres-

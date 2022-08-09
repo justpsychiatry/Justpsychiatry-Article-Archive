@@ -1,8 +1,9 @@
 The Biology of Mental Defect
 =============================
 
-By Lionel S.
+:Author: Lionel S.
 Penrose, M.D. Sidgwick & Jackson. 21s.
+
 Many people hold very definite views which they
 do not hesitate to propound on this subject. For
 example a leading dignitary of the church recently
@@ -49,7 +50,6 @@ behaviour of the delinquents may serve as a model
 for their less gifted fellows whilst the more intelligent
 patient who is committed to an institution from
 court or prison is contemptuous of the imbeciles
-78 MENTAL HEALTH
 with whom he is confined and so prejudiced against
 any advice and instruction which he may be offered.
 Penrose also deals admirably with the alleged
@@ -71,6 +71,7 @@ those who have made great contributions to civiliza-
 tion may come from parents in no way specially
 gifted apart from their ability to endow their
 children with special characters.
+
 As to what constitutes mental defect Penrose
 explains that there is no such thing as " intelligence "
 in the abstract and that what the defective suffers
@@ -99,6 +100,7 @@ is socially determined and therefore readily
 influenced so that the ultimate level of performance
 and social usefulness of the defective is profoundly
 affected by his upbringing.
+
 In discussing the causation of mental defect,
 Penrose mentions a number of factors which have
 already attracted medical attention and some of

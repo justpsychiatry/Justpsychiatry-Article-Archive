@@ -1,8 +1,9 @@
 The Physiology of the Human Brain
 ===================================
 
-By William Senhouse Kirkes, M.D., Registrar, ami Demonstrator of Morbid
+:Author:  William Senhouse Kirkes, M.D., Registrar, ami Demonstrator of Morbid
 Anatomy at St. Bartholomew's Hospital.
+
 One of the most striking features by which tlic animal organizations
 are distinguished from vegetable, is the possession by the former
 of ti set of functions superadded to, and exercising control over, the
@@ -35,7 +36,6 @@ nervous apparatus are grouped together to form the great cerebro-
 spinal axis, which, though consisting of numerous segments, so in-
 timately connected as to form but one organ, is yet, lor purposes oi.
 description, commonly divided, as its name implies, into two parts;
-374 THE PHYSIOLOGY OF THE HUMAN BRAIN.
 the one situated within the vertebral or spinal canal, and called the
 spinal cord; the other contained within the cavity of the cranium,
 and named the enccphalon, or brain. It is with the functions ot the
@@ -45,10 +45,12 @@ principal parts?namely, the cerebrum, cerebellum, pons varolii, and
 medulla oblongata; and each of these parts must be considered,
 both in the relation which it bears to the whole, and in relation to
 its individual ofHce, as an independent nervous centre.
+
 In considering, then, the physiology of the medulla oblongata, to
 which our attention shall be first directed, it will bo desirable,
 before speaking of its individual functions as a distinct nervous
 centre, to say something of its anatomical relations.
+
 Situated between and connecting together the brain and the spinal
 cord, the medulla oblongata is obviously the channel through which
 all communications between these two main portions of the cerebro-
@@ -85,7 +87,6 @@ fibres continuous with the anterior and lateral columns of the cord;
 while, from the front of the rcstiform tracts, which are continuous
 with the posterior or sensitive columns of the cord, arise the roots of
 the geusitive glossopharyngeal and pueuuio-gastriu nerves. But,
-TIIE PHYSIOLOGY OF THE HUMAN BRAIN. 375
 although the fibres of the anterior and posterior columns of the
 spinal cord are, in one sense, continuous with those of the correspond-
 ing tracts of the medulla oblongata, yet the majority of the fibres of
@@ -103,6 +104,7 @@ explained. There is, however, 110 appearance of the posterior, or
 sensitive fibres, decussating: so that an equally satisfactory explana-
 tion of the fact, that the paralysis of sensation, like that of motion,
 is also 011 the opposite side of the body, cannot yet be given.
+
 Besides containing the parts which connect the brain and the
 spinal cord, and which serve to transmit impressions from one to the
 other, the medulla oblongata has, by virtue of the gray or vesicular
@@ -136,7 +138,6 @@ to reside, not in every portion of the medulla oblongata, but only in
 the interior of that part whence the pneumo-gastric nerves originate.
 For, it is said, that by careful management, the medulla oblongata
 may be divided to within a few lines of that point, and the exterior
-37G THE PHYSIOLOGY OF THE HUMAN 15IIAIN.
 even removed, without the respiratory action ceasing; which, however,
 it does, the instant this vital part is wounded. It must not, however,
 lie supposed, that because the pneumo-gastric nerves arise from this
@@ -149,6 +150,7 @@ which lead to the co-ordinate and adopted movements whereby tho
 muscular act of respiration is carried on. Injury to this part at
 once puts an end to the production of fresh impulses, and respiratory
 movements consequently cease.
+
 As well as being the centre of respiration, the medulla oblongata
 is also the centre whence proceed the motor impulses which enable
 the muscles of the palate, pharynx, and oesophagus to produce tho
@@ -159,6 +161,7 @@ but ceases directly this latter is wounded, and it does so even though
 every other part of the nervous system is left intact. Tho act of
 deglutition is fully performed also in anencephalous monsters, and in
 marsupial embryos before the brain is developed.
+
 Although the medulla oblongata presides over two of tho most
 important functions in the body, viz. respiration and deglutition,
 and thus occupies the highest rank in relation to animal life; vet,
@@ -187,9 +190,9 @@ along its several bundles of component fibres, renders it useless to
 state the results of experiments on tho pons, so far as they relate to
 such points. Hut in regard to the functions of tho pons as a nervous
 ctnlre, the experiments of Flourcns, Longct, aud others, afford more
-THE rilYSIOLOGY OF THE HUMAN BRAIN'. 877
 satisfactory results, and render it probable that this part of tlie brain
 is capable of exercising some of the mental faculties.
+
 Thus Longet, experimenting on rabbits and puppies, found, that
 when he had removed the whole of the cerebrum, including the
 corpora striata, optic tlialami, and also the cerebellum, leaving the
@@ -219,6 +222,7 @@ removal; animals in which this experiment has been performed being
 able to see, hear, and smell, as well as perceive pain, apparently as
 perfectly as before. Hence it appears that the relation which the
 cerebellum bears to sensibility is at least of a very feeble kind.
+
 In regard to motion, the cerebellum occupies a much higher
 position. Although belonging to the motor apparatus, yet the
 results of experiments and of disease show, that it cannot be regarded
@@ -238,7 +242,6 @@ and by the time the whole of the organ had been cut away, the
 animals had completely lost the power of performing any combined
 and regular muscular action, such as flying, walking, or standing.
 They would perform irregular movements, and when placed on the
-378 THE PHYSIOLOGY OF THE HUMAN BRAIN.
 back, were unable to change their position, though they endeavoured
 to do so. Perfect consciousness seemed to remain, for the animals
 in this state could see blows aimed at them, and endeavoured to
@@ -250,6 +253,7 @@ Serres show that, in the four great divisions of vertebrate animals,
 those species whose natural habits require varied and complex
 muscular movements have the cerebellum largely developed, in pro-
 portion to the spinal cord.
+
 Although the foregoing is the generally adopted and most probable
 view of the oflice of the cerebellum, yet it should be mentioned, that
 other functions have been assigned to it by different physiologists.
@@ -273,6 +277,7 @@ at the same time, the will may be definitely and aptly directed to
 them, so as to produce combined and co-ordinate movements. It is
 well known that the followers of Gall and Spur/.hcim consider the
 cerebellum to be the seat of the generative instinct.
+
 It were out of plaec here to enter at any length into this subject,
 but it may be desirable to mention the principal facts advanced in
 support of this theory, and some of the many objections which have
@@ -289,7 +294,6 @@ cerebellum, similar to that existing between the testes ami the hair,
 larynx, and other parts. In the second place, eases have been
 adduced in which great excitation of the sexual organs has accom-
 panied disease of the cerebellum; but similar phenomena have also
-THE riiYSIOLOGY OK THE HUMAN IIRAIN. 379
 "been observed in injuries and diseases of the medulla oblongata, or
 of the upper part of the spinal cord. Again, it has been said that
 the powers of the sexual instinct in different persons may be estimated
@@ -324,6 +328,7 @@ the body (owing to the loss of balance between the muscles of the
 two sides);?the animal turning round and round from the injured
 towards the sound side, as if from partial paralysis of the side
 opposite to the injury.
+
 Situated on the upper part of the crura cerebri are the three pairs
 of small ganglia, namely: the corpora (jeniculata externa and interna,
 and the corpora quadrigemimi. The functions of these several
@@ -339,8 +344,6 @@ usually follows total loss of sight. Contraction of the iris ensues
 when the corpora quadrigemina arc irritated; but when they are
 destroyed the iris remains permanently dilated. These facts pro^e
 the important relation of the corpora quadrigemina to the sense of
-No. xi. c c
-380 THE PHYSIOLOGY OF THE HUMAN BRAIN.
 vision. And this relation does not consist in the mere anatomical
 connexion of these ganglia with the optic tracts or roots of the
 optic nerves, but in their being the special organs in which the mind
@@ -361,6 +364,7 @@ secondary, function, beside that relating to vision; for, as a general
 rule, neither their absolute nor their relative size in different animals,
 bears any direct proportion to the acutcness or extent of their several
 powers of vision.
+
 The optic thalami have not, as their name would imply, a very
 important relation to the sense of vision, though they probably have
 some share therein, since part of the fibres of the optic tract may be
@@ -372,6 +376,7 @@ both show is, that injury of these nervous masses is productive of
 considerable disturbance of the movements of the body. Destruction
 of one thalamus causes results similar to those induced by division of
 one crus cerebri, as before mentioned.
+
 According to both Schiff and Longot, the two cerebral hemi-
 spheres and corpora striata can be removed, and the animal still
 possess the power of standing and walking; but the instant one
@@ -380,6 +385,7 @@ paralyzed on the opposite side, or commences the rotatory movement.
 A partial or complete loss of power on the opposite sido of tho body
 is also the most frequent effect of apoplexy affecting one of the
 optic thalami.
+
 ^ext in order to the optic thalami come the corpora striata:-?
 Respecting the function of these bodies, however, nothing certain can
 be said. Experiments and disease prove only that they have no
@@ -389,9 +395,9 @@ showed, that when they were removed in rabbits, sensation seemed
 to be unimpaired, and the power of movement entire. Tho results,
 therefore, which these and other experiments on the same structure
 furnish, arc simply of a negative kind. It is almost unnecessary to
-THE PHYSIOLOGY OF THE HUMAN BRAIN. 381
 remind the reader of Dr. Todd's hypothesis?" That the centre of
 volition consists primarily of the corpora striata."
+
 The only portions of the brain which remain to be considered, are
 the cerebral hemispheres. The several parts of which we have
 already treated, together with the spinal cord and sympathetic
@@ -437,14 +443,12 @@ lectual faculties seem to diminish commensurately with the decrease
 of the cercbral hemispheres; but there is no corresponding decrease
 of those lower powers of the mind, of which these ganglia at the base
 of the brain are supposed to be the organs. Neither, perhaps, can any
-such diminution be traced in those conditional nets or expressions,
-c c 2
-382 TIIE niYSIOLOGV OF THE HUMAN BRAIN.
-?which belong to the common instincts that all animals manifest in
+such diminution be traced in those conditional nets or expressions, ?which belong to the common instincts that all animals manifest in
 different degrees,?such as fear, anger, jealousy, &c.; ot which, also,
 it is not improbable the cerebral ganglia may be the organs: although
 this can only be surmised so long ns we know so little ot the emo-
 tions to which lower animals are subject.
+
 It appears, then, that all the necessary actions of the animal body
 are determined and regulated by parts ot the nervous system distinct
 from the cerebral hemispheres, and that, therefore, no other functions
@@ -459,6 +463,7 @@ spheres, considered conjointly and as a single organ, may be said to
 be the instrument by which the intelligence is brought into relation
 with external objects, and by which the mind?
 1st. Possesses an intelligent consciousness.
+
 2nd. Has the voluntary faculty of exercising its powers in a given
 direction (attention, volition).
 3rd. Perceives all physical sensations, and forms ideas (perception,
@@ -482,6 +487,7 @@ larger do the cerebral hemispheres become, in comparison with the
 rest of the cerebro-spinal system: the development of no other part
 of the nervous system bearing any corresponding proportion to the
 increase of the mental faculties.
+
 The expression that the cerebral hemispheres furnish the medium
 through which the mind manifests itself externally, naturally im-
 plied that the mind must be regarded as an immaterial principle, not
@@ -489,12 +495,12 @@ dependent on the brain for its existence, but merely using the brain
 (as an artist uses the implements of his ail), for its instrument,
 whereby it gains knowledge of external things, and manifests itaown
 relation to them. Such a principle would itself remain unchanged
-TIIE rJIVSIOLOGY OF THE HUMAN BRAIN. 383
 in the case of injury or disease: its external manifestations at such
 times being interrupted l>y the imperfection of the instrument
 through which these manifestations are effected, but resumed when
 its instrument, the brain, should be sufficiently restored to allow of
 its being again employed.
+
 The mode in which the mental principle operates in its connexion
 with the brain, is still quite obscure, it appears certain, however,
 that, for all but the highest intellectual acts, one cerebral hemisphere
@@ -518,12 +524,14 @@ hcrenec of delirium and dreaming seems to be the result of this want
 of harmony in the action of the two hemispheres of the brain; and
 it is principally from phenomena of this kind that the theory of the
 duality of the mind has arisen.
+
 The sensational impressions and voluntary impulses which pass
 to and from the cerebral hemispheres, arc carried across the middle
 line, owing to the decussation of fibres already alluded to; hence the
 loss of sensation, or of voluntary movement, resulting from injury to
 either hemisphere, are observed 011 the side of the body opposite to
 that 011 which the injury is inflicted.
+
 So far the cerebral hemispheres have been regarded as a single organ,
 of which all parts arc equally appropriate for the exercise of each of
 the mental faculties. There are, however, several facts which make
@@ -539,7 +547,6 @@ faculties of the mind admits of being manifested independently of the
 rest; is capable of being educated beyond the others by exercise;
 seems to exist naturally in different persons in degrees which bear
 no definite proportion to the other faculties; may be quiescent in
-384 THE PHYSIOLOGY OF THE HUMAN BKAIN.
 bleep, while one or more of the other powers may be active; and
 seeins to admit of being disordered exclusively, or in greater degree
 than the rest, in some of the various forms of insanity. These,
@@ -554,6 +561,7 @@ a like extent; indeed, the objection to the soundness of a system
 which professes to have determined all the primitive faculties of the
 mind, as well as the special locality in the brain assigned to each, arc
 too numerous and obvious to warrant its acceptance.
+
 In this short review of the physiology of the brain, several of the
 minor portions of the cerebral mass, to which names arc given, have
 been omitted, principally because so little could be said respecting their

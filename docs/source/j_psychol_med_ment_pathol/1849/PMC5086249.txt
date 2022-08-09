@@ -3,8 +3,9 @@ Chemical Investigations on the Blood in the Neuroses
 
 A Memoir presented to the Academy of Sciences at Paris, on the
 29 th of November, 1847,
-by Dr. Michea.
+:Author: Dr. Michea.
 ( Continued from No. III.)
+
 THIRD PERIOD.
 Insanity?Absence of maniacal agitation, and ambitious monomania
 ?Imperfect general paralysis ? Involuntary excretions?Aug-
@@ -12,22 +13,24 @@ mentation of the globules?Diminution of the albumen.
 Case 1.?M , a hatter, aged 38, of a robust constitution, and a
 sanguineous temperament; has been at Bicetre from the month of
 December, 1846.
+
 On the 25th of June, 1847, he presented the following condition.
 He answered correctly all questions addressed to him on his age, his
 profession, and family, but was unable to indicate the day of the week,
 the present month, or the year. Easily excited to tears on any mention
 of his wife and children; absence of agitation, and of all delirious ideas
 regarding fortune or grandeur.
+
 Marked embarrassment of pronunciation, trembling of the lips and
 hands; tottering gait; good appetite; involuntary excretion of urine and
 fecal matter. The urine not rendered turbid by heat or on the addition
 of some drops of nitric acid.
 26th.?Standing was almost impossible. Four hundred grammes of
 blood ordered to be drawn.
-ON THE BLOOD IN THE NEUROSES. 119
 27th.?The same state as the evening before; the pulse strong and
 full, seventy-six beats in a minute. Three hundred grammes of blood
 drawn.
+
 The blood taken on this last occasion has alone been examined.
 Analysis of 1000 parts of blood.
 Water  794-142
@@ -44,12 +47,14 @@ absolutely low, independently of the first venesection. It is further to be
 remarked that the urine does not contain any trace of albumen, and
 that the diminution of this principle of the blood was not accompanied
 by any form of dropsy.
+
 Feebleness of memory?Maniacal excitement?Incoherence of ideas,
 with predominance of ambitious monomania?General paralysis?
 Involuntary excretions?Slight diminution of albumen.
 Case 2.?S , a clerk, aged 40, of a robust constitution, and
 sanguineous temperament. Has been at Bicetre since the month of
 June, 1846.
+
 At the present time (10th of June, 1847) he is in the following
 condition: very considerable loss of memory, being unable to remember
 his name or age ; strongly marked loquacity; incoherence in his speech,
@@ -63,6 +68,7 @@ and loAver extremities; involuntary excretion of urine; voracious
 appetite, and an incessant wish to indulge it. Pulse of ordinary strength,
 7 2 in the minute. Two hundred grammes of blood drawn.
 Analysis of 1000 parts of blood.
+
 Water
 Globules
 Fibrin
@@ -73,7 +79,7 @@ t inorganic
 2 634
 58*212
 9-103
-120 ON THE BLOOD IN THE NEUROSES.
+
 Insanity ? Absence of ambitious monomania ? Imperfect general
 paralysis ? Involuntary excretions ? Convulsions and epileptic
 attacks?Fever?Death?The meninges adhering to the cerebral
@@ -82,9 +88,11 @@ serosity at the base of the cranium, in the lateral ventricles, and in
 the cellular sub-arachnoid tissue, the gray matter abounding in red
 specks?Diminution of the water?Augmentation of the fibrin, and
 of the solid matters of the blood.
+
 Case 3.?Lourmant, aged forty-two, entered Bicetre in 1845. Is
 of a strong constitution, and sanguineous temperament; and has all
 the characteristics of embonpoint.
+
 Embarrassment of speech; standing and walking accompanied by
 tottering ; excessive trembling of the upper extremities. Calm, but
 manifesting feebleness of memory with respect to events of recent date ;
@@ -101,6 +109,7 @@ the skin is pinched; hiccup; the face, neck, and limbs are purplish red;
 the pulse moderately full, a hundred in a minute. 150 grammes of
 blood were drawn during one of these epileptic attacks.
 The 19 th, he died.
+
 Appearances after Death.?The brain appeared to escape on cutting
 through the cerebral membranes, which adhered to the convolutions at
 several points. The layer of arachnoid which covers the inner surface
@@ -110,6 +119,7 @@ of limpid serosity, which flowed forth at all parts. The encephalic ves-
 sels were injected. The lateral ventricles and the base of the brain were
 full of serosity. There was no ramollissement, but a decided excess of
 red specks of the gray matter.
+
 The blood drawn at the second time of venesection was alone
 analyzed.
 Analysis of 1000 parts of blood.
@@ -134,12 +144,14 @@ pient slough on the sacrum ; involuntary excretions.
 On the 18th, the patient suddenly lost all consciousness ; his face be-
 came red, and the eyes convulsed; perfect insensibility of the skin; con-
 tractions of the muscles; heat of the skin; the pulse 120 in a minute.
+
 300 grammes of blood were drawn.
 Analysis of 1000 parts of blood.
 Water  743-071
 Globules  179 728
 Fibrin   4*890
 Solid matters of the serum 72*311
+
 The considerable augmentation of the globules corresponds also in this
 case with the incontestable existence of cerebral congestion, unaccompa-
 nied by any trace of ambitious monomania. The increase in the number
@@ -159,9 +171,9 @@ whilst in the other, the abstraction of 700 grammes of blood, likewise
 on the preceding evening, had lowered the number of this principle of
 the blood to 138-8; so that in reality these two last-named cases come
 within the category of those in which the globules experienced an aug-
-122 ON THE BLOOD IN THE NEUEOSES.
 mentation: thus making the number of such cases seven instead of
 five.
+
 The fibrin was below its physiological limits in four cases; the highest
 number was 1-92, and the lowest 144. It rose in two cases above those
 limits (4-89, 10-7). It oscillated in ten cases between these physiological
@@ -171,6 +183,7 @@ the globules, and in two cases with their augmentation. Finally, in
 four cases the diminution was relative?that is to say, the number of this
 principle of the blood remained normal, whilst the number of the glo-
 bules rose above its physiological limits.
+
 The albumen was found in five cases much below its mean proportion;
 the maximum was 58, and the minimum 40. The solid matters of the
 serum exceeded in three cases their mean quantity; the minimum was
@@ -179,12 +192,14 @@ notably from their mean (89, 88, 85, 82, 79, 71, 71, 64).
 The water exceeded its mean proportion in nine cases; the minimum
 was 794, and the maximum 879. It fell seven times below these limits,
 the maximum being 778, and the minimum 743.
+
 Before we attempt to draw from these chemical facts any inductions
 capable of throwing light on the pathological physiology and the treat-
 ment of general paralysis in the insane, it will be necessary briefly to
 draw attention to certain propositions recently enounced in hematology
 as applied to pathology, and which form a part of the laws of humorism
 as at present established.
+
 According to MM. Andral and Gavarret, augmentation of the globules
 and absolute or relative diminution of the fibrin (whether one alone of
 these principles of the blood vary, or whether both simultaneously change
@@ -194,6 +209,7 @@ is the cause of antemia, and an excess of fibrin precedes invariably the
 development of acute phlegmasia. Finally, the diminution of the
 albumen would appear to correspond with the existence of a certain
 number of dropsical affections.
+
 The data yielded by nine cases of general paralysis of the insane ex-
 hibit determined cerebral congestion in four cases, with one case of
 simple tendency towards that affection; all these being cases in which I
@@ -203,12 +219,12 @@ diminution of the fibrin, and where the congestion was characterized by
 the following symptoms: injection and turgescence of the face, sudden
 inability to walk or stand upright, and hemiplegia disappearing under
 the influence of blood-letting at the end of twenty-four or forty-eight
-ON THE BLOOD IN THE NEUROSES. 123
 hours. Congestion liere corresponded in one case to an isolated aug-
 mentation of the globules, and in three cases with the latter combined
 with relative diminution of the fibrin; finally, an absolute diminution of
 the latter principle of the blood was only manifested, accompanied by
 the simple tendency to cerebral congestion.
+
 These facts confirm, as we see, the laws of pathological hematology
 laid down by MM. Andral and Gavarret; and prove, that in the majority
 of cases, the excess of the globules, and the absolute or relative diminu-
@@ -222,12 +238,14 @@ these two elements of the blood was constantly found to have expe-
 rienced an absolute augmentation, contrary to the second, whose dimi-
 nution was merely relative, the number never falling below the physio-
 logical limits.
+
 These results are, on this very account, different from those obtained
 by M. Erlenmeyer, who is of opinion that cerebral plethora in the
 insane is always accompanied by a diminution of the globules, although
 a less considerable one than that existing in chlorosis; and hence he
 concludes that blood-letting should be discarded as a therapeutic agent
 in this malady.
+
 Symptoms of convulsions, alternating with cataleptic attacks, were
 connected in one instance with a diminution of the globules.
 Phenomena characteristic of acute cerebral phlegmasia coincides in
@@ -247,7 +265,6 @@ its course 1 Might not a quantity of albumen have been found in the
 cerebral serosity?I -will not say sufficient to balance the diminution of
 this principle in the blood, since this cannot take place in any instance,
 as has been proved by M. Andral?at any rate equivalent to a consider-
-124 ON THE BLOOD IN THE NEUROSES.
 able portion of this diminution 1 This theory might present some pro-
 bability, judging by analogy, since, in twenty-two analyses of serosity
 taken from the peritoneum, pleura, pericardium, cellular tissue, and the
@@ -263,6 +280,7 @@ the action of alcohol, heat, or acids, according to the statement of M.
 Haldat.* Its specific gravity differs but little from that of ordinary
 water, it is not viscid, and froths but little on being agitated in the
 air. 100 parts of this fluid yielded?
+
 Water
 Muriate of soda
 Albumen
@@ -285,6 +303,7 @@ Muriate of soda 6'64
 Sub-carbonate of soda, with a small portion
 of some other alkaline sulphate . . 1-24
 Phosphates of lime, magnesia, and iron . 0-2
+
 A fact worthy of notice, and one which proves that, in the study of
 vital phenomena, conclusions drawn from observations made on animals
 ought not always to be applied to man, is afforded by Professor J. F.
@@ -295,10 +314,10 @@ the serosity emanating from the cerebral ventricles of calves killed in
 slaughter-houses. The author of the article " Serosite," of the Diction-
 * See a report of Professor Deyeux, in the " Bulletin de la Faculte de Me
 decine de Pari?, et de la Societe de Medecine," annee 1814, No. VI., p.. 125.
-ON THE BLOOD IN THE NEUROSES. 125
 naire des Sciences Medicales, asserts, moreover, that lie is in. the
 possession of observations corroborative of this fact in comparative
 chemistry.
+
 Results which tended to establish such an exception, in the human
 subject, to the law which governs the composition of the fluid emanat-
 ing from all the other serous membranes, were well deserving of a
@@ -314,6 +333,7 @@ the meshes of the cellular tissue, differs almost entirely from that which
 moistens the membranous envelopes of the brain and of the spinal cord,
 and that albumen and soda predominate in the former, and muriate of
 soda and gelatine in the latter.
+
 In a man aged 28, who died of meningeal encephalitis, I removed
 about three teaspoonfuls of slightly rose-coloured serosity from the
 lateral ventricles. This fluid, on being carefully separated from the
@@ -323,22 +343,24 @@ died of pulmonary tuberculosis, I obtained about 16 grains of purer
 cerebral serosity. This fluid likewise coagulated when treated with the
 re-agents already named. The following Avere the results yielded by an
 analysis of 1000 parts of the fluid :?
+
 Water   991
 Salts   2
 Albumen and extracto-mucous matters . . 7
+
 It follows, as we see, from these analyses, that the albumen contained
 in the cerebral serosity is appreciable by ordinary re-agents, in opposi-
 tion to that which M. Haldat asserts to be the case in hydrocephalic
 children, but that this organic principle is found in much less consider-
 able quantities than in the serosity of the peritoneum, pleurae, pericar-
 dium, and tunica vaginalis.
+
 Hematology proves, on the other hand, that there may be a sponta-
 neous diminution, or rather an insufficient formation, of the albumen of
 the blood in nearly one-third of all the cases of general paralysis. I
 say a spontaneous diminution and an insufficient formation, for if the
 albumen had at first occurred in its normal quantity, and afterwards
 escaped from the blood, it must have been found in the urine, and to a
-126 ON THE BLOOD IN THE NEUROSES.
 certain degree in the serosity of the cellular tissue of the peritoneum, &c.,
 as we find to be the case in Bright's disease, and in dropsical affec-
 tions consequent on organic lesions of the heart. The urine was not
@@ -353,6 +375,7 @@ phalus, is still less able to represent the quantity of albumen removed
 from the blood; for we find from analysis that the arachnoid serosity
 contains infinitely less albumen than the serosity occurring in other
 serous cavities.
+
 We will now proceed to compare the results yielded by chemistry
 with those presented by pathological anatomy, and consider the differ-
 ences and resemblances existing between them.
@@ -362,6 +385,7 @@ proximate or direct cause.
 2. Paralysis is owing to compression of the brain, induced by san-
 guineous congestion, and, in one eighth of the cases, is accompanied by
 a sanguineous effusion between the meninges.
+
 3. The excessively violent and continual agitation is often induced by
 an intense inflammatory action, which gives rise to an albuminous
 exudation on the surface of the arachnoid, consisting occasionally of
@@ -369,21 +393,24 @@ small masses of a yellowish, greyish, or whitish exudation, but which is
 generally more abundant, becoming transformed into false membranes,
 analogous to those frequently met with on the pleura, pericardium,
 peritoneum, &c.
+
 4. The epileptic attacks, partial or general trembling, subsultus ten-
 dinum, convulsions, grinding of the teeth, rigidity, tetanic contractions,
 and tremblings accompanied by contractions, depend on the inflamma-
 tion of the grey matter, subsequent on chronic inflammation of the
 meninges.
+
 5. The apoplectic attacks so frequent in the third period are almost
 always induced by a sudden congestion of the vessels of the pia-mater
 and of the brain, very rarely by an afflux of serous fluid, and in no case
 by cerebral hemorrhage.
+
 6. In the third period, the cessation of the agitation, the augmenta-
 tion of the paralysis, and the insanity, are the signs of a compression of
 the brain, which depends on an exudation of serosity in the cavity of
-ON THE BLOOD IN THE NEUKOSES. 127
 the arachnoid, a serous infiltration of the pia-mater, and of an effusion
 of a similar nature into the lateral ventricles.
+
 7. The state of stupidity, with an obliteration of the faculties and
 ideas, and general paralysis of almost the whole body, are results of
 compression of the brain, and consequently of the highest degree of
@@ -412,6 +439,7 @@ by a corresponding great activity of digestion and assimilation, is a
 fundamental characteristic, and an almost pathognomonic symptom.
 Organic life appears, in this disease, to stand in an inverse ratio to
 animal or intellectual life.
+
 Although, according to our view, cerebral congestion is not the im-
 mediate, proximate, or initial cause of general paralysis, it nevertheless
 participates, in a striking manner, in developing a host of consecutive
@@ -425,10 +453,10 @@ and more especially an augmentation of the globules, we should not
 hesitate, in the first place, to subject the patients to a very strict
 vegetable diet; and, in the next, to have recourse to venesection, what-
 ever may be advanced to the contrary by M. Erlenmeyer. Here the
-128 ON THE BLOOD IN THE NEUROSES.
 question arises, Can hematology explain, more or less perfectly, the
 mode of formation of the false membranes found in the arachnoid of
 paralytic insane patients 1
+
 Pathological anatomists are at issue regarding the origin of these
 products. Some maintain that the pseudo-membranes in question are
 the effect of irritation, determined by the sanguineous effusion in the
@@ -449,6 +477,7 @@ membranes of which we are speaking; for when all traces of blood have
 disappeared, there remains no differential character in their appearance,
 or even in their structure, by which they may be distinguished from
 false membranes having a different origin."*
+
 Before we can admit, with M. Aubanel, that the false membranes of
 the arachnoid are the simple transformation of the fibrin of the blood
 effused in the serous membrane, we must first ascertain the condition in
@@ -478,6 +507,7 @@ and organized in such a manner as to produce a false membrane, which
 is usually equal in thickness to that of the pleurae or of the dura mater,
 and which extends over a considerable portion, if not over the whole
 convexity of one hemisphere 1
+
 Chemical analysis is, therefore, unfavourable to the opinion of those
 authors, who regard sanguineous effusions between the meninges as the
 origin, and a sufficient cause, of the formation of the false arachnoidal
@@ -487,6 +517,7 @@ secretion, which they attribute to the coagulation of plastic lymph, or,
 in other words, to the fibrin exhaled from all the membranes, and
 especially the serous ones, under the influence of an inflammatory
 condition.
+
 The facts of any acute phlegmasia being always accompanied by an
 excess of fibrin in the blood; and of a relative or absolute diminution
 of fibrin being found in the blood of the paralytic insane, are not suffi-
@@ -510,11 +541,10 @@ pseudo-arachnoid membranes, independently of all sanguineous effusion,
 are very uncommon, there is reason to believe that the inflammatory
 condition is most ordinarily consecutive, and is usually determined by
 the presence of this sanguineous effusion.
+
 Can the spontaneous diminution of the albumen of the blood be one
 of the causes of cerebral dropsy 1 Does its influence, combined or not,
 on the one hand, with that of the chronic inflammation of the meninges,
-no. v. k
-130 ON THE BLOOD IN THE NEUROSES.
 and, on the other, with the influence of the excessive pressure against
 the walls of the vessels by an embarrassed circulation and by a stagna-
 tion of blood in the brain, sufficiently explain this serous effusion under
@@ -546,6 +576,7 @@ consequently, in relation to its immediate cause, there woidd not be any
 such great difference between the dropsy which succeeds an organic
 disease of the heart or liver, and that which supervenes on the diminu-
 tion of the number of the albumen of the blood."
+
 I might here employ an argument, based on comparative pathology,
 in refutation of any objections that may be advanced against these
 hypotheses,on the ground that, in general paralysis of the insane, we
@@ -558,7 +589,6 @@ and in the soft tissues surrounding the lower jaw, while it is only in
 cases Avhere the affection is very far advanced that effusions of any
 extent occur in the serous cavities. I would further advance a very
 solid argument. Exclusion is as illegitimate in humorism as in
-ON THE BLOOD IN THE NEUROSES. 131
 solidism. The tenuity of the blood necessarily requires another con-
 dition to produce dropsy, consisting, according to the admission of
 Henle, in a certain relaxation of the pores of the vascular walls. Ac-
@@ -573,6 +603,7 @@ theory of Henle, we easily understand how it occurs that the serous
 effusion, instead of taking place in the cellular tissue, in the peritoneum,
 &c., occurs in the cavity of the arachnoid, in the pia-mater, and the
 lateral ventricles.
+
 It is, therefore, very probable, from the preceding considerations, that
 the spontaneous diminution, and the insufficient formation of the albu-
 men of the blood, are the immediate causes of a certain number of the
@@ -602,8 +633,6 @@ sanguineous congestion, since the fibrin of the blood was not diminished,
 and the globules were below their physiological mean. If, however,
 there was cerebral compressure, it must rather have been occasioned by
 an accumulation of serosity, whose removal must have been influenced
-k 2
-132 ON THE BLOOD IN THE NEUROSES.
 by the alvine secretions occasioned by tlie aloes. Here a very rational
 therapeutic principle would seem to emanate from this pathogenic in-
 duction, for the employment, in analogous cases, of purgatives instead of
@@ -612,10 +641,12 @@ presented by the latter, of depriving the blood of its globules (the num-
 ber of which is below the mean), and consequently producing ansemia,
 which is almost as likely as cerebral congestion to aggravate the
 paralysis.
+
 Far from proving detrimental to pathological anatomy, chemistry may
 alike aid and control its application. With equal claims to legitimacy,
 these two means of investigation may be regarded as kindred lights,
 which serve mutually to illuminate one another.
+
 Resume.
 From this investigation we arrive at three classes of conclusions:?
 1. Chemical facts.

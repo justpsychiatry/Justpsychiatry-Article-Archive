@@ -1,8 +1,9 @@
 Psychiatry in the National Health Service of the Future
 =========================================================
 
-By C. H. ROGERSON, M.D., D.P.M. \y
+:Author:  C. H. Rogerson, M.D., D.P.M. \y
 Medical Director, Cassel Hospital for Functional Nervous Disorders
+
 The first German war revealed to those who were
 filing to listen?and I include among this number
 a section of the medical profession and a number of
@@ -26,13 +27,13 @@ from it is eliminated all those, and they are many,
 who have some organic disorder in addition to their
 psychoneurosis. Hope-Gosse, in an analysis of the
 * Substance of an address given at the Annual Meeting of the Liverpool Psychiatric Clinic, 1945.
-46 MENTAL HEALTH
 health of the medical profession based upon
 insurance statistics, found that of the disorders
 coming under his review, the psychoneuroses were
 fifth in numerical importance. The problem is not
 therefore confined to one section or class of the
 population.
+
 I mentioned the first German war as a great
 stimulus to the appreciation of psychological factors
 in disease. At the beginning there was a tendency
@@ -62,6 +63,7 @@ evidence had piled up and it was no longer possible
 to ignore the volume of psychoneurotic disorder
 nor to dismiss the sufferers with a contemptuous
 sniff.
+
 It was one thing to recognize the importance of
 psychological treatment but quite another to make
 it available to the civilian population. During the
@@ -79,6 +81,7 @@ The answer made him determined to endow a
 hospital which should undertake the treatment of
 psychoneurosis in the civilian population at a cost
 which should be quite moderate.
+
 He rightly placed his finger upon the crux of the
 problem, namely that even if sufficient trained
 psychiatrists were, available the cost of treatment
@@ -97,6 +100,7 @@ gradually to work out their difficulties. For this
 reason, without charitable help the psychotherapist
 would be a luxury reserved for the well-to-do
 patient.
+
 For this reason also the curious compromise
 created by the National Health Insurance Act was
 most unhelpful for the psychiatric patient. We are all
@@ -123,6 +127,7 @@ department is apt to complain that though much is
 talked about psychological factors in disease, little
 or nothing is actually done for the patient when he
 is referred to the psychiatrist.
+
 In most places it remains true in fact, that in
 order to obtain adequate psychological treatment
 for neurosis, it is necessary to possess adequate
@@ -143,6 +148,7 @@ it can act it must be convinced that action is
 necessary and will be of value. It is the task of
 voluntary organizations to point out the necessity
 and to demonstrate the value.
+
 We are on the eve of great developments in the
 organization of medicine. Whatever the final
 nature of the changes which will come about it is
@@ -153,8 +159,6 @@ problem ? Emphatically I think not. It is rather
 like a rearmament programme. For years a few
 voices are raised pointing out the need for arms, at
 last the Government awakens and declares that
-J
-MENTAL HEALTH 47
 arms shall be produced. That is where the
 difficulties really begin. The factories, the materials,
 even the machine tools are not available. All these
@@ -171,6 +175,7 @@ I should say that the element in which we are
 most lacking is the machine tools. The machine
 tools of psychiatry are of course the psychiatrists
 themselves.
+
 I venture to say that at the present time the
 Provision of an adequate nation-wide service for the
 treatment of neuroses is entirely impossible under
@@ -190,6 +195,7 @@ number of trained psychiatrists and the time which
 delivered last year to the American Psychiatric
 Association by the Medical Director of the Rocke-
 feller foundation. He said:
+
 " The historian of Medicine in the last 50
 years contemplating the growth of psychiatry
 might well employ the psalmist's prophecy.
@@ -210,6 +216,7 @@ subject of respectable research and the toll of
 functional disease is no longer evaded or
 reluctantly admitted but now bluntly declared."
 To quote further:
+
 But " I urge you to tell society the present,
 the actual burdens psychiatrists are trying in
 vain to carry. For until you insist, until you
@@ -218,6 +225,7 @@ present resources are unequal to the demand,
 you are derelict in your duty, to yourselves, to
 your nurses and attendants, and to your
 patients.'"'
+
 and again : "You are inarticulate. I do not
 blame you for your exasperation at being
 ignored but at the risk of seeming to add insult
@@ -242,6 +250,7 @@ The introduction of a comprehensive medical
 service, under whatever aegis or of whatever political
 shade of colour will immediately bring to the fore
 these inescapable facts.
+
 The question is therefore what is to be done
 about it. One answer, and one with which I fear
 we may have to contend, is that expressed solely in
@@ -272,6 +281,7 @@ psychiatrists is being trained. Let us hope, however,
 that it will be frankly recognized as such and that
 it will give place to a better arrangement as soon as
 that is possible.
+
 The problem, then, which we have to try to solve,
 and -in which we voluntary organizations have to
 offer our guidance and example to the nation, is
@@ -281,17 +291,18 @@ for the future. It is our duty at all times to consider
 ways by which we may economize in the time spent
 upon treatment provided that economy is compatible
 with full efficiency. To sacrifice our ideal of proper
-48 MENTAL HEALTH
 treatment would be false economy indeed. We
 should not think very highly of a surgical unit in
 which certain operations were excluded because they
 took too much time.
+
 There are two ways at least in which possible
 economies can be effected without the sacrifice of
 efficiency. They are by research leading to new
 methods of treatment and by the training and
 education of others to undertake part of the work
 previously done by psychiatrists.
+
 Of the first I will say little save that it would be a
 false expedient to force us all to undertake so much
 of the routine work of treatment that we had no
@@ -302,6 +313,7 @@ illnesses which are capable of reducing greatly the
 period of incapacity and of consequent medical
 treatment of the patient. These and others must be
 fully and carefully explored.
+
 Of the second much could be said. The social
 worker can carry our ideas into the homes of our
 patients and can help us in a hundred ways to
@@ -311,6 +323,7 @@ tion of intelligence and personality and in the
 treatment of certain disorders. The occupational
 therapist can help us in the work of recreation and
 rehabilitation.
+
 In hospital practice, too, the nurse has a much
 greater part to play than has yet been allowed to her.
 The level of training and understanding of the
@@ -318,6 +331,7 @@ nurse, especially in mental hospitals, needs to be
 raised so that she becomes, everywhere a valuable
 psychiatric assistant, skilled in creating the best
 possible environment for her patient.
+
 We have to devote as much of our energies as
 possible to the selection and training of suitable
 workers in all these allied branches of our speciality
@@ -327,6 +341,7 @@ all of us. We have also to spread our gospel
 among other workers in fields which touch our own,
 among magistrates, probation officers, teachers,
 workers in children's homes, etc.
+
 Among most of these we shall be already preach-
 ing to the converted with the exception of a few
 diehards. With these events will have to speak for
@@ -375,6 +390,7 @@ deficient in the moral or temperamental sphere.
 The deficiency cannot be seen or touched, neverthe-
 less it may be there and may offer an absolute
 barrier to therapeutic progress.
+
 We ourselves have been partly to blame for this
 state of affairs by confusing optimism with wishful
 thinking. Optimism is essential in psychological
@@ -399,16 +415,17 @@ of behaviour which had been manifested from an
 early age. The rebellion against the father's authority
 was simply an incident in an unfolding story of
 repeated moral delinquency.
+
 In the first case analytical psychotherapy could
 helpfully be directed towards the patient's relation-
 ship with his father. In the second case, an
 intensive study of this relationship would be a waste
 of time.
+
 I have concerned myself so far mainly with what
 we have to do to gain the maximum efficiency
 within the psychiatric clinic. I have suggested that
 we should delegate as much as possible of the work
-MENTAL HEALTH 49
 of investigation and treatment to our associates in
 the psychiatric team, the nurse, the social worker,
 the psychologist and the occupational therapist.
@@ -429,6 +446,7 @@ who never needs to come to the clinic at all must be
 regarded as a more solid success than one who has
 heen treated, however brilliantly and efficiently, by
 the most modern techniques.
+
 Do we know enough about mental hygiene to be
 able to make sensible and worthwhile inroads into
 the problem of neurosis ? Let us avoid pious
@@ -437,6 +455,7 @@ more concrete form. Would it have been possible,
 with the aid of simple non-Utopian measures, to
 Prevent onset of neurosis in, say, 10 per cent, of our
 Present patients ? I believe it would.
+
 . We are beginning to appreciate that most neurosis
 ls caused by the remorseless pressure of events
 operating for a long period upon a susceptible
@@ -448,6 +467,7 @@ takes the shape of lack of parental affection or of
 excessive over protection. The results may not
 show clearly for years until some strain in adult life
 reveals the hidden weakness.
+
 Better education can solve some of these problems.
 % that I do not simply mean cramming psycho-
 logical knowledge into the minds of prospective
@@ -461,6 +481,7 @@ ls an equally steady counter pressure working for
 good. I have especially in mind doctors, nurses,
 teachers, clergymen and last, but certainly not least,
 business administrators.
+
 It is a painful fact that a certain proportion of
 neurosis is created unconsciously by the medical
 Profession itself. Insufficient time has been devoted
@@ -480,6 +501,7 @@ national health service is regarded as satisfactory
 until there is time for such matters and until the
 general practitioners of the future are properly
 educated in them.
+
 The training of the nurse, too, is sadly lacking
 in the psychological viewpoint. The new syllabus
 of the General Nursing Council, just issued,
@@ -500,6 +522,7 @@ the way to new advances, but in our approach to
 the lay public the question " does this suggestion
 work in practice" ? must be always in our
 minds.
+
 We have also to stick to our own last. I view
 with unmitigated horror pronouncements by
 psychologists about political, social, economic and
@@ -518,6 +541,7 @@ community to which he has a contribution to make;
 he needs a sense of adventure, of purpose and of
 meaning in his life. We ignore these needs at our
 peril.
+
 I have said nothing in this paper about the
 particular methods of organization and administra-
 tion which I favour in this new National Health

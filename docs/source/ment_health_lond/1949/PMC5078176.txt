@@ -1,11 +1,11 @@
 The Mental Health Aspect of Public Health
 ==========================================
 
-By
-uoris M. Odium, M.A., M.R.C.S., L.R.C.P.,
+:Author: uoris M. Odium, M.A., M.R.C.S., L.R.C.P.,
 D.P.M. Butterworth & Co. Ltd. Reprinted,
 as a pamphlet, from Modern Trends in Public
 Health.
+
 This pamphlet will be useful to many as a
 comprehensive description of the mental health
 services as they exist at present, and may serve
@@ -14,6 +14,7 @@ clear, concise and objective. Its account of the
 various types of mental abnormality and possible
 treatment is necessarily very elementary, but is
 direct and simple.
+
 Dr. Odium's views on future development deserve
 respect, and, as might be expected, she rightly
 stresses the need for health education. The only

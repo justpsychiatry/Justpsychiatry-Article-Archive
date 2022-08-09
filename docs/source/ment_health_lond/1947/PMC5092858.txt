@@ -2,8 +2,7 @@ Report of an Expert Committee on the work of Psychologists and Psychiatrists in 
 ===============================================================================================
 
 Privy Council Office.
-
-H.M. Stationery umce. zs.
+:Author: H.M. Stationery umce. zs.
 This report was completed in January 1945, by "
 Committee of great eminence?the Directors General
 of the three Medical Services, the President of the
@@ -12,6 +11,7 @@ Psychology in Cambridge and Reading, and of Psy*
 chiatry in Edinburgh and London?under the chairman-
 ship of first, Sir Wilson Jameson and later Sir Francis
 Fraser.
+
 It is, therefore, difficult to understand why it was not
 published until March 1947, particularly as it provides
 answers to most of those who still have honest doubts
@@ -28,7 +28,6 @@ it outdoes the latter, though it lacks something of
 colour and emphasis. Undoubtedly those who realized j
 that many of the findings of 1922 had been forgotten by I
 1938, will welcome the Foreword where the Privy j
-MENTAL HEALTH . 25
 ^uncu assures us that the findings ol" 1945 have already
 ?een implemented by considerable measure. It is to
 hoped that the report of work done since 1945 will

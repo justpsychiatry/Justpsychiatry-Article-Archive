@@ -1,7 +1,8 @@
 Hostels for Children in need of Psychiatric Attention
 ======================================================
 
-By LUCY G. FILDES, B.A., Ph.D.
+:Author:  Lucy G. Fildes, B.A., Ph.D.
+
 Chairman of Ad Hoc Committee on Hostels, Provisional National Council for Mental Health
 During the past few months the Provisional
 National Council for Mental Health has had under
@@ -9,6 +10,7 @@ consideration the question of the provision of hostel
 Accommodation in post-war planning for children
 ln need of psychiatric attention. The main results
 ?f these considerations are outlined below:?
+
 The Need for and Function of the Hostels
 While it is accepted that, as a general rule,
 Psychiatric investigation and treatment of children
@@ -29,6 +31,7 @@ for the psychiatric treatment of children under
 their care, must also plan some provision for
 residence in special hostels during treatment for a
 Proportion of these children.
+
 The function of these special hostels would
 therefore be to provide care and a suitable environ-
 ment for the full development of a child who, for
@@ -42,6 +45,7 @@ school, mix with other children and be prepared to
 take his place in the community. He should be
 discharged when he is fit to return to life in the
 community.
+
 Administrative Controls. Admission and Discharge
 It is clear that the Authority or Authorities
 Responsible for the setting up of such a hostel must
@@ -55,6 +59,7 @@ more, opportunity for consultation and discussions
 between the staff of the hostel and that of the clinic
 conducting treatment should be made readily
 available.
+
 The Hostels Themselves
 The Committee felt strongly that no attempt
 should be made to set up any fixed or rigid standards
@@ -65,6 +70,7 @@ of the problems involved justified us in laying down
 certain broad general principles which should be
 taken into consideration in making plans for the
 starting and running of such hostels.
+
 1. Size of Hostels. It is best that a hostel
 designed for the accommodation of maladjusted
 children should be small in size, taking about
@@ -75,16 +81,19 @@ reason the hostel must be for larger numbers,
 arrangements should be made whereby groups
 within the whole number of children are each made
 the particular care of one adult.
+
 2. Age Range. In a small hostel (8-10 children)
 all ages could and should be catered for since this
 arrangement the more nearly simulates a family
 group. Age differentiation is probably essential
 in larger hostels.
+
 3. Sex Differentiation. So far as evidence
 could be gained by the Committee it is preferable
 that boys and girls be together in one hostel, and
 that a reasonable equality of numbers be aimed
 at between them.
+
 Definite decisions with regard to this matter must,
 however, be made after our consideration of the
 nature and ability of the staff, the type of child
@@ -93,7 +102,6 @@ receiving treatment, and the nature of the house.
 important for the development of the children that
 adequate play space (both outdoor and indoor) and
 play material be provided so that both destructive
-32 MENTAL HEALTH
 and constructive impulses may be worked out.
 A small room or rooms for quieter forms of play
 and recreation is also desirable, these rooms should
@@ -102,6 +110,7 @@ sense of ownership coupled with responsibility for
 their care and maintenance. Separate lockers
 should be provided for each child's individual
 possessions.
+
 5. Sleeping Accommodation. On this matter the
 Committee felt that information which they had so
 far received was not adequate for any definite
@@ -111,6 +120,7 @@ and experience indicated that preferably not more
 than two or three, with a possible maximum of four,
 should sleep in one room. This policy would
 certainly be practicable in a small hostel.
+
 6. Meals. Suggestions were made as to the
 desirability of communal provision of meals (with
 children in other hostels, in schools or special
@@ -118,15 +128,20 @@ centres, etc.). On this point the Committee felt
 strongly that mealtimes were so essential a part of
 the children's education and training that all meals
 should be served in the individual hostels.
+
 Staffing
+----------
+
 Since success or failure in the hostel's purpose
 depends ultimately on the staff, selection of staff is
 of the highest importance. Points to be borne in
 mind are:?
+
 (a) Personal suitability.
 (b) Adequate training and knowledge.
 (c) Adaptability and initiative, together with the
 power to co-operate with others.
+
 Small hostels are necessarily expensive in staff,
 while maladjusted children certainly require a
 proportionately larger staff than normal children.
@@ -135,7 +150,10 @@ and wife, if suitably qualified, might be the ideal
 arrangement as people to take charge. The
 number of assistants would depend on the size of
 the hostel, type and numbers of children, etc.
+
 Classification of Cases
+-------------------------
+
 1. There should be no classification of cases for
 particular hostels on the basis of symptoms only.
 This point is of special importance because of a
@@ -155,6 +173,7 @@ Such classification is psychologically bad for the
 children concerned?its only defence is convenience
 which can in no sense be set against the child's
 well-being.
+
 2. Separate hostels should be provided if
 possible for the following two groups of children
 i. Those constitutionally inferior, whether their
@@ -162,6 +181,7 @@ inferiority is intellectual or emotional or both.
 ii. The neurotic, i.e. the child of essentially normal
 personality make-up distorted by environ-
 mental circumstances.
+
 This need for separation rests on the fundamental
 differences in make-up between the two groups of
 children?those who are by nature inferior, either

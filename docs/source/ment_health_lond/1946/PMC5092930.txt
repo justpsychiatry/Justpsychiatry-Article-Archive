@@ -1,9 +1,10 @@
 Problem Families: An Experiment in Social Rehabilitation
 ==========================================================
 
-Edited by Tom Stephens. Foreword oy
+:Author: Tom Stephens. Foreword oy
 B. Seebohm Rowntree. Pacifist Service Units-
 Pp. 72. Price 2s. 6d.
+
 This study of the problem of the socially subnormal
 family comes appropriately at a time when the State is
 about to introduce the most comprehensive health and
@@ -30,13 +31,14 @@ causes; and in the second place to record the experi-
 mental methods adopted by a team of people, the Pacifist
 Service Units, in attempting to see whether rehabilitation
 could be brought about by intensive case-work methods-
-MENTAL HEALTH 53
 by friendliness, by practical help, with a small group of
 such cases.
+
 The Report courageously recognizes not only the
 extent to which these methods succeeded, but also the
 extent to which they appeared to result in no sustained
 improvement in the family.
+
 Where such failure occurs it is attributed to a combina-
 tion of the unresponsiveness of the material, and to the
 inability of the social worker to find the right method of
@@ -47,6 +49,7 @@ the quality of the workers in the Pacifist Service Units
 and to their equipment, and to their willingness to under-
 take manual work in the homes they visited as a part
 of their technique.
+
 This is an honest sensitive picture, drawn with
 sympathy and insight, of a small group in one provincial
 city. There is every reason to suppose that a similar

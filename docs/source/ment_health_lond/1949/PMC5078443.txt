@@ -1,8 +1,9 @@
 Psychiatry: Theory and Practice for Students and Nurses
 =======================================================
 
-By H. C. Beccle, M.B., M.R.C.P.,
+:Author: H. C. Beccle, M.B., M.R.C.P.,
 D.P.M. Faber. 17s. 6d.
+
 This book sets out to provide a concise and
 accessible body of knowledge about the funda-
 mentals of psychiatry for the use of nurses and
@@ -27,6 +28,7 @@ effect their own behaviour may have on the patient's
 sociological aspects of mental illness, although the
 publisher's cover recommends it to occupational
 therapists and probation officers.
+
 Nevertheless, these are small criticisms of a book
 which is likely to be a valuable reference work,
 and deserves a place in the library of all nursing

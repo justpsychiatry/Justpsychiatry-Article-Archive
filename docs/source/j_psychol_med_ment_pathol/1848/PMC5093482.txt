@@ -2,8 +2,9 @@ The Construction and Government of Lunatic Asylums and Hospitals for the Insane
 ================================================================================
 
 Art. VII.?
-By John Conolly, M.D., Physician
+:Author: John Conolly, M.D., Physician
 to the Hanwell Asylum, Middlesex, &c. &c. London: Churchill, 1847.
+
 The internal government and management of asylums for the cure and
 care of the insane ! Can we conceive a subject of more importance than
 this, and one so specially fitted for the pen of the physician whose name
@@ -14,6 +15,7 @@ admitted to be amongst the best conducted, of our public asylums, pecu-
 liarly qualify him to speak ex cathedra on this subject, and to give to
 the profession and the public a correct idea of what such establishments
 should be.
+
 These are points upon which experienced men can only speak satis-
 factorily. It is useless to theorize; the finest, the most plausible and
 philanthropic of our speculations, often signally fail when brought to the
@@ -24,6 +26,7 @@ page, we feel that we are rambling along (thanks to the benevolent spirits
 of the age!) a pleasant road, with an intelligent and agreeable traveller,
 who is acquainted, intimately acquainted, with every inch of ground over
 which we are passing.
+
 Hanwell Asylum contains one thousand pauper patients ! Let the
 hundreds who annually visit this noble institution, and wend their way
 through its wards, inspect its arrangements, and perambulate through its
@@ -40,11 +43,11 @@ w-orst, the most distressing forms of mental malady, there often exist
 some of the better principles of our spiritual being in all their original
 purity, upon which the physician and the moralist may act with ad-
 vantage.
+
 Wordsworth, the poet of nature, has beautifully delineated the influ-
 ence of the kindly emotions of the heart upon persons gifted with
 healthy reasoning powers. How powerful is this appeal to those who have
 to do with the insane!
-72 ON THE MANAGEMENT OF LUNATIC ASYLUMS.
 " The poorest poor
 Long for a moment in a weary life,
 When they can know and feel that they have been
@@ -52,6 +55,7 @@ Themselves the fathers, and the dealers out
 Of some small blessings ; have been kind to such
 As needed kindness; for this single cause?
 That we have all one human heart."
+
 To fully appreciate this view of the case, it is necessary to live among
 the insane, to make them one's daily companions, and to become per-
 sonally and practically acquainted with their habits and character of
@@ -75,6 +79,7 @@ insanity is not an affection of the mind per se; that to Avliatever amount
 of disturbance the intellect, sentiments, and affections may be subjected,
 it is nothing more than an effect or result of some impairment of the
 physical structure?the casket enclosing the precious jeAvel.
+
 If Ave take this vieAV of the rationale of mental derangement, we shall
 be enabled to form a proper estimate of the importance of working upon
 the mind itself, and gradually bringing it Avitliin the sphere of healthy in-
@@ -96,7 +101,6 @@ by means strictly moral in their character. We do not conceive that
 this VieAV of the treatment of certain states of mind is in opposition to
 our strongly expressed opinion of the marked and essential benefit which
 often accrues from a judicious administration of physical remedies. We
-ON THE MANAGEMENT OF LUNATIC ASYLUMS. 73
 are now referring to cases in which moral means are the great elements
 of cure?cases in which it is impossible to detect, after the most careful
 investigation, the slightest appreciable bodily ailment; but often, in such
@@ -104,6 +108,7 @@ instances, the physical and moral treatment must proceed pari passu,
 and the skilful and experienced physician shows his knowledge of the
 malady, and his own ability, by wielding both these agents without
 appearing to use either.
+
 Having made these preliminary observations, we now proceed to ana-
 lyze fully the views taken by Dr. Conolly in the volume before us.
 He commences his essay by some remarks on the necessity of erecting
@@ -117,9 +122,11 @@ entertained by a portion of the magistracy that pauper lunatics are not
 only more cheaply provided for in private licensed houses than in county
 asylums, but that the number of cures effected in private houses is
 greater.
+
 Dr. Conolly thinks this a mistaken view of the matter. He says the
 actual condition of pauper lunatics, both in workhouses and private
 asylums, is entirely overlooked. He says?
+
 " The insane poor are of necessity exposed in both such places to innumerable dis-
 advantages, only to be avoided in larger public asylums. Their diet, their clothing,
 their lodging, are all generally of the most wretched description ; the means of occu-
@@ -132,6 +139,7 @@ and, whilst there is not any foundation for the assertion, that the number of cu
 curable or recent cases, is greater in private licensed houses for paupers than in public
 asylums, the mortality in such licensed houses has been shown far to exceed that of
 the public institutions."?Pp. 2, 3.
+
 Dr. Conolly affirms, that of recent cases sent to public asylums, if not
 epileptic or affected with paralysis, about fifty per cent, recover. This
 is the average proportion of cures in all the public asylums. This is said
@@ -141,6 +149,7 @@ cases, in consequence of the patients having, as Dr. Conolly says, in the
 first instance been sent in a recent curable state to private licensed houses
 or to workhouses, and only transferred to public asylums when they be-
 came unmanageable or incurable.
+
 Touching the expense of maintaining patients in public and private
 asylums, Dr. Conolly says that the advantage is on the side of the public
 institutions ; the average charge per week in the private licensed houses
@@ -152,6 +161,7 @@ curable and curable cases. He says that the views promulgated by the
 74 ON THE MANAGEMENT OF LUNATIC ASYLUMS.
 commissioners on tliis point are fallacious and full of danger. The com-
 missioners say,?
+
 " The great expenses of a lunatic hospital are unnecessary for incurable patients :
 the medical staff, the number of attendants, the minute classification, and the other re-
 quisites of an hospital for the cure of disease, are not required to the same extent. An
@@ -160,6 +170,7 @@ This Dr. Conolly maintains is an unfair view of the matter. It is im-
 possible, in the first place, to separate the curable from the incurable
 cases in public asylums, and even if such were practicable, it should
 never be forgotten?
+
 " That a large proportion of the incurable among the insane are even more sensible
 to all surrounding circumstances than the curable who are labouring under a recent
 attack; that the whole character of the life of such incurable patients depends on the
@@ -170,6 +181,7 @@ opportunities of recreation than the curable, and a greater variety of comfortab
 rangements to reconcile them to their situation, and to maintain that habitual content
 and tranquillity which distinguish a well-regulated asylum from a miserable madhouse."
 ?Pp. 4?5.
+
 On the subject of the plan of building asylums, Dr. Conolly makes
 many valuable observations. On this point it is not our purpose to enter.
 We shall merely confine ourselves to a few general observations in
@@ -197,12 +209,12 @@ of the malady under which the party is labouring. It is against this
 that Dr. Conolly nobly battles, and his position is irresistible.
 On the importance of selecting an asylum for the educated classes,
 Dr. Conolly observes,?
+
 " It should unquestionably be situated amidst scenery calculated to give pleasure to
 such persons when of sane mind. Those whose faculties have never been cultivated
 derive little satisfaction from the loveliest aspects of nature, and experience little emo-
 tion amidst the grandest. The sun rises and sets, the stars shine and fall, the hills
 reflect all the variety of brightness and shadow, of wildness and of verdure, and yet
-ON THE MANAGEMENT OF LUNATIC ASYLUMS. 7 5
 are scarcely noticed with more than mere passing attention. But when education has
 called the higher faculties into life, impressions upon them, even from external nature,
 become powerful for good or ill, and in the case of a mind diseased, may act as reme-
@@ -222,6 +234,7 @@ whilst he works, and a few flowers, which he cultivates with care. We must not
 neglect such instincts and capacities if we profess to cure diseased minds. Our prac-
 tice can only securely rest on the consideration of everything, great or little, capable of
 affecting the mind beneficially or hurtfully."?Pp. 9, 10.
+
 The author objects to a building consisting of more than two stories.
 He thinks there should be no inhabited attics, and no bed-rooms or
 dormitories in the basement of the building; all the rooms should be
@@ -239,6 +252,7 @@ assumes what is called the H form ; but it is desirable that the length of front
 he more extended than that of the wings ; and it is better still if the wings only extend
 in one direction, and away from the front or northward, supposing the front of the
 asylum to be to the south."?P. 12.
+
 He disapproves of the practice of painting numbers and letters on the
 walls of airing courts. He says, justly,?
 " When it is remembered that many patients are sent to an asylum whose senses are
@@ -249,6 +263,7 @@ be more cheerful than imposing, more resembling a well-built hospital than a pla
 seclusion or imprisonment."?Pp. 13, 14.
 Dr. Conolly entertains very strong objections against large dormitories.
 He observes on this subject,?
+
 " Those who sleep in them are generally discontented. The air of such large sleep-
 ing-rooms becomes indescribably oppressive when the patients have been two hours in
 hed; and it never becomes quite fresh and pure, although all the windows and doors
@@ -257,7 +272,6 @@ repose of fourteen or fifteen ; and out of that number there is often some one n
 One man suddenly irritated, or any one patient suddenly starting out of a dream, may
 rush on his nearest neighbour, and injure him severely. Such accidents are very inci-
 dental to dormitories ; and in those houses in which they aie said to produce no incon-
-76 ON THE MANAGEMENT OF LUNATIC ASYLUMS.
 venience, I suspect that all who are likely to be troublesome are fastened to their beds.
 The violent patients must of course be in single rooms, and if dirty patients are herded
 together at night, a dormitory becomes perfectly disgusting: and as for the clean, and
@@ -267,6 +281,7 @@ having a single moment to themselves, or any place where they can be quiet, or, 
 frequently uttered words, where they can even say their prayers without interruption.
 I would therefore have at least two-thirds of the bedrooms single rooms, very few and
 small dormitories, and no large dormitories for any class of patients."?Pp. 24,25.
+
 On the subjects of tlie arrangements of the sleeping rooms, warming
 and ventilation, lighting, baths, and offensive odours, Dr. Conolly's ob-
 servations are full of important suggestions. Every word of advice that
@@ -283,6 +298,7 @@ many of whom are paralysed, imbecile, and idiotic, all requiring as much
 attention as infants, there are only four male attendants. This ward is
 kept in such a cleanly state that there is scarcely ever the least smell in
 any part of the gallery!
+
 On the subject of restraint, Dr. Conolly enters quite con amove; and de-
 lightful it is to read the results, noble results, of the non-restraint system
 of treatment in this large county asylum. Before the introduction of
@@ -296,6 +312,7 @@ No places, says Dr. Conolly, could have been more unfortunately selected
 for the sick, less convenient to the medical officers and attendants, and
 more exposed to disturbance and to bad air. In the days of restraint,
 says the author,?
+
 " The consequences were, that physical suffering and mental disorder were alike
 aggravated, and the severest methods of repression resorted to in wards where attention
 to sickness ought to have been the principal duty of the officers. Violence, noise, re-
@@ -307,11 +324,11 @@ patients, without recollecting the miserable struggles, the violence, and the wr
 death-bed scenes, characteristic of a time when restraints were so familiarly employed,
 and so perseveringly kept on, as not even to be removed until life was extinct."?Pp.46.
 The following case is most illustrative:?
+
 " It was in the female infirmary at Hanwell, exactly seven years ago, that I found,
 among other examples of the forgetfulness of what was due either to the sick or insane,
 a young woman lying in a crib, bound to the middle of it by a strap round the waist, to
 the sides of it by the hands, to the foot of it by the ankles, and to the head of it by the
-ON THE MANAGEMENT OF LUNATIC ASYLUMS. 77
 neck: slie also had her hands in the hard leather terminations of canvas-sleeves; she
 could not tarn, nor lie on her side, nor lift her hand to her face ; and her appearance
 was miserable beyond the power of words to describe. How long she had been in this
@@ -332,11 +349,13 @@ creature at the chapel, and even heard her play the organ, which she had been ac
 tomed to do in the church of a village in Middlesex before her admission. This patient
 died very recently ; having from the time of her liberation from restraints scarcely ever
 given any trouble to the attendants."?Pp. 47, 48.
+
 Seven years liave elapsed since tlie experiment of non-restraint has
 been fully tried in the Hanwell asylum, and Dr. Conolly, in the spirit of
 a Christian philosopher, thanks God, with deep and unfeigned humility,
 that nothing has occurred during that period to throw discredit on the
 great principle for which he has so nobly battled.
+
 On the subject of exercise, clothing, &c., Dr. Conolly makes many
 judicious remarks. We quite agree with him on the importance of
 active exercise in the open air, considering this a valuable curative agent
@@ -344,6 +363,7 @@ in the treatment of affections of the mind. In order to obtain the full
 advantage of out-door exercise, those afflicted with this malady should
 have free access to rural walks and scenery, flower gardens, groves, &c.
 Dr. Conolly says?
+
 "No external influence could have been devised more powerful to depress the mind,
 and sink it into inactivity, than monotonous gravel courts surrounded by walls from ten
 to fifteen feet high; without a tree; without a shrub; without a blade of grass; with-
@@ -364,11 +384,11 @@ expended all their energy in exertions of voice, distressing to all within heari
 at present, such arrangements may yet be witnessed, and the consequent concentration
 of morbid excitement of a crowd of insane people, which ought rather to be allowed re-
 lief by action and expansion in liberal space."?Pp. 50.
+
 Insane patients should be compelled to take active muscular exercise
 in the open air, " for nothing has so great a tendency to increase the
 irritability (of the mind) as keeping patients within doors."
 On the diet of the insane, the author gives us the benefit of his en-
-78 ON THE MANAGEMENT OF LUNATIC ASYLUMS.
 larged experience, and enforces with great zeal tlie necessity for generous
 living. "YVe consider Dr. Conolly's views are so valuable, that we make
 no apology for quoting his opinions on this point at some length. We
@@ -417,10 +437,9 @@ fully disposed,' one of the 1 sure precepts of long-lasting' enumerated
 by Lord Bacon; they soon become nourished; the body and the mind
 recover power; and if we do not produce a cure, we produce content,
 which is a great gain.
+
 " But the cures seem positively to be increased in number by good diet.
 Before the French Revolution, the diet at the Bicetre consisted, Pinel
-ON THE MANAGEMENT OF LUNATIC ASYLUMS.
-79
 says, of a pound and a lialf of bread daily. This was given out in the
 morning and instantly devoured, the rest of the day being passed in a
 kind ot?delirious famine, as travellers now report it to be by the patients
@@ -438,6 +457,7 @@ In estimating the proportions of recovered in our public asylums, re-
 sulting from an improved dietary and other causes, Dr. Conolly properly
 observes, that the calculations deduced from the " admissions" are based
 on a palpable error, for, as he observes?
+
 " If the ultimate fate of every case admitted into an asylum were
 accurately known, the comparison of the whole number of recoveries
 with the whole number of admissions would be simple and conclusive;
@@ -453,6 +473,7 @@ forms a fixed standard, in relation to which the average of annual re-
 coveries and deaths may be calculated with at least relative accuracy;
 and with reference to asylums in which the regulations differ as to the
 kind of cases admitted.
+
 " In estimating the advantages of different asylums as places of cure,
 the separate results furnish us, therefore, with no accurate guidance.
 There is no presumption in saying that Hanwell ranks among the best con-
@@ -471,7 +492,6 @@ their place of rest; here they remain until they die. They consequently
 fill up the places which might be occupied by the recent and the curable.
 This is inevitable in a county asylum for paupers only, and it ought not
 to be otherwise. It precludes Hanwell figuring in a table of compara-
-80 ON THE MANAGEMENT OF LUNATIC ASYLUMS.
 tive cures; but it makes this asylum tlie home and refuge of those who
 have no other earthly retreat. Of the recent cases, excluding the para-
 lytic and epileptic, 50 per cent, are found to recover at Han well, being
@@ -487,6 +507,7 @@ It is calculated that the weekly allowance of solid and liquid food
 allowed to male patients in each county asylum in England is as follows:
 the quantity varies from 321 ounces of solid and 28 pints of fluid food,
 to 142 ounces of solid, and 19| pints of fluid food.'*
+
 The following is the present dietary for the pauper patients at Han-
 well County Lunatic Asylum, and this, we would premise, is effected at
 the expense of eightpence per diem, the actual cost of provisions being,
@@ -499,10 +520,12 @@ expenses, Is. 8^c?; salaries, wages, and maintenance of officers, attend-
 ants, and servants, Is. 8fd.; clothing, 8c/.; medicine and incidental ex-
 penses, 3\d.\ which makes, in the aggregate, the amount above specified.
 But to return to the dietary: it is as follows:?
+
 " Breakfast.?The breakfast of the men consists of one pint of cocoa, with six
 ounces of bread; the women have the same quantity of cocoa, and five ounces of
 bread. The cocoa has only recently been substituted for milk-porridge, to the great
 satisfaction of all the patients.
+
 " Dinner.?On Sundays, Tuesdays, Wednesdays, and Fridays, the dinner for each
 patient is five ounces of cooked meat, (seven ounces uncooked,) four ounces of yeast
 dumpling, and twelve ounces of vegetables. The meat is cooked by steam, except on
@@ -520,17 +543,19 @@ frequently substituted for potatoes. I believe all these varieties are as saluta
 are acceptable to the patients. The chief inconvenience of any fixed dietary is a want
 of variety; change of diet seeming to be desired, and even required, by patients of every
 class.
+
 " Tea.?The female patients alone are allowed tea in the afternoon; one pint of tea,
 with five ounces of bread, and half an ounce of butter, constituting at once their tea
 and supper. Many of the male patients feel the loss of their tea as a great privation
 when newly admitted. The friends of the patients are allowed to send them tea and
 sugar. The tea is prepared in the kitchen, by steam, and, probably from the extraction
 * Dr. Begley.
-ON THE MANAGEMENT OF LUNATIC ASYLUMS. 81
 of tlie bitter principle of it, is not generally approved of; but in so large an asylum,
 making tea in the wards is scarcely practicable.
+
 " Supper.?The male patients have two ounces of cheese, six ounces of bread, and
 half a pint of beer, at seven in the evening.
+
 " Extras.?The men who work in the gardens, and on the farm, have half a pint of
 beer at eleven and at four o'clock, and are also allowed one ounce of tea and four ounces
 of sugar per week. The women who work in the laundry are allowed half a pint of
@@ -542,6 +567,7 @@ whatever the medical officers think it right to order for them, and are supplied
 the night also, with tea, coffee, beef-tea, sago, and arrow-root, with or without brandy,
 &c. &c.; and by these attentions they are kept from sinking, and the tedious length of
 the night hours is broken."?Pp. 70?72.
+
 The meat is of the first quality, and great attention is paid to cleanli-
 ness, order, and punctuality. The attendants do not dine with the
 patients, but merely wait at table. Grace is said before and after meals.
@@ -580,7 +606,6 @@ e more degrading, than those connected with any want of respect shown
 to them, or any disregard of decent customs as to their meals. Yet,
 Without great attention, they will sometimes be found, when quite well
 no. i. G
-82 ON THE MANAGEMENT OF LUNATIC ASYLUMS.
 enough to appreciate what is done, sitting down to a dinner of meat,
 vegetables, and pudding, all sent to them on one plate. Negligences of
 this kind produce fretfulness and discontent, and tend to retard con-
@@ -588,6 +613,7 @@ valescence. If attendants are allowed to practise this kind of negli-
 gence, they soon fall into habits of rudeness, and even of inhumanity,
 fancying that the patients do not observe their conduct, and that their
 feelings are of no consequence."?Pp. 76, 77.
+
 On the subject of " employment," it is gratifying to find, by the last
 annual report, that of 418 male patients then in the asylum, 219 were
 employed; of these 75 were occupied in the gardens, or in the farm, and
@@ -597,6 +623,7 @@ layers, whitewashers; some in the engine-house, the smith's shop, gas-
 house, printing-office, &c. Of 357 women, 314 were employed; 69 in
 the laundry, 49 as helpers in the wards, 18 in the kitchen and dairy,
 and 178 at needlework.
+
 We approach now the consideration of what we conceive to be an
 important, if not one of the most important, parts of the economy of an
 establishment, be it private or public in its character. We refer to those
@@ -631,7 +658,6 @@ that much is to be said for those who act in this capacity,?that their
 duties are not the most enviable in their nature, and that every reason-
 able indulgence ought to be allowed them. They must necessarily have
 great command of temper, for not the remotest semblance of a shade of
-ON THE MANAGEMENT OF LUNATIC ASYLUMS. 83
 retaliation would be allowed. It requires something more than great
 self-possession to stand with impunity the abuse often levied most un-
 sparingly against them. We always, under these circumstances, reason
@@ -673,6 +699,7 @@ with severity and injustice, or without the consideration and indulgence
 requisite to support their patience, and to encourage them to be con-
 siderate and indulgent to those on whom they attend, and who are
 wholly in their power."?P. 83.
+
 Again the author observes:?" The character of particular patients,
 and of all the patients of a ward, takes its colour from the character of
 the attendants placed in it. On their being proper or improper instru-
@@ -682,8 +709,6 @@ cured; whether some shall live or die; whether frightful accidents, an
 increased mortality, incalculable uneasiness and suffering, and occasional
 suicides, shall take place or not. Painful, therefore, is the situation of
 the physician to an asylum who is liable, at every visit, to find forty or
-o 2
-84 ON THE MANAGEMENT OF LUNATIC ASYLUMS.
 fifty of his patients put under the care of new attendants; separated
 from those to whom tliey were attached, and who had become acquainted
 with their peculiarities; and subjected to the rude dominion either of
@@ -695,6 +720,7 @@ the concealment which can inflict suffering on the patients, and which
 must cause disappointment of all his designs."'?P. 84.
 On the choice of attendants, and the qualifications necessary, Dr.
 Conolly speaks like a man of great experience:?
+
 " As a general rule, tlie attendants, when entering on tlieir duties, should not be
 more than thirty years of age, or rather, five and twenty. Male attendants, who are
 older, if they have been in the army, or accustomed to responsibility, often prove valu-
@@ -713,6 +739,7 @@ their habits of life, than young, active, well-dressed nurses. The best attendan
 male and female, are to be found in the class of persons who are qualified to be upper
 servants, and their services may always be commanded in an asylum where a fair re-
 muneration and a prospect of comfort are held out to them.
+
 " But the first requisite for an attendant, if conjoined with a moderate share of under-
 standing, is benevolence I fear this is a quality often wholly omitted in the inquiry
 into the character of attendants. Certainly, many have been observed by me in such
@@ -732,6 +759,7 @@ right to expect should be extended to them, and that a great duty is neglected. 
 great object of establishing and perpetuating a system of kindness, which nothing can
 disturb, and which generates the confidence of the patients, and acts as the most power-
 ful and salutary of all restraints, is thus defeated.
+
 " It is quite impossible for me to convey to the reader a just idea of the mischievous
 cruelty exercised in private houses, where single patients are entrusted to attendants
 supplied from private asylums in which restraints are permitted to be used. They in-
@@ -741,10 +769,12 @@ until the skin is ulcerated. The legs are then fastened, and the legs and back b
 ulcerated also. Cleanliness is then disregarded; food is refused in some instances
 after such degrading treatment, and death, I sincerely believe, is an occasional result."
 ?Pp. 85?87.
+
 The author's observations on the duties of attendants are so valuable,
 ON THE MANAGEMENT OF LUNATIC ASYLUMS. 85
 that we make no apology for quoting a passage of some length from his
 work:?
+
 " Attendants should be accustomed habitually to watch for the first signs of recovery,
 and to promote the progress that they see beginning. The indications of this, in an
 altered language, or dress, or manner, if neglected, may pass away for ever. Patients
@@ -756,6 +786,7 @@ home, and those who loved them. They are, at this time, particularly sensible to
 words, but easily disturbed by violent impressions or painful emotions ; and it is now,
 when an indiscreet word may retard recovery, that all the physician's trust, and all his
 hope, rest on the judicious aid of kind attendants.
+
 " These duties can only be reasonably expected from attendants of humanity and in-
 telligence, who are treated kindly, governed justly and mercifully, and properly sup-
 ported by the officers. If they look with dread to a passionate manner and words,
@@ -801,10 +832,10 @@ want of forbearance in the attendants will lead to the worst consequences. So st
 connected is the proper government of an asylum with the welfare, and even with the
 safety of the patients. Unjust officers, or unjust rulers, make attendants indifferent or
 cruel, and indifferent or cruel attendants make the patients wretched.
+
 "When 1 had authority over the attendants at Hanwell, it was a rule with me never
 summarily to dismiss an attendant, except for cruelty; but never to overlook cruelty.
 There is no other security for the patients. Where a physician does not possess au-
-86 ON THE MANAGEMENT OF LUNATIC ASYLUMS.
 tliority to do this, or any asylum is governed with slight regard to his general views, or
 other officers have authority quite independent of him, other faults will he punished by
 dismissal; hut cruel conduct, the worst of all faults, will too often appear to be con-
@@ -816,6 +847,7 @@ therefore, on this account also, be reserved for cruelty or some serious offence
 hut for cruelty no excuse should be permitted. I should not dwell so much on this
 point of discipline if I did not believe it to be often incredibly undervalued, and with
 grievous effects on the patients.
+
 " It should be a rule that the attendants should never use violent or intemperate lan-
 guage ; should never venture to strike or ill-treat a patient, or to employ the term
 punishment in relation to anything done to them. They should not even talk to the
@@ -827,6 +859,7 @@ prompt interference when necessary. The general character of each ward should be
 tranquil, and yet the superintendence by eye and ear so perfect, that no person should
 pass through the ward, and no door be unlocked, without immediately attracting the
 attention, and occasioning the approach, of an attendant.
+
 " For protection in cases of great violence, the attendants must be entrusted with the
 power to seclude a patient; but the seclusion must always be immediately reported.
 The seclusion itself, which is merely putting the patient out of the gallery, or airing-
@@ -842,6 +875,7 @@ and also because it best screened the patient from external excitement. It is no
 rarely resorted to, except as a remedial measure, and long seclusions have vanished with
 the wild confusion that prevailed when every excited patient was bound up in hard can-
 vas and leather, or fastened in a coercion-chair.
+
 " The principle of promptly assisting one another should be rigidly adhered to by
 the attendants of an asylum. When the whistle, with which each attendant is pro-
 vided, is blown, all within hearing should fly to the point from whence the signal pro-
@@ -856,6 +890,7 @@ of several attendants, attempts must afterward be made to conciliate him, and re
 him to his self-esteem; and this will not be difficult when he has only yielded to
 numbers, who have merely overpowered him, or locked him up without hurting him "
 Pp. Ill?11G.
+
 The concluding portion of Dr. Conolly's treatise lias relation to " re-
 ligious services," " officers," and " superintendents." Upon all these
 important subjects he enters fully. We must reserve our analysis of

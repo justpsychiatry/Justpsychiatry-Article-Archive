@@ -2,10 +2,11 @@ Care of Children from One to Five Years
 =========================================
 
 2nd Edition.
- By John Gibbens, M.H., M.B., M.R.C.P.,
+:Author:  John Gibbens, M.H., M.B., M.R.C.P.,
 National Association for Maternity and Child
 Welfare Centres, and for the Prevention of Infantile
 Mortality. Eyre & Spottiswoode. Price 2s. 6d.
+
 This little book, by a doctor, aims at dealing with the
 Physical care of the ordinary child. It gives a useful
 outline of diet and many suitable recipes, as well as some
@@ -23,7 +24,8 @@ fecognized as being as much the field of the expert as is
 their physical health. Knowledge is available and
 necessary in both fields, and common sense is not
 enough.
-. The section on Problems of Management is, at best,
+
+The section on Problems of Management is, at best,
 inadequate, and in this and allied sections of the book
 |.he author sadly overestimates the usefulness of unin-
 jormed " good sense " to cope with the problems of even

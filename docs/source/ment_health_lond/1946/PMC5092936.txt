@@ -1,13 +1,11 @@
 The Necessity for Speech Therapy among Children
 ================================================
 
-MENTAL HEALTH 43
-
 Some suggestions as to methods of treatment
-By FRANZ A. HEIMANN, M.D., L.R.C.P.Ed.
+:Author:  FRANZ A. HEIMANN, M.D., L.R.C.P.Ed.
 Assistant School Medical Officer to the County Borough of Bournemouth
-AND
-NORA O'DRISCOLL, L.C.S.T.
+AND NORA O'DRISCOLL, L.C.S.T.
+
 Speech Therapist to the Royal Victoria and West Hants Hospital,
 Bournemouth
 During the last five years 48 children, suffering from
@@ -16,6 +14,7 @@ and at medical inspections, and were sent for treatment
 to the Speech Therapist attached to the Psychiatric
 Department at the Royal Victoria and West Hants
 Hospital, Bournemouth.
+
 This procedure now finds its confirmation in the
 Statutory Rules and Orders, 1945, No. 1076, dealing with
 handicapped pupils and the School Health Service. In
@@ -27,6 +26,7 @@ include, in addition to special attention by the teacher
 for a pupil suffering from speech defect, other than an
 aphasic pupil, special training and treatment by a duly
 Qualified speech therapist
+
 In this article it is proposed to consider only three
 types of speech abnormality, namely, Alalia, Dyslalia,
 and Stammer. The term Alalia is used to describe
@@ -39,8 +39,10 @@ ls that, among the cases under review, there were only
 seven dysphonias?all post cleft palates?and three
 childern suffering from speech defects of neurological
 origin.
+
 The effect of a speech defect on the child's adjustment
 to school life is as follows:
+
 Alalia (absence of speech)
 A child who enters school unable to speak, or with a
 very small vocabulary, will be unable to co-operate either
@@ -50,6 +52,7 @@ educational retardation. They may develop a feeling of
 mferiority, with consequent timidity and lack of initiative,
 ?r they may attempt to compensate for their low place in
 class by aggressiveness and disorderly behaviour.
+
 Dyslalia (distortions of speech)
 These children suffer in the same way as the former
 group, though to a less severe extent. They are specially
@@ -71,32 +74,42 @@ experience great difficulty in reading aloud and in
 reciting. They are often aware of their superior
 intelligence, but feel frustrated because they are
 unable to express themselves adequately.
+
 In conclusion: There is definite danger that children
 who feel themselves to be frustrated and inferior during
 school life may develop into adults whose attitude to
 society is one of resentment.
+
 Having shown the detrimental effects resulting from
 untreated speech defects, we have to consider some of the
 causes from which these disorders arise.
+
 ALALIA
+-------
+
 In the cases under review the apparent causes of
 Alalia were:
+
 1. Lack of stimulus to speak. A child who spends
 most of his time alone, in a pram or play-pen, will not
 hear any speech, and therefore has no model to copy and
 no incentive to try.
+
 2. Neglect. In a child who is neglected and ill-
 treated, retarded speech may be part of a pattern of
 general backwardness.
+
 3. Overprotection. An overprotected child whose
 mother, unwittingly, tries to " keep her baby ", will find
 that he can obtain all the attention he needs by means of
 grunts and cries of the first year.
+
 4. Shock. In some cases there is a history of shock
 ?generally the birth of a sibling?which involves for the
 child the sudden disappearance of the mother and her
 return with a stranger, who receives the love and care
 which were formerly his own property.
+
 5. Partial deafness. It is difficult to be sure how far
 partial deafness may be a factor in these cases. However,
 two cases were observed in which the children watched
@@ -105,7 +118,10 @@ to understand if the speaker's mouth were covered.
 These children expressed themselves very clearly by
 signs. They were not grossly deaf as they reacted to
 sounds made behind their backs.
+
 DYSLALIA
+----------
+
 In addition to the above causes, Dyslalia seemed to be
 induced by:
 1. Reversion to infantilism, which is often an attempt
@@ -120,19 +136,21 @@ child, and the speech retardation is part of the picture.
 by cutting him off from the stimulus of companions.
 A boy of years was seen who had spent a long period
 in hospital and was living in a Cripples' Home, where
-i
-44 MENTAL HEALTH
-a great many of his companions were suffering from
+i a great many of his companions were suffering from
 spastic diplegia and paraplegia. The Matron of the
 Home reported that his speech while under her care had
 deteriorated.
+
 STAMMER
+---------
+
 The causes giving rise to stammering are obscure, but
 it is generally conceded that anxiety is an important
 factor in its aetiology. A stammering child often shows
 other nervous symptoms, generally timidity and night-
 mares. A state of anxiety may be induced in a child by
 shock or unwise handling.
+
 1. Shock. The parents of many stammerers report
 a shock a short time before the stammer was first
 noticed. It is necessary to be cautious in accepting the
@@ -144,12 +162,14 @@ reported that her boy was a noticeably clear speaker
 until the house was damaged by a bomb when he was
 five years old. This patient is said to have used his first
 word at the age of ten months.
+
 2. Unwise handling: (a) excessive severity. A boy
 was seen whose father habitually punished him severely
 and for insufficient cause. The child was pale, nervous
 looking, and, in addition to a'very pronounced stammer,
 complained of persistent night-mares, all related to the
 experience of falling.
+
 (6) Overprotection. This was seen in the case of a
 boy who was an only son. His parents were much
 attached to him and his mother feared for him for these
@@ -159,6 +179,7 @@ epilepsy in the father's family, and the boy, at the age
 of three, had had a convulsion. Her fearfulness led to
 overprotection, and caused the boy to be deprived of
 reasonable liberty and amusement.
+
 (c) Mental instability in parent. A mother with a
 psychosis, showing symptoms of religious mania, had
 aroused terrible feelings of guilt and insecurity in her
@@ -167,6 +188,7 @@ duties, and the home environment was one of wretched
 discomfort. There was a perpetual conflict in the child's
 mind between his natural instincts and his mother's
 prohibitions.
+
 (d) Lack of affection in infancy. A boy was seen
 whose mother had wanted a girl and foolishly allowed
 him at a very early age to know this. At the age of 17
@@ -178,7 +200,10 @@ responsibility. The boy was therefore subject to a
 conflict of ideals, the daughter his mother wished for,
 and the son his father wanted, and he never felt sure of
 the affection of either parent.
+
 TREATMENT
+----------
+
 Having considered the possible causes of speech defects,
 we can now make some suggestions as to treatment. It
 is advisable that all children, who show any impairment
@@ -203,6 +228,7 @@ teachers desire to keep the bodily and mental health of
 their charges at a high level. The physician should not
 only be consulted by the Education Authorities if, and
 when, a child is in obvious need of medical treatment.
+
 As School Medical Officers we are dealing much more
 with healthy children and with the prevention of diseases,
 but children exhibiting symptoms of maladjustment also
@@ -227,6 +253,7 @@ As a stammer is a serious handicap for every child both
 in school and in his later career, he should be helped as
 soon as possible to overcome the defect which is retarding
 his progress.
+
 It is useless to treat these children with elocution or
 with breathing exercises. Treatment in speech classes
 or groups is insufficient; individual treatment is necessary
@@ -240,11 +267,13 @@ with the psychiatrist and adapt her methods to the needs
 of the individual child. The environment must be
 studied and adjusted. This must be considered in three
 divisions:
+
 1. Home. The parents of the child should be inter-
 viewed, their difficulties sympathetically discussed and
 suggestions made of ways to ease the tension in the
 family circle. If one of the parents is neurotic,'he or she
 should be encouraged to undergo treatment.
+
 2. School. The teacher should co-operate by adjust-
 ing class work so that the child is as little handicapped
 as possible. If he is very backward in any subject,
@@ -253,10 +282,12 @@ in question is reading the pupil should be withdrawn,
 for a time, from the reading-class, and given short lessons
 by himself in as friendly and informal an atmosphere as
 possible.
+
 3. Leisure. A play centre would benefit most of
 these children, especially if run by someone with a
 knowledge of play therapy. Those children ill-adjusted
 at home would find a holiday camp invaluable.
+
 Speech is the means by which the personality expresses
 itself, and a child whose power of speech is limited or
 defective is far more seriously handicapped than one who

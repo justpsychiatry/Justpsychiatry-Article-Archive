@@ -1,9 +1,7 @@
 Morale and Mental Health in Modern Society
 ===========================================
 
-MENTAL HEALTH 59
-
-By R. F. TREDGOLD, M.A., M.D., D.P.M.
+:Author: R. F. TREDGOLD, M.A., M.D., D.P.M.
 Paper read at the Annual General Meeting of the National Association for Mental Health, January 6th, 1950.
 I feel that the title chosen by your Council
 for this Annual Address is one which is parti-
@@ -46,6 +44,7 @@ Propose, therefore, to ask several questions in
 ach field, and hope that my attempts to answer
 em, will, as I say, provoke you to a more
 oniplete exposition. These questions are :
+
 1. What is meant by morale and mental
 health ?
 2. What is our responsibility ?
@@ -72,6 +71,7 @@ of the individual, and must, therefore, include
 the full expression of the individual's personality
 and the full development of his powers?
 intellectual and emotional.
+
 Morale is interlinked with mental health and
 contributes to it ; is it the same thing ?
 Group morale, however, is another matter,
@@ -84,7 +84,10 @@ the members suffer less from individual
 symptoms than those where morale is low ;
 and this perhaps is a commonplace. Disinteg-
 rating behaviour is unlikely.
+
 Our Responsibility
+------------------
+
 The next question is, what part is to be played
 by ourselves, who are students of mental health
 with various kinds of training ? We all know
@@ -100,10 +103,10 @@ ethics separate from a discussion of the
 mechanics of behaviour. Of course, as citizens
 we are all entitled to express our views on right
 and wrong?and life would be dull if we did not
-60 MENTAL HEALTH
 do so?but I do not claim that a psychiatrist has
 any special title to speak on ethics, but only on
 the psychological mechanisms of behaviour.
+
 The same, I take it, applies to you as members
 of the National Association of Mental Health.
 We are exactly the same case as the surgeon
@@ -135,6 +138,7 @@ make a clear distinction in the abstract between
 these two, still sometimes find it difficult to
 decide in which category they should place a
 given example.
+
 With these difficulties at the onset, it is
 obvious that practical difficulties follow. The
 study of disease leads naturally to a desire to
@@ -154,6 +158,7 @@ sible for some of the criticisms already quoted.
 On the other hand one can sympathize only too
 readily with the psychiatrist's enthusiasm and
 public spirit.
+
 Can we make this claim by comparing it again
 with surgery ? We agreed that the surgeon's
 aim was to cure the arm ; but what if that
@@ -177,6 +182,7 @@ international agreements that the world, as well
 as to the nations concerned, depends for
 increasing co-operation, and any loss is thus
 deplorable.
+
 If this is true of the surgeon, it must apply too
 to the psychiatrist or to any other social worker,
 who must stick to his own field and resist the
@@ -187,6 +193,7 @@ less right either ; but, if and when he acts as a
 citizen he must make it clear that he is doing so,
 and that he has shed his mantle of psychiatric
 authority?not an easy task).
+
 If I have unduly laboured this point, I hope
 you will forgive me ; but I believe it to be
 fundamental and even if it is accepted by you
@@ -233,11 +240,15 @@ disposal. This meeting, composed as it is of
 representatives of various branches of the social
 sciences, is, I feel, a particularly appropriate
 ?ne for such questions to be asked.
+
 Methods
+--------
+
 If then we are claiming to play a part as
 scientists, we must do so in the ways laid down
 t?r other sciences ; we must follow a threefold
 Path.
+
 This is described emphatically in a series of
 rn?st telling adjectives by L. J. Henderson,
 whose words (quoted by Elton Mayo)* were
@@ -252,11 +263,13 @@ experience, of the salient and recurrent pheno-
 mena, and their classification " ; finally, " the
 judicious construction of a theory, a modest
 Pedestrian affair ".
+
 This is the path which all the natural sciences
 nave trodden ; it is the path which we must
 tread too. There are no short cuts, and the
 keynote is patience and persistence and
 Pedestrianism.
+
 T?oIs and Skills
 If we consider next our tools, we must admit
 that they are often inadequate or even impercep-
@@ -281,11 +294,13 @@ mately with each other. This problem is beyond
 all reasonable doubt, the outstanding defect that
 civilization is facing to-day." He could not be
 more emphatic.
+
 With this I think we should all agree, but I
 think too that we can claim to be beginning at
 least two methods to this end?though I should
 be the first to admit they both need a great deal
 of development.
+
 Firstly, there is the art of obtaining informa-
 tion, in which, no doubt, the technique of
 listening plays a large part. This is of benefit
@@ -295,6 +310,7 @@ extent in our profession. By contrast we do not
 seem to have been so successful in developing
 our skill in the other side of communication?
 that is imparting new ideas.
+
 Secondly, there is the skill of interpretation?
 that is the unravelling of the underlying influence
 of behaviour. This must be practised by the
@@ -313,22 +329,26 @@ great in interpretation?in the sense of under-
 standing?are not necessarily as expert in
 interpretation in the sense of explaining what
 they understand to others.
+
 Subjects
+--------
+
 The next question is, on what subjects can
 our methods and skill rightly be used ? We
 must readily admit that there is no lack of these,
 even within our prescribed scope, so that we
 need, after all, waste no sympathy on those who
 are anxious to work.
+
 The fields in which we can work are many and
 varied ; each no doubt attracts different people ;
 Mayo, E. {1946). The Social Problems of an Industrial Civilization. Harvard University Press.
-62 MENTAL HEALTH
 industry, the structure of Society and of the
 family, education, vocational guidance and
 selection ; in all these relations between
 individuals and groups are at the root. May we
 consider a few examples ?
+
 In industry the urge is for more and yet more
 productivity ; we are assured that on this
 depends our national survival. Many factors
@@ -349,6 +369,7 @@ the different levels of the hierarchy, and of course
 between management and the workers, which
 would surprise the- simple-minded doctor used
 to working as one of a team.
+
 The relationships which exist in Society,
 national and international, are as much deserv-
 ing of study ; illogical behaviour is equally
@@ -363,6 +384,7 @@ know enough about the reasons that lead two
 individuals or groups to collaboration, or to
 combat. Here again, study and patient observa-
 tion is wanted.
+
 In other fields, such as education and voca-
 tional guidance, we may find frequent examples
 of behaviour directed by unconscious complexes,
@@ -379,6 +401,7 @@ and trades. Again, what are the factors which
 influence the transfer of ideas from one person
 to another ? Is the result of research on this
 applied to teaching generally ?
+
 It seems to me that each of these fields would
 benefit from the appreciation of these points.
 Trained scientists would gradually acquire
@@ -408,6 +431,7 @@ estimates for expenditure on treatment and on
 research are sometimes in the neighbourhood
 of 20 : 1, so that we have a long way to go to
 adjust this balance.
+
 May I finish by summarizing very briefly the
 points I have tried to make :
 1. The study of the mental health of Society

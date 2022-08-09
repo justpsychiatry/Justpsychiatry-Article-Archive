@@ -1,8 +1,9 @@
 Psycho-Social Medicine. A study of the Sick Society
 ====================================================
  
-By J. L. Halliday, M.D., D.-P.H.
+:Author: J. L. Halliday, M.D., D.-P.H.
 Wm. Heinemann Medical Books. 17s. 6d.
+
 Readers of Dr. Halliday's stimulating papers.on
 various psychosomatic complaints will no doubt be
 attracted by the title of this book and look for a
@@ -27,6 +28,7 @@ and the growth of respectability in the British soldier
 from 1899 onwards is not everywhere regarded as the
 cause for the prevalence of hysteria in World War I,
 and of anxiety in World War II.
+
 The sections on the declining birthrate and on
 rnorale are so short as to be tantalizing, and contain
 some loose thinking. " Rationalization " (against
@@ -40,6 +42,7 @@ sources of spread of low morale, is not far in advance
 other hand some phrases lose by too frequent
 repetition; the adjective " ontogenetic " fills many
 a gap.
+
 But in spite of these carping criticisms there is
 much valuable matter in the book ; the questions
 asked about the individual's illness (what kind

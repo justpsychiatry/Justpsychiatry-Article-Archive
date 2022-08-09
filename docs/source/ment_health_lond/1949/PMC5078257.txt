@@ -1,11 +1,10 @@
 Principles and Practice of the Rorschach Test
 ==============================================
 
-MENTAL HEALTH 81
-Book Reviews
-By
-Dr. W. Mons. Faber & Faber Ltd., London,
+:Type: Book Reviews
+:Author: Dr. W. Mons. Faber & Faber Ltd., London,
 pp. 164. 12s. 6d.
+
 In common with other pioneer Rorschach workers
 in this country, Dr. Mons learnt the hard way,
 teaching himself by reading, experience, and
@@ -41,6 +40,7 @@ individual personality with its effective and latent
 powers, personal trends and stresses, strength,
 weakness, mechanisms of defence, and other
 characteristics.
+
 To produce a simple handbook on so elaborate
 a diagnostic instrument is a formidable task.
 Dr. Mons' courage is especially worthy of honour
@@ -61,6 +61,7 @@ of ages between 4 and 16 years, an experience
 probably unique in this country. It is to be hoped
 that he will later find time to publish his norms for
 various ages.
+
 This book is admirably practical in plan and
 content, with excellent advice upon methods of
 recording. A chapter entitled " The Practice of

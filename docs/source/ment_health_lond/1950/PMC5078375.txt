@@ -1,8 +1,9 @@
 The Young Lag. A Study in Crime
 ===============================
 
-By Sir Leo
+:Author: Sir Leo
 Page. Faber & Faber. 18s.
+
 Sir Leo Page, who has devoted a great many years
 to studying the criminal and his problems, has in
 this book made a personal investigation of twenty-
@@ -10,6 +11,7 @@ three young men undergoing imprisonment. In
 each case, he has spent at least several hours inter-
 viewing the young man and listening patiently to
 his history.
+
 Unfortunately, however, Sir Leo, whose views
 on crime and criminals will already be familiar to
 many readers, has in the reviewer's opinion failed
@@ -31,6 +33,7 @@ destructive in his criticism of many of his own
 colleagues. Indeed, on his own admission, he
 disagrees with some of the most experienced and
 respected of his judicial brethren.
+
 The book should certainly be read by everyone
 working in this field, as it clearly reflects the atti-
 tudes of those who rely only on " common sense "

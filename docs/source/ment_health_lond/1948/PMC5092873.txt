@@ -1,9 +1,10 @@
 Clinical Studies on Psychopathology: a contribution to the Aetiology of Neurotic illness
 =========================================================================================
 
-By H. V.
+:Author: H. V.
 Dicks, M.A., M.D. 2nd Edition. Edward Arnold.
 15s.
+
 This is the second edition of a book which has earned
 for itself by its honesty and vividness a special place in
 English literature on psychopathology. The new issue
@@ -29,6 +30,7 @@ highly personal book, the fruit of the author's work,
 reading and thought in this field, and is intended not
 as a textbook but only as a personal contribution to
 discussion of psychopathology.
+
 Professor Dicks declares himself as an eclecticist and
 is prepared to reject the views of any school unless they
 withstand the test of practice and reflective evaluation.
@@ -48,6 +50,7 @@ behaviour interpretation. This edition reviews some of
 his earlier conclusions in the light of the literature of the
 last eight years and includes tribute to the writings of
 Brierly, Fairbairn, Horney and Klein.
+
 In a new last chapter a vigorous plea is made for the
 recognition of the reality of emotion by those who
 would deny its existence except as an epiphenomenon,

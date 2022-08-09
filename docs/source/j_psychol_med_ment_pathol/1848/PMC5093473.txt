@@ -2,12 +2,12 @@ New York State Lunatic Asylum, Utica
 ======================================
 
 Front, 550 feet-rear wings, 250 feet each.
-. iX (\ ?
-87
+. iX 87
 Art. VIII.?
 Fourth Annual Report of the Managers of the State Lunatic
 Asylum, near Utica, New York, U. S.
 Feb. 2, 1847.
+
 This valuable and interesting Report is drawn up chiefly by Dr. Brigham,
 the superintendent and head physician of the splendid establishment
 erected within the last few years for the insane of the state of New York,
@@ -21,6 +21,7 @@ ance with an act of the State, to exhibit a fair picture of the results
 afforded by the most approved management and treatment of the insane
 which our kinsmen on the other side of the Atlantic have been able to
 attain.
+
 The present Report is for the year ending November 30, 1846; dur-
 ing which period there were 622 patients in the asylum, composed of
 306 males and 316 females, which numbers comprise 143 males and 142

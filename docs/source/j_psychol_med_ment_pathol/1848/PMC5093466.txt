@@ -3,11 +3,12 @@ Statistics and Pathology of Mental Diseases
 
 Art. VI.?(1.)
 
-By John
+:Author:  John
 Webster, M.D., F.R.S., &c.
 (2.) Observations and Essays on the Statistics of Insanity. By John
 Thurnam, M.D., Resident Medical Superintendent of the Retreat,
 near York. 8vo. pp. 308, with two Appendices, and Tables.
+
 Amongst the improvements which characterize the modern method of
 studying medicine, the great attention now paid to pathology is one of
 the most useful and important. The cultivation of animal chemistry is
@@ -27,6 +28,7 @@ tions on the Statistics of Insanity," seeing their researches contained
 much valuable information, and appeared creditable to the authors, on
 account of the great industry they have shown in collecting materials
 and carefully examining evidence.
+
 Unless statistical tables are strictly accurate, they are not only value-
 less, but absolutely injurious to the progress of knowledge, and lead to
 erroneous conclusions, which deceive the practitioner, and mystify, instead
@@ -34,6 +36,7 @@ of elucidating, questions under discussion. That improper practices have
 sometimes prevailed, and statements been made, respecting the mortality
 and treatment of the insane in certain establishments, which were incor-
 rect, Dr. Thurnam gives the following remarkable example:
+
 " That reports of tlie results of treatment have been, and still may be, purposely
 falsified, is sufficiently proved by the history of the York Lunatic Asylum, previous to
 its reform in 1814. It was at that time ascertained, from a minute examination of the
@@ -53,10 +56,10 @@ of how they were disposed of; each of these being in tlie form of a debtor and c
 account; and thus, if the account was false in one place, it must have been false in
 more places than one, or else the sums total could not have agreed. The steward's
 record of the deaths seems to have been tolerably accurate; but, in the face of this,
-58 STATISTICS AND PATHOLOGY OF INSANITY.
 erroneous statements were, year after year, published in the York newspapers, which
 were only detected upon being compared with the parochial register of the burials from
 the asylum, in the churchyard of St. Olave's."
+
 We trust and believe that similar proceedings do not now prevail in
 any asylum; nevertheless, we cordially agree with Dr. Thurnam in the
 opinion expressed, that until a sufficient examining and superintending
@@ -64,6 +67,7 @@ body is organized, to which annual reports may be regularly submitted,
 we can only rely, as the author confidently hopes we are justified in rely-
 ing at the present day, upon the good faith and integrity of the officers
 and governors of public institutions.
+
 Besides accuracy, it is also of the utmost importance that the method
 of calculating the proportion of recoveries and mortality should be simple
 and of easy attainment. Besides, if one uniform system of registration
@@ -72,6 +76,7 @@ insane, the cumulative value of such tables would be thus greatly in-
 creased, whilst the deductions, being derived from a much larger series of
 data, their practical application and utility would be thereby considerably
 augmented.
+
 Having made these preliminary observations, we proceed, in the first
 place, to examine the observations of Dr. Webster on the " Statistics
 and Pathology of Mental Diseases." We would premise that Dr. Web-
@@ -85,6 +90,7 @@ induction from such facts that we shall be enabled satisfactorily to trace
 the relationship between certain disordered conditions of the mind, and
 these charges on the organic structure of the nervous system, which ex-
 perienced men maintain are the invariable cause of deranged mind.
+
 In the 26th and 28th volumes of the "Transactions of the Royal
 Medical and Chirurgical Society of London," Dr. Webster published two
 papers on the " Statistics of Bethlehem Hospital," and the " Pathology
@@ -96,10 +102,12 @@ Before, however, doing so, it ought to be kept in remembrance, that the
 author's observations apply especially to Bethlehem Hospital, as the
 archives of that establishment, and the dissections there made, Avere the
 sources from whence he makes the statements promulgated.
+
 According to the ancient records, fortunately still preserved in Beth-
 lem Hospital, it appears the total number of lunatic patients admitted,
 discharged cured, or died, during five different periods of twenty years
 each, ending the 31st of December, were respectively?
+
 STATISTICS AND PATHOLOGY OF INSANITY. 59
 In 20 Years,
 ending
@@ -131,6 +139,7 @@ Number Died.
 Ill or oi per cent.
 224 or 5-j1^ per cent.
 1812 or 10? per cent.
+
 By the above statement, the number of insane patients received into
 Bethlehem Hospital during the latter half of the eighteenth century ap-
 pears to have varied very little from the previous average, although, during
@@ -151,6 +160,7 @@ ing the early part of the present century, than it did previously, or has
 done more recently; notwithstanding fewer insane patients were admitted
 into the most extensive of the only two public lunatic asylums situated
 in the metropolis.
+
 The uniformly increasing proportion of patients discharged cured from
 Bethlehem Hospital, as well as the diminished ratio of mortality in that
 establishment, are points which well deserve attention; more particularly,
@@ -168,9 +178,9 @@ met with during three years in the middle of the last century are com-
 pared with similar results reported to have occurred in the three years
 which terminated on the 31st December, 1842; they were as follows:?
 Admitted. Cured- Died-
+
 In 1750-51-52 462 . . . 145 or 31^ per cent. . . . 118 or 25| per cent.
 In 1840-41-42 B97 . . . 492 or near 55 per cent. . . 51 or 5? per cent.
-00 STATISTICS AND PATHOLOGY OF INSANITY.
 Connected with this important question, it appears the rate of mor-
 tality among the patients treated at Old Bethlehem Hospital was so con-
 siderable during the year 1753 as to exceed the total number of recoveries,
@@ -182,17 +192,20 @@ unusual mortality was, however, not altogether owing to insanity, since
 small-pox then prevailed among the patients, as it likewise did in 177 0,
 when the number of deaths and recoveries were equal, each being GO to
 213 admissions; or 28 per cent, in both cases.
+
 Mental diseases are much more prevalent in this country among women
 than men. With the view of showing that this opinion is correct, the
 author gives the subjoined table of curable patients admitted into Bethle-
 hem Hospital during the twenty years ending the 31st December, 1842 :?
 Admitted. Cured. Died.
+
 M. F. M. F. M. F.
 1782 2G22   823 1440 112 112
 or or or or or
 47 per cent, more females 40 + P" 551 p" 0+ P? 44- Per
 r J cent. 7 cent. 4- rent. 4 cent.
 than males.
+
 Reasoning from these facts, no doubt can exist regarding the greater
 frequency of mental alienation among females than males; indeed, the
 excess of insane women admitted at Bethlehem Hospital is shown to have
@@ -206,6 +219,7 @@ since 1734, lunatic male patients were received into the wards of that
 charity, from the 31st December, 1822, to the 31st December, 1842;
 whilst the number of insane females then admitted amounted to 2310,
 or 331 per cent, more of the latter than the former sex.
+
 But this greater liability of females than males to diseases of the mind,
 is at the same time accompanied by other peculiarities worthy of notice?
 viz., that mania is not only a more common complaint, but more curable,
@@ -214,6 +228,7 @@ firmed by tables which indicate, that the ratio of recoveries from attacks
 of insanity was nine per cent, in female more than in male patients;
 whilst in the latter sex, the number of deaths exceeded by two per cent,
 the rate of mortality met with in the former.
+
 The propensity to commit suicide appears so prevalent a feature in
 cases of mania, that the attendants upon insane patients cannot be too
 careful with those showing any symptoms of the kind, lest such a cala-
@@ -222,7 +237,6 @@ that instances of self-destruction are now much less frequently met with
 than formerly, notwithstanding the fact, that patients enjoy, at present,
 greater freedom, are more frequently engaged in varied occupations, and
 even sometimes are allowed to use dangerous tools in their respective
-STATISTICS AND TATHOLOGY OF INSANITY. 6]
 handicrafts, tlian in the olden time, when restraint and coercion were
 more commonly employed. In those days of darkness, when confine-
 ment in cells, chains, and personal punishments, Avere used even as ordi-
@@ -248,6 +262,7 @@ to Avere Avomen, which singular circumstance, coupled Avith the previous
 remarks respecting the suicides reported in the middle of the last cen-
 tury, clearly indicates that a greater propensity to the crime of self-mur-
 der prevails in female than in male lunatics.
+
 Another peculiarity may be also mentioned, to shoAv that restraint and
 strict confinement of lunatic patients do not always insure additional
 security to the victims of insanity, but even the contrary. According
@@ -262,6 +277,7 @@ ment, it is satisfactory to find, that the number of lunatics reported to
 have escaped during the tAventy years ending the 31st December, 1842,
 AA7ere eleAren men and five AAromen, being only one escape in every 292
 admissions, or less than one-fourth the previous amount.
+
 From the preceding statement, it appears that a stronger disposition
 to escape from the confinement to Avliich lunatics Avere formerly subjected
 in this asylum, preArailed among the male than the female patients,
@@ -274,11 +290,12 @@ of insane persons of both sexes placed under similar circumstances, they
 deserve attention from the philanthropist and physician, Avhen directing
 the treatment of patients afflicted with that greatest of all human cala-
 mities, mental alienation.
-62 STATISTICS AND PATHOLOGY OF INSANITY.
+
 Another point of interest in this inquiry is the influence which parti-
 cular seasons of the year exert upon mental affections, as illustrated by the
 author in the following table of. admissions, &c., at Bethlehem Hospital
 during twenty-two years:
+
 Season of the year.
 1st Quar.?Jan. Feb. March
 2nd Quar.?April, May, June
@@ -315,6 +332,7 @@ G75
 894
 Died.
 255
+
 According to the above statement, a much larger number of insane
 patients were received during the second and third quarters than at any
 other period of the year?that is, when the temperature of the weather
@@ -326,6 +344,7 @@ actual number was only 2293; being a dimunition of 497 patients, or
 22 per cent, less upon the whole admissions. In regard to particular
 months, it should be noticed that the greatest number of curable lunatics
 admitted, took place during May?the fewest in January.
+
 Respecting the curability of insanity, it also appears that fewer insane
 patients were discharged cured during the early part of the year, than in
 the autumnal months, or towards the approach of winter. For instance,
@@ -336,6 +355,7 @@ patients left the institution free from mental disease, thus making 583
 more recoveries, or an increase of 57 per cent, on the total number of
 cures reported during the latter, than in the first six months of the
 twenty-two years comprehended in the previous table.
+
 With reference to the mortality of mental diseases, the same document
 shows that not only the relative proportion of deaths to the total admis-
 sions was larger during the first than in any subsequent quarter, but the
@@ -344,7 +364,7 @@ ceeded the ratio of ony other three months of the same series, whilst the
 fewest deaths occurred during the months of April, May, and June;
 when, as already stated, more insane patients were admitted into Beth-
 lehem Hospital than at any other season.
-STATISTICS AND PATHOLOGY OF INSANITY. 63
+
 Supported by these data, the physician may rationally conclude that
 as the temperature of the weather diminishes, and the year draws to a
 close, so may he give a more favourable opinion respecting the progress
@@ -353,6 +373,7 @@ a greater degree prevalent during summer than in winter, every exciting
 cause, whether physical or moral, ought to be then carefully guarded
 against, particularly in persons who have been previously afflicted with
 mental alienation.
+
 Another important question is, the pathology of insanity, which has
 long occupied the attention of physicians; and, however much has been
 recently effected in this department, especially by the French pathologists,
@@ -396,7 +417,6 @@ bodies after death, fifty-nine cases showed either recent or old adhesions
 in the chest, and thirty-eight had the lungs consolidated. In thirty-
 six, suppuration had commenced. In nineteen, the pleura, or lungs, bore
 marks of recent or previous inflammation. In twenty cases, there was
-64 STATISTICS AND PATHOLOGY OF INSANITY.
 effusion of lympli into the pleura, &c. In nine, considerable effusion into
 the bronchi and air passages. In nine, the lining membrane of the
 trachea and bronchi was deep red. In fourteen, tubercles were met
@@ -404,6 +424,7 @@ with. In eleven, the lungs had assumed a dark or blackish tint. And
 in nine, the lungs did not collapse when the chest was opened. Besides
 these diseased alterations of structure, others were noticed, which it is
 unnecessary at present to particularize.
+
 Respecting the morbid appearances which the abdominal viscera exhi-
 bited on dissection, the instances of diseased alteration of structure in
 any of the patients were so few, as scarcely to admit of many remarks.
@@ -413,6 +434,7 @@ seven cases, there appeared decided marks of recent and violent inflam-
 mation of the contents of the abdomen; in two of which examples, the
 intestines had actually given way, so as to allow fecal matter to escape
 into the peritoneal cavity.
+
 In conclusion, the author alludes cursorily to the important question
 which now occupies many pathologists, regarding the rationale of the
 diseased appearances usually met with in the brains of lunatics on dis-
@@ -443,11 +465,11 @@ the author; but as our space for extracts is limited, we proceed to con-
 sider the circumstances influencing the results of treatment, and the
 methods of exhibiting the proportions of recoveries and mortality.
 Regarding the sex of insane patients, the author says?
+
 " That the probability of recovery is greater in women than in men, though the
 reverse of the opinion entertained by Dr. Burrows, may now be regarded as established;
 and it is fully supported by a recent inquiry of my own, into the statistics of different
 asylums of this and other countries. With two exceptions, hereafter to be adverted
-STATISTICS AND PATHOLOGY OF INSANITY. 65
 to, in every institution the statistics of which 1 have examined, in which the expe-
 rience has extended over more than a very short period of years, the proportion of
 recoveries in women has exceeded, often to a great extent, that in men. Thus, in the
@@ -464,8 +486,10 @@ York. In the former establishment, the recoveries in favour of the male
 sex were five per cent., whereas, in the American institution, taking a
 period of more than twenty years, the recoveries amongst men actually
 exceeded those amongst women by twenty-eight per cent.
+
 Again, with regard to the proportion of deaths amongst the insane,
 the author remarks :?
+
 " A still greater difference in the rate of mortality of the two sexes is nearly always
 to be noted. As is well known, there is an excess in the general mortality of this
 country on the side of males ; but this does not exceed 5 or 0 per cent. The relative
@@ -481,6 +505,7 @@ to 57 per cent, in those for private patients ; to 57 per cent, at Glasgow; to 5
 at Lancaster; to 46 per cent, at Woodbridge ; to 34 per cent, at the Betreat, York; to
 29 per cent, at Siegburg, near Bonn ; to 13 per cent, at Worcester, U.S.; and to 9 per
 cent, at Schleswig, Holstein.
+
 " The only British institution I am acquainted with, in which the mortality of the
 women has exceeded that of the men, is the asylum at Belfast, in which it appears, from
 Dt. Stewart's reports, that in the fifteen years from the opening of the establishment to
@@ -503,7 +528,6 @@ tial point; and knowing that the probability of recovery is greatest in the
 young, whilst it undergoes a very regular diminution as age advances,
 the tables should be arranged according to quinquennial periods of life,
 NO. I. F
-G6 STATISTICS AND PATHOLOGY OF INSANITY.
 up to the age of twenty; but after tliat period, the arrangement accord-
 ing to decennial periods may be adopted, as sufficiently minute. In
 illustration of the utility of such an arrangement, the author gives a
@@ -514,6 +538,7 @@ patients resident at different ages is supplied; but we would particularly
 direct attention to the form adopted at the Retreat, which the author
 strongly recommends, and advises that it should enter into the annual
 report of every hospital for the insane.
+
 Of all the circumstances which affect the comparison of the recoveries
 and mortality of lunatics, the stage of duration of the disease is, prac-
 tically speaking, the most important; for it has long been well known,
@@ -529,6 +554,7 @@ pursued in different lunatic establishments, influence results. In con-
 structing statistical tables, these points should therefore be kept in
 remembrance, as they furnish most useful information, from whence
 deductions may be drawn of great practical importance.
+
 The Association of Medical Officers of Hospitals for the Insane, has
 done much towards obtaining a well-digested method of registration,
 and in the collection of results of various kinds, classified in a numerical
@@ -554,7 +580,6 @@ remarks respecting the healthiness of the locality in which an asylum
 should be situated, the influence of climate, soil, as well as on the means
 of exercising, occupying, and amusing the inmates. Unquestionably, all
 lunatic asylums should be placed upon elevated ground, and should like-
-STATISTICS AND PATHOLOGY OF INSANITY. 07
 Avise command clieerful prospects. The soil should be dry, and there
 should be always a most ample supply of water. These circumstances
 contribute materially towards the salubrity of any public institution, and
@@ -567,6 +592,7 @@ But for smaller establishments, intended to contain from 80 to 150
 patients, the plan which may be called the K form appears to be the
 most appropriate; whilst it possesses the merit, not to be undervalued,
 of presenting a more ornamental and cheerful-looking structure.
+
 The ventilation, lighting, warmth, and cleanliness of the apartments
 occupied by insane patients, exercise likewise considerable influence, as
 also the number of lunatics which should be treated in one asylum. The
@@ -578,6 +604,7 @@ concurrent causes may, in some institutions, operate upon the health of
 the inmates, physicians are not justified in attributing the higher mor-
 tality of some asylums solely to their greater average population; still
 Dr. Thurnam thinks?
+
 " It is still highly probable that it is in part owing to this circumstance that the
 mean mortality of those county lunatic asylums which have the largest population, as
 Wakefield with a population of 400, Lancaster with one of (300, anil Han well with one
@@ -598,6 +625,7 @@ of the country asylums, taken as a class. The first group includes the
 three asylums for the counties of Nottingham, Stafford, and Gloucester;
 the second, those of Lancaster, the west riding of York, Suffolk, and
 Middlesex. The author then remarks:?
+
 " The difference in the amount of the diet in the two groups, is, as will be seen,
 very considerable. Exclusive of vegetables, the solid food, consisting of meat and
 cheese, and of puddings, bread and other farinaceous articles, amounted, on an average,
@@ -606,9 +634,7 @@ the first group) as regards solid food, the diet was 50 per cent, better than th
 second. The difference in the relative amount of solid animal fQod, considered sepa-
 rately, was still greater, and amounted to 130 per cent.: the weekly allowance of meat
 and cheese being, on an average, 40 ounces in the first, and only 19|- ounces in the
-F 2
-68 STATISTICS AND PATHOLOGY OF INSANITY.
-second group. Of course tlie quantity of soup, porridge, milk, and otlier fluids was
+F 2second group. Of course tlie quantity of soup, porridge, milk, and otlier fluids was
 greater in the four asylums in which the solid food was at the minimum, than in tlie
 other three; these amounting, on an average, to 15| pints in the one, and to not more-
 than 10 pints per week in the other, group. Still this greater amount of fluids could by no
@@ -616,6 +642,7 @@ means compensate for so great a difference in the quantity of solid food, and es
 in that of meat. In the first group, also, the quantity of beer allowed was much greater
 than in the second; the quantity being two pints daily in the one, and, for the most
 part, not more than half a pint in the other.
+
 " That in institutions in every way of the same character, there should be so large
 a difference in the quantity and description of the food, is of itself sufficiently sur-
 prising : and would, without any reference to results, appear to call for inquiry and
@@ -634,6 +661,7 @@ lums, which materially influence the results of treatment, and which will thus e
 many of the discrepancies in the results which the table exhibits; but, though this
 is the case, I cannot but conclude that the amount of difference which does exist, is in
 great measure dependent upon the difference in the diet."?Pp. 95?97.
+
 The treatment of tlie insane, whether medical or moral, exerts also a
 very decided influence on the progress and ultimate result in many cases
 of insanity; seeing that, in well-conducted asylums, where a judicious
@@ -646,6 +674,7 @@ ment, and to the personal comfort and cleanliness of the patients. In
 illustration of such principles, Dr. Thurnam thus refers to the history of
 the York Lunatic Asylum, which portrays the internal condition of that
 establishment at different periods:?
+
 Mean annual
 " York Lunatic Asylum. Mortality per cent.
 Resident.
@@ -653,6 +682,7 @@ Resident.
 First Physician: 31 years, 1777?1809   9.5
 Second Physician: 6 years, 1809?1814   14.8
 Since Reform of 1814.?29.GG years, 1814?1844   7.24
+
 " More than a quarter of a century has now elapsed since the reform alluded to
 took place; and during this period, (29.GG years, 1814?44,") which is one sufficient to
 ensure accuracy, the mean annual mortality has not exceeded 7.24 per cent.; a rate
@@ -666,7 +696,7 @@ the two first physicians, during the extended period of 37 years, amounting as i
 40. per cent., must, I think, without doubt, be at least principally attributed to the dif-
 ference which then existed in the management of the institution, and in the treatment
 of the patients."?P. 118.
-STATISTICS AND PATHOLOGY OF INSANITY. 69
+
 Other questions respecting the statistics of insanity are also investi-
 gated in the volume now under review, but our limited space precludes
 us from enlarging further upon this part of the author's publication,
@@ -689,6 +719,7 @@ tional and useful information. We throw out the hint for the considera-
 tion of the superintendents of lunatic asylums; and Dr. Thurnam must
 pardon us when we say, that Ave wish his work had contained tables of
 the above description.
+
 Besides the subject more especially investigated by Dr. Thurnam, the
 volume now before us contains three essays on the liability to insanity.
 One, in regard to the relative liability of the two sexes to that disease;
@@ -717,7 +748,7 @@ Avas fallacious, particularly in his having compared Avith each other the
 existing, instead of the occurring, cases of insanity in the tAVO sexes.
 Nevertheless, Dr. Thurnam, Avho appears only anxious to ascertain the
 truth respecting the point now in dispute, observes?
-70 STATISTICS AND PATHOLOGY OF INSANITY.
+
 " Tlie only two institutions, however, tliat I am acquainted with in this country, in
 which there lias been any material excess of females admitted during extended periods,
 are the hospitals of Betlilem and St. Luke; and in these there has been, during dif-
@@ -727,6 +758,7 @@ metropolis; and does not, consequently, in any degree establish Dr. Haslam's opi
 that ' in our own climate, women are more frequently afflicted with insanity than men
 a statement which has been recently repeated by Dr. Webster in his remarks ' On the
 Statistics of Bethlem Hospital.'"?P. 146.
+
 Notwithstanding tlie apparent force of the arguments Dr. Thurnam
 brings forward in support of the position he has taken up, we confess
 our opinion coincides with that of Esquirol and the other authorities
@@ -760,6 +792,7 @@ lunatics, pauper as well as private patients being included; thus making
 an excess of 12.73 per cent, of insane women more than men at that
 period resident in the public establishments throughout England and
 Wales.
+
 Appended to Dr. Tliurnam's publication, is an elaborate report re-
 specting the history and statistics of the Retreat near York, of which
 institution the author is the zealous medical superintendent. This docu-
@@ -769,7 +802,6 @@ manity. But our critical remarks must now draw to a close. However,
 before taking leave of Dr. Thurnam, we would again observe, although
 we do not wholly coincide in several of the conclusions at which he has
 arrived, and think the great mass of valuable materials the author has
-ON THE MANAGEMENT OF LUNATIC ASYLUMS. 71
 collected might have been otherwise arranged, no one can doubt the
 writer's merit and industry, and that he deserves the thanks of the pro-
 fession for this useful contribution to medical science.

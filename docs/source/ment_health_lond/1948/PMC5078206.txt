@@ -2,7 +2,7 @@ Modern Mental Treatment
 ========================
 
  A Handbook for Nurses.
-By E. Cunningham Dax, M.B.,
+:Author: E. Cunningham Dax, M.B.,
 B.S., B.Sc.(Lond.), D.P.M. Faber. 4s. 6d.
 This little pocket book gives a brief, sensible
 and readable account of modern forms of physical
@@ -10,6 +10,7 @@ treatment for mental disorder: a few pages are
 devoted to each of electro-convulsant therapy,
 insulin, modified and deep, prolonged narcosis,
 leucotomy, malaria and drugs.
+
 There is no doubt that the book will be thus a
 very valuable one for nurses, both as an introduction
 to their work, and also as an easy reference book.
@@ -18,6 +19,7 @@ that is of the title. In his introduction, the author
 stresses in a few succinct, but all too short, phrases,
 the paramount importance of the general bearing
 of the nurse and of the atmosphere of the hospital:
+
 and elsewhere it is true he mentions that the need
 for the comas of insulin should be only part of a
 general programme of sympathetic handling. But

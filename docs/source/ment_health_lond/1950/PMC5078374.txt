@@ -1,8 +1,9 @@
 The Rhesus Danger. Its Medical, Moral and Legal Aspects
 ========================================================
 
-By R. N. C. McCurdy, M.B., Ch.B.,
+:Author: R. N. C. McCurdy, M.B., Ch.B.,
 U.P.H. Heinemann. 5s.
+
 The author of this book writes with understand-
 able bias because two of his children have died from
 haemolytic disease of the newborn, which is the
@@ -30,7 +31,7 @@ It certainly has not been confirmed, as the author
 mentions, that there is any excess of Rh positive
 children of Rh negative mothers in groups of
 feeble-minded children and their mothers.
-24 MENTAL HEALTH
+
 The second section deals exhaustively with every
 avenue which the Rh incompatible couple, who have
 had children with haemolytic disease, may have to
@@ -42,6 +43,7 @@ science will discover some way of preventing the
 development of haemolytic disease in a child before
 birth, which would enable the couple to have
 normal children
+
 The author does lose sight of the fact that an
 Rh incompatible couple may well achieve the size
 of family they desire before they are seriously

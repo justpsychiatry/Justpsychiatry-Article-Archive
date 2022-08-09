@@ -1,10 +1,11 @@
 Psychological Medicine
 ========================
 
-By Desmond Curran,
+:Author: Desmond Curran,
 M.B., F.R.C.P., D.P.M., and the late Eric
 Guttmann, M.D., M.R.C.P. Third Edition.
 E. & S. Livingstone Ltd, Edinburgh. 12s. 6d.
+
 The third edition of this textbook for students
 and newly qualified Practitioners is the first to be
 published since the untimely death of Dr. Eric
@@ -39,6 +40,7 @@ on clinical material and there is insufficient dis-
 cussion of those important aspects of social psychia-
 try which were the principal psychiatric advances
 of the war period.
+
 For the most part, this book gives a clear and very
 readable description of the major psychiatric
 illnesses, but its balance is not always good and the
@@ -48,7 +50,7 @@ extremely well reproduced, but they are not always
 wisely selected, whilst one of them at least might
 have appeared without comment in a text book
 published 50 years ago.
-MENTAL HEALTH 115
+
 This book is essentially meant for the student or
 practitioner who has little or no previous experience
 of psychiatry and, whilst it is by no means the ideal

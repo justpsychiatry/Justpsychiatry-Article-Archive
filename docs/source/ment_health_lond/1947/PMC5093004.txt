@@ -1,11 +1,9 @@
 The Prevention of Misfits at Home and at Work
 =============================================
 
-I
-38 MENTAL HEALTH
-*
-By IAN SKOTTOWE, M.D., D.P.M.
+:Author: Ian Skottowe M.D., D.P.M.
 Physician-in-Charge, Department of Nervous hncl Mental Diseases, Royal Buckinghamshire Hospital,
+
 Aylesbury
 The Psychiatric Approach
 Psychiatry has something?but only something,
@@ -22,6 +20,7 @@ the study of the sick reveals events or principles
 that are relevant to improving still further the lot
 of those who are well, and so leads to the prevention
 of more illness.
+
 It is a common experience in clinical psychiatry,
 especially in the less severe disorders?the neuroses,
 and the inadequate though not grossly defective per-
@@ -44,7 +43,10 @@ see how they arise. None are more bitter than those
 directed primarily, not against others, but against
 the self; although they usually become projected,
 secondarily, against others.
+
 Types of Misfit and their Genesis
+------------------------------------
+
 (i) At Work
 The examples that I am about to give are
 anecdotal, necessarily anonymous and disguised
@@ -58,6 +60,7 @@ they build up into some curious patterns so that
 the fundamental discrepancy is sometimes hidden
 and much effort is wasted in following the false
 scent of the secondary reaction.
+
 The man who, comfortable enough economically,
 sets his heart on a professional career in say medicine,
 the law, architecture, or engineering and who
@@ -83,6 +86,7 @@ of seditious nonsense, a quack, an exploiter of
 weaknesses and frailties in other less aggressive
 and even less well endowed individuals than he
 himself.
+
 A similar chain of events can be seen in simpler
 walks of life. The moderately skilled workman,
 or woman, not quite skilled enough, yet with
@@ -109,10 +113,7 @@ would be the first to resent. If such an individual
 happens to have the gift of the gab, he may collect,
 about him?or her?a number of under-occupied
 * Address given at meeting of National Association for Mental Health held in Reading, April 23rd, 1947.
-(
-)
-L
-MENTAL HEALTH 39
+
 and thoughtless, though otherwise contented
 individuals who will go with him as much for the
 sake of a minor thrill or a change from routine,
@@ -138,6 +139,7 @@ different from the prudent, thoughtful, skillful man
 who knows his job and its faults as well as his own,
 and who seeks patiently to remedy them by proper
 and generally accepted methods.
+
 A certain proportion of men, or women, who are
 examples of misfits in either kind of setting that I
 have described do come into psychiatric hands
@@ -175,6 +177,7 @@ running a small retail business, or a kennel, or being
 a comparatively humble technician instead of
 aspiring fruitlessly to high places in one of the
 professions, or in commerce.
+
 Something must be said of another, though much
 rarer, kind of occupational misfit, namely the man
 whose aptitudes and skills are far beyond the
@@ -239,7 +242,6 @@ administrator's chair, as the teacher passes from
 the classroom to the office of the educational
 director, the scientist from the laboratory to the
 board room?the limiting factor to efficiency,
-40 MENTAL HEALTH
 achievement and personal contentment lies not in
 the development of technical skill itself, but in
 the capacity to exercise that skill in a human
@@ -270,7 +272,9 @@ ponderable virtue that needs, like friendship, to
 be kept in constant repair, by the exercise of personal
 disciplines fundamentally of a religious or spiritual
 nature, by whatever names one may call them.
+
 (ii) At Home
+
 Misfits at home which we in clinical psychiatry
 see far more frequently than we see misfits at work?
 (that is to say they are more often causes of illness,
@@ -301,6 +305,7 @@ usually a sound investment in such cases, and in
 the end it benefits the interloper, if he is worth his
 salt, as much as the family team whose home ground
 has been invaded.
+
 Few things are more pitiful than the unruly,
 noisy, boastful ill-mannered child who is a misfit
 in his own home, the more so because to begin
@@ -347,6 +352,7 @@ in morale, if not materially and it is held together in
 the latter respect only by the arid and biting bonds
 of sheer economic necessity and perhaps by fear of
 what the neighbours will think and say.
+
 This sad and common train of events is by no
 means confined to one particular social stratum;
 in its essentials it is, I believe, as frequent, relatively,
@@ -365,7 +371,6 @@ from their berths in the inner harbour. Even if
 they cannot find a fit in the immediate family circle,
 they can still do so in a small rural community,
 where everybody knows everybody and everything
-MENTAL HEALTH 41
 about everybody else. In the town and more so in
 the suburbs, a family may live cheek by jowl with
 another for years and be on no more than nodding
@@ -375,12 +380,14 @@ away tossed purposely hither and thither on an
 indiscriminating sea of social insecurity. There
 is no haven in between, such as there is in a
 village.
+
 Clearly, all these domestic misfits interact with
 misfittings at work, in either direction. Resent-
 ment at an unjust foreman is projected on to the
 hapless wife, no less than irritation by the nagging
 wife and noisy child is projected in criticism of the
 factory management.
+
 I make only passing reference to the misfits that are
 constituted by the so called " problem family ".
 These are really special instances of persons so
@@ -421,7 +428,10 @@ what they are and to deal with them appropriately
 before they entangle themselves in commitments
 that they have, from the start, no chance whatever
 of fulfilling.
+
 Principles of Prevention
+-------------------------
+
 Although all the examples of misfits that I have
 cited are those that have, in fact, had a direct bearing
 upon the onset or aggravation of psychiatric illness,
@@ -462,8 +472,10 @@ incurring legal risks, or severe personal hardship
 for him, for something that is, when all is said
 and done, not altogether his fault?after all he
 didn't make his own appointment.
+
 On what lines then, and by whom may preventive
 measures be taken ?
+
 I would place first in importance the marriage
 relationship,?the selection of a spouse,?and I
 would emphasize that it is quite impracticable to
@@ -490,11 +502,11 @@ at any rate to begin with. I have no wish to intrude
 into fields that others have made their own, but I
 would venture the opinion that the essential
 principles of successful mating are to be found
-42 MENTAL HEALTH
 in the recognition and satisfactory matching of
 certain traits, attributes and circumstances, rather
 than in any conception of matching personality
 types.
+
 Briefly, a matching of intellectual status,
 interests, social class, cultural standards, spiritual
 values and sex needs should be the aim; and
@@ -548,6 +560,7 @@ which exists at present?with a view to occupational
 guidance, is imperative; and I should like to see
 properly organized selection procedures throughout
 industry, commerce and professional life.
+
 As for the child who is already something of a
 misfit in an incompetently managed or unhappy
 home, I am sure that although something can be
@@ -600,6 +613,7 @@ a good boarding school; and their removal to such
 an establishment sometimes has a most salutary
 effect upon exhausted, apparently irresponsible
 and inefficient parents.
+
 All these people then, the parent, the teacher, the
 educational psychologist, the family doctor, the
 psychiatrist, the industrialist, various ministries
@@ -611,13 +625,13 @@ ual psychiatrist's point of view of their respective
 roles without in any way implying that all this work
 is primarily a psychiatrist's business?only some of
 it, in some cases.
+
 I have left till last what is I think, one of the most
 important, yet one of the least discussed aspects
 of the whole matter. I refer to the effort that the
 individual himself can and should make to adapt
 himself to his environment and to people, but
 seldom does, mainly I think, because he is not
-MENTAL HEALTH 43
 taught to do so and because there is little in the
 peacetime social evolution of the present century
 that is designed to evoke a sense of personal responsi-

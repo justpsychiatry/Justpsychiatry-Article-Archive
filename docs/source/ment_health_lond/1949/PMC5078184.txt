@@ -1,11 +1,13 @@
 The Effect of Rhythm and Functional Music on Mental Defectives
 ===============================================================
 
-By P. PICHOT, M.D.
+:Author: P. PICHOT, M.D.
+
 Medecin Assistant des Hopitaux de Paris
 The term functional music is used to describe
 all music capable of modifying in a given
 direction the behaviour of those who hear it.
+
 In the treatment of mental defectives, the
 modifications in behaviour which are expected
 are improvements either in general behaviour
@@ -30,12 +32,14 @@ give a certain regularity to these movements.
 I even made use of military marches as a
 means of speeding up their jumping,
 climbing and running."
+
 The problem has been treated by many writers
 since Seguin, but few of their studies do more
 than paraphrase the sentences just quoted,
 although they often then attempted to solve
 several very different problems at one and the
 same time.
+
 The first of these concerns the interest taken
 by mental defectives in music, and especially
 in music with a strongly marked rhythm.
@@ -44,12 +48,14 @@ further and discover, on the one hand, the kind
 of music that interests the subjects most, and,
 on the other, the type of mental defective most
 interested in music.
+
 Many writers have asserted, for instance, that 1
 among mental defectives, mongols have a
 special interest in music. In point of fact,
 this assertion has never, to our knowledge, been
 subjected to any serious comparative study
 and should be treated with reserve.
+
 The second problem is that of the musical
 aptitude of mental defectives ; for music can
 only modify the behaviour of a subject in so far'
@@ -66,6 +72,7 @@ showed, for example, that the accident rate in a
 psychiatric hospital could be diminished if the
 patients had suitable music played to them at
 fixed hours.
+
 In our service at the Vallee Foundation in
 Paris, we have been using gramophone records
 in an empirical fashion for several years.
@@ -76,8 +83,6 @@ the use of such a therapeutic method rests,
 would have to be undertaken beforehand. It
 * Paper {translated from the French) read at a meeting arranged by Association of Mental Health Workers in connection
 with the International Congress on Mental Health, August 20th, 1948.
-V
-MENTAL HEALTH
 seemed to us that the two fundamental elements
 were as follows : firstly, the perceptive aptitudes
 of mental defectives regarding music and more
@@ -88,7 +93,10 @@ these studies we should be able to build up a
 sound therapeutic method the value of which has
 already been demonstrated by previous empirical
 experiments.
+
 The Perception of Rhythm
+-------------------------
+
 What has come to be generally, though in-
 correctly, known as the "sense of rhythm" has
 never been systematically studied in mental
@@ -109,6 +117,7 @@ Fraisse, of the Institute of Psychology of the
 r'Orbonne, we have tried to determine the general
 level and distribution of rhythmic sense in
 defectives?a very complex problem.
+
 Tor this 'study we have devised a series of
 tests which (a) are simple enough to be applied
 to defectives, and (b) are diverse enough not
@@ -120,6 +129,7 @@ are omitted. These tests are as follows :
 1- Spontaneous tempo. This is studied by
 recording the free tapping with a metal pencil.
 ?n a tapping board.
+
 | 2. Perception of rhythmic forms. In three
 Parts, (a) reproduction by the subject of series of
 A3,4, etc., taps struck at regular intervals by the
@@ -133,11 +143,10 @@ increasing difficulty : 2-1, 3-1, 4-1, 5-1, 2-2,
 simultaneous recording of the beats of a metro-
 nome ticking at 58, 100 and 138, and the taps
 of the subject who is trying to follow the rhythm
-i
-^
 on a tapping board. Marks are awarded from
 1 to 4 according to the exactness of the
 synchronization.
+
 4. Complex rhythmic induction. The subject
 is asked to beat time on the tapping board to
 music played on the gramophone. Four pieces
@@ -146,16 +155,20 @@ the other : a military march, a waltz, a jazz
 piano piece and a fragment of a ballet. The
 results are judged by two independent observers
 and marked from 1 to 4.
+
 The subjects we studied were split into three
 groups :
+
 A. Group of defectives whose I.Q. varied
 from 29 to 48 (seven in age group 6-9 ; six,
 10-13 ; twelve, 14-17 ; five, over 18).
 B. Group of normal children having the same
 mental age as the defectives (their chronological
 ages being between 3 and 6).
+
 C. Group of subjects of same chronological
 age-groups as the defectives.
+
 The results were as follows :
 1. Spontaneous tempo. Mental defectives and
 children of the same mental age have a rapid
@@ -177,6 +190,7 @@ tempo as subjects of the same chronological
 age (E.M. 3*8 and 3-4 per cent.) and greatly
 superior to the tempo regularity of children of
 the same mental age (6 ? 0 per cent.).
+
 2. Perception of rhythmic forms. In practice,
 we obtained identical results from groups A and
 B, whereas group C was decidedly better ; this
@@ -191,12 +205,11 @@ behaviour of mental defectives is identical
 with that of subjects of the same mental age
 and distinctly inferior to that of subjects of the
 same chronological age. (b) In the case of both
-3*
-MENTAL HEALTH
-mental defectives and young children, the most
+3 mental defectives and young children, the most
 difficult measure to follow is the slowest one,
 in other words, the one which is farthest removed
 from the spontaneous tempo.
+
 4. Complex rhythmic induction. One first
 point that we must underline because of its
 importance for the problem of functional music
@@ -213,6 +226,7 @@ showed a kind of inhibition especially at the
 beginning of the experiment, an obvious
 tendency to wish to reconstruct the rhythm
 intellectually rather than simply follow it.
+
 The uncorrected results as set forth (on
 opposite page) in Table IV show that, on an
 average, Groups A and B are equal and
@@ -228,6 +242,7 @@ increase with age, but that above a certain
 mental level it is replaced by an intellectual
 construction which can, up to a point, compen-
 sate for lack of aptitude.
+
 To sum up the whole of this experimental
 study, we may provisionally conclude that,
 generally speaking, mental defectives' behaviour
@@ -236,17 +251,20 @@ of the same mental age and inferior to that of
 subjects of the same chronological age. In
 other respects, there are three points worth
 noting :
+
 (a) The lower the mental age of
 defectives, the faster their spontaneous
 tempo, and the induction of simple rhythm
 is easier in proportion as this rhythm is
 faster, or, in other terms, comes closer to
 the spontaneous tempo.
+
 (b) The perception of complex rhythms
 is identical in mental defectives and
 subjects of the same mental age, and inferior
 to that of subjects of the same chrono-.
 logical age.
+
 (c) Complex musical rhythms are
 induced spontaneously by mental defectives.
 This aptitude for the induction of musical
@@ -256,7 +274,10 @@ only permitting subjects with little rhythmic
 aptitude to compensate for the deficiency
 with a superimposed intellectual construc- f
 tion.
+
 The Affective Value of Rhythm
+-------------------------------
+
 There is no doubt that music with a strongly
 marked rhythm is of considerable affective
 value in the case of mental defectives, and this
@@ -267,22 +288,27 @@ nature and intensity of this affective value.
 Howard Hanson has attempted to formulate
 the affective action of rhythm in the following
 principles :
+
 "1. Everything else being equal, the
 further the tempo is accelerated from the
 pulse rate to the upper limit of practical
 tempo, the greater becomes the emotional
 . tension.
+
 "2. As long as the subdivisions of the
 metric units are regular and the accents
 remain strictly in conformity with the
 basic pattern, the effect may be exhilarating,
 but will not be disturbing.
+
 "3. Rhythmic tension is heightened by
 the extent to which the dynamic accent is
 misplaced in terms of the metric accent.
+
 " 4. The emotional effect of ' off
 balance' accents is greatly heightened
 by an increase in dynamic power."
+
 But this study, the original purpose of which
 was to show " the harmful effects of boogie-
 woogie on the mental state of American youth *
@@ -301,12 +327,13 @@ or trunk, and incidentally in rhythmic sucking
 movements with the mouth. There are three
 main interpretations of these rhythmic move-
 ments.
+
 According to the older writers like Vosin and
 Bourneville, they fall into the category of
 tics and are of purely neurological origin.
 More recently, after Kraepelin, they were
-MENTAL HEALTH
 TABLE I.
+
 Spontaneous Tempo (Average Tempo)
 Tempo
 (1/100 sec.)
@@ -373,6 +400,7 @@ Mental Def. I Group B
 30
 30
 10
+
 TABLE III.
 Rhythmic Induction (Metronome Rhythm)
 Metronome
@@ -430,6 +458,7 @@ to 3
 16
 10
 10
+
 * Mean scores for the seven subjects aged 6 to 9. For the twenty-three subjects aged 10 or more the mean score is 4*0
 {maximum score).
 considered similar to catatonic stereotypes,
@@ -462,9 +491,9 @@ defectives in proportion as their mental level is
 low, and, on the other, that in the isolated cases
 where swaying is met with above the mental age
 of 5, psycho-analysis of the subject, which we
-10 MENTAL HEALTH
 cannot go into here, shows the existence of an
 affective fixation at an early stage.
+
 If we admit this conclusion, we may foresee
 that the younger the subject, or more assimilable
 to a young subject, the more marked will be
@@ -481,7 +510,10 @@ referred, namely, that after 10 to 12 years,
 subjects- show a certain inhibition concerning
 rhythm and lose the spontaneity of induction
 observed in the youngest subjects.
+
 Conclusion
+------------
+
 From this research, the first results of which
 we have briefly set forth, we may already draw
 certain conclusions concerning the use of
@@ -495,6 +527,7 @@ music with pleasure value will be to fix the
 attention of the children and afterwards to
 reduce their restlessness, and the effect is shown,
 for example, in the accident rate.
+
 2. Functional music will be most effective
 from the pleasure point of view when it comes
 nearest to the rhythmic possibilities of the
@@ -503,6 +536,7 @@ simple enough and well enough defined to be
 grasped by the subjects, and when its tempo
 is fast enough to come near to their own
 spontaneous tempo.
+
 3. The value of slow functional music with a
 well-defined rhythm is probably quite different.
 In proportion as it varies from the spontaneous

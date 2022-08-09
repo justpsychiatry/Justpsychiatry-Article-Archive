@@ -2,8 +2,9 @@ Occupational and Physio-Therapy as Adjuncts to Child Guidance
 =============================================================
 
 A SUGGESTION FOR DESIGNERS OF CHILD GUIDANCE CLINICS
-By E. WELLISCH, M.D., D.P.M., Consultant Phys. Med. (Austria)
+:Author: E. Wellisch M.D., D.P.M., Consultant Phys. Med. (Austria)
 Medical Director, Cray ford Child Guidance Clinic, Kent
+
 Children usually cannot sustain long psycho-
 therapeutic conversations as adults do, and,
 therefore, they often need a special psycho-
@@ -22,6 +23,7 @@ method, which again has a close relation with
 occupational therapy, is physiotherapy, a form
 of treatment which can in many cases be
 usefully combined with psychotherapy.
+
 Occupational Therapy in Child Guidance
 Occupational therapy is already widely
 applied in mental hospitals and other places of
@@ -60,10 +62,12 @@ can be very useful in covering these needs and
 thus provide the clinic with important materials
 on which to a certain degree the result of the
 treatment depends.
+
 The occupations and crafts used in child
 guidance have to be adjusted to the special
 purpose. They can be divided into four main
 groups.
+
 The first group consists in toy-making and
 repairing. A very important play technique
 is the method of building miniature play-
@@ -79,9 +83,9 @@ he can order what he needs for special purposes.
 The making of puppets, either flat figures,
 marionettes or glove puppets, and of stage
 material would be a great asset. The same
-34 MENTAL HEALTH
 applies to the making of dolls' houses and soft
 and other toys.
+
 Another group includes various simple crafts,
 such as needlecraft, weaving, basketry, raffia
 and cane work, wood and metal work, and
@@ -98,12 +102,14 @@ emotions as well chosen and performed music
 can, and there is no doubt that musical treat-
 ment, if directed by an expert, has a great
 future.
+
 The occupational therapy department of a
 child guidance clinic requires a special room
 and a trained occupational therapist. The
 other staff of the clinic will usually neither have
 the expert knowledge nor the time necessary
 for this branch of the work.
+
 Physiotherapy in Child Guidance
 Physiotherapy, or the use of mechanical
 force, heat, water, light and electricity, is a
@@ -114,6 +120,7 @@ and psychological medicine in particular is so
 little recognized. There are, however, signs
 that physiotherapy will play an increasing role
 in psychiatry.
+
 Physiotherapeutic procedures are a valuable
 part of the treatment in some mental hospitals.
 In child psychiatry, physiotherapy has until
@@ -159,11 +166,13 @@ of rest during which the patient has a feeling
 of increased, well-being and is pleasantly
 relaxed. This period often gives a unique
 opportunity for psychotherapy.
+
 The main indications for physiotherapy of
 maladjusted children can be divided into two
 groups, bodily and psychological. In either
 group the symptoms must be considered to
 determine the type of treatment.
+
 In the first group the most important indica-
 tions for physical treatment are faulty posture
 and incorrect bodily mechanics. Faulty posture
@@ -176,6 +185,7 @@ asthenic children. The children also often
 have a vascular instability with poor peripheral
 circulation, are pale, anaemic, and are liable to
 acidosis and over-excitement.
+
 Another indication for physiotherapy is
 infantile bronchial asthma. Remedial exercises
 for asthma give such an excellent opportunity
@@ -184,6 +194,7 @@ be given by the staff of child guidance clinics.
 The same applies to other physiotherapeutic
 procedures which assist in relieving this
 distressing disease.
+
 Another indication for a simultaneous physio-
 and psycho-therapy is the presence of mild, and
 especially glandular forms of infantile tuber-
@@ -191,7 +202,7 @@ culoses. Further indications are neurological
 symptoms such as paresis, paralysis, neuralgia,
 migraine or other forms of headache, and also
 habit spasms.
-MENTAL HEALTH 35
+
 In the second group, the outstanding
 symptoms which determine the choice of
 treatment are lack of energy and interest,
@@ -236,6 +247,7 @@ of children. The admixture of extracts of pine
 needles or other aromatic and coloured sub-
 stances can, apart from their other effect, exert
 a favourable suggestive influence.
+
 Artificial light treatment is indicated in many
 disorders of childhood. The growing child
 needs light almost as much as food and is
@@ -251,6 +263,7 @@ ultraviolet treatment, especially if a certain
 grade of ultraviolet erythema is given at the
 skin of the thorax and the treatment is combined
 with local applications of heat.
+
 Of excellent value for a child guidance clinic
 would be the installation of a " solarium ".
 This is a room with a battery of ultraviolet
@@ -268,6 +281,7 @@ and ultraviolet treatment. A trained physio-
 therapist should be in charge of the department
 and the senior psychiatrist should have a certain
 knowledge of physiotherapy.
+
 As child guidance clinics are relatively recent
 institutions, they were frequently established
 in rooms of hospital outpatient clinics, school
@@ -282,7 +296,10 @@ of the larger clinics, make provisions also for
 departments of occupational and physio-therapy.
 This would increase the scope and improve
 the results of child guidance treatment.
+
 PUBLICATIONS
+-------------
+
 Eighth Annual Report of the Davidson Clinic
 Edinburgh, 1948.
 Haworth, N. A., and E. M. MacDonald (1940).

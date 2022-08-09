@@ -1,12 +1,13 @@
 Elements of Electro-Biology, or the Voltaic Mechanism of Man; of Electro-Pathology, especially of the Nervous System; and of Electro-Therapeutics
 ===================================================================================================================================================
 
-
 292 Art. VI.- ?
-By Alfred Smee, F.R.S., Sur-
+ SMEE ON ELECTRO-BIOLOGY.
+:Author: Alfred Smee, F.R.S., Sur-
 geon to the Bank of England, to tlie Central London Oph-
 thalmic Hospital, to the Royal General Dispensary, &c. etc. &c.
 London: Longman. 1849. pp. 154.
+
 The volume before us treats of the relation of electricity to the vital
 functions during the maintenance of health?of disordered states
 arising from electrical disturbances in the body?of the influence of
@@ -22,6 +23,7 @@ author seems to have felt, as he states in the preface that he has been
 for ten years engaged, at intervals, upon the work, and its very slow
 advance from year to year has been a constant annoyance to himself.
 The treatise commences with a definition of life.?
+
 " Life is a condition difficult to define, because it does not denote
 one constant state in the body to which it appertains, but refers to a
 series of changes continually occurring. The illustrious Bichat con-
@@ -34,6 +36,7 @@ which we form of a solid and fluid body in a state of action, and thus
 may be defined to be?' The idea of the performance of certain
 specific actions between the parenchyma and blood or fluid of an
 organized being.'
+
 "From the facts which I have already stated, we perceive that the
 vital functions are divided into two classes, those of animal life, and
 those of organic life; and to the idea of both collectively we assign
@@ -46,13 +49,13 @@ but in its widest signification it is one word used to designate the
 combined functions of assimilation, growth, nutrition, excretion, the
 reception of impressions, the registration of impressions, the com-
 bination of impressions, together with the production of force, elcc-
-SMEE ON ELECTRO-BIOLOGY. 293
 tricity, light, heat, sound, <fcc. Such is life, an idea necessarily in-
 ferring action, and realising the poet's thought,
 " She dreads an instant pause, and lives but while she moves."
 Our author then particularly investigates the conditions of animal
 life, and traces the analogy of a living body to the action of a double
 voltaic battery :?
+
 " A central parenchyma, a peripheral parenchyma, connected to-
 gether, and each supplied with bright arterial blood, are necessary to
 life. It follows, therefore, that bleeding causes death?that the
@@ -62,11 +65,13 @@ juring the brain, or of the peripheral, by destroying the body, in-
 stantly prevents the manifestations of the functions of animal life.
 Lastly, a separation between the central and peripheral parts, as in
 the act of pithing, is attended with the same result.
+
 " When action ensues, a change of matter occurs, which is proved
 by an increased excretion, and corresponding desire for food. This
 fact demonstrates that the functions of animal life are obedient to
 the general physical law, that 110 force can be generated without some
 corresponding equivalent change of matter.
+
 " Putting all these facts together, Ave must seek for some physical
 apparatus which shall agree with the requisites for the maintenance
 of organic life. Nov/ a central apparatus, supplied with a peculiar
@@ -79,6 +84,7 @@ substitute any other fluid, or destroy the structure either at one end
 or the other, or divide the connecting portions or wires, the effects
 proper to the apparatus will not be manifested, and the battery will
 be destroyed."
+
 The actual presence of the voltaic battery in animal bodies, is then
 demonstrated by what the author calls the electro-voltaic test:?
 " If we take two perfectly polished steel needles, and let them re-
@@ -93,7 +99,6 @@ and which I propose to designate by the term of Electro-Voltaic.
 '? by employing the electro-voltaic circuit, we have a test by which
 we can ascertain the presence of a current in any hydro-voltaic com*-
 bination, or supposed combination, even if it bo limited to a single
-294 SMEE ON ELECTRO-BIOLOGY.
 cell. Having thus obtained tlie mechanism for examining animal
 bodies, the time arrived for applying the test to the living creature.
 The first animal which was honoured was a black rabbit, into the
@@ -107,6 +112,7 @@ vanometer instantly showed the mechanism of volition. I then
 gave the creature a piece of wood to bite, upon which it used all its
 power of mastication, and by catching the oscillation of the needle,
 a very powerful current was exhibited."
+
 From this experiment he infers the body to consist of one battery,
 which Mr. Since terms the peripheral battery, and which is connected
 by the sensor and motor nerves with the central battery.
@@ -119,15 +125,18 @@ cutaneous tissues the opposite, the serous fluid, which lubricates the
 parts, being the electrolyte. The whole forms a voltaic battery,
 which I shall hereafter consider in minute detail, as the Peripheral
 Battery.
+
 " If we follow the course of the nerves, we find that they are pro-
 longed to the brain, and end in the gray matter, where they again
 come in contact with a large quantity of blood-vessels. As the two
 series of nerves are not immediately connected in the brain, it follows,
 according to the laws of voltaic action, that another battery exists
 there, which may be termed the Central Battery."
+
 After this general description, the sensations are separately studied
 in detail under terms derived from the Greek, which the following
 paragraph will sufficiently explain:?
+
 " Electro-Aistlienics, then, comprises the study of all the various
 organs of sensation, as that of sight, or Opsaistlienics?of hearing,
 or Ousaisthenics?of taste, or Gumaistlienics?of smell, Bliinais-
@@ -139,9 +148,9 @@ place in different parts ot our own bodies, without which, I shall
 hereafter show, that we could have no individuality, no personality,
 and could not even perhaps prove that our bodies did not belong to
 another individual.
+
 " For the manifestation of the phenomena of all these senses,
 two conditions are invariably necessary?the presence of a nervous
-SMEE ON ELECTRO-BIOLOGY. 295
 expanse, and the supply of bright arterial bloocl to that expanse.
 The universal co-existence of blood and nerve constitutes the founda-
 tion of electro-biology, for we invariably find that blood is useless
@@ -156,6 +165,7 @@ negative, so that, physically speaking, the presence of a voltaic circuit,
 which is produced by light, is an ordinary phenomenon, although
 heretofore not recognised by philosophers. After these experiments,
 the eye is examined by the electro-voltaic test.
+
 "To apply this test to the eye, one needle should be thrust into
 the eye of an animal through the choroid coat, and a second into
 the muscle in the neighbourhood; when, if a sudden transition be
@@ -173,6 +183,7 @@ circuit in the ear or in the tongue, though he gives theoretical struc-
 ture of these parts. He has, however, ascertained that a current is
 generated in the nose, but that the animal has extreme repugnance
 to the operation.
+
 "We may merely, in a remote and imperfect manner, imitate
 such a state of things, and form an artificial ear, by fixing a piece
 of vellum over a glass vessel shaped like a funnel, and terminat-
@@ -182,16 +193,17 @@ quence therefore, a circuit might be made or broken. By labour, I
 have no doubt but that a perfect acoustic telegraph could be made,
 which shall be acted upon by sounds, and have the power of trans-
 mitting them to any distance.
+
 "We may make a voltaic battery, in which the circuit shall be
 determined by savours, in very different methods. For instance, if
 we place a little per-salt of iron, with two platina poles, in a Y-shaped
 tube, and then drop a little infusion of flesh meat into one side, a
 voltaic circuit would instantly be produced. In nature, taste is
 probably excited by the absorption or contact of savours."
-206 SMEE ON ELECTKO-BIOLOGY.
 The determination of the presence of the voltaic current in com-
 mon sensation or csenaisthenics, is spoken of as a condition very
 easily ascertained.
+
 " The determination of the course of the voltaic current is ex-
 tremely easy, if the ccenaisthesis is the subject of experiment. We
 have only to introduce one needle into the muscular tissue, and a
@@ -201,16 +213,19 @@ pinched or otherwise irritated. From this experiment we learn that
 the ctenaisthetic pole is positive, the muscle negative. Of course the
 electro-voltaic current, by which we render manifest this pheno-
 menon, is in the reverse direction."
+
 Mr. Smee states that feeling may be excited by cither heat or
 force, and that voltaic circuits, determined by variations of tempera-
 ture, may be easily constructed. These lie terms thcrmo-voltaic
 circuits; and with regard to force, the following curious illustration
 is given:?
+
 " There is no difficulty in the consideration of a voltaic circuit
 excited by force, for if by pressure we prevent the arterial corpuscule
 from coming in contact with the nerve-fibre, action must arise, inas-
 much as the balance would be destroyed; polarity would ensue, and
 action would take place.
+
 "We may imitate this kind of circuit by very easy means. For
 instance, if we take two pieces of iron wire, and insert them in very
 dilute acid, 110 action ensues when tested by the galvanometer. The
@@ -221,6 +236,7 @@ the artificial corpuscule is thrust aside from the pole, a veiy powerful
 current is generated, which has its origin at that pole where no cor-
 puscule exists. This structure is strictly and perfectly analogous to
 the natural mechanism of the body."
+
 Up to this point the subject is quite within the range of experi-
 ment, the mechanism of sensation is determined, and the sensations
 arc carried by the nerves or bio-tclegraplis to the brain, when they
@@ -234,7 +250,6 @@ perfectly fluid, and is thus enabled to penetrate the minutest i amifi-
 cations of the capillary vessels. In injecting the brain, it is necessary
 to use one that is perfectly fresh; and I generally inject immediately
 after the animal is killed. By these means the most exquisite in-
-SMEE ON ELECTRO-BIOLOGY. 207
 jections of tlie brain and spinal cord have been executed; and in all
 my preparations, it is shown that wherever gray matter exists the
 blood is distributed, and where the white matter exists there is no
@@ -242,11 +257,13 @@ blood; and from these considerations, physiologists infer that the
 gray matter is the active part of the brain."
 The sensations when they have acted upon the brain are remem-
 bered.
+
 " When a man receives an impression it is not evanescent, passing
 immediately away, but it is retained in the system to regulate future
 actions. Now, in voltaic constructions, it is not difficult to produce
 an action which shall influence future motions, and thus exhibit the
 effects of memory."
+
 For the structure of the brain itself, Mr. Smee considers that the
 following is the mode in which the fibres may be arranged. Units
 of sensation are received in the first battery. These acting in a
@@ -259,6 +276,7 @@ learn the combined properties of bodies?that is, whether the im-
 pression is derived from the action of two or more senses at one
 time; and, lastly, he supposes that the fibres are connected together
 into one total pole., He observes?
+
 " The position of this battery is somewhere in the centre of the
 Pons Varolii; and when I have plunged a needle into that situation
 on one or two occasions, I believed that I have observed deflection in
@@ -271,6 +289,7 @@ voltaic laws; and it is now manifest, that every structure here assumed
 may be imitated and repeated by voltaic combinations."
 Desire to act is considered to be a state of tension, and the laws
 regulating action are thus expressed?
+
 " It is manifest, by this arrangement, that any circumstance deter-
 mining^ the action of the fibres of the aisthenic battery would, or
 might influence the whole upon certain laws.
@@ -280,7 +299,7 @@ dynamic nerve, and may thus excite it to action.
 nerve of the body, because that would be the readiest course,
 unless there were obstacles offered in some part of that circuit,
 or adjuvants added to other parts.
-298 SMEE ON ELECTRO-BIOLOGY.
+
 3. If any obstacles were offered in any part of the course, the
 circuit would be completed by some other motor nerve, ac-
 cording to the facility with which the current could pass."
@@ -290,6 +309,7 @@ by them we are enabled to estimate the time of the occurrence and
 cause of an event, as well as the form, size, magnitude, and number
 of objects. He considers them to be the source of consciousness,
 and other mental phenomena. Mr. Smee thus writes?
+
 " The mind, however, derives certain powers from combinations
 of two or three of these batteries conjointly. We obtain the ideas
 of a thought and of a reality in this manner. An idea is a thought
@@ -304,6 +324,7 @@ whether actions of thought concur with actions in the body, the
 difficulty ceases, and we are enabled to distinguish immediately
 between a reality and a fanciful creation of the brain. This power
 is termed consciousness.
+
 " Other combinations, doubtless, give us other ideas; thus per-
 sonality and infinity give us the idea of the soul; pleasure and
 infinity, of good; pain and infinity, of bad; cause and infinity, of
@@ -314,6 +335,7 @@ and time, of immortality. Personality and other totalities of senses,
 give us the idea of the mind; thought and infinity, of spirit.
 Lastly, action, infinity, and pleasure conjoined, give us the idea of
 virtue; action, infinity, and pain, of vice."
+
 Having traced the sensor nerves to the brain, the author traces
 the dynamic nerves to the muscles, electrical organs, &c. He says?
 " Each muscular fibril is completely enveloped by blood-vessels,
@@ -323,11 +345,11 @@ motion, and, consequently, the relation of the capillaries should be
 fully borne in mind. A good mode of injecting the capillaries is by
 the exquisite carmine injection before described, when treating of
 the mode of injecting the textures of the brain.
+
 " According to this view of the case, muscular contraction ensues
 from the material existing in the ultimate fibre being increased in
 bidk by changes taking place in consequence of the voltaic circuit.
 " An artificial muscle may readily be constructed, to act upon a
-SMEE ON ELECTRO-BIOLOGY. 299
 similar principle. To effect this object, the sheath of the ultimate
 fibre should be imitated by a bladder, or perhaps more strictly by a
 piece of the gut of any animal. Into the interior of .this, a strip of
@@ -340,6 +362,7 @@ the zinc and silver are connected, gas is evolved within the artificial
 muscular fibre, when it widens and shortens. This contraction
 acts upon the artificial tendons, to produce any required motive
 power.
+
 "An arrangement similar to that of the battery of the electric
 fish may be made in various ways. The arrangement, which accords
 most nearly with nature, I shall term the artificial electrical fish.
@@ -355,18 +378,22 @@ from the porous tube to the exterior, one compartment, or the
 hydrogen side, will become alkaline, and the salt will retain its
 chemical character; the other cell will become acid, and be converted
 into the red prussiate."
+
 We have not time to follow the electrical x-elations of sleep and
 rest, nor can we enter into the consideration of the changes taking
 place during electrolyses.
+
 " To charge," says Mr. Smee, " the electro-biological batteries,
 we must take suitable food; and to keep them in working order, we
 must eliminate the changed material. The food Ave take is changed
 into blood; and electro-biology shews that the blood is the vivifying
 agent, and explains how the blood of any animal may, in any sense,
 be said to be ' the life thereof.'' "
+
 The relation of electricity to cell-life is not so obvious as in
 animal life. It appears to have remarkable cffect on the circulation
 of the blood. The author remarks:
+
 " With regard to the cells of animal bodies, one of the most won-
 derful and extraordinary results which I have observed is the action
 of electricity derived from the intermittent current of the various
@@ -374,7 +401,6 @@ forms of electro-magnetic machines. When a frog's foot is arranged
 111 the field of the microscope, and the intermittent current is
 directed through the animal, the circulation instantly stops, as
 though by magic. The current in the veins, indeed, seems slightly
-300 SMEE ON ELECTRO-BIOLOGY.
 to retrograde, though it still continues its course for a short period
 in the arteries; the whole effect giving the appearance of all the
 corpuscules having a tendency to be drawn into the capillaries."
@@ -383,6 +409,7 @@ gives some illustrations of the acari, which they suppose to have
 obtained from the action of electricity. Mr. Smee states, that
 Mr. Weekes has lately observed two more species produced from
 other solutions. The author says :
+
 " It becomes now a matter for investigation, how far a totally
 different organic being may spring from another organic body made
 up of cells. In practice, we find that animals are found in internal
@@ -399,11 +426,13 @@ the tapeworms, and other bodies are produced by virtue of the cells
 of the human being taking on new forces, and aggregating in new
 directions; or whether the germs arc carried there in sonic unknown
 method."
+
 In a subsequent chapter, the curative influence of electricity is
 considered in all its forms as frictional electricity, lightning electri-
 city, animal electricity, hydro-electricity, thermo-electricity, coil and
 electro-magnetic electricity, and magneto electricity. Of these instru-
 ments, he states:
+
 " For electro-therapeutics, or even for all purposes, it is advisable
 that the current should act in one uniform direction, and that it
 should not be a to-and-fro current, as ordinarily produced. When-
@@ -411,6 +440,7 @@ ever an instrument, is bought, this fact should be ascertained, which
 may be readily effected by finding whether metals are reduced from
 solutions of their salts, on only one of the platinum poles attached
 to the terminations of the wires.
+
 " The magneto-electric apparatus possesses an advantage in its
 not requiring the aid of a voltaic battery to set it in action. It is
 always ready, without any preparation, for the purposes of the
@@ -421,7 +451,6 @@ requires a certain amount to keep its armature revolving."
 Mr. Smee further considers the influence of magnetism upon the
 body, of heat derived from electricity, of light derived from the
 game source, and of its power to effect decomposition. He says: '
-SMEE ON ELECTRO-BIOLOGY. 301
 " Voltaic electricity decomposes all binary compounds. It resolves
 Avater into its elements, oxygen and hydrogen ; and salts into their
 acids and bases. Various propositions liave been made to use this
@@ -434,6 +463,7 @@ beast appeared to suffer the most excruciating agony. The ball of
 the eye was distended with gas on the application of the current;
 the cornea, in a few minutes, became quite opaque, and the whole
 eye was finally destroyed."
+
 Lastly, the effect of temperature and light, in its power of exciting
 the voltaic actions of the body, are studied, and also the effect of
 physical and mental impressions 011 the circuit are discussed.
@@ -446,6 +476,7 @@ to the opinion which other philosophers, after due deliberation, may
 be led to form of its contents, I can only say, in the words of the
 immortal Harvey: ' Spes mea in amore veritatis et doctorum ani-
 morum candore.'"
+
 The above is a short analysis of this, Mr. Smee's valuable and
 interesting volume, though, from the whole being so interwoven,
 each part being dependent upon the antecedent, the work very ill

@@ -1,10 +1,10 @@
 An Introduction to Child Guidance
 ===================================
 
-By W. Mary
-Burbury, M.B., B.S., D.P.M., Edna M. Balient, B.Sc.
+:Author:  W. Mary Burbury, M.B., B.S., D.P.M., Edna M. Balient, B.Sc.
 and Bridget J. Yapp, M.D. Pp. 200. 7s. 6d.
 London. Macmillan & Co. 1945.
+
 The staff of the Manchester Child Guidance Clinic
 has produced an admirable little book describing their
 work. It is couched in simple language and shows the
@@ -18,6 +18,7 @@ from observation of the parents, the home, the school,
 and the street, which help in understanding the child and
 his maladjustment to the general situation, are adequately
 dealt with.
+
 It is obvious that the understanding will be all the
 clearer when the impressions of three skilled people are
 pooled, especially when they are as enthusiastic and

@@ -2,21 +2,21 @@ On the Cerebral Diseases of Children, Regard to Their Early Manifestations and T
 ========================================================================================
 
 MONOGRAPH I. 
-BY WALTER C. DENDY, ESQ.
+:Author: WALTER C. DENDY, ESQ.
 LATE PRESIDENT OF THE MEDICAL SOCIETY OF LONDON,
 SURGEON TO THE ROYAL INFIRMARY FOR CHILDREN,
 ETC.
 LONDON:
-JOHN CHURCHILL, PRINCES STREET, SOHO.
-1848.
-ON THE
-CEREBRAL DISEASES OE CHILDREN.
+JOHN CHURCHILL, PRINCES STREET, SOHO. 1848.
+ON THE CEREBRAL DISEASES OE CHILDREN.
+
 The study of infantile pathology is replete with interest. The excessive
 fatality which marks the spring-time of human life must constantly
 claim our most anxious exertions, while the simplicity which charac-
 terizes the diseases of childhood, uncomplicated by those disordered
 actions and changes so constant in after life, and uninfluenced by mental
 emotion, renders their study deeply interesting.
+
 With this simplicity, however, there is combined predisposition and
 proneness to disease, as well as susceptibility of external impression in
 an eminent degree. The pink hue and extreme vascularity of the skin
@@ -25,11 +25,13 @@ convulsive action on very slight stimulation, the facility Avith which
 laughter and crying are induced, and the rapidity with which extreme
 exhaustion will often occur, are proofs of the intense sensibility with
 which the nervous system is endowed.
+
 The disorders of children are also marked by extreme celerity of
 progress, illustrated by the rapidity with which inflammatory disease
 will often run its course, and the sudden formation of its morbid pro-
 ducts, the highly elaborated lymph membrane of croup, and the almost
 instantaneous effusion of serum in the wassersclilag.
+
 The mucous membranes are the earliest sufferers from extraneous
 excitement. The membrane of the alimentary canal has suddenly im-
 posed on it the most important duty of assimilation; that of the respi-
@@ -41,7 +43,6 @@ Happily, however, the mucous membranes are endowed with a faculty
 of relieving themselves by pouring out an excess of this natural secre-
 tion; they may therefore be often hailed as the vis medicatrix.
 A 2
-4 ON THE CEREBRAL DISEASES OF CHILDREN.
 But it is the pathology of the infantile encephalon which is the
 subject of our most especial interest; so replete with sympathies, so
 delicate, sensitive, and impressible, so insidious and so obscure in its
@@ -51,9 +52,11 @@ mind which is to influence the thoughts, passions, and actions of after
 life, while thus combined with matter; until at its appointed season
 it will
 " Burst a seraph in the blaze of day."
+
 Thus will the condition of the infantile brain often mould the intellect
 of the adult, illustrating physically the poet's thought,
 " The child is father of the man."
+
 Soon after the foetal existence is changed, and the double circulation
 established, the organ of intellect commences its progressive state of
 development and growth. In the early period of man's life the brain
@@ -72,6 +75,7 @@ much of its pathology. Thus, about the second year of childhood the
 natural diminution of tenuity and of aqueous particles in the brain,
 and the deposition of phosphorus, may perhaps account for the very
 early forms of serous effusion.
+
 It is at the period especially of teething, and of the progress of
 cranial ossification, that the vascularity of the head is increased, to afford
 an adequate supply for those processes, and hence the frequent establish-
@@ -83,13 +87,14 @@ those latent tendencies to disease which constitute diathesis. It is
 to these idiosyncrasies that I would most especially refer, as they con-
 stitute the great predisposing causes to cerebral disease. For although
 disorder may be lighted up in a previously healthy brain, yet it is the
-ON THE CEREBRAL DISEASES OF CHILDREN. 5
 combination with these peculiar diatheses?as that of struma, for in-
 stance?which imparts so formidable, and often irremediable, a character
 to cerebral maladies.
+
 To investigate, then, the nature of these predisposing causes, we must
 refer, not to the breathing child, but to the intra-uterine, or foetal state,
 indeed, to the very moment of conception.
+
 From that instant to the moment of birth, the peculiar states of the
 mother exert on the foetus a most potent influence. Hereditary or con-
 stitutional taint, systemic debility or defect, thought, passion, emotion,
@@ -125,9 +130,11 @@ coloured. It takes very little notice, but its eyes, instinctively as it
 were, follow a candle, even round and round when whirled before them,
 and at this time, and this only, there is a very faint expression of
 gratification.
+
 Dr. Goelis expresses his belief in the following sentences:?" Mul-
 tiplied experience of the influence of terror and anxiety in the mother
 0 ON THE CEREBRAL DISEASES OF CHILDREN.
+
 during the latter period of pregnancy, was afforded me and the other
 physicians of Vienna, in the year 1809, when our imperial city was
 bombarded. Most of the children who were born after this frightful
@@ -135,6 +142,7 @@ catastrophe, in about ten, twenty, or thirty days after their birth, were
 seized with convulsions and died. Within the cranium were found
 traces of inflammation, and in the ventricles of the brain effusions of
 lymph and serum."
+
 The truth of this influence is questionless, yet some pathologists still
 doubt and attempt to disprove this maternal impression?in a very
 natural opposition, perhaps, to the assertion of special influence?that
@@ -143,6 +151,7 @@ identical with itself ; and even of these curious coincidences the records
 of physiology are not wanting. But to gainsay the disturbing influence
 of emotion on the progress of pregnancy, is to flout a constantly recur-
 ring truth.
+
 The mind of the nursing mother may also very speedily derange or
 contaminate the circulating fluids, the blood, its products, deposits, and
 secretions. Dr. Underwood adduces an illustration of this truth. A
@@ -152,6 +161,7 @@ she put her infant to the breast. It was very soon seized with a fit,
 and remained for thirty hours in alternate states of convulsion and
 coma. I adduce this merely to point to the contamination of the fluids
 from mental influence.
+
 This emotion may also produce morbid effects on the generative
 system of a more protracted duration. Dr. Greding, of Waldheim, has
 recorded the case of a woman whose daughter was killed by the stroke
@@ -169,10 +179,9 @@ We cannot but wonder that even arrest of development does not more
 frequently occur, when we reflect on the tenuity of structure, and the
 delicate connexion of the foetal tissues; the slender filament, for in-
 stance, which unites the head and trunk ere the neck is fully formed;
-and especially when we are aware of the frequent repetition and excess
-ON THE CEREBRAL DISEASES OF CHILDREN. '
-of conjugal endearment, even to the eleventh hour of pregnancy. I do
+and especially when we are aware of the frequent repetition and excess of conjugal endearment, even to the eleventh hour of pregnancy. I do
 not doubt that this is a frequent cause of abortion.
+
 I may here add the probability of tight-lacing as a cause, for it has
 been affirmed, by Breschet and Goelis, that the children of unmarried
 women, who have attempted to conceal their shape, were the most fre-
@@ -197,11 +206,13 @@ as it not only predisposes to disorder, but renders that disorder in-
 tractable and perilous. When, for instance, encephalitis occurs in a
 healthy brain, the form is phlegmonous, and it is more amenable to ac-
 tive treatment.
+
 The very frequent discovery of granular tubercle on the pia mater,
 especially about the base of the brain in fatal cases of effusion, (ninety-
 five per cent., according to Dr. Hennis Green,) will induce us to believe
 that it may constitute the essential tendency to hydrencephalic dis-
 order.
+
 In very many of these cases, the tubercular deposit is not confined
 to the encephalic membranes. The lungs especially, the liver and in-
 testines, the mesenteric and bronchial glands, are often either studied
@@ -209,19 +220,21 @@ with granular tubercle, or coated with flaky caseous patches. 1 have
 often seen the mesenteric glands only exhibit the true strumous dege-
 neration, when there have been no evidences in any other tissues, espe-
 cially in cases of low remittent fever.
+
 With these important facts before us, when we see associated with
 cerebral symptoms deficiency of cranial ossification, enlargement of the
 ends of cylindrical bones, tumid abdomen, and enlarged mesenteric
 gland, and especially if the condition of several children in a family in-
-8 ON THE CEREBRAL DISEASES OF CHILDREN.
 dicate hereditary or constitutional taint or tendency, we must consider
 the child intensely disposed to meningitis and effusion; and we cannot
 be too watchful and prompt in our ministration, or too cautious in our
 prognosis.
+
 In our consideration of intra-uterine defect or disease, we must com-
 mence at the very lowest point of animal existence, the mere ganglionic
 vitality of the zoophyte, which is, indeed, in utero, the early fcetal
 condition.
+
 It is true that there is life in that being in which the spinal marrow
 itself is wanting, but the amyelous foetus ceases to exist at the moment
 of its birth. If the spinal medulla be prolonged to the marginal line of
@@ -239,6 +252,7 @@ which there was not a particle of cerebrum or cerebellum. Cruveilhier
 relates a case analogous to this, in which there was a little nodule on
 the basilar groove of the occipital bone, about the extent of cerebral
 development in the asteria, or star-fish.
+
 In the case recorded by Mr. Burrows, in the Medico-Cliirurgical
 Transactions, there were several interesting phenomena. There was no
 evacuation, although the ganglionic and spinal systems seemed perfect.
@@ -246,17 +260,18 @@ But the excito-motory actions (at that period little understood) were
 very decided. The least peripheral irritation excited spasm and con-
 vulsion, and pressure on the brain produced a sort of electric shock,
 although the child was usually torpid and passive.
+
 In this case there was a general absence of cranial bones, merely a
 small portion of the occipital existing, the cerebrum and cerebellum
 appearing like a hernia of a mulberry colour. The child, however, lived,
 with irregular respiration, six days, having no evacuation, and taking no
 food.
+
 Dr. Bright records the case of a child two months old, from the
 cranium of which Dr. Remmett, of Plymouth, drew, by five operations,
 eighty ounces of fluid; and when the child died, two quarts of fluid
 filled the cranial cavity. The medulla oblongata' was entire, and there
 was a small medullary mass lying behind the orbits. Dr. Cheyne would
-ON THE CEREBRAL DISEASES OF CHILDREN. 9
 probably have affirmed tliat this fluid was compensation for tlie want of
 brain; Morgagni, that the fluid destroyed the brain by compression.
 With these melancholy states of complete cerebral atrophy, we may,
@@ -265,6 +280,7 @@ sensation is completely absent. Were it not for this conviction, the
 accoucheur would often feel very deep regret during his performance of
 craniotomy, especially if the child should move and cry subsequent to
 birth.
+
 Some years since, with the concurrence of my friend Dr. Davis, I
 evacuated the encephalon of a very large and well-formed child in the
 city. The brain and its vessels were completely broken down, and
@@ -285,6 +301,7 @@ limpid. In the sheep it is usually so. A case of this kind is recorded,
 in which, after the operation of trephining, the compressed brain ex-
 panded, (of course from the renewed circulation,) and filled the cranial
 cavity.
+
 A still-born child was brought to me, some time since, by a midwife,
 in which the cleft or ossific deficiency was in the occipital bone. The
 frontal was very diminutive, and receding from the orbitar ridge?the
@@ -295,16 +312,17 @@ separate cyst, nearly as large as the cranium itself, which lay along the
 spine like the ears of a hare, weighing down the cranium and face, so
 that they almost formed a continuous line with the vertebral column.
 The form of face was that of abject idiocy.
+
 A preparation of a somewhat similar being was presented to Guy's
 Hospital Museum by my friend Mr. Hargraves, of Tonbridge Wells. In
 another child, which survived two days, with the very faintest marks of
 vitality, the encephalic mass of medulla and fluid were contained in a
-10 ON THE CEREBRAL DISEASES OF CHILDREN.
 poucli of natural integument, which was continued from the edges of a
 very large anterior fontanel, which soon assumed a gangrenous appear-
 ance in patches. There were very slight excretions involuntarily passed,
 but the excito-motory influence was insufficient to induce the infant
 to suck.
+
 In all the cases of this state which I have seen, various degrees of
 paresis were invariably observed. In the case related by Sir Charles
 Bell, in his work on the nervous system, there were occipital and verte-
@@ -315,11 +333,13 @@ only prominent indications of vitality. In these and analogous cases,
 the disorganization of the cerebral medulla rendered the beings in-
 capable of continued vitality, putting them at once out of the pale of
 our association.
+
 Some of these medullary softenings seem to be antecedent to effusion,
 not the consequence of maceration; as we occasionally find degrees of
 congenital ramolissement without a drop of serum. They are forms of
 atrophy dependent on anaemia or deficient nutrition, and not the result
 of inflammatory action.
+
 Billard, Copland, Andral, and other pathologists, have recorded cases
 in which the cranium and even the whole spinal canal were filled with
 a disorganized pulp, which was observed, by Billard especially, to pos-
@@ -327,7 +347,8 @@ sess an odour of sulphureted hydrogen. The external mark of these
 children evidently indicates struma, being often combined, not only
 with defect of cranial ossification, but with downy skin, excess of ca-
 pillary growth, hypertrophied extremities of cylindrical bones, clubbed
-fingers and toes, and glandular enlargement.
+fingers and toes, and glandular enlargement.\
+
 In some cases of congenital hydrocephalus, the membrane only is
 protruded?hydrenceplialocele meningea; in others, there is a more de-
 cided centrifugal tendency of the secreted fluid, unravelling or spread-
@@ -337,14 +358,15 @@ cavity, and producing a hernia of the enceplialon; the condition of the
 encephalic mass being so far normal as that vitality may be protracted
 to an indefinite period. Otto believed that in all the cause was effu-
 sion, and not the growth of brain.
+
 Of the first class of cases, of many of which I have preserved correct
 drawings, several have been presented to me at the Royal Infirmary;
 others have perished in their birth, or the fluid has been discharged
 ere they could be born. The children I have seen have been generally
 wan, pallid, and unsymmetrical in their growth. In the latter cases,
-ON THE CEREBRAL DISEASES Of CHILDREN. 11
 the disorganization, probably, sometimes depends on disease, or fault
 of the placenta, or the cord.
+
 A child was brought to me nearly a year old, the head of which
 resembled that of some nondescript animal rather than of a human being;
 the face was most diminutive, occupying no more than one-twentieth
@@ -358,6 +380,7 @@ Yet this child survived twelve months. When it died, the dura mater
 was found firmly adherent to the cranium ; the pia mater extremely
 vascular, and three and a half pounds of fluid in the subarachnoid tissue.
 The extremity of this case forbade interference.
+
 When, however, the general symptoms are less severe, and a superior
 degree of consciousness is apparent, these unhappy beings are not
 without the possibility of remedy. I was requested to see a child about
@@ -373,6 +396,7 @@ all sizes. Within this encephalic mass, we could discern only the fol-
 lowing tissues:?The choroid plexus turgid; the thalami immensely
 hypertrophied; the anterior commissure; and the two optic nerves. The
 cerebellum was perfect.
+
 I was requested to visit an emaciated child with a very large head,
 which had all the usual signs of chronic hydrocephalus. There was one
 peculiar symptom : it would squeeze its eyelids together very forcibly,
@@ -383,10 +407,10 @@ died at three years of age. Two pints and a half of fluid were found in
 the ventricles dipping down into the third; the septum lucidum was
 formed into bands; the optic nerves lost in the corpora striata; a large
 medullary band connecting one corpus with the other.
+
 Another child was brought to me with a most diminutive face, and
 the cranium enormously distended, the sutures being all united by mem-
 brane. There were, strabismus, dilated pupils, and spasmodic twitchings;
-12 ON THE CEREBRAL DISEASES OF CHILDREN.
 sometimes violent convulsion and opisthotonos. The bowels were some-
 times confined, at others, relaxed; the child sucked ravenously, yet wasted
 progressively To relieve distention, more than with a hope of remedy,
@@ -400,6 +424,7 @@ compression of bandage, the child never suffered syncope: it was thus
 saved from death. When I last saw it, it had lived three years, and
 seemed to enjoy its existence. It may yet be alive, but of course it
 will be during its whole life an idiot.
+
 I am aware that it will become a question whether operation in these
 cases be justifiable when we reflect on their unpropitious result, and
 remember also that life may not only be preserved, but even enjoyed,
@@ -430,13 +455,13 @@ very gradually closed, the fluid ceasing to be formed before complete
 ossification.' If during the progress of effusion the ossific process be
 early completed, the type of symptoms immediately changes, and either
 the acute form ensues, or the fatal effects of compression are soon wit-
-ON THE CEREBRAL DISEASES OF CHILDREN. 1 3
 nessed. In the case related by Dr. Baillie, ossification was not com-
 plete until the subject was seven years old; the sutures then began
 suddenly to separate, and continued to do so until death. One pint of
 fluid was found in the ventricles. In some cases, I may add, there
 is deficiency even of half the cranium; one portion being bone, the other,
 membrane and integument.
+
 Now the acepliali resemble so much the embryo of even the sixth
 week, that it is probable about that time, or just before it, the develop-
 ment has been arrested. The head of such an embryo is transparent?as
@@ -446,6 +471,7 @@ therefore, that some defect of nutrition, or it may be, some mental in-
 fluence, then occurred, and from that moment the cerebral growth was
 negatived. So early after impregnation and deposition of the ovum
 may the character and destiny of the creature be decided!
+
 It is probable that in the early stage of other of these hydrencepliali,
 the secretion of normal fluid is in excess, in consequence of the general
 laxity of fibre, medullary as well as vascular, and that systemic debility
@@ -454,6 +480,7 @@ as it were, from its mouth, while it renders the absorbent also inapt for
 its duty; a want of balance instantly ensues; effusion of course accumu-
 lates, either into cavities or between membranes, or within the convolu-
 tions of the brain.
+
 I believe foetal effusion is sometimes associated with a dropsical state
 of the mother, and also with dropsy of the amnion membrane. These
 cases illustrate, probably, one form of chronic effusion, the result of
@@ -473,12 +500,12 @@ stringy, almost fibrous, from absorption of the more pulpy tissue. The
 brain usually weighs about two pounds when the subject of atrophy
 is nearly two years old. If the anterior lobes be in defect, we observe,
 of course, the shelving forehead so characteristic of idiocy, and this
-14 ON THE CEREBRAL DISEASES OF CHILDREN.
 atrophy may even be to a degree progressive; for the brain of such an
 idiot lying fallow, one stimulus of growth is wanting, and the organ of
 mind will dwindle; thus may we account for the increase of fatuity
 even in congenital idiots, when we might, perhaps, rather anticipate
 some expansion of intellect.
+
 In the misshapen or one-sided cranium, I believe the lobes of the
 cerebrum will often be found disproportionate; and it would be a curious
 question with those who favour the notion of duality, how far this want
@@ -497,6 +524,7 @@ spherical ganglion being spread over it as a thin grey film. Develop-
 ment of convolution, however, is naturally in abeyance during the first
 year; but then we still perceive the purplish hue of the ganglion in striae
 below the medulla.
+
 Of the second class of cases, hernia cerebri, I have seen many in-
 stances; in these, as in spina bifida, there is essentially ossific defect.
 A male child, ten weeks old, was brought to me with a diaphanous
@@ -517,7 +545,6 @@ tion. The sutures were generally united by thin cartilage, and there
 were a few ossa triquetra. The left parietal bone AVas nearly divided by a
 cleft of two inches in length and half an inch in width. Around the cleft,
 the pericranium was lined with the protruded dura mater; the edges of
-ON THE CEREBRAL DISEASES OF CHILDREN. 15
 the cleft were cartilaginous; fibrous bands crossed the cleft at both ends,
 forming a firm connexion. On removing the parietal bone, the ventricle
 which formed the cavity of the tumour was exposed, its membrane
@@ -532,14 +559,17 @@ progressive order of the cranial development. The ramollissement and
 deposition of lymph were probably the result of inflammatory action
 induced by the puncture, the formation of the lymph being, in fact, the
 effort of nature to restore.
+
 I may add that I have seen clefts in parietal bones without protru-
 sion; in these cases, probably, effusion had taken place, and subsequent
 absorption.
+
 A case analogous to the above is related in the Medico-Chirurgical
 Transactions by Mr. Earle, the diaphanous tumour being over a cleft in
 the occipital bone. The operation of paracentesis was repeated nine times
 with various instruments, the child surviving nearly two months from
 the first operation.
+
 These fluid hernise sometimes take very ecccntric courses. In one
 case related by Dr. Creutzwieser, of Konigsberg, of a person twenty-six
 years old, through a cleft at the outer angle of the os frontis, the fluid
@@ -548,12 +578,14 @@ case in which the brain and medulla oblongata were protruded into the
 spinal canal. The fluid has also escaped sometimes from the lowest
 portion of the sacrum by the sacro-sciatic ligament, and become lodged
 under the gluteus maximus.
+
 We must remember to distinguish these cases of encephalocele from
 the cysts sometimes found on the side of the head of the infant, which
 contains a glairy fluid, and which, in consequence of the external lamina
 of the bone being deficient, while the internal is perfect, impart the
 conviction that there is a communication with the membranes of the
 brain.
+
 Combined with these conditions of disorganization or arrest of de-
 velopment, and consequent diminished intellect, we observe generally
 an exuberance of the ganglionic system, especially of the sympathetic.
@@ -561,15 +593,16 @@ The character of the being thus defective is, of course, that of idiocy in
 its varied degrees, from stupidity to absolute and degraded fatuity?
 from the creature who, always a child, is ever laughing at nothing, or
 charmed with bright colours or light, and, with its mouth open, employs
-16 ON THE CEREBRAL DISEASES OF CHILDREN.
 its time in catching flies, to that supreme idiot, the congenital cretin of
 the Alpine valleys, and other intramontane districts.
+
 We are often consulted on the cases of these Davy Gellatlys in
 swaddling-clothes, of whom such is often the degree of animal enjoy-
 ment, that even the anxious mother will almost cease to grieve, and will
 smile on her idiot baby almost as she would on her pet lamb. To the
 stranger the idiot appears such a mere laughing or dancing vegetable,
 that pity soon yields to a feeling of curiosity or mirth.
+
 The contour of the melancholy cretin is in just keeping with its im-
 perfections. The enlarged cranium lops heavily on the shoulders?the
 face is marked by dull, listless apathy?the creature is often deaf
@@ -586,26 +619,29 @@ is not always, however, congenital or hereditary, but the same atmo-
 spheric influence will, I believe, impart the malady to the foetus through
 the maternal system, and induce the endemic degeneracy (as Maffei calls
 it) about the period of the first dentition.
+
 The morbid anatomy of cretinism is varied. Even from the ela-
 borate essay of Greding, we must fail in pointing to any especial sign.
 The brain is sometimes an atrophy, or it may consist of white ramollisse-
 ment, or a bluish jelly, or it may be very firm in texture; but it is
 never healthy neurine, the deviations being effusion, opaline membranes,
 hydatids, scirrhus, and a diminution of convolutions.
+
 From these structural depravities there must be a degree of asthenia
 of vital function. Yet slight cases of true cretinism may, by persevering
 and judicious education, be relieved and even cured. Among existing
 proofs of this, Dr. Odet, who was himself a cretin, has written a very
 sensible essay on the woful malady.
+
 It is not only in its intra-uterine state that predispositions are esta-
 blished. In its passage into the breathing world, in laborious labour, or
 through a pelvis deficient in capacity, the head of the child is often
 subject to mechanical compression, the occipital bone being frequently
 driven beneath one of the parietals; this may either cause immediate
 destruction of vitality, or induce some chronic action in the brain, that
-ON THE CEREBRAL DISEASES OF CHILDREN. 17
 may become the cause of susceptibility of subsequent disorder, or it may
 induce the condition of hernia cerebri.
+
 When the infant is still born, we may believe that the brain is the
 subject either of congestion or extravasation, and on this discrimination
 depends our success. Where the state is that of congestion, and com-
@@ -617,6 +653,7 @@ easily discriminate, as there are no symptoms: the child is still, and has
 ceased to breathe. Even if this condition be induced by pressure on the
 funis, still there is a poisoned fluid that oppresses the brain and the
 nutrient vessels of the heart.
+
 It is essential, therefore, speedily to excite the heart by its healthy
 stimulus, and this cannot be done without respiration. The child should
 first be put into the warm bath, or sponged with warm water, and then
@@ -627,12 +664,14 @@ and who bears very large children, two of which were born in a state of
 asphyxia, perfectly passive and inanimate. By exciting the trifacial and
 spinal nerves, by cold douche, and by assisting thoracic action, directly
 a gasp was observed, both these children were restored.
+
 In cases more extreme, inhalation should be employed, the accoucheur
 inhaling as much atmospheric air as possible, and then inflating the lung3
 through muslin stretched over the mouth, the trachea being pressed
 against the spine. Enemata of warm gruel may also be employed, and,
 in extremity, galvanic shock may be passed through the thorax and
 spine.
+
 It has been observed by Dr. Marshall Hall, that an infant is liable to
 lapse into secondary asphyxia, when seemingly safely recovered. I have
 not seen this, but it will be wise to watch against such a relapse; if it
@@ -643,10 +682,10 @@ for cysts have been discovered from which coagula have evidently been
 absorbed. When the effusion is slight, and in the subarachnoid tissue,
 there may be hope of this absorption, but when it is in the ventricles
 it is usually more copious, and fatality soon takes place.
+
 Directly it is born, the child is an independent being, is subject to a
 variety of external influences, and impelled to a variety of new actions.
 Its passive, dependent, and unintellectual vitality is past, and the sym-
-18 ON THE CEREBRAL DISEASES OF CHILDREN.
 pathies of the brain are displayed; for although mental phenomena are
 not directly manifested, yet it is immediately conscious of impression on
 the senses. It is, moreover, called on to preside over, regulate, or
@@ -654,6 +693,7 @@ assist many of the most important organic functions. It is not, how-
 ever, yet predisposed to acute excitement. From this cause, combined
 with the subsequent processes of ossification and dentition, it becomes
 sensible of every external influence.
+
 The general fatality from primary dentition is probably in the pro-
 portion of about 1 in 15. Erethism in some degree attends its pro-
 gress, passing off slightly in the healthy child, especially if drivelling,
@@ -662,6 +702,7 @@ slight cutaneous eruption, or even occasional mild diarrhoea supervene
 excess of determination of blood to the head, as indeed is clearly ex-
 emplified by the flushing of the cheeks and the frequent establishment
 of eruptions. " Ubi irritatio ibi adfluxus
+
 We must remember that the rush of blood to the nutrient vessels of
 the teeth is through the same trunk which leads to the brain, the
 branches of which will usually all partake of the increased action; the
@@ -674,6 +715,7 @@ leaving the brain quiescent, or that state is induced which constitutes
 irritation of the brain. This is a subject, indeed, of very high im-
 portance, for it is to this source that many of the morbid changes of the
 brain in after life are to be traced.
+
 And how numerous and perilous the cerebral diseases of children
 prove is learned at a glance from our statistical reports. Even the
 specified cases of hydrocephalus and encephalitis form the larger
@@ -689,11 +731,11 @@ repose, seems so natural a consequence of the, new existence, that it is
 not strange it should be disregarded even by the pathologist. Eepose,
 however, is the life itself of the infant, and if this erethism of the
 brain continue, there may easily ensue an undue lighting up of action,
-ON THE CEREBRAL DISEASES OF CHILDREN. 19
 and the child may be brought to a state of real disorder, its exciting
 causes being intense light, loud or continued noise, suppressed perspira-
 tion, repelled eruptions, coup de soleil, concussion; the internal causes,
 retention of meconium, and acrid or crude ingesta.
+
 The great characteristic of convulsive action, to which from the first
 moment of life the infant is so prone, and which I believe may often
 be referred to laborious or instrumental parturition, or other cranial
@@ -706,6 +748,7 @@ by Leroy, Colles, and others, who would yet, I suppose, be wonderstruck
 at the recommendation of a collegiate professor to leave the placenta
 pendant to the abdomen of the infant until it dropped from the funis,
 CEREBRAL ERETHISM.
+
 The character of cerebral erethism is restlessness, starting on very
 slight impressions, rolling of the head on the arm or pillow, an insi-
 dious smile around the angle of the lip. The expression of complaint
@@ -715,6 +758,7 @@ flow of tears. The pupil is usually somewhat contracted, but in some
 cases perfectly natural; there is often a slight degree of carpopsedal
 spasm, and the head is frequently thrown back for a moment, an
 indication of cerebro-spinal participation.
+
 These symptoms may very quickly subside when the system is healthy,
 but in strumous or cachectic infants they are very likely to increase,
 especially if the ingesta be not duly regulated. After awhile the
@@ -732,7 +776,6 @@ rigidity of the limbs, sometimes so often recurring and passing oft"
 almost without observation or anxiety; unless the cerebro-spinal axis
 becomes involved, and the convulsive twitchings are combined with
 lividity of skin, coldness, insensibility, and slight opisthotonos.
-SO ON TIIE CEREBRAL DISEASES OF CHILDREN.
 Now, the mucous membrane will often, under this excitement, assume
 a vicarious action, and by its profusion relieve the more important
 tissue. It is of deep and vital importance to decide as to the propriety
@@ -746,6 +789,7 @@ canal are so intimately associated in sympathy, that their pathology in
 the infantile state is one constant reagency. Dentition deranges the
 alimentary canal, and it is gastric or intestinal irritation, especially
 in the unhealthy system, that renders teething perilous.
+
 If attended to early, and carefully watched, all these formidable
 symptoms may usually be averted, even after the twentieth recurrence.
 About two years ago the infant of Mr. L , a merchant in the city,
@@ -762,10 +806,13 @@ these causes at this critical period is sometimes followed by effects far
 more sudden and perilous. Indeed, Avhen we consider the intimate
 intercommunications of the nervous system, we cannot wonder at the
 pathology of its sympathies.
+
 It is under these conditions that a very formidable disorder is often
 developed; sudden in its onset, insidious in its nature, often perilous,
 and fatal in its termination.
+
 STRIDULOUS CONVULSION.
+
 When Dr. Clarke first alluded to the " peculiar form of convulsion in
 children" which has since obtained the varied designations of chronic and
 cerebral croup, crowing convulsion, crouplike convulsion, laryngismus
@@ -775,7 +822,6 @@ pathogeny. When he affirmed that the brain was originally affected, he
 probably alluded to predisposition. But Clarke wrote before the
 researches of Marshall Hall had reconciled us to the belief that
 spasmodic action of the laryngeal muscles might arise from spinal
-ON THE CEREBRAL DISEASES OF CHILDREN. 21
 irritation alone. I believe that this convulsion may take place in a
 few instances without warning; hut these are exceptions to the rule,
 and occur usually after a full meal, or when the child awakes startled
@@ -792,6 +838,7 @@ many of these symptoms, if slight, a sudden crow may be the first
 cause of attention or alarm on the part of the mother. Of this alarm
 the child evidently partakes, for it screams with the most anxious
 expression, as if to implore relief.
+
 In very slight cases a change of position, or even patting on the back,
 will immediately relieve; a short inspiration and deep expiration, aud the
 child will for a time be well. If the spasm continue or recur, the face
@@ -804,6 +851,7 @@ to be irritation of the extreme fibrilke of the nerves, inducing reflex
 action, and thus spasmodically affecting the respiratory valves; the
 various excitements of the pneumogastric, the trifacial, or spinal, all
 tending to one focus, the constrictor laryngis.
+
 There has been much discrepancy of opinion, and several hypotheses
 have been adduced regarding this affection. It is probable that isolated
 cases may occur in which encroachment of a gland on the recurrent
@@ -816,12 +864,13 @@ I believe, in the majority of cases, the malady is excited through the
 spinal system, but excitement of the cerebrum primarily, and from
 mental influence alone, especially sudden alarm or fright, will often
 induce it in children predisposed.
+
 It is probable that gastric irritation, especially when aided by malaria,
 is more influential than mere dentition; for when the bowels are duly
 regulated and fresh air inhaled, wc very rarely witness this affection.
-22 ON THE CEREBRAL DISEASES OF CHILDREN.
 This truth will point to those valuable prophylactics, regulation of diet,
 pure air, and exercise.
+
 On the recurrence of the paroxysm, however, the most prompt treat-
 ment is requisite, as asphyxia is imminent. Free and deep scarification
 of the gums should be instantly adopted, chiefly to deplete the vessels,
@@ -835,7 +884,9 @@ drawn behind an ear, or along the sagittal suture, in some cases followed
 by the dressing of mercurial ointment once or twice. Irritation of the
 fauces with a feather, or a mild emetic, castor oil, or enemata, may be
 adopted, according to the judgment of the medical attendant.
+
 Thus much in parenthesis regarding laryngeal spasm.
+
 If it be not interrupted, the fever of irritation will now assume a
 more decided type, and the remittent form, the surface of the body
 being hot and cold by turns. The head is constantly lopped on one
@@ -859,10 +910,10 @@ will often occur: of this Ave may be confident when eclampsia and
 coma, and in older children, delirium, supervene. The effect of this
 detention of carbonized blood in the brain closely resembles epilepsy,
 save in the absence of foaming.
+
 It is in this simple state of congestion?so often misnamed hydro-
 cephalus, and in which the seeming severity of symptoms so often mis-
 leads?that we are called 011 to exert our most judicious reflections. It
-ON THE CEREBRAL DISEASES OF CHILDREN. 23
 is equally essential to support the power of the languid child, and to
 prevent exhaustion, as to subdue excess of action in the more robust.
 The first indication will, of course, be to relieve the turgid state of
@@ -881,19 +932,23 @@ Among the morbid appearances in the enceplialon, there will often be
 not only congestion of the sinuses and veins, but firm coagula of loose
 blood, branching even into the veins themselves?a product easily dis-
 tinguished from those of pus and lymph.
+
 But the analogous symptoms which 000111*, with very slight variation
 of degree, from exhaustion, and from plethora, as well also during pro-
 fuse diarrhoea as from obstinate constipation, render it our duty to study
 diathesis with great care.
+
 In the strumous 01* languid system, from this impeded circulation, and
 other causes, to which I have before alluded?a want of balance ensues
 between the secernents and exhalants, the result of which will be the
 passive or insidious form of liydrencephalus.
+
 Depletion should therefore, in such children, be cautiously adopted,
 the aperient especially being so mild as to avoid the slightest risk of
 hypercatharsis. I have seen children lost by active treatment, in which
 slight meningeal congestion and general anemia, especially 011 the sur-
 face, were the only abnormal appearances discovered.
+
 It is in this strumous child especially that we witness the fatal
 effects of free depletion. The symptoms consequent on this error
 may closely resemble those which it was our aim to combat. It may be
@@ -905,10 +960,10 @@ very profuse effusion was discovered at the base of the brain.
 It is this excess of depletion, then, which may induce that train of
 anomalous and obscure symptoms, yet so nearly resembling those of
 eflusion, that have induced Dr. Hall to term the state hydroceplialoid
-24 ON THE CEREBRAL DISEASES OF CHILDREN.
 disease. This perplexing condition, however, may be, indeed, and often
 is, induced by profuse diarrhoea or hypercatharsis, and by very protracted
 and inefficient lactation.
+
 A mere defect of nutrition, which may induce fatal marasmus, is not
 marked by so prominent a set of symptoms?they are more gradual; yet
 death may be immediately preceded by convulsion, thus imparting
@@ -920,9 +975,11 @@ droop, the pulse is laboured and thready; sometimes there is a transient
 throbbing, similar to the lihemorrhagic effort; the child sobs at intervals,
 with some slight crepitation in its breathing, towards the close of the
 disorders; the fontanel is usually deeply sunk.
+
 Even in this prostrate state, the excito-motory influence, as Dr. Hall
 has observed, may be very prominent; the tickling of the sole often
 causing the child to lift its foot with a jerk.
+
 The three most important symptoms which should influence our
 treatment of these insidious conditions are the hue of skin, the state
 of pulse, and, above all, the depression of the fontanel. If we regard
@@ -930,11 +987,13 @@ or watch these attentively, we shall not, I believe, fall readily into those
 errors of diagnosis so often committed. Extensive effusion has been too
 often discovered when not suspected; and perfect aiifemia has existed
 where meningitis or extreme hydrocephalus was affirmed.
+
 Treatment should of course be adapted to condition and causes.
 Diarrhoea should be checked by cretaceous remedies; prepared chalk with
 or without aromatic confection, or a few drops of aromatic spirit of
 ammonia, should be given ; and in extreme cases, a minim or two of
 the black drop?the best opiate for children.
+
 If the child be spoon-fed, or the subject of protracted lactation, it
 would be eligible to procure a young healthy breast, for a time, at least,
 until the symptoms are changed or removed. Warm water sponges
@@ -944,9 +1003,10 @@ lie in prostrate stupor, brandy may also be given in warm water, the
 child being reclined in a semi-recumbent position. In more protracted
 lassitude and debility, the solution of camphor in fluid magnesia (of Sir
 James Murray) will often be very useful.
-ON THE CEREBRAL DISEASES OF CHILDREN. ?5
+
 ENCEPHALITIS.
 FIRST STAGE ? SENSIBILITY IN EXCESS.
+
 If the state of cerebral congestion be not relieved, another condition
 may be speedily induced. The onset of inflammatory action in the
 encephalon will usually be a rigor and a flush, the effect of the struggle
@@ -984,9 +1044,9 @@ senses being deranged according to the seat of morbid action. There
 is spasm and distortion of the face, and screaming on any movement of
 the limbs; the heat of skin is almost burning, and the shrieking of the
 child constant and violent.
+
 1 his, then, is the early progress of acute encephalitis. If the child
 have been healthy and plethonc3 (and the study of diathesis is most
-26 ON THE CEREBRAL DISEASES OF CHILDREN.
 important,) the form will usually be phlegmonous, and we may expect
 the products of acute inflammatory action. This form, the acute, is
 certainly often more amenable to very active treatment than that of
@@ -994,15 +1054,19 @@ less degree, occurring in those constitutions which, as we shall see, are
 predisposed to another form of termination; just as pneumonia in a
 plethoric habit may induce hepatization or abscess, while in a strumous
 system it will light up a latent tubercle.
+
 If fatality occur at this stage, we discover one or more of these ap-
 pearances :?Flakes of lymph or purulent matter deposited on, or dif-
 fused between, the membranes; close adhesions or adventitious tissues
 between the arachnoid and pia mater, or even between the dura
 mater and the cranial vault, its arachnoid lining being almost in-
 separable from it.
+
 SECOND STAGE ? SENSIBILITY IN DEFECT.
+
 But there will now be set up, especially if not essentially, in peculiar
 diatheses, another train of symptoms.
+
 The pupil, that had been almost a point, becomes dilated,
 and the eye-lid drops; the limbs become flabby, and hang listless; the
 breathing is very irregular and by fits; after a jerking inspiration there
@@ -1020,6 +1084,7 @@ tion of the sphincters occurs; we have profuse diarrhoea; effusion lias
 supervened, and the child may soon die in convulsion. This course of
 the most acute form of liydrencephalus continues usually from twelve to
 twenty-five days.
+
 When the tendency to disease is less decided, or the child placed in
 more favourable circumstances of atmosphere or nurture, the course of
 disease will often be more gradual or stealthy; indeed, so mingled often
@@ -1028,7 +1093,6 @@ most difficult, and the treatment consequently wavering and indecisive.
 The symptoms I have alluded to may one or more exist, but in a milder
 degree. The child does not seem to enjoy itself, but to be suffering
 under a state of general malaise, and if it be two or three years old, it is
-ON THE CEREBRAL DISEASES OF CHILDREN. 27
 capricious and fretful, essaying often to amuse itself, and then directly
 desisting, and all tliis ere tlie anxiety of tlie parent be aroused. The note
 of wailing, however, the knitting of the brows, the aversion to light, the
@@ -1040,6 +1104,7 @@ dry skin, and scanty and opaline urine. With all this, the pulse will be
 most fallacious, often for a time being quite regular, and then suddenly
 quick or flaccid. Then the eyes will be defective, one pupil being often
 contracted while the other is dilated.
+
 These symptoms may continue thus in abeyance even for weeks under
 careful management, until some fresh excitement aggravates the disorder.
 It is from this protraction that the disease has been termed chronic hydro-
@@ -1067,11 +1132,11 @@ extensive effusion. If the cranium ossifies during this excess of growth,
 we find the convolutions very firmly flattened against its vault. And
 when the calvarium is removed, the brain will overlap the skull. The
 prominent symptoms are convulsion, stertor, insensibility.
+
 If we acknowledge the truth of these statements, do Ave not decide
 the question so often proposed, and so seldom satisfactorily answered?
 Is inflammation the cause of hydrocephalus 1 The question is puerile.
 As well may we inquire if pleuritis be the cause of hydrothorax. Effusion
-28 ON THE CEREBRAL DISEASES OF CHILDREN.
 is doubtless tlie consequence of both, but not the essential conscquence.
 If acute inflammation of the pleura occur in the plethoric, very active
 treatment will often rapidly subdue the action and ensure convalescence.
@@ -1089,6 +1154,7 @@ without discovering some form or other of tubercle?often, indeed, com-
 bined with scrofulous sores, or cicatrices, or tumid glands, that I have
 been induced to believe it essential to that termination of the disorder
 we term acute hydrocephalus.
+
 The true strumous child can scarcely be mistaken. The complexion
 is usually wan, pale, and dirty, the hair being either of a dull, light,
 tawny, or rusty black, and growing low on the forehead and the
@@ -1114,10 +1180,10 @@ symptoms were very prominent; even while she was in much peril of
 effusion, she would start up in her bed and smile, and although her
 speech was affected, and she clipped her words, yet she engaged for a
 few moments in calm conversation; but no sooner were wc out of her
-ON THE CEREBRAL DISEASES OF CHILDREN. 29
 chamber, than she lapsed into comatose slumber, and we heard her
 snoring. This little girl was in sixty hours relieved of these oppressive
 symptoms, and so far out of peril.
+
 The nature of the morbid deposition or development in these two
 forms of struma is not similar. In those very interesting children to
 which I have just alluded, it assumes the character of fleshy tubercle;
@@ -1125,6 +1191,7 @@ it is usually encysted, and seated in or upon the substance of the brain,
 very frequently on the optic thalami; the symptoms to which it gives
 rise, if carefully watched, indicating the tissues on which it progres-
 sively encroaches.
+
 Dr. Hooper has very ingeniously classified the isolated and encysted
 tumours of the brain, but in this essay it is useless to refine, as the
 symptoms depend more on the size and locality, than the peculiar
@@ -1133,6 +1200,7 @@ forms of tubercle which I have observed in children are the caseous,
 the fleshy, and the encephaloid, or medullary; the latter being rare and
 only in the broken-down or hypersemiated brain. It is usually of a
 lobulated form, and its consistence unctuous.
+
 The extent of these morbid growths and the consequent disorganiza-
 tion will often excite our wonder, convincing us of the truth of
 Dr. Baillie's assertion, that the severity of symptoms is often in an
@@ -1143,6 +1211,7 @@ being by slow degrees compressed, and thus they with impunity com-
 pensate for pressure by the diminution of circulating fluid; for it must
 be remembered that the volume of the enceplialon is not increased or
 diminished.
+
 We see, therefore, in this form of complicated hydrocephalus a more
 protracted duration, a milder degree, and that which we might not anti-
 cipate, a frequent remission of symptoms, depending, I believe, on this
@@ -1154,15 +1223,16 @@ lamp of life, a calm between the storms, for the subjects of this fal-
 lacious state will often become suddenly comatose, and die. It is in
 these combined cases that we almost invariably witness paralysis, usually
 affecting the arm and leg of one side.
+
 Miss M. L , aged 7, the seventh child of the very healthy parents
 of an extremely fine and handsome family, was brought to me from
 Wandsworth. She had been for many months, and then was, under
-30 ON THE CEREBRAL DISEASES OF CHILDREN.
 very excellent medical care, and had been occasionally seen by several
 physicians of the metropolis. She was now in a state of complete
 amaurosis, yet the pupils, as we sometimes see, were obedient to light.
 (The optic nerve may be compressed, although the lenticular ganglion
 be free.)
+
 Her left thumb was pressed firmly to the outside of the index finger;
 there was almost constant opisthotonos in various degrees; there was a
 rolling in her gait when she could walk; at other times, and when she
@@ -1173,6 +1243,7 @@ undue excitement, congestion ensued; then she became languid and
 silent, and averse to feeding. There were often, however, remissions of
 these symptoms. It was evident that there was pressure, solid or fluid,
 or both, about the optic thalami and pons Varolii.
+
 The young lady lingered in this alternate state of depression .and
 excitement, of suffering and apparent enjoyment, until winter, when she
 died, during a sudden attack of convulsion. We discovered a very
@@ -1191,25 +1262,28 @@ dibulum and into the third and fourth ventricles, ill consequence of
 the tumour filling almost the left ventricular cavity. It was believed by
 the parents that the operation of a vascular nsevus by ligature was the
 remote excitement of this tumour.
+
 I may add that I have removed a very large mulberry nsevus from
 the breast of the young lady's sister, by caustic, in consequence of the
 reluctance of the parents to the ligature.
+
 The precocity of these little children should induce us to caution
 parents against over-stimulation of the brain, and to remind them that
 the child is too often made a plaything really for the amusement and
 delight of the mother or the nurse. It is certain that much mischief is
 thus induced, for if each admirer pets a child, the accumulation of ex-
 citement is extreme. So also premature culture of a precocious mind
-ON THE CEREBRAL DISEASES OF CHILDREN. 31
 sooner or later lights up morbid vascular action; ghost stories also
 induce intense timidity and disorder in some. I have a little friend
 whose brain has been so stored, that he cannot walk alone in a street or
 a garden, without a sensation of extreme alarm.
+
 As another illustration of Dr. Baillie's assertion, I may refer to the
 case of Mr. Griffith, in Dr. Bright's report. A portion of a tea-cup was
 driven into the brain, and there remained for two months, inducing
 abscess and hydrocephalus. The child did not seem to suffer acutely,
 but at length died in convulsion.
+
 Regarding the essence of tubercular meningitis as the common pre-
 disposition to effusion, there will doubtless be difference of opinion.
 But I believe the presence of scrofulous deposition has been often
@@ -1219,6 +1293,7 @@ tissue, but more frequently extensively scattered over the surface of the
 pia mater, but so diminutive, that unless the microscope be employed,
 or the finger very delicately drawn over the membranous surface, they
 may altogether elude discovery.
+
 In December last I examined, with my esteemed colleague, Dr. Will-
 sliire, the head of a child fifteen months old. We were told it was
 healthy at the birth, but at the onset of dentition it began to be fretful,
@@ -1243,9 +1318,9 @@ inches. The convolutions were also partially unravelled towards the
 base. There were several small vesicles on the plexus choroides. The
 pia mater appeared healthy, but it was in reality studded by myriads of
 miliary granules, dipping down between the sulci (diffused tubercle), so
-32 ON THE CEREBRAL DISEASES OF CHILDREN.
 small as almost to elude detection, except by careful and very delicate
 touch.
+
 Those, however, who have perused the scientific pages of Dr. Hennis
 Green, especially in the Lancet of 1835, 183G, 1839, and 1840, will
 not now look for large fleshy deposits, or tubercular masses, ere they
@@ -1264,7 +1339,10 @@ spongy, the lips cracked, the skin livid; petechia? often appearing and
 pervading even the cerebral membranes; ecchymosis being often found
 on the serous surface of the dura mater. This combination is, of course,
 a very hopeless condition.
+
 WASSERSCHLAG.
+-------------
+
 It is in these strumous conditions especially that the most sudden
 effusions sometimes take place; rarely without some warning, but with
 premonitory symptoms so slight as to be disregarded. "We are told
@@ -1275,6 +1353,7 @@ especially scarlatina. But it has seemed to me that the membranes of
 the brain will often take on a vicarious action on the recession of
 cutaneous eruptions, on the sudden check of diarrhoea, or the suppression
 of the renal secretion.
+
 In these effusions, the water-stroke, or wasserschlag, there will often
 be no abnormal condition of the brain and its membranes; indeed,
 there may not have been time (although Goelis thought differently) for
@@ -1285,11 +1364,11 @@ consequent on, the exanthemata, the incomplete desquamation of which
 suppresses diaphoresis, and of course oppresses the kidney, we often
 see rapid effusion into the cellular membrane, or in other cases between
 the cerebral tissues, even the dura mater and the skull. The rapidity
-ON THE CEREBRAL DISEASES OF CHILDREN. 33
 both of effusion and fatality is striking, and the fatal result may per-
 haps be accelerated by the presence of urea in the blood of the brain;
 or, in cases of hepatic engorgement, by the portal blood, or the bile, if
 it be secreted, contaminating the circulating fluid.
+
 The symptoms are accumulated by this rapidity. Thus, headach,
 dilated pupil, spasm of the globe, convulsion, opisthotonos, paresis,
 death?may all have supervened in the space of twelve or twenty hours.
@@ -1299,6 +1378,7 @@ will also occur at the termination of malignant variola or acute infantile
 remittent, especially when the mucous membrane and glands are
 diseased; and also in adynamic fever, and in consequence of severe burns
 and scalds.
+
 May we not, then, believe that the proximate cause of acute hydro-
 cephalus is essentially encephalitis occurring in a system predisposed to
 effusion1? I do not affirm that tubercular development is dependent on
@@ -1308,6 +1388,7 @@ there is no evidence of inflammatory action, but an effusion of clear
 serum; but is not this one of the essential terminations of inflammation,
 and it may so far unload the vessels as to leave the membranes free from
 any sign of increased vascularity.
+
 But the morbid products of the very acute form will vary. The
 serum will often be highly coagulable, containing flakes of lymph, or
 floating pus, and sometimes layers of fibrine and albumen in the ven-
@@ -1324,25 +1405,27 @@ membranes of the cerebrum adhere more firmly than usual. The arach-
 noid is often turbid and opaline, especially about its reflexions, and in
 very severe cases it will become almost like white leather, adhering both
 to the dura and the pia mater.
+
 The thalami and other tissues of the lateral ventricles will sometimes
 appear disorganized, the vessels seemingly shrunk away. The tubular
 neurine is sometimes studded with red points, and the hemispherical
 ganglion is darker than usual, (especially in precocious children,) some-
-c
-34 ON THE CEREBRAL DISEASES OF CHILDREN.
 times, indeed, of a dull, modena-red hue; the outer surface of the skull,
 also, is often seen of a bright red tint.
+
 The arachnoid cavity and subarachnoid tissue are the usual seats of
 effusion, the latter especially; the arachnoid often appears beautifully
 striated with vessels, which are, indeed, those of the pia mater, the nu-
 trient membrane of the brain, from which the effusions are poured, and
 which also secretes the lymph that glues it to the arachnoid.
+
 Sometimes the effusion does not extend beyond the veins of Galen
 downwards, being restrained by the reflexions of the membrane on those
 vessels. In the other case, the peculiar membrane of the ventricles
 secretes an excess of its natural lialitus, extremely distending these
 cavities, and forming sacs, or hydatids, as they are mis-termed, on the
 plexuses.
+
 The fluid, usually transparent, under the combination of hepatic en-
 gorgement, will become straw-coloured and of a darker yellow, tinging
 the encephalon even of a golden hue; in very acute cases it will even
@@ -1353,10 +1436,12 @@ believe that in twenty cases of fatal hooping-cough, at least fifteen die
 Avith cerebral symptoms, sometimes marked with lisemorrhage from
 the ear and nose. Dr. Bright relates a case where blood was effused on
 the brain from the exertion of cough.
+
 These are certainly very formidable conditions, and I almost agree
 with Hufeland, that in these secondary cases meningitis is the herald of
 death, especially when the bronchial have for a time masked the cerebral
 symptoms.
+
 Although I do not quite agree with Charpentier, or even with Dr.
 Abercrombie, in their exclusive opinions on this point, I believe it is
 in the protracted forms of congestion or subacute inflammation of the
@@ -1366,6 +1451,7 @@ relative is highly probable, for we often see ramollissement in the
 phthisical adult. I believe not that mere cerebritis would induce this
 change, but rather hypertrophy or indurcissement: this, however, in
 the more energetic system.
+
 The causes of softening appear to be either infiltration of the medulla
 (cedema of the brain) or an unravelling of the convolutions which I
 have seen extensively pervading the cerebellum; or, as in most cases,
@@ -1373,19 +1459,21 @@ the detachment of the nutrient membrane from the medulla. We must
 remember that the brain of infants is naturally soft, and the slightest
 defect of nutrition is destructive. We have seen the surface of the
 brain where the membrane has been detached, a sort of yellow, creamy
-ON THE CEREBRAL DISEASES OF CHILDREN. 35
 pulp, and tliis extending even to the degeneration of the corpus callosum.
 Regarding sanguineous effusion as a cause or consequence of softening,
 Ave must leave Rostan and his opponents to decide.
+
 We have hitherto considered cerebral disorder as it is symptomatic,
 or the result of remote excitement. We will now allude to the morbid
 effects on the encephalon from contiguity or extension of disease, as
 otitis, and the accident of concussion.
+
 I cannot write so decidedly regarding the extension of the disease
 from the nares, the sethmoid cells, or the frontal sinuses. I believe
 coryza maligna will often induce perilous and fatal disease within the
 cranium, the cerebral symptoms closely resembling the result of con-
 tinuous otitis.
+
 Sir Benjamin Brodie, I believe, affirms the commencement of the
 disease to be usually in the dura mater. It may be so occasionally, but
 I have so often proved the existence of otitis and otorrlicea before any
@@ -1394,6 +1482,7 @@ The primary cause of this malady is usually fever, or scarlatina, or
 malignant sore throat, secondarily affecting the mucous passages. The
 result is ulceration of bone and cerebral abscess, or the deposition or
 growth of tubercle.
+
 The occurrence of otitis is often for a time slighted, the attention
 being first drawn to a serous or muco-purulent discharge from the burst
 vesicles of otic herpes, or the pustules of impetigo. At first the pain may
@@ -1403,6 +1492,7 @@ more purulent, yet still, perhaps, inodorous. As the disease progresses
 towards the tympanic membrane and the internal ear, pain and fever still
 increase, and at this point the spicula are often detached and dislodged,
 of wThich I have many cases.
+
 When ulceration commences in the bone the pus is foetid, and it will
 be fortunate if the course of the disease be towards the mastoid cells;
 but if the course be inwards the membranes are implicated, firm adhe-
@@ -1411,12 +1501,12 @@ of an oily condition; soon after, pus is formed, which lifts up the arach-
 noid from its adhesions, and the result is cerebral abscess. If erysipe-
 latous or malignant sore throat be the primary diseases, the progress
 towards the enceplialon will, if neglected, be more rapid.
+
 I will briefly refer to a few cases of this description: a little girl, four
 years of age, was brought to me with puriform discharge from within
 and behind one of her ears, which had existed for many weeks, attended
 Pain, deafness, fever, startings, and moanings. The disease had not
 only progressed to the mastoid cells, but the internal ear was evidently
-3G ON THE CEREBRAL DISEASES OF CHILDREN.
 deeply implicated. A ball of dead bone was detached from, tbe mastoid
 process, and the symptoms became somewhat milder. Cascarilla, the
 mineral acids, the grey powder, and laxatives, were given, and poultices
@@ -1427,11 +1517,13 @@ by two carious holes, and with the cerebrum through the perforated
 membranes. In the left ventricle was a tubercle of the size of a walnut,
 which shelled out entire on slight pressure, and there was another of
 smaller size beneath the tentorium, embedded in the cerebellum.
+
 Dr. R. Bennett related a case at the Medical Society, in which stra-
 bismus and slight convulsion were the only symptoms. A tubercle as
 large as a walnut involved almost the whole medulla oblongata?so far
 disproving one assertion, that there was greater severity of symptoms
 when disease was at the base of the brain.
+
 My esteemed friend, Mr. Pilcher, exhibited at the same society, a short
 time ago, a portion of bone taken from a child in whom otitis had pro-
 duced two cerebral abscesses, one in the left hemisphere, the other in a
@@ -1439,6 +1531,7 @@ lateral ventricle; and related another case, in which the symptoms had
 so much abated as to afford confident hope, but this little girl died in her
 sleep. An encysted abscess was found in the cerebellum, containing
 four ounces of pus.
+
 Herpetic ulceration spreading from the meatus externally, may, how-
 ever, so destroy the bone as to be equally fatal. The scabrous patches
 of bone are usually on the squamous plate close to the petrous portion
@@ -1460,18 +1553,19 @@ with slight paralysis. The bowels were not irregular. His cry was a
 scream, and occasionally a moan. On the bruised part of the cranium
 there was a painful and discoloured spot. He had constant remissions
 of fever, and about a week before I saw him he became convulsed, and
-ON THE CEREBRAL DISEASES OF CHILDREN. 37
 died. The left parietal bone was of a dull brown hue for about the
 space of a half-crown, and there was a sort of coagulum between the
 laminte?cephalhematoma. Beneath this, in the cerebrum, was imbedded
 a large globular tubercle, about one inch and a half in diameter, and in
 its centre there was a deep red nucleus. It was connected with the
 ceiling of the ventricle, but did not encroach on it.
+
 We have thus alluded to the chief forms of cerebral disease during
 the very early stage of life. To accord with the conciseness of an
 essay we have not formally discussed the points of diagnosis and
 etiology, but would refer to the symptoms by which each form is
 characterized.
+
 A word, however, on the forms and stages of liydrenceplialus, on which
 Cheyne, Whytt, Goelis, Itard, and others, have commented so profusely.
 Copland asserts the arrangement of Cheyne, which is indeed a
@@ -1489,6 +1583,7 @@ excellent Dictionary. The irritation of ascarides may, for instance,,
 assume every symptom of the stage of irritation, intestinal disease,
 congestion, &c. &c. I therefore waive the discussion of a formal
 diagnosis.
+
 In every child, but especially those predisposed to cerebral disease,
 the subject of prophylaxis is most important. Judicious nurture will
 control or subdue; the contrary mode will favour or even induce, the
@@ -1503,20 +1598,22 @@ and the feet warm, and to regulate the functions of the alimentary
 canal, are points which should never be disregarded, especially during
 the perilous period of dentition. Repletion, especially, will obstruct the
 motion of the diaphragm and excite vomiting, and the dry stomach
-38 ON THE CEREBRAL DISEASES OF CHILDREN.
 cough ; it may compress the bile ducts, produce congestion of tlie head,
 and thus directly become a cause of disorder.
+
 When the evacuations are in any way disordered, the grey powder,
 with rhubarb and chalk, according to their consistence, frequently may
 be safely administered; and if the child be weakly, or of the strumous
 diathesis especially, combined with the syrup of the iodide of iron. If
 there be tenderness of the abdomen, fomentations or warm sponges may
 at any time be employed.
+
 The child should be almost constantly in a state of repose, and not,
 for the sake of amusement, be suddenly excited. If it wishes to slum-
 ber, it should never be kept awake. Its head should not lie low; and
 in nursing or playing with it, it should not be tossed or whirled about,
 or patted violently, as is often done, on the back.
+
 We should be very cautious, also, during teething, with regard to
 external remedies for cutaneous disease. My learned colleague,
 Dr. Copland, and myself have seen repeated instances of the peril in
@@ -1524,6 +1621,7 @@ which a child is placed by such treatment. These eruptions are often
 established on the skin, as a safety valve?a truth conversely proved by
 the relief so often afforded by their reproduction, as a form of counter-
 action, as well as by a seton or issue.
+
 The treatment of encephalitis will of course depend on its causes, its
 stages, and on constitution or diathesis. I will, in allusion to it, adopt
 the form of propositions rather than a more elaborate discussion.
@@ -1543,10 +1641,10 @@ and full; the fontanel elevated, we should not certainly be too lenient.
 The ounces may usually be fairly measured by the years in robust chil-
 dren, or we may be very well guided by pallor, languor, and approach
 to syncope.
+
 In my own practice, I always regard the fontanel Avlien contemplating
 depletion, and I may glance at two recent cases in illustration. The one
 was in a child of Mr. S , of Newington, labouring under all the
-ON THE CEREBRAL DISEASES OF CHILDREN. 39
 prominent symptoms of acute arachnitisthe fontanel was in the fot m
 of a ball. I did not hesitate to take blood until the child became
 languid and pale. In the other, a child of Mr. B , of Clapham-
@@ -1555,6 +1653,7 @@ present, but the fontanel ivas depressed, and the child was of less
 robust constitution. I did not bleed here. Both the children soon
 recovered. I believe a different plan with each would have been fol-
 lowed by a different result.
+
 If the gums are spreading, while the mouth is hot and dry, free in-
 cision should be effected, and the blood absorbed by a small soft
 sponge, so that it be not swallowed. The feet should be en-
@@ -1567,6 +1666,7 @@ ceeds. The refrigerant plan must yet be restricted to time, as asphyxia
 has often occurred from its undue employment. If the bowels be con-
 fined, an active aperient should be given, and after a few hours a warm
 enema of salt and water.
+
 These are the immediate remedies to be adopted if we are summoned
 early to the case. A judicious modification, however, must be made if
 the symptoms be of the subacute form, or have longer existed, or if the
@@ -1576,12 +1676,14 @@ very guarded; the formation of vesication by the acetum lyttse in three
 or four points behind each ear, and on the nuclise, will often be pre-
 ferable, especially as we can then, without irritating the bowels, affect
 the system with mercury by the endermic method.
+
 In some cases we may prefer a more powerful rubefacient: castor
 oil, with liquor ammonise, or friction with camphor and ammonia lini-
 ment with mercurial ointment, especially inside the legs. If convulsion
 or fit at any time supervene, a few drops of tincture of assafoetida in
 warm water may be given twice or thrice in the hour. It is especially
 useful, almost essential, in the low nervous form.
+
 The next indication is to regulate the secretions of the liver, the skin,
 and the kidneys. If .there be no contraindication, from one to four
 grains of calomel may be given every two, three, or four hours, accord-
@@ -1590,7 +1692,7 @@ gative, as Dr. Abercrombie seems to have employed it.) The excess
 of mucus renders the young child capable of taking large doses of this
 mineral. It must be confessed, however, that occasionally much
 mucous irritation is induced by it.
-40 ON THE CEREBRAL DISEASES 0F CHILDREN.
+
 The combination of liquor ammoniae acetatis, spiritus etheris nitrici,
 and antimonium tartarizatum, will usually regulate the other secretions.
 It will often be requisite to combine the calomel with other remedies.
@@ -1598,6 +1700,7 @@ Thus, if diarrhcea be present, chalk or Dover's powder may be added.
 If there be debility or exhaustion, or if the habit be cachectic, or if
 prostrate coma supervene, camphor may be combined, from a quarter
 to half a grain, twice or thrice in a day.
+
 If vomiting continue after the urgent symptoms are relieved, mag-
 nesia, with lemon juice, or fluid magnesia, with half a drop or more
 of Battley's sedative solution, may often afford relief. It is in the
@@ -1606,6 +1709,7 @@ stimulating enemata are so valuable. A drachm of castor oil, and half
 a drachm of oil of turpentine, may be given in thin gruel, even to the
 infant, often, with the effect of inducing quietude, or the removal of a
 comatose condition.
+
 In those cases consecutive to scarlatina or other exanthemata deple-
 tion, though usually essential, must be more limited. The quantity
 should be very small, and repeated two or three times at intervals. It
@@ -1614,12 +1718,14 @@ bined with very small doses of calomel. As there is often, however,
 much debility, the syrup of iodide of iron may be combined with great
 benefit twice or thrice in a day, and this without the imputation of a
 paradox.
+
 When otitis occurs in children, we should ever be watchful of the
 ultimate results. Leeches should be freely applied on the mastoid pro-
 cess, and after twenty-four hours vesication induced on the same spot,
 the sore being kept open with savine or mercurial ointment. In some
 cases of great prostration, dry cupping may be more advisable. The
 other antiphlogistic remedies I need not refer to.
+
 If suppuration should be suspected, linseed poultice, or the newly-
 adopted piline, should be assiduously applied, Avitli the aim of soliciting
 the course of pus towards the mastoid cells, a comparatively unimportant
@@ -1627,46 +1733,54 @@ spot; and if abscess points there, or we can detect pus, an opening
 should be made early, or deep incision on the cells, or the trephine may
 be used, if we can safely reach the abscess by such a mode: it is of vital
 importance to prevent the inward progress of matter.
+
 When encephalitis has continued for several days unrelieved, and has
 not, by its interference with the functions of the brain, or by exhaustion,
 been fatal, the second stage or result of the disorder will have super-
 vened. This maybe suppuration is rare in very young children; the
 more common result is effusion of serum.
+
 Even after this deposition, acute symptoms may still call for active
 treatment, especially the continuation of decided counteraction, by
-ON THE CEREBRAL DISEASES OF CHILDREN. 41
 sinapism or stimulant liniments, especially inside the legs, and mercurial
 inunction. Although we confess that the prognosis must now be most
 unfavourable, it is our duty to persevere. Repetition of bleeding is
 usually, not always, injudicious.
+
 When action is subsiding, the iodide of potassium will be most bene-
 ficial in doses of from one grain to four or six grains, thrice in a day.
 Sarsaparilla also will be often beneficial, or the infusion of serpentary?
 a very valuable remedy.
+
 In emaciated children, the syrup of iodide of iron, or citrate of iron
 in infusion of orange-peel and cascarilla, may be resorted to; and all
 this may be combined with iodine embrocation on the head.
+
 It is in the protracted or chronic stage that puncture of the mem-
 branes may be resorted to. In Dr. Conquest's operations, I believe
 about one-fourth part survived. I confess I have not proved it so
 favourable. Nor can I write decidedly on the subject of compression,
 or the bandages of Trousseau.
+
 The diet should consist of asses' milk ; for older children, the muci-
 lages and jellies, with grapes, currants, and other subacid fruits. The
 most nutritious diet, I believe, consists of chicken-jelly, combined with
 arrow-root or isinglass, or Previte's Ceylon moss.
+
 After complete convalescence is attained, there may still be excessive
 irritability. In these cases, we shall find benefit from quinine, combined
 with Dover's powder, in small doses, with a drop or two of muriatic
 acid in infusion of cascarilla, for older children, thrice in a day. It
 cannot be doubted that fresh air, especially that near the sea, will be
 highly conducive to the confirmation of health.
+
 Regarding the treatment of hypertrophy, atrophy, indurcissement, and
 softening, I consider them so much in the light of irremediable or esta-
 blished conditions, that I scarcely think them obedient to remedy. Dr-
 Sims has written very confidently on the cure of ramollissement His
 evidences of recovery are, pin-hole or honeycomb texture of brain, or
 small serous cysts.
+
 In those cases of paresis in Avhich the cerebro-spinal axis has been
 much implicated, we may often be for some time disappointed in our
 treatment; but there is much difference as to power of recovery in
@@ -1676,9 +1790,9 @@ the limbs is protracted. Of the former, I have now a very interesting
 case, which is nearly cured within eight months, although at one time
 the excessive distortion of one side, in consequence of the want of mus-
 cular antagonism on the other, was really frightful.
+
 I was called, two years ago, to the infant of a merchant in the City,
 who was suddenly attacked by convulsion during dentition, almost
-42 ON THE CEREBRAL DISEASES OF CHILDREN.
 without warning; yet the fits recurred frequently.. Warm bath, calomel,
 assafcetida, ether lotion, and free incision of the gums, soon restored
 her to a safe condition, and I sent her into a purer air in the country.
@@ -1688,6 +1802,7 @@ speech is defective; indeed, she cannot pronounce a Avord properly; the
 left arm and leg are cold, flabby, and almost powerless; her grasp is very
 feeble, and the most powerful stimulating liniments &c. have not been
 yet successful.
+
 In the most severe forms of paresis, galvanism will sometimes be a
 very valuable agent. On the principle of excito-motory influence in
 inducing more healthy innervation, frequent tickling of the sole or the

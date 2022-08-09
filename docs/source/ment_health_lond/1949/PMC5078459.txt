@@ -1,11 +1,11 @@
 Regional Community Care. II
 ===========================
 
-92 MENTAL HEALTH
-
-By T. A. RATCLIFFE, M.A., M.B., D.P.M., D.C.H., and E. Y. JONES (Psychiatric Social Worker)
+:Author: T. A. RATCLIFFE, M.A., M.B., D.P.M., D.C.H., and E. Y. JONES (Psychiatric Social Worker)
 (concluded)
+
 The Role of the Psychiatrist
+
 Something of what has been said of the
 social worker applies also to the psychiatrist,
 but he has, in addition, a special and more
@@ -49,7 +49,10 @@ the training of younger and relatively inexperi-
 enced case workers, and be prepared to discuss
 and advise on the general problems of their
 work.
+
 Liaison with other Bodies
+-----------------------------
+
 It will be clear from what has already been
 said that the after-care team must have good
 and personal liaison, not only with the existing
@@ -69,6 +72,7 @@ his letters turns out to be most co-operative when
 met face to face, or when a full personal discus-
 sion has enabled him for the first time to see
 the whole picture.
+
 Perhaps the most interesting aspect of this
 liaison with other organizations was its develop-
 ment. Whilst, in many cases, the after-care team
@@ -86,6 +90,7 @@ Services Committees and other similar bodies.
 Such a two-way relationship was of immense
 value both to the after-care team and to its
 patients.
+
 The most important single organization with
 which good liaison was necessary was the
 Disablement and Rehabilitation Section of the
@@ -103,7 +108,6 @@ technical advice and help. In addition, both
 the consulting psychiatrist and the psychiatric
 social worker were asked by the regional
 office of the Ministry of Labour to give a
-MENTAL HEALTH 93
 series of lectures at the regularly held training
 courses for D.R.O.s. A number of such
 lectures on the psychiatric and allied aspects of
@@ -136,6 +140,7 @@ attributed in the main to the overworked
 condition of most of the clinics and their
 natural orientation vis-a-vis the patient's own
 general practitioner.
+
 Selection of Suitable Cases for After-Care
 In assessing the value of our after-care
 methods, we have been struck by the absence
@@ -152,6 +157,7 @@ it. In formulating our own criteria we would
 emphasize the distinction between cases needing
 after-care, and those likely specially to benefit
 from it.
+
 In the first category could be placed most of
 the recovered, or partially recovered, psychotics.
 Whilst it would be untrue to say that no recov-
@@ -174,6 +180,7 @@ sponding civilian mental hospitals. Such " near-
 recovered " psychotics are apt to produce very
 difficult disposal decisions for the after-care
 team.
+
 The true constitutional psychopath and the
 grossly socially unstable individual are almost
 always entirely unsuitable cases for after-care,
@@ -184,6 +191,7 @@ to use, or try to use, the after-care organization
 as just another means of escape, and a mature
 relationship rarely if ever develops in this type
 of case.
+
 It would, however, be far from correct to
 regard all cases with a long-standing neurotic
 background as unsuitable. The insecure, inade-
@@ -207,6 +215,7 @@ realistically facing up to the very problems
 which caused his breakdown. It is in this type
 of case that the team-work of psychiatrist and
 case worker together is so valuable.
+
 The borderline mental defective presents
 another special problem of after-care. Here
 again the role is a supervisory one, but if the
@@ -215,7 +224,7 @@ handled, and the employer and relatives tactfully
 helped in methods of handling, such men can
 give valuable service, under guidance, to the
 community.
-94 MENTAL HEALTH
+
 The ex-prisoner of war is another type of case
 where after-care is of special value. Unfortu-
 nately, many of our cases of this type reached us
@@ -233,6 +242,7 @@ only of active therapy but of careful guidance
 and help. Many have, as a result of their
 difficulties, serious domestic problems, and
 these, too, require special handling.
+
 The solution of a domestic, work or emotional
 problem, though essentially a part of treatment,
 is often difficult for the psychotherapist working
@@ -252,7 +262,10 @@ respond quickly to more direct and individual
 therapy. As such, the after-care team has an
 important part to play in the community's total
 mental health organization.
+
 Conclusions
+-------------
+
 Although we fully realize the rather special
 nature of the particular after-care scheme here
 described, it is felt that some general conclusions
@@ -269,12 +282,14 @@ for after-care, and when the lack of trained
 personnel render a considerable proportion of
 these authorities severely under-equipped to
 meet their new task.
+
 1. After-care must represent a complete team
 approach by both psychiatrist and psychia-
 tric social worker. Each has a definite
 individual role to play, but, in the integra-
 tion of their efforts, each is augmented and
 complemented.
+
 2. After-care is not merely social welfare and
 assistance in the ordinary meaning of the
 words, but is an active therapeutic
@@ -287,6 +302,7 @@ supervision of P.S.W.s) each of whom is
 prepared to appreciate and understand the
 dynamic socio-psychological aspects of
 the clinical problem.
+
 3. Very close personal co-operation and liaison
 is necessary with many bodies, both
 voluntary and established, whose work
@@ -295,6 +311,7 @@ services. Without such liaison it will be
 impossible for the team to appreciate, as
 they always must, both the limitations and
 possibilities of the reality situation.
+
 4. After-care represents an important, and
 numerically large, part of any scheme
 which is to provide for a total mental
@@ -310,9 +327,9 @@ organization on a regional basis, closely
 working with the orthodox clinic but
 organized and administered separately
 from it.
+
 The capacity to understand the individual . . . depends on our sensitivity, our intelligence, our experience,
 and our training. But not on these only. To understand we must see clearly, and we do not see clearly if we are
 blinded by envy, pride, personal ambition, jealousy, fear or greed. No amount of intelligence or training will make
 us understand if our observations are deflected by these distorting influences.
 Professor J. C. Spence.
-/

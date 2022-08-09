@@ -1,11 +1,8 @@
 A Treatise on Chronic General Paralysis, Considered Especially as Affecting the Insane
 =======================================================================================
 
-THE JOURNAL
-OF
-PSYCHOLOGICAL MEDICINE
-AND
-MENTAL PATHOLOGY.
+THE JOURNALOF
+PSYCHOLOGICAL MEDICINEANMENTAL PATHOLOGY.
 JULY 1, 1848.
 xJ
 ^nalgttcal SfUbtefos.
@@ -13,8 +10,9 @@ Art. I.?Traite de la Paralysie General Chronique, considere speciale-
 ment chez les Alienes. Par Hubert Rodrigues, Professeur Agrege
 a la Faculte de Montpelier, Arc. Anvers, 1847.
 
-By Hubert Kodrigues, Professor of Medicine at
+:Author: Hubert Kodrigues, Professor of Medicine at
 Montpelier, &c. Antwerp, 1847. 8vo, pp. 250.
+
 It is a remarkable fact, tliat no monograph on this highly interesting
 subject has been published in this country. Wc are principally in-
 debted to French authors for our information on that peculiar form of
@@ -39,14 +37,12 @@ forward some original views, and given the details of several interesting
 pathological alterations, which demand especial notice.
 The treatise is divided into three parts. The first two are devoted
 t? the detail of cases. The third relates to the history of the disease,
-NO. III. A A
-\
-346 THE GENERAL PARALYSIS OF THE INSANE.
-and comprises an account of the predisposing causes, symptoms, state
+NO. III.and comprises an account of the predisposing causes, symptoms, state
 of the mind, duration, complications, prognosis, diagnosis, pathological
 alterations, &c. We shall commence our observations with the third
 part, referring incidentally, as occasion may require, to the cases con-
 tained in the other portion of the work.
+
 The first points on which we shall dwell at some length, are those
 relating to predisposing causes, and the condition of the system most
 conducive to general paralysis. Predisposing causes are those which
@@ -63,6 +59,7 @@ years of incessant toil. This opinion is plausible, but it is not borne
 out by the experience of the majority of writers 011 insanity. All
 writers are agreed, however, that men are more subject to paralysis than
 women.
+
 The predisposition to general paralysis varies with age. It is rarely
 seen before twenty-five, is less rare from twenty-five to thirty, increases
 in frequency up to sixty, and then diminishes. M. Bayle has never
@@ -77,6 +74,7 @@ cannot, therefore, be regarded as fair examples of the peculiar form of
 paralysis under consideration; as this has distinct and remarkable
 symptoms dependent on a state of brain which it is supposed cannot be
 developed in idiots and very young children.
+
 M. Bayle noticed that general paralysis of the insane commences
 with ambitious monomania, and M. Rodrigues has ingeniously sug-
 gested that this may arise from the circumstance of the disease generally
@@ -92,7 +90,6 @@ great measure to their mental and bodily sufferings and their intem-
 perance. M. Rodrigues thinks that the proud disposition of the soldier
 subjects him to the malady. Next to military men, revenue officers
 seem to be most predisposed to it. Calmeil says that four out of five
-THE GENERAL PARALYSIS OF THE INSANE. 347
 cases in his practice occurred in this class, and he considers their ex-
 posure to cold and damp air at night as a cause of their liability to the
 disease. M. Rodrigues states that miners are liable to trembling limbs,
@@ -102,6 +99,7 @@ disposing cause. Venereal excesses, intemperance, excessive intellectual
 labour, syphilitic disease, abuse of mercury, deranged catamenia, have
 doubtless each an influence in deranging the nervous system, and thus
 rendering it liable to paralytic disease.
+
 It has been generally stated that this complaint is rare in southern
 latitudes. Dr. Vulques, physician to the Asylum at Aversa, in Naples,
 informed Esquirol that amongst 500 insane patients of both sexes, he
@@ -115,6 +113,7 @@ which have been lately published, we perceive that the malady is not
 uncommon in the northern parts of the British isles. These state-
 ments render it very doubtful whether climate has much influence in
 causing a predisposition to the complaint.
+
 An apoplectic habit of body and hypertrophy of the heart must also
 be enumerated amongst the predisposing causes. M. Bodrigues con-
 siders that when the obstacle which produces enlargement of the heart
@@ -123,6 +122,7 @@ tricle is exerted to overcome the resistance, and not to communicate a
 strong impulse to the carotid arteries. On the contrary, when the
 aortic opening is free, the blood is thrown with increased force upon the
 brain.
+
 We are surprised to find that M. Rodrigues scarcely alludes to the
 state of the blood as a probable cause of the disease : lie dismisses the
 question by merely stating that little is known about the blood.
@@ -138,21 +138,24 @@ some poison into the circulating fluid. The deteriorated state of the
 blood in Bright's disease of the kidneys, may easily be supposed to
 have an influence in producing the particular state of the brain which
 precedes general paralysis.
+
 M. Broussais, whose fertile brain has detected a gastro-enterite in
 nearly every disease, is himself quite convinced that an inflamed stomach
 "will cause arachnitis and insanity. There cannot be a doubt that a pre-
 disposition to disease of the brain may be kept up by its sympathy with
 some other organ in the body, either functionally or organically deranged.
 a a 2
-348 THE GENERAL PARALYSIS OF THE INSANE.
+
 Scrofula, again, a fertile source of insanity, must be mentioned amongst
 the predisposing causes of paralysis.
+
 The exciting causes of the disease are numerous. We may enume-
 rate, strong impressions deranging the impulses and affections, such as
 losses in business, disappointed ambition, anxiety, grief, &c., also in-
 juries of the head. Many of the predisposing causes may be considered
 as exciting when they are sufficiently powerful and long continued,
 which is often the case.
+
 The earliest symptoms of this malady claim our closest attention.
 On this point we cannot too strongly insist. The disease being
 fatal in nearly every instance, it becomes of the greatest consequence
@@ -167,6 +170,7 @@ induced to consider, with the friends of a patient, that the danger
 was not imminent, from his joyous manner and the trifling symptoms
 at the commencement of the disease, we purpose dwelling at some
 length on the premonitory symptoms.
+
 M. Rodrigues gives a minute detail of the first, almost imperceptible
 and variable signs of the malady: he also gives us some peculiar views
 of his own, which we shall presently discuss. He adopts Calmeil's
@@ -185,6 +189,7 @@ slight trembling about the corners of the mouth as if the muscles were
 hesitating; but this symptom is very transient. The muscles of the face
 have free play, yet the medical man accustomed to see these cases
 notices an incipient immobility in the features.
+
 Good and bad symptoms may alternate for some time, and give rise
 to hopes of recovery which the practised physician knows to be fal-
 lacious. The first faint traces of immobility cannot be expressed by
@@ -194,9 +199,9 @@ is an appearance of want of vitality in the features which gives a slightly
 fatuitous and expressionless look. As the difficulty of pronunciation
 increases, the immobility of the features becomes more characteristic;
 the upper eyelid is raised with difficulty; the look is stupid; the cheeks
-THE GENERAL PARALYSIS OF THE INSANE. 349
 pendulous; and tlxe lips toucli, without the power of resting one on
 the other.
+
 The next organs paralysed are the arms, according to M. Rodrigues.
 M. Calmeil, on the contrary, states that the legs are first affected, and
 that he is surprised to see the power which remains in the upper extre-
@@ -224,6 +229,7 @@ bert Mayo, who published his views of this peculiarity in hemiplegia in
 the Medical Gazette several years since, attributes the phenomenon to
 what he calls a palsy stroke, which affects the arms first, on account of
 their proximity to the brain.
+
 Leaving this question for the present, we will proceed with the de-
 scription of the symptoms of general paralysis. It is soon discovered
 that a patient labouring under this disease is unable to support a
@@ -244,7 +250,6 @@ speech more articulate. The paralysis proceeds downwards on both
 sides, but sometimes attacks one side before the other. The sphincters
 are not at first affected, although they subsequently become involved in
 the general paralysis. The muscles of the neck, back, and chest remain
-350 THE GENERAL PARALYSIS OF THE INSANE.
 free throughout this stage of the disease; still a slight difficulty in
 breathing and some degree of constipation may be observed; the appe-
 tite and digestion are generally good; the temperature of the skin is
@@ -264,6 +269,7 @@ food lodging opposite the larynx. The paralysis extends successively to
 the muscles of the jaw, neck, abdomen, alimentary canal, and the
 sphincters; the retina becomes partly insensible to light, and the sensi-
 bility of the auditory nerve is blunted.
+
 It is a remarkable fact, that up to this point, the faculty of common
 sensation remains intact. Dr. Watson, in his valuable Lectures on Hemi-
 plegia, has noticed a similar phenomenon: he says?" The function of
@@ -295,7 +301,6 @@ depend on separate organs, it is rendered extremely probable, by the
 researches of modern physiologists, that they do depend on distinct
 parts of the nervous system. In the general paralysis of the insane, we
 conceive it highly probable that the loss of motion is owing to a lesion
-THE GENERAL PARALYSIS OF THE INSANE. 351
 of those portions of the brain which are connected with volition; and
 that at the onset of the disease, the parts of the nervous system asso-
 ciated with emotional movement, the consciousness of impressions on
@@ -304,6 +309,7 @@ affection. That emotional movement is not seriously disordered at first,
 is shown by the fact, that the paralytic insane will occasionally have
 paroxysms of emotional excitement, when he will run Avildly about, under
 the influence of some moral feeling.
+
 The reflex function of the spinal cord (which has been so beautifully
 brought to light by the investigations of Dr. M. Hall, and shown to be
 a distinct centre, independent of the brain) remains entire throughout
@@ -312,11 +318,13 @@ which M. Rodrigues takes of the nervous system, we are inclined to
 think that Dr. M. Hall's researches have not generally met with that
 attention on the continent to which their merits so deservedly entitle
 them.
+
 M. Rodrigues' opinion, however, that the function of sensation is
 simpler than that of motion, is probably correct. The functions of the
 nerves of organic life may be even yet more simple; for Ave find that
 they continue their operations up to the very last period of general
 paralysis.
+
 In the third period, the general paralysis has reached its height; the
 patient is in a pitiable state, being far advanced in dementia. Hearing
 and smell are gone; he may utter a few vague sounds, but speech is lost.
@@ -335,6 +343,7 @@ repugnance to food; M. Foville, to the absorption of putrid matter from
 the sloughing wounds; and M. Rodriques, to the weakened state of the
 nervous system. No doubt each of these causes may have a share in
 producing the phenomena.
+
 It will be interesting to notice the character of the insanity associated
 with general paralysis. Ambitious or exalted monomania is the form of
 insanity most commonly associated with general paralysis; and in general,
@@ -347,6 +356,7 @@ Everything is transformed into gold and silver; and the very pebbles
 are precious gems, which they hoard with care. Some consider the
 asylum as a magnificent palace; the persons around them are only there
 352 THE GENERAL PARALYSIS OF THE INSANE.
+
 to wait oil them; and tlie strangers who come to visit the institution
 are regarded as petitioners for their powerful influence. Others con-
 sider their detention as a shameful injustice, opposed to all laws, both
@@ -389,6 +399,7 @@ paralysis is merely a complication which shortens life. He says he has
 seen patients live thirty years with general paralysis, remaining all the
 time maniacal; and has observed others who have fallen into a state of
 dementia without ever becoming paralytic.
+
 The duration of general paralysis is not easily determined, as it
 appears contingent on the progress of the cerebral disease. Calmeil
 fixes the second period at an average of thirteen months. Bayle says
@@ -396,8 +407,8 @@ it varies from two months to six, eight, ten, or even twelve years; and
 that its mean duration is from one year to a year and a half. Out of
 one hundred and fifty-nine patients, he found that seventy-three did not
 live longer than a year.
+
 With regard to prognosis, nearly all writers consider the disease
-THE GENERAL PARALYSIS OF THE INSANE. 353
 incurable. Royer Collard lias never seen a perfect cure effected,
 during a practice of twenty years in a large hospital. Esquirol does
 not hesitate to say that it is incurable, even in the first period. M.
@@ -410,9 +421,11 @@ perfect speech. Neither is the cure always definitive, as relapses are to
 be feared; and when they do occur, the patient falls rapidly into the
 first stage, and the periods succeed one another with more rapidity than
 before.
+
 In the second part of his work, M Kodrigues presents us with some
 interesting cases of partial and perfect recovery, quoted from different
 authors.
+
 Of nine cases of recovery or amendment cited by M. Rodrigues, one
 recovered partially as to the insanity, the paralysis remaining stationary;
 three were perfectly cured; one recovered so perfectly, that at the end
@@ -423,11 +436,13 @@ the other case occurred in an epileptic patient, who recovered perfectly
 after two relapses, and remained so at the end of three years without
 the recurrence of any epileptic fit. On the whole, we cannot consider
 this list very encouraging.
+
 Patients seldom die during the first period, except from attacks of
 cerebral congestion. In the second period, death is apt to occur from
 epileptiform attacks and asphyxia. In the third period, the patient
 generally sinks from general weakness, cerebral congestion, disease of
 the lungs, or asphyxia.
+
 Complications with general paralysis often remain latent, because the
 diseased brain is unable to re-act on the sensations which recur to it. In
 these cases, the paralysis generally runs its usual chronic course; but
@@ -445,10 +460,10 @@ neous restoration of speech on opening the vein renders it probable that
 sanguineous apoplexy depends rather on stagnation than congestion,
 and tends somewhat to support the views of the Scotch physiologists in
 opposition to those of Dr. Burrows.
+
 Our author not only considers that general paralysis will run its
 course independently of bodily complications, but also of the associated
 mental affections. He cites a case of M. Ferrus', in which the general
-354 THE GENERAL PARALYSIS OF THE INSANE.
 paralysis remained stationary, whilst tlie insanity became ameliorated.
 This case, however, cannot be considered conclusive, as the insanity was
 only subdued, not eradicated. When general paralysis is complicated
@@ -457,6 +472,7 @@ cord, or its sheath; or else some effusion of serum, or blood, into the
 vertebral canal. Phthisis is a common complication in this as in other
 forms of insanity. The paralytic insane, it appears, are not exempt from
 ague, cholera, or scurvy.
+
 M. Rodrigues gives us a description of the pathological appearances
 observed in twenty-one dissections. It is unfortunate for science, that
 when post-mortem examinations are obtainable in subjects who have
@@ -474,6 +490,7 @@ Nevertheless, their exertions have not been altogether in vain, and we
 hope that continued observations may ultimately light upon some
 " glaring instance," to use a happy expression of Lord Bacon's, which
 will clear up many of our doubts.
+
 The chief difficulty in the pursuit of pathological truth is to ascertain
 whether the appearances are causes or effects of the symptoms during
 life; and should they be generally proved to be merely effects, we must
@@ -484,6 +501,7 @@ morbid appearances found in the above cases, and afterwards to select,
 for especial notice, those points which appear to be of practical im-
 portance; and it is some encouragement to find that many of the
 organic changes are tolerably uniform in their occurrence.
+
 In one case, the scalp was gorged with blood. The cranial bones
 were also injected. In two cases, the skull was thin, and presented
 a milky-white appearance; and in one the bones Avere eburnated and
@@ -493,13 +511,13 @@ face of the skull. In a woman who had suffered from syphilis and the
 abuse of mercury, the bones of the head were affected with caries and
 exostoses. Obliteration of the pituitary fossse and anfractuosities of the
 brain occurred in one case.
+
 The dura mater was injected, thick, dense, opaque, and adherent in
 three instances; sometimes it was cartilaginous and osseous, and occa-
 sionally perforated, not uniformly, but as if from stretching of the
 fibres; sometimes attached by its internal face to tumours more or less
 voluminous, which compressed the contained organ. Yery commonly
 the dura mater lay in folds in front, its cavity being too large for the
-THE GENERAL PARALYSIS OF THE INSANE. 355
 atrophied brain. The pia mater and arachnoid were injected in various
 degrees. Distention of the vessels of the pia mater is one of the most
 common features; the pia mater was sometimes pale and greyish.
@@ -512,6 +530,7 @@ several instances; and in one case, the lining membrane of the ventricles
 was so studded with these minute prominences as to feel like fine sand.
 The granulations were most frequently met with in the ventricles, and
 the inferior occipital fossa.
+
 Serous infiltration of the cellular membrane of the pia mater, and of
 the tissue which separates it from the arachnoid, was frequently found,
 especially in the anfractuosities. In the greater number of cases, serum
@@ -527,6 +546,7 @@ had formed under each lobe a kind of irregular pouch, transparent and
 soft, and lodged in the lateral and middle fossa of the base of the
 cranium. On inclining the bodies, serum frequently flowed from the
 vertebral canal.
+
 Effusion of blood between the layers of the arachnoid rarely took
 place in both hemispheres, but it was found that in flowing towards the
 base of the brain it produced the same symptoms as if it occurred in
@@ -543,6 +563,7 @@ noid membrane an albuminous effusion, which had some analogy to
 trembling jelly, and which was easily removed; it may occur entirely at
 the base of the brain, but it is occasionally met with between the arach-
 noid membrane and pia mater.
+
 False membranes are frequently found, resting generally on the con-
 vexity of the hemispheres, and 011 the anterior part on one or both sides.
 In M. Calmeil's cases these membranes were partly fibro-cartilaginous.
@@ -550,13 +571,14 @@ M. Rodrigues thinks that suppurative meningitis may sometimes produce
 general paralysis. The pus, in these cases, he says, is situated between
 the fold of the arachnoid and the pia mater, and presents a different
 form from ordinary pus, haying a creamy-whitish appearance, and being
-350 THE GENERAL PARALYSIS OF THE INSANE.
 composed, according to Magendie, of irregularly-formed globules, less
 than those of ordinary pus, but larger than those of blood, being, as it
 were, in a state of transition between the two.
+
 Hyperemia of the brain was met with in different stages; the cerebral
 pulp was red, injected, and slightly tumefied, and when sliced, small
 drops of blood oozed from the cut surface.
+
 Softening of the brain assumes a variety of forms; it either pene-
 trated to some depth, or extended over the whole cerebral surface; it
 attacked some parts only, or it occupied the whole cerebral mass; some-
@@ -568,6 +590,7 @@ state of putrefaction. Softening may take place without change of
 colour; in the grey substance it was found rosy, red, or a deep brown;
 in the medullary portion of the brain it presented a pale hue, sometimes
 greenish or yellow.
+
 Hardening of the brain occurred as frequently as softening, and was
 accompanied by either hyperemia or anaemia. In some cases, the cortical
 substance and the ventricular walls were indurated; the other parts,
@@ -580,6 +603,7 @@ firm and resisting, and covered a layer of hardened brain. In another
 instance, the colour of the hardened brain varied from a light coffee
 colour on the outside of the brain, to a reddish tint on the inside. The
 cerebellum and pons varolii were indurated in one case.
+
 Other lesions are to be met with in general paralysis; M. Leuret
 notices two superficial erosions on the middle lobe of the right side.
 M. Rodrigues says he has met with ulceration of the inferior face of the
@@ -592,16 +616,18 @@ cord, and reducing it to the thickness of a ribbon. He has also occa-
 sionally seen fibre, cartilaginous and bony tumours, hydatids, tubercle,
 cancer, and growths on the pia mater, in the bodies of those who have
 been afflicted with general paralysis.
+
 M. Rodrigues has detailed two interesting cases of oedema of the
 brain, which he cites from M. Ferrus' collection of cases. One of these
 patients was affected with general paralysis, combined with dementia
 and epilepsy.
+
 Having thus briefly enumerated all the signs which the morbid ana-
 tomy of general paralysis reveals to us, we shall, in the next place, offer
 a few observations on some of those points which appear to be of prac-
 tical importance.
+
 The condition of the skull first demands our attention. "Writers on
-THE GENERAL PARALYSIS OF THE INSANE. 357
 insanity have generally noticed either a defective form or want of sym-
 metry in the heads of the insane. One English writer, however, of high
 anthority, has stated it as his opinion, that the skulls are generally well
@@ -617,6 +643,7 @@ the opinion that a want of symmetry in the two sides of the head was
 an obstacle to the development of intellect, had himself an irregularly-
 shaped head; thus offering, in his own person, a singular contradiction
 of his views.
+
 Injection of the vessels of the pia mater, and thickening of the arach-
 noid, combined with effusion, are found in the greater number of cases.
 M. Magendie has advanced an opinion that the arachnoid does not re-
@@ -631,6 +658,7 @@ Messrs. Bayle and Esquirol to ascribe the disease to meningitis. They
 were hasty, however, in drawing this inference, as effusion of serum is
 very commonly found in cases of insanity, uncomplicated with general
 paralysis.
+
 It has been remarked by authors, that hardening of the brain in
 general paralysis is often accompanied by diminution of volume. As
 the dura mater cannot, therefore, adapt itself to the brain in these in-
@@ -650,9 +678,9 @@ cular exhalations take place at the expense of the brain, which furnishes
 the fluid for the purpose; and to this cause he attributes certain cases of
 internal hydrocephalus, accompanied by a closing of the entrance of the
 encephalic cavities.
+
 With regard to oedema of the brain, M. Scipio Pinel considers it to be
 merely an accidental production from cerebral irritation, and occurring
-358 THE GENERAL PARALYSIS OF THE INSANE.
 in individuals predisposed to anasarca. M. Rodrigues and Dr. Etoc
 Demary differ from Andral, who thinks that oedema of the brain pro-
 duces no particular symptom; they, on the contrary, consider that it
@@ -671,6 +699,7 @@ the brain in chronic hydrocephalus, Avithout derangement of the intellect
 or any material impediment to the corporeal functions. An attentive
 consideration of these well-known facts would, we think, clear up many
 apparent discrepancies in cerebral pathology.
+
 Messrs. Calmeil and Lelut believe that the atrophy, in protracted
 cases of general paralysis, may have been occasioned by effusion of
 serum; M. Rodrigues doubts the possibility of such an effect; but if we
@@ -678,6 +707,7 @@ keep before us the distinction alluded to above, we can easily conceive,
 that after a long period (and these lesions invariably occurred in pro-
 tracted cases) the brain might have gradually given way to the incessant,
 the imperceptible encroachment of the liquid effusion.
+
 The cause of altered consistency of the brain is a " vexata questio "
 which next demands our attention. Induration and softening of the
 brain, we perceive, are common occurrences in chronic cases of general
@@ -703,9 +733,9 @@ inflammatory disorganizations. We all know that induration may be
 an occasional effect of inflammation, but not in the singular manner
 which he supposes. Indeed, his opinion, that an inflammation on the
 surface of the brain is capable of exciting that action in the substance
-THE GENERAL PARALYSIS OF THE INSANE. 859
 of the organ which leads to increased nutrition, is too fanciful to be
 entertained.
+
 Induration is no doubt tlie effect of various causes. The hardening
 of some structures, as age advances, is a natural result which must not
 be overlooked in pathological examinations. Sometimes a tissue is
@@ -722,6 +752,7 @@ restore the indurated part to its healthy condition. M. Lallemand has
 supposed that partial induration of the brain may be a mode of recovery
 from softening, and there are certainly some general pathological facts
 which appear to support his view.
+
 M. Rodrigues recognises three species of induration of the brain in
 general paralysis?hypertrophic hardening, from irritating causes; in-
 flammatory hardening, or that which is the result of inflammation; and
@@ -729,6 +760,7 @@ atrophic hardening, which has been occasioned by serum compressing
 the brain. The first and last species, he believes, affects generally the
 whole cerebral mass; the second partially only, but marked by a change
 of colour.
+
 Dr. Delaye, who discovered hardening of the brain in the greater
 number of his cases, attributes great importance to induration of the
 cerebral mass, and considers it to be a frequent cause of paralyses in the
@@ -739,6 +771,7 @@ that it may have some share in producing the paralysis, but very justly
 observes, that its degree of importance is certainly problematical, inas-
 much as it is never found alone, other lesions, sufficient to cause the
 disease, being generally noticed at the same time.
+
 Softening of the brain is, generally speaking, the effect of inflam-
 mation; and occurs, as Ave have previously noticed, very commonly in
 general paralysis. M. Rodrigues is naturally at a loss to know whether
@@ -748,13 +781,13 @@ probable that a patient could live long Avitli extensive softening of the
 brain, yet Lallemand and Abercrombie cite examples, Avliich render it
 probable that patients may live a year, or more, Avliilst suffering from
 this affection.
+
 We are surprised to find M. Rodrigues, after the evidence Avhich he has
 brought forAvard to the contrary, stating it as his decided opinion that
 the paralysis of the insane differs from ordinary paralysis solely in the
 circumstance of its progress being more sIoav. In justice to him Ave
 Avill proceed to give a fair vieAV of his opinions on the nature of the
 disease, and then state our OAvn reasons for not agreeing Avith him in
-360 THE GENERAL PARALYSIS DF THE INSANE.
 several of liis conclusions. He commences by saying that the symptoms
 of the paralysis do not vary, whether arising from an effusion of serum,
 or from a chronic alteration of the two hemispheres, or whether a
@@ -771,6 +804,7 @@ slow, it is because the serum is slowly secreted. He asserts that chronic
 meningitis is the cause of insanity in the greater number of cases, and
 that it is probable, therefore, that inflammation of the serous membrane
 should give rise to a liquid effusion.
+
 After giving this confident opinion, he singularly enough proceeds to
 state that it frequently happens, on examining bodies, that the brain is
 found infiltered and the ventricles distended by serum in individuals
@@ -804,7 +838,6 @@ disease was first recognised has not been sufficient for investigations into
 the nature of the disease. Enough, however, we think is known to
 enable us to determine that it is a distinct and specific form of paralysis,
 having a peculiar origin, progress, and termination. M. Rodrigues has
-THE GENERAL PARALYSIS OF THE INSANE. 361
 stated that it is not different from ordinary general paralysis; but a very
 slight comparison of the two diseases will serve to show his mistake.
 General paralysis in the insane comes on slowly and insidiously, and
@@ -816,6 +849,7 @@ oblongata are seldom implicated except towards the termination of the
 affection; whereas, in the paralysis of the insane, disordered action of
 the muscles supplied by the lingual and facial nerves are amongst the
 symptoms first observed.
+
 With regard to the pathological features which he considers as corro-
 borating his opinion that the disease originates in an inflammation of
 the membranes, we would observe that they were noticed for the most
@@ -848,6 +882,7 @@ disease, either in the brain or spinal cord. We are, therefore, compelled
 to confess that we are still on the threshold of our investigations with
 regard to this singular disease, and that it is to future inquiries we must
 look for more precise information respecting its nature.
+
 It is probable, if we may hazard a conjecture, that the seat of the disease
 will be ultimately found in those portions of the brain which preside
 ?ver the voluntary movements, and which may produce the paralysis by
@@ -855,7 +890,6 @@ being either sympathetically or directly affected. M. Kodrigues has
 mentioned two cases which commenced with tremblings of the limbs,
 somewhat resembling the muscular agitations perceived in delirium
 NO. III. B B
-362 THE GENERAL PARALYSIS OF THE INSANE.
 tremens; but there is another disease which Ave think more closely re-
 sembles the paralysis of the insane, and the study of which may ulti-
 mately serve to throw some light on the subject; we allude to paralysis
@@ -879,6 +913,7 @@ complains of the defective manner in which the treatment of diseases in
 general is discussed by modern writers. This may be the case on the
 Continent, where the expectant mode is adopted; we, however, do not
 plead guilty to the charge in England.
+
 In the first period of the disease, when the paralysis is slight, M. Ro-
 drigues recommends the most heroic treatment; he says, that neither
 advanced age, nor difference of sex, nor apparent weakness of the pulse,
@@ -899,6 +934,7 @@ cided with the suppression of the catamenia, of hemorrhoidal or other
 discharges, the restoration of these secretions is often attended with
 marked benefit. Both Messrs. Esquirol and Rodrigues mention cases
 in point.
+
 When the general paralysis occurs in a debilitated state of the body,
 induced by venereal or other excesses, M. Rodrigues recommends cold
 baths, light tonics, and aromatics. But even in these cases we are sur-
@@ -906,7 +942,6 @@ prised to find he advises an occasional abstraction of blood from the
 arm, although violent purges and strong stimulant excitants of the
 nervous system, such as strychnine, he very properly condemns as in-
 jurious. Everything tending to cause cerebral excitement, he says,
-THE GENERAL PARALYSIS OF THE INSANE. 363
 should be withheld; intellectual exertion proscribed; and communica-
 tions of an unpleasant nature avoided. The douche, which has fre-
 quently been boasted of as a powerful agent in those cases, he considers
@@ -925,6 +960,7 @@ Digitalis, a remedy greatly extolled by Dr. Locher, of Vienna, and
 which he administered in large doses, was used with advantage in two
 of M. Rodrigues' cases; and it was tried extensively at Hanwell, but
 without any apparent benefit.
+
 In a case cited to show the beneficial influence of digitalis in this
 disease, there was a combination of epilepsy with the general paralysis,
 a connexion which has been supposed never to occur. And Avhat is still
@@ -938,6 +974,7 @@ after the eruptive disease has passed away, the ulcers have put on a
 healthy appearance, and quickly healed. It would seem, in these cases,
 as if the disordered parts were righted by the general commotion of the
 system.
+
 M. Rodrigues speaks lightly of sedatives and antispasmodics, such as
 opium and musk. He says no good has ever been derived from their
 use. Emetics have been tried extensively by M. Royer Collard and M.
@@ -958,7 +995,6 @@ main undetected. Revulsives on the skin, setons, moxa, issues, &c., he
 considers useful, and they Avere successfully tried by Messrs. Bayle and
 Royer Collard. M. Esquirol, on the contrary, found the application of
 b b 2
-364 THE GENERAL PARALYSIS OF THE INSANE.
 moxa unavailing when applied to the top of the head in cases of de-
 mentia complicated with paralysis. He also applied the actual cautery
 to the necks of patients who exhibited signs of paralysis, without any
@@ -970,6 +1006,7 @@ cases. In only one instance was it found useless, whilst in the nine
 other cases an improvement, more or less appreciable, took place in the
 mental disturbance, and in the disordered functions of sensation and
 motion.
+
 We are surprised to find that M. Rodrigues never alludes to mercury
 as a remedial measure in this disease, although he considers it to depend
 on inflammation. Mercury has, nevertheless, been given with advantage
@@ -979,6 +1016,7 @@ against this mineral. In one case that he details the disease ensued on
 the suppression of a venereal rash; and although the indications of treat-
 ment were clear, we are astonished to find that he never administered a
 particle of mercury.
+
 In the latter stages of the disease, M. Rodrigues recommends ex-
 ternal counter-irritation, whilst internal revulsives must be omitted on
 account of the diarrhoea, which then becomes very profuse. He men-
@@ -999,6 +1037,7 @@ sequence of the supervention of violent epileptiform paroxysms, and
 most serious effects were the result: the patients became reduced to an
 extreme degree of mental and bodily debility, from which they never
 rallied.
+
 In the recent reports of the Commissioners in Lunacy, there are
 numerous data from medical men connected with asylums in this
 country, relative to the medical treatment of insanity. With regard to
@@ -1009,7 +1048,6 @@ little can be done beyond palliative treatment. From a review of these
 statements, it would appear that general bleeding was had recourse to in
 none of the cases, but that local bleeding, by cupping or leeching, and
 counter-irritation, were frequently of service in the outset of the disease,
-THE GENERAL PARALYSIS OF THE INSANE. 365
 but that in subsequent stages of tlie complaint they were useless.
 When the disease is advanced, a generous diet, attention to the secre-
 tions and excretions, freedom from excitement, and cleanliness, will
@@ -1060,7 +1098,7 @@ vinced that the brain may resume its functions without danger. He
 must, at the same time, recommend the patient not to exercise too
 severely an organ which, more than any other, requires the most careful
 management, from the peculiar delicacy of its structure.
-366 MENTAL INFLUENCES.
+
 After having given M. Rodrigues' opinions such an attentive consi-
 deration, we have neither time nor space to enter into his merits as an
 author. The obscurity and exaggeration of his style we were frequently

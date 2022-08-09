@@ -1,7 +1,8 @@
 Regional Community Care1
 ============================
 
-By T. A. RATCLIFFE, M.A., M.B., D.P.M., D.C.H., and E. V. JONES (Psychiatric Social Worker)
+:Author: T. A. RATCLIFFE, M.A., M.B., D.P.M., D.C.H., and E. V. JONES (Psychiatric Social Worker)
+
 Now that the Regional Psychiatric After-Care
 Service for ex-service personnel, first organized
 py the National Association for Mental Health
@@ -14,6 +15,7 @@ regional organization, as well as some of its
 solutions of these problems, are entirely different
 from those encountered in other forms of
 Psychiatric social work.
+
 The service in this region was first organized
 from a Nottingham office in 1946, but the
 present survey covers the years 1947 and 1948
@@ -44,7 +46,7 @@ difficulties meant that only a very limited
 diagnostic clinic service was available for
 out-patients, and that often only at some
 distance.
-68 MENTAL HEALTH
+
 During the two years ending December 31st,
 1948, the case load in the region was as follows:
 Total number of cases handled 659
@@ -60,7 +62,10 @@ Psychopathic personality .. 51
 Borderline M.D. .. .. 25
 Organic disabilities .. .. 53
 Undiagnosed .. .. 30
+
 The After-Care Team
+--------------------
+
 Although the After-Care team could be held,
 in its widest sense, to include all those individuals
 and agencies who are drawn in to help in the
@@ -90,6 +95,7 @@ weekly case conferences, whilst the psychiatrist
 was available at other times also for discussion
 of special individual problems with a case
 worker.
+
 At approximately monthly intervals a larger
 case conference was held to which were invited
 psychiatrists, psychiatric social workers, and
@@ -101,6 +107,7 @@ difficulty, these larger case conferences were
 becoming an interesting and valuable group
 situation for the discussion of general problems
 of community care.
+
 It became clear at an early stage that, if he
 was to participate fully in the team, the psychia-
 trist must have clinical access to the case
@@ -157,8 +164,6 @@ accept it. No attempt was made to continue
 treatment in further private interviews, but the
 patient was put in touch with the appropriate
 in- or out-patient treatment clinics which he
--J
-MENTAL HEALTH 69
 now viewed in a much more realistic and satis-
 factory light. In all cases, with the patient's
 consent, details of his past social and psychiatric
@@ -242,6 +247,7 @@ of the ex-service man are considerable in
 themselves, and they tend to conflict with, as
 well as augment, the difficulties of translation
 from hospital to home environment.
+
 In the community care service it was therefore
 necessary for the case worker to build up her
 contact with patient, relatives, doctor and
@@ -270,7 +276,7 @@ cases the Psychiatric Social Worker can often,
 even at her first interview with a recalcitrant
 patient, achieve the sort of personal relationship
 which the patient has never before experienced.
-70 MENTAL HEALTH
+
 Because of this relationship, the patient can
 often be persuaded to accept treatment, or at
 least take the next step towards it, even though
@@ -291,11 +297,13 @@ the essential criterion of psychiatric social work,
 as a part of complete mental health service to
 the community, and distinguishes it from most
 other forms of social work.
+
 If the first duty of the case worker is to
 establish this contact and relationship with the
 patient himself, her second and equally impor-
 tant task is with the patient's immediate
 environment.
+
 It is equally important to the patient to help
 in the adjustment of the home environment as
 it is to help in his own adjustment. Indeed,
@@ -326,6 +334,7 @@ relationship built up by the case worker with
 both patient and relatives gives her a powerful
 therapeutic weapon in handling such prob-
 lems.
+
 The ex-service man, especially if he has had
 long service, is often greatly out of touch with
 the changing employment and social milieu in
@@ -345,6 +354,7 @@ patient the benefit of her knowledge and
 experience of any special employment problems
 involved is one of the largest single benefits of
 the after-care service.
+
 The active therapeutic role of the case worker
 is more difficult to define or delimit. Techni-
 cally the relationship which she builds up with
@@ -355,6 +365,7 @@ psychotherapy, but her relationship remains
 more on patient's " own level a fact which
 limits her active therapeutic role, but aids her
 " counsellor " role greatly.
+
 {To be concluded)
 Psychiatry has been referred to as the Cinderella of medicine but I question sometimes whether that
 branch of psychiatry which deals with the more privileged in intelligence?with intensive psychotherapy

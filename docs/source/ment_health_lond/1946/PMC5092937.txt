@@ -1,8 +1,9 @@
 Problems of Family Life
 =========================
 
-By Agatha Bowley, Ph.D.
+:Author:  Agatha Bowley, Ph.D.
 L. & S. Livingstone Ltd. Price 5s.
+
 Dr. Bowley brings to her study of family life a wealth
 of detailed material, culled from extensive case work
 undertaken in her position as Senior Psychologist to the
@@ -20,10 +21,9 @@ psychological worker, who has had to struggle with
 recalcitrant children and anxious parents, finds it hard
 to square her own experience of children's developmental
 difficulties with the statistical summary which lays
-a
-56 . MENTAL HEALTH
-these difficulties chiefly at the door of environmental
+a these difficulties chiefly at the door of environmental
 circumstances.
+
 Dr. Bowley notes that a large percentage of her cases
 feel themselves unwanted and insecure, and that lack of
 family affection is causative in a large number of
@@ -38,6 +38,7 @@ interpretation of his experiences receive almost no
 attention throughout, and of a certainty these are very
 fundamental factors in delinquency as well as in minor
 cases of difficulty.
+
 Dr. Bowley's emphasis on environment would be less
 of a drawback to her book's usefulness if some study of
 how parental attitudes, which are a large part of environ-

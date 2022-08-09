@@ -1,8 +1,8 @@
 The Handicap of High Intelligence
 ====================================
 
-MENTAL HEALTH 71
-By E. M. BAR I LETT, Ph.D.
+:Author: E. M. BAR I LETT, Ph.D.
+
 Psychologist, Essex Education Committee
 The form of my title may seem to some of my
 readers perverse, but I think that no one will
@@ -104,7 +104,6 @@ brilliant at art, excellent at oral and written
 composition, except that she could not spell,
 but so backward at mechanical arithmetic that
 her headmistress was doubtful of her chances.
-72 MENTAL HEALTH
 of passing the qualifying examination to a
 grammar school. On the surface she appeared
 cheerful, well-adjusted and with charming
@@ -134,6 +133,7 @@ but we ought at least sometimes, I think, to have
 doubts of the value of our victory even when we
 do win, and sometimes more may be gained by
 apparently losing the battle.
+
 I turn now to a consideration of what it is
 that makes normal development, and the
 achievement of sound mental health, difficult
@@ -217,7 +217,6 @@ often the first step to mental ill-health. Emo-
 tionally, also, they are often their physical
 rather than their mental age, and this in its turn
 produces lop-sidedness and may even lead to
-MENTAL HEALTH 73
 persecution from their fellows. Some psycho-
 logists hold that the exceptionally clever child
 is always persecuted, either by his fellows or
@@ -330,7 +329,6 @@ from a poor home is that on the one hand he
 may lack " ballast " and on the other may fail
 to develop " tasteIf he has had good
 emotional nurturing in early infancy, even if
-74 MENTAL HEALTH
 he has not had a great deal of intellectual
 stimulus at home, he can usually get what he
 wants at school during the infant school and
@@ -382,6 +380,7 @@ time, but at present I know from experience that
 some of these children do suffer and that others
 fail to develop the contribution to the good of
 the community which they ought to be making.
+
 This is perhaps particularly true of the
 brilliant child with literary gifts. While he is
 young he gets on fairly well, since " Vision "

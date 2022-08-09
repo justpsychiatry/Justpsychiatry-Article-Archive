@@ -1,9 +1,10 @@
 On Poisons, in Relation to Medical Jurisprudence and Medi-
 =========================================================
 
-Art. V.?
-By Alfred b. Taylor, i.K.b. (Jhurchiil, io4o. pp. 855.
-L
+ Art. V.
+:Author: Alfred b. Taylor, i.K.b. (Jhurchiil, io4o. pp. 855.
+TAYLOR ON TOISONS.
+
 Toxicology, as a distinct and important branch of medical jurispru-
 dence, comes within the scope of the original design of this publication.
 Many circumstances contrive to direct attention to the subject. The
@@ -15,7 +16,7 @@ branch of science essential to the general practitioner. By those having
 the care of the insane also, it should be carefully investigated, as it
 affords much curious and useful information bearing upon their parti-
 NO. III. F F
-426 TAYLOR ON TOISONS.
+
 cular department. Poisoning among lunatics is rare, but still it is
 occasionally one of the forms of suicidal or homicidal mania. The per-
 verted ideas and hallucinations respecting it, the dread of poison, and the
@@ -40,6 +41,7 @@ complete, and the best class-book on the subject of toxicology. It is
 written in a clear and lucid style, with ample reference to the sources of
 facts and opinions; moreover, it is an exceedingly amusing volume, and
 will be perused with pleasure by the general reader.
+
 Mr. Taylor first treats of the medical evidence in cases of poisoning,
 and defines accurately the meaning of the word, " deadly poison," as
 distinguished from that which may become " a noxious thing" under
@@ -66,13 +68,13 @@ fest themselves?they partake of the narcotic irritant character. This
 poison is of a very formidable kind. In the " Medical Gazette," for
 Nov. 1842, there is an account of the cases of three persons who had
 died from the effects of liver sausages, which had been made from an
-TAYLOR ON POISONS. 427
 apparently healthy pig, slaughtered only a week before. The inspection
 threw no light on the cause of death. The poisonous effect is supposed
 to depend on a partial decomposition of tbe fatty parts of the sausages.
 It is said, that when extremely putrefied, they possess no poisonous pro-
 perties. Does not the same observation hold good with respect to
 dissection wounds?
+
 Sometimes fatal effects follow the use of ordinary articles of animal
 food in a diseased condition. With regard to putrefaction, Dr. Taylor
 says (p. 555,) " it would appear that the flesh of the most healthy
@@ -98,6 +100,7 @@ child at first rejected it, but subsequently took a quantity of milk. Soon
 afterwards violent vomiting supervened. In the course of some hours
 the child took the other breast, when it was attacked with violent con-
 vulsions, and died in spite of medical aid."
+
 On occasions when symptoms of irritation have been observed to
 follow the use of cow's milk, it would appear as if the secretion had
 really acquired a specific poisonous action. This must be frequently
@@ -117,15 +120,15 @@ affected by the cabbage, carrot, and all strong smelling plants. It is
 singular that the animal poison of rabies should be sometimes trans-
 missible by the milk." We remember that some years back a medical
 man wrote a pamphlet to prove that most human ailments were caused
-f f 2
-428 TAYLOR ON POISONS.
 by drinking the milk of cows fed on butter-cups. The absurdity of this
 hypothesis is certainly lessened by the above facts.
+
 We now come to hydrophobia, a disease of the nervous system which
 is even yet but little understood, but with regard to which there are
 strange misconceptions abroad. The following particulars furnished by
 Mr. Taylor will be read with interest, although they should be given
 in extenso to do the laborious author justice.
+
 It is singular that the dread of water, which is the main pathogno-
 monic character of rabies in the human subject, is not met with in the
 animals which impart it. Rabid dogs commonly have an irresistible
@@ -169,7 +172,6 @@ ration of this liquid in the state of vapour, than for the action of alcohol.
 When the vapour is respired, it enters the blood in the pulmonary
 vessels, and the effects are almost immediate. The individual falls into
 a lethargic condition, the respiration becomes slow, deep, and loud, the
-TAYLOR ON POISONS. 429
 skin pale and cold, the lips assume a darker hue, the pulse is quickened,
 the eye is glassy, and the pupil dilated; the whole body is flabby and
 relaxed. A small quantity of ether introduced into the blood through

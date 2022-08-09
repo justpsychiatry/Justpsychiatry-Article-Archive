@@ -1,10 +1,9 @@
 Is the Pennsylvanian or Cell-System Favourable to the Development of Insanity
 ==============================================================================
 
-159
 translations.
 {From the German.)
-BY DR. BASTING,
+:Author:  DR. BASTING,
 ASSISTANT-PHYSICIAN TO THE LUNATIC ASYLUM AT EBEKBACH.*
 M. Appert, from Paris, has attempted, in a recent publication, (Travels
 in Prussia,) to direct the attention of the public to the silent system, as
@@ -18,6 +17,7 @@ this receptacle of misery and curses, whose last stone is scarcely placed
 ere its foundation begins to shake beneath the repeated strokes of a
 unanimous disapproval on the part of science, religion, humanity, and
 justice."
+
 Similar declamations have been found of late years in the public
 journals, written for the purpose of prejudicing the public against a
 system of punishment, the precedents of which have been demonstrated
@@ -34,16 +34,17 @@ more reasonable to facilitate the introduction of the system by bringing
 forward established facts, than to oppose it by probable suppositions,
 and to endeavour to find out the means and modes whereby the partly
 groundless objections to the cell-system may be met.
+
 M. Appert is for solitary confinement during the night, but decides
 against total isolation. " No judge has the right," he says, " to doom a
 human being to insanity," only it is yet to be demonstrated, psychologi-
 cally, that the Pennsylvanian system has produced such results in a single
 individual.
+
 A cell which contains at the least 1000 cubic feet, with freedom of
 motion assured to the prisoner, dry, well ventilated, well lighted, warmed
 * Read at the Section for Psychiatry, of the Association of German Naturalists, held
-at Brunswick, 1846.
-160 ON SOLITARY IMPRISONMENT.
+at Brunswick, 1846..
 according to the season, in which the prisoner has a warm bed, sufficient
 and wholesome food, suitable clothing, and proper employments?in
 which his bodily and mental welfare are watched over by the superin-
@@ -51,6 +52,7 @@ tendent physician, chaplain, officers, and turnkeys, and when exercise
 in the open air for at least half an hour daily is permitted, such a cell
 cannot possibly favour the development of insanity, but rather, on the
 contrary, would be prophylactic.
+
 Many crimes are committed during a period of moral irresponsibility.
 The mad-houses of all countries have no small proportion of their in-
 mates who were first received after they had given warning of their
@@ -94,7 +96,6 @@ hardened and dissolute men of every kind?who has no sympathy with
 the rudeness of the abandoned?to whom it must be tormenting to find
 himself in such society?who feels the want of his accustomed comforts
 and friends?pursued, perhaps, by a desire for dear relatives, or by bitter
-ON SOLITARY IMPRISONMENT. 161
 remorse?probably finding himself sneered at and despised, mocked and
 maltreated for bis better feelings?tliat such a pitiable person is more
 likely to become insane amongst a crew of reprobates than in an airy
@@ -112,6 +113,7 @@ and war against society, and his conscience may thus be benumbed; but
 the benumbed and not soothed conscience will at last awake in him, and
 must excite a fearful struggle in his soul, amid which his senses may be
 easily disordered.
+
 The desire for freedom and for society is innate in us. The man
 with unburdened conscience, happy, and enjoying life, feels a happiness
 in the enjoyment of his freedom; he finds repose, amusement, and
@@ -133,6 +135,7 @@ may apply all he has learnt to his criminal vocation. He now goes
 more skilfully to work; he is more perfect in dissimulation, more perfect
 in the art of escaping justice; he made friends who help him in his
 enterprizes.
+
 But if the desire for freedom be innate, so also is the desire for solitude.
 Who lias not felt its kindly influence when he has had to bear real or
 imaginary evils ? Where do we most freely pour forth our tears when
@@ -146,7 +149,6 @@ door, pray to thy Father Avliich is in secret, and thy Father which seeth
 in secret shall reAvard thee openly." To Avhom, then, is solitude more
 necessary than to the fallen sinner, to the repentant criminal??and
 NO. I. M
-162 ON SOLITARY IMPRISONMENT.
 repentant we would have every criminal to become. To whom is prayer
 more necessary than to him? and we must afford him the opportunity
 of praying?it is our duty. But can we do this better in the society of
@@ -188,6 +190,7 @@ I beg leave to investigate the extent to which insanity occurs amongst
 prisoners generally, and specially amongst those subject to solitary con-
 , finement, and with particular reference to facts stated on the authority
 of physicians and officers of prisons.
+
 In every prison it may be asserted that at least five per cent, of the
 population is in a doubtful condition as to soundness of mind. It is the
 opinion of Blut and Baillarger that mental disorders are from four to six
@@ -196,6 +199,7 @@ latter founds his opinions on the following irrefragably true principles:?
 1. There are insane persons whose disease appears before and after
 sentence, and is first ascertained after entering the house of correction,
 in consequence of a medical investigation.
+
 2. Many crimes are committed during the period of incipient insanity
 ON SOLITARY IMPRISONMENT. 163
 by such persons who are not quite insane, but who became so after con-
@@ -210,6 +214,7 @@ many causes of mental disorder.
 easily comprehended how in this way errors may have arisen.
 6. The discipline of prisons may become a cause of insanity amongst
 the inmates.
+
 If persons would take the trouble to compare the number of cases of
 insanity that have occurred in ordinary prisons hitherto with those which
 are found in well-constructed cell prisons, the comparison would doubtless
@@ -243,15 +248,16 @@ prisoner of a well-furnished cell be specially subject to these disorders 1
 Experience teaches to the contrary, and also the opinions of highly
 learned and experienced men, who, as physicians, have attained to an
 indisputable reputation.
+
 A commission appointed by the Royal Academy of Paris, and con-
 sisting of Esquirol, Marc, Villerue, Louis, and Pariset, in reply to the
 Irencli government, gave it, on Jan. 3rd, 1839, as their opinion, publicly
 and positively expressed, that the fear of injury to the mental health of
 prisoners from solitary confinement was groundless.
-m 2
-164 ON SOLITARY IMPRISONMENT.
+
 Flemming, also, of Sachsenberg, near Schwerin, has enunciated the
 same opinion, for which he assigns the following grounds:?
+
 1. It is quite correct that to men withdrawn from social relations it
 is an absolute requisite that they be, not only not left alone with their
 own thoughts, but that they be able to communicate them,?a requisite
@@ -266,6 +272,7 @@ solitariness, and absolute deprivation of the opportunity to receive and
 communicate ideas; it restrains communication only with the vicious
 and through the vicious, and provides communion with moral good, both
 in conversation and reading.
+
 2. Solitude will usually become injurious to the health from want of
 employment; for it is accustomed to exercise the same disadvantageous
 influence even under directly opposite circumstances, that is, amidst the
@@ -284,6 +291,7 @@ of the prisoners, and where the diet is proportionately too nutritious.
 The Pennsylvanian system does not by any means exclude employment
 of the prisoner, but rather encourages him by it, since he seeks it volun-
 tarily and as a solace.
+
 3. The passions must come into consideration. According to expe-
 rience they act injuriously, impairing and paralyzing the nervous system
 of the trunk, and all the organic functions which are regulated by it:
@@ -299,14 +307,14 @@ neutralize, by causing diversion of the mind, and by giving opportunity
 to indulge in vicious thoughts and feelings, as is in fact presented in the
 association with like-minded persons, and in the victory over the pains
 and penalties of the law.
+
 The Pennsylvanian system offers as a means of neutralizing these evils
-ON SOLITARY IMPRISONMENT.
-165
 only labour, and the consolation resulting from good books, and the con-
 versation of moral and pious men, whereby appropriate views and good
 principles are imbibed. Need, then, the useless question be raised, which
 of these two methods of neutralization be the best, the most useful, most
 to be commended, most appropriate?
+
 4. That by the deprivation of free and fresh air, and of exercise, soli-
 tary confinement may give rise to a morbid state of the system. By a
 better construction of prisons this injurious effect may be avoided. Dr.
@@ -350,9 +358,9 @@ duced, there are no lunatic asylums; whilst these establishments exist in
 New York and other states, where the Auburn system has been adopted.
 Besides, Philadelphia has a large coloured population, and this is more
 liable to insanity than the white.
+
 These indubitable facts, partly collected by Julius and Varrentrapp?
 these testimonies of honourable, truthful, and learned men, which suffi-
-166 INFLUENCE OF MUSIC ON THE INSANE.
 ciently prove that tlie prisoners in solitary confinement are not specially
 affected with insanity, may at least be sufficient to show that the preju-
 dices against the Pennsylvanian system do not rest on irrefragable facts.
@@ -373,6 +381,7 @@ with friends and relatives.
 turnkeys.
 12. Inappropriate management on the part of the chaplain.
 13. Too long seclusion.
+
 All these pernicious agencies can and must be avoided in a well-con-
 ducted cell-prison; and this being done, the keenest criticism would find
 nothing to object to. We have, however, no cell-prison which supplies
@@ -392,14 +401,11 @@ tially false, and is only introduced to round the period, and ought not to
 prevent us Germans from seeking after perfection in the construction of
 cell-prisons, an object which certainly is within the possibility of attain-
 ment.?Allgemeine Zeitschrift fur Psychiatrie, vol. iv. part i.
-INFLUENCE OF MUSIC ON THE INSANE.
 A communication appears in the " Journal de l'Ain," of the date of
 July 27, (" Gazette Med. de Paris," 1846, No. 31,) respecting the very
 great influence that music had upon the insane in the Hopital de la
 Madeleine at Bourg?the Pyrenean singers being the performers. The
 greatest stillness reigned in the chapel during the performance of the
-INFLUENCE OF MUSIC ON THE INSANE.
-167
 pieces. The females listened with astonishment; and it was only to-
 ward the close of a rattling bolero that one of them began to dance.
 The mountain-singers were introduced into the apartment of the noisy
@@ -411,6 +417,7 @@ performance, renewed uproar. After the singing, one of the maniac's
 thanked the " native singers," in a manner so correct, one might almost
 say so naturally (sic), that the performers were quite deceived as to the
 state of her mind.
+
 Dr. Damerow, chief editor of the " Allgemeine Zeitschrift fiir Psychi-
 atrie," and director of the institution for the insane at Halle, in com-
 menting upon this account, expresses his surprise that the editor of the
@@ -451,7 +458,6 @@ touches, it might actually be seen how love and taste expanded the
 pinions of the soul. He not only practised more and more, and better
 and better-, but began to compose songs for one or four voices, and
 practised as a "master" amongst the other patients. The musical
-168 ON THE ADMINISTRATION OF ETHER
 talent was in action long before the restoration to mental and corporeal
 strength. As regards this, he was perfectly sound long before he was
 scarcely convalescent in other respects. He was dismissed cured. In
@@ -462,6 +468,7 @@ This mental gymnastic was assisted by work in the garden during the
 Spring, after a long tedious winter.?Zeitschrift fur Psychiatrie, vol. iv.
 part ii.
 A BALL 11ST THE ASYLUM AT VIENNA.
+
 Tiie " Cologne Gazette" has the following:?" The experiment is now
 being made in the lunatic asylum at Vienna, to cheer and cure the
 patients by music and dancing. A ball, lately held there, was a pain-
@@ -472,12 +479,14 @@ fierce madness or dull idiocy, lips around which played a cold idiotic smile.
 A series of concerts will be held in the asylum, and the physicians pro-
 mise much from the effect of music on the shattered intellects of the
 patients.
+
 " A protective society will be established with the new year by the
 senior physician, Dr. Viszanik, for the protection of the poor and needy
 patients dismissed from the Vienna asylum."
 ON THE ADMINISTRATION OF ETHER IN THE
 TREATMENT OF INSANITY.
 Paris, March 10, 1847.
+
 Dr. Moreau (de Tours), physician of the Bicetre, was the first to try
 the ether on male lunatics and epileptics, during the period of intermis-
 sion, but without beneficial results. After the lapse of a few minutes,
@@ -496,7 +505,6 @@ whether the changes induced in the nervous system by ether had any
 influence on the morbid conditions of that system, that is, in mental
 affections. He has already made five experiments, and as regards the first
 question, he can answer it partly, in the affirmative. All the phenomena
-IN THE TREATMENT OF INSANITY. 169
 induced by ether in persons perfectly well, or suffering from surgical
 diseases, are also manifested by the insane after inhalation. But to-
 gether with the ordinary phenomena, there is not the slightest change
@@ -504,7 +512,9 @@ in the mental disease, but rather a manifestation of the fixed ideas and
 diseased condition of the patient. Paroxysms of insanity and mania
 return, so that Falret has renounced all hope of a beneficial use of ether
 in this department of medicine.
+
 PRIZE QUESTION OF THE UNIVERSITY OF BERLIN".
+
 Quum omnis medicinse et psychologize ratio et disciplina e nervorum
 cognitione pendeat, interest scire, quantum medicorum scholse phy-
 siologise compotes in hac provincia profecerint. Exponatur igitur neu-

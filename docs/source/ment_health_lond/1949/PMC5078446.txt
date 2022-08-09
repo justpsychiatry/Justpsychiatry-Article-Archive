@@ -3,7 +3,7 @@ Maintenance of Mental Health Introduction
 
 MENTAL HEALTH 91
 
-By A. TORRIE, M.A., M.B., D.P.M.
+:Author: A. TORRIE, M.A., M.B., D.P.M.
 Medical Director, National Association for Mental Health
 This introductory survey is designed to give
 some idea of the general aspects of mental
@@ -11,18 +11,23 @@ health, and subsequent articles by different
 contributors will apply these to infancy, child-
 hood, adolescence, adulthood, middle age and
 old age.
+
 Definition
+------------
+
 In one sense there is no such person as a
 normal human being, perhaps with one ex-
 ception. The term refers to those who come
 within the upper and lower limits of the
 normal.
+
 Mental health specialists gathered together
 at the International Congress in August of
 last year made it fairly clear that the subject
 cannot be studied otherwise than as a problem
 affecting many disciplines, so that its scope has
 become very much wider.
+
 The inner needs, drives, motives, desires
 and dreams of the individual, must be related
 to the environment in which he lives, thus
@@ -37,12 +42,16 @@ To produce an alternative is a difficult task,
 and many feel that education of the public
 in the wide meaning of the term " mental
 health " is all we can rely on.
+
 It will be recognized that to be mentally well
 requires physical health. An increasing number
 of psychiatrists would also add that spiritual
 well-being is necessary for total health or
 wholeness.
+
 Adaptability.
+--------------
+
 Positive mental health also demands that
 we meet the unavoidable strains and stresses
 of life with adaptation or assertiveness leading
@@ -55,6 +64,7 @@ agreement. We have to accept inherited needs
 and recognize that they must be, as far as
 possible, planned with the needs of our
 community in mind.
+
 At the present time of transition and change,
 there is much minor mental ill health, because
 of resentment and inability to change with
@@ -64,7 +74,10 @@ For many years now we have had deprivations
 and denials to tolerate, and the inability to
 adjust, or our refusal to adjust in many cases,
 leads to emotional instability.
+
 The Need to Understand Ourselves
+---------------------------------
+
 A knowledge of our own mental mechanisms
 will give us some insight and power over them.
 Between the wars much education was given

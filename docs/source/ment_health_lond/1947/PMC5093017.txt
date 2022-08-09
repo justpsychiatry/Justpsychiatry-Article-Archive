@@ -1,7 +1,7 @@
 Psychiatric Social Work among Children in New York and Neighbouring States
 ==========================================================================
 
-By LESLEY SAMBROOK and CLARENCE A. WOLLEN
+:Author: LESLEY SAMBROOK and CLARENCE A. WOLLEN
 General Trends
 The first thing that strikes the English visitor,
 examining post-war social work in the U.S.A., is
@@ -16,13 +16,17 @@ Placement Agencies and Institutions serving children
 (both Residential Schools and Homes). More
 details 'of the functioning of these schemes will be
 given later.
+
 Child Guidance Clinics proper may function in
 their own right like the Judge Baker Clinic at Boston
 and the Philadelphia Clinic, or may be part of the
 Mental Hygiene Clinic of a Psychiatric Hospital,
 like Bellevue, New York, or attached to a Children's
 Hospital like the " Harriet Lane " at Baltimore.
+
 Training of Workers
+--------------------
+
 Case-work has swept the country and in practice
 the term " case-worker " covers the psychiatric
 as well as the general social worker. Far more
@@ -33,11 +37,13 @@ psychological theories have strongly influenced the
 training and a good deal of psychiatric knowledge
 is incorporated in training schemes for all case-
 workers.
+
 There is no special course for psychiatric social
 workers as such; they merely take a further series
 of psychiatric lectures (which are optional for the
 case-worker going into other fields), and have their
 practical work in a psychiatric clinic.
+
 All candidates for training in social work take an
 18 months to 2 years' course in a post-graduate
 School of Social Work, ending in a " Mastership
@@ -54,14 +60,16 @@ for English students desiring further training in
 the States. It would be well therefore if some
 evaluation of English training could be made which
 would satisfy the authorities there.
+
 Further In-Service Training
+-----------------------------
+
 On completing the post-graduate course in a
 Social Work School, the worker may get further
 specialized in-service training within the Clinic or
 Agency in which she is thus employed.' An out-
 standing example of this is the Jewish Board of
 Guardians which uses case-workers for therapy,
-36 MENTAL HEALTH
 both with parents and children in its Child Guidance
 Service. Workers entering the service have during
 their first year, weekly seminars on diagnosis
@@ -79,10 +87,12 @@ The conferences with the psychiatrist are at less
 frequent, though regular, intervals. In case of
 difficulty the psychiatrist is always available to the
 worker for direct consultation.
+
 In many other clinics and agencies, somewhat
 similar though much less complete arrangements
 are made for continuing the instruction of workers
 in their function.
+
 The Role of the Psychiatric Social Worker
 From a position of great responsibility and scope
 such as that given to the case-worker in the Jewish
@@ -98,6 +108,7 @@ psychiatric social work as psychiatrists trained in
 this way do not appear to know what responsibility
 to delegate, and how to use the services of P.S.W.s
 in clinics where they ultimately work.
+
 Between these two extremes there are many
 clinics and hospitals working with the usual team,
 though there is a growing tendency to allow more
@@ -115,6 +126,7 @@ given direct by psychiatrists only. Therefore this
 attempt is being made in using the psychiatrist
 as a remote control for other psychiatric personnel
 in the field of psycho-therapy.
+
 Social Work in Public and Private Agencies
 The emphasis between these two types of work
 varies very much in different states. In New York
@@ -130,13 +142,17 @@ any State Schemes, these Agencies handle a great
 deal of the social and psychiatric work amongst
 children and often fill gaps for which the State
 has made no provision.
+
 De-centralizing Psychiatric Work
+----------------------------------
+
 While in England the P.S.W. usually functions
 within the setting of the Child-Guidance Service,
 in the U.S.A. she has moved out of this specific
 field, and, under the title of " case-worker " is
 making her contribution in all areas of child care.
 The following are examples:
+
 (a) Child Guidance, or Counselling Service within the
 Educational System
 This operates slightly differently in different
@@ -147,6 +163,7 @@ In New York, Child Guidance Units under the
 Board of Education operate in different centres,
 each of which is located in a school, and serves a
 certain number of schools in that area.
+
 In Philadelphia and other places, the Board of >
 Education appoints " counsellors" (sometimes
 called visiting teachers). These are teachers con-
@@ -157,12 +174,15 @@ in school, in consultation when necessary with
 a psychiatrist. They also do home visits and
 interview parents. Referals must come through
 the head teacher.
+
 This means that a number of problems arising
 from low intelligence and the more superficial
 behaviour problems are dealt with, without refer-
 ence to a separate psychiatric clinic.
+
 (b) Child Guidance Services attached to the Juvenile
 Courts
+
 The Juvenile Court in New York maintains its
 own clinic and children are referred by the Magis-
 trate (" Judge ") for diagnosis, and for treatment.
@@ -170,16 +190,18 @@ Case-workers under the supervision of the psychia-
 trist give treatment in selected cases, and at present
 an experiment is being made in group-therapy
 among some children on probation.
+
 In New York, there is also a psychiatric service
 attached to the Remand Home?Youth House.
+
 This is operated by case-workers under the guidance
 of supervisors and in consultation with a
 psychiatrist.
+
 In Boston, the Juvenile Court uses the Judge
 Baker Clinic for seriously disturbed children.
 For less serious cases there is a " Citizen Training
 Department " which is really a compulsory evening
-MENTAL HEALTH 37
 club for boys on probation. This is in charge of
 two case-workers?one of whom (a man), is also a
 group-worker (recreational officer).
@@ -187,6 +209,7 @@ group-worker (recreational officer).
 Children's Aid, Child Placing Agencies (Foster-
 care), Family Agencies, and State Welfare
 Departments
+
 All these maintain a staff of case-workers, super-
 visors and psychiatrists for consultation. TTiey
 have definite schemes for orienting their case-
@@ -197,14 +220,17 @@ in their own work. All boarding out in private
 foster homes and all adoptions are done by case-
 workers and this child-placement is considered a
 very skilled job.
+
 (d) Psychiatric Services attached to Institutions
 serving Children
+
 A very important development is the setting up
 of psychiatric case-work departments in almost
 all institutions for children. As far as possible all
 normal dependent children are placed in private
 foster Homes, and the Institutions cater for children
 who are disturbed or delinquent.
+
 The emphasis has shifted from custodial care,
 through an educational phase, to a therapeutic goal.
 This means that the Director may be a psychiatrist,
@@ -225,12 +251,14 @@ only collect Social Histories and do after-care, but
 each has a certain number of children allocated
 to her (or him) for regular interviews during their
 stay in the institutions.
+
 The frequency and nature of these interviews
 varies in different institutions and also with the needs
 of the particular child. They may be merely a
 friendly contact and a bridge between home and
 school, or they may be of a definitely therapeutic
 nature.
+
 The amount of supervision given to a case-
 Worker and the frequency of consultation with a
 psychiatrist varies from institution to institution.
@@ -250,6 +278,7 @@ the child's difficulties as they impact on the living
 situation. In actual fact this relationship is one
 demanding great tact from the worker if a jealousy
 situation is to be avoided.
+
 In the best institutions great care is taken that the
 case-worker who first contacts the child should carry
 through with him, visiting his home, interviewing
@@ -276,7 +305,10 @@ groups in cottages were too large and parent-
 substitutes inadequate, there was a disposition to
 try to patch up poor child-care with case-work.
 This can never be satisfactory.
+
 General Conclusions
+-------------------
+
 All these ways in which psychiatric work is de-
 centralized, does mean that the bottle-neck of the
 local Child Guidance Clinic is avoided and that

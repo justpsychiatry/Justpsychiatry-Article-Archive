@@ -1,7 +1,8 @@
 Mass Observation Report on Juvenile Delinquency
 ===============================================
 
-By H. D. Wilcook. The Falcon Press. 7s. 6d.
+:Author: H. D. Wilcook. The Falcon Press. 7s. 6d.
+
 This book claims to be a thorough examination
 the whole problem of juvenile delinquency and
 Is a product of research by mass observation.
@@ -14,6 +15,7 @@ an article in the Sunday Express, but makes no
 comment on whether the opinions expressed in it
 are those of an impartial and scientific observer,
 or merely those of a " pot-boiler " writer.
+
 The book certainly achieves its main object which,
 according to the author, is to introduce juvenile
 delinquents to those who have not met any. This

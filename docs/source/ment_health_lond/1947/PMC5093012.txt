@@ -1,8 +1,9 @@
 Psychological Disorders in Flying Personnel of the Royal Air Force
 ===================================================================
 
-H.M. stationery Umce. rnce
+:Author: H.M. stationery Umce. rnce
 7s. 6d. net.
+
 This publication consists of a series of reports written
 mostly by Air Vice-Marshal Sir C. S. Symonds and
 Wing-Commander D. J. Williams, separately or together,
@@ -19,6 +20,7 @@ an interesting review of the development of psychiatric
 interest and judgment in the course of the war (e.g. fear)
 which can be compared with the critical review of previous
 literature provided.
+
 The corresponding disadvantage that there is some
 repetition and some tediousness in reading is perhaps
 inevitable. Nevertheless, there is an excellent index.
@@ -27,6 +29,7 @@ others, in particular the description of the early signs
 of breakdown and the report on the value of personality
 traits in assessing the likelihood of psychiatric disorders,
 contain valuable lessons for all.
+
 While the objectivity of the findings is to be admired,
 it is in some ways disappointing that the writers have not
 given us an epilogue containing their own present

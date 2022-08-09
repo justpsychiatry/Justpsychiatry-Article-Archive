@@ -1,8 +1,9 @@
 The Kingdom of the Lost
 ========================
 
-By J. A. Howard Ogdon.
+:Author: J. A. Howard Ogdon.
 John Lane?The Bodley Head Ltd. lUs. t>d. net.
+
 This is another book, written by an ex-patient in a
 mental hospital. Its potential value may also be lost
 by its mode of presentation. Indeed, as it stands, it is
@@ -14,6 +15,7 @@ presented, and the disjointed sketches of the author's
 behaviour will make it difficult for the ordinary reader
 to follow, however interesting the detail may be to
 psychiatrists.
+
 The main object of the book would appear to be to
 describe the author's escape from mental disease, as
 well as from a mental hospital, by methods based on

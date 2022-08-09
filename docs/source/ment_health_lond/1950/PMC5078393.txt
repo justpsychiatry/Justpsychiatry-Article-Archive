@@ -1,8 +1,9 @@
 Mental Hygiene in Public Health
 ===============================
 
-By P. V. Lemkau,
+:Author: P. V. Lemkau,
 M.D. McGraw Hill Book (Jo. 38s. 6d.
+
 This book cannot be over-praised, because it
 opens a wide field for the activities of Medical
 Officers of Health. It arises as a result of a series
@@ -10,6 +11,7 @@ of lectures given in an American University by a
 Public Health Officer, who has had the vision to see
 that mental health is as important as physical
 health.
+
 The new Health Service Act has laid much
 stress on hospital and clinical care and treatment,
 but the preventive side of medicine has been passed

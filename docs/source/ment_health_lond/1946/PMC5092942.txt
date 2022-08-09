@@ -1,7 +1,8 @@
 Report on an Evacuation Hostel in Yorkshire
 ===========================================
 
-By IRENE TURGEL, M.D.
+:Author:  Irene Turgel, M.D.
+
 Visiting Psychiatrist
 This hostel, which was administered by the Joint
 Hostels Committee, was set up as a special
@@ -11,13 +12,14 @@ for those evacuated children who proved to
 unbilletable in private foster homes and who were
 also found far too difficult to be kept in ordinal
 hostels.
-* The work of this Committee is now carried out by the Provisional National Council jor Mental Health.?E.D.
-MENTAL HEALTH 37
+
+The work of this Committee is now carried out by the Provisional National Council jor Mental Health.?E.D.
 The Mental Health Emergency Committee acted
 as an advisory body to the Ministry of Health,
 and were generally responsible, along with the
 psychiatrist, for selection of the children and
 placement.
+
 The hostel was not meant for mentally defective
 children, though a comparatively large number
 were of fairly low intelligence, but it was intended
@@ -36,10 +38,12 @@ aU general educational matters and planning with
 them the handling of individual children. A
 thorough discussion between psychiatrist and staff
 takes place on every visit.
+
 31 children have been treated and observed,
 20 of whom returned to their families or were
 transferred to other hostels or schools, for reasons
 to be explained later.
+
 The background of these 31 children is as follows:
 9 were brought up in big institutions or
 orphanages.
@@ -48,7 +52,10 @@ orphanages.
 or from other undesirable home conditions.
 5 children only had a fairly normal family
 background.
+
 Type of Problem
+----------------
+
 The problems which these children have presented
 can be classified as :
 ?Anti-social behaviour:
@@ -63,7 +70,10 @@ Habit disorders:
 Bed-wetting and soiling; masturbation; eating
 disorders; nail-biting, thumb-sucking; speech
 defects.
+
 Sexual precociousness.
+-----------------------
+
 It is understood that most of the children did not
 show one of the disorders only, but a variety of
 symptoms, the severity and violence of which had
@@ -80,6 +90,7 @@ improvement of their general symptoms; three
 children are definitely cured, but two or three are,
 in spite of good progress in their general behaviour,
 only slightly improved.
+
 Six children were admitted for delinquency
 (mostly stealing)?three of them having been
 placed on probation with a condition of residence
@@ -93,8 +104,10 @@ taken home too soon against our advice. Three
 of the delinquents, children of normal intellig-
 ence, have well improved, and will benefit from a
 prolonged stay.
+
 With regard to the underlying causes, we would
 comment as follows:
+
 Most of the children observed show to a greater
 or lesser degree constitutional abnormalities (innate
 instability, very strong instinctual forces, incapacity
@@ -108,11 +121,13 @@ rated of love during their early childhood, with no
 security and little individual care and attention,
 and who had to face a world of hostility and rejection
 at an early age.
+
 They were shifted about in various foster homes
 or hostels, and thus suffered additionally from
 feelings of insecurity and inferiority, frequently
 increased by backwardness because of lack of
 continuity in schooling.
+
 Some of the children had very severe shock
 experiences; one witnessed his mother's suicide
 when he was five; another the outbreak of his
@@ -124,6 +139,7 @@ even inside the family; and those with a fairly
 normal family background suffered, with justifica-
 tion, from jealousy towards brothers and sisters,
 and from wrong handling.
+
 The hereditary conditions were not favourable
 either. Insanity of one parent was reported in
 the history of five children. Mental deficiency and
@@ -133,9 +149,9 @@ been found to be affected. How many parents
 showed temperamental and moral deficiencies
 cannot be stated with certainty, but serious sexual
 irregularities occurred in at least two cases.
+
 The intellectual endowment of these children,
 compared with a group of normal children, showed
-38 MENTAL HEALTH
 a greater percentage of dullness. The distribution of
 intelligence, as expressed by the I.Q. is as follows :
 I.Q. 75- 85 .. 9 children.
@@ -155,15 +171,20 @@ found to suffer also from metabolic disorder (e.g.
 subnormal level of blood sugar), increasing their
 restlessness, eating and sleeping disorders, and these
 were helped by general medical treatment.
+
 Summary of Results
+-------------------
+
 Before discussing the form of treatment, here is a
 summary of the results:
+
 6 of the children returned to their families could be
 called normal, and were likely to get on well pro-
 vided their environment proved satisfactory.
 8 had improved, but still showed behaviour
 difficulties; prognosis depends largely on their
 further experiences.
+
 6 of the children who were transferred to hostels
 for dull and backward children, to residential
 schools, etc., showed only slight improvements
@@ -172,7 +193,10 @@ At the moment the hostel is reduced to 11 children,
 of these: 7 have considerably improved; 3 still
 present serious problems; 1 has not been staying
 long enough to allow a conclusive opinion.
+
 Form of Treatment
+-------------------
+
 The aim of the hostel is educational as well as
 therapeutic; that is, to give the children security,
 self-confidence, and confidence in the grown-ups,
@@ -200,6 +224,7 @@ is required. The children move freely in the village,
 attend the two local village schools, mix with.
 activities, and are accepted surprisingly well con-
 sidering the difficulties.
+
 The psychiatrist visits weekly. Treatment consists
 in play therapy, which enables the children to give
 expression to their inner tensions, their anxieties
@@ -213,7 +238,10 @@ Though treatment interviews are often stopped for
 weeks, where it seems no more necessary, they can
 always be taken up again when lapses occur or
 the child feels temporarily unsettled and in trouble.
+
 Duration of Stay
+-------------------
+
 The length of time spent at the hostel has varied
 from ten months to nearly five years, with an
 average stay of two years. Discharge, however,
@@ -233,6 +261,7 @@ anti-social behaviour or other difficulties than normal
 children would be, who might either reject their
 abnormal playmates or more easily be led by them.
 Conclusions
+
 1. In my opinion there is a definite need for
 this type of hostel for children who have been
 hitherto presenting serious social problems. There
@@ -244,6 +273,7 @@ authorities to arrive at the best placement possible,
 according to the individual hostel set-up and the
 special needs of the particular child. Indiscrimin-
 ate grouping often interferes with success.
+
 3. It is advisable that selection and placement
 of the children should be the responsibility of a
 psychiatric social worker and the psychiatrist.
@@ -253,6 +283,7 @@ family grouping is maintained, it would help if
 two hostels could be near together, so that children
 of similar age could unite for organized activities,
 e.g. acting, games, Nature Club, etc.
+
 Our experience has taught us that the efforts
 above described have been well worth while, and
 that the children who have a sound family back-

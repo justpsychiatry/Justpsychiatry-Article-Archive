@@ -1,8 +1,9 @@
 Personal Mental Hygiene
 =========================
 
-By T. W. Moore, O.S.B.,
+:Author: T. W. Moore, O.S.B.,
 Ph.D., M.D. William Heinemann. 21s. net.
+
 This book, as Professor Moore points out in his
 introduction, is intended for the individual. It is an
 attempt to remedy what the author feels is a defect in
@@ -25,7 +26,6 @@ limited audience, for it is somewhat too technical and
 presupposes too much knowledge to be readily helpful
 to the individual seeking advice on his own problems;
 while, on the other hand, its form is too discursive
-MENTAL HEALTH 105
 and vague for the more experienced. Moreover, in
 view of his expressed aims, many readers may be dis-
 appointed that the author does not in fact provide more

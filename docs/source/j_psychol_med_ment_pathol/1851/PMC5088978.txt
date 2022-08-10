@@ -3,7 +3,7 @@ The Theory of Reasoning
 
 503
 Art. II.?
-*
+
 Like every other branch of learning, Logic has not escaped the general
 scrutiny which has been applied, during the present century, and
 especially of late years, to the most established systems of knowledge,
@@ -34,6 +34,7 @@ the subject, prepared as we are to anticipate that they will turn out to
 be really proposals of emendation in detail, rather than what we must
 be compelled to admit as fundamentally and essentially distinct
 principles.
+
 The neglect of logical studies in this country, till a recent period,
 was very much owing, Ave think, to the influence of a few great names,
 among whom may be placed that of Locke. His prejudice against
@@ -44,6 +45,7 @@ candour?sprevit Logicam, non intellexit. Murray's Logic at Dublin,
 Duncan's in Scotland and at Cambridge, and Aldrich's Compendium at
 * The Theory of Reasoning. By Samuel Bailey. Longman & Co. 1851.
 304 the theory of reasoning.
+
 Oxford, supplanting mucli better and more learned works, all testify
 the low ebb to which logical studies had sunk at the outset of the
 present century, in the main scats of learning in the three kingdoms.
@@ -87,11 +89,11 @@ because we cannot help believing it, and we stake everything on it. It
 is a "metaphysical" truth; and on such truths does logic itself rest.
 But we must now address ourselves to Mr. Bailey. We are glad to
 perceive, at all events, that he does not set out with the extraordinary
-THE THEORY OF REASONING. 505
 and unheard of lieresy of Professor Blakey?that of cashiering all
 demonstrative reasoning from the domain of logic, (of which it is the
 most perfect example,) and limiting the dialectic art and science wholly
 to moral subjects!
+
 Mr. Bailey, in this work, proposes to himself to give a connected
 and consistent view of the theory of reasoning, and of the relation
 in which the several parts of it stand to each other. He states that
@@ -106,6 +108,7 @@ In such a work it was especially impossible not to advert to the
 scholastic logic; and as his theory is at variance with some of its
 fundamental principles, he has had occasion to comment upon it at
 considerable length."
+
 We have no desire to enter very critically into those preliminary or
 adjunct remarks which are rather incidental to the work than essential
 parts of the author's views of argument or syllogism. Nevertheless,
@@ -131,7 +134,6 @@ discern some fact, not directly manifest, through the medium of some
 other fact or facts in which it is implied." In illustration of the above,
 the fifteenth proposition of Euclid's first book is referred to, proving the
 equality of the vertical angles, where two straight lines intersect, by the
-506 THE THEORY OF REASONING.
 construction necessarily involving a common supplement to these
 angles. " Here we do not infer the existence or the happening of
 something past, or future, or absent; but we are led to discern some-
@@ -146,6 +148,7 @@ kind of reasoning which is only probable, however it may approach to
 moral certainty, and that which is strictly necessary as being based on
 demonstration. Our author, however, prefers designating the former
 kind of reasoning by the appellation contingent.
+
 Next follows a more particular inquiry into the nature of " contin-
 gent" reasoning. "We have observed that the tide, in ebbing, has left
 the sea-weed high on the beach. I recollect this fact; and on seeing
@@ -164,6 +167,7 @@ as far as observation has extended, I may deduce the particular conclu-
 sion, that an unknown and untried individual named Peter is fallible,
 and I may equally deduce the universal conclusion that all men are
 fallible."
+
 There can be no doubt, we apprehend, of the general soundness of
 the above remarks: they present, in fact, examples of induction?not
 indeed of Aristotle's induction (e7raywy?)) or syllogism by induction,
@@ -175,7 +179,6 @@ alone, theoretically, that induction can be absolute, and have precisely
 the same kind of force which is due to the ordinary deductive syllogism.
 In the latter case we deduce the new particular from the general, which
 is asserted to include all the particulars; in the case of perfect indue-
-THE THEORY OF REASONING. 507
 tion, we build up the general out of all the particulars which are
 included under it. But we can only do this in strictness when wc
 really know all the particulars; which we very seldom do. Our induc-
@@ -208,20 +211,22 @@ not in the connexion between the premises and the conclusion, but in
 the principle or universal major premiss which you have admitted
 into the reasoning; or, in other cases, the other premiss may be at
 fault.
+
 We must hear what our author says on this subject. He denomi-
 nates the proposition, " all men, as far as observation has extended,
 have been found fallible," " the collective fact." The " universal law"
 inferred is, " therefore all men are fallible;" and the assertion, " there-
 fore the man Peter is fallible," is termed " the particular inference."
 He proceeds :
+
 " Both these conclusions are deduced from the same fact or collec-
 tion of facts: they are co-ordinate; one is not or needs not be logically
 subsequent to the other; both are probably inferences, for which the
 real evidence is the same. The mental process, too, is alike; it does
 not consist in the mind's discerning one thing to be implied in another;
-508 THE THEORY OF REASONING.
 but in its being determined by known facts to believe unknown
 facts."
+
 If by this be meant, that a certain collection of facts frequently
 causes the mind to form a general principle which includes all particular
 cases, we can have no hesitation in admitting it. But if this language
@@ -263,7 +268,6 @@ fact we acquire a knowledge first of the finite, and by this are led on
 to form some notion of the infinite? So, also, it is certain that a
 universal proposition logically contains all the particulars which may
 turn out to belong to it; but this does not prove that we do not arrive
-THE THEORY OF REASONING. 509
 at particulars never before known, through the previous admission of
 the universal, gained by ordinary induction?indeed, here, we need not
 restrict the theory to induction, for the principle is equally true of the
@@ -307,8 +311,6 @@ we have to believe that what has happened will, in like circumstances,
 dog which has repeatedly been thrown into the water, may be observed
 to give evident indications of apprehension on approaching a river. We
 confess we should be inclined to make a distinction between this case?as
-NO. XVI. L I.
-510 ^ THE THEORY OF REASONING.
 related to the operation of the tacit principle, " like causes produce like
 effects"?and the case of children, after reason and reflection have been
 developed. Animals, we apprehend, are influenced in these instances
@@ -342,10 +344,12 @@ rience the properties of fire, is certain that he will be burnt if he
 thrusts his fingers among live coals, because he has learned that fire
 always severely punishes those who trifle with it?he believes in
 a general law.
+
 Mr. Bailey's third chapter treats of Demonstrative Reasoning. The
 instance given is, in fact, Euclid's axiom respecting the equality of
 things respectively equal to the same thing; or, at least, it is an
 example of this axiom.
+
 " The mind, observing successively the equality of A to C, and that
 of B to C, is thence led to discern the mutual equality of A to B,
 which is not self-evident, or immediately discernible from the inspection
@@ -353,7 +357,7 @@ of A and B alone. It is plain that in reasoning of this second species,
 which is with great propriety termed demonstrative, we intuitively
 discern, at each step, that one fact implies another, and discern, too4
 that a denial of the implied fact involves a contradiction."
-THE THEORY OF REASONING. 511
+
 Now here, we should say that either too little is stated, or too much.
 If the author intends that Euclid's " axiom" is an example of demon-
 strative reasoning, we should deny this altogether. This would cer-
@@ -389,6 +393,7 @@ instantly flashed upon the understanding as universal and necessary.
 The reasoning, therefore, Ave hold to be as follows:?A and B are equal
 to each other if severally equal to C, because it is impossible that any
 case can arise in which equals to the same are unequal.
+
 The above example is not exclusively geometrical, the only tAvo dis-
 tinctly geometrical axioms being, "two straight lines cannot enclose a
 space," and " only one parallel to a line can be drawn through a point out-
@@ -397,8 +402,6 @@ is not confined to the science of quantity." By demonstratiAre reason-
 ing, Ave imagine, from the context, that he Avould mean that Avliich is,
 throughout, absolute and necessary in its conclusion, not only from the
 conclusion being drawn, strictly, from the admitted premises, but from
-L L 2
-512 THE THEORY OF REASONING.
 the premises themselves being also incapable of being doubted. One
 example, however, is given, which does not fulfil this condition, and
 which ought rather, on Mr. Bailey's own principles, to have been
@@ -421,6 +424,7 @@ horned animals are ruminant," would have been classed with the
 general truth, " the three angles of every triangle are together equal
 to two right angles." The one is no doubt a contingent fact, that is,
 a fact of induction; the other is demonstrable a priori.
+
 We are glad to find, notwithstanding certain modes of statement in
 this work, in which, as our readers have already seen, we are not
 entirely at one with Mr. Bailey, that he vindicates the syllogism in
@@ -428,6 +432,7 @@ demonstrative reasoning from some of the charges brought against it
 by some writers of note, who appear to have mistaken its pretensions,
 and to have taken a wrong view of it in relation to the psychological
 process which it exhibits. We quote the following passage:?
+
 " The objection is that the major premiss not merely implies but
 contains the conclusion ; that the conclusion is in reality a constituent
 or integrant part of the major premiss, without which the latter would
@@ -443,7 +448,6 @@ the allegation must be admitted, it does not by any means prove
 that such reasoning is nugatory or useless. It may obviously be of
 service to be reminded, or to remind others, or to have distinctly
 brought into view, that a given individual of a class possesses a certain
-THE THEORY OF REASONING. 513
 attribute, when there is at the moment no other evidence to prove it,
 by citing the known or admitted fact, that all the members of the
 class possess it. As an illustration of this part, suppose I am engaged
@@ -460,7 +464,7 @@ equal to two right angles, irresistibly follows. It is simply thinking
 or saying: 4 in all triangles, the three angles are equal to two right
 angles, and of course, the particular triangle before us is included in
 the general fact.'"?pp. 39, 40.
-\
+
 The above we hold to be good orthodox doctrine; but we must
 demur to a subsequent statement, that " all instances of the conversion
 of propositions are really instances of demonstrative reasoning." We
@@ -478,6 +482,7 @@ sufficiently because the terms mutually exclude each other by the very
 form of the expression?we deny all intercommunion between them.
 When we have said no As are Bs, we have said, in fact, that no Bs are
 As, and vice versd.
+
 We should also equally except, again, to Mr. Bailey's mode of
 getting rid of premises, in some cases, where he alleges that their
 introduction " masks the real nature of the evidence for the conclusion."
@@ -489,7 +494,6 @@ ruminant, therefore this horned quadruped is ruminant." Now we
 think the major premiss, here, is hardly stated fairly. Taken literally, it
 means, first, that we have had actual experience of all horned animals
 but one, and have found them ruminant; and therefore, having now
-514 THE THEORY OF REASONING.
 found the last horned animal, we conclude that it also is ruminant.
 This induction would be almost a perfect one, the collective fact having
 a force approximating by so much nearer to absolute certainty as the
@@ -505,6 +509,7 @@ ruminate; that this, in short, is a law in natural history, and hence the
 conclusion, be the particular case what it will; and although it be
 admitted that not a millionth part of all the horned animals in creation
 have been, or ever will be, examined by man.
+
 We have already admitted that the conclusion, in the case of ordi-
 nary inductive or " contingent" reasoning, must partake of precisely
 the same degree of probability as the " collective fact" laid down as
@@ -533,7 +538,6 @@ subject of axioms, though he has fortified himself with the names of
 Locke and D'Alembert. Locke, in terms, denied innate truths or
 principles, though he admitted them in practice, and was in so doing
 notoriously inconsistent with himself; as every tyro knows who has
-THE THEORY OF REASONING. 515
 carefully read his Essay. If it be true to say, with D'Alembert, that
 there is "no necessity to enunciate axioms," certain it is that we
 cannot get on a step without proceeding on the principle that there are
@@ -577,7 +581,6 @@ high, while no absurdity seems to attach to the idea of an instance
 occurring in which the principle shall fail?whereas, in other cases, it is
 at once felt to be absurd to imagine the possibility that any instance
 should ever occur in which the principle is not true. It involves no
-51 6 THE THEORY OF REASONING.
 absurdity to imagine that a liorned animal were found without hoofs,
 but what should we say of any one who gravely maintained that a
 change might take place without a cause, or that an instance was
@@ -598,6 +601,7 @@ inherent in them; but it renders walking possible; in other words,
 walking presupposes or involves that there is always something to
 walk on. Archimedes not only wanted machinery, but also the
 7rou (Trio.
+
 That Aristotle's dictum is a "self-evident and indisputable truth," we
 readily admit; and we would go further, and say, that it may be
 reduced to the assertion?call it definition, or axiom, or what not?
@@ -621,7 +625,7 @@ instance, would at once be stated in words?namely, that it is impos-
 sible for any person to be in two places at the same moment. Would
 not this show the granted or understood general principle on which
 each particular case was based1?
-THE THEORY OF REASONING. 517
+
 No logician will be prepared to deny that maxims or principles may
 be drawn out briefly expressing the precise character of tlie syllogisms
 in the imperfect moods, as has been done in the Organon of Lambert, a
@@ -635,6 +639,7 @@ the process of which not an iota is uttered, or denied, which was not
 uttered or denied in the original state of the arguments, all are reduced
 to the simple form of the dictum; and many are, by this means, made-
 much clearer, and more intelligible to the ear and mind.
+
 Let us take the following argument in the fourth figure; which
 figure, by the way, is not Aristotelian, being traditionally ascribed to-
 Galen:?All the planets are opaque bodies: no opaque bodies are capable
@@ -657,6 +662,7 @@ some way or other, so as to point to classes or attributes, has never, so
 far as we know, been fairly disproved to be a principle to which all
 syllogistic reasoning may be reduced, when put in its most analytical
 and elementary form.
+
 "VVe regret that our space forbids us to pursue further the analysis of
 the volume before us in detail. This, however, is of much less conse-
 quence than it might be, if the views which we have already examined
@@ -665,7 +671,6 @@ further application. Oar remaining observations must be concise, and
 almost aphoristic. Mr. Bailey remarks that, in this argument, " the
 planets are opaque bodies; therefore they must shine by light derived
 from an external source;"?it is obvious that a " proposition affirming
-518 THE THEORY OF REASONING.
 that all opaque bodies shine by light derived from external sources,
 would be merely generalizing an argument sufficiently conclusive, and
 would not add to it a particle of cogency." Now, we must say that we
@@ -687,6 +692,7 @@ tionaries, and scientific usage, would warrant the application of the
 term " opaque" (not diaphonous) to the sun itself. The example we
 have just given, in the fourth figure, is evidently different; for an opaque
 body cannot transmit light through it.
+
 In regard to our author's example: " Solon was a wise legislator,
 because he adapted his laws to the genius of the people"?what earthly
 connexion, we would ask, can there be between these two assertions,
@@ -709,11 +715,11 @@ by an " argument" a case in which some one proposition is made to
 follow from what preceded? It would be pedantic enough, no doubt,
 and very tedious, to supply all the enthymemes in which we talk, with
 the omitted premises; but this proves nothing against the dictum as a
-THE THEORY OF EEASONING. 519
 register of the actual or virtual psychological process. It would be
 just as bad to parse every word in our conversation; nevertheless
 grammatical analysis is not without its use, and philology is an im-
 portant science.
+
 Our author concludes his discussion of the "forms of reasoning"
 with the remark that?" in numerous cases of demonstrative reasoning,
 one premiss is alone sufficient for the inference; although it may be
@@ -734,6 +740,7 @@ mankind have been subject? Now the syllogism merely says this
 in all the minutiae of detail. The same remark, of course, applies
 to reasoning in which the major premiss is an absolutely certain or
 <% priori truth.
+
 To Mr. Bailey's conclusion, that " the syllogism is not an analysis of
 the process of all demonstrative reasoningand " that a single fact or
 combination of facts capable of being expressed in one proposition,
@@ -747,13 +754,13 @@ very inadequate, we may say incorrect, account of what takes place in
 reasoning proper, and more especially in that which is demonstrative.
 In fact, it wholly overlooks the sense, tacit or expressed, of a general
 law.
+
 We would willingly have pursued our analysis of the author's
 volume throughout, because his book is really a good one of the school
 to which it belongs; but Ave must forbear. In the chapter on " Primary
 or Original Premises," he fortifies himself with references to Locke,
 Dugald Stewart, Smart, and John Mill. With the latter work he
 shows that he is familiar, and to its views some of his own will be
-520 THE THEORY-OF REASONING.
 tliought by tlie reader to bear considerable resemblance. We were
 glad to find him, in his chapter on the " Relation between Reasoning
 and Language," controverting Whately's statement, that " logic is solely
@@ -777,6 +784,7 @@ nine years?they nevertheless reappear, and are allowed to possess
 a vehicle of corporeity; for they are both referred to as substantial
 elements of reasoning, and especially the former, though it is evident
 that they must stand or fall together.
+
 We will only add, that we apprehend much of the controversy which
 has taken place on the fundamental principles of logic has been occa-
 sioned by the contending parties not fully comprehending each others

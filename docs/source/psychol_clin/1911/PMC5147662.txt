@@ -1,10 +1,14 @@
 An Experimental Critical Study of the Problem of Grading and Promotion
 ========================================================================
 
-By W. Franklin Jones, Ph.D.,
+:Author: W. Franklin Jones, Ph.D.,
+
 Head of Dept. of Psychology and Pedagogy, Maryland State Normal School, Baltimore, Md.
+
 Part I.?The Formal Aspect of the Problem.
+
 Introduction.
+
 The old ungraded school, whatever else may bo said about it,
 had one splendid feature that the graded school has never attained;
 namely, its instruction was individualistic. On the other hand,
@@ -26,6 +30,8 @@ side which we call grading the school.
 Within this problem of grading, wo have to recognize a subproblem. The school grade is not static; but the moment instructions begins, this feebly cohering mass begins to disintegrate, one
 student forging ahead and another lagging behind. This subproblem which we have to meet is the problem of re-adjustment;
 that is, promotion, positive and negative.
+
+
 Students of educational administration have been at work
 with this problem of grading and promotion ; but unfortunately in
 this, as in other fields of education, we have been offered an array
@@ -38,12 +44,15 @@ the different aspects of the problem of grading and promotion have
 apparently never failed to find that the more deeply one enters
 into the study of this problem, the more one is aware of the needs
 of individual and intensive studies. Thus Thorndike1 notes that
-"the school histories of individual pupils are the proper data"
+  "the school histories of individual pupils are the proper data"
 for measuring the unequal lengths of the different grades; and he
 points out several 1 inadequacies" in his own extensive study.
-Ayres" notes that grade distribution is the result of such diverse
-elements, that without the most careful analysis, conclusions as to
-any of these elements are liable to go astray."
+
+  Ayres" notes that grade distribution is the result of such diverse
+  elements, that without the most careful analysis, conclusions as to
+  any of these elements are liable to go astray."
+
+
 I he fact is, we need many investigations of each type before
 w e can hope for a definite solution of the serious problem of
 grading and promotion. We shall havo to have a multitude of
@@ -55,13 +64,13 @@ the problem.
 Study jSTo. 1.
 The immediate aim of this study may be stated in the form
 of three questions:
-1. \\ hat portion of the failures to carry regular school work
-under the lockstep3 system is due to incapacity?
-2. What portion of the elimination from school under this
-system is due to incapacity ?
-.0. W hat light does this study throw upon the problem of
-grading and promotion ?
+
+1. That portion of the failures to carry regular school work under the lockstep3 system is due to incapacity?
+2. What portion of the elimination from school under this system is due to incapacity ?
+3. W hat light does this study throw upon the problem of grading and promotion ?
+
 Material.
+
 One of the public schools under my supervision in Illinois
 presented what seemed to be a favorable type for this study. The
 situation was not too complex. There were eight grades in the
@@ -78,19 +87,16 @@ sss &s Smc- u\
 STUDY OF GRADING AND PROMOTION. 65
 "boast" that it had "a seat for every child able to attend," and
 the school law enforced attendance.
+
 Method.
 In the choice of method, I met two apparently opposing
 demands:
-1. It was evident that in assuming to pass upon a student's
-capacity to do the required work under given conditions, I must
-have something more than "examinations." I must come into close
-touch with him, see him work, converse with him, pry into his
-mind and into his methods of study; in short, I must make an
-intensive study of the student.
-2. 1 could not make an adequately intensive study of all the
-students in this school, yet I must have an adequate measure of
-class abilities under the existing conditions.
+
+1. It was evident that in assuming to pass upon a student's capacity to do the required work under given conditions, I must have something more than "examinations." I must come into close touch with him, see him work, converse with him, pry into his mind and into his methods of study; in short, I must make an intensive study of the student.
+2. 1 could not make an adequately intensive study of all the students in this school, yet I must have an adequate measure of class abilities under the existing conditions.
+
 The plan adopted was as follows:
+
 The investigation covered a period of three years. As soon
 as work was fairly under way in the fall, the classes were tested
 for class average in each subject. Work was assigned at the beginning of test, periods and the class closely supervised to see that all
@@ -98,9 +104,10 @@ for class average in each subject. Work was assigned at the beginning of test, p
 each of the major subjects each day. The total number of class
 tests ranged from five to twenty per subject in each grade. The
 object of these class tests was twofold:
-1. To find the average ability of the class in each subject,
-working under the usual conditions.
+
+1. To find the average ability of the class in each subject, working under the usual conditions.
 2. To locate doubtful students.
+
 As soon as it appeared that a student could not do seventy-five
 per cent as much work in a given time as the average of his class,
 he was made the subject of special study. All tests were on
@@ -110,23 +117,22 @@ warrant his classification. If so, he was then tested on the work
 the class was tested on, but which he had either failed in or had
 not reached in the class test. The object of the private tests, to
 repeat in part, was to determine:
-1. Classification.?Whether or not the student was in the best
-place the school could offer him.
+
+1. Classification.?Whether or not the student was in the best place the school could offer him.
 2. Ability to maintain rate of work shown in class tests.
-???. Validity of often meager showing made in class tests.
-4. Personal characteristics at work.?Methods of attacking
-work, grasp of subject, industry, persistence, conservation of time,
-G6 THE PSYCHOLOGICAL CLINIC.
-etc. Similar though less searching tests were given during the
-year, as new subjects (i. e. division, fractions, etc.) were reached.
+3. Validity of often meager showing made in class tests.
+4. Personal characteristics at work.?Methods of attacking work, grasp of subject, industry, persistence, conservation of time, etc. Similar though less searching tests were given during the year, as new subjects (i. e. division, fractions, etc.) were reached.
+
 It must be remembered that the object was to test the student's ability at the time to do the work the class was regularly
 engaged in, whatever that work was, under the usual conditions of
 study, teaching, and so on. Since it is impracticable to do more
 than indicate the nature of these numerous tests, I give herewith
 one test in each of the school subjects (major). These tests are
 picked at random, except as noted later.
+
 Test in Beading?First Grade.
 (Class of 18)
+
 Material Used.?Story of the fox, pages 108-100, in the first
 book of the "Stepping Stones to Literature" series, published by
 Silver Burdett & Co. jSTo one in the class had ever seen the lesson
@@ -137,6 +143,7 @@ quietly and fold your hands." (Time was recorded for each student. Each was then
 remanded if necessary, counting additional time.)
 Test in Arithmetic?Fourth Grade.
 (Class of 21)
+
 Material Used.?Problems on page 111 of Book I, Werner
 Arithmetic, published by the American Book Company.
 Instructions to Class.?"Take the problems in order, and
@@ -147,16 +154,23 @@ work out without losing considerable time.)
 (In handling problems of a series growing gradually more
 difficult, the plan commonly followed was that of having the students first work through the even-numbered problems, then through
 the odd numbered.) The results of this test are as follows:
+
+.. list-table:: Results
+:widths: 25 25 25 25
+:header-rows: 1
+
 1   28 3   17
 1   24 3   16
 1   21 2
 2   20 2   11
 3   19 1   2
 2   18
+
 Class average, 17 problems.
+
 STUDY OF GRADING AND PROMOTION. 67
-(Tliis test was not picked at random, but selected for reasons
-shown later.)
+(Tliis test was not picked at random, but selected for reasons shown later.)
+
 Test in Grammar?Seventh Grade.
 (15 students)
 Material.?Fifteen typewritten slips of paper containing ten
@@ -165,20 +179,19 @@ Instructions to Class.?"Underscore once the logical subject,
 and twice the logical predicate, in each of the ten sentences. Raise
 the hand when finished."
 The ten sentences were as follows:
+
 1. The old man was often in want of the necessaries of life.
-2. The book of which you spoke is not to be found in the
-library.
+2. The book of which you spoke is not to be found in the library.
 3. He did not understand the assignment.
-4. The train which was expected at ten o'clock did not arrive
-till eleven.
+4. The train which was expected at ten o'clock did not arrive till eleven.
 5. How many men were killed in the battle?
 G. Those of you who can answer my question, raise the hand.
 7. "Thou shalt not bear false witness against thy neighbor."
 8. I shall probably reach home before dark.
 9. Several men died of fever in the ship.
 10. Are you not trying to do your work well?
-(Time recorded for each student. Rating combined accuracy
-and time.)
+
+(Time recorded for each student. Rating combined accuracy and time.)
 Test in Geography?Eighth Grade.
 (15 students)
 Material.?Physical and relief maps of Africa.
@@ -187,6 +200,7 @@ how many facts you can discover that go to show why the ^ile,
 the Sahara, and the Congo are what they arc and where they are.
 (This class had done similar work with other continents.
 Time was called in twenty minutes. Xo one had finished.)
+
 Test in History?Fifth Grade.
 (22 students)
 Material.?The teacher narrated that portion of the story of
@@ -198,27 +212,24 @@ G8 THE PSYCHOLOGICAL CLINIC.
 Questions.?The students were then asked the questions given
 below. The answer to one question was written before the next
 question was asked. jSto other time limit.
-1. What time of the year did Joliet and Marquette reach the
-Mississippi ?
+
+1. What time of the year did Joliet and Marquette reach the Mississippi ?
 2. Did they go up or down the Mississippi ?
 3. What did they see that reminded them of the Indian story ?
 4. What did they see on the prairies?
-5. What did they do to avoid dangers of night attacks of the
-savages?
-G. IIow did they happen to find the Indian village?
-7. IIow did they attract the attention of the Indians of the
-village ?
-8. What did the chief Indians first do in receiving the
-Frenchmen ?
-9. What led Joliet and Marquette to think tlie Indians must
-be friendly ?
+5. What did they do to avoid dangers of night attacks of the savages?
+6. IIow did they happen to find the Indian village?
+7. IIow did they attract the attention of the Indians of the village ?
+8. What did the chief Indians first do in receiving the Frenchmen ?
+9. What led Joliet and Marquette to think tlie Indians must be friendly ?
 10. What name did the Indians claim for their tribe?
 11. In what strange way did the Chief honor the Frenchmen ?
 12. IIow did the Frenchmen learn of the "Great Chief?"
 13. In what strange way did the "Great Chief" receive them ?
 14. IIow were the Frenchmen able to talk with the Indians?
 15. What did they tell the "Great Chief?"
-1G. What reply did the "Great Chief" make?
+16. What reply did the "Great Chief" make?
+
 These questions were framed with the design of calling out
 short, definite answers that would be either right or wrong, with
 as little mixing of right and wrong as possible.
@@ -229,6 +240,7 @@ test recorded above, worked two problems. This is about 12 per
 cent of the seventeen problems which the class averaged. This
 student's record for this test is thus 88 per cent below the class
 average, that is?88.
+
 Any student who in the class tests had demonstrated his
 ability to do at least 75 per cent as much acceptable work as the
 class averaged, was counted competent to carry that subject and
@@ -255,6 +267,7 @@ case. When I reached a point where the actual cause seemed no
 longer a matter of question, I ceased pursuit. In order to illustrate my procedure, I will deal with a few typical cases in the
 higher grades where the actual cause is likely to be more carefully
 concealed.
+
 Number 89 in the table was a fourteen-year-old girl. The
 reason she gave her teacher for leaving school was, "Too much
 work at home." This case was first attacked through the girl's
@@ -319,19 +332,17 @@ All told, forty-nine out of the one hundred and two failures
 were due to incapacity; and twenty-seven out of fifty-eight alleged
 reasons for leaving school agreed with the actual facts.
 Significant Facts Revealed by This Table of Results.
-1. About one-half of the failures to carry work in this school
-under the lockstep system were due to incapacity to do the required work. (49 out of 102.)
-2. About one-third of all eliminations were due to incapacity
-to do the work under existing conditions. (19 out of 58.)
-3. Over one-half of all eliminations came from students who
-had failed to carry their work. (34 out of 58).
-4. One out of three failing students left school. (34 out of
-102.)
-5. One out of thirty-three non-failing students left school.
-(24 out of 837.)
-6. Alleged reasons for leaving school were about as often false
-as true. (27 out of 58.)
+
+1. About one-half of the failures to carry work in this school under the lockstep system were due to incapacity to do the required work. (49 out of 102.)
+2. About one-third of all eliminations were due to incapacity to do the work under existing conditions. (19 out of 58.)
+3. Over one-half of all eliminations came from students who had failed to carry their work. (34 out of 58).
+4. One out of three failing students left school. (34 out of 102.)
+5. One out of thirty-three non-failing students left school. (24 out of 837.)
+6. Alleged reasons for leaving school were about as often false as true. (27 out of 58.)
+
 Comparison of Results ivitli Those of Other Investigations.
+-----–------------------------------------------------------
+
 We may now compare the results of this study with those of
 some of the recent investigations of the extensive types (I know
 of no similar investigations of the intensive type; none, at least,
@@ -976,6 +987,7 @@ from experience.) This agrees with Falkner's conclusion drawn
 from a review of Corn man's study, namely, that "dropping out of
 school depends more upon age than upon the degree of advancement in school studies."14
 t"L"' ?
+
 Criticism of Systems of Grading and Promotion.
 In the light of the foregoing experimental study, we may now
 make a critical study of the various systems of grading and promotion which have gained some prominence in educational literature.
@@ -1232,6 +1244,7 @@ promotion have arisen through efforts to avoid the defects of t le
 lockstep system. There are so many of these systems that it will
 be found expedient to classify them for treatment under eight
 heads:
+
 1. The double promotion system.
 2. The double track system.
 3. The group system.
@@ -1240,7 +1253,9 @@ heads:
 G. The concentric work system.
 7. The ungraded class, or individual, system.
 8. The minimum work system.
+
 The Double Promotion System.
+
 The double promotion system represents probably the first
 wide movement to heal lockstep ailments. It grew out of the
 feeling that the old annual promotion scheme was an elevated road
@@ -1258,6 +1273,7 @@ form is clearly lockstep, however, with each of the twelve indictments holding a
 force, has led to many complications of this system by mingling
 with it some ingredients of the systems yet to be described.
 The Double Trade System.
+
 The system popularly known as the double track system has
 been in successful operation in a few schools of a few states for a
 number of years. Cambridge, Mass., may be taken as an eastern
@@ -1292,6 +1308,7 @@ the other in three years. The plan for the last half of the course
 is the samo as that for the first half, the grades being known as
 the seventh, eighth and ninth in the one case, and as C and D in
 the other.
+
 "There are also two ways of completing the course in five
 years: (1) any pupil who has completed one-half the course in
 two years may, at the end of that time, bo transferred to the
@@ -1300,6 +1317,7 @@ who has completed one-half the course in three years may, at the
 end of that time, be transferred to grade C, and finish the course
 in two years. In both cases the changes can be made without
 omitting or repeating any part of the course."
+
 Diagram, of the Double Track Scheme.
 1 2 3
 Grade A Grade B Grade C Grade D
@@ -1336,10 +1354,13 @@ with the double track system, and that caution is: See that no
 stigma is attached to the "freight train" classes, and that the
 clamor for the privilege of "taking the express" is silenced by a
 judicious hand.
+
+
 The Group System.
 In the group system we again meet many variations, though
 all may be conveniently subsumed under the three types that
 follow.
+
 The St. Louis Plan.
 The St. Louis plan was introduced into the schools of St.
 Louis, Mo., bv Dr William T. Harris (late commissioner of education), as long ago as 1872. This plan divides a large school into
@@ -1518,9 +1539,10 @@ to take any student the moment he begins to lose ground, and bring
 him up through individual assistance. It is assumed that this
 requires the development of a technique different from that needed
 in class instruction, for two reasons:
-1. The students are not allowed to ask for aid, but the teacher
-must discover their weaknesses and take the initiative.
+
+1. The students are not allowed to ask for aid, but the teacher must discover their weaknesses and take the initiative.
 2. All individual instruction must be given by the development method, thus avoiding too much help.
+
 While the "extra teacher" is the ideal plan in this scheme,
 this is not demanded in the smaller rooms; indeed, more than onehalf of the Batavia class rooms have but a single teacher. It is
 noteworthy that the distinctive demand is that definite place be
@@ -1569,6 +1591,7 @@ school privileges entirely in so far as the guidance of the teacher
 is concerned. Here is a system which has evidently gone to
 extremes in the matter of favoring the dull student. It clearly
 violates the principle of economy.
+
 It may bo noted that the one-teacher room reveals another
 weakness in this scheme. During the individual periods, the
 teacher is engaged with one student while all the others in the
@@ -1599,6 +1622,7 @@ real living effects, emotional, volitional, and intellectual, that
 cannot be measured in any such simple and formal way. Furthermore, the test, at the end of the term gives us not only the familiar
 pernicious cramming, but it puts too great strain upon the child
 when he is least able to bear it.
+
 The Minimum Work System.
 The minimum work system has been worked out on a broad
 basis in Denver, Colorado. The Denver plan30 maintains the half
@@ -1624,6 +1648,7 @@ promptly when a satisfactory degree of proficiency is not reached.
 A few experiences of this kind make the students cautious, and the
 earlier they occur, the better. "The central thought in the system
 is individual responsibility".
+
 It may be fairly said that this system, more than any other,
 must look to the teacher for its value. The experienced teacher
 readily sees what this "personal responsibility" means. We have
@@ -1634,6 +1659,7 @@ it reveals an admirable attempt to rescue the individual from the
 mass; yet withal, it is dangerous, more constantly so than the oneteacher Batavia scheme, since every student will be excused in at
 least one study, some of the time. A student who could not be,
 would be unhappy indeed.
+
 Beyond the fact that this system may give a good account of
 its efforts to remove the charges mentioned in indictments I and
 VII, it is claimed that under this plan the students are definitely
@@ -1658,11 +1684,14 @@ interest approved by the teacher". Under skilful management this
 may become an invaluable means of cultivating the spirit of "selfSTUDY OF GRADING AND PROMOTION. 93
 direction, self-initiative, self-realization, self-perfcction, and selfassertion , which Miinsterberg finds at the basis of American
 success.'
+
 The Homogeneous Group System.
 There are two principles which must underlie the ideal system
 of grading and promotion, whatever that system may be:
+
 1. J lie individuals of the grade are to be socialized.
 2. The instruction of the grade is to be individualized.
+
 How now are these apparently contradictory requirements to be
 realized ? Were it possible to bring together a group of children
 exactly alike from the educational standpoint, it would seem that
@@ -1698,6 +1727,7 @@ is a working principle, not uncommon in experience, which is
 94 THE PSYCHOLOGICAL CLINIC.
 worth formulation and definite statement. It may be expressed
 as follows:
+
 The Law of Multiple Subjects.
 An increase in the number of subjects in the school curriculum, tends to move the average standing of an individual
 toward the class average.
@@ -1728,6 +1758,7 @@ than is indicated by most of our systems; (2) that personal acquaintance, with a
 far more vital consequence in the problem of grading and promotion than any machine can be, and (3) that the familiar "ten
 examination questions" sink to wretched assumption in view of
 such a standard.
+
 Ono of the most serious obstacles in the way of effective
 grading and promotion is found in the ever ready belief that
 there is "a system" which will fit all conditions. The fact is, there
@@ -1743,6 +1774,7 @@ measurements, but not forgetting that the skill is shown in the
 fact that a little is allowed for here, and a trifle is taken up there,
 in order to make the final fit; that is, in order to make the best
 adjustment.
+
 The school with an enrolment of eight hundred students in
 the eight grades, and the usual teaching force, may effectively
 classify its students into homogeneous groups in each subject;
@@ -1757,6 +1789,7 @@ system of grading on the basis of dynamic homogeneity. Dr Sickinger devised and 
 has since become known as the Mannheim system. It is now used
 in Berlin, Leipsic, and other important cities of Germany. The
 system is essentially as follows:
+
 The Mannheim System.
 Proceeding squarely on the principle that the school must
 deal with the child according to his ability and development, four
@@ -1800,7 +1833,9 @@ given individual in a given group. The gap between groups A and
 D is far too great; and so here and there we see lockstep symptom?
 creeping in. The most that may be said for it is that it is an
 advanced step in the right direction.
+
 Summary.
+
 By way of summary it may be said (1) that we have reached
 a point in school administration where the lockstep system of
 grading and promotion is no longer tenable; (2) that the numerous systems which have arisen in the hope of curing lockstep evils

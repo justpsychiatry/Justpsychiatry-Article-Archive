@@ -6,8 +6,8 @@ By Charles Goring, M.D., B.Sc.
 London: Darling and Son, Ltd., 1913.
 This extensive collection and tabulation of statistics, which resulted in a
 volume of approximately nine hundred pages of ordinary octavo size, was begun
-under the supervision of Dr. Griffiths in 1901. The material, after having
-passed through several hands, finally came to the notice of Dr. Goring about
+under the supervision of Dr Griffiths in 1901. The material, after having
+passed through several hands, finally came to the notice of Dr Goring about
 1904. He assumed the responsibility of this most laborious task through almost
 a decade and has finally given to us a monumental piece of work in criminal
 science.
@@ -64,7 +64,7 @@ The conclusion is that the criminal is a descendent of the most prolific stock.
 Furthermore, his apparent sterility is not to be attributed to physiological
 conditions, but rather to a psychological misunderstanding. The final section
 in Part II consists of a study of heredity and crime. The exact statistical method
-employed here is the "fourfold table" of Dr. Karl Pearson. Without further
+employed here is the "fourfold table" of Dr Karl Pearson. Without further
 details, I quote the results: "... the criminal diathesis ... is inherited at
 much the same rate as are other physical and mental qualities and pathological
 conditions in man" (page 368). A secondary conclusion is that "parental

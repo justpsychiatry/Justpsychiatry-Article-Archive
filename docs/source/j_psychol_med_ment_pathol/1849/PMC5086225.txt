@@ -47,7 +47,7 @@ order of patients; and that they were never taken out for exercise, and
 kept in a most pitiable state ; that they were lodged at night in miserable
 rooms, and by day in low, dark, common rooms, with dismal paved yards,
 surrounded by buildings two stories high on three sides, and on the fourth
-by a high wall. Affidavits of Dr. O'Bryen and Dr. Davis were then read
+by a high wall. Affidavits of Dr O'Bryen and Dr Davis were then read
 as to the nature of the rooms occupied by the lunatics; and from them it
 appeared that they had been confined in very small, low rooms, with only
 one window, and opening into the yard surrounded with buildings ; that
@@ -359,7 +359,7 @@ That you mean to swear ??Yes, sir.
 Now, from what time ??It was during the latter part of the time that
 master was alive.
 
-Dr. Ed. J. Seymouk was next examined. He had had considerable
+Dr Ed. J. Seymouk was next examined. He had had considerable
 experience in cases of insanity, both in private practice, and during the
 many years he had acted as one of the Commissioners in Lunacy. Had
 written several works on the subject.
@@ -436,12 +436,12 @@ The Commissioner.?You say that she is incoherent:?do you bear in
 mind that she is an Indian ??Yes, perfectly; but I understand that she
 came to this country some years ago ?
 
-Dr. Forbes Winslow, of Sussex House, Hammersmith, was next
+Dr Forbes Winslow, of Sussex House, Hammersmith, was next
 examined.?Had for many years directed his attention nearly exclusively
 to the subject of lunacy and the treatment of the insane; was the author
 of several treatises upon the subject; and has an establishment of his own
 at Hammersmith for the reception of insane patients.
-When did you first see that lady, Dr. Winslow ??On the 3rd of July,
+When did you first see that lady, Dr Winslow ??On the 3rd of July,
 1847, at her own residence.
 
 Was anybody else with you in the room at the time ??Yes; one of her
@@ -451,7 +451,7 @@ Did you enter into conversation with her, with the view of ascertaining
 the state of her mind ??Yes; the examination lasted nearly one hour. I
 was in close conversation with her nearly the whole of the time.
 The Commissioner.?Tell the jury any particulars of the examination.
-Dr. Winslow.?With regard to her manner, she appeared extremely
+Dr Winslow.?With regard to her manner, she appeared extremely
 excited. She began a very rambling and incoherent conversation about
 her servant; and I found it quite?thoroughly impossible?to bring her
 mind to any one single point of conversation. She appeared to be quite
@@ -485,7 +485,7 @@ violent, and insane.
 Did she use coarse expressions??She spoke without any delicacy of
 feeling. I have no doubt whatever as to her unsoundness of mind.
 And you have seen her since then, have you ??Yes; I saw her again in
-consultation with Dr. Seymour on the 14th of January. He saw her first,
+consultation with Dr Seymour on the 14th of January. He saw her first,
 and then I examined her by myself. I found the delusions that I detected
 on a former occasion still existing. She was quite incapable of holding any
 reasonable conversation. She still imagined that prostitutes were dancing
@@ -568,7 +568,7 @@ watched. He was then placed at an asylum upon the certificate of two
 medical gentlemen, having previously threatened the life of his own wife.
 He grew much worse, and refused his food. In July, 1846, he returned
 to his wife; and soon afterwards, his family thought it advisable that he
-should go down to Leeds to see Dr. Harrison, an old friend. He went, and
+should go down to Leeds to see Dr Harrison, an old friend. He went, and
 threatened to destroy one of the surgeons of that part, named Taylor. He
 was then recommended to be placed at the asylum in York, when he com-
 menced a correspondence of a dreadful nature to his own wife. Some of
@@ -579,21 +579,21 @@ another gentleman, whom he knew very well, and who was a friend to him.
 He had concealed the carving-knife upon one occasion, when he expected
 to meet Mr. Graybourn, one of the objects of his revenge, and against
 whom he seemed to have a most violent antipathy. In the autumn of 1846
-he grew rather better. Dr. Harrison intimated to him that the writing
+he grew rather better. Dr Harrison intimated to him that the writing
 of such letters would not have the effect of releasing him from his place of
-confinement. In November of that year he wrote to Dr. Harrison, and
+confinement. In November of that year he wrote to Dr Harrison, and
 almost contemporaneously with that he sent one of the most horrible com-
 munications ever penned to his wife. He actually forged a letter from
-Dr. Harrison to the persons at the asylum, and effected his escape; but by
+Dr Harrison to the persons at the asylum, and effected his escape; but by
 means of the electric telegraph he was stopped at Derby and brought back.
-He then made repeated threats against Dr. Harrison, who had also become
+He then made repeated threats against Dr Harrison, who had also become
 an. object of his antipathy. On the 4th of February of the present year,
-his wife and Dr. Harrison visited him, and he received her with the utmost
+his wife and Dr Harrison visited him, and he received her with the utmost
 indifference. On the 5th of February he escaped from the asylum, and
 went to Leeds, and there provided himself with two loaded pistols, and went
-making inquiries for Dr. Harrison, but was unable to find him. He was
+making inquiries for Dr Harrison, but was unable to find him. He was
 next removed to Kensington House, and he behaved exceedingly well to
-Dr. Philp, but to the attendants he used the most offensive and foulest
+Dr Philp, but to the attendants he used the most offensive and foulest
 language. He is excessively filthy in his habits. Latterly he has assumed
 a great deal of vanity. He thinks that he is the finest person in Europe,
 the most handsome, and that he has the best voice in the country, superior
@@ -643,7 +643,7 @@ attendants at the asylum. Remembered his refusing to take his food.
 Mr. Giffard examined.? Saw him at Moorcraft in January, 1846.
 Had never performed any operation on him.
 
-Dr. Hobson deposed that Mr. Harrison was, in his opinion, a man of
+Dr Hobson deposed that Mr. Harrison was, in his opinion, a man of
 unsound mind. One of his delusions was that he had been in hell, and
 that the devil had got hold of him. There was a continual hissing in his
 ears which was altogether unaccountable. At times he would say that his
@@ -655,7 +655,7 @@ gance in her praise sometimes.
 Thomas Ellis, superintendent of the asylum in which he was confined,
 and Felix Brown, gave corroborative evidence.
 
-Dr. Piiilp, of Kensington Asylum, stated that he knew and had
+Dr Piiilp, of Kensington Asylum, stated that he knew and had
 attended Mr. Harrison ; had heard him use threats against his wife and
 against Mr. Taylor. He had contemplated suicide, according to his own
 account. He said he was quite decided on destroying himself, and that it
@@ -690,7 +690,7 @@ delusions, but most extravagant ideas. He said that no man could practice
 any trade and be honest, and witness found that he was a man who had
 run into great extravagances. On questioning him as to the cause of his
 excitement, he said that the first cause was the refusal of a check at his
-banker's. The second was the treatment of Dr. Taylor. Was certain he
+banker's. The second was the treatment of Dr Taylor. Was certain he
 could not take care of himself and his property. The witness offered to
 read a letter here, when
 Mr. Giffard objected, and applied to the court to decline the reading of
@@ -843,8 +843,8 @@ the insanity from the 1st of June, 1848.
 (Bail Court, May 3, 1849.)
 Mr. Peacock moved for a writ of habeas corpus to bring up the body of
 a young lady, the daughter of a baronet. It appeared that the young lady
-had been insane, and had been in confinement at the house of Dr. Suther-
-land. After being there some time, Dr. Sutherland prevailed on the
+had been insane, and had been in confinement at the house of Dr Suther-
+land. After being there some time, Dr Sutherland prevailed on the
 mother of the young lady to remove her, as she had recovered, and was
 quite well. The young lady was removed; but it appeared, instead of
 being taken home, she was taken to the house of a person of the name of

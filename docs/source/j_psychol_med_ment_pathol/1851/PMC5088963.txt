@@ -1,7 +1,8 @@
 Notes of a Recent Visit to Some of the American Asylums
 ========================================================
 
-BY J. BALL, ESQ., M.K.C.S.E.
+:Author: J. BALL, ESQ., M.K.C.S.E.
+
 The physical aspect of a country lias, wo believe, an influence upon tlie
 character of its inhabitants; and the grandeur of American scenery?its
 extensive forests?its vast lakes?and its magnificent rivers and waterfalls
@@ -24,11 +25,13 @@ America are founded, seems to outstrip European competition. Their
 hospitals for the sick are admirably designed and organized?nay, we
 believe that, in many respects, they are even better managed than many
 in this country. Their architectural designs are vast and comprehensive.
+
 Their wards, day-rooms, sleeping-rooms, baths, kitchens, &c., are lofty
 and spacious, and well arranged; and so, likewise, we gather from the
 various reports which we have from time to time analyzed, that their
 lunatic asylums are admirably constructed, and managed upon the best
 and most enlightened principles.
+
 Plaving paid recently a visit to the United States, and being much inte-
 rested in the subject of insanity, we inspected some of the principal
 asylums in that country, a short account of which we purpose now giving.
@@ -45,7 +48,6 @@ dining-room, and bathing-room, en suite, capable of accommodating 30 or
 40 patients. There are as many as 380 single rooms for patients, 24
 for attendants, and 20 associated dormitories, each of which will accom-
 modate from 5 to 12 patients. There are besides two large rooms fitted up
-430 NOTES OF A RECENT VISIT TO SOME
 as hospitals, and a cliapel -which will accommodate a congregation of 500
 persons. In addition to which there are various shops?1 plumber's, 2
 joiners', 1 tailor's, and two printing-shops, and several work-rooms for
@@ -69,6 +71,7 @@ is 2000 dollars per year, with board and residence ; and each assistant-
 iplrysician has GOO dollars per year, also with board and residence.
 The following table exhibits the number of patients in the asylum during
 the year 1849 :?
+
 Number of patients, January 1, 1840
 Admitted during the year
 Total number in tbe course of the year
@@ -100,6 +103,7 @@ Total.
 CG
 48
 09
+
 By this table it will be observed, that 857 cases were under treatment
 ?daring the year; and of these, 203 recovered, giving a per centage of 56
 on the admissions during the year, or 23| on the whole number of patients
@@ -107,6 +111,7 @@ on the admissions during the year, or 23| on the whole number of patients
 year; and of these, 28 died from epidemic diseases, viz., small-pox and
 ? dysentery. This asylum escaped the cholera, although that disease was
 .during the year fatal in the neighbourhood.
+
 The following return shows the causes of the 69 deaths :?
 DISEASES OF THE HEAD.
 Meningitis     7
@@ -132,6 +137,7 @@ Puerperal fever   1
 Spinal disease  1
 Erysipelas   1
 Old age   1
+
 There being 14 deaths by small-pox is somewhat remarkable, as it is
 difficult to trace the origin of the disease. The first occurred in a patient
 who had been seven months in the asylum; no case of small-pox had
@@ -141,6 +147,7 @@ from dysentery were, with two exceptions, all demented and incurable.
 The following return shows the whole number of patients admitted,
 recovered, and the deaths which have occurred since the opening of the
 asylum in 1843.
+
 Number of patients admitted   237G
 Recovered   1017
 Improved    419
@@ -149,6 +156,7 @@ Died    269
 Remaining in the asylum   449
 Hence, 43 per cent, recovered, 18 per cent, improved, and the deaths were
 11| per cent.
+
 In this, and all other state government asylums throughout the United
 States, private patients are received at a charge above that of pauper
 patients?the latter are admitted at two dollars per week, the former pay
@@ -158,6 +166,7 @@ dine at the same tables. This plan appears to answer well in America,
 where there is not the distinction between classes of society which pre-
 vails in England, and where every person can, at the expense of the state,
 receive at the public schools a liberal education.
+
 The classification of patients according to their mental state is very per-
 fect in this asylum, there being no less than twelve different classes, the
 benefit derived from which arrangement is obvious. The wards may be
@@ -165,15 +174,15 @@ observed to be quiet, and it very rarely happens that any patient is placed
 in seclusion or under restraint, which, when we consider the large number
 of recent cases admitted, is highly creditable to the institution, and suffi-
 ciently evinces the able manner in which it is conducted by its present
-experienced superintendent, Dr. Benedict, who has only recently been
-appointed to this office, vacated by the death of the late Dr. Brigham,
+experienced superintendent, Dr Benedict, who has only recently been
+appointed to this office, vacated by the death of the late Dr Brigham,
 whose psychological investigations we have frequently had occasion to
 notice. He was an accomplished physician, and an amiable and good
 man.
+
 The occupations and amusements provided for the patients constitute
 one of the most prominent and praiseworthy features of this asylum.
-NO. XV. F F
-432 NOTES OF A RECENT VISIT TO SOME
+
 Besides tlie workshops we have mentioned, there is a farm of 130 acres, at
 which 512 patients might be observed to be farmers interested in their
 agricultural pursuits, and 151 labourers. The employment is much liked,
@@ -228,8 +237,8 @@ ever, has an open coal fire during winter, which, if less economical
 and convenient in some respects, is certainly more cheerful, which is a
 more important consideration than might cursorily be supposed. The
 apartments in which patients are assembled heated by any other con-
-* " The Journal of Psychological Medicine and Mental Pathology," vol. 2, p. 189,1819.
-OF THE AMERICAN ASYLUMS. 433
+
+The Journal of Psychological Medicine and Mental Pathology," vol. 2, p. 189,1819.
 trivance than an open fire-grate, must be, morning, noon, and evening,
 during the dreary days of winter, miserably gloomy. The poor insane,
 conscious many of them that their malady has imposed upon them a
@@ -242,6 +251,7 @@ the men's side is a " ten pin alley," a favourite game in America, which
 affords healthy exercise as well as recreation for patients. The whole
 establishment is well supplied with water derived from the Croton "Water
 Works, the source of the city supply.
+
 The internal government of this institution?which is a branch of the
 New York State Asylum?is vested in a committee of six officers, who
 are appointed by the board of governors of the general hospital, from
@@ -251,6 +261,7 @@ physician, warder, matron, and apothecary. There is no assistant physi-
 cian, as in nearly all the other American asylums. The following table
 shows the number of admissions, discharges, and deaths during the year
 1849:?
+
 Number of patients in the house, January 1,1849..
 Number admitted during the year
 Whole number of cases in the asylum ..
@@ -279,11 +290,13 @@ CO
 33
 13
 21
+
 Ten of the above cases were from intemperance; eight having been
 admitted during the year, and two old cases being already in the asylum.
 Seven of the recoveries were of this description, leaving only thirty-seven
 cases of recovery from insanity proper. Of these the following returns,
 showing the duration of the attack, may be read with interest:?
+
 27, at the time of admission, had been insane less than 0 months
 7 ? .. ? 1 year
 ? 2 years
@@ -300,10 +313,8 @@ between 1 and 2 months
 We observe by this return, the larger number of recoveries took in
 those who were admitted into the asylum while the attack was yet recent,
 and evinces, as so frequently lias been proved, the expediency in all cases
-F p 2
-434 NOTES OF A RECENT VISIT TO SOME
 of insanity, of early treatment. The present talented pliysician of this
-asylum, Dr. JNicholls, has frequently occasion to lament the premature
+asylum, Dr JNicholls, has frequently occasion to lament the premature
 removal of a large number of patients, owing to their friends being in
 narrow circumstances and unable to continue their support in the asylum.
 The number of cures-is hereby greatly reduced; and it is observed that
@@ -315,6 +326,7 @@ all moral restraint is removed, speedily relapse, and return either to this,
 or are sent to some other asylum, with the chances of recovery consider-
 ably diminished. Such cases are marked as having been discharged
 improved.
+
 The deaths were twenty-one, or 9? per cent, for the whole number
 under treatment during the year, and the causes of death in these cases
 were as follows:?
@@ -325,10 +337,13 @@ Dysentery  3
 Diarrhoea  4
 Cancer    1
 Suicide  2
-Cause not stated in the report   4
+
+Cause not stated in the report  4
+
 This asylum escaped the cholera, which was prevalent in the neighbour-
 hood, the city of New York having suffered greatly from the ravages of
 this pestilence.
+
 Only private patients are now admitted into this asylum; formerly
 pauper lunatics were received, but these have been transferred to the city
 Pauper Asylum, on Blackwell's Island, and the State Asylum, at Utica.
@@ -343,6 +358,7 @@ kept for the use of the patients. Restraint is occasionally, but very
 rarely, had recourse to, and in such cases Wyman's bed-strap is the appa-
 ratus used, which has simply the effect of keeping the patient in bed and
 preventing violence to others.
+
 Bidding adieu to the excellent and well-conducted asylum, let us direct
 our course towards Blackwell's Island, one of those small oases with which
 Long Island Sound abounds. Here we find a pauper asylum, erected by
@@ -355,7 +371,7 @@ is appropriated to offices and apartments for the resident staff. There are
 also two detached buildings, or lodges, as they are termed, for refractory
 and dirty patients. The following table exhibits the number of admissions,
 discharges, and deaths, during the year 1849.
-OF THE AMERICAN ASYLUMS. 435
+
 Number of patients, January 1, 1849
 Admitted during the year
 Discharged
@@ -379,6 +395,7 @@ Total.
 283
 212
 401
+
 The number of deaths here is very large, nearly 24 per cent.; but 86 of
 these died from Asiatic cholera, and 48 from diarrhoea, showing how
 severely this asylum suffered from these diseases. Those among whom
@@ -389,7 +406,6 @@ ingly damp and unpleasant. Eight per cent, of those who died had been
 in the asylum more than ten years, and probably more than one-half had
 been insane from ten to twenty-five years. The subjoined table shows
 the causes of death in 212 cases
-DISEASES OF THE BRAIN.
 Congestion of the brain   12
 Apoplexy  5
 Epilepsy   5
@@ -414,6 +430,7 @@ Typhoid fever  8
 Erysipelas     2
 Dropsy    1
 Old age  4
+
 Exhaustion from exposure to cold before admission  1
 Total deaths from all causes  212
 Of the 283 patients discharged, 212 had recovered, and 60 were suffi-
@@ -422,7 +439,7 @@ of recoveries on the admissions, and a little under 25 per cent, on the
 whole number under treatment during the year.
 The following table shows the form of the disease in the 283 patients
 discharged during the year;?
-436 VISIT TO SOME OF THE AMERICAN ASYLUMS.
+
 Mania
 Mania, partial
 Mania, puerperal
@@ -458,10 +475,12 @@ Not improved.
 1
 3
 4
+
 By this table it will be perceived that 40 of the cases of recoveries "were
 not, strictly speaking, cases of insanity, which, being deducted, leaves only
 37-2- per cent, of recoveries on the number of admissions of insanity proper.
 The following is the term of residence of those discharged:?
+
 Less than 3 months
 From 3 to 6 months
 From 6 to 12 months
@@ -484,9 +503,10 @@ Not improved. Total
 30
 19
 4
+
 The medical staff of this asylum is composed of two visiting physicians
 ?Drs. Ogden and Williams ; a resident physician and superintendent?
-Dr. Eoxney and two assistant physicians, the three latter gentlemen being
+Dr Eoxney and two assistant physicians, the three latter gentlemen being
 resident officers. Originally, four visiting physicians were appointed ; the
 other two were Drs. Pliny Earle and Macdonald. The former was pre-
 vented from acting by being appointed physician to the Bloomingdale
@@ -496,6 +516,7 @@ entirely on Drs. Ogden and Williams. It should be mentioned, that there
 is a larce library in this asylum, with a good selection of works on history,
 biography, and general literature, to winch the patients at all hours of the
 day have free access.
+
 Having completed our survey of Blackwell Island, we had some idea of
 winging our way over to the Ohio Lunatic Asylum, and the Pennsylvania
 Hospital for the insane, and afterwards visiting the establishment of idiots

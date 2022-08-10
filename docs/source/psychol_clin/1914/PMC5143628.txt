@@ -95,7 +95,7 @@ certainly descriptive and somewhat interpretative.
 IV. Give family name.
 F?"What is your name, daughter?" B?"Bettina Bush."
 F?"What is Mother's name?" B?"Ursula Bush."
-F?"What is Father's name?" B?"Dr. Bush."
+F?"What is Father's name?" B?"Dr Bush."
 F?"What does Aunt B. call papa?" B?"Arthur Bush."
 Additional
 F?"Where do you live?" B?"Right here."

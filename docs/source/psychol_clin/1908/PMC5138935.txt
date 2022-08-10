@@ -23,7 +23,7 @@ general outlines, but in their individual parts. Such a scrutiny
 may also serve to illustrate the maxim that in a statistical study
 every figure should be challenged?not for its accuracy, but for
 the purposes of interpretation.
-The tables compiled by Dr. Cornman show a general resemblance to one another, and much difference in detail. It is our
+The tables compiled by Dr Cornman show a general resemblance to one another, and much difference in detail. It is our
 purpose to call attention to both resemblance and dissimilarity.
 In the first place, it may be pointed out that the distribution of
 the ages among the different grades shows greater variations than
@@ -57,7 +57,7 @@ high School figures in order to determine how many had dropped
 out of school. From these facts we can draw the conclusions that
 dropping out of school depends more upon age than upon the
 degree of advancement in school studies. This is quite as true of
-Boston, where, according to Dr. Cornman's conclusions, retardation is least prevalent, as it is of Camden, where it appears to be
+Boston, where, according to Dr Cornman's conclusions, retardation is least prevalent, as it is of Camden, where it appears to be
 most frequent.
 This fact is of cardinal importance in the study of retardation. It dispels at once the conclusion, not infrequently drawn,
 that retardation increases the number of children in school. One
@@ -68,7 +68,7 @@ compulsory school age, generally the fourteenth birthday, they can
 leave when they please, whatever their stage of advancement.
 They in fact do so in large numbers, and as the falling off at 13
 years testifies, some of them anticipate the fourteenth birthday.
-Thus Dr. Cornman says,* "Boston is now able to make the
+Thus Dr Cornman says,* "Boston is now able to make the
 proud boast that she has a seat in school for every child able to
 ?The Psychological Clinic, I, p. 254.
 THE RETARDATION OF PUPILS. 59
@@ -137,17 +137,17 @@ Boston  2,835 7,500 8,284 8,764
 Philadelphia   8,611 16,583 17,769
 New York   2,446 36,797 53,789 61,367
 Here, as elsewhere in this study, information not directly
-derived from Dr. Cornman's tables has been obtained from the
+derived from Dr Cornman's tables has been obtained from the
 original reports of the respective cities. The addition of the
 group "five years and under," when it appears, divides the group
-"six years and under" in Dr. Cornman's tables. In Kansas City
+"six years and under" in Dr Cornman's tables. In Kansas City
 and Philadelphia no information is available as to the children
 under six years of age, if there are any who have been included in
 the tables. The figures apparently show two types; the first three
 cities in the table above showing but a slight increase of the children seven and eight years of age over those of six years of age,
 while in New York and Philadelphia these ages are much more
 numerous than the six year old children.
-An examination of the tables in Dr. Cornman's paper will
+An examination of the tables in Dr Cornman's paper will
 show that the figures for Camden appear to be reported in September and those for Kansas City in June. As a matter of fact,
 THE RETARDATION OF PUPILS. 61
 the two tables are identical, and neither is what it is labeled. In
@@ -181,7 +181,7 @@ year instead of predominantly at its beginning.
 This examination of the first factor in the tables, that of
 age, has shown that the several tables, though similar in form,
 are quite distinct in substance. They are not so directly comparable as they would appear. If the aggregates of the age columns are affected by these differences, the details must also be
-affected, and it becomes necessary to inquire whether the conclusions drawn by Dr. Comman in regard to ages within the grades
+affected, and it becomes necessary to inquire whether the conclusions drawn by Dr Comman in regard to ages within the grades
 must not be modified, in part at least.
 Before doing so, it will be well to inquire whether the tables
 presented are comparable in every respect as to grades. The time
@@ -315,7 +315,7 @@ A second method of stating the facts prevails in Boston.
 Here the statistics are prepared semi-annually on January 31st
 and June 30th, and the grades reported are those in which the
 pupils have been during the previous five months. The ages
-reported are those of the date of enumeration. In Dr. Cornman's
+reported are those of the date of enumeration. In Dr Cornman's
 paper the analysis is based upon the June figures of the year
 1906*
 We have here two important elements of differences from
@@ -326,7 +326,7 @@ ages reported those of September. But all the pupils recorded
 are nine or ten months older than they were in September, and
 this would increase the number of over-age pupils. Fortunately
 we have some means of estimating the force of these conflicting
-tendencies. In table VI Dr. Cornman prints percentages for
+tendencies. In table VI Dr Cornman prints percentages for
 Boston in January, 1906, as well as those of June, 1906, though
 he does not comment upon these added figures.
 In June, 1906, the percentage of over-age pupils in Boston
@@ -350,7 +350,7 @@ comprehensive figures for September, 1906, but a special investi*It is to be not
 ninth grade containing 4,408 pupils, of whom 795 were over-age. As the
 percentage of over-age pupils tends to diminish in the upper grades the
 inclusion of the ninth grade would have slightly reduced, in the decimal,
-the percentage of over-age pupils. Dr. Cornman confines his table to the
+the percentage of over-age pupils. Dr Cornman confines his table to the
 first eight grades.
 GG THE PSYCHOLOGICAL CLINIC.
 gation of pupils ten years of age and over in the three primary
@@ -364,7 +364,7 @@ The figures are arranged chronologically. The last, which
 represent the beginning of the school year 190G-07, are very different from those of June, representing the end of the school yeark
 1905-190G. They show us a much lower percentage of retardation, and were figures available for Boston on the same plan as in
 Camden and Kansas City the contrast with the two latter would
-have been even more striking than that reported by Dr. Cornman.
+have been even more striking than that reported by Dr Cornman.
 Among the five cities compared, Boston has a unique place.
 Elsewhere one-half of the children are above normal age, but in
 Boston this proportion appears to be only one-eighfh. The comparison is highly stimulating to those who are seeking to diminish
@@ -441,7 +441,7 @@ throughout the entire table, the Philadelphia figures for June,
 1907 (Cornman's table, Vol. I, p. 249), are transformed into the
 table for September, 1907, which is given on the preceding page.
 The full import of this table can only be seen by comparing
-its main results with those published by Dr. Cornman, as follows:
+its main results with those published by Dr Cornman, as follows:
 Percentage of Enrolment Above Normal Age.
 Camden Philadelphia, Pa.
 Grades mainly June, '07 September, '07
@@ -463,12 +463,12 @@ figures) contain a large conjectural element, it should be remembered that in th
 fact remains that if the grades had been stated in the manner
 employed in Boston the percentage of retardation would have
 appeared larger than had the Camden method been employed.
-Proof of the latter statement is given by Dr. Cornman in
+Proof of the latter statement is given by Dr Cornman in
 table VI. In this table he gives three percentages for New York,
 showing a total retardation in June, 1904, of 39.0 per cent, in
 June, 1905, 32.0 per cent,* and in June, 1906, 30.0 per cent.
-Dr. Cornman suggests that improvement has followed calling attention to the problem. The ~New York reports, however, show in
-?From N. Y. City Report, erroneously printed as 30.1 in Dr. Cornman's
+Dr Cornman suggests that improvement has followed calling attention to the problem. The ~New York reports, however, show in
+?From N. Y. City Report, erroneously printed as 30.1 in Dr Cornman's
 paper.
 THE RETARDATION OF PUPILS. 69
 1904 the pupils before promotions, as in Boston, but in the following year, for some unexplained reason, the method was changed
@@ -591,7 +591,7 @@ determine the time of making the record.
 72 THE PSYCHOLOGICAL CLINIC.
 the matter attention have indicated a certain number of causes
 without trying to estimate their relative force. In this connection
-the article of Dr. Cornman, on which the present study is based,
+the article of Dr Cornman, on which the present study is based,
 is highly suggestive, and I am tempted to add a few considerations 011 this part of the subject.
 It might be noted that in his introductory statements, Dr.
 Cornman unconsciously falls into the error of explaining retardation by the fact that pupils are not promoted regularly. Is it
@@ -602,7 +602,7 @@ used, late entrance into school cannot be given as an explanation.
 A boy who entered school at ten years of age and advanced regularly would be "retarded" in the technical sense, though his
 progress would be normal and he would not be held back by
 failure to secure promotion.
-Later on Dr. Cornman says, "A certain proportion of the
+Later on Dr Cornman says, "A certain proportion of the
 retardation is due to the fact that pupils are already over age on
 entering school," and cites the proposal to make the age of compulsory attendance seven instead of eight years. While the advantage of an early start in school is undeniable, as the experience of Boston amply proves, it is doubtful whether so slight a
 change in the law as that noted, would have any appreciable effect.

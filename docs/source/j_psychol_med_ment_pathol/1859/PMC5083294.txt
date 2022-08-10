@@ -42,14 +42,14 @@ for to call a phenomenon vital, is to confess that it is unintel-
 ligible.
 The hypothesis to which we here refer, and which has been
 90 ON CONVULSION.
-advocated for several years by Dr. Radcliffe, has been brought
+advocated for several years by Dr Radcliffe, has been brought
 out recently in a much more circumstantial and satisfactory
 form*?a form so satisfactory that we think it necessary to do
 what we can to make it known, for it is assuredly of high moment
 to all who are concerned in the study of diseases of the brain
 and nervous system to have right notions on the subject of
 convulsion.
-Dr. Radcliffe begins his inquiry into the physiology and patho-
+Dr Radcliffe begins his inquiry into the physiology and patho-
 logy of muscular action by showing that muscular contraction is
 not produced by the stimulation of any property of contractility
 belonging to muscle; and first of all he attempts to show that
@@ -66,7 +66,7 @@ death, rigor mortis, they are altogether at an end. In ordinary
 contraction, also, there is an unmistakeable weakening of that
 electrical action which naturally belongs to muscle in the state of
 relaxation or elongation. This fact is very curious, and it is
-well to hear what Dr. Radcliffe has to say about it:?
+well to hear what Dr Radcliffe has to say about it:?
 " It would also seem as if the muscular current were iueci7cene\l
 during ordinary contraction ; indeed, there can be no reasonable doubt
 that this is the case. In demonstrating this very important fact, Dr.
@@ -143,7 +143,7 @@ contraction of death, rigor mortis, does not come on until the
 electrical action of muscle?or the muscular current, as it is called
 ?is at an end ; the other is, that the muscular current is weakened
 in ordinary muscular contraction. These are the facts; the in-
-ference arising out of them, according to Dr. Kadcliffe, is, that
+ference arising out of them, according to Dr Kadcliffe, is, that
 muscular contraction is antagonized by the muscular current.
 Nor is a different inference deducible from the action of arti-
 ficial electricity upon muscle. For what are the main facts? The
@@ -162,15 +162,15 @@ current begins and ceases to pass, may be no objection to this
 view; for at the time when these contractions happen, there may
 be a momentary annihilation of electrical action arising out of
 certain opposing reactions between the foreign and muscular
-currents, which reactions are very clearly pointed out by Dr. Rad-
+currents, which reactions are very clearly pointed out by Dr Rad-
 cliffe, but which would take us too long to explain in this place.
 In the next place, the object is to show that muscular con-
 traction is not produced by " nervous influence." Here, first of
-all, Dr. Radcliffe speaks of the nerve current?which current is
+all, Dr Radcliffe speaks of the nerve current?which current is
 an unquestionable fact in physiology?and shows that it agrees
 with the muscular current, in that it affords evidence of enfeeble-
 ment during muscular contraction. Take a beautiful experiment
-by Dr. du Bois-Reymond as an instance in point:?
+by Dr du Bois-Reymond as an instance in point:?
 " A frog is fastened upon a suitable frame, and then, after tying
 its common iliac artery, the ischiatic nerve is cut low down in the
 ham and dissected up to the vertebral column. After this the lower
@@ -221,7 +221,7 @@ nerve, and that muscular contraction is connected in some way
 with the diminution or annihilation of this action, and not with
 the stimulating action of electricity upon a vital property of irri-
 tability inherent in nerve.
-After these considerations, Dr. Radcliffe adduces facts which
+After these considerations, Dr Radcliffe adduces facts which
 seem to demolish the idea that muscular contraction is produced
 by any kind of stimulation derived from the nervous centres.
 Thus:?
@@ -294,7 +294,7 @@ fallen still lower, until it is not more than a third or a half of this
 value. It is possible, however, that the increased muscular power
 would not have failed in this way if care had been taken to exercise
 the paralysed limbs by galvanism.
-" Nor is it easy to agree with Dr. Marshall Hall in thinking that this
+" Nor is it easy to agree with Dr Marshall Hall in thinking that this
 increase of muscular power is due to an increased stimulation of the
 muscles on the part of the spinal cord (which inordinate stimulation
 had come into play because the controlling influence of the brain had
@@ -314,7 +314,7 @@ finds, indeed, that the muscles are as irritable as they are in narco-
 tized frogs.
 ON CONVULSION. 95
 " Some very conclusive evidence to the same effect is also furnished
-in the following experiment by Dr. Brown-Sequard. In this experi-
+in the following experiment by Dr Brown-Sequard. In this experi-
 ment the spinal cord of a frog is divided immediately behind the roots
 of the brachial nerves, and then the nerves proceeding to one of the
 hind legs, cut through at the points where they leave the cord. Tivo
@@ -327,7 +327,7 @@ limb, that is to say, which had been cut off from the spinal cord."
 (p.p. 60?63.)
 Even tlie action of the will upon muscle is not allowed to be
 that of a stimulus :?
-" Is it not certain," says Dr. Badcliffe, " that the will acts in this
+" Is it not certain," says Dr Badcliffe, " that the will acts in this
 case by stimulating the muscle to contract ? It is difficult, no doubt,
 to think differently. It is more than difficult to wean the mind from
 so old an idea. But, on the other hand, it must not be forgotten that
@@ -343,7 +343,7 @@ The action of blood upon muscle is considered after the
 action of nervous influence; and here the conclusion is, that
 contraction is not the result of stimulation. Many experiments
 are cited in favour of this view, and one of them will serve as an
-example. This was performed by Dr. Brown-Sequard upon the
+example. This was performed by Dr Brown-Sequard upon the
 arm of a criminal who was guillotined on the 12th of July, 1851,
 at eight a.m. :?
 " This arm, which was severed from the body, was in a state of per-
@@ -363,12 +363,12 @@ bility. At 11.45 p.m. the muscles were more irritable than they had
 96 ON CONVULSION.
 been at 5 p.m., at which time the corpse was first examined; and this
 degree of irritability was kept up, without abatement, until 4 a.m.,
-when fatigue compelled Dr. Brown-Sequard for the time to abandon
+when fatigue compelled Dr Brown-Sequard for the time to abandon
 the experiment. When the experiment commenced, the temperature
 of the blood was 73? Fahr., and that of the room 66?Fahr. "
 (pp. 67?68.)
-After relating these experiments, Dr. KadclifFe proceeds to
-combat Dr. Brown-Sequard's theory, that muscular contraction
+After relating these experiments, Dr KadclifFe proceeds to
+combat Dr Brown-Sequard's theory, that muscular contraction
 is caused by the stimulus of carbonic acid in the blood, that is,
 by venous blood :?
 " It may, indeed, be questioned," he says, " whether the convulsions
@@ -478,7 +478,7 @@ traction.
 And, lastly, it is shown that muscular contraction is not pro-
 duced by the stimulation of any chemical or analogous agency.
 Here a good deal of evidence is produced, and, among the rest,
-some recent experiments by Dr. Harley upon the action of
+some recent experiments by Dr Harley upon the action of
 strychnia and brucia, which seem to show most conclusively
 that these poisons act, first of all, by rendering the blood less
 apt to appropriate its stimulating element oxygen, and, in the
@@ -487,7 +487,7 @@ Reviewing the whole evidence belonging to this part of the
 subject, there appears to be no sufficient reason why rigor
 mortis may not "be taken as the type of muscular contraction in
 general:?
-"For what," asks Dr. Radcliffe, "is the case with respect to this
+"For what," asks Dr Radcliffe, "is the case with respect to this
 form of muscular contraction ? The case is simply this : As long as
 there is any trace of that action of which the ? muscular current' is a
 sign, so long is there no rigor mortis. As long as there is any trace
@@ -539,7 +539,7 @@ the loss of power as the muscle contracts upon itself, and how
 the waste of substance in proportion to the number of contrac-
 tions?may be accounted for without supposing that the con-
 tractile power is a vital endowment.
-Dr. Radcliffe's third and last object, in the physiological part of
+Dr Radcliffe's third and last object, in the physiological part of
 his work, is to show " that the special muscular movements
 which are concerned in carrying on the circulation?the rhythm
 of the heart, and those movements in the vessels which are in-
@@ -548,7 +548,7 @@ when they are interpreted upon the previous view of muscular
 action." Our space will not allow us to enter into this part of
 the argument, and a hint or two as to its character must suffice.
 Thus, when speaking of the action of the blood in producing
-the cardiac rhythm, Dr. Eadcliffe says :?
+the cardiac rhythm, Dr Eadcliffe says :?
 " Upon any existing theory of muscular action it is more than diffi-
 cult to understand why the ventricles remain distended with blood
 during the full half of the rhythmic period, if the ventricular systole is
@@ -648,7 +648,7 @@ spheric air, and that it is brought to a stop by placing the heart in a
 vacuum or by immersinar it in hvdrocren or nitrogen or carbonic acid."
 ?(pp. 123, 124.)
 Passing from the domain of physiology to that of pathology,
-Dr. Radcliffe proceeds to consider the conditions in which mus-
+Dr Radcliffe proceeds to consider the conditions in which mus-
 cular contraction is in excess; namely, the different forms of
 tremor, the different forms of convulsion, and the different forms
 of spasm. In doing this, the interparoxysmal condition, the
@@ -659,7 +659,7 @@ arising out of eachpartof the inquiry is found to be in harmony with
 the previous view respecting the physiology of muscular action.
 In no part is it found that tremor, or convulsion, or spasm, is
 brought about by excess of stimulation, actual or relative. We
-are altogether unable to follow Dr. Kadcliffe step by step in a
+are altogether unable to follow Dr Kadcliffe step by step in a
 subject so extensive, and all we can attempt to do is to give a
 hint or two as to the character of the argument, and refer to the
 book itself for further information. These hints, we think, may
@@ -675,7 +675,7 @@ tionate to the activity of the circulation of arterial blood in the
 nervous centres and nerves, and this supply cannot properly be
 kept up when the circulation flags. What then is the condition
 of the circulation in those cases where muscular contraction
-is in excess ? The answer furnished by Dr. Kadcliffe is, that
+is in excess ? The answer furnished by Dr Kadcliffe is, that
 this condition is always what it ought not to be if the muscles
 ?were over-stimulated at the time. In siviple epilepsy, for in-
 stance?
@@ -862,7 +862,7 @@ filled with arterial blood.
 " In partial cerebritis there is even less febrile disturbance than
 there is in general cerebritis, and at no stage of the malady is there
 anything like increased vascular action."?(pp. 309?311.)
-Such is a free sketch of the argument by which Dr. Bad-
+Such is a free sketch of the argument by which Dr Bad-
 cliffe attempts to show that convulsion in all its forms?tremor,
 convulsion proper, and spasm?must be looked upon in a very
 different light to that in which we have been in the habit of
@@ -870,7 +870,7 @@ regarding it. The subject is one of great importance?of special
 importance in psychological medicine; for is not convulsion a most
 common symptom of disorder of the brain? The subject is one
 also which claims immediate, as well as serious, attention; for if
-Dr. Badcliffe is right, the natural conclusion is, that the more
+Dr Badcliffe is right, the natural conclusion is, that the more
 appropriate means of treatment will be, not those which are cal-
 culated to calm excessive stimulation, butthose which will sustain
 and rouse the powers of a flagging system.

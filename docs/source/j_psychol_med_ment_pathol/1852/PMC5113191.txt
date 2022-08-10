@@ -7,10 +7,10 @@ Dr.. Parrish presented and read the following communication,* embracing
 the substance of the remarks made by him at the last meeting of the College,
 with revisions and additions.
 In the London Lancet for June, 1851, will be found an abstract of a paper
-on prison discipline, read before the London Medical Society by Dr. Forbes
+on prison discipline, read before the London Medical Society by Dr Forbes
 Winslow, which, with the discussion upon it, forms matter for profitable reflec-
 tion and comment.
-Dr. Winslow believes, and we think with good reason, that the study of the
+Dr Winslow believes, and we think with good reason, that the study of the
 great problem of crime and its punishment comes peculiarly within the province
 of physicians, who, as a class, are better qualified than any others, both from
 their education and pursuits, to grapple with them. With these views, Dr.
@@ -24,7 +24,7 @@ to regard them.
 It is known to the fellows that the plan of separate confinement, which
 originated in Pennsylvania, has been partially adopted in England, as well as in
 some parts of the continent of Europe; and it is to this class of prisons that
-the inquiries of Dr. Winslow are directed. In order, however, to draw a just
+the inquiries of Dr Winslow are directed. In order, however, to draw a just
 parallel between the separate prisons of England and our own, it will be
 necessary to present some of the points of difference between them; and to
 sketch as briefly as possible the main features of the plans now in operation in
@@ -51,7 +51,7 @@ should be swept away before the advancing tide of a purer gospel. Acting
 upon this sentiment, the original penal code of Pennsylvania was far milder
 than that of the mother country, or even of the other colonies, and under the
 * Stated Meeting of the College of Physicians of Philadelphia, September 2nd, 1851,
-Dr. Meigs, Vice-President, in the chair.
+Dr Meigs, Vice-President, in the chair.
 D D 2
 404 MORTALITY AND INSANITY IN SEPARATE PLAN PRISONS
 mild sway of Penn, prisons were houses of correction rather than bastiles for
@@ -173,7 +173,7 @@ tution increased, and the influence of long periods of imprisonment became
 406 MORTALITY AND INSANITY IN SEPARATE PLAN PRISONS, ETC.
 more evident, facts accumulated which appeared to place a different aspect on
 the question.
-The observations of our esteemed fellow, Dr. B. H. Coates, who, as a member
+The observations of our esteemed fellow, Dr B. H. Coates, who, as a member
 of the Prison Discipline Society, was a frequent visitor at the institution,
 induced him to believe that there was a large mortality from scrofula and con-
 sumption amongst the prisoners of African descent; and on investigating the
@@ -182,8 +182,8 @@ separate confinement was particularly injurious to the coloured race. Dr.
 Coates' paper was published in 1843, although his first communication on the
 subject was made to the Prison Society in 1840. In addition to this, a large
 number of cases of acute dementia began to appear in the medical reports of
-Dr. Darrach during the years 1839, 1840, and 1841, occurring more frequently
-amongst the coloured prisoners, and believed by Dr. Darrach to be mainly attri-
+Dr Darrach during the years 1839, 1840, and 1841, occurring more frequently
+amongst the coloured prisoners, and believed by Dr Darrach to be mainly attri-
 butable to self-abuse.
 Without proceeding farther with this history, we shall endeavour to lay
 before the College a brief summary of the sanitary condition of this institution,
@@ -199,7 +199,7 @@ the year, and then giving the average annual mortality for the whole period,
 this per centage would be considerably reduced; but the former method appears
 to me to convey a more accurate idea of the relative proportion between the
 number subjected to confinement and the number of deaths, besides being that
-applied by Dr. Winslow to the English prisons, with which we shall presently
+applied by Dr Winslow to the English prisons, with which we shall presently
 compare them.
 The class of prisoners received at this institution is not of the worst descrip-
 tion, nearly two-thirds of them coming from the rural districts; thus, from

@@ -54,15 +54,15 @@ D. P. Fry, Cropper, Purdy, Buxton, Sperling, Courtenay Boyle ;
 the secretary, Mr. Loch, and assistant-secretary, Howgrave
 Graham. In addition to these, the Committee is assisted by the
 medical experience of a number of professional members; amongst
-these are Dr. Langdon Down, who, formerly at Earlswood and
+these are Dr Langdon Down, who, formerly at Earlswood and
 latterly at Normansfield, has had vast experience amongst idiots
 and imbeciles of the middle and upper classes. The experience
-of his successor at Earlswood, Dr. Grrabham, is also vast; Drs.
+of his successor at Earlswood, Dr Grrabham, is also vast; Drs.
 Bell Fletcher, F. Beach, Ireland, and Mr. Millard have also
 had special experience in the training and education of these
 classes.
 In addition to these, the Committee has the assistance of
-Dr. Brewer, whose great administrative capacity and experience
+Dr Brewer, whose great administrative capacity and experience
 cannot fail to be of the greatest service; and lastly, Drs. Hack
 Tuke, and Wise (who has had long experience in India), Cortis,
 and Boyd, are members well known for their practical experience
@@ -853,7 +853,7 @@ Total  36,046
 11 adult asylums of 2,000 cases .... 22,000
 Providing for  35,000
 Letter on the Arrangements for the Care and Education of
-Idiots and Imbeciles in North Germany, by Dr. Kind, Medical
+Idiots and Imbeciles in North Germany, by Dr Kind, Medical
 Superintendent of the Idioten-Anstalt at Langenhagen, in
 Hanover ; translated from the German.
 Langenhagen: June 25, 1876.
@@ -945,9 +945,9 @@ nected with a hospital for the insane, a State institution, but much too
 small. The number of idiots in Saxony, from a census taken at the
 same time as in our province of Hanover, in the year 1871, was found
 to be 3,436?that is, one idiot to 571 inhabitants, while there were only
-* "Die Idioten Anstalten von Deutschland," von Dr. Heinrich Laehr (Berlin,
+* "Die Idioten Anstalten von Deutschland," von Dr Heinrich Laehr (Berlin,
 1876). A copy of this pamphlet was presented to the Committee.
-In compiling the short account of German Institutions for Idiots, Dr. Fletcher
+In compiling the short account of German Institutions for Idiots, Dr Fletcher
 Beach and I used " Die Heil und Pflege-Anstalten fur Psychisch Kranke in
 Deutschland, der Schweitz, &c.," by the same author (Berlin, 187G), besides some
 other documents.?[Translator.]
@@ -999,18 +999,18 @@ I hope that this information may meet what you desire. With the
 assurance of my highest esteem
 Believe me to be yours truly,
 (Signed) Kind.
-To Dr. W. W Ireland,
+To Dr W. W Ireland,
 Scottish National Institution for the Education of Imbeciles,
 Larbert, Stirlingshire, Scotland.
 * This petition points out the consequences of the disregard of hygienic laws
 in the education of children, and the necessary precautions to take in the case of
 children affected with diseases of the nervous system. Under the special head
-mentioned by Dr. Kind, it is recommended that children suffering from temporary
+mentioned by Dr Kind, it is recommended that children suffering from temporary
 attacks of insanity, if sent to asylums for the insane, should be kept apart from
 grown-up lunatics; that all idiots who are dangerous to the community, who are
 neglected, or who give hopes of learning a useful trade, should be sent to special
 training schools, and that the provinces and larger communes should give a
-subsidy to help this object. In reply, the Minister of Instruction, Dr. Falk,
+subsidy to help this object. In reply, the Minister of Instruction, Dr Falk,
 thanks the petitioners for the interest they show in the welfare of the people and
 ^tate. Similar representations have been already made to him from the
 Educational Department, but some of the representations go beyond the school
@@ -1234,14 +1234,14 @@ younger, and having regard also to the improvement likely to be
 effected by early training in the habits of this class, the motion was
 withdrawn.
 Fifth Meeting. Wednesday, May Y7t.li.
-A letter was read from Dr. Ireland, Superintendent of the Scottish
+A letter was read from Dr Ireland, Superintendent of the Scottish
 National Institution for the Education of Imbecile Children, at Larbert,
 Stirlingshire, transmitting a pamphlet containing a complete list of the
 Institutions for Idiots in Germany, and the Twenty-fourth Annual
 Report of the New York Asylum for Idiots, and expressing his great
 regret that the urgent duties of his office had as yet prevented him from
 taking part in the discussions of the Committee.
-Dr. Boyd presented copies of his recently published Treatise on the
+Dr Boyd presented copies of his recently published Treatise on the
 Diseases of the Nervous System.
 The Committee then proceeded to consider the remaining heads of
 the second section of the Agenda, entitled "General Principles of
@@ -1290,12 +1290,12 @@ system should be adopted; and, under good management, it may be
 made advantageous to the institutions in a financial sense by diminish-
 ing the cost of maintenance."
 Seventh Meeting. Wednesday, May 31 st.
-Dr. Langdon Down presented copies of a paper on the " Education
+Dr Langdon Down presented copies of a paper on the " Education
 and Training of the Feeble in Mind," read by him at the Social Science
 Congress of 1867, and reprinted for the use of the Committee.
 Mr. Millard communicated a condensed statement of the arrange-
 ments for the education and care of idiots and imbeciles in the United
-States, and a letter to him on the same subject from Dr. Wilbur, Super-
+States, and a letter to him on the same subject from Dr Wilbur, Super-
 intendent of the New York Asylum.
 The Committee then discussed, at considerable length, the fourth
 head of the third section of the Agenda, viz. " The best mode of treat-
@@ -1332,7 +1332,7 @@ the original resolution was carried.
 Ninth Meeting. Wednesday, June 14th.
 A report was made of a visit paid on the previous day by ten
 members of the Committee to the Earlswood Asylum.
-A letter, dated the 27th ult., from Dr. Wilbur, Superintendent of
+A letter, dated the 27th ult., from Dr Wilbur, Superintendent of
 the New York Asylum for Idiots, to Sir Charles Trevelyan, approving
 of the Agenda, and commenting upon the proceedings at the third and
 fourth meetings, were submitted to the Committee.
@@ -1363,7 +1363,7 @@ parts of the United Kingdom, as a basis for an uniform law for the
 helpless classes.
 Tenth Meeting. Wednesday, June 21 st.
 A report was made of a visit paid on the previous day by nine
-members to Dr. Langdon Down's establishment at Normansfield,
+members to Dr Langdon Down's establishment at Normansfield,
 Hampton Wick.
 Answers were read from the Foreign Office, transmitting informa-
 tion relating to idiot institutions in Switzerland and Belgium.
@@ -1371,16 +1371,16 @@ And printed copies of the following papers were distributed :?
 1st. A Short Account of the Idiot Asylums in Switzerland and North
 and South Germany, by Drs. Ireland and Beach.
 2nd. On the Arrangements for the Education and Care of Idiots and
-Imbeciles in Scotland, by Dr. Ireland, Superintendent of the Scottish
+Imbeciles in Scotland, by Dr Ireland, Superintendent of the Scottish
 National Institution for the Education of Imbecile Children ; and
-3rd. Letter to Sir Charles Trevelyan from Dr. Seguin, formerly of
+3rd. Letter to Sir Charles Trevelyan from Dr Seguin, formerly of
 Paris and now of New York.
 The existing arrangements for the education and care of idiots, im-
 beciles, and harmless lunatics in Scotland were then considered, under
 the sixth head of the fourth section of the Agenda, and letters were read
-from Dr. Mitchell, member of the General Board of Commissioners in
+from Dr Mitchell, member of the General Board of Commissioners in
 Lunacy for Scotland; Mr. Skelton, Secretary to the Board of Super-
-vision for the Kelief of the Poor in Scotland ; and Dr. Ireland.
+vision for the Kelief of the Poor in Scotland ; and Dr Ireland.
 Under the seventh head of the fourth section it was determined
 to postpone the consideration of new legislation until it shall be
 seen what arrangements may be recommended to be made.
@@ -1399,10 +1399,10 @@ Under the eleventh head, " That such governing bodies should also
 be charged with the education and care of blind and deaf and dumb
 children of the poorer classes."
 Eleventh Meeting. Wednesday, June 28th.
-Dr. Hack Tuke and Mr. Mocatta reported visits paid by them to
+Dr Hack Tuke and Mr. Mocatta reported visits paid by them to
 the School of the Metropolitan Asylums Board for Imbecile Children
 at Clapton.
-Dr. Hack Tuke presented a paper, reprinted for the use of the
+Dr Hack Tuke presented a paper, reprinted for the use of the
 Committee, on the Kichmond District Lunatic Asylum, Dublin,
 290 IDIOTS, IMBECILES, AND HARMLESS LUNATICS.
 showing how much may be done, even for adults, by regular school
@@ -1412,7 +1412,7 @@ the Dublin Statistical and Social Inquiry Society, alluded to at the
 close of the proceedings at the ninth meeting, were received and dis-
 tributed.
 The Committee then considered the twelfth head of the fourth
-section of the Agenda, " Administrative Arrangements," and Dr. Boyd
+section of the Agenda, " Administrative Arrangements," and Dr Boyd
 moved the following resolution :?
 " That the visitors of the County Lunatic Asylums, which contain
 a considerable proportion of the idiots, imbeciles, and harmless lunatics
@@ -1435,8 +1435,8 @@ on the previous Friday to the Leavesden Asylum.
 Answers were read from the Foreign and Colonial Offices, trans-
 mitting information relating to arrangements in Holland and the West
 Indies.
-And copies were distributed of a translation (made by Dr. Ireland)
-of a letter from Dr. Kind, Medical Superintendent of the Idioten-
+And copies were distributed of a translation (made by Dr Ireland)
+of a letter from Dr Kind, Medical Superintendent of the Idioten-
 Anstalt at Langenhagen, in Hanover, on the arrangements for the
 education and care of idiots and imbeciles in North Germany.
 The Committee then had before them the thirteenth head of the
@@ -1496,7 +1496,7 @@ given to children should not be deemed to be parochial relief given to
 their parents?should be extended to idiots, imbeciles, and harmless
 lunatics."
 Fourteenth Meeting. Wednesday, Jidy 19.
-A statement by Dr. Ireland on the bearing of the Scottish Lunacy
+A statement by Dr Ireland on the bearing of the Scottish Lunacy
 Acts upon the condition of Idiots and Imbeciles in Scotland was dis-
 tributed.
 The 6th section of the Agenda, entitled " Provision for Idiots and
@@ -1545,9 +1545,9 @@ It was then resolved that a sub-committee should be appointed to
 prepare a draft of the report, consisting of the following member : ?
 The Hon. C. H. Strutt.
 Sir Charles Trevelyan, Bart., Iv.C.B.
-Dr. Brewer.
-Dr. Langdon Down.
-Dr. Grabham.
+Dr Brewer.
+Dr Langdon Down.
+Dr Grabham.
 Mr. W. M. Wilkinson.
 Mr. Millard.
 In some observations on the administration of medical relief to the

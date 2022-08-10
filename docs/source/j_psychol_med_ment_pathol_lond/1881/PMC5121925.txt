@@ -41,8 +41,8 @@ Among the institutions I visited were Saughton Hall
 Asylum, near Edinburgh, under the charge of J. Batty
 Tuke, M.D. ; the Royal Edinburgh Asylum, under charge of
 T. S. Clouston, M.D.; Fulborn Asylum, near Cambridge,
-under charge of Dr. Or. M. Bacon; St. Ann's Asylum, Paris;
-Asylum for the insane at Munich, undercharge of Dr. Gudden ;
+under charge of Dr Or. M. Bacon; St. Ann's Asylum, Paris;
+Asylum for the insane at Munich, undercharge of Dr Gudden ;
 the asylums at Vienna and Prague; and, lastly, the institution
 that is now exciting so much attention in Germany, at Alt
 Seherbitz, near Leipsic. I visited ten places where the insane
@@ -53,7 +53,7 @@ thoroughly, but my cross-examinations in order to get at the
 modes of treatment, methods of restraint, and general management of the institutions, were always pleasantly responded to on
 the part of those with whom I was brought into relation.
 Assistance of the most valuable character I derived from
-conversations with Dr. J. Crichton Browne, formerly of the West
+conversations with Dr J. Crichton Browne, formerly of the West
 Riding Asylum, and now one of the Lord Chancellor's Visitors
 in Lunacy, and who is therefore situated so as to know, as well
 as anyone possibly can, the present conditions and the prospects
@@ -61,7 +61,7 @@ of the asylum systems of England. By his suggestion I obtained a copy of the lun
 Esq., and containing all the statutes relating to Private Lunatics, Pauper Lunatics, Criminal Lunatics, Commissions of
 Lunacy, Public and Private Asylums, and the Commissioners in
 Lunacy.
-From this volume and my conversations with Dr. Browne,
+From this volume and my conversations with Dr Browne,
 I obtained points which were more or less new to me, and
 which have aided me in reaching the conclusions I am here
 presenting. These conclusions, stated as briefly as possible,
@@ -85,8 +85,8 @@ Westphal, of Berlin, who takes much interest in the subject of
 the treatment of the insane, and by whose suggestions and
 invitation I visited the institution at Alt Scherbitz. Professor
 Ball, of Paris, also gave me information of value in reference
-to the French system and institutions. Dr. Arnold Pick, of
-Prague, a student of Dr. Westphal's, interested himself very
+to the French system and institutions. Dr Arnold Pick, of
+Prague, a student of Dr Westphal's, interested himself very
 much in my inquiries. Conversations of this kind with different
 individuals in different countries, in asylums and out of asylums,
 I found of quite as much assistance as visiting institutions; I
@@ -162,7 +162,7 @@ Out of three hundred and forty-seven private and pauper
 male patients in the West House of the Eoyal Edinburgh
 Asylum, two hundred and fifty-four were profitably employed :
 one hundred eighty-four in out-door work, thirty-eight as
-tradesmen, and thirty-two as assisting attendants. The difficulty that Dr. Shaw, of the Flatbush Asylum, encountered,
+tradesmen, and thirty-two as assisting attendants. The difficulty that Dr Shaw, of the Flatbush Asylum, encountered,
 that is, the objection of friends of the patients to having their
 insane friends and relatives compelled to work, is not met with
 in Europe; so far as I could learn no such prejudice has to be
@@ -240,7 +240,7 @@ The experiment of carrying on a lunatic asylum with unlocked doors, dispensing a
 one of the most interesting and important of all the scientific
 advances that have been made in the treatment of the insane,
 and both alienists and psychologists would do well to study it.
-Dr. J. Batty Tuke, of the Saughton Hall Institution, near
+Dr J. Batty Tuke, of the Saughton Hall Institution, near
 Edinburgh, in his report for 1879, says that when he was
 medical superintendent of the Fife and Kinross District
 Lunatic Asylum, he ordered all the doors of the asylum, inside
@@ -253,9 +253,9 @@ caused them to be more watchful and careful, and, for a time,
 there was some increase in the number of escapes; but after a
 few weeks this anxiety on the part of the officers and the increase in the number of attendants ceased to be necessary, and
 the doors were not specially watched. This system was carried
-out in the same asylum by Dr. Tuke's successors, Drs. John
+out in the same asylum by Dr Tuke's successors, Drs. John
 Fraser and Joseph Brown.
-Dr. Arthur Mitchell, Commissioner in Lunacy, of Scotland,
+Dr Arthur Mitchell, Commissioner in Lunacy, of Scotland,
 THE ASYLUMS OF EUROPE. 59
 in liis report for 1879, says of this asylum that " it was entered
 and traversed almost from end to end without summoning a
@@ -263,9 +263,9 @@ servant, or requiring any door to be unlocked ; only three wards
 ?two female and one male?were locked." In two other
 Scottish asylums for the insane this plan has been adopted. In
 the Barony Asylum, at Lenzie, near Glasgow, under charge of
-Dr. James Rutherford, every door of the institution is unlocked,
+Dr James Rutherford, every door of the institution is unlocked,
 although it contains 450 patients.
-When Dr. Tuke took care of Saughton Hall Institution, he
+When Dr Tuke took care of Saughton Hall Institution, he
 carried out the same system of treatment, and in his report for
 1879 he says that there have been no escapes and no attempts
 at escape; that patients who used to stand at the doors, on the
@@ -378,7 +378,7 @@ been nowhere such satisfactory progress as here. This is the
 philosophical method of combating insanity: treating the insane
 before they are insane; arresting candidates for lunacy before
 they have stepped on the threshold of the asylum.
-In regard to private asylums, concerning which Dr. Bucknill
+In regard to private asylums, concerning which Dr Bucknill
 has lately written with so much vigour, these two facts must be
 admitted : that the system is liable to abuse or to suspicion of
 abuse, even under the central supervisory commissions, but that

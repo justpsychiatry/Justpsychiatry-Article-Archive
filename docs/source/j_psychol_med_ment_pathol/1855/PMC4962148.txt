@@ -1,13 +1,13 @@
 American Institutions for the Insane
 =====================================
 
-1. In July, 1852, Dr. Andrew McFarland resigned the officc of Superinten-
+1. In July, 1852, Dr Andrew McFarland resigned the officc of Superinten-
 dent of the New Hampshire Asylum for the Insane, having, in the language of
 the Trustees of the Institution, " with signal ability and devotion discharged
-the duties for about seven years." He was succeeded by Dr. John E. Tyler,
+the duties for about seven years." He was succeeded by Dr John E. Tyler,
 in whom the Trustees believe that they have "a judicious, efficient, and devoted
 Superintendent."
-The report of Dr. Tyler for the fiscal year ending on the 31st of May, 1853,
+The report of Dr Tyler for the fiscal year ending on the 31st of May, 1853,
 seven months after he became connected with the asylum, is limited to about
 half a dozen pages, and contains but little matter of general interest to medical
 men. It is a very prudent and sensible production for a beginner.
@@ -41,7 +41,7 @@ Total.
 107
 143
 03
-Dr. Tvler complains that the number of patients is so great as to prevent a
+Dr Tvler complains that the number of patients is so great as to prevent a
 proper classification of them.
 * 1. Of the New Hampshire State Asylum, for 1852 and 1853.
 2. Of the McLean Asylum, for 1853 and 1854.
@@ -80,7 +80,7 @@ literally worn out by the continued and unremitting force of their malady."
 Patients admitted from 1843 to 31st May, 1854 . . . 1199
 Cured     497
 Died 106
-2. Dr. Bell, of the McLean Asylum, has written but a few reports of any
+2. Dr Bell, of the McLean Asylum, has written but a few reports of any
 length, and in the two which are now before us he is even unusually brief, both
 of them occupying but about a dozen pages. One reason of this brevity is
 mentioned in the extract which we subjoin, merely remarking that, although it
@@ -132,19 +132,19 @@ Remaining at the closc of the year ... 97 98 195
 Of those discharged, there were cured 32 27 59
 Died 5 11 16
 The McLean Asylum was opened on the Gth of October, 1S28. It was under
-the superintendence of Dr. Wyman about sixteen years, and of his successor,
-Dr. Lee, two years. Dr. Bell has been the incumbent of the office since the
+the superintendence of Dr Wyman about sixteen years, and of his successor,
+Dr Lee, two years. Dr Bell has been the incumbent of the office since the
 commencement of 1837, a period of eighteen years. We believe this to be the
 longest term of service of any officer who has occupied an office of the kind in
 this country.
-Patients admitted under Dr. Wyman . . 1122
-Dr. Lee . . . 189
-Dr. Bell . . . 2572
+Patients admitted under Dr Wyman . . 1122
+Dr Lee . . . 189
+Dr Bell . . . 2572
 Whole number admitted . . . .3783
 Discharged, including deaths .... 3588
 Cured 1802
 Died   322
-" I cannot but believe," remarks Dr. Bell, " that the time is near when the
+" I cannot but believe," remarks Dr Bell, " that the time is near when the
 necessity of dividing this asylum, and establishing a department for one sex
 elsewhere in the vicinity, will result in action. The financial experience of
 this establishment, for many years past, would seem to demonstrate that the
@@ -165,10 +165,10 @@ Died .   13 9 22
 AMERICAN INSTITUTIONS FOE THE INSANE.
 565
 The Retreat was opened oil the 1st of April, 1824. For ten years it was
-under the superintendence of Dr. Todd, six years under Dr. Fuller, and three
-years under Dr. Brigham. At the date of this report it has been eleven years
-under Dr. Butler.
-Patients admitted in course of the term of Dr. Todd . . 520
+under the superintendence of Dr Todd, six years under Dr Fuller, and three
+years under Dr Brigham. At the date of this report it has been eleven years
+under Dr Butler.
+Patients admitted in course of the term of Dr Todd . . 520
 Thus the deaths of cases, during thirty years, was 10*05 per cent. But, upon
 reference to another table, we find that the whole number of persons who made
 up these 2653 cases was but 1798. Of these 1798 persons, 218 were admitted
@@ -181,7 +181,7 @@ comparison of tables, upon the number of persons cured. This is an imperfec-
 tion which, as wc have heretofore remarked, pervades nearly all the American
 statistics of insanity.
 One further illustration, which we overlooked until the last preceding sen-
-tence was written. Dr. Butler states that the per centagc of deaths on the
+tence was written. Dr Butler states that the per centagc of deaths on the
 whole number discharged since the opening of the institution is 10*82. This
 is correct, if calculated upon the number of cases. But what is the result, if
 otherwise regarded? Of 1798 persons admitted, 186 remained in the asylum.
@@ -200,21 +200,21 @@ liver 1, disease of uterus 1, acute diarrhoea 1, dropsy 1, cancer 1.
 After stating that " neither order of court, certificate of physicians, nor
 written application of friends or relatives " is required for getting a patient into
 the Retreat, and that " the admission rests solely upon the judgment of the
-superintendent," Dr. Butler very properly appeals to the Board of Directors to
+superintendent," Dr Butler very properly appeals to the Board of Directors to
 remove the responsibility from him, and place it upon the friends and the
 attending physician of the patient. Where arc the Connecticut lawyers, judges,
 and legislators, that such a weak point in the barriers of the rights and liber-
 ties of the people has thus long remained unguarded ?
-The remarks of Dr. Butler upon the condition in which patients come to the
+The remarks of Dr Butler upon the condition in which patients come to the
 Retreat close with this passage, which we earnestly commend to the notice and
 the memory of every physician in general practice: " Others, worse than all,
 have been brought here by the ill-j udged and most pernicious means of decep-
 tion, the effect of which has been, in every case that ever came under my
 observation, both annoying to ourselves and detrimental to the poor sufferer.
 cc
-Dr. Fuller. . 481
-Dr. Brigham . 246
-Dr. Butler . 1388
+Dr Fuller. . 481
+Dr Brigham . 246
+Dr Butler . 1388
 Whole number admitted .
 Cured .
 Died .
@@ -295,7 +295,7 @@ rank to which they have justly heretofore had claim, a more liberal expendi-
 ture than has been adopted in most, in regard to occupation both of body and
 mind, amusement, &c., must be adopted."
 4. The movement of the population of the Lunatic Asylum for the Poor of
-New York City, for 1853, as given iu the report by Dr. Ranney, was as follows
+New York City, for 1853, as given iu the report by Dr Ranney, was as follows
 __ , - . t Men- Women. Total.
 Number of patients, January 1st . . . 226 301 527
 Admitted in course of the year . . . 226 261 437
@@ -307,7 +307,7 @@ Died   56 59 115
 Of those cured 14 were cases of delirium tremens, 2 of febrile delirium, and
 7 were discharged, " recovered," twice each, in course of the year. These
 being subtracted, the number of cures is 218.
-"The ratio of recoveries," remarks Dr. Hanney, "is a little more than 50
+"The ratio of recoveries," remarks Dr Hanney, "is a little more than 50
 per cent. The proportion must depend much upon the length of time the dis-
 ease has existed previous to admission. Usually the indigent are placed in an
 asylum earlier than the wealthy. For this, as well as other reasons, the per-
@@ -335,7 +335,7 @@ the ratio of insane is very much less among the natives, or they are kept at
 their homes. Probably the first supposition is true, and this may arise in part
 from peculiar causes incident to emigration, and in part from the shipment of
 the insane from Europe during a lucid interval."
-Dr. Itanncy, as he intimates, has had uncommon advantages for studying
+Dr Itanncy, as he intimates, has had uncommon advantages for studying
 568 AMERICAN INSTITUTIONS FOR THE INSANE.
 chronic dementia, and he asserts his belief that "by constant training, very
 many who, if left to themselves, fall into the most miserable condition, would
@@ -350,16 +350,16 @@ by nourishment and the proper mental stimulus."
 These remarks remind us of the case of a man of more than ordinary intel-
 lectual capacity, who was more than fifteen years a patient at Bloomingdale,
 a large part of the time demented. Attacked with typhoid fever, and removed
-to the New York Hospital, lie died. The late Dr. Swett made a post-mortem
+to the New York Hospital, lie died. The late Dr Swett made a post-mortem
 examination, and found in the brain no lesion of importance — absolutely
 nothing whereby to explain the patient's long-continued mental incapacity.
 5. Iu their report for 1853, the Commissioners of the Indiana Hospital for the
-Insane refer to the resignation of Dr. 11. J. Paterson, who had held the officc
+Insane refer to the resignation of Dr 11. J. Paterson, who had held the officc
 of superintendent from the opening of the institution, and remark that " in his
 departure lie carried with him not only the high esteem of every other officer and
 attendant of the hospital, but, we trust, of every friend of the unfortunate
 lunatic in the State." He left 011 the 1st of June, 1853, and was succeeded by
-Dr. James S. Athon.
+Dr James S. Athon.
 Men. Women. Total.
 Patients in the hospital, October 31, 1S52 . 81 78 159
 Admitted in course of the year . . .74 82 15 G
@@ -379,7 +379,7 @@ crowded to its utmost capacity." The erection of an additional wing is in
 prospcct.
 Two suicides, the first which have occurred in the hospital, took place in the
 course of the year.
-From the remarks by Dr. Athon upon the medical treatment of the insane,
+From the remarks by Dr Athon upon the medical treatment of the insane,
 we make the following extract:—
 " Emetics and purgatives arc useful in expelling vitiated matters from the
 stomach and bowels. Conjoined with proper diet and exercise, they may be
@@ -407,7 +407,7 @@ Of those discharged, there were cured . . 59 55 111
 Died 5 8 13
 Causes of death.—Typho-mania 3, general paralysis 2, maniacal exhaustion 2,
 pulmonary consumption 2, scrofula 2, tabes mesenterica 1, erysipelas 1.
-" Scarcely any other disease," remarks Dr. Athon, " than what is consequent
+" Scarcely any other disease," remarks Dr Athon, " than what is consequent
 to insanity, has had a place in our wards, although the adjacent country has
 suffered much from summer and autumnal afflictions."
 It is stated in the report of the commissioners that the great per-centage of
@@ -427,7 +427,7 @@ Discharged, recovered . . . . . . 192 178 370
 Died . . . . • •   ... 03
 Religious excitement and anxieties is alleged as the cause of the mental
 alienation in G1 cases, Millerism in 2, and " spiritual rappings" in 29.
-" Millerism, in its day," says Dr. Athon, " startled the minds of men and
+" Millerism, in its day," says Dr Athon, " startled the minds of men and
 turned them into religious bigots, and thcnce the transition was easy, in many
 instances, to insanity. But the spiritual rapping mania eclipses Millerism, or
 any other ism, in its agency to produce aberration of mind. The spiritualists
@@ -439,7 +439,7 @@ G. The reports from the Illinois State Hospital for the Insane arc biennial,
 that which is about to occupy our attention being for the fiscal years ending on
 the 30th of November, 1853 and 1854.
 The former superintendent having left the institution, he was succeeded, in
-June, 1854, by Dr. Andiieav McFarland, for some years favourably known to
+June, 1854, by Dr Andiieav McFarland, for some years favourably known to
 our readers as the principal officer of the State Asylum of New Hampshire.
 The Trustees remark of him that their high expectations in regard to his supe-
 rior qualifications for the office "have been fully realized."
@@ -492,7 +492,7 @@ N. Hampshire 7, N. Jersey 7, Massachusetts 5, Maryland 5, Connecticut 4,
 Maine 3, Delaware 3, Missouri 2, It. Island 1, Wisconsin 1, Georgia 1. Ger-
 many 30, Ireland 25, England 12, Scotland 4, Prance 3, Sweden 1, Russia 1,
 Poland 1.
-Dr. McFarland thinks that, considering the great proportion of foreigners
+Dr McFarland thinks that, considering the great proportion of foreigners
 among the inhabitants of the State, the number of them in the hospital is small.
 " The Germans," lie observes, " arc the best, as they arc the most numerous
 of our foreign patients. They possess a healthy and elastic mental constitu-
@@ -501,7 +501,7 @@ recover."
 We know that for many years there has been some discrepancy of opinion
 among the superintending physicians of our institutions for the insane, in re-
 gard to the utility of a committee, such as is mentioned in the subjoined ex-
-tract ; and we rejoice that Dr. M. has found it to work so favourably
+tract ; and we rejoice that Dr M. has found it to work so favourably
 " Another feature in the experience of the hospital for the past year, too
 interesting and too important to be passed without notice, is the formation, on
 the part of the ladies of Jacksonville, of a benevolent association, having for its
@@ -523,7 +523,7 @@ parlours arc being converted into dormitories, undoubtedly to the detriment of
 the establishment. The question now is, whether the primary design shall be
 carried out, or a new hospital established in another portion ot* the State. The
 Association of Physicians to American Institutions lor the Insane have depre-
-cated hospitals intended for more than 250 patients, yet Dr. McParland advo-
+cated hospitals intended for more than 250 patients, yet Dr McParland advo-
 cates the enlargement of that at Jacksonville, by the addition of the formerly
 contemplated wings, and alleges the reasons therefore, expressing his belief that
 the special circumstances render this institution an exception to the general
@@ -534,7 +534,7 @@ institution. We have no information in regard to the precise time at which
 the establishment was opened, nor any detailed description of it. It appears
 t hat it contains seventy-two rooms, each designed for one patient; that it is
 being enlarged, so as to accommodatc about seventy more; and that it is under,
-the superintendence of Dr. T. It. II. Smith. During most of flie period em-
+the superintendence of Dr T. It. II. Smith. During most of flie period em-
 braced by this report it has been over-crowded with patients, the " usual
 average" number having been "about one hundred;" and over seventy
 applications for admission have been rejected.
@@ -559,7 +559,7 @@ suffered greatly from dysentery. The prevailing disease with us was diarrhoea,
 with a few cases of dysentery and typhoid fever. The attacks were generally
 very violent in their character, and all of a typhoid type. The fatality, the
 number of cases considered, could not be regarded otherwise than small.39
-Dr. Smith, in explaining the apparently, the really large mortality, says
+Dr Smith, in explaining the apparently, the really large mortality, says
 '■ The patients received into this institution, when first opened, and until filled
 to its entire capacity, with a few exceptions, were those of long standing, who
 NO. XXXII. P p
@@ -568,7 +568,7 @@ AMERICAN INSTITUTIONS FOR TIIE INSANE.
 had been accumulating for many years iu consequence of the want of provision
 for their proper treatment. A large number of these were also labouring under
 incurable diseases associated with their insanity." Such, or similar, has been
-the cxpcricnce at a very considerable number of our institutions, and Dr. Smith
+the cxpcricnce at a very considerable number of our institutions, and Dr Smith
 is not the first who, at the opening of an asylum, has seen a large number of his
 patients succumb within the first few months.
 Of the cpileptics, " the majority died during convulsions, and the remainder
@@ -599,7 +599,7 @@ The moral treatment pursued at this asylum is similar to that of other
 American institutions of the kind, and is already so fully understood as to
 require no further description in this place. A chapel has been constructed,
 and a library of 500 volumes collected by gratuitous contribution.
-In his discussion of the causcs of mental disorders, Dr. Smith makes the
+In his discussion of the causcs of mental disorders, Dr Smith makes the
 following observations:—
 " It has been a source of astonishment to many that insanity should prevail
 to so great an extent in this highly-favoured land of ours, and seems to be
@@ -636,7 +636,7 @@ education constitutes the great predisposing cause to crime as well as insanity;
 sad combination truly. The statistics of all hospitals for the insane prove that
 the great majority of the cases of insanity occur between the ages of lifteen and
 thirty, and the statistics of crime give us nearly the same results."
-We arc but little disposed to differ from our friend, Dr. Smith, in the really
+We arc but little disposed to differ from our friend, Dr Smith, in the really
 essential parts of this extract; but we must venture to propose some of the
 thoughts suggested by the perusal of it. The island of Malta was, by nature,
 a single mass, of rock, almost wholly destitute of vegetation and of soiL Yet

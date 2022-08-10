@@ -1,7 +1,7 @@
 Notes of a Recent Visit to Several Provincial Asyla For The Insane in France
 =============================================================================
 
-:Author:  John Webstek, M.D., F.R.S., ETC.
+:Author:  John Webstek, MD, FRS, ETC.
 
 Having taken considerable interest in promoting the study of mental diseases, and
 endeavoured to direct professional attention to that important subject, particularly in
@@ -32,8 +32,8 @@ than fifty patients. As every lunatic establishment is placed under the directio
 Prefet of the Department, the President of the Tribunal, the Procureur of the Republic,
 the Judge of the Peace, and the Mayor of the Commune ; and as they must be visited
 by the Procureur of the Arrondissement, at least every six months (in addition to the
-visits made by the Prefet, and the other official persons delegated by him, or by tlie
-Minister of the Interior, for that purpose), there is some guarantee they will be
+visits made by the Prefet, and the other official persons delegated by him, or by The
+ Minister of the Interior, for that purpose), there is some guarantee they will be
 properly conducted. But before any establishment can be opened for the admission of
 insane patients, besides these regulations, all rules for their internal administration
 must be first approved by the Minister. Again, by another clause of the same act, it is
@@ -43,10 +43,12 @@ enacted, that every house, intended for the reception of lunatic patients, must 
 entirely separate from any private establishment receiving inmates affected with other
 diseases; whilst the Procureur of the Arrondissement should visit each private asylum in
 the district, at least once every three months, at undetermined periods.
+
 According to the subsequent ordonnance of the 18th December, 1830, which regulates many details not comprehended in the Act of 1838, it is also ordered, that
 every public asylum for the insane shall be administered under the authority of
 the Minister of the Interior, and the Prefet of the Department; who aro to be assisted
 by a commission of five members, appointed by the Prefet, but acting gratuitously.
+
 The Director of the establishment, and the Physicians, are, in the first instance,
 nominated by the Minister; but if vacancies afterwards occur, the Minister must
 appoint from a list of three candidates proposed by the Prefet. However, the patronage
@@ -59,6 +61,7 @@ they are appointed, and at whose pleasure they retain their offices, the Ministe
 Interior thus becomes the sole patron and dispenser of all the important appointments
 now attached to the public insane asyla in France; much in the same way as the
 Minister of Justice has the patronage of those in the law nnd legal tribunals.
+
 Although the physicians must reside, according to this ordonnance, within the asylum,
 some may, by favour, nevertheless, obtain a special permission from the Minister to live
 elsewhere; but in that case the party ought to visit the lunatics confldcd to his care, at
@@ -106,6 +109,7 @@ it advisable to refrain at present from alluding, except cursorily, to the publi
 institutions of Paris, already so well known?namely, Bicetre for males, and the Salpetriere for females; which are the only public hospitals for insane pauper patients in
 the French metropolis. There is, however, the hospital at Charenton, for those of either
 sex who can pay a stipulated pension towards their treatment and maintenance.
+
 Of these institutious, the Salpetriere hospital is, perhaps, the largest establishment
 of the kind in Europe, being not only a workhouse for infirm women, but likewise an
 asylum for pauper insane females belonging to Paris and the environs. At present, the
@@ -180,8 +184,8 @@ George the Fourth was supported, during the last years of his chequered life, by
 liberality of Mr. Armstrong, the late British consul at Caen.
 
 Notwithstanding the numerous lunatic patieuts treated at this asylum, the medical
-staff consists of only two visiting physicians, Dr. Vastel taking charge of the male
-lunatics, and Dr. Fancon Duquesnay of the female department; the arduous duties of
+staff consists of only two visiting physicians, Dr Vastel taking charge of the male
+lunatics, and Dr Fancon Duquesnay of the female department; the arduous duties of
 which they each perforin regularly and zealously. But as neither of those experienced
 gentlemen reside at the asylum, both being practitioners of repute in Caen, and there
 are no internes, it hence follows, when any emergency occurs requiring medical aid,
@@ -193,24 +197,41 @@ carried out in most of the insane asyla throughout France.
 
 During the year 1840, the movements of insane patients at Bon Sauveur was as
 follows:?
-Admitted Males, 00   Females, 03   Total, 123.
-Discharged cured... Males, 42   Females, 30  Total, 72.
-Died Males, 31 Females, 21   Total, 52.
+
+.. list-table:: Movements of insane patients
+    :widths: 50 15 15 20
+    
+* - 
+  - Males
+  - Females
+  - Total
+* - Admitted  
+  - 00
+  - 03
+  - 123
+* - Discharged cured
+  - 42
+  - 30
+  - 72
+* - Died 
+  - 31 
+  - 21
+  - 52
 
 Amongst the above deaths it should, however, be stated, that 18 men and 11 women
 died last year by cholera, whereby the mortality of the lunatics was considerably
 augmented beyond the ordinary average; and as similar effects from the recent
 epidemic will be noticed in the other lunatic institutions referred to in the present
-communication, this peculiar feature of the year 1819 must not l)e overlooked, when
+communication, this peculiar feature of the year 1819 must not be overlooked, when
 drawing conclusions respecting the ratio of deaths met with amongst the insane,
 in the various establishments I visited.
 
 Not having been originally constructed for the reception of lunatics, the buildings
 are defective in many respects, especially the cells for the agitated patients, which
-have stone walls, iron bars, and unglazed windows ; the beds in such localities being
+have stone walls, iron bars, and unglazed windows; the beds in such localities being
 frequently wooden cages, into which the afflicted inmate is even locked at night, besides
 being tied to the bed, or confined by a strait waistcoat. The superior class of patients
-liave, however, often excellent accommodation, some in detached houses, with gardens,
+leave, however, often excellent accommodation, some in detached houses, with gardens,
 particularly on the female side; whilst the gardens generally are beautiful, and kept iu
 excellent order.
 
@@ -223,6 +244,7 @@ executive must be considerable; and a director of an insane establishment in ano
 part of France, who seemed as well acquainted with Bon Sauveur as he is also
 with the cost of keeping such institutions, told me distinctly the profit derived from the
 lunatics at this asylum, could not amount to less than 80 or 100,000 francs annually.
+
 As in most French public asyla for the insane I have ever visited, the female lunatics
 in this hospice appeared much more agitated and noisy than the male patients; at the
 same time, mechanical restraint seemed oftener employed in the former than the
@@ -250,7 +272,7 @@ from agreeable ; and my kind conductors thought so likewise, whilst they told me
 one of their sisterhood had been almost strangled by a furious maniac then at large in
 the court-yard we had just visited.
 
-So little importance seems attached at this institution to employing tlie straitwaistcoat in refractory cases, that I was informed, if any sudden fit ofplirenzy seized a
+So little importance seems attached at this institution to employing The  straitwaistcoat in refractory cases, that I was informed, if any sudden fit ofplirenzy seized a
 patient, the sisters in the ward, at their own discretion, would at once put the party in
 a camisole, or shut up the lunatic in one of the caged beds, to which they were likewise
 even bound by ligatures; and this'was done, they said, as well for the patient's own
@@ -265,7 +287,7 @@ persons ; but the system and machinery now in operation in such an establishment
 bad; and 1 unhesitatingly assert, however well disposed or charitable the holy sisterhood
 are undoubtedly, there ought to be resident medical attendants, with internes, having
 the sole and responsible control over every patient; the entire management being also
-remodelled and made conformable to the reeent laws enacted by tlie legislature,
+remodelled and made conformable to the reeent laws enacted by The  legislature,
 according to which every public lunatic establishment in France ought to be now
 governed.
 
@@ -286,7 +308,7 @@ When alluding to the holy sisterhood of this large institution, and the importan
 position they still hold, it may be considered interesting to state, as an illustration of
 the persons often composing this religious body, that many belong to the upper ranks
 of society, of which the following is an instance. During my perambulations through
-the extensive apartments of the establishment, 1 was introduced to a noble " Comtesse"
+the extensive apartments of the establishment, 1 was introduced to a noble "Comtesse"
 connected with a distinguished family, formerly attached to the court of one of the
 recent kings in France, when royalty was still in the ascendancy. This lady had also
 moved in the first circles of London, -where she likely joined, as also at Paris, in the
@@ -325,14 +347,14 @@ improving the well-being of the patients, more meritorious.
 
 ; At present no resident physician is attached to St. Meen's, although there was one
 formerly. Since his removal by the Minister of the Interior to another asylum, the
-institution is only visited every other day by Dr. Pechot an eminent physician, in
+institution is only visited every other day by Dr Pechot an eminent physician, in
 general practice at Rennes, appointed temporarily for that purpose, from his high qualifications and reputation. Two internes, however, reside in the house, but as both can
 never be absent at the same time, medical assistance is always at hand; and if any
 case of emergency occurs, the visiting physician is immediately sent for. Should he
 be otherwise engaged, or out of the way at the time, then one of the professors of the
 medical school is called in to see the case, and give directions. Farther, in order that
 no delay may ever occur under such circumstances, a horse and carriage is always kept
-ready to bring the physycian or deputy to St. Meen's; whilst on the days Dr. Pechot
+ready to bring the physycian or deputy to St. Meen's; whilst on the days Dr Pechot
 does not visit the asylum, an interne goes round the wards, sees all the patients, and
 prescribes whatever he thinks necessary.
 
@@ -344,10 +366,29 @@ the farm will be again resumed.
 
 During the year 1849, the following was the movement of the insane patients at St.
 Meen's Asylum:?
-Admitted Males, 47 Females, 44   Total, 91.
-Discharged cured... Males, 22  Females, 15 Total, 37.
-Died  Males, 24  Females, 25  Total, 49.
-Of the 49 deaths now reported, it is necessary to mentiou, that 21 were caused by
+
+.. list-table::Movement of Insane Patients  at St. Meen's Asylum 1849
+    :widths: 40 20 20 20
+    :header-rows: 1 
+* -
+  - Males
+  - Females
+  - Total
+* - Admitted
+  - 47 
+  - 44
+  - 91
+* - Discharged cured...  
+  - 22
+  - 15
+  - 37
+* - Died
+  - 24
+  - 25
+  - 49
+...
+
+Of the 49 deaths now reported, it is necessary to mention, that 21 were caused by
 cholera, 10 of whom were men, and 11 women. Again, with reference to the total
 number of lunatics in the institution on the day I visited the wards, they consisted of
 143 men and 1G8 women; making an aggregate population of 311 lunatics then under
@@ -369,7 +410,7 @@ straps are used in this Asylum, and the strait waistcoat is the only instrumenta
 restraint permitted, which measure must never be employed by any attendant without
 the specific order of the physician, or, in his absence, of the interne in charge of the
 patients; the great desire of all being to use restraint as seldom as possible; and
-doubtless this contributed to the marked quietude of the wards above observed.
+doubtless, this contributed to the marked quietude of the wards above observed.
 Many of the patients were epileptics; several were affected with general paralysis,
 and some with erotomania; and what is somewhat singular, especially in France
 three, if not four, could not be prevailed upon to speak at any time, and one of these'
@@ -386,7 +427,7 @@ lunatics, its management seemed, on the whole, creditable to the authorities. Ev
 effort is made to employ the patients, both male and female; the men in the gardens,
 cutting firewood, weaving, shoemaking, carpenters' work, also in the kitchen, out-offices
 of the institution, and so forth. The women seemed especially busy in various occupations, which was greatly promoted by the zeal and perseverance of the chief female
-attendant?somewhat similar to the matron in an English asylum. This lady attached
+attendant somewhat similar to the matron in an English asylum. This lady attached
 great importance to employing lunatics, as it materially promoted their recovery; and in
 consequence, nearly all the female patients in the wards seemed employed, either in
 spinning, knitting stockings, making clothes, mending, sewing, and similar occupations.
@@ -398,7 +439,7 @@ work, by giving them a certain proportion of the money they thus gain, as a reco
 some money, however small, when they leave the institution.
 
 As in most other public asyla for the insane, private patients, who pay for their treatment and maintenance, are likewise admitted at St. Meen's; but owing to the uncertainty respecting the future fate of the establishment, and other causes, the number of
-that class of lunatics at present is inconsiderable ; there being only 23 male patients
+that class of lunatics at present is inconsiderable; there being only 23 male patients
 and 19 females in the house, who pay from 500 to 1000 francs annually; and considering all things, the charges seemed fair and moderate.
 
 Although a lunatic asylum, strictly speaking, and not a workhouse, like some other
@@ -410,7 +451,8 @@ details given of the resident population; the 311 patients reported, being all m
 less afflicted with mental diseases; many of whose maladies, as in most public French
 lunatic asyla, were of long continuance, and therefore incurable.
 
-Nantes Asylum.
+Nantes Asylum
+-------------
 
 This celebrated establishment, like that of Bon Sauveur, forms only one division of
 the " Hospice General" of the ancient and populous city of Nantes. It is situated near
@@ -424,10 +466,10 @@ now labour under various forms of disease, whilst many others are paupers or inf
 old persons; but especially as the entire establishment has only one large kitchen to
 supply the whole inmates, I consider the lunatic asylum, now under review, objectionably placed, notwithstanding the admirable arrangements of the building appropriated
 to the insane, which is one of the best throughout France; and may well be taken as
-amodel for similar structures by public bodies, alone anxious to promote the comfort
+a model for similar structures by public bodies, alone anxious to promote the comfort
 and proper classification of the insane, without looking too much to architectural ornaments, or ad captandum appearances.
 
-Tlie total population of the Hospice General of Nantes, at the period of my visit, comprised 1190 individuals, who were thus distributed:?1st, 190 infirm old men, and 205
+The  total population of the Hospice General of Nantes, at the period of my visit, comprised 1190 individuals, who were thus distributed:?1st, 190 infirm old men, and 205
 women of the same description, making a total of 455 inmates of what we call in England a workhouse. 2nd, 25 deaf and dumb persons. 3rd, 14 male and female boarders.
 4th, 101 orphans or foundlings?composed of 82 boys and 79 girls; and lastly, 391
 lunatics; to which must be added 150 individuals who compose the staff of officers,
@@ -436,11 +478,11 @@ aDoreSate number of ] 190 persons, all resident in the institution.
 
 Formerly, only one physician attended to the medical treatment of this large population ; now, two practitioners of repute, resident in Nantes, and in general practice, have
 the medical charge of all the inmates excepting those who are insane; which important
-duty is confided to Dr. Bouchet, so well known in France as elsewhere, for his scientific
+duty is confided to Dr Bouchet, so well known in France as elsewhere, for his scientific
 attainments, and experience in mental diseases. The physician resides at the institution,
 and gives his whole time and attention to the insane patients of the asylum, being
 debarred from pursuing private practice. He has two internes, who reside in the house
-constantly; and if Dr. Bouchet considers it necessary, at any time, to have a consultation of physicians, or surgeons, especially in physical disease, or if an epidemic prevails
+constantly; and if Dr Bouchet considers it necessary, at any time, to have a consultation of physicians, or surgeons, especially in physical disease, or if an epidemic prevails
 amongst the inmates of the lunatic wards, he may call in any of the civil practitioners
 resident in Nantes he thinks advisable, who are paid by the administration of the hospice,
 Lfor services so rendered, as if in private practice. This is an admirable arrangement,
@@ -505,7 +547,7 @@ still in progress. Amongst the females, many were engaged in sewing, knitting, m
 clothes, cooking, and in other household duties. Besides the above occupations, a small
 farm, of about thirty acres, being also attached to the hospital, the lunatics have thus a
 locality where they may be occupied in agricultural employments. But if I understood
-Dr. Bouchet's opinions correctly, that distinguished psychologist, although a decided
+Dr Bouchet's opinions correctly, that distinguished psychologist, although a decided
 advocate of out as well as in-door employments for lunatics, prefers horticultural to
 agricultural occupations; and in such a distinction I have heard other physicians also
 acquiesce.
@@ -513,8 +555,8 @@ acquiesce.
 In support not only of the advantages, but of the safety of employing lunatic patients
 in many ordinary occupations, although dangerous instruments may be even placed in
 their hands, it is most satisfactory to state, on the authority of such a witness as Dr.
-Bouchet, that during the last eighteen years he has been a zealous promoter of tlie
-labour system; no accident has resulted from so employing insane patients, excepting in
+Bouchet, that during the last eighteen years he has been a zealous promoter of The
+ labour system; no accident has resulted from so employing insane patients, excepting in
 a single instance a few years ago, when one of the lunatic labourers struck another
 inmate with a deal board he was then carrying towards another part of the premises.
 But on this point it may be reasonably asked; might not similar consequences follow,
@@ -602,7 +644,7 @@ camisoles, and two, if not three, also tied to their beds, having been very viol
 during the preceding night. The female patients in restraint were more numerous
 than the male lunatics, fifteen persons of tbe softer sex being also in strait-waistcoats,
 four of whom were likewise confined in bed, to keep them from injuring others or
-themselves. None, however, were shut up in any of the cells; and all the twentyseven I saw under mechanical restraint were indigent patients.
+themselves. None, however, were shut up in any of the cells; and all the twenty seven I saw under mechanical restraint were indigent patients.
 
 Mental disease is rather more common in this district of France than in some
 neighbouring departments; intemperance and religion, but especially hereditary tendency,
@@ -630,7 +672,7 @@ engine, or a machine driven by horse power, to pump water from the adjacent rive
 This will prove a great adjunct to the establishment, and one which is very much
 required for the health and comfort of every resident.
 
-Occupations of various kinds are carried on at tlie asylum by the inmates of both sexes,
+Occupations of various kinds are carried on at The  asylum by the inmates of both sexes,
 and much of the labour in the gardens is performed by patients. The alterations and
 improvements also in progress are advanced by their means; and in the adjoining farm
 ?having upwards of forty acres, a similar system is pursued, the pigs, cows, and so
@@ -643,14 +685,14 @@ considered essential, and a great adjunct in promoting recovery.
 
 Having stated in a previous paragraph, that the offices of physician and director of
 the asylum are combined at St. Gemmes, before concluding this brief sketch of the
-above institution, it now only remains for me to say, Dr. Levincent fills these two
+above institution, it now only remains for me to say, Dr Levincent fills these two
 important and responsible appointments, as he has, I believe, done for several years
 past, with much credit to himself and benefit to the institution. The task is, however,
 herculean, as he not ouly treats medically the various insane patients under his charge,
 registers their history and cases, but likewise superintends the feeding, clothing, and
 domestic arrangements of this extensive establishment, to say nothing of the financial
 and other departments under his immediate surveillance. Besides such laborious occupations, the numerous improvements and alterations now in progress likewise occupy
-much of his time and attention; but as Dr. Levincent is known to be a physician of
+much of his time and attention; but as Dr Levincent is known to be a physician of
 energy and talent, he can, therefore, undertake official duties which to men otherwise
 constituted, would seem insuperable.
 (To be concluded in the January number.)

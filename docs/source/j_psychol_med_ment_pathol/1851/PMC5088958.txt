@@ -2,10 +2,11 @@ Statistics Of Suicide In France
 ================================
 
 fkom: 18B5 to 1846, inclusive.*
+
 At no period lias so much, been -written, at no period so little read, as in
 our own days. A*liost of curious works and interesting documents aro
 printed only to be forgotten?frequently most unjustly, as seems to U3 tlie
-case with regard to a thesis, recently published by .Dr. Petit, formerly
+case with regard to a thesis, recently published by .Dr Petit, formerly
 assistant resident medical officer at the Marleville Asylum, on the " Etiology
 of Suicide." This work, in other days, would hare obtained for its author
 the favourable notice of all who occupy themselves with social and political
@@ -14,12 +15,14 @@ inquiry throws a new light on one of the social infirmities of our times,
 and contains instructive information for the moralist. There is no fine
 writing or declamation, but figures?scarcely anything but figures?which,
 in our opinion, speak most eloquently. Here is the proof.
+
 The number of suicides in Prance in the space of twelve years, from
 1st January, 1835, to 31st December, 1846, was 33,032; that is, 2,752 in
 each year, or one in 12,646 inhabitants. This sum was thus divided:?
 Males ........ 24,762 or 2,062. a-year.
 Females .. .. .. 8,270 or 690 ?
 In twelve years . . . 33,032 or 2,752 ?
+
 Suicides are three times more numerous among men than among women.
 This proportion is almost constant in all years and in each department-
 The following was the number of suicides in each year, from 1835 to 1846-
@@ -54,12 +57,11 @@ It will be noticed, that with the one exception of 1843, when there was
 a slight diminution, amounting to forty-four cases only, the number of
 these crimes has gone on increasing from year to year. From 2,305 in
 1835, it rises to 3,102 in 1846.
+
 The number of suicides is not equally divided in proportion to the popu-
 * From an article in tlie " Annuaire de l'Economie Politique," 1851, by M. A. de-
 Watteville, Inspector-General of Benevolent Societies.
-E E 2
-'
-418 STATISTICS OF SUICIDE IN FRANCE.
+
 lation of the various departments, but varies considerably in different
 localities. For the whole of France there is one suicide a-year in 12,646
 inhabitants. For the department of the Seine, which counts the highest
@@ -67,6 +69,7 @@ number, the proportion is one suicide in 2788 inhabitants; whilst in the
 lowest on the list?that of Ariege?it is only one in 84,542 inhabitants.
 The following are the ten departments in which the greatest number of
 suicides occur:
+
 In 12 years. Per annum.
 1. Seine  5,890   491   1 in 2,778 inhabitants
 2. Seine-et-Oise  1,200   100   1 in 4,749
@@ -139,8 +142,7 @@ Tlie total of 239 children is composed of?
 29 Children at 13 years
 64= ?  14 ?
 ?  15
-239
-STATISTICS OF SUICIDE IN FRANCE. 419
+
 The predisposition to suicide goe3 on augmenting from tlie first exercise
 of tlie intellectual powers, to the period of their fullest development at
 about forty to fifty years of age. It remains almost stationary in old age,
@@ -153,6 +155,7 @@ rapidly increasing up to June, when it attains its maximum. July affords
 a slight diminution, August a much larger decrease, the numbers diminish-
 ing progressively in inverse order to the ascending progression.
 Year.
+
 Jan. I Feb. j Mar.
 April.
 I
@@ -271,6 +274,7 @@ ICO
 ? I
 3,531 3,014 2,492 2,442 2,102.1,977
 33,032
+
 The heat of summer is not the only and principal cause, as has been
 stated, of the augmentation of suicides at that season, for they begin to
 increase in January, and reach the maximum in June, whilst the tempera-
@@ -279,13 +283,14 @@ increase and decrease in the number of suicides coincide exactly with the
 lengthening and shortening of the days. And it has been satisfactorily
 established, that only a few individuals destroy themselves during the
 night.
+
 We have not sufficient data to establish with certainty the influence of
 occupation on suicide; for we cannot ascertain the number of persons in
 each employment. It would be very interesting to know whether certain
 employments predispose to suicide more than others; if the liberal profes-
 sions, which tax the intellect, develop this propensity in a greater extent
 than manual labour.
-PROFESSION OR OCCUPATION OF SUICIDES.
+
 I. Males. Females.
 Shepherds and shepherdesses  188 ... 25
 Wood-cutters, charcoal-burners  59 .. 0
@@ -342,6 +347,7 @@ Profession or occupation unknown   1,089
 1,518
 24,702 .. 8,270
 Total  33,032
+
 The wish to avoid suffering exercises a considerable influence in deter-
 mining tlie choice of the method of self-destruction, but this is somewhat
 counteracted by the facility and promptitude of execution in certain
@@ -350,11 +356,11 @@ Suspension and strangulation are selected less frequently. One-eighth
 perished by fire-arms. Next came asphyxia from charcoal, precipitation
 from elevated places, the use of cutting or penetrating instruments, and
 lastly poison.
+
 The profession or occupation of an individual influences his selection of
 the means of death. Thus soldiers, gendarmes, and others habituated to
 the use of fire-arms, commonly destroy themselves with those weapons;
 whilst sempstresses, and particularly washerwomen, choose suffocation by
-STATISTICS OF SUICIDE IN FRANCE* 421
 means of charcoal. Nevertheless, ninety-five women killed themselves
 with fire-arms. It should be noticed, that four-fifths of the deaths from
 lighted charcoal occurred in the department of the Seine.
@@ -362,6 +368,7 @@ The presumable and probable causes of suicide are very varied and
 diverse. In some cases, the motives are most affecting and almost excus-
 able ; in others, foolish, trivial, and very unlikely. We will cite some
 examples.
+
 I. Males. Females. Total.
 Poverty, or dread of poverty   1,404 ... 389 ... 1,853
 Debt, pecuniary embarrassment  1,591 ... 100 ... 1,097
@@ -374,6 +381,7 @@ Regret at having spent tlie whole or part of fortune... 34 ... 12 ... 40
 Disappointed hope of assistance in being established
 in life    43 ... 8 ... 51
 II.
+
 Grief at being exiled   25
 Grief at the loss of a spouse, child, or relative  235
 Sorrow at the departure of children   12
@@ -427,6 +435,7 @@ Domestic afflictions not specified    1,909
 1
 2,023
 III.
+
 Disappointed affections      003 ... 380 ... 983
 Jealousy between married couples or lovers   162 ... 80 ... 148
 Pregnancy before-marriage    150 ... 150
@@ -445,7 +454,6 @@ Yexation at being suspected of a theft    7 ... 5 ... 12
 ? at not being able to procure some article of
 dress    3 ... 3
 at losing some birds      1 ...    1
-422 STATISTICS OF SUICIDE IN FRANCE.
 Males. Females. Total,
 Desire to escape tlie Lands of justice  970 ... 210 ... 1,180
 ? the execution of a sentence   101 ... 10 ... 117

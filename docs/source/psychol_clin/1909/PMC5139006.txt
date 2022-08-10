@@ -29,7 +29,7 @@ finish them, and that not more than one-half of them go beyond
 the fifth or sixth grade."
 Even if we had cherished no illusion that practically all of
 the children who enter elementary schools finished the course in
-them, we may share Dr. Draper's surprise that the proportion
+them, we may share Dr Draper's surprise that the proportion
 who get through appears to be so painfully small. Admitting the
 fact, its magnitude, as here stated, is appalling.
 Report, 1906, p. 532.
@@ -431,7 +431,7 @@ ELIMINATION OF PUPILS. 257
 But is the extent of tlie dropping out of school correctly
 stated? The matter is so important that no pains should be
 spared to arrive, if possible, at the exact truth. We therefore
-reproduce here the table upon which Dr. Draper's conclusion was
+reproduce here the table upon which Dr Draper's conclusion was
 based.2
 The recent article in The Psychological Clinic on "Some
 Factors affecting Grade Distribution," by Mr. Leonard P. Ayres,3
@@ -441,7 +441,7 @@ inequalities; two of them, retardation and the population factor,
 exerting their influence by increasing the lower grades as compared
 with the higher, while the third, elimination, shows its force in
 thinning out the ranks of the higher grades.
-In the foregoing table from Dr. Draper's report there is a
+In the foregoing table from Dr Draper's report there is a
 distinct effort to take into account the population factor, since
 the grades compared are not those of the same year but of successive years. On the other hand, there is no consideration Avhatever
 of the important factor of retardation. It is manifestly assumed
@@ -498,7 +498,7 @@ quotients are too small. The number of children entering school
 is less than the number registered in the first grade, and hence
 the proportion remaining in school until the higher grades is larger
 than the percentages recorded in the table.
-The findings of Dr. Draper have been instanced because they
+The findings of Dr Draper have been instanced because they
 illustrate with such unmistakable clearness one of the important
 elements in the problem of elimination. These results, which were
 after all somewhat incidental to a forceful plea for vocational
@@ -508,7 +508,7 @@ the storm of criticism and the murmurs of discontent which
 greeted the publication by the United States Bureau of Education
 of a bulletin on "Elimination of Pupils from School," by Prof.
 E. L. Thorndike, of the Teachers' College of New York City.
-If the general results of the inquiry stated with admirable terseness by Dr. Thorndike in his introduction were caviar to the genELIMINATION OF PUPILS. 259
+If the general results of the inquiry stated with admirable terseness by Dr Thorndike in his introduction were caviar to the genELIMINATION OF PUPILS. 259
 eral public, the particular results stated in the text were wormwood
 and gall to the school superintendents of those cities whose systems
 appeared in an unfavorable light. We must again distinguish
@@ -517,19 +517,19 @@ deserves all emphasis, and if public opinion can be jolted into
 activity only by rude shocks perhaps one should not quarrel with
 the method. Whatever good might be accomplished by hard hitting has probably been secured, and now that nearly a year has
 elapsed there can be no harm in a dispassionate effort to discover,
-if possible, whether Dr. Thorndike's indictment (for such it seems
+if possible, whether Dr Thorndike's indictment (for such it seems
 to be) of our public school system is in every respect just. Is the
 picture which is painted correct or is it overdrawn ? Is the light
 given full play or are the shadows too deep ?
 It is, I am prone to confess, not without misgiving that I
 undertake such an inquiry. I am led into it not so much by an
-assurance of my own powers, as by the conviction that Dr. Thorndike's study touches upon one of the most vital problems of our
+assurance of my own powers, as by the conviction that Dr Thorndike's study touches upon one of the most vital problems of our
 school administration, that furthermore there are many who cannot
 accept his conclusion, and that this non-concurrence should find a
 voice. The difficulty of the undertaking is enhanced by the singularly elusive character of the argument, and by the very unusual
 structure of the document, which defies all laws of logical arrangement, as that is generally understood, and thus furnishes innumerable opportunities for hiding away important truths in unexpected
 places.
-The main results of Dr. Thorndike's calculations are certain
+The main results of Dr Thorndike's calculations are certain
 estimates of the number of pupils entering school who remain in
 school till they reach certain grades. They are here reproduced
 so far as the elementary grades are concerned in two sections?
@@ -537,7 +537,7 @@ so far as the elementary grades are concerned in two sections?
 according to the author, been subjected to the same minute analysis as those in Group "A," but the results given are believed by
 him to be substantially accurate.
 260 TEE PSYCHOLOGICAL CLINIC.
-Retention op Pupils in Elementary Grades According to Dr. Thorndike's Calculations
+Retention op Pupils in Elementary Grades According to Dr Thorndike's Calculations
 PERCENTAGE OF PUPILS ENTERING WHO REACH THE FOURTH AND
 SUBSEQUENT GRADES
 Cities
@@ -782,7 +782,7 @@ It may be well to systematize these first impressions. Let us
 examine first the number who are said to leave school before reaching the third grade. For convenience of study the cities may be
 arranged in groups according to the percentage supposed to be
 eliminated at this very early stage of school work.
-Loss of Pupils in Grades 1, 2 and 3 According to Dr. Thorndike's
+Loss of Pupils in Grades 1, 2 and 3 According to Dr Thorndike's
 Calculations
 PERCENTAGE OF PUPILS ENTERING ANNUALLY
 Group 1
@@ -844,7 +844,7 @@ out of every hundred and that Worcester, Springfield, and the
 neighboring city of Chelsea lose only one, while Medford loses
 none at all ? Is it at all likely that ISTew York loses ten children
 262 THE PSYCHOLOGICAL CLINIC.
-Loss of Pupils in Grades 1 to 7, According to Dr. Thorndike's Calculations
+Loss of Pupils in Grades 1 to 7, According to Dr Thorndike's Calculations
 PERCENTAGE OF PUPILS ENTERING ANNUALLY
 Less than 40 per cent
 40?44.99
@@ -922,7 +922,7 @@ who finish in four years, and a 4, 5, 6, 7, 8 and 9 series for those
 who finish in six years. To transmute this double series into a
 single one is a task which might well give the statistician pause,
 but our author is not daunted by such an obstacle. How was the
-feat accomplished ? I cite from page 38 of Dr. Thorndike's Bulletin the figures given by him for 1901 for the grades in Cambridge
+feat accomplished ? I cite from page 38 of Dr Thorndike's Bulletin the figures given by him for 1901 for the grades in Cambridge
 and compare them with those given in the school report of that
 city for the year 1901-02. The figures relate to December, 1901:
 264 THE PSYCHOLOGICAL CLINIC.
@@ -1020,7 +1020,7 @@ Third grade  9,761
 Fourth grade :. . . . 8,458
 Fifth grade  6,307
 This is a more appropriate series from which to deduce the
-number of children who annually enter school. Dr. Thorndike
+number of children who annually enter school. Dr Thorndike
 takes the population of the second grade, 11,776, as a measure
 of those who enter. Is this measure correct %
 In answering this question I should like first to establish
@@ -1075,14 +1075,14 @@ school could hardly be 11,776. It might be about 8,000, and,
 then, if as previously stated, there were about 8,000 in the fourth
 grade (exact figures cannot be cited because the years do not coincide) it is somewhat difficult to imagine that 29 children out of
 100 dropped out of school before they reached the fourth grade.
-In Denver, again, Dr. Thorndike conceives the average of
+In Denver, again, Dr Thorndike conceives the average of
 the first three grades to be a correct measure of the number of
 children entering school. Again, we have figures in his pamphlet
 2G8 ' THE PSYCHOLOGICAL CLINIC.
 for-both the grades and the ages, but they are not for the same
 years. However, the year 1901 is common to both. In this year
 the average of the first three grades is 190G, but the largest generation represented in the school is, at the age of nine, only 1403.
-In the other cases in which Dr. Thorndike admits that he has taken
+In the other cases in which Dr Thorndike admits that he has taken
 the average of the first three grades as his starting point,?New
 Haven, St. Louis, Waterbury and Worcester,?no ages are given
 by which we can make this useful comparison.
@@ -1133,12 +1133,12 @@ Generation
 4873
 924
 Of course, it will be understood that the foregoing table
-signifies only that if in the case of these cities Dr. Thorndike relied
+signifies only that if in the case of these cities Dr Thorndike relied
 largely upon the average of the first three grades (and we have
 merely presumptive evidence that he did so), then again his divisors
 were too high and his resulting retention was too low.
-While I was thoroughly convinced that these general considerations demonstrated the probable error involved in Dr. Tliomdike's estimate of the number of the pupils entering school annually, an effort was made to test the argument by an appeal to the
-records. In the case of Reading, Pa., not included in Dr. Thorn*1 cite the figures given in the pamphlet for the age six years. They
+While I was thoroughly convinced that these general considerations demonstrated the probable error involved in Dr Tliomdike's estimate of the number of the pupils entering school annually, an effort was made to test the argument by an appeal to the
+records. In the case of Reading, Pa., not included in Dr Thorn*1 cite the figures given in the pamphlet for the age six years. They
 agree with those given in the Chicago report, but I have some misgivings as to their accuracy. In 1897-8 ages are given as under seven, and
 there are 39,942 in the group. In 1899-1900, we find under six 9472, six
 39,345, or under siven 49,817. In 1900-01 we find under six 9828, six
@@ -1183,7 +1183,7 @@ of the year, the corresponding figures for grades 1, 2 and 3 were
 440, 388, and 358 respectively. In either case the estimated new
 entries are less in number than the population of any of the first
 three grades.
-It may also be noted that the material on which Dr. Thorndike's study is based is not always strictly comparable. Thus in
+It may also be noted that the material on which Dr Thorndike's study is based is not always strictly comparable. Thus in
 Baltimore the figures include both white and colored pupils, but
 in Washington and St. Louis only white pupils. It is not unlikely
 that this has an unfavorable effect on the calculated grade reten270 THE PSYCHOLOGICAL CLINIC.
@@ -1205,7 +1205,7 @@ Registration at end of year
 7 310 280
 8 236 219
 9 177 167
-Now, if we make a comparison, and adopt the method sometimes used by Dr. Thorndike of dividing the fourth and later
+Now, if we make a comparison, and adopt the method sometimes used by Dr Thorndike of dividing the fourth and later
 grades by the average of the first three, we get the following:
 Grades in Newport, R. I. Percentages which the several
 1 -f- 2 -f- 3
@@ -1222,19 +1222,19 @@ Without entering into the reasons, this one illustration shows
 that figures based on a single day in the year would always give
 more favorable results in estimating retentions than those which
 are based upon a total registration. So far as appears in the
-text, Dr. Thorndike has not given this phase of the matter any
+text, Dr Thorndike has not given this phase of the matter any
 consideration.
 If, by the foregoing analysis, we have demonstrated that in
 ELIMINATION OF PUPILS. 271
-certain cases the starting point of Dr. Thorndike's calculation was
+certain cases the starting point of Dr Thorndike's calculation was
 erroneous, and have established a strong probability that in all
 other cases it was also erroneous, though not perhaps in a like
 degree, it would seem quite unnecessary to examine the application of the method. It might, however, be urged that, assuming
 an initial error, such error was in large part compensated by the
 system of "corrections" mentioned in the paragraph which has
-been cited from Dr. Thorndike's monograph. We are not, it is
+been cited from Dr Thorndike's monograph. We are not, it is
 true, told how these corrections have been made, but we can form
-some estimate of their extent by comparing Dr. Thorndike's final
+some estimate of their extent by comparing Dr Thorndike's final
 results with the preliminary results obtained from ithe grade
 populations in the few cases in which he definitely tells us how
 Percentage of Retention of the Children who Enter School
@@ -1447,7 +1447,7 @@ demonstrated cases, estimated at too high a figure. Hence, the
 resulting relative figures are too low throughout before the correction is applied. The correction affects the relative position of one
 member of the series to another, but does not materially affect the
 position of the series as a whole to unity, that is, its general level.
-The fundamental error in Dr. Thorndike's calculations seems
+The fundamental error in Dr Thorndike's calculations seems
 to lie in an undue emphasis on the numbers found in the first,
 second, and third grades. The statement that the number of children entering school "has to be inferred from the number in the
 first, second, and third grades" points to this undue emphasis.
@@ -1462,7 +1462,7 @@ extremely dubious whether he realizes its full import. In view of
 the fact that the critical literature is almost entirely a product
 of the last year and a half, it is perhaps not to be wondered at that
 the full significance of the retardation factor should have escaped
-Dr. Thorndike's attention. In view of recent discussion, I think
+Dr Thorndike's attention. In view of recent discussion, I think
 we can say Avith perfect truth that the number of children entering
 school each year will never be as great as the number of children
 in the first grade, that in all cases will it be "less than one-third
@@ -1470,14 +1470,14 @@ of the number in grades 1, 2 and 3," and that in almost every
 case it will be less than the number of children in either the second
 or the third grade.
 The purpose of this article Avill have been accomplished if it
-has shown that, admirable as Dr. Thorndike's work is in many
+has shown that, admirable as Dr Thorndike's work is in many
 ways, there is still much to be done in the study of the problem
 274 THE PSYCHOLOGICAL CLINIC.
 ' v i # i
 of elimination. Striving to make this point clear it may have
 been necessary at times to adopt a tone of apparently hostile
 criticism in explaining points of difference. It would, however,
-be ungrateful not to acknowledge the value of Dr. Thorndike's
+be ungrateful not to acknowledge the value of Dr Thorndike's
 work, for he has placed the educational world under great obligations in calling attention to this most important problem. Of the
 significance of the issue involved there can be no doubt.
 From a theoretical point of view it is of importance to test
@@ -1519,18 +1519,18 @@ of the writer it does not go far enough, and age elimination should
 be studied with far greater care than it has heretofore received.*
 The surface indications from our study of the reports mentioned
 and the data gathered from them are that a study of age elimination in connection with the grades will yield results which differ
-not a little from those obtained by Dr. Thorndike. The relative
+not a little from those obtained by Dr Thorndike. The relative
 position of different cities will probably be slightly modified, but
 the main result to be foreseen is that actual elimination, while still
-considerable, will undoubtedly prove less than Dr. Thorndike has
+considerable, will undoubtedly prove less than Dr Thorndike has
 stated.
 In conclusion I should like to emphasize the fact that the
 importance of the discussion lies in the subject itself rather than
 in the details of its treatment. If elimination is to be measured,
-it should be measured accurately. If, as we have sought to demonstrate, the measurements stated by Dr. Thorndike are not wholly
+it should be measured accurately. If, as we have sought to demonstrate, the measurements stated by Dr Thorndike are not wholly
 correct, it is our hope that someone will give us a measurement
 more" generally acceptable, which will be as convincing as the
-work of Dr. Thorndike has been brilliant. That there should
+work of Dr Thorndike has been brilliant. That there should
 be differences of opinion, both as to measurement and as to causes
 in the first statement and discussion of the problem, is but natural.
 But these differences and their discussion should not arouse a mere
@@ -1540,7 +1540,7 @@ every serious attempt to elucidate this important problem means
 as a contribution to the rational and conservative criticism of our
 educational system.
 *In illustration of this point I would cite the case of Maiden, Mass.
-In Dr. Thorndike's monograph it is stated that 13.3 per cent of the children
+In Dr Thorndike's monograph it is stated that 13.3 per cent of the children
 who enter school in that city never reach the fourth grade. The superintendent of schools, Mr. Henry E. Henly, claims that no children leave his
 schools before reaching the fourteenth birthday. He has furnished me the
 age and grade distribution of December 3, 1908, and his figures confirm this

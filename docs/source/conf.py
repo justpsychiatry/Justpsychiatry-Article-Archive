@@ -99,5 +99,6 @@ rst_epilog = """
 .. |M.D.| replace:: MD
 .. |F.R.S.| replace:: FRS
 .. |F.R.C.S.| replace:: FRCS
+.. |Dr.| replace:: Dr
 
 """

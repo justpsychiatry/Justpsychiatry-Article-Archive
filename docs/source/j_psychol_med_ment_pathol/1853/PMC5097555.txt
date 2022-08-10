@@ -91,7 +91,7 @@ body was emaciated, and her legs swollen. A medical man who saw
 her after her removal doubted whether she would live twenty-four
 hours. It was found possible, however, when she had somewhat
 rallied, to take her to the Northampton asylum. On her arrival there,
-Dr. Nesbitt verified the former particulars as to her bodily condition,
+Dr Nesbitt verified the former particulars as to her bodily condition,
 and ascertained that she was also labouring under severe prolapsus of
 the uterus and anus; and that she was quite unconscious of the calls of
 nature. Her hair was matted, and entangled, and filled with vermin.
@@ -101,8 +101,8 @@ ment, kindness, and the requisite personal comforts, she recovered her
 mental and bodily health, and was restored to her friends perfectly well,
 at the expiration of between five and six months.
 The Commissioners remark upon this case, that although Miss A. M.
-was in bad health, and under medical treatment by Dr. Monro and the
-resident apothecary, Dr. W. Wood, there was no record thereof in the
+was in bad health, and under medical treatment by Dr Monro and the
+resident apothecary, Dr W. Wood, there was no record thereof in the
 case-book of the hospital!
 Another case, that of Miss H. H., if possible evincing a still greater
 degree of reckless neglect, occurred after the foregoing, and an investi-
@@ -368,7 +368,7 @@ physicians contending that they had gone on very well without an infir-
 mary for three hundred and fifty years, and denying that the patients had
 ever suffered in consequence. We suppose, but for this fact, we should
 find them contending that an infirmary was perfectly unnecessary, on
-the plea urged by Dr. Monro?viz., that " all patients who are so sick
+the plea urged by Dr Monro?viz., that " all patients who are so sick
 as to require the attendance of nurses are inadmissible; and when they
 become sick, they are sent to their relatives. It is a great advantage to
 go into the country, and that is often suggested in cases of consump-
@@ -382,7 +382,7 @@ suffering from severe prolapsus uteri, attended by a profuse discharge.
 There can be no doubt that a disease of this kind required active medical
 treatment; but although it appears that she was prescribed for by Dr.
 Monro, the prolapsus, undoubtedly the most serious of her bodily ail-
-ments, was not reported to Dr. Mouro, and therefore he was not bound
+ments, was not reported to Dr Mouro, and therefore he was not bound
 to know anything about it. According to the Bethlem medical creed,
 prolapsus is an " infirmity," and should have been reported to the
 surgeon! The etiquette of the past century is beautifully preserved.
@@ -466,7 +466,7 @@ deputy. " He is to observe the instructions of the physicians " he
 is to report to the physicians any alterations he may have made." And
 shall we be told, in this instance too, that the physicians were unin-
 formed of the change that had been made 1 When questioned upon
-this point, Dr. Monro asserts, that he did not remember having heard of
+this point, Dr Monro asserts, that he did not remember having heard of
 the treasurer's order upon this subject; but he admits that he was aware
 that it was the matron's practice to classify patients as she thought
 proper. Surely the physicians must then have remonstrated?have
@@ -559,13 +559,13 @@ assumed to be a fair representative of the other asylums of the country,
 Esquirol recorded his opinion that chains were nowhere so much in
 vogue as in England. With regard to the confinement of patients, we
 think it instructive to draw attention to the following circumstances.
-Dr. Monro being questioned upon this subject, answered : " I have
+Dr Monro being questioned upon this subject, answered : " I have
 seldom or never been consulted upon this matter; I should rather think
 myself it might be owing to the opinion of the matron in respect to
 the women, and very likely the steward in respect to the men, exercising
 their authority, under the direction of the apothecary, I presume."
 The medical treatment was on a level with the notions of restraint.
-At that time Mr. Haslam was the apothecary, and Dr. Monro, an here-
+At that time Mr. Haslam was the apothecary, and Dr Monro, an here-
 ditary name at Bethlem, the sole physician. It was the practice to
 bleed, purge, and vomit the patients periodically. Like many other
 things at Bedlam, this plan seems to have been hereditary. The
@@ -598,7 +598,7 @@ found a resolution, bearing date June 16tli, 1804?viz., " It appearing to
 the committee that James Norris is a very violent and dangerous
 lunatic, and had several times done mischief to the servants; ordered
 that lie be put into the iron apparatus prepared for him, and approved
-by Dr. Monro and the committee, under the direction of the medical
+by Dr Monro and the committee, under the direction of the medical
 officers." The committee found that no complaint had been made by
 the patient, either of pressure or pain, during the whole period of his
 confinement. It appeared to them to have been rather a merciful and
@@ -644,7 +644,7 @@ treating the insane, by diminishing the use of instruments of coercion, was
 more conducive to their safety and their cure; but the physicians could not
 be induced to adopt these innovations until threatened by Mr. Northall
 Laurie, that he would take means to make such a state of things public.
-The Dr. Monro of 1814 was never consulted upon the matter of restraint;
+The Dr Monro of 1814 was never consulted upon the matter of restraint;
 he thought it might be owing to the matron in respect to the women,
 and very likely the steward in respect of the men. In 1851 we find
 the present physician of that name, while admitting that his authority
@@ -898,7 +898,7 @@ J
 1
 BETHLEM HOSPITAL IN 1852. 103
 who sanctioned tliese instructions must have been sadly oblivious of
-recent experience. Did they not recollect that Dr. Wood excused the
+recent experience. Did they not recollect that Dr Wood excused the
 charge of neglect alleged against himself, by pleading that he was taxed
 beyond his powers 1 and that the Commissioners admitted that there
 was some justice in the plea 1 Should not this example have warned
@@ -1001,7 +1001,7 @@ whose education has been acquired, and whose sympathies have been
 nurtured, in a freer and healthier atmosphere. At the time even of
 erecting the new Bethlem in St. George's Fields, the governors were
 warned that the site was ill-adapted for the purpose ; they could not
-prevail upon their own medical officer, Dr. Haslam, to attest its
+prevail upon their own medical officer, Dr Haslam, to attest its
 salubrity. At that period Bethlem scarcely supported 150 patients;
 now they surpass 400 in number. The whole area does not exceed
 eight acres, and the building itself takes up a large proportion of that
@@ -1117,7 +1117,7 @@ The case of Miss H. H. is passed cursorily over. The governors
 dwell chiefly upon the want of evidence to show that her death was
 the result of ill-treatment received in the hospital; they reier to the
 108 BETHLEM HOSPITAL IN J 852.
-evidence of Sir A. Morison and Dr. Wood, and to the certificates
+evidence of Sir A. Morison and Dr Wood, and to the certificates
 respecting the post-mortem examination by Drs. Taylor and Crisp
 and Mr. Lawrence. The evidence of one of the physicians upon this
 subject is as follows:?"I found several superficial bruises on different
@@ -1203,7 +1203,7 @@ not remove any patient or attendant from one gallery to another,
 without the authority of the resident physician." As in the case of
 the infirmary, they pertinaciously justify the old course, and straightway
 adopt the opposite !
-The reply of Dr. Monro it is difficult to characterize. Instead of an
+The reply of Dr Monro it is difficult to characterize. Instead of an
 earnest vindication of his conduct, such as might have been expected
 110 BETHLEM HOSPITAL IN 1852.
 from one wlio had been charged with the most serious neglect of
@@ -1212,7 +1212,7 @@ same time felt that he was wrongfully accused, we are favoured
 with a description of the writer's beau ideal of the " mental phy-
 sician," and some remarks upon the evidence in a tone not to be com-
 mended, and having little or no bearing upon the points at issue.
-Dr. Monro's estimate of the duty of the physician is thus described :
+Dr Monro's estimate of the duty of the physician is thus described :
 "to pay certain periodical visits, and to exercise a large and super-
 intending control over the medical treatment and general manage-
 ment of the hospital, and by no means to include the regulations
@@ -1233,13 +1233,13 @@ physician of modern times, as compared with those born and bred
 amidst all the prejudices and obsolete notions of the last century.
 What can be done in the successful treatment of insanity if the atten-
 tion to " minute particulars " is not, in all cases, enforced ? But as
-Dr. Monro does not disdaiu to throw himself upon the governors, we
+Dr Monro does not disdaiu to throw himself upon the governors, we
 will let the governors answer him :?"They cannot conceive how any
 physician could exercise a large control, or could superintend and direct
 subordinate officers, without giving that amount of attention to minutise
 and details absolutely necessary to make himself acquainted with at
 least all the ordinary proceedings in the institution under his care."
-Dr. Monro thinks he can escape from the dilemma of having
+Dr Monro thinks he can escape from the dilemma of having
 acquiesced in the proved systematic ill-treatment of the patients, or
 of having neglected his duty, by such affectation as the following :?
 " For instance, it might be suggested?Did you not know that a
@@ -1255,7 +1255,7 @@ With reference to the defective reports, lie thinks it sufficient to say,
 that " they are, of late years, prepared with xnuch care, and contain all
 necessary information;" and he has, therefore, just reason to complain
 of Mr. Laurie's evidence.
-Dr. Monro does not deem it beneath him to remind the governors
+Dr Monro does not deem it beneath him to remind the governors
 of his long services and hereditary connexion with Bethlem. " For
 myself, after thirty-six years of unremitting attendance, I may be per-
 mitted to speak of the institution and its inmates with the deepest
@@ -1264,11 +1264,11 @@ ceded, as I have been, by several of my immediate ancestors through a
 period of, altogether, one hundred and twenty-five years."
 H teres
 Hseredem alterius, velut unda supervenit undam.
-But if Dr. Monro fails himself to grapple with the direct charges
+But if Dr Monro fails himself to grapple with the direct charges
 brought against him, he displays considerable astuteness in throwing
 his burthen upon others. It is impossible not to sympathize in his
 appeal to the governors to defend him, and to admire the skill with
-which he makes them parties to the charge. Dr. Monro observes?
+which he makes them parties to the charge. Dr Monro observes?
 "The condition of Bethlem Hospital has been, in fact, a subject of
 encomium for years, as is incontrovertibly verified by the uninterrupted
 succession of approbation contained in the written observations of the
@@ -1282,16 +1282,16 @@ vindication of their professional integrity, which can alone be satisfac-
 torily shown by some express minute to this effect."
 After thus throwing himself upon the generosity of the governors,
 the following response seems a little ungracious:?" The governors are
-sorry that Dr. Monro's concluding remarks prove the propriety of those
+sorry that Dr Monro's concluding remarks prove the propriety of those
 changes in the medical staff that have recently been made!"
 It is true the committee have not carried their changes so far as to
 altogether discard the physicians, although they have thought it necessary
 to supersede them in the exercise of all that a physician usually deems
-useful or honourable. It is thus that Dr. Monro announces his resig-
+useful or honourable. It is thus that Dr Monro announces his resig-
 nation (not of his office, but) to his altered position:?"After so very
 long a service, the sudden transition to new modes, involving (to say
 the least) many modifications of my own duties, is, of course, very
-painful, and wholly unexpected." If Dr. Monro conceives himself to
+painful, and wholly unexpected." If Dr Monro conceives himself to
 be sacrificed by the governors, it is his duty to himself, as well as to
 the profession, to resign at once all connexion with the hospital ?
 112 BETHLEM HOSPITAL IN 1852.
@@ -1300,11 +1300,11 @@ production. He enters minutely into an examination of the charges
 against him, and shows, and not without some success, that the stric-
 tures of the Commissioners upon the physicians for their imperfect
 performance of their duty, do not apply so much as wras alleged to
-himself. He denies Dr. Wood's statement that he ever did duty for
+himself. He denies Dr Wood's statement that he ever did duty for
 him. He says, that he writes in his private case-book the history of
 every patient. He shows, that although the patient Miss H. H. was in
 his department, yet being called out of town, she was left under the
-care of Dr. Monro and Dr. Wood, and that he only returned to his
+care of Dr Monro and Dr Wood, and that he only returned to his
 duty two days before she was removed from the hospital. We refer to
 what we have previously said concerning Sir A. Morison's certificate
 in this case. There is not much in Sir A. Morison's reply which
@@ -1314,13 +1314,13 @@ have remarked, in freeing himself from the imputation of inattention
 to his professional duties. He does not, however, in the remotest
 degree, shake our conclusion that the constitution of the medical staff
 loudly called for revision.
-Dr. Wood, the late apothecary of Betldem, is not yet prepared with
+Dr Wood, the late apothecary of Betldem, is not yet prepared with
 his reply. In a letter, dated the 6th of October, addressed to the
 committee, "he thinks it right to say that he cannot complete his
 observations within the time, and therefore begs the committee will
 leave him at liberty to make his answer independently of their report."
 As the case of the governors and the physicians is not much mended
-by their respective " observations," it is probable that Dr. Wood has
+by their respective " observations," it is probable that Dr Wood has
 exercised a wise discretion in his reserve.
 The remarks of Mrs. Hunter occupy fifteen pages. They certainly
 evince considerable care; but we think the real defence of the matron
@@ -1340,7 +1340,7 @@ motives from the less guarded expressions of individuals than from
 more studied official communications. The treasurer, in answer to
 MIND AND THE EMOTIONS.
 113
-a letter from Dr. Monro, had, ten days previously to tlie foregoing
+a letter from Dr Monro, had, ten days previously to tlie foregoing
 statement of the committee, made the following admission :?" Recent
 events have rendered it imprudent to delay any longer the re-arrange-
 ment of the medical staff!"

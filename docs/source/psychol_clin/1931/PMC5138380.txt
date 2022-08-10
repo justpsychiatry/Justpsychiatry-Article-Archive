@@ -16,7 +16,7 @@ stimuli are usually controlled situations known as "mental" or
 psychological tests. A large number of tests have been devised in
 the extensive development of mental testing technique, and recently
 more attention has been given to the development of norms. It
-has been one of the aims of the Psychological Clinic of the University of Pennsylvania, under the direction of Dr. Liglitner Witmer,
+has been one of the aims of the Psychological Clinic of the University of Pennsylvania, under the direction of Dr Liglitner Witmer,
 to establish standards for the comparison of the performances of
 children in a few psychological tests. The object has been to make
 a comprehensive survey of individual performances so that a comparison of the performance of any child can readily be made with
@@ -125,13 +125,13 @@ in this investigation was reduced to five minutes, which becomes
 the uniform time for the three performance tests.
 Procedure
 The investigation was undertaken through the inspiration of
-Dr. Lightner Witmer, and its successful completion has been due
-to his helpful criticisms and suggestions. Dr. Miles Murphy aided in
+Dr Lightner Witmer, and its successful completion has been due
+to his helpful criticisms and suggestions. Dr Miles Murphy aided in
 the carrying out of the work. He took an active part in the examination of a number of cases. The investigation was begun in
 SIXTH GRADE PERFORMANCE LEVEL 237
 the latter part of October, 1927, and continued until the first part
 of March, 1928, and its careful and successful completion was furthered by the staff of examiners who generously gave of their time.
-The following conducted the examinations: Dr. Miles Murphy, Instructor in Psychology at the University of Pennsylvania, Edward
+The following conducted the examinations: Dr Miles Murphy, Instructor in Psychology at the University of Pennsylvania, Edward
 M. Twitmyer, Instructor in Psychology, Frank R. Gillespie, Assistant in Psychology; the members of the staff of the Psychological
 Clinic of the University of Pennsylvania, Miss Genevieve McDermott, Executive Officer of the Clinic, Miss Lorraine L. McNally,
 Clinic Teacher, Miss Marion R. Braungard, Social Worker, Miss
@@ -256,7 +256,7 @@ N = average of the total group.
 m = average of the sub-group.
 This formula is given by Pearson in Biometrika, Vol. V, p. 182.
 The results of this statistical treatment are found on pages 252-255.
-The writer is indebted to Dr. Morris S. Viteles, Assistant Professor of Psychology at the University of Pennsylvania for his helpful suggestions concerning the statistical treatment of results.
+The writer is indebted to Dr Morris S. Viteles, Assistant Professor of Psychology at the University of Pennsylvania for his helpful suggestions concerning the statistical treatment of results.
 For purposes of discussion in this study the data will be
 grouped in a general way under three headings: chronological age,
 intellectual tests, and performance tests. Mental Age, the Intelligence Quotient, and the Memory Span tests: Auditory, Visual, and

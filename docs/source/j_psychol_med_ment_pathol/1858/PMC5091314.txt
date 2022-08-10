@@ -99,7 +99,7 @@ Witness.?Why, sir, I had sucli frightful pains, all cutting, shooting, prick-
 ing, and darting through my head and body.
 Mr. D'Eyncourt.?Why did you not go to some medical gentleman about
 the pains you speak of?
-Witness.?I did, sir; I was under Dr. llamsbotham, and I asked him if he did
+Witness.?I did, sir; I was under Dr llamsbotham, and I asked him if he did
 not think they were caused by a spell; and he said, no, he thought not. He gave
 me some medicine, and for some time I got better; but I afterwards became
 worse from the pricking, and then, as I told you, I went to Mrs. Macdonald.
@@ -735,14 +735,14 @@ times he manifested suspicions that the food given to him was poisoned.
 The delusions respecting his wife's fidelity increased upon him. Often
 he expressed them to her in the foulest language, accusing her of the
 vilest and most promiscuous prostitution ; and in the latter part of the
-year, on the advice of Dr. Conolly, he was removed to Moorcroft House
+year, on the advice of Dr Conolly, he was removed to Moorcroft House
 Asylum. It was admitted that the delusions which led to Mr. Ruck's
 confinement were present at the commencement of June last, but it was
 contended that they had been entirely removed since that period, in
 consequence of the inquiries set on foot, for Mr. Ruck's satisfaction,
-by his solicitor. Dr. Forbes Winslow gave evidence of the existence
+by his solicitor. Dr Forbes Winslow gave evidence of the existence
 in May of the principal delusions under which Mr. Ruck suffered, and
-Dr. Conolly and Dr. Sutherland gave evidence of their existence at
+Dr Conolly and Dr Sutherland gave evidence of their existence at
 the commencement of June. These physicians had not had an oppor-
 tunity of examining Mr. Ruck since June, but from the opinion they
 had formed of the character of his affection when last they had ex-
@@ -750,15 +750,15 @@ amined him, and from the evidence which had been since laid before
 them, they thought that there was not sufficient evidence to show
 that the delusions were removed, although they considered Mr. Ruck
 to be much improved. Moreover, they did not believe that intempe-
-rance was the sole cause of his delusions. Dr. Tuke, Dr. Seymour, Mr.
-Lawrence, Mr. Skey, Mr. E. Canton, Dr. Copeland, Mr. John Gay,
-and Dr. Gr. Johnson, all of whom had examined Mr. Ruck since
+rance was the sole cause of his delusions. Dr Tuke, Dr Seymour, Mr.
+Lawrence, Mr. Skey, Mr. E. Canton, Dr Copeland, Mr. John Gay,
+and Dr Gr. Johnson, all of whom had examined Mr. Ruck since
 June, and since proceedings relative to the commission had been com-
 menced, gave evidence as to his then sanity, and all, except Mr. Law-
 rence, expressed the opinion that the delusions had been caused by
 intemperance. The question of treatment was raised during the
 inquiry, and the majority of the medical witnesses expressed opinions
-coinciding with that given by Dr. Forbes Winslow to the effect that
+coinciding with that given by Dr Forbes Winslow to the effect that
 it would perhaps have been better had the case been dealt with out of
 an asylum; and Mr. Lawrence thought it was still requisite, as a
 matter of prudence, that Mr. Ruck should for a short time be kept
@@ -847,7 +847,7 @@ the case?the careless mode in which a portion of the certificate con-
 signing Mr. Ruck to the asylum had been filled up?seemed to justify
 the press in the course of argument it had, almost without exception,
 taken upon the question. We do not propose to enter here into any
-justification of or plea for private asylums ; and Dr. Forbes Winslow
+justification of or plea for private asylums ; and Dr Forbes Winslow
 has already commented on the unsatisfactory state of the law regarding
 medical certificates of lunacy.* "YVe would, however, remark, that the
 supervision of private asylums by the Commissioners of Lunacy is of a

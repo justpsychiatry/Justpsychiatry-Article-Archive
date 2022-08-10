@@ -43,7 +43,7 @@ Consequently, the insane, in many places, are provided Avitli all the
 means of restoration, and receive as tender and as successful care as
 those avIio arc afflicted Avith other diseases.
 
-* The American Journal of Medical Science, edited by Dr. Hays.
+* The American Journal of Medical Science, edited by Dr Hays.
 + Report made to the House of Representatives of Massachusetts on the Com-
 mission of Lunacy. House Doc. No. 72, pp. 10. Boston, 184G.
 First Report of the Legislature of Massachusetts by the Commissioners appointed
@@ -123,7 +123,7 @@ class, and with a success proportioned to the wisdom and energy of
 the efforts. Among the most active was Mr. Edward Seguin, who,
 by his writings and his example, enlisted others to co-operate in the
 same work. Mons. Ferrus established a school for this purpose in
-Paris, in 1828, and Dr. Voisin established another in 1839. Dr.
+Paris, in 1828, and Dr Voisin established another in 1839. Dr.
 Leuret and Mr. Vallee also lent their powerful aid to the work.
 The result of all these efforts proved, that humanity, even in its
 feeblest and most degraded condition, can almost invariably receive
@@ -137,7 +137,7 @@ authorized the governor
 the condition of the idiots in this Commonwealth, to ascertain their
 number, and whether anything can be done for their relief, and to
 make report of their doings to the next general court."
-Happily for the success of this scheme, Dr. Samuel G. Howe, the
+Happily for the success of this scheme, Dr Samuel G. Howe, the
 philanthropic director of the Perkins Institution for the Education
 of the Blind, was appointed chairman of this committee of inquiry.
 He laid his plans with good judgment, and pursued them with his
@@ -155,13 +155,13 @@ in those countries.
 By all these means the commissioners had obtained much valuable
 information, but not all that was desired. They were, therefore,
 authorized to continue their inquiries through another year.
-At the session of 1848, Dr. Howe laid before the legislature the
+At the session of 1848, Dr Howe laid before the legislature the
 result of his second year's labour in this work; and the whole is
 published by order of the government, in a pamphlet of 100 pages
 of text, and an appendix of tables extending through 48 pages
 more.
 
-These reports of Dr. Howe contain a great amount of important
+These reports of Dr Howe contain a great amount of important
 information relative to the personal and social condition, and the
 numbers, of idiots, and to the supposed causes of idiocy; and are,
 therefore, valuable contributions to science.
@@ -170,7 +170,7 @@ They treat of the number of idiots in Massachusetts; definition of
 terms idiot and idiocy; capacity, condition, and treatment of idiots
 in private families and in almshouses; cleanliness, alimentation, and
 exercise of idiots; of European schools for idiots, and of a proposition
-for the same in Massachusetts. In the supplement Dr. Howe treats
+for the same in Massachusetts. In the supplement Dr Howe treats
 of a classification of idiots, the supposed causes of idiocy, parentage,
 hereditary tendency to bodily and mental imperfection, circumstances
 which predispose to idiocy, physical and moral condition of parents,
@@ -181,7 +181,7 @@ The appendix contains several tables, which describe the 574 idiots
 who were examined, showing their origin, present condition, and
 future prospects.
 
-Dr. Howe personally visited many towns and examined a great
+Dr Howe personally visited many towns and examined a great
 many idiots. Besides this, a competent and trustworthy agent, Mr.
 Enos Stevens, was employed for the same purpose. In course of the
 years 184G and 1847, they visited 182 towns, containing, at the last
@@ -204,7 +204,7 @@ causes, nothing connected with them can be too minute to be observed
 by the philosopher who is in search of the origin of this low condition
 of man."?Second Report.
 
-Dr. Howe is a believer in phrenology, and has brought the prin-
+Dr Howe is a believer in phrenology, and has brought the prin-
 ciples of that philosophy to bear upon this subject; and although he
 has not attempted to base this investigation upon that science, yet
 he has availed himself of its classification of the powers and qualities
@@ -258,13 +258,13 @@ to classify them strictly.
 
 Idiocy is a dcfect rather than a disease, a deficiency of the several
 powers in greater or less degree, rather than a disease of the powers
-that are originally perfect. Dr. Ray calls idiocy a defective develop-
+that are originally perfect. Dr Ray calls idiocy a defective develop-
 ment. This agrees with Esquirol, who says: " Idiocy is not a dis-
 ease, but a state in which the intellectual faculties have never been
 manifested." Most of the legal descriptions point to this. Blackstone
 says, " an idiot, or natural fool, is one who hath no understanding
 from his nativity." The old English law recognises the same origin.
-After quoting several definitions of idiocy, Dr. Howe says, " With-
+After quoting several definitions of idiocy, Dr Howe says, " With-
 out pretending to scientific accuracy, idiocy may be defined to be that
 condition of a human being in which, from some morbid cause in
 the bodily organization, the faculties and sentiments remain dormant
@@ -309,7 +309,7 @@ may include all or any part of those classes of powers, and in any
 variety of combination.
 
 Having determined as nearly and stated as clearly as possible
-what idiocy is, and what idiots are, Dr. Howe next describes the
+what idiocy is, and what idiots are, Dr Howe next describes the
 condition of those who had been examined.
 
 Of the 574 idiots, 420 were so from birth, and 154 were originally
@@ -338,7 +338,7 @@ five; forty-nine under ten; 200 under twenty five; 372 over twenty-
 five years of age; and the ages of two are not stated.
 
 The great end of all this inquiry was to ascertain tlie capacity of
-idiots for improvement. Dr. Howe thinks that 174 of the con-
+idiots for improvement. Dr Howe thinks that 174 of the con-
 genital idiots and 22 of the supervened idiots under twenty-five
 years of age, and 195 congenital and 97 supervened idiots over
 twenty-five years old, are capable of improvement. These are proper
@@ -351,7 +351,7 @@ Of the younger class 13 congenital idiots, and of the older class
 little or no improvement.
 
 Besides their helplessness and dependence, the situation of these
-idiots is deplorable indeed. Dr. Howe says of the public paupers:
+idiots is deplorable indeed. Dr Howe says of the public paupers:
 " They are of all sorts and grades of idiocy, from the mere simpleton
 who cannot take care of himself, to the drivelling idiot who wallows
 in his filth." " Some are comparatively free from the dominion of
@@ -364,7 +364,7 @@ will co-operate with a teacher in their education; others arc as
 insensible and unimprovable as the oyster, and can receive no
 advantage from others, except to be fed, clothed, and sheltered.
 A large portion of these idiots are kept in public almshouses, and
-although Dr. Howe says that he met with no instance of wilfully
+although Dr Howe says that he met with no instance of wilfully
 unkind treatment of idiots by keepers of any almshouses, and that
 " in most cases the overseers of the poor have given orders for the
 idiots to be treated with kindness," yet they suffer for want of proper
@@ -533,7 +533,7 @@ of more or less cultivation and talent, and have different fields oi
 observation, will have different standards, and consequently different
 notions of the power of these idiots. Yet we know of no better way
 of making and stating the comparison, and we put forth these state-
-ments of Dr. Howe in confidence that the whole will be sufficiently
+ments of Dr Howe in confidence that the whole will be sufficiently
 understood for the purpose of the author, who merely wished to give
 the best notion of the mental, and moral, and physical condition of
 these idiots.
@@ -555,7 +555,7 @@ Massachusetts has 237 per 1000 of all, in this decade. Probably
 many, perhaps most of the idiotic children, may have escaped the
 notice of the commissioners.
 
-Dr. Howe says that " there are a great number brought into the
+Dr Howe says that " there are a great number brought into the
 world so deformed, that it is apparent that they must be idiotic, and
 so feeble that they do not live through infancy." " Idiots of the
 lowest class perish in great numbers in infancy and childhood: fools
@@ -587,7 +587,7 @@ who never manifested more power than they now appear to possess?
 who, as they passed from infancy to childhood, did not put forth the
 talents of the new age?who, however low they may now be, have
 fallen from no higher degree of intelligence, are considered as con-
-genital idiots. They belong to the class whom Dr. Howe considers
+genital idiots. They belong to the class whom Dr Howe considers
 as helpless as infants two years old.
 
 There is another class, who appeared in infancy to be as bright as
@@ -599,7 +599,7 @@ old. These are supposed to have some native defect of organization
 that prevents any greater expansion of intellect, under the ordinary
 influences, than they now exhibit.
 
-Dr. Howe says?
+Dr Howe says?
 t " It was probably the intention of the legislature to use the word
 ' idiot in the popular and common sense. We have considered,
 therefore, all persons whose understanding is undeveloped, or de-
@@ -673,7 +673,7 @@ health as manifested in the ability to put forth muscular strength.
 504 were examined to ascertain this, and the average was 7-88 to 10
 as compared with other persons of their age."
 
-Probably botli the last averages are too large. Dr. H. very pro-
+Probably botli the last averages are too large. Dr H. very pro-
 perly says, that the former is too high. If a more careful examina-
 tion could be made of the power and muscular control of these idiots,
 with tools that require precision of action, and with protracted labour
@@ -747,7 +747,7 @@ Ditto ditto . , . . * F. 01. 13'D, 14*0.
 Yet there is a very great difference in regard to the manifestation
 of the several powers and propensities that arc supposed by phreno-
 logists to be connected with several parts of the head.
-Dr. Howe Avas the president of the Phrenological Society, and is
+Dr Howe Avas the president of the Phrenological Society, and is
 skilled in the practical application of phrenological principles.
 The American editor observes?" His agent also was accustomed
 to cranial measurements, to craniological examinations, and to ob-
@@ -760,7 +760,7 @@ tween the prominence or deficiency of certain parts of the cranium,
 and the strength or weakness of certain powers, sentiments, or pro-
 pensities."
 
-But the following table, containing the result of Dr. Howe's ob-
+But the following table, containing the result of Dr Howe's ob-
 servation, shows, at least, that he has found no new proof of prac-
 tical phrenology in this new field of inquiry.
 
@@ -822,7 +822,7 @@ and habits would lead him to give due attention and weight to all
 facts that can have any bearing upon this science, but whose im-
 partiality and regard to truth impel him to state every fact precisely
 as he finds it, whatever may be the conclusion to which it may lead."
-Dr. Howe says,?" It may be stated here, in general terms, that
+Dr Howe says,?" It may be stated here, in general terms, that
 the result of this examination and measurement shows, that no
 dimensions of the head, except extreme diminutiveness, and 110 shape
 whatever, can be relied on as criteria of idiocy. A few of the worst
@@ -903,7 +903,7 @@ families, 225 are members of poor families, and 220 are public
 paupers.
 
 Age.?200 of these are under, aud 374 over 25 years of age.
-Dr. Howe thinks favourably of their capacity of improvement.
+Dr Howe thinks favourably of their capacity of improvement.
 He says "that 19G?almost the whole of the younger class?and
 272?more than three-fourths of the older class?arc capable of
 being improved in some degree, and raised somewhat from their
@@ -921,7 +921,7 @@ Not knowing what are the necessary causes of this condition, we
 must be content with learning what are the preceding or co-existing
 events or circumstances, that, by their general or universal prece-
 dence to, or connexion with, idiocy, may be presumed to stand as
-causes. In this matter, Dr. Howe has done a good work. Without
+causes. In this matter, Dr Howe has done a good work. Without
 pretending to settle this question beyond all doubt, he has thrown
 much and valuable light upon it. He inquired into the history and
 condition of each case. He ascertained the character and health of
@@ -953,7 +953,7 @@ either parent when the germ, or the element, or the pabulum of life
 is given to their offspring, that condition, or the peculiarity of organization which is susceptible of that condition, will probably be
 transmitted to the child.
 
-Dr. Howe has great faith in this principle, and rests much of his
+Dr Howe has great faith in this principle, and rests much of his
 argument and explanations upon it; and he has shown so many facts
 to corroborate it, that it is not easy to withhold our confidence in his
 reasonings and conclusions. He says, " if ever the race is to be
@@ -1286,7 +1286,7 @@ educating them.
 
 Low and disheartening as is the picture which we have here given
 of the mental and physical condition of idiots, it is not without hope.
-Dr. Howe thinks that almost all of them?488 out of 574?are
+Dr Howe thinks that almost all of them?488 out of 574?are
 capable of improvement, to a greater or less extent.
 
 Two strong inducements for public action or interference to
@@ -1347,10 +1347,10 @@ whose intelligent parents provided the extraordinary and proper
 means for their education.
 
 The legislature of Massachusetts, at its last session, after receiving
-these reports from Dr. Howe, appropriated the sum of twenty-five
+these reports from Dr Howe, appropriated the sum of twenty-five
 hundred dollars annually, for three years, to educate ten idiots, in
 order to try the experiment; and the whole was placed under the
-general direction of Dr. Howe. Mr. James B. Richards was selected
+general direction of Dr Howe. Mr. James B. Richards was selected
 as a teacher, and went to Europe to visit the schools which are there
 in progress, and to learn their method of training and educating
 idiots. Mr. R. returned in September last, and in October opened

@@ -1,8 +1,9 @@
 Influence of Mental Emotion in the Production of Disease of the Heart
 ======================================================================
 
-BY "W. FKASEK, ESQ., M.E.C.S.E.
+:Author: "W. FKASEK, ESQ., M.E.C.S.E.
 (Read at the Medico-Chirurgical Society, Aberdeen.)
+
 The subject of the following remarks was an unmarried female, forty-
 four years of age, whom I attended for the first time about a year ago.
 She was then labouring under decided symptoms of valvular disease of the
@@ -15,6 +16,7 @@ that the original causes which had probably led to the disease still conti-
 nued in operation,?all tended to the formation of a guarded and, indeed,
 an unfavourable prognosis; and it was in accordance with this view that
 my opinion was given of the case.
+
 By the use of a diuretic and tonic plan of treatment, and the retirement
 to the country, so as to ensure the most perfect withdrawal of mental and
 physical excitement, she at that time perfectly recovered; that is to say,
@@ -37,12 +39,12 @@ window of which transmitted a draught of air directly athwart her person.
 The consequence of this indiscretion was an attack of pneumonia, which,
 although all along masked and overlaid, as it were, by the gravity of the
 previously established symptoms, evidently was the means of bringing the
-case to a fatal termination. Dr. Ogston attended her with me for the last
-fortnight, and he and Dr. Steel were present with myself at the autopsy
+case to a fatal termination. Dr Ogston attended her with me for the last
+fortnight, and he and Dr Steel were present with myself at the autopsy
 on the 21st of the month of February.
+
 Not having taken any notes either of the history or post-mortem exami-
 nation of the case, I must confine myself to such remarks as my memory
-INFLUENCE OF MENTAL EMOTION. 423-
 will sufficiently warrant me in making. In tlie cliest, about tlie lower
 third of the right lung was hepatized (and partially adherent to the costal
 pleura), and there were old adhesions between its middle lobe and the wall
@@ -70,17 +72,19 @@ will do. Its flaps were so thickened and altered in shape by the deposition
 within their substance of a sort of brittle osseous or osseo-calcareous mat-
 ter, that they must have permitted a considerable regurgitation of blood
 into the auricle.
+
 The abdomen, from which more than half a bucketful of bloody serum
 was removed, was not very minutely examined. The liver was found
 slightly enlarged and indurated. The spleen was likewise indurated, and
 the kidneys were pale and very deteriorated in the cortical substance.
-Having sent this paper to Dr. Ogston, with a request that he would
+Having sent this paper to Dr Ogston, with a request that he would
 correct any inaccuracies in my account of the post-mortem appearances,
 he sent me the following reply, which, I think, will show that there is no
 material discrepancy between our recollections of the case; and moreover,
 from the well-known accuracy and extensive experience of the Doctor in
 this department, will be a guarantee as to the general correctness of the-
 description.
+
 " Adelphi, 4tli March, 1851.
 " Deae Sie,?These are my recollections of the morbid appearances in
 Miss 's case, so far as our hurried inspection allowed us to examine
@@ -105,16 +109,19 @@ albuminous urine).
 " 12. Moderate effusion of serum into the chest.
 " 13. Copious effusion of serum into the abdomen.
 " 14. Unusual smallness of the stomach."
+
 As the case presented nothing unusual either in its history, progress, or
 treatment, and as I had preserved no notes on the subject, I shall, without
 entering further into these points, come at once to my object in bringing
 it before you.
+
 The occurrence of so well-marked a case of valvular disease of the heart,
 mainly brought on, as I believe it to have been, by mental causes, having
 led me into a train of speculation as to the pathogeny?the modus operandi
 or rationale of the production?of this class of cardiac diseases, I shall,
 with your leave, read over a few ideas I have noted down, crude and
 hasty though I admit them to be.
+
 An examination of the mechanism of the great central organ of the
 circulation will give one (at all events it has given me) the impression that
 the action and office of the mitral valve, the left auriculo-ventricular open-
@@ -154,11 +161,11 @@ other portion of the circulatory system. The natural consequence of this
 will be, in accordance with what we see in other parts of the body when
 subjected to a long course of irritation and over-action, that the organ will
 become strengthened and thickened by the deposition of additional sub-
-IN DISEASE OF THE HEART. 425
 stance, either of a homogeneous or of an analogous kind, and tliis deposi-
 tion, under the continued operation of the cause that produced it, will go
 on till the proper configuration and action of the part become very
 much impaired, or even at last entirely destroyed.
+
 Persons who by practice have acquired the power of paying minute
 attention to their nervous and internal sensations (a very unadvisable and
 dangerous habit, by the way, especially in this instance), can easily reco-
@@ -183,6 +190,7 @@ place, till the entire organ has had time, by the increased rapidity and force
 of its action, induced probably in part by the stimulus of over-distention,
 to make up for, and accommodate itself to, the diminution in the current of
 its contents.
+
 But here the question naturally presents itself?as nature, or the vis
 medicatrix naturae, does nothing in vain, or without some beneficial purpose
 in view, what is the object of the action under discussion, resulting, as
@@ -201,17 +209,18 @@ Crowd to his presence, where their untaught love
 Must needs appear offence."
 Measure for Measure, Act ii. scene 4.
 And again:
+
 " Even such a passion doth embrace my bosom:
 My heart beats thicker than a feverish pulse ;
 And all my powers do their bestowing lose,
 Like vassalage at unawares encountering
 The eye of majesty."
+
 Troilus and Cressida, Act iii. scene 2.
 This action, I will venture to reply, like every other natural process in
 the animal economy, is essentially and in itself of a healthful and pre-
 servative kind, and it is only by being thwarted and diverted from its
 original purpose, that it issues in that series of baneful results of which it
-426 INFLUENCE OF MENTAL EMOTION
 is often tlie first link. I liave observed, on microscopically examining an
 insect in which, the action of the heart and blood-vessels could be seen,
 that on receiving a wound, the first and almost instantaneous effect pro-
@@ -221,6 +230,7 @@ almost convulsive action of the organ : the blood is, at the same time, seen
 to be directed with increased force and abundance towards the wounded
 part, and the animal puts itself into an attitude of defence, or perhaps of
 retaliation and attack.
+
 Precisely the same thing takes place, in similar circumstances, in the
 human body?the instinctive or vital provisions for self-preservation and
 defence being the same in both cases. To borrow the idea of Shakspeare,
@@ -232,6 +242,7 @@ the alarm is immediately sounded, the portcullis is closed, or at least put
 under guard, the forces are mustered, and, amidst the turmoil of prepara-
 tion and arrangement, a momentary consultation is held, and then the
 required assistance is despatched to the region in want of it.
+
 " Between the acting of a dreadful thing
 And the first motion, all the interim is
 Like a phantasma, or a hideous dream :
@@ -240,6 +251,7 @@ Are then in council; and the state of man,
 Like to a little kingdom, suffers then
 The nature of an insurrection."
 Julius Ccesar, Act ii. scene 1.
+
 But besides the attacks of mere brute force, and the palpable evidence
 of immediate jeopardy to his bodily safety, man,?a creature of intellect
 and feeling,?can easily recognise and appreciate the existence of other
@@ -254,6 +266,7 @@ temperament, while in those of a different constitution, like his friend, the
 energetic Luther, a different result would have been produced. The out-
 pouring of speech, for instance, is one of the most obvious means had
 recourse to; as Shakspeare again says?
+
 " The heart hath treble wrong
 When it is barred the aidence of the tongue.
 An oven that is stopped, or river staid,
@@ -283,6 +296,7 @@ By that collision, all the fine machine.
 Else rust would rise, and foulness by degrees
 Incumbering choke at last what Heaven designed
 For ceaseless action and a round of toil."
+
 But amidst the high-pressure conventionalities and law-protected
 arrangements of civilized society, it is in general the intellect or brain to
 which the alarm-struck heart applies?at which it may be literally said to
@@ -296,6 +310,7 @@ concatenation of abnormal products may be the result. Such a fixed
 and irremovable heart-sorrow, for instance, was that of the majestic Lear,
 who thus bewails the mischief done by his ungrateful daughter, in whose
 power he had placed his noble and too confiding heart.
+
 " She liatc
 Looked black upon me ; struck me with her tongue
 Most serpent-like, upon the very heart."
@@ -315,13 +330,14 @@ brought to a stand, by the rapid and continuous rush of blood permitted
 by the too sudden relaxation of its valve ? Pericles, Prince of Tyre, who
 had suddenly recognised and recovered his long lost daughter, thus speaks
 to his friend :?
+
 " 0 ! Helicanus, strike me, honoured sir ;
 Give me a gash, put me to present pain ;
 Lest the great sea of joy rushing upon me,
 O'erbear the shores of my mortality,
 And drown me with their sweetness."
 Pericles, Act v. scene 1.
-428 INFLUENCE OF MENTAL EMOTION
+
 Hence the propriety of gradually breaking tlie force of good news by
 the interposition of a certain amount of doubt or uncertainty, and thus
 preparing the system for its operation; in the case of a person in whom a
@@ -334,6 +350,7 @@ nervous influence, which would otherwise be transmitted to the seat of
 disease. On the same principle wo may account for the great relief which
 is afforded in chronic or fixed disease of the heart by the insertion of a
 seton?a chronic or permanent gash?over the region of the heart.
+
 The consecutive lesions of structure, after the valvular affection has been
 established, that would naturally take place in the other parts of the cardiac
 apparatus, and the system generally, would depend, to a great extent, on the
@@ -357,6 +374,7 @@ degree of thickening or ossification of the valve could be produced, a fatal
 dilatation or aneurism of some other part of the cardiac or arterial system
 would ensue,?that of the left auricle, for instance, or of the origin, or of
 some neighbouring part, of the aorta.
+
 The effect produced by the continued or frequently-repeated contraction
 of the mitral orifice on the venous circulation, tracing it backwards from the
 point of obstruction, would be, in the first place, as we have seen, an
@@ -378,7 +396,6 @@ either of an emotional, therapeutic, or exertional kind, meeting, in the-
 circumstances we have supposed, with the resistance which the obstructed
 capillaries intoi'pose, would expend itself upon their own walls, and what-
 ever portion of these was the most powerfully assailed, or happened, from
-IN DISEASE OF THE HEART. 429
 "whatever cause, to be unusually weakened, would naturally give way and
 suffer dilatation. That this would probably be at the origin of the aorta,
 or in some of the larger trunks, which are acted on by a large mass of

@@ -9,7 +9,7 @@ BY JOHN "WEBSTER, M.D., F.R.S., FELLOW OF THE ROYAL COLLEGE OF PHYSICIANS;
 CONSULTING PHYSICIAN TO ST. GEORGE AND ST. JAMES'S DISPENSARY, ETC.
 The complimentary criticisms contained in different medical periodicals,
 regarding my previous notes on French provincial asylums for the insane,
-which were published in the xii. and xiii. numbers of Dr. Winslow's " Psycho-
+which were published in the xii. and xiii. numbers of Dr Winslow's " Psycho-
 logical Journalinduced me again to go abroad during the recent autumn, in
 order to extend my observations respecting foreign lunatic institutions.
 Accordingly, towards the end of last August, after resuming my portfolio
@@ -67,7 +67,7 @@ the serious nature of the maladies affecting a large proportion of the patients,
 not the improbability of ever being able to effect any improvement in their
 mental condition.
 The only official medical attendant of this extensive lunatic institution is
-Dr. Butin, a practitioner of much experience, and who has been attached to the
+Dr Butin, a practitioner of much experience, and who has been attached to the
 establishment during many years. He resides in the asylum, but is not, as
 I understood, altogether debarred from private practice. There are no internes;
 consequently, when the physician is necessarily absent, it may happen that
@@ -91,8 +91,8 @@ without benefit. Ether, which had been administered during the preceding
 twenty-four hours, apparently produced some alleviation of the symptoms; but,
 although slight, the effect seemed sufficient to encourage a coutmuance of that
 remedy; nevertheless, the ultimate termination remained very precarious; and,
-in reply to Dr. Butin, who politely asked my opinion, I feared tlie patient would
-not recover. After describing the history and treatment of this case, Dr. Butin
+in reply to Dr Butin, who politely asked my opinion, I feared tlie patient would
+not recover. After describing the history and treatment of this case, Dr Butin
 also mentioned that he had met with other instances of the same malady?both
 traumatic and idiopathic?in the adjoining districts of France; which facts arc
 remarkable, seeing this severe spasmodic disease prevails much less frequently in
@@ -234,7 +234,7 @@ loss of time; besides which, the necessity of each patient keeping his proper
 position, and of ^exercising some self-control over his movements, during the
 physician's professional inspection, doubtless proved beneficial. Those inmates
 unable to attend this military-like examination, or who laboured under physical
-disease, being subsequently visited by Dr. Butin in their different dormitories,
+disease, being subsequently visited by Dr Butin in their different dormitories,
 or at the infirmary.
 Amongst the inmates pointed out to mv notice, during tins visit, one deserves
 mention, on account of being the individual whose case was described, and a
@@ -250,7 +250,7 @@ Several pellagrose lunatics were likewise observed in the asylum; thus show-
 ing that the above affection, so common in Italy, and also occasionally in some
 districts of France, is not unknown in the northern departments. Besides other
 .patients deserving notice, one particularly attracted my attention from deliver-
-ing three letters to Dr. Butin, to whom he made a profound salute on his
+ing three letters to Dr Butin, to whom he made a profound salute on his
 approach, and after requesting they might be forwarded to their different des-
 tinations, he retired with another obeisance. This poor maniac believed he was
 the "Grand Seigneur," and often wrote letters to great personages, from imagining
@@ -323,13 +323,13 @@ asylum ; and only those belonging to the north department are received as
 "'indigent patients. At the period of my visit, the total number of insane residents
 amounted to 335 ; of whom only GO were classcd as curable patients; whilst 5
 were paralytics, and 17 epileptics; the remaining 253 being all incurables.
-Dr. Gosselet, a gentleman animated by great zeal for his profession, and of con-
+Dr Gosselet, a gentleman animated by great zeal for his profession, and of con-
 siderable attainments, is the only medical officer attached to this asylum, but
 lie has neither assistants nor internes. In addition to this feature in the me-
 dical staff, owing to the limited accommodation within the institution, and
 its numerous inmates, the present physician resides at a private house in an ad-
 joining street, which must consequently prove very inconvenient to all parties.
-However, as Dr. Gosselet gives his whole time and attention to professional
+However, as Dr Gosselet gives his whole time and attention to professional
 duties at the establishment, whilst he frequently visits particular cases twice,
 NO. XVII. K
 130 dr. Webster's additional notes.
@@ -364,7 +364,7 @@ the most painful spectacles I have ever witnessed.
 In extenuation of the numerous examples of personal coercion, now recorded
 at the Lille asylum, it should be mentioned that, the strait-waistcoat is at
 present much less frequently employed than formerly. For instance, about
-three years ago, when Dr. Gosselet was first appointed physician to this insti-
+three years ago, when Dr Gosselet was first appointed physician to this insti-
 tution, the average number of persons usually in camisoles ranged about sixty
 per day; although the aggregate amount of resident lunatics was then less than
 at present. Notwithstanding every effort is now made, both by the physician and
@@ -374,7 +374,7 @@ locality as the Lille asylum. However, the number of cases in camisoles is
 occasionally less than the amount now reported; in proof of which, it was
 stated that, on the day previous to my visit, the total patients so coerced were
 only sixteen throughout the entire establishment. Still, the above ratio is
-enormous; and therefore, Dr. Gosselet must not relax in his efforts to extend
+enormous; and therefore, Dr Gosselet must not relax in his efforts to extend
 the non-restraint system, whenever possible.
 Formerly, a great many cells, or more correctly speaking, dungeons, were in
 constant use, at this asylum, for confining dangerous or refractory maniacs. Most
@@ -478,7 +478,7 @@ five times a week to the patients: Their bodily health appeared generally satis-
 factory, and few inmates occupied the infirmary.; These are gratifying facts, and
 show the care as well as constant attention paid, by the various officers of the
 establishment, to the unfortunate victims of insanity committed to their super-
-intendence. Coinciding with Dr. Gosselet in many of the opinions he enter-
+intendence. Coinciding with Dr Gosselet in many of the opinions he enter-
 tained respecting the treament of lunatic patients, I feel assured, had he more
 conveniences in the asylum, and were it less crowded by inmates, at the same
 time, had lie all the appliances which many newly-constructed institutions
@@ -503,7 +503,7 @@ withstanding the attendant's vigilance, jumped into the canal, near which they
 then were walking, and was drowned.
 In this asylum, as elsewhere, every patient who dies is pathologically ex-
 amined after death, in order to ascertain the diseased changes of structure
-which have supervened. According to Dr. Gosselet's observation, some dis-
+which have supervened. According to Dr Gosselet's observation, some dis-
 ASYLUM AT CLERMONT. 133
 organization of the brain or appendages were invariably found, more or less
 appreciable, but always sufficient to show, that mental affections attacking
@@ -562,7 +562,7 @@ different divisions seemed well laid out, were open, and airy; and, the residenc
 for patients being usually two stories high, they supply appropriate yet ample
 134 DIl. WEBSTER'S ADDITIONAL NOTES.
 accommodation. Besides which, great order with cleanliness appeared manifest
-everywhere. Dr. Labitte, as already stated, is the attending physician; he
+everywhere. Dr Labitte, as already stated, is the attending physician; he
 has also one assistant, an interne, and a pharmacien?all being resident on the
 premises.
 At the period of my visit to Clermont, the nnmber of lunatics under
@@ -570,7 +570,7 @@ treatment amounted to 870 inmates, consisting of 3(J0 male and 486 female
 patients; consequently, this asylum is one of the largest throughout Trance.
 Amongst the present residents 68 were pensioners, 57 being men and 11 women.
 In regard to the various forms of mental disease affecting this large population,
-the following facts, kindly supplied by Dr. Labitte, must be interesting to
+the following facts, kindly supplied by Dr Labitte, must be interesting to
 readers, as they indicate the actual condition of present inmates. Thus,
 101 were classed as epileptic patients, 30 being males and 65 females; those
 labouriug under general paralysis amounted to 37, comprising 31 men and only
@@ -587,7 +587,7 @@ had also strait-waistcoats; but all were otherwise free. Nearly the whole of
 the above number were indigent patients; only one male and one female
 pensioner being comprised, amongst the eighteen inmates under coercion. Not-
 withstanding the statements now made, it ought to be distinctly understood, in
-justice to Dr. Labitte, that he is an opponent to the employment of camisoles in
+justice to Dr Labitte, that he is an opponent to the employment of camisoles in
 treating maniacs; and only has recourse to such physical measures, to prevent
 furious lunatics injuring others or themselves. In proof of this feeling, a male
 patient was shown, who had been confined to his chair by a camisole, in another
@@ -613,7 +613,7 @@ The attendants appeared active, and keep an accurate register of the various
 employments in which patients are occupied, for the physician's information.
 Further, if any event had occurred since his previous visit, or it was necessary
 to direct attention to new matters, the facts having been written on a slip of
-paper, this report was always handed to Dr. Labitte, on entering the particular
+paper, this report was always handed to Dr Labitte, on entering the particular
 division to which it referred, so that nothing might be overlooked.
 During the year 1850 the following return, taken from the official register,
 indicates the movement of patients at this asylum
@@ -704,7 +704,7 @@ ground floors of several dormitories are said to be occasionally damp, especiall
 after heavy showers, in consequence of the moisture then collected from the upper
 farden and court-yards. The supply of water, as in other asylums, is rather
 efective, but not in comparison with many similar establishments.
-Previous to taking leave of Dr. Labitte, for whose courtesy my best thanks
+Previous to taking leave of Dr Labitte, for whose courtesy my best thanks
 arc due, we entered the chapel belonging to the institution, where a large
 number of patients and attendants had assembled. Both male and female
 lunatics were occupied in their customary devotions, and behaved tranquilly
@@ -747,11 +747,11 @@ ment, during six months, as a barrack, to lodge 4000 men; whilst the open court-
 yards served as a place to perform their military manoeuvres, Being constructed
 near Chalons, on a moderately high hill, the various houses look like a small
 town, and form a prominent objcct in the distance.
-Dr. Giraud, very favourably known to the profession by his works on
+Dr Giraud, very favourably known to the profession by his works on
 insanity, is the physician, and only resident medical officer of the institution.
 He is likewise director, but has 110 interne. There is, however, an assistant
 physician, who resides in Chlaons, and visits the asylum professionally when
-his attendance is required, or if Dr. Giraud happens to be absent through any
+his attendance is required, or if Dr Giraud happens to be absent through any
 cause. On the day of my visit to the establishment, the number of lunatic
 inmates amounted to 309; of whom 145 were male, and 161 female patients.
 About three-fourths were considered incurable; whilst four men were affected
@@ -810,7 +810,7 @@ patients, were busy in their respective work-roomssome in making and mend-
 ing clothes, or in preparing linen, besides washing, cooking, cleaning apartments,.
 and so forth; indeed, the general aspect of the asylum looked more like a factory
 than a mad-house; whilst great tranquillity prevailed throughout the entire
-building. I stated these impressions to Dr. Giraud at the time, and added
+building. I stated these impressions to Dr Giraud at the time, and added
 that the establishment over which he presided was one of the quietest I had
 hitherto inspected. Compared with its former condition, great ameliorations
 have been accomplished in the Chalons asylum; whilst the proportion of fatal
@@ -837,7 +837,7 @@ party now alluded to was clerk in the director's office, and superintended many
 details in that department. This poor fellow is very useful as an amanuensis,
 and labours with his pen like any sane person. Indeed, most of the official
 statements contained in previous pages were obtained through his instru-
-mentality , all being, of course, subsequently submitted to Dr. Giraud, in order
+mentality , all being, of course, subsequently submitted to Dr Giraud, in order
 to insure accuracy; since any statistical information, of whatever kind, without
 such an essential qualification, becomes utterly worthless.
 The inmates have animal food five times a week, whilst the other articles

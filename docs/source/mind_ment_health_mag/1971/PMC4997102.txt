@@ -1,9 +1,27 @@
 The psychiatrists
 #################
 
-:Author: Arnold A. 
 
-Rogow George Allen & Unwin, ?3.50
+:Reference type:  Journal Article
+:Record-number: 17120
+:Author: Tarsh, Michael
+:Year: 1971
+:Title: The Psychiatrists
+:Journal: Mind and Mental Health Magazine
+:Volume: 1971
+:Issue: Winter
+:Pages: 21-21
+:Date: Winter
+:Short-title: The Psychiatrists
+:Alternate Journal: Mind Ment Health Mag
+:ISSN: 0300-8266
+:Accession-number: PMC4997102
+:Notes: PMC4997102[pmcid]
+:Name-of-database: PMC
+:Language: eng
+
+
+
 
 Although written by a professor of
 politics, this book is about American
@@ -34,13 +52,10 @@ discusses the future of American
 Psychiatry which appears to be
 w?rking towards a system similar to
 that found in England; analysts
-"scorning teachers ana trainers and
-a larger number of general psychiatrists coming into the community. The rivalries between
-mental hospital and general hospital (mental health centre), already
-apparent in England, seem about to
-?9in in the U.S.A. Fringe psychiatric methods-especially sensitlv'ty training at the Esalen Institute
-""are discussed in disproportionate
-detaj|.
+
+    "scorning teachers and trainers and a larger number of general psychiatrists coming into the community. The rivalries between mental hospital and general hospital (mental health centre), already apparent in England, seem about to in the U.S.A. Fringe psychiatric methods-especially sensitivity training at the Esalen Institute" 
+    
+are discussed in disproportionate detail.
 
 As a whole the book is a revealing portrait of a very unsettled
 introverted profession, increasingly
@@ -48,4 +63,5 @@ valued externally, but at the same
 time, increasingly divergent about
 the directions in which it wants to
 proceed.
-Michael Tarsh
+
+**Michael Tarsh**

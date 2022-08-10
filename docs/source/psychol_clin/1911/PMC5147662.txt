@@ -1,10 +1,14 @@
 An Experimental Critical Study of the Problem of Grading and Promotion
 ========================================================================
 
-By W. Franklin Jones, Ph.D.,
+:Author: W. Franklin Jones, Ph.D.,
+
 Head of Dept. of Psychology and Pedagogy, Maryland State Normal School, Baltimore, Md.
+
 Part I.?The Formal Aspect of the Problem.
+
 Introduction.
+
 The old ungraded school, whatever else may bo said about it,
 had one splendid feature that the graded school has never attained;
 namely, its instruction was individualistic. On the other hand,
@@ -26,6 +30,8 @@ side which we call grading the school.
 Within this problem of grading, wo have to recognize a subproblem. The school grade is not static; but the moment instructions begins, this feebly cohering mass begins to disintegrate, one
 student forging ahead and another lagging behind. This subproblem which we have to meet is the problem of re-adjustment;
 that is, promotion, positive and negative.
+
+
 Students of educational administration have been at work
 with this problem of grading and promotion ; but unfortunately in
 this, as in other fields of education, we have been offered an array
@@ -38,12 +44,15 @@ the different aspects of the problem of grading and promotion have
 apparently never failed to find that the more deeply one enters
 into the study of this problem, the more one is aware of the needs
 of individual and intensive studies. Thus Thorndike1 notes that
-"the school histories of individual pupils are the proper data"
+  "the school histories of individual pupils are the proper data"
 for measuring the unequal lengths of the different grades; and he
 points out several 1 inadequacies" in his own extensive study.
-Ayres" notes that grade distribution is the result of such diverse
-elements, that without the most careful analysis, conclusions as to
-any of these elements are liable to go astray."
+
+  Ayres" notes that grade distribution is the result of such diverse
+  elements, that without the most careful analysis, conclusions as to
+  any of these elements are liable to go astray."
+
+
 I he fact is, we need many investigations of each type before
 w e can hope for a definite solution of the serious problem of
 grading and promotion. We shall havo to have a multitude of
@@ -55,13 +64,13 @@ the problem.
 Study jSTo. 1.
 The immediate aim of this study may be stated in the form
 of three questions:
-1. \\ hat portion of the failures to carry regular school work
-under the lockstep3 system is due to incapacity?
-2. What portion of the elimination from school under this
-system is due to incapacity ?
-.0. W hat light does this study throw upon the problem of
-grading and promotion ?
+
+1. That portion of the failures to carry regular school work under the lockstep3 system is due to incapacity?
+2. What portion of the elimination from school under this system is due to incapacity ?
+3. W hat light does this study throw upon the problem of grading and promotion ?
+
 Material.
+
 One of the public schools under my supervision in Illinois
 presented what seemed to be a favorable type for this study. The
 situation was not too complex. There were eight grades in the
@@ -78,19 +87,16 @@ sss &s Smc- u\
 STUDY OF GRADING AND PROMOTION. 65
 "boast" that it had "a seat for every child able to attend," and
 the school law enforced attendance.
+
 Method.
 In the choice of method, I met two apparently opposing
 demands:
-1. It was evident that in assuming to pass upon a student's
-capacity to do the required work under given conditions, I must
-have something more than "examinations." I must come into close
-touch with him, see him work, converse with him, pry into his
-mind and into his methods of study; in short, I must make an
-intensive study of the student.
-2. 1 could not make an adequately intensive study of all the
-students in this school, yet I must have an adequate measure of
-class abilities under the existing conditions.
+
+1. It was evident that in assuming to pass upon a student's capacity to do the required work under given conditions, I must have something more than "examinations." I must come into close touch with him, see him work, converse with him, pry into his mind and into his methods of study; in short, I must make an intensive study of the student.
+2. 1 could not make an adequately intensive study of all the students in this school, yet I must have an adequate measure of class abilities under the existing conditions.
+
 The plan adopted was as follows:
+
 The investigation covered a period of three years. As soon
 as work was fairly under way in the fall, the classes were tested
 for class average in each subject. Work was assigned at the beginning of test, periods and the class closely supervised to see that all
@@ -98,9 +104,10 @@ for class average in each subject. Work was assigned at the beginning of test, p
 each of the major subjects each day. The total number of class
 tests ranged from five to twenty per subject in each grade. The
 object of these class tests was twofold:
-1. To find the average ability of the class in each subject,
-working under the usual conditions.
+
+1. To find the average ability of the class in each subject, working under the usual conditions.
 2. To locate doubtful students.
+
 As soon as it appeared that a student could not do seventy-five
 per cent as much work in a given time as the average of his class,
 he was made the subject of special study. All tests were on
@@ -113,7 +120,7 @@ repeat in part, was to determine:
 
 1. Classification.?Whether or not the student was in the best place the school could offer him.
 2. Ability to maintain rate of work shown in class tests.
-3.  Validity of often meager showing made in class tests.
+3. Validity of often meager showing made in class tests.
 4. Personal characteristics at work.?Methods of attacking work, grasp of subject, industry, persistence, conservation of time, etc. Similar though less searching tests were given during the year, as new subjects (i. e. division, fractions, etc.) were reached.
 
 It must be remembered that the object was to test the student's ability at the time to do the work the class was regularly
@@ -122,8 +129,10 @@ study, teaching, and so on. Since it is impracticable to do more
 than indicate the nature of these numerous tests, I give herewith
 one test in each of the school subjects (major). These tests are
 picked at random, except as noted later.
+
 Test in Beading?First Grade.
 (Class of 18)
+
 Material Used.?Story of the fox, pages 108-100, in the first
 book of the "Stepping Stones to Literature" series, published by
 Silver Burdett & Co. jSTo one in the class had ever seen the lesson
@@ -134,6 +143,7 @@ quietly and fold your hands." (Time was recorded for each student. Each was then
 remanded if necessary, counting additional time.)
 Test in Arithmetic?Fourth Grade.
 (Class of 21)
+
 Material Used.?Problems on page 111 of Book I, Werner
 Arithmetic, published by the American Book Company.
 Instructions to Class.?"Take the problems in order, and
@@ -145,6 +155,9 @@ work out without losing considerable time.)
 difficult, the plan commonly followed was that of having the students first work through the even-numbered problems, then through
 the odd numbered.) The results of this test are as follows:
 
+.. list-table:: Results
+:widths: 25 25 25 25
+:header-rows: 1
 
 1   28 3   17
 1   24 3   16
@@ -156,8 +169,8 @@ the odd numbered.) The results of this test are as follows:
 Class average, 17 problems.
 
 STUDY OF GRADING AND PROMOTION. 67
-(Tliis test was not picked at random, but selected for reasons
-shown later.)
+(Tliis test was not picked at random, but selected for reasons shown later.)
+
 Test in Grammar?Seventh Grade.
 (15 students)
 Material.?Fifteen typewritten slips of paper containing ten
@@ -187,6 +200,7 @@ how many facts you can discover that go to show why the ^ile,
 the Sahara, and the Congo are what they arc and where they are.
 (This class had done similar work with other continents.
 Time was called in twenty minutes. Xo one had finished.)
+
 Test in History?Fifth Grade.
 (22 students)
 Material.?The teacher narrated that portion of the story of
@@ -253,6 +267,7 @@ case. When I reached a point where the actual cause seemed no
 longer a matter of question, I ceased pursuit. In order to illustrate my procedure, I will deal with a few typical cases in the
 higher grades where the actual cause is likely to be more carefully
 concealed.
+
 Number 89 in the table was a fourteen-year-old girl. The
 reason she gave her teacher for leaving school was, "Too much
 work at home." This case was first attacked through the girl's

@@ -1,8 +1,10 @@
  On The Physiology and Pathology of The Brain
 ===============================================
 
-BY JOSEPH LALOR, M.D., PHYSICIAN TO THE KILKENNY LOCAL LUNATIC ASYLUM,
+:Author: JosephO Lalor, M.D.
+, PHYSICIAN TO THE KILKENNY LOCAL LUNATIC ASYLUM,
 ETC.
+
 Theee can be no doubt that structural lesions of the brain, and abnormal con-
 ditions as to the quantity of the blood circulating therein, and the rate and
 mode of its circulation, will disturb the cerebral functions in various ways. But,
@@ -33,7 +35,7 @@ are exempt from complication, and that this symptom belongs especially to
 inflammations of the arachnoid. In seventy-flve fatal cases of affections of the
 * We publish this paper without expressing our concurrence in all the views enter-
 tained by the author.?Ed.
-140 ON THE PHYSIOLOGY AND PATHOLOGY
+
 brain in adults, wliicli are related in'Abercrombie's work on diseases of the
 brain, the post mortem appearances are described, consisting of structural
 lesions of various forms and degrees of intensity. Delirium was absent during
@@ -68,11 +70,13 @@ attention of the profession to a closer consideration of the influence which the
 quality of the blood appears to exercise over the functions of the brain, as
 offering at least a prospect of throwing light on a question eminently obscure
 and difficult.
+
 In the following observations, it is intended to adduce some facts,
 authorities, and arguments, which have occurred to rac, indicating the existence
 of a constant relation between the chemical and physical constitution of the
 blood circulating in the brain, and the powers, character, perfection, and
 imperfection of the cerebral functions.
+
 llicherand, in his physiology, attributes some of the moral qualities of men
 and animals, such as courage, to the activity with which the heart propels the
 blood towards all the organs, and lie says, " that every being that is feeble is
@@ -91,7 +95,6 @@ many other differences in their moral qualities, as the greater proneness of
 carnivorous animals to violent passions, their indocility and untameableness, and,
 on the other hand, the greater mildness and docility of herbivorous animals.
 Eor my part, I believe that a rigid examination of the question would show a
-OF THE BRAIN. 141
 more constant relation to exist between the quality of the blood in herbivorous
 and carnivorous animals, and the acknowledged diiferences in their dispositions,
 than between the relative size of their hearts, or the strength of their weapons
@@ -99,6 +102,7 @@ of offence, and those dispositions, as suggested by Richerand. At all events,
 great differences have been ascertained to exist in the composition of the blood
 of those animals, consisting, amongst others, in a greater proportion of globules
 and a less proportion of water in the carnivorous than in herbivorous animals.
+
 The following quotations from M. Lecanu's essay on the blood not only esta-
 blish the fact of this difference in the quality of the blood in those classes, and
 also in others where analogous differences in disposition exist, but also go far to
@@ -125,6 +129,7 @@ mark of stupidity." The simple explanation of this fact (assuming it to be true)
 would appear to be the more impure or carbonised condition of a fluid so
 delicate and so susceptible of change as the blood, owing to the greater length
 of its passage from the heart to the brain.
+
 There are reasons for supposing that the relative perfection of the intellect,
 in man and animals, is in some measure dependent on the quality of their blood.
 I am fully aware that the majority of physiologists give a different explanation
@@ -149,7 +154,6 @@ expect the powers of the nervous system to depend, at least, as much upon the
 * Richerand. By Copeland. P. 330.
 f Muller. By Baly. Pp. 808, 815, and 81G, vol. i.
 | Physiology. 4th edition. P. 168.
-142 ON THE PHYSIOLOGY AND PATHOLOGY
 perfection of its organization as upon its mere bulk." However, the perfection
 of tlie organization of tlie brain, and its adaptation to the purposes intended,
 must depend on the perfection of its fluid as well as of its solid constituents.
@@ -207,12 +211,12 @@ reflection on the subject, that a carcful analytic investigation would show at
 least as regular a gradation in the blood as in the solids, throughout the animal
 kingdom, and that in individuals also their blood would be found, by such an
 inquiry, to differ either coincidently with or consecutively to original or acquired
-OF THE BRAIN. 143
 differences of organization, or as they were placed in circumstances favourable
 or unfavourable to the performance of their functions. Certainly there is
 not a single function of the animal body which does not appear to affect the
 composition of the blood, and to be affected by it. Of all the animal functions,
 that of respiration exerts the most direct and largest influence on the blood.
+
 In proportion to the perfection of the function of respiration we constantly
 observe a proportionate energy, and perfection of the intellectual faculties,
 other circumstances being equal; and so, in like manner, as to the effects on
@@ -245,6 +249,7 @@ to that of mammals, and chiefly depends 011 the tubercles analogous to the
 corporoa striata. With such brains, and with less energetic and less perfect
 respiratory and circulating apparatus, would the intellect or instinct of birds
 rate so high ?
+
 "The three classes of oviparous vertebrates," says Cuvier,f "differ very
 much from each other in their quantum of respiration, and in all that relates to
 it; viz., the power of movement, and the energy of the senses. Again, J
@@ -265,7 +270,6 @@ respiration, when it_ is admitted that this influences their vital energy, the
 susceptibility of their nerve-fibre, to the _ energy of their senses, digestion,
 * Animal Kingdom. By Blytlie, &c. pp. 154 and 161.
 f Idem, p. 153. % Idem, pp. 267, 268.
-144 ON THE PHYSIOLOGY AND PATHOLOGY
 and sensations; and when it is also admitted that the imperfection of the
 respiration renders the movements of certain classcs of animals sluggish, and
 reduces them, on a slight decrease of temperature, to a state of lethargy. But
@@ -306,6 +310,7 @@ that the difference in sexual propensities, between the wild and the tame
 pigeon, for instance, do not appear to have any causes to explain them, other
 than those differences in the external physical circumstances of the two
 varieties, which act 011 the blood, and through it 011 the nervous centres.
+
 An extraordinary instance of the effect of food on the entire organization of
 the larva of an animal, to such a degree as to alter the sex, and thus to modify
 the whole structure of the intellect in the future animal, is presented in the
@@ -322,8 +327,6 @@ do so. Thus it would appear, from the results obtained by M. Quetelet himself,
 or by other statistical authorities quoted by him,* that "the relative ages of the
 parents, their employments, their condition as to physical constitution, supply
 of food, &c., their residence in town or country, exert a regulating influence on
-* Quetelet on Man. Translated by Chambers.
-OF THE BRAIN. -145
 the proportion of the sexes in a given nnmber of births. It has been already
 shown that the quality of the blood is affected by some of the circumstances
 mentioned above?as food; and, hereafter, it will be shown to be affected by
@@ -345,6 +348,7 @@ the egg, for it impregnates the eggs of batrachia aud fishes, out of the body ;
 and tfie form, endowments, and even tendencies to disease, of the father, are
 transferred to the new individual. The semen, therefore, although a fluid, is
 evidently endowed with life, and is capable of imparting life to other matter."
+
 Again,f " The semen and germ must contain, not only the vital principle, but
 also the mind of the new being in a latent state." Again,;;: " Observations
 have shown, that the fecundation following the union of the sexes results from
@@ -379,12 +383,9 @@ bility, that the peculiar matter imparted by the male parent to the ovum, at
 the moment of impregnation (be its nature what it may, and its quantity never
 so infinitesimal), assimilates most of the festal blood to itself; it docs not seem
 too hard to be believed, that the blood and constitution generally of the mother
-* Miiller. By Baly. P. 144, vol. i. t P- 820. + P. 1489, vol. ii.
-? See Med. Press (Dublin), Oct. 10, 1849. Copied from Ed. Month. Journal.
-NO. XVII. L
-146 ON THE PHYSIOLOGY AND PATHOLOGY
 may thereby become so imbued with, the peculiarities of that parent as to
 impart them to any offspring she may subsequently have by other males."
+
 Dr Harvey cites instances of analogous phenomena in the human species,
 showing the transmission of qualities from the male who has had the first
 fruitful intercourse with a female,?not only to the offspring of that inter-
@@ -431,6 +432,7 @@ of the continuation of ccrtain types and forms of physical and mental organiza-
 tion amongst animals, the power of the continuance of individual animal life,
 and healthy nervous and intellectual action, coincident with certain qualities
 of blood.
+
 We find it stated in " Bostock's Physiology," that Haller made a calculation,
 from which he concluded that one-fiftli of all the blood sent out from the left
 ventricle is carried to the head, although the weight of the brain in the human
@@ -439,8 +441,6 @@ adopt this calculation, or reduce the quantity of blood to one-tenth, according
 to Monro, or take even a lower estimate, we cannot but be struck with the very
 large supply of blood which the brain receives in proportion to the rest of the
 body; and hence we must be led to inquire for what purpose is such a large
-* Miiller. p. 141, vol. i.
-OF THE BKAIN. 147
 suPPly provided, and the freedom of its circulation secured by the peculiar
 mechanism of the cerebral blood-vessels? The processes of secretion and
 renovation performed in the brain are trivial, and manifestly insufficient
@@ -498,11 +498,10 @@ his cerebral powers and qualities are found constantly to coincide with variatio
 in the constitution of the fluid blood circulating in the system. " The excite-
 ment," says Miiller,f " of certain organic states of the brain, by the bright.
 * Note to p. 603 of Physiology, 4th edition. f p, 1387.
-L 2
-148 ON THE PHYSIOLOGY AND PATHOLOGY
 scarltet, aerated blood, is a necessary condition for the action of the mind.
 Hence, the abstraction of blood in large quantities produces syncope, and loss
 of consciousness."
+
 " The blood of the foetus, arterial and venous, is stated," by Muller,* " to
 differ in no respect from the venous blood of the adult." It is impossible to
 reconcile such a conclusion with the opinion generally received, and in which
@@ -531,6 +530,7 @@ by the action of atmospheric air; and it would appear to be absolutely neces-
 sary, in order to preserve embryotic existence, that the blood of the embryo
 should be, perhaps, still farther removed from the arterial condition than the
 venous blood of the self-living animal.
+
 It is contradictory to sound theory to suppose, that the placenta ought to
 supply the place of the lungs, or that any organ is wanted for their office, which
 is not only not required during foetal life, but would be destructive of it. The
@@ -556,8 +556,6 @@ contact of atmospheric air with any vascular membrane, is followed of necessity
 by the usual chemical reaction of such air on the blood contained in such
 membrane, and this blood thus changed necessarily excites pro tanto the vital
 action of whatever part it flows through, (independently of any influence from
-* P. 320. f P. 139.
-OF THE BRAIN. 149
 any central organ). Extra-uterine life may commence in the periphery, and
 extend to the centre, as death does sometimes. Besides, owing to the expansi-
 bility of gases, the atmospheric air, when brought into contact with the blood o?
@@ -571,6 +569,7 @@ or less arterialized may reach the brain before a single movement of the res-
 piratory muscles lias taken place, and, once that blood, even imperfectly
 arterialized, has come in contact witli the nervous matter of the brain, will,
 motion, sensation, in a word, independent life commences.
+
 The blood of the new born infant is remarkable for its small proportion of
 water, and for its larger proportion of globules, for the first few days after birth,
 perhaps even for the whole period during which the infant preserves the very
@@ -603,10 +602,13 @@ racter of the temper, of the dispositions, of the affections, &c. M. Denis
 concludes, from his analyses, as related in M. Lecanu's essay, that from three
 weeks to five months the proportion of water increases, the proportion of
 globules diminishes.
+
 From five months to about forty years the proportion of water diminishes, the
 proportion of globules increases.
+
 From forty to seventy years the proportion of water increases anew, and
 that of the globules also anew diminishes.
+
 Thus we have a large proportion of globules in the blood, coincident with,
 the most perfect period of the intellect of man, and vice versa. Can changes in
 the solid nervous matter be demonstrated to occur in an equal degree, and with
@@ -615,12 +617,12 @@ physical and mental developement, the season of the passions, and of crime,
 but also of the most virtuous emotions and the most noble aspirations, is dis-
 tinctly characterized by the highly organized condition of the blood, and it is at
 this period we find the greatest preponderance of red globules and of fibriue, in
-150 ON THE PHYSIOLOGY AND PATHOLOGY
 fact, of those portions of the blood which are known to exite most intensely and
 most permanently the nervous tissue. In old age?man's second infancy?we
 find the composition of the blood again approximating to its infantile condition,
 whilst great differences exist at those two periods of life in the activity of the
 circulation in the brain, and in its solid structure.
+
 It is well known how much the intellect, the disposition, &c., of individuals is
 modified by their natural temperament, and it is found, that the relative com-
 position of the blood varies according to the difference of temperament. Tor
@@ -630,12 +632,14 @@ The constitution of the mind of man differs from that of woman, so also
 does the quality of their blood; the blood of women, like that of lymphatic
 individuals, having a larger proportion of water and a smaller proportion of
 globules.
+
 In fine, on comparing the statistics in M. Quetelet's work on man, with the
 analyses of the blood given in M. Lecanu's essay, we can scarcely avoid being
 struck by the correspondence between the variations in the average mental and
 moral qualities of man, and the variations in the quality of the blood, as such
 variations are produced and modified by sex, age, food, climate, tempera-
 ment, &c.
+
 The necessity for the maintenance of life and consciousness, of the circulation
 in the brain, of blood more or less perfect, has been proved experimentally;
 and Iticlierand says:?" The speedy death of an animal is produced by tying
@@ -655,6 +659,7 @@ in a more direct, palpable, and intelligible manner, on the supposition, that
 tlicy act through their influence on the quality of the blood, and hence on the
 brain (a mode of action admitted for them by Muller), than by recourse to that
 obscure and mysterious power called sympathy.
+
 The influence of hunger and repletion on the animal economy is extended to
 the mind, but their first influence is probably on the composition of the blood.
 Inordinate passions, exertions of the intellect and moral emotions, are known
@@ -672,8 +677,6 @@ merely the nature of the structural change by which the action is rendered ab-
 normal or prevented," it is much more philosophical to attribute the per-
 manent darangements of intellect which follow sudden and violent mental
 emotions to some physical change in the animal cconomy than to any reflex
-* P. 821.
-OF THE BRAIN. 151
 action of those emotions upon the mind itself, which would involve the suppo-
 sition (hard to be conceived), that the immaterial mental essence becomes
 diseased. Post-mortem examinations have not established the occurrence of
@@ -689,6 +692,7 @@ manent. We read in Pringle, that " scurvy broke out with increased virulence
 immediately on the receipt of disastrous news by the army whose medical ma-
 nagement he superintended, without any changc in the physical comforts or
 circumstances of that army."
+
 Here, again, we witness mental emotions, adding to the virulence of a
 disease, which is chiefly characterized by a morbid condition of the blood.
 With the progress of analytical and experimental science, the wide range of
@@ -731,7 +735,6 @@ is so much more susceptible than any solid, seem alone capable of explaining the
 minute shading of intellect, of character, and of feelings?the rapid alternation
 from one extreme of feeling and of thought to another, and the vast diversity of
 the human mind, whether m health or disease. The permanence and the same-
-152 ON THE PHYSIOLOGY AND PATHOLOGY
 ness of form which distinguish solid structure, seem incompatible with such
 qualities. In the laughing gas, in intoxicating liquors, and in many of the
 narcotic poisons especially, we have familiar instances of the action of organic
@@ -753,6 +756,7 @@ stomach, not the least difference can be pcrceived, according to Muller, whether
 the nervous vagus has been divided or not. In like manner, certain descriptions
 of food affect the mind in specific modes, either owing to idiosyncrasies or as a
 normal law.
+
 As the various organic and inorganic substances introduced into the blood
 ab extra, affect the brain in certain specific ways, what reason is there for
 supposing that organic, and inorganic substances, developed ab intra in the
@@ -789,7 +793,6 @@ pear to be extreme instances of such a vital degeneration. But how many abnor-
 mal compounds, how many new chemical combinations foreign to its normal con-
 stitution and to its healthy action, may arise in the blood, when the sway of
 the vital laws has been loosened, and when this complex fluid comes, even.
-OF THE BRAIN. 15&
 very partially, under the influence of the chemical laws of inorganic matter, or
 the vital laws of lower types of organism ? Ancl what may he the influence of
 those new compounds and combinations on the brain ? Those questions are
@@ -798,6 +801,7 @@ to which those remarks have already run prevents my entering into a detailed
 investigation of the state of the nervous functions, in various bodily diseases
 in which an alteration of the quality of the blood is known to exist, and in
 which also the nature of that alteration has been at least partly ascertained.
+
 I do not suppose that by such an investigation I could establish, in an
 unquestionable manner, that there exists any constant and definite dependence
 of one upon the other. The chemical analysation of the blood is perhaps^ as

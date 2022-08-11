@@ -1,7 +1,8 @@
 On the Prevention Of Chime
 ==========================
 
-BY MR. IT. I). IIILL, Q.C.j RECORDER OF BIRMINGHAM.
+:Author: MR. IT. I). IIILL, Q.C.j RECORDER OF BIRMINGHAM.
+
 Gentlemen of tiie Grand Jury,?At. the Michaelmas sessions of last year, I
 addressed your predecessors on the repression of crime, confining, however, my
 remarks to one branch of that great subject?namely, the propriety of holding
@@ -14,7 +15,7 @@ I believe I may venture to state that it met with acceptance; but having been
 handled by men of acute minds, unguarded from error by practical experience,
 I ought not to wonder that a new question, or, at all events, a question new to
 * An address delivered to tlic grand jury.
-154 ON THE PREVENTION OF CRIME.
+
 these critics, would call fortli dissent as well as agreement?dissent exhibiting
 itself in a multitude of ingenious objections. If 1 had foreseen that any obser-
 vations falling from me could have been deemed worthy of so much notice, I
@@ -71,7 +72,6 @@ tion is neither in the first instance regulated by an estimate of the time requi
 for that purpose, nor is there any power to continue it until his reformation is
 effected. The prisoner is afflicted with a moral disease, but the prison cannot
 be considered in the light of a hospital for its treatment without exposing the
-ON THE PREVENTION OF CRIME. 155
 administration of criminal justice to ridicule. For what sliould we think of a
 hospital for the cure of a malignant and infectious disease (and surely no disease
 can be more malignant or more infectious than crime), if the rule of its gover-
@@ -80,6 +80,7 @@ year, according to a principle of regulation quite irrespective of his condition
 at the time of his dismissal, and making it altogether a matter of accident
 whether he is relieved of his distemper, or whether lie is sent forth to spread
 infection through the land.
+
 As long, then, as punishment is measured out upon the retributive principle,
 so long an individual once convicted must remain an object of just and
 unavoidable suspicion, and the class to which he belongs may reasonably be
@@ -128,7 +129,6 @@ and, moreover, that when at length detected he ought to bear his privations
 with as much of contempt and defiance as he can command?consoled by
 the prospect of restored freedom and the hope of better fortune in future.
 Is not this, gentlemen, a fail' parallel? And does it not show that our
-156 ON THE PREVENTION OF CRIME.
 treatment of malefactors is better calculated to confirm them in evil doing
 than to withdraw them from crime ? It will be observed that I speak of the
 general working of our system. That there arc many exceptions to the rule I
@@ -178,6 +178,7 @@ although sentences for transportation were at ail times more frequently for
 limited terms of years than for life, so few returned, that the country might
 almost be said to be freed for ever from the presence of a convict when once he
 had left our shores.
+
 Do not, gentlemen, mistake me by imagining that I am pronouncing an
 eulogy on transportation. Believe me, I Bear too clearly in my mind the
 powerful and conclusive arguments by which it has been assailed. All I desire
@@ -185,7 +186,6 @@ to impress on you is, that the stoppage of that great sewer which has for so
 many years carried away the dregs of our population, will produce a most un-
 wholesome effect, other things remaining as they are; and that while the
 country adheres to the principle of retributive punishment (as it probably will
-ON THE PREVENTION OF CRIME. 157
 do long after the voice to which you so kindly listen is hushed in the grave), so
 long that pernicious effcct will imperatively call for some special remedy?which
 remark brings me back to the consideration of the one laid before your prede-
@@ -200,6 +200,7 @@ conduct satisfy his mind that the charge is established, to call on the prisoner
 to show that he enjoys the means of honest subsistence either from his property,
 his labour, the kindness of his friends, the bounty of the charitable, or from Ins
 parish. Should he succeed in adducing this proof he is to be discharged.
+
 Should no such proof be forthcoming, lie is next to be called upon to give Dail
 for his good behaviour. Supposing him to answer this demand, he is to be
 still entitled to his discharge. But in the event of his failure, he is then to be
@@ -214,6 +215,7 @@ In the first place, no proceedings under the proposed law would put the convict
 into custody even for a day, except by the verdict of a jury; unless, indeed, he
 should forfeit his recognizances by not appearing to take his trial, when he
 would subject himself to the well-known consequences of such a contempt.
+
 Suppose him, then, 011 his trial, and observe how he is fenced round with pro-
 tections, " covered," as Erskine expresses it, " from head to foot with the panoply
 of the law." In the first place, his accusers must satisfy the jury that he was
@@ -230,6 +232,7 @@ emphatically within his own knowledge. But we will go on to suppose him
 defeated in this second defence. Even then, unless he is altogether bereft of
 honest friends, having confidence that he will not commit crime, he finds bail
 and remains at liberty.
+
 Now, gentlemen, the species of objection to which I thought my proposal
 most obnoxious is, that it offers too many chances of escape to be practically
 efficient for the restraint of criminals. On this head, however, none who are
@@ -242,7 +245,6 @@ are more open to this reproach than trials for specific offences, or so open, I 
 take upon myself, speaking from a very long experience in criminal courts, con-
 fidently to deny. No tribunal is infallible. No discovery has yet been made
 which supplies a sure touchstone to human testimony. And if the lamentable
-158 ON THE PREVENTION OF CRIME.
 fact that innoccnt men are sometimes convicted were sufficient for tlie condem-
 nation of criminal jurisprudence, no mode of trial that the wit of man has ever
 .invented could stand. But from the strain in which some writers have indulged,
@@ -295,12 +297,13 @@ less bitter the grief of her bereaved parents, had she been devoured by a beast
 of prey! Her image would then have dwelt in their memory unsullied by those
 revolting associations of pollution with which it will now for ever be mingled.
 Is the convict, then, I ask, to exhaust all our sympathies ?
+
 Are we to have no thought for the myriads of honest and faithful subjects
 exposed to the same frightful perils, deeply feeling the want of protection, the
 comfort of whose lives isofttimes destroyed by the perpetual fear which harasses
 their minds ? But, gentlemen, we almost always find that an over-wrought
-PRIVATE ASYLUMS. 159
 strictness in one direction is balanced by some glaring laxity in another.
+
 Writers who evince the greatest trepidation at the proposal to which your
 attention has been drawn, themselves urge the adoption of an alternative in-
 finitely more perilous to innocence than the most distorted imagination can

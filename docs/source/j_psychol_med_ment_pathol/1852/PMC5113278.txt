@@ -11,11 +11,15 @@ ming was very much fatigued by the last visit.
 Foreman of the Jury.?We wish you to retire (referring to Mrs. Moore and
 another person in the room.)
 Mrs. Moore.?I understood that I was to remain with Mrs. Cumming.
-Foreman of the Jury.?No, you must retire, if you please.
-The Commissioner (to Mrs. Cumming).?You were in Wales a year ago ? A. Yes,
+
+Freman of the Jury.?No, you must retire, if you please.
+
+Te Commissioner (to Mrs. Cumming).?You were in Wales a year ago ? A. Yes,
 I was.?Q. And saw all your property there ? A. Yes.
-A Juryman (to Mrs. Moore and the other female).?You will leave the room, if you
+
+AJuryman (to Mrs. Moore and the other female).?You will leave the room, if you
 please, both of you.
+
 Mrs. Cumming.?But I require that lady (referring to Mrs. Moore).
 Foreman of the Jury.?We cannot allow it.
 The Commissioner (to Mrs. Cumming.)?Who do you wish to have here?
@@ -239,7 +243,6 @@ Q. Not more than that? A. No. ? Q. I thought he had been your solicitor for
 some months ? A. He might. I was in very bad health, and I only requested him
 once to call on Mr. Robert Haynes about some moneys that I wanted. ? Q. Do you
 remember Mary Ann Hickey being there ? A. She was a little girl here, I seldom saw
-THE CASE OF MRS. CATHERINE CUMMING. 163
 her.? Q. Used she to read tlie newspapers to you ? A. She would spell them to me as
 well as she could, if that may be called reading. ? Q. She was very young at that
 time ? A. She has had time for improvement now. ? Q. Do you remember holding
@@ -277,6 +280,7 @@ will I made when I was very ill. ? Q. And you signed it ? A. No.
 A Juryman.?You never made a will at all? A. Not besides that. ? Q. There is
 no will in existence now ? A. Not to my knowledge. ? Q. It must be to your know-
 ledge if you made one ? A. Exactly so, so it would.
+
 The Commissioner.?Do you remember whether that silver basket, which we
 have talked about, was ever put up for sale ? A. No, it never was.? Q. Did not your
 daughter, when you were at Greenwich, write you a letter offering to buy anything for
@@ -301,13 +305,13 @@ that period, it was at another period. ?Q. What were they to give you for the ot
 property that was sold afterwards? A. It was nearly 8000/. ? Q. To whom were
 you selling? A. To the Railway Company. ? Q. I understood you to say so the
 other day ?
-A Juryman.?G000/. she says. - ? ? - ? ?
-L 2
-1G4 THE CASE OF MRS. CATHERINE GUMMING.
+
+A Juryman.?G000/. she says.
 Mrs. Cumming.?That is what I told you the other day.
 The Commissioner.?Then you sold some to the Water-works Company besides?
 A. Yes, at different periods, you know. ? Q. Do you recollect what the Water-works
 Company we're to give you ? A. Nearly 1000/.
+
 A Jubyman.?Then there were Sir Charles Morgan? A. That is lately.
 The Commissioned?I understood you do not approve of that sale to Sir Charles
 Morgan ? A. Who said so ? ? Q. Do you know what you are to receive from him ?
@@ -337,44 +341,120 @@ rent when I had sold it. ? Q. What did you sell it to Sir Charles Morgan for ? A
 is easily told, because it is a very little bit. ? Q. There were from two acres and a
 half, to two acres and three-quarters ? A. Yes. ? Q. Can you tell us at all what you
 did sell to Sir Charles Morgan, or any other gentleman of the name of Morgan ?
-A. Round the church; that was a small spot of land that I sold to Bailey. ? Q. The
-receipts which you have given for your rent?do you draw them out yourself? A. I
-do. ? Q. The whole of them, body and all? A. Yes; but since my eyes have been
-so bad I only siyn them. ? Q. How long have you given up writing the body of the
-receipts ? A. Not long; perhaps I may do it again when my eyes get better?I have
-a dreadful cold in my eyes. ? Q. The cheques on your banker, do you draw tliem ?
-A. I do sometimes, according to the state of my health Q. Do you remember seeing
-Mr. Williams in your carriage, and receiving his rent up to 1849, and giving him a
-receipt ? A. Yes, I do; but I gave him a receipt from myself then. ? Q. They were
-all signed by you ? A. Yes.
-A Jubyman.?When was it you gave him the receipt in the carriage ? A. When I
-received the money. ? Q. When was that ? A. I do not think that is a question I
-have a right to answer.? Q. Do you ever have your banker's book sent home and
-made out ? A. No ; because I call there very often. ? Q. When was it last made up ?
-A. Why, very lately. ? Q. About what time do you have it made up: at particular
-periods? A. You know I cannot have access always to the banker's.? Q. But you
-can send ? A. Yes; but we should be very tenacious wbo we send. ? Q. Can you
-not trust the people about you? A. Yes, I can. ? Q. Do you think it was made up
-at Christmas ? A. There is not a great deal in it, because I have drawn it myself.?
-Q. How often do you generally get it made up ? A. Not at any particular period.?
-Q. You have some grandchildren? A. I believe so.? Q. They have given you no
-cause of displeasure ? A. I never put it in their power. I have quite sufficient to
-occupy my mind by my own children, their parents. ?Q. I understand you to say, you
-saw Mrs. Ince sometimes out of your window ? A. To be sure, I could not do other-
-wise when she came there and pestered me from morning till night. ? Q. Was she
-alone when you saw her? A. I cannot tell that. ? Q. You would see if other people
-were with her ? A. Not if they stand behind.?Q. How often have you seen Mrs.
-Ince out of these windows ? A. Many times. ? Q. Lately. A. It is not a very
-great while ago that she was here. ? Q. Since Christmas; since you came back from
-THE CASE OF MRS. CATHERINE CUMMING. 165
-Effra Hall ? A. I think I liave, or somebody like her. ? Q. Have you seen her out-
-side the window ? A. Outside the door; not this door, hut I mean the gate; we call
-it a door. ? Q. You thought you saw her once or twice outside the house in the
-Edgware-road ? A. No, I have not been able to go there. ? Q. But when you were
+
+
+A. Round the church; that was a small spot of land that I sold to Bailey. ? 
+
+Q. The receipts which you have given for your rent?do you draw them out yourself? 
+
+A. I do. ? 
+
+Q. The whole of them, body and all? 
+
+A. Yes; but since my eyes have been so bad I only siyn them. ? 
+
+Q. How long have you given up writing the body of the
+receipts ? 
+
+A. Not long; perhaps I may do it again when my eyes get better?I have
+a dreadful cold in my eyes. ? 
+
+Q. The cheques on your banker, do you draw tliem ?
+
+
+A. I do sometimes, according to the state of my health 
+
+Q. Do you remember seeing Mr. Williams in your carriage, and receiving his rent up to 1849, and giving him a
+receipt ? 
+
+A. Yes, I do; but I gave him a receipt from myself then. ? 
+
+Q. They were all signed by you ? 
+A. Yes.
+
+A Jubyman.?When was it you gave him the receipt in the carriage ? 
+
+A. When I received the money. ? 
+
+Q. When was that ? 
+
+A. I do not think that is a question I have a right to answer.? 
+
+Q. Do you ever have your banker's book sent home and made out ? 
+
+A. No ; because I call there very often. ? 
+
+Q. When was it last made up ?
+
+A. Why, very lately. ? 
+
+Q. About what time do you have it made up: at particular
+periods? 
+
+A. You know I cannot have access always to the banker's.? 
+Q. But you can send ? 
+
+A. Yes; but we should be very tenacious wbo we send. ? 
+
+Q. Can you not trust the people about you? 
+
+A. Yes, I can. ? 
+
+Q. Do you think it was made up
+at Christmas ? 
+
+A. There is not a great deal in it, because I have drawn it myself.?
+
+Q. How often do you generally get it made up ? 
+
+A. Not at any particular period.?
+
+
+Q. You have some grandchildren? 
+
+A. I believe so.? 
+
+Q. They have given you no
+cause of displeasure ? 
+
+A. I never put it in their power. I have quite sufficient to
+occupy my mind by my own children, their parents. ?
+
+Q. I understand you to say, you
+saw Mrs. Ince sometimes out of your window ? 
+
+A. To be sure, I could not do other-
+wise when she came there and pestered me from morning till night. ? 
+
+Q. Was she
+alone when you saw her? 
+A. I cannot tell that. ? 
+Q. You would see if other people
+were with her ? 
+A. Not if they stand behind.?
+Q. How often have you seen Mrs.
+Ince out of these windows ? 
+A. Many times. ? 
+Q. Lately. 
+A. It is not a very
+great while ago that she was here. ? 
+Q. Since Christmas; since you came back from Effra Hall ? 
+A. I think I liave, or somebody like her. ? 
+Q. Have you seen her out-
+side the window ? 
+A. Outside the door; not this door, hut I mean the gate; we call
+it a door. ? 
+Q. You thought you saw her once or twice outside the house in the
+Edgware-road ? 
+A. No, I have not been able to go there. ? 
+Q. But when you were
 living there, two or three years ago, do you remember living at Mrs. Oldfield's ?
-A. Yes, perfectly well. ? Q. Did you see her outside there ? A. Yes, I did see her
+A. Yes, perfectly well. ? 
+Q. Did you see her outside there ? 
+A. Yes, I did see her
 outside there, surrounded by a parcel of policemen : and very lady-like it looked, too. ?
 Q. Anybody else ?
+
 (The female who had been requested to leave the room here entered, and said,
 " Mrs. Cumming was so exhausted last time, that I think she must require a little
 refreshment."
@@ -382,11 +462,14 @@ A Juryman.?What is your name ?
 Mrs. Cumming (addressing the female who had entered.)?Blake, I want you.
 Dr Caldwell (speaking of Mrs. Cumming.)?She wishes to retire; she feels
 fatigued.
+
 The Commissi oxer.?We did not think it right to come and trouble you yesterday.
 Mrs. Cumming.?I was here ready, and waiting.
+
 The Commissioner.?To-day, Dr Conolly said you wished us to come. Do not
 disturb yourself about it; leave yourself in the hands of these gentlemen; you may
 depend upon it they will do what is right for you.
+
 A Juryman (to Mrs. Cumming.)?The mistake you make, I fear, is, that you
 think us your enemies ; but we are your friends. Every question these gentlemen put
 to you is for that objectj; we wish everything should be properly done to you.

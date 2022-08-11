@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QObscenity as offensive to modesty or decency\r\nBroadly speaking, society regulates its sexuality by\r\nmeans of language, pictorial representation, fashion\r\nand behaviour.\\E$"}

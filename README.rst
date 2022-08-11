@@ -1,7 +1,7 @@
 Justpsychiatry Article Archive
 ===============================
 
-This is a collection of articles in the feild of psychiatry and psychology transformed and shared for high readability and accessibility. 
+This is a collection of articles in the field of psychiatry and psychology transformed and shared for high readability and accessibility. 
 
 
 .. toctree::

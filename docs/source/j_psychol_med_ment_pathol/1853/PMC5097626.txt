@@ -4,7 +4,7 @@ The Report of Bethlehem Hospital
 litE annual report of this hospital for the year 1852, addressed to its president,
 treasurer, and governors, will be received with unusual interest; inasmuch as
 it way reasonably be expcctcd to contain some indication of the future policy
-590 THE REPORT OF BETHLEHEM HOSPITAL.
+
 which will be adopted in the administration of this great bnt notoriously mis-
 managed public charity. No institution founded for the reception, care, and
 treatment of the insane is more ancient than Bethlehem; and none can record
@@ -62,10 +62,10 @@ columns, all the statistical details that can be desired. During the year
 1852, there appear to have been 303 patients admitted into Betiilchcm, and
 252 discharged, of whom 145 were cured, and 107 uncured. We are indebted
 mainly, we presume, to the researches of Dr Webster for the following return
-THE REPORT OF BETHLEHEM HOSPITAL. 597
 of the total number of curable patients admitted into Bethlehem Hospital
 during one Hundred years ending 31st December, 1S52, with the amount of
 cures and deaths:?
+
 Total patients admitted . . 19,192
 Discharged curcd .... 8086 . . or 42-13 per cent.
 Died  1675 . . or 8*72 per cent.
@@ -79,12 +79,15 @@ Curable . . 65 . . . 99 . . . 164
 Incurable . . 38 . . . 37 . . . 75
 Criminals . . 90 ... 22 ... 112
 193 158 351
+
 Of the 112 criminal lunatics, 90 were male and 22 female. The following
 tables will show the offences which were committed by these persons, and the
 time they have been in Bethlehem;?
 Synopsis of Offences of the Criminal Lunatics confined in
 Bethlehem Hospital, 31a*? December, 1852.
+
 NATUBE OF OFFENCES.
+
 1. Against the State.
 (1.) High Treason . 1
 (2.) Sedition ... 1
@@ -130,7 +133,7 @@ MALES. FEMALES. TOTAL.
 12
 27
 112
-598 THE REPORT OF BETHLEHEM HOSPITAL.
+
 The most interesting portion of Dr Hood's report, and that which most
 immediately concerns the public, and the well-being of the charity, consists in
 the improvements which are stated to be in progress. The following is a sum-
@@ -160,6 +163,7 @@ factory to hear that the massive iron bars which now disfigure and give a
 prison-like aspect to the windows of this magnificent edifice (no finer build-
 ing, in point of architectural beauty and majesty, exists in London) arc to be;
 removed, and replaced by windows of a lighter and more graceful construction.
+
 "Experience," adds Dr Hood, truly, "has sufficiently proved the great im-
 portance of abolishing every trace of those unhappy circumstances traditionally
 connectcd with lunatic asylums. Every outward sign of restraint should be

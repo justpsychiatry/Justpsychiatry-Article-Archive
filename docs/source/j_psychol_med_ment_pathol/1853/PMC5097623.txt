@@ -3,8 +3,8 @@ State of Lunacy in England
 
 THE JOURNAL OF PSYCHOLOGICAL MEDICINE AND MENTAL PATHOLOGY.
 OCTOBER 1, 1853.
-Aet. I.-
-.*
+Aet. I
+
 The Seventh Annual Report of the Commissioners in Lunacy has just
 been issued to the public. Before proceeding to analyse its contents,
 we feel it our duty to refer briefly to a grievance connected with its
@@ -29,8 +29,7 @@ required in the month of June in every year to make a report to the
 * Seventh Annual Report of the Commissioners in Lunacy to the Lord Chance or.
 30tli June, 1852. Pursuant to the Act 8 and 9 Vict., s. 88. (Ordered by the House
 of Commons to be printed, 5th April, 1853.)
-NO. XXIY. K K
-460 STATE OF LUNACY IN ENGLAND.
+
 Lord Chancellor of the state and condition of the several houses, hos-
 pitals, asylums, and other places visited by them?the care taken of
 patients generally, and such other particulars as may appear to them
@@ -74,7 +73,6 @@ this requires amendment. Again, in illustration of the inconvenience
 which must arise from the delay complained of, it is clear that the next
 report will embrace from the June of 1852 to the June of 1853, and
 not appear until about the same period?viz., the autumn of 1854, yet
-STATE OF LUNACY IN ENGLAND. 461
 during that period the new Lunacy Bills will have come into operation,
 which will not therefore be officially reported upon until the tenth
 report, embracing the period from 185B to 1854, makes its appearance.
@@ -99,6 +97,7 @@ be laid on the dormitory-table of the House of Commons, where mea-
 sures not stimulated into active progression by the excitement of popu-
 lar interests generally remain in a state of passive slumber during the
 greater part of the session.
+
 We now proceed to analyse the report before us, viewing it in con-
 nexion with the report which was published by the commissioners five
 years ago?a comparison which will greatly enhance its interest. In
@@ -118,8 +117,6 @@ look to the returns of the county asylums, hospitals, provincial licensed
 houses, and other places for the reception of lunatics, including Beth-
 lehem, Haslar Hospital, and Thornclifie Military Hospital, we ^nd that
 between the year 1847 and 1852, there has been an increase of as many
-k K 2
-102 STATE OF LUNACY IN ENGLAND.
 as 3580 lunatics ; in 1847, tliere were returned 13,832 ; but in 1852,
 we find the number increased to 17,412. The number of persons
 found lunatic by inquisition does not present any corresponding increase,
@@ -131,6 +128,7 @@ numbers being in 1847, criminal lunatics, 337, and in 1852 increased
 to 436. The two summary tables, the one for 1847 and the other for
 1852, may suggest other points for consideration; and we therefore
 here subjoin them.*
+
 On the 1st of January, 1847, there were in England 20 county
 asylums; in Wales 1; and the number of lunatics therein confined
 amounted to 5486. At the commencement of the January of 1852, we
@@ -163,8 +161,7 @@ with some persons that private asylums should be abolished, and accom-
 modation provided in county asylums for the better class of patients,
 yet we have reason to know from the inquiries we have made, that the
 officers in charge of county asylums entertain a very strong conviction
-* See next page.
-STATE OF LUNACY IN ENGLAND. 468
+
 Summary Table for the 1st January, 1847.
 County Asylums
 Hospitals ....
@@ -257,6 +254,7 @@ Total.
 59 226
 21 111
 337
+
 Summary Table for the January, 1852.
 County Asylums
 Hospitals
@@ -267,6 +265,7 @@ Royal Naval Hospital, Haslar, Hants . . .
 Military Lunatic Hospital, Great Yarmouth.
 Totals
 Private.
+
 M.
 131
 494
@@ -371,6 +370,7 @@ M. F. Total.
 85 59 141
 474 152 986
 436 171 152
+
 464 STATE OF LUNACY IN ENGLAND.
 that such a system would not work well, independent of which, persons
 of education and status in society will never consent to their relatives
@@ -415,7 +415,6 @@ rest in an establishment?where his responsibility is declared?he is far
 more likely to exert himself conscientiously and to the best of his
 ability, than when he has only a stipendiary interest in an establishment
 and shares a divided responsibility. The Commissioners in Lunacy do
-STATE OF LUNACY IN ENGLAND. 465
 not, it is to be hoped, entertain the opinion of the noble Earl at the
 head of their Board, otherwise painful, indeed, must be the discharge
 of their duties in supervising a system which they at the same time
@@ -430,6 +429,7 @@ the part of committees of visitors engaged in organizing lunatic asylums,
 for their advice respecting the organization of the staff of officers ; and
 they, therefore, some time ago, circulated a paper of suggestions, of
 which the following is a copy.
+
 Commissioners' Suggestions for the Staff of a County Lunatic
 Asylum.
 Resident Medical Superintendent.
@@ -457,10 +457,10 @@ In the event of the asylum becoming full, or nearly full, it may be
 advisable to appoint an assistant medical officer, with board and lodging,
 at a moderate salary, say Irom fifty to eighty pounds per annum. Such
 an arrangement has been adopted in many of the large asylums, e. y.,
-Lancaster, Kent, Stafford, &c.
-466 STATE OF LUNACY IN ENGLAND.
-*
+Lancaster, Kent, Stafford, &c.*
+
 Resident Clerk and Steward.
+
 The commissioners are disposed to think that these offices may be
 conveniently joined, and that, at least until the number of patients be
 considerable, this officer may (in addition to his ordinary duties) examine,
@@ -470,21 +470,27 @@ have suitable board and lodging in the asylum. The salary of this
 officer varies in different asylums from fifty to one hundred pounds,
 according to the position assigned to the person holding the office, and
 the amount of duty imposed upon him.
+
 Matron and Housekeeper.
+
 She should be a single woman (or widow) of the middle class of life,
 of active business habits, and capable of personally directing all the
 details of a large household, such as the kitchen, laundry, cutting out
 and making up dresses, clothing, &c., and directing the female patients
 in their needle work, &c., in addition to the superintendence of the female
 wards, nurses, and female servants.
+
 A person brought up with the habits of a lady appears to be in general
 not desirable.
+
 Her office would in a great degree combine the duties of a house-
 keeper and those of head nurse, and her salary should be not less than
 double the amount of wages of any other nurse, together with apart-
 ments and board. In the generality of existing asylums it varies from
 forty to one hundred pounds a year.
+
 Chaplain.
+
 The salary of this gentleman, who will, it is presumed, be a non-
 resident officer, may be generally described as equivalent to that of a
 curacy. In the different asylums it usually varies between fifty and one
@@ -493,17 +499,21 @@ this amount. In the Middlesex Asylum at Hanwell, where there are
 nearly one thousand patients, it is two hundred pounds ; and in that of
 Lancaster, where the patients are nearly eight hundred, it is three hun-
 dred pounds a year.
+
 The particular amount ought, in some degree, to be regulated by a
 consideration of the quantum of labour imposed, and the amount of
 time required for the due performance of the duties.
 The practice has hitherto, we believe, been that the chaplain should
 not reside in the asylum, and a contrary practice would seem in general
 to be open to grave objections;
-STATE OF LUNACY IN ENGLAND. 467
+
 Treasurer.
+
 Some local banker would, doubtless, perform the office of Treasurer
 without salary.
+
 Clerk to the Visitors.
+
 A fixed payment for each official visit to the asylum with the Visit-
 ing Justices, or a yearly salary, not exceeding in either case a limited
 and very moderate sum, appears to the commissioners to be the best
@@ -511,15 +521,19 @@ mode of remunerating the labour incident to this office. Possibly, how-
 ever, with a view both to convenience and economy, a satisfactory
 arrangement might be made for having the duties performed by the
 clerk of the asylum.
+
 Male and Female Attendants.
+
 In addition to the qualities obviously requisite in servants of this
 class (such as good temper, patience, sobriety, honesty, activity, and
 general intelligence), it is desirable that each attendant should be able
 to read and write, and should be qualified to train and direct the patients
 in their various in-door and out-door occupations.
+
 The commissioners think that the wages of the attendants should be
 liberal, and should be subject to periodical increase in cases of length of
 service and good conduct.
+
 Before making any comment upon these suggestions, we shall lay
 before our readers the subjoined Table, which we have been at the
 pains to construct from the Report before us. It exhibits the amount
@@ -528,6 +542,7 @@ county asylums specified. The asterisk signifies non-resident. The
 first column states the number of patients in the asylum on the
 1st January, 1853, with the view of giving some idea of the amount of
 duty required.
+
 TABLE OP SALARIES GIVEN TO THE SUPERIOR OFFICERS IN COUNTY LUNATIC ASYLUMS.
 Number
 of
@@ -672,6 +687,7 @@ Not yet
 open.
 1005
 9G1
+
 . . Physician, ?150*
 House Surgeon, ?120, board and lodging.
 . . Medical Superintendent,?350, house,
@@ -705,11 +721,13 @@ board, lodging, and washing.
 Ditto (female side), ?200, board, lodg-
 ing, and washing.
 Dispenser, ?70, ditto.
+
 (a) The Treasurer and Clerk to this Asylum receives a salary of ?120 per annum.
 (4) The Assistant in Stores to this Asylum receives a salary of ?25, with board, lodging, and washing.
 (c) The Schoolmaster in this Asylum receives a salary of ?90.
 (rf) The Office of Visiting Physician, whose salary was ?315 per annum, has been abolished.
 . . ?200,
+
 house, and
 garden.
 . . ?200,*
@@ -946,6 +964,7 @@ Gil
 263
 73
 79
+
 . . Visiting Physician, ?210 . . . .
 Two Resident Medical Officers, ?350
 each??700 ; furnished apartments and
@@ -1052,8 +1071,7 @@ and lodging.
 board, lodg-
 ing, washing.
 ?40
-472 STATE OF LUNACY IN ENGLAND.
-?
+
 We have always considered that the organization of the medical staff
 connected with our principal lunatic asylums is very defective, particu-
 larly when compared with the great continental asylums, the Salpetriere,
@@ -1097,7 +1115,6 @@ and surgeons, why should not Hanwell and Colney Hatch Asylums,
 which have conjointly charge of two thousand patients, or more, be pro-
 vided with as liberal a medical staff? Or, looking to the provinces, if
 the Bedford General Infirmary, or the Cheshire General Infirmary, has
-STATE OF LUNACY IN ENGLAND. 473
 each its consulting physicians, why should not the lunatic asylums of
 those counties have medical officers of analogous status attached to them?
 Why should these asylums, as far as the medical staff is concerned, he
@@ -1141,7 +1158,6 @@ duty. The appointment has been abolished at Hanwell Asylum; and
 what will be the result ? We are not prophets, nor are we gifted with
 the mesmeric faculty of prevision, but we will hazard a conjecture that
 the late consulting physician to this asylum will not, upon the free-
-474 STATE OF LUNACY IN ENGLAND.
 trade principle, be called in to give the benefit of liis opinion and advice
 in as many cases during the next five years as he was in the habit of
 seeing in one week?we should rather say in a single day?during the
@@ -1168,6 +1184,7 @@ may fairly ask, is the highest rank they can arrive at in this department
 of the profession to be cut down to the level of a medical superintendent-
 ship, a compulsory residence in an asylum, upon an income of two or
 three hundred a-year ?
+
 When, indeed, we look over the table before us, it is sad to observe
 how small is the unincreasing salary of many, doubtless, able, well-
 informed, and accomplished medical men, holding, as resident super-
@@ -1198,6 +1215,7 @@ have the benefit of his active services, and advice in the laying out of
 the yards and grounds, in the fitting up, and furnishing of the asylum,
 and in selecting the subordinate officers and attendants, and regulating
 their respective departments and duties."
+
 The commissioners next direct the attention of the Lord Chancellor
 to the subject of the boroughs?in number upwards of fifty?including
 the City of London, which have not yet made legal or adequate pro-
@@ -1222,6 +1240,7 @@ reference to the magistrates they inscribe their own remarks and recom-
 mendations as entries in the same books : what follows ? The visiting
 justices not only frequently disregard the suggestions of the com-
 missioners, but in some instances* they set their authority at nought.
+
 Thus, in the report before us, the commissioners give a detailed state-
 ment of their contumacious treatment by the justices of the Hull
 Borough. In vain, since the opening of this asylum, did they repeat
@@ -1230,8 +1249,6 @@ general mismanagement; the attention of the Board in New-street,
 Spring-gardens, was in vain called to the pertinacious obstinacy of these
 justices, until, wearied with official correspondence, and " having no
 reasonable expectation," they state, " that any steps'would be taken by
-NO. XXIV. L L
-476 STATE OF LUNACY IN ENGLAND.
 the committee of visiting justices to tlio remedy of the manifest
 defects," upon which they had animadverted, they inform us that they
 had recourse to the dernier ressort?an appeal to the Secretary of State
@@ -1268,6 +1285,7 @@ of the Secretary was confessedly called in by the commissioners?their
 statement was transmitted to the justices, and the justices in their turn
 remonstrated, and after all still set the authority and recommendations
 of the Commissioners in Lunacy at defiance.
+
 But this is not the only part of the country in which this species of
 " flat rebellion" appears to have been committed. We find by this
 same report that the justices of the city of Norwich have been equally,
@@ -1275,7 +1293,6 @@ if not more refractory, although the extracts which the commissioners
 have given of their two last entries clearly enough establish the exist-
 ence of defects and abuses at the asylum at Norwich which ought not
 to have been tolerated; yet, after all the visitations and official re-
-STATE OF LUNACY IN ENGLAND. -177
 monstrances of the commissioners, the justices appear to have made no
 manner of concession, and the report of the commissioners before us
 winds up with this brutum fulmen:?" Should the justices of the city of
@@ -1284,6 +1301,7 @@ paupers, conformably to the directions of the Act 8 & 9 Vict. c. 126"
 (sect. viii. of the new Lunatic Asylums Bill), " it will be our duty to
 bring the subject of borough asylums again under the notice of the
 Secretary of State."
+
 Our object in calling attention to these cases is to show, that although,
 speaking generally, we believe the justices of her Majesty's Com-
 mission throughout the country, willingly co-operate with the Com-
@@ -1301,10 +1319,12 @@ a licence to certain houses has, in some cases, been disregarded, and the
 licence granted in the very teeth of their disapproval.* Who can read,
 without perceiving the force of these remarks, the following extract
 from the Report before us ?
+
 " The licensed house called Castleton Lodge, near Leeds, has of late
 years been frequently the subject of our animadversion, although no
 particular case of abuse has occurred which has justified us in con-
 demning it altogether as unfit for a licence.
+
 " In the opinion of the visiting commissioners, the establishment is
 gloomy and defective in cleanliness. It is unfit for the accommodation
 of as many patients as are permitted by the licence to be received
@@ -1312,6 +1332,7 @@ therein; patients are allowed to be in bed, without having any bodily
 ailment, and the art of judiciously managing the patients seems not to
 be understood, or at least very little practised by the proprietors of the
 house.
+
 " Unfortunately the local visitors do not appear to eoncnr in the views
 winch ice have here expressed of the short-comings of Castleton Lodge as
 a place for the treatment of insanity, and ice regret to be obliged to add
@@ -1321,11 +1342,10 @@ stated that a letter was addressed by the Board of Commissioners to the Chairman
 ot one ot the Quarter Sessions, requesting the justices not to grant or renew a licence
 to a certain asylum, upon which^ occasion they state " no reply was received from
 the justices to their communication, and the licence was renewed cis u$uo.l?"
-JuL 2
-478 STATE OF LUNACY IN ENGLAND.
-correcting its various defects and enforcing a generally improved
+JuL 2 correcting its various defects and enforcing a generally improved
 system of management have been attended hitherto with but indifferent
 success."?p. 28.
+
 It appears to us, that if the commissioners are to have a supervision
 and jurisdiction over the management of provincial licensed houses they
 ought to have a voice in the renewal or non-renewal of their licences,
@@ -1362,11 +1382,11 @@ appears, that during the year to which it refers, five new licences have
 been granted in the metropolitan district, three of which have been
 given to women, which certainly seems very contradictory?or, at all
 events, not in accordance with the opinion here so strongly expressed.
+
 The commissioners express themselves well satisfied with the improve-
 ments which have since their last annual report been introduced into
 the ward appropriated to insane patients at Guy's Hospital; but
 announce that the project of establishing a lunatic asylum for the recep-
-STATE OF LUNACY IN ENGLAND. 479
 tion of the patients, in a more suitable site in the county of Surrey, is
 under the consideration of the governors of the hospital. We have
 next in this Report a detailed account of the different steps taken by
@@ -1410,7 +1430,6 @@ to take charge of invalids afflicted with nervous and mental complaints
 (ancjlice, lunatics) will voluntarily place themselves under the jurisdic-
 tion of the Commissioners in Lunacy. They take individual patients and
 say nothing about it?nay, the relations of some insane persons, under
-480 STATE OF LUNACY IN ENGLAND.
 the old notion that insanity inflicts a ban upon the family, stipulate
 against such reports being made. They are unwilling the affliction
 should be made known, and bargain for secresy being an element of
@@ -1454,7 +1473,7 @@ classes of patients, which may be briefly stated as follows:?
 " 1. That such association is unjust, and that it gives pain and
 offence to ordinary patients (who are generall3r very sensitive to any
 supposed degradation), and also to their friends.
-STATE OF LUNACY IN ENGLAND. 481
+
 " 2. That its moral effect is bad, the language and habits of criminal
 patients being generally offensive and their propensities almost in-
 variably bad. That in cases of simulated insanity (which seem to be
@@ -1463,16 +1482,20 @@ even where the patient is actually insane the insanity has been often
 caused by vicious habits. That patients of this class frequently attempt
 to escape, and cause insubordination and dissatisfaction amongst the
 other patients.
+
 " 3. That a necessity for stricter custody exists for one class than for
 the other, and that this interferes with proper discipline, classification,
 and general treatment, and strengthens the common delusion that an
 asylum is a prison.
+
 " 4. That criminal patients concentrate attention on themselves, and
 deprive the other patients of their due share of care from the at-
 tendants.
+
 " 5. That the effect on criminal patients themselves is bad; that
 they are taunted by the other patients, and are irritated on seeing such
 other patients discharged."?p. 33.
+
 We must consider that the whole of this very important subject is at
 present sub judice. It will, doubtless, next session, be brought pro-
 minently before the Houses of Parliament; in the meantime the com-
@@ -1486,7 +1509,9 @@ a very inappropriate designation) amount to 439, of which, 3 GO were
 males, and 79 females. The number charged with felonies against life
 was 138; and against property 188. We conclude our observations
 by subjoining the Table.
+
 CRIMINAL LUNATICS.
+
 Abstract of Returns from County and Borough Asylums, Registered Hospitals, and Licensed Houses, and the Royal
 Hospital of Bethlehem. March, 1852.
 Circumstances.
@@ -1567,4 +1592,3 @@ M.
 F.
 Total.
 439
-482 STATE OF LUNACY IN ENGLAND.

@@ -2,7 +2,9 @@ Mental Defectives Under the Poor Law: How the Problem is Dealt with at Ipswich b
 =================================================================================================================
 
 :Auhtor: M. Jefferies. V
-(Chairman of the Ipswich Board of Guardians).
+
+.. admonition:: About the author
+  M. Jefferies V is the Chairman of the Ipswich Board of Guardians.
 
 The proper care of the mentally deficient who become chargeable to the rates is
 one of the most difficult problems with which Guardians are faced.
@@ -26,7 +28,8 @@ which are suitable for the aged and infirm, whose physical and mental powers are
 on the wane and who chiefly require peace and comfort, may be deadening to mental defectives who need the stimulus of constant change and interesting occupation. The Nurses in the ordinary Poor Law Infirmary have neither the time nor
 training to teach the lower grade mentally deficient how to develop such powers
 of mind as they Lave, and therefore the defectives tend to grow dull and apathetic.
-The high grade feeble minded girls realise that the other inmates are able to take
+
+The high grade feeble minded girls realise that the other inmates can take
 their discharge at will and they bitterly resent the fact that they themselves are
 detained. As a result they are much more troublesome than they would be in an
 Institution where all the inmates were certified. The discipline and peace of the
@@ -35,7 +38,7 @@ defectives and to forget the fact that the defectives are deprived of their free
 through their mental infirmity and through no fault of their own, and therefore it
 is the duty of the State to make their lives in the Institution as happy as possible.
 In a few Workhouses the mental defectives have special classes and are taught
-* For a lucid account of the legal position, see "The Poor Lam Officers' Journal," Feb. 2nd.
+* For a lucid account of the legal position, see *"The Poor Lam Officers' Journal"* Feb. 2nd.
 1938.?Ed,
 
 various handicrafts, but, although such a course has proved to be very beneficial,
@@ -108,23 +111,23 @@ Regulation 238 of the Act states that the Superintendent of a Certified
 Institution with the consent of a Commissioner or two of the Members of the
 Committee may grant leave of absence to any patient detained in the Institution.
 When the Regulations were made, it was j,robabl v assumed that the Superintendent of a Certified Institution would be a Medical man or a person with special
-knowledge cf mental deficiency and that the Members of the Committee would be
+knowledge of mental deficiency and that the Members of the Committee would be
 persons selected because of their interest in the welfare of defectives. At the
 present time many Workhouses have been certified for the reception of defectives
 under the Act; the Master of a Workhouse and the Members of the Committee may
 be persons whose knowledge of mental deficiency is limited; yet according to the
-Regulations, the Master of a Workhouse and any two of the Workhouse Committee are empowered to give leave of absence for an indefinite period to a patient
-without consultation with t.ne Statutory Committee, although that Committee,
-having had the whole facts of the case placed befor them and having obtained the
-opinion cf two qualified medical men, have deemed it necessary for the defective
+Regulations, the Master of a Workhouse and any two of the Workhouse Committee are empowered to give a leave of absence for an indefinite period to a patient
+without consultation with the Statutory Committee, although that Committee,
+having had the whole facts of the case placed before them and having obtained the
+opinion of two qualified medical men, have deemed it necessary for the defective
 to be detained in an Institution. The difficulties that may arise through this
-Regulation must be apparent to everyone; and they are the more likely to occur
+Regulation must be apparent to everyone; and they are more likely to occur
 because many defectives improve greatly both in conduct and appearance whilst
 under Institution care, but go back mentally and physically if they leave.
 People, who have not witnessed this deterioration and who are not conversant
 with the appalling difficulties into which defectives are apt to get when they are
 not under proper care, very naturally underestimate the dangers of allowing high
-grade defectives to leave an Institution. It therefore appears desirable that the
+grade defectives to leave an Institution. It, therefore, appears desirable that the
 Regulation should be so amended as to ensure that leave of absence exceeding 48
 hours should only be granted to certified patients in Workhouses with the approval
 of the Medical Officer and with the concurrence of the Statutory Committee.
@@ -149,7 +152,7 @@ for observation at the request of the School Doctor although the parents of the
 children were not destitute in the ordinary meaning of the word.
 
 This same useful co-operation is also shown by the Ipswich Guardians and the
-Statutory Committee with regard to defectives who are not in need of Institution
+Statutory Committee concerning defectives who do not need Institution
 care. If a defective, who is under Statutory Supervision, requires help owing to the
 temporary unemployment of his or her parents, the Guardians give assistance
 during the time of stress, and the defective comes again under Statutory supervision when the need for relief has passed; thus the necessity of placing the
@@ -158,7 +161,7 @@ hand, if it appears that a defective, who is having out-relief, can be dealt wit
 by the Local Authority than by the Guardians, the Statutory Committee accept the
 case without making any difficulty.
 
-The Guardians avail themselves of the help of the Voluntary Association in
+The Guardians avail themselves of the help of the **Voluntary Association** in
 dealing with defective persons who are receiving out-relief; a list of the names of
 all such persons is given by the Relieving Officer to the Secretary of the Voluntary
 Association who visits the cases regularly and sends quarterly reports to the OutRelief Committee, and any suggestion made by her for the welfare of any of the
@@ -171,4 +174,3 @@ together in the carrying out of their duties. This is done with considerable
 success in Ipswich and is in no small measure due to the tact and efficiency of the
 successive Secretaries of the Ipswich Voluntary Association, who have in many
 ways acted as a link between the three public bodies.
-ft

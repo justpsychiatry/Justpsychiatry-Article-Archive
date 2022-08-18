@@ -17,8 +17,8 @@ copyright = '2022, Justpsychiatry'
 author = 'Justpsychiatry'
 
 
-release = '0.3'
-version = '0.3.0'
+#release = '0.3'
+#version = '0.3.0'
 
 # -- General configuration
 

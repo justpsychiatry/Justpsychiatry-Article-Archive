@@ -2,7 +2,8 @@ The Histology of the Blood in The Insane
 =========================================
 
 Art. 
-By W. LAUDER LINDSAY, M.D.,
+:Author: W. Lauder  Lindsay, M.D.,
+
 Late Assistant Physician Crichton Royal Institution, Dumfries.
 Tiie subject of the structural alteration of tlie blood in insanity is one which,
 so far as I am aware, has hitherto attracted little or no attention in this country,
@@ -20,6 +21,7 @@ of the reaction of physical disease on mental phenomena. It will hereby
 be found that insanity is much more a corporeal disease than is at present
 believed, or, at least, is more intimately connected with, or inseparable from,
 various of the ordinary physical diseases to which human flesh is heir.
+
 The following remarks are founded on the results of a microscopical exami-
 nation of the blood in 236 insane patients, and in thirty-six officers and attend-
 ants in the Crichton Royal Institution and Southern Counties Asylum at
@@ -29,8 +31,7 @@ Dr Browne, the present superintendent of these asylums, for permitting me to
 make and record the following observations; and to Mr. Aitken, late house surgeon
 of the Southern Counties Asylum, for his courtesy and kindness in assisting my in-
 vestigations among his patients.
-THE HISTOLOGY OF THE BLOOD IN THE INSANE.
-79
+
 which slopes gently towards tlie Nith: the panorama they command is one of
 great and varied beauty; though sheltered from certain winds, they are freely
 exposed to the sea-breeze, which sweeps up Nithsdale from the Sol way Firth;
@@ -57,6 +58,7 @@ tions, and have been placed there in consequence of the inability of friends to
 pay higher rates of board. The majority of the males are engaged daily in
 active and open-air occupations and amusements, while the females chiefly
 engage in needlework in a large commodious work-room.
+
 The two establishments possess an ample staff of officers, attendants, and
 servants, most of whom, previous to their entering the sex-vice of the respective
 asylums, have been engaged in various rustic occupations, or have worked at
@@ -77,6 +79,7 @@ place us in a more favourable position for contrasting the structural alteration
 in the blood corpuscles in the insane and sane, under the same or different cir-
 cumstances regarding the presence or absence of these physical complications
 or diseases.
+
 I. Cachexies and general systemic affections:
 Strumous diathesis. Plethora.
 Hemorrhagic diathesis. Syphilis.
@@ -86,7 +89,6 @@ Cutaneous eruptions—acne, scabies, psoriasis.
 Carbuncles and boils. .
 Erysipelas and erythema.
 Ulcers and abscesses, connected with struma, syphilis, varix, &c.
-80 THE HISTOLOGY OF THE BLOOD IN THE INSANE.
 III. Diseases of the digestive system and alimentary canal:
 Dyspepsia—in all its nsual forms.
 Clironic vomiting.
@@ -141,8 +143,6 @@ Satyriasis. Puerperal.
 Nymphomania. Dipsomania.
 Homicidal. Complicated with epilepsy.
 Suicidal. dementia.
-THE HISTOLOGY OF THE BLOOD IN THE INSANE.
-81
 II. Monomania:
 Religious. Homicidal.
 Joyous, sad. Suspicious.
@@ -194,8 +194,6 @@ of physical disease.
 d. In a limited number of the sane, also variously circumstanced
 regarding their physical condition.
 no. xxix. a
-82
-THE HISTOLOGY OF THE BLOOD IN THE INSANE.
 II. Contrasting tlie structural condition of the blood in various great
 a. divisions of the insane, e.g., the rich and pauper insane.
 b. In various forms of mental alienation, e.g., mania and general
@@ -205,6 +203,7 @@ forms of insanity, e.g., phthisis and cholera.
 d. In the healthy and the diseased insane.
 e. „ sane and insane.
 f In the sane and insane affected with the same physical diseases.
+
 The blood examined was, in almost all cases, that drawn from the point of
 some of the fingers by the prick of a needle. In one case, where the patient
 refused to submit to this slight operation, it was taken from some coagula in a
@@ -252,9 +251,8 @@ ness, than in the Southern Counties Asylum, where a great amount of persua-
 sion and explanation was frequently necessary. It may, at first sight, appear
 surprising that the experiment should have been more successful among the
 rich than the poor insane,—among persons of refined habits, and many of them
-THE HISTOLOGY OF THE BLOOD IN THE INSANE.
-83
 of delicate constitutions, than among rough, hardy artisans and field-labourers.
+
 The difference I attribute entirely to the difference in the education of the re-
 spective classes; to which, also, I attribute the fact that the patients in the
 Crichton Institution submitted more readily and cheerfully than the attendants.
@@ -282,7 +280,8 @@ cumulating similar data on which to found general deductions,—which I should,
 under more favourable circumstances, have endeavoured to do.
 When drawn, the blood, in the majority of cases, presented to the naked
 eye the characters of healthy blood; but in a certain number of cases it varied
-in,—
+in,
+
 1. Colour, granularity, and dulness; 2. Density or consistence;
 3. Coagulability; _ 4. Readiness of its flow;
 5. Rapidity of separation of the red globules and fibrin; and
@@ -307,6 +306,7 @@ ness of the skin and vascularity of the points of the fingers in the rich
 and poor insane, to ancemia in some cases and plethora in others, and
 similar circumstances, which do not immediately or necessarily enter into the
 subject of the present remarks.
+
 Li a large proportion of cases, both kinds of corpuscles—red and white—
 presented their normal characters under the microscope, but in many there
 G 2
@@ -319,6 +319,7 @@ III. „ size.
 IV. „ form.
 V. „ tendency to agglomerate.
 "VI. „ reaction of acetic acid.
+
 I.—Red Corpuscles.*—Number.—I had no means of accurately estimating
 the relative proportion, compared with the normal standard, present in each or
 any case, but from the large proportion, or excess, of white corpuscles found
@@ -326,6 +327,7 @@ in many cases, and from the general appearance of the blood, it is highly
 probable that there was frequently a more or less marked diminution in the
 relative number of red discs, especially in certain cases of anajmia and chronic
 debilitating disease.
+
 Colour.—They were sometimes very dark, chiefly when of small size,
 granular on the surface, and irregular in shape; more rarely, and chiefly
 when of large size, they were light, and of a pale yellow colour. In the
@@ -345,6 +347,7 @@ gregated in such a way as to resemble nuclei. Many of the light-coloured
 globules, when thickly agglomerated in masses, became much darker, showing
 that the variations in colour, in many cases, depended, to a great extent,
 on the effects of light.
+
 Form.—Sometimes they were irregularly angular, presenting various re-
 semblances to squares, rhombs, or triangles; by irregular bulgings they
 became cymbiform, ellipsoid, spheroid, globular, and curved in various ways;
@@ -365,9 +368,8 @@ dilution, and in order to insure uniformity in the results, water was, in all ca
 added under the microscope.
 •f- Moleschott's Experiments. Midler's Archiv, or British and Foreign Medico-
 Chirurgical Review, Oct. 1854.
+
 £ Edinburgh Monthly Journal of Medical Science, Aug. 1854; p. 133.
-THE HISTOLOGY OF THE BLOOD IN THE INSANE.
-80
 of the decay and deatli of tlie blood corpuscles; and they regard such, a condi-
 tion as of great pathological importance, bearing on the etiology and pathology
 of various diseases. These modifications of the common red disc, the supposed
@@ -384,6 +386,7 @@ renders it possible, or even probable, that many of the changes in the appear-
 ance of the red discs may have been produced by physical causes operating at
 the moment, e. r/., unequal pressure between the glass-slides, unequal dilution
 with water, &c.
+
 Size.—I have already mentioned incidentally the variation in size. In some
 cases they were so small and light coloured as to resemble oil globules; in
 others they equalled or exceeded in size the white corpuscles.
@@ -393,6 +396,7 @@ density; at other times there appeared to be 110 tendency to aggregation of any
 kind. There was also considerable variation in the rapidity with which such
 aggregations, whether in rouleaux or irregular masses, broke up or became dis-
 solved.
+
 Reaction of Acetic Acid.—No abnormal peculiarities were observed.
 II. White Corpuscles.—Relative number.—In a comparatively large propor-
 tion of cases they were present in excess; in some cases in very marked excess.
@@ -405,6 +409,7 @@ way to each other. This grouping appeared variously due, in different cases, to
 their lighter specific gravity, whereby they floated out from among the red cor-
 puscles, or to their extrusion from, or repulsion by, the red, while in progress of
 agglomeration into rouleaux or masses.
+
 It is necessary here to mention that I took 110 means of estimating quanti-
 tatively or accurately the proportion of white to the red corpuscles. I merely
 judged qualitatively, or in a general sense, of the normal or abnormal relation
@@ -424,8 +429,6 @@ to detect a single white corpuscle in this way, when I knew they existed in
 considerable numbers, and even in excess, and where I have subsequently suc-
 ceeded in proving their presence by floating them out in water. Observers are
 very much divided as to what constitutes the normal proportion of the white
-80
-THE HISTOLOGY OF THE BLOOD IN THE INSANE.
 to the reel corpuscles. Tor some time it has been generally held to be one
 white to every eight or ten red: but late experiments on the continent seem
 to prove that this is very erroneous;* The importance of the subject in con-
@@ -443,6 +446,7 @@ the corpuscles were not increased in size, or were smaller than normal.
 Size.—Sometimes they resembled the red corpuscles in size; at other tunes
 they attained two or three times their normal bulk; in the latter case they
 were very pellucid, non-granular, and delicate.
+
 Form.—Irregularities in the outline were comparatively seldom met with,
 and were more probably temporary and due to physical causes in operation
 during the microscopical examination, than permanent or structural changes.
@@ -450,6 +454,7 @@ A large granular opaque nucleus was sometimes visible without the aid of
 acetic acid. It usually occupied nearly the whole cell; sometimes it was
 central, at other times more or less parietal; in the latter case the cell wall
 resembled a delicate vesicle or veil enveloping the nucleus.
+
 Reaction of Acetic Acid.—This reagent usually rendered evident a.large, gra-
 nular, simple nucleus, or a double or triple nucleus, which was much smaller
 and seldom granular, though frequently opaque. The cell wall usually became
@@ -463,6 +468,7 @@ nucleus was chiefly noticed in small-sized corpuscles; the larger, granular,
 single nucleus in those of larger size. Sometimes the supposed white cor-
 puscle proved, on the addition of acetic acid, to be only the nucleus round which
 the cell wall was now developed as a very delicate pellucid vesicle.
+
 The alterations which I have above shortly described were much more
 common among the himates of the Crichton Institution than those of the
 Southern Counties Asylum. This is attributable, doubtless, not only to the
@@ -474,6 +480,7 @@ confined to the insane, for they occurred, to a less extent, however, in the
 sane. Nor did they appear to bear any relation, in kind or degree, to the type
 or class of mental alienation; but a connexion was traceable, both in sane and
 insane, with physical disease.
+
 In estimating, however, the value of such structural changes in the blood in
 connexion with mental or physical disease in the insane, it is important to bear
 in mind the following facts inter alia. Many, if not all, of the above conditions
@@ -482,7 +489,7 @@ states, which are not usually classified as distinct diseases. Variations in siz
 of the corpuscles are known to be comparatively common in health as well as
 * Donders and Moleschott. Schmidt's Jahrbuch, No. 6, 1854, or British and
 Foreign Medico-Chirurgical Review, Oct. 1854.
-THE HISTOLOGY OF THE BLOOD IN THE INSANE. 87
+
 disease, in persons of all ages and of botli sexes. The blood corpuscles very
 readily assume a great variety of form, temporary or permanent, from simple
 physical causes—e.g., pressure, or addition of reagents causing endosmotic and
@@ -501,6 +508,7 @@ gularity of the margin in the red discs has been variously attributed to pucker-
 ing from simple desiccation; to the accumulation or adhesion of minute bubbles
 of common air or gases contained or developed in the blood; or to the adhesion
 of particles of fibrin.
+
 These and similar considerations, which it is unnecessary here further to
 specify, are sufficient to indicate the fallacies and mistakes into which we are
 apt to fall in the investigation of such a subject. My observations have not
@@ -508,9 +516,11 @@ been sufficiently extensive or minute to enable me to arrive at any very new or
 valuable results; still my present object shall have been fully answered if I
 can succeed in inducing observers, of greater experience and larger opportu-
 nities, to prosecute researches which I have bnt crudely begnn.
+
 I have appended a few tables of cases illustrative of the facts and fallacies
 above specified; they are interesting, as much on account of their negative as
 their positive evidence.
+
 The following is a resume of the chief general conclusions or results it
 which my experiments appear to warrant me in arriving—viz.:
 I. That the blood of the insane varies considerably in
@@ -526,6 +536,7 @@ III. That the white globules vary in a. size, b. form, c. granularity, d. number
 e. reaction of acetic acid.
 IY. That, in the blood of the insane, a leucocythemie condition frequently
 exists.
+
 Y. That, in many cases, this condition may be more apparent than real, and
 due to a deficiency in the amount of red discs.
 YI. That there is no fixed relation between the kind or intensity of the
@@ -537,10 +548,11 @@ sane, under similar circumstances of physical disease.
 IX. That the blood is more altered in the insane than the sane, chiefly in
 proportion as anaemia, struma, and other physical states, are more common
 in them.
+
 X. That, contrasting the condition of the blood in the rich insane, with that
-88 THE HISTOLOGY OF THE BLOOD IN THE INSANE.
 ill the poor insane, it is deteriorated, more frequently and to a much
 greater extent in the former.
+
 XI. That this is due, in great measure, to the essential difference in the
 education and habits m the respective classes: to the predominance of
 mental over physical culture in the higher classes; and to the pre-
@@ -548,6 +560,7 @@ dominance of physical over mental exercise in the labouring classes.
 XII. That, contrasting the condition of the blood in various forms of mental
 alienation, no alterations can be considered peculiar to, or frequent in,
 any one of these forms.
+
 XIII. That contrasting the blood of the insane with that of the sane, any
 structural alteration in either class is usually due to physical disease.
 XIV. That the physical conditions or diseases, both in sane and insane, in
@@ -766,9 +779,8 @@ White—increased, small.
 Red—elongated, light in
 colour, agglomerated
 in irregular masses.
+
 Ill the above Table, it will be observed that an abnormal condition of both..
-90
-THE HISTOLOGY OF THE BLOOD IN THE INSANE.
 kinds of blood discs sometimes occurred in the same individual; tliat the mor-
 bid condition of the red discs was most frequently alteration in form; that of
 the white globules, simple increase in number; that in both the cases where
@@ -776,9 +788,11 @@ there was a marked excess of white globules there was a great amount of phy-
 sical disease, as well as a severe type of mental alienation; and that the same
 structural alterations occurred in the most opposite and varied forms of insanity
 and its physical complications.
+
 Table II.
 Cases illustrative of alteration of the blood corpuscles, without the presence of
 marked Physical Disease, in the Insane.
+
 Age
 Phase of Insanity.
 Chronic mania, demen-
@@ -925,6 +939,7 @@ White—increased, gran-
 ular, distinct.
 Red—altered in shape.
 Table III.
+
 Cases illustrative of the presence of decided Physical Disease in the Insane,
 icitliout any abnormal alteration of the blood-corpuscles.
 Age.
@@ -1021,6 +1036,7 @@ anaemia.
 Frequent attacks of dysentery.
 Menorrhagia.
 Varicose ulcers.
+
 Table IY.
 i" Cases illustrative of the presence, in the Insane, of great mental impairment-
 accompanicd or not by physical complications, iciihont any abnormal altera,
@@ -1090,8 +1106,7 @@ Intemperance; healthy.
 Formerly a prostitute.
 Bronchitis—tendency to dysentery.
 Occasional diarrhoea.
-THE HISTOLOGY OF THE BLOOD IN THE INSANE.
-93
+
 Table Y.
 Cases illustrative of alteration of the blood-corpuscles, in connexion with
 Physical Disease, in the Sane.
@@ -1138,12 +1153,6 @@ White—increased, dark, granular,
 distinct.
 White—increased.
 Red—altered in shape and colour.
-f "
-©
-*
-k(J$)(®
-© ii
-%'«
 Magnified 380 Diametees.
 a. Eed corpuscles — granular, dark;
 haying a slightly irregular margin.

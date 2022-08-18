@@ -1,13 +1,13 @@
 On the Use of Chloroform in the Treatment of Puerperal Insanity
 =================================================================
 
-123
-V /
 Aut. YIII.?
-BY A. T. H. WATERS,
+:Author: A. T. H. WATERS,
+
 Lecturer on Anatomy and Physiology in the Liverpool Royal Infirmary School of Medicine?
 Surgeon to the Liverpool Dispensaries?Formerly Medical Attendant to the
 Liverpool lloyal Lunatic Asylum.
+
 In a paper I recently read before the members of the Medical
 Society of Liverpool, I drew their attention to the great benefit
 to be derived from the use of ansetliesia in the treatment of
@@ -16,6 +16,7 @@ able opinions that have been expressed with reference to the
 paper, and as I believe the subject considered in it is one of
 much importance, I have been induced to revise the paper, and
 give it its present form.
+
 The administration of chloroform in cases of mania is a sub-
 ject that has already been under inquiry by those engaged in
 the treatment of insanity ; but, whether from too much having
@@ -30,20 +31,22 @@ It is in cases of puerperal mania that I have most extensively
 used the remedy, and although my experience of its use is not
 confined to such cases, it is of these I can speak with the greatest
 confidence.
+
 It is not my intention to treat in a systematic manner of the
 disease under consideration, nor to review the various opinions
 that have been from time to time held with reference to its
 nature ; nor shall I examine at any length into the value of the
 various modes of treatment which have at different times pre-
 vailed. My object is rather to endeavour to ascertain the cases
-124 ON THE USE OF CHLOROFORM
 in which the use of ana?thesia is specially called for, and the
 nature of the symptoms it is calculated to control.
+
 The statistics of insanity occurring in women show a con-
 siderable per-centage of cases of the puerperal form, that is say,
 of cases occurring after parturition, during, or immediately after,
 lactation. Of 3096 cases I have collected from various sources,
 219 were cases of puerperal insanity, making about 7 per cent.
+
 This per-centage, however, is not a correct one, inasmuch as in
 the total number of cases women of all ages are included ;
 whereas those past the period of child-bearing should be ex-
@@ -58,6 +61,7 @@ nately true that the majority of cases do recover, but the
 statistics of lunatic hospitals show a large per-centage of cases
 ? which remain incurable, a smaller, but by no means a satis-
 factory one, of cases which prove fatal.
+
 The experience of practitioners with reference to recovery
 differs very materially, and I believe from this reason,?that
 some have observed cases in their private practice, and others in
@@ -65,6 +69,7 @@ the practice of asylums ; and inasmuch as those cases which
 are sent to asylums are generally of a far more serious character
 than those kept at home, it follows that the mortality in the
 one case will be greater than in the other.
+
 The following table shows the rate of mortality, recovery, and
 incurability of 280 cases :?
 Of 92 cases recorded by Esquirol, 55 recovered, G died, 31 remained incurable.
@@ -75,22 +80,25 @@ or, or, or,
 G1 per cent. 7'85 p. ct. 31 per cent.
 or,
 1 in 13.
+
 Dr Copland states, from a series of cases he has collected,
 . that about -i in 5 recover, and 1 in 8 dies.
+
 With the exception of a very few cases, in which the symptoms
 seem to be rather those of phrenitis than of mania, death does not
 take place at a very early period of the disease, but after the lapse
 of a considerable time, as in the cases mentioned by Dr Webster,
 in which death took place at periods varying from 13 days to
 three months from the commencement of the attack.
+
 I he few statistics I have given will be sufficient for the pur-
-IX THE TREATMENT OF PUERPERAL INSANITY. 125
 pose for which I have adduced them, viz.?to show the relative
 rates of mortality and curability of the disease: they indicate,
 at least as far as hospital cases are concerned, a rate of mortality
 which, although not high, is far from being of a satisfactory
 nature ; and they tend to show that the disease does not kill at
 its onset, but after it has run a somewhat lengthened course.
+
 It becomes necessary to examine into the causes of this rate
 of mortality, and to ascertain the nature of the symptoms which
 indicate danger, and which usually precede a fatal issue. On
@@ -102,6 +110,7 @@ to be dreaded when the disorder follows haemorrhage or im-
 proper bleeding, when the pulse is very rapid, weak or small,
 or fluttering, and when there are great restlessness and long-
 continued want of sleep."
+
 Dr Reid, in an article in the Psychological Journal, remarks:
 " Exhaustion appears to be the principal source of danger ; the
 want of sleep, intense excitement and monotonous self-fatigue,
@@ -111,6 +120,7 @@ their effects. Should even the mental symptoms somewhat im-
 prove, yet if the insomnia still continue, with a quick pulse and
 other increasing symptoms of bodily debility, the termination of
 the case is to be looked for with apprehension."
+
 Dr Gooch, in his work on diseases of women, remarks
 " that his experience accords with that of Dr Hunter, viz.?that
 there are two forms of puerperal mania; the one attended by
@@ -130,15 +140,16 @@ even though the condition of mind may b.e apparently improved.
 In the cases which I have seen terminate fatally, the patient
 has died with symptoms of exhaustion, not with those of op-
 pressed brain, excepting only one."
+
 In the remarks 1 have quoted, I entirely concur. The danger
-126 ON TIIE USE OF CHLOROFORM
 of fatal issue does not depend upon any symptoms indicative of
 active mischief going on in the brain, or any other organ ; the
 nervous excitement is not the result of inflammatory action in
 the brain, and in itself is secondary in point of danger to the
 exhaustion of nervous power and physical depression which
 supervene in consequence of the long-continued wakefulness,
-restlessness, and abstinence from food. ?
+restlessness, and abstinence from food.
+
 Hie refusal of food, which in severe cases of the disease is
 doggedly persisted in, is a matter for serious consideration, and
 it becomes, in fact, one of the most important symptoms to be
@@ -157,6 +168,7 @@ continues. Should, however, death not result, the prolonged
 state of excitement and consequent debility will seriously impair
 the chances of perfect mental recovery, and increase the proba-
 bility of termination in permanent mania.
+
 . ^ie view taken above of the nature of the symptoms which
 indicate danger, seems to be borne out by the results of the post-
 mortem examinations of those cases that have terminated fatally,
@@ -164,21 +176,24 @@ ilisquirol remarks of the appearances in the cases he examined,
 " that, strictly speaking, they offer nothing in particular,?
 nothing, in fact, which enables us to recognise the material cause
 of the disease, or discover its seat."
+
 Ihe appearances described by observers in this country are
 almost entirely in accordance with the above. Dr Burrows
 says, " The morbid appearances are not of a marked character.
 Ihe pure cases of the malady present little beside ancemia of
 the brain and its membranes. Other morbid changes are simply
-coincident." ? 1 J
+coincident."
+
 Dr Webster has found " turgidity of blood-vessels of brain
 anu membranes?effusion into fifth ventricle."
+
 ?f ^i P?0C^.' 111 2)ost-mortem examinations he made,
 ound no disease of brain?blood-vessels of cranium generally
 empty. ?
+
 1 rom the consideration of the postmortem appearances in
 e atal cases, and from the examination of the symptoms
 ex i ite duung life, it is scarcely possible to do otherwise than
-IN THE TREATMENT OF PUERPERAL INSANITY. ] 27
 conclude that the disease is one of irritation rather than inflam-
 mation. This seems to be the opinion now generally entertained
 by those who have had most opportunities of observing the dis-
@@ -188,6 +203,7 @@ and this appears to be the result, more or less, of a state of
 exhaustion. The disease is one rather of debility than increased
 power, and the condition of the nervous system is probably some-
 what analogous to that which exists in delirium tremens.
+
 Since more correct notions of the nature of the disease have
 prevailed, changes have taken place in the treatment. I believe,
 however, that, at the present time, erroneous opinions are still
@@ -204,6 +220,7 @@ more or less powerful, according to the nature of the symptoms
 and the condition of the patient, should be used; for almost
 invariably in these cases the bowels are much loaded, and much
 relief is obtained by evacuating their contents.
+
 Amongst the remedies that have been used for the purpose of
 controlling this disease, opium occupies the first place. Almost
 all authors speak in high terms of its value. My experience
@@ -224,16 +241,18 @@ a state of exhaustion which, if not relieved by the introduction
 of nourishment into the system, and by rest, will soon terminate
 fatally. It is in such cases as these that we notice the great
 value of chloroform.
+
 As illustrations of the line of practice I wish to recommend,
-128 ON THE USE OF CHLOROFORM
 and of the benefit to be derived from it, I have selected the
 following cases, which occurred in the Liverpool Royal Lunatic
 Asylum, under the conjoint care of Dr Formby, the visiting
 physician to the asylum, and myself, during the period I was
 medical attendant to the institution :?
+
 Case No. 1.?C. D. E., 24 years of age, of full habit and
 nervous temperament, was admitted into the Liverpool Royal
 Asylum as a patient.
+
 Six weeks prior to admission, she was confined with a girl.
 She continued well for three weeks, and at the end of that
 period began to exhibit symptoms of a deranged state of mind.
@@ -243,18 +262,22 @@ attack. Treatment had been adopted at her own home for a
 short time, and for three days before admission she had been
 put under restraint: during this period she had been very
 violent, and had refused food.
+
 When admitted into the asylum, she laboured under alternate
 depression and excitement; there was an almost entire absorp-
 tion in religious matters, and great irritability of temper. She
 was very restless and sleepless, and required constant watching,
 to prevent her committing violence. She refused all food, and
 objected to everything intended for her comfort.
+
 There was nothing remarkable about her physical condition.
 She was tall and well-made. One of the mammoe showed
 symptoms of incipient inflammation ; the pulse was quick, and
 the tongue furred.
+
 A saline aperient was ordered, and belladonna lotion to the
 breast.
+
 She continued in the condition above described for four days.
 She refused all food, had no sleep, and was very much excited.
 There was, however, no heat of scalp. She was ordered effer-
@@ -271,8 +294,8 @@ administeied whilst she was under its influence. The morphia
 was omitted. She slept for several hours after the exhibition
 of the chloroform, and when she awoke was much more quiet,
 and remained so for two days, during which she took her food.
+
 At the end ot that time she again refused food, and had a par-
-IN THE TREATMENT OF PUERPERAL INSANITY. 129
 tial return of her previous symptoms; and as these did not
 subside, she was again put under chloroform on the tenth day,
 and another enema of beef tea was given ; the same result fol-
@@ -289,6 +312,7 @@ having been under treatment in the asylum nearly four months.
 I have lately learned that she continued well after her dis-
 charge, and has since given birth to a child, no symptoms of
 mania having been developed.
+
 Case No. 2.?A. M. S., 26 years of age, of spare habit and
 nervous temperament, was admitted into the Asylum on .
 A little more than three weeks prior to admission she gave
@@ -309,6 +333,7 @@ sion she became violent and excited in manner, and incoherent
 in speech. It was stated on her admission that she had had no
 regular sleep for ten days, and had taken but little food. Her
 general habits were said to be sedentary and temperate.
+
 When admitted into the Asylum she was very restless, and
 could not be kept quiet for a moment. She was constantly
 talking in a very incoherent manner ; she fancied she was sub-
@@ -319,8 +344,6 @@ looking ; the pulse was rapid, and feeble. She was kept quiet,
 and constantly watched lor three days; but as the symptoms
 did not mend, and she had had 110 sleep, she was put under the
 influence of chloroform for a short time. She slept but little
-No- V.?NEW SERIES. K
-130 ON THE USE OF CHLOROFORM
 after it, and on the following day was very restless. She was
 ordered a brisk cathartic. She was more quiet after the bowels
 had acted freely ; but the next day the restlessness and want of
@@ -346,6 +369,7 @@ tolerably quiet?slept for a few hours every night after chloro-
 form, and took some food. On the sixteenth day she had a
 brisk carthartic of croton oil, which seemed to be attended with
 benefit.
+
 . the eighteenth day the chloroform was omitted, and
 tincture of henbane was tried?administered every four hours;
 but it produced no sleep; and 111x1 of Battley were tried
@@ -358,15 +382,17 @@ continued under treatment for upwards of seven months, and
 was then discharged. At that time her general health was
 good, the catamenia had returned, and the mind was becoming
 gradually restored.
+
 I have lately learned that this patient after her discharge
 perfectly recovered her mental faculties.
+
 ASE i o. 3. A female, 28 years of age, of spare habit and
 nervous temperament was admitted into the Asylum on .
+
 "nt i ^ nin r before admission she gave birth to a boy.
 , 0, 1iS+?r^ ? -le confin?ment could be obtained ; but it was
 stated that for nine months previous to that event she was so ill
 as o e o lge to keep her bed. No account, however, was
-IN THE TREATMENT OF PUERPERAL INSANITY. 131
 given as to what she suffered from. About a week before ad-
 mission, symptoms of insanity first appeared. She became very
 violent at times, and threatened to throw herself from the
@@ -381,6 +407,7 @@ wheels in her inside. In physical condition she was low, being
 much emaciated,?to such an extent even, that the pulsations
 of the abdominal aorta could be distinctly felt on placing the
 hand on the surface of the abdomen.
+
 On the second day of her admission the fits continued, and
 she refused to take food; she passed a quiet night. From this
 date up to the twenty-eighth day, there was but little improve-
@@ -389,6 +416,7 @@ frequently put under chloroform at night, almost always with
 the result of giving her a quiet night. At times she refused
 food, and enemata of beef-tea were administered. Morphia was
 tried on one or two occasions to procure rest, but without effect.
+
 She required constant watching, and was kept in the padded
 room. She had a great tendency to injure herself, and if an
 opportunity were allowed her, she would knock her limbs and
@@ -403,6 +431,7 @@ sequently began to improve, and at the end of the seventh
 month she was discharged at the request of her friends, nearly well.
 I have lately learned that after her discharge she perfectly
 recovered, and continues well.
+
 The first case exhibits in a marked manner the beneficial
 influence of chloroform ; the opiate treatment signally failed
 either to procure rest or allay the mental excitement, which in-
@@ -412,10 +441,9 @@ stances at once to interfere, and check, as far as possible, the
 tendency to sinking which was manifest. Accordingly, chloro-
 form was administered, and some strong beef-tea was injected into
 the rectum; the relief was marked and persistent for some
-K 2
-132 ON THE USE OF CHLOROFORM
 days; and when a renewal of the symptoms occurred, a renewal
 of the remedy produced a renewal of the relief.
+
 In the second case detailed, the effects produced were not so im-
 mediately striking as in the first; hut it must be borne in mind
 that the case is an example of a class of very great severity.
@@ -434,12 +462,14 @@ duced a certain effect on the nervous symptoms and moderated
 the mental excitement, and further, it allowed of the introduc-
 tion of nourishment into the system through the medium of the
 enemata.
+
 The indications for the use of chloroform were strongly marked
 in the third case I have reported. Something to calm the
 excitement, if only for a short time, was urgently called for, and
 opium failed to produce the effect; and, in addition, the ema-
 ciated condition of the patient rendered the introduction of food
 into the system absolutely necessary.
+
 The cases I have detailed will, I think, be sufficient to point
 out the benefit to be derived from the use of chloroform in the
 severe forms of puerperal insanity ; but I should by no means
@@ -460,7 +490,6 @@ enemata, but with the use of anaesthesia, no difficulty is expe-
 rienced, and in no single instance have I known the rectum to
 put on expulsive action. The injections may be given, if neces-
 sary, two or three times a day, and the results will soon be
-IN THE TREATMENT OF PUERPERAL INSANITY. 133
 manifested in the improved condition of the patient, and often
 the willingness to partake of food. In dealing with these cases,
 it is not as though we had to deal with patients in a sound state
@@ -471,6 +500,7 @@ longed abstinence. Nor can such cases be starved into eating.
 The debility which ensues aggravates the mental symptoms, the
 excitement often becomes greater as the case progresses, and the
 refusal of food more obstinate.
+
 I have already mentioned my opinion of the value of opium
 in the treatment of this disease, and I have the satisfaction of
 knowing that the lengthened experience of Dr Formby, the
@@ -486,6 +516,7 @@ experience by no means bears out this view. Further, the admi-
 nistration of opium is calculated to check the secretions and con-
 stipate the bosvels, and thus produce a condition which tends to
 aggravate the mental symptoms.
+
 On the other hand, the administration of chloroform meets
 every indication. It procures rest and quiet, it is generally fol-
 lowed by a more or less lengthened sleep, its effects may be
@@ -508,13 +539,13 @@ and on the two following days the process was repeated, on the last
 day without chloroform ; the patient being more quiet, allow et
 himself to be held and have the food injected into him,although
 he would not swallow any of his own accord. He subsequen y
-]34? ON THE USE OF CHLOROFORM.
 began to eat, and we had no further trouble with him. I
 believe his life was saved by this timely interference.
 The injection of food, however, into the rectum, is best calcu-
 lated for the cases I have alluded to, for the patient may be
 placed on abed, in the recumbent posture,and thus left to sleep
 after the enema has been given.
+
 The possession of an anaesthetic agent, like chloroform, to be
 used as i have mentioned, always affords a hope of saving the
 patient's life, however severe the case may be, and however
@@ -523,6 +554,7 @@ on this its great value rests. It calms the nervous system, and
 restores its tone by its sedative action and the rest it produces,
 and it enables the patient to receive nourishment, and thus to
 survive till the virulence of the disease is exhausted.
+
 Independently of the importance of introducing nourishment
 into the system to prevent physical exhaustion, its beneficial
 influence on the disease itself must not be forgotten. That even
@@ -548,6 +580,7 @@ only to be permanently restored by giving vigour to the system ;
 and thus it is with puerperal mania ; the disease itself indicates
 a condition of exhaustion, and the great excitement and con-
 tinuous restlessness increase the physical debility.
+
 Chloroform has been used in cases of delirium tremens,
 and from the success which has attended its use its value
 m analogous cases might be inferred. I believe we have
@@ -555,7 +588,6 @@ much to learn with reference to the use of ana3stliesia in diseases
 depending on nervous irritability. It is by no means unfrequent
 to witness cases of this kind, in which the predominant symp-
 toms are those of an excited nervous system, with great depres-
-PHYSIOLOGICAL PSYCHOLOGY. 1 35
 sion of the physical powers, attended by insomnia, restlessness,
 and refusal of food. These cases generally terminate fatally,
 after a more or less lengthened course, and the post-mortem ap-

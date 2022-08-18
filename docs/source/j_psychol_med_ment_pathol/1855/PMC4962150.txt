@@ -1,7 +1,8 @@
 Religious Consolation to the Insane
 ====================================
 
-BY TIIE REV. JOS. SOUTEB,
+:Author: TIIE REV. JOS. SOUTEB,
+
 Chaplain to the Essex County Lunatic Asylum,
 As might be cxpccted in an asylum for tlic insane, a considerable number of
 the inmates are not capable, in any degree percept ible to us, of being influenced
@@ -11,8 +12,6 @@ there arc others upon whose minds the ministrations of religion produce a
 strong and marked impression. I cannot forbear here to refer to one or two
 examples. One is that of a male patient who was restored to sanity. Dr.
 Campbell informed him that he would recommend his discharge. He was
-584
-RELIGIOUS CONSOLATION TO THE INSANE.
 most grateful for the kind intention, but begged to be permitted to remain, as
 lie felt that lie had not many weeks to live. lie said lie knew that if he left
 the asylum he could not enjoy the advantage of medical advice, and of other
@@ -26,6 +25,7 @@ looked forward to his end with calmness, and met it with the faith and resigna-
 tion of a Christian. A rapid consumption, in a few Avccks, carried him beyond
 the reach of all earthly sorrows and trouble, we trust, " to another and a better
 world."
+
 A second example is that of a female patient, who has now left the asylum
 in a state of convalescence. She was upwards of sixty years of age, but had
 never partaken of the Holy Communion till she rcccivcd it in the asylum
@@ -36,6 +36,7 @@ her to her home that principle of piety which shall be a strength and consola-
 tion to her for the remaining years of her life, and which shall enable her, when
 death comes, to triumph over it, through faith in Him who " has opened to all
 believers " the gate of everlasting life.
+
 There are not a few patients who, from mistaken notions of religion, refuse
 the consolations which it offers them, and cling with a strange tenacity to the
 belief that, though there may be forgiveness for all others, there is none for
@@ -69,9 +70,8 @@ tice, I went every morning to the bedside of the patients upon whom
 the scourge of that mysterious disease had fallen. And I rejoice to say,
 that terrible as it was to witness so many smitten as it were by an in-
 visible hand,—cold and dead in a few hours, — my visits were sometimes
-ON THE CAUSES AND TREATMENT OF INSANITY.
-585
 attended also with circumstances of a most affecting and not unpleasing nature.
+
 The majority, indeed, sunk at once into total unconsciousness or apathy. But
 there were some actively alive to their danger, and anxious to receive the last
 consolations of religion. I cannot omit to notice one in particular. He was

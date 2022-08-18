@@ -1,15 +1,18 @@
 Mental Dynamics in Relation to the Science of Medicine
 ========================================================
 
-A COURSE or LECTURES DELIVERED BY M. LORD AT, PROFESSOR OF PHYSIOLOGY
+A COURSE or LECTURES DELIVERED 
+:Author: M. LORD AT, PROFESSOR OF PHYSIOLOGY
 IK THE UNIVERSITY OF MOXTI'ELLIER. ARRANGED AND TRANSLATED BY
 STANIIOPE TEMPLEMAN SPEER, 31.P., CHELTENHAM.
 Lecture Y.
+
 Gentlemen,?I proceed now to an investigation upon wliicli, I confess, I am
 somewhat loath to enter, but which cannot be passed over. It consists in endea-
 vouring to appreciate the results of the experiments made by zootomists upon
 living animals, with reference to the functions of the nervous system; results,
 be it remembered, which they consider as applicable to human physiology.
+
 You may ask why this repugnance on my part? Listen!?These experimenters
 have, in my opinion, placed themselves beyond the domains of a science which
 is of ancient date; which possesses its truths, its fixed principles, its links of
@@ -28,17 +31,18 @@ are better acquainted with Eastern literature, and although it is some five and
 twenty years since we were in the habit of frequently meeting him, it gives us
 unfeigned satisfaction to learn that he has entirely given up the use of opium, and
 is in the enjoyment of excellent health."?(p. 109.)
+
 In the November number of Blackwood's Magazine, in an article on "The
 Narcotics we Indulge in," the author makes a similar statement?namely, that
 De Quincey completely conquered the habit of opium eating.
-T7
-TO THE SCIENCE OF MEDICINE. 253
+
 ascertain tlie effects produced upon animals by certain impressions made upon
 certain organs. Prom tlie results obtained by themselves and their copartners
 in this department, there has been deduced a series of general propositions,
 which now constitute a species of conventional physiology, the terms and
 dogmas of which seem to possess nothing in common with the corresponding
 elements of that science which we here cultivate.
+
 How then can we hope to establish an agreement between two sciences
 which while in truth not dissimilar, either in a subjective or objective point of
 view, are nevertheless founded 011 respective bases of so different a character.
@@ -54,6 +58,7 @@ separating the practice of medicine from the science of man, so that the prac-
 tice itself has nothing in common with the doctrine. We, however, would
 wish conscientiously to do nothing but what we believe, and to believe
 nothing but what we lcnow to be true.
+
 The necessary connexion between science and practice, will not permit us to
 regard the experimental school with the same indifference which it affects
 towards us. Being composed of laborious, talented, and honourable individuals,
@@ -62,8 +67,10 @@ many things, useful and applicable to the scicnce which we humbly endeavour
 to expound. It would be wrong, indeed, to expose ourselves to the regret of
 having neglected a well-established scientific fact, whatever be the source from
 which it may have sprung.
+
 You must consider the following investigation, then, as an act of resignation
 on my part.
+
 Do not, however, expect me to follow out, one by one, all the propositions
 of the doctrine which I combat, as a lawyer impugns all the phrases of his
 adversary's counsel. A refutation in detail would be too long, and not suffi-
@@ -73,24 +80,25 @@ notions of our modern vivisector's physiology; less, indeed, with a view of
 attacking these notions, than of placing them in juxtaposition with the funda-
 mental dogmas of our own science, which, thanks to the contrast, you will be
 able to comprehend.
+
 A knowledge of the human dynamism has ever been with us an object of
 profound study. "What I have already said with reference to the insenescence
 of man has afforded us another characteristic, inasmuch as this fact concludes
 the proofs of the duality of our dynamism, and distinguishes it from that of
 other living beings.
+
 In comparing the two principles oi tlie human-dynamism, it was necessary
 to ascertain the rank assigned by philosophy to the vital force.
 This retrospective view therefore, of oui o\\ n doctrmcs, will constitute a
 favourable opportunity for drawing a critical parallel between the chief propo-
 sitions respectin0, the physiology ot the nerves, as taught by the vivisectors of
 the present day, and those homological propositions of medical physiology which
-have hitherto been expounded in this amphitheatre. <.j
+have hitherto been expounded in this amphitheatre.
 Thus, the general fact of insenescence, the duality of our dynamism, of which
 that fact affords a strong proof, and the metaphysical character of the vital
 principle, are the ideas which I have endeavoured to inculcate; bear them therefore
 constantly in mind during our ensuing meetings, since they constitute the links,
 whether tacit or textual, of the subjects which I now propose to consider.
-254 MENTAL DYNAMICS IN RELATION
 As the science of human nature cannot be made up of a priori principles,
 we would wish it to be based 011 facts alone. The most ordinary phenomena,
 of every day occurrence, have taught us that man is composed of an aggregate
@@ -102,11 +110,13 @@ entering into the details of the system. We saw the material aggregate to be
 so constituted, that we do not find in it a single molecule whose presence
 and mode of existence does not require a power for its maintenance and
 preservation.
+
 There is, consequently, not merely no apparel or organ in the human body,
 but not even an atom of whose relations in reference to the dynamism, it
 is unnecessary to be acquainted with, since the absence of that dynamism is
 infallibly succeeded by a destruction of the aggregate; i. e., a dispersion of
 its elements.
+
 But how are we to ascertain these relations, between each part and the
 dynamism at large, if not by contemplating events as they severally occur ?
 This contemplation is, in truth, Empiricism, taken in its most general accep-
@@ -118,10 +128,12 @@ consecutive phenomena. This is what has been properly termed experience.
 These two methods, viz., Observation and Experience, are indispensable for
 the construction .and extension of the science of man, and of the natural
 sciences in general.
+
 The process of observation, which we constantly employ, is after all a slow
 one. True it is, that with patience and attention, science undoubtedly pro-
 gresses, but the acquisitions which it makes appear at such long intervals,
 that we might often be tempted to regard it as stationary.
+
 Experience is more expeditious, and consequently the physical sciences, to
 which it has been applied, have made immense progress in a short space of
 time. Unfortunately, its application to oar department of science, can be
@@ -134,11 +146,13 @@ profession, that certain preconceived and decisive experiments might be
 made upon animals. But previous to undertaking such experiments they
 have generally deemed it nccessary to reflect beforehand upon the value
 of the anticipated result; and this reflection has generally been a discou-
-raging one. _ _ _ .
+raging one. 
+
 To render such experiments profitable, in relation to medical physiology, it
 would require an amount of analogy between the subject of such experiment
 and man, as would approach almost to identity. But where arc we to find
 this analogy ? Think for a moment and say if it be possible.
+
 In seeking, then, for such analogy, let us examine the whole extent of the
 inquiry; what is its purport ? Is it not to ascertain the mutual relationships,
 whether activc or passive, existing between a given portion of our body, and the
@@ -147,9 +161,9 @@ to one of our own ? we have but discovered half the analogy; we must further
 inquire whether the brute dynamism, to which this part has reference, bears a like
 resemblance to our own dynamism. If we cannot discern this double conformity,
 the results of such experiments may be useful as regards the physiology of that
-TO THE SCIENCE OF MEDICINE. 255
 particular animal, but they can serve human physiology, only in proportion to
 the similarity of the metaphysical terms.
+
 Every living animal is, like man, a combination of diverse materials of the
 physical order, and of a dynamism of the metaphysical order, investing it
 with a species of unity, which we term individuality. This principle, whether
@@ -164,6 +178,7 @@ of which are in striking contrast with their external configuration.
 Prom what I have said on previous occasions, more particularly in my
 lectures of the past year, you cannot fail to perceive how greatly the human
 dynamism differs from that of the beast.
+
 In the beast, as in man, there exists a vital principle, which is self-acting
 and spontaneous, void of consciousness, endowed with susceptibility and affect-
 ability, plus an aptitude for manifesting these properties in various ways.
@@ -185,6 +200,7 @@ different properties; how, then, can nerves of the same name, and more or
 less similar in the different species, be said to possess the same attributes,
 the same relations, and the same functions, in regard to their respective
 dynamisms ?
+
 The comparative effect of wounds in man and animals has already shown us
 what a far greater amount of tolerance (evftopia) exists in the latter, since
 what is denominated by surgeons, traumatism (/3Aaftj of Galen), is almost un-
@@ -197,6 +213,7 @@ called the Unau, it is extremely difficult to extinguish life.
 Does there exist in animals that relationship between certain organs which
 we designate sympathy, and which is of so much importance m medical
 practice ? the question is still sub judice.
+
 The vital force in man is endowed with a certain degree of instinct or
 aptitude for performing directly and involuntarily, various automatic acts.
 You are aware that respiration, suction, deglutition, the expulsion of excre-
@@ -204,10 +221,9 @@ ment, &c., are performed before reason or volition have assumed the initiative.
 We are especially convinced of the automatic character of these acts, inas-
 much as they have been observed in living human monsters, void of either
 brain or spinal cord?monsters that have been called Amyelencephales, and
-2*0. XXVI. T
-256 MENTAL DYNAMICS IN RELATION
 in whom it would be impossible to conceive the existence of an intellectual
 principle.
+
 A comparatively recent occurrence confirms what I have just said. You
 will find it mentioned in M. Longet's Anatomie et Physiologic du Sysieme
 Nerveux. "A female, with contracted pelvis, became pregnant; after various
@@ -223,6 +239,7 @@ about its arms and legs; it uttered several cries, and gave sundry indications o
 life, during the space of several minutes." Bear in mind that the skull was
 empty, and that consequently the rachidian bulb had no longer existence.
 This did not, however, prevent the child from breathing and crying.
+
 We have here more than enough evidence to prove the nature of instinct,
 and its existence as independent of the intellectual principle, but dependent on
 the vital force. The amount of human instinct, however, is but trifling in
@@ -244,6 +261,7 @@ impart instruction, or produce a combination of ideas from which a thought
 might suggest itself. It serves to entertain a species of animal memory (if I
 may so speak), which the instinct recals at need, whenever the varying condi-
 tions of the vital principle render such an act necessary.
+
 Compare, then, this sensibility with that which we possess. The latter is
 doubtless roused by impressions, whether from without or from within; but as
 our instinct is so imperfect, it is needful that the intellect should also
@@ -252,6 +270,7 @@ to. Thus it is, that sensations are in reality wants, which oblige us at a very
 early period to think, and hence serve as instructors. What a difference have
 we here, between this species of sensibility, and that of the lower animal at the
 moment of birth.
+
 Buffon has addressed to us a serious reproach for not attempting to compare
 accurately the human dynamism with that of the brute. "It is not to be
 wondered at," says he, "that man, who knows so little of himself, who con-
@@ -262,12 +281,12 @@ depending upon a trifling excess or deficiency in the perfection of' his corpore
 organs. It is not surprising that he should assert their powers of reasoning, of
 mutual comprehension and of self-determination, and attribute to them in ad-
 dition, not merely the very qualifications which he lnmself possesses, but even
-TO THE SCIENCE OF MEDICINE. 257
 those in which he is deficient. But let man examine and analyze himself
 thoroughly, and lie soon will recognise the nobility of his nature, compre-
 hend fully the existence of his own mind, cease to debase himself, and perceive
 at a glance the infinite distance which the Supreme Being has interposed be-
 tween himself and the brute."
+
 This exhortation on the part of the great naturalist, is all but lost upon
 the school of the Organicists. Cabanis asserts that every sensation produces
 either pleasure or pain?true, for the brute ; to whom sensation is as nothing
@@ -277,6 +296,7 @@ painful nor pleasurable, but 011 the contrary, a source of absolute indifference
 while, so far as our moral interests are concerned, their appreciation most un-
 doubtedly depends neither upon sensation nor upon instinct, but solely upon
 reason.
+
 When our sensations are pleasurable, have they aught in common with those of
 the animal ? The animal enjoys them to the utmost, until they have become ex-
 hausted. We carefully avoid doing this, and have invented a thousand refine-
@@ -291,6 +311,7 @@ then, any similarity between these methods of procuring pleasure and the sen-
 sation of the brute P The difference truly is so great, that I scarcely venture
 to apply the term sensation as expressive of the conscious susceptibility to external
 impressions of both man and animals.
+
 Here the comparison between the two terminates: the principle of
 thought, which is all in all with the former, gives 110 evidence of existence in
 the latter. I can only feel certain that a living being thinks, when he can
@@ -307,7 +328,8 @@ degenerate, with another principle possessing the power of self-preservation,
 and capable of becoming an intelligent witness of the destruction of its own
 tenement and of the senile extinction of its biotic companion ? Does the
 brute enjoy a mental insenescence, contemporaneous with the senescence of
-its vital principle ? . .
+its vital principle ?
+
 No ' a principle of intelligence, such as I see and study 111 man, is not that
 which'animates the brute; and this constitutes, in my opinion, the most
 striking disparity between the human and. the bestial dynamism.
@@ -319,10 +341,6 @@ diminished, amount of co-operation; while occasionally we discern a natural sus-
 pension, and even an actual aberration, in their association. This important
 item of human physiology, constituting as it does,^ the basis of all theories
 respecting sleep, somnambulism, delirium, intoxication, morosophy, and
-T 2
-258 MENTAL DYNAMICS IN RELATION
-i
-t
 mental alienation, belongs to the seienee of man alone. You will find nothing
 in zoological physiology, at all analogous to the facts of which I speak.
 It might perchance, however, be objected, that the phenomena designated as
@@ -340,6 +358,7 @@ table result of an interval, existing between the previous estrangement of the
 two principles and their complete reunion. A sudden waking out of sleep is
 always accompanied in man by indecision. I do not believe, however, that this
 is noticed in animals.
+
 The recovery from a state of asphyxia is never accompanied in man by phe-
 nomena similar to what we notice in the recovery of a bird under similar cir-
 cumstances ; as in the experiment of Humboldt, made with a view of testing
@@ -362,6 +381,7 @@ similarity actually existing between the two terms of comparison, viz., the
 animal and the human dynamism, does it constitute anything like analogy ?
 The terms, it is true, are both of the metaphysical order, but how far removed
 from one another!
+
 Such are the reasons why we place but little confidence in the results of
 vivisection. It may, however, be said?" Suppose that man be an animal, to
 which an intellectual principle has been superadded, remove this principle,
@@ -373,13 +393,13 @@ susceptibilities. Remember, moreover, that the human vital principle was
 created the coadjutor of the intellect; and can we imagine that such an
 auxiliary should be a vital principle similar to that tor which in the brute
 instinct alone suffices to be the companion ?
+
 Lastly, if animals really possessed such an analogy to the human species as
 that their respective physiologies were identical, if their dynamism resembled
 ours, if they possessed the same susceptibility that we possess,?an intelligent
 principle, similar to that of the child, or even of the savage, who, according to
 the assertion of some naturalists, possesses less mental capacity than the
 elephant or the monkey,?should we have dared to resolve the problem by (
-TO THE SCIENCE OF MEDICINE. 259
 means of the scalpel? If their sensibility were identical with that which we
 possess; if pain, inflicted by the knife, produced in them, trembling, terror, fear
 of danger, and visions of approaching death, should we I ask, ever have had
@@ -389,10 +409,12 @@ would wish the negro to be treated. We have, therefore, but little sympathy
 with vivisection. If authorised by analogy, it is both criminal and ferocious;
 and if justified by a difference of nature, it remains objectless and unworthy
 of confidence.
+
 Knowing then, the reasons which actuate me in the rejection of vivisection
 as a_ means of illustrating the human dynamism, it becomes necessary to
 inquire into the motives of those experimenters who devote themselves with
 so much zeal to this species of investigation.
+
 And first let me remind you that, with a view of demonstrating the results
 we may anticipate from experiments made upon animals, I began by
 discussing our intellectual requirements, our tendencies, our philosophy, and
@@ -401,6 +423,7 @@ To complete this portion of our subject, let us endeavour to study the
 vivisectors in the same light; let us see what is their object, what are their
 preliminary studies, their inclinations, their philosophy, and their mode of
 applying it.
+
 VVliilc then, wc, on the one hand, have openly avowed the motives which
 actuate us, the vivisectors have been much less explicit; and we must,
 therefore, endeavour to unravel their ultimate designs.
@@ -410,6 +433,7 @@ profession, authorizes an inquiry into whatever pertains to it; but repudiates
 all serious efforts of the mind directed to that which is foreign to its interests :
 being, in truth, a science, of which it may be reasonably said that no servant
 can serve two masters.
+
 The vivisectors have, however, adopted an additional vocation; they are
 essentially naturalists. In examining the acts of an animal, they have had the
 curiosity to inquire into the mechanism of its movements. This is far from
@@ -417,6 +441,7 @@ what would have been our design, had wc become vivisectors ; our objects
 would rather have been anthropological. The difference of the impulsion
 must then necessarily show itself in all the results accruing from the practice
 in question.
+
 Our primary course of study, then, has been that prescribed by our model,
 Hippocrates, viz., an inquiry into human nature. It is from constant
 attention to this subject, during a period of more than two thousand years,
@@ -425,18 +450,20 @@ tacitly cultivate; and which our own faculty endeavours to preserve, perfect
 and propagate, with the utmost zeal, lor this doctrine the vivisectors have
 no sympathynot merely do they ignore its essential doctrine, but they
 conceive it, moreover, to be other than it actually is.
+
 They nevertheless assert that their efforts are directed to the advancement
 of medical science; and, in truth, they strenuously endeavour to introduce
 their results within its domain. I his is at least a mode of giving importance
 to their investigations, of which it remains for us to appreciate the intrinsic
 value.
+
 Let us not, however, break off all intercourse, merely on account of their
 distaste for vitalism; such repugnance^ is rather a reason for hearing them;
 inasmuch as certain of their results, which actually fortify our own doctrinal
 views, cannot be suspected of favouritism, always indeed to be dreaded in the
 recitals of a friend.
+
 You are aware that our mode of procedure, in the research after natural
-200 MENTAL DYNAMICS IN RELATION
 truths, is that propounded by Bacon in his "Novum Organum." It is
 that which has always served as a rule in the construction of the Hippocra-
 tic doctrine. We start with a number of anthropological facts; and after
@@ -454,11 +481,13 @@ them only when the number and variety of ascertained facts shall have'
 definitely settled their proper rank and position. These rules have been
 established with a view of banishing from science all hypotheses and supposi-
 tions, inasmuch as they encumber it to no purpose.
+
 The terms, vital force, instinct, susceptibilitv, irritability, automatism,
 sensibility, innate principle, volition, human dynamism, &c., have been
 employed, merely to distinguish the various groups of anthropological pheno-
 mena, and to admit of their respective causes being definitely established
 under certain heads.
+
 The experimenters of whom I now speak, disdain such philosophy; rejecting
 all experimental causes, ascertained by abstraction alone, they require some-
 thing more consistent and more corporeal. In defaidt of well-marked physical
@@ -466,6 +495,7 @@ causes, they willingly content themselves with a very concrete hypothesis,
 imitating somewhat those savages who, in case of famine, fill their stomachs
 with earth, which, though in itself useless, serves nevertheless to amuse the
 organ, at least for a time.
+
 Thus, they have assumed that the nerves and ganglia animate the whole body,
 " and regulate the functions of the entire economy." But the nerves, as they
 come under our inspection, do not appear particularly adapted to such a purpose.
@@ -476,12 +506,15 @@ various titles of, nervous fluid or agency, nervous power, acting principle of t
 nerves." They are at a loss to know whether it be identical with the electric
 fluid, or whether it be a fluid sui generis; but they cannot do without some
 imponderable of a physical order.
+
 M. Longet, following the example of M. Muller, has discussed this complex
 question at considerable length; he fails to resolve it, but lest the mind should
 lose all hope of discovering a fluid similar to others, belonging to the domain
 of physics, he thus sums up his chapter:?
+
 1st. "There is no direct proof in favour of the hypothesis, that currents of
 electricity pass along the nerves.
+
 2nd. "Electricity and the nervous power are not identical.
 3rd. " In the present state of scientific inquiry, it would be rash to assert that
 they are totally different, and possess no analogy with one another."
@@ -493,7 +526,6 @@ finds support in the example of Descartes, and in that remarkable maxim of his
 " Natural Philosophy," which appears to mc to be fraught with dangerous
 results, and which, if taken literally, would convert science into roniancc?" I
 should feel," says lie, " that I had done enough, if the causes which I have
-TO THE SCIENCE OF MEDICINE. 201
 explained should appear to be of sucli a nature as to produce effects, bearing
 even a resemblance to those, which we witness around us in the world at large;
 without inquiring whether it be by. these, or by other causes, that such
@@ -509,6 +541,7 @@ the expression of conscious conviction or silence; and why should it not thus
 be with regard to science ? If not sure of the cause of such and such an effect,
 you are not obliged to adopt one that is simply probable. Withhold your
 judgment, and seek more ample information.
+
 III. The distinction between the two classes of causes : viz., those of the
 physical and those of the metaphysical order, in the sense understood by Bacon,
 is rigorously observed among us, as I have already had occasion to observe. It
@@ -518,6 +551,7 @@ This observation is necessary, inasmuch as, during the Cartesian epoch, meta-
 physics and theology were associated; while certain modern philosophers of
 the Epicurean sect take advantage of this past association to deny metaphysics,
 and to treat them as a mere superstition.
+
 True it is, that iu Paris metaphysics have been limited to pyschology, and
 pyschology in turn connected with religion. The allegorical tableaux of the
 latter part of the seventeenth century represent the science of metaphysics as
@@ -533,10 +567,12 @@ emblem of morals; in the other she holds a serpent, with its tail in its mouth,
 a symbol of eternity, intending, moreover, to represent metaphysics; while she
 places one foot upon a touch-stone, to indicate logic, the object of which is to
 discern truth from falsehood.
+
 This association of metaphysics with the idea of eternity, of the Almighty,
 and of his relations with man, is an amalgamation whose intent in those
 days was morally excellent; the connexion is now, however, maintained with
-perfidious intent. , . , , . , ?
+perfidious intent.
+
 Let us then revert to Bacon s division, and distinguish physical from meta-
 physical causes, in that the former first produce their effects without fail or
 variation under the same evident conditions; secondly, that they act without
@@ -550,11 +586,11 @@ out extrinsic determination; thirdly, that they are forced to execute a series o
 successive phenomena, and are condemned to inaction when these have been
 achieved, in spite of the aptitude of locality^; fourthly, that they give rise to
 phe nomena which are connected, like the limes of a chain, not of necessity or
-2G2 MENTAL DYNAMICS IN RELATION
 in a maimer physically indissoluble, but by conventional agreement, with that
 temporary period, each moment of which has relation to its beginning and end.
 In a word, let us recollect that the causes of the physical order act ratione
 cutis, and those of the metaphysical order, ratione moris.
+
 It would appear that the vivisectors generally, have not the slightest notion
 of this distinction. I have already said that there are some am on" them who
 conceive these to be words without ideas ; but I would ask my auditors if the
@@ -574,6 +610,7 @@ termed mechanical; this expression, so rarely employed in reference to the
 doctrine of the imponderables, and of which the true signification in physics is
 well known, appears to be doubly incongruous when physiology is the subject
 under consideration.
+
 The vivisectors imagine that the nervous fluid is produced in the brain and
 spinal cord, without considering that the vital force is anterior to the forma-
 tion of the nervous system. The movement of this fluid constitutes the chief
@@ -581,6 +618,7 @@ subject of their theory, and its authors carefully endeavour to unite in one,
 both the idea of the phenomenon and that of its alleged cause. Let us here
 cursorily examine the terms which they employ, in order to express these facts,
 with the view of supporting then- hypothesis.
+
 1st. They assert that there are three species of nerve fibres, of which the
 first are denominated sensory; the second, motor; the third, excito motor.
 Each nerve fibre irrevocably possesses certain properties in virtue of its
@@ -591,6 +629,7 @@ either by the vital force alone, or by the two principles simultaneously. The
 former of these phenomena constitutes siisception or vital sensation; the latter
 is sensation, properly so called. These terms are but the expression of certain
 facts. The experimentalists call them centripetal acts.
+
 When a susception or a sensation takes place in the dynamism, the event is
 appreciated either for good or evil. An impression is received, which is cither
 favourable or not, and there results as a consequence, an act which expresses
@@ -603,16 +642,17 @@ a conflict between the motor and sensory nerves at their central point of
 union. With regard to the expressions made use of, in reference to the appre-
 ciation of which the motor nerves are capable, they are comprised in the
 term centrif ugal acts.
+
 Thus, at every page of their writings do we find a translation- into the
 language of physics, of medical terms, derived originally from that of meta-
 physics. Nevertheless, there are certain facts which have refused thus to
 accommodate themselves. We shall have, ere long, occasion to notice these
-TO THE SCIENCE OF MEDICINE. 2G3
 more particularly; it will, however, suffice to show, that by their own acknow-
 ledgment, the vital principle is not of the physical order, and that it acts
 ratione moris, and not ratione entis; witness that solidarity of organs reco-
 gnised by M. Louget, a characteristic indeed which is unknown in the domain
 of physics.
+
 V. This conviction, or at least this attachment of the vivisectors to their own
 peculiar tenets, together with the liberty which their philosophy allows of
 creating hypotheses indefinitely, of dispensing with the necessity of seeking
@@ -623,13 +663,16 @@ of their anatomical discoveries. As these are made only through the medium
 of the microscope, and as this method of investigation may give rise to many
 illusions, how can I avoid receiving them with some hesitation, when I find
 them to be at variance with recogniscd dogmas ?
+
 To establish their doctrine, it should be shown that each nervous filament is
 independent of its neighbour, from the cercbro-spinal centre to its periphery.
 . . . General anatomy, however, shows us the anastomoses of the nerve fibres;
 appearances, therefore, arc in favour of the latter.
+
 Again, their doctrine requires that the nerves of the ganglionic system
 should accompany the blood vessels to their finest ramifications, but the
 demonstration of this fact is impossible.
+
 In order that the phenomena of innervation should appear to be in accord-
 ance with the varied conditions presented by the anatomy of the nerves, they
 have supposed that the grey matter might explain what has been wanting to

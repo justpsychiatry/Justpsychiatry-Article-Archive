@@ -1,4 +1,7 @@
 {
     "makefile.extensionOutputFolder": "./.vscode",
-    "esbonio.sphinx.confDir": "C:\\Users\\Justpscyhiatry\\.conda\\envs\\sphinx\\source"
+    "esbonio.sphinx.confDir": "C:\\Users\\Justpscyhiatry\\.conda\\envs\\sphinx\\source",
+    "cSpell.enableFiletypes": [
+        "restructuredtext"
+    ]
 }

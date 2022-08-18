@@ -2,7 +2,8 @@ Reports of American Institutions for the Insane
 =================================================
 
 Aut. IV.?
-BY S. TUNY EAKLE.
+:Author: S. TUNY EAKLE.
+
 (From the American Journal of Medical Science. Edited by Isaac Hays, M.D.)
 The American reader who wishes to obtain a knowledge of
 insanity, its nature, its causes, and its proper treatment, without
@@ -12,6 +13,7 @@ from them when preparing our notices, because of the labour
 inquired in the effort to do justice to both the author and our
 readers, and at the same time confine ourselves within justifiable
 limits.
+
 Men. Women. Total.
 Patients in the Butler Hospital, Dec. 31, 1853. . G3 73 130
 Admitted in course of the year 31 49 SO
@@ -31,18 +33,21 @@ Died  ... 19
 9. Of the Vermont Asylum for the Insane, for the years 18^4 and 1800.
 10. Of the Massachusetts Lunatic Hospital, Worcester, for the years ISoi and
 1855. ?oro
+
 11. Of the Boston Lunatic Asylum, for tho year 18 j?. , 1Q?,
 12. Of the New York City Lunatic Asylum, for the years 1854 and 1855.
 13. Of the Maryland Hospital for the Insane, for the years lboJ, 18^4, and
 14. Of the Mount Hope Institution, for the years 1854 and 1855.
 15. Of the Western Lunatic Asylum, Virginia, for the years 1854 and 1855.
 16. Of the South Carolina Lunatic Asylum, or tho years 13u3 and ISjj.
+
 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE. 2G3
 The department for females has been so much crowded, that
 applicants for admission have been rejected.
 Patients admitted from 1818 to 1851, both inclusive . G63
 Discharged, recovered 211
 Died 121
+
 The deaths are "equivalent to about 15 per cent, of the ave-
 rage resident number of patients* one year with another."
 "In 1850, when dysentery was very prevalent in this region,
@@ -51,10 +56,12 @@ none of them being severe, and not more than three continuing
 beyond the third day. With these two exceptions, and that of
 an occasional influenza, we have been entirely exempt from epi-
 demic disease."
+
 " It is a noteworthy fact, that in most if not all our hospitals
 the mortality has been steadily increasing of late years." We
 have made no investigations in regard to that which is here
 asserted.
+
 11 Premature removals" is still one burden of complaint in
 the Reports from many of the institutions. " It is one of the
 disheartening experiences of our calling," says Dr Ray, " to be
@@ -79,11 +86,12 @@ From a very accurate exposition of the secret?if secret it may
 have been?in which lies the superior advantage of hospital
 over domestic treatment, we make an extract which will impart
 a sufficient idea of the whole :?
+
 " Insanity implies the existence of bodily derangement, and
 therefore is a suitable object of medical treatment, which, of
 * We regard this as the only accurate basis upon which to compute thcmoitality
 in any public institution.
-264 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE.
+
 course, would be more skilfully applied by men who are
 devoting their whole time and attention to this affection, than
 by those who observe it only on a very limited scale. But it
@@ -120,6 +128,7 @@ disease ; of extensive inquiry into the various arts concerned in
 the erection and practical working of an extensive establishment,
 and of an organization of the service best calculated to effect its
 designed object."
+
 " The peculiar restlessness of the insane, which impels them
 to roam about regardless of time , and occasion, at the risk of
 their own safety and the peace of society, and which finds no
@@ -130,7 +139,6 @@ airing-courts prevents that control from being oppressive and
 unhealthy. Their fitful humours, their wild caprices, their im-
 pulsive movements, their angry looks, are met by the steady
 and straightforward will of attendants who have learned to per-
-REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE. 265
 form their duty unbiassed by fear or favour. Having no object
 of their own to serve, imbibing the spirit of kindness which
 prevails around them, deterred from improper practices by a
@@ -145,6 +153,7 @@ in many cases but little more is necessary to conduct the morbid
 process to a successful issue, besides giving the constitution a
 iair chance to exert its restorative powers unembarrassed by
 adverse influences."
+
 In the Report of the Bloomingdale Asylum, Dr Brown gives
 the following statistics :?
 Men. "Women. Total.
@@ -155,6 +164,7 @@ Discharged, including deaths 61 55 119
 Remaining December 31, 1851   50 77 127
 Of those discharged, there were cured  22 20 4S
 Died 10 10 20
+
 Causes of Death.?Old age, 6 ; exhaustive mania, 4; phthisis
 pulmonalis, 3 ; general paralysis, 3 ; epilepsy, 2 ; marasmus, 2 ;
 apoplexy, 1 ; disease of kidneys, 1 ; suicide, 1 ; use of opium, 1 ;
@@ -163,6 +173,7 @@ Of the six who died from old age, the youngest was 70, and
 one had reached the age of 95, preserving a remarkable degree
 of intellectual activity and genial humour within a few days
 of his departure.
+
 "The insane, as a class," remarks Dr Brown, "are unsound
 alike in mind and body. They inherit tlie multiform varieties
 of scrofula, and among them abound the Protean forms of ner-
@@ -177,7 +188,6 @@ verted, they disregard extremes of heat and cold, and become
 indifferent to danger ; but while the mind may betray no indi-
 cation of pain, their bodies suffer like those of sane men.
 Neglect of hygienic laws, and resistance to the regimen or habits
-266 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE.
 imposed by others for tlieir benefit, beget inevitable evils. Ob-
 stinate derangements of the digestive and assimilative organs
 are induced by prolonged abstinence, or excessive and unmasti-
@@ -189,6 +199,7 @@ These patients become prematurely old ; their intellectual per-
 ceptions and moral emotions disappear with healthy sensation ;
 they sicken and die, often without an intimation of suffering, or
 an expression of concern.
+
 "On the other hand, a remarkable exemption from prevailing
 epidemics is sometimes vouchsafed to these unfortunates. Thus,
 while cholera prevailed to a considerable extent in the neigh-
@@ -196,6 +207,7 @@ bourhood of the Asylum during the past summer (1853), 110
 instance of this disease occurred within our enclosure, and the
 whole household was preserved, in an unusual degree, from all
 affections of a similar character."
+
 The long-desired improvement in the buildings of this insti-
 tution has at length been accomplished by the enlargement of
 the "lodges," and the introduction into them of a sj'stem of
@@ -205,9 +217,11 @@ tive patients have been effectually relieved of the annoying
 presence of the disorderly and noisy, and at the same time the
 latter have been permitted a degree of liberty formerly incom-
 patible with the comfort of their associates."
+
 In the means for ministering to all the physical comforts of
 its patients, the Bloomingdale Asylum has now but few equals in
 this country.
+
 Dr N. D. Benedict resigned the office of superintendent of
 the New York State Lunatic Asylum in June, 1854, and was
 succeeded by Dr John P. Gray, who for some years had been
@@ -215,6 +229,7 @@ connected with the institution as assistant physician. The report
 of the latter contains a large amount of interesting matter, from
 which we shall extract that which appears to be of the greatest
 value.
+
 Men. Women. Total.
 Patients in the Asylum, November 30,1853 . .239 207 44G
 Admitted in the course of the fiscal year . . . 101 199 390
@@ -231,25 +246,30 @@ age and protracted mental disease 4, general paralysis 4, epi-
 lepsy 4, suicide 4, erysipelas 4. apoplexy 2, hemorrhoids 2,
 disease of liver 1, pneumonia 1, typhoid fever 1, chorea ], not
 stated 7.
+
 " In December last (1853), a case of smallpox occurred, which,
 though isolated as much as possible, was followed by others, and
 m the two months following we had twenty-three cases. By
 great precautions, the disease was confined entirely to the male
 department."
+
 In the spring and summer of 1853, " the domestics engaged in
 the kitchens were seized with typhoid fever. We attributed this
 to the decayed state of the floors and timbers of the basement,
 and the decomposing impurities beneath." These causes being
 removed, there were no more cases of the disease.
+
 One hundred and eight applicants for admission were rejected,
 and fifty-one patients discharged, for the purpose of receiving
 more recent and curable cases.
+
 " During the past, as in former years, we have had many un-
 happy instances of injudicious haste in bringing patients to the
 asylum. One lady was admitted five days after her confinement;
 another before the burial of the child whose death was the
 immediate exciting cause of her disease, and many who were
 far too ill to travel."
+
 "Thirty-four patients (eleven males and twenty-three females),
 have been admitted during the year with strong suicidal propen-
 sities. In several of these cases the ancestors had committed
@@ -258,11 +278,13 @@ was impulsive; he was also homicidal, and left home at his
 own request, because he felt that the inclination to destroy his
 children, whom he loved tenderly, was gradually strengthening,
 while his power of resistance was growing weaker.
+
 " All the epileptics (10) admitted, and the cases (6) of general
 paralysis, had either epileptic or intemperate ancestors."
 Of the 390 patients received, the disease was directly heredi-
 tary in the numbers and manner shown in the subjoined table :?
 Men. AVomen. Total.
+
 From the paternal branch of the family . 30 20 50
 From the maternal brauch  16 30 4G
 From both paternal and maternal branches 8 9 17
@@ -271,7 +293,6 @@ Collateral predisposition manifested in the
 insanity of brothers, sistei's, or cousins .10 19 29
 Numbers in which there was a family pre-
 disposition   G4 7S 142
-268 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE.
 Thus, in 28'97 per cent, of the cases the disease was here-
 ditary ; and in 3641 per cent, there were relatives insane. A
 larger number received the predisposition from the father than
@@ -280,12 +301,14 @@ researches of Dr Baillarger, of Paris, which showed, as has been
 formerly mentioned in our notices, that, so far as the data which
 he had collected were concerned, a large majority received it
 from the mother.
+
 " In one case included in the preceding table, the maternal
 great-grandmother, grandmother, mother, and two aunts, and
 the paternal grandfather, uncle, and two sisters, and one brother,
 have been insane. In another, the maternal grandmother, two
 uncles, and mother, the paternal grandfather and uncle, and two
 brothers, have suffered from attacks of insanity.
+
 Improper cases received.?Typhoid fever, 1 ; chorea, 1;
 phthisis, 1 ; drunkards, 8; feigned insanity, to escape imprison-
 ment, 2. Several, also, placed under the head of subacute
@@ -311,6 +334,7 @@ man is now quiet and comfortable. Application has recently
 been made for the return of another, who, the superintendent of
 the poor states, ' has been in chains for months, and is in the
 most filthy and wretched condition.'"
+
 Dr Smith, of the Missouri Asylum, in his lleport for 1854,
 discusses the question of the propriety of establishing separate
 asylums for the incurable insane, and, after giving his reasons for
@@ -318,7 +342,6 @@ condemning the plan, says :?" I rejoice in the reflection that
 America has never been disgraced by one, and I trust that
 period will never occur." We, also, are opposed to such special
 institutions, but an asylum for incurables is not necessarily a
-REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE. 2G9
 disgrace to any nation. Some of those upon tlie continent of
 Europe stand, confessedly, in the foremost rank of establish-
 ments for the insane, and we have seen several of them which
@@ -327,6 +350,7 @@ both curables and incurables. Indeed, of the fifty-six 'public
 institutions for the insane which it has been our lot to visit,
 the very worst, with but a single exception, is in one of the
 original thirteen United States of America.
+
 If our country has not been disgraced by an asylum erected
 particularly for the incurable insane, has she not been, is she not
 still disgraced by something even more objectionable ? Read the
@@ -341,6 +365,7 @@ there to be learned. Or, simply, read the above extract from the
 report of Dr Gray, and we may then ascertain whether our
 course, in the treatment of those who are alienate of reason, is
 such as to exempt us from reproach.
+
 For ourselves, rather than allow the incurables to remain, as
 they are this day, we would rejoice to see them collected, to-
 morrow morning, into purely technical " asylums for the in-
@@ -352,10 +377,12 @@ as Heaven shall bless her with life and health, would watch them
 with a vigilance sufficient to prevent a large proportion of the
 abuses now heaped upon the unfortunate persons who would
 become the inmates of them.
+
 Patients admitted from January 1G, 1843, to Dec. 1,
 1S54   4,313
 Discharged, recovered 1,789
 Died 511
+
 "The Opal is still edited and published by the patients, and
 its proceeds devoted to their comfort and amusement. The
 profits of the last year, with the avails of a fair held by the
@@ -363,6 +390,7 @@ ladies, amounted to four hundred dollars, which has been ex-
 pended for books, improvements in the greenhouse, and in
 amusements. The Opal now receives about three hundred
 periodicals and newspapers in exchange."
+
 The number of patients in the New Jersey State Lunatic
 Hospital, at Trenton, is as follows:?
 270 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE.
@@ -377,6 +405,7 @@ Died 11 12 23
 Causes of Death. ? Consumption 4, general exhaustion 8,
 dysentery 8, epilepsy 1, apoplexy 1, asphyxia 1, congestion of
 the brain 1.
+
 " During the months of August and September, a number of
 cases of dysentery occurred, several of which proved fatal.
 " Besides the Museum and Reading Room," remarks Dr.
@@ -393,6 +422,7 @@ Tasker, & Morris, of Philadelphia, have contributed a "self-
 regulating hot-water furnace" with which to heat it, and several
 gentlemen, mostly in Newark, have given money to the amount
 of 675 dollars.
+
 The laudable benevolence of many of our fellow-citizens is
 rapidly bringing some of the public establishments for the in-
 sane into a proper condition in regard to the facilities for curative
@@ -402,17 +432,19 @@ a danger that the desolation, the barrenness, and the wretched-
 ness of the mad-house of the past, will be followed, in the Hos-
 pital for Mental Disorders of the future, by an objectionable and
 deleterious luxury.
+
 Two additional wings to the Trenton Asylum are in progress.
 The house has been so much crowded by the number of patients
 during the year, that their proper classification has, at times,
 been impracticable. But a small part of the report of Dr.
 Buttolph is devoted to subjects which would particularly interest
 our readers.
+
 " That which the skeleton is to him whose general form it
 represents, when in his prime of manhood," such must be our
 notice of the report for 1854, of the Pennsylvania Hospital for
 the insane.
-REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE. 271
+
 We must fully coincide with. Dr Kirkbride in his remarks,
 that " because entire accuracy in every point may not be attained,
 it can hardly be urged as an excuse for not attempting to ap-
@@ -424,6 +456,7 @@ fully recorded facts, or even of the opinions of intelligent physi-
 cians in reference to insanity, should not be just as important
 and reliable as if made in regard to other diseases."
 Men. Women. Total.
+
 Patients in the Hospital Dec. 31, 1S53 112 123 235
 Admitted in course of the year . . 178
 Whole number  413 ?
@@ -442,6 +475,7 @@ epidemics which prevailed in many parts of the country." The
 hospital lias been full throughout the year, often crowded, and as
 many as fifty applicants for admission were not received.
 Men. Women. Total.
+
 Patients admitted since the opening
 of the hospital   1384 1192 257G
 Discharged, cured CGI 574 1235
@@ -459,8 +493,6 @@ Of the 223 cases still remaining in the hospital, some will un-
 doubtedly be restored to health, modifving, somewhat, these
 results.
 The greater proportion of the annual reports of a public institu-
-NO. VI.?NEW SERIES. T
-272 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE.
 tion for the insane, pass, in each successive year, into the hands
 of a new set of readers. For this reason we have ever approved
 of the plan of entering into a more or less detailed account of the
@@ -471,6 +503,7 @@ in regard to the true nature of these institutions, which cannot
 fail to be produced by such a course. In but few of the reports
 from our hospitals is so much space customarily devoted as in
 those of Dr Kirkbride.
+
 During nine months of the year, three entertainments in each
 week are given to the patients. " One evening is now devoted
 to scientific lectures, another to the exhibition of dissolving
@@ -493,10 +526,12 @@ O O
 their care. No money expended in a hospital for the insane is
 better applied than when judiciously used in promoting these
 various objects."
+
 A carriage-road 011 the pleasure-grounds for the men, similar to
 that on those for the women, is in progress. These roads will
 liave a combined extent of a mile and three-quarters, and will be
 bordered with trees through most of the distance.
+
 The Board of Managers of the Pennsylvania Hospital for the
 Insane, in view of the necessity for further accommodations, have
 determined to erect another establishment upon a tract of land
@@ -512,6 +547,7 @@ REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE. 273
 tages nowhere surpassed." The estimated cost is 250,000 dollars,
 and the buildings will be commenced when 150,000 dollars shall
 have been subscribed.
+
 The report contains an elaborate memoir of Jacob G. Morris,
 late a Trustee of the Institution, who was on board the steamer
 " Arctic" at the time of her loss, and met, with so many others,
@@ -519,6 +555,7 @@ an untimely death. As institutions for the insane have rarely, if
 ever, received such attention and sacrifice from a trustee or
 manager, we should fail of justice were we to omit the following
 extracts:?
+
 "Possessed of an ample fortune, and with a truly benevolent
 heart, the activity, energy, and sound sense of Jacob G. Morris,
 made him a desirable manager in the charitable institutions
@@ -545,6 +582,7 @@ good-will, which never left a doubt of success. Rarely did he
 fail in anything he undertook ; and his own gratification at such
 a result quite equalled that of those who were immediately
 benefited.
+
 "He placed on our walls several valuable oil-paintings, and
 purchased expressly for the museum a large collection of curiosi-
 ties ; besides making numerous presents of a useful or ornamental
@@ -555,7 +593,6 @@ little time that elapsed before his departure for Europe, in calling
 attention to its importance and soliciting subscriptions in aid of
 the object In every part of his travels he visited all the
 institutions for the insane worthy of note, and collected every-
-274 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE.
 thing that he thought might be useful in our new undertaking.
 In the very last letter I received from him, this subject was
 earnestly dwelt upon, and, although anxious to be at home, he
@@ -567,6 +604,7 @@ it is to be feared an irreparable, loss !
 The report of Dr Curwen, of the Pennsylvania State Lunatic
 Hospital, furnishes the following statistics .?
 Men. Women. Total.
+
 Patients in the Hospital December 31, 1853 . 99 83 182
 Admitted in course of the year 93 51 141
 Whole number 192 134 32G
@@ -584,7 +622,8 @@ many cases of a very obstinate form, and of a very irregular
 character. The diseases were clearly attributable to an epidemic
 constitution of the atmosphere, as most of those attacked were,
 as far as possible, removed from the usual exciting causes of
-those diseases/'
+those diseases.
+
 In discussing the etiology of mental disorders, Dr Curwen
 maintains that no exciting cause will produce insanity, unless the
 nervous system be in a favourable condition for its development,
@@ -592,6 +631,7 @@ and that that which is often assigned as the cause in individual
 cases, as, for example, the reading of the Bible, is rather the
 effect of previous mental depression dependent upon the abnormal
 condition of the body.
+
 " In those who are natives of other countries, a different class
 of causes, to a certain extent, acts. The disappointment of their
 hopes, so fondly cherished and often so rudely crushed, the entire
@@ -601,7 +641,8 @@ resort to intoxicating drinks, all contribute their share to bring
 on that condition of the system which ends in insanity; and the
 natural elasticity of the system appears to be so far destroyed
 that, in a large majority ot cases, it never fully regains its former
-tone and vigour/'
+tone and vigour.
+
 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE. 275
 By the report of Dr Harlow, of the Maine State Asylum, it
 appears that at that institution, on the 30th of November, 1853,
@@ -644,9 +685,11 @@ attended upon all the sick in the house till we were able to
 attend to our duties." Of ninety persons attacked by this
 epidemic, seventeen, of whom sixteen were patients, and one,
 a female attendant, died.
+
 The number of patients admitted, since the first opening of
 the hospital for their reception, is 1430. Discharged, 1316, of
 whom 590 had recovered. Died 175.
+
 To avoid the labour and the inconveniences attendant upon
 the return of patients who, on the supposition of recovery, have
 left the hospital with the formalities of a regular discharge, but
@@ -655,12 +698,13 @@ imperfect restoration, Dr Harlow has adopted the plan pursued
 at some of the European hospitals, of discharging all in regard
 to whom he has " doubts of their fitness, on trial, for a period of
 two weeks."
+
 Of 1200 patients who have been in the hospital, 586 had
-276 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE.
 insane relatives. It is not stated whether these 1200 were
 so many persons, or merely so many cases, including a con-
 siderable number of re-admissions of the same person?conditions
 which materially affect the percentage.
+
 In some remarks upon the deleterious effects of a forced early
 intellectual education, Dr H. remarks that he "was most
 forcibly struck, in reading an account of a class of students who
@@ -673,10 +717,12 @@ ment and development of the intellect which paves the way to
 mental disease, and furnishes tenants for many an early grave."
 At the date of this report an additional wing for females was
 in course of construction.
+
 In the report for 1855 we are informed that the new wing is
 completed, and occupied. The original design is thus finished,
 and the hospital can now accommodate two hundred and fifty
 patients.
+
 Men. Women. Total.
 Patients in the Hospital, Nov. 30, 1851 ... 01 51 115*
 Admitted in course of the year GO 02 128
@@ -694,6 +740,7 @@ hospital too soon after they have been admitted, continues to bo
 an evil which we should be glad to see eradicated. AVe are
 happy to say, however, that the evil appears to be growing less
 from year to year."
+
 Patients admitted since the Hospital was opened . . 1559
 Discharged recovered 031
 Died .  193
@@ -702,7 +749,7 @@ with which the hospital has been visited since its existence, the
 bill of mortality is larger than (that of) some similar institutions."
 * The number assigned to each sex does not correspond with that of the report
 of the preceding year.
-REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE. 277
+
 Basing liis calculation upon the results obtained by the com-
 mission which took the census of the insane and the idiots in
 Massachusetts, in 185-1, Dr Harlow concludes that, in Maine,
@@ -715,6 +762,7 @@ the various Almshouses in the State, many of them caged^and
 chained, because they can be kept a few cents less per week
 than it costs at the hospital/' Where is that other " Maine
 Law ?"
+
 At the New Hampshire Asylum for the Insane, on the 31sfc
 of May, 1853, the number of
 Men. Women. Total.
@@ -725,6 +773,7 @@ Discharged, including deaths ... 67 56* 123
 [Remaining, May 31st, 1S54 ... 77 84 161
 Of those discharged, there were cured 34 29 63
 Died 7 7 14
+
 " During the whole year our household has enjoyed remarkable
 physical health. We have been entirely exempt from epidemics
 of all sorts, and acute disease has been almost unknown. Clean-
@@ -734,22 +783,24 @@ which have occurred, with a single exception, were of those who
 for a long time were considered incurably insane, and who at
 last were literally worn out by the continued and unremitting
 force of their malady.
+
 " Through the whole year our female halls have been full,
 and often crowded, and our male halls at all times crowded/'
 This condition " prevents a proper classification of patients, and
 seriously interferes with all curative measures." Dr Tyler there-
 fore recommends that an additional wing be erected.
+
 " We can in almost no case infallibly pronounce a person
 incurably insane ; certainly the records for the year show the
 recovery of some whose improvement seemed impossible, and
 whose present condition, among their friends, and in perfect
 health and soundness of mind, seems a miracle.
+
 " The house is now lighted with gas, and we not only find its
 use more convenient, comfortable, and cleanly than oil, but its
 * These numbers are quoted from the report. But if 67 men and 56 women
 were discharged, the number remaining would be 75 and 86, instead of /7
 -and 84.
-278 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE
 brilliant light a curative means, in making our previously lialf-
 lighted halls cheerful and pleasant."
 Report for 1855 :
@@ -790,6 +841,7 @@ Whole number 2(30 275 535
 Discharged, including deaths ... 72 74 146
 Of whom there were recovered ... SO
 Died  40
+
 It appears that a large number of the patients at this Asylum
 are employed on the farm, in the garden, and in the workshop.
 Dr Rockwell also encourages them to join in "all amusements
@@ -809,6 +861,7 @@ Died  52
 Whole number of patients since the
 opening of the Asylum  2393
 Discharged, recovered  1127
+
 The unusually large number of deaths during the last year, is
 accounted for, in part, by the prevalence of a severe and fatal
 form of dysenterj', which appeared among the patients in the
@@ -821,6 +874,7 @@ tion of two infirmaries, one for either sex, wherewith, in the event
 of a future similar invasion of disease, the invalid patients can
 be isolated from the others. These apartments have been com-
 menced.
+
 The State Lunatic Hospital of Massachusetts, at Worcester,
 has for several years been greatly, almost unjustifiably crowded
 with inmates. It, its officers, and its patients have at length
@@ -837,6 +891,7 @@ was left " quite full, but not crowded," and it became possible to
 abandon the use of a number of cells and improperly-contrived
 rooms which had long been tenanted by patients.
 Men. Women. Total.
+
 Patients in the Hospital, Dec. 1, 1853 266 254 520
 Admitted in course of the year . . .125 174 299
 Whole number 391 428 819
@@ -844,11 +899,13 @@ Discharged, including deaths . . . 198 210 43S
 Remaining, Nov. 30, 1854 .... 193 1SS 381
 Of those discharged, there were cured 45 77 122
 Died . . . 7 15 19 34
+
 Causes of Death.?Marasmus 5 ; consumption 4 ; lung fevei 4,
 2S0 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE.
 maniacal exhaustion 7; apoplexy and palsy 3 ; epilepsy 2 ; ery-
 sipelas 2; suicide, dropsy, chronic dysentery, diarrhoea, conges-
 tive fever, asthma, and jaundice, 1 each.
+
 In connexion with the causes of insanity, Dr Chandler makes
 the following remarks :?" Probably in no part of the world are
 the causes of insanity more numerous and more active than
@@ -865,6 +922,7 @@ adversity. It is only in a sound body that the manifestations of
 the mind are sane and entirely healthy. As a people, we cannot
 boast of the highest standard of physical health, although we may
 of general intelligence, enterprise, and hard work."
+
 In the course of the year 1855, very important improvements
 were made in this establishment. Not the least of these was
 the introduction of the ajiparatus for heating by steam, and that
@@ -881,6 +939,7 @@ been so said as an excuse to make it still, better?it lias always
 afforded, and does now, with all the progress made in others, a
 residence as comfortable and as cheering, and as healthful to the
 patient, as any similar institution in this country."
+
 In this expression we believe Dr Chandler is mainly correct.
 The only exception suggested relates to the hygienic condition of
 the building. It can hardly be assumed that, with its compa-
@@ -896,6 +955,7 @@ REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE. 2S1
 hospital are well aware that the picture was a sketch of the shady
 side alone, and that another, drawn from the sunny side, might
 be made as attractive as the first was repulsive.
+
 From its earliest years we have been a not unfrequent visitor
 to this hospital, and in this place we feel bound to acknowledge
 our belief, that from its origin, it has been not only well, but very
@@ -909,14 +969,17 @@ that his restoration would be wrought for with watchful care,
 with constant assiduity, and with that skill which is the result of
 a good professional knowledge, combined with practical expe-
 rience.
+
 " We avail ourselves of this occasion," write the trustees, in
 their report, " to bear testimony to the fidelity and signal ability
 with which Dr Chandler has discharged the duties of his posi-
 tion, and to the great success which has attended his labours
 during the whole period of his superintendence."
+
 Dr Chandler has resigned his office, and Dr Merrick Bemis,
 for some years one of the assistant physicians of the hospital, has
 been appointed as his successor.
+
 Men. Women. Total.
 Patients in the Hospital Dec. 1,1S51 193 188 381
 Admitted in the course of the year . SG 113 199
@@ -943,6 +1006,7 @@ disease of the bladder 2 ; cancer 2 ; jaundice 2 ; land scuivy ,
 282 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE.
 concussion of the brain 1 ; fright 1 ; rupture 1; pleurisy 1 ;
 chorea 1."
+
 In reference to the salubrity of the hospital, this schedule of
 the mortality among almost five thousand patients, in the
 course of a period but little less than twenty-three years, is well
@@ -953,8 +1017,10 @@ exemption from fatal epidemics, from severe endemic fevers, and
 from other acute diseases, to which it bears record, will find but
 few parallels in any other institution of the kind in any quarter
 of the globe.
+
 Under the table of "Causes," we find the following re-
 marks :?
+
 " Spiritualism of the present day is of the last (moral) class of
 causes. This singular mental phenomenon has for some years
 engaged a part of the minds in this vicinity, and some few cases
@@ -972,6 +1038,7 @@ ideas of this or the next world, that were not then, or had not
 previously been, in the mind of some one present. It may be a
 new faculty of the mind, but its field of operation lies this side
 of the grave."
+
 In regard to moral treatment, Dr Chandler writes as follows :
 ?" We recognise the principle of giving the largest liberty, and
 the greatest freedom from restraint, in each case, consistent with
@@ -987,16 +1054,17 @@ bar soap, for five or six years. He has gathered the materials,
 made and distributed, and attended to the economical use of it.
 No one can make better soap than he. Two have made our
 baskets for years, and have supplied themselves, in part, with
-REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE. 283
 clothing. One female has made pantaloons and vests to supply
 the demand in our family. The females make the shirts, and
 knit the stockings ; they wash and mend; tliey cook, and they
 help about all our domestic affairs  Whip-lash braiding
 . . . is the best employment I can think of to introduce among
 our patients in-doors."
+
 The Report for the fiscal year ending with the month of No-
 vember, 1852, is the latest which we have seen from the Boston
 Lunatic Asylum :?
+
 Men. Women. Total.
 Patients at the beginning of the year . 100 141 211
 Admitted in course of the year ... 11 11 52
@@ -1020,6 +1088,7 @@ passing through the halls and bedrooms  The most un-
 promising cases speedily began to amend, and at the time when
 the disease usually raged the most fiercely, not a case was under
 treatment."
+
 The Report for 1851, from this institution, contained a brief
 but interesting account of the case of an Irish boy, among the
 patients. This account was, in whole or in part, transferred to
@@ -1027,6 +1096,7 @@ our notices. The Report before us states that the boy has left
 the institution "giving promise of future usefulness."
 New York City Lunatic Asylum, on Black well's Island :?
 Men. "Women. Total.
+
 Number of patients on the 1st of Ja-
 nuary, 1S51  -32 310 512
 Admitted in course of the year . . .221 2(32 186
@@ -1039,6 +1109,7 @@ Died  190
 Among the cases cured, there were four of delirium tremens.
 Of the cases admitted, nine were improper subjects for the insti-
 tution.
+
 Causes of Death,?Cholera, 83 ; consumption, 34 ; paralysis
 gendrale, 19; typhomania, 9 ; " debilitas," 9 ; epilepsy, 8 ;
 congestion of brain, 7 ; dysentery, 3 ; chronic diarrhoea, 3 ; old
@@ -1046,6 +1117,7 @@ age, 2; typhus fever, pneumonia, erysipelas, hydrocephalus,
 albuminuria, suicide by suspension, injuries of head, injuries
 from fall, " submersion/' peritonitis, gastroscirrhus, pericarditis,
 ascites, 1 each.
+
 Dr Ranney gives the following account of the cholera, by
 which, as will have been perceived, nearly one-half of the morta-
 lity was occasioned :?
@@ -1069,6 +1141,7 @@ were from Ireland, 91 from Germany, 21 from England, and 9
 from Scotland; the remainder were from various countries.
 100 were supported by the Commission of Emigration, and all
 these were emigrants of the preceding five years.
+
 " A large proportion of the recent emigrants recover, the
 derangement of mind being generally produced by privations on
 ship-board, and the changes necessarily incident on arriving in a
@@ -1081,8 +1154,8 @@ had been so great as to obliterate from his memory all know-
 ledge of having crossed the ocean, and he fancied himself in his
 fatherland ! He would implore me, in the strongest terms, to
 allow him to go on his journey, as in a few hours he would meet
-REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE. 285
 his father and mother, who were anxiously awaiting his return.
+
 Then a change would come over him, and he would imagine
 that he was detained as a culprit. He would plead his innocence
 with feeling eloquence, and in the most melting terms. These
@@ -1097,6 +1170,7 @@ of his condition. In two months his mind was perfectly
 restored, when he left the asylum, as noted for excessive fat-
 ness as he had jDreviously been for his emaciated and meagre
 appearance."
+
 We rejoice to learn, as we do from the report for 1855, that
 one of the foulest blots which has rested upon the practical
 psychiatry of our country, has at length been effaced. " The
@@ -1104,6 +1178,7 @@ most decided improvement ever made in this asylum," remarks
 Dr Eanney, " has been consummated the past year. I refer to
 the entire removal of prisoners, not only from their immediate
 connexion with the insane, but from the institution.
+
 "From 1826 to 1847, the work of the asylum was performed,
 and the principal charge of its inmates taken by persons trans-
 ferred from the different penal institutions on the island. At
@@ -1127,7 +1202,7 @@ numbers, from the two most prominent political parties of the
 da}-. The change commenced in 1850, when prisoners were re-
 moved from three of the halls for patients, and has gradually
 progressed to its final completion.
-286 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE.
+
 Men. Women. Total.
 Patients in the Asylum Dec. 31, 1854 2-15 310 555
 Admitted in course of the year . . 1G3 20S 371
@@ -1138,12 +1213,14 @@ Of those discharged, there were cured . 200
 Died  100
 The disease of six patients, recorded among the cured, was
 delirium tremens.
+
 Deaths from consumption 29 ; paralysie g^ndrale 18 ; epilepsy
 7 ; chronic diarrhoea 7 ; typhomania (i ; old age o ; congestion
 of brain 5 ; hemiplegia 3 ; anasarca 3 ; inflammation of brain
 2 ; apoplexy 2 ; typhus fever 2 ; hypertrophy of heart 2 ; pneu-
 monia 2 ; bronchitis, pleurisy, hydrothorax, ascites, erysipelas,
 scorbutus, and accidental drowning, 1 each.
+
 So long as the circumstances controlling the population of this
 institution shall continue such as they are at the present time,
 so long must its annual records present a large bill of mortality.
@@ -1160,6 +1237,7 @@ labouring under a combinat ion of two or more of these vultures to
 vitality. There are also other causes, perhaps of minor importance,
 but still of sufficient magnitude to swell the sum of forces tend-
 ing to a fatal issue.
+
 The moral treatment at this institution is gradually becoming
 broader, more systematic, and more effective. Musical concerts,
 or parties, have been held from two to three times in each week.
@@ -1170,11 +1248,11 @@ reading of the Declaration of Independence, the music, and the
 original ode, would compare favourably with the usual ceremonies
 on similar occasions. About three hundred and fifty patients
 joined in the celebration.
+
 " One of the most pleasant and interesting of our amusements
 has been the holding of ' Moot Courts.' Many could directly
 participate in these, either as plaintiff, defendant, counsel, judge,
 or juryman. The minor offences alone were tried by this supreme
-REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE. 287
 court of Black-well's Island. The judge, noted for benevolence
 and wealth, and preferring to pay the damages rather than have
 any one suffer from the uncertainty of the law, gave decisions?
@@ -1185,6 +1263,7 @@ account of the changes in the patients resident, and to such sub-
 jects appertaining to the management of the hospital as are of
 merely local interest. The statistics of those now under review,
 are condensed into the subjoined table :?
+
 Patients on the 1st of January .
 Admitted in course of the year .
 Whole number
@@ -1238,10 +1317,12 @@ W. Tot.
 72175
 23! 54
 9: 34
+
 Previously to the year 1855, some cases of mania ct rpotu were
 received atr this institution ; but we are informed by the report
 for 1850, that such cases are not enumerated in the tabular
 accounts of the insane.
+
 From the report of Dr Stokes, Physician to the Mount
 Hope Institution, near Baltimore, Ave extract the subjoined
 numerical results for 1854 :?
@@ -1258,6 +1339,7 @@ disease, 2 ; epileptic convulsions, 2; puerperal mania, 2 ; ex-
 haustive mania, 3 ; phthisis, 2 ; " gradual senile decline/' 1.
 " Erysipelas and dysentery prevailed to a considerable extent
 during the summer, but in no case did they prove fatal.
+
 * All these figures are given as they are in the report, without an attempt to
 harmonize them. Of men, there were 45 at the beginning of the year, and 54
 admitted ; yet the total is made 98. Of the women, the two items and the aggre-
@@ -1265,9 +1347,9 @@ gate similarly disagree. It is stated, in general, that 41 males and 48 females
 were discharged; yet, immediately afterwards, in giving the details of cures,
 improvement, deaths, &c., the number of males is made 42, and that of females 47-
 NO. VI.?NEW SEMES. U
-288 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE.
 " During the entire year the institution has been rather more
-than comfortably filled/'
+than comfortably filled.
+
 From the remarks upon "premature removals/' we make the
 following extract: " Those practically familiar with the habitudes
 of the insane, and the motives and influences under which they
@@ -1283,6 +1365,7 @@ day, entering with pleasure into the amusements and recreations
 afforded them, or rambling at will in the grounds of the asylum,
 would become unhappy and unmanageable if restored to the
 exciting cause of their malady."
+
 We proceed to the report for the year 1855 :?
 Men. Women. Total.
 Patients on the 1st of January ... 56 91 147
@@ -1292,6 +1375,7 @@ Discharged, including deaths .... 59 61 120
 Remaining, Jan. 1, 1856 ..... 46 76 122
 Of those discharged, there were cured .19 7 26
 Died 7 7 14
+
 Of the patients who were discharged improved, or unimproved,
 forty-six belonged to the district of Columbia, and, being sup-
 ported by the national government, were transferred to the
@@ -1309,6 +1393,7 @@ disorder, and thus increase and prolong the trouble and expense
 of his maintenance, many instances have occurred during the
 past year wherein they have obstinately persisted in their
 insane course."
+
 The following case is related in the observations upon epileptic
 mania: " In a case now under treatment the person, whose
 attacks seldom amount to spasms, or even a distortion of the
@@ -1323,6 +1408,7 @@ violent and gloomy. In the other phase, in a manner normal,
 his character manifests itself under an entirely different aspect,
 exhibiting the capacities of a man in possession of good sense,
 and free from all extravagance."
+
 In four cases, the abuse of opiates is alleged as the cause of
 the mental aberration. " Opium," remarks Dr S., " is much
 more used by females than by males, and there exists abundant
@@ -1335,9 +1421,11 @@ excursions, a saddle-pony, musical reunions, dancing, games, and
 newspapers. In the report for 1844, it is mentioned that the
 anniversaries of the Fourth of July and Christmas are appropri-
 ately observed.
+
 The report by Dr Stribling, of the Western Lunatic Asylum,
 Virginia, extends over two fiscal years :?
 Men. Women. Total.
+
 Patients in the Asylum, Oct. 1, 1S53 . 217 1G0 377
 Admitted in the course of two years . 90 63 153
 Whole number  307 223 530
@@ -1349,6 +1437,7 @@ Whole number of patients admitted
 from July 1, 1836   801 537 1338
 Discharged, cured  302 214 516
 Died  186 109 295
+
 Since the last preceding report the Asylum has been so much
 crowded with patients that 141 applicants were rejected. Hence
 Dr Stribling requests the Board of Directors to " again invoke
@@ -1359,9 +1448,7 @@ upon, it should be placed in that part of the State which is west
 of the Alleghany mountains.
 Dr Stribling has frequently been called from his hospital
 duties, by subpoena, to act as an expert in courts of law. " The
-u 2
-I
-290 REPORTS OF AMERICAN INSTITUTIONS FOR THE INSANE.
+
 Board of Directors, perceiving the evil likely to result therefrom
 to the interests of the asylum, presented the subject, in their
 report for 1843, to the legislature, and asked, 'that this officer
@@ -1377,7 +1464,8 @@ he, in the language of Dr Stribling, " sent his officer with an
 attachment to coerce my attendance. The attachment was not
 executed, only because, under the advice of learned and able
 counsel, I became satisfied that, in this case, at least, ' prudence
-was the better part of valour/ "
+was the better part of valour.
+
 Now, in our humble opinion, Dr Stribling and his Board of
 Directors were wrong in the premises. We think that no super-
 intendent of an institution should be exempt from obedience
@@ -1393,6 +1481,7 @@ mates of the institutions over which they preside.
 From the few statistics of the reports of the State Lunatic
 Asylum of South Carolina, we select the following :?
 1853. IS 55.
+
 Men. Women. Total. > Men. Women. Total.
 Patients at the beginning of the
 year  135   174
@@ -1403,6 +1492,7 @@ Discharged, including deaths  38   G5
 Remaining at the end of the year 91 81 172 8G 85 171
 Discharged cured  22   18
 Died  9   31
+
 In regard to the mortality in 1855, Dr Trezevant says: " We
 have lost 31 patients; 15 of these, from their enfeebled state,
 would have died under any circumstances, but their death was
@@ -1416,6 +1506,7 @@ been equal to about one in three. In the present year the bowel
 affections commenced with the rainy season, continued whilst it
 lasted, and ceased when the earth was no longer saturated with
 moisture."
+
 We have carefully perused the reports before us, and find
 therein but little which comes within the scope of our notices,
 while that little is upon subjects already fully laid before our

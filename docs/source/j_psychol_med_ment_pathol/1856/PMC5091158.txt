@@ -1,9 +1,8 @@
 Contributions to the Chemistry and Histology of the Urine In the Insane
 ========================================================================
 
-488
-/
-BY W. LAUDER LINDSAY, M.D., PERTH.
+:Author: W. Lauder  Lindsay, M.D., PERTH.
+
 The researches, of which the following notes contain the results, _ were
 originally undertaken with a view to study the pathology of sugar in the
 urine of the insane; but they soon merged into the wider general subject of
@@ -29,6 +28,7 @@ a special pathology and etiology, and demanding a special treatment. Fortu-
 nately this doctrine is, in many quarters, now exploded; and we are beginning
 to apply the same means of investigation to the study of mental, as of ordinary
 bodily diseases, viz., rigid scientific analysis.
+
 The afternoted results arc founded on an examination of the urine in nearly
 80 insane patients?all males?labouring under almost every form of mental
 derangement. Dementia was the form of insanity in 45'45 per cent, of the
@@ -53,7 +53,6 @@ well-behaved; the mental phenomena exhibited by them were at the same
 time most varied. Their ages ranged from 16 to 75?the average being 43*05.
 All the urines examined were those passed in the morning before rising, or
 during the night?the urina sanguinis. In considering the variety of condi-
-THE URINE IN THE INSANE. 489
 tions which the urine of the insane presents to us, we must remember the
 great variability of healthy urine from'the simplest causes, such as alterations
 in temperature or the nature of the diet, the liability to the production of
@@ -61,6 +60,7 @@ morbid states by interruption to the functions of the skin and intestines, and
 the lower torpid vitality which so constantly accompanies or characterises
 chronic forms of insanity. Before giving general results, I shall review,
 somewhat in detail, the phenomena observed.
+
 1. Specific, gravity.?In 38*57 per cent, of the cases examined, the specific
 gravity of the uriue was between 1020 and 1025 ; in 28*57 per cent, between
 1025 and 1030; in 17'14 between 1010 and 1015; in 10*00 between 1015
@@ -75,6 +75,7 @@ of acute mania?one, a boy of 16, the other a lad of 22?and in a caae of
 chronic dementia, a man of 57. In all three cases the urine was acid and
 phosphatic; in one of the cases uric acid, and in another epithelium, were
 also present.
+
 2. Colour and smell.?In 46*75 per cent, of the cases, the urine was noted
 as clear; in 16*80 turbid; in 44*15 it possessed a light amber colour; in
 10*38 it was of a dark amber, or brownish red, colour; and in 31*03 it was
@@ -97,7 +98,8 @@ so from an ammoniacal condition which is usually the result of decomposition.
 Indeed, it would appear from recent researches that urine, as secreted by the
 kidneys, is always and normally acid, but that it may be made alkaline by diet
 and medicines, and by disease of the urinary passages and other causes of
-decomposition.*
+decomposition.
+
 4. Sediments.?In the majority of cases there was no appreciable sediment.
 Iu 23*37 per cent., there was a mucous sediment, generally small in amount;
 in 10*38 the sediment was granular and whitish, consisting chiefly of phos-
@@ -106,11 +108,10 @@ rally with one or other of epithelium, mucous corpuscles, uric acid, ana oxalate
 In 9*09 mucus was present in the form of minute floating flocculi. In a few
 cases the sediment consisted chiefly of epithelium and mucus; in one, of uric
 acid; in none, of the common urate of ammonia.
+
 5. Pigments? In 10*38 per cent, of the urines examined, a marked pink or
 * Dr Rees on " Alkaline conditions of the Urine," in "Guy's Hospital Re-
 ports," 1855.
-K K 2
-490 CHEMISTRY AND HISTOLOGY OF
 reddish colour was developed on the addition of nitric acid, subsequent to the
 application of heat, sometimes in the cold. In 5'10 per cent, blue pigment was
 found in the sediment attached to cotton tubes, hairs, &c. This blue colouring
@@ -125,7 +126,8 @@ action of benzoic acid in some eases.f In connexion with this subject, it is
 interesting to note the discovery in the urine, by Dr Hassall, of indigo. The
 presence in urine of the latter substance, or of a pigment similar thereto, has
 lately been investigated by Sieherer, whose results, however, do not appear to
-be decisive as to its nature.^
+be decisive as to its nature.
+
 6. Urea.?In 5 8'21 per cent, of the cases, urea was easily and abundantly de-
 tected. The nitrate of urea produced, on the addition of nitric acid to the concen-
 trated urine rapidly forming, a solid mass generally of a tawny colour, composed
@@ -159,14 +161,15 @@ cases a pinkish or reddish tint was developed on adding the acid. In some
 cases the urea was easily detected after an interval of one or two days: more
 generally, however, it underwent decomposition within a short period after the
 urine was voided.
+
 7. Uric acid.?In 1G'8S per cent, of the whole cases examined, uric acid
 in some of its ordinary crystalline forms occurred, either in the sediment, scum,
 * " The Development of a blue colouring Matter in the Urine of Cholera,"
 "Med. Times and Gazette," May 12, 1855; or in " Histology of the Cholera
 Evacuations in man and the lower animals. "Edin. Med. Journal," March, 1856.
 + " Pharmaceutical Journal," July, 1855.
+
 + " Annalen der Chemie und Pharmacie," April, 1854.
-THE URINE IN THE INSANE. 491
 or as a coating of the sides of the urine jar, or in all these situations. In
 12"98 per cent, of the urines in which uric acid occurred, it was met with in
 the form of lozenges, rhombs, or conglomerate crystalline masses of a yellow
@@ -189,6 +192,7 @@ morphosis. The former varies with the activity of the respiratory or oxidative
 function; it diminishes in the urine in proportion as respiration becomes more
 rapid and free; while the latter, under the same circumstances, becomes
 increased iu amount.
+
 8. Urates.?In only 3 cases did the common urate of ammonia occur, aud
 then but to a small extent. One patient was a case of chronic mania, ait. 42:
 the urine was acid, of specific gravity 1032, and was turbid with urates: the
@@ -205,6 +209,7 @@ yellowish, globular masses, pierced or covered by crystalline spiculse. The
 urine was neutral; specific gravity 1032; and the sediment contained, in
 addition, urate of ammonia and phosphates, iu the form both ot the ordinary
 prisms and enormous plumose crystalline masses.
+
 9. Phosphates.?The urine was found to be pliospliatic on testing by heat
 and nitric acid, or triple phosphates were found in the scum or sediment, in
 12-S5 per cent, of the whole cases examined. Of 33 patients whose urine was
@@ -223,7 +228,6 @@ the results of dipsomania, set. 70. The urine was 1015, alkaline, pale, turbid,
 and contained a copious white sediment, consisting of small prisms and stellaj
 of triple phosphate. In 3 cases enormous crystalline masses?some of them
 resembling the crystals of alum?occurred: they appeared also to be phosphates
-402 CHEMISTRY AND HISTOLOGY OF
 in an unusual crystalline form. All were cases of chronic dementia, the ages
 being respectively 58, 35, and 28. In one case they were associated with
 ordinary prisms of the triple phosphate and with the urates of soda and
@@ -280,7 +284,6 @@ in no one case did the earthy phosphates appear to be excreted in absolute
 excess. This absolute excess of phosphates, it appears^from the paper of Dr.
 Rees already quoted, is comparatively rare: he met with it only in mollifies
 ossium, scrofulous and ricketty children, and a few of the rarer forms of
-THE URINE IN THE INSANE. 493
 dyspepsia. The mere presence of a copious phosphatic sediment in alkaline or
 ammoniacal nrine, is no index of the excretion of an increased quantity of
 earthy salts. It has been supposed that the phosphates in the urine bear a
@@ -331,12 +334,16 @@ we know that phosphate of lime, for instance, is one of the essentials to cell-
 formation in the tissues. It has recently been suggested by a German pliysio-
 * " Cases illustrating tlie Pathology of Mania and Dementia. Medico-
 Chirurgical Transact.," vol. xxxviii., 1855.
+
 t " On the Pathology of the Urine, and the relation which that fluid bears to
 other excretions in mental diseases." " Asylum Journal of Mental Science,
 Oct., 1855.
+
 X Neubauer, " Researches on the quantity of Earthy Phosphates in the Urine."
 "Lancet," April 26, 1856*
+
 49-4 CHEMISTRY AND HISTOLOGY OF
+
 logist,* that the variations in the excretion of phosphate of lime, which depends
 on fluctuations in the metamorphosis of tissue, constitute the chicf, or a chief,
 causc of the differences in the weight of our bodies from day to day. In
@@ -390,9 +397,10 @@ formly. Sometimes they were very abundant, mingled with a stringy, viscid
 mucus": in these cases they were probably due to sputa, accidentally intermixed
 * Dr Beuclie, of Gottingen, " Ueber die Wirkung des Nordser-Bactes, Eine
 Physiologisch-Chemisclie Untersucliung. ^ Giittingen, 1855.
+
 + Bidder and Schmidt, " Der Stoffwechsel, Eine Physiologisch-Chemisclie
 Untersucliung," Mitau and Leipzig. 1852.
-THE URINE IN THE INSANE. 495
+
 with the urine. Like the epithelium scales, they were frequently aggregated in
 masses. They usually exhibited the reactions of pus under acetic acid; some-
 times they were distinctly nucleated, the nucleus being eccentric, and becoming
@@ -420,6 +428,7 @@ The other was a case of chronic dementia, ajt. 41: the urine was 1030, acid
 and pliosphatic: the few slightly altered blood discs, as well as a quantity of
 mucus corpusclcs, appeared to be derived from sputa which had got acci-
 dentally into the urine.
+
 12. Sugar.?111 29'S7 per cent, of the whole urines, sugar, in small quantity,
 and in 5'19 per cent., in large amount, was present, if Tromuers test can be
 relied on, which, however, I very much doubt. The results, though ambiguous
@@ -449,7 +458,6 @@ cases the llocculent, pale grccuisli-bluc precipitate, 011 applying heat, rapidl
 became dark red, and subsided, the supernatant liquid being of a sherry colour;
 or it fell as a dark loam-coloured llocculent mass. In other cases the precipi-
 tate by aqua potassa; was changed to a light red or brownish red by heat, the
-496 CHEMISTRY AND HISTOLOGY OF URINE IN THE INSANE.
 supernatant liquid assuming a sherry colour: sometimes the liquid possessed
 this colour, while the precipitate remained pale or greenish. In a few cases the
 addition of sulphate of copper produced a precipitate [phosphate of copper]
@@ -466,35 +474,45 @@ case, at different periods of. the day, being sometimes nearly altogether absent
 For example, diabetic urine, voided in the morning, contained the merest trace,
 while that passed a few hours after dinner exhibited a considerable amount of
 sugar.
+
 13. Albumen, S,-c.?In not a single case was the urine albuminous. All the
 urines were tested for the presence of metallic salts, without their detection in
 any case, by sulphuretted hydrogen, or hydrosulpliate of ammonia. In a few
 cases fatty matters and vegetable debris were found; but these were evidently
 derived from the food and contained in sputa.
+
 The chief results obtained, and the conclusions to which they point, may
 be shortly tabulated as follows:?
+
 I. In the majority of eases the urines examined were clear, amber
 coloured, and acid ; the specific gravity between 1020 and 1020 ; and
 the urea normal in amount: in other words, they were essentially
 healthy.
+
 II. The triple phosphates formed the most frequent crystalline sediment;
 oxalate of lime and uric acid occurred in nearly an equal number of
 cases: epithelium, and perhaps also sugar, were present in a con-
 siderable proportion of cases.
+
 III. While, in a large proportion of cases the urine was phosphatic, in no
 case was there evidence of an excessive excretion of earthy phos-
 phates from the system.
+
 IY. The phosphates occurred in every form and phase of mental disease,
 and did not appear to bear any definite ratio to the nervous energy
 or the " expenditure of nervous force."
+
 V. No states or conditions of the urine appear to be peculiar to, or
 characteristic of, certain forms or phases of insanity.
+
 VI. In a large proportion of cases in which sediments existed in the urine,
 these were not of a nature incompatible with physical health, or
 necessarily indicative of disease.
+
 YII. Morbid conditions of the urine, when they were found, existed under
 the most opposite circumstances, both in regard to the mental and
 physical state.
+
 VIII. ^ie urine of the insane differs in no essential respect from that of the
 sane; and it undergoes variations from precisely similar causes.
 IX. When peculiarities exist, they are more probably due to the physical

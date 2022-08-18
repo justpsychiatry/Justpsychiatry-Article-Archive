@@ -2,7 +2,8 @@ Psychology of Leibnitz
 =======================
 
 Abt. II.?
-BY PROFESSOR HOPPUS, LL.D.
+:Author: PROFESSOR HOPPUS, LL.D.
+
 The speculative science of the Germans must be regarded as
 dating from Leibnitz. The name of Puffendorf, indeed, is
 generally placed first among those writers who have con-
@@ -12,6 +13,7 @@ was in every sense universal. Our limited space obliges us to
 condense to the utmost as plain an account as we can give of
 the main psychological and metaphysical speculations, sometimes
 vagaries, of this great master-genius.
+
 Gottfried Wilhelm von Leibnitz was born at Leipzig in 1646.
 He was contemporary with Newton, Clarke, Locke, Spinoza,
 Malebranche, and other celebrated men; and he was not eclipsed
@@ -31,7 +33,7 @@ ardently devoted to classical learning; and he afterwards entered
 the University of Leipzig, in which his father was professor of
 i t " Leibnitzii Opera Philosophica qu? extant, omnia." Berlin. (By Professor
 Erdmaun.)
-326 PSYCHOLOGY OF LEIBNITZ.
+
 jurisprudence. Here, though he studied for the law, he applied
 himself intensely to almost every branch of knowledge, but
 especially to mathematics and philosophy; and, in pursuit of
@@ -58,6 +60,7 @@ career may be dated from the time when he was persuaded to
 withdraw from this confraternity by the Baron von Boineburg,
 chancellor of the Elector of Mentz, and whose valuable patronage
 he now obtained.
+
 The amount of Leibnitz's writings is immense; yet throughout
 all his speculative pieces one idea reigns?that of a prima philo-
 sophia, a science of first principles, which is to be the basis of all
@@ -78,7 +81,6 @@ Descartes and Spinoza, however much lie differed from them in
 other respects. He first distinguished himself in 1664, on taking
 his Master's degree, when about eighteen years of age, by his
 inaugural thesis de Pvincipio Individuationis, in which he
-PSYCHOLOGY OF LEIBNITZ. 327
 shows an accurate acquaintance witli certain phases of the scho-
 lastic philosophy, and takes the side of the nominalists in regard
 to the question of universals. He also here claims a real posi-
@@ -107,6 +109,7 @@ the Prince of Neuburg to their elective monarchy; but though
 he brought into the field a phalanx of sixty propositions, bristling
 with axioms rigorously applied, his logic was not strong enough
 to seat the prince on the throne.
+
 Leibnitz was now rapidly rising to honour, and he was made
 a councillor and chancellor of justice to the Elector of Mentz:
 but he still thirsted after knowledge; and his next project was
@@ -125,8 +128,6 @@ Catholic religion; yet this discursive, and sometimes eccentiic
 genius, in a work on German diplomacy, actually propounded a
 * Particularly by Professors De Morgan and Boole,
 t " Sacrosancta Trinitas per nova arguments logica defensa," 1670.
-NO. III.?NEW SERIES. Z
-328 PSYCHOLOGY OF LEIBNITZ.
 scheme for making the pope the head of the Protestant as well
 as the Catholic Church in the west, the German emperor being
 the co-ordinate civil ruler. The idea was that of a general
@@ -154,6 +155,7 @@ was written as early as 1701, in answer to Locke's Essay; but
 Leibnitz did not publish it, on account of Locke's death: " for,"
 (said he in a letter to Remonde) " I cannot bring myself to
 publish refutations of deceased authors."
+
 The fame of Leibnitz during his lifetime was perhaps rarely
 equalled. Even crowned heads did him honour. The German
 Emperor awarded to him a pension of two thousand florins, with
@@ -173,7 +175,7 @@ sciolism (halbheiten) as, alas ! has often happened in the barba-
 rous scholastic Latin, and in French." -j- It was half a century
 * Vid. "Collectanea Etymologica," Dutens, vi. p. 651.
 + " Einleitung zu Lessing's Gedanken."
-PSYCHOLOGY OP LEIBNITZ. 329
+
 later before German assumed the position which it now holds
 among the languages of Europe. Some of Leibnitz's remarks
 show that he himself was not fully aware of its resources and
@@ -185,6 +187,7 @@ Tully. It is less remarkable that his French prose should oc-
 casionally fall into Germanisms; but his French style is not
 wanting in simplicity and force, and it is often marked by a
 great combination of life, point, and beauty.
+
 There has never, that we are aware, been a complete edition
 of Leibnitz's writings. Probably no one has ever waded through
 all the vast heterogeneous matter that has actually seen the
@@ -213,14 +216,14 @@ everything which seemed obscure and difficult. This operation
 he repeated several times, and every time understood more and
 more, till at last almost all was plain, and this "without a
 dictionary."
+
 He also informs us how his master wanted to check his
 ardour, on pretence of regulating his studies, but leally on
 account of his own ignorance; how he read Latin pretty well,
 knew some Greek, and made verses, at twelve years of age.
 Logic seems to have been next attacked, and our author says
 * " CEuvres de Leibnitz, Dutens, v? 331*
-z 2
-330 PSYCHOLOGY OF LEIBNITZ.
+
 that while others were horrified at this study, he was delighted
 with it. He tells us that his
 " Stature was of tlie middle height, and graceful; that his face was
@@ -235,6 +238,7 @@ successively reading, writing, and speaking, and investigating any
 matter to the very bottom : he was neither very sad nor very merry,
 alike moderate in joy and grief, and he more frequently smiled than
 laughed."
+
 Leibnitz died in 1*716, in his seventieth year.
 Ludovici and Hanscius have severally attempted a digest of
 the philosophical opinions of Leibnitz, but neither of their
@@ -267,7 +271,7 @@ the antechamber/' * He praised Descartes' work " De Methodo,"
 and his " Meditationes," as being in the spirit of Plato, with-
 drawing men's minds from sense to thought, usefully reviving
 * Op. ii. p- 263, Dutens.
-PSYCHOLOGY OF LEIBNITZ. 331
+
 the ancient academic scepticism or caution ; but he justly charged
 Descartes with speedily departing from his own principles, and
 quitting doubt for hypothesis. Leibnitz, therefore, aimed at a
@@ -282,6 +286,7 @@ even an outline of a system of philosophy. We are therefore
 compelled to frame to ourselves some order in which best to
 view his opinions, and to exhibit them briefly in their connexion
 and mutual dependence.
+
 It is proper to glance first at his doctrines relating to the
 Nature, Origin, and Certainty of Human Knowledge, as
 these points closely involve the prime psychological and logical
@@ -311,10 +316,10 @@ tions sur l'Essai de M. Locke," "Discours touchant la Method<3
 de la Certitude/' " Nouveaux Essais sur 1 Entendement Humam,
 and elsewhere. All the above, with the exception of the JNou-
 veaux Essais/' are brief pieces.
+
 Leibnitz's theory of knowledge is in its spirit Cartesian, or, as
 lie himself would say, Platonic, as aiming at the a priori method
 rather than that of experience. 1'he fact is, that neither method
-S32 PSYCHOLOGY OF LEIBNITZ.
 should be attempted alone ; they should correct and limit each
 other. Of the two, however, we doubt not that the "high
 a priori road" is the most dizzy and dangerous. It easily led
@@ -340,6 +345,7 @@ truths, in their proper sphere, we only mean that the greatest
 possible caution is necessary in the details. Leibnitz himself,
 with all his genius, was eminently at fault in his appreciation
 of the legitimate scope of the human faculties.
+
 In the outset, however, of this theory of knowledge he is
 more cautious than his predecessor Descartes, who held that
 everything is true which is represented to us with perfectly
@@ -361,7 +367,6 @@ intuitive, or a priori ; it is derived, says Leibnitz, not from the
 * " Unter der Logit, verstehe ich die Kunst den Verstand zu gebrauchen, also
 nicht allein was fiirgestellt zu beurtheilen, sondern aucli was verborgen ist zu
 erfinden."?Schreib. an Wagn.
-PSYCHOLOGY OF LEIBNITZ. 333
 senses, but from the intellect itself. He instances our ideas of
 number, as capable at once of a clear, distinct, and adequate
 (perfect) analysis, and as therefore intuitive.*" He also would
@@ -399,6 +404,7 @@ imperfection of the existing methods of philosophy; and his
 reigning idea, as to this panacea, was the reduction of all our
 knowledge by means of the a priori process, as found in
 mathematics.
+
 It may be well to observe, that our author's general views re-
 specting the nature of " ideas" were perfectly simple, and un-
 tin^ed with any infusion of the ancient idealism, or of its relics
@@ -407,8 +413,8 @@ like Malebranche, or a spiritualistic idealist like Berkeley,X than
 he was an idealist of the Peripatetic school; he distinctly rejected
 * " Meditat. de Cognit."Nouv. Ess."
 ?f Ibid. " Reflections sur Locke."
+
 ? Vid. our account of Berkeley's Psychology, in this Journal, July, 1855.
-334- PSYCHOLOGY OF LEIBNITZ.
 all sorts of images, and all their shadowy resemblances, and he
 pronounced our ideas to be nothing more than certain affections,
 or modifications of our minds. Descartes also had clearly main-
@@ -435,6 +441,7 @@ pass into positive existence. This is the principle of the suffi-
 cient reason ; and it includes the law of fitness or order, the law
 of causation, and of final causes : these are only various expres-
 sions or formulae of the general principle.
+
 Leibnitz describes the two principles in his "Monadologie," first
 published from the original French manuscript by Erdmann, in
 his recent edition of Leibnitz's philosophical writings; the
@@ -455,7 +462,6 @@ the case of {a + b) (a?b) = a~?b?; respecting which kind of
 propositions Aristotle directly taught that equality is identity
 (tv tovtoiq 7] Igotiiq tvuT)](i) ? But while rational truths may be
 reduced to identities, and their denial involves contradiction,
-PSYCHOLOGY OF LEIBNITZ. 335
 facts, or contingent truths belong to the principle of the suffi-
 cient reason. " There is," says our author, " an infinity of move-
 ments and inclinations, present and past, which enter into the
@@ -478,6 +484,7 @@ no doubt involves a contradiction in terms ; for matter means
 extended substance ; but we believe in causation simply because
 we cannot help it, whether this be held to be a " sufficient reason"
 or not.
+
 As to the principles themselves?that which can be reduced
 to identity is true, and cannot be contradicted without absurdity
 ?and everything which happens in the universe of mind or
@@ -502,7 +509,7 @@ reason why it is as it is; but, he added, that the mere will of
 God is often the only sufficient reason, in such a sense, that
 unless the will of God is capable of acting without a predeter-
 * " llecueil de Diverses Pieces."
-336 PSYCHOLOGY OF LEIBNITZ.
+
 mining cause, liis power of choosing would be reduced to mere
 fatalism. Leibnitz replied, that Clarke only granted the principle
 in words, but in reality denied it, and involved the conclusion
@@ -517,6 +524,7 @@ the former being the " order of succession/' and the latter, the
 objectively, of these two mysterious substrata of all our know-
 ledge. His doctrines of monadology and pre-established har-
 mony also incidentally appear in this controversy.
+
 With regard to the relation of the Divine Mind to truth, Leib-
 nitz maintained that all possible truth dwells in the under-
 standing of God, and is, like himself, necessary and eternal;
@@ -532,6 +540,7 @@ necessity includes metaphysics, logic, ethics, and mathematics;
 the sphere of actuality and reality includes physics in all its
 branches. Hence two modes of inquiry; logical deduction on
 the one hand, and experimental induction on the other.
+
 An important point of our author's general theory of know-
 ledge relates to the question of the origin of our ideas. Diffe-
 rent schools are characterized by their respective views on this
@@ -549,7 +558,7 @@ in a former number* " Innate ideas/' and " innate principles,"
 are unfortunate expressions, intended by the school of Descartes
 and by Leibnitz, to mean nothing more than ideas and prin-
 * Yid. "Psychological Journal," January, 1855.
-PSYCHOLOGY OF LEIBNITZ. 337
+
 ciples which are only occasioned by experience, but which really
 emanate from the constitution of the human mind itself. We
 have further explained this subject in the " Psychology of Locke/'
@@ -580,7 +589,8 @@ in a less technical?perhaps, in some respects, a less objection-
 able, phraseology.-f- Lord Shaftesbury, in his " Characteristics,"
 put the question in the right light, when he said: " Is the con-
 stitution of man such, that, sooner or later, certain ideas will
-infallibly, inevitably, necessarily, spring up in him ?"
+infallibly, inevitably, necessarily, spring up in him ?
+
 Leibnitz, however, like the Germans generally, and like some
 of our own countrymen who, without sufficient caution, follow
 in their wake?failed to apprehend the scope of Locke, when
@@ -596,7 +606,6 @@ understanding with ideas of its own operations." J Nor did
 Leibnitz very cleverly mend the aphorism of the schools by
 * Yid. "Psychological Journal," July, 1854.
 + Yid. "Essay," Bk. iv. chap. 11 and 13. I Ibid. Bk. ii. chap. 1.
-338 PSYCHOLOGY OF LEIBNITZ.
 appending to it "nisi ipse intellectus," as though, in any tole-
 rable sense, the understanding could be " in itself." What he
 meant, however, was plain; and Locke better expressed it by-
@@ -643,7 +652,6 @@ of Descartes and Leibnitz. Yet Locke really did admit these
 very principles, in fact, apparently without heeding it, as we
 have shown in our notice of Locke's psychology already alluded
 to. Leibnitz sometimes aj)pears delighted with Locke's state-
-PSYCHOLOGY OF LEIBNITZ. 339
 ments, quoting them at length, or alluding to them, as closely
 approximating in substance to his own views of " innate" truths,
 which he sometimes terms " natural virtualities." " It appears,"
@@ -652,6 +660,7 @@ nothing virtual in us: but we must not take this rigorously."
 Leibnitz again remarks: "I am inclined to believe that, funda-
 mentally, his sentiments on this point are not different from my
 own."
+
 In respect to our idea of God, Leibnitz's views are Cartesian.
 But, here, we must observe that he appears to have fallen into
 a singular contradiction on this subject. He makes Thdophile,
@@ -675,6 +684,7 @@ Author of the universe. We hold that what are distinguished,
 technically, by the Germans, as the " ontological," " cosmoiogical,"
 and " physico-theological" arguments for a Deity,j are, in fine,
 only so many forms of the argument from causation.
+
 Having given some account of the views which maybe found,
 respecting the theory of human knowledge, scattered over various
 parts of Leibnitz's works, we shall now briefly sketch his Mona-
@@ -690,7 +700,6 @@ l'idee innee de Dieu," etc.?"Nouv. Ess. cliapit. i.
 + " Je vous avoue que ces cinq propositions ne sont pas des principes inn?s,
 car je tiens qu'on peut, et qu'on doit les prouver. Ibid, chapit. ii. 15.
 + Yid. Kant's "Kritik." (Rosenkranz, 1838), s. 462, seq.
-340 PSYCHOLOGY OF LEIBNITZ.
 bold and we may say fanciful theory, of which he appeared much
 enamoured, though his followers have disputed respecting the
 meaning of not a few of the dogmas which he lays down ; and
@@ -717,7 +726,8 @@ marches forward through all difficulties, and where to the eye of
 ordinary mortals there seems 110 road or clue to any safe conclu-
 sion, he easily finds one, and pioneers his way like a giant
 striding through forests and over mountains, as readily as other
-men can walk on plain ground. "
+men can walk on plain ground.
+
 The simple, says our philosopher, is that which has no parts?
 therefore no extension, therefore no form, therefore no divisibility.
 Such is each monad; and monads are the true atoms,
@@ -737,8 +747,7 @@ one permanent substance, the Deity, as identified with nature;
 * " De Vera, Methodo Philosophise " Epistola ad Thomasium " Commen-
 tarius de Anhn& Brutorum; " Lettre a Fouclier; "Epistola ad Des Bosses;"
 " De la Nature en elle-meme" Lettre a Bourguet, etc.
-PSYCHOLOGY OF LEIBNITZ.
-34-1
+
 and as mere extension is incapable of action, we must at once
 have"recourse to the agency of God as the immediate source of
 all motion. There must therefore be a force in things. The mere
@@ -782,9 +791,7 @@ were not so, it would argue a defect in the divine resources;
 therefore they are thus infinite."f No two monads can be alike
 in ill resnects, for if they were, they would be identical; they
 must differ in the kind and degree of their inward activity.
-* " De la Nature en elle-meme. Considerations sur la Doctrine d'un Esprit
-universe!," (tot published m ?^sd^e'Xsses ,
-342 PSYCHOLOGY OF LEIBNITZ.
+
 This is Leibnitz's "principium iclentitatis indiscernibilium,"
 which Kant has so ably criticised.* These monads are not
 atoms of quantity (?atomi molis), but of "substance"?"not
@@ -799,6 +806,7 @@ as metaphysical points, substantial forms, true unities, indivisible
 forces, without figure, without parts. Every created monad has
 its own activity always within itself; no other monad can
 originate any changes in it.
+
 There are four sorts of monads. God is the primary monad
 (moncts monadum). Next are finite spirits, including human
 souls, which are distinguished from the monads below them by
@@ -831,10 +839,10 @@ a right to existence according to the perfection which belongs to
 it." ? An infinite number of these monadic universes were pos-
 * Vid. " Reflexion's-begriffe. Kritik der rein. Vernunft."
 f "Acta Erudit." 1698, pp. 434-6.
-PSYCHOLOGY OP LEIBNITZ. 343
 sible, but only one could exist; and the sufficient reason which
 determined the Deity to the choice of the actual one was, that it
 * 106 ?f Leibnit2's theories,-that of
+
 But enough of this ingenious philosophical romance-a snecu-
 lation which seems to have originated verv rrmr-V, ; T ?, P?. ^
 anxiety to penetrate into the nature and all th*** J^nitzs
@@ -851,6 +859,7 @@ expression, " well-founded phenomenon" (phenomdne bien
 fonde) -,l language, this, which would seem much nearer to the
 subsequent German idealism than his reduction of the essence of
 matter to force.
+
 Leibnitz's doctrine of monads involved that of Pre-esta-
 blished HARMONY. ? The monads had no real agency on each
 other, but were mutually isolated and independent. Besides
@@ -874,11 +883,11 @@ universe, either between material things or between them and
 mind. The soul acts precisely as it would do if there were no
 bodies, and the body as it would if there were no souls. Leibnitz
 * "Vid. " Monad." 54. + Ibid, passim.
+
 J '1 Lettre h, M. Dangicourt."
 ? Vid. "Monad.;" "De la Communication des Substances"La Nature en
 elle-meme"Nouveau Systeme de la Nature," etc.
 no. in.?new series. a a
-314 PSYCHOLOGY OF LEIBNITZ.
 employs three hypotheses to account for the apparent agencies
 and harmonies of the universe. Two clocks exactly agree. This
 agreement may be supposed to arise from some reciprocal in-
@@ -918,14 +927,15 @@ in some way the upholder, but the constant actuator of all the
 laws of matter and of mind; the only limit being in the moral
 agency of accountable beings, who are themselves causes, with an
 independent power of doing right and wrong.
+
 Omitting other phases of Leibnitz's doctrine of pre-established
 harmony, we must yield to the temptation of quoting Dr Thomas
 Brown's graphically popular, though somewhat exaggerated
 illustration of the main principle :
+
 " The soul of Leibnitz would, though his body had been annihilated
 at birth, have felt and acted as if with its bodily appendage,?study-
 ing the same works, inventing the same systems, and carrying on,
-PSYCHOLOGY OF LEIBNITZ. 34:5
 with the same warfare of books and epistles, the same long course of
 indefatigable controversy ; and the body of this great philosopher,
 though his soul had been annihilated at birth, would not merely have
@@ -971,8 +981,6 @@ frivolities with which most personages of her rank are content,
 w!?aware of Leibnitz's views on several articles of the "Die-
 * Lecture XXXI.
 + " Dictionnaire Historique et Critique," 1097.
-A A 2
-346 PSYCHOLOGY OF LEIBNITZ.
 tionary," and she desired him to publish on the subject. Hence
 the " Theodicde," of which our account must be very brief. The
 leading idea is, that as this world is the world which God has
@@ -984,6 +992,7 @@ between reason and revelation. There are many things which
 we cannot comprehend; but we may sustain them against ob-
 jections, provided they do not, d. priori, involve logical contra-
 diction, and are based on credible evidence.
+
 In treating of evil, Bayle and Leibnitz set out in opposite
 directions. The former boldly maintains that the world is im-
 perfect, and cannot come from such a being as Christians under-
@@ -1013,13 +1022,13 @@ creature all that is positive and good; but imperfections and
 defects in action come from the original limitation of the crea-
 ture as such/ t Leibnitz maintains fully the freedom of man's
 actions, and that God s foreknowledge does not interfere with it.
+
 By a distinction between the "provisional" and the "absolute"
 will of God, our philosopher thinks he reconciles the permission
 of evil with supreme goodness. He further adds: "We
 must conclude that God wills all good antecedently, and the
 best consequently as an end : he wills physical evil sometimes
 * "Theod." Par. I. IS. f Ibid. 30-33.
-PSYCHOLOGY OF LEIBNITZ. 347
 as a means; but he only wills to permit moral evil on account
 of the sine qua non or hypothetical necessity which allies moral
 evil with optimism (le meilleur) ; therefore the consequent will
@@ -1036,6 +1045,7 @@ doctrines, but agreed really with Bayle. This we hold to be a
 libel wholly without foundation, entirely disproved by the sin-
 cere tone of the "Theodic^e/'and by our author's general charac-
 ter and writings.
+
 For further light on some of the views of our author which
 we have introduced to the reader, we must refer him to the
 letters which passed between him and Dr Clarke, and which
@@ -1056,6 +1066,7 @@ this way ; he especially aimed to diminish the points in contro-
 versy between himself and Locke, and expressly asserted, and
 with justice, that, fundamentally, their differences on some im-
 portant topics were much less than appeared.
+
 We can only touch on a few remaining speculations of our
 indefatigable and prolific genius. It was an old axiom, natura
 non operatur per saltumLeibnitz called this principle the
@@ -1066,7 +1077,6 @@ ruptly. Leibnitz not only applied this law universally to nature
 with Boscovich, he extended it beyond the province of mathematics
 and physics, to mind itself. He proves, by its means, that the
 soul can never wholly cease to think, even in a swoon or in
-348 PSYCHOLOGY OF LEIBNITZ.
 sleep ; and that the souls of brutes cannot be so much unlike those
 of men as is supposed, because there cannot be discontinuity be-
 tween the two. On the same principle, he tells us, there cannot
@@ -1097,6 +1107,7 @@ the apparent difference in the numerical quantities of different
 effects. Laplace has ingeniously shown, by experiment, that we
 ought to consider force as directly proportional to the velocity of
 the moving body.
+
 After all the gigantic labours of the mind of Leibnitz, as seen
 in his speculative writings, which contained so many fertile
 germs of thought, destined to be developed by his successors?
@@ -1113,11 +1124,11 @@ result by somewhat different methods, Newton representing by
 the flow of a point at the extremity of a line, what Leibnitz
 * " On n'aurait pas oser nous (lebiter des notions si creuses," Sieme ?crit de
 Leibnitz.
-PSYCHOLOGY OF LEIBNITZ. 349
 represented by successive increments. But, on this subject, and
 on the relative merits of the two philosophers in regard to their
 respective developments of the method, it is sufficient to refer
 to the brief statement of Professor De Morgan.*
+
 As a metaphysician and moralist, Leibnitz is best represented
 in his " Nouveaux Essais," (in which he criticises Locke,) and in
 his "Theodicde"?works which all should well study who desire to
@@ -1148,7 +1159,8 @@ vstery of the mind's intercourse with the body and the out-
 ward universe, it may safely be affirmed that no theory was
 evermore gratuitous or baseless; and it did not survive Wolf,
 his successor and expounder, who himself much restricted its
-applications# #
+applications
+
 We have already seen that our author's " Optimism" followed
 consecutively from his doctrine of monads, and of pre-established
 harmony. The idea was originally Plato's ; but Leibnitz's theory
@@ -1160,7 +1172,7 @@ of his family from Home. Leibnitz takes up the allegory where
 * "Differential Calculus," pp. 33, 34.
 j. ti -n a +t rlpq Nichtzuunterscheidenden, u. s. w. ; Via. Ampmbolie der
 "KritiMerrein. W (Rose^).
-350 PSYCHOLOGY OF LEIBNITZ.
+
 Yalla leaves it, and makes Theodoras, the high-priest at Dodona,
 ask Jupiter why he had not given another will to Tarquin?
 Jupiter sends the priest to Athens, to consult Minerva, who
@@ -1177,6 +1189,7 @@ of possible to that of actual beings. But what great events does the
 crime of Sextus draw after it?the liberty of Eome?a government
 fertile in civil and military virtues?an empire destined to conquer
 and civilise the earth."
+
 Theodoras returns thanks to Minerva, and acknowledges the
 justice of Jupiter. This is truly Leibnitzian: but, ingenious as it
 may be, we suppose that our readers will think it far enough
@@ -1185,6 +1198,7 @@ possible worlds." We may add, here, that our author's avowed
 theory of moral necessity appears to have been essentially that
 subsequently maintained by the great American metaphysician
 and divine. President Edwards.
+
 Religion, no doubt, compels the conclusion, that whatever the
 Supreme Being does or permits, is done or permitted for the
 wisest possible ends. This is probably the full extent of optimism
@@ -1206,10 +1220,10 @@ ment, this great genius has failed, like all others who have
 attempted the question; for his solution amounts, in reality, to
 a petitio principii. It offers no satisfactory answer to the
 many questions which might be asked as to a possible universe
-PSYCHOLOGY OF LEIBNITZ. 351
 viewed in connexion with a power, a wisdom, and a benevolence
 to which everything-must be regarded as possible, but a logical
 contradiction.
+
 There can be no doubt that, with all his genius, Leibnitz was
 eminently deficient, as compared with Bacon, N^ewton or Locke
 in that practical, inductive (we had almost said English) habit
@@ -1230,15 +1244,18 @@ expectation of accomplishing them. This remark applies to
 his vast scheme of a universal language, to his calculating
 machine, and a variety of dynamical inventions. Bailly says of
 him:
+
 " As daring as Descartes, as subtile as Bayle, perhaps less profound
 than Newton, and less cautious than Locke, but alone universal among
 all these groat men, Leibnitz appears to have embraced the domain of
 reason in all its exi,_ it, and to have contributed the most to diffuse
 that philosophical spx.it which constitutes the glory of the present
-age." +
+age."
+
 W e close with a pas. age not less appropriate, from Mieville.
 The allusion is to the n onument of Leibnitz, at Hanover, in-
 scribed with the words C sa Leibnitzii:
+
 " A pproach this tomb, ana contemplate the man whom it contains.
 Observe the works deposited with him?his writings on theology and
 metaphysics, his letters on toleration, his profound researches on inter-
@@ -1253,8 +1270,6 @@ ledge of the most abstruse subjects. He was thus led into bold specu-
 lations, from the pursuit of which he was sometimes recalled by the
 * Vid. ".Rapport de l'Acad&nie Eoyale des Sciences, hParis," 1706.
 + "Eloge de Leibnitz."
--\ /
-S52 NOTES OF A VISIT TO THE
 admonitory lessons of history, while, at other times, he ventured
 beyond his powers, and allowed the guiding-thread to escape from his
 hold, but proceeded, unconscious of his loss, and bewildered himself in

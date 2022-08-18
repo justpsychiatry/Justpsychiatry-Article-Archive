@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "sygene.auto-correct"
+        "sygene.auto-correct",
+        "ms-azuretools.vscode-azurecognitivesearch"
     ]
 }

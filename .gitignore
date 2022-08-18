@@ -1,4 +1,4 @@
-
+pdf exclude
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks
 
@@ -160,3 +160,4 @@ docs/source/bjpsych_bulletin/Aggression_and_Violent_Behavior_article.pdf
 .gitignore
 docs/source/bjpsych_bulletin/jpmedmentpath268613-0137.pdf
 docs/source/bjpsych_bulletin/Frontal_FAB_Scale.pdf
+docs/source/bjpsych_bulletin/2007.15779.pdf

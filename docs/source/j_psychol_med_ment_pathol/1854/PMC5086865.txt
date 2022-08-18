@@ -2,7 +2,8 @@ On Medico-Legal Evidence In Cases of Insanity
 ==============================================
 
 Delivered before the Medical Society of London.
-By FORBES WINSLOW, M.D., D.C.L.
+:Author: Forbes Winslow, M.D., D.C.L.
+
 I HA YE selected for my third and concluding Lecture a subject
 of great, vast, and of daily increasing magnitude and importance,
 not only if viewed in relation to our position as citizens of the
@@ -32,7 +33,6 @@ nizant to sense. For example: in cases of sudden death from
 supposed poisoning, the toxicologist has certain well-defined
 scientific data to guide him to a right conclusion; he is in pos-
 session of well-recognised tests, which bring him almost uner-
-S96 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
 ringly to a sound and safe deduction; his evidence has reference
 more to an exact, than to a speculative?to a certain, than an
 uncertain science; his province (when in court) is simply to record
@@ -50,6 +50,7 @@ and quicksands which beset his course?no chart to refer to in
 times of difficulty?no compass to guide him in the hour of
 danger?no harbour of refuge into which he can run his fragile
 vessel when the tempest is howling and destruction impending.
+
 As medico-legal witnesses, the obstacles with which we have to
 contend are often of a grave and serious character. We have
 to deal with phenomena, of the essence or intimate nature of
@@ -77,6 +78,7 @@ ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 397
 those " thick-coming fancies," the products?the well-recognised,
 indisputable symptoms of a mind thrown off its healthy balance
 by actual cerebral disease.
+
 There is no possibility of our placing the diseased mental ele-
 ments submitted to our critical examination in a psychological
 crucible or test-tube ; we cannot avail ourselves, in these delicate
@@ -92,6 +94,7 @@ mind, when apparently under a cloud. In the elucidation of
 these points, we are in a great measure left to our unaided
 mental sense?to the uncertain guidance of our own deceptive
 experience, and alas ! often, fallible judgment.
+
 We enter the witness-box, charged, under the solemn sanction
 of an oath, to decide the important questions as to the legal and
 moral responsibility of our fellow-men. In capital cases, we are
@@ -114,8 +117,6 @@ solemn question of life or death, but whether a fellow-citizen is
 in a condition of mind to justify the law in alienating from him
 his civil rights, depriving him of the control of his person and
 affairs, and destroying, by a legal declaration of lunacy, his free
-no. XXVII. e E
-S98 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
 and independent agency. In the first case, it is our imperative
 duty to avert, if possible, actual death?a death of moral igno-
 miny and of physical suffering; in the latter instance, it is left
@@ -126,6 +127,7 @@ rescue a fellow-creature from the scaffold; and, in the latter instance,
 we may, by our evidence, have the not less pleasing gratification
 of shielding him from the expensive, but nevertheless, under pro-
 per circumstances, humane guardianship of the Court of Chancery.
+
 Under circumstances like those I have now cursorily sketched,
 we have, as may readily be conceived, to contend with serious
 impediments. The witness has to encounter the prejudices and
@@ -157,7 +159,6 @@ duty of his connexion with his client, knows, in the discharge of that office,
 but one person in the world?that client, and none other. To save that
 client by all expedient means?to protect that client at all hazards and
 coats to all others, and among others, to himself, is the highest and most
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 399
 himself justified, whilst defending the interests of his client, to
 combat truth by sophistry?to dumb-found, confuse, and entrap
 the witness?dazzle and bewilder the judge?hoodwink the jury,
@@ -166,7 +167,8 @@ prius advocate and practised disputant is so competent to call
 into successful operation, make the "worse appear the better
 reason," pervert the ends of truth, and thus make what ought to
 be revered as the Temple of Justice, and held sacred as the
-Majesty of the Law, a mockery and a jest.*
+Majesty of the Law, a mockery and a jest.
+
 Having referred to the peculiar position of the medico-legal
 witness, I would direct attention briefly to the value?special and
 peculiar value?of the testimony of those who have directed their
@@ -176,6 +178,7 @@ obtained a practical insight into the characteristics of the varied
 phenomena of mental alienation, the habits and peculiarities of
 the insane, and who are therefore peculiarly fitted to give
 evidence in these cases.
+
 Questions of great difficulty and complexity often arise in the
 course of important judicial investigations, involving matters of
 science, upon which the judge, jury, and counsel are incompetent,
@@ -185,6 +188,7 @@ ing, the torment, the destruction, which he may bring upon others. Tv ay,
 separating even the duties of a patriot from those of an advocate, he must
 go on reckless of consequences, if his fate should unhappily be to involve
 his country in confusion !"?(Oct. 3, 1820.)
+
 * " Addresses to a court of justice or a judicial body by a paid advocate,
 although they tend to a practical conclusion, do not fall under the head of
 deliberative oratory. The advice is not given upon the personal security,
@@ -196,6 +200,7 @@ arguments merely pass at their intrinsic value, without deriving any addi-
 tional force from the source from which they proceed."?An Essay on the
 Influence of Authority in Matters of Opinion, by George Cornewall Lewis,
 Esq., p. 132.
+
 Sir James Johnston happened to say that he had no regard for the argu-
 ments of counsel at the bar of the House of Commons, because they were
 paid for speaking. Johnson. " Nay, sir, argument is argument; you can-
@@ -205,8 +210,6 @@ is a beautiful image in Bacon upon the subject: " '1 estimony is like an
 arrow f-hot from a long-bow?the force of it depends on the strength of the
 hand that draws it; argument is like an arrow from a cross-bow, which
 has great force though shot by a child."
-E E 2
-400 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
 judgment. With a view to their elucidation, men of repute,
 termed in France experts, and in Italy periti, who have made
 the matter at issue a special object of study, are called upon for
@@ -244,6 +247,7 @@ sidered in a certain sense, as a witness of authority, inasmuch as his pre-
 vious study and habits of observation give a peculiar weight to his report
 of the phenomenon."?JEssay on Authority in Matters of Opinion, by
 G. Cornewall Lewis, Esq.
+
 t Cicero, in enumerating the circumstances^which give authority to testi-
 mony, places first, virtus, and afterwards, ingenium, opes, at as, for tuna,
 ars, usus, necessitas, and sometimes concursio rerum fortuitarum. With
@@ -251,7 +255,6 @@ regard to the latter, he says, " Sed reliquis quoque rebus, quanquam in iis
 nulla species virtutis est, tamen interdum confirmatur fides, si aut ars
 quBedam adhibetur (magna enim est vis ad persuadendum scientise) aut
 usu3; plerumque enim creditur iis qui experti sunt."?Topica, c. 19.
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 401
 rienced and intelligent minds, why should there exist any neces-
 sity for the establishment, in connexion with the judicature of
 this country, of courts of appeal ? Does not the eminent common
@@ -269,7 +272,8 @@ who have devoted themselves to the study of the diseases of the
 mind, should not be equally competent with the experienced
 mechanist, the practical engineer, the learned jurist, the scientific
 chemist, and the toxicologist, to pronounce ex cathedra on points
-coming strictly within their own peculiar province.*
+coming strictly within their own peculiar province.
+
 Whilst upholding the testimony of able, scientific, and expe-
 rienced men, I would protect myself from the imputation of
 urging a slavish or blind submission to men even of admitted
@@ -297,9 +301,9 @@ certain training of the sight is necessary, analogous to the training of the
 hands and limbs in a mechanical employment or trade requiring bodily
 dexterity."?G-. Cornewall Lewis, On the Marks of Trustworthy Authority,
 in an Essay on the Influence of Authority in Matters of Opinion.
-402 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
 their own judgment until tliey be fully instructed, and not an
-absolute resignation or perpetual captivity."*
+absolute resignation or perpetual captivity.
+
 When a medical man is summoned to record his testimony in a
 court of law, upon a case in which it is important to ascertain the
 degree of sanity that existed at any stated period, he gives his
@@ -336,8 +340,6 @@ in the precise bearing of medico-legal evidence. I have, in
 my time, seen men manifesting great self-assurance and
 unbounded confidence in their own knowledge and saga-
 city, step flippantly and eagerly into the witness-box, only
-* Adv. of Learning, b. I. vol. i. p. 45.
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 403
 to retire sadly mortified. It has been my duty to see some
 melancholy exhibitions of painful professional humiliation, and I
 must admit, that in most cases they have arisen from an actual
@@ -351,11 +353,13 @@ informed and regularly-educated medical man is qualified to give
 evidence in courts of justice upon these matters. This is a sad
 mistake; but, unfortunately, the discovery is rarely made until
 the medical man has recorded his testimony.
+
 The illiberal feeling to which I have adverted, as exhibited
 towards those who, in the discharge of an anxious and solemn
 duty, are occasionally called upon to give evidence in relation to
 insanity, has, on more than one occasion, manifested itself in our
-courts of judicature. x
+courts of judicature.
+
 A few illustrations will suffice. The Lord Chief Justice of
 England, when playfully (I presume) alluding, in the celebrated
 Bainbrigge case, tried at the Stafford Assizes, to the evidence of
@@ -374,11 +378,12 @@ be obliterated from the recollection of the court, Lord Campbell
 added (when analyzing the medical testimony), " We have hady
 during this trial, the evidence of three medical witnesses, and
 I think they might as well have stayed at home, and have
-attended to tlteir 'patients.' *
+attended to tlteir 'patients.' 
+
 In connexion with these discursive sallies?these extra-judicial
 * Taken from a report of the trial, printed for private circulation, from
 tlie skort-liand writer's notes.
-404 ON MEDICC-LEGAL EVIDENCE IN CASES OF INSANITY.
+
 pleasantries (for such I presume they must be considered)?it
 is necessary to associate the subjoined facts :?This remarkable
 and celebrated trial was one of the most important disputed will
@@ -400,7 +405,8 @@ the testator's condition of mind, whether he, when the will was
 executed, was of a healthy, sound, and disposing intellect. Can
 we conceive a more important and relevant question for the
 medical witnesses to decide, and one coming more legitimately
-and strictly within their jurisdiction ?*
+and strictly within their jurisdiction ?
+
 In March, 1.848, the following case occurred :?A woman was
 delivered of a child. On the 10th of December, at the expiration
 of a week, she was seized with a violent attack of puerperal
@@ -420,7 +426,6 @@ on the ground of insanity. Owing to some informality, the case was to be
 tried a second time at Stafford, and two of the former medical witnesses
 were subpoenaed to give evidence; but, by mutual consent, the will was
 declared invalid, and consequently the question did not go to trial.
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 405
 and he was of opinion that she acted under a sudden and
 uncontrollable impulse. The judge took objection to the term
 " sudden/' because the prisoner had deliberately asked for her
@@ -436,6 +441,7 @@ the mind of another, and express an opinion with regard to
 its being in an unsound state, when there was no evidence
 of any alteration of conduct, or any circumstances in the
 case to shoiv alienation of mind ?"
+
 If the act itself was insufficient to establish the insanity of
 the unhappy woman, her prior morbid condition?viz., that of
 puerperal insanity, (a form of mental derangement so generally
@@ -443,7 +449,8 @@ associated with an intense and uncontrollable desire to destroy
 the offspring)?ought to have satisfied a judge fitted to adjudicate
 in these important cases, that the evidence adduced was amply
 sufficient to justify the acquittal of the prisoner. Lord Den-
-man, however, thought otherwise.*
+man, however, thought otherwise.
+
 Leaving this section of the subject, I now proceed to the con-
 * In a case of " wilful fire-raising," tried in Edinburgh some years back,
 the plea of insanity was raised in behalf of the prisoner. The presiding
@@ -467,7 +474,6 @@ diating medical evidence in cases of insanity, and the absurdity of sup-
 posing that a jury, however intelligent, and a judge, however conscientious
 and sagacious, are competent, in questions of this kind, without the aid of
 scientific medical testimony, to arrive at a right conclusion.
-406 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
 sideration of the principal points involved in this inquiry, pre-
 mising that I have, in unison with gentlemen of great eminence,
 of high standing at the bar, as well as with distinguished men
@@ -483,9 +489,11 @@ in cases of complexity, of doubt, difficulty, and obscurity! It
 is with the object of illustrating some of these points, and of
 suggesting a few principles in regard to medico-legal evidence,
 that I bring this matter before the profession.
+
 The occasions upon which medical evidence is required in
 courts of law in reference to questions of insanity, and compe-
 tency to manage the person and property, are as follows:?
+
 1.
 Cases in which the plea of insanity is urged in exte-
 nuation OF CRIME.
@@ -505,6 +513,7 @@ istence OF UNSOUNDNESS OF MIND, AND COMPETENCY OF THE
 PARTY (THE SUBJECT OF INVESTIGATION) TO MANAGE HIS PERSON
 AND PROPERTY.
 5.
+
 Cases in which medical men are called upon to certify
 to TIIE EXISTENCE OF INSANITY, JUSTIFYING AN INTERFERENCE
 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 407
@@ -512,6 +521,7 @@ WITH THE PERSON OF THE LUNATIC, AND DEPRIVING HIM OF HIS
 FREE AGENCY, EITHER FOR THE PURPOSE OF PLACING HIM UNDER
 TREATMENT, OR PROTECTING HIM FROM THE COMMISSION OF ACTS
 OF VIOLENCE TO HIMSELF OR OTHERS.
+
 If we refer to the acknowledged legal text-books upon the
 " Law of Lunacy " if we examine the recorded opinions of all
 the distinguished jurists who have adorned the bench ; if we
@@ -524,10 +534,12 @@ cature in the country, we are obliged to confess that there exist
 no settled, uniform, fixed, or unerring principles of jurispru-
 dence, or legal tests, in regard to questions of criminal or civil
 insanity.
+
 Analyzing with great care the legal dicta of the judges, it
 would appear that the courts of law have, upon different occa-
 sions, admitted the following conditions of mind as evidence of
 insane and legal irresponsibility:?
+
 1.
 An ABSOLUTE DISPOSSESSION, BY DISEASE, OF THE FREE AND
 NATURAL AGENCY OF THE MIND ; PARTIAL INSANITY BEING NO
@@ -545,10 +557,10 @@ AND MAN?IN OTHER WORDS, A KNOWLEDGE OF GOOD AND
 EVIL.
 4.
 A KNOWLEDGE OF RIGHT AND WRONG?LAWFUL OR UNLAWFUL
-??THE PRESENCE OR ABSENCE OF MOTIVE.*
+??THE PRESENCE OR ABSENCE OF MOTIVE.
+
 * The judges will not permit the medical witness to infer tlie existence
 of insanity from tlie character of the act itself, apart from all other
-408 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
 I cite these four points as fairly embodying and truthfully
 representing the leading and fundamental principles of our
 criminal jurisprudence. It is unnecessary for me to remind you
@@ -562,7 +574,7 @@ legal responsibility who have had no appreciable delusion, much
 less one directly associated with and leading to the commission
 of the criminal act. Again, 11 partial insanity" has been held
 as a valid plea. Instances of what are termed "moral" and
-" impulsive insanity/' " transient" and " homicidal monomania/'
+" impulsive insanity/' " transient" and " homicidal monomania
 have escaped the web of the law, and have eluded the judicial
 test. Nevertheless, I have placed before you the recognised
 and admitted legal criteria of insanity in cases of crime, and it
@@ -572,6 +584,7 @@ principles upon which to act in the present advanced state of
 our knowledge of morbid mental phenomena, and in accordance
 with the existing enlightened state of the sciences of psychology
 and jurisprudence.
+
 In considering the first legal test, viz. " an absolute dispos-
 session, by disease, of the free and natural agency of the
 mind"?very little need be said. This condition of mental
@@ -593,7 +606,7 @@ evidence of the existence of insanity, the derangement manifesting itself in
 the character of the act itself. I willingly admit that we should cautiously
 act upon such evidence; but should we not be culpable if we were to set
 it altogether aside ?
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 409
+
 the wisdom of exempting this class from responsibility and
 punishment. In regard to the second point?that of "partial
 insanity"?the law is thus expounded by the judges. In answer
@@ -634,7 +647,7 @@ celebrated " Pleas of the Crown." The line of argument, how-
 ever, adopted by the Advocate-General on these occasions dis-
 pleased highly the medical jurists of France. M. Georget, who
 has expressed his astonishment at the dicta of Lord Hale, says,
-410 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
+
 " This writer (Lord Hale) appears professedly to consider pro-
 perty of higher value than human life! There is, then, no
 excuse for the unfortunate lunatic, who in a paroxysm commits
@@ -647,7 +660,8 @@ these with approbation?at least we do not find that he has
 objected to any of them; all monomaniacs, according to their
 statements, are liable to become criminals, in spite of the 64th
 article of our penal code, and may undergo the penalties recorded
-for atrocious offences/'*
+for atrocious offences
+
 I will not, in this stage of the inquiry, consider whether,
 metaphysically examined, the admission of a " partial" as well as
 a " general" insanity does not vitiate the psychological theory of
@@ -661,6 +675,7 @@ instances that the mind can conceive), the party so clearly and
 manifestly insane should be held responsible to the criminal law
 for his conduct, and be treated as if he were of perfectly rational
 and sane understanding?
+
 Partial insanity no valid excuse?no extenuation for crime!
 Partial insanity no plea?no j ustification in criminal cases! How
 monstrously unphilosophical, how wildly fallacious, how opposed
@@ -678,9 +693,7 @@ affairs, he may still be answerable for his criminal acts, if he possess a mind
 capable of distinguishing right from wrong. Speech of Attorney-General
 Sir Vicary Gibbs, on the Trial of Hellingham for the murder of the Right
 Son. Spencer Perceval.
-(
-J
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 411
+
 repulsive, how abhorrent to every right-thinking, to every
 humane mind, and to every christian and philanthropic heart!
 Apply this judicial, antiquated, and absurd dogma to the
@@ -707,7 +720,8 @@ imperceptible limits, which separate insanity from sanity ? Who
 can number the degrees by which reason declines and falls into
 annihilation? This would be to prescribe limits to that which
 is illimitable, to give rules to folly, to be bewildered with order,
-to be lost with wisdom/'f
+to be lost with wisdom.
+
 The existence of delusion is the next judicial test and legal
 plea referred to. " The true criterion" (says Sir John jNTicholl),
 " the true test of insanity, I take to be absence or presence of
@@ -721,7 +735,7 @@ to him to be a presumption of knowledge, which none but the
 * History of England, by tlie Right Hon. 13. Macaulay, M.P., &c.
 t M. d'Aguesseau, before the Parliament of Paris.
 + Dew v. Clarke.
-412 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
+
 great Creator could himself possess !"* Such being the law, what,
 I ask, is the legal definition of this valuable, this fixed, and infal-
 lible test? Lord Brougham defines a delusion to be, " a belief
@@ -757,12 +771,11 @@ improbabilities, and firmly maintain their truth; nevertheless, who
 would have the boldness to affirm, that he was under a delu-
 sion?! Lord Brougham's definition appears to involve exclusively
 * Regina v. Smith. + Campbell's Philosophy of Rhetoric.
+
 J " False and unfounded opinions have been entertained by entire com-
 munities without question, for ages. Not merely lias this been the case
 with respect to false religions, and legendary accounts of early history,
 interwoven with the religious and patriotic feelings of the people, but even
-I
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 413
 the action of the healthy imagination. If I were bold enough to
 commit myself to a definition of the term delusion, I would
 venture, with submission, to give the following:?A delusion is
@@ -788,6 +801,7 @@ of those competent to give an opinion upon the matter?that
 positive, dangerous, and irresponsible insanity, is often seen un-
 associated with any manifested delusive impression, or appre-
 ciable hallucination.
+
 The legal test that next presents itself for consideration is, the
 presence or absence of a motive for the commission of the crime.*
 Dr Prichard observes, " The act of homicidal insanity is different
@@ -798,16 +812,16 @@ ciate and understand, though they do not sympathize with them.
 ?with respect to facts in the natural sciences, which admitted of being
 verified by easy and simple observation and experiment."?G. C. Lewis's
 JEssay.
+
 * " It must for ever be remembered that with motives merely the legis-
 lator and the magistrate have nothing to do; and that actions and external
 facts, as the ends or objects of motives, are the only legitimately cogni-
 sable subjects of human tribunals. Actus nonfacit veutn ?usi mens sit Yea,
 is a rule of reason and justice not less than of positive law. On the JPi'in-
 ciplcs of Circumstantial Evidence. By "W illiain Wills. 1850.
-NO. XXVII. F F
-414 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
 Jealousy, hatred, revenge, excite some; others are moved by the
 desire of plunder?of getting possession of money or property.
+
 The act of a madman is for the most part without motive." I
 have thus stated Dr Pricliard's view rather in detail, because I
 shall feel it my duty to express an opinion adverse to that which
@@ -845,7 +859,6 @@ and killed him. He related, with great calmness and self-pos-
 session, the particulars of the transaction to the physician of the
 asylum. He said, " The man whom I stabbed richly deserved it.
 He behaved to me with great violence and cruelty ; he degraded
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 415
 ?my nature as a human being ; he tied me down, handcuffed me,
 and confined my hands much higher than my head with a
 leathern thong; he stretched me on the bed of torture; after
@@ -868,7 +881,8 @@ unlocking his garden-door, I seized the opportunity, and plunged
 the knife up to the hilt in his back." He always mentioned this
 circumstance with peculiar triumph, and his countenance, a most
 cunning and malignant one, became highly animated at the
-conclusion of the story.*
+conclusion of the story.
+
 The following case in point excited much interest some years
 back, in Philadelphia. Eighteen years previously to the com-
 mission of the crime, a confectioner of the name of Wood had
@@ -885,11 +899,11 @@ her to leave her father's roof and marry him. She was absent
 only one night, when she returned home, and confessed she was
 a married woman. Her father became violently and passionately
 * Dr Haslam.
-F F 2
-416 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
+
 excited; lie drank a large quantity of rum ; and, under the com-
 bined influence of disappointed ambition, rage, and intoxication,
 he shot his daughter with a pistol. He did not attempt to escape.
+
 When he became sober and free from excitement, he had no
 knowledge of his crime. He was tried for the murder. His
 counsel pleaded insanity, and proved previous mental aberration;
@@ -898,6 +912,7 @@ feelings by his daughter's conduct having produced a real insanity
 preceding the homicide. A verdict of lunacy was recorded. If
 this case had occurred in England, it is questionable whether he
 would have been acquitted.
+
 It has been proposed, that the question of legal responsibility
 should be determined by the fact, whether the party, when he
 committed the offence, knew that he was acting in opposition to
@@ -908,6 +923,7 @@ language of one of the most distinguished and enlightened
 British judges that ever adorned the bench, is, " Was the prisoner
 conscious that he was committing a crime against the laws of
 God and nature ?"*
+
 In considering the value of this test, we are bound to remember
 that there is a class, happily for themselves and for society insigni-
 ficant in a numerical point of view, who repudiate the idea of a
@@ -926,7 +942,7 @@ crime. The plea of insanity is urged in his defence. In ex-
 pounding the law, the judge informs the jury, that the question
 of responsibility in connexion with insanity rests upon the fact
 * Lord Lyndhurst.
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 417
+
 whether the prisoner had at the time a consciousness of his
 having deviated from the law of God. Was he sensible of
 this ? If so, he is to be considered amenable to justice, and
@@ -966,7 +982,7 @@ be guilty of any crime. There was another species of madness,
 in which persons were subject to temporary paroxysms, in which
 they were guilty of acts of extravagance ; this was called lunacy
 * Trial of Bellingliam.
-418 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
+
 If these persons committed a crime when they were not affected
 with the malady, they were, to all intents and purposes, amenable
 to justice. So long as they could distinguish good from evil, so
@@ -985,7 +1001,8 @@ single question was, whether at the time this act was committed,
 he possessed a sufficient degree of understanding to distinguish
 good from evil, right from wrong, and whether murder was a
 crime not only against the laws of God, but the law of his
-country.'"*
+country.
+
 It has been a question with metaphysicians, whether, abstract-
 edly considered, there are conditions or states to which the terms
 "right and wrong" can, with strict philosophical precision, be
@@ -1002,12 +1019,13 @@ by us without an emotion of approbation or disapprobation; and
 all actions, that is to say, all agents that agree in exciting moral
 feelings, which are thus analogous, we class together as virtuous,
 or vicious from this circumstance of felt agreement alone.
+
 * " Tliey could only know one kind of right and wrong; the right is,
 "when you act according to law; and the wrong is, when you break it.
 Distinguishing right from "wrong, meant a knowledge that the act the per-
 son was about to commit was punishable by the law."?Lord Brougham :
 Speech in the House of Lords.
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 419
+
 The similarity of the emotions which we feel in these particular
 cases, is thus all to which we owe the notions or ideas of right
 or wrong, virtue and vice." Dr Brown, in commenting upon this
@@ -1017,6 +1035,7 @@ and relations are not existing parts of objects, or things to be
 added to objects, or taken from them. There is no right or wrong,
 merit or demerit, existing independently of the agents who are
 virtuous or vicious."*
+
 I allude to these generally received metaphysical dicta, not
 because I would be guilty of so gross an absurdity as to deny the
 existence of such principles of action, but because I infer from
@@ -1025,6 +1044,7 @@ it is supposed these conditions are easily appreciable and almost
 tangible states, to which in complex and obscure cases the jurist
 and psychologist might at once appeal for an immediate and
 certain solution of their difficulty.
+
 Before this test can be admitted as a safe standard in questions
 of moral and legal responsibility, it will be necessary to establish
 an infallible rule, by which we may be able to trace accurately
@@ -1047,7 +1067,7 @@ munity denounce infant baptism as " wrong ;" a still more import-
 ant body think it " right." There are many who repudiate the
 hierarchy and priesthood, from a conviction of their anti-scrip.-
 * On tlie Philosophy of the Human Mind. By Dr T. Brown.
-420 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
+
 tural origin, character, and tendency. If we turn to the political
 and scientific world, we find large bodies of intelligent and reflect-
 ing men holding opinions diametrically at variance with each
@@ -1087,7 +1107,6 @@ and evil," "lawful and unlawful." Many a maniac has com-
 mitted a crime of great atrocity, with a full, unfettered, and un-
 clouded consciousness and knowledge of its unlawfulness, its sin-
 fulness, its criminality, and of the legal penalties to which he is,
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 421
 by liis actions, exposing himself. A lunatic has manifested an
 intense and morbid desire for death ; not being suicidally dis-
 posed, he endeavours to effect his purpose by sacrificing the life
@@ -1096,6 +1115,7 @@ law, that he may compel others to do what he has not the courage
 of accomplishing himself. How absurd, cruel, and unjust it
 would be to apply the test of a knowledge of what is lawful or
 unlawful to such a case ?
+
 An intriguing, unruly, vicious lunatic was detected with a
 piece of iron which he had contrived to shape like a dagger, with
 a handle fixed firmly in it. Upon being interfered with, he
@@ -1103,6 +1123,7 @@ became excited, abusive, and violent. He was placed under
 restraint; after uttering the most awful imprecations, he ex-
 claimed to his attendant, " 111 murder you yet; I am a mad-
 man, and they cannot liang me for it !"
+
 When Martin set York Minster on fire, a conversation took
 place among the inmates of a neighbouring lunatic asylum,
 having reference to this general topic of remark and discussion.
@@ -1124,11 +1145,11 @@ decision of his predecessor. As long as able judges differ among
 themselves upon what may be termed first principles of law, it
 will be unreasonable to expect that we should prostrate ourselves
 before the legal test which I have been analyzing.
+
 Dr Mittermaier, a German jurist, maintains that two condi-
 tions are required to constitute that freedom of will which is
 essential to responsibility?viz., a knowledge of good and evil,
 and the facility of choosing between them. The knowledge of
-422 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
 good and evil will require, first, that knowledge of one's self by
 which we recognise our personal identity, and refer our acts to
 ourselves ; secondly, acknowledgment of the act itself?i. e., of its
@@ -1151,6 +1172,7 @@ of insane mind. The true test of irresponsibility should be, not
 whether the party accused was aware of the criminality of his
 actions, but whether he has lost all power of control over his
 actions.
+
 As the plea of insanity is one of the most important that can
 be urged in a court of justice in extenuation of crime, it should
 never be had recourse to except in clear and obvious cases, in
@@ -1169,13 +1191,13 @@ just and legal penalties awarded for the commission of crime.
 The reflecting portion of the public and profession naturally
 place a high value upon the experience, testimony, and judg-
 ment of men whose peculiar studies and opportunities enable
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 423
 them to obtain a practical insight into morbid aberrations of
 mind. If it be found that men of position and ability are dis->
 posed to be lax in the use of this important plea, a reaction will
 inevitably ensue, and cases of this character will be left exclu-
 sively to the adjudication of the judicial tribunals, medical evi-
 dence being entirely ignored in our courts of law.
+
 In forming an opinion of the criminal as well as the civil respon-
 sibility of any case of alleged insanity, it is very essential, with the
 view of our arriving at right results, that we should make a just
@@ -1202,14 +1224,16 @@ their movements, addicted to habits of debauchery, who lead a
 kind of animal life; whose mode of existence appears fully to
 realize Lady Morgan's somewhat illiberal conception of the
 character of the modern Italians?
+
 " Who eat, drink, and sleep. "What then?
 Who sleep, drink, and eat again."
+
 There is a healthy and natural melancholy, and a diseased,
 depression of spirits. There is a species of drunkenness which is
 not insanity, and there is a form of mental derangement solely
 indicated by inveterate and uncontrollable habits of intemperance.
+
 There is a brutality existing irrespectively of lunacy, and
-424 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
 violence of conduct, and cruelty of disposition, clearly the effects
 of a morbid mental condition. There is a natural, and, speaking
 medico-psychologically, a healthy improvidence, impetuosity
@@ -1225,6 +1249,7 @@ alas ! with it a train of heartburnings and bitterness. This
 melancholy temper is poisonous to the happiness, not only of the
 individual, but of all that are brought within the circle of its
 baneful influence."
+
 Beattie's " Minstrel" is described as one of those half-cracked,
 half-witted, sombre, clever, sullen, eccentric, melancholy youths;
 the type of thousands who are daily mixing in society, and whose
@@ -1233,6 +1258,7 @@ founded with insanity, and whose state of mind would certainly,
 by some, be considered "unsound/' were they guilty of any
 overt act of sufficient importance to call public and professional
 attention to their moral and legal responsibility.
+
 " Silent ?when glacl; affectionate, though shy;
 And now his look was most demurely sad,
 And now he laughed aloud, yet none knew why,
@@ -1250,12 +1276,13 @@ as well as a professional duty to discharge; and he is bound, as
 a citizen of the state, as well as a member of an' important and
 ' * Philosophy of the Human ilfind, chap, on "Immediate Emotions."
 Dr T. Browne.
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 425
+
 learned section of society, to protect himself from the possibility
 of being deceived as to the facts of any given case presented to
 him for his opinion. He must not permit his feelings to over-
 power and interfere with the free and unclouded operations of
 his judgment.
+
 Under these circumstances, every possible influence will occa-
 sionally be exercised to induce the witness to adopt an opinion
 favourable to the prisoner. He will perceive the necessity of
@@ -1291,7 +1318,7 @@ these cases are easily simulated. Examples of this character are
 recorded by medical writers. A person has been suddenly roused
 by a frightful dream, and, whilst under its influence, lias been
 known to take away human life. Suicide has been committed
-426 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
+
 "under analogous circumstances. A person, apparently well, has
 gone to bed without manifesting the slightest tendency to self-
 destruction ; he has awoke suddenly and destroyed himself. A
@@ -1303,6 +1330,7 @@ suicide was the result of certain mental impressions conjured up
 in the mind during a dream. Dr Pagan refers to the following
 interesting case, to prove that murder may be committed by a
 person when under the effects of a frightful vision.
+
 Bernard Schedmaizig suddenly woke at midnight; at the
 ?moment he saw a frightful phantom, or what his imagination
 represented as such?a fearful spectre! He twice called out,
@@ -1311,6 +1339,7 @@ phantom was advancing upon him, and having altogether lost
 his self-possession, he raised a hatchet which was beside him, and
 attacked the spectre: it was found that he had murdered his
 wife !
+
 A pedler, who was in the habit of walking about the country
 armed with a sword-stick was awakened one evening, while
 lying asleep on the high road, by a man suddenly seizing him,
@@ -1324,13 +1353,14 @@ waking state. This was strengthened by the opinions of medical
 witnesses. He was, however, found guilty.* The murder, in
 this instance, may have been the result of passion. We have no
 evidence to the contrary.
+
 In criminal cases, should the witness be interrogated as to the
 alleged lunatic's consciousness of right and wrong, or as to his
 knowledge that he was violating the law of God and man at the
 moment when the crime was committed, I would strongly
 suggest that he should, unless the case be one of obvious lunacy,
 * British and Foreign Medical Eeview.
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 427
+
 decline answering the question. The witness may have a clear
 and positive opinion as to the existence of insanity; but how can
 he, in every case, solve the question as to the lunatic's ability to
@@ -1357,6 +1387,7 @@ be inflicted by such a person during a paroxysm of rage, there is
 no acuteness of metaphysical investigation which can trace the
 succession of thoughts, and the impulses by which he is goaded
 for the accomplishment of his purpose."
+
 In many cases the plea of insanity is entirely based upon the
 assumption that the prisoner is " morally insane." It is much
 to be lamented that the term " moral insanity" was ever intro-
@@ -1370,7 +1401,6 @@ used with the view of protecting the criminal from just punish-
 ment, and of shielding vice, extravagance, malignity, debauchery,
 cruelty, crime, and brutality, from the natural emotions of horror
 and disgust with which such actions should be contemplated
-428 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
 by every right-thinking and well-constituted mind. "Moral
 insanity I" I might conceive the judge to exclaim; " I will not
 listen to such an excuse?to such a plea?to such evidence! I
@@ -1392,6 +1422,7 @@ demarcation between those faculties of the understanding that
 reason, judge, compare, reflect, and those that supply motives
 to the reason, and are termed, by metaphysicians, the active
 principles of the mind ?
+
 Viewing the question under review pathologically, I ask
 whether, in cases of insanity which are represented to consist
 in lesions of the will?in ungovernable impetuosity of temper
@@ -1450,13 +1481,12 @@ understanding, able to solve with great rapidity a difficult mathe-
 matical problem; have great capacity for the ordinary business
 of life ; may converse with ease upon points of science, art, and
 philosophy; and astonish the world by the tenacity of his
-NO. XXVII. G G
-430 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
 memory, the vividness of his fancy, the playfulness of his satire,
 the brilliancy of his wit, and the majesty and sublimity of his
 eloquence?all these elevated states of mind are compatible
 with latent delusive ideas and intellectual disorder * Lord
 Brougham makes some pertinent remarks on this subject.
+
 When applying his able powers of philosophical analysis to this
 question, his lordship observes: "We cannot with any correct-
 ness of language speak of general or ' partial' insanity; but we
@@ -1494,7 +1524,7 @@ until he had actually worn away the plaster. _ Jso one could imagine what
 was the cause of this perseverance in so painful and disgusting a habit,
 until one day in the author's presence he confessed that he tasted and
 smelt the most delicious fruit on the walls.?(p. 119.)
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 431
+
 the term, or intellectual disturbance. We repeat, that we cannot
 admit this theory or principle of monomania with irresistible
 desire, and without delirium during the act, because it appears
@@ -1505,7 +1535,8 @@ and is unaccompanied by delirium during the act, what becomes
 then of free-will ? In our minds, the disturbance of the reason
 will always be more comprehensible and conformable to the
 common-sense of mankind than a perversion of the will without
-delirium/'
+delirium.
+
 Having considered this subject pathologically, I would briefly
 analyze it metaphysically. In using the words "mind/' "in-
 tellect," "understanding," we employ abstract terms to denote
@@ -1533,9 +1564,6 @@ separated."* " I suspect/' says Locke, " that this way of speak-
 ing of the faculties has misled many into a confused notion of so
 many distinct agents in us, which had their several provinces, and
 did command, obey, and perform several actions as so many
-* Browne.
-G G 2
-432 ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY.
 distinct beings; which has been no small occasion of wrangling,
 obscurity, and uncertainty, in questions relating to them/' " The
 mind," says another eminent authority, " is formed susceptible
@@ -1576,7 +1604,6 @@ with the spiritualists, that the principle of thought is susceptible
 of actual disease, apart from any abnormal stat6 of the cerebral
 tissue. In all cases of mental derangement, the manifestations
 of the mind, and not the mind itself, are implicated; or, to speak
-ON MEDICO-LEGAL EVIDENCE IN CASES OF INSANITY. 433
 with a strict regard to the principles of cerebral pathology, the
 physical media, or different portions of nervous matter through
 which the intellect is developed, are diseased, and, as a necessary
@@ -1598,4 +1625,5 @@ always in recollection, that in all phases and degrees of insanity,
 whatever form it may assume, one and the same essence is
 involved in the disturbance?that all are, strictly speaking,
 Affections of the Mind.
+
 {To be concluded in our next Number.)

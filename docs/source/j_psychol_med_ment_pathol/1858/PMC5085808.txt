@@ -4,7 +4,7 @@ Psychology of Kant
 494
 Abt. VII.?
 
-BY PROFESSOE HOPPUS.
+:Author: PROFESSOE HOPPUS.
 The works of Kant mark the date of the second period of the
 German philosophy. He was horn at Konigsberg, in 1724 ; and
 here he lived and died, never having travelled more than a few
@@ -35,6 +35,7 @@ mately triumphed, to give way in its turn to the other ever-vary-
 ing systems which have succeeded each other in Germany ; to
 which systems, however, Kant s writings form a clue which is
 wholly indispensable.
+
 Our author was led to his speculations by the account which
 Hume had given of the nature of human knowledge, and more
 especially of the doctrine of causation. Hume maintained that
@@ -45,9 +46,10 @@ constitution. He tells that he soon found that the connexion of
 cause and effect was by no means the only one by which the
 * " Immanuel Kant's sammtliche Werke," lierausgegeben von Iiosenkranz unci
 Schubert. Leipzig.
+
 f Jjewes's "biographical History," iv. 90.
 t " Kritik der reinen Vernunft."
-PSYCHOLOGY OF KANT. 495
+
 understanding represents to itself, ct priori, a necessary connexion
 of things ; but that the whole of metaphysics consists of nothing
 else than such conceptions. He was led in this way to his entire
@@ -61,6 +63,7 @@ entanglements. The " Criticism of Pure Reason," a work of 800
 pages, sadly wants condensation. Kant tried to meet the outcry
 about its obscurity by writing the " Prolegomenain which he
 is certainly more brief, but not much more luminous.
+
 Kant proposes to submit to criticism the powers and limits of
 the human mind. His theory is that our speculative knowledge
 is wholly subjective?of object 01* thing in itself we know
@@ -117,6 +120,7 @@ published his principles of ^Esthetics in nature and art, and of
 Teleology, or the judgment Ave form in regard to the harmonies
 and adaptations of the world of nature, in his " Criticism of
 Judgment."
+
 Agreeably to the above view of the powers of the human mind,
 Kunt regards philosophy, in its immediate relation to the cogni-
 tive or knowing faculty, as Theoretical. The object is here to
@@ -142,10 +146,10 @@ because our experience can never test it, but which we feel it
 would be absurd to deny or doubt. Such a proposition therefore
 expresses an ? priori or " transcendental" truth, so called
 * "Brief an Eeinhold," 1787; vide Reinliold's " Leben," 1825, s. 129.
-PSYCHOLOGY OF KANT. 497
 because it transcends all actual experience. What Kant means by
 calling space the "form of external sense," we shall see in its
 proper place.
+
 In Theoretical Philosophy we have to do with the question,
 " What can we know ?" The " Kritik der reinen Vernunft," and
 the " Prolegomena," are wholly occupied with the answer. Em-
@@ -183,6 +187,7 @@ elements of all our a priori knowledge lie latent and dormant in
 our mental constitution till experience elicits what virtually lurks
 within; just as the occasion which discharges the electric spark
 reveals what before was latent and inert.
+
 * Metaphysics, in the most general sense, means the science of ultimate and
 general principles, either relating to external things or mind. In Aristotelian
 phrase it was: i; 7rpwrjj tyiKoao<pia, the prime philosophy (Aristot. " Metaph."
@@ -190,7 +195,7 @@ lib. i. cap. 1); and. nri<rrr]fitj rov ovroc fj ovrof, the science of being as s
 in the most general sense.?Ibid. lib. iv.
 ?f* Sie ist Erkenntniss a priori, oder aus reinem Verstande und reinar Vernunft.
 ?" ProL" ?1.
-498 PSYCHOLOGY OF KANT.
+
 Mathematical science furnishes brilliant examples of a 'priori
 knowledge, whether we consider the axiomatic truths and the
 definitions on which it rests, or the vast logical deductions which
@@ -219,7 +224,8 @@ is a priori and pure, as no empirical element is contained in
 it, for experience can never teach us either the infinity or the
 eternity of space: but every change has a cause is " impure,"
 because the conception change is wholly derived from experience,
-though the proposition itself is a priori.*
+though the proposition itself is a priori.
+
 Immediately connected with the above distinctions between
 a priori and empirical knowledge, is Kant's distinction of all
 judgments into analytical and synthetical?a distinction which
@@ -237,7 +243,6 @@ and this although even both the subject and the predicate may
 be " impure," or, in other words, wholly empirical. The term
 gold, for instance, expresses a conception entirely framed by our
 * Yide " Kritik der reinen Vernunft," Einleitung, 2te Ausg.?"Prol." ? 1.
-PSYCHOLOGY OF KANT. 499
 experience of nature and the arts; the term yelloiv, and the term
 metal equally stand for what we have become acquainted with
 by experience; and the term "gold" includes them both in its
@@ -266,6 +271,7 @@ without being obliged to think relative weight as between diffe-
 rent bodies: we might have a true notion of a straight line or
 lines, and yet not think of them in reference to an area or
 bounded figure.
+
 But while the two last examples are synthetical, in distinction
 from analytical judgments, they differ inasmuch as that the
 former is a 'posteriori, and the latter a priori. We will repeat
@@ -284,7 +290,7 @@ proof from experience that " two straight lines cannot inclose a
 * Wir werden also im Verfolg unter Erkenntnissen d priori nicht solche ver*
 stehen, die von dieser oder jener, sondern die schlecterdings von aller. Erfahrung
 unabhangig statt finden.?" Yernunft-Kritik," supplem. iv. 2. Bosenkranz.
-500. PSYCHOLOGY OF KANT.
+
 space." Farther, our philosopher holds that not only all geo-
 metrical, but also all arithmetical judgments are synthetical &
 priori, for they add new matter to the subject, and carry with
@@ -314,6 +320,7 @@ cause : here the conception of cause lies out of the conception of
 change or of a mere event; it is the unknown x which the under-
 standing grasps as necessary and universal, but to which neither
 experience nor calculation could ever lead us.
+
 In regard to " some few principles" which belong to mathe-
 matics, Kant somewhat modifies his theory: such are a = a,
 or the whole is equal to itself; and a + b > a, or the whole is
@@ -331,7 +338,7 @@ axe admitted into mathematics: and but for their being so pre-
 ? * By an intuition, Kant understands any act of consciousness which, consists of
 individual object presented as existing in space or time, either to sense or imagi-
 nation.
-PSYCHOLOGY OF KANT. 501
+
 sented, they would be justly regarded as synthetical. He says
 that such propositions are to us analytical only because of
 our sensuous experience?that, for instance, our seeing wholes
@@ -343,6 +350,7 @@ would not necessarily have contained in itself the other term,
 " something greater than a part," in such a way as to appear
 only an explication of that term, and so to make the proposition
 analytical.
+
 We must not omit to say that some have altogether called in
 question or denied the truth of Kant's theory of analytic and
 synthetic judgments, or, as Sir W. Hamilton would term them,
@@ -362,6 +370,7 @@ strictly empirical: but how can any experience tell us that space
 is infinite; yet who does not know this ? We are not, however,
 sure that Kant has not in some of his examples extended his
 theory of synthetic judgments (I priori too far.
+
 On the general distinction between analytical and synthetical
 judgments, Kant grounds his entire theory of speculative or
 theoretical knowledge. Analytical judgments are often needful as
@@ -377,13 +386,12 @@ footed." We learn the fact from experience, and we then make
 a synthesis (combination) of the predicate and subject. But
 though we thus generalize, we are prepared to suppose that fur-
 ther experience might possibly show exceptions to the rule.
-* " M^moire sur la Philosophic Allcmande," 1845.
-502 PSYCHOLOGY OF KANT.
 Not so in synthetic judgments a 'priori; for in these we annex
 the predicate to the subject with the conviction of their belong-
 ing to each other universally and necessarily: we can never
 imagine the possibility of any exception to the principle that
 every event must have a cause.
+
 All the theoretical sciences contain synthetical judgments a
 priori as principles. The question, therefore, is?how these
 judgments are possible ? in other words, how is pure rational
@@ -406,6 +414,7 @@ the powers and limits of our cognitive faculties?and transcen-'
 dental, because it aims at bringing out the validity and the boun-
 daries of all the knowledge we can have which transcends our
 actual experience.
+
 , Hence our author divides what he terms the main general
 transcendental question (allgemeine transscendentale Hauptfrage)
 into four parts :*?how are pure mathematics possible ??how are
@@ -423,10 +432,7 @@ fundamental to his system. Pure physics are possible also,
 because they contain certain universal and necessary principles.
 Nature is to us only the existence of things as determined by
 general laws, and these laws Kant maintains are to us wholly
-subjective, they are the laws under which alone we can haveintui-
-* Vide "Prol." ? 5.
-PSYCHOLOGY OF KANT. 503
-tions (perceptions) of objects, or conceptions of tliem. He gives
+subjective, they are the laws under which alone we can haveintuitions (perceptions) of objects, or conceptions of tliem. He gives
 as an example of a pure d, priori synthesis in natural philo-
 sophy, substance remains permanent?i.e., amidst all changes of
 phenomena. Metaphysic is possible, just because synthetic
@@ -452,6 +458,7 @@ not with the objects of reason, but with reason itself merely. Yet
 it is not the mere anatomy of our conceptions which belongs to
 empirical psychology, but metaphysics proper which aims at a.
 priori knowledge synthetically.
+
 Prom what has preceded, Kant concludes that there results the
 <c idea of a particular science, which may be called the Criticism
 of Pure Reason," since reason is the faculty which furnishes us
@@ -469,9 +476,8 @@ was not to extend to half the length of the " Kritik der reineri
 ernunft, and would be to him, he says, an amusement rather
 than a labour. Unfortunately it was never published. In the
 meantime, the present " Kritik" is to contain a complete list of
-principles for the construction of such a work,*
-* " Vorrede zur ersten Auflage,'rs. 14, Rosenkranz.
-504) PSYCHOLOGY OF KANT.
+principles for the construction of such a work,
+
 Preliminarily to his division of the subject of his "Kritik," our
 author remarks that there are two sources of human knowledge,
 sense (Sinnlichkeit) and understanding (Ver stand). By sense
@@ -484,6 +490,7 @@ time, sense furnishes us with knowledge which, though manifested
 on occasion of experience, transcends its actual sphere, which is
 always limited to the particular and contingent, never embracing
 the universal and necessary.
+
 We now proceed to Kant's general division of his great work,
 the " Criticism of Pure Reason," which is as follows :?I. Trans-
 cendental Doctrine of Elements (Transscendentale Elementar-
@@ -499,6 +506,7 @@ head we have the two topics: (a) " Transcendental Analytic
 trine of Method (Transscendentale Methodenlehre). This is
 divided into four parts ; namely: the Discipline, the Canon, the
 Architectonic, and the History of Pure Reason.
+
 The first part of the Elementary Doctrine is termed Trans-
 scendental ^Esthetic. The English reader must not be too
 much alarmed at Kant's strange and scholastic phraseology: it
@@ -520,8 +528,7 @@ Understanding), is repeatedly employed, previously, in the lax popular sense.?
 Vide Krit. d. rein. Vera., Einleitung, i. ii. s. 17. 26, 27. Rosenkranz, 1838.
 -f ataOavonai, to perceive ; atadrjai^, perception : hence the ancient distinctions
 aiadtjra, things perceived ; votjra, things thought.
-PSYCHOLOGY OF KANT.
-'505
+
 nothing, though these objective realities do exist. We only
 know their manifestations; that is, we know them only as they
 are to us. When an object produces a sensation in me, that of
@@ -551,6 +558,7 @@ our intuition of it is wholly external. Time and space are not
 real things?they are not relations of things: what, then, are
 they? They belong only to us subjectively: they are, in fact,
 properties of our minds.
+
 Space is not an empirical conception (Begriff),-that is, one
 which is derived from external experiences: for I am always
 obliged to presuppose its existence as the very background of all
@@ -568,7 +576,6 @@ a priori?not conception. Further: Kant argues that our re-'
 presentation of space must be originally intuition?that is, an;
 affair of sense, because we can never get out of any mere concep-
 tion, by its analysis, more than was before contained in it (hence
-506 PSYCHOLOGY OF KANT.
 analytical judgments, as above); and yet, in geometry, the
 science which determines the properties of space, we get proposi-
 tions which go beyond the subject of them, and obtain predicates,
@@ -584,6 +591,7 @@ determined a priori, exist in the human mind ?" Only so far
 as it is native to the mind itself, having its seat only in us the
 subject; only inasmuch as it is our capacity of being affected by
 objects.
+
 From these conceptions which we are obliged to form of
 space, Kant concludes that space is only the " form of external
 sense," or the subjective condition under which alone perception
@@ -614,8 +622,8 @@ enough, surely, that if material objects really exist independently
 of us, as Kant said they did, space must be as much a necessary
 condition of their existence, as it is a necessary condition of
 our perception of the phenomena which belong to them.
+
 We must not omit a curious illustration which occurs in the
-PSYCHOLOGY OF KANT, 507
 " Prolegomena,"* brought forward as a convincing proof of the
 ideality of space as being a mere form of perception ; in other
 words, a mere function of our sensuous faculty, having no true
@@ -663,7 +671,7 @@ intuition a priori. Such is another example: different times are
 ?j- Wahrnehmung?Kant sometimes uses this word as synonymous with An-
 schauung (intuition).?Vide "Prol." ? 10: " Anschauung, d. i. Wahrnehmung
 wirklicher Gegenstande." -
-'508 PSYCHOLOGY OF KANT.
+
 but parts of one and the same time. Again we could not say
 . time is infinite, unless we had the original unlimited representa-
 tion of time in us as a basis. We may here remark, in passing,
@@ -688,6 +696,7 @@ what is time apart from all successions ? It will be seen that
 we here hazard no theory of time : we only start a difficulty?
 perhaps an objection to Kant's statement " that we can very well
 represent to ourselves empty time."
+
 Our author further remarks that space, being the pure form of
 external intuition, can only be the condition of external pheno-
 mena. That is, space is not the condition of thought. Time,
@@ -710,7 +719,7 @@ ever inexplicable. But it is quite another thing to say that our
 consciousness of self is a sensuous, not an intellectual plieno-
 * Des Anschauens unserer selbst, und unsers innern Zustandes.?" Kritik d.
 reinen Vernunft," s. 42. Itosenkranz, 1838.
-PSYCHOLOGY OF KANT. 509
+
 menon: this, however, is what Kant says, and it is a peculiarity
 of his doctrine of Transcendental ^Esthetics. His argument is,
 that the representations of consciousness, in the ego, the con-
@@ -719,6 +728,7 @@ hence, consciousness is wholly an affair of the sensuous faculty.
 On this principle, our consciousness of thoughts is as sensuous as
 our consciousness of sensations, or of the intuitions and percep-
 tions of which sensations are the " matter."
+
 Oar philosopher, before closing his remarkable theory of the
 absolute ideality of time and space, and of the wholly subjective
 character of all that belongs in any way to sense, specially
@@ -740,6 +750,7 @@ a mere illusion if we made it to depend on the objective reality
 of time, which, like space, can only be a form of the human mind,
 which, as a mould, gives its own shape and figure to what is
 applied to it.
+
 The above is Kant's doctrine of perception: let us sum it up.
 What we call objects, are only revelations of them as they appear
 to our sensuous faculty. The real object we know not. What
@@ -757,8 +768,6 @@ they are the forms or modes under which external objects and
 our own mental processes present themselves to us. As our
 knowledge of external objects is thus only phenomenal, not real
 or substantial, so our knowledge of ourselves, our souls or
-NO. XI.?NEW SERIES. L L
-510 PSYCHOLOGY OF KANT.
 minds: our inward consciousness only presents to us tlie me, as
 phenomenon?that is, as it appears, not as it really is. It will be
 seen at once how Kant's idealism of perception differs both from
@@ -777,6 +786,7 @@ own "critical," and "transcendental;") and Fichte was named in
 Germany " the consistent Kant," because he boldly accepted the
 consequences of Kant's denial of all objectivity to time and
 space, and went the whole length of idealism.
+
 No doubt, time and space are, as our author says, conditions,
 the one, of all our psychological phenomena, the other, of all
 the psychological phenomena of sense. Time, to us, underlies
@@ -803,10 +813,9 @@ matter (wood) and the form which the workman gives to it, or as
 a piece of pottery is what it is both from its material and from its
 mould. So our perceptions of things can only be as things are
 exhibited to us, and as our perceptive powers enable us to receive
-* . . . . mit dem mystichen uiid schwarmerischen des Berkeley. . . ?. Proleg.,
-? 13. Anmerk iii.
-PSYCHOLOGY OF KANT. 511
-them. But all this, surely, does not interfere with the objectivity
+* . . . . mit dem mystichen uiid schwarmerischen des Berkeley. . . ?. Proleg.,them. 
+
+But all this, surely, does not interfere with the objectivity
 of time and space. Surely it is not only of our nature to know
 things as in space and time, but it is also of the nature of things,
 if they exist at all, to exist in time and space. If we may say
@@ -837,6 +846,7 @@ she does in pronouncing that there are substances at all; for the
 conception of substance itself is not empirical, but a priori,
 being necessary by a law of our mind to the conception of pro-
 perties and manifestations.
+
 It is evident that, to have been consistent in denying the exter-
 nality of time and space, Kant ought to have denied a material
 world; his entire subjectivity of nature would square very well
@@ -852,8 +862,7 @@ could the destruction of all sentient creatures have on the move-
 ments of the planets ? Kant's admission of realism may safely
 be pronounced to be opposed to the whole spirit of his specu-
 lations.
-L L 2
-512 PSYCHOLOGY OF KANT.
+
 Again, it is a capital error of Kant's system that it makes time
 and space wholly sensuous. No doubt, time and space are the
 a priori conditions of our knowledge?the former, of our know-
@@ -876,6 +885,7 @@ Kant himself expressly denies, and affirms that our notion of
 causality belongs to the understanding. In fact, there is no
 proper distinction between this latter faculty and Kant's " pure
 sensibility."
+
 We actually see limited spaces?we rise, in thought, from this
 sensuous experience to the conception of an infinite, eternal
 space, which renders all our experience of limited extensions pos-
@@ -900,13 +910,13 @@ hands, and yet, under different circumstances, have very different
 notions of the lapse of time; the notion of a long time, with
 weary waiting; the notion of a short time, with absorbing and
 agreeable ideas and emotions?and yet the actual time elapsed
-PSYCHOLOGY OF KANT. 513
 shall be the same ? True, we measure time accurately by numbering
 the visible beats of the pendulum; bat can anything really be more
 intellectual than all our notions of time, even of its briefest
 intervals? Yet Kant makes time as well as space wholly sen-
 suous, though he speaks of them frequently as " conceptions"
 (Begriffe).
+
 More than this: Kant even attaches our consciousness to the
 faculty of sense. We not only take cognizance of external pheno-
 mena as occurring and existing in time; we are also compelled
@@ -947,7 +957,7 @@ sensuous faculty, with his subsequent theory in which he views
 consciousness in relation to the understanding.
 We now proceed to the Second Part of Kant's "Elements;"
 namelv, his Transcendental Logic.
-514 PSYCHOLOGY OF KANT.
+
 " Our knowledge," he says, " is wholly by intuition, and by
 conception. Intuition and conception are both necessary in
 every case in which we can be said to know with the understand-
@@ -981,6 +991,7 @@ blind. It will here be borne in mind, that it is a peculiarity
 of Kant's theory, that we can have no conceptions, whatever,
 but such as have a relation to sensuous objects. Of this more
 hereafter.
+
 Pure logic is strictly formal, relating only to the form of
 thought, and apart from the matter or subject of thought. This
 alone is properly the Science of Logic. By Transcendental Logic,
@@ -993,8 +1004,7 @@ which relates in any way to these objects, must occur in the
 understanding. Now, Transcendental Logic is the pure science
 of these laws in their origin: it is an exposition of the source and
 basis of Universal Logic.
-* ^ ide Kant's "Logik," Einleitung v.
-PSYCHOLOGY OF KANT. 515
+
 Logic, whether general or transcendental, may be divided into
 Analytic and Dialectic. Analytic unfolds the elements of the func-
 tion of the understanding, and comprises the necessary laws of all
@@ -1022,6 +1032,7 @@ beyond experience. Dialectic, transcendentally considered, is a
 criticism of the dialectical illusion which arises from attempting
 to use the analytical elements and principles beyond the objects
 and limits of experience.
+
 I. Transcendental Analytic; under which head are two divi-
 sions?the Analytic of Conceptions, and the Analytic of Prin-
 ciples. This Analytic proposes the analysis of all the a priori
@@ -1032,6 +1043,7 @@ to sense and intuition. All must be strictly elementary, not de-
 duced ; and the enumerations must be complete. One part of
 the inquiry contains all the conceptions; the other, all the prin-
 ciples of pure (or a priori) understanding.
+
 1. The Analytic of Conceptions (Analytik der Begriffe). The,
 analysis of conceptions is not resolving them (as we do complex
 ideas) into their constituents, and so making them clear. This
@@ -1041,7 +1053,6 @@ conceptions as they lie in the understanding itself, until they are
 elicited on occasion of experience. We must remember that the
 understanding is not a faculty of intuition; according to Kant,
 it presents no objects?only sense can do this: but its concep-
-516 PSYCHOLOGY OF KANT.
 tions are such that sense must present objects always according
 to them. All that the understanding can do is to judge by means
 of its conceptions. A judgment is a predication, real or virtual?
@@ -1055,6 +1066,7 @@ ments ; for this conception contains a great many representations
 under it, the very thing which makes it a conception. In this
 way it can relate to objects, as all conceptions must: thus we can
 say, for instance, metal is body, or every metal is a body.
+
 Now, says our philosopher, if we analyse what takes place in
 the actual exercise of the Logical Function of the Understanding
 in Judgments (Propositions), we shall immediately obtain all the
@@ -1071,7 +1083,9 @@ them some others of a psychological nature, merely, rather than
 logical. Now, the functions of thought, in a judgment, says
 Kant, can be brought under four heads, each containing three
 momenta or divisions, as follows:?
+
 TABLE OF JUDGMENTS.
+
 1. Quantity.
 Universal,
 Particular,
@@ -1088,6 +1102,7 @@ Disjunctive.
 Problematical,
 Assertorical,
 Apodictical.
+
 This Table is given as including all possible'judgments. We
 will explain it to the non-logical student, a little more particularly
 than Kant has done. The quantity of a judgment consists in the
@@ -1095,10 +1110,10 @@ greater or less extension of the subject of the proposition?
 namely, that of which something (the predicate) is said: thus, all
 men are fallible, is universal; some men are poets, is particular ;
 this man (Mr. A.) is a sculptor, is singular.
+
 The quality of a judgment consists in the position of the sub-
 ject with regard to the predicate?that is, whether it lies within
 or without the sphere of the predicate: thus, each of the three
-PSYCHOLOGY OF KANT. 517
 above examples are affirmative; and no men are perfect, some
 men are not wise, this man is not an artist, are all negative.
 What Kant singularly terms the infinite (unendlich) judgment, is
@@ -1112,6 +1127,7 @@ Kant's own example, while " the soul is not mortal" is a negative
 judgment, " the soul is non-mortal," though affirmative in form,
 is really limitative, for it restricts the soul to the sphere of beings
 that are not mortal.
+
 The relation of a judgment consists in the way in which the
 terms of it are connected with or subordinated to each other.
 In the categorical judgment, the terms are connected merely as
@@ -1131,6 +1147,7 @@ regard to the existence of the world; all of them together con-
 tain the whole sphere.* To reject any one of these assumptions
 is to adopt one of the rest; and to adopt any one is to reject the
 others.
+
 The modality of a judgment consists merely in the " value of
 the copula." In problematical judgments, a predication is made
 as merely possible ; as, the soul may be immortal: in assertorical,
@@ -1144,9 +1161,9 @@ torically in the second (minor); and in the third proposition,
 which is the conclusion, C is D follows apodictically,?that is,
 * "Kritik der rein. Ver., Elementarlehre," s. 74. Rosenkranz, 1838.
 f "Logik von den Urtkeilen, ? 30.
-518 PSYCHOLOGY OF KANT.
 necessarily; for when once A is B is admitted, it follows that
-C must be D.*
+C must be D.
+
 For the sake of the non-logical and non-metaphysical reader,
 we volunteer two or three examples by way of further illustrating
 Kant's whole doctrine of judgments: all men are mortal is uni-
@@ -1179,12 +1196,14 @@ mediately obtain all the possible categories of thought, or ways in
 which objects can be viewed by the understanding, which by its
 pure conceptions must give law to all our possible experience.
 Hence the categories will exactly correspond with the judgments.
+
 There can be no more and no fewer ways in which the understand-
 ing can take cognizance of its objects. Kant adopts the term
 "categories" from Aristotle, though with an entirely subjective
 * This is a case of the modus ponens of the schoolmen (in which the antecedent
 is admitted). The case of the modus tollens (in which the consequent is denied)
 would, of course, do as well for the illustration.
+
 The logical reader will notice that, according to a strictly formal common logic,
 the distinction of modality, or the matter of propositions (which Kant has intro-
 duced into his Transcendental doctrine,) is extralogical, notwithstanding that
@@ -1192,8 +1211,6 @@ Aristotle adopted it in his logical treatises, along with a vast mass of other e
 logical things. In this he was followed by his successors. The modality of propo-
 sitions was one of the most perplexing and useless disquisitions in which the
 schoolmen engaged. They had a saying, De modali non gustabit asinus.
-r
-PSYCHOLOGY OF KANT. 519
 meaning, his design being merely to exhibit the forms of the
 understanding, or the ways in which objects must, if given at
 all, be given to it. We request our readers carefully to compare
@@ -1201,7 +1218,9 @@ the following Table with that of Judgments, when the correlation
 of the two will be at once evident. The conceptions which it
 contains are indifferently termed " categories," or pure concep-
 tions of the understanding (reine Verstcindesbegriffe).
+
 TABLE OF THE CATEGORIES.
+
 1. Of Quantity.
 Unity,
 Plurality,
@@ -1218,6 +1237,7 @@ Of Community (reciprocity between agent and patient).
 Possibility?Impossibility.
 Existence?N on-existence.
 N ecessity?Contingence.
+
 Our author gives the above as a complete list of all the pure
 conceptions of the understanding. Only by means of these con-
 ceptions can it think any object of sense. All the conceptions
@@ -1231,6 +1251,7 @@ totle's enumeration is of objects and their qualities and relations
 as viewed by the understanding; Kant's is an enumeration of the
 subjective determinations of the understanding itself, in reference
 to possible objects.
+
 The classes of conceptions under quantity and quality are
 termed mathematical; those under relation and modality, dyna-
 mical, as having correlates. The former refer to objects of intui-
@@ -1243,7 +1264,7 @@ one whole is constituted of all its parts. Limitation is only
 reality, joined with negation of the same. Thus, a finite
 * Diese Eintheilung ist aus dem Vermogen zu urtheilen, welches eben so viel ist
 als das Vermogen zu denken. " Kritik," s. 79. Rosenkranz, 1838.
-520 PSYCHOLOGY OF KANT.
+
 right line has a real length, beyond which there is a negation of
 further length?that is, the line is limited. Again, in the general
 category of Relation, we have the relation "which exists between
@@ -1294,10 +1315,11 @@ which you are to think of solely as to its possibility, the conception of its ex
 (Ed. liosenh'anz, 465). If, therefore, Kant means to illustrate the category of
 Modality by this example, he is using for this purpose a theory which he himself
 rejected.
-PSYCHOLOGY OF KANT. 521
+
 positions have at their basis the conception of limitation. We
 have before seen that reality and negation combined amount to
 limitation.
+
 In the Category of Belation, we obviously see the accordance
 of the two first sub-categories with the corresponding logical
 function of judgment. The categorical proposition pronounces
@@ -1322,6 +1344,7 @@ the reciprocity of certain agencies or co-ordinate positions. We
 have before shown how Kant makes the sub-category of reciprocity
 or community arise out of those containing the correlates inhe-
 rence and subsistence, and causality and dependence.
+
 Under the general head of Modality, we must premise that our
 author's problematical judgment is not peculiar: it is identical
 with the hypothetical (conjunctive) or the disjunctive judgment,
@@ -1341,7 +1364,7 @@ fore 0 is D. Here the possibility of C being D, combined with
 the assertion that A is B, gives the necessary conclusion that C
 is D, which follows apodictically from the premises in the ordinary
 way.
-522 PSYCHOLOGY OF KANT.
+
 But bow shall we obtain the opposite of necessity?namely,
 contingency?from impossibility and non-existence combined ?
 We see no way at all (and certainly Kant has indicated none) in
@@ -1363,11 +1386,13 @@ cannot be I) (impossibility); A is not B (non-existence), there-
 fore C may or may not be D (contingency); in this way, con-
 tingency results, in the conclusion?if conclusion it may by
 courtesy be called, where formally there is none?and this result
-arises from the combination of the premises.*
+arises from the combination of the premises.
+
 We must defer, for the present, Kant's further remarkable
 developments of his Categories, and any criticisms we may have
 to offer on them, and on his doctrine of the understanding in
 general.
+
 * The reader who is ever so slightly imbued with logic, hardly needs to be
 reminded, that, in conjunctives, if the antecedent be granted, the consequent is
 inferred (modus ponens); and if the consequent be denied, which is the same thing

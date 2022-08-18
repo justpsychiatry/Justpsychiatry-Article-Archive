@@ -1,14 +1,15 @@
 Statistics Of Insanity
 =======================
 
-154
-BY SIR ALEXANDER MORRISON, M.D., PHYSICIAN TO THE SURREY
+:Author: Sir Alexander Morrison, M.D., PHYSICIAN TO THE SURREY
 COUNTY LUNATIC ASYLUM, ETC.
+
 In a Paper lately laid before the Society for Improving the Condition
 of the Insane, established in 1842, by the late Earl of Shaftesbury, the
 following highly gratifying statement is given by Sir Alexander Mor-
 rison, of the result of treatment in the Public Establishments of which
 he has been Physician during the last thirty years :?
+
 The admissions amounted to ... 6779
 6779
 Of whom were removed by")
@@ -16,39 +17,18 @@ friends or others during C 454
 treatment  )
 Remaining in the establishments 1587
 Leaving to be accounted for ... 4738
-6779
-Of whom were discharged  Uncured  806
-Died  1440
-Recovered ... 2492
+6779 Of whom were discharged  Uncured  806 Died  1440 Recovered ... 2492
 Of the 806 uncured, 173 were either paralytic, epileptic, or idiotic.
-The causes of the disorder assigned in 1428 of the cases recovered
-were as under :?
-Hereditary predisposition existed
-in
-Intemperance
-Pregnancy, child-bearing, abor-
-tion, lactation, &c
-Disappointments, reverses, em-
-barrassments, losses, or priva-
-tions
-Religious excitement
-Grief
-Disappointed affection
-Anxiety, vexation  43
-Terror  39
-Blows on tlie head, falls   23
-Epilepsy  23
-Paralysis   8
-Causes of more rare occurrence 219
-Of the remaining cases for
-which no cause was assigned, the
-disorder had previously occurred
+The causes of the disorder assigned in 1428 of the cases recovered were as under :?
+Hereditary predisposition existed in 
+Intemperance Pregnancy, child-bearing, abortion, lactation, &c
+Disappointments, reverses, embarrassments, losses, or privations
+Religious excitement Grief Disappointed affection Anxiety, vexation  43 Terror  39 Blows on tlie head, falls   23
+Epilepsy  23 Paralysis   8 Causes of more rare occurrence 219
+Of the remaining cases for which no cause was assigned, the disorder had previously occurred
 in 270.
-The causes of death in 1431 cases were as under :
-Paralysis (in general the cause of
-the disorder intemperance) ... 284
-Exhaustion (chiefly after great
-cerebral excitement)  190
+The causes of death in 1431 cases were as under : Paralysis (in general the cause of the disorder intemperance) ... 284
+Exhaustion (chiefly after great cerebral excitement)  190
 Pulmonary consumption   164
 Epilepsy  135
 Diarrhoea   120

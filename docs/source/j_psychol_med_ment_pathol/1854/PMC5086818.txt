@@ -2,7 +2,7 @@ Logic and Psychology
 =====================
 
 Akt. Y.?
- #
+
 Though logic has been cultivated as a science from the time of the
 Greek civilization, and maintained its place in the curriculum of
 learning, when the human mind was making hut little progress in
@@ -11,7 +11,7 @@ can be more vague, as our author complains, than the manner in which
 * Prolegomena Logica : An Inquiry into the Psychological Character of Logical
 Processes. By Henry Longueville Mansel, M. A.,_ Fellow and Tutor of St. John's
 College; Oxford. "Whittaker and Co.
-LOGIC AND PSYCHOLOGY. (55
+
 logic has often been treated, even in recent times. Tlie fact is, that the
 subject has been looked at from so many different points of view, and
 has been so mixed up with matters not strictly belonging to it, that
@@ -21,6 +21,7 @@ satisfactory footing, may be regarded as a benefit to science. Such an
 attempt is the work before us ; and whatever has been the result, we
 can assure our readers that the book is written with no ordinary
 ability for such discussions as it contains.
+
 The author's design is to exhibit more fully the relations existing
 between logic and psychology. The work is not an introduction to
 logic; indeed, it presupposes in its readers some idea of the subject,
@@ -35,6 +36,7 @@ logical point of view. To this failure, our author attributes largely
 the confusion of systems which the very term logic still calls up in the
 minds of those who are in any degree imbued with the literature of the
 subject.
+
 "We have recently passed a statute [at Oxford] enacting that a
 proficiency in logic is to have considerable weight in the distribution of
 honours. But the present state of logical literature is not such that
@@ -46,18 +48,18 @@ Most of these already exercise some indirect influence on our studies
 and examinations, and it is merely the want of good translations that
 saves us from being overwhelmed by an additional mass of incon-
 gruities from Germany."
+
 Mr. Mansel insists, that the only way in which the formal view of
 the science, which has been gradually advancing to perfection since the
 days of Kant, can be rendered thoroughly complete, is by a more
 definite study and appreciation of it in connexion with its undoubted
 psychological basis.
+
 Hence the work before us consists of a series of psychological
 criticisms, mainly limited to logical questions, but many of them,
 nevertheless, of high interest to the student of general psychology;
 for the author has discussed the various points which he has selected,
 with an acuteness and analytical power which must at once rank him
-no. xxv. r
-GG LOGIC AND PSYCHOLOGY.
 with the ablest writers on the subject, whether we follow him or not
 in all his theories and conclusions. It is evident that he has well
 studied the Kantian speculations, and that he has surveyed them with
@@ -75,6 +77,7 @@ the hemisphere of philosophy,?but simply because Kant knew better
 where to stop than either Leibnitz, or Fiehte, or Schelling, or Hegel;
 not to add that the Avhole school which came after him owes to him
 its impulse, far as it deviated from his track.
+
 " The reader who is familiar with Kant's writings will probably
 discern obligations to the Critical philosophy in almost eveiy page,
 even where the language of Kant has been departed from, and the
@@ -88,6 +91,7 @@ rather than to Wolf and Leibnitz ; and who endeavours to combine the
 materials thence obtained with the most valuable results of the Scottish
 philosophy, which owes its rise, like the Kantian, to the scepticism of
 Hume."?Preface.
+
 As compared with Kant's view of logic, our author's (which aims at
 being very strictly formal, and not applied or mixed in any degree)
 would base itself on more limited notions of the provinces of under-
@@ -102,7 +106,6 @@ of the general benefit which he has derived from the writings of ?
 M. Cousin. In the same spirit Mr. Mansel expresses that he is much
 indebted to the writings of Sir William Hamilton, though by no means
 uniformly agreeing in his opinions. In closing the general statements
-LOGIC AND PSYCHOLOGY. 67
 of liis preface, our author, for the sake of clearness, pleads for some
 latitude in affixing meanings to words?we mean the right to.adopt, if
 necessary, new terms, and to put a new interpretation on old ones,
@@ -131,6 +134,7 @@ idealism than of the Berkleian, or the modern German?contending
 only that, in thought, we are conscious, and conscious of something, be
 it what it may. This something is simply to be distinguished from our
 consciousness of it.
+
 But, in thought, there is more- than the above. A being is con-
 ceivable whose successive states of consciousness might leave no trace
 or memory of them behind: he would then bave no knowledge of such
@@ -146,8 +150,6 @@ which has for its immediate object any individual thing, state, or act
 of mind, presented under the condition of separate existence, either in
 space or time, or both. In intuitions, such objects, or quasi objects,
 are immediately related to the conscious mind: in thoughts, the object
-F 2
-G8 LOGIC AND PSYCHOLOGY.
 is mediately related to it through a concept gained by comparison.
 The act of thought and its object are here distinguished, as in the
 v6t}<tiq and voti/ia of the Greeks, the former answering to our term
@@ -171,6 +173,7 @@ in the mind; and such classification is an act of thought; so that
 thought exists whenever the senses present objects to us, in ordinary,
 with our faculties awake and attentive. When I say?That is a tree,
 that is a flower, there is both intuition and thought.
+
 Hence a further distinction : all intuition is direct and presentative
 ?all thought indirect and representative. For in every act of con-
 sciousness, the ultimate object is an individual; and in intuition the
@@ -191,10 +194,10 @@ whether (be the external object what it may in itself) we can be said
 to be conscious of it, in the same sense in which 'we are conscious of a
 certain change in our mental state ? Is my knowledge of this change
 in myself the same kind of knowledge which I have of the supposed
-LOGIC AND PSYCHOLOGY. 69
 cause of that change ? This point appears to us not to be sufficiently
 cleared up in the acute speculations of Sir W. Hamilton, nor in those
 of the author.
+
 Perception (sensitive) is, according to him, synonymous with in-
 tuition of external things?internal intuition relating to mental states
 or acts, as objects taken cognisance of as being in the mind. Yet he
@@ -235,7 +238,6 @@ comparison, and which are not capable themselves of being depicted to
 sense or imagination, though their ultimate objects are individuals, our
 author gives, as a second characteristic of all concepts, and illustrative
 of the first, that they require to be fixed in a representative sign. This
-70 LOGIC AND PSYCHOLOGY.
 is exemplified in Kant's refutation of Leibnitz's principle of identitas
 indiscernibilium, which is applicable, says Mr. Mansel, to concepts, but
 not to objects of intuition (query external?). Well and good, if we
@@ -252,6 +254,7 @@ occasion, all our concepts may be regarded as so far numerically distinct,
 as much as the spacial intuitions of sense, since my concept of triangle
 while I now write is not the same, in point of time, as the concept of
 yesterday, though it may be the same in all other respects.
+
 In pursuing the characteristics of thought, our author holds that
 language is indispensable even to its formation. On this principle
 Condillac denied that brutes have any memory, since they have not
@@ -274,12 +277,12 @@ signs?-yet they must be signs of something, and that something can
 be nothing but ideas or concepts, agreeably to Mr. Mansel's defi-
 nition,. that thought is the " act of knowing or judging by means of
 concepts."
+
 Our author's Eclectic Kantism carries him on to another point
 most important, which is an inquiry into the limits of thought; and
 he decides, with the great German metaphysician, that it is " only
 operative within the field of a possible experience; that is, upon such
 subjects as can be presented in an actual intuition, or represented in an
-LOGIC AND PSYCHOLOGY. 71
 imaginary one." We regard this principle as deserving of the careful
 attention of all who would desire to have just ideas of what true know-
 ledge is, as distinct from vague and indefinable ideas. The concept
@@ -317,13 +320,13 @@ incompatible predicates to the same subject as we should do if we tried
 to think of a triangle that was neither isosceles, nor scalene, nor equi-
 lateral, or one that was all three at once. This would be a logical con-
 tradiction. So far, and so far only, Berkeley was right.
+
 As thought involves the possible application of concepts, as before
 explained, to individuals, either as objects of external or of internal per-
 ception, our author proceeds further to remark that the "possibility
 of any branch of scientific inquiry depends on the psychological ques-
 tion?how many presentative faculties has man? since every such
 faculty may furnish distinct materials for thought." The only objects
-72 LOGIC AND rSYCHOLOGY.
 of science are those which can be in any way presented as objects of
 an immediate intuition, external or internal. Thus, physical science
 presents us with material phenomena; moral science presents the
@@ -331,6 +334,7 @@ inward fact of moral self-approval and remorse on account of an action
 for its own sake; aesthetics is a possible branch of inquiry, because
 we have certain emotions on contemplating the works of nature
 and art.
+
 Our author justly intimates that the psychological distinction which
 he adopts between what, is presented in intuition and what is repre-
 sented in thought (concept), is so far from original in his own pages
@@ -358,6 +362,7 @@ that " it will follow that the idea of a lion is a lion of less strength and
 vivacity; and here arises a question, whether the idea of a lion may
 not tear in pieces and devour the ideas of sheep, oxen, horses, men,
 women, and children."
+
 Mr. Mansel, as may be gathered from what has preceded, entirely
 agrees with Kant in the result of his attempt to disentangle the con-
 fusion-which prevailed, before he wrote, respecting ideas ; and he con-
@@ -367,7 +372,6 @@ author explains it, that the act of thought cannot create its own
 object. Now, we quite agree with Mr. Mansel that thought,1 as
 described by him to be mediate and representative, and requiring to be
 based on an " immediate and presentative fact of consciousness," cannot
-LOGIC AND PSYCHOLOGY. 73
 create its own object. It is impossible for a man born stone blind, for
 instance, to imagine the general concept colour, for he is utterly unable
 to refer it to any individual example, as blue, red, or other. Never-
@@ -399,19 +403,21 @@ former he derived from sensation; and all the space we can actually
 perceive by the senses is finite. The latter he derived from reflection;
 and every duration which we have personally experienced, is finite
 also."
+
 We have always regarded it as an error in the French Eclectic
 school to maintain, as M. Cousin does, that our psychological idea of
 infinity is positive. We may admit, that so far as we can carry our
 idea towards infinity, it is positive: but this does not satisfy the case.
 No assignable magnitude fulfils the condition?what the mind aims at
 is something always greater still.
+
 Among our author's criticisms, is one on the disputed subject of
 logical definition. The scholastic logicians defined by genus and dif-
 ferentia, so that nothing was definable that could not be regarded as
 species (e.g., man is a rational animal). Descartes and Locke, on the
 other hand, rejected this restriction, and maintained that it is only the
 simple idea that cannot be defined.
-74 LOGIC AND PSYCHOLOGY.
+
 " I3otli are right, according1 to their different meanings of definition.
 With the former, it signifies the resolution of a complex general con~
 cepi into the simpler concepts which it comprehends : with the latter,
@@ -434,6 +440,7 @@ distinguish an individual figure of the kind by sight from another
 which had 999 sides ; but, as addressed to the understanding, it is
 sufficient for the demonstration of the mathematical properties of the
 figure."
+
 Mr. Mansel employs the same distinction (which is certainly an
 important one) as a ground of criticizing some of the modes used for
 logical notation. Logic is concerned with thought, and thought, in the
@@ -457,7 +464,6 @@ may exclude each other partially, may be identical, or that one may
 contain the other. An example of the first would be tree and moral-
 being, of the second ?mathematician and linguist, of the third man and
 rational-animal, of the fourth conic-section and ellipse. Now, why
-LOGIC AND PSYCHOLOGY. 75
 may not these relations be illustrated by geometrical figures ? As to
 algebraic symbols, which were adopted by Aristotle himself, whenever
 he employed the first three letters of the Greek alphabet as terms,
@@ -466,6 +472,7 @@ power of an algebraical calculus to express complex propositions, and
 thus to extend the development of Logic, and to give precision to its
 notation, we have a recent example in Professor De Morgan's " Formal
 Logic."
+
 We have dwelt so long on our author's most elementary principles,
 that we have not much space left for tlieir application. He considers
 that the three usual divisions, apprehension (conception), judgment
@@ -482,6 +489,7 @@ objects of thought, and the logical judgment expresses their relation.
 Reasoning is the most complex of the three operations, as in it two con-
 cepts are determined to be, in a certain manner, related to each other,
 through the medium of their mutual relations to a third.
+
 It may have occurred to our logical readers to ask how the author's
 theory of concepts can be made to square with singular propositions,
 having the force of universals, as is commonly allowed b}r logicians, since
@@ -490,6 +498,7 @@ remarks on this part are somewhat far-fetched, and they show that the
 terms of a proposition are not always concepts, in Mr. Mansel's sense
 of the word, as above explained. His reply to the question is as
 follows. If I say?
+
 " Ciesar was the conqueror of Pompey, the immediate object of my
 thought is not Ctesar as an individual existing 2000 years ago, but a
 concept now present in my mmd, comprising certain attubutes which
@@ -501,14 +510,18 @@ objection to the theory that the whole history ot mankind may be
 repeated at recurring intervals, and that the name and actions of Caesar
 may be successively found in various individuals at corresponding
 periods of every cycle."
+
 We confess that this does appear to us very much indeed like
 76 LOGIC AND PSYCHOLOGY.
+
 sacrificing to a theory?like Mahomet going to the mountain, when
 the mountain would not come to Mahomet. It is indeed saying, with
 a singular accommodation, as our author quotes :
+
 "Alter erit turn Tiphys, et altera qua; vehat Argo
 Delectos lieroas; erunt etiam altera bella ;
 Atque iterum ad Trojam magnus mittetur Achilles."
+
 The reason given why Aristotle's limitation of the copula-verb to
 the present tense may he justified, will also appear unsatisfactory to
 many of our logical readers. No doubt, as our author says, thought
@@ -546,9 +559,9 @@ presence of their objects without any logical process. Thus, ego sum is.
 a primitive or psychological judgment, one to which Locke's definition
 will obviously not apply ; for self is so presented in consciousness, that
 to know what we mean by ego, is to recognise the all-pervading sense of
-LOGIC AND PSYCHOLOGY. 77
 our own existence; so that, psychologically, the predicate and the sub-
 ject are here inseparable, both in the order of nature and of time.
+
 Our author thinks that Kant's definition of judgment is, in one
 respect, too narrow?in another, too wide. Kant makes thought and
 judgment the same, and they are both products of the understanding,
@@ -580,6 +593,7 @@ the objects of our intuition (here sensuous objects) are not in them-
 selves as they appear to us; for this implies that Ave have a power of
 comparison which the hypothesis excludes. The author of the Critical
 philosophy here "becomes a dogmatist in negation."
+
 There are some very instructive chapters on " Mathematical, Logical,
 and Psychological Necessity," of which we can only give the briefest
 summary. The principles of geometry are laws relating to the sub-
@@ -591,6 +605,7 @@ faculties. If there exist anywhere a pair of perfectly straight lines,
 they cannot enclose a space. Arithmetic is founded on another internal
 law or condition of our mental constitution?that of time. Mathe-
 78 LOGIC AND PSYCHOLOGY.
+
 matical judgments are synthetical, in the Kantian sense, and are neces-
 sary because thought can only operate in conjunction with matter
 given by intuition, and intuition cannot be emancipated from its own
@@ -621,6 +636,7 @@ this is contingent in itself, but that I am ignorant of the laws which
 determine meteorological phenomena, though the progress of science
 may raise these judgments from the category of contingency to that of
 physical necessity.
+
 Discussions follow on the " matter and form of thought, on positive
 and negative thought, and on logic as related to other mental sciences,"
 namely, grammar, psychology, and metaphysics. The latter term has
@@ -633,7 +649,6 @@ and defines it to be the science of a priori truth, and regards it as
 wholly subjective. Its ancient meaning is thus given by our author:
 '? Metaphysics has, from the earliest days, been distinguished as the
 science of being as being, in opposition to all inquiries into the pheno-
-LOGIC AND PSYCHOLOGY. 79
 mena exhibited by this or that class of objects.* How far such a pro-
 blem is capable of solutionis another question; but the mere propound-
 ing1 of it implies an object totally distinct from that of an inquiry into
@@ -671,17 +686,20 @@ of metaphysical inquiry, God, the world, the mind, correspond to
 Kant's three ideas of pure l-eason; and the object of his critique is to
 show that, in relation to all three, the attainment of a system of
 speculative philosophy is impossible." (p. 276.)
+
 The notes contain some further highly important dissertations,
 especially on the vexed question of liberty and necessity; and, in parti-
 cular, on the arguments alleged for the subjection of the human will to
 the law of physical necessity. The opinions of Mr. John Mill and of
 Sir W. Hamilton are here examined with the author's usual ability
 and candour.
+
 We can only add, that we deem the work, as a whole, to be one cf
 the most important contributions to psychological science that has yet
 * This agrees with Aristotle's account of the First Philosophy: torn' t Trier run)
 ri? i) dewpti to ov. Metaph. iii. 1.
 80 the pilgrimage of thought.
+
 appeared. The style is, for the most part, eminently clear, the
 examples for illustration, generally well-chosen; and the book is well
 adapted accurately to inform all who can and will patiently digest

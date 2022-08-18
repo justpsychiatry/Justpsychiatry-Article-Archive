@@ -1,8 +1,9 @@
 Research Into Tiie Functions of the Brain
 ==========================================
 
-JiY THOMAS LAYCOCK, M.D.,
+:Author: Thomas  Laycock , M.D.,
 Physician to the York Dispensary, <j'C.
+
 We are permitted by the kindness of Mr. Churchill to reprint from
 the last number of the " British and Foreign Medico-Chirurgical
 Review," with the sanction of its distinguished and accomplished
@@ -14,6 +15,7 @@ this department of cerebral physiology. This essay is highly sug-
 gestive. We need not observe that if Dr Lay cock is able fully to
 substantiate his position, a new light will be thrown upon this de-
 partment of Physiological Science.—[Ed.]
+
 It is now sonic years sincc I extended to "t lie cerebrum the doctrines current
 as to the reflex function of the spinal cord. During the interval which has
 elapsed, cerebral physiology has sufficiently advanced to warrant an attempt at
@@ -24,7 +26,6 @@ nervous system, as they were presented to my notice nearly twenty years ago
 in the wards of the York County Hospital (of which 1 was for some time tli
 resident medical officer), the imperfect nature of the views then current as
 cerebral physiology, and their inadequacy to explain or elucidate function
-RESEARCHES INTO THE FUNCTIONS OF THE BRAIN. 513
 diseases of the brain, were continually forccd upon me. Physiology afforded
 hardly any clue to the pathology of mental derangement in any of its forms
 of reverie and somnambulism, whether natural or artificial, or of those varied
@@ -69,6 +70,7 @@ to Dr Carpenter's very lucid demonstration of this part of the doctrine in the
 fourth edition of his "Principles of Human Physiology," §§ S05—S45, and his
 admirable applications of it to various forms of cerebral disorder, whether
 arising spontaneously or induced artificially.
+
 On one point, however, I am obliged to differ from Dr Carpenter—namely,
 that there is an " essential distinction, both in their anatomical and physiological
 iclations, between the sensory ganglia aud the cerebrum, or hemispheric
@@ -81,17 +83,18 @@ fundamental psychological phenomenon of reflex action, the intelligent respon-
 uence to stimuli. So that the laws of reflex action apply to every form of
 organism, however lowly, and whether it be a plant or an animal; to every
 kind of tissue, however simple, and whether it be merely a congeries of cells,
-5J4 RESEARCHES INTO THE FUNCTIONS OF THE BRAIN.
 or be so highly developed and endowed as the vesicular neurine of the human
 hemispherical ganglia. Indeed, I need only repeat here what I have previously
 stated.
+
 " The doctrine of a molecular organization within organized structures, such as
 that it shall correspond and be appropriate to given stimuli received by appropriate
 organs, necessarily constitutes the basis of all inquiries into the laws of action in
 those structures. And there can be no doubt, such is tlio magnificent uniformity
 in the infinite diversity of creation, that the laws of action of the agent and reagent
 in vital phenomena are as definite as those operating 011 chemical phenomena, could
-we but effect a sufficiently minute analysis and induction."*
+we but effect a sufficiently minute analysis and induction."
+
 It is only, in short, on the deductions from this all-comprehcnsivc generali-
 zation that the basis for a practical and sufficient system of human psychology
 can be laid.f It may be stated, then, as an admissible general proposition,
@@ -114,6 +117,7 @@ ness; 011 the other, unconscious yet intelligent action. These arc the
 psychological phenomena. As the common medium of both, we have the
 cerebrum, the functions of which, in relation to these phenomena, form, there-
 fore, the physiological problems to be investigated.
+
 As a preliminary step, some statement of what is meant by reflex phenomena
 and of their nature is necessary. It has long been known, that animals so
 mutilated as to be deprived of consciousness, and even mere segments 01
@@ -123,6 +127,7 @@ directed by the will, or are under the guidance of sensations. Very numerous
 experimental vivisections have been made from time to time, to determine the
 , * Appendix to Essay 011 Keflex Function of tho Brain, § I). " British and
 Foreign Medical Review," vol. xix. p. 308.
+
 + riiis doctrine has been stated by me on different occasions. In an article ^ on
 Hysteria (the last of :i series), published in tho " Edinburgh Medical and Surg"-*1
 Journal,' No. 110, July, ISoli, I advocated tho idoutity of function of all vi a
@@ -138,7 +143,7 @@ trine, extending it to reflex nutrition and development. " Tho development, co^
 serration, and reproduction of all organism," 1 show, " are regulated by lj'1 ^
 erring law of design—a law as generally applicable to living matter as the 11
 gravity to universal matter."—" Lancet," vol. ii. 1845, p. 250.
-RESEARCHES INTO THE FUNCTIONS OF THE BRAIN. 515
+
 true nature of these movements, especially on cold-blooded vertebrata, in which
 class of vertebrates they arc the most obvious. Whytt was one of the earliest
 of modern physiologists to institute these experiments. He found that "a
@@ -150,6 +155,7 @@ for they may be continually excited in headless frogs—they were no longer
 manifested if the spinal cord was destroyed. Whytt observed similar adapted
 movements in vipers, and believed that they were necessarily connected with
 sensation.
+
 "We have no other way," says lie, " to satisfy ourselves that an animal is alive
 or endued with feeling, than l>y observing whether it shows uneasiness when any-
 thing hurts or tends to destroy any of its parts, and an endeavour to remove or
@@ -158,6 +164,7 @@ when pricked with a sharp instrument, two or three days after losing their head,
 heart, and other bowels, as if they were entire, we are naturally led to conclude
 that they are still in some sense alive, and endowed with feeling—i. e., animated
 by a sentient principle."
+
 This deduction from 1 lie phenomena was adopted by the majority of phy-
 siologists after Whytt—as llaller, Cuvier, Dumas, Alison, Le Gallois—and was,
 in fact, the doctrine generally current until Dr Ilall renewed attention to the
@@ -178,6 +185,7 @@ stinctive and emotional, and explained the share which the states of the
 consciousncss, termed pleasure and pain, have in all these excited acts, lie
 also, of all neurologists, has most successfully made these doctrines elucidate
 the highest mental phenomena.
+
 The fundamental principles of motor reflex action are these :—That there is
 an apparatus so contrived as to place the individual in relation with the ex-
 ternal world, and rcccivc impressions from it in such a way that, whatever in
@@ -194,7 +202,6 @@ A\hich it responds to stimuli according to a fixed and predetermined plan; b.
 Of a spccial histological arrangement and constitution of the vesicular neurinc
 * I had the honour and pleasure to translate and edit this work, together with
 Prochaska's " Commentaries," for the Sydenham Society.
-51 G RESEARCHES INTO THE FUNCTIONS OF THE BRAIN.
 on the periphery of the organism, which, coming into contact with the external
 world, is influenced according to a predetermined plan, and transmits the
 changes thus induced to the ganglionic vesicular neurine along conductors—the
@@ -213,6 +220,7 @@ the expressive phrase of Prochaska; the essentially necessary means of its
 attainment is automatic histological action within masses of vesicular neurine,
 according to a definite arrangement, and a fixed and predetermined series of
 changes.
+
 ^Ye might rest here, and be content with stating that the causc (or neces-
 sary antecedent) to the infinitely varied and exquisitely adapted actions and
 movements known as reflex, automatic, unconscious, and instinctive, is this
@@ -250,9 +258,9 @@ and fitness the most finished works of man. Speculation apart, and the fact
 alone considered that such mental powers, so unconsciously acting, areinhereu
 in every form of organized matter, it need 110 longer be considered novel 01
 surprising that the unconscious operations of the human cerebrum attain
-RESEARCHES INTO TIIE FUNCTIONS OF THE BRAIN. 517
 the perfection they sometimes do attain, or tliat the blind instincts of animals
 arc so complete, and display so much knowledge of the external world.
+
 The relation between the machines of organisms thus constructed and their
 actual uses, manifested in reflex phenomena, is too immediate and direct to
 doubt that the construction and use depend alike upon the same causc. In
@@ -266,6 +274,7 @@ the large and perfectly untrodden field of research which the doctrine advanced
 opens out to us. I therefore take it as an established principle, that the quasi-
 intelligent agent which operates in the construction of organisms directs the
 use of the organs constructed.
+
 Having thus traced the intelligent construction and use of organs in living
 organisms to an unconsciously acting principle of intelligence, as the common
 source of both, and having identified the results of the unconscious use (or
@@ -279,6 +288,7 @@ constructive and reflex phenomena originate, arc identical in their nature and
 operation. This proposition is the logical and inevitable deduction from the
 premises; I may add, that it is the logical and inevitable induction from facts,
 as I shall shortly proceed to demonstrate.*
+
 We have, then, an unconsciously acting principle of intelligence operating
 upon or through matter in three modes. 1. It moulds and compounds matter
 into living organisms according to a fixed, predetermined, and unchanging
@@ -307,7 +317,7 @@ inind, synonymously with the phrase unconscious principle of intelligence ; mind
 being, when thus used, synonymous with the "soul" of psychologists. The great
 source of misapprehension, as Morell remarks, is the notion which confounds the
 human soul with the human consciousness.
-518 RESEARCHES INTO THE FUNCTIONS OF THE BRAIN.
+
 structures in such a way that these machines act with the greatest precision
 and fitness to the purpose for which tliey arc constructed. 2. It moves and
 regulates these machines according to fixed, predetermined, and unchanging
@@ -321,6 +331,7 @@ of which changes, or scries of changes, arc presented to the consciousness, and
 constitute, in part, at least, the phenomena of thought. This is a summary of
 the actual operations of the unconsciously acting principle of intelligence,
 irrespective of all theory.
+
 The next step in this inquiry is, to determine the relations which mind and its
 operations bear to the unconscious principle and its operations, for this pur-
 pose, the threefold division just given will be our best guide, for the operations
@@ -337,6 +348,7 @@ the action of the muscles, and through it attaining to self-consciousness and
 knowledge of the external world. The problem to solve is, what arc the
 relations, or rather the phenomena, manifested in common by the two forms of
 intelligence ?
+
 First, as to the unconsciously constructing principle and its operations. Its
 phenomena may be considered from a twofold point of view—i.e., as they arc
 manifested in the body itself, in relation with consciousness simply; or ab-
@@ -364,7 +376,6 @@ and the sensations ot hunger, thirst, want of air, of exercise, of repose, •»
 arc induccd. With these arc associated acts and efforts to attain the nic
 by which the predetermined arrangements (which arc those of the ne:i
 state) may again come into operation, constituting the instinctive acts, or
-RESEARCHES INTO THE FUNCTIONS OF THE BRAIN. 519
 so-callcd reflex phenomena, when directed to the external world; and the
 operations of the so-called vis medicatrix naturae, when directed to the
 working of the inner system of machinery. It is not possible to separate
@@ -375,6 +386,7 @@ fluid to the blood (the instinct of thirst), when it is wanted to carry off by
 dilution any saline or other ingredient through the skin or kidneys, is not
 different in its nature from any other effort to depurate the blood, when morbid
 agents have entered it or are retained within it.
+
 I have stated, that in conscious animals the operations of the unconscious
 principle of intelligence are associated with a feeling of pleasure or well-being
 if normal, with a feeling of discomfort or suffering if abnormal. But I wish
@@ -411,6 +423,7 @@ so that there is no fear of it; and what is felt is limited to the actual moment
 of injury. As to the vegetable kingdom, it is as reasonable an induction, that
 its members also enjoy life—possibly a painless existence—as that they have
 no consciousness whatever.
+
 However this may be, it is epiite certain, that in all conscious animals
 endowed with a nervous system, without any exception whatever, the special
 seat of both conscious and of unconscious mind is in that system, or in some
@@ -421,7 +434,6 @@ special adaptation to the uses of the conscious mind, its structure does not
 fundamentally differ from the organized tissues equally so adapted which arc
 devoid of nerves or nervous system. The contrary opinion is an error, which
 has broadly separated vegetable from animal organisms, and which has given
-520 RESEARCHES INTO THE FUNCTIONS OF THE BRAIN.
 rise to the hypothesis, that the lowest forms of the latter possess a " diffused"
 nervous system, microscopically small, or even invisible; it being a notion that
 the functions of these animals can only be carried on by something of the kind.
@@ -434,6 +446,7 @@ in vegetables is the division of labour amongst the cclls, some secreting colour
 ing matter; others, starch, gum, sugar, oil; and another the material for
 reproduction. Still, all combine to a common purpose—the well-being of the
 plant, and the continuation of the spccics.
+
 In the higher animals, and in some vegetable organisms, the functions arc
 more specialised, and arc carried 011 by spccial apparatuses constructed for the
 purpose. Food is assimilated by one class,—is carricd thus assimilated, to the
@@ -449,8 +462,10 @@ unity, and we have therefore a special apparatus formed for this end, in which
 that unconscious principle of intelligence, previously (and still, indeed) pre-
 sent alike in all cells, is now specially localized ; this apparatus is the nervous
 system.
+
 The use of these various machines and apparatuses, according to a pre-
 determined and fixed plan, is termed instinctive.
+
 We have already divided instinct into that which acts consciously, and that
 which acts unconsciously. Now instinct, in reference to cell-life, may also be
 divided into the individual and the composite. I11 the simpler forms of vege-
@@ -470,6 +485,7 @@ mon object of the organism, it necessarily follows that that apparatus must
 constitute the ccntre of unity, or of the individual, and therefore the seat 01
 the ego, if sclf-consciousncss exist. This has been fixed hypothetical^ by some
 physiologists in the medulla oblongata.
+
 Inasmuch as the nervous system, in virtue of its predetermined structure, is
 the source of the infinitely varied manifestations of intelligence in action, ana
 the ccntre of co-ordination, so also is it the seat of that great conservative idea,
@@ -478,7 +494,6 @@ objcct of the entire arrangement is the well-being of the individual or ot tli
 species. Sincc what is true of the whole, is true of every part thereof, it 0
 lows that the nervous system is also the scat of all tiiosc quasi-mental
 instinctive powers by which the unconscious mind attains its ends. jNow, 1
-RESEARCHES INTO THE FUNCTIONS OF THE BRAIN. 521
 the mind lias, in summary, the same ends in view, it is absolutely necessary
 to inquire into the nature of these fixed arrangements of the vesicular ncurine
 on which the instinctive acts depend, and their relations to consciousness.
@@ -501,6 +516,7 @@ solved by the bee, by selecting the hexagon as the geometrical form; by placing
 the cells base to base; and by causing the base of each to rest against the
 point where these partitions meet; thus saving materials and labour, and fol-
 lowing out most exactly the principles of solid geometry.
+
 It is a curious mathematical problem, Sydney Smith remarks, in his Lec-
 ture 011 the Faculties of Animals and of Men, at what precise angle the three
 planes which compose the bottom of a cell ought to meet, in order to make the
@@ -518,6 +534,7 @@ blems, with which not only every queen bee, but every undergraduate grub, is
 acquainted the moment it is born." I shall presently give an analogous illus-
 tration of the appbeation of solid geometry by the unconsciously constructing
 mind to the construction of the perfect human form.
+
 The instinctive use by the individual of the apparatus supplied to it ready
 made by the unconscious mind, has been always considered as something dis-
 tinct from the instinctive construction of new or more fitting apparatus. From
@@ -535,7 +552,6 @@ constituted. Ilic same kind of adaptation to external circumstances is ex-
 hibited by almost every kind of animal; the more remarkable and obvious
 bein<* those in which changes in temperature and climate have to be pro-
 vided for. Thus, we have hair changcd into wool in a cold climate, or wool
-522 RESEARCHES INTO TIIE FUNCTIONS OF THE BRAIN
 into hair in a hot; so also the variations in the colouring matter of animals.
 These facts are familiar to naturalists, and arc those which Lamarck lias gene-
 ralized into a system in his " Philosophic Zoologique." It is of importance to
@@ -545,6 +561,7 @@ so that new instincts are developed in lower animals, and "habits," and new
 sources of pleasure in man. To this category may be referred, indeed, every
 phenomenon of this kind, including the acclimatization of animals and vege-
 tables, the production of varieties by domestic culture, &c.
+
 With the development of new vesicular arrangements, new apparatus, and
 new instincts, or instinctive actions, there is not unfrequcntly a repression,
 suppression, or deprivation of some of those which belong to the original type
@@ -565,6 +582,7 @@ is adapted was duly applied. Numerous similar examples of the persistence ot
 these fixed arrangements might be adduced from the natural history of domestic
 animals, whether retained in the society of man, or passing again into a wild or
 half-wild life.'*
+
 As illustrative of the common source and nature of the instinctive use and
 construction of organs, I may mention changes in the colour, form, &e., of
 animals occurring under the immediate influence of instinct; as when conceal-
@@ -573,6 +591,7 @@ birds, in numerous instances assimilate their colour to that of surrounding
 things, or change their colour (as the chameleon) in a moment. The loss ami
 reproduction of limbs under the influence of the instincts belong to the same
 class of phenomena.
+
 The habits of the solitary wasp, referred to by Sydney Smith, is an apt
 illustration of another point of view of this matter, inasmuch as it shows
 instinctive action in one form of organism taking the place of instinctive f""
@@ -592,7 +611,7 @@ wander away to drop her lamb by herself, and was not easily restrained. 1 ho la
 also display an impatience of being touched or handled by man, which the "l0
 civilized Southdown never manifests. Their semi-wild statu 011 the mountain a
 moor pasture is clearly the source of these peculiarities.
-RESEARCHES INTO THE FUNCTIONS OF THE DRAIN. 523
+
 the ovum is placed in the uterus, and is supplied by the circulating system of
 the parent with nutrient material. In many of the hymcnoptcra the whole business
 of the active life of the insect consists in the carrying out of these ends of the un-
@@ -603,11 +622,13 @@ illustration may be mentioned that of the solitary wasp, which supplies to its
 ovuin both a case and a suitable nutrient material. She di<js several holes
 in the saud, in cach of which she deposits an egg. Next (I quote Sydney
 Smith),
+
 " She collects a few green flies, rolls tliem up neatly in separate parcels (like
 Bologna sausages), and stuffs one parcel into each hole, where an egg is deposited.
 When the wasp-worm is hatched, it finds a store of provisions ready made ; and,
 what is most curious, the quantity allotted to each is exactly sufficient to support it
 till it attains the period of wasphood, and can provide for itself."
+
 This instinct of the parent, wasp is the more remarkable, as it docs not feed
 upon the food it supplies to the ovum. An analogous instance of constructive
 development is seen 111 the economy of bees, when a queen or prolific female is
@@ -623,6 +644,7 @@ which the objects of the unconsciously constructing agent arc specially attained
 in the individual. That which in vertebrates is sceured by the laws of em-
 bryonic development, is attained in the hymcnoptcra (and indeed in insects
 generally) by the instincts of the individual, or the society.
+
 Another t'orm of instinct remains to be noticed—namely, the adaptive direc-
 tion of apparatuses and instruments already formed to the attainment of the
 wants of the individual under new circumstances. The class of acts thus
@@ -644,12 +666,11 @@ dependence upon lixed arrangements in the vesicular neurine. It is the con-
 necting link between instinct and reason; but it is not a manifestation of the
 knowing and willing .^'//'-conscious mind. In man, numerous similar acts are
 manifested during infancy and childhood.
+
 It is obvious, then, that the unconscious soul, when constructing the co-
 ordinating apparatus, whether during development or in after-life, writes within
 it, as it were, its own principles of knowledge; and thenceforward the nervous
 system acts as wisely and as sagaciously as if endowed with mind, in all those
-NO. XXXII. M M
-52-1 RESEARCHES INTO THE FUNCTIONS OF THE BRAIN.
 actions which are independent of the will or the reason. The invariable same-
 ness and permanence of the instinct in successive generations (the external
 circumstances being the same in each generation), and the transmission of
@@ -682,6 +703,7 @@ vesicular neurine, and with the objects of the unconscious mind, pain or un-
 happiness results. This is, I think, an accurate general statement of the
 knowledge we have as to the relations of the inner working of its organ to the
 consciousness.
+
 Our next step brings us into the field of human neurology and psychology-
 The unconscious soul of man, acting within the cerebrum, has its substrata-
 placed there ah initio, or constructed anew. What arc they? and what are
@@ -691,10 +713,12 @@ that the human mind is none other than the unconsciously working principle oj
 intelligence individualized, becomes conscious of its own icorlcings in the cerebrnni,
 and deriving its ideas from its own constructive or material changes in the orgdn
 of mind. This proposition I shall now proceed to demonstrate by a scries ot
-illustrations, lirst, as to consciousness itself. ,
+illustrations, lirst, as to consciousness itself.
+
 The mind is One—a unity. " The unity of consciousness is at once the
 deepest, rarest fact of our nature, and the most rigid condition for a compl^0
 mental philosophy."!
+
 This unity is to be found in the identity of the conscious and unconscious
 mind. I have already shown that, as regards the latter, the organism is :''1
 individuum, and that, therefore, unity is its primary idea and prime object.
@@ -705,8 +729,6 @@ it retains so long as the co-ordinating apparatus within the cranium duly »n
 * On the Reflex Function of tho Brain : § 3. Tho Substrata of Psychical Phe-
 nomena. " British and Foreign Medical Roview," vol. xix. p. 308.
 t Morell: "Elements of Psychology," p. ID.
-RESEARCHES INTO THE FUNCTIONS OF THE BRAIN.
-525
 normally fulfils its functions; if, liowcvcr, these be interrupted, then the state
 of unconsciousness supervenes—or, in other words, consciousness (and there-
 with ^(/"-consciousness) is abolished. The exact locality in the enceplialon
@@ -717,6 +739,7 @@ which the sum total of the functional activity of the organism is felt, aud
 whence there is a reaction (reflex action) upon all the structures which minister
 to the physical well-being of the organism, is as certain as that every organism
 is developed from a common centre—the primordial cell.
+
 Writers use the term double consciousness in reference to certain states of
 the mind in which the individual manifests, as it were, two distinct forms of
 mental life. A more correct term would be alternating consciousness, since it
@@ -725,12 +748,14 @@ action of each half of the cerebrum; but whatever may be the explanation, it
 is certain that the phenomena in question can never establish the doctrine of
 a duality of consciousness. Sir H. Holland appears to have set this point at
 rest.*
+
 The unity of consciousness implies another fundamental principle—namely,
 that the varying states in which the latter exists are successive, and not con-
 temporaneous. The mind cannot be occupied with two objects at identically
 the same moment. To assert the contrary proposition (a popular error) is to
 assert that the consciousness is divisible; whereas its unity implies its indi-
 visibility.
+
 " Sensation is not the object of consciousness different from itself, but is the con*
 scioiLsness of the moment; as a particular hope, or fear, or grief, or simple remem-
 brance, may be the actual consciousness of the next moment. In short, if the
@@ -743,18 +768,21 @@ the mind, but all of them existing individually and successively to each other."
 1 know of no inquiry into this part of mental physiology more lucid or more
 instructive than Sir Henry Holland's, and to his chapter On Mental Con-
 sciousness in Relation to Time and Succession, I would specially refer the
-reader. J
+reader.
+
 The unity of consciousness implies another fundamental principle—that
 whatever changes in the vesicular neurine are presented to, or reach, the con-
 sciousness, and excite therein feelings, sensations, ideas or thoughts, are
 accompanied with a conviction of truth and reality as to the latter, whatever
 may be the source of the change ; that is to say, whether it arise from morbid
 or healthy cerebral action.
+
 "When we speak of the evidence of consciousness," Brown remarks, " we mean
 nothing more than the evidence implied in the mere existence of our sensations,
 thoughts, desires, which it is utterly impossible for us to believe to be and not
 to be ; or, in other words, impossible for us to feel and not to feel at the same
 moment."
+
 Now, the ideas which are continuously and fixedly thus believed, in all
 normal states of the mind, are those termed intuitive truths, innate ideas, &c.
 * "Chapters on Mental Physiology:" chap, viii., On the Brain as a Double
@@ -770,6 +798,7 @@ changing arrangements and modes of action of the vesicular neurine; being
 such, they are writ upon the organism bv the unconscious soul itself, are there-
 fore its fixed and unalterable truths, and are to the human mind the intuitions
 of pure reason.
+
 But what if the ccrcbral structure be disordered, either as to its vesicular
 arrangements, or its modes of action ? Abnormal states of the consciousness
 will be induced; but, so long as consciousness exists, the mind will still feel
@@ -810,6 +839,7 @@ the like), it is unusually susceptible of the operation of the unconsciously
 constructing mind ; so that the fixed ideas become deeply writ, as it were, on
 the vesicular neurine, just as acquired instincts, habits, &c.; and arc, in facti
 as difficult to remove.
+
 The intuitive conviction of continuous existence in time and spacc, known as
 the feeling of personal identity has a more complex origin than is usually laid
 down. It imnlies two fundamental requisites—namely, a perception of the
@@ -821,7 +851,6 @@ unconscious mind provides, by its inner vesicular arrangements, lor tn^
 external world. It not only aims at the well-being of tho organism, but pr0^
 vides, by its predetermined plan of construction and action, for the acquisitio
 from without of what is bcnclicial, and the expulsion or repulsion of what
-RESEARCHES INTO THE FUNCTIONS OF THE BRAIN. 527
 obnoxious. This is what the unconscious mind aims at; it follows, therefore,
 that as the conscious mind it desires them. The completion of the desire is
 accompanied by a feeling of pleasure, inasmuch as that completion is in con-
@@ -842,6 +871,7 @@ and of memory, are due to a common cause and common mode of action; the
 former, when transmitted, constitute, in fact, the memory of the s-pecies; the
 difference is in the relation of the respective substrata to the states of con-
 sciousness, and its relations to the external world.
+
 It is not possible to comprehend the phenomena of memory without the con-
 cession of the doctrine, that the mind thus working unconsciously, continually
 constructs or arranges the vesicular neurine of the cerebrum. In his lucid
@@ -878,8 +908,6 @@ we have a condition analogous to the condition of the vesicular neurine in
 melancholia, only in the latter the condition is permanent, in the former it is
 transient. Melancholia has been termed phrenalgia by Guislain, and in one
 sense the term is correct; it is a term of doubtful meaning, however, for it
-528
-RESEARCHES INTO TIIE FUNCTIONS OF THE BRAIN.
 "may imply that the sources of the states of consciousncss grouped under the
 term are in the mind itself; whereas they spring from morbid modifications oi
 the vesicular neurine. The state of consciousness induced is precisely antago-
@@ -892,6 +920,7 @@ hanging firmament, this majestical roof fretted with golden fire, why, it appear
 no other thing to me than a foul and pestilent congregation of vapours." In
 the same way it is that, in neuralgia, impressions ordinarily agreeable—as of
 light, souucls, touchcs—are the sources of acute pain.
+
 Neuralgia, in its primary and simplest form, is pain only; but there are
 forms in which there are painful illusive sensations, as of pricking, stinging,
 burning, coldness, &c.; in these there is a reference to a cause external to the
@@ -916,6 +945,7 @@ or else the nutrient instincts arc involved, and the hypochondriacal dread oi
 being poisoned passes into the maniacal determination to take no food, or to
 take poison. This doctrine of the pathology of melancholia is equally apph"
 cable to all forms of the disease.
+
 The preceding illustrations of the relation which the instincts and emotions
 bear to the vesicular neurine, and through it to the unconscious principle ox
 intelligence, are, 1 trust, amply sufficient to show the exact correlation between
@@ -937,8 +967,6 @@ it clothes. The evolution of all the apparatuses and instruments of scll8e'n.
 particular, has the special end in view of placing the scat of unity ana c ^
 sciousness in instantaneous and intimate communication with the cx < ^
 world, through what may Ikj termed prolongations, or projections outwai ,
-RESEARCHES INTO TIIE FUNCTIONS OF THE BRAIN.
-529
 the vesicular neurine; for the nerves of special sense are virtually nothing
 else than portions of the grev matter spread, out on apparatus suitably con-
 structed for the reception of the influences which matter can exercise upon the
@@ -968,6 +996,7 @@ agent, in laying down the predetermined arrangements of the organization,
 that they shall invariably respond to the same stimuli; this idea is reproduced
 as a state of the consciousness, and is the idea that they will, for the future,
 so respond:
+
 " Why is it, then," says Brown, "that we believe in that continual similarity of
 the future to the p.ist which constitutes, or at least is implied, in our notions of
 power ? A stone tends to the earth—a stone will tend to the earth—are not the
@@ -977,6 +1006,7 @@ to some other principle, which converts the simple facts of experience into a
 general expectation or confidence that is afterwards to be physically the guide of all
 our plans and actions. This principle, since it cannot be derived from experience
 itself which relates oidy to the past, must be an original principle of our nature.
+
 There is a tendency in the very constitution of the mind, from which the expecta-
 tion arises—a tendency that, in everything which adds to the mere facts of experi-
 ence, may truly be termed instinctive." (Op. cit., vol. i. p. 121.)
@@ -995,13 +1025,13 @@ which we may use, express nothing more than this permanent relation of that
 which has preceded to that which has followed .... To know the poiccrs ot nature
 is, then, nothing more than to know what antecedents arc and Hill be invariably
 followed by what consequents." (p. 120.)
+
 This is, in fact, the foundation of all science. Nature is nothing else than
-530
-RESEARCHES INTO THE FUNCTIONS OF THE BRAIN.
 the predetermined arrangements in operation of the great creating and sustain-
 ing Intelligence, which it is the duty of man, a " natural minister ct interpret"
 to know. The faculty by which he ascertains these invariable relations of
 phenomena to each other, is termed comparison.
+
 I could tints go through all our fundamental ideas and all our intuitive
 truths, and show that in them all the states of consciousness of the self-con-
 scious mind are correlative with the ideas manifested in organization by the
@@ -1030,6 +1060,7 @@ It is a remarkable circumstance, that while metaphysicians and phrenologists
 have alike almost unanimously advocated or adopted this doctrine, it lias never
 been applied to the elucidation of the nature of mind, by constituting it I he
 starting point of a comparative psychology ."J"
+
 * See Dr Carpenter's "Principles of Comparative Physiology," fourth edition,
 pp. 18—20, 38, for a statement and illustration of thin fundamental process.
 + I subjoin the following rather long extract from Sir W. Hamilton's Note A
@@ -1046,6 +1077,7 @@ consciousness are the manifestations, than rational or intellectual instincts. I
 if Reason can be justly called a developed Feeling, it may with no less propriety bo
 called an illuminated Instinct—in the words of Ovid—
 ' Kt quod nunc Ratio, IiujiutuB ante fuit.'
+
 As to [Reid's use of the term being] an innovation either in language or philosophy
 this objection only betrays the ignorance of the objector. Mr. Stewart (" Essays,"
 p. 87, 4to edition) adduces Boscovich and D'Alembert as authorities for the employ-
@@ -1055,7 +1087,6 @@ Descartes, Rapin, -Pascal, Poiret, Barrow, Leibnitz, Musauis, Feuerlin, Hume,
 Bayer, Karnes, Reimarus, ami a host of others ; while, subsequent to the ' Inquiry
 into the Human Mind,' besides Beattie, Oswald, Campbell, Fergusson, among <)UI
 Scottish philosophers, we have, with Hemsterhuis in Holland, in Germany Potons,
-RESEARCHES INTO THE FUNCTIONS OF THE BRAIN. 531.
 I will now examine into the source and conditions of intellectual pleasure in
 relation to the cerebrum, taking as a starting-point the doctrine that this organ
 is the seat of the intellectual instincts. It is necessary to the manifestation of
@@ -1087,6 +1118,7 @@ faculties, and the happiness consequent on the rijrlit use, is strictly analogou
 to that general use of the corporcal organs which constitutes the sum of
 life, and is, when normally carried on, the source of the feeling of corporeal
 happiness.
+
 The unconscious principle of intelligence, as a constructive agent, aims not
 at the good only—to tv ; ever conjoined therewith is the beautiful—to ko\ws.
 In the conscious mind this aim at the beautiful becomes a desire, when the
@@ -1098,7 +1130,7 @@ mind in the construction of organisms, and in the instincts of lower animals
 they present the best subjects for comparison and elucidation. Perhaps the
 human form may be reasonably assumed as the form the contemplation of
 which (when perfcct) gives the highest intellectual pleasure. It may be consi-
-dered under two aspects, first as constructed by the principle of intelligence •
+dered under two aspects, first as constructed by the principle of intelligence
 secondly, as constructed by man. According to the doctrine I wish to esta-
 blish, the psychical substrata (the work of the unconscious mind), by and
 Jacobi, Bouterwcck, Neeb, Koppen, Ancillon, and many other metaphysicians,
@@ -1108,12 +1140,11 @@ cation to the higher faculties of mind, intellectual and moral In a moral
 relation, as a name for the natural tendencies to virtue, it was familiarly employed
 even by the philosophers of the sixteenth century .... and in the seventeenth it
 had become, in fact, their usual appellation."
+
 * There is an admirable little work on this subject, to which I would specially
 refer the reader, and the more earnestly because its value is not generally known
 Sir John 1'orbes "Happiness in Relation to Work and Knowledge: an In-
 troductory Lecture," &c. Smith, Elder, and Co., Cornliill; or Churchill.
-532
-RESEARCHES INTO THE FUNCTIONS OF THE BRAIN.
 through which the beauty of the human form is felt and perceived, will be cor-
 relative with the constructive ideas and conceptions of the unconscious prin-
 ciple of intelligence (or nature, as it is usually designated); so that when the
@@ -1128,6 +1159,7 @@ infinite variety of sweet concords. The recipient senses having an analogous
 structure, and a common function in relation to consciousness, the ideas that
 enter the mind through them have a common relation to the feeling of
 pleasure.
+
 These substrata will also regulate the successive states of consciousness in
 relation to the objects of intellectual pleasure, and through them, therefore, it
 is that the mind conceives, either instinctively (as genius), or deductively
@@ -1135,6 +1167,7 @@ through knowledge, correct conceptions of those objects; and realizing these
 conceptions, works matter into artistic forms, harmonizes colour, or com-
 bines sounds; which results are perfect accordingly as they approach the
 model or archctype in the unconscious mind.
+
 The human female, in the perfection of youth and beauty, is to man probably
 the most beautiful, and the most pleasurable, visual object in creation. Often,
 doubtless, the artistic feeling of pleasure is associated with the instinctive
@@ -1168,10 +1201,9 @@ is pleasing to the eye in the same degree as its fundamental angles lip11" "
 each other the same proportions that the vibrations bear to one another m t1
 common chord of music." As to these vibrations, we quote Mr. llay 011
 sounds of the monocliord.
+
 "This is an instrument consisting of a string of given length stretched
 two bridges standing upon 11 graduated scale. Suppose this string to be stie 0
-RESEARCHES INTO THE FUNCTIONS OF THE BRAIN.
-533
 until its tension is such, that when drawn a little to a side, and suddenly let go,
 it would vibrate at the rate of sixty-four vibrations in a second of time, producing,
 to a certain distance in the surrounding atmosphere, a series of pulsations of the
@@ -1195,6 +1227,7 @@ whole length of such a string is, as I have already stated, called (C), and is, 
 sequently, the fundamental note or tonic to which all that follow in forming a
 scale must refer. The note produced by half of the string is the first harmonic,
 and is called the superior octave to the fundamental note."*
+
 Now all solid bodies are referred to plane figures upon the retina, and are
 bounded either by curves or right lines. If by the latter, their outlines are
 portions of rectilinear figures; if the former, of circles, elUpses, &c. Each
@@ -1229,8 +1262,7 @@ figures, thus : 90° being taken as 1, an angle of 15° is an angle of }s ; 30°
 angles exactly corresponding to a scale of harinonical notes; this Mr. Hay
 * "The Geometric Beauty of the Human Figure Defined," &c., 4to, pp. 6, 7.
 1851.
-534
-RESEARCHES INTO THE FUNCTIONS OF THE BRAIN.
+
 gives.* The tonic, dominant, and mediant notes produce, when combined, the
 most beautiful harmony; correlativcly, the geometrical figures and forms of
 which the tonic, the dominant, and the mediant angles are the primary ele-
@@ -1251,6 +1283,7 @@ of the figure to be constructed, anu from (his line draws his angles, according
 to a system only to be understood by a reference to his treatises. The curves
 of the figure are portions of circles and ellipses, whose angles of inclination are
 simply those of ■§, y, fT. The following is Mr. Hay's summary :
+
 " 1st. That on a given line the figure is developed as to its principal points
 entirely by lines drawn either from the extremities of this line, or from some
 obvious and determined localities. 2nd. That the angles which these lines make
@@ -1282,15 +1315,18 @@ cheek-bones and broad Scottish face of the living model. Professors Kellaud
 and Goodsir also assisted Mr. Hay in carefully measuring six living models,
 the classic statue known as the Mcdicean Venus, and another as the Venus
 of Mclos. The results corresponded so closely with the theory as to leave
-* '• The Orthographic Beauty of the Parthenon," p. 21 ; also, "The Geonictric
+
+The Orthographic Beauty of the Parthenon," p. 21 ; also, "The Geonictric
 Beauty of the Human Figure .Defined ; to which is prefixed a System of ^Esthetic
 Proportion." Appendix. >f
+
 t " The Natural Principles of Beauty as Developed in the Human Figure, uy
 D. R. Hay, F.R.S.E., p. 23.
-53G RESEARCHES INTO THE FUNCTIONS OF THE BRAIN.
+
 no doubt of its accuracy as to the living model, and to render it probable that
 a similar system constituted the basis of artistic education among the ancient
 Greeks.*
+
 Fitness, strength, and beauty, are combined in the constructions of the uncon-
 sciously constructing principle of intelligence; these are the objepts to be aimed
 at in architectural ana the other formative arts. In one of his recent worksf
@@ -1302,6 +1338,7 @@ tonic; taking this as the key-note, Mr. Hay theoretically re-constructs that
 grand architectural harmony throughout all its details; and then shows that
 the actual measurements correspond sufficiently near to the theoretical to de-
 monstrate their identity.
+
 In the application of geometrical ratio to architecture, Mr. Hay has had
 numerous predecessors; it is in selecting angular proportion as the basis of
 his harmonic svstem, instead of linear, and in applying his principles to cur-
@@ -1310,6 +1347,7 @@ differs from them. Nevertheless, the geometrical harmonics derived from linear
 proportions have an extensive application, especially to Gothic architecture. In
 these the three primary forms—the equilateral triangle, the square, and the
 pentagon—arc fundamental figures.
+
 Mr. Griffith (who has illustrated this theory) terms the governing figure in
 his system of numerical rectilinear ratio, tiie kleis (k\t)s, clavis, key), but he
 draws his analogies from chromatics rather than acoustics, and makes his three
@@ -1320,6 +1358,7 @@ ines which dictate the latter "indicate the direction of all the thrusts or
 forces, and their sundry workings."J The ratios in the rectilinear system
 arc the same as in the angular; and curvilinear figures arc dcduciblc from the
 rectilinear.
+
 In another work, published in 1845, entitled "The Natural System of Archi-
 tecture," in which the theory is applied to both Greek and Gothic structures,
 Mr. Griffith examines and delineates the geometrical proportions of the follow-
@@ -1333,6 +1372,7 @@ consciousness, have a definite relation to geometry and dynamics. i
 The views just advanced apply exclusively to the absolutely beautiful an
 true. Pleasure may be derived, however, from that which is relatively beauti-
 ful and true; and, indeed, this is the most common source of our pleasure.
+
 All special substrata, acquired either by inheritance or by the external relations
 of the individual, do modify the states of consciousness by the changes going
 on within them, when the appropriate stimuli reach them. To the former
@@ -1340,17 +1380,18 @@ belong secret, " occult," or mysterious sympathies ; to the latter the pleasures
 * In another and earlier work (1840), entitled " On tho Scienco of those Pr?P0'^
 tions by which the Human Head and Countenance, as represented in Works
 Ancient Greek Art, are distinguished from those of Ordinary Nature," 4to,
-Hay treats fully of this subject. »»
+Hay treats fully of this subject.
+
 t " The Orthographic Beauty of tho Parthenon referred to a Law of I*"1 11
 1853. ( ^ William
 £ "Ancient Gothic Churches, their Proportions and Chromatics.' T>y >¥
 P. Griffith, Architect. Part II. p. 21.
-RESEARCHES INTO THE FUNCTIONS OF THE BRAIN. 537
 of memory. Thus it is, that in a foreign land to hear the familiar language of
 home is a delight, or even to experience any impressions associated with
 pleasurable feelings felt at home. It is in confounding these different sourccs
 of pleasure, indeed, that the greatest obstacle to a true system of aesthetics and
 a sound philosophy of morals exists.
+
 Having thus shown the instinctive nature and origin of our intellectual
 faculties, I shall now illustrate their instinctive action. It has been seen that
 acquired knowledge is no essential part of instinct generally, neither is it of
@@ -1372,6 +1413,7 @@ music in strict accordance with the rules of musical composition, although
 he had not been instructed in them. In after life lie wrote music because,
 to adopt his own expression, he could not help it. So it was with an eminent
 English poet:
+
 "I lisped in numbers, for the numbers came."
 Instances of this kind could be multiplied to an almost indefinite extent.*
 An illustration of the instinctive working of the numerical faculty may be
@@ -1386,6 +1428,7 @@ at the result without going through the ordinary process; he saw it at a glance.
 If, as was rarely the case, owing to a passing fit of dulness, or a momentary distrac-
 tion of thought, he failed to see the sum at once, he was rather slow than otherwise
 in doing it by the ordinary mode."
+
 * Much knowledge might be gained from a careful observation of the instinctivo
 ■working of these faculties. The following is an interesting fact taken in connexion
 with the preceding statements; it is from the "Diary of Moore," the poet (edited
@@ -1402,7 +1445,7 @@ his fingers over the keys of the piano as he passed, but when he returned to bed
 found he could not sleep At length he recollected that the last chord he
 struck was that of the seventh ; he got up again, resolved it, and then went to bed
 and slept as comfortably as he could desire."
-538 RESEARCHES INTO THE FUNCTIONS OF THE BRAIN.
+
 The preceding series of arguments and illustrations have brought the subject
 to the point from whence it was commenced—namely, the unconscious or reflex
 action of the cerebrum. Perhaps enough lias been stated to establish these
@@ -1417,6 +1460,7 @@ mind. To demonstrate more clearly the unity of origin and action of the two
 forms of intelligence, and the application of the doctrine to practical uses, I
 will now add some further illustrations, taking the intellectual instincts as a
 starting-point.
+
 The appreciation of the Beautiful, in connexion with the pleasures of sense,
 is a familiar fact to the moralist and the philosopher. In man it is first felt
 rightlv with the complete evolution of the system, and when he is become
@@ -1438,6 +1482,7 @@ mammaj, and the subcutaneous fat, are undoubtedly analogous structures. The
 conscious mind displays in man a similar law of action; the gay attire of the
 lover, and the glories of bridal dress and decoration, are but evolutions of
 the same great idea of the unconscious mind.
+
 While thus in creation the outward form is aesthetically a unity, so also are
 minor sources of sensation. Many animals are attracted by scents developed
 during reproductive activity—insccts, fishes, and mammals, not excepting man;
@@ -1450,16 +1495,17 @@ fully developed with the evolution of the reproductive organs, while it is
 exalted as to one of these by their special activity. The biulad " to his mis-
 tress' eye-brow" of the lover, is the exact analogue of the song of the
 cicada, or of the male song-bird.
+
 I have given a practical application to these views in an attempt to investi-
 gate the nature and origin of hysterical affections, and to this work I would
 refer the reader* If the instincts of man, and vegetables, and animals, be
 collated in reference to the continuance of the species, they will be found to be
 inseparably connected with every kind of both icsthetic and constructive art,
 in every form of organism.
+
 Ordinary dreaming, somnambulism, clairvoyance, delirium of every sort, in-
 * " A Treatise on the Nervous Diseases of Women." Longmans and Co.
-RESEARCHES INTO THE FUNCTIONS OF THE BRAIN.
-539
+
 sanity, and other forms of disordered cerebral action, are important changes in
 the states of the consciousness in reference to the representative faculty.
 There can be little doubt that these changes have their correlative changes in
@@ -1516,11 +1562,10 @@ rapeutics, for if that system be well-founded, we can interpret the so-called
 "vital phenomena by those which involve consciousness, and vice versaj for the
 latter being nothing more than the workings of the unconscious soul reaching
 the consciousness through a special apparatus evolved for the purpose, and the
-2*0. XXXII. N N
-5<10 RESEARCHES INTO THE FUNCTIONS OF TIIE BRAIN.
 works of tlie unconscious soul not reaching the consciousness, being vital phe-
 nomena, the one can be substituted for the other in our inquiries, so far as the
 bio-chemical changes in the tissues are involved.
+
 I had intended to have illustrated the nature of the Will (a state of self-
 consciousncss) by an application of these views to the phenomena of motion in
 organisms, whether animal or vegetable; this must form a subject for further
@@ -1530,6 +1575,7 @@ mental philosophy, and arc therefore of necessity presented in a fragmentary
 shape. In thus opening out a new and altogether uninvestigated scries of related
 phenomena, I think it right to make some remarks Avhich may be of use in ex-
 plaining my views and guiding the thinker and observer.
+
 I have constantly made use of the term unconscious principle of intelligence
 or mind. By that term I mean simply to designate that principle of intelligence
 which is manifested in all the phenomena of the universe, so far as they are
@@ -1562,6 +1608,7 @@ satisfactorily titan hitherto, the relations of the self-conscious mind to
 organization, the nature of Truth, and the limits of moral responsibility; or,
 in other words, to establish psychology, metaphysics, and moral philosophy on
 a more definite basis.
+
 I have repeatedly used the term psychical substrata. By this I do not mean
 to imply a ccrtain material arrangement of cells or their elements only, but
 such an arrangement that a fixed order of successional changes, or plan of
@@ -1574,8 +1621,6 @@ constant construction of new cells, corresponding to those new states of the
 consciousness comprised under the general term development of ideas, ™°
 ideas being developed and the new cells constructed according to a IlXCQ_
 and predetermined law of development. The substrata have potential pi
-CRIMINAL RESPONSIBILITY OF MADMEN.
-541
 pcrties—that is to say, they contain the germs of further and indefinite series
 of future changes, as well as properties in actual use in relation to the external
 world.

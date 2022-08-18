@@ -3,10 +3,10 @@ Physiological Psychology
 
 3.95
 Art VI-
--
 No. II.
-BY ROBERT DUNN, F.R.C.S. ENG.
+:Author: Robert  Dunn, F.R.C.S. ENG.
 {Continued from page 240.)
+
 The scientific procedure of psychology, according to Fichte,
 essentially consists in separately considering the intelligence, the
 feelings, and the will, and in carefully observing and' studying
@@ -17,6 +17,7 @@ in sensori-motor, consensual, and instinctive feelings and
 actions; where the intelligence is purely sensational, the feelings
 simply those of pleasure and pain, and the impulses to action
 inherent and instinctive.
+
 We have now to consider it in the perceptive consciousness,
 the next stage of our psychological progress, in ideation, emotion,
 and volition; and here, too, there exists a perfect unity at the
@@ -25,6 +26,7 @@ For without ideation there can be no determinate or voluntary
 action, and without the will no act of intelligence; while alike
 with both and with either, emotional sensibility is indissolubly
 connected.
+
 The genesis of the will is in the perceptive consciousness, and
 it proceeds, pari passu, with the development of the intellectual
 faculties, until they reach their dominant development?the
@@ -48,9 +50,9 @@ was placed there she remained throughout the whole day, making
 not the slightest voluntary effort of any kind, manifesting no
 uneasiness for anything to eat or to drink, and taking no heed
 whatever of what was going on around her/' In fine, while the
-396 PHYSIOLOGICAL PSYCHOLOGY.
 perceptive faculty was benumbed and paralysed, ideation,
 memory, and volition were alike abolished.
+
 Perceptive Consciousness. Sensory impressions, the intui-
 tions of the special senses, whether sights, sounds, smells, tastes,
 or feelings, internal or external, in order that they may reach the
@@ -94,8 +96,6 @@ minds intuitive ideas as to its size, shape, colour, &c., than
 we can reject the sensations of touch, as to its hardness or
 softness, or those of taste ns to its sweetness or bitterness, or of
 smell, as to its fragrance or offensiveness; in each and in all, the
-* Morell's Psychology. t Ibid.
-PHYSIOLOGICAL PSYCHOLOGY. 39V
 process is alike intuitive. But these two states, nevertheless, of
 consciousness,?sensation and perception,?though botli intui-
 tive and so closely allied, are not to be confounded, for they are
@@ -112,7 +112,8 @@ to the cerebrum, " the sole receptacle/' in the language of Cuvier,
 and become perceived by the animal, and where all sensations
 take a distinct form, and leave lasting traces of their impressions,
 serving as a seat to memory, a property by means of which the
-animal is furnished with materials for its judgments."*
+animal is furnished with materials for its judgments.
+
 In illustration of this view, Dr Noblef has well observed:?
 "An anatomical distinction between the region of thought and that
 of sensibility caw very fairly be established; and a certain aptitude,
@@ -139,13 +140,15 @@ the hemispherical ganglia, forming or awakening ideas in the mind." J
 * Cuvier, Rapport sur le Memoire de Flourens sur le systeme nerveux, quoted by
 Dr Todd. Vide " Cyclopaedia of Anatomy and Physiology, and Functions of the
 Nervous System."
+
 f Vide Dr Noble's Lectures " On the Co-relation of Psychology and Physiology, '
 T33i2fC 27
+
 + The' modus operandi of Anaesthetic agents, in relation to their action upon the
 different nervous centres of the encephalon, is highly interesting and instructive.
 It brings strong confirmation to the important facts, that sensation and perception
 are distinct states of consciousness, that they have their seat in different nervous
-398 PHYSIOLOGICAL PSYCHOLOGY.
+
 Before entering, however, upon the consideration of the phe-
 nomena of the perceptive consciousness, and of the local habita-
 tion of its organs in the cerebrum, I think we shall proceed with
@@ -176,10 +179,12 @@ abolished. M. Flourens was, I believe, the first to point out the tendency of ce
 tain morbific agents to act primarily and specially on one nervous centre in pre-
 ference to that of another, by virtue of some special elective affinity between such
 agents and certain ganglia of the encephalon.
+
 " From the records of personal experience, and from a careful consideration of the
 phenomena observed in others, we may trace the following order and sequence in
 the effects of the inhalation of the vapour of chloroform, properly diluted, upon
 different nervous centres.
+
 "Thus, the first few inhalations are attended v,'ithfeelings which indicate disturbance
 in the action of the sensory ganglia, as ' singing in the ears, a sense of numbness,
 and tingling of the surface of the body,' &c., but which are soon succeeded by a
@@ -203,7 +208,7 @@ life to a series of automatic movements. After this the medulla oblongata and
 true spinal centres become involved, reflex action is stopped, and breathing by the
 ribs suspended. The ganglionic system is the last to be implicated; but, with the
 arrest of the peristaltic action of the heart, life ceases."
-PHYSIOLOGICAL PSYCHOLOGY. 399
+
 vertebrate series, and thus " making use of the lower animals,
 as so many experiments ready prepared to our hands by nature."
 In man, indeed, the cerebrum is so enormously developed, that
@@ -224,11 +229,13 @@ the most anterior on either side of the median line?is the
 olfactory ganglia, the centre in which the olfactory nerve termi-
 nates, and in connexion with the anterior extremity of the
 medulla oblongata.
+
 The second pair are the sole representatives of the cerebral
 hemispheres, but not in their totality. The exterior covering
 only indicates the presence of the anterior lobes, for the interior
 mass, from its connexions and aspects, is the homologue of the
 corpus striatum.
+
 The third are the optic lobes, the ganglionic centres of the
 optic nerves, which contain the homologues of the corpora quadri-
 gemina and thalami optici of the higher vertebrata. The fourth
@@ -240,19 +247,21 @@ in the brain of the fish, the encephalon consists of a like series
 of distinct ganglionic bodies, amongst which the representa-
 tives of the cerebral hemispheres are usually the smallest. We
 have?
+
 1st. The olfactory ganglia.
 2nd. The corpora striata, covered by their laminae, which are
 the rudiments of the cerebral hemispheres.
 3rd. The thalami optici, inclosing the third ventricle.
 4th. The corpora quadrigemina, and
 5th. The cerebellum.
+
 It has been truly observed by Dr Carpenter,?
 " There is no more general fact in the whole range of comparative
 anatomy, than that the encephalon of the vertebrata is composed of
 these elements, at the commencement of its development, and that the
-400 .PHYSIOLOGICAL PSYCHOLOGY.
 whole history of the evolution of the human brain indicates its precise
 accordance with this general type of structure."
+
 But a searching scrutiny unfolds and demonstrates that the
 same distinctness exists in the nervous centres or ganglionic
 bodies, in the adult brain, as in the embryonic; and that the
@@ -260,6 +269,7 @@ greater complexity of structure in the former is entirely due to
 the size and development of the cerebral hemispheres, and to
 their extensive commissural connexions with the other encephalic
 ganglia, and of those ganglia with each other.
+
 But, adverting again to the brain of the fish and to that of the
 human embryo, we see that the first of the ganglionic bodies?
 the olfactory?are in direct fibrous connexion with the medulla
@@ -267,6 +277,7 @@ oblongata; and, in the adult brain of the human subject, as I
 have already observed, the peduncles are also connected with the
 thalami optici, and with the primitive and fundamental convolu-
 tions of the cerebrum which surround the Fissura Sylvii.
+
 In the second pair of ganglia, alike in the brain of the fish
 and in that of the human embryo, we find the corpora striata in
 close connexion with the rudimental cerebral hemispheres, form-
@@ -289,6 +300,7 @@ matter of the locus niger and the anterior segmental ganglia
 of the spinal cord, constitute the motor axis of the cerebro-
 spinal system, and are the source of all the movements of
 the body, whether reflex, consensual, emotional, or voluntary.
+
 The corpora striata are not the seat of volition itself, but
 the encephalic motor centres, through which the mandates of
 the will or volitional power of the hemispheres are propagated
@@ -297,7 +309,6 @@ with the motor forces. Their commissural connexions with the
 cerebrum are so intimate and so extensive, that they are evi-
 dently placed in subserviency at every point, through the agency
 of innumerable radiating commissural fibres, to the volitional
-.PHYSIOLOGICAL PSYCHOLOGY. 4-0.1
 power of the hemispheres, in every voluntary act and effort.
 And thus we find, in hemiplegic patients, that the imperfect
 power of utterance which we so constantly meet with, is due to
@@ -319,6 +330,7 @@ case of the encephalon, the corpora striata propagate motor
 impulses in respondence to excited internal feelings and emo-
 tions, of which the thalami are the seat, and often quite inde-
 pendently of volition or thought.
+
 The spinal cord itself, though in such intimate, direct, and
 continuous connexion, through the medium of its cranial pro-
 longation,?the medulla oblongata,?with the corpora striata
@@ -344,13 +356,13 @@ incident and reflex nerves for the production of excito-motory
 actions. They maintain that muscular movements, whether reflex,
 emotional, or voluntary, are immediately called into action by
 the same afferent nerve fibres, and that the very same efferent
-402 PHYSIOLOGICAL PSYCHOLOGY.
 or excito-motory fibres are alike the channels for the transmis-
 sion of stimuli which give rise to reflex actions in the cord?and
 of impressions which become sensations when transmitted to
 the sensorium. Nor is reflex action peculiar to the true spinal
 system; for it is equally an attribute of the sensori-motor, emo-
-tional, and cerebral systems.*
+tional, and cerebral systems.
+
 But, to proceed. The third pair of ganglia are the optic
 lobes. In the brain of the fish, the optic thalami and corpora
 quadrigemina are contained in one mass, forming these lobes,
@@ -371,6 +383,7 @@ segmental ganglia of the spinal cord ; and the impressions which
 are received by these ganglia from the sentient extremities of all
 the different nerves distributed upon the whole surface of the
 body, pass up to the thalami, and there become sensations.
+
 But they are not thus the mere centres of comm.,on sensation;
 for, as we have already seen, a continuous nervous thread ramifies
 throughout the entire circle of special sensation, so that the
@@ -385,20 +398,22 @@ feeling,?those points of unity around which our sensational
 feelings, from the earliest period, are gradually marshalled, in
 the development of self-consciousness,?the primary form of
 which essentially consists in this unity of sense.
+
 The thalami optici have a yet more important office, and are
 associated in operations which rise still higher in the psychical
 scale. With Dr Carpenter, I believe them to be the seat of
 * Vide Dr Laycock's paper "On the Keflex^ Function of the Brain," read at
 the meeting of the British Association, held at York, 1844.
-PHYSIOLOGICAL PSYCHOLOGY. 403
 those inner sensibilities and feelings which are associated with
 the emotional states.
+
 Lying within the band of the corpora striata, the thalami,
 like these bodies, are in most intimate and extensive relationship
 with the cerebrum, through the instrumentality of innumerable
 fan-like commissural fibres,?Rett's nerves of the internal senses,
 ?the connecting links of thought with feeling, and of ideation
 with emotion.
+
 Along these channels, sensory impressions are transmitted
 upwards from the thalami to the perceptive organs, for ideation
 and registration; and from the cerebrum, ideas, thoughts, and
@@ -410,12 +425,14 @@ tion which the physical impressions upon the organs of the
 external senses bear to the special endowments of their sensory
 ganglia in the encephalon ; for instance, as in the sense of vision,
 the retina of the eye to the corpora quadrigemina.
+
 I cannot dismiss the consideration of the thalami optici and
 corpora striata, the great encephalic centres of sensibility and
 of motion, without citing the authority of Dr Todd. To Dr.
 Noble's hypothesis, that the corpora striata, with the optic
 thalami, form the special region of emotional sensibility, I do
 not subscribe: ?
+
 "The anatomy," says Dr Todd, "of the corpora striata and optic
 thalami, while it denotes a very intimate union between them, also
 shows so manifest a difference in their structural characters, that it
@@ -438,9 +455,9 @@ of the medulla oblongata; the corpora striata with the inferior planes
 of the crura cerebri and their continuations, the anterior pyramids ;
 and the optic thalami .with the olivary columns, the central, and pro-
 bably fundamental portions of the medulla oblongata. And this anato-
-404 PHYSIOLOGICAL PSYCHOLOGY.
 mical fact must be taken as an additional proof of their possessing
 separate functions.
+
 " Now, it may be inferred, from their connexions with nerves chiefly
 of a sensitive kind, that the olivary columns and the optic thalami,
 which are continuous with them, are chiefly concerned in the reception
@@ -464,6 +481,7 @@ convoluted surface of the brain by their numerous radiations, all these
 several parts are linked together for the common purposes of volition,
 and constitute a great centre of voluntary actions, amenable to the
 influence of the will at every point."*
+
 The fourth pair of vesicles in the human embryo are the
 Corpora Quadrigemina; but these are not simply the ganglia of
 vision (which function, as I have previously observed, some
@@ -486,8 +504,6 @@ if it does not establish an identity of function. In the case of
 the young woman to whom I have already referred, in whom the
 intellectual faculties were in a state of abeyance, and whose only
 * "Physiological Anatomy and Physiology of Man." By Dr Todd and Mr.
-Bowman. Pp. 347, 348.
-PHYSIOLOGICAL PSYCHOLOGY. 405
 media of communication with the sensational consciousness were
 through sight and tactile feeling, or touch, we have in evidence,
 that through either of these channels, equally and alike, feelings
@@ -499,6 +515,7 @@ A more striking illustration, perhaps, cannot be found upon
 record, of the susceptibility to emotional excitement, than this
 young woman's case presents, at a time when the mental faculties
 were quite suspended.
+
 And in relation to it, I may here reiterate what I have else-
 where stated, that
 " While, on the one hand, it is abundantly manifest that the corpora
@@ -508,6 +525,7 @@ tality of sight, I think, on the other, we may fairly, and are entitled
 to infer, that the thalami optici?the seat of' our inner sensibilities?-
 are the common centres of all our other objective and subjective feelings,
 and motor impulses, associated with the emotional states.
+
 For though it cannot be denied that simple emotional feelings
 and motor impulses may be, nay, easily and constantly are,
 excited and roused into activity, through all the special senses,
@@ -516,6 +534,7 @@ thalami optici are the common foci of sensibility for all the
 nerves of special sense,?the points of unity around which our
 different sensations are marshalled, and where they all centre
 and meet.
+
 The Cerebellum is the last in the series of the encephalic
 ganglia. Placed over the divergent strands of the medulla
 oblongata, and consisting of a median lobe and two lateral
@@ -525,6 +544,7 @@ has such extensive connexions with the cerebro-spinal axis, for it
 is in union with each segment of the great nervous centres upon
 which the sensations and movements of the body depend, but it
 has no direct connexion with the cerebrum.
+
 The complexity of its structure induces the belief of a plurality
 of functions. The restiform columns derived from the posterior
 strands or columns of the spinal cord, there is every reason to
@@ -533,11 +553,10 @@ and if the corpora dentata be the ganglionic centres in which
 they terminate, they must be centres of sensation closely allied
 to that of common or tactile sensation. They are the seat of the
 muscular sense; and, as Dr Carpenter has suggested, the cere-
-* "Physiological Psychology," page 36, ante cit.
-406 PHYSIOLOGICAL PSYCHOLOGY.
 bellum may only react (by reflex action) upon the impressions
 submitted to it, without being itself the instrument of communi-
 cating such impressions to the consciousness.
+
 Comparative anatomy, pathological researches, and experi-
 mental inquiry, alike establish the position that the office of the
 lateral lobes of the cerebellum is the co-ordination of voluntary
@@ -549,6 +568,7 @@ sense in co-ordinated movements, so, on the other hand, analogous
 to this, is the influence of the restiform bodies, as channels for the
 transmission upwards to the corpora dentata, of impressions
 appertaining to the muscular sense.
+
 The median lobe of the cerebellum is primitive and funda-
 mental, exercising an independent function, since in the lower
 classes of the animal series up to birds, the lateral lobes do not
@@ -563,6 +583,7 @@ of the median lobe with the centres of sensation and emotional
 feeling, and through them with those of intellectual action, a
 clear and satisfactory explication of the complex character of the
 amative propensity in man.*
+
 * I brought this view of the subject under the notice of the Royal Medical and
 Chirurgical Society, in a paper on "A Case of Apoplexy of the Cerebellum,'' read
 March 13, 1849, and published in vol. xxxii. of the Society's "Transactions."
@@ -578,6 +599,7 @@ inwardly beyond the centre of the median lobe, implicating the fibrous strands o
 middle and inferior planes in the destructive process, and outwardly so near to the
 surface of the hemisphere, that a portion of the apoplectic clot was projecting
 through it.
+
 Five months previous to the fatal seizure, he had a slight attack. I then found
 him low and exhausted, with a feeble pulse, and a cold clammy perspiration upon
 the surface of the body, complaining of sickness of stomach, and of pain, heat, and
@@ -586,8 +608,8 @@ the pain, heat, and uneasiness of the head continued for some days afterwards.
 There was no paralysis, but there was about him a hurriedness of manner, great
 restlessness, and irritability of temper. A few days afterwards, his wife told me,
 with great delicacy and embarrassment of manner, that he had become the subject
-PHYSIOLOGICAL PSYCHOLOGY. 407
 And it may truly be said that?
+
 " An instinct of absolute necessity in its object is thus rendered a
 principle of our moral constitution, and connects itself with all our
 of a constant desire for sexual intercourse. His behaviour in this respect was so
@@ -619,6 +641,7 @@ personal observation, I have been able to associate exaltation and subsequent
 depression of the sexual propensity with opposite pathological conditions of the
 cerebellum ? the first with irritation and incipient inflammatory indications, and
 the latter with degeneration and abscess.
+
 In one instance which came under my observation some years ago, the patient,
 though doatingly fond of his wife and children, and in every other relation of life
 an exemplary man, could not restrain the sexual passion ; and I had liiin two or
@@ -646,12 +669,12 @@ paralvsis "or loss of co-ordinating power. More than once he was urged to have a
 change of air and scene, but he would never stop away from home beyond a few
 days,?as his wife could not accompany him?he had no enjoyment at niylxt without
 her.
-NO. III.?NEW SERIES. E E
-408 PHYSIOLOGICAL PSYCHOLOGY.
+
 moral responsibilities, while, at the same time, it furnishes materials
 for those powers of imagination, taste, and perception of beauty, which,
 if not altogether peculiar to man, are at least his possession in degree
 infinitely above all that can be admitted into the comparison."*
+
 After this general review of the nervous centres of the ence-
 plialon, we may now revert to the consideration of the crowning
 ganglia of the whole series?the cerebral hemispheres, the seat of
@@ -681,6 +704,7 @@ before the middle begins to be evolved, and the posterior being
 the latest in the order of succession.f
 He gives the following account of the development of the
 cerebral hemispheres:?
+
 " In the first period, which corresponds with the second or third
 months, only the anterior lobes form; in the second period, which is
 comprised in the end of the third, in the fourth, and in a small portion
@@ -696,7 +720,7 @@ the phases of the embryonic development of the^ brain in cases of abortion, and
 thus of verifying, as I have had repeated opportunities of doing, some of the concur-
 ring statements of Tiedemanu and -Retzius, by the test of their own personal obser-
 vation.
-PHYSIOLOGICAL PSYCHOLOGY. 409
+
 first period, the hemispheres do not cover the thalami optici; in the
 second period they completely overlap these parts, approach the
 large corpora quadrigemina, cover their anterior part, and then descend
@@ -720,6 +744,7 @@ in the fully developed brain of older persons, the posterior lobes are
 very clearly separated from the middle lobes by a branching furrow,
 which is especially distinct on the vertical side of the hemisphere
 which lies next to thefalx."*
+
 This tripartite division of the cerebrum into distinct lobes, and
 the order and succession of their development, are points of great
 psychological significance; for the observed facts clearly indicate
@@ -740,21 +765,22 @@ those of the posterior lobes, approaches nearest to the human,
 brain : it differs chiefly in the flatness of the hemispheres, in the
 comparative shortness of the posterior, and in the narroivness
 of the anterior lobes."
+
 I am fully aware that some physiologists maintain that this
 tripartite division of the cerebrum into lobes is altogether arbi-
 trary and useless; and it cannot be denied that it is quite im-
 * Forbes's British and Foreign Quarterly Medical Review, vol. xxii. p. ?03.
-E E 2
-410 PHYSIOLOGICAL PSYCHOLOGY.
 possible, when we survey the cerebrum from, above, to point out
 where the second lobe ends and the third begins; for there is no
 breach in the continuity of the surface, but between the first and
 second the fissura Sylvii presents a line of demarcation suffi-
 ciently distinctive, and on turning the base of the brain upward
 we at once see the meaning of these divisions.
+
 No one, however, can make any such survey of the brain,
 without being struck with the appearance and character of its
 convolutions.
+
 A classification of these, begun by Professor Owen, has
 been greatly extended by M. Leuret; and it is much to be re-
 gretted that he did not live to complete his elaborate and valuable
@@ -776,6 +802,7 @@ extent,?and those secondary convolutions which are not constant,
 even in brains of the same group of animals, but are dependent
 upon the extent of the primary ones, and the connections which
 they form with others that are near them.*
+
 * Gall was the first who classified the convolutions ; and the labours of Gall,
 Spurzheim, and Holm in this interesting field of inquiry were great and manifold :
 and I would here take the opportunity of paying a passing tribute of respect to
@@ -796,7 +823,6 @@ by Gall and Spurzheim as characteristic of the brain of the feline genus, I was 
 assured by our fellow-member, H. H. Holm, Esq Lecturer on Phrenology, whose
 attention has long been directed to this part of anatomy. Mr. Holm was a
 Member of the Eoyal College of Surgeons, but, enjoying an independence, he
-PHYSIOLOGICAL PSYCHOLOGY. 411
 To determine the functions of the primitive convolutions is
 the great problem of physiological psychology, and as I have
 elsewhere^ observed, it remains unsolved. Nor is this surpris-
@@ -834,6 +860,7 @@ reflect for how many ages the opinions of one man were the
 measure of truth and reason, and, under the sovereignty of the
 sway of the Stagirite, how universal was the degradation of the
 human understanding.
+
 devoted himself to the pursuit of phrenology, instead of entering upon medical
 practice. His lectures were amply illustrated by casts, crania, and brains.
 He pointed out the cerebral convolutions which constitute the several organs,
@@ -845,7 +872,7 @@ configuration of the cerebral organs in man and the mammalia. Unfortunately,
 like Leuret, he was cut off in the midst of his labours, and in the fortieth year of
 his age.? Vide a Biographical Notice of Mr. Holm in vol. xix. "Phrenological
 Journal." * " Physiological Psychology," page 48.
-412 PHYSIOLOGICAL PSYCHOLOGY.
+
 But still it is gratifying after the lapse of ages to behold the
 father of experimental philosophy, the illustrious Bacon, clearly
 pointing out the absurdity of pretending to account for the phe-
@@ -865,6 +892,7 @@ and to read her own replies in the living experiments which she has
 presented to us in the lower forms of animal existence, and thus
 to place the great doctrines of mind on the solid basis of a sound
 physiological psychology!
+
 Since the enunciation of Gall, that the convolutions of the
 cerebrum are the seat of the faculties of the mind, their develop-
 ment and classification has been invested with peculiar interest.
@@ -878,6 +906,7 @@ tracing the convolutions from the most simple to the most complex,
 indications are found of the -persistence of the primary and fundamental
 convolutions in the midst of many that are secondary and superadded
 ones."*
+
 M. Leuret has shown, that in all the inferior classes of animals
 up to the lowest mammalia, the cerebrum is not convoluted on
 the surface. In the bat, the mole, and the rat, &c., as in birds,
@@ -892,7 +921,6 @@ true convolutions are first met with, the fundamental convo-
 lutions of Leuret. In the fox, as a typical example, they are six
 in number. Four of these are on the external surface, running
 * Dr Todd's " Cyclopaedia of Anatomy and Physiology."
-PHYSIOLOGICAL PSYCHOLOGY. 413
 from before backwards ; one forms the curved lip, or border of
 the Sylvian fissure, and surrounds the island of Reil; the other
 three, also carried in this direction, a,re placed parallel to the first,
@@ -902,6 +930,7 @@ situated anteriorly, under the forepart of the anterior lobe, is the
 super-orbital convolution ; and the sixth is the great internal
 convolution, above the corpus callosum?la circonvolution de
 1 ourlet of Foville.
+
 In the human brain, besides the great internal and the super-
 orbital convolutions, M. Leuret has represented three external
 fundamental convolutions, which are tortuous, and frequently
@@ -912,25 +941,30 @@ convolutions, divided by a distinct sulcus, which runs outwards
 and forwards, from the longitudinal fissure, so that the right and
 left grooves form a Y-shaped line, open in front, which is called
 by Leuret, the fissure of Rolando.
+
 These transverse superior convolutions are peculiarly charac-
 teristic of the human brain ; and to this peculiarity must be
 added the elongation backwards of the cerebrum, by the in-
 creased development of the posterior lobe, and the greater and
 marked complexity of the vertical convolutions in the median
 fissure, and of those of the island of Reil.
+
 In the development of the cerebrum, Foville has invested the
 locus perforates anterior, or quadrilateral spot, with paramount
 importance, as being the central nucleus and fundamental part
 of the brain,?the starting point from whence the primitive
 convolutions are evolved ; and thus makes it the portal to intel-
 lectual action and volitional power.
+
 Of the primitive convolutions lie makes four orders, in each,
 of the cerebral hemispheres, distinguishable one from another.
 Of these, the first order contains but one?the convolution of the
 band,?the ourlet or hem of the hemispheres,?the great internal
 convolution. It surrounds the hemispheres internally like a
 riband, and is attached at each extremity to the locus perforates.
+
 It is clearly the basement convolution of the cerebrum.
+
 The second order are the marginal convolutions, of which,
 there are two. One, the great longitudinal convolution, occupies
 the circumference of the hemisphere, forming its excentric or
@@ -938,8 +972,8 @@ outer boundary, while the other surrounds the insula of Reil and
 the fissura Sylvii. They arise from the quadrilateral space, and
 from the convolution of the band, from which they spring like
 buds from a branch.
+
 The great marginal convolution of the longitudinal fissure
-414 PHYSIOLOGICAL PSYCHOLOGY.
 forms the inner border of the triangular orbital surface of the
 anterior lobe, where cleft, as it were, in twain, it receives in a
 deep sulcus the olfactory nerve ; the outer border of the triangular
@@ -947,6 +981,7 @@ surface is formed by the marginal convolution of the fissura
 Sylvii, and at the apex of the triangle behind, the two borders
 are connected by a short and but slightly elevated convolution,
 bounding the locus perforatus anterior in front.
+
 The convolutions of the third order, of which there are two
 sets, are situated on the internal surface of the hemispheres,
 forming a sort of anastomosis between the convolutions of the
@@ -954,6 +989,7 @@ first and second order. These hook-like processes on the convo-
 lution of the band, led Rolando to call it processo cristato. The
 second set are within the fissura Sylvii, and constitute the insula
 of Reil.
+
 The convolutions of the fourth order, the largest, deepest, and
 least symmetrical of all, are quite detached from the perforated
 spot, and have no direct connexion with the convolutions of the
@@ -961,10 +997,12 @@ first order. They occupy, in a transverse direction, the outer or
 convex surface of the hemispheres, and they thus connect the
 two convolutions of the second order together?viz., the marginal
 convolution of the median fissure and that of the fissura Sylvii.
+
 They are especially characteristic of the human brain, and may
 be considered " as prolongations of the convolutions of the third
 order, below the two convolutions of the second order, and
-running directly across the upper surface of the brain."*
+running directly across the upper surface of the brain.
+
 We may now proceed to the determination, if we can, of the
 organ of the perceptive consciousness in the cerebrum, and then
 resume the consideration of the phenomena which formularize
@@ -974,6 +1012,7 @@ is the correlative of sensation, and indicates its intellectual phase ;
 for, in this second stage of our psychological development, we
 have intelligent ideas, emotional feelings, and volitional
 actions.
+
 I quite agree with Dr Todd, that the psychologist must
 determine what are and what are not fundamental faculties of
 the mind, before the physiologist can venture to assign to each
@@ -985,8 +1024,6 @@ tional powers. In the nervous apparatus of the sensational con-
 sciousness, we have seen that there is a central organ?a point of
 unity around which the various sensations are marshalled, and
 that the thalami optici are these central foci of sensibility,
-* Solly "On the Brain," page 136.
-PHYSIOLOGICAL PSYCHOLOGY. 415
 1 without which the mind could not perceive the physical changes
 resulting from sensitive impressions." So, too, the perceptive
 consciousness has its central organ, where ideation is effected,
@@ -1033,7 +1070,6 @@ his organs of individuality; but since these convolutions are mani-
 festly&the portals to intellectual action, and as perception is but
 one and the first step above sensation, I think we are fully war-
 ranted in taking a more comprehensive view of their formation,
-4] 6 PHYSIOLOGICAL PSYCHOLOGY.
 and in considering them the organs of the perceptive consciousness,
 ?the seat of ideation, memory, and volition. Now, of all the
 convolutions of the brain, they are the most symmetrical; they
@@ -1060,7 +1096,8 @@ outer and most exalted boundaries of the hemispheres, and with
 those which take a longitudinal but tortuous course on the upper
 and outer surface of the brain, thus connecting, as it were,
 perception, the first step above sensation, with the loftier regions
-of thought.*
+of thought.
+
 Now it is only in the human brain, that these basement con-
 volutions of the hemispherical ganglia exist in the highest state
 of development. Compared with what we meet with in the
@@ -1084,7 +1121,7 @@ terior part. Some of these folds are not distinctly visible unless the sulcus ab
 has been freely opened, as they are situated quite on its floor. ?(Dr Todd, on the
 Physiology of the Nervous System, " Cyclopaedia of Anatomy and Physiology,"
 p. 697.)
-PHYSIOLOGICAL PSYCHOLOGY. 417
+
 contrast is not more striking than it is psychologically significant.
 In man these complications and relations with the other primi-
 tive convolutions of the cerebrum are commensurate with their
@@ -1108,12 +1145,14 @@ that while sensation, on the one hand, is wholly subjective, in
 relation to knowledge, perception is, on the other, objective.
 In other words, the one is self, and the other is world-con-
 sciousness.
+
 " But self-consciousness and world-consciousness are indissolubly
 connected. The one cannot exist without, but only by the other.
 Self is first perceived as that which is not phenomenon; the world is
 first perceived as that which is not self."*
 But self-consciousness is the primary condition; fora as we
 have already seen,?
+
 " The mind at first exists simply upon its sensational stage of develop-
 ment, and it only gradually, through the various impulses exerted by all
 the variety of subjective impressions, struggles out of self, and sees both
@@ -1130,11 +1169,10 @@ ceptive faculty idealizing the impression and converting it into
 an intellectual phenomenon, or knowledge. For no sooner has
 the perceptive consciousness been awakened, than a sight or
 sound which before produced an involuntary start, now excites a
-* Morell's "Psychology." t Ibid.
-418 WILLIAM PALMER.
 smile of recognition, the mind struggles out of self, beginning to
 throw itself into the objects around it, and to live in the world
 of outward realities. Mr. Morell has well observed,?
+
 " Man is, at first, a mere creature of sensation and instinct; from
 that he rises to the power of perception, separating the world from
 himself, and becoming conscious, here of his own identity, there of
@@ -1150,5 +1188,5 @@ the reason are given the conditions for the development of the will,
 which rises, through like gradations, from mere instinct to conscious
 self-action, and, at last, to the height of perfect freedom."*
 {To be continued.)
-\ /
+
 * Morell's "Elements of Psychology," page 59.

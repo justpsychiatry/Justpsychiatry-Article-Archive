@@ -17,7 +17,7 @@ copyright = '2022, Justpsychiatry'
 author = 'Justpsychiatry'
 
 
-#release = '0.3'
+release = 'latest'
 #version = '0.3.0'
 
 # -- General configuration
@@ -55,7 +55,7 @@ exclude_patterns = []
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_title = "Justpsychiatry Article Archive"
-html_baseurl ='https://justpsychiatry.co.uk/en/latest/'
+html_baseurl ='https://justpsychiatry.co.uk/'
 
 bibtex_bibfiles = ['refs.bib']
 bibtex_reference_style = 'author_year'

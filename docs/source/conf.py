@@ -33,6 +33,7 @@ extensions = [
     'sphinxcontrib.apa',
     'myst_parser',
     'sphinx_rtd_theme',
+    'sphinx_search.extension',
 ]
 
 intersphinx_mapping = {

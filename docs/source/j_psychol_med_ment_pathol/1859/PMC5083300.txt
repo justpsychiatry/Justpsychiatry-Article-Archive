@@ -1,11 +1,10 @@
 Psychology Of Kant
 ===================
 
-39
 Akt. III.?
-.*
-BY PROFESSOR HOPPUS.
+:Author: Professor hoppus.
 [Continued from, vol. xi. p. 521.)
+
 We now proceed, from the Categories, to further developments.
 Our philosopher next gives us what he terms the deduction of
 the categories, meaning their derivation from their transcendental (a priori) source in the understanding itself, which applies
@@ -40,13 +39,14 @@ and the picture would be imperfect. But such a reproduction
 involves the memory of what has already presented itself to our
 * Immanuel Kant's sammtliche Werke, (Rosenkranz,) Leipzig.
 + Logik : Eimleitung, V.
+
 Vorstellungen ; presentations would here be a better word, though not usual.
-40 PSYCHOLOGY OF KANT.
 senses. Again, memory implies the conviction of consciousness
 that the successive representations which present themselves in
 us are always identical. Thus every synthesis which the understanding makes when it thinks the objects of sense, is effected
 by the joint agency of imagination, memory, and consciousness
 ?faculties which Kant regards as subservient to it.
+
 The whole discussion on the "transcendental deduction" of
 the categories, or the legitimacy of their origin in the spontaneous activity of the understanding, and of their application to
 phenomena, is sufficiently obscure, although this portion of the
@@ -56,6 +56,7 @@ longer now, as before, regarded as attaching to sensuous intuition, but as devel
 faculty of thought. His speculations on consciousness are involved in considerable difficulty; and the changes he made, in
 different editions, on this subject, indicate something like a want
 of reliance on his own statements.
+
 Here we must remind the reader that we have already glanced
 at our author's doctrine of internal sense?that is, of the intuition of self and our internal state, of which the form is time,
 since all that passes within us must take place in time. We
@@ -70,6 +71,7 @@ is, the mind is presented to itself phenomenally only, like any
 phenomenon of external sense. Hence this sort of consciousness is an affair of sense, and not of understanding; wre are
 as passive in it as we are when a sound salutes our ears, or the
 sun dazzles our eyes.
+
 In his doctrine of the understanding, however, Kant presents to
 us a very different view of consciousness. It is now an affair of
 thought, not of sense. The terms, indeed, in which these two
@@ -79,11 +81,13 @@ than to clearness ;f but when he wishes to distinguish the con* Das Bewusstseyn 
 Ich, etc., Vid. Kritik (Eosenkranz), Swpplem. XI. This whole passage contains the
 main development of Kant's theory of consciousness as identified with the internal
 sense.
+
 t Perhaps some light may be thrown on this obscure portion of the Kritik, by a
 reference to the two different views which have been entertained respecting conPSYCHOLOGY OF KANT. 41
 sciousness of thought from the consciousness of sense, lie names
 the former apperception, the latter internal sense. We give a
 very few brief quotations :
+
 " The I thinlc (Ich denke) must accompany all my representations,
 or else they would be in relation to me nothing. Representation
 given previously to all thought is called intuition. All the diversity
@@ -94,6 +98,7 @@ unite them.# I am conscious of a necessary a priori synthesis of my
 representations, which is called the original synthethic unity of apperception. In systems of psychology, the internal sense is commonly
 held to he one with this faculty of apperception; while we, on the
 contrary, carefully distinguish them."
+
 " How the ego which thinks is distinct from the ego which intuits
 (views) itself, and is yet one and the same with it, as the same
 subject?how I as thinking intelligence know myself as an object
@@ -102,12 +107,14 @@ and as considered by the understanding, but merely as I appear ??is
 a question neither more nor less difficult than the question, How can
 I be an object to myself ??how can I be an object of my intuition
 and inward perceptions ? Such, however, is the fact."
+
 " As regards internal intuition, we know our own subject (mind) as
 phenomenon, and not as it is in itself. On the other hand, in the
 transcendental synthesis of manifold representations, consequently in
 the sjmthetical unity of apperception, I am conscious to myself, not as
 I appear to myself, nor as I am in myself, but only that I am. This
 representation is a thought, not an intuition."
+
 " I do not see why so much difficulty should be found in admitting
 that our internal sense is affected by ourselves; every act of attention
 exemplifies it The I think expresses the act of determining
@@ -126,10 +133,11 @@ contradiction in his theory, as given under the head of sense, and as given here
 under the head of understanding, though he was quite alive to the mystery of the
 fact that the mind can and does direct itself to an observation of its acts and states,
 as its own.
+
 * Wolf says (Metaphys, cap. iii. ? 194,) "Die Yerbindungder Vorstellungmit
 dem Bewusstseyn heisst denken."
 + Kritik der r. Yernunft: Deduction der reinen Verstandes-begrijfe. Ausg. 2.
-42 PSYCHOLOGY OF KANT.
+
 It is evident from these statements and others that might be
 quoted, that Kant held with two principles in consciousness, which
 were always found co-existing. This union of both has perhaps
@@ -163,9 +171,8 @@ objective unity by means of which the variety of intuition is referred to an obj
 unity is effected is the judgment. Objective knowledge is therefore subjected to the primitive elements of judgment?that is, to
 the categories. These, though only simple forms of thought, have
 an objective validity in their application to phenomena, which
-* M. Cousin, however, maintains that the two views are in absolute contradiction,
+M. Cousin, however, maintains that the two views are in absolute contradiction,
 and wonders that no critic of Kant has ever pointed this out. Lemons sur Kant, 5.
-PSYCHOLOGY OF KANT. 43
 these forms determine. Our experience of all nature becomes
 possible only by means of these categories, for that experience
 must be in accordance with them. As the a 'priori conditions of
@@ -177,6 +184,7 @@ or their laws. The laws of phenomena are all that we know, and
 these are the laws of thought. Nature is nothing but the systematic
 aggregate of phenomena, such as we conceive them in virtue of
 the laws of our faculties of sense and understanding.
+
 2. The Analytic of Principles (Analytik der Grundsdtze) next
 follows. It is to be a guide to the faculty of judgment in applying to phenomena the categories, which are the necessary conditions of a priori principles, as will appear; for understanding
 includes both conception and judgment; which latter faculty
@@ -207,7 +215,6 @@ conception and thought must also go on in time. Time is the
 common form both of external and internal sense. It is therefore the uniting bond of both; and its transcendental determi* See the Table of the Categories in our Number for July, 1858.
 t Aristotle uses this term {axwa) for tlie figures of the syllogism.?Analyt.
 Prior. Lib. i. cap. 6.
-44 PSYCHOLOGY OF KANT.
 nations, as we shall presently see, render possible the schematism
 which enables us to fit on, as it were, the categories to the cor
 responding phenomena. Many of our readers perhaps would see
@@ -220,6 +227,7 @@ is, at all events, an ingenious subtilty, founded on a true view of
 time as the background of all sense and thought, whatever may
 be its merits in detail. Of course it is, as usual, loaded with
 technicalities.
+
 A schema is not an image. Five dots form an image of the
 number five. But we can only think number in general: we
 cannot make an image of anything that is not special. Number
@@ -236,24 +244,26 @@ not the schema of an image : it is simply the pure synthesis expressed in the ca
 transcendental product of imagination determining our internal
 sense according to the conditions of time, in respect to phenomena, in harmony with the unity of consciousness. The transcendental schemata of the categories, and the sub-schemata of
 the sub-categories are as follows :
+
 The schema of Quantity, as a pure conception of the understanding, is number, which comprises the successive addition of
 unities of the same kind in a series of time ; so that number is
 the synthesis of all the variety of our homogeneous intuition in
 general. This view applies equally to unity, plurality, and totality : for unity as applied to an object means that it is taken
 one time, plurality more than one time, and totality a unity of
 times.
+
 The schema of Quality marks the content of time, or existence
 in time. Reality as a pure conception corresponds to our sensations and the phenomena which occasion them. Every sensation
 has a degree by which it fills time, more or less, until it vanishes
 into negation. We may see a brilliant light: here is something
 in time, or which fills time, a reality. The sensation may
-PSYCHOLOGY OF KANT. 45
 diminish, the light becoming fainter and fainter : here is limitation, or a transition from time filled to time empty; and when
 the light has vanished we have a negation of the reality, or nonbeing in time.
 The schema of Relation lias reference to order or arrangement
 in time. Subsistence has for its schema permanence in time, or
 reality considered as the substratum which remains while all else
 changes. Time passes not, says Kant, it does not change.
+
 Hence what is unchangeable in objects corresponds to time; and
 permanence in time is the most general conception of substance,
 which is the unchangeable in existence. Causality, again, points
@@ -273,6 +283,7 @@ where it seemed desirable, we will here give the above theory in a
 Table, which Kant has not done. It will already have been
 noticed that the schematism closely follows the order of the
 categories.
+
 Schematism of the Categories.
 1. Quantity, (series in time.) 2. Quality, (content or matter
 Unity, (one time.) of time.)
@@ -290,13 +301,14 @@ in using this latter term, in his Schematism, makes it synonymous with Sachheit'
 matter of fact. It is evident, however, that he attached no importance to these
 verbal variations. Existence is a matter of fact, both in distinction from a mere
 negation, and a mere possibility.
-46 PSYCHOLOGY OF KANT.
+
 4. Modality, (mode of connexion or non-connexion with time.)
 Possibility and impossibility, (conceivableness of being in some
 time or not.)
 Existence and non-existence, (being in a certain time or not.)
 Necessity and contingency, (inconceivableness of not being at
 all times, and the reverse.)
+
 Sucli, then, is the " schematism" of the understanding. Agreeably to his twofold view of consciousness, Kant says it is " simply
 the unity of the varieties of intuition in the internal sense,
 amounting indirectly to the unity of apperception, as a function
@@ -318,6 +330,7 @@ next proposes to exhibit systematically these judgments?namely,
 those which the understanding produces a priori, ultimate principles not being derived from any higher or more general truths.
 These principles are nothing more than rules for the objective
 use of the categories.
+
 As these principles are synthetical, and not analytical, Kant
 here adverts to the distinction with which he set out. The judgment (proposition) body is extended is analytical, the predicate
 being already contained in the subject. Body is not extended,
@@ -331,7 +344,6 @@ It is also a priori, for it is not an induction from experience, but
 is a universal and necessary truth. . No doubt its predicate does
 not contradict its subject; so far well, but this says nothing to its
 validity. Kant says, again, that there must be a medium in
-PSYCHOLOGY OF KANT. 47
 which alone the synthesis of subject and predicate can unite?it
 is that in which all our representations are contained?namely, the
 internal sense, and its form a priori, time. The synthesis
@@ -340,6 +352,7 @@ to mean that such truths?those which can neither be proved nor
 denied?have their seat and their self-evidence in the inmost
 convictions of our consciousness. We believe such propositions
 just because we cannot help believing them.
+
 The principles which we have now to detail relate, severally,
 under the categories, to the following heads, which are given in
 Kant's usual peculiar and technical style :
@@ -352,6 +365,7 @@ Anticipations of Perception.
 4. Modality.
 Postulates of Empirical
 Thought.
+
 1. Axioms of Intuition?that is, the laws or ways in which
 objects can he presented to us, have for their principle, that all phenomena are extensive quantities; they have magnitude in space,
 or are conceived of as having continuity in time: for space and
@@ -371,11 +385,11 @@ is evident that the sub-categories of quantity, which are unity,
 plurality, and totality, have always to do with phenomena as presented in space, or numbered in time?that is, they all express
 magnitudes conceived of as measurable, and therefore to be called
 " extensive."
+
 2. Anticipations'* of Perception.?By this expression Kant
 means our previous knowledge of a certain general characteristic of
 our sensations. He does not here allude to the universal a priori
 * Kant says the of Epicurus suggested to him this ter.ii.
-48 PSYCHOLOGY OF KANT.
 conditions of space and time as necessary to our perception of
 phenomena. What to us appears real in these phenomena corresponds to the sensations they produce in us. Hence the principle of the a priori knowledge or anticipation referred to is, that
 all phenomena, as represented by our sensations, must have intensive quantity, or must present themselves as of a certain degree of
@@ -386,6 +400,7 @@ we ascribe to it degree, or intensive quantity, a degree of effect
 on sense. Kant uses the term " intensive quantity" for a quantity
 which is "apprehended as a unity only, or in which plurality can
 be represented only by gradual approximation to negation =0."
+
 For our perception of external things takes place through sensation, which has no extensive quantity. There is in it no successive synthesis from part to part till we reach the whole as
 in measurable magnitudes. Our sensations are wholly subjective ;
 they are our own feelings, though they represent qualities of
@@ -410,9 +425,9 @@ quality being thus determinable, Kant regards the synthesis
 belonging to these categories as mathematical or constitutive.
 He terms the third and fourth principles, to which we now proceed, regulative, as they only concern, as we shall see, the relations of existing phenomena?not the very phenomena themselves
 in their magnitudes or degrees.
+
 3. The general principle of the Analogies of Experience is that
 experience is only possible through a necessary connexion of our
-PSYCHOLOGY OF KANT. 49
 perceptions; in other words, we must have in our minds a fixed
 synthesis of phenomena, in order to have an experimental knowledge of them. Experience is a synthesis of our perceptions, which
 is not contained in our perceptions themselves. I see the woodman's axe fall: I afterwards hear the sound of the blow. Here
@@ -420,6 +435,7 @@ are two perceptions, one from sight, one from hearing. My experience teaches me 
 perceptions themselves do not contain this synthesis or conjunction as involving a necessary bond between the phenomena. In
 Kantian phrase, we have here a synthesis which contains the
 "unity of the diversity of these perceptions, in our consciousness."
+
 The two events only present themselves as empirically related in
 time, hut with no sense of necessity. Experience, however, is
 only possible by means of the necessary connexion which the
@@ -432,6 +448,7 @@ Relation, to substance and accident, cause and effect, and reciprocity between a
 the three analogies of experience?that is, the three laws for
 determining all the relations of phenomena in time, laws prior to
 experience and rendering it possible.
+
 (1) The first analogy of experience is the principle of the
 permanence of substance. In all the changes of phenomena,
 the substance or object changes not: its quantity remains the
@@ -451,8 +468,6 @@ that the order of the phenomena should be determined, that is'
 which must precede, and which follow. This relationship between
 them is a pure conception of the understanding by which cause
 determines effect as consequence. It follows that experience is
-NO. XIII.?NEW SERIES. E
-50 PSYCHOLOGY OF KANT.
 only possible in so far as we submit phenomena to this law of
 causality. True it is that, in our apprehension of any phenomenon,
 the parts always follow each other, though they do not so succeed
@@ -481,6 +496,7 @@ effect to cause still holds, even where the effects are apparently
 simultaneous with the cause. The relation remains, even where
 no time perceptible to us has elapsed; for had not A existed,
 B would not have arisen.
+
 (3) The third analogy of experience is the principle of coexistence according to the laius of reciprocal agency. All substances, so far as they can be perceived in space as co-existing,
 are in mutual connexion with each other. Our mind views the
 changes of state which substances undergo, as having their causes
@@ -496,7 +512,6 @@ certain succession : we can only place A before B, we cannot
 reverse the order in causation. But on the other hand, I can
 look first at the earth, then at the moon, then at a star, or I can
 look at them in any order as I please. Hence the earth, the
-PSYCHOLOGY OF KANT. 51
 moon, the star, are contemporaneous. I am entitled to say so,
 simply because my perceptions of these objects can thus follow
 each other reciprocally, in any order. The synthesis of the imagination would only go from one of these objects to another, but would
@@ -514,12 +529,14 @@ lead our senses from object to object: the light which plays between our eyes an
 ourselves. It is the relation of reciprocal causality, or of a certain interagency, which alone renders possible our experience of
 the simultaneous existence of things. Only thus?by this community, can objects produce in us a system of corresponding
 perceptions, and a real whole.
+
 Such are the three " dynamical" relations which involve all
 others. Objects must be related to each other as inherent one in
 the other, or as consequential to each other, or as combined into
 a whole ; and the three analogies of experience determine things
 according to the three modes of time?duration, succession, and
 simultaneousness.
+
 4. The Postulates of Empirical Thinking. The general principle here is, that everything which can be known in our experience, must be known under a certain modification of the connexion between the subject and the predicate of the proposition
 in which we state our knowledge of it. Either A may be B (possibly) ; or A is B (the fact exists); or A must be B.(necessarily).
 The categories and judgments of modality do not add anything
@@ -532,8 +549,6 @@ conditions of experience (intuition and conception) is possible.
 The meaning is that for any event or object to be thought as
 possible to occur or exist, it must not violate the laws either of
 sense or understanding. Logical possibility merely demands
-e 2
-52 PSYCHOLOGY OF KANT.
 consistency in our conceptions : tlius that a triangle should have
 four angles involves a logical contradiction. But Ivant here
 refers to a possibility that is real, or in things. The conception
@@ -572,7 +587,6 @@ from given causes, as when A being given in perception, B follows
 in conformity with the laws of causality. Hence the mark of
 necessity is to be found only in that law of a possible experience,
 that everything which happens is determined a priori by its
-PSYCHOLOGY OF KANT. 53
 cause. We therefore only know tlie necessity of those effects in
 nature the causes of which are given to us; so that this necessity
 only regards the relations of things according to the dynamical
@@ -585,6 +599,7 @@ jrtienomena (in munclo 11011 datur hiatus), and any leaps in nature
 (non datur saltus); for there must be a continuity in all causes
 and effects; and no void can be admitted as a part of empirical
 synthesis.
+
 It may be added that while Kant, as we have seen, terms the
 axioms of intuition and the anticipations of perception mathematical or constitutive, because they relate to Quantity and
 Quality, which are extensive and intensive magnitudes?he calls
@@ -610,6 +625,7 @@ the pure understanding are nothing more than principles a priori
 of the possibility of experience; that all synthetical principles a
 priori relate and apply to experience alone; and that their very
 possibility rests entirely on this relationship.
+
 Kant's systematic application of the twelve categories to " principles" here ends. As a kind of appendix to the second postulate,
 he adds some paragraphs by way of refuting Material Idealism,
 which pronounces the existence of external objects either doubtful
@@ -638,6 +654,7 @@ faculty, otherwise the very existence of objects in themselves
 must depend on our own existence. If the material world really
 exists, it must exist in space and time : if not, the material world is
 but an illusion.
+
 Our philosopher further argues that Descartes' principle of the
 certainty of our own personal existence from consciousness, proves
 the existence of phenomena in space, which involve something
@@ -656,13 +673,13 @@ which all our faculties are excited to action. This is obvious
 with regard to our senses; and if we had no senses, how could
 any of our other powers have, at the outset, materials to work on ?
 Thought itself must be first elicited by sense. A human being
-PSYCHOLOGY OF KANT. 55
 without all sensation could not know even his own existence,
 under the present order of things. The me and the non-me, the subjective and the objective, are therefore inseparably correlated in
 all our knowledge. There is a question, however, whether the
 term " consciousness" (Bewusstseyn) ought to be indiscriminately
 applied to our knowledge of ourselves and our knowledge of
 nature, as Kant has done *
+
 This discussion of Kant on material idealism is not free from
 obscurity, on account of his leaving the reader to discover how far
 he is speaking of external phenomenal realities, in distinction from
@@ -686,6 +703,7 @@ take away sensuous intuition?the only intuition we possess.f
 Thought itself is only the act of referring a given intuition to an
 object; and, beyond the sphere of passible experience, no category
 and no synthetic a priori principle can apply.
+
 Now as nothing but phenomena are presented to us in sense;
 that is, nothing but things as they appear to us?to these phenomena, alone, can the understanding apply the categories and the
 principles derived from them. Other possible things, which are
@@ -697,7 +715,6 @@ question simply relates to the nature of our convictions : is the certainty to m
 my own thought and existence, of the same hind precisely as the certainty to me of
 the existence of objects around me?even granting that I am equally sure of both ?
 + This principle is the key to a large part of Kant's speculations on " Reason."
-56 PSYCHOLOGY OF KANT.
 faculty corresponding with them, into negative and positive. The
 notion the understanding represents to itself of a substratum to
 certain sensible properties which sustains or holds them, as it
@@ -720,6 +737,7 @@ us, incomprehensible, since all that is not phenomenon is to us a
 mere void. Understanding and sense must be conjoined; if we
 separate them, we suppose representations which we cannot apply
 to any determinate object.
+
 It is evident that Kant's theory of positive noumena entirely
 limits our knowledge, properly so called, to what is sensuous,
 and borders on scepticism ; he only avoids this rock by an
@@ -741,7 +759,6 @@ a noumenal or "intelligible" world. His theory of negative
 noumena borders narrowly on the "material idealism" which he
 is so anxious to distinguish from his own " critical" or "tran-
 scendental" idealism. Surely it was an assumption to maintain
-PSYCHOLOGY OF KANT. 57
 that things, as they are in themselves, are so different from what
 they are as manifested to us. If they are not as they appear to
 he?how do we know it ? Very true we can only become ac-
@@ -766,6 +783,7 @@ by rendering matter or substance (whatever be our speculations
 with regard to its nature as atomic or merely dynamical) wholly
 dependent on our subjective capacities, is barely distinguished
 from the idealism of Berkeley.
+
 Our author follows up his transcendental distinction of phe-
 nomena and noumena by a dissertation on the equivocal cha-
 racter or Amphiboly of the Conceptions of Reflection* which
@@ -789,7 +807,7 @@ doctrines with their master's. Beck, one of his commentators, regards the JReJle
 Begrlffe as categorical: Kant himself, however, says they are merely the compari-
 son of representations as to their " place." They constitute, in fact, an immediate
 appendix to the remarks on phenomena and noumena.
-58 PSYCHOLOGY OF KANT.
+
 other, in our minds, at the same time, are those of Identity
 and Difference, Agreement and Opposition, the Internal and
 the External, and the Determinable and the Determining (or
@@ -814,6 +832,7 @@ cumstance alone makes them numerically different. It follows
 that objects may be identical in regard to the bare conception of
 the understanding, while they are different in regard to sensuous
 intuition.
+
 Hence, says Kant, the fallacy of Leibnitz's doctrine of the
 " Identity of Indiscemiblesor that 110 two things, in nature, can
 be exactly alike; for, if they were, they would not be two, but
@@ -823,6 +842,7 @@ any two things might in all other respects be alike, they must
 still differ because they must occupy different spaces. Leibnitz
 here confounded phenomena with things regarded as in them-
 selves?objects of pure understanding, noumena.
+
 2. Agreement and Opposition. In regard to these correlates,
 again, we may have confusion in our notions. Realities, as con-
 ceptions of the understanding (realitas noumenon,) says Kant,
@@ -836,13 +856,13 @@ excluding each other. The understanding may frame to
 itself the noumenal schema triangle, but not a triangle which
 has not three sides. On the contrary, the real in a pheno-
 menon (realitas phenomenon)?real properties, may be opposed
-PSYCHOLOGY OF KANT. 59
 to each other while united in the same subject, so as wholly or
 in part to destroy each other. You might keep water on the
 fire, says Kant, at a given temperature, continually, by always
 adding to it ice : or two forces may act in the same straight line
 in opposite directions, and thus counteract each other: or a
 pleasure may balance a pain.
+
 The Leibnitz-Wolfian philosophy maintained the principle,
 adopted by Leibnitz himself, that Realities are never opposed to
 each other; and this was the basis of his theory of evil in the
@@ -879,11 +899,11 @@ such an object as this can we think of, than that which our own
 internal sense presents to us?namely, the power of thought, or
 something having an analogy to it, such as the power of repre-
 sentation ?
+
 Our author brings to this test the Monadology and the Pre-
 established Harmony of Leibnitz; both which he regards as
 founded on an erroneous view of the difference between the inter-
 nal and the external. Leibnitz makes the external relations of
-60 PSYCHOLOGY OF KANT.
 things as only apparent: their true designations are internal.
 The understanding grasps the elementary materials of the uni-
 verse as simple abstractions, without parts, in short, monads;
@@ -918,6 +938,7 @@ other words, space and time are a priori in our sensuous nature,
 (for Kant, it will be remembered, makes them both sensuous,)
 and they precede all the phenomena of sense, that is, all the data
 of experience, and render them possible.
+
 Now, according to Leibnitz, space is nothing but the order of
 things co-existing, and time the order of things successive. This
 is quite at variance with Kant's theory. Leibnitz erred, he says,
@@ -929,7 +950,6 @@ reasoned on the principle that the pure understanding can at
 once seize on objects and deduce their relations; whereas, it can
 only refer to objects by its categories, through the medium of
 sense, which in its forms of space and time is, a priori, the recep-
-PSYCHOLOGY OF KANT. 61
 tivity of all phenomena. Leibnitz* could not "believe that the
 form coulcl thus precede things, and determine their possi-
 bility; lie therefore made space and time possible through our
@@ -943,6 +963,7 @@ in the understanding, not allowing to sense a peculiar mode of
 intuition, but assigning to it only the " despicable office" of
 confusing and disarranging the arrangements of the under-
 standing.
+
 The above remarks on the " Conceptions of Reflection," it will
 have been seen, are intended by our author to show the nullity
 of all conclusions obtained by comparing objects with each other
@@ -975,7 +996,7 @@ standing, and not as a primitive and special source of representa-
 * The Reflexionsbegriffe, and their amphiboly, would almost seem to have been
 invented by Kant for the refutation of some of the main points in the speculative
 philosophy of Leibnitz.
-62 PSYCHOLOGY OF KANT.
+
 tions. He was thus led to a pretended system of knowledge.
 True, says Kant, the understanding limits the sensuous faculty,
 "but without enlarging its own sphere. Sense must not pretend
@@ -991,6 +1012,7 @@ tion is for us empty and goes for nothing, excepting to mark out
 the limits of our sensuous faculty, and to leave remaining a void
 which we can neither fill by possible experience, nor by the pure
 understanding.
+
 Kant regards as necessary to the completeness of his Trans-
 cendental Analytic, a brief statement of his views respecting the
 different ways in which we may arrive at the conception " nothing."
@@ -998,6 +1020,7 @@ He says we are capable of forming the conception of an object
 in general, problematically understood, without its being decided
 whether it is something or nothing. Now, in order to this deci-
 sion, we must proceed according to the categories.
+
 1. To those of Quantity (all, many, one,) none is opposed.
 This conception is ens rationis, an abstraction of reason, like
 noumena, which are not possible in the sphere of reality. This
@@ -1007,6 +1030,7 @@ opposite of reality; that is a conception of the absence of an
 object; cold, or a shadow, are examples. Here we have nihil
 privativum : this nothing is an object emptied of all reality, an
 empty object of conception.
+
 3. Under Relation, we find the sub-category of condition or
 dependence. Pure space and pure time are no objects of intui-
 tion : they are mere forms or conditions on which phenomena
@@ -1017,17 +1041,18 @@ self-contradictory is a mere non-entity, because the conception is
 impossible; as, for example, a figure constructed of only two
 straight lines. This sort of nothing is a nihil negativum, or an
 empty object without conception.
+
 The reader may take these "nothings" as at least an example of
 Kant's ingenuity. They are cleverly made to correspond, in a
 certain sense, with the categories ; so as to show the several ways
 in which we may arrive at the conception of nothing. Nor can
 the praise of great ingenuity and acuteness be denied to the deve-
-PSYCHOLOGY OF KANT. 63
 lopments which are contained throughout the " Analytic of Prin-
 ciples" according to the categories, whatever may be thought of
 some of the details. These details, however, are so mixed up
 with the categories themselves, that they to a considerable extent
 if not wholly depend on the merits of the latter.
+
 This theory of the Categories has been severely criticized, both
 in Germany and elsewhere?not in regard to the idea, which is
 generally admitted, that thought must have its own constitution,
@@ -1066,10 +1091,10 @@ had these forms; if not, how did they assume them ? In this
 way, it would surely be found that they are not all primitive and
 original, in the sense in which some of them are, but which he
 claims for all.
+
 Independently of the principle on which our author proceeded,
 of adopting the ordinary logical forms of judgments as the basis
 of his pure conceptions of the understanding, without a special
-64 PSYCHOLOGY OF KANT.
 criticism in justification of this method, we may well hesitate to
 accept this list of categories as a whole : for, not to insist on
 other objections, it is evident that considerable difficulty attaches,

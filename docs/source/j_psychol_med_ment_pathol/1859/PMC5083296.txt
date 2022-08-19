@@ -1,7 +1,8 @@
 The Ganglionic Nervous System; its Structure, Functions, and Diseases
 ======================================================================
 
-By James George Dayet, M.l>. .London. ?sd?.
+:Author: James George Dayet, M.l>. .London. ?sd?.
+
 " It is the nature of an hypothesis," says Tristram Shandy, " when
 once a man has conceived it, that it assimilates everything to itself as
 proper nourishment; and, from the first moment of your begetting it,
@@ -22,8 +23,10 @@ This sweeping corollary fittingly paves the way for the observations
 which Dr Davey conceives warrant the conclusion, that the organic
 functions, as witnessed in the animal economy, are to be referred to
 the ganglionic nervous system.
+
 As to the structure of this system, he arrives at the following con-
 clusions :?
+
 " a. The ganglionic nervous system first exists in a molecular form; and
 that it is made up of globules dispersed throughout the homogeneous texture
 of the animal, as in the acriti, the lower Entozoa, &c.; as such it has also
@@ -31,6 +34,7 @@ been presumed to exist in the early human embryo. _ _.
 ?b. These nervous globules, arranging themselves m a longitudinal series,
 form filaments, and these 'filaments at length fonn a central point, a gan-
 glion {solar ganglion, Anderson). _
+
 " c. Ascending the scale of animal creation, and arriving at the Hfollusccc9
 nervous matter is found secreted about and around the (Esophagus, and on the
 dorsal aspect of the animal (supra-cesophageal ganglion); this nervous
@@ -43,6 +47,7 @@ including the cerebro-spinal system, are proportionately amplified; the in-
 creased development of the former, and the general augmentation and addi-
 tion of parts m the latter, being in the relation to cach other as cause and
 effect" (pp. 65, 66.)
+
 Now, although we must confess to an inability to comprehend, from
 the text, the precise meaning of the ganglionic nervous system first
 existing in a molecular form, as affirmed in segment a of the conclu-
@@ -52,6 +57,7 @@ as to the signification which Dr Davey desires to be attached to the
 presumption respecting the existence of the ganglionic nervous system
 in the early human embryo. Dr Davey writes, apropos of Dr Car-
 penter's views on cell-growth :?
+
 "Now, if we will be at the trouble to inquire more particularly into these
 ' cells' so constantly mentioned by Dr Carpenter; if we will take the pains to
 investigate the nature of their vital properties, their specific offices in the
@@ -70,10 +76,12 @@ words : ' Still we shall find the general rule to hold good, that all the animal
 tissues are developed in the first instance through the medium of cell-life ; and
 that in the organs subservient to the strictly vital operations, cells remain the
 essential instruments
+
 " The inevitable conclusion from the facts and reasoning of Dr Carpenter
 is, that the organic or vegetable functions, as observed in even plants, and in
 the lowest forms of animal life, are due to'vital operations' consequent on
 their ' cellular type of structure.'
+
 " I cannot myself doubt that nervous matter is present in ' a diffused form,'
 i, e., incorporated with the other tissues, in all those animals wherein no
 distinct nerve structures have been made out. I cannot dissociate the positive
@@ -83,19 +91,21 @@ by Dr Carpenter is, in all respects, identical with the ' impetum faciens' of
 "Hippocrates, the 'materia vitse ot Hunter, the 'nisus formativus' of Blumen-
 bach, the ' irritability' (motions irithout force) of Haller, the ' creative force' of
 Muller, and so on." (pp. 58, 59.)
+
 To confound, as has been done in the paragraphs quoted, the general
 doctrines of cell-growth and the nature of cells with the attributes and
 properties of certain cells having a special function, and which are
 stated to exist in what are nevertheless asserted to be homogeneous
 structures; and, also, with the cells which constitute the human
-REVIEWS. 143
 embryo in its earlier stages of development, is to reduce the whole
 matter to verbiage, of which the meaning entirely escapes our com-
 prehension.
+
 It is needless to examine the remaining conclusions of Dr Davey
 on the structure of the ganglionic system, as they are based more
 upon the opinions quoted above on the nature of cells than upon actual
 examination.
+
 Dr Davey is scarcely happier in his speculations upon the functions,
 than he is upon the structure of the ganglionic nervous system. He
 considers that it "performs" the whole of the organic functions (those
@@ -104,6 +114,7 @@ tion, absorption, calorification, &c.; that it presides over the brain and
 spinal cord; and that it is the source of instinct; in short, that the
 ganglionic nervous system is the source and mainspring of all the
 vital actions of an organism.
+
 It is not always easy to follow the course of the argument by which
 Dr Davey arrives at this startling generalization. The existence of
 "irritability" in an animal from which the brain and spinal marrow
@@ -120,6 +131,7 @@ contractility (p. 77); in a third it becomes "a peculiar kind of sensi-
 bility" (p. 79); and in a fourth it represents the "true spinal pheno-
 mena" (p. 75). Concerning this phenomenon, " irritability," Dr Davey
 writes:?
+
 " I have on many occasions performed the experiment on the frog, as de-
 tailed by Dr M. Hall, and I have invariably found that the removal of the
 viscera and ganglionic system, as described by him, is fatal to the life of the
@@ -132,6 +144,7 @@ spinal cord?and not less its capacity to execute its normal functions in the
 animal economy?is derived from the ganglionic nervous system, is to my mind
 certain, and not less easy of demonstration than is the presence of the sun
 at noonday.
+
 " One word more, ere I conclude my criticisms of the experiments of Drs.
 le Gallois and Hall. The latter gentleman finishes the description of his
 famous experiment on the frog with these few words?viz., ' Having thus,
@@ -141,13 +154,13 @@ but into three, pervading all the different parts of the whole animal frame?I
 shall venture to term them the cerebral, the true spinal, and the ganglionic
 systems.' I would remark that, whilst accepting this division of the nervous
 organism, I would submit that both the first and the second named are de-
-144 REVIEWS.
 pendent on the third; that they derive not only their very existence and
 integrity from it, but also perform their respective functions in virtue only of
 the influence they rcceive from it; and that they are, as it were, employed by
 it to establish our dependency on, and relationship to, the external world, of
 which man forms a part." (pp. 79, 80.)
 And further, Dr Davey writes :?
+
 " The cerebral and spinal systems of nerves together perform the animal
 functions, which, in the words of an eminent physiologist (Blumenbach), prove
 us feeling, thinking, and willing beings; they are the actions of the senses,
@@ -165,6 +178,7 @@ named were removed from the influence of the ganglionic nerves entering so
 largely into its very composition, its specific vitality must cease?i. e., the
 function it was wont to exercise would end in the individual?its contribution
 to the sum total of life would be withheld." (pp. 80, 81.)
+
 Having thus exhausted the relation and asserted the supremacy of
 the functions of the ganglionic nervous system in organic life, it be-
 comes necessary to ascertain the relation of that system itself to vital
@@ -181,6 +195,7 @@ result of life?the functions of a part?should be called its life, life
 could not be said to be the result of organization, but of a power to
 which organization is an instrument" (p. 83) ; he arrives at the con-
 clusion that life is a product of the nervous system.
+
 "In considering the effects of certain vivisections on animals, as well as
 the consequences of accident to man, in so far as both these involve more
 immediately the ganglionic nervous system, the attention is with much cer-
@@ -193,16 +208,18 @@ integrity equally by the several ganglia forming a part of the ganglionic
 nervous tissue;' whilst in man, including the more perfect animals, the vital
 principle (the ' anima') is in great part generated in a central organ (the solar
 ganglion), and from it diffused through the whole body.
+
 "It is rightly inferred that life, regarded in the abstract, is identical
 throughout all animate nature; in every genus, species, and variety; and in
-REVIEWS. 145
 each individual of all three of these artificial divisions, 'life' is seen, or rather
 known, in connexion only with an especial nervous apparatus ; and that these
 stand in relation to each other as cause and effect, it would seem impossible to
 doubt.'5?(pp. 105, 10G.)
+
 Here, then, we liave the assertions that organization is the result of
 life, and that life is the result of organization; i. <?., life is the cause
 of life?the cause of the cause? a reductio ad absurdum.
+
 We need not dwell upon the pathological reasons with which Dr.
 Davey seeks to support the foregoing propositions, nor detail the facts
 which he conceives demonstrate the truthfulness of his opinion, " that
@@ -223,6 +240,7 @@ tion the subsequent conversion of the " nisus formativus" into the
 by which Dr Davey seeks to show that secretion, nutrition, and
 animal he?t, have their source in the ganglionic system, and it is only
 necessary to quote the statements that?
+
 " The storge is an instinctive act, peculiar to birds, &c.; and the great animal
 heat which attends it affords reason to conclude, that both instinct and animal
 heat have one common cause or origin." (p. 127, note.') " The
@@ -236,17 +254,18 @@ intelligence, for reason. Instinct is to the wasp or beaver what experience
 ments which are directed to the supply of its physical wants, as experience
 and reason may and do a healthy and sane man to eat, or sleep, or walk, and
 so on."?(pp. 135, 13G.)
+
 Moreover, we may only quote, without attempting to ascertain
 their signification, certain conclusions which, wTith other conclusions,
 are attached to a paper of considerable length on the excito-motory or
 diastaltic nervous system, and added to the physiological division of
 the work:?
+
 " That both the external and internal excito-motory phenomena are alike
 dependent on the vital stimulus imparted by the great sympathetic nerve;
 and, in the former instance, through the instrumentality or medium of the
 medulla spinalis.
-NO. XIII.?NEW SERIES. L
-146 PLEA OF INSANITY?TRIAL FOE MURDER.
+
 " That such is the relationship between the great nervous centres, viz., the
 brain, spinal cord, and the solar ganglion, that the second (viz., the spinal
 cord), being at one time under the dominion of the first, i. e., the brain, and at
@@ -259,9 +278,11 @@ organic nervous apparatus is in the ascendant, and the brain comparatively
 quiescent?or, in other words, when sensation (spinal) and motion, and not
 consciousness and volition (cerebral attributes) are in operation; if I may be
 allowed so to express myself.
+
 " That the great sympathetic nerve is endowed with a specific and inde-
 pendent power, to whicli both the brain and spinal cord, and with them, of
 course, their functions are subordinate."
+
 Dr Davey's views on the pathology of the ganglionic nervous system,
 and the treatment of its diseases, are founded upon his physiological
 notions, and the vices of the latter prevail also in the former.

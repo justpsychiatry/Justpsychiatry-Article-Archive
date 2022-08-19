@@ -9,3 +9,6 @@ sphinxcontrib.apa
 sphinx_opensearch
 sphinx_design
 sphinx-sitemap
+readthedocs-sphinx-search
+opensearch-py
+sphinxcontrib.datatemplates

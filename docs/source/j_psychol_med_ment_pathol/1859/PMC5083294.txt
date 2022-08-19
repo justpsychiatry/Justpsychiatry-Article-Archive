@@ -27,6 +27,7 @@ opinion, that in each instance the convulsion is looked upon as
 the manifestation of additional life in the muscles,?a life foreign
 to the individual in the one case, an excess of life belonging to
 the individual in the other case.
+
 The present, however, is an age of change, and among other
 ( things doomed to change, may be these opinions. At any rate,
 I it is now maintained, and with no small show of reason, that mus-
@@ -40,8 +41,8 @@ in this manner only. In a word, a physical and intelligible hypo-
 thesis is offered in place of a vital and unintelligible hypothesis?
 for to call a phenomenon vital, is to confess that it is unintel-
 ligible.
+
 The hypothesis to which we here refer, and which has been
-90 ON CONVULSION.
 advocated for several years by Dr Radcliffe, has been brought
 out recently in a much more circumstantial and satisfactory
 form*?a form so satisfactory that we think it necessary to do
@@ -49,12 +50,14 @@ what we can to make it known, for it is assuredly of high moment
 to all who are concerned in the study of diseases of the brain
 and nervous system to have right notions on the subject of
 convulsion.
+
 Dr Radcliffe begins his inquiry into the physiology and patho-
 logy of muscular action by showing that muscular contraction is
 not produced by the stimulation of any property of contractility
 belonging to muscle; and first of all he attempts to show that
 the action of electricity in muscular contraction is not that of a
 stimulus.
+
 The principal facts under this head are these:?Muscle, in
 common with nerve and other, if not all, animal tissues, is the
 seat of definite electrical actions. These actions are only mani-
@@ -83,13 +86,13 @@ tion of the nerve, the needle immediately travels back again and oscil-
 lates on the other side of zero. These are the simple facts. As soon as
 the muscle is tetanized, that is to say, the needle is acted upon by a
 reverse current.
+
 " Now it cannot be supposed that this current is due to the irruption
 of a current from the induction apparatus by which the muscle is teta-
 nized into the circuit of the galvanometer, for both galvanometer and
 coil are carefully insulated. Moreover, there is the same reverse current
 * "Epilepsy and other Convulsive Affections." Second Edition. Churchill,
 London. 1858.
-ON CONVULSION. .91
 (only in a less marked degree) when the muscle is tetanized by other
 means, as by subjecting the nerve to mechanical or chemical irritation,
 or by acting upon it by heat. Nay, the same current is seen to be
@@ -106,6 +109,7 @@ reverse current may be manifested during tetanus, in consequence of
 the proper muscular current having become weakened. And that this
 is the true explanation may be seen by the following modification
 of the same experiment.
+
 " The only difference between the experiment as modified and the
 original experiment is this?that one of the electrodes, instead of being
 connected with the galvanometer by a continuous piece of wire, is
@@ -136,10 +140,10 @@ of the elongated muscle, was from 40? to 60?, and the permanent
 deflection from 5? to 7?; whereas the primary deflection of the needle,
 under the current of the tetanized muscle, was from 8? to 15?, and
 the permanent deflection from 1? to 2?."?(pp. 26-30).
+
 Here, then, are two facts to begin with?two facts which are
 of primary and fundamental importance. The one is, that the
 contraction of death, rigor mortis, does not come on until the
-92 ON CONVULSION.
 electrical action of muscle?or the muscular current, as it is called
 ?is at an end ; the other is, that the muscular current is weakened
 in ordinary muscular contraction. These are the facts; the in-
@@ -171,6 +175,7 @@ an unquestionable fact in physiology?and shows that it agrees
 with the muscular current, in that it affords evidence of enfeeble-
 ment during muscular contraction. Take a beautiful experiment
 by Dr du Bois-Reymond as an instance in point:?
+
 " A frog is fastened upon a suitable frame, and then, after tying
 its common iliac artery, the ischiatic nerve is cut low down in the
 ham and dissected up to the vertebral column. After this the lower
@@ -187,7 +192,6 @@ to zero, and this not only during the principal attacks, but also during
 those single shocks which are produced on touching the animal. It is
 seen further that the needle continues at this point so long as the
 tetanus continues, and that it again diverges from zero when the
-ON CONVULSION. 93
 spasm passes off. It is seen, indeed, that the 1 nerve current' is en-
 feebled during muscular contraction. In some frogs upon which I
 repeated this beautiful experiment, the primary deflection of the needle
@@ -196,6 +200,7 @@ toms was from 15? to 20?, and the permanent deflection from 2? to 4?;
 and, after the supervention of these symptoms, the primary deflection
 was from 3? to 4?, and the permanent deflection scarcely perceptible."
 (pp. 44, 45.)
+
 With respect to the action of*a foreign current upon the nerve,
 it is also found that the results, so far as muscular action is
 concerned, are precisely analogous to those which attend the
@@ -221,10 +226,12 @@ nerve, and that muscular contraction is connected in some way
 with the diminution or annihilation of this action, and not with
 the stimulating action of electricity upon a vital property of irri-
 tability inherent in nerve.
+
 After these considerations, Dr Radcliffe adduces facts which
 seem to demolish the idea that muscular contraction is produced
 by any kind of stimulation derived from the nervous centres.
 Thus:?
+
 " In these experiments, weights of different sizes are suspended from
 a small hook that has been previously attached to one of the hind
 legs, a little above the heel. The frog is then held up by its fore
@@ -235,7 +242,6 @@ heavier, until the animal is no longer able to withdraw its leg from the
 torture to which it is subjected. This being done, the next thino- is
 to divide the spinal cord immediately behind the second pair of
 nerves; and to go on testing the muscular power of the paralysed
-94. ON CONVULSION.
 legs. The results are very strange. Immediately after tlie operation,
 the muscular power that can he put forth by the weighted leg when
 the toe is pinched is sometimes nil, hut generally it is no more than a
@@ -285,6 +291,7 @@ Gram. 10 30 40
 130
 140
 140
+
 " When the increase of the muscular power has attained its maximum,
 it may remain nearly stationary for six, ten, fifteen, or twenty days,
 and after this time it fails by slow degrees. In a month, if the animal
@@ -294,6 +301,7 @@ fallen still lower, until it is not more than a third or a half of this
 value. It is possible, however, that the increased muscular power
 would not have failed in this way if care had been taken to exercise
 the paralysed limbs by galvanism.
+
 " Nor is it easy to agree with Dr Marshall Hall in thinking that this
 increase of muscular power is due to an increased stimulation of the
 muscles on the part of the spinal cord (which inordinate stimulation
@@ -302,6 +310,7 @@ been withdrawn), for there are other experiments which show plainly
 enough that the muscular power is augmented, not only in a similar
 but even in a higher degree, after the muscle has been cut off altogether
 from the spinal cord.
+
 " In the paper on muscular irritability, to which reference has already
 been made, and which is deserving of study, as well for the facts as for
 the opinions contained in it, Professor Engel, of Zurich, has shown that
@@ -312,7 +321,7 @@ ten minutes, he finds that the muscles have become so irritable as to
 be thrown into a state of contraction by a blow on the table. He
 finds, indeed, that the muscles are as irritable as they are in narco-
 tized frogs.
-ON CONVULSION. 95
+
 " Some very conclusive evidence to the same effect is also furnished
 in the following experiment by Dr Brown-Sequard. In this experi-
 ment the spinal cord of a frog is divided immediately behind the roots
@@ -325,8 +334,10 @@ bility is augmented' in both these limbs, and that this augmentation is
 most considerable in the limb ivhose nerves had been divided?in the
 limb, that is to say, which had been cut off from the spinal cord."
 (p.p. 60?63.)
+
 Even tlie action of the will upon muscle is not allowed to be
 that of a stimulus :?
+
 " Is it not certain," says Dr Badcliffe, " that the will acts in this
 case by stimulating the muscle to contract ? It is difficult, no doubt,
 to think differently. It is more than difficult to wean the mind from
@@ -360,17 +371,18 @@ veins stood out distinct and full as during life. Then the muscles
 relaxed, first the fingers and lastly the muscles of the shoulders, and
 on examination they were found to have recovered their lost irrita-
 bility. At 11.45 p.m. the muscles were more irritable than they had
-96 ON CONVULSION.
 been at 5 p.m., at which time the corpse was first examined; and this
 degree of irritability was kept up, without abatement, until 4 a.m.,
 when fatigue compelled Dr Brown-Sequard for the time to abandon
 the experiment. When the experiment commenced, the temperature
 of the blood was 73? Fahr., and that of the room 66?Fahr. "
 (pp. 67?68.)
+
 After relating these experiments, Dr KadclifFe proceeds to
 combat Dr Brown-Sequard's theory, that muscular contraction
 is caused by the stimulus of carbonic acid in the blood, that is,
 by venous blood :?
+
 " It may, indeed, be questioned," he says, " whether the convulsions
 of asphyxia are not rather due to the want of the stimulus of red
 blood than to any stimulus derived from the black blood with which
@@ -379,6 +391,7 @@ muscles are similarly convulsed when an animal is bled to death. In
 other words, it is certainly true that the muscles are similarly con-
 vulsed, as well when the animal is left without blood as when it is
 left full of venous blood.
+
 " Nor can it be allowed that the (apparently) more powerful con-
 traction of the left ventricle during the first moments of asphyxia are
 due to increased stimulation on the part of the venous blood; for the
@@ -389,6 +402,7 @@ some impediment to the free flow of blood through the capillaries of
 the systemic circulation?an impediment, that is to say, by which
 the systole of the ventricle is made to expend itself with greater force
 upon the coats of the intermediate arteries.
+
 " Again, it may be questioned whether the muscular contractions
 which are produced in the two other experiments, when black blood is
 injected into the vessels, may not also be due to the want of some
@@ -399,6 +413,7 @@ pregnant animal has been bleeding to death. And there are several
 facts on record in which the human uterus, even, has expelled its
 burden after the mother has yielded to the utter syncope of actual ?
 death.
+
 " As it seems, however, the grand difficulty in the way of accepting
 this idea?that muscle is stimulated to contract by venous blood?is
 a chemical difficulty. For what is the main difference between arte-
@@ -411,7 +426,7 @@ so obviously opposed to that of stimulation, that it is extremely diffi-
 cult to suppose that carbonic acid can be a stimulus in any case. In-
 deed, it is so difficult, as to make it well nigh impossible to entertain
 such a supposition for a single moment."?(pp. 74?76.)
-ON CONVULSION. 97
+
 The next point in tlie argument is to show that muscular con-
 traction is not produced by the stimulation of any mechanical
 agent. This section of the argument is not altogether satis-
@@ -427,6 +442,7 @@ riance with the idea that this contraction is called into existence
 by anything like mechanical stimulation. The case of the
 uterus must serve as an instance of the way in which our author
 treats this part of his subject:?
+
 " And, certainly, the doctrine of stimulation is not wanted to explain
 the parturient contractions of the uterus. At the time of labour this
 organ returns from the state of progressive expansion in which it had
@@ -460,8 +476,6 @@ parturition, to refer the contraction of the uterus to any ' stimulation'
 on the part of the foetus, without ignoring the whole of the previous
 history of pregnancy."?(pp. 86?88.)
 That muscular contraction is not produced by the stimulation
-NO. XIII.?NEW SERIES. H
-98 ON CONVULSION".
 of light is argued from the apparent expansion which takes
 place under this influence in the cushions of the sensitive plant,
 and in the iris. And, certainly, it is more easy to suppose, with
@@ -475,6 +489,7 @@ ing to the premises, would seem to antagonize contraction?are
 annihilated or greatly weakened by that degree of heat or cold
 which is sufficient to throw the muscle into a state of con-
 traction.
+
 And, lastly, it is shown that muscular contraction is not pro-
 duced by the stimulation of any chemical or analogous agency.
 Here a good deal of evidence is produced, and, among the rest,
@@ -487,6 +502,7 @@ Reviewing the whole evidence belonging to this part of the
 subject, there appears to be no sufficient reason why rigor
 mortis may not "be taken as the type of muscular contraction in
 general:?
+
 "For what," asks Dr Radcliffe, "is the case with respect to this
 form of muscular contraction ? The case is simply this : As long as
 there is any trace of that action of which the ? muscular current' is a
@@ -509,7 +525,6 @@ fibre. In a word, it is possible to explain those unexplained and seem-
 ingly contradictory facts which constitute the distinctive features of
 that contraction into which the muscles pass after death; and hence
 rigor mortis may be accepted, not only as a type of muscular contrac-
-ON CONVULSION, 99
 tion in general, but as an experimentum cruris in favour of the propo-
 sition?that muscular contraction is not produced by the stimulation of
 any contractile power belonging to muscle."?(pp. 99, 100.)
@@ -539,6 +554,7 @@ the loss of power as the muscle contracts upon itself, and how
 the waste of substance in proportion to the number of contrac-
 tions?may be accounted for without supposing that the con-
 tractile power is a vital endowment.
+
 Dr Radcliffe's third and last object, in the physiological part of
 his work, is to show " that the special muscular movements
 which are concerned in carrying on the circulation?the rhythm
@@ -549,14 +565,13 @@ action." Our space will not allow us to enter into this part of
 the argument, and a hint or two as to its character must suffice.
 Thus, when speaking of the action of the blood in producing
 the cardiac rhythm, Dr Eadcliffe says :?
+
 " Upon any existing theory of muscular action it is more than diffi-
 cult to understand why the ventricles remain distended with blood
 during the full half of the rhythmic period, if the ventricular systole is
 in anywise called into existence by the stimulation of the blood; but
 this fact is not altogether unintelligible if, on the contrary, it be sup-
 posed (as must be supposed upon the previous view of muscular action)
-H 2
-100 ON CONVULSION.
 that the office of the "blood will rather he to antagonize the systole and
 induce the diastole. Indeed upon this view the difficulty appears to
 be at an end, for according to it the ventricles are thrown into the
@@ -580,7 +595,7 @@ intelligible that the ventricle should dilate more fully, and the dilata-
 tion continue for a longer time, when the blood is rich and warm, as
 in plethora, than when it is poor and watery, as in anaemia."?
 (pp. 115, 116.)
-* * * * *
+
 " On realizing the phenomena of the heart's action more distinctly,
 it becomes even still more improbable that the systole of the ven-
 tricle is causcd by any kind of stimulation, and of the blood more
@@ -607,7 +622,6 @@ the diastole, and the diastole be followed by the systole.
 systole of the auricles must be contemporaneous with the diastole
 of the ventricle ; for this systole of the auricles, there is reason to
 believe, is, in great measure, the mere falliny in of the auricular walls
-ON CONVULSION, 101
 upon the sudden withdrawal of blood from the auricles by the diastole
 of the ventricles. There is reason for this opinion in the absence of
 valves at the mouths of the veins opening into the auricles, and the
@@ -623,6 +637,7 @@ which is continually setting in from the veins; and the auricular
 systole will be mainly due to the collapse of the auricular walls upon
 the sudden passage of blood into the ventricles at the ventricular
 diastole."?(pp. 117?119.)
+
 .... "And if, under ordinary circumstances, the blood acts in this
 manner, then there appears to be no great difficulty in understanding
 how it is that the heart, or a portion of the heart, may go on pulsating
@@ -647,6 +662,7 @@ its actual cessation, by placing the heart in oxygen instead of atmo-
 spheric air, and that it is brought to a stop by placing the heart in a
 vacuum or by immersinar it in hvdrocren or nitrogen or carbonic acid."
 ?(pp. 123, 124.)
+
 Passing from the domain of physiology to that of pathology,
 Dr Radcliffe proceeds to consider the conditions in which mus-
 cular contraction is in excess; namely, the different forms of
@@ -655,7 +671,6 @@ of spasm. In doing this, the interparoxysmal condition, the
 paroxysm, the appearances after death, the pathology, and the
 results of treatment are all passed in review, and the conclusion
 arising out of eachpartof the inquiry is found to be in harmony with
-102 ON CONVULSION.
 the previous view respecting the physiology of muscular action.
 In no part is it found that tremor, or convulsion, or spasm, is
 brought about by excess of stimulation, actual or relative. We
@@ -679,6 +694,7 @@ is in excess ? The answer furnished by Dr Kadcliffe is, that
 this condition is always what it ought not to be if the muscles
 ?were over-stimulated at the time. In siviple epilepsy, for in-
 stance?
+
 " The frigid and clammy hand, the foot that will scarcely keep
 warm before the fire, the pale and sallow or dark and venous complexion,
 the habitual feeling of chilliness, are facts which appear to show that
@@ -691,6 +707,7 @@ in which the circulation may exhibit a greater degree of activity; but
 these cases, as will be seen in the proper place, present no real objec-
 tion to the conclusion that the habitual state of the circulation in
 epilepsy is one of depression.
+
 " Nor is there any evidence of a contrary character in the fit itself.
 Upon the eve of the fit, if any change can be perceived, it is in all pro-
 bability one in which the skin has become paler and more dusky than
@@ -703,9 +720,9 @@ place of the paleness which had first overspread the countenance, the
 face and neck become frightfully bloated, and everything shows plainly
 that all respiration is at an end. This state of suffocation continues
 during the whole course of the convulsion, and so perfect is it, that
-ON CONVULSION. 103
 little or 110 arterial blood can find its way into the arteries during tlie
 convulsion.
+
 " There is, however, one fact which may he thought to show that
 there is an increased injection of arterial blood into the vessels during
 the convulsion. Such injection is evidently very imperfect at the
@@ -723,6 +740,7 @@ able, but they do not show, as they might seem to do at first sight,
 that more arterial blood is injected into the arteries at this time. On
 the contrary, they necessitate a totally different conclusion when they
 are subjected to a strict scrutiny.
+
 "Now it cannot be doubted, that the effect of cutting off the access
 of air to the blood is to prevent the free passage of the blood through
 the pulmonary capillaries, and to overload the right side of the heart
@@ -753,7 +771,6 @@ that the artery is more distended and more tense than it was before.
 This phenomenon is explained by the late Professor John Reid
 who has investigated the condition of the circulation in suffocation
 more carefully and successfully than any other observer, as the result
-104 ON CONVULSION.
 of an impediment to the free passage of the black blood through the
 systemic capillaries similar to that which prevents the free passage of
 the same blood through the pulmonic capillaries; and it is more easy
@@ -772,6 +789,7 @@ during the whole of this time the air is prevented from entering the
 chest by the firm spasm of all the muscles concerned?a state which
 may be compared to that which obtains in forced and prolonged
 expiration.
+
 " Hence, the increase in the strength and fulness of the pulse which
 may take place during the convulsion of epilepsy is no proof, as it
 might appear at first sight, that the brain as well as the rest of the
@@ -779,6 +797,7 @@ system is at this time supplied with an increased quantity of arterial
 blood; for the black and bloated face and neck, and the absolute suspen-
 sion of the respiratory movements, show most clearly that the pulse is
 then filled, not with red blood, but with black.
+
 "After the convulsion there is little to notice in the circulation.
 "When the convulsions cease, the respiration is speedily restored, and
 the re-admission of arterial blood into the system may be attended with
@@ -786,6 +805,7 @@ some transitory and inconsiderable febrile reaction ; but this reaction
 has nothing whatever to do with the convulsion, for when it appears
 the convulsion has departed, and if the convulsion returns it is not
 until the reaction has first taken its departure.
+
 " Arguing, therefore, from the corpse-like paleness and comparative
 pulselessness of the onset of the paroxysm, and from the signs of
 positive and unmistakeable suffocation by which this stage of paleness
@@ -795,6 +815,7 @@ supply of arterial blood. Indeed, the whole history of the paroxysm,
 as deduced from the condition of the vascular system, would seem to
 show that there is something utterly uncongenial between epilepsy
 and anything like arterial excitement."?(pp. 156?161.)
+
 Nor is the case different in epileptiform convulsion connected
 with certain diseases of the brain ? chronic softening, chronic
 meningitis, tumour, induration, hypertrophy, atrophy, congestion,
@@ -802,13 +823,14 @@ apoplexy, inflammation?with fevers, with certain suppressed
 secretions, with irritation in the gums and elsewhere, and with
 the moribund state. In each case, on examination, the condition
 of the circulation is always the reverse of what it ought to be, if
-ON CONVULSION. 105
 the muscles were over-stimulated at the time. In inflammation
 of the brain, for instance :?
+
 " In inflammation of the brain the condition of the circulation is
 not uniformly the same at all times, but this condition, as will he seen
 by reflecting on what has been already said, varies little with respect
 to the convulsion.
+
 " Simple meningitis begins with paleness of the skin, a feeble
 depressed pulse, cutis anserina, vomiting, rigors, perhaps convulsion.
 Then follow rapidly the symptoms of high febrile reaction and cerebral
@@ -829,6 +851,7 @@ period of excitement, that the convulsion happens. And this rule is
 constant. Indeed, the history of simple meningitis shows most con-
 clusively that vascular excitement is as incompatible with convulsion
 as it is with rigor or subsultus.
+
 " In tubercular meningitis the pulse is weak and variable from the
 very first, now quick, now comparatively slow, rising in frequency
 when the head is raised from the pillow, and falling upon lying down
@@ -846,19 +869,20 @@ febrile and inflammatory excitement, if there be such a state.
 " In rheumatic meningitis, also, there is little or no febrile excitement
 from the beginning, and the pulse has become feverless and utterly
 weak before the convulsion happens.
+
 " In general cerebritis, the pulse, at first slow, soon becomes variable
 and readily affected by changes of posture: the respiration, also, is very
 variable and suspirious. From the first, indeed, there is scarcely any
 fever, and little heat of head, except the phenomena of cerebritis are
 mixed up with those of simple meningitis ; but if such symptoms are
 present, they soon pass off, and give place to symptoms of slow
-106 ON THE STATE AND CONDITION OF LUNACY IN IRELAND.
 sinking?a state in which hour by hour the breathing is more inter-
 rupted with sighs ancl pauses, and the pulse more powerless, unless it
 may derive some fictitious power from the difficult circulation of im-
 perfectly arterialized blood, in which case the dusky countenance and
 the purple lips will show very clearly that the vessel is not altogether
 filled with arterial blood.
+
 " In partial cerebritis there is even less febrile disturbance than
 there is in general cerebritis, and at no stage of the malady is there
 anything like increased vascular action."?(pp. 309?311.)

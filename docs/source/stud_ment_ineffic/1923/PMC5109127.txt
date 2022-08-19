@@ -1,7 +1,7 @@
 The Memory of the Feeble-Minded
 ================================
 
-:Author: E. O. Lewis M.A., D.Sc., M.R.C.S.
+:Author: EO. Lewis MA., DSc., MRCS.
 
 Some modern writers on mental deficiency regard the feeble-minded as a class
 that has some one mental defect in common, varying in degree only. This simple
@@ -162,7 +162,7 @@ Normals. .... 11 2 4 2 1
 (Total 20).
 
 2. Association Test
------------------
+--------------------
 
 The task set in this test was to learn twelve arbitrary associations of letters and pictures;
 thus the letter B printed on one card was presented simultaneously with the picture of a monkey

@@ -3,7 +3,7 @@ Mania Errabunda
 
 Akt. v.?
 
-By W. A. P. BROWXE, LL.D., formerly Aledical Commusioaer in Lunacy, Scotland.
+:Author: W. A. P. Browxe, LL.D., formerly Aledical Commusioaer in Lunacy, Scotland.
 In antiquated synopses, or systems of nosological arrangement,
 may be found tlie words which form a title to this communication. The specific name and the mental excitement which it
 signified have almost or altogether disappeared. The same
@@ -38,7 +38,6 @@ unknown or inexplicable danger; and others that they were attracted by a search 
 object which could be reached and secured only by the means
 which they adopted. While marked and distinct forms of this
 malady are now extinct, a rapid motion, racing, or hurrying to
-MANIA ERRABUNDA. 217
 and fro in the wards or galleries of an asylum, or wherever the
 sport of insane propensities may be confined, are still significant
 of many aspects of lunacy. While many diseases have ceased
@@ -79,9 +78,6 @@ malady. More recently Ave find in Feuchterslebenf that the
 disease now under consideration has been distinguished as
 (1) Melancholia, Errabunda; (2) Dull, Attonita. In restless
 melancholv the patient is contented nowhere?he flies he
-* Arnold on Insanity, J78G.
-f 1847.
-218 MANIA ERIIABUNDA.
 knows not why or whither. It has even been suspected that
 the constant desire for change of locality is itself morbid;
 and, when affecting whole tribes or nations, where neither
@@ -96,6 +92,7 @@ mono-ideaism of terror, and that neither external impressions,
 nor the considerations which would affect conduct at other
 times and under other circumstances, are received or consciously
 appreciated.
+
 In corroboration of that marvellous discrimination and
 insight into the diseased as well as healthy elements of
 human character, which were embraced in the penetration of
@@ -107,6 +104,7 @@ native cowardice and by the slaughter of his clansmen in the
 appointed combat, flies from the scene, crosses, as was necessary, valleys and mountains and every impediment, until he
 loses the consciousness of his all-engrossing panic, and, if we
 remember, life itself in his vain flight.
+
 It will, we think, be instructive to record that such aspects
 of alienation are not confined to the pages of a romance, but
 may be still, although rarely, met with. We were lately consulted by a colonist, whose friends related the following chapter
@@ -125,7 +123,6 @@ and interested, was as acute and practical as before. He
 recoiled from the persons, the engagements, and surroundings
 connected with the insult or grievance, which had inflicted so
 much pain and disturbance on his mental system; and this
-MAMA ERRABUNDA. 219
 estrangement amounted almost to timidity and apprehension,
 although it was not panphobic, as his sensitiveness and irresolution were limited in range, as has been pointed out. The
 observation of those around did not detect any marked departure from bodily health; in fact, the alteration noticed was in
@@ -165,11 +162,11 @@ an invalid, and while, I think, under the care of his medical
 attendant, he disappeared from tlie apartment where he had
 been resting on a bed. He was clothed, but wore no hat, neckcloth, &c., made his exit through a window on the ground floor,
 and was not seen or heard of during the day. Upon this occasion he returned spontaneously, having recovered some obscure
-220 MANIA ERIIAEUNDA.
 degree of consciousness on reaching' a spot which he recognised,
 about twelve miles from his home, and which must have been
 reached by traversing copse, scrub, road, rough and unreclaimed
 land, and every kind of surface which a new colony can present.
+
 His awakening to the actual circumstances of his case was
 produced, according to his own conception, by the voice of a
 daughter, then at a great distance, requesting him to come
@@ -180,6 +177,7 @@ great a revolution in the circumstances, scenes, and associates
 of his life, as would be necessitated by such a course, might
 expedite the expulsion of his dominant tendencies, and the
 introduction of mental impressions under the control of his will.
+
 On his arrival in Europe he was seen by me, when there
 remained no discernible physical disturbance except occasional
 muscular tremor, chiefly confined to the upper extremities, and
@@ -207,7 +205,6 @@ fibrillar tremor of the muscles, the intra-cranial sensations and
 perspirations of the head and face, the sluggishness of the pupils,
 or smallness of the irides, the diminished sense of equilibrium,
 the enfeeblement of the circulatory and digestive organs?constitute a group of symptoms, inexplicable only in its theory
-MANIA ERRABUNDA. 221
 that the highest centres are involved in changes, which, considering Mr. 's age and antecedents, are probably of an
 atrophic character. But no irremediable damage has been done
 as yet. If Mr. goes back to business and subjects himself
@@ -222,6 +219,7 @@ take place, and he may reasonably look forward to a long life,
 and to a fair capacity for mental work. Reparative processes
 are indeed now in progress, for it seems certain that he has
 gained ground since leaving his business and taking rest.
+
 " My advice, then, to Mr. is, do not think of returning
 to your adopted country or work at present. Take at least
 twelve months of complete repose of body and mind as is
@@ -230,12 +228,14 @@ but cultivate it in a new way. Take up some subject as alien
 as possible to your old pursuits?history, or botany, or entomology ; be constantly in the open air, avoid excitement, live
 plainly, take no stimulants, and follow out the course of medical
 treatment indicated.
+
 " As in all cases of cerebral atrophy, it is difficult to fasten
 on the causes of Mr. 's illness. Probably constitutional
 tendencies have had something to do with it (a brother of his
 died of paralysis), and probably climatic conditions and business anxieties have had a hand in it. The important point to
 note is that the disease is still in its critical stage, and may be
 arrested.
+
 " I should recommend Mr. to take for some time I.
 nitro-muriatic acid; IT. syrup hypophosphites; III. coca wine."
 It is an agreeable close to this narrative to announce that,
@@ -244,4 +244,4 @@ prescribed, the patient has been completely restored to mental
 and bodily health; and that, with the exception of a slight
 abruptness of manner, he presents the same characteristics as
 previous to his indisposition *
-PART IT. VOL. VII. NEW SERIES.
+

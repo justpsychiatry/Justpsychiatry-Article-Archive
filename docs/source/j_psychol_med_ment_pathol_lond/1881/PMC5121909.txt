@@ -2,8 +2,9 @@ Prophylaxis Of Insanity
 =========================
 
 32 Art, II.?
-By J. M. "WINN, M.D., M.R.C.P., Consulting Physician to St. George's and St. James's
+:Author: J. M. "WINN, M.D., M.R.C.P., Consulting Physician to St. George's and St. James's
 Dispensary, &c., formerly Resident Physician of Sussex House Lunatic Asylum.
+
 In the following remarks we propose to treat only of insanity
 in its hereditary character. It is admitted by the highest
 authorities in psychological medicine, that about one-half of the
@@ -41,11 +42,13 @@ argued that gout, syphilis, scrofula, cancer, bronchocele, dartrous affections, 
 category, and insanity is omitted) bears a very close resemblance
 to mine. Mr. Hutchinson classifies these diseases under the
 head of diathesis, which he considers different from dyscrasia or
+
 * Published by David Bogue, 3 St. Martin's Place, W.C.
-PROPHYLAXIS OF INSANITY. 33
+
 temperament; but all these words are vague, and do not convey
 to the mind the same clear idea that is expressed in the term,
 correlation of force.
+
 In 1878, in a paper on The Brain in Health and Disease,
 by Dr Edward C. Mann, late of the New York State Em.
 Insane Asylum, the writer, in referring to the connexion between
@@ -57,6 +60,7 @@ Hospital for the Insane of the State of Wisconsin * gives
 instances of the mutual convertibility of different forms of
 hereditary disease, without any reference to my researches
 twelve years previously.
+
 My attention has recently been called afresh to the subject
 of this paper, by some remarks made by Dr Greorge M. Beard,
 in the prospectus of a National Association for the Protection
@@ -78,6 +82,7 @@ that in diabetes the nervous system plays an important part,
 and the most rational theory of " catching cold " is that which
 attributes it to an impression made on the nervous tracks by a
 low temperature.
+
 To establish a correlation of force it is necessary to prove a
 mutual convertibility. It is not sufficient to give instances of
 one disease passing into another; we must demonstrate a see-saw
@@ -86,10 +91,10 @@ passing backwards and forwards, either in the same individual, or
 in various members of different generations of the same family.
 That some sort of force is active in insanity cannot be
 doubted?force is in operation everywhere; as Carlyle said,
+
 * Published in Part I. Vol. IV. of the Journal of Psychological Medicine.
 Now Series.
-PART I. VOL VII. NEW SERIES. D
-34 PROPHYLAXIS OF INSANITY.
+
 there is force in a rotting apple. One case in particular, in
 which the insane force manifested itself, is indelibly impressed
 on my memory. I have mentioned it before, but, it will bear
@@ -108,6 +113,7 @@ was an expenditure of force, and in every sense of the word we
 may term this energy morbific. An ordinary attack of epilepsy
 bears a close resemblance to a recurrent case of acute mania?in
 it we perceive the same expenditure of energy.
+
 That a morbific element may lie dormant during a whole
 generation need not surprise us, when we see how the terrible
 poison of rabies may be latent for an indefinite period.
@@ -119,6 +125,7 @@ hereditary diseases, as we have given grounds for believing, it
 follows that there must necessarily be one general plan of treatment, more or less applicable to the whole.
 The prophylaxis of hereditary disease involves the to
 important questions of hygiene and marriage.
+
 Hygiene.?Hygienic treatment cannot begin too early.
 Where hereditary taint is feared it should commence with the
 earliest period of life. Constitutional disease is often manifested soon after birth in the form of convulsions. The
@@ -132,19 +139,21 @@ transmitted, like syphilis, through the secretions of the mother.
 The three other requisites for an infant's health are air,
 warmth, and bathing. Its moral education should begin in
 infancy. Firmness must be combined with tenderness.
-PROPHYLAXIS OF INSANITY. 35
 A lengthened discussion on education would be out of place
 here, but a few words are requisite on the danger of overstimulating the brain by too great a variety of studies.
 Precocious children are often scrofulous, and parents take a
 foolish pride in the exhibition of their talents, and are disposed
 to keep them at their tasks, when they should be romping with
 their playmates.
+
 The most critical period of life is the interval between fifteen
 and twenty-five. This fact shows the necessity of controlling
 the sexual passions at this period.
+
 There can be no doubt that a large class of those disposed
 to hereditary maladies might have escaped disease had they
 chosen a suitable profession or vocation.
+
 Regular exercise in the open air is a most powerful therapeutical agent. An empiric once gained great reputation for
 *the cure of epilepsy. His plan was simply to order his patients
 to walk a considerable number of miles daily.
@@ -158,10 +167,12 @@ There can be no doubt as to the danger of two individuals
 marrying when there is hereditary taint on both sides. It is
 not necessary, if the views I have inculcated be right, that the
 form of hereditary disease should be the same.
+
 The general rule of transmission is from parents uninterruptedly to the children, and from them to the grandchildren,
 frequently with an interruption, from the grandparents to the
 grandchildren. Sometimes the taint is derived from collateral
 branches.
+
 Some time since I drew up the following rules for the
 guidance of those who have consulted me as to the advisability
 of their marriage into any family of which one or more members
@@ -170,21 +181,22 @@ in my treatise On the Nature and Treatment of Hereditary
 Diseojse. As I am not aware that anyone else has drawn up
 rules of a similar character, and as they have an approximative
 value, I will repeat them: ?
+
 1. If there be a constitutional taint of any kind in either
 father or mother on both sides of the contracting parties, the
 risk is so great as almost to amount to a certainty, that their
 offspring would inherit some form of disease belonging to the
 class to which these investigations refer. .
 2. If the constitutional disease is only on one side, either
-D 2
-36 PROPHYLAXIS OF INSANITY.
 directly, or collaterally through uncles or aunts, and the contracting parties are both in good bodily health, the risk is
 diminished one-half, and healthy offspring may be the issue of
 the marriage.
+
 3. If there have been no signs of constitutional disease for
 a whole generation, we can scarcely consider the risk materially
 lessened, as it so frequently reappears, after being in abeyance
 for a whole generation.
+
 4. If two whole generations have escaped any symptoms of
 hereditary disease, we may fairly hope that the danger has
 passed, and that the morbific force has expended itself.
@@ -217,6 +229,7 @@ in his youth, and liable to haemoptysis. In after years he
 became subject to attacks of gout. When in his ninetieth
 year, he was able to ride on horseback and attend to business,
 although still occasionally laid up with gout.
+
 We must also take heart from the new doctrine of dissipation of energy. If this be true, we can look forward to the
 dissipation of morbific force. The vital force of an individual
 is exhausted in a few years, why then may we not hope for a

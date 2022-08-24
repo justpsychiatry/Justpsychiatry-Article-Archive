@@ -1,14 +1,11 @@
 The Study of Medical Psychology? Circles of Mental Disorders? Modern Nervous Diseases? Education In Relation to Mental Diseases
 ================================================================================================================================
 
-THE JOURNAL
-OF
-PSYCHOLOGICAL MEDICINE
-AND
-MENTAL PATHOLOGY.
+THE JOURNAL OF PSYCHOLOGICAL MEDICINE AND MENTAL PATHOLOGY.
 Art. I.? *
-By J. CRICHTON BROWNE, M.D., Edin., LL.D., F.R.S.E., Lord Chancellor's Visitor of
+:Author: J. Crichton Browne, M.D., Edin., LL.D., F.R.S.E., Lord Chancellor's Visitor of
 Lunatics.
+
 The General Council of Medical Education and Registration, at
 its recent session, declined to recommend the licensing bodies
 of this kingdom to make mental diseases a subject of separate
@@ -32,10 +29,10 @@ general medical education, which already fully occupies the
 time set apart for it, must be detrimentally curtailed or com-
 pressed to make room for the special study; and the special
 study cannot be advantageously carried on while the foundations
+
 * An address delivered at the opening of the section of Psychology, at the
 forty-eighth Annual Meeting of the British Medical Association, at Cambridge.
-PART II. VOL. VI. NEW SERIES, N
-I TO TIIE STUDY OF MEDICAL PSYCHOLOGY.
+
 on which it ought to rest have not been wholly laid down nor
 thoroughly consolidated. Facilities for the special study of
 medical psychology, and perhaps also some test of proficiency in
@@ -83,7 +80,6 @@ more and more apparent that a bodily derangement is respon-
 sible for every mental disorder, and that a mental element
 mingles with every bodily disease. Upon the medical psycho-
 logist, therefore, it is incumbent to keep abreast of general
-CIRCLES OF MENTAL DISORDERS. 171
 pathology, while upon the general practitioner it is incumbent
 to know something of the progress of psychological medicine.
 And how important to the public it is that the duty of each of
@@ -93,6 +89,7 @@ disease that we have with us now, and of diseases which,
 although they may not be designated mental, nor fall immedi-
 ately within the province of medical psychology, are still in
 close alliance with insanity.
+
 According to the latest official returns, there were, on
 January 1 last, 71,191 lunatics, idiots, and persons of unsound
 mind in England and Wales, 9,624 in Scotland, and 12,819 in
@@ -130,8 +127,6 @@ Our courts of justice are but too often engaged in investigating
 crimes committed by indisputable lunatics, whose insanity was
 not noticed until it culminated in violence or fraud; and our
 coroners can tell a dismal tale of the consequences of mental
-N 2
-172 CIRCLES OF MENTAL DISORDERS.
 disease that has never secured official recognition. There are
 now upwards of 1,700 suicides in England and Wales annually,
 and of these not more than thirty occur amongst registered
@@ -145,6 +140,7 @@ of those who suffer from mental despondency, the fact that
 not fewer than 1,300 suicides of unregistered insane persons
 take place in England and Wales yearly, reveals great un-
 fathomed depths of mental unhealthiness in our community.
+
 And the experience of medical men also points to vast reserves
 of hidden and unauthenticated insanity. Of the patients whom
 they are called on to certify insane, a large proportion have
@@ -155,6 +151,7 @@ for mere bodily ailments, a certain number prove to be unmis-
 takably mad, even when they are figuring as useful members of
 society, and are unsuspected, save by their nearest relatives, of
 any mental taint.
+
 With the view of obtaining an approximate estimate of
 the contents of the crazy circle, I some time ago asked a few
 of my friends, both lay and medical, to scrutinise for me their
@@ -174,12 +171,12 @@ character, and so beset with sources of fallacy. I only refer to
 it as affording some corroboration of the belief that there is
 much unrecognised insanity in the country, and that the crazy
 circle is densely populated.
+
 But if we had summed up all the constituents of the crazy
 circle surrounding the circle of recognised insanity, we should still
 not have exhausted the material with which medical psychology
 is concerned; for, beyond the crazy circle, there lies another
 and an outer circle, which may be named neurotic, and in
-CIRCLES OF MENTAL DISORDERS. 173
 which are assembled the sufferers from all forms of nervous
 disease that are not necessarily accompanied by mental dis-
 order, but that must be placed in the same category with
@@ -195,6 +192,7 @@ these diseases are not all acute in their course, and are some-
 times much protracted, this rate of mortality betokens that
 the number of persons afflicted by them and living at one time
 must be very considerable.
+
 In the three concentric circles that I have enumerated,
 the insane, the crazy, and the neurotic, interchange and cir-
 culation is of course perpetually going on. They are incessantly
@@ -227,7 +225,6 @@ and idiots has nearly doubled itself in the last twenty-
 one years, having increased from 37,762 in 1859, to 71,191
 on the 1st of January last. Under the influence of the
 lunacy laws, we are told, and of a more liberal popular con-
-174 MODERN NERVOUS DISEASES.
 ception of insanity, a considerable belt of what was formerly
 the crazy circle has been annexed to the insane one; and this
 annexation, together with the enlargement of all the circles in
@@ -250,6 +247,7 @@ expect, therefore, that any marked increase or diminution in
 neurotic affections would be followed, after a time, by a corre-
 sponding rise or fall in the rate of prevalence of affections of
 the mind.
+
 Well, the fact seems to be that neurotic affections are
 increasing and multiplying on every hand. Dr Beard, an
 American physician, who has studied the subject with much
@@ -275,11 +273,11 @@ large quantities with impunity. From his own observations,
 and from the information which he has obtained from old and
 experienced physicians, and from medical literature. Dr Beard
 unhesitatingly concludes that all nervous diseases are on the
-MODERN NERVOUS DISEASES. 175
 increase in America, that many bodily diseases are assuming a
 nervous or asthenic type, and that nervous exhaustion is so com-
 mon that it must be regarded as a distinct disease, of which
 there are several varieties.
+
 In this country nervousness has not certainly obtained the
 ascendency that it is represented by American physicians to
 have secured, at least in certain districts?notably in the Northern
@@ -323,7 +321,6 @@ the nutrition of the tissues. The female sex is of nervous
 temperament as compared with the male sex, and Laycock used
 to say that feminine and nervous were synonymous terms. It
 is, therefore, in women that we should expect to find the earliest
-176 MODERN NERVOUS , DISEASES.
 and most marked manifestations of changes in the nervous
 system, influencing nutrition, like those just alluded to, and
 also of changes establishing greater susceptibility in sensory
@@ -336,6 +333,7 @@ the substitution in modern decorative art of delicate combina-
 tions and neutral tints, for the glare of primary hues, of orange
 and red and purple, which were in vogue in days less nervous
 than ours.
+
 All this, however, is somewhat problematical, and we are
 not without more definite proofs that nervousness is increasing
 amongst us. What might perhaps be regarded as the best of
@@ -370,8 +368,8 @@ diseases of the nervous system remains the same, we are entitled
 to conclude that there has been an increase in the death-rate
 from nervous diseases, although this is not apparent on the face
 of the return.
+
 It is not, however, in connection with the death-rate due to
-MODERN NERVOUS DISEASES. 177
 diseases of the nervous system themselves, that the increasing
 nervousness of this country is most clearly evinced. That
 comes out most distinctly in connection with the prevalence of
@@ -416,10 +414,10 @@ which there is unquestionably a nervous element, and gout, the
 neurotic character of which lias been ingeniously vindicated by
 Dr Duckworth, are both much more fatal than they were twenty
 years ago.
+
 But without any increase in the death-rate from diseases in
 which there is a nervous element, or from nervous diseases
 themselves, it is still possible that the latter might be multi-
-178 MODERN NERVOUS DISEASES.
 plying amongst us in a disastrous manner. For there are
 diseases of this class which do not shorten life. They cause
 chronic invalidism ; they cripple power, and mar usefulness ;
@@ -446,6 +444,7 @@ conium, chloral, the bromides, arsenic, strychnia, and gelsemi-
 num, is enormously on the increase, as is also the consumption
 of neurotic beverages like tea and coffee, and that great nerve
 sedative, tobacco.
+
 These facts and considerations, and many more of like import,
 which might be placed before you did time permit, seem to
 warrant the inferences that nervousness and nervous diseases
@@ -467,7 +466,6 @@ activity. But without increasing its size, the brain may
 elaborate its structure by putting forth new gyri, deepening its
 grey matter, developing new cells, and laying down new commis-
 sural fibres, to an incalculable degree; and this much is certain,
-MODERN NERVOUS DISEASES. 179
 that whatever their nature be, organic processes are going on in
 the brain, by which new impressions and new modes of action
 are registered and transmitted from one generation to another.
@@ -482,6 +480,7 @@ to disease. For it would seem that subtlety of the higher
 nerve-centres brings with it instability, and that as brain-
 substance grows finer in texture it becomes more explosive in
 nature.
+
 " Intelligence," says Herbert Spencer, "is the adjustment of
 the inner to the outer relations." If, then, the outer relations
 became more numerous, complex, and heterogeneous, the process
@@ -508,6 +507,7 @@ the absence of the refining and tranquillising influences of
 nature, and by the relaxation of those social restraints which
 conduce to rectitude of conduct in villages and small com-
 munities."
+
 Of the many conditions of modern life which may be influ-
 ential in promoting nervousness, and therefore in contributing
 to the increase of nervous and mental diseases, there is just one
@@ -515,7 +515,6 @@ to which I would wish to direct your attention in the time that
 remains to me, and that is education. Now, it is perhaps some-
 what disquieting to be told that education may be a source of
 disease. We have been accustomed to regard it as the panacea
-180 EDUCATION IN RELATION TO MENTAL DISEASES,
 against all diseases, and we have just adopted a national system
 of education, and greatly improved our standard of culture and
 machinery of instruction, in the hope that we shall thereby
@@ -542,6 +541,7 @@ as it is calculated to result in constitutional vigour and a har-
 monious and well-balanced development of parts, or in consti-
 tutional debility, and a disproportionate and irregular develop-
 ment of parts.
+
 The general tendency of education is unquestionably to
 increase the activity and susceptibility of the nervous system.
 It aims at establishing in the supreme nerve-centres certain
@@ -560,13 +560,12 @@ with injudicious haste or ill-considered zeal. Then it is that it
 not only quickens the action of the nervous system, thus causing
 nervousness, but induces exhaustion of the brain, and even
 structural changes in it.
+
 Dr Treichler, of Bad-Lenk-Bern, in a paper read last year
 to the Society of Natural Historians and Physicians of Germany,
 called attention to the great increase of habitual headaches
-EDUCATION IN RELATION TO MENTAL DISEASES. 181
 which has, he alleges, taken place amongst hoys and girls,
 and attributed this to the exhausting effects of excessive and
-1 -
 ill-directed brain-work in schools. The publication of an
 extract of Dr Treichler's paper in the Times has led to a very
 full discussion of the subject of which it treats by medical men
@@ -591,6 +590,7 @@ recorded cases in winch sleeplessness, night-terrors, somnam-
 bulism, epilepsy, hydrocephalus, hallucinations, and other
 maladies, have followed upon educational pressure unwisely
 applied to weakly children.
+
 It is, of course, difficult to measure, even roughly, the evil
 consequences of educational pressure and brain-fatigue. Head-
 aches may be unaccompanied by any very ostensible symptoms,
@@ -612,9 +612,9 @@ education periods. Then, evidence of the more remote evil
 consequences of intemperance in education may be seen in the
 preponderance of nervous diseases in the refined and cultivated
 classes, and in the parallelism which has been observed all over
-182 EDUCATION IN RELATION TO MENTAL DISEASES.
 Europe between the progress of education and the increase of
 suicides.
+
 If, then, education may have such pernicious consequences
 as those just enumerated?and many more might have been
 added to the list?it is clear that it must be carefully
@@ -637,6 +637,7 @@ no more important problem in connexion with education and
 neurology now awaits solution than that relating to the natural
 order of development of the various centres of which the brain
 is made up.
+
 The brain of a foetus differs from that of an adult not only
 in size, consistence, and external configuration, being com-
 paratively deficient in secondary gyri, but also in internal struc-
@@ -658,9 +659,9 @@ latter arrangement being more distinct in the parietal and frontal
 convolutions, constituting the excitable or motor area of the
 brain, where so-called giant-cells exist in irregular clusters or
 aggregations.
+
 Now, we are still unable to say at what stages of growth this
 elaboration of cerebral structure takes place, but we have
-EDUCATION IN RELATION TO MENTAL DISEASES. 183
 grounds for believing that it goes on gradually, but not uni-
 formly, the budding and branching of the cells commencing in
 certain territories or centres, and spreading from them in
@@ -693,6 +694,7 @@ is commenced at the eighth or ninth month of life, but the
 sexual appetite does not assert itself until the twelfth or four-
 teenth year. Equilibrium is speedily acquired, but years are
 spent in mastering the niceties of speech.
+
 Now, in each nerve-centre there are two kinds of activity,
 which must not be confounded with each other. There is
 nutrient activity and functional activity, and the rule would
@@ -708,7 +710,6 @@ that the opportunities for education occur. It is at the nascent
 period in the history of each nerve-centre, when growth-activity,
 although becoming less energetic, is still present, and when
 functional activity, although still feeble, is gradually gathering
-184 EDUCATION IN RELATION TO MENTAL DISEASES.
 strength, that most may be done to make or mar it and other
 centres with which it is associated. Then it is that, hy suitable
 exercise and stimulation cautiously applied, it may be brought
@@ -717,6 +718,7 @@ management this nascent period may be prolonged, and a supe-
 rior anatomical substratum provided for subsequent develop-
 ments ; but by undue eagerness or negligence it may be curtailed
 or allowed to slip past unimproved.
+
 The duration of the nascent period, as I have called it, in
 which growth and function go hand-in-hand, varies exceed-
 ingly in different centres. In those concerned with instinctive
@@ -756,7 +758,6 @@ whole of the left upper limb in two adults, an imperfect or
 dwarfed condition of the ascending parietal gyrus of the right
 side, in which gyrus the individual and combined movements
 of the fingers and wrist are localised by Ferrier. Now, whether
-EDUCATION IN RELATION TO MENTAL DISEASES. 185
 we regard this gyrus as a true motor ceutre, or as a sensorv
 region of the kinesthetic type, it is clear that its growth was
 stunted by the curtailment of its functional activity during its
@@ -779,6 +780,7 @@ bat the cortical centre, with innumerable cerebral connections,
 and its complex functions as a basis of motor ideation and of
 organic memory, had not degenerated, after the restriction of
 its fundamental activities by the operation.
+
 These facts, that cerebral centres never properly exercised
 do not develop, and that, once developed, they do not waste,
 although cut off from those activities that insured their develop-
@@ -803,14 +805,13 @@ with form, distance, resistance, weight, &c., rendered faulty or
 incomplete. And not only so, but this district is made up of a
 series of centres in relation with different groups of muscles,
 and each centre is dependent for its development upon its own
-PAET II. VOL. VI. NEW SERIES. O
-186 EDUCATION IN KELATION TO MENTAL DISEASES.
 group of muscles, and the defective exercise of any group of
 muscles during the growth period in its own particular centre
 (the growth periods in most of the motor centres, having different
 starting-points, although overlapping in various degrees) will
 result in dwarfing of that centre, and a corresponding hiatus, or
 a general weakness, must exist in the mental fabric.
+
 From this we might deduce that swaddling-bands so applied
 at birth as to restrain all muscular movements, and kept on
 during infancy and childhood, would result in idiocy? a specu-
@@ -852,7 +853,6 @@ merings, grimacings, twitchings, and antics which are so
 common and annoying, are probably, in many instances, the
 effects of neglected education of some of those centres, and
 might have been abolished by timely drill and discipline. Of
-EDUCATION IN RELATION TO MENTAL DISEASES. 187
 these centres, one group?presiding over the hand?ought, I
 think, to receive more attention than it now does amongst those
 who are not called upon to earn their living by manual labour.
@@ -871,6 +871,7 @@ tion of such a system as a high human intelligence, endowed
 with its ineffably perfect instruments of eye and hand, is a far
 more appalling manifestation of infinite power than the making
 of seas and mountains."
+
 In the hurried glance at education in its relation to the
 etiology and prophylaxis of nervous diseases, which has been
 alone possible to me to-day, I have chiefly referred to the motor-
@@ -880,6 +881,7 @@ centres as it is to them. The sensory centres are gradually and
 successfully developed; and the future complexion of mental
 life is in great measure determined by the impressions made
 upon them when they are undergoing development.
+
 Art in the nursery is a subject well worthy of consideration;
 and efforts should certainly be made to put before children,
 especially those pent up in towns, good and worthy and beautiful
@@ -899,8 +901,6 @@ I should have been glad to have spoken, of the acquisition of
 speech, of the basis of attention, of the value of natural science as
 a branch of elementary education. If I say nothing of these
 subjects, nor of moral and religious training, it is not because I
-o 2
-188 EDUCATION IN RELATION TO MENTAL DISEASES.
 underrate their importance in contributing to the harmonious
 development of the brain, but because time does not permit me
 to enter on so large a theme. As regards moral and religious
@@ -943,5 +943,6 @@ nervous and mental disease, and of every foe that may assail us
 from without or within, and to secure to our country what is
 stronger than fleets of ironclads, more inviolate than the streak
 of silver sea?
+
 A virtuous populace who rise the while,
 And stand a wall of fire around their much-loved Isle.

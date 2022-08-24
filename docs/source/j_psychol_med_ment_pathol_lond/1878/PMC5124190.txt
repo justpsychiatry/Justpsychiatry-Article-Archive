@@ -1,7 +1,7 @@
 Diseases of the Nervous System
 ================================
 
-By Julius Altiiaus, M.D.,
+:Author:  Julius Altiiaus, M.D.,
 M.R.C.P., Senior Physician to the Hospital for Epilepsy and
 Paralysis, Regent's Park. London : Smith, Elder and Co.
 This is a valuable treatise on the pathology and physiology
@@ -12,6 +12,7 @@ the question as to the prevalence and fatality of nervous diseases.
 As statistics are notoriously untrustworthy, a consideration of
 the deductions to be drawn from them could lead to no positive
 conclusion.
+
 Dr Althaus's observations on the functions of the spinal
 cord will be read with interest. He gives a succinct account of
 all that is yet known of the nervous centres of this organ ; but
@@ -21,7 +22,6 @@ Fritsch, Hitzig, Ferrier, and other cerebral physiologists.
 Brown-Sequard, whose opinion is of more importance than all
 these put together, differs entirely from them, and is scarcely
 likely to return to the principles he has abandoned, as I)r.
-REVIEWS. 1G1
 Althaus expects liim to do. If the centres of motion and sen-
 sation cannot be determined, it is useless to talk of aphasia
 being' the result of lesion of an especial portion of one side of
@@ -33,8 +33,10 @@ great authority on gymnastics, reports, that all his pupils, how-
 ever one-sided when they came to him, became ambidextrous by
 constant practice, the brains of his pupils must be strangely
 twisted in the course of their exercises.
+
 The chapters on epilepsy and paralysis will repay a careful
 study.
+
 We are glad to learn from the preface that Dr Althaus
 intends to publish another volume, which will be devoted to
 the treatment of nervous diseases.

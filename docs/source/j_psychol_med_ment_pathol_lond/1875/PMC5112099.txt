@@ -3,8 +3,9 @@ Diseases of the Nervous System
 
 
 222 Art. VI.?
-BY R. BOYD, M.D. EDIN., E.R.C.P. LONDON (Late President Medico-Psychological
+:Author:  R. BOYD, M.D. EDIN., E.R.C.P. LONDON (Late President Medico-Psychological
 Association).
+
 On this important subject I liave attempted to place on record,,
 in a more connected form, facts and observations made during
 many years, and published in my statistical and other reports of
@@ -19,11 +20,13 @@ homes, being too ill or unable to attend at the infirmary as
 out-patients, 1,080 of them were admitted to infirmary, fever
 and other hospitals, and 6,185 were in-patients, treated in the
 infirmary.
+
 These cases were arranged in separate tables to show the
 influence of age, of sex, and of season upon disease as occurring
 amongst the poor of this section of the metropolis. The results,
 of the various diseases in each sex, at four periods of life in each
 quarter of the year, were contained in the tables.
+
 The class of out-patients attended at their own homes was.
 frequently that of persons affected with some acute disease, which
 for a time kept them from their usual employment. Unwilling
@@ -32,21 +35,23 @@ medical relief to being admitted to the infirmary, under the
 hope (which was often realised) of shortly resuming their daily
 labour. The number of these cases admitted to the infirmary
 was shown in the tables.
+
 Two-thirds of the patients admitted to the infirmary were
 from the workhouse. These included a great number of
 children from the nursery, infant and boys' and girls' schools,
 together with old cases of disease from the chronic wards,,
 suffering from accession of symptoms or renewed attack of their
 disease.
+
 The medical staff attached to the infirmary consisted of
 three physicians, two surgeons, a resident physician and house-
 surgeon, two assistant surgeons, who prescribed for the out-
 patients, and attended at their own homes those unable to
 come to the infirmary; also three dispensers, who compounded the
 drugs for all classes of the sick. At that time the attendance
-DISEASES OF THE NERVOUS SYSTEM. 223
 at tlie infirmary by students was recognised by tlie various cor-
 porations, the same as at a medical hospital.
+
 The out-patients were divided into three classes?those able
 to attend for advice at the infirmary ; those unable to attend,
 who were visited at their own houses; the third class consisted
@@ -68,15 +73,18 @@ adding them to the out-patients visited at home, the mortality
 among the latter would be increased to 9-|, and that in the
 infirmary reduced to about 13 per cent., showing a difference of
 3i per cent.
+
 A death rarely occurred among the " out-patients attending
 at the infirmary." Should their disease assume a serious aspect
 they were at once placed on the list of those visited at home or
 admitted to the infirmary.
+
 There were upwards of 350 cases in the chronic wards in
 the workhouse, all more or less diseased, affected with asthma,
 disease of the heart, of the brain, &c., and many of them were
 advanced in life. The mortality of this class was about 70 in
 the year.
+
 The medical expenditure averaged in seven years, for drugs
 and instruments nearly ?600, and wine and spirits ?200
 annually. The average cost of workhouse and out-patients for
@@ -92,6 +100,7 @@ receiving medical relief was?patients in tlie infirmary, 230 ;
 patients visited at home, 136 ; prescribed for at the infirmary,
 163 ; workhouse patients, 102?total, 631, being I in 220 of
 the population, and above 12 per cent, of the paupers.
+
 Table of 14,541 Patients treated at their own Homes and in the St. Marylebone Infirmary.
 Diseases
 Nervous
@@ -401,8 +410,8 @@ treated
 1 in 22
 1 in 13 8
 1 in 10"5
+
 1,180 of these' Home' cases were removed to the Infirmary, Small-Pox, Fever Hospitals, &c.
-DISEASES OF THE NERVOUS SYSTEM. 225
 In the table, which is a summary of the statistical tables,
 published for three years, of the diseases of the out-door poor
 visited at their homes and those admitted to the infirmary,
@@ -411,6 +420,7 @@ under seven heads, distinguishing the sexes, numbers in each
 quarter (winter, spring, summer, and autumn), at four periods
 of life; the results are also shown and the mortality in cases
 stated.
+
 The total numbers in the two classes of each sex, were:
 From diseases of the nervous system 551 males 926 females.
 ,, ,, respiratory organs 1,502 ? 1,838 ?
@@ -422,6 +432,7 @@ From diseases of the nervous system 551 males 926 females.
 ? ? eruptive and other
 fevers 1,226 ? 1,687 ?
 Total 6,041 ,, 8,503 ?
+
 Attention was drawn to some singular facts that presented
 themselves on looking at the different classes of diseases. It
 was observed that the females far outnumbered the males, and
@@ -440,6 +451,7 @@ the heart, the preponderance was owing to affections of that
 organ being less frequently complicated with disease of the
 respiratory organs in women than in men. Dropsy was more
 frequent amongst females.
+
 The diseases of the respiratory organs preponderated in
 males, being 3*3 per cent, more than in females, the mortality
 was also higher in males than in females. Diseases of the
@@ -447,7 +459,6 @@ locomotive organs and cellular tissue, as might be expected, were
 more frequent in males, being 6*1 per cent, more than in
 females. Fever seemed to affect both sexes almost indifferently.
 Effect of season upon particular diseases was very remarkable.
-226 DISEASES OF THE NERVOUS SYSTEM.
 The warmth of summer was most favourable to diseases of the
 nervous system ; there were fewest cases at that season. In the
 diseases of the respiratory organs the numbers had fallen off
@@ -465,6 +476,7 @@ correspond with the present, it will call loudly for the necessity
 of excluding young children from crowded establishments in
 large towns." The London parochial schools have since been
 moved to the country.
+
 Diseases of the vascular system prevailed most in adult
 and in advanced life, and were most fatal at the latter period.
 Diseases of the locomotive organs and cellular tissue were
@@ -473,13 +485,16 @@ of the eruptive kind were most fatal in female children.
 In the original tables the diseases were arranged under
 upwards of sixty different heads, which have here been sum-
 marised under seven heads.
+
 With respect to the diseases of the nervous system there
 were ten subdivisions, viz. neuralgia, hysteria, delirium tremens,
 convulsions, epilepsy, insanity, inflammation of the brain and
 membranes, chronic diseases of these organs, apoplexy, and
 paralysis.
+
 The organic diseases amounted to 43 and the others to 57
 per cent., nearly.
+
 Middle-aged persons were found to be most frequently the
 subjects of what has been termed the functional diseases, except
 convulsions, which principally attacked and proved fatal to
@@ -495,20 +510,20 @@ vulsions, and that she herself was subject to epilepsy. These
 cases, which all came under notice within a short period, would
 seem to confirm the opinion that there is a connection and
 hereditary tendency between convulsions, epilepsy, and insanity.
-DISEASES OF THE NERVOUS SYSTEM. 227
 The connection between symptoms and organic lesions in
 cerebral diseases has ever been one of the utmost difficulty and
 obscurity. The severest symptoms have occurred without com-
 mensurate, or, indeed, any structural change being discovered;
 and, on the other hand, extensive disease has been found with-
 out any or but slight symptoms.
+
 As in almost all the cases I have recorded the state of each
 of the organs, if different from health, as well as the weight
 and the relations of each in various diseases and in both sexes,
 are compared, it appears necessary here to give the average
 weights, which, as taken from the cases examined in the
 Somerset County Asylum, showed the following results :?
-:228 DISEASES OP THE NERVOUS SYSTEM.
+
 Age Sex
 20 to 40 ( M-
 years {
@@ -630,7 +645,7 @@ of 60 | -p
 36
 4-6
 3-5 -8 15
-DISEASES OF THE NERVOUS SYSTEM. 229"
+
 Effects of Age upon the Weight of the Organs.
 From a comparison of the organs in the first and third
 periods of life, a diminution of their weight in the latter is
@@ -646,6 +661,7 @@ was two and three quarters and in females nearly two and a half
 ounces heavier, which may be owing to the great mortality of
 pulmonary diseases, which are usually combined with enlarged
 heart.
+
 Weights of the organs in the male and female compared,,
 show a general diminution of their weight in the latter; in
 the encephalon the difference is 3*3 in the first and 4-5 ounces
@@ -659,6 +675,7 @@ periods. The difference in the weight of the heart increased
 with age, being but one and three quarters in the first period
 and three ounces less at the third period in the female than in
 the male.
+
 The organic diseases of the brain arranged under?1st,,
 inflammatory affections of the membranes of the brain and
 of the spinal marrow; 2nd, softening of the brain, which is
@@ -674,8 +691,8 @@ eases, because it frequently happens that no structural
 change whatever is observable in the cerebro-spinal system, or
 any appreciable difference from what is seen in the brains and
 spinal cords of persons free from those disorders.
+
 The term spasm was applied by Dr Cullen to a state of
-230 DISEASES OF THE NERVOUS SYSTEM.
 muscular contraction more violent than is usual in health.
 Where the contraction is succeeded by relaxation, and imme-
 diately repeated without the concurrence of the will or from
@@ -687,6 +704,7 @@ this addition, that there is not loss of consciousness. When
 there is loss of consciousness the disease is termed eclampsia,
 always without foaming at the mouth, by which eclampsia is
 distinguished from epilepsy.
+
 Animals hanged and bled to death die convulsed. A state
 of general plethora, or an opposite state, anaemia, are both
 favourable to convulsions. Hippocrates asserted that con-
@@ -721,7 +739,6 @@ and St. Vitus, as they formerly spread from city to city,
 gave rise to the same deviations from bodily health in all
 the individuals they attacked. The dancing mania called
 tarantism was the same disease, whether medically or morally
-DISEASES OF THE NERVOUS SYSTEM. 231
 considered, all over Italy; it was, at its greatest height in tlie
 seventeenth century, caused by the bite of a venomous spider.
 Nothing but music afforded relief. This disease continued for
@@ -733,6 +750,7 @@ sent time both in Europe and America. Their appearance
 in single cases leads to the belief that they also proceed from
 physical causes, which is supported in experiments of modern
 physiologists.
+
 We also find that convulsions attend almost every variety
 of organic disease of the brain. In the writings of Bonetus
 cases are mentioned where there was foetid discharge from the
@@ -743,6 +761,7 @@ effusion of urine, &c. I have observed convulsions in adults
 attend cancerous tumours in the brain, also granular disease of
 the kidneys, enlarged kidneys and heart, dropsy, and enlarge-
 ment of the brain.
+
 A case of this nature occurred in the St. Marylebone
 Infirmary (No. 784), a coachman, aged 50, admitted twelve days
 before death with hemiplegia of the right side of six months'
@@ -754,6 +773,7 @@ life was unable to speak. The structure of the brain was
 softened and adherent to the dura mater, which was thickened;
 attached to it were several scirrhous tumours of various sizes,
 from a pin's head to a large pea.
+
 Another case (No. 839) of a man, aged 36, under treat-
 ment in the infirmary for seven weeks: convulsions, combined
 with enlarged heart, kidneys, and liver, and general dropsy.
@@ -767,7 +787,6 @@ enlarged and mitral valves thickened, weight 18^-oz. Abdo-
 men : Some fluid in peritoneum ; liver large, 82 oz.; kidneys
 enlarged, 15^ oz.; body 153 lbs.; length 5 ft. 10 in. Case in a
 * Life of Xath. Pearce.
-232 DISEASES OF THE NERVOUS SYSTEM.
 female aged 62 (No. 842) : convulsions, combined with wasted
 and granular kidneys. Head: Brain large, 48^ oz. Chest :
 Lungs natural, heart large, 11^oz. Abdomen: Mucous fol-
@@ -777,6 +796,7 @@ right 3tj oz., left only H oz.; body 73 lbs. Another case (No.
 and suppression of urine. Head: Brain 38^ oz., soft. Chest:
 Lungs natural; heart 10^ oz. Abdomen: Liver small, 30 oz.;
 kidneys dark coloured and soft.
+
 Children born with large heads, strumous habits, fine white
 skin, the muscular system little developed, and subject to
 diarrhoea, are prone to convulsions. Convulsions have also suc-
@@ -785,6 +805,7 @@ Valsalva observed that the external figure of the cerebrum,
 which follows the figure of the skull, when it is not natural
 may indicate something entirely foreign to the intentions of
 nature which renders it prone to disease.
+
 Convulsions may terminate in some of the diseases of the
 brain, or in death, and death may occur either by the brain,
 the lungs, or heart, as shown in the foregoing cases. Andral
@@ -792,6 +813,7 @@ found, in fatal cases of convulsions, frequently lesions of the
 brain, varying in extent from simple hyperemia even to extensive
 softenings ; but in many instances no lesion was discovered, and
 such cases he sets down to irritation.
+
 The symptoms of convulsions may occur during the course
 of any other disease or in a state of perfect health and leave
 not a trace behind. They consist of various movements?bend-
@@ -814,9 +836,9 @@ with blood or hepatised in all the six infants ; in one male the
 " foramen ovale " of the heart and the " ductus arteriosus " were
 open. Abdomen: In one male the viscera were unusually pale;
 in one male the mesenteric glands were enlarged.
-DISEASES OF THE NERVOUS SYSTEM. 233
 Case of Scrofula and Waxy Liver, terminating in
 Convulsions.
+
 Michael Q., aged 18, admitted October 17, 1846, from the
 Margate Infirmary, where he had been for caries of the spine,
 backward curvature, and a scrofulous abscess in the loins.
@@ -843,6 +865,7 @@ appeared to be owing to an unusual accumulation in the liver
 of viscid biliary matter, with a large proportion of mucus.
 It did not contain more fatty matter than in the healthy
 state.
+
 Convulsive motions of the eyes, which are sometimes turned
 upwards and at others inwards or outwards, contortions of the
 face, contractions of abdominal and thoracic muscles, and spasm
@@ -851,15 +874,15 @@ protruded at others retracted ; the involuntary muscles, as the
 heart, are seized with palpitation, and the peristaltic actions
 increased in the intestines. Sometimes there is vomiting and
 involuntary dejections.
+
 The convulsions are either general, which is rare, or partial,,
 which is common. Irregular muscular motions are not the only
 symptoms; there is also incomplete and sometimes complete loss
 of consciousness.
+
 The muscles after violent convulsions often become painful,
 ecchymosis is sometimes produced, or even dislocations, rupture
 of tendons, and even sometimes fractures. The duration is.
-NO. II.?NEW SERIES. S
-234 DISEASES OF THE NERVOUS SYSTEM.
 variable. There is a tendency to recurrence. The recurrence
 of convulsions has been known to have ceased after vaccination.
 Convulsive affections are sometimes the effects of injury.
@@ -874,6 +897,7 @@ accident. The brain corresponding to the fracture was dis-
 coloured and disorganised downwards into the lateral ventricle,
 and the arachnoid covered with pus on the injured hemisphere
 only.
+
 As to the treatment, no uniform plan can be adopted; it
 must entirely be regulated and guided by the causes.
 The diet and regimen ought to be carefully attended to. In

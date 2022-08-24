@@ -4,10 +4,11 @@ Diseases of the Nervous System
 82
 Art. VII.?.
 '' No. V.?Partial Insanity.
-BY ROBERT BOYD, M.D. Edin., F.R.C.P. Bond.
+:Author:  Robert Boyd, M.D. Edin., F.R.C.P. Bond.
 President Medico-Psychological Association, 1870 ; Late Physician and Superintendent Somerset
 County Lunatic Asylum; Formerly Resident Physician St. Marylebone Infirmary, and
 Lecturer on Medicine.
+
 In continuation of previous communications to the Journal the
 following is an analysis of the records of admissions under the
 above head, to the Somerset County Lunatic Asylum. These
@@ -26,6 +27,7 @@ enabled Dr Clendinning, in his Croonian lectures in 1838, to
 give the regular average absolute weight of the human organs
 for the whole of life above puberty in ounces avoirdupois, in
 males and females.
+
 The average weight of the brains of the insane examined
 in the Somerset County Asylum was found to be one-twenty-
 fourth heavier than the average weight of the same above
@@ -37,6 +39,7 @@ two-thirds ; the average weight of the left was greatest. The
 difference in weight was most frequent in epileptics; some of these
 cases, where remarkable differences occurred, have been published
 in the Medico-Chirurgical Transactions, Vol. XXXIX., 1856.
+
 In one remarkable instance, that of a male, the right hemisphere
 weighed only 9? ounces, the left 18^ ounces ; there was an arrest
 of development of the extremities on the opposite side, the left
@@ -74,6 +77,7 @@ frequently the liver; the pancreas and renal capsules seldom ;
 the kidneys often?not unfrequently below the average ; the
 spleen varies very often in weight and condition, being
 frequently softened.
+
 (a) Under that form of mental disorder commonly termed
 Melancholia, there were admitted into the Somerset. Asylum
 from March 1, 1848, to July 1, 1867, 600 cases?262 males
@@ -91,8 +95,6 @@ From 20 to 30 . . . .44 72
 262 338
 Causes.?Much trouble was experienced in ascertaining
 the history of those patients who were transferred from other
-G 2
-8 DISEASES OF THE NERVOUS SYSTEM.
 asylums, or who had been for any length of time in confine-
 ment. The primary causes were often difficult to be assigned,
 were sometimes various, and in many instances quite unknown,
@@ -104,6 +106,7 @@ been the predisposing cause, succeeded by a second, or proxi-
 mate cause, which has not here been distinguished, as, for
 example, a fit of drinking, which frequently was the immediate
 cause where a predisposition existed.
+
 Causes assigned Males Females
 Hereditary . . . . .59 79
 Previous illness  53 69
@@ -130,6 +133,7 @@ Unknown causes
 8 3
 52 57
 262 338
+
 In the first four cases from hereditary predisposition in
 males, the proximate cause was in one case, grief at the loss of
 his situation; in a second, religious fanaticism, attended with
@@ -138,6 +142,7 @@ drink. Likewise, in the first four females, the exciting causes
 were poverty, grief, passion, and hysteria. In cases following
 protracted illness, sudden suicidal tendencies were sometimes
 observed.
+
 Of all the symptoms in these cases of melancholia the
 suicidal tendency was the most prevalent and was reported in
 22? per cent, of the males and in 25 per cent, of the females. Of
@@ -148,7 +153,6 @@ the females 18^ per cent, were reported as dangerous or violent,
 and 11^ per cent, males and 13f per cent, females were rest-
 less, noisy, and stubborn ; 18 per cent, males and 13^ per cent,
 females were in a feeble state and quiet, a tew were suspicious,
-DISEASES OF THE NERVOUS SYSTEM. 85
 strange, visited by spirits, and addicted to wander purposelessly.
 It may broadly be stated that nearly one-third the patients had
 suicidal tendencies either by actual attempts on their lives or
@@ -168,11 +172,13 @@ weekly entertainments there, as dancing, music, and theatricals.
 In hot weather a large tent in front of the asylum was used for
 the meals and for the weekly entertainments instead of the
 large hall.
+
 The duration of the existing attack at the time of admission
 varied from 5 days to 17^ years in 217 of the males and from
 1 day to 19 years in 27G of the females, the average duration
 being nearly alike in both sexes, viz. 494 days in males and
 491 days in females.
+
 The results were in 262 males and 338 females :?
 Males Females
 Recovered . 51*6 per cent. 53*1 per cent.
@@ -193,7 +199,6 @@ in 2 males and 2 females ; pulmonary phthisis in 17 males and
 22 females ; hydro-thorax in 1 male and 3 females; pericarditis in
 2 males; enlarged heart in 4 males ; Bright's kidneys in 2 males
 and 1 female; ulceration in gall bladder in 1 male, coats
-86 DISEASES OP THE NERVOUS SYSTEM.
 purple, thickened, the liver fatty, weight 46^ ounces ; liver
 enlarged in 1 female, weighing 66 ounces ; and the gall bladder
 distended to the size of a goose egg; in another female there
@@ -209,6 +214,7 @@ was occasionally subject to outbursts of violence, when she
 would break windows. She had not previously displayed any
 suicidal tendency, but on this occasion she got into the boiler
 in the wash-house, and was scalded from the hips downwards.
+
 After the first day, when she partially recovered from the shock
 and sickness, she took food and conversed rationally ; there was
 sloughing of the skin over the left hip and thigh. Death
@@ -228,6 +234,7 @@ pended in a loft in the farm-yard. One man escaped, and
 after some time his body was found in a pond on the Mendip
 Hills, about three miles distant. One man concealed a knife,
 and ended his existence by that means.
+
 Suicide by starvation, if the following instances may
 be so designated, was not uncommon. One female, remark-
 able for her obstinacy, refusing to go to bed, noisy at night,
@@ -240,7 +247,6 @@ brain 52 ounces. Another man who required to be fed, only
 weighed 68 lbs. when dead; he had pulmonary phthisis. In a
 third man fed three times a day, pulmonary tubercles were
 found combined with pneumonia and congestion of blood in the
-DISEASES OF THE NERVOUS SYSTEM. 87
 cerebral vessels. Two females who required to be fed died
 shortly after admission, one in fourteen days ; there were small
 tumours in the liver, size of musket bullets ; the liver weighed
@@ -259,6 +265,7 @@ embedded in the corpus striatum external to the central white
 fibres ; the lateral ventricles distended with clear fluid; en-
 cephalon 46 ? ounces ; psoas abscess on the right side, containing
 half a pint of foetid fluid.
+
 There is one remarkable feature that has long been observed
 respecting suicidal cases, namely, their great frequency in some
 years and times compared with others ; in one year out of 122
@@ -287,12 +294,12 @@ the left cerebral hemisphere varied in weight from 14^ to 25i
 ounces in males, and from llf to 24^ ounces in females; the
 average weight of the right cerebral hemisphere was 20*48, and
 the left 20*54 ounces in males, and 19*02 the right, and 19*15
-88 DISEASES OF THE NERVOUS SYSTEM.
 ounces the left, in females, thus showing the preponderance in
 weight of the left cerebral hemisphere in both sexes. The en-
 cephalon varied in weight in the males from 35? to 58 ounces,
 and in the females from 21 \ to 55f ounces; the average weight
 being in males 47^- ounces, and in females ounces.
+
 The first male patient admitted to the Somerset Asylum
 suffered from melancholia; aged 47, married, first attack; an
 agricultural labourer, reported as being a well-disposed, quiet, in-
@@ -314,6 +321,7 @@ purpose of cultivating his garden ; his discharge on probation
 was granted by the visitors, as allowed by 8 and 9 Vic., c. 120,
 sec. 71. At the end of the time he was discharged off the books,
 recovered.
+
 Another early case of admission and recovery in melancholia
 was the case of a marble mason (4), aged 55, married, transferred
 from a licensed house. There was hereditary predisposition in his
@@ -334,7 +342,6 @@ The third male admitted was also of the same class, a black-
 smith, aged 58, married ; second attack, of two years' duration;
 also a transfer from the same licensed house as the preceding;
 the assigned cause, domestic grief, from the conduct of his wife.
-DISEASES OF THE NERVOUS SYSTEM. 89
 He was reported as being of ail amiable, obliging disposition.
 He had seven children; one daughter had epileptic fits. On his first
 attack he felt an irresistible desire to destroy himself. On the
@@ -346,6 +353,7 @@ undergo a fiery trial; conduct exemplary, memory good, conver-
 sation connected; had visions of spirits, principally at night; he
 liked to be reading his Bible, and pointing out concording
 passages.
+
 His general health fairly good ; pulse 78, skin cool, appetite
 small; lame on left leg, owing to chronic rheumatism. When
 able, he assisted willingly in the kitchen; he suffered from
@@ -367,6 +375,7 @@ the kitchen, and in the summer he was visited by his son and
 daughter from London, who had not seen him for two and a-half
 years; they thought him improved; he was glad to see them,
 and he conversed with them rationally.
+
 For four years he continued in much the same state, some-
 times in the kitchen, at others ill in the infirmary; weight 155 lbs.
 The following year (1855) his weight had increased to 179 lbs.
@@ -377,11 +386,11 @@ In 1862 he was mostly confined to bed; in 1863 he had an
 attack of bronchitis; in 1866 he was completely bedridden in
 the infirmary ; and in 1868 I left him still an inmate of the
 asylum after a residence of twenty years and three months.
+
 From amongst the female recoveries are shortly to be
 noticed the following cases:?The first (No. 28), a female, aged
 23, single; first attack of six months' duration previous to
 admission, owing to grief at the death of her mother : hereditary
-90 DISEASES OF THE NERVOUS SYSTEM.
 predisposition on the mother's side; she attempted suicide by
 taking laudanum a fortnight before her admission; was quiet,
 and impressed with the idea that she would shortly die ; she
@@ -396,6 +405,7 @@ bore a cheerful countenance, had grown fat, and seemed almost
 well enough to be discharged. At the end of another month
 she was entirely free from delusions, was discharged recovered,
 atter a stay of 177 days in the asylum.
+
 A second case (423) was in a female, aged 21, married ; had
 one child; first attack of one month's duration; ten months
 after her child's birth she said her eye had offended, and she
@@ -418,6 +428,7 @@ two weeks' duration ; she has been in very destitute circumstances.
 Pulse 84, skin cold, tongue clean, appetite ravenous. She
 gradually recovered from this attack, and at the end of three
 months was again discharged quite well.
+
 The last female case of melancholia now to be noticed was one
 which was so remarkably characteristic of the disorder, that a
 drawing was made of her in the asylum by a lady. Ihe patient
@@ -428,11 +439,11 @@ which was unusual, as all the preceding cases were more or less
 educated. The cause assigned for the present attack was
 grief for the death of a friend and neighbour. She fancied she
 had taken a false oath respecting the identity of a man who was
-DISEASES OP THE NERVOUS SYSTEM. 91
 taken up, and that the devil was coming to fetch her. Her
 memory was good. She was discharged from a licensed house
 after her first attack six years before, and had been a pensioner
 on the parish ever since.
+
 Three months after admission she had very much improved ;
 her countenance, from being the picture of melancholy, had
 quite changed, and become quite cheerful. Her likeness was
@@ -445,15 +456,18 @@ had made an attempt to drown herself; health very bad;
 dejected, lying on the floor, quite incapable of exertion. After
 thirteen months in the asylum for this attack, she was once
 more discharged recovered.
+
 Four and a-half years afterwards she was re-admitted for the
 third time, having arrived at the age of 63. Six months after-
 wards she was in a convalescent state, and was discharged home
 at her own request.
+
 Two years after her last discharge she was re-admitted in a
 similar state as on the previous occasion. This time she was
 noisy at night, fancied the devil was throwing fire down her
 throat. By degrees she improved, and at the end of nine months
 she had become rational, and was discharged recovered.
+
 (b) Moral Insanity.?There were but few which came
 strictly under this head amongst the class of patients admitted
 to the asylum, only 8 males and 3 females. Their ages were:
@@ -461,6 +475,7 @@ Under 20 years, 1 female; from 20 to 30, 2 males and 1 female ;
 30 to 40, 3 males and 1 female, 40 to 50, 1 male; 50 to GO, 1
 male. Civil state : 5 males and 2 females were single; 3 males
 and 2 females married.
+
 Causes.?Intemperance and an epileptic mother were the
 assigned causes in 1 male, and 1 male was paralysed and had
 thieving propensities ; 1 male was greedy and slovenly in his
@@ -474,8 +489,8 @@ recovered ; 3 males were discharged relieved, and 1 male not
 improved. The duration of the attack prior to admission varied
 in the males from 1 week to 8 years, and in the females from 2
 weeks to 4 years.
+
 An example of this form of mental disorder occurred in
-92 DISEASES OF THE NERVOUS SYSTEM.
 one of the early admissions to the asylum, in a male, No. 11, by
 trade a shoemaker, aged 26, single, transferred from a licensed
 house ; a first attack of thirteen months' duration. He could read
@@ -496,6 +511,7 @@ back frum his father's. He remained in the asylum for
 seven and a-half years, in much the same state, till towards the
 end, when lie suffered from pulmonary phthisis, and was taken
 home to his native place.
+
 A female domestic servant, No. 20, aged 18, single, first
 attack, of three weeks'duration, able to read and write, a
 member of the Church of England, fair complexion, skin warm,
@@ -504,6 +520,7 @@ nected. Cause assigned : Unkind treatment; it was reported
 that she had attempted suicide. Very quiet; was employed at
 needlework. She remained forty-three days in the asylum, and
 was taken home by her sister, recovered.
+
 (c) Delirium tremens, if it may not be considered as coming
 under the same head, seems to be closely allied to moral
 insanity. Within the period, there were admitted to the
@@ -522,7 +539,7 @@ sion varied in 30 males from 2 days to 2 years, and in
 in 23 males and 2 females; discharged not recovered,
 5 males and 1 female ; died, 2 males. One male died con-
 vulsed and the second one died from dropsy.
-DISEASES OF THE NERVOUS SYSTEM. 93
+
 A labourer (1045), aged 36, married, five children, first
 attack ; duration, two months ; could neither read nor write. An
 hereditary predisposition to insanity, of intemperate habits, was
@@ -558,9 +575,11 @@ of the right cerebral hemisphere, 25 ; left, 20? ounces. About
 5 ounces of dark-coloured blood escaped when the spinal cord
 was opened; the spinal cord was unusually firm; weight 14
 ounce. All the other organs natural.
+
 Here was an extraordinary amount of cerebral disease
 accidentally discovered, it might be said, in a drinking man'
 supposed to be only in a state of delirium tremens.
+
 A case (446) occurred in a male, aged 35, single, a pedlar;
 in a state of delirium tremens, was found wandering very de-
 pressed and unhappy, supposed himself to be deserted by the
@@ -569,9 +588,9 @@ a few days' residence in the asylum he quite recovered his
 senses and was discharged recovered. About a fortnight after-
 wards he returned to the asylum in a deranged state, said he
 was unable to refrain from drink, and begged to be again
-94 DISEASES OF THE NERVOUS SYSTEM.
 admitted. His application could not be entertained without
 a fresh order and certificates.
+
 A second case (458) in a male, aged 34, also a pedlar; he
 was admitted in a state of delirium tremens, reported as
 dangerous to others; he was discharged, recovered, in six months
@@ -588,6 +607,7 @@ violent ; destructive to her clothing; was admitted in a state of
 delirium tremens; two months after admission she began to
 improve, and three months subsequently was discharged re-
 covered.
+
 (cZ) Dementia, or Incoherence, is a form of mental disorder
 sometimes met with as a first attack in an acute form, but more
 frequently in a chronic stage, as a termination of one or other
@@ -595,6 +615,7 @@ of the various forms of insanity ; hence the recoveries in this
 disorder are but few. Cases of mania and melancholia frequently
 terminate in dementia, and it is often combined with epilepsy
 and general paralysis.
+
 The admissions under the head of Dementia during the
 twenty years amounted to 381. In this number were included
 73 who were in a state of fatuity, persons in the decline of life
@@ -602,9 +623,11 @@ after 70 years of age, sent for care to the Asylum, being poor.
 They ought not to be classed with the insane, and will be con-
 sidered separately. Deducting these 73 cases, there were 208;
 of these 93 were males, and 115 were females.
+
 As regards their ages on admission, 1 male was 19 only ;
 between the ages of 20 and 30 there were 12 males and 16
 females:?
+
 Males. Females.
 From 30 to 40 . . . .20 22
 ? 40 to 50 . . . . 16 24
@@ -616,7 +639,6 @@ and 14 females were widowed; in 3 females not ascertained.
 Causes.? These were attributed to hereditary predisposition
 in 12 males and 15 females, or 8 per cent, in the one and 10^
 per cent, in the other. In 12 males and 1 female the mental
-DISEASES OP THE NERVOUS SYSTEM. 95
 disorder followed various injuries, principally of the head ; in
 13 males and 9 females it was consequent on paralysis or organic
 cerebral disease ; in 13 males and 14 females on previous bodily
@@ -631,12 +653,14 @@ to 28 per cent, in males and 51 per cent, in females; and a large
 number of the causes were unknown. Suicidal propensities were
 reported in 6 males and 10 females, some of whom required to
 be fed forcibly.
+
 One-fourth of both sexes were reported as being violent or
 dangerous to others; several were restless, and 15 males and 30
 females destructive; 23 males and 34 females were feeble or
 helpless; and 22 males and 23 females quiet and harmless.
 Fuund capable and employed, 40 males and 31 females; 11
 males and 25 females were wilfully idle.
+
 The results were :?
 Males. Females.
 Eecovered ..... 3 5
@@ -644,6 +668,7 @@ Not recovered . . . .30 29
 Died   85 80
 Bemaining . . . . .17 32
 Total . . .135 146
+
 Causes of death were various, and in many instances the
 immediate cause was difficult to be ascertained, as many organs
 were found diseased in the same individual. Enumeration of
@@ -662,9 +687,9 @@ College of Surgeons, to Mr. Queckett, who wrote that" the bone
 sent for examination is true bone, containing corpuscles and
 Haversian canals, like the bone of the extremities. I have
 never but in one instance seen such a tiling from within the
-96 DISEASES OF THE NERVOUS SYSTEM.
 cranium, and this was attached to the falx." The cause of death
 was in this case pulmonary phthisis.
+
 Inflammation of the spinal cord, myelitis, was found in 2 males
 and 3 females; inflammation of the lungs, pneumonia, in 24 males
 and 11 females; pleuro-pneumoniain 4 males and2 females; bron-
@@ -709,7 +734,6 @@ from her bowels, and for several weeks was principally con-
 fined to bed. When she left her bed she was still feeble.
 In the following summer she had a second attack, and passed a
 considerable quantity of blood with each evacuation from her
-DISEASES OP THE NERVOUS SYSTEM. 97
 bowels, and died in a week after the attack. The body only
 weighed 68 pounds; length, 5 feet 3 inches; it was examined
 30 hours after death. The circumference of head 21?, antero-
@@ -756,8 +780,6 @@ stood on a hot bar of the grate in the workhouse, trying to get
 up the chimney; he also tried to get through the windows.
 There were burns on both feet, and phlegmanous erysipelas
 of both legs. He died a fortnight after admission. Body
-PART I. VOL. IV. NEW SERIES. II
-98 DISEASES OF THE NERVOUS SYSTEM.
 examined 25 hours after death; weight, 107 lbs.; length,
 5 feet 7 inches; circumference of head, 22 ; anteroposterior
 and transverse measurements, each 14 inches. The dura mater
@@ -769,6 +791,7 @@ surfaces; the right hemisphere weighed 21, the left 22 ounces;
 spinal cord natural, weight 1 ounce. Slight pleuritic adhesions of
 the lungs, and cadaveric congestion. Heart enlarged, 15 ounces;
 bony deposit in the aorta near the heart. Other organs natural.
+
 One male (48) died from a sad accident, a severe burn,
 aged 36, single, transferred from a licensed house, by occupation
 a gardener, quiet and harmless. He was always cheerful, and
@@ -788,6 +811,7 @@ his foot slipped, and it flamed up and set fire to his clothes.
 He was very sick and restless during the night; he only sur-
 vived the accident about nineteen hours.
 One male died of typhoid fever.
+
 A female (No. 492), aged 68, married, was admitted in a
 state of dementia of five years' duration, attributed to grief. She
 had a violent temper, was destructive in her habits, and in a bad
@@ -804,7 +828,6 @@ ing ; it was afterwards found easier to teed her with the stomach
 tube. She died five months and three weeks after admission.
 Body examined fourteen hours after death; weight, 79 lbs;
 length, 5 feet 2 inches ; circumference of head 21, antero-
-DISEASES OF THE NERVOUS SYSTEM. 99
 posterior 12, and transverse 13 inches. The brain was rather
 soft, dark in colour, and there was more fluid than usual in the
 pia mater and in the lateral ventricles ; each cerebral hemi-
@@ -817,6 +840,7 @@ the average weight; the other organs were natural.
 A second case (1319), in a married female, aged 30, of choraic
 convulsions was, after four months in the Asylum, discharged
 recovered.
+
 The youngest male admitted recovered apparently for a
 time, and was taken home by his father after sixteen months in
 the Asylum; his age was 19 years, and he had been previously
@@ -824,6 +848,7 @@ sixteen months in a licensed house; was occasionally violent, of
 filthy habits, indifferent health; chattered incoherently; under
 tonics, cod liver oil, and phosphate of strychnine, his health veiy
 much improved.
+
 Two years and a half afterwards he was readmitted, with the
 premonitory symptoms of general paralysis. He was cheerful,
 in fair bodily condition. He gradually got worse, became rest-
@@ -837,6 +862,7 @@ week after sensation continued dull ; temperature, 90? in axilla,
 97? between his mouth ; temperature of room, 65?. At the
 end of three months, in May 1868, he was improved, walking
 about, and remained in the Asylum.
+
 A female (590), aged 22, single, first attack, duration 2i
 years; hereditary predisposition on both sides ; violent, wild,
 excited. She was confined to bed for several weeks with a
@@ -851,8 +877,6 @@ her so well that it was used about twice a week. She walked
 better; she used to walk formerly on her toes, and sometimes
 she herself asked for a bath. At the end of thirteen years she
 remained, in much the same state, an inmate of the Asylum.
-H 2
-100 DISEASES OF TIIE NERVOUS SYSTEM.
 A female (263), aged 33, married, transferred from a licensed
 house, two years ill, said to have been paralysed ; motion per-
 fect ; silent, disposed to laugh ; in good health ; weight, 159? lbs.;
@@ -860,9 +884,11 @@ quiet and harmless. Three years after admission she was in-
 duced to occupy herself at needlework. Two years afterwards
 there was a decided improvement; she rapidly got better, and
 was discharged recovered.
+
 The duration of the disorder at the time of admission varied
 in the males from 4 days to 37 years, and in the females from 1
 week to 28 years.
+
 The comparative weight of the cerebral hemispheres in cases
 of dementia in 46 males gave an average of 20*05 for the right
 and 20*2 ounces for the left; and in 53 females 18 for the right
@@ -895,11 +921,12 @@ opacity of the arachnoid ; the lateral ventricles much distended
 with fluid; the brain firm; the right cerebral hemisphere 23?,
 the left 23 ounces; the mitral valve of the heart thickened ;
 weight, 7| ounces; the other organs natural.
+
 The average weight of the left cerebral hemisphere was
 greater than that of the right in the preceding cases, the
 difference being about the tenth of an ounce, in both sexes, in
 dementia.
-DISEASES OF THE NERVOUS SYSTEM. 101
+
 (e) Fatuity, dotage, or second childhood, some authors have
 stated to be commonly observed in females after 70, and in
 males after 75 years of age. Individuals, however, vary greatly
@@ -915,9 +942,11 @@ the cerebral membranes become thickened and opaque, the
 brain is diminished in size, firmer, and tougher; all the other
 organs partake of the general decay, and the senses gradually
 become blunted.
+
 The two following rather remarkable cases were admitted to
 the Asylum in the last stage of human existence: a male aged
 96, and a female reported to be 90.
+
 The male (861) aged 96, married, seven children, a basket-
 maker by trade; first attack, one day excited. He attempted
 to commit suicide in consequence of the removal of his wife to
@@ -939,14 +968,15 @@ lung; redness of the lining membrane of bronchial tubes in
 both lungs. Heart large, 12 inches, valves natural. Other
 organs healthy. Cause of death, hydrothorax, bronchitis, and
 chronic meningitis.
+
 Female (1459); her daughter-in-law stated her age to be 90;
 a widow; had two sons; first attack of eight months' duration ; in
 a feeble state of health, incoherent, using threatening language;
 memory lost, expression vacant, noisy at night. Three months
 after admission she was very ill, confined to bed in infirmary,
 and died five weeks afterwards from natural decay.
+
 Autopsy twelve hours after death. Weight of the body,
-102 DISEASES OF THE NERVOUS SYSTEM.
 78 Ids.; length, 5 feet; circumference of head 21, denuded of
 scalp 20? inches; antero-posterior 12, denuded 1H; transverse
 measurement 10^, denuded 10 inches. The brain unusually
@@ -956,12 +986,15 @@ phalon 38?, nearly 5 ounces under the average. The spinal
 cord natural, weight 1 ounce. Chest: no pleuritic adhesions,
 lungs emphysematous; the right weighed 7, the left 6 ounces;
 heart, 7 ounces. Abdominal organs natural.
+
 The ages of the others were, between 70 and 80, 30 males
 and 20 females; and from 80 to 90 years, 11 males and 10
 females.
+
 Civil state : 1 male and 5 females were single, 21 males and
 10 females were married, and 20 males widowers and 16 females
 widows.
+
 The results were, that 81 per cent, of males and 68 per
 cent, of females died; 14 per cent, males and 26 per cent,
 females were after a time removed to their homes or to the
@@ -992,11 +1025,12 @@ cerebral hemisphere was in the females 17*40, and of the left
 17*46 ounces. Thus we find the preponderance of weight, in
 the left cerebral hemisphere, still existing at this most advanced
 period of life.
-DISEASES OF THE NERVOUS SYSTEM. 103
+
 Note on Genekal Paralysis of tiie Insane.
 In the number of the Journal of Psychological Medicine,
 for April 1877, there is an able review of the works of three
 French writers on General Paralysis.
+
 It is there stated that one of those writers, " M. Magnan,
 claims priority in having determined the centre, or it may be
 one of many centres, of that disorganising process which is in-
@@ -1005,6 +1039,7 @@ throughout all parts of the encephalon, and produces those
 secondary pathological appearances which have previously been
 identified as the cause of the disorders of mobility and sensi-
 bility which follow."
+
 " These microscopic features, as well as those conspicuous to
 the naked eye, may appear first in the brain and its appendages,
 and afterwards in the medulla ; or they may appear first in the
@@ -1036,7 +1071,7 @@ I here briefly recapitulate some of my observations made upwards
 of thirty years ago, and confirmed by the examination from time
 to time of the bodies of nearly 160 patients who died whilst
 under my care in the Somerset County Asylum.
-104 DISEASES OF THE NERVOUS SYSTEM.
+
 In the first report of the Somerset County Lunatic Asylum,
 for 1848, it is stated that fatal cases of general paralysis or
 palsy were found on examination to be accompanied by, and
@@ -1063,6 +1098,7 @@ fluid beneath the arachnoid (166 m.) concealing the gyrse, and
 a roughness from crystals, as if minute particles of sand were
 sprinkled on the floor of the 4th, and sometimes to a slighter
 extent also in the lateral ventricles.
+
 It may further be observed that general paralysis or palsy
 sometimes precedes the mental derangement. This would occur
 where the spinal cord first became diseased, and disease after-
@@ -1083,7 +1119,6 @@ suddenly after a convulsive fit; there was softening of the cord,
 and a considerable quantity of fluid in the cerebral ventricles
 and spinal canal. Many cases of sudden death have, I believe,
 been wrongly attributed to what has been termed serous apoplexy,
-DISEASES OF THE NERVOUS SYSTEM. 105
 where fluid has been found in the lateral ventricles?a very-
 frequent occurrence in the aged?and in which the fatal event,
 if the spinal cord had been carefully examined, would have been
@@ -1092,6 +1127,7 @@ cases of palsy, those in which the fatal termination did not
 occur for several months, were distinguished by induration,
 sometimes by atrophy of the spinal cord, and by the thickening
 of its membranes.
+
 Besides the cases of general paralysis there will be found in
 the obituary of 1849 cases of paralysis dependent on old injury,
 or disease of the brain different from the disease already pointed

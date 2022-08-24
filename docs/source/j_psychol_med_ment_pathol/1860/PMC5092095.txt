@@ -6,23 +6,27 @@ The following interesting and valuable statistics are from the remarks
 of Frederick Purday, Esq., Principal of the Statistical Department of
 the Poor Law Board, appended to the Parliamentary Return of Insane
 Paupers chargeable on the first of January, 1859.
+
 1. The statistics of pauper insanity contained in this paper have
 been compiled from the lists of " Lunatics, Idiots, and other Persons
 of Unsound Mind," who were chargeable to the poor rates on the 1st
 January, 1859. These lists are made out annually by the Clerks to
 the Guardians, and transmitted to the Poor Law Board, in compliance
 with the 1G and 17 Vict. c. 97, s. 64.
+
 2. In tabulating the. numbers under "Lunatic," or "Idiot," this
 classification has been observed. All cases of congenital insanity,
 under whatever name returned, have been entered as " Idiots," all the
 other cases as "Lunatics;" whether the insanity commenced at a
 stated age or at an " unknown" age.
+
 3. Returns were received from 615* unions and single parishes
 under Boards of Guardians; the population of these places, according
 to the census of 1851, was 17,069,448; but, estimated to the 1st
 January, 1S59, it was 19,430,000. The number of insane paupers
 chargeable to the Poor Rates in those places, on that day, was as
 follows:?
+
 Number of Paupers
 Oil
 1st January, 1859.
@@ -36,15 +40,17 @@ Lunatics.
 21,432
 Idiots.
 8,886
+
 Thus 3"50 per cent, of the pauperism, on the 1st January last, is
 ascribable to insanity ; the lunatics being 2'47 per cent., and the idiots
 103 per cent.
+
 * " Besides these Unions, some places, which do not make the usual returns of
 Pauperism to the Poor Law Board, have transmitted lists of insane paupers. The
 total number of insane paupers so returned is 98 ; viz., 75 lunatics, and 23 idiots ;
 the particulars are printed, with tbe other Unions, at p. 26, et seq.
-PAUPER LUNATICS. 115
 4. In reerard to the sexes, 13,389 were males, and 16,929
+
 females:?
 Insane.
 Lunatics
@@ -61,6 +67,7 @@ Total.
 21,432
 8,88(5
 16,929 j 30,318
+
 It is worthy of remark that, while the females considerably preponderate among the lunatics, they do not much exceed the males
 among the idiots. But, taking the two classes together, the ratio of
 females to males is not so great as it is in the pauperism at large,
@@ -68,6 +75,7 @@ where, among the adults, the female are more than double the number
 of the male recipients of relief. The returns of pauperism do not distinguish the sexes of the children, but there is no reason to suppose
 that, if they were discriminated, the proportion would be materially
 changed.
+
 5. In the subjoined table, the number of lunatic and idiot paupers
 is shown for each division of England and Wales.
 Divisions.
@@ -196,7 +204,7 @@ C Lunatics, 479
 1032
 091
 I 2
-116 PAUPER LUNATICS.
+
 6. The ages of 19,886 lunatics are given in the following
 summary:?
 Years Number i Years Number
@@ -209,6 +217,7 @@ Under ) . 30 Years 4400
 50    3659
 60    2429
 70 ,, and upwards . . 1363
+
 7. The ages of 8,792 idiots were as follows :?
 Years Number i Years Number
 of Age. of Idiots. ! of Age. of Idiots.
@@ -229,6 +238,7 @@ attack. This is shown in quinquennial periods, and in respect of
 5923 males, and 7749 females, in the next table.
 Years
 of Age.
+
 I
 Total, j Males. Females.
 Years
@@ -286,9 +296,11 @@ Under
 8
 2
 1
+
 9. The 30.318 Insane Paupers were maintained in the following
 establishments, or were lodged with strangers, or resided with their
 relatives ; namely?
+
 14,481 in County or Borough Lunatic Asylums.
 2,07G in Registered Hospitals, or in Licensed Houses.
 7,903 in Union or Parish Workhouses.
@@ -296,7 +308,6 @@ relatives ; namely?
 4,892 Residing with Relatives.
 Of the small number returned as " In Lodgings, or Boarded Out,"
 326, or more than one-third, are chargeable to parishes in Wales.
-PAUPER LUNATICS. 117
 10. The average weekly expense of eacli insane pauper has been
 estimated by the respective unions. But it is termed, in conformity
 to the Schedule, the " Average Weekly Cost of Maintenance and
@@ -312,6 +323,7 @@ The charge in licensed houses will be made up, it may be presumed, of
 similar expenses, with some addition as the proprietor's profit. The
 charge in workhouses is the expense of food, clothing, and necessaries,
 supplied for the in-door paupers.
+
 11. The proportion of Idiots to the total number of Insane Paupers
 is between one-third and one-fourth, i.e, 29*3 per cent, for the whole
 country. But there is considerable variation from this proportion in
@@ -320,6 +332,7 @@ where it is the lowest, the ratio is 9"5 per cent.; and in North
 Wales, where it is highest, it is 52 3 per cent. The following is a list
 of the divisions, arranged according to the greatest proportionate
 number of Idiots :?
+
 Ratio per cent, of Idiots on total number of Insane Paupers.
 "Welsh 47'8
 North Midland. . . . 35*7
@@ -357,11 +370,12 @@ Buckingham . . . . 35*4
 Huntingdon . . ... 34'5
 Hertford .   33*5
 Lincoln 33 "5
-118 MEDICO-LEGAL TRIAL.
+
 12. The ratio of Lunatics, and of Idiots to the total number of
 Insane Paupers, in the different divisions, is as follows:?
 Ratio per cent, of Insane to total Pauperism.
 The Metropolis.
+
 North Midland.
 West Midland .
 York . . . .

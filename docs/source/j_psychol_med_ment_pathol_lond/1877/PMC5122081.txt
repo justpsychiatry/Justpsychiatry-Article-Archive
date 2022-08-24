@@ -3,7 +3,8 @@ State Medicine in its Relations to Intemperance and the Inebriate
 
 11G
 Art. VIII.?*
-By EDWARD C. MANN, H.D.,
+:Author: Edward C. MANN, H.D.,
+
 Medical Superintendent State Emigrant Insane Asylum, Ward's Island, New York.
 During the past few years scientific men have been earnestly
 labouring to impress tlie idea upon the public that more
@@ -38,17 +39,16 @@ viduals, when these are productive of direct evil to the public,
 yet I think their wisdom and intelligence should be directed in
 the channels of the diffusion among the masses of the know-
 ledge of sanitary and hygienic laws and the penalties consequent
-*Read before the American Social Science Association, at Philadelphia, Mnv 31st.
-1876.1
-STATE MEDICINE IN ITS RELATIONS, ETC. 117
 upon their violation. The public sentiment must be enlightened
 and changed before prohibitory laws and statutes will avail.
+
 When the masses can be made to understand that by intemper-
 ance they are destroying not only their own physical, moral, and
 intellectual health, but that of their offspring, on whom this
 curse is inevitably entailed by the laws of hereditary transmis-
 sion, then, and only then, will the disease?for disease it is?
 be abated.
+
 In all parts of the civilised world man seeks for some
 stimulus, the results of which are more or less disastrous to his
 physical, moral, and intellectual health, according as the
@@ -87,7 +87,7 @@ brain, resulting from the abuse of alcoholic liquors. This I deem to be due to t
 fact that the warm, humid temperature, particularly of Rome, relaxes the muscular
 and nervous sj'stem ; the blood circulates sluggishly, thus predisposing to disease,
 if alcohol be indulged in, by reason of the imperfect oxidation of the tissues.
-118 STATE MEDICINE IN ITS RELATIONS
+
 years, only twenty-six deaths of natives are recorded as the
 result of intemperance, and this out of a population of about
 50,000 inhabitants. In Germany wine and beer are in un-
@@ -134,7 +134,6 @@ is universally drunk by the lower classes, and the amount of
 intemperance thereby induced operates in the production of
 crime, and has a very unfavourable effect on the mortality of
 this class. An apparent exception to the law spoken of in
-TO INTEMPERANCE AND THE INEBRIATE. 119
 the beginning of this paper, that intemperance is comparatively
 rare near the equator, is found in the natives, or aborigines, of
 Central Africa, India, West Indies, and the tropical islands of
@@ -142,6 +141,7 @@ the Pacific Ocean. It is stated that in these localities the
 natives rival any nations of the globe for beastly intoxication
 and drunken orgies. The descendants of European colonists
 occupying these countries are, however, uniformly temperate.
+
 If we look at the foregoing description of the drinking habits
 of different nations, we shall see that the greatest amount of
 disease and crime resulting from intemperance occurs in those
@@ -181,7 +181,6 @@ that the prevalence of light wines and beer diminishes
 intemperance in such a climate as ours, I believe it
 directly promotes it; as I think a person, especially one
 inheriting a tendency in this direction, after indulging in
-120 STATE MEDICINE IN ITS RELATIONS
 wine and beer for some time, feels a growing desire for some
 more powerful stimulant, and soon resorts to the habitual use
 of distilled liquors, such as brandy or whisky. I doubt very
@@ -228,7 +227,6 @@ vous temperament, which is gradually taking place in successive
 generations, would the dangers of intemperance be lessened by
 the unlimited supply of light wines and beer ? I think not. I
 regard inebriety as a physical disease, and I do not believe that
-TO INTEMPERANCE AND THE INEBRIATE. 121
 a man whose nervous system is diseased by indulgence in alco-
 holic stimulants will ever voluntarily abandon distilled liquors
 for light wines. Such a man feels, when depressed physically
@@ -246,7 +244,9 @@ this disease theory of inebriety is acknowledged and recognised
 by the public, and the proper sanitary, hygienic, and medicinal
 remedies are applied to this disease, the sooner will it disappear
 and be classed under the head of pi evented diseases.
+
 EFFECTS OF INTEMPERANCE UPON INDIVIDUALS AND COMMUNITIES.
+
 The effects of intemperance upon the sanitary condition of
 individuals and communities is very disastrous. This naturally
 results from the pauperism and crime, and the moral and social
@@ -273,7 +273,6 @@ diminished the amount of carbonic acid gas exhaled from the
 lungs. These experiments of Dr Prout were confirmed by
 Sandras and Bouchardet, of France, who repeated them with
 like results, and also by scientists in our own country. The
-122 STATE MEDICINE IN ITS RELATIONS
 chemico-physiologists then maintained that alcohol, being a
 hydro-carbon, must necessarily be used for maintaining tem-
 perature and respiration, and that its use increased temperature
@@ -320,7 +319,6 @@ under other forms, it often disappears in the second generation
 to break out with renewed intensity in the third. It manifests
 itself in predisposition or simple aptitude; in a latent state; or
 in the actually developed disease. In the second or latent state,
-TO INTEMPERANCE AND THE INEBRIATE. 123
 the germ of the disease, which has been inherited by the indi-
 vidual, lies dormant, perhaps, for years, and starts into life in
 advanced age ; as the result of ill health or mental shock,
@@ -330,6 +328,7 @@ due probably to the interference in the nutrition, growth, and
 renovation of the brain-cells, which, by the use of alcohol, are
 unduly stimulated, so that a process of waste and decay is
 induced, beyond the powers of reparation and renovation.
+
 Owing to this impression of a pathological state on the brain-
 cells, there results a change of healthy function, and disease is in-
 duced. The effect of the alcohol is to cause a change in the
@@ -367,7 +366,6 @@ the excessive use of stimulants, by the patients themselves, or
 by their parents, constitutes an important, if not the primary,
 factor in the production of mental disturbance." In order to
 successfully combat all these manifold evils which we have seen
-124 STATE MEDICINE IN ITS RELATIONS
 result from intemperance, we need to educate the public up to the
 universal acceptance of and belief in the fact that alcohol, in-
 stead of being a tonic and restorative to the system, is a
@@ -380,7 +378,9 @@ believe that mind and body are debilitated, instead of nourished
 and renovated, by the habitual use of alcoholic liquors, public
 sentiment will then be adequate, without the necessity of pro-
 hibitory laws, to the prevention of intemperance.
+
 INEBRIATE ASYLUMS AND CARE OF TIIE INEBRIATE.
+
 We have already spoken of the necessity of wise legislation
 tending to the prevention of intemperance ; but what shall we
 do with the Inebriate ? It becomes a grave question relating to
@@ -412,7 +412,6 @@ annually appropriated in each State to almshouses, hospitals,
 prisons and asylums, should be appropriated to the reform and
 cure of inebriates, the expenses of the above-named institutions
 in a short time would be very much lessened, by the decrease in
-TO INTEMPERANCE AND THE INEBRIATE. 125
 admissions, which would be the natural result of a decrease in
 the causes of pauperism, crime, and disease. If, in addition to
 building inebriate hospitals in every State, the Legislature of
@@ -459,7 +458,6 @@ and his property, then, I would do as I am in the habit of doing
 with my insane patients, send them on pass?on trial?still
 maintaining a legal control over them, and, when it is clear that
 they are going to do well, discharge them. With the insane I
-126 STATE MEDICINE IX ITS RELATIONS, ETC.
 have found this plan to work well; why not with the inebriate
 insane, if they are in like manner legally committed upon ad-
 mission ? For the successful treatment of inebriety, as with

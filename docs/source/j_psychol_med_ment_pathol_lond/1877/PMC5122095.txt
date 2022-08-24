@@ -4,16 +4,18 @@ Diseases of the Nervous System
 93
 Akt. VIL?
 No. III.?INSANITY.
-By ROBERT BOYD, M.D. Edin., F.R.C.P. Lond.
+:Author:  ROBERT BOYD, M.D. Edin., F.R.C.P. Lond.
 President Medico-Psychological Association. 1K70; late Physician and Superintendent County
 Somerset Lunatic Asylum, formerly Resident Physician St. Marylebone Infirmary, anil
 Lecturer on Medicine.
+
 The functional disorders of the Brain, Convulsions, Epilepsy,
 and Idiocy, all of which usually prevail before puberty, have
 previously been shown to be so closely allied as to justify their
 being included in a distinct class or natural order, and sepa-
 rated from a second class, including the various forms of
 insanity occurring almost exclusively in adults.
+
 The cases of the first class were treated of in former papers.*
 The cases of the second class are now to be considered, and
 include nearly three-fourths of those that have come under my
@@ -21,14 +23,17 @@ observation in the Somerset County Lunatic Asylum. A
 synopsis of the first twenty annual reports of that institution
 will be given, including a summary of the admissions and the
 results.
+
 The general classification and description of the principal
 forms of insanity is that adopted bv the Metropolitan Com-
 missioners in Lunacy, being the one most likely to be followed
 and to be of practical utility.
+
 A preliminary statement of the statutory regulations prior,
 to the confinement of a patient tinder certificates is affixed;
 also, observations on the diagnosis of insanity, and of feigned
 insanity.
+
 In the Lunatic Asylum Act 1853, 16 & 17 Victoria,
 c. 97, the mode of sending pauper lunatics to an asylum is
 prescribed in clauses 67 and 68, the more important provisions
@@ -39,12 +44,11 @@ The person who makes the order must see the lunatic and
 satisfy himself that he is a proper subject to send to an
 asylum, and must also obtain from a legally qualified medical
 man a certificate as provided by the Act.
+
 The form of statement given by the Act comprises ques-
 tions which must be answered by the relieving officer. Every
 medical officer of a union must, within three days, give notice
 to the relieving officer of any person deemed to be lunatic;
-* Journal of Psychological Medicine, October 1875, April and October 1876
-94 DISEASES OF THE NERVOUS SYSTEM.
 and thereupon the relieving officer must, within three days,
 apply to a Justice, in each case under a penalty of J10 (sec.
 70). The Justice must order the person to be brought before
@@ -54,6 +58,7 @@ the patient cannot conveniently be taken before a Justice, then
 the officiating clergyman may examine the patient at his own
 abode or elsewhere; but there is no power to bring the patient
 before him given in the Act.
+
 Wandering Lunatics are to be sent to an asylum by order
 of one Justice; and lunatics not under proper care and
 control, and those who are cruelly treated or neglected by any
@@ -67,6 +72,7 @@ of a Justice, into the cases of persons not under proper care,
 or cruelly treated, or neglected; and upon an unfavourable
 report, an order shall be made to bring the lunatic before two
 Justices.
+
 There are penalties of ?10 for not taking wandering
 lunatics into custody, and for not giving information within three
 days of persons not under proper care or who are cruelly treated.
@@ -82,6 +88,7 @@ than seven days previously to the reception of such person into
 the asylum ; and every person who receives any person, not a
 pauper, into any asylum without such order and medical cer-
 tificate shall be guilty of a misdemeanour.
+
 It may be as well to add a few remarks on the order,
 statement, and medical certificates. The directions on the
 printed form must be carefully attended to, or the form will
@@ -91,7 +98,6 @@ within fourteen days, the Commissioners may make an order
 for the patient's discharge. The medical practitioner has to
 certify, not only that the person is a lunatic, or idiot, or of
 unsound mind, but also that he is a proper subject to be
-DISEASES OF THE NERVOUS SYSTEM. 95
 taken charge of in an asylum ; and he must also give his
 reasons for coming to such a conclusion; first, from facts
 which he has observed himself; and secondly, from facts
@@ -138,7 +144,6 @@ own personal safety. The diagnosis of instinctive madness,
 or of insane impulse from crime, the object of moral punish-
 ment, is a most difficult and at the same time an important
 investigation. The diagnosis of mania, or of raving madness
-96 DISEASES OF THE NERVOUS SYSTEM.
 and delirium, is of the utmost importance. A delirious
 person should not be moved to an asylum. Such mistakes
 have been made, and to a medical practitioner might be
@@ -151,6 +156,7 @@ disturabnce and fever; the latter of mental alienation, un-
 attended by fever or active bodily disease. Chronic delirium
 therefore comprises the various forms of insanity. Some con-
 sider insanity the delirium of chronic disease.
+
 The causes which give origin to delirium are often them-
 selves sufficient to distinguish it from insanity. In the ad-
 vanced stage of acute, and also in chronic, diseases, when the
@@ -185,7 +191,6 @@ flushed, and pulse rapid and small. Patients in fever often
 rave in a way which indicates that they are under illusion as to
 where they are, and mistake the persons who surround them.
 Fatal surgical operations are sometimes attended with delirium,
-DISEASES OF TIIE NERVOUS SYSTEM. 97
 and it occasionally appears towards the termination of pneu-
 monia, hepatitis, splenitis, and phrenitis. Also in chronic
 diseases, such as phthisis, cancer, dropsy; the mind wanders
@@ -201,6 +206,7 @@ falx and the right cerebral hemisphere. The mental disorder
 gradually increases, and the delirium usually passes into coma.
 Occasionally it disappears, especially in chronic diseases, and
 leaves the mind clear before death.
+
 The diagnosis of mania and delirium tremens is impor-
 tant, and sometimes more difficult than that of madness and
 febrile delirium. The history of the case must be taken into
@@ -213,8 +219,10 @@ gnawed by rats; their muscular power is greatly impaired;
 they are weak and tremulous; while even in the most violent
 paroxysms of mania the person affected sees and hears distinctly,
 and is strong and active in his limbs.
+
 The various distinguishing marks of delirium have been
 thus summed up by Georget:?
+
 1. Acute delirium is not an essential symptom of that
 disease in which it occurs, since that disease may exist without
 it. Insane delirium is the essential, and often the most pro-
@@ -232,8 +240,6 @@ some of its affections only being affected. It is exce s of action,
 deviation, and want of harmony of these faculties, or prepon-
 derance of some fixed and assumed idea, that characterises
 general or partial insanity. By the partially insane a connected
-PART I. VOL. Ill?NEW SERIES. G
-98 DISEASES OP THE NERVOUS SYSTEM.
 discourse is often kept up, and they are frequently capable of
 maintaining the discussion of an argument. The senses also
 perform their functions, perception exists, although it may not
@@ -243,16 +249,19 @@ dream, with its own creations, and preserves the power, when
 strongly roused to momentary recollection, of directing itself
 to its situation. In insane delirium truth and error are mixed
 up and not distinguishable by the patient.
+
 4. In acute delirium volition as well as consciousness is
 suspended, the patient being for the most part in a state of
 stupor; and when he does attempt an intellectual effort, he
 appears as if he were in a dream. In insane delirium volition
 is often powerfully exerted and influenced by motives in the
 action it produces.
+
 5. In the course of acute delirium, circumstances that have
 occurred are on recovery but faintly remembered. In insane
 delirium a full recollection is frequently retained of all that has
 passed.
+
 6. Acute delirium is not hereditary, any more than is the
 disease in which it may occur, nor is it announced by signs of
 predisposition, nor of imperfection. Insane delirium is very
@@ -271,22 +280,25 @@ months, or a year, or even longer time has elapsed.
 8. Acute delirium occurs in acute diseases common to
 childhood. Insane delirium is scarcely known before the age
 of puberty.
+
 9. Acute delirium does not present any directly curative
 indications; in particular, we never think of removing it by
 moral means, because (intellect being nearly suspended) no
 effect could be looked for from them. In insane delirium the
 treatment is very much directed to injured function; it being
 on this principle that moral means operate.
+
 10. When once the health is established a relapse of acute
 delirium is not dreaded. In insane delirium the recovery
 is not always permanent, relapses are frequent, and the brain
 is easily disturbed by slight causes.
-DISEASES OF THE NERVOUS SYSTEM. 99
+
 Lastly. The causes of acute delirium are either from
 remote diseases, or from different influences which give birth
 to cerebral affections, of which this is the symptom. Tlif
 causes of insane delirium act directly upon the intellects
 functions of the brain.
+
 Simulated Insanity.?" The supposed difficulty," says Dr.
 Kay, " of distinguishing between feigned and real insanity
 has been the principal cause to bind the legal profession
@@ -328,11 +340,11 @@ a criminal simulating mania, will frequently deny all know-
 ledge of men or things with which he has been always
 familiar, especially whenever he imagines that such ignorance,
 if believed, may be considered as a proof of his innocence.
-a 2
-100 DISEASES OF THE NERVOUS SYSTEM.
+
 There is also a certain hesitation and appearance of preme-
 ditation in the succession of ideas with which, in real madness,
 the train of thought is changed.
+
 In the year 1849, a male prisoner, aged 27, described as
 a hawker, who was sentenced to fifteen years' transportation
 for highway robbery, was sent to the Somerset County
@@ -376,7 +388,6 @@ those means of information which are applicable in a personal
 interview. The continued observation has usually to be
 pursued for some time, and when the person supposes him-
 self to be unobserved; he should be led to speak of the
-DISEASES OF THE NERVOUS SYSTEM. 101
 motives of those who are anxious to prove his insanity, or to
 write to his friends and prepare statements of his wrongs.
 It has been observed that a forgetfulness of words and letters
@@ -399,6 +410,7 @@ Metropolitan Commissioners in Lunacy, made previous to
 the passing of the Lunacy Acts in 1845, a brief, but distinct,
 description is given of principal forms of insanity, which are
 classified under the following heads :?
+
 I. Mania ; which is subdivided into^?
 1. Acute mania, or raving madness.
 2. Ordinary mania or chronic madness of a less
@@ -417,13 +429,14 @@ VII. Congenital imbecility.
 VIII. General paralysis of the insane.
 IX. Epilepsy.
 X. Delirium tremens.
+
 A few brief descriptions of the disorders to which these
 terms are appropriated may be deemed requisite by way of
 explanation.
+
 I. General Definition of Mania.?Mania.?This term is
 used to designate a particular kind of madness, as affecting
 all the operations of the mind. Hence the term total or general
-102 DISEASES OP THE NERVOUS SYSTEM.
 insanity is used as synonymous with mania. Maniacs are
 incapable of carrying on, in a calm and collected manner, any
 process of thought; their disorder for the most part betraying
@@ -436,6 +449,7 @@ panied by hurry and confusion of ideas, and by more or less
 excitement and vehemence of feeling and expression. When
 these last symptoms exist in an excessive degree, the disorder
 is termed aoute mania or raving madness.
+
 1. Acute Mania.?Acute mania or raving madness is the
 first stage of the disease, which often becomes gradually
 milder in its character, and is then termed chronic mania or
@@ -445,6 +459,7 @@ disease, which sometimes becomes fatal through the exhaustion
 occasioned by perpetual agitation and want of rest. It is also
 generally attended with considerable disturbance of the vital
 functions.
+
 2. Chronic Mania.?The chronic form of madness is
 attended with less excitement of the passions, less rapidity of
 utterance, and less violence of action. In this stage the disorder
@@ -470,7 +485,6 @@ might be inferred from the writings of authors on medical
 jurisprudence. Some medical writers of considerable note
 have denied the existence of lucid intervals altogether. The
 fact is, that in large asylums there are patients subject to
-DISEASES OF THE ERVOUS SYSTEM. 103
 occasional paroxysms of raving madness, but who have in-
 tervals of comparative tranquillity and rest. It generally
 happens that after the alternations of raving fits and periods
@@ -486,9 +500,11 @@ this is the ordinary character of the disease. Recurrent in-
 sanity is a name applied to any form of mental disorder,
 when the patient recovers perfectly, but suffers from relapses
 after considerable periods of time.
+
 II. Dementia.?Chronic and protracted mania is frequently
 the prelude to a decay and final obliteration of the mental
 faculties, which is termed dementia.
+
 Dementia differs from all other forms of insanity. It
 differs from mania, in which the intellectual powers still exist,
 though they are exercised in a confused and disordered manner.
@@ -517,10 +533,10 @@ to determine in what degree melancholy, when it exists without
 delusions, constitutes insanity. A great number of persons
 whose disorder is precisely that which is above described, and
 who betray no particular error of judgment or hallucination,
-104 DISEASES OF THE NERVOUS SYSTEM.
 are confined in lunatic asylums as a precaution against suicide,
 to which they are prone, in many instances, from a disgust
 of life.
+
 Another class of melancholies derive their grief and despon-
 dency from some unreal misfortune which they imagine to
 have befallen them. Many are convinced that they have com-
@@ -536,6 +552,7 @@ some complaint of which they magnify the symptoms; they
 fancy every trifling sensation of a painful kind to be certain
 indications of their incurable distemper, which they often
 attribute to some fantastic cause.
+
 IV. Monomania.?Monomania, properly so termed, is a
 form of insanity which, from the attention given to it, might
 be supposed to be of more frequent occurrence than it really is.
@@ -549,9 +566,11 @@ with the illusion is retained, the disorder is not a case of
 monomania or " partial insanity." A frequent illusion of
 monomaniacs is that that they hold conversation with super-
 natural beings.
+
 In most instances of partial insanity, melancholy connects
 itself with the subject of delusion. These cases properly belong
 to melancholia.
+
 V. Moral Insanity.?This term was first used by Dr.
 Prichard to designate a form of mental disease in which the
 affections, sentiments, habits, and, generally speaking, the
@@ -564,7 +583,6 @@ the mind of the patient which may account for the perver-
 sion of his moral dispositions, affections, and inclinations.
 Cases of this description were formerly looked upon as un-
 accountable phenomena. They are, however, now recognised
-DISEASES OF THE NERVOUS SYSTEM. 105
 as a distinct' form of mental disorder in nearly all the public
 asylums. They are characterised by a total want of self-
 control, with an inordinate propensity to excesses of various
@@ -578,6 +596,7 @@ connected with hysterical or sexual excitement.
 VI. and VII. Congenital Idiocy and Congenital Imbe-
 cility.?Congenital idiots are persons whose intellectual facul-
 ties have never been developed.
+
 Congenital Imbecility is the result of some original
 defect, which renders the mind feeble in all its operations,
 though not altogether incapable of exercising them within a
@@ -587,16 +606,19 @@ labouring under this weakness in an extreme degree. It is
 evident that more discrimination ought to be used than has
 hitherto been practised in selecting from persons of this class
 proper objects for confinement.
+
 VIII. General Paralysis of the Insane, and other forms
 of Paralysis complicated with Insanity.?Paralysis is not
 unfrequently complicated with insanity, and is almost an in-
 variable indication that the case is incurable and hopeless,
 marking the existence of organic disease of the brain or spinal
 cord.
+
 In some instances insanity is the consequence of an attack
 of apoplexy or of hemiplegia. This happens more especially
 in aged persons. In others apoplexy or paralysis supervenes
 on protracted mania or dementia.
+
 The most strongly marked case of the complication of
 paralytic symptoms with those of mental disorder is the
 disease termed general paralysis of the insane. This is more
@@ -611,7 +633,6 @@ longer than two, or at most three, years, when it generally
 brings its victim to the grave. The onset of the disease is
 distinguished by an impediment in the articulation ; an
 effort is required in speaking, and the words are uttered with
-106 DISEASES OF THE NERVOUS SYSTEM.
 a sort of mumbling and stammering. At this period there
 is no perceptible sign of paralysis, and the mobility of the
 limbs is not impaired. In a second stage the patient is ob-
@@ -636,8 +657,10 @@ fortunately, is often complicated with insanity. There are,
 however, some epileptics in these asylums who are not insane,
 or in any way disordered in mind during the intervals of
 their paroxysms.
+
 Epilepsy is complicated with disorders or defects of the
 mind in various ways.
+
 1. Epileptic Idiots.?Persons whose intellectual faculties
 have never been developed. They are not materially different
 as regards their mental deficiency from idiots not subject to
@@ -650,6 +673,7 @@ faculties. Torpor, weakness, and imbecility come on, which,
 if the patient survives under his disease for many years, termi-
 nate in fatuity, similar in every respect to the fatuity which
 ensues in protracted mania.
+
 3. Epileptic Mania.?Some persons subject to severe
 paroxysms of epilepsy without suffering obliteration of their
 intellectual faculties, and even without obvious disorder of the
@@ -658,7 +682,6 @@ theless subject to occasional fits of a maniacal character. It
 is an observation frequently made by the attendants of asylums
 that, when the epileptic fits are coming on, such persons are
 irritable, morose, malicious, and sometimes exceedingly dan-
-DISEASES OF THE NERVOUS SYSTEM. 107
 gerous. During these periods epileptics are prone to violence,
 and sometimes perpetrate the most atrocious acts. Many
 instances are upon record of such persons, at a time when their
@@ -675,6 +698,7 @@ ness which is complicated with epilepsy is one of the most
 mischievous and dangerous forms of the disease. But the
 instances of this affection bear a very small proportion to the
 cases of epilepsy in general.
+
 Epileptics whose Intellects are Unimpaired. A great
 number of instances of epilepsy, however, are well known to
 exist without any disorder of the mind. Persons subject to
@@ -682,6 +706,7 @@ occasional paroxysms, or those of infrequent occurrence^ only,
 are, during the intervals, in a tolerably perfect possession of
 their intellectual faculties, and are capable of following their
 ordinary pursuits.
+
 Adult persons of this description are scarcely to be found
 in lunatic asylums ; but boys and girls, when they have become
 a source of anxiety and trouble to their parents, as well as
@@ -692,6 +717,7 @@ the insane. Where a proper classification exists, the epileptics
 are placed in wards by themselves, or are separated from the
 insane ; but there are many lunatic asylums where this regula-
 tion is entirely neglected.
+
 Delirium Tremens,?Instances of delirium tremens are
 occasionally, though not often, seen among inmates of lunatic
 asylums. The disorder is well known. It is the result of
@@ -703,9 +729,9 @@ insanity. It is not a disease of long duration, but terminates
 for the most part in a short period, either in death or in
 recovery. Hence there are few cases of this description in
 lunatic asylums.
+
 Folie Circulaire (circular insanity), in which there are
 alternations of mania and melancholy with lucid intervals, has
-108 DISEASES OF THE NERVOUS SYSTEM.
 no defined place in any classification, nor can it be referred to
 any form of insanity under any English system. It includes
 the acute varieties of the second natural order or class of the
@@ -720,6 +746,7 @@ state of the deepest dejection, sitting apart from others, silent,
 slovenly, and sometimes requiring to be fed. In the older
 female there was less regularity in the periodical alternations,
 and the symptoms were more allied to dementia.
+
 With respect to the subject of insanity. In the introduc-
 tion to Hermann's Physiology," by Gamgee, 1875, it is stated:
 " The means of treating in a scientific manner the phenomena
@@ -728,6 +755,7 @@ cannot be brought into relation with any of our scientific con-
 ceptions. Physiology must here, therefore, provisionally limit
 herself to the investigation of the organs with which they are
 connected."
+
 PAUPER ASYLUMS.
 Dr Prichard states that insanity appears to fall in a greater
 proportion upon the lowest classes of society, since, in England,
@@ -736,6 +764,7 @@ that mental derangement must be looked upon not merely as an
 individual calamity, but as a serious public burden, for such
 must be the permanent maintenance of so many paupers re-
 quiring more than ordinary care and expense.
+
 On this important subject, Dr M. Lindsay, Superintendent
 of the Derby County Asylum, has collected, and recently pub-
 lished, some valuable and interesting information for his com-
@@ -748,7 +777,7 @@ asylums numerous additions have been made from time to time,
 and in several counties one or more new asylums have been
 built, as in Middlesex, Kent, Surrey, Lancashire, and York-
 shire.
-PAUPER ASYLUMS. 109
+
 County and BoRouan Lunatic Asylums.
 Table showing the Cost pek Bed, including Building, Land, Furniture,
 Bedding, and Clothing.
@@ -860,6 +889,7 @@ Somerset
 638
 165
 115
+
 It seems necessary here to explain the difference in the cost
 per bed in the Somerset Asylum, and the reason of its having
 become so much lower than in any other, in the above table.
@@ -878,19 +908,20 @@ the Asylum is provided, and directs that a detailed statement
 of the manner in which such fund has been expended shall be
 annually submitted to the General or Quarter Sessions.
 The Chairman of the Somerset Asylum, in his Report for
-110 PAUPER ASYLUMS.
 1862, to tlie Quarter Sessions, in reference to the Act 25 &
 26 Vict. c. 3, states: "The Court is aware that such a
 fund as this was established when the Asylum was opened,
 through the judicious care of Mr. Moody, and that all the money
 received on account of the extra charge has been employed to
 the enlargement and improvement of the Asylum.
+
 " The Committee, therefore, have thought this the proper
 time to append to their Report as full an account of this fund
 as can now be rendered, with notes of the chief improvements
 from time to time made. In all about ?8,600 has been re-
 ceived, and nearly the same sum expended, since the house was
 opened in March 1848.
+
 " During the first six years, about ?2,000 was spent in com-
 pleting the boundary wall and lodges, in levelling and quarrying,
 and getting the ground in order in front of the house, and com-
@@ -918,6 +949,7 @@ Was nearly half a million, and did not materially change during
 the 20 years. The number of insane paupers was in the be-
 ginning 610 ; of these 173 were idiots kept at home, and many
 were in workhouses.
+
 During that period there had been 3,284 admissions?1,649
 of males and 1,635 of females. The
 Discharges
@@ -926,15 +958,17 @@ Not recovered 13*7 do. 12-8 do.
 Died . . 32*9 do. 24kl do.
 Remaining . 13k6 do. 18*1 do.
 100 100
-PAUPER ASYLUMS. Ill
+
 These numbers include 181 male and 129 female epileptics,
 and 52 male and 34 female idiots, previously treated of in the
 " Journals." The relapses are also included?15*3 per cent, in
 males and 16 per cent, in females.
+
 The slight excess in males is due to the greater number of
 male epileptics and idiots. In the ordinary cases of insanity
 included in the second class, the females predominate?1,220
 males and 1,237 females.
+
 These have been arranged under three heads in the table,
 showing the influence of age in relation to the different forms
 of insanity in both sexes, and percentage of results. Under
@@ -943,7 +977,6 @@ and intermittent. Under the second head (Partial Insanity)
 are included cases of monomania, melancholia, moral insanity,
 and delirium tremens. Under the third head (Cases of De-
 mentia), general paralysis and fatuity.
-INFLUENCE OF AGE AND SEX.
 At all ages as set down on admission for a period of 20^
 years, the percentage of
 Recoveries were . 36'5 in males and 38*8 in females.
@@ -951,6 +984,7 @@ Not recovered . .12 do. 12*3 do.
 Died . . .31*5 do. 22*4 do.
 Remaining . . 20 do. 26*5 do.
 100 100
+
 Those cerebral disorders which usually prevail before puberty
 ?convulsions, idiocy, and epilepsy?amounted to above 16 per
 cent, of the cases admitted to the Somerset Asylum, the
@@ -958,6 +992,7 @@ males being one-third more numerous than the females. It is
 now intended to show the influence of age in the second class,
 the ordinary cases of insanity which prevail at a later period
 of life.
+
 It is stated by a distinguished medical writer that ado-
 lescence is one of the most important epochs of human
 existence. The practices which both sexes acquire at this period
@@ -970,8 +1005,7 @@ numerous nervous and convulsive disorders, as neuralgia, chorea,
 epilepsy, melancholia and mania, &c., are the sad results.
 The mental disorders of the second class have been placed
 under three heads, in the following table:?
-112
-PAUPER ASYLUMS.
+
 Percentage of the Results in 2,457 Cases of Insanity at Decennial Periods of Life, distinguishing the Sexes and showing
 the Numbers of each Sex.
 Ago and No. of each Sex
@@ -993,6 +1027,7 @@ years?
 ?1
 ?I
 ?(
+
 From 20 to 30?
 204 SI.; 266 F,
 From 30 to 40?
@@ -1243,7 +1278,7 @@ Dementia
 349
 268
 1,220
-PAUPER ASYLUMS. 113
+
 Under the age of 20 years there were 83 cases; three-
 fourths of them came under the head of Mania, under which
 are included intermittent cases of mania ; the numbers of each
@@ -1257,6 +1292,7 @@ cludes senile fatuity, and that most fatal form, general paralysis,
 of which there were altogether 145 cases in males and 27
 in females, mostly occurring in persons of from 30 to 55 years;
 no case under 20 years.
+
 From 20 to 30 there were 204 males and 266 females?a
 great excess of the latter at this particular period; in the cases
 of mania an excess of 38, and in partial insanity of 35;
@@ -1270,6 +1306,7 @@ greater than in males, and the deaths were very much fewer;
 also in the cases of dementia and general paralysis the mortality
 was greatly in excess, being 21 as compared with 8 per cent, in
 females.
+
 From 30 to 40 years the numbers of each sex were more
 nearly equal?288 males and 289 females. There was still a
 preponderance of females under the head of Mania. There
@@ -1287,11 +1324,11 @@ large proportion?42 per cent.?of whom recovered; among
 the males, 65 in number, not 14 per cent, recovered, whilst the
 mortality amounted to nearly 77 per cent, in the males and 43
 per cent, in females.
+
 From 40 to 50 the males exceeded the females by 19;
 viz. 287 males and 268 females. As in the former period, the
 cases of mania in females were in excess of those of males 6.
-RT I. VOL. Ill?NEW SERIES. H
-114 PAUPER ASYLUMS.
+
 The recoveries were 36*5 per cent, in males, and 40 per
 cent, in females, and the mortality as high as 31 per cent, in
 males compared with 16*2 per cent, in females. The second
@@ -1301,6 +1338,7 @@ females; the mortality to 29*5 in males and 1 6*5 per cent, in
 females. The cases of dementia were three times as numerous
 in males, 63, to 21 in females; no recoveries ; mortality, 88*8 in
 males, and 90*5 in females.
+
 From 50 to 60 the total numbers were 186 males and 174
 females. The cases of mania, 83 males and 85 females. The
 recoveries were in these cases considerably greater in the males,
@@ -1313,6 +1351,7 @@ females. Of partial insanity the numbers were nearly equal?
 including general paralysis, were 37 in males, and 25 in females ;
 no recoveries; mortality 7 3 per cent, in males, and 24 only in
 females.
+
 From 60 to 70 the numbers were 132 males and 131 females.
 Cases of mania, 50 males, 54 females ; recoveries, 44'6 males and
 21 per cent, females; deaths, 32'2 males and 36'9 per cent,
@@ -1328,6 +1367,7 @@ numbers were 38 males and 36 females ; no recoveries; the
 mortality 29 per cent, males, and 16*6 per cent, females; remain-
 ing, 7*8 males and 25 per cent, females; being three times the
 number of females remaining compared with males.
+
 From 70 years upwards the numbers were 84 males and 65
 females; under each head the males in excess. The recoveries
 in mania 38*4 in males, and 22*3 per cent, in females ; the mor-
@@ -1338,7 +1378,7 @@ each sex remaining in the Asylum. The mortality in cases of
 dementia was 52 per cent, in males, and 43*4 per cent, in
 females, leaving 29 per cent, males, and only 6*6 per cent,
 females, remaining under care in the Asylum.
-PAUPER ASYLUMS. 115
+
 In the 2,457 cases of mental disorders, of the 2nd class, ad-
 mitted to the Somerset County Asylum in 20? years, from
 which idiots, epileptics, and recurrent cases or relapses are ex-
@@ -1347,6 +1387,7 @@ From Mania, Males 24*5 Females 28*7
 Partial Insanity, do 14*3 Do 15*7
 Dementia 10*9 Do 5*9
 49-7 50-3
+
 In the decennial period from 30 to 40, there was in both
 sexes the largest number of admissions ; up to that age the
 females predominated, after that age the males. Admissions
@@ -1360,6 +1401,7 @@ After 35 years of age the males were in excess, but in a minor
 degree; from 35 to 60 years of age the numbers were 622 males
 and 577 females, and from 60 years upwards 216 males and
 196 females.
+
 At the earlier ages, before 35 years, the recoveries were, in
 males 188, or 49*2 per cent, on the admissions, and in females
 267, or 57*4 per cent., a difference of 8? per cent, in favour of
@@ -1367,6 +1409,7 @@ the latter. From 35 to 60 years the percentage of recoveries
 was 38*4 in males and 37*4 in females. After 60 years of age
 the percentage of recoveries was in males 19*4 and in females
 17*3 per cent.
+
 The mortality at these ages, was: under 35 years, 24*5 in
 males and 13*3 only in females, a difference of 11 ? per cent.;
 from 35 to 60 years the mortality in males was 40 and in

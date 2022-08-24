@@ -3,7 +3,8 @@ Moral (Affective) Insanity
 
 64 Art. III.?
 A Plea for its Retention in Medical Nomenclature.
-By C. H. HUGHES, M.D., St. Louis, Mo.
+:Author:  C. H. HUGHES, M.D., St. Louis, Mo.
+
 Notable instances of the subversion of mind, without accompaniment of mental perversion, are found in those cases of gangliopathy which proceed to the extent of fainting, epilepsia, chorea,
 &c., in which either volition or both the will and consciousness
 are subverted. The ganglionic (visceral) origin of certain forms
@@ -11,6 +12,7 @@ of hypochondria, melancholia, and hystero-mania has been admitted since the time
 reproductive system have long been deemed sufficient sources of
 certain forms of mental derangement, in which the feelings
 rather than the reasoning processes are disordered.
+
 It is conceded that kleptomania, pyromania, dipsomania,
 homicidal and suicidal impulses, and the morbid displays of
 pregnant women and the mind disorders connected with the
@@ -28,6 +30,7 @@ homicidal or other morbid impulse not founded in delusion
 to admit the basis fact of moral insanity as it is clinically
 observable, namely, insanity not the result of reason perverted
 by disease.!
+
 * Abstract of paper embodying the views presented in the author's precis on
 the subject. Presented to the International Congress at London, August 1881 ?
 Cases omitted. This paper was designed rather to elicit argument than to exhaust the subject.
@@ -39,6 +42,7 @@ smart blow in producing faintness is so well known to the prize ring that it is
 considered foul to hit below the belt. Even death has residted from violence
 done to the semilunar ganglia. But these effects are not more singular than the
 MORAL (AFFECTIVE) INSANITY. 65
+
 When ganglionic disease is great, and the morbid consequences profound enough to involve the intellectual faculties in
 marked disorder, those who deny the possibility of insanity
 existing without appreciable lesion of the intellect, now willingly admit the existence of mental disease, and unwittingly,
@@ -61,6 +65,7 @@ well as one of the most demonstrable facts in our every-day intercourse with min
 health are constantly acting from impulse, prejudice or passion,
 conforming to society's usages and the dictates of fashion or
 feeling without sufficient thought.
+
 The emotions and the intellect are not twin born, though
 they mutually influence each other. They do not always go
 hand in hand or dwell harmoniously, though tenanted together
@@ -74,6 +79,7 @@ discerned, though unconscious of their physiological foundation,
 the ganglionic source of certain encephalic states. He was
 " constantly at war with his members." When he " would do
 good, evil was present with him."
+
 irritation of dentition or worms, or undigested substances in the alimentary canal,
 causing infantile convulsions, the effect of a fistula in causing melancholia with
 mpulse to suicide, passing away after a successful operation, the many eccentric
@@ -82,8 +88,7 @@ Tait excises an ovary and cures an epilepsy, Charcot compresses one, and
 Kussmaul a testicle, causing reflex histero-epilepsy, and the temporary subversion
 of mind from wound of testicle was well known before Charcot, Kussmaul, Tait,
 Brodie or Tilt were known to fame.
-PART I. VOL. VIII. NEW SERIES. F
-66 MORAL (AFFECTIVE) INSANITY.
+
 I commend St. Paul as a psychologist to certain of our confreres. May the convincing light of truth shine upon them
 as it did upon the persecutor of the proto-martyr on his way to
 Damascus, and by way of contrition for the wrong they have
@@ -93,6 +98,7 @@ morally insane?may they speedily make amends by renouncing
 their heresies and, embracing the true faith, become followers
 of the faithful Rush, Pinel, Prichard, Maudsley, Bucknill, Tuke,
 and Ray.
+
 Stephen had been stoned, it is true, but there still remained
 others to be saved. Many an honest Saul in our ranks consenting to this wrong remains to be converted. If there be any
 who, in perfect health, has not yielded to the dominion of impulse, emotion or passion, let him cast the first stone at the
@@ -123,8 +129,8 @@ person at different ages of life, attest the possibility of disorder of
 the emotions, propensities, or passions, without more appreciable
 intellectual lesion than we see in persons who are regarded as
 right-minded.
+
 Though insanity is marked generally by change of character,
-MORAL (AFFECTIVE) INSANITY. 67
 that change is seldom manifested in augmenting the power of
 the intellect and the will over the emotions or passions. On
 the contrary, the latter often subvert the former. Usually the
@@ -154,6 +160,7 @@ of the insane, if their after confessions in seemingly lucid intervals may be ta
 infrequently independent of both conscious thought and feeling. They appear often as blind freaks of disease or mental
 caprice, in which the highest intellectual centres seem only
 unconsciously involved.
+
 That vigorous thinker, John Locke, who was not a mere
 surface observer, though he looked at insanity rather too superficially for a practical alienist, was led to the conclusion not
 strictly true, but not altogether erroneous, that the insane did
@@ -163,14 +170,13 @@ from wrong principles ; for by the violence of their imaginations?having taken t
 deductions from them. Thus you will find a distracted man
 fancying himself a king, with a right inference requiring suitable attendance, respect and obedience; others who have thought
 themselves made of glass have used the caution necessary to
-F 2
-68 MORAL (AFFECTIVE) INSANITY.
 preserve such brittle bodies. Hence it comes to pass that a
 man who is very sober, and of a right understanding in all
 other things, may in one particular be as frantic as any in
 Bedlam ; if either by any sudden, very strong impression, or
 long fixing his fancy upon one sort of thoughts, incoherent
 ideas have been cemented so powerfully as to remain united."
+
 Locke here has reference to the deluded or delusional insane,
 and is only in part correct, for the insane do often both reason
 illogically and incoherently, and establish wrong premises from
@@ -186,11 +192,13 @@ philosophers of the purely psychical school still share, that
 many lunaticn reasoned well. It never occurred to him to
 deny the existence of insanity in such, but to assume that they
 joined some ideas wrongly together.
+
 With reference to another observation of Locke's, viz.:
 " that reverence gives beauty and prejudice deformity to our
 opinions," it may assuredly be said with equal truth that intellectual processes in both the sane and the insane are incited
 to action and influenced by moral or other emotions, excited
 either by example of others or by disease.
+
 Those who deny the existence of moral insanity insist that
 there always exists a certain degree of intellectual acquiescence
 that entitles it to be termed intellectual insanity, though that
@@ -205,7 +213,6 @@ Momentary impulses and suggestions of a morbid kind*
 about to cross, lest he should yield to the impulse which came upon him to precipitate himself into the Seine. How many persons have confessed to feeling a
 disposition to precipitate themselves into the water when looking over a steep
 precipice, or the sides or stern of a steamer.
-MORAL (AFFECTIVE) INSANITY. 69
 obtrude themselves upon many healthy minds like the vague
 feelings of unreasonable unrest and depression which obtrude
 unbidden into the neural chambers of the cerebral cortex.
@@ -213,6 +220,7 @@ Facts like these, and a hundred others needless to enumerate,
 show the capability of the mental faculties to become partially
 involved in aberrant action without notable derangement of the
 reason.
+
 Men are not considered, insane because they do not act
 wisely, why should it be insisted upon that the intellect should
 show disorder before insanity is recognised in those whose
@@ -220,6 +228,7 @@ impulsions are undoubtedly of morbid source, and why should
 the intellectual implication, when it is found, though it be no
 greater than that of some men moved by passion, be insisted
 upon as the essential feature of the disease ?
+
 How, then, can we doubt the possibility of forms of emotional
 and impulsive insanity, in which the moral faculties are so
 invoked by disease as to cause the individual to appear
@@ -246,8 +255,6 @@ healthy states of their minds," several instances of which he
 saw in the Pennsylvania Hospital. He recognised certain
 stages of intemperance as a disease of the will, and was the
 first to propose a hospital for inebriates, or " sober house," as
-* New Obs. & Enquirers, 1812, p. 347f Op. cit., p. 264. | Op. eit., p. 265.
-70 MORAL (AFFECTIVE) INSANITi*.
 he termed it, comparing the weakened will of a drunkard to a
 paralysed limb. Rush also believed in a derangement of the
 principle of faith, or the believing faculty caused by disease,
@@ -262,17 +269,20 @@ moral faculties." " One of them was addicted to every kind
 of mischief. Her wickedness had no intervals while awake,
 except when she was kept busy in some study or difficult
 employment."
+
 This great observer concluded that in these cases " there is
 probably an original defective organisation in those parts of the
 body which are occupied by the moral faculties of the mind,"*
 though he could not determine where to draw the line which
 divides free agency from necessity, and vice from disease. He
 discourses further as follows : ?
+
 "In whatever manner this question may be settled, it will
 readily be admitted that such persons are, in a preeminent
 degree, objects of compassion, and that it is the business of
 medicine to aid both religion and law in preventing and curing
-their moral alienation of mind."f
+their moral alienation of mind."
+
 Thus did one of the fathers of American medicine contribute in the beginning of the present century to the overthrow
 of that opprobrious doctrine of diabolical possession, or moral
 depravity, which has led many a hapless lunatic to the stake
@@ -287,8 +297,6 @@ than the restraint and treatment of the asylum for the
 insane. The existence of the knowledge of right and wrong
 with the judge, the absence of appreciable intellectual
 disorder with the physician, are regarded as incompatible
-* Op. cit., p. 360. f Op. cit., p. 300.
-MORAL (AFFECTIVE) INSANITY. 71
 with their ideal conception, not of what insanity is, but
 of what it to them ought to be, and the penalty for this
 theoretical misconception of the real nature of mind is visited
@@ -296,6 +304,7 @@ on the unfortunate victim of disease, whose bad luck it is to be
 afflicted in a manner theoretically proscribed. Theoretical
 views and metaphysical conceptions of mind have too long
 stood in the way of true progress in psychological knowledge.
+
 To this has been due the fact that physical disease, as the basis
 of all forms of mania, now a generally accepted truth, was so
 long controverted. To this stumbling block are we indebted
@@ -304,6 +313,7 @@ Gralen, and up to that comparatively recent period when Pinel
 immortalised himself and lifted humanity to a higher pedestal
 by striking the shackles from the madmen in the dungeons of
 Bicetre.
+
 There is a somatic as well as a psychic element in mind as
 we are permitted to see it, to be taken account of in all study
 of psychical display, whether in health or disease, though what
@@ -316,6 +326,7 @@ The emotions and the will are part of the mind, as it manifests
 itself to us; and whatever may be our preconception of the
 impossibility of their being separated, if we see them practically severed by disease, it is only just to acknowledge the
 fact.
+
 To assert that the doctrine of moral insanity is a dangerous
 one from which society may suffer, as Mayo and his followers
 have done, is to render science subservient to social polity,
@@ -331,8 +342,6 @@ There is moral perversion and degeneration resulting from
 disease, with but little, if any, appreciable intellectual lesion,
 less intellectual lesion oftentimes than we find in those whose
 lives have been given up to vice, through self-will or parental
-( z
-MORAL (AFFECTIVE) INSANITY.
 coercion or evil communication. Then let us, when occasion
 demands, tell the courts so, and not say we cannot conceive it
 possible for moral derangement to exist without concomitant
@@ -343,6 +352,7 @@ between responsible and irresponsible vice, the characteristics
 of disease on the one hand, and on the other, voluntary moral
 depravity coupled with a body sound and a mind free to
 choose.
+
 Moral insanity constitutes an observed and observable fact
 of psychology; let us not seek to theorise it out of existence.
 The metaphysical conception of mind, the abstraction made
@@ -359,6 +369,7 @@ impulses, pi-opensities, and passions without nccessary involvement of the highe
 than the great Pin el did long before them in discerning what,
 up to his time, was regarded as equally inexplicable, namely,
 mania without the delirium of madness.
+
 Dr Mayo,* who made the first and strongest assault on the
 doctrine of Prichard has unwittingly admitted, as indeed all close
 observers of insanity know, " that the earliest indications of
@@ -367,19 +378,19 @@ admission " that at every period of the actual presence " of
 insanity " the powers of self-control are interfered with, the
 affections suppressed or altered, the passions excited or
 perverted."
+
 All practical observers concede a frequent gradual change of
 feeling and conduct in prodromal insanity preceding the culmination of intellectual aberration, and some who deny the possibility of moral insanity make a classification of moral imbecility, concessions which logically debar all opposition to moral
 insanity.
+
 Whatever the stage at which we view mental disease,
-* Elements of the Pathology of the Human Mind, Medical Testimony and
-Evidences in Cases of Lunacy, by Tlios. Mayo. M.D., F.E.S., London ; p. 64.
-MORAL (AFFECTIVE) INSANITY. 73
 whether initial or terminal, insanity exists, as much so, as fever
 at any stage of typhoid or typhus fever. If a change of moral
 conduct have disease for its cause, it is as much entitled to be
 called insanity as the morbid aversions, antipathies, fears, or
 acts not brought about by delusion, are to be classed among the
 recognised evidences of mental derangement.
+
 Bland ford's searching analysis of Pricliard's cases, while it
 divests many of them of the vestments of uncomplicated
 moral insanity, leaves a number that cannot be elsewhere
@@ -387,6 +398,7 @@ placed, " good examples of what may be called moral insanity
 if the term is to be used at all," as Blandford himself confesses,
 one of which he concedes deserves to be called morally
 insane.*
+
 Those who engage in the study of morbid mental phenomena
 with the preconception that the intellect must be always
 synchronously deranged in all morbid mental expression must
@@ -410,6 +422,7 @@ organisms often reasoned against and sometimes resisted, but
 finally surrendered to stand out in practical refutation of the
 impossible conception of the invariable unity of mind disturbed
 by disease.
+
 The dipsomaniacs, the kleptomaniacs, and sometimes even
 pyromaniacs, yielding to impulses against their reason, are
 examples no less destructive to this hypothesis than the auto-:
@@ -417,9 +430,6 @@ amnestic acts and impulses of hypnotism, somnambulism, and
 certain epileptoid states. To gauge insanity by the integrity
 or non-integrity of the reasoning processes alone would make
 the automatism of certain manifestations of alcoholism, epilepsia,
-* Cases 4 and 5, p. 317. Insanity and its Treatment, 1871.
-t Ibid., p. 319.
-74 MORAL (AFFECTIVE) INSANITY.
 and mesmerism normal mental states. The reasoning faculties
 in moral insanity often appear to act as correctly as in the most
 perfect cerebral automatism. If there is a lesion short of
@@ -439,17 +449,20 @@ insane persons, usually do not see themselves as others see
 them. But there are cases where the search must be exceedingly close to reveal any greater lesion.
 Normal mind is the sum of the aggregate display of the
 cerebro-psychic functions constituting the natural " ego;"
+
 abnormal mind consists of such disorder of one or more of the
 cerebro-psychic functions as causes so marked a change in the
 psychical characteristics of the individual, whether principally
 involving the emotions, the reasoning powers, or the will, as to
 make an inconsistency and inharmony in the person's character
 inexplicable only by disease.
+
 Moral insanity is as clearly comprehended in this definition
 as other forms of mental derangement, and as much entitled to
 be recognised as a distinctive appellation and form of disease
 as the many other mental affections that are named on account
 of their prominent symptomatic feature or features.
+
 Not to recognise it in the present state of cerebro-mental
 pathology would in certain instances prove disastrous to the
 rights of the insane before the courts, and to their welfare

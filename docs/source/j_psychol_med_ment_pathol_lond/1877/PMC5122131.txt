@@ -4,9 +4,9 @@ On Statistical Tables of the Causes of Insanity
 260
 Art. VII.?
 Q
-by HERBERT C. MAJOR, M.D. Edin.
+:Author:  Herbert C. MAJOR, M.D. Edin.
 "West Riding Asylum, Wakefield.
-j
+
 The writer of an able and thoughtful article in the Medico-
 Ghirurgical Review, on the Reports of the Lunacy Com-
 missioners for the year 1876, makes the following1 observations in
@@ -46,8 +46,6 @@ respect to the demonstration of the etiology of insanity ? The
 answer to all this must, it is feared, be in the negative. It is
 not easy to over-estimate the practical value which the tables
 referred to in asylum reports would by this time have
-* British and Foreign Mcdico-Chirurgical Review, Jan. 1*877) p. 75.
-THE CAUSES OF INSANITY. 261
 acquired, if they had been compiled on a common plan, and
 that plan a good one. But no common plan has been adopted,
 and one of my objects is now to urge that?speaking, of course,
@@ -65,6 +63,7 @@ that the tables referred to are not supposed or intended to be
 exhaustive or accurate ??the reply is ready, and seems to be con-
 clusive Why give data admitted to be untrustworthy, and as
 a consequence useless and even misleading ?
+
 It has been stated that the fault lies chiefly with the system
 of tabulation pursued: the ground for this assertion must be
 given. Appeal is made to the result of actual experience of
@@ -94,11 +93,11 @@ are required to show how unsatisfactory and misleading must
 any system of tabulation of causes be which assumes in all
 cases to have ascertained the cause of the attack and allows no
 scope for the record of collateral causative influences. And
-262 ON STATISTICAL TABLES OF
 therefore it is that I venture to express the opinion that the statis-
 tical table of causes, as commonly found in asylum reports,
 should give place to a system more in accordance with facts
 and experience, if such can be devised.
+
 In proceeding now to offer, for the opinion and judgment of
 others, a method of tabulation which I venture to think would
 meet many of the requirements of the case, and be free from
@@ -106,6 +105,7 @@ the sources of fallacy inseparable from the system which usually
 obtains, I have merely to express a hope that it may be con-
 sidered worthy of being weighed in the balance and dealt with
 strictly on its merits.
+
 The feeling of utter failure experienced in endeavouring to
 draw up with accuracy a table of causes in the usual manner,
 led me to consider whether it would not be possible to devise a
@@ -114,6 +114,7 @@ might at the same time embody more facts than the usual
 method, and so be more truthful and accurate. And, finally,
 a scheme suggested itself, to describe and illustrate which will
 now be my object.
+
 The course proposed is extremely simple. It is (1) that in
 recording each case, with respect to its causation, the circum-
 stances, however few, or however numerous, which seem, on the
@@ -123,6 +124,7 @@ causes in a tabular form, they should be simply added together,
 like with like, and irrespective of the number of cases under
 consideration. To give an illustration of the plan suggested, I
 take six cases at random from the case-book.
+
 Name. # Causes.
 M. S. Hereditary tendency (to insanity), alcoholism,
 previous attacks.
@@ -143,7 +145,7 @@ Grief ? 3
 Climacteric period ? ? 2
 Privation ? 1
 37 M 1
-THE CAUSES OF INSANITY. 263
+
 Of course, if desired, the subdivision into moral and phy-
 sical causes can, under this system, be made in the usual way,
 and probably the table would derive additional value by the 'per-
@@ -151,6 +153,7 @@ centage value of each causative agency being given. These are
 matters of detail; the essential point being that of no single
 cause is it stated that it has produced a given number of cases,
 but that it has been concerned in their production.
+
 The chief advantage claimed for the system, as now sub-
 mitted, has been already pretty clearly indicated in the course
 of my remarks. Instead of pausing in perplexity over cases
@@ -167,6 +170,7 @@ more probable that all have played a part, and that to attempt
 to dissociate them is impossible, and must fail ? The system
 proposed provides for any such contingency, and gives to all the
 adverse influences a place.
+
 But it may be urged that the value of positive data as to
 the number of cases of insanity traceable to a given cause, and
 that cause only, is too great to be given up. It would certainly
@@ -176,6 +180,7 @@ is impossible, then, as it appears to me, it is better to remain
 satisfied with data, which if not so definite and precise as could
 be wished, nevertheless express important facts and furnish
 reliable information.
+
 It may be objected, in the second place, that by the pro-
 posed method all causes would appear to be of equal potency:
 that is to say, no special indication is given of those which
@@ -185,13 +190,13 @@ well in reality, if not on paper, to the system commonly in
 use. Practically, the most important cause will be that the
 occurrence of which is most frequently noted, and this is at
 once indicated in the method of tabulation proposed.
+
 Finally, it may be urged that it is safer in stating causes to
 give too little than too much, that it is better to omit the
 record of some condition which may have been causative, rather
 than to introduce as such those which may have had no
 influence. Possibly this is so. Practically, however, with care,
 serious error in over-statement, will, I think, be usually avoided.
-264 THE CAUSES OF INSANITY.
 Let it be said, in conclusion, that the primary object of the
 foregoing remarks has been to bring into prominence the in-
 adequacy and unsatisfactoriness of statistical tables of the

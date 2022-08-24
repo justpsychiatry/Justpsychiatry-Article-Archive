@@ -3,7 +3,7 @@ The Classification of Mental Diseases
 
 32
 Art. III.?
-BY W. II. 0. SANKEY, M.D. LOND., F.R.C.P.
+:Author:  W. II. 0. SANKEY, M.D. LOND., F.R.C.P.
 Tiiere was a time when a classification of diseases occupied
 the attention of physicians in nearly every country. Cullen,
 Mason Good, in this country; Linnseus, Boerhaave, Sauvages,
@@ -12,6 +12,7 @@ midable catalogue of diseases of their day into a system. That
 their efforts were futile is not extraordinary, since the knowledge
 of diseases was imperfect, and the opinions relative to them
 constantly changing.
+
 The aim, however, of these eminent men was to systematise
 medicine, and to bring it into the same order as other branches
 of natural science. In these days we scarcely aim at doing
@@ -43,11 +44,12 @@ certain essential characters of the individual plant. We might
 with diseases classify them according to the ages and sexes of
 the patients; but, of course, this would give no assistance to us
 in nosology.
-THE CLASSIFICATION OF MENTAL DISEASES. 33
+
 It is for similar reasons, I think, that many of the most
 newly proposed systems for grouping mental diseases have proved
 unsatisfactory. They have not been founded upon the essential
 characters of the disease itself.
+
 By the word " disease" I mean the sum of all the phenomena
 which are observed in a given case, including the first indica-
 tions of deviation from health, the evolution of the symptoms,
@@ -73,11 +75,13 @@ available. Directly we apply ourselves to a more indirect cause,
 or to the remote causes, we have a multitude of secondary
 agencies, the operation of each of which would form an impos-
 sible problem. , ..
+
 Dr Skae's so-called classification, however, was really no
 classification at all, for it grouped nothing, and was, in fact, a
 mere list of supposed operating causes. Dr Batty . uke classi-
 fied Dr Skae's so-called species of disease; but what is the re-
 sult ??a classification of causes, not diseases.
+
 But in the attempt to group what are called mental diseases,
 there is another difficulty which meets us on the threshold. the
 group itself is not founded on any nosological base. The term
@@ -90,8 +94,6 @@ It is sufficiently confusing, certainly, for anyone, even a
 well-qualified medical man, on first entering a large asylum, to
 observe the great diversity of cases, and the variety of mental
 symptoms which present themselves. And, indeed, the cases
-PART I. VOL. III.?NEW SERIES. C
-34 THE CLASSIFICATION OF MENTAL DISEASES.
 vary greatly in many ways, not only in the mental symptoms,
 but in the stages of the disease, the ages of the subjects, and
 their condition generally. A teacher must, for the purpose
@@ -107,9 +109,11 @@ be compatible with completeness. Little is gained indeed, when
 the classes are nearly as numerous as the objects that are to be
 grouped. And by making the first divisions sufficiently compre-
 hensive, it is easy to subdivide them afterwards.
+
 In taking, therefore, a general survey of all the cases in any
 asylum, I think we may readily divide them into two grand
 divisions, viz.:?
+
 It will be found that the disease in some is really idiopathic;
 in other terms, it is distinct from all other known forms of
 disease ; while, on the other hand, in the rest of the cases the
@@ -119,6 +123,7 @@ brain, and in which there happens to be much disturbance of
 the mental faculties. In the former cases the mental aberration
 is an attribute; in the latter, an accident in the course of
 the disease.
+
 We have thus two grand divisions, viz., Division A, in
 which the mental symptoms are primary, or essential, or idio-
 pathic ; and B, in which they are secondary, or symptomatic.
@@ -127,6 +132,7 @@ further divided into two subdivisions, viz. (a), in which the
 cases depend upon a purely pathological change, or on what is
 really disease; and (6), in which the mental symptoms are due
 rather to developmental causes.
+
 In the former catagory (a) I can recognise as yet but two
 species morbi, viz.:?
 I. Ordinary insanity; and
@@ -138,7 +144,6 @@ or senile imbecility.
 This forms, therefore, the classification of all the cases of
 primary, or idiopathic, insanity, and which may be clearer in
 the form of a table.
-THE CLASSIFICATION OF MENTAL DISEASES. 35
 Class A.?Idiopathic Disease.
 Subdivision (a)?Pathological:
 1. Insanity proper.
@@ -155,6 +160,7 @@ II. Alcoholismus. . _
 III. Spinal disease, extending to the cerebral regions.
 IV. Organic disease of brain, as the result of apoplexy,
 etc etc
+
 In explanation of these, I will add a few notes.
 I. With regard to the epileptic cases, they are met with in
 two forms: (1) In which the subject is imbecile, and sent to
@@ -180,18 +186,19 @@ general paresis, but yet, with care, may be distinctly dif-
 ferentiated; and since in these the duration of the malady is
 much greater than in general paresis, the diagnosis is lm-
 portant. .
+
 IV. Organic disease of the bram. I he term was employed
 by the French Commission appointed to classify mental
 diseases, and it signifies those cases which are dependent on
-c 2
-36 THE CLASSIFICATION OP MENTAL DISEASES.
 various organic diseases of the brain, as tumours, softening,
 results of apoplexy, etc. etc., in which the patient is imbecile,
 irritable, dysphasic, or partially paralysed, and is therefore sent
 into the wards of our asylums.
+
 Besides the above, there may, in different asylums, and in
 other countries, be few other forms of disease attended with
 delirium as a symptom: as leprosy, etc.
+
 My table is therefore as below.
 i f Morbid IL Inaanity ProPer-
 (A).?Idiopathic '< ' ' ' j 2- General paresis.
@@ -207,6 +214,7 @@ It will be seen that I admit but two forms or species of
 disease. This may need some explanation: firstly, why I limit
 them to two; and secondly^ why I consider that those two are
 distinct.
+
 The first question has already been forestalled. Bv the
 term "a disease" we mean a certain series of changes all
 emanating from a given pathological condition, and I believe
@@ -214,6 +222,7 @@ all known varieties in the symptoms belong to but two ; and with
 regard to the second question, or why I consider ordinary
 insanity specifically distinct from general paresis, I would state
 my own conclusions.
+
 Without going so far as to say that the difference between
 the two kinds of mental disease in species is absolutely demon-
 strated, yet I think the evidence is much stronger for such a
@@ -223,6 +232,7 @@ somewhat different, but undoubtedly they follow a different
 course from the commencement to the termination. The
 natural history of the two cases seems to me to point to the
 following difference in pathology.
+
 In every mental act, or act of cerebration, there are two
 chief agencies in operation: 1st, the nerve tissues; 2nd, the
 blood supply. A careful consideration of the early symptoms
@@ -230,13 +240,13 @@ tends to show that one disease commences through the first of
 these agencies, the second through the other. To illustrate
 this as briefly as possible, I will point to the well-observed fact
 that the acts of cerebration can be distinctly affected through
-THE CLASSIFICATION OF MENTAL DISEASES. 37
 the blood, as by the injection of certain substances into the
 veins, and by the introduction of substances, as alcohol, into
 the system by the stomach; and that while one agent will produce
 one effect, another agent causes a different result; and in most
 of these, according to the quality of the agent employed, the
 effect is more or less transient.
+
 It is equally well known that disturbances of the digestion
 produce a depressing effect on the system. Now, the early
 stage of ordinary insanity very closely resembles such a con-
@@ -273,10 +283,12 @@ liable to most frequent variation. A still closer examination,
 for which I have not space here, corroborates the conclusion
 that it is to the blood and blood supply that cases of ordinary
 insanity are primarily due.
+
 If, on the other hand, we trace a typical case of general
 paresis, we can trace from the commencement, or from a very
 early period, symptoms which embrace every artificial division
 of nerve force.
+
 38 the classification' of mental diseases.
 In very many cases the attack may be traced to a great
 nerve shock, a fright, a moral shock, an astounding event, a
@@ -302,12 +314,14 @@ shock ; first of a nerve excitement, and then nerve paresis, which
 affects the sensation, the intellect, the self-controlling processes,
 the movements as well as the regulating powers presiding over
 organic life.
+
 There is, in fine, no similarity between the two descriptions
 of the phenomena during life. There are also great differences
 in the history, the age and sex liable, the degree of heredity,
 as well as in morbid anatomy, and which I have examined in
 detail in a paper published in the "Journal of Mental Science,"
 vol. ix. p. 467.
+
 In my table, including only two species of actual mental
 disease, it will be observed that many of the almost innumer-
 able varieties discribed in the textbooks are as' yet quite un-
@@ -325,7 +339,7 @@ We mean, in fact, by the word disease, a certain order of mor-
 bid phenomena. The study of medicine consists in observing
 the development, the evolution, and natural cause of these
 phenomena.
-THE CLASSIFICATION OF MENTAL DISEASES. 39
+
 It will be found, I think, that many of the so-called varieties
 of mental disease owe their title to certain stages through which
 a case of ordinary insanity passes : that the names denote the
@@ -334,6 +348,7 @@ ordinary insanity is much less fatal of the two species, and its
 duration, therefore, usually much more extended, it is the stages
 of this form which have been most frequently considered fresh
 species.
+
 A case of ordinary insanity, at its first outset, commences
 by a stage of melancholy, which is at fix*st considered as acute
 melancholy. The case has in this stage four modes of termina-
@@ -351,6 +366,7 @@ of chronic insanity, probably with delusions, incoheience, etc.
 In this stage both recovery and death are less common, and
 death would probably be due to some accidental cause, lather
 than the disease itself.
+
 When the case has reached this stage, the depression or
 elation of the spirits, and the condition of melancholy and mania,
 may alternate periodically; and this, indeed, is found more or less
@@ -368,9 +384,8 @@ All these cases have a natural tendency towards imbecility and
 dementia, which form the last stage. The following diagram
 will represent the stages and progress which a case of ordinary
 insanity may take:?
-40 THE CLASSIFICATION OF MENTAL DISEASES.
 diagram of the evolution of insanity proper.
-THE CLASSIFICATION OF MENTAL DISEASES. 41
+
 Thus in the natural course or progress of one malady we have
 certain variations in the symptoms; and it is quite true that,
 at one stage, the same case may present a very different charac-
@@ -389,12 +404,14 @@ has been seldom even alluded to. Each condition is studied
 singly, without reference to what has gone^ befoie or what is
 likely to follow. Such a mode has greatly impeded the study
 and comprehension of the subject.
+
 It is almost impossible to bear in mind the large number
 of names that have been thus introduced into the subject, some
 derived from one feature and some from another. ^ There are
 upwards of forty names in Dr Skae s list. Guistain wrote of
 twenty-eight varieties of mania only, but he acknowledged that
-they were assez lourde pour la memoire. ^ _
+they were assez lourde pour la memoire.
+
 The use of certain terms is convenient, it is true, to denote
 various groups of symptoms, as mania, melancholia, etc. It
 is desirable to have terms which are easily understood, as signi-
@@ -402,10 +419,12 @@ fying groups of facts, as morbid apprehensions, incoherence,
 illusion; but to treat such as separate forms of disease, and to
 classify them as if they were distinct or separate diseases, is
 unwarrantable.
+
 The stages also of an ordinary case may conveniently be noted
 by separate names, as chronic mania, imbecility, folie circulaire;
 but it should be well understood that these are meiely general
 terms to denote a group of phenomena.
+
 But if the whole sum of mental disease is thus reducible to
 two, it will, perhaps, be asked what is the nature of those cases
 met with under very familiar terms. Some of the most gene-
@@ -424,6 +443,7 @@ rally used are probably the following:
 11. Melancholia agitans.
 12. Nymphomania.
 13. Kleptomania.
+
 The first-named appears to be at the present day that which
 is considered the most distinct, and to be the most widely
 admitted as a separate species; but, judged by the ordinary
@@ -453,6 +473,7 @@ termination?were distinct and different. A fracture or a dis-
 location is the same whether occasioned by a fall or a blow : an
 anaemia is the same whether produced by a bleeding from one
 source or another.
+
 I have sought for a distinctive character in these cases of so
 styled puerperal insanity, and have never found any. I had
 1,000 women under my care at Hanwell. I had many cases
@@ -464,9 +485,9 @@ of general paresis ; one which was a case of recurrent insanity.
 There were cases which recovered rapidly; others which passed
 gradually into imbecility ; others in which the patient became
 a chronic lunatic, with fixed delusions; but there was nothing
-THE CLASSIFICATION OF MENTAL DISEASES. 43
 that I could discover of a distinctive character in the symptoms,
 progress, or termination from other cases.
+
 These puerperal cases are met with also as instances of re-
 current insanity. In fact, in those cases of chronic insanity in
 which the lucid interval is sufficiently marked, and of sufficient
@@ -475,6 +496,7 @@ perfect sanity, the occurrence of a pregnancy or parturition is a
 sufficient disturbing cause to induce a distinct recurrence of
 mental disturbance. Many such have a fresh attack of insanity
 at each parturition.
+
 This is of sufficient importance in the history of insanity
 generally to require mention in all systematic treatises; but
 there is not such an uniformity in the symptoms, nor such a
@@ -494,8 +516,10 @@ with chronic insanity with delusions. In these four cases there
 was not the least peculiarity in the mental symptoms from
 other cases, and they were in different stages of the disease, and
 in different state.
+
 Oino-mania, &c.?This symptom is observed in different
 cases, and under different circumstances.
+
 Uncontrollable desire for drink is sometimes a vice, some-
 times is more allied to imbecility, or idiocy, and sometimes it
 is a symptom in recurrent insanity. The term is also used for
@@ -503,16 +527,18 @@ the condition produced by alcohol, or alcohol poisoning.
 A person whose desire for strong drink is uncontrolled, may
 be one whose resolution is feeble, or whose desire is abnormally
 strong. Such a condition then is simply a vice.
+
 His control, however, may be destroyed by disease, as is
 often the case in the first stage of general paresis. The excess
 of drink is then a result, not a cause of disease; and in all of
 the above circumstances the symptoms cannot be called the
 essential character of the disease, but simply an accident
 during its course.
+
 Lastly, in some secondary attacks of recurrent insanity, or
 chronic insanity, the outbreak is manifested by an uncontrol-
 lable desire to drink.
-44 THE CLASSIFICATION OF MENTAL DISEASES.
+
 Homicidal, Suicidal Mania, (See.?The secondary attack,
 in some cases, is ushered in by an outbreak of violence, by a
 murderous attack on another, by a suicidal attempt, by a desire
@@ -530,12 +556,14 @@ has been called by some who indulge in nomenclature, moral
 insanity; for similar reasons another case has been styled
 nymphomania, or kleptomania, according as the propensity of
 the patient is in one or other direction.
+
 But nearly all these, which are merely ordinary symptoms of
 disease, occur at times in the course of a primary attack: as the
 suicidal propensity, in an attack of acute insanity, in the melan-
 cholic stage ; nymphomania also in an early stage; while klepto-
 mania is a common symptom in the early stage of general
 paresis.
+
 I do not wish to maintain that no other species of insanity may
 not yet be eliminated; but at present, as far as my experience
 and examination have extended, only two have been actually

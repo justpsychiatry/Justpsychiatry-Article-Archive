@@ -6,7 +6,8 @@ PSYCHOLOGICAL MEDICINE
 AND ft
 MENTAL PATHOLOGY. J
 Art. I.?.
-BY J. M. WINN, M.D., M.R.C.P., &c.
+:Author:  J. M. WINN, M.D., M.R.C.P., &c.
+
 Formerly Resident Physician of Sussex House Lunatic Asylum.
 The inheritance of disease is one of the most mysterious and
 deplorable conditions of humanity. Any suggestions that may
@@ -32,21 +33,19 @@ tion and study during many years, the conviction of their
 having a common origin became so strong to my mind that, in
 186^, I published a treatise on the subject.* Since that time
 extended observations have confirmed my belief in the truth of
-* Nature and Treatment of Hereditary Disease. London: Eobert Hardwicke,
-192 Piccadilly.
-NO. II. NEW SERIES. N 2
-156 HEREDITARY DISEASE.
 the theory which I then advanced?that all hereditary diseases
 were mutually convertible?and convinced me that it was
 founded on sound principles, and supported by undeniable facts.
 It may be as well to premise the remarks I am about to
 make, with a recapitulation of the principal arguments which I
 brought forward in that essay:?
+
 1. I showed, by a series of examples, that hereditary disease
 frequently appears in different forms in members of the same
 family, and often even in one and the same individual?the
 disease passing from one form to another. From these facts I
 inferred a correlation of morbific forces.
+
 2. The examples which I brought forward to prove a corre-
 lation of force had reference to mania, epilepsy, phthisis, scrofula,
 and cutaneous affections. I suggested that gout and cancer might
@@ -54,6 +53,7 @@ also probably belong to the same group, but could not at that
 time speak confidently on the point. I have now no hesitation
 in including these diseases, as well as hereditary rheumatism,
 in the same generalisation.
+
 3. I stated that the dissimilarity of the symptoms between
 some of the hereditary diseases?such, for example, as phthisis
 and insanity?does not prove that they are owing to different
@@ -78,11 +78,11 @@ in abeyance before the commencement of his fatal illness; and
 the carbuncular disease, of which he died, was evidently the
 vicarious action of the same subtle morbific force as that which
 had previously caused his sufferings from gout.
+
 4. From various facts which I adduced, I drew the inference
 that if there be but one cause for the existence of a large class
 of hereditary diseases, there must necessarily be one general
 plan of treatment more or less applicable to the whole.
-HEREDITARY DISEASE. 157
 In applying the theory of a correlation of force to disease,
 it is necessary, in the first place, to assume what scarcely admits
 of a doubt, that a force of some kind is incessantly at work in
@@ -99,6 +99,7 @@ symptoms from an animal poison, and tetanic symptoms fol-
 lowing an injury. In these cases, as well as in epilepsy and
 acute maniacal excitement, the existence of a morbific force can
 scarcely be considered an improbable assumption.
+
 The phenomena of recurrent insanity afford convincing
 proofs of the existence of a force which may remain latent in
 the nervous system for many months between the intervals of
@@ -128,8 +129,8 @@ weeks, in the other generally for a few minutes only. In both
 we witness the accumulation of a force, which expends itself in
 the one instance in maniacal violence, and in the other in
 convulsive movements.
+
 In the course of my practice I have constantly found
-158 HEREDITARY DISEASE.
 insanity supervene on the subsidence of disease of the lungs,
 and, in the same manner, phthisis has followed the recovery
 from various forms of mental disease. The way in which I
@@ -147,10 +148,12 @@ tions of the same family. Subsequently to the publication of
 these cases, I forwarded, on May 21, 1870, a letter to the
 Medical Times and Gazette, containing cases illustrative of
 my theory, which I will briefly repeat:
+
 Mrs. , aged forty, had been troubled with psoriasis for
 many years. The rash disappeared, and she became acutely
 insane. On the subsidence of the maniacal attack the psoriasis
 reappeared.
+
 Three children in one family were afflicted with hereditary
 disease; one was the victim of epilepsy, another of phthisis, and
 a third of insanity. Their aunt and two cousins died of phthisis.
@@ -159,25 +162,31 @@ of decided symptoms of phthisis. Whilst abroad the disease
 was arrested, but was followed by an attack of acute mania.
 Miss , aged 19. This was a case of religious mania,
 succeeded by phthisis.
+
 Miss , aged 25. Scrofula, followed by suicidal mania.
 Miss , aged 27. Chronic monomania of suspicion. Her
 uncle died of phthisis.
+
 Count became insane late in life and died in an asylum.
 His daughter suffered severely from scrofula, and subsequently
 died of phthisis.
+
 Mr. , aged 25. Profound melancholia. This gentleman
 was one of a very morbific family. One of his sisters died of
 phthisis. Two brothers died of phthisis. Two sisters died
 insane, and another was exceedingly eccentric. The mother
 died of pulmonary consumption.
+
 Mrs. , aged 33. A decided epileptic. Her father and
 mother are dipsomaniacs.
+
 Miss , aged 14. Epileptic. Her uncle died of phthisis.
 Mr. , aged 18. Psoriasis of head and face. Father
 died of phthisis.
+
 Miss , aged 12. Severe eczema of the scalp and neck.
 Mother died of cancer.
-HEREDITARY DISEASE. 159
+
 Master , aged 7. Dr eczema of the face &c., of two
 years' duration. His mother has been subject to melancholia
 for upwards of four years, and his grandfather was a martyr to
@@ -186,6 +195,7 @@ Miss , aged 18. Melancholia, of many weeks' duration.
 Several of her family have suffered from scrofula.
 Miss , aged 20. Beligious melancholia. Father is a
 very gouty subject.
+
 JNXiss ?, aged 24. In this case maniacal excitement and
 rheumatic fever occurred alternately.
 Mr. , aged 40. Incoherent mania of more than ten
@@ -209,9 +219,11 @@ developed by some exciting cause. We can thus form some
 notion how disease may be conveyed from grandparents to
 grandchildren, without any manifestation of its existence in the
 intermediate generation.
+
 That a terrible force may be dormant in the system for
 an indefinite time, is shown in the effects produced by the bite
 of a rabid dog.
+
 Since the appearance of my treatise the tendency of thought
 amongst medical men has been in the direction of my theory.
 Nine months after its publication in October 1869, Mr. Jonathan
@@ -224,9 +236,9 @@ in my category, and insanity is omitted) bears a very close
 resemblance to mine. Mr. Hutchinson classifies these diseases
 under the head of diathesis, which he considers different from
 dyscrasia or temperament; but all these words are vague, and
-160 HEREDITARY DISEASE.
 do not convey to the mind the same clear idea that is expressed
 in the term, correlation of force.
+
 In Drs. C. J. B. and C. T. Williams's work on pulmonary
 consumption, published in 1871, I find it stated that gouty and
 asthmatical patients often produce phthisical offspring.
@@ -261,17 +273,18 @@ parents, induced by peculiar habits, have been transmitted to
 their offspring; and in the same manner we may infer that
 disease engendered by vicious courses in our progenitors may be
 entailed on their descendants.
+
 I will now proceed to re-consider some points in connection
 with the treatment of hereditary disease, to which I referred in
 my treatise, and which involve the two deeply important ques-
 tions of hygiene and marriage.
+
 Where there is reason to suspect a tendency to hereditary
 disease, hygienic treatment cannot begin too soon. It should
 commence with the earliest period of infancy, for it often
 happens that the symptoms of constitutional disease are
 exhibited soon after birth, and often they are manifested before
 the period of dentition, in the form of convulsions, or some
-HEREDITARY DISEASE. 161
 other affection of tlie nervous system. The brain and nerves
 of infants being proportionally larger than those of adults, will,
 to a certain extent, account for their proclivity to nervous
@@ -279,6 +292,7 @@ disease. If my conjecture be correct, that it is in the nervous
 system that the morbific force is located, it is to be expected
 that infants, from this preponderance of nervous tissue, should
 be especially liable to convulsive disease.
+
 The first consideration that demands our attention is the
 nourishment of the infant. It is of the greatest moment that
 it should have the food which nature has provided for it in the
@@ -299,6 +313,7 @@ tenderness. Nothing is more prejudicial to its future health,
 both bodily and mental, than the capricious behaviour of those
 parents or guardians who are over-indulgent at one time and
 needlessly severe at another.
+
 It would be out of place here to enter at any length into
 the subject of education, but it is desirable that a few words
 should be said on the danger to mental and bodily health
@@ -319,15 +334,14 @@ in which the writer says, "From the first the mother in the well-to-do classes a
 much the part of the ostrich with her eggs. She trusts to the kindly influence of
 external circumstances, rather than to her own care, to make the hatching success-
 ful. Nurses, governesses, schools, in turn relieve her of the irksome duties of
-maternity."
-162 HEREDITARY DISEASE.
-required as the child advances in years, and especially during
+maternity."required as the child advances in years, and especially during
 the period of puberty. The modern institution of competitive
 examinations has been the means of seriously injuring the
 health of many an ardent youth who had not stamina enough
 to bear the intense application necessary for such an ordeal.
 I have been consulted in many cases where constitutional disease
 has been developed by this forcing system.
+
 The most critical period of life for those who are liable to
 hereditary diseases, especially epilepsy or phthisis, is the
 interval between the ages of fifteen and twenty-five. This fact
@@ -364,10 +378,10 @@ soon after became insane, and it was found necessary to place
 him in an asylum. This case not only displays the advantages
 of change of climate, but also gives a striking example of a
 mutual relation of morbific forces.
+
 In selecting a climate, it is necessary to fix on a dry as well
 as warm atmosphere. Dr Crisp read a valuable paper at a
 meeting of the St. Andrew's Graduates' Association, " On the
-HEREDITARY DISEASE. 163
 influence of a moist atmosphere in the production of pul-
 monary consumption," giving an analysis of 623 cases in
 various parts of England and Wales, to show that phthisis
@@ -377,6 +391,7 @@ of the free circulation of air, from the presence of woods,
 houses, bad drainage, &c." One of the greatest advantages of a
 warm climate is, that it enables an invalid to be almost con-
 stantly in the open air without risk of cold.
+
 Begular daily exercise in the open air?either walking,,
 riding, or driving, according to the strength of the patient?
 is perhaps the most powerful therapeutical agent in the class
@@ -390,6 +405,7 @@ in their adviser, we may conclude that the success lay, in a
 great degree, in the far larger amount of outdoor exercise which
 they were induced to take, than most people can be prevailed on
 to try.
+
 Whilst on the subject of prophylactic treatment, I must add
 a few words respecting the great value of cod liver oil, which
 seems to stand somewhat in the same relation to hereditary,
@@ -398,9 +414,11 @@ phthisis, and cutaneous diseases is universally admitted.
 Although we cannot explain its modus operandi by any che-
 mical theory,* its beneficial effects as an alterative are un-
 mistakable.
+
 It is a great mistake to administer this remedy in large
 and nauseating doses, and I have never found it necessary to
 give more than one teaspoonful at a time.
+
 It is also an error to think that glycerine, cream, or any
 other kind of oil can be used as a substitute for cod liver oil.
 The prevalent notion that it acts chiefly as a nourishing article
@@ -415,13 +433,14 @@ dipped into it, clattering their beaks and shaking their heads -with evident sat
 faction." This fact shows that, apart from its medical virtues, cod liver oil
 possesses a wonderful power of sustaining life, which cannot be reconciled with
 the commonly accepted chemical theory of nutrition. t
-164 HEREDITARY DISEASE.
 condition of the patient would have contra-indicated its use,
 were it a dietetic remedy.
+
 As an auxiliary for arresting hereditary disease, I think
 that issues and small open blisters, once so much in vogue,
 should not be overlooked; combined with cod liver oil, they
 are often of the greatest use.
+
 The subject of marriage is one in which the health and
 .happiness of mankind is so much involved, that it demands the
 earnest attention not only of medical men, but of all man-
@@ -440,6 +459,7 @@ parents uninterruptedly to the children, and from them to the
 grandchildren, frequently with an interruption from the grand-
 parents to the grandchildren. Sometimes the taint is commu-
 nicated indirectly to the collateral branches.
+
 When I have been consulted as to the advisability of an
 individual's marrying into a family of which one or more mem-
 bers have suffered from constitutional disease, I have thought
@@ -448,27 +468,31 @@ which I drew up and published, with a view to estimate the
 different degrees of risk which would be incurred as to the
 transmission of disease, with reference to the various degrees
 of relationship.
+
 1. If there be a constitutional taint of any kind in either
 father or mother on both sides of the contracting parties, the
 risk is so great as almost to amount to a certainty, that their
 offspring would inherit some form of disease belonging to the
 class to which these investigations refer.
+
 2. If the constitutional disease is only on one side, either
 directly, or collaterally through uncles or aunts, and the con-
 tracting parties are both in good bodily health, the risk is
 diminished one-half, and healthy offspring may be the issue of
 the marriage.
+
 3. If there have been no signs of constitutional disease for
 a whole generation, we can scarcely consider the risk materially
 lessened, as it so frequently reappears, after being in abeyance
 for a whole generation.
-IIEEEDITARY DISEASE. 1G5
+
 4. If two whole generations have escaped any symptoms of
 hereditary disease, we may fairly hope that the danger hag
 passed, and that the morbific force has expended itself.
 It must be borne in mind that I do not include in these
 rules any cases of phthisis, insanity, &c., which may have been
-produced by accidental causes.*
+produced by accidental causes.
+
 And here I come to the consideration of a vexed question,
 which bears strongly on the subject before us. It is one that
 has been regarded as a fruitful cause of disease: I mean the
@@ -513,9 +537,9 @@ Medicine, in which I observed that the term puerperal mania, used in a specific
 sense, had led to serious errors. As an expression of a mere variety of insanity,
 it was sufficiently distinctive; but puerperal mania was not a special form of
 insanity requiring a treatment entirely different from that of mania in general, &c.
-166 HEREDITARY DISEASE.
 well as body. Where sons are born they have generally a
 strong tendency to take stimulating drinks."
+
 On the other hand, a note appeared in the Lancet for
 February 26, 1870, in answer to an enquiry respecting the
 advisability of the marriage of cousins, in which the writer
@@ -535,6 +559,7 @@ a high ideal, and it is the province of the physician to point
 out the best means of preventing physical evils, as it is that of
 the moral philosopher to exhibit the disastrous consequences of
 a violation of moral laws.
+
 Whether the rules I have suggested concerning marriage
 be adopted or not, there can be no doubt that hygienic means
 have done much to arrest and alleviate hereditary disease.

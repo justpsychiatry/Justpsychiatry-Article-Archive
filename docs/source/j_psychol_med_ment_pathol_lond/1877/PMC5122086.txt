@@ -3,8 +3,9 @@ Epidemic Paralysis
 
 166
 Art. XVI.?
-BY DR. BOCKHAMMER.
+:Author:  DR. Bockhammer.
 (Translated from the Annates Medico-Psychologiques, September 1876.)
+
 Tiie village of Aryannon, situated upon the Tage, in the Spanish
 province of Guadelayara, contains about 120 inhabitants, who
 are described as generally healthy, but subject to pelagra,
@@ -31,6 +32,7 @@ The progress of the disease may be acute or chronic, and
 develops itself, it may be in days, it may be in months. The
 nature of this disease is still very obscure ; some of the
 medical men in Spain who have especially devoted themselves ?
+
 to the subject, conceive that it consists in an alteration in the
 anterior columns of the spinal marrow, while others regard it
 as similar to the acrodypia which appeared in Paris in 1828 and

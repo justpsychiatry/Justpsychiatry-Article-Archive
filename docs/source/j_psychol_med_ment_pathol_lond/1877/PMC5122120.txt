@@ -4,8 +4,9 @@ The Care and Cure of the Insane
 331
 REVIEWS.
 
-By J. Mortimer Granville,
+:Author:  J. Mortimer Granville,
 M.D., F.S.S. London: Hardvvicke & Bogue, Piccadilly.
+
 The volumes before us are the result of a commission
 appointed by the Lancet to examine and report on the con-
 dition of asylums. As far as the appointment of this commission
@@ -19,6 +20,7 @@ Notwithstanding this, we nevertheless welcome a most interest-
 ing and valuable work by Dr Mortimer Granville, on the Care
 and Cure of the Insane, founded as the result of this com-
 mission.
+
 The presumed institution of the inquiry appears to be as
 follows:?
 1st. To ascertain the general character and efficiency of the
@@ -44,14 +46,14 @@ It is not our intention to go fully into the description of
 each of these individual asylums, for it must be carefully
 perused to be properly understood. The account is a most
 complete one and carefully drawn up.
+
 The new County Asylum at Brookwood is very highly
 spoken of. We read " The visitor to Brookwood will be strongly
 impressed by its simple and homely characteristics. There is
-v 2
-332 REVIEWS.
 nothing prison-like or poor-law stricken in the exterior. No
 high walls, massive casements, gloomy iron bars, or other tokens
 of restraint, inspire repugnance."
+
 Again, " The surrounding objects divert, as far as possible,
 the mind of the patient from that self-consciousness which con-
 stitutes one of the most formidable obstacles to recovery in
@@ -81,6 +83,7 @@ view. A suitable uniform might surely be devised which would
 be sufficiently distinctive and creditable, without reproducing
 the sombie coloui and buttoned-up appearance of the conven-
 tional prison warder."
+
 The treatment afforded to the patients mentioned in con-
 nection with the large asylums on the whole may be pronounced
 as admirable. They are all under the superintendence of men
@@ -91,12 +94,13 @@ Dr Brushfield, we can rest satisfied that the management of
 our public hospitals is in the hands of those who will use a
 judicious and skilful treatment over the unhappy inmates en-
 trusted to their care.
+
 The second volume contains some valuable facts and data.
+
 The asylums especially mentioned are the metropolitan licensed
 houses receiving paupers. Amongst these we may mention
 Camberwell House, Bethnal House, Peckham House, Hoxton
 House, and Grove House, Bow. The same descriptive arrange-
-REVIEWS. 333
 ments are followed out as in that of the larger hospitals in the
 first volume. These houses receiving paupers are really private
 establishments undertaking work by contract for the State.
@@ -128,7 +132,8 @@ and finally die in." We heartily coincide with these excellent
 remarks, and if this were generally the practice, and students
 availed themselves of the opportunity, mental disorder would be
 far better understood at the present day than it is by the
-majority of practitioners. .
+majority of practitioners.
+
 Dr Granville having fully described these institutions, passes
 on to consider the medical treatment of insanity generally,
 classification, and all pertaining to the care and cure of the

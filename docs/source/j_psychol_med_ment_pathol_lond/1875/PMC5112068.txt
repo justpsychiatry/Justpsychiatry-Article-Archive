@@ -4,7 +4,8 @@ Materialism
 THE JOURNAL OF PSYCHOLOGICAL MEDICINE
 AND MENTAL PATHOLOGY.
 Art. I.?
-BY J. M. WINN, M.D.
+:Author: J. M. WINN, M.D.
+
 Formerly Resident Physician of Sussex House Lunatic Asylum.
 Now that the storm of indignation which was excited by Dr.
 Tyndall's Address, delivered before the British Association at
@@ -25,20 +26,21 @@ the style of the Doctor's writing must be; and it is but just
 that his arguments, which may be considered those of scientific
 materialists in general, should receive a careful and candid
 criticism.
+
 In my remarks I shall chiefly follow the text of the Pro-
 fessor's Address as it was delivered and reported in the Times;
 for the reprint which was subsequently published, in which
 there are both omissions and additions, greatly qualify the
 original meaning.
+
 It is no excuse for the imperfections of the Address that it
 was written, as he states, in Switzerland, under some disad-
-KO. I.?NEW SERIES. B
-2 MATERIALISM.
 vantages. The President of the British Association is placed
 in a most responsible position, and is looked up to as a high
 authority on scientific questions. He should adhere strictly to
 facts, and not indulge in wild speculations on the origin of life
 and mind.
+
 Professor Tyndall opens his Address with a sketch of the
 atomic philosophy, as propounded by Democritus and his suc-
 cessors. Their speculations, though extremely interesting, are
@@ -56,6 +58,7 @@ things, nature, free at once, and rid of her haughty lords, is
 seen to do all things spontaneously of herself, without the
 meddling of the gods." After this, no wonder that Plato an
 Aristotle are dismissed with scant praise.
+
 In enquiring into the causes which checked the advance o
 science during the many centuries that passed unmarked by
 any philosophic discovery, after the days of Pythagoras, Hip-
@@ -70,6 +73,7 @@ tianity are to be reckoned as of small importance it science be
 at stake. I cannot be surprised at this, when I see by a ^ote
 in the reprint that one of his great authorities is the infidel
 Renan.
+
 It is painful to notice throughout the Address the tendency
 to place religion in antagonism to science, as if we were living
 in the days of the Inquisition, and it was necessary for I)r.
@@ -78,10 +82,10 @@ Never has there been a time of such entire civil and religious
 liberty as now, when even the atheist Bradlaugh can spout his
 blasphemy in Hyde Park or Trafalgar Square without the
 slightest hindrance; surely this ought to satisfy the Professor.
+
 In the present century some of our best scientific workers have
 been members of the clerical profession. Few names among
 geologists are more distinguished than that of the Rev. \V.
-MATERIALISM. 3
 D. Conybeare, the discoverer of the Plesiosaurus, or that
 of the Rev. Mr. White, of Selborne, as a naturalist; and
 it happens somewhat curiously at this present time, as if to
@@ -128,9 +132,7 @@ from trespassing on the fields of psychology and medicine.
 When he attempted to write on fever germs, he forgot the old
 adage, Ne sutor ultra crepidam. But there was a moral
 grandeur about Newton which peculiarly fitted him for the per-
-is 2
-4 MATERIALISM.
-ception and reception of ethical and religious truth. Although
+is ception and reception of ethical and religious truth. Although
 he was the greatest natural philosopher that ever lived, there
 was in him none of that conceit or intellectual pride so con-
 spicuous in the writings of many of the physiologists and
@@ -140,6 +142,7 @@ great that it has been reported of him that he compared
 himself to a child gathering pebbles on the sea-shore, and
 occasionally picking up one brighter than those found by his
 companions.
+
 The arrogance of some of these modern philosophers is
 glaringly displayed in an anonymous article which appeared
 in a leading periodical, from which the following extract is
@@ -177,9 +180,9 @@ assumed truth; around us and behind us, either a cold orthodoxy
 that declines to enter into controversy with sceptics, or a timid
 and conventional religion, that has not the faith or the courage
 to examine its true position, to test the real nature of its
-MATERIALISM. 5
 defences, and to prepare firmly and charitably to take part in
 the inevitable encounter."
+
 In referring to the scientific discoveries and remarked intel-
 lectual activity of the Arabs during the Middle Ages, and the
 intrusion of the Moors into Spain, the Professor seizes the
@@ -214,6 +217,7 @@ of the Moors had continued triumphant in Spain, would it have
 done more for civilisation and scientific progress than Christi-
 anity did, even overrun as it was at that time by error and
 superstition ?
+
 I would not for a moment underrate the benefit that science
 has conferred on mankind. By her mastery over the powers of
 nature she has established the means of communication be-
@@ -223,9 +227,8 @@ the light of Christianity nearly over the whole world. Never-
 theless, it is questionable whether science has ever done as
 much to ennoble mankind as art and literature, in both of
 which pursuits Spain shone conspicuously in her palmy days.
+
 After a short sketch of the well-known discoveries of Coper-
-* Hume's History of England, chap. xxv.
-MATERIALISM.
 nicus and Giordano Bruno, Dr Tyndall refers with great
 admiration to the materialistic views of the latter philosopher,
 who, he says, " Struck with the problem of the generation and
@@ -263,6 +266,7 @@ philosophers, that they may be divided into two classes?
 those who believe that the magic atoms were created, and
 those who must necessarily be driven to believe that they created
 themselves.
+
 The Professor, in referring to various eminent writers who
 have held the atomic doctrine, in whole or part, mentions the
 names of Newton and Dalton as if they had embraced the same
@@ -273,7 +277,6 @@ inversely proportionate to the square of the distanceand
 Dalton's atomic theory was also of a totally different character,
 and had reference to the chemical law of multiple proportions.
 But even this ingenious hypothesis, which has been so valuable
-MATERIALISM. I
 to the science of chemistry, has, nevertheless, its discrepancies;
 for, as the late Professor Fownes remarks* : " It is indispens-
 able to draw the broadest possible line of distinction between
@@ -281,6 +284,7 @@ this, which is at the best but a graceful, ingenious, and, in its
 place, useful hypothesis, and those great general laws of
 chemical action which are the pure and unmixed result of
 inductive research."
+
 Unfortunately for the Professor, he has placed the argu-
 ments of his great teacher, the atheist Lucretius, in juxta-
 position with those of the giant Bishop Butler. The reasonings
@@ -297,6 +301,7 @@ disease will produce a thorough change of character, converting
 a moral man into a debauchee, thereby showing that the so-called
 immortal reason is nothing more than a healthy condition of
 the brain.
+
 In reply, Dr Tyndall gives what he imagines would be the
 bishop's answers, which I will abbreviate. The bishop is sup-
 posed to say: " I do not profess to prove anything absolutely,
@@ -319,15 +324,17 @@ how, out of that mechanical act, and from these individually
 dead atoms, sensation, thought, or emotion are to arise ? I can
 * A Manual of Chemistry. Fifth Edition. Revised by H. Bence Jones and
 A. W. Hofman.
+
 t We cannot believe that the bishop would ever have acknowledged that
 inorganic matter could of itself make a living plant.
-8 MATERIALISM.
+
 visualise the waves of ether as they cross the eye and hit the
 retina?and pursue to the central organ the motion thus
 imparted at the periphery, and see in idea the molecules of the
 brain thrown into tremors, but the notion baffles me that from
 these physical tremors things so utterly incongruous with them
-as sensation, thought, and emotion, can be derived." ....
+as sensation, thought, and emotion, can be derived."
+
 " You cannot satisfy the human understanding in its demand
 for logical continuity between molecular processes and the
 phenomena of consciousness." This fanciful sketch of what Dr.
@@ -342,6 +349,7 @@ and if he had then confessed the belief which he has put into
 the mouth of Bishop Butler, and which has been held by some
 of our profoundest thinkers?that it is inconceivable that
 matter should think.
+
 After enumerating all the writers whom he considers
 favourable to his theory, from the earliest period downwards, he
 comes to what he looks upon as the crowning-point of all
@@ -366,11 +374,10 @@ speaking of the book to a distinguished astronomer, said,
 " That's a very clever book, but the author knows very little
 about geology." The other replied, "I, too, thought it very
 clever, but the author is ignorant of astronomy."
+
 Neither Tyndall nor any other enthusiastic supporter of
 Darwinism can believe that it is capable of being proved by
 induction. The difficulties to be contended with in its present
-MATERIALISM.
-9
 phase are, in truth, insurmountable. The chief argument in
 its favour, that on which so much stress is laid, is nothing more
 than a common fact, well known to all breeders of animals and
@@ -399,6 +406,7 @@ over much in the pleasures of the imagination. So far, however,
 as we can judge from observation of the past, we see but little
 prospect of ever bridging over the gulf which separates man
 from the brute creation.
+
 No one can refrain from admiring the genuine and hearty
 enthusiasm with which Dr Tyndall regards Darwin, in whom
 he sees nothing but perfection, and of whom he speaks as if he
@@ -413,12 +421,12 @@ step through inferior classes of bees. There are high autho-
 rities, however, who think that the marvellous ingenuity of the
 hive-bee was conferred directly, not indirectly, by the hand of
 the Creator.
+
 It would be an endless task to discuss all the difficulties
 that beset the theory of evolution. It is impossible for Darwin
 to answer the questions that are incessantly cropping up,
 such as?Through what channel does the nightingale derive her
 -song ? Are the wings of birds derived from the quills of the
-10 MATERIALISM.
 porcupine? Whence did the beaver gain his constructive
 power ? How did the spider learn to spin her geometric web ? or
 the carrier pigeon acquire her wonderful instinct ? Is the beauty
@@ -432,6 +440,7 @@ and conformations, showing the archetypal unity which is
 found throughout all nature ; but this fact does not exclude the
 probability of each species or genus being a separate act of
 creation, which is the only solution of the difficulty.
+
 One reason for Dr Tyndall's sympathy with Darwin may
 possibly be (if the Professor is not mistaken in his opinion)
 that he does not believe in a Final Cause. These are Dr Tyn-
@@ -450,6 +459,7 @@ expressing our conception of the might and mystery of the
 Author of all things. How can man, with his finite faculties
 and limited language, speak of Infinite Power in other than
 finite words ?
+
 After discussing the evolution hypothesis, Professor Tyn-
 dall's materialistic views are given still more strongly when he
 comes to speak of the conservation of energy. He asserts that
@@ -466,7 +476,6 @@ sical conceptions); not so clear the term " conservation of energy,"
 which is not so explicit, but is now so frequently substituted for
 it. Grove's doctrine has been very loosely applied by many
 writers of the day in their endeavours to reconcile phenomena
-MATERIALISM. 11
 which have nothing in common. Before a correlation of forces
 can be admitted, it is necessary, according to Mr. Justice Grove's
 explanation, to prove a mutual convertibility?a see-saw sort of
@@ -501,6 +510,7 @@ merely in a scientific point of view, serves conveniently to group
 together and generalise a large number of facts, which in our
 present state of knowledge cannot be explained by physical
 force.
+
 Mr. Herbert Spencer, according to Dr Tyndall, asserts that
 vital actions are almost as physical as those that lead to the
 coalescence of two globules of oil suspended in a mixture of
@@ -514,7 +524,6 @@ convincing reasons for substituting the term bioplasm for protoplasm, to signify
 germinal or living matter, as the latter word has recently been used with such a
 wide significance as to call forth the sarcasm?attributed to Max Miiller?" that
 protoplasm, after creating everything in the universe, finished by creating itself!"
-12 MATERIALISM.
 nised the wonderful facts revealed by the microscope, which
 some physicists are apt to despise, they would have perceived
 that the oil globules, with their pellicles, are totally different
@@ -524,6 +533,7 @@ powers of absorption, motion, and proliferation, and are, in fact,
 true living germs. It is apparent that Dr Tyndall and Mr.
 Herbert Spencer are unacquainted with the first elements of
 physiology.
+
 The Professor calls Mr. Herbert Spencer " The Apostle of
 the Understanding." Does he think that what he says of life,
 which he defines as " a continuous adjustment of internal re-
@@ -560,10 +570,9 @@ speare and Mozart, have their claims to be no bestial develop-
 ments," and that " their faculties are plainly seen to be different
 in kind from the complex entanglements of many animal
 instincts."
+
 On the subject of time and space, Dr Tyndall adopts Mr.
 Herbert Spencer's views, and in not very clear language
-MATERIALISM.
-IB
 attempts to prove that time and space are not forms of intuition
 as Kant taught. His reasoning appears to amount to little more
 than that contained in his vague definition of life, to which re-
@@ -580,6 +589,7 @@ ception and intuition, not abstract general conceptions derived
 from particular cases, but ideas to which we confine the impres-
 sions of sense; particular times and spaces are facts of infinite
 time and space."
+
 In the face of such inconclusive arguments as Mr. Spencer's,
 it cannot but excite surprise that Dr Tyndall should look on
 him with a sort of reverence, as if he were the impersonation of
@@ -591,12 +601,14 @@ even in the serene atmosphere of his elevated position he may
 occasionally be overcome by the same weakness as ordinary
 mortals, and that his " ganglia are sometimes the seat of a
 nascent poetic thrill"!
+
 Towards the close of the Address, the Professor becomes
 more decidedly materialistic, although in his reprint, and in
 his preface, he intersperses statements contradicting himself,
 from which it would seem that on subsequent reflection he
 was startled at the terribly dangerous lengths to which his
 visionary doctrines were leading him.
+
 As to Mr. Darwin's " primordial form," he does not appear
 to have any clearer ideas on the point than Mr. Darwin himself.
 But Dr Tyndall carries his views further back than to the
@@ -611,7 +623,6 @@ of life ?to cross the boundary of experimental evidence, and
 discover in that matter which we, in our ignorance, . . . have
 hitherto covered with opprobrium the promise and potency of
 all terrestrial life ? " Is this wild flight of fancy a specimen of
-14 MATERIALISM.
 " the scientific use of the imagination " ? We really know nothing
 about atoms, and the strangest notions have been entertained
 concerning them ever since the days of Democritus; he
@@ -619,6 +630,7 @@ supposed them to be of various sizes ; one philosopher thought
 they were invisible, and another that they had neither tops
 nor bottoms. This latter hypothesis is very unfavourable to Dr.
 Tyndall's theory of molecular polarity.
+
 After the numerous instances adduced of the Professor's
 belief in the power of molecular force to produce all the
 phenomena of life, we unexpectedly find that he begins to
@@ -648,6 +660,7 @@ when he delivered his address at Belfast, and promulgated
 doctrines which are calculated to undermine the faith of
 thousands, and which, if true, would shake the very foundations
 of all morality and religion.
+
 I think I have now carefully examined all the arguments
 which Dr Tyndall has brought forward in favour of materialism,
 and it must be admitted that he signally fails to verify his
@@ -658,7 +671,6 @@ the 24th of October 1874; and on the following Saturday
 Dr Lionel Beale published a letter in the same journal, to
 press upon Dr Tyndall that " his position as a public teacher,
 and the authority he wields as President of the British Asso-
-MATERIALISM. 15
 ciation, render it imperative, not only that he should at once
 more accurately define the views he does entertain upon the
 momentous and far-reaching scientific question he has de-
@@ -673,6 +685,7 @@ right to ask, and to which he might reasonably expect a reply.
 The natural inference to be drawn from his silence is, that
 Dr Tyndall considers a prudent reticence to be the wisest
 course.
+
 And now I will take my leave of Dr Tyndall; but before
 concluding, it is desirable to make a few remarks on the
 dogmas and scientific jargon of the new materialistic school of
@@ -697,6 +710,7 @@ are accumulating fast. For instance, they call poetic emotion
 the thrill of a ganglion; thought, cerebration; life, molecular
 force ; creation, evolution ; the Deity, a primordial germ ; crime,
 cerebral disease; &c.
+
 The chief dogma of the new school is that mind and all its
 faculties?perception, memory, will, reason, imagination, as
 well as all moral attributes?are the result of bodily functions,
@@ -705,7 +719,6 @@ or kidneys. They have various unintelligible modes of describ-
 ing the phenomena of the mind. Its operations are spoken of
 by some as the product of the caudate cells of the brain?by
 others as a disturbance of the equilibrium of the nervous power?
-16 MATERIALISM.
 as expressions of material changes in the brain?as an emanation
 from the body, &c. It seems strange that anyone can believe,
 or expect others to believe, that assertions like these, unverified
@@ -752,7 +765,6 @@ are carried on are very valuable in their way, and the hypo-
 theses of men of genius have sometimes led to important dis-
 coveries ; but speculative reasoning should be confined to essays
 of a strictly suggestive character, not interspersed in a text-book
-MATERIALISM. 17
 such as Dr Carpenter's "Mental Physiology," which, as he states,
 has been written expressly for the " training and discipline of
 the mind." It is to be regretted that he has entitled his work
@@ -794,14 +806,12 @@ ever, as if his rhetoric had stimulated them to greater exertions.
 One writer lays it down, as if it were a geometrical axiom, that
 " thought is the product of the cells of the grey matter of the
 brain," and regards all who differ from him as the victims of a
-" domineering prejudice " !
+" domineering prejudice "
+
 The materialistic physiologists express their belief that the
 facts presented by the phenomena of insanity afford irrefrag-
 able proof of the correctness of their theory, that the mind is
-only a bodily organ. They point with an air of triumph to the.
-NO. I.?NEW SEMES. C
-18 MATERIALISM.
-delirium and delusions of those cases of insanity in which brain
+only a bodily organ. They point with an air of triumph to thedelirium and delusions of those cases of insanity in which brain
 disease has been discovered after death. They also refer to the
 benefits which often accrue from purely medical treatment.
 This beneficial effect they look on as the clearest evidence of the
@@ -840,13 +850,14 @@ pends on a healthy state of his digestive organs; yet the con-
 verse is equally true, that a mental shock will immediately
 arrest the functions of the stomach. Shakspeare, who was no
 materialist, puts this well in Henry VIII.:
+
 Read o'er this;
 And after, this; and then to breakfast, with
 What appetite you have.
+
 It is to be regretted that Dr Wilks, another zealous sup-
 porter of the materialistic physiology, in an article in the
 Journal of Mental Science for January 1875, gives his coun-
-MATERIALISM.
 tenance to all the extravagancies of the physical theory of life
 and mind. This is the more to be deprecated because his
 position as a teacher of medicine in one of our largest metro-
@@ -869,6 +880,7 @@ but he states that in the doctrine of unconscious cerebration
 " lies the very pith of his paper." He thinks this doctrine,
 which is still a vexed question among metaphysicians, will solve
 many mental and moral problems.
+
 It may be incidentally mentioned that Dr Wilks has some
 very singular notions on the subject of insanity; as he could
 not have derived them from a practical acquaintance with the
@@ -893,8 +905,7 @@ futed, that all hereditary diseases are interchangeable.
 The impressions which Dr Wilks receives from a visit to
 an asylum are very peculiar, and different from those which are
 generally experienced. He says: " In going into an asylum "
-C 3
-20 MATERIALISM.
+
 ..." I gaze on my fellow-creatures with awe, and not un-
 frequently with admiration. My feeling' has sometimes been
 rather that of envy than pity, and I should have had no hesita-
@@ -915,6 +926,7 @@ mode of studying the mind?and this he confines to " the
 teachings of the material world "?will tend to make men more
 charitable and less self-seeking, and will promote " the leading
 Christian virtue of loving one another."
+
 It is idle for writers of the above class to talk of any-
 thing approaching to religious tendency in their doctrine. If
 the views of the materialists be true, the inevitable result must
@@ -925,6 +937,7 @@ ago, and who has ceased to preside over His handiwork. This
 removes the Creator so far from us and our sympathies that
 He becomes a mere vanishing point in the dim vista of
 infinity.
+
 Materialism cannot lead to the amelioration of mankind;
 the ideas of a ruling Providence and a future state being aban-
 doned, brute strength, lying, cunning, and selfishness would be

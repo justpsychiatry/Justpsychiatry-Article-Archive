@@ -1,13 +1,11 @@
 Experimental Researches on the Regional Temperature of the Head under conditions of Rest, Intellectual Activity, and Emotion
 =============================================================================================================================
 
-By J. S. Lombard, M.D., formerly Assis-
+:Author:  J. S. Lombard, M.D., formerly Assis-
 tant Professor of Physiology in Harvard University, U.S.
 London : H. K. Lewis. (Pp. 211.)
 This is an essay of great interest and value. The experiments
 seem to establish an important doctrine in cerebral physiology ;
-PART II. VOL. VI. NEW SERIES. Y
-314 REVIEWS AND BIBLIOGRAPHICAL NOTICES.
 namely, that the evolution of heat is in proportion to the in-
 tensity of mental action. The author hoped to be able to loca-
 lise the various mental functions by comparing1 the rise of
@@ -17,6 +15,7 @@ ever, is very limited. The anterior portion of the left side of
 the head showed the rise more frequently, and to a greater ex-
 tent, than any other region, both for intellectual and for emo-
 tional states.
+
 It is not easy in a few words to explain the mode of experi-
 mentation. Suffice it to say that the instrument used was a
 thermo-electric apparatus. The examination was restricted to

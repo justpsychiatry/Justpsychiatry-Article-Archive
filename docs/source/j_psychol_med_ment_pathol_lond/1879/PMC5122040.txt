@@ -3,7 +3,8 @@ Notes on the Physiological Pathology of the Brain
 
 172
 Art. II.?.
-BY J. G. DAVEY, M.D., Bristol.
+:Author: J. G. DAVEY, M.D., Bristol.
+
 Tjie title of this paper may lead many to anticipate the object I
 have in view in its composition. It is in great part to call the
 attention of my medical brethren to the respective labours of
@@ -40,7 +41,6 @@ localisation of both the motor functions of the brain?as well
 as of those several morbid changes occurring to this same organ,
 the presence of each one of which is said, as has just been stated,
 to be indicated in an especial manner by well-marked signs or
-THE PHYSIOLOGICAL PATHOLOGY OF THE BRAIN". 173
 symptoms. Many recent writers have expressed themselves in
 the strongest terms in favour of Dr Hughlings-Jackson's patho-
 logical doctrines; and many more have conceived a marvellous
@@ -76,18 +76,20 @@ plegia, " hemi-chorea," " hemi-spasm," and " hemi-contracture"
 corpus striatum. (4) That disease located in the right hemi-
 sphere is indicated by symptoms affecting the left side of the
 body and vice versa.
+
 The following are among the conclusions of Dr Ferrier, as
 given by him in Vol. iii. of the West Riding Lunatic Asylum
 Medical Reports (1873).
+
 1. The anterior portions of the cerebral hemispheres are
 the chief centres of voluntary motion and the active outward
 manifestation of intelligence.
+
 2. The individual convolutions are separate and distinct
 centres; and in certain definite groups of convolutions and in
 corresponding regions of non-convoluted brains, are localised the
 centres for the various movements of the eyelids, the face, the
 mouth (and tongue), the ear, the neck, the hand, foot, and tail.
-174 NOTES ON THE PHYSIOLOGICAL
 3. The action of the hemisphere is in general crossed ; but
 certain movements of the mouth, tongue, and neck, are bilate-
 rally co-ordinated from each cerebral hemisphere.
@@ -115,6 +117,7 @@ convolutions grouped around it, have no motor signification
 lie adds, " explain many hitherto obscure symptoms of cerebral
 disease and enable us to localise with greater certainty many
 forms of cerebral lesion."
+
 I will now look at the same picture from a new standpoint.
 Keferring to the " localisers"?(this is Dr Brown-Sequard's own
 word)?it is affirmed that their views are untrue and contradicted
@@ -124,6 +127,7 @@ centres. (2) The assertion of Todd and Carpenter, backed
 though it is by both Hughlings-Jackson and Ferrier, that the
 corpus striatum is, in any sense, a motor centre ; and certainly
 not for both the arm and the leg.
+
 In so far as the corpus striatum is concerned, Dr Brown-
 Sequard adds the following highly significant remarks?viz :??
 " Griven disease of the corpus striatum, you may or may not
@@ -135,7 +139,6 @@ states of the corpus striatum where the paralysis is found, then
 is it due to an " irritation producing on distant parts an
 inhibitory influence." Dr Semple, in an article contained in
 the Journal of Psychological Medicine, tells us, what, indeed,
-PATHOLOGY OF THE BRAIN. 175
 the preceding remarks seem to justify, "That Dr Brown-
 Sequard, who has perhaps done more than any living- in-
 vestigator to localise the functions of the brain, now publicly
@@ -182,7 +185,6 @@ protected, so well nourished as it is?must execute offices in the
 animal economy of the most important and indispensable kind ?
 Strange indeed it is that this marvellous structure (the brain),
 these cerebral hemispheres in man?the crowning points, as they
-176 NOTES ON TIIE PHYSIOLOGICAL
 are, in his organism?should at this day be so much dis-
 associated with their true and normal functions, so much
 denied their fair and very legitimate offices in the animal
@@ -229,7 +231,6 @@ endowments, are sought now to be shrouded by experiments of
 a character at once so startling and damaging, that one is driven
 to claim the privilege of questioning the views advocated so
 persistently by Drs. Hughlings-Jackson and Ferrier. In fact the
-PATHOLOGY OP THE BRAIN. ]77
 mere presence of primary" motor centres "in and about the con-
 voluted surface of the brain would of necessity disarrange all our
 accepted ideas of the anatomy and physiology of the cerebro-
@@ -276,7 +277,6 @@ whereby a large quantity of matter is capable of being contained
 in a small space; this crumpled-up sheet of gray substance has
 been appropriately called the hemispherical ganglion (Sollv).
 In the cranial portion of the spinal cord, the gray matter exists
-178 NOTES ON THE PHYSIOLOGICAL
 in masses, constituting a chain of ganglia at the bases of the
 encephalon, more or less connected with each other, and with
 the white matter of the brain proper above, and the vertebral
@@ -323,13 +323,13 @@ such nerves in the lower animals as furnish peculiar organs
 requiring a large portion of nervous power, as in the triglia
 volitans, the torpedo silurus, &c. The white matter of the
 cord acts as a conductor, in the same manner that it does in the
-PATHOLOGY OF TIIE ERAIN. 179
 brain proper, and there can be no doubt that the influence arising
 from impressions is carried, not only along the fibres, formerly-
 noticed, which connect the brain and two portions of the spinal
 cord together, but along those more recently discovered, which
 decussate or anastomose in the cord itself (Brown-Sequard),
-and are connected with the ganglionic cells of the gray matter."
+and are connected with the ganglionic cells of the gray matter.
+
 We see then that, according to Bennett, the cortex of the brain
 proper must be held to be the starting point of not only those
 powers or faculties called intellectual, but also of those essentially
@@ -350,6 +350,7 @@ doing this much we find him also putting a drag, and a sound
 one too, on " the teachings of Dr Ferrier himself." But I will
 quote here Dr Maudsley's own words, so pregnant as such are
 with the author's especial force and eloquence:?
+
 " It is most necessary to be on our guard against the danger
 of misapplying ideas derived from internal observation of the
 functions of mind-centres to the interpretation of the func-
@@ -357,6 +358,7 @@ tions of lower nerve-centres, and so of misinterpreting them.
 Assuredly we have sad experience enough to warn us against
 involving the latter in the metaphysical haze which still hangs
 over the functions of the supreme centres."
+
 Again : " Those modern inquirers who have pushed farthest
 their physical researches into mental functions and bodily organs
 have notoriously been at great pains to discriminate between the
@@ -370,12 +372,12 @@ an attempt is made to apply them with precision to the pheno-
 mena revealed by exact scientific observation. The sensorial
 centres with which the senses are in direct connection are quite
 distinct from, and subordinate to, the nervous centres of ideation
-180 NOTES ON THE PHYSIOLOGICAL
 and reflection?the supreme hemispherical ganglia. It is in these,
 which are far more developed in man than in any other animal,
 and more developed in the higher than in the lower races of men,
 that sensation is transformed into knowledge, and that reflective
 consciousness has its seat."
+
 The late Sir H. Holland?although, like Dr Maudsley, un-
 informed, or, it may be, prejudiced against a really practical
 psychology (phrenology)?confessed himself assured of the plural
@@ -418,7 +420,7 @@ which all organisation consists ; and there is no division of
 labour, physiological or other, of which we have any example, or
 can form any conception, but what involves the concentration of
 special kinds of activity in special places."
-PATHOLOGY OF TIIE BRAIN. 181
+
 Let me ask, does Dr Ferrier, or those who think with him,
 hope or expect to prove that physiologists of the mould of Gilbert
 Blane and Marshall Hall wrote or taught in vain, and that their
@@ -438,6 +440,7 @@ the consequent excitation of the basic ganglia, i.e. the lower
 planes of gray matter; such ganglia being the bona fide
 "motor centres." On these the stimulus employed is exhausted,
 and hence the movements of whatever kind.
+
 The foregoing extracts from the writings of the late Dr.
 J. Hughes Bennett, Dr Maudsley, and Mr. Herbert Spencer,
 together with the references or allusions made to the teachings
@@ -465,8 +468,6 @@ possible explanation of some of the phenomena of brain elec-
 trisation, and further that the danger of this must be directly
 as the tension of the electricity used." By these words I
 understand him to mean that the danger or probability of such
-PART II. VOL. V. NEW SERIES. 0
-182 NOTES ON THE PHYSIOLOGICAL
 diffusion must be in proportion to the persistence and strength
 of the stimulation; and that such is really the case is shown
 by the investigations of Drs. Carville and Dnret, who affirm,
@@ -513,7 +514,6 @@ cannot be so localised as to call forth, simply and exclusively,
 the function of the part operated on. The evidence, then, as
 above shown, is altogether averse to the teachings of Dr.
 Ferrier; and such averse or negative evidence culled, as is seen
-PATHOLOGY OF THE BRAIN. 183
 from tbe writings of Dupuy, Duret, and Hermann, was, strange
 as it may seem, put forward by the illustrious Grail himself,
 something like sixty years ago. In his System of Phrenology
@@ -548,6 +548,7 @@ is performed; for if excitement, haemorrhage, inflammation, &c.
 prevent these inconveniences in mutilations either artificial or
 accidental ? It would be necessary that we should be able to
 make an animal whose brain has been wounded and mutilated?
+
 who is filled with fear and suffering?disposed to manifest the
 instincts, propensities, and faculties, the organs of which could
 not have been injured or destroyed. But captivity alone is
@@ -562,7 +563,6 @@ imposed on the animal?in spite of the " lesions " or " mutilations " themselves,
 and in spite, too, of the inhalation of a poisonous compound?the result of all
 "which is a condition of being as purely artificial and abnormal as such can well
 be?it must be confessed that the results are of some value, although they fail
-184 NOTES ON TIIE PHYSIOLOGICAL
 Furthermore, it should be known, and well known, that Gall
 was aware of the effects of the application of a stimulus to the
 brain's surface; and that he maintained, in direct opposition to
@@ -603,6 +603,7 @@ of experiment on the brain of a frog, a pigeon, or a rabbit, "without duo qualif
 tion, to the physiology of the human brain very questionable, or even lead to
 conclusions seriously at variance with well-established facts of clinical and
 pathological observations."
+
 In the Spectator for March 3, 1877, there is a review of Dr Terrier's Func-
 tions of the Brain, in which the annexed paragraph occurs. It is worthy of
 notice, on account of the strange and present ignorance in regard to Gall and his dis-
@@ -621,9 +622,9 @@ Truly Gall settled the position of the " organ of language." His first suc-
 cessful "localisation" was the facility of "articulate and written speech in the third
 frontal convolution," but not "of the left side" only. Herein we recognise a
 grave error of Broca?an error which has been pointed out by many in very
-PATHOLOGY OP THE BRAIN. 1S5
 very interesting and important fact is recorded in a private
 letter now extant, from (rail to Baron Retzer, bearing- date 1798.*
+
 However, Grail, unlike the modern "experimenters," duly
 appreciated such "muscular movements." Gall saw clearly
 enough what Dr Ferrier has failed to perceive, viz., that the
@@ -662,6 +663,7 @@ tissue of mistakes, created by vivisections, but rectified at last by correct cl
 observation during life, and careful examination of the diseased structures after
 death." The harmony of such views of Brown-Sequard with those of Gall is
 directly apparent.
+
 * This fact is highly interesting, and the "extant " letter referred to as from
 Gall to Baron Eetzer is, indeed, of much value. _ Taking it for granted that Mr.
 Prideaux has fallen into no error in regard to this letter, then, indeed, must Dr.
@@ -673,7 +675,7 @@ perimental corroboration, seeing that all experimenters on the brain had failed 
 produce any such phenomena by irritation of the surface of the cerebral hemispheres
 In so recording the failures of "all experimenters," he, Dr Ferrier, has but
 repeated what is very generally believed and asserted.
-186 NOTES ON THE PHYSIOLOGICAL
+
 common to the brain and the " medulla spinalis " is shown by
 the occurrence of epilepsy, or chorea, or tetanus, in him, for
 example, subject to acute mental anxiety, or suffering from
@@ -720,10 +722,10 @@ defining the boundaries of the organs as has been accomplished
 by Gall in the case of locality, the shape of which he ascertained
 to be similar in dogs to its form in man.. In short, little more
 can be said on behalf of these experiments at present than that
-PATHOLOGY OF TIIE BRAIN. 187
 in a cloudy and obscure form they lend a vague general confir-
 mation (not required) to the correctness of the localities
 assigned to the primitive faculties by phrenologists."
+
 To Dr Ferrier, nevertheless, is due in good part the credit
 of correcting Broca's error in locating the faculty of speech in a
 portion of the left hemisphere of the brain to the exclusion
@@ -770,6 +772,7 @@ in the human brain, but on those of the different parts of the
 188 NOTES OX THE PHYSIOLOGICAL
 great' hemispheric ganglion' formed by the convoluted layer of
 the cerebrum."
+
 It may be, however, that when Dr Carpenter reconsiders
 the whole matter, and prefers to dwell on the effects of a galvanic
 current applied to the organs of "alimentiveness," of " destruc-
@@ -799,6 +802,7 @@ he affirms that the conclusion of " Ferrier's theory is just the
 same as though he had said that the seat of the will was in the
 soles of his feet, because by tickling them the muscles of the
 face were affected."
+
 It is on record that on one occasion when Dr Ferrier was
 pursuing his investigations he was so impressed by the intelli-
 gent character of the successive actions elicited as to speak of it
@@ -814,9 +818,9 @@ tent to the task, a follower of Gall and Spurzheim, it may then
 have been found of deep and lasting interest. Such "successive
 actions " it is likely were simply the outward (bodily) signs of
 an internal mental condition artificially induced; i.e. " the
-PATHOLOGY OF THE BRAIN. 189
 muscular expressions of feeling," as Dr Maudsley terms
 them.*
+
 I come now to the consideration of a new phase of my subject,
 one little known to the medical profession, and left therefore,
 in great part, to amateur physiologists for support. However
@@ -865,9 +869,10 @@ other as varieties or modifications of a single force are known to do, there is
 reason to believe. Such would seem as so many links in the single chain of
 causation?as elements in Nature's teeming laboratory, wherein all bespeak the
 reign of law, order, and unity.
-190 NOTES OX THE PHYSIOLOGICAL
+
 or motion, and that the converse of this was first ascertained by
 Hitzig in 1870."
+
 By the " certain circumstances " or " environments " named
 above are meant those which belong to the " mesmeric sleep,"
 so called. In such a state of being it was that the discoveries
@@ -905,6 +910,7 @@ made manifest by positive and well-defined muscular move-
 ments, giving rise to expressions indicative of, it may be anger,
 or fear, or pride, or veneration ; and so on through the several
 primitive faculties of the human mind."
+
 To realise the importance and value of the above discovery,
 it must be borne in mind that to it we are indebted for a proof,
 at once tangible and conclusive, of the great value of the teach-
@@ -912,11 +918,11 @@ ings of Grail and Spurzheim. The correctness of their localisation
 of the functions of the brain becomes at once so plainly demon-
 strated that the non-acceptance of phrenology is next to im-
 possible. However, as I have written elsewhere, " the
-PATHOLOGY OF THE BRAIN. 191
 difficulties of unlearning are great," and, as it would appear,
 insurmountable to even many men of the highest order of
 mind. This fact will I doubt not in after times be classed
 among the hallucinations of men of genius.
+
 The late Mr. Uwins, E.A., was among the very first to not
 only recognise " phreno-mesmerism," so called, but to utilise it.
 As a painter he saw clearly that it may be made an important
@@ -939,6 +945,7 @@ Philosophy. In this book he treats of the mechanism o/ action
 of the brain and its parts ; and if you look to Chapter xiii., page
 172 et seq.f you will find described the mental phenomena
 which attend on artificial somnambulism.
+
 The experience of Mr. Serjeant Cox with or on somnambules
 justifies him in asserting that "when the patient has passed
 from the sleep-like condition into what appears to be an active
@@ -949,17 +956,18 @@ words, viz., " This curious exhibition of cerebral excitement is
 not exceptional. It can be produced in the majority of som-
 nambules on the first trial; but in all, with very rare exceptions,
 after half a dozen experiments."
+
 Assuming, then, the certain and plainly demonstrated truth
 of the foregoing, can you doubt the great and very high claims
 of Grail and Spurzheim to our admiration and respect ? That
 they should stand in the very foremost rank of the most success-
 ful contributors to physiological knowledge can in no way be
 well disputed.
+
 Without doubt the discoveries of Messrs. Gardiner and
 Mansfield, backed up as such were by Drs. Elliotson and
 Gregory, and are now by Mr. Serjeant Cox, the most recent
 advocate or supporter of "phreno-mesmerism," have added
-1D2 NOTES ON Tiii? PHYSIOLOGICAL
 greatly to the reputation of both Grail and Lavater. Their
 united and original labours demonstrate very conclusively the
 " invariable relationship between outward appearances," the
@@ -1006,7 +1014,6 @@ indicates the sure presence of the same "especial emotion or feel-
 ing in him or her experimented on; and this irrespectively of the
 will, or of anything akin to it. The exponents of human feeling,
 to write or speak critically, are seen to a large extent in the
-PATHOLOGY OF THE BRAIN. 193
 muscular system, and in the movements of the face (expression),
 and hence it is the brain (mind), and not less the body, are alike
 necessary to the entirety of any single emotion or passion in
@@ -1028,12 +1035,14 @@ electricity, or by any other stimulus, if we could only apply it
 in suitable force to the proper muscles. . . . Suffice it to say,
 that the special muscular action is not merely the exponent of
 the passion, but truly an essential part of it."
+
 The remarks above illustrate, very fairly, the reflected up
 and down and to and fro currents of nerve force, whether or
 not these have their origin or starting point in the emotional or
 motor centres?i.e. the upper or lower strands of gray matter
 of the cerebrum ; for to such " lower strands " whatever there is
-of "muscular action" must be due.*
+of "muscular action" must be due.
+
 * The words of the poet (Pope) to the effect that " all are but parts of one
 stupendous whole " derive an especial illustration from the co-ordination or mutual
 dependence of the nervous and muscular (the mental and bodily) systems (forces)
@@ -1055,11 +1064,11 @@ withal to protract their infancies to the tomb. What else, I ask, is within our
 reach than to hope-hope in the great future of truth?which, as Byron puts it,
 " is a gem which is found at a great depth ; whilst on the surface of this world all
 things are weighed by the false scale of custom ' ?
+
 I would venture to add here, as an apology for, and in confirmation of, the
 preceding remarks that the late Dr J. Hughes Bennett felt very keenly in
 reference to " mono-ideasm," as he has termed it. It must have been so, or
 he would never have written thus: "The facts of mono-ideasm are highly im-
-194 NOTES ON THE PHYSIOLOGICAL
 If " physiognomy " is destined to assume a higher, a more
 scientific standpoint than it has yet done, such will be the
 outcome of " phreno-mesmerism." By the adoption of it as a
@@ -1091,6 +1100,7 @@ Tears in his eyes, distraction in's aspect,
 A broken voice, and his whole function suiting
 With forms to his conceit? And all for nothing!"
 Hamlet, Act ii. Scene 2.
+
 I will now proceed to the consideration of matters patho-
 logical and so conclude these "Notes." Assuming that the
 cortex or gray matter of the cerebral convolutions is the origin
@@ -1110,7 +1120,6 @@ sponsible as monomaniacs. Yet such is really the fact, and once admitted into
 physiology must have an important influence on the theory and practice of medicine."
 To the same effect writes Mr. Serjeant Cox; at page 152, Vol. ii., of his
 lopular Introduction to Mental Philosophy, Chapter xi., On Artificial Som-
-PATHOLOGY OF TIIE BRAIN". 195
 of the mind, it follows that the derangement or disease of
 either one or more of the same faculties will be the effect of
 some lesion or morbid change affecting a portion, more or less, of
@@ -1129,6 +1138,7 @@ out interest. Dr B. J. Grlisson is the author of the annexed
 letter which appeared in the Lancet (I think) in August of
 1875; it is headed Arrest of Speech in an Infant after a Blow
 on the Head.
+
 " Sir,?A few days ago a patient consulted me for a skin
 affection on her son, a fine little boy four years and a half old,
 and told me the following about him. When he was eighteen
@@ -1141,6 +1151,7 @@ of your readers have met with a similar case, and can recommend
 anything to remedy the disability, I will be glad to know of it."
 In the above two cases the " organs of language " were the
 seats of the injury.
+
 In the Medical Psychology of the late Mr. Robert Dunn, of
 London, is seen reported several cases bearing more or less
 directty on the faculty of speech as a primitive mental endow-
@@ -1158,7 +1169,7 @@ they were declared not to be new truths, but to have been familiar to every
 physiologist and psychologist under other names, such as hysteria, or hallucina-
 tion, and now they have taken their place in physiology among the recognised
 incidents of a rare condition of the nervous system."
-196 NOTES OX THE PHYSIOLOGICAL
+
 seemed c congestive ' in its character, and passed away without
 any other permanent consequence than this, that she continually
 used one word for another, not applying appropriate names to
@@ -1205,7 +1216,6 @@ manifest dislocation of the memory of words on the slightest
 emotional excitement or mental agitation." . . . "I have
 lately had under my care a married woman of the nervous
 temperament and great emotional susceptibility, the mother
-PATHOLOGY OF THE BRAIN. 197
 of a large family ; and who, during the latter months of her last
 pregnancy, met with a sudden and painful nervous shock,
 the effect of which was to' deprive her of the power of speech,
@@ -1219,6 +1229,7 @@ not recollect or give the name of the commonest article of
 household furniture, as a chair or table, &c.; and sensible of
 her inability, she frequently burst into tears. She eventually
 recovered."
+
 To the above several cases of aphasic disorder I may add a
 fourth occurring in my own practice some months since. A young
 girl nine years of age was observed to become dull and listless ; and
@@ -1252,8 +1263,6 @@ action set up in the prim? viae did in the foregoing case fix itself
 so palpably on or in such close contact with the " organ of Reil" so
 called by Broca and his coadjutors in preference to any other
 " organ " or primitive faculty of the mind, yet such was the case.
-PART II. VOL V. NEW SERIES. P
-198 NOTES ON THE PHYSIOLOGICAL
 Years since I put on record the fact of a young man who, having
 tsenia in his intestines, was seized with so morbid and excessive
 an action of" destructiveness " as to have nearly killed during a
@@ -1300,7 +1309,6 @@ it is but reasonable to infer that among the first of the morbid
 effects arising from the tubercular deposit would be an irritating
 excitement in the gray substance, which would lead to an abnor-
 mal development of its functional power ; and as obstinacy is an
-PATHOLOGY OF THE BRAIN. 199
 abuse of firmness, if we associate the change of disposition
 which had taken place in the child with the structural dis-
 turbance induced by the tubercular deposit, we cannot resist
@@ -1326,6 +1334,7 @@ the beginning of the attack led to the belief of the existence of
 tubercule in the brain, the psychological phenomenon, or ob-
 served change in the disposition of the child, was the only
 indication of the local seat of the disease."
+
 A tradesman of Bristol, when under the influence of alcohol,
 fell down a flight of steps and received a heavy blow on the
 outer angle of the left eye. This injury confined him to his
@@ -1345,10 +1354,9 @@ referred to. One humerus was dislocated. On her recovery from
 the immediate effects of the fall she discovered, on resuming
 her musical exercises, that she had lost much of her notion of
 " time"; she has now recovered the lost p^wer.
+
 The two following cases of disease, confined for the most
 part to the organs of veneration, are to be found in the Zoist for.
-p 2
-200 NOTES OiN- THE PHYSIOLOGICAL
 1843, a journal not now in existence. The second of these cases
 appeared originally in the provincial Medical and Surgical
 Journal for March 1843, and from it was copied into the Zoist.
@@ -1385,6 +1393,7 @@ record of this case in the Zoist I have described it as one of
 excessive action of small organs. The physical condition of
 the cranium being such as to suggest to the phrenologist
 " veneration small."
+
 For the other case we are indebted to Mr. Millar. A
 clergyman, after prolonged study and a total neglect of all
 measures calculated to preserve his health, presented some
@@ -1395,7 +1404,6 @@ the village to read him a sermon on his besetting sin. But
 his parishioner received his ministerial offices so contemp-
 tuously as to resolutely order the reverend curate out of his
 house. rIhis conduct had such an effect on his already
-PATHOLOGY OF TIIE BRAIN. 201
 excited feelings, that he rushed into the square of W
 holding his Bible in the air, and knelt down praying Grod
 to subdue the obstinacy of the sinner's heart, and, rising up,
@@ -1440,9 +1448,9 @@ tions, and that the inflammation was more acute in the
 portions covering the convolutions which cerebral phrenologists
 have proved to be the organs for the evolutions of a particular
 faculty?veneration."
+
 To the above illustrative cases others may be added calcu-
 lated in an eminent degree to command the patient attention
-202 NOTES OX THE PHYSIOLOGICAL
 of all really earnest in the pursuit of pathological science.
 Such cases or such facts, together with the many more contained
 in this paper (which as I conceive so plainly demonstrates the
@@ -1451,6 +1459,7 @@ cerebral physiology?i.e. phrenology), will, it is to be hoped, so
 fix themselves on the minds of at least a few that the composi-
 tion of these Notes on the Psychological Pathology of the Brain
 might not prove wholly in vain, or useless.
+
 To conclude: in the Journal of Anatomy for July 1878 Dr.N.
 J. Dodds concludes his series of papers, On the Localisation of the
 Functions of the Brain, with these words, viz.: " The evidence of
@@ -1463,6 +1472,7 @@ to Dr Ferrier's attention, asking him at the same time to bear
 well in mind the truism conveyed in this very significant couplet?
 Errors, like straws, upon the surface flow;
 He who would search for pearls must dive below.
+
 PoSTSCEIPT.
 But few readers of the preceding pages are likely to remember
 the very "unnecessary vituperative discussion," so called by the
@@ -1488,7 +1498,6 @@ vituperation " of him by the late Mr. Thomas Wakley, who " did
 not believe in the reality of the phenomena displayed" (Clarke),
 and which led to this?" Elliotson and mesmerism stood and
 fell together ' (Clarke). So thus was the genius of Elliotson
-PATHOLOGY OF THE BRAIN. 203
 rewarded; and after such a fashion was his noble enthusiasm
 in the cause of physiology accepted by the profession, of which
 he was so eminent a member. The Lancet, which owed so
@@ -1510,6 +1519,7 @@ and progress (!!) a series of leading articles written by the late
 Mr. Wakley "in his most forcible and trenchant style" (Clarke),
 designed to arouse "popular indignation " "against the practice
 of mesmerism," " its absurdity and immorality so called.
+
 It has been written, " persecution gives wings to a bad
 cause and never yet put down a good one. W ithout doubt
 " mesmerism," or more properly animal magnetism, has not been
@@ -1535,7 +1545,6 @@ that it was conveyed by contact to the girlO Key, producing in
 her the ordinary trance effects, &c. ^ akley denied the exist-
 ence in nickel of any such property, and what is more, declared
 the whole affair to be a deception, a piece of " humbug. The
-204 NOTES ON PHYSIOLOGICAL PATHOLOGY OF THE BRAIN.
 marked effects?i.e. the violently flushed face, the " full squint/'
 the prostration, the hurried breathing, the rigid limbs, and " opis-
 thotonos/' he affirmed, were put on, and therefore valueless as a

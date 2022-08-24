@@ -3,7 +3,8 @@ Mental Disorders
 
 118
 Art. XII.?
-By JOHN CUIVWEN, M.D.
+:Author:  JOHN CUIVWEN, M.D.
+
 In examining the exciting causes of mental disorders, it is
 requisite to make a division into those which may be called
 moral, and those which are really physical. This distinction
@@ -16,6 +17,7 @@ the organism, but this is most surely substituting effect for
 cause. It is useless to attempt to ignore the influence of moral
 causes, of the affections, passions, desires, and emotions in the
 production of derangements of the different organs of the body.
+
 No one who has given attention to the reciprocal influence of
 mind and body can for a moment question the fact that joy and
 hope will exercise an active exhilarating influence on the func-
@@ -23,6 +25,7 @@ tions of the different organs, while fear, terror, anxiety, fright,
 or any of the depressing passions, will cause a temporary sus-
 pension of some of the functions, or a cessation for a short period
 of the normal action of certain organs.
+
 The nervous constitutions of individuals are so diverse one
 from another that the susceptibility to impressions arising
 from the action of the emotions, passions, etc. is of the most
@@ -36,13 +39,14 @@ of temperature may produce in one an ordinary cold in the head,
 in another pneumonia, in a third enteritis, and some other
 severe affection in a fourth, depending entirely on the physical
 condition of the individual at the time of exposure.
+
 It does not seem difficult to trace the connection between
 moral causes and physical disease. Fright in many persons
 exercises a paralysing or benumbing influence on the nervous
 system, and thus impairs the normal action of the heart and
 many of the other organs.
+
 An address delivered before the Medical Socioty of the State of Pennsylvania.
-MENTAL DISORDERS. 119
 Anxiety will cause loss of appetite, inability to sleep, and
 other effects which gradually undermine the healthy action of
 the nervous system. Loss of property, business troubles, and all
@@ -51,6 +55,7 @@ sleepless nights, and wearisome days, which, unless checked,
 will gradually deteriorate the integrity of the nervous system,
 and through it some of the vital organs, and thus produce in
 some bodily disease and in others mental disorder.
+
 The direct chain of causation may be in this wise : a man
 meets with great reverses in business, and cannot perceive how
 he can meet his engagements and support his family. He
@@ -65,6 +70,7 @@ which he had been accustomed to view them, and soon every-
 thing becomes changed to him, and his conduct and conver-
 sation attract the attention of his family, who now see that he
 is not what he formerly was, and his whole system is disordered.
+
 Now it may be said that the disordered condition of system
 immediately antecedent to the outbreak of mental disorder,
 beiug a physical disease, was the cause of that mental disorder ;
@@ -72,6 +78,7 @@ but surely that is merely substituting effect for cause, since that
 disorder is only the result of a cause tending, from the peculiar
 nervous constitution of the person, gradually to produce that
 particular diseased condition.
+
 It is needless in this presence to cite a long series of cases
 giving evidence of the influence of the different emotions or
 passions in the production of disease. If the anxieties and
@@ -84,6 +91,7 @@ died of cholera could produce in a man an attack of cholera, we
 can certainly have no great difficulty in believing that the fear
 or dread of some impending calamity may produce an attack of
 mental disorder in another.
+
 It is a matter of historic record that any great social or
 political revolution in a community or State will cause a large
 number of cases of mental disorder. In I ranee, in each of the
@@ -103,11 +111,13 @@ arising unquestionably from the fact that the public mind, as
 well as the minds of individuals, was fully occupied with the
 duties and obligations which the successful prosecution required
 and entailed.
+
 Nothing need be assumed to account for these peculiar
 conditions, for they all proceed from the influence of certain
 fixed laws of the human economy, which we cannot ignore, if
 we would, and which are susceptible of definite explanation and
 positive proof.
+
 As a large dose of poison may suddenly cause death, while
 smaller doses, administered gradually, may undermine the
 health and thus produce disease and death ; so certain passions
@@ -137,9 +147,10 @@ tlie special moral cause inducing it; and this difference and
 determining power will also be more perceptible in the female
 than in the male, from the fact that the female sex is more
 MENTAL DISORDERS.
-121
+
 impressionable, or more readily and more forcibly influenced by
 the emotions and affections.
+
 It is a matter of general observation that, in the majority
 of cases of mental disorder, one or more causes combine to
 produce the unhealthy condition from which the trouble
@@ -147,6 +158,7 @@ arises; and in cases where there is an hereditary predisposition to
 the disorder, moral causes will act much more readily, the
 faulty constitution yielding much more quickly to the strain or
 pressure brought to bear upon it.
+
 It must also be distinctly recognised that the different
 depressing emotions and passions, and the malevolent affections,
 have a much greater influence in the production of mental
@@ -168,6 +180,7 @@ childhood and maturity, in order to guard more assiduously
 against the evil results which may ensue from too great indul-
 gence of certain passions and emotions, or the too exclusive
 cultivation of certain desires and affections.
+
 As in ordinary diseases it is usual to consider that the
 system of the patient is of a certain temperament which
 specially predisposes or renders more susceptible to a particular
@@ -176,16 +189,17 @@ be a special insane diathesis, or strong hereditary taint, which
 so weakens the nervous system that any cause, moral or physical,
 acts with special force, or much more promptly than in a really
 healthy or untainted constitution.
+
 It will also be found in many cases that the mental disorder
 may be caused by reflex irritation, or the perverted action of
 other organs.
+
 It is needless to attempt to give even a list of the many
 physical causes which may determine an attack of mental dis-
 order, for they may all be summed up in one short statement,
 that any disease, over-exertion, or excess which will greatly
 weaken the nervous system or interfere with its normal action
 will, in certain constitutions, and under certain circumstances,
-122 MENTAL DISORDERS.
 varying in character, degree, and intensity, be sure to be an ex-
 citing cause of mental disorder ; for it must be distinctly borne
 in mind that nearly every case of mental disorder which the pro-
@@ -195,18 +209,21 @@ will be determined by a variety of conditions which are not by
 any means clearly defined or easily explained, and which, being
 of a speculative and not practical character, need not here be
 dwelt upon.
+
 There has been, latterly, a great inclination to attempt a
 variety of classifications in mental disorders, and arrange the
 different forms under certain fanciful types or classes, which may
 answer very well for writers and theorists, or those who are fond
 of minute and careful distinctions, but in reality are of no
 essential value or assistance to the practitioner.
+
 It will fully answer the object now in view, and very much
 simplify the whole subject, to take, as the basis of what it is
 desirable to say, the old division into mania, monomania, melan-
 cholia, and dementia,including under eacli the acute and chronic
 forms, with such variations as may arise from peculiar physical
 conditions or diseases.
+
 In all cases of mental disorder there is a period of incuba-
 tion, varying with the character and intensity of the exciting
 cause from a few hours to many years. Certain causes may be
@@ -232,7 +249,6 @@ in dress or appearance foreign to the character ot the individual;
 a disregard of the many minor proprieties of lite ; an undue atten-
 tion to matters of small consequence, which would not, in health,
 have been thought of; an exaggeration of trifles, a perversion
-MENTAL DISORDERS. 123
 or unusual irritability of temper, and a deviation from the
 strict line of moral rectitude in conversation, or in ordinary
 dealings with others in the everyday transactions of life.
@@ -247,6 +263,7 @@ normal from the abnormal state; and the form which the
 disorder will assume will be determined by causes or incidents,
 or the bodily condition which may exist at or immediately
 before the time at which the line is crossed.
+
 Of course it must be understood that all these indications
 may not be presented in the same case, or in the order men-
 tioned ; but one or more will be found in every one, and the
@@ -256,6 +273,7 @@ himself and the family and friends that the deviation does
 actually exist, and the man has reached the point where
 medical interference is requisite for his own good and that of
 the family and neighbourhood.
+
 A physician is called to see a man in regard to whom the
 friends feel uneasy, and unable or unwilling to say what is the
 matter with him. He finds him fretful, restless, at times quite
@@ -279,11 +297,11 @@ proposes to do. His appetite will be capricious, eating very
 irregularly and scarcely sufficient to support his strength, or
 very voraciously and more frequently than usual. Added to
 these will be an indifference to outward appearances ; a dis-
-124 MENTAL DISORDERS.
 regard of the usual proprieties of social intercourse, finding
 fault with everybody and everything; he is distrustful, un-
 usually egotistic, and intensely selfish in thought, feeling, and
 expression.
+
 If spoken to about his health, he was never better in his
 life ; be feels able to do any amount of work, and rejects with
 disdain any suggestion which may be made that he will suffer
@@ -304,6 +322,7 @@ place all night, or does something which disturbs the rest of
 the family and makes them fearful and anxious, and often
 abuses them for their interference in what he is doing or for
 the advice they offer him.
+
 Rejecting all advice and every effort made to relieve this
 condition, he will soon experience an attack of acute mania,
 with unusual restlessness, constant noisy talking in an inco-
@@ -312,11 +331,13 @@ clothing, furniture, or anything which comes in his way ; using
 the most profane and obscene language; sometimes in good
 humour, more often cross, irritable, and abusive, but never con-
 tinuing in the same state any length of time.
+
 The violence and intensity of the attack will depend on the
 peculiar temperament and physical condition of the patient,
 varying from the most extreme to the most gentle excitement;
 but in all partaking of the same general evidence of departure
 from healthy, normal action.
+
 An examination of the physical symptoms will show a dry,
 harsh skin ; the hands clammy, or dry and rough; sometimes
 cold with a very languid circulation; the countenance with a
@@ -326,11 +347,11 @@ motion, so that he is unable to look steadily at any person or
 anything for more than a moment at a time ; the tongue coated;
 the mouth frequently dry from the constant talking ; the bowels
 constipated, and all the secretions more or less disordered; the
-MENTAL DISORDERS. 125
 pulse but slightly if at all excited when the patient will remain
 quiet for a few moments to give a fair opportunity to examine
 it; the head nearly natural as to temperature, and very rarely
 much heated.
+
 There is, however, a form of acute mania which is very
 severe, often quite sudden in its access and very rapid in its
 course, which needs to be very carefully distinguished. The
@@ -368,14 +389,15 @@ opinion tenable. Many physicians take the ground that these
 are simply developments of epilepsy, this peculiar condition
 taking the place of the regular convulsion, or being a more
 prominent expression of the masked form.
+
 A monograph by Dr Edward Jarvis on this subject shows
 that one hundred cases at least are recorded, and an able paper
 on the same subject has been written by Dr Kraft Ebing of
 Germany. The diagnosis of this form is mainly important on
 account of the medico-legal questions which may arise, should
-126 MENTAL DISORDERS.
 the individual commit any violation of the law while suffering
 from it.
+
 Another form will be met with, usually called recurrent
 mania, where the excitement varies in intensity from the mildest
 mischievous disposition, with constant foolish or extravagant
@@ -397,6 +419,7 @@ the year; but most generally there is only one, and the extreme
 regularity of these attacks and the uniformity of the symptoms
 which characterise them has led the French to give the disease
 the name of circular insanity.
+
 As a rule, it may be said that cases of acute mania will
 readily recover under proper treatment; but still it is wisest
 and best to give the prognosis with great caution, because in
@@ -409,18 +432,20 @@ excitement will seriously undermine the system, and the
 recuperative powers may not be equal to the task of carrying
 the system over the period of depression, and the patient may
 sink from sheer exhaustion.
+
 Then the physician must remember that the disease may
 assume the form of recurrent mania, and he must qualify his
 prognosis accordingly, for the general experience is that cases
 of this form of disease do not recover.
+
 Unless the diagnosis of exhaustive mania is very clearly
 made out?and it is extremely difficult to do so satisfactorily?
 any statement of the ultimate result in cases of high maniacal
 excitement should be given with the greatest reserve and
 caution.
+
 It may be proper in this place to call attention to a peculiar
 form of mania which within a few years has received the name
-MENTAL DISORDERS. 127
 of paresis, or general paralysis of the insane, in order that the
 practitioner may be on his guard, not only in reference to
 treatment, but particularly in regard to prognosis. It is cha-
@@ -448,8 +473,10 @@ and cautious treatment, it will advance, occasionally by rapid
 strides, but most generally by very slow, insidious degrees, to
 paralysis of the tongue and limbs and continued enfeeblement
 of the mind.
+
 These cases are rare except in cities or large towns, and are
 almost invariably confined to men.
+
 The special history of the disease, with a discussion of the
 different points on which a diversity of opinion still exists,
 and probably will continue to exist, will be found in various
@@ -462,12 +489,12 @@ to the most violent excitement, extending through many months.
 As this disease depends on the peculiar condition of the system
 and arises from that condition, there will generally be no great
 difficulty in the diagnosis.
+
 Mania arising from the continuance of epilepsy has this
 striking peculiarity, that its development is most decided after
 one or more convulsions. How long a person may be subject to
 epileptic attacks before any symptom of mental alienation is
 noticed is a matter which does not appear to have received
-128 MENTAL DISORDERS.
 careful attention. In a majority of cases it will depend in
 great measure, no doubt, on the particular form of the epilepsy,
 on the impairment of the integrity of the nervous system by
@@ -477,6 +504,7 @@ which he may lead, whether cautious and systematic in the
 ?U<ro-anCe 3rreoularities and excitement, or careless and
 indifferent, and inclined to indulgence in excesses of various
 kinds.
+
 llie form which the mental disorder will assume will also
 vary very greatly in different cases. In some there will be
 simply restlessness, confusion of mind, and inability to attend
@@ -495,6 +523,7 @@ some days, when the individual will sink into a deep sleep, con-
 tinuing often for hours, and sometimes for a day or two' and
 arouse from it with all the excitement gone, and only a dulness
 of mind and feeling of general debility.
+
 It is a singular and striking fact that the peculiar ideas
 actions, and manner which are noticed in the first attack of ex-
 citement will almost invariably be found to characterise all the
@@ -507,6 +536,7 @@ so great that it is impossible to give in detail any description
 which will apply to all; but a careful observation will soon
 enable anyone to discover the special symptoms of each case
 and take measures accordingly.
+
 Another fact which is proper to be carefully borne in mind
 is, that what occurs during a paroxysm will be recollected in all
 its details during a subsequent paroxysm but not during the
@@ -514,7 +544,7 @@ interval, and what occurs in the interval will not be present to
 the mind during the paroxysm. There may be exceptions to
 this, but they are so rare that they only tend to confirm the
 rule.
-MENTAL DISORDERS. 129
+
 As attempts are often made, from a variety of motives, to
 imitate the epileptic seizure, it may be proper to state the
 diagnostic symptoms, so as to avoid confounding- the true disease
@@ -560,15 +590,15 @@ face and body will often be covered with profuse perspiration
 from the violent action. One symptom is uniform in all cases
 from the earliest period of the attack, a complete unconscious-
 ness of all surrounding objects and impressions.
+
 Sometimes, in place of the convulsion, the individual will
-PART I. VOL. IV. NEW SERIES. K
-130 MENTAL DISORDERS.
 manifest unusual irritability of temper, inclination to find fault
 and quarrel with everybody and everything, or have violent
 bursts of passion which are really uncontrollable, and frequently
 lead to deeds of violence ; and all these, with similar symptoms,
 are simply developments of the disease in a different form, ancl
 must be treated accordingly.
+
 But while these attacks are readily noticed, and can be dis-
 tinctly recognised, there is another form much more obscure,
 and on that account more necessary to be carefully observed and
@@ -590,6 +620,7 @@ obstinacy in trifling matters, with a disposition to annoy others
 and do things with the apparent purpose of giving trouble, all
 of these being frequently classed under the significant but
 inapplicable term, devilish.
+
 Often the masked epilepsy occurs only at night, which adds
 to the obscurity of the case and the difficulty of detection.
 After continuing for a variable period, the disease will develop
@@ -600,7 +631,8 @@ sufficiently severe to leave very distinct evidences; and, when
 the conviction is forced upon the mind by evidence which can-
 not be gainsaid, the friends will insist very often that the attack
 which had been brought prominently to their notice is really
-the first which the patient has had.^
+the first which the patient has had.
+
 In no class of mental disorders is more difficulty experienced
 in reaching a clear and satisfactory diagnosis than in cases of
 monomania, and this difficulty arises in great part from the very
@@ -609,7 +641,6 @@ in the conduct and conversation of the patient in the earlier
 stages, and an unwillingness to talk about their views and
 feelings. The only sure guide to a correct and clear decision in
 any given case will be found in a thorough and searching
-MENTAL DISORDERS. 131
 examination into the whole history of the individual, his
 opinions, habits, and conduct, comparing him as he may be at the
 time of the examination with what he had been at a previous
@@ -621,6 +652,7 @@ examination, could not obtain the clue to a delusion of the
 most extravagant character after hours of close examination, it
 may fairly be allowed to men of less skill and ability to require
 a much longer period and the most thorough investigation.
+
 Many men are very ready to talk on the subject of their
 delusion, and will very readily give all the information desired,
 but there are those who are very reticent, who do not feel free
@@ -634,6 +666,7 @@ disposition, long before anything may be said about the peculiar
 delusion which engrosses the mind, and often the delusion will
 only be ascertained from the letters which the patient may write
 and the persons to whom they may be addressed.
+
 Many of this class are very shrewd in all their business
 arrangements, and in many cases their abilities seem sharpened
 by disease, so that to the ordinary observer they appear quite
@@ -647,6 +680,7 @@ trouble or annoyance to any one, but a very large number have
 such a tendency as to render their possessors very troublesome,
 and often dangerous to their families and to the members of
 the community at large.
+
 The most dangerous of these forms are those which take the
 homicidal tendency, where the patient may be quiet and plea-
 sant for the greater part of the time, but will suddenly start up
@@ -656,14 +690,14 @@ one is more penitent for what may be done or attempted to be
 done; but the impulse urging to the act is irresistible, and
 such persons need on this account to be carefully watched to
 prevent serious consequences during such paroxysms.
-K 2
-132 MENTAL DISORDERS.
+
 Many persons will give warning of the feeling which
 prompts the impulse, and ask to be restrained until it has
 passed away, but in the majority no such warning will be given,
 though to those accustomed to their manner, something in the
 expression of the countenance and in the conduct will give
 notice of what is to be apprehended.
+
 Authors give a variety of names to other symptoms of the
 disease, according to the form which it may manifest, but being
 only names for variations of the same disease, or species of the
@@ -673,6 +707,7 @@ tigated, and when once recognised as disease to be properly
 treated, and from the tendencies manifested such treatment is
 generally only practicable in some hospital for the insane.
 Another form is what is usually called moral insanity.
+
 Though the abuse of the term has rendered its use of question-
 able propriety, yet it must be admitted, there is a disorder of
 the moral powers which cannot be classed as simple wickedness,
@@ -695,6 +730,7 @@ appear to act properly ; but as the mind has two classes of
 faculties, moral and intellectual, is it not reasonable to infer
 that the moral can be affected and disordered without any
 appreciable disorder of the intellectual ?
+
 The relations of the two classes are so intimate, that one
 class must be more or less affected by the disorder of the other,
 but in the disease under consideration, the intellectual dis-
@@ -702,9 +738,9 @@ order is so slight in the early stages as not readily to be traced,
 and often the disease will continue for a long time without any
 distinct delusion, even when the most persistent efforts are made
 to discover it.
+
 It lias, however, always seemed to me, that the very fact,
 that the man was not able to recognise the manifest incon-
-MENTAL DISORDERS. 133
 sistency in his life and conduct with his professions, and the
 total change in all his views and feelings which he is so ready to
 ascribe to changes in others while it really exists in himself, must
@@ -717,6 +753,7 @@ by many devices unimaginable except to a disordered mind, and
 appears so well before strangers, that it is extremely difficult in
 most cases to detect the disorder in its early stages, and it runs
 on until all hope of curative treatment has passed.
+
 In some cases the disease which has blunted the moral has
 sharpened some of the intellectual powers, and there is a sharp-
 ness and shrewdness, combined often with a malignity of evil,
@@ -729,6 +766,7 @@ sharpest examiner to bring them clearly and distinctly to the
 apprehension of others, and the simple assertion of a belief in
 their existence will not satisfy those who demand proof positive
 of the fact.
+
 The case must be treated and judged by what is clearly to
 be seen and traced out by unmistakable symptoms, and not by
 what may be supposed to exist, for no sane mind, not even the
@@ -736,11 +774,13 @@ most gifted of those who have been longest engaged in the
 treatment of the insane, can imagine what extragavant vagary
 may lie concealed behind the shadowy veil of the man's out-
 ward conduct and deportment.
+
 The symptoms of melancholy are generally so clear and
 positive that it does not seem worth while to give a detailed
 statement of them ; but there are certain antecedent conditions
-leading to the disease which claim attention in order, if possible,
+leading to the diseaseclaimsh claim attention in order, if possible,
 to avert the impending trouble.
+
 In these times, when the violent and sudden changes
 in values, and the fluctuations consequent on these changes,
 require the constant and earnest attention of men of business,
@@ -751,18 +791,19 @@ prevent the injurious effect on their own daily transactions, of
 the many rapid changes which occur in the course of business
 with the strong desire to maintain their own credit, and keep
 their families happy and comfortable, act on many men by
-134 MENTAL DISORDERS.
 causing sleepless nights, a gradual diminution of appetite with
 a consequent feeling of languor and inability to give that close
 thought and application to their duties which hitherto they
 have been in the habit of doing, a depression of spirits and a
 constant foreboding and apprehension of evil.
+
 A single step only in almost all these cases is requisite to
 carry the man across the border line into melancholy, though
 many men sever the vital cord by some violent means just
 while lingering near the line, and before the family and friends
 can summon up courage to realise the situation and take the
 proper steps to prevent such an act.
+
 These antecedent conditions require all the caution, skill,
 and tact of the physician so to adapt the means for their
 relief that the progress of the disease may be stayed, and the
@@ -798,7 +839,6 @@ powers, loss of appetite, great inability to sleep, and sluggish-
 ness of all the different functions of the body.
 The condition most to be dreaded in all these cases is when
 the suicidal disposition is strongly manifested, for, while the
-MENTAL DISORDERS. 135
 idea is present to tlie mind in all cases, it is developed with
 fearful force and power in others, and then the greatest possible
 precaution and vigilance will be required at all times. When
@@ -811,6 +851,7 @@ singular inconsistency is constantly manifested of the constant
 fear of death and the torments they believe they will suffer after
 death, and the continual effort to rush into that very state they
 so much dread.
+
 It is very often stated, when inquiry is made into the cause
 of melancholy, that the condition has been induced by too great
 reading of religious books, or too constant attendance on reli-
@@ -832,6 +873,7 @@ relieve the disordered system, and something to give sound
 sleep for several successive nights, would sooner dissipate all the
 fears and clear the mind and enable the person to see things
 clearly.
+
 Very many cases of religious melancholy occur in those who
 have led most correct and religious lives, who are scrupulously
 exact in the discharge of all their duties, and in whom no one
@@ -841,11 +883,11 @@ unusual strain, and the person hopes by more strict attention
 to religious matters to relieve the uncomfortable condition,
 when, in reality, what is particularly needed is rest and nourish-
 ment.
+
 There is a form of acute melancholy which is not common,
 but on that account, and also because of its rapid course, needs
 to be more carefully examined. In connection with the dis-
 tressed ideas and great depression of mind, there is a peculiar
-136 MENTAL DISORDERS.
 duskiness of tlie countenance, often a suffused condition of the
 eyes, and frequent disposition to weep ; a frequent and languid
 pulse, and a languid capillary circulation; a clamminess of the
@@ -855,6 +897,7 @@ and great physical debility, which give warning of a tendency
 to pulmonary troubles, and unless proper attention is given in
 the early stages to such cases, they very rapidly run into pul-
 monary consumption.
+
 It may not be amiss here to state that in many cases of
 melancholy phthisis is developed in a very insidious manner,
 so that, before any one suspects the true nature of the case, the
@@ -874,6 +917,7 @@ as much from them." What they need will be a few words of
 kindly sympathy, pleasantly and cheerily expressed, and the
 assurance that everything will be done to relieve them and make
 them more comfortable.
+
 Though dementia is usually regarded as the termination of
 every class of mental disorders which does not yield to restora-
 tive treatment, there is an acute form of the disease which
@@ -892,7 +936,6 @@ classes nearly every case will partake of this character and render
 it extremely difficult to form an opinion as to the ultimate
 result of the case, for, while this periodicity complicates the case
 and leads to the belief that no restoration will be effected, there
-MENTAL DISORDERS. 137
 are those in whom this condition gradually wears off and the
 patient recovers entirely.
 The lesson to be drawn from these facts is to exercise
@@ -901,6 +944,7 @@ case, for it has been the experience of every superintendent of a
 hospital for the insane to have had his predictions frequently
 falsified both in regard to restorations promised and unfavourable
 results anticipated.
+
 Two principles must be constantly kept in mind in the
 treatment of the different forms of mental disorder, as well as
 in all nervous diseases: to secure ample rest and to administer
@@ -920,6 +964,7 @@ been injured by overstrain of some kind, and what is essentially
 requisite to enable it to regain its healthy action is rest, absolute
 rest for a time, and then alternating with exercise very care-
 fully graduated and regulated.
+
 Every one will admit, that in order to relieve and restore
 speedily a sprained limb, it should be kept quiet as possible; if the
 eye is injured by too steady work too long continued, or by the
@@ -933,23 +978,25 @@ nerve power is so much injured as to show decided symptoms
 of disease, it is only reasonable and right to enforce rest, so
 that the loss of power and the waste may be reduced to the
 minimum.
+
 The same principle must also be insisted on in regard to the
 mind when in any way or from any cause disordered in its action ;
 constant exercise of any kind will only tend to increase the
 condition on which the disorder depends, for as every act of the
 mind involves the waste and decay of the cells of the brain by
 which the manifestations are made known to us, it must be
-138 MENTAL DISORDERS.
 clear that in a part already weakened, continued exercise will
 only further impair its power, and the more positive the enforce-
 ment of rest, the less will be the loss of power and the better the
 prospect of restoration.
+
 Then having insisted on and practised rest, it is as needful
 that the loss of power and the waste be supplied by the regular
 and systematic administration of good substantial nourish-
 ment, and, if the powers of assimilation are much impaired, the
 proper remedies must be given to restore them to their normal
 action.
+
 It is too common to give weak broths and such dilutions to
 persons suffering from languor and lassitude, or even to those in
 a more excited state. What is really needed is some more
@@ -964,6 +1011,7 @@ preferable and desirable to insist on the rule, a little and often,
 than to keep on filling the stomach with a quantity of watery
 material with an almost infinitesimal amount of nutritive
 matter in it.
+
 In cases of acute mania, as a rule, the appetite is good and
 often ravenous to supply the demand consequent on the great
 physical exercise ; but in those suffering from melancholy, the
@@ -971,6 +1019,7 @@ desire for food is often, and indeed generally, very slight, and
 they require to be carefully watched to prevent their neglect
 and refusal of such food as may be really needed for their
 support.
+
 The primary indication in the treatment of mental disorders
 is to correct the diseased or disordered condition on which the
 irregular action depends. The causes inducing that disordered
@@ -986,19 +1035,20 @@ consequent irregular action of the more important viscera.
 Belonging to the class of middle age physic, cautious and con-
 servative, I have never yet been able to see the force of the
 reasoning which would discard the discreet and moderate use of
-MENTAL DISORDERS. 139
 calomel, and I am confident that, in many persons, the disease
 lias been shortened and restoration more promptly promoted
 than if it had not been used. I do not profess to explain its
 physiological action, but from an experience of a third of a
 century, confidence in its therapeutic benefit is strengthened,
 not diminished.
+
 Commencing the treatment with six grains of calomel and
 ten grains of Dover's powder at night, followed by castor oil,
 or some other medicine calculated to produce a free but not
 exhausting catharsis, the system is prepared for whatever
 treatment may be most clearly indicated by the symptoms
 presented.
+
 Every case must be carefully studied by itself, and no
 system of treatment can be laid down which will meet all the
 varying symptoms presented by different cases; but a little
@@ -1013,12 +1063,14 @@ agree another may be tried and then another, and, given in
 combination with extract, byoscyami, some one of the prepara-
 tions will often be more readily borne, and appear to act more
 satisfactorily than by itself.
+
 If there is decided contraction of the pupils, with a dry and
 parched condition of the tongue and fauces, the medicine does
 not agree, and must be stopped, but often there is a very dry
 state of the tongue, caused by constant talking, and little effect
 011 the pupils, and this state may readily be removed by drink-
 ing some water.
+
 O ? ?
 The regular administration of the preparations of opium
 has a tendency in many persons to produce constipation, which
@@ -1035,7 +1087,7 @@ cases of insomnia accompanying mental disorders, and the large
 doses required often derange the stomach and produce bromisin,
 the effects of which are very depressing and troublesome to
 relieve.
-X40 MENTAL DISORDERS.
+
 Convinced that chloral hydrate is a remedy which requires
 to be used in a very cautious manner, and that the bad effects
 attributed to it arise from the large doses in which it is often
@@ -1043,6 +1095,7 @@ given, it will naturally be inferred that I would recommend its
 use only in moderate doses of fifteen to twenty grains, repeated
 if required at intervals of two hours, until the desired effect is
 produced.
+
 The combination of chloral hydrate and bromide of potas-
 sium is often found beneficial in cases of great restlessness and
 fretfulness; and when a more permanent effect is desired a small
@@ -1056,6 +1109,7 @@ another; or if one preparation of iron has been given, it would
 be found most advantageous to change it for another after a
 few weeks' use, and not continue the use of any one form more
 than a few weeks at a time.
+
 There are certain cases of high maniacal excitement, par-
 ticularly in asthenic cases, where none of the usual anodynes
 appear to do any good, and where sleep can be readily induced
@@ -1071,6 +1125,7 @@ patient to know what lie is taking. In conjunction with the
 medical means, strict attention must be given to the regular and
 systematic administration of food, so as to support the strength
 and prevent exhaustion from the excitement.
+
 In cases of exhaustive mania, the safest and best treatment
 after the preliminary course recommended, will be the exhibition
 of half-ounce or ounce doses, according to the violence of the
@@ -1082,7 +1137,6 @@ for nearly a day, thus reducing the pulse from 120 to 80, and
 bringing on quiet refreshing sleep, and ultimate restoration.
 In epileptic mania, the only medicine which seems to control
 the high nervous excitement is bromide ol potassium, regularly
-MENTAL DISORDERS. 141
 and perseveringly given in small doses from day to day, and
 from month to month, with special care to prevent constipation,
 and, if possible, a milk diet morning and evening and a small
@@ -1098,6 +1152,7 @@ tion. There is such an infinite diversity in the appearances and
 conduct that no rule can be laid down for particular guidance,
 but the physician must study each case by itself and learn how
 to meet the indications presented.
+
 The most troublesome symptom in melancholia is sleepless-
 ness, and to remove this will require all the tact and ability of
 the physician in the administration of the different form of
@@ -1112,6 +1167,7 @@ positively that they have given Tip all idea of such a thing and
 ask to be left alone; and many cases succeed in their plans by
 some plausible pretext by which they throw the attendant
 entirely off his guard.
+
 Cases of monomania have generally assumed such a character
 when the family are willing to consult the physician that
 medical treatment cannot be attempted with any hopes of
@@ -1124,12 +1180,13 @@ when the disease has assumed a violent form, or has become
 intractable and troublesome to the family, that the necessity
 arises for removing the patient from the family to the care of a
 hospital.
+
 In acute dementia the difficulty of administering food and
 medicine is so great, and the care in other respects so trying and
 wearinf, that the friends soon see the necessity of placing the
 patient in some hospital for the insane.
+
 It is a duty incumbent on the physician to impress upon
-142 MENTAL DISORDERS.
 the minds of every family in which he may be called to treat
 an insane person the fact that mental disorders will, as a rule,
 require considerable time in the treatment before any decided
@@ -1142,6 +1199,7 @@ but these are very exceptional cases, and it is always to be
 apprehended where the attack passes off suddenly that another
 outbreak of greater violence and longer continuance will follow
 in a few weeks.
+
 Every physician should impress on those who have occasion
 to place a member of the family in a hospital for the insane,
 that, having shown confidence in the physician of the hospital
@@ -1168,6 +1226,7 @@ them to reach a correct conclusion than the passionate appeals
 of one just recovering from a serious disorder, and whose
 brain and nervous system have not yet acquired their full
 healthy operation.
+
 The question of the removal of a patient from home and
 friends to a hospital and the care of strangers is surrounded
 with so many considerations involving the welfare and happi-
@@ -1176,7 +1235,6 @@ to lay down any rules to which many exceptions may not be
 taken; but when the necessity does arise?and that period is
 generally much earlier than the friends are willing to act?the
 sooner the decision is reached and carried into effect the better
-MENTAL DISORDERS. 143
 for the patient and the family. It is always far better to be
 frank and honest with a patient when it has been decided to
 send him to a hospital, and tell him the plain truth of what

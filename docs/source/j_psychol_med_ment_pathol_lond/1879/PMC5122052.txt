@@ -3,8 +3,9 @@ Mental Responsibility and the Diagnosis of Insanity in Criminal Cases
 
 225
 Art. IV.?
-Br EDWARD C. MANN, M.D.
+:Author: Edward C. Mann, M.D.
 Superintendent Sunnyside Medical Retreat for Mental and Nervous Diseases.
+
 At the present day medico-legal cases are becoming very
 frequent, in which it is necessary to ascertain as to the insanity
 of a person accused of a criminal act, in its relation to his civil
@@ -40,7 +41,7 @@ to induce and multiply nervous diseases, many of which must
 terminate in insanity. These causes, and the evils resulting from
 them, are propagated by the laws of inheritance in an aggravated
 Head before the New York Medico-Legal Society.
-226 MENTAL RESPONSIBILITY AND TIIE DIAGNOSIS OF
+
 and intensified form. Insanity is also appearing- gradually at
 an earlier age than formerly. In former years the average period
 at which the greatest number became insane, ranged between
@@ -68,6 +69,7 @@ and the love of enjoyment are impulses which, when combined,
 lead especially to crime?when the ethic constitution or develop-
 ment is wanting which is necessary to the foundation of a power-
 ful feeling of what is right.
+
 A further fundamental element, which stands in psycho-
 physical contrast to dislike of work, is an excessive physical
 consciousness of strength, which leads to arrogance, and thereby
@@ -87,7 +89,6 @@ they relapse again, which relapse is unanimously attributed by
 them to an irresistible impulse. This state of moral epilepsy
 is of great significance in the psychology of crime, as a physio-
 ogist is led to institute a comparison between such cases and
-INSANITY IN CRIMINAL CASES. 227
 several states of disease, in which a peculiar type is observable,
 consisting in the fact that attacks of illness of more or less
 duration alternate with more or less long, and generally for a
@@ -134,7 +135,6 @@ between right and wrong at the time of, and with regard to the
 particular act for which he is on trial, in order to render him re-
 sponsible, and this test has been preserved to the present time. In
 the early history of our own country, the same barbarism in the
-228 MENTAL RESPONSIBILITY AND TIIE DIAGNOSIS OF
 treatment of the insane prevailed which darkens the pages of
 English history. In Governor Winthrop's History of New Eng-
 land, the case of Dorothy Dalbye is mentioned. She was exe-
@@ -180,8 +180,8 @@ not at all uncommon, serve to show what fearful injustice may
 be done under the name of justice, when the conclusion is based
 upon a metaphysical test which is proved by medical observa-
 tion to be false in its application to the unsound mind.
+
 lhere is still another form of insanity denominated " moral
-INSANITY" IN CRIMINAL CASES. 229
 insanity," in which the intellectual faculties are intact, no delu-
 sions or hallucinations existing, but where the moral sense seems
 utterly obliterated. Such persons have no true moral feeling
@@ -227,10 +227,7 @@ history, then into any predisposing causes ot insanity, such as
 intemperance, vocation, habit, &c., which may have operated in
 the production of insanity. Also as to injuries of the head or
 spine which may have occurred, sunstroke, &c. The nervous
-system should then be examined for the existence of any such
-TAUT II. VOL. V. NEW SERIES. R
-230 MENTAL RESPONSIBILITY AND THE DIAGNOSIS OF
-diseases as paralysis, epilepsy, catalepsy, or hysteria. The
+system should then be examined for the existence of any such diseases as paralysis, epilepsy, catalepsy, or hysteria. The
 different senses, beginning with sight, should be examined, and
 in this way it may be discovered if there are hallucinations or
 illusions pertaining to any of the senses. A great many cases
@@ -245,26 +242,31 @@ determined or influenced at all by insanity, and are his mental
 functions?thought, feeling, and action?so deranged, either
 together or separately, as to incapacitate him for the relations
 of life ?
+
 2. Does the prisoner come of a stock whose nervous con-
 stitution has been vitiated by some defect or ailment calculated
 to impair its efficiency or derange its operations ?
 3. Has the prisoner been noticed to display mental infirmi-
 ties or peculiarities which were due either to hereditary trans-
 mission or present mental derangement ?
+
 4. Has the prisoner the ability to control mental action,
 or has he not sufficient mental power to control the sudden
 impulses of his disordered mind, and does he act under the
 blind influence of evil impulses which he can neither regulate
 nor control ?
+
 5. Has the act been influenced at all by hereditary taint
 which has become intensified, so.that the morbid element has
 become quickened into overpowering activity, and so that the
 moral senses have been overborne by the superior force derived
 from disease ?
+
 (j. Was the act effected by or the . product of insane delu-
 sion ?
 7. "Was the act performed without adequate incentive or
 motive ?
+
 8. Does the prisoner manifest excitement or depression,
 moody, difficult temper, extraordinary proneness to jealousy and
 suspicion, a habit of unseasonably disregarding ordinary ways,
@@ -272,11 +274,11 @@ customs, and observances, an habitual extravagance of thought
 and feeling, an inability to appreciate nice moral distinctions,
 and finally, does he give way to gusts of passion and reckless
 indulgence of appetite ?
+
 Some, or all of these are found generally in connection
 with transmitted mental infirmity. It may be argued that
 these mental defects signify not mental unsoundness, but human
 imperfection. Certainly if we take these manifestations, any
-INSANITY IN CRIMINAL CASES. 231
 one of them singly and alone, we cannot claim such a one as
 invariably an indication of insanity; but, on the other hand,
 under certain circumstances, each one of them may be an
@@ -309,6 +311,7 @@ racy often follows as a sequence upon disease or injury to the
 brain. A severe attack of insanity sometimes produces the
 same effect, the intellectual faculties remaining as acute as
 ever, while the moral sense becomes obliterated.
+
 When such persons are acquitted on trial of a criminal
 act on the ground of insanity, they should be remanded to
 medical custody, and should never be set at liberty until the
@@ -323,8 +326,6 @@ strain, and some unconquerable impulse seizes him, and some
 homicidal or suicidal act results to the great surprise of every-
 one. In the same manner inebriety often appears in maturity
 as a result of ill health, mental shock, &c., and it becomes an
-R 2
-232 MENTAL RESPONSIBILITY AND THE DIAGNOSIS OF
 interesting question as to the degree of moral and criminal
 responsibility which attaches to inebriates, as inebriety often
 depends upon an abnormal organic development of the nervous
@@ -348,6 +349,7 @@ transition occurs in the completion of the act of violence.
 There is an instantaneous abeyance of judgment and reason
 during which period the person is actuated by mad and uncon-
 querable impulses.
+
 We will consider, finally, the medico-legal importance of
 epileptiform attacks, which may be partial in character, and
 which may not reach convulsive activity except so far as the
@@ -371,7 +373,6 @@ state of " moral epilepsy" is a morbid affection of the mind
 centres, which destroys the healthy co-ordination of ideas, and
 occasions a spasmodic or convulsive mental action. The will
 cannot always restrain, however much it may strive to do so, a
-INSANITY IN CRIMINAL CASES. 233
 morbid idea which has reached a convulsive activity, although
 there may be all the while a clear consciousness of its morbid
 nature. The case just referred to had complained of pains in
@@ -418,9 +419,9 @@ plete epileptiform attacks, where there were no convulsions, and
 where there was no complete loss of consciousness. I have noticed
 in such cases either a momentary terror, slight incoherence, a
 gust of passion, or a mental blank, the patient perhaps stopping
-234 MENTAL RESPONSIBILITY, ETC.
 in the middle of a sentence. The patient would then be him-
 self again, quite unconscious of what had happened to him.
+
 Accompanying this confusion of ideas may be, as I have
 remarked, instantaneous impulses, either of a suicidal or
 homicidal nature. Owing to the writings of Hughlings-Jackson,

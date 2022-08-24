@@ -7,7 +7,8 @@ Art. VIII.?1
 (Translated, condensed, and slightly altered from the Report of Debates in the Society Medico-
 Psychologiques, Paris, on a Paper by M. Jules Falret, in the numbers of the " Annales Medico-
 Psychologiques," May and July 1876.)
-BY M. LEGKAND DU SAULLE.
+:Author:  M. Legkand du Saulle.
+
 A new question has been submitted to our society. Do there
 exist physical signs of la Folie Raisonnante, and how can we
 determine them ? Besides the intellectual peculiarities of this
@@ -32,6 +33,7 @@ asylum for observation and restoration. The dwelling and due
 sphere of psychology ought not to be in our libraries and anti-
 quarian museums, but in the wards of our hospitals and at the
 bedside.
+
 It is, then, essential in all inquiries as to mental conditions,
 and especially into that of Folie Raisonnante, mania without
 delirium, moral insanity, or derangement manifested in act,
@@ -41,12 +43,12 @@ principal crises or constitutional changes are as follows : Puberty,
 and the mental states associated with it; anomalies in the
 development of the organs, and of the feelings connected with
 virility; cerebral symptoms indicative of congestion and hseraor-
-318 PHYSICAL SIGNS OF REASONING MADNESS.
 rhage?conditions which continue throughout and close the life
 of the patient. Such are the grand categories or epochs con-
 nected with the manifestations of the mental conditions of
 which we treat; but to enter upon a more detailed exposition
 of the characteristics of them.
+
 1st. The cranium is very frequently malformed. Micro-
 cephalism exists only in a few cases, but in many there is great
 irregularity of the surface, prominences, depressions, ridges, on
@@ -77,6 +79,7 @@ or other of these indications may be detected in every patient
 of this class, and it seems expedient that they should be associated
 with the clinical and mental symptoms as highly significative
 in framing a diagnosis.
+
 2nd. Mental disturbance at puberty. This period is, in
 accordance with the confessions of the sufferers, pregnant with
 perils and disorder, and, in despite of all resources, may even-
@@ -88,7 +91,6 @@ habitual temperance, dethrone reason and simulate the first
 stages of drunkenness. Chlorosis, amennorhoea, hysteria, ten-
 dency to syncope, feeling of suffocation, lachrymoseness, catalepsy,
 chorea, somnambulism, and all the signs of the minor neuroses
-PHYSICAL SIGNS OF REASONING MADNESS. 319
 widening into abstinence, mysticism, and even into mild mania
 or melancholy, are one or all encountered among females. Boys
 of from 12 to 16, if removed from their native mountains,
@@ -98,6 +100,7 @@ under the charge of the police, labouring under diseases con-
 tracted from the most degraded or abominable practices. The
 close of such a morbid career is either the galleys or the guillo-
 tine.
+
 N.B.?In towns children of this type are choreic, somnam-
 bulic, erotic, pietistic, or victims of persecution. If affluent they
 are slaves to hypochondriasis and crime. I might quote a case of
@@ -135,10 +138,10 @@ ambitious of distinction without the power of obtaining any
 eminence except that of extravagance and infamy, they combine
 a group of pernicious qualities which constitute them the dis-
 turbers and contaminators of all with whom they come into
-320 PHYSICAL SIGNS OF REASONING MADNESS.
 contact. They are in fact the dangerous classes of society, the
 material out of which waifs and strays, conspirators, criminals,
 visionaries, and speculators are formed.
+
 3rd. The absence of the organs and of the passions and
 functions which constitute and characterise the respective sexes.
 In this category there may either be absolute hermaphro-
@@ -164,6 +167,7 @@ volting colours of the picture. The nature of such atrocitiek
 may, however, be conjectured from the fact that in some cases
 the only betrayal of morbidity in Eeasoning Madmen has been
 cohabitation with the dead.
+
 4th. Congestive attacks. An example of an approximation
 to Folie Eaisonnante may be found in the temporary arrest-
 ment of the mental symptoms in General Paralysis and by such
@@ -182,7 +186,6 @@ diagnosis, and that extreme caution should be exercised in
 speaking of the future or ultimate issue of the disease. The
 divergence and absolute contrariety of opinion between medical
 men may be understood and illustrated by supposing that they
-PHYSICAL SIGNS OF REASONING MADNESS. 321
 have examined a patient during and subsequently to the presence
 of congestion, a favourable opinion being countenanced by the
 intermission of all affections of reason, speech, voluntary motions ;
@@ -215,6 +218,7 @@ twenty years he had been subject to cerebral congestion, un-
 attended with convulsion or loss of consciousness, but that, not-
 withstanding the temporary suspension of consciousness, he could
 not be treated or confined as insane.
+
 N.B.?In 1874 his conversation became unconnected, incon-
 sequent and paradoxical, embracing asseverations of his perfect
 sanity, elevated genius, his achievements in California, his aban-
@@ -229,10 +233,10 @@ trammels of his family, he resided with an old servant in the
 suburbs, frequently visiting Paris, but forgetting to return.
 Found insensible in the streets, he is taken to a public hospital,
 and again taken home. His disease now assumed the form of
-322 PHYSICAL SIGNS OF REASONING MADNESS.
 epilepsy, when he was placed in a private asylum, where, after
 a partial restoration, he dies suddenly, apparently from apoplexy,
 and it is inferred from hogmorrliage of the bulb.
+
 The author concludes that, independently of mental signs,
 there may be always detected physical symptoms in reasoning
 madmen. 2ndly. A retrospect of the history of persons thus
@@ -262,6 +266,7 @@ dislike home, repose, occupation; but, although displaying
 innumerable manifestations of mental disorder and unhealth,
 some of which are of great gravity, the malady never seems to
 shorten life.
+
 N.B.?Stachiomania, as it may be called, may occur at all
 ages from youth to manhood, but is not infallibly hereditary, even
 when accompanied by physical conditions ; yet remains doubtful
@@ -273,12 +278,13 @@ reasoning madness as a distinct species are common to other
 minor neuroses; and that these indications are compatible with
 the aspect of health, longevity, and even with the preservation
 of the logical faculty.
+
 M. Delasiauve chiefly insisted that this class of diseases may
 originate without any hereditary taint; that physical deformities
 may suggest emotions which terminate in and are the causes of
-PHYSICAL SIGNS OF REASONING MADNESS. 323
 insanity, and that many patients were perfectly conscious of the
 mental confusion or perversion under which they laboured.
+
 M. Billod preferred to designate the physical states
 enumerated as signs in, but not of, Reasoning Madness ; a course
 which would exclude the error of electing the disease into a
@@ -302,9 +308,11 @@ such signs and Reasoning Madness ; so that the definition
 observed. The latter designation may be preferable, as idiocy
 and other forms of degeneration are included in the physical
 symptomatology described.
+
 M. Lunier conceived that the indications of hereditary pre-
 disposition or degeneracy had been confounded with the signs
 of Reasoning Madness.
+
 [Note.?We conceive that among British alienists there would
 be a general concurrence in the views expressed by M. Billod,
 that the physical signs insisted upon should be ranked as coin-

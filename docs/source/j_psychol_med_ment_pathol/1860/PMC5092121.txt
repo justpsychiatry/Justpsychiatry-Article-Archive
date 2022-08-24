@@ -7,11 +7,13 @@ PSYCHOLOGICAL MEDICINE
 AND
 MENTAL PATHOLOGY.
 JULY 1, 1860.
-/
-Art. IBY J. PARIGOT, M.D.,
+Art.I 
+:Author: J. PARIGOT, M.D.,
+
 Honorary Professor in the University, and Member of the Committee of Inspectors of Lunatic
 Asylums of the arrondissement of Brussels, &c.
 (Written expressly for this Journal.)
+
 " We should like to see the experiment tried in some new district of producing
 in its integrity the Belgian system."?Quarterly Review, 1857.
 A wide difference of opinion exists amongst alienist physicians
@@ -38,8 +40,6 @@ towards the solution of the important question of the best method of nr vr
 additional accommodation for lunatics; and we would refer to a m J
 this system, suggested by the Scotch Commissioners in Lunacy in thiSo""1 ?f
 Annual Report, and detailed in a subsequent page of this Journal ? Ed
-NO. XIX.?NEW SERIES. U
-278 ON THE REFORM OF LUNATIC ASYLUMS.
 by the civilization of manners; let us hope then that our eyes
 may be opened with reference to this point in the moral history
 of humanity, at the very earliest possible moment.
@@ -48,6 +48,7 @@ hygiene, and to render the lot of the insane more bearable; we
 must cure as quickly as possible the curable (as the Father of
 Medicine enjoined), and we must not put the incurable to needless
 pain.
+
 Unhappily the actual state of things gives rise to great difficulties, for at the same time that the growth of a miserable and
 ignorant population causes mental disorders to increase, it everywhere results that considerable capital is sunk both in public and
 private speculation for lodging and taking charge of the insane.
@@ -55,6 +56,7 @@ But is it necessary that we should delay our search for a
 remedy, which we know to be needed, until by an excess of
 misery and the results of our own carelessness, the eyes of the
 public are opened ?
+
 For more than fifty years the countries most advanced in what
 may be called plastic civilization?that which has taught us to
 construct and to manufacture, but finds us still desiring somewhat, which on being applied to the science of humanity, shall
@@ -74,6 +76,7 @@ life ; but so long as we are content to seek palliatives in order to
 render the effects of our neglect less sensible, we must expect
 difficulties which science can foresee, though it is without the
 means of combating them with advantage.
+
 In the present day we build asylums everywhere ; masonry is
 the fashion ; every province in Belgium, every county in England,
 and every department in France, it is said, should possess this
@@ -83,13 +86,12 @@ for these very honourable men, habituated to magisterial functions,
 find nothing of greater efficacy to meet every contingency, and the
 horizon of their ideas appears to be bounded by a desire to possess
 greater asylums for the restraint of madness. But as we already
-r
-ON THE REFORM OF LUNATIC ASYLUMS. 279
 have hospitals for every corporeal infirmity, and as we conlcl not
 immure all that are afflicted, since the incumbrance would at once
 imperil the public health and the funds at our disposal, the
 question regarding the reform of our asylums has naturally become the order of the day, and so will remain until a satisfactory
 solution be arrived at.
+
 More than thirty years ago physicians of high repute, such as
 Esquirol, and Moreau of Tours, convinced of the necessity of
 continuing the reforms commenced before their day, proposed
@@ -106,6 +108,7 @@ reprobation with which insanity is most commonly regarded, and
 the attainment of a twofold action of benevolence and mutual
 moralization between the patients and those who attend upon
 them.
+
 If all this be possible, why is the establishment of similar
 institutions in other countries still delayed ?
 We will state frankly what are our ideas upon this subject.
@@ -128,14 +131,13 @@ unreasonable to expect that every one should feel himself equally
 called upon or disposed to imitate the self-devotion and personal
 sacrifice of those physicians who strive for reform against their
 own interests. But, finally, there lives under shelter of the reputation of the conscientious men of whom we have spoken, the
-U 2
-280 ON THE REFORM OF LUNATIC ASYLUMS.
 mass of speculators and traffickers in madness who, in countries
 where there are laws for the protection of the insane, only do
 what is strictly required in order to escape blame, yet who in
 everything else, or on favourable occasions, only seek to retain
 captive unfortunate beings whom, most frequently, unnatural
 relations, from disgraceful motives, wish to get rid of.
+
 It is true that in the abandonment and neglect of the insane
 we must recognise shades and gradations: the patient is no
 longer beaten nor injured ; he has all that is indispensable, and
@@ -148,6 +150,7 @@ will be easily understood that a reform which is to change the
 whole face of things will have to suffer delay; but in sounding
 the evil the conviction forces itself upon the mind that the desired
 victory will ultimately be achieved.
+
 There are then two chief obstacles to success,?particular interests coalescing against the public good, and a general indifference of public opinion towards the malady, notwithstanding that
 it so often attacks men distinguished in all branches of intellectual
 activity, those whose sensibility is too strongly developed, and
@@ -171,7 +174,6 @@ religious corporations, to whom the undertaking has been entrusted. Assuming the
 idea is placed in the second rank, and that the requirements of
 the system are satisfied, still the accumulation of patients is an
 obstacle in the way of good treatment. But besides this, a contempt of science, and personal interest, insensibly lead to the same
-ON THE REFORM OF LUNATIC ASYLUMS. 281
 result. How can we expect that a physician, to whom is denied
 pecuniary means and the time necessary to profound study,
 should maintain the unequal conflict ? Again, governors and
@@ -186,6 +188,7 @@ physician to undertake the care of hundreds of patients at a low
 remuneration. Such being the system, saving the exceptions
 which we have referred to, one can understand without difficulty
 why cures are rare and asylums so well filled.
+
 The reform system proposes on the contrary a complete medical
 treatment,?that is to say, it embraces all the means, moral and
 physical, which address our double nature. Its sole object is to
@@ -204,6 +207,7 @@ of his acts. It is, so to speak, by a moral tour cle force before the
 eyes of those who can only recognise brute matter, that this system
 commences a medication of the man afflicted, as Lord Byron says,
 from on high.
+
 It will be readily understood that no importance attaches to
 the name of a system having this end, and which may be adapted
 to countries of different climates and manners; but as this system
@@ -229,6 +233,7 @@ we should be compelled to reply that the Gheeloise Colony
 approaches the ideal without attaining it; but we hope that, with
 the concurrence of its present chief physician, the reforms commenced there ten years ago will be continued until they be
 realized.
+
 Finally, it appears to us that the question of reform is so
 urgent that the non-medical public ought also to be consulted
 upon the subject. Res sua agitur; independently of its direct
@@ -236,11 +241,13 @@ interest in the matter, the public can very well judge of the
 practical bearings of the subject, as, for example, which system is
 the simpler and the less painful; bearing witness at the same
 time to that which effects the quickest cures.
+
 In the elucidations which we offer in this paper, we shall
 endeavour to be as impartial as possible ; and although it be
 written in favour of reform, and owes its birth to a controversy
 raised against us in Germany and in England, we have been
 moved by a sole regard for the interest of truth.
+
 I. After what has been stated above, it will be easily foreseen
 that those physicians who are in favour of restraint will contend,
 that a house in which life is subject every instant to rule and
@@ -265,7 +272,6 @@ moral commotion by instituting a rational treatment, to which most
 commonly the patient or his family were opposed. But it is not
 this which, in aid of their cause, the advocates of restraint find it
 necessary to maintain ; taking their stand upon the letter of the
-ON THE REFORM OF LUNATIC ASYLUMS. 283
 aphorism, they pretend that the walls surrounding an asylum
 possess some mysterious therapeutical action, and they allege, as
 has been recently stated with reference to an architectural competition for the plan of an asylum near Madrid, that curative
@@ -281,6 +287,7 @@ best but to render life more endurable to the prisoner, and that
 is all; the psychopathist worthy of the name rarely finds himself
 obliged to use as a therapeutic measure the wearisome and
 painful expedient of four walls.
+
 Thousands of plans have been produced in the search for the
 x of this much desired classification ; all the asylums in Europe
 have been visited and studied by a mass of travelling psycbopathists in search of its traces and therapeutic signification, amidst
@@ -295,6 +302,7 @@ are able to estimate these), and provided that order reigns, and
 a physician visits twice a day the halls, warming-places (cliauffoirs),
 or workshops, it is considered that all has been done that can be
 to obtain the cure of the insane.
+
 The time approaches when such exaggerations will be abandoned ; it will ultimately be understood that isolation ought not
 to be confounded with imprisonment; true it is that we must separate the patient from the circumstances which have led to or have
 witnessed the commencement of his madness, but it is clear as
@@ -305,8 +313,6 @@ the pretexts invented for it; the head of the family with whom
 he is placed, treating him well, the salutary effect of isolation is
 obtained without violence, and above all without risk of exciting
 a patient who has need of repose.
-* Des articles d' alienes en Espagne. Paris. 1859.
-284' ON THE REFORM OF LUNATIC ASYLUMS.
 The partisans of restraint have, at various times, attempted to
 make it appear, that personal liberty is both hurtful to the
 patients and fatal to those by whom they are surrounded, and that
@@ -346,7 +352,6 @@ melancholies of perverse sentiments, idiots of criminal or scandalous tendency, 
 cellular confinement, they permit it only for a very short time ;
 lastly, they agree that restraint, whether mechanical or moral,
 debases the patient in his own eyes, and they think that recourse
-ON THE REFORM OF LUNATIC ASYLUMS. 285
 should rarely be had to it. The English system of non-restraint
 probably owes its origin to a repugnance to violent means.
 Although difficult in its application, it may be said to have
@@ -371,6 +376,7 @@ of the will, and detained against their protestations in what they
 call their prison ; indeed it will be allowed that there is a kind of
 antithesis in giving liberty to a number of lunatics, forcibly
 kept together within restricted limits.
+
 It appears to us that non-restraint under the old system is the
 negation of a physical evil, the name indicates this ; whilst in a
 more advanced stage it becomes, as applied in a family, the affirmation of a moral well-being which permits madness to be dealt
@@ -387,11 +393,11 @@ with an accidental visit from a physician; but it is evident that
 the reform has only one more step to make to establish itself
 definitely in a country where the practical view of everything is
 eminently developed.
+
 II. Actuated by a very praiseworthy feeling, Dr Roller, one of
 the most distinguished savants in Germany, senior physician to
 the lllenau asylum, in the Grand Duchy of Baden, lately proposed a modification of the " free-air" system. In an article in
 the Allgemeine Zeitsclirift fur Psychiatrie, and on the occasion of
-286 ON THE REFORM OF LUNATIC ASYLUMS.
 a bibliographic review of a memoir of Gheel, by M. Duval of
 Paris, inserted in the Revue cles deux Moncles, be observes that
 the existence of a free colony, dating several centuries back,
@@ -412,6 +418,7 @@ colonies having become a necessity, let the asylum be central, let
 it be the therapeutic centre, which every one will approve of; the
 name matters nothing, and the method proposed is perfectly
 acceptable.
+
 If M. Roller had paid Gheel a visit, instead of contenting
 himself with descriptions and reports, perhaps his opinion of the
 value of this colony would have been different. Thus, this distinguished man thinks there is an opposition between ideas and
@@ -434,10 +441,10 @@ that the colony has assembled several hundreds of thousands of
 invalids ? Certainly not. Up to the present time the archives
 report two crimes against the life of the individual; has crime
 never been committed in a closed asylum ?
+
 We are far from hiding the disgust with which the rape of a
 female lunatic inspires us (whether committed with or without
 her consent, is of no consequence?it is a crime), but, among four
-ON THE REFORM OF LUNATIC ASYLUMS. 287
 hundred or five hundred women, there are some hysterical patients
 who manage to elude vigilance even in an enclosed asylum, mucli
 more in a colony; and at Gheel, this crime is certainly very rare.
@@ -460,6 +467,7 @@ the financial side of the question at issue between the asylum
 conservatives and the partisans of reform, for there is a law of
 economy in psychology which says : " There is no treatment more
 exjjensive than that which does not cure!'
+
 The public, like government, look for establishments which
 charge at the lowest possible rate for the keep of lunatics. True,
 little is paid ; but the patient most frequently remains there all
@@ -481,7 +489,7 @@ may leave after him a school; this man, eminent in science, must
 of necessity, as he grows old, slacken his work; and when he is
 lost, it would be a disaster to science and the country that there
 should be no one fit to take his place.
-288 ON THE REFORM OF LUNATIC ASYLUMS.
+
 We know that tlie partisans of the old system ask for grand
 buildings : but at what cost ? Millions are fixed in bricks and
 mortar. If the establishment prospers, it must be enlarged?
@@ -489,6 +497,7 @@ here are new difficulties. A German alienist physician lately proposed to constr
 the country should form, so to speak, stations of disease, through
 which a patient would successively have to pass before reaching
 the end of his troubles.
+
 Indeed, the building of palaces " sorrowfully magnificent,"
 as the Lancet says, has already cost many millions in Europe.
 Next comes the classification, which requires a repetition of
@@ -509,6 +518,7 @@ to which he puts it. An infirmary, containing chiefly bathing
 rooms, rooms devoted to surgery and medicine, and a chapel, and
 small offices for the use of a whole population, would not probably
 equal the cost of an ordinary asylym.
+
 But when an asylum has its complement of patients, and a new
 case arrives, what a fix the managers are in! They are as much
 embarrassed by this new arrival as if there were no asylum at all.
@@ -526,7 +536,6 @@ to four patients, without reckoning the keeper's family. The real
 advantage which the asylums have over the colonies consists in
 the possibility of organizing the work in the former; there are
 all the necessary means for compelling each one to work. All
-ON THE REFORM OF LUNATIC ASYLUMS. 289
 kinds of things are made there; there are trades of all kinds in
 long workshops, and the various duties of the house are shared
 by the patients. Now this work has two faults in a therapeutic
@@ -542,6 +551,7 @@ execution of an unpleasant discipline. Generally, the price of
 the day's work is higher in places situated in towns; the manager
 in that case seeks to re-establish the balance according to the
 work, which is also paid in proportion.
+
 With regard to the rich, they accept work with much difficulty,
 and hence comes a life of inaction, which does them much harm.
 Shut up in an asylum, they cost less than if they were in a colony
@@ -571,8 +581,8 @@ would there be a man rich enough to procure himself such a
 means of study, discussion, and cure ? With regard to insanity,
 there is no reason why it should not be mingled with other
 ailments without detection. Three requisites are suggested :?
+
 First, country life in a thinly populated district; second, town
-290 ON THE REFORM OF LUNATIC ASYLUMS.
 life near Brussels; third, life at the seaside, of which the pure
 and bracing air is so great a help. We are convinced that lunatics
 would find in such an association a means of escaping public
@@ -593,6 +603,7 @@ unfavourable conditions. The jury should decide upon the
 greatest likelihood of recovery, the good appearance, the air of
 contentment, and the sum of happiness of each of these patients.
 1 would wager all I am worth upon Gheel, and for this reason :
+
 we know that nervous irritation or excitement among lunatics
 is principally owing to their often exquisite sensibility, and their
 almost invariably exaggerated impressionability. Now, by forcing
@@ -611,11 +622,12 @@ sitting-room, this yard, this garden surrounded by walls, form a
 kind of cage which they can only leave in an evening to regain
 their real abode, at least that abode where they experience only
 their own ennui.
+
 Well! we maintain that their aspect will be the evidence of
 what they suffer in their minds.
+
 Examine now this other lunatic, who has the enjoyment of
 free air and the possession of his own room, his own books,
-ON THE REFORM OF LUNATIC ASYLUMS. 291
 liis own tools, Lis own flowers, his own stores, &c., his home
 is decorated after his own fashion; there are often inscriptions
 or drawings on the wall which disappear only through the instrumentality of the half-yearly whitewashing. This man is
@@ -636,6 +648,7 @@ We ask whether, sanitary treatment being the same, Gheel
 would not carry off the prize? We are certain of it, because, of
 all human beings, lunatics are those who betray most irresistibly
 the emotions they undergo.
+
 Among the most determined anti-reformists, we find Dr.
 Stevens, the resident medical superintendent of St. Luke's
 Hospital, London. As far as we can recollect, Dr Stevens,
@@ -652,6 +665,7 @@ think it prudent to do so, because what constitutes the colony is
 not medical science, but faith in St. Dymphna; and that if the
 saint disappeared, or was neglected, Gheel would have no more
 cause to exist."
+
 Nothing would so much confirm Dr Stevens's conclusions as an
 assent to them by the Medical Inspector of Gheel, the very man
 whose business is the amelioration of the colony, and who performs his duty with the greatest zeal. Unfortunately, however,
@@ -659,10 +673,10 @@ Dr Bulckens affirms, and we have no difficulty in believing him,
 that he said nothing of the kind. Dr Stevens, doubtless from
 want of familiarity with the French language, has evidently misunderstood what was said to him, and even what he saw. At
 Gheel no one is exorcised; nothing of the kind has taken place for
-292 ON THE REFORM OF LUNATIC ASYLUMS.
 probably a century. Dr Stevens must have confounded exorcism
 -with the " nine days of devotion" (neuvaine), which is still,
 though rarely, held in one of the chapels.
+
 Ought not a psychopathist, with the facts before him, to give
 some better account of what has been termed blind faith and
 superstition in a saint??and can one think that it is a "relic of
@@ -691,6 +705,7 @@ creed, while he is ready enough to recognise a christian virtue,
 Charity, hidden beneath the story of the daughter of an Irish king,
 an obscure individual in a distant era, who attempted the honour
 of his child.
+
 Now, in what respect can this legend prejudice medical treatment? It is clear that the saint has deserved well of human
 nature; upon this claim, and upon the ground of respect for conviction, ought the medical man at Gheel to affect contempt for
 those who wish to have recourse to this reaction of mind over
@@ -703,12 +718,12 @@ ourselves to the study of the physical man; psychical man is not
 yet the order of the day, and the proof is that in no University of
 the State, nor even in any book, is the study of the morbid wanderings of the mind inscribed on the programme of the course.
 This study, so intimately connected with lesions of the nervous
-ON THE REFORM OF LUNATIC ASYLUMS. 293
 centres, with the troubles of general sensibility, and with nervous
 diseases, is left to dreamers and psychologists, who, in their
 character of medical men, are called in England mad doctors, and
 in Germany zotten doctoren. No; St. Dymphna is not yet
 superfluous.
+
 Following an article by Dr U. Jessen, in which all the arguments against Gheel are crowned by the idea that this colony is
 a disgusting (abschrecken) example of the free-air treatment, we
 find that Dr Bucknill, relying upon the observations of Dr.
@@ -733,6 +748,7 @@ longer be able to suspect medical men (as has happened), even
 those whose reputation is best established, of making secret
 arrangements with managers of private asylums to detain in them,
 criminally, persons of sound mind.
+
 It appears (still following Dr Jessen, of Hornheim, near Kiel)
 that Dr Brown, inspector of lunatic asylums in Scotland, has
 made certain observations unfavourable to colonies. As Dr.
@@ -747,8 +763,7 @@ asylums, there would be no profit, we will reply, that this is a
 great mistake; for admitting even that the expenditure was the
 same (which is not the case, as we have shown), there would
 remain a double number of cures to the credit of free air, conjoined with the rejection of useless discomforts for the incurables.
-?NO. XIX.?NEW SERIES. X
-294 A MEDICAL PSYCHOLOGIST OF
+
 In conclusion, let us remark that all the arguments against free
 colonies depend upon our interests or our prejudices. The principle which gives rise to the supposition of their adversaries, that
 they cannot exist, is grounded upon a sophism, namely, that there
@@ -766,9 +781,11 @@ its morality. Supposing even that the Eoman or Latin race
 were depraved (as is wrongfully asserted), there are in the North
 and East .of France populations of Germanic stock who would
 suit perfectly.
+
 In Germany and England, the opposition to lunatic colonies is
 difficult to understand, for they are merely, as in Belgium, the
 reflection of German thought and Anglo-Saxon common sense.
+
 I conclude by repeating my words before the Society of
 Medical Science of Brussels, at the convocation of 1st February,
 1856:?"I acknowledge, with pain, that the name of Gheel is
@@ -779,6 +796,7 @@ words, lunacy and poverty, that causes so many to despise Gheel,
 whereas, in my estimation, from them arises its glory. Yes, gentlemen, I am convinced that Gheel fulfils a high philanthropic
 duty, and that its name will become still more illustrious in the
 records of humanity."
+
 I spoke truly, for since then Gheel has given its name and
 that of the country to a system which, on account of its
 humanity, is called " The Belgian System."

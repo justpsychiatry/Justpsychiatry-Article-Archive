@@ -1,12 +1,10 @@
 On the Pathology and Treatment Of Cerebral Disease
 =====================================================
 
-238
-2)
-\ j
 Art. III.?
 No. III.
-BY ROBERT HUNTER SEMPLE, M.D.
+:Author:  Robert Hunter Semple, M.D.
+
 Fellow of the Royal College of Physicians of London.
 In treating of so many-sided a subject as the pathology of
 cerebral disease it is impossible to adopt any definite systematic
@@ -37,15 +35,14 @@ field of cerebral pathology renouncing the opinions which they
 in former times strenuously advocated, and calling upon their
 disciples to join them in the repudiation of the doctrines which
 they themselves had inculcated.
+
 It is difficult enough to lay down any intelligible rules for
 the determination of what may be called the rough pathology
 of the cranial contents: to distinguish, for instance, the existence
 of inflammation of the membranes of the brain as contra-
 distinguished from that of the substance of the organ; to draw
 the line of demarcation between simple functional disorder of
-it. v-rv iff
-PATHOLOGY AND TREATMENT OF CEREBRAL DISEASE. 239
-the brain and the effects of organic disease; to determine the
+it.the brain and the effects of organic disease; to determine the
 indications which denote an excessive supply of blood to the
 cerebral mass, and those which point to the opposite condition.
 But it is infinitely more difficult to map out the brain, as it
@@ -53,6 +50,7 @@ were, into different limited regions, to assign to those special
 regions certain invariable functions, and to deduce from the
 details of symptoms the exact position of a given pathological
 lesion.
+
 Some general propositions as to the functions of the different
 parts of the encephalic mass are admitted, but it is extraordinary
 how few there are which are not even now the subjects of ani-
@@ -88,10 +86,10 @@ tral and upper lobes, are the portions connected with the motor
 powers, and the posterior part of the brain is especially con-
 nected with sensation. This view is, however, by no means
 universally admitted.
+
 In order to understand correctly the divisions of the brain
 as defined by the modern school of psychological anatomists, it
 is necessary to examine the organ in a different manner to that
-240 PATHOLOGY AND TREATMENT OF CEREBRAL DISEASE.
 which was until recently taught in the dissecting room. Every
 student and practitioner of medicine is of course aware of the
 obvious division of the cerebrum into two lateral hemispheres ;
@@ -120,6 +118,7 @@ Sylvius, or vice versa, and named respectively the first, second,
 and third frontal convolutions ; and the parietal, temporal, and
 occipital convolutions are likewise divided into numerically
 distinguished groups.
+
 The significance and importance of these anatomical divisions
 have been recently greatly enhanced by some striking observa-
 tions on the pathology of aphasia, first recorded by M. Broca,
@@ -143,7 +142,8 @@ drawing a line through the fissure of Sylvius obliquely back-
 wards and upwards to the extreme termination of the parieto-
 occipital fissure, all the motor region being placed by him above
 and in front of this line, and all the sensory region being behind
-and below it.*
+and below it.
+
 Adhuc sub judice lis est; and notwithstanding the high
 authority of M. Broca, and the scientific skill and trust-
 worthiness of Dr Ferrier, it would be, perhaps, premature to
@@ -159,6 +159,7 @@ announces, in his "Lectures" before the Royal College of Physi-
 cians of London, that his own previous results are fallacious, and
 that the brain acts as a whole, and not by the separate agency
 of its individual parts.
+
 Dr Brown-Sequard has at present only developed the out-
 lines of his recent views, and there may be some risk of mistak-
 ing his meaning; but, in order to avoid error, I copy almost
@@ -182,10 +183,11 @@ That the greatest variety of symptoms may proceed from a
 lesion in the same part of the brain; (7) That the lesions of
 the most various parts of the brain may give rise to the same
 symptoms ; (8) That permanent lesions may produce symptoms
+
 * " On the Localisation of the Functions of the Brain," by Dr Ferrier.
 British Medical Journal, December 19, 1874.
 t "Lectures," by Dr Brown-Sequard. Lancet, July 15, 1876.
-242 PATHOLOGY AND TREATMENT OF CEREBRAL DISEASE.
+
 by attacks just as they produce epileptiform seizures; (9) That
 symptoms may cease suddenly or rapidly, notwithstanding the
 persistence of the lesion; (10) That symptoms of brain disease
@@ -197,6 +199,7 @@ mortem examinations from my own personal experience, which
 remarkably confirm some of the above propositions, and I now
 adduce some others which more or less illustrate the truth of
 the views here and elsewhere expressed.
+
 The following is a good illustration of the statement that
 permanent disease affecting the brain may produce symptoms
 which are in their nature essentially intermittent. It is, in
@@ -205,6 +208,7 @@ internal table of the skull and exostoses of its processes; and
 it will be observed that the patient was watched for several
 years during life, and that the morbid parts were accurately
 examined after death.
+
 Case.?M. Y., set. 46, formerly a servant, was obliged to
 leave her place many years ago in consequence of frequent
 attacks of epilepsy. She was an inmate of an infirmary which I
@@ -227,6 +231,7 @@ for several years and with some advantage, but no decided im-
 provement in preventing the fits. These at last became more
 frequent and severe, symptoms of low fever supervened, and she
 sank.
+
 It should be mentioned that she was in all respects a well-
 conducted woman, had never been addicted to drink or any
 other vice, and indeed had been a domestic servant of perfectly
@@ -238,6 +243,7 @@ formed, and there was a layer of fat beneath the skin, about
 three-quarters of an inch in thickness : certainly a remarkable
 fact, considering the tenuity of her diet, which had been always
 strictly regulated.
+
 The scalp was natural. The skull externally presented no
 peculiar appearance, and I had no difficulty in sawing it through.
 On removing and examining it, however, it was found that
@@ -269,6 +275,7 @@ but otherwise it presented no peculiar appearance or alteration
 of character. The other organs of the body were examined in
 order to make the investigation complete, but no remarkable
 appearances were anywhere detected.
+
 The above case is a remarkable one, and, after long reflec-
 tion, I can come to no other conclusion than that the pathology
 was as I have stated it to be. It is, of course, remarkable that
@@ -280,7 +287,6 @@ probably the best that could have been pursued, and that any
 experimental therapeutics, either in the way of specifics or of
 great depletion, or of undue stimulation, would have been not
 only useless but very likely might have been very mischievous.
-244 PATHOLOGY AND TREATMENT OP CEREBRAL DISEASE.
 The following very curious but successful case, which I
 watched myself daily and almost hourly, and of which I made
 careful notes, is an instance of local disease of the brain, the
@@ -290,6 +296,7 @@ knew the condition of the patient long before and long after
 the attack, so that the features of the case are complete. The
 malady evidently affected the fifth pair of cerebral nerves on
 the right side.
+
 Case.?E. B., set. 54, a healthy looking woman, has gene-
 rally enjoyed good health, with the exception of suffering
 occasionally from indigestion, and once, two years ago, from
@@ -304,6 +311,7 @@ was apparent, she was merely recommended to bathe the eye
 with cold water, which, however, did not afford any relief. Since
 that time the pain has become gradually worse, and her health
 has been much impaired.
+
 The sufferings becoming now very much aggravated, a care-
 ful examination was made of the symptoms and the appearances,
 which were as follow : She complains of a shooting, throbbing,
@@ -327,7 +335,6 @@ nerve, or of any of the internal structures of the eye-ball, the
 only peculiar appearance presented by the eye being that the
 pupillary aperture is oval instead of round. This last appearance
 is no doubt due to some sympathetic affection of the lenticular
-PATHOLOGY AND TREATMENT OF CEREBRAL DISEASE. 245
 ganglion, which supplies the iris with nerves, and which, as is
 well known, receives a small nervous thread from the nasal
 branch of the first or ophthalmic division of the fifth pair.
@@ -365,6 +372,7 @@ or congestive affection within the brain affecting the origin or
 the course of the fifth pair of nerves, I ordered five grains of
 pilula hydrargyri to be taken twice a day, and an aperient
 draught every four hours containing some tartrated antimony.
+
 7 p.m. same day.?She has taken two doses of the medicine:
 the first produced no marked effect; the second excited copious
 vomiting, followed by a violent convulsive fit, attended with
@@ -374,7 +382,6 @@ the questions put to her. I could now lift up the right eyelid
 without apparently exciting any pain, but the eyeball was drawn
 in different directions by the convulsive action of the recti and
 obliqui muscles. The pupil contracted and dilated, but its
-246 PATHOLOGY AND TREATMENT OP CEREBRAL DISEASE.
 margin was irregular, assuming a somewhat triangular shape;
 pulse 100, strong and incompressible. I now bled her, and
 while the blood was being drawn she was seized with violent
@@ -413,6 +420,7 @@ hours a pill containing three grains of blue pill and two of
 calomel. In three minutes after the application of the solution
 of belladonna, as above described, the pain in the eyeball ceased,
 and she expressed it as being benumbed.
+
 Oct. 18.?Feels rather better. The fits of spasmodic ri-
 gidity occurred last night nearly every ten minutes, but they
 ceased at 1 a.m., and after that time she had some tranquil
@@ -421,9 +429,9 @@ of urine, which has deposited a copious white sediment. The
 pain in the eyeball is less: she says it is benumbed, but expo-
 sure to light gives considerable pain; there is pain in the left
 lumbar region; bowels confined; pulse 7 6, rather hard. To
-PATHOLOGY AND TREATMENT OF CEREBRAL DISEASE. 247
 have half an ounce of castor oil immediately, and to continue
 the pills of calomel and blue pill.
+
 8 p.m. same day.?Feels much better, and the pains are
 much relieved. The right eyelid can be lifted up without much
 suffering, but she cannot raise it by her own exertions. The
@@ -431,6 +439,7 @@ bowels have been opened, and the stools are copious; she has
 passed urine ; pulse 80, soft and compressible ; she is now quite
 sensible. She has had three spasmodic fits since the morning,
 but they lasted a very short time.
+
 Oct. 19.?Improving; has had no spasms since the last
 visit; has slept from two till six o'clock this morning; the pain
 in the right eyeball and eyelid is diminished, and these parts
@@ -446,6 +455,7 @@ still drawn down, and the tenderness of the eyeball remains, but
 not so remarkably as before. As her gums were sore she was
 now directed to discontinue the pills, and to take some aperient
 and diuretic medicine.
+
 Under this treatment she rapidly improved; the secretions
 became natural, the tenderness of the eyeball wholly disap-
 peared, and she regained the perfect power of raising the lid.
@@ -453,6 +463,7 @@ peared, and she regained the perfect power of raising the lid.
 I had frequent opportunities of seeing her for many months
 afterwards, she had no return of her complaint, and went on
 pursuing her ordinary avocations.
+
 I think there can be very little doubt that the above case
 was one of local disease of the brain, the locality being denoted
 by the symptoms. Whatever the malady may have been, it
@@ -468,8 +479,6 @@ by the reflex action of the spinal cord and medulla oblongata.
 That it was not mere neuralgia is, I think, proved by the
 incessant pain and tenderness of the parts supplied by the
 ophthalmic nerve, by the general course of the symptom?, and
-PART II. VOL. II.?NEW SERIES. li
-248 PATHOLOGY AND TREATMENT OP CEREBRAL DISEASE.
 by the decided benefit afforded by antiphlogistic measures. It
 could not have been a case of hysteria, the patient exhibiting
 no indications whatever of that complaint, and the malady
@@ -491,6 +500,7 @@ mation of the brain, or of those various conditions to which
 the term apoplexy is usually applied. To the pathology and
 treatment of the latter class of cases I have already briefly
 referred in former papers.
+
 There are a great number of cases more or less obscure in
 their pathology, which point to some morbid condition in the
 intracranial structures, but to which no general designation can
@@ -514,12 +524,12 @@ of the malady before beginning any decided mode of treatment,
 because the symptoms may possibly give way of themselves, and
 premature medication might unjustly arrogate to itself the be-
 neficial results which are really due to the operations of nature.
-PATHOLOGY AND TREATMENT OF CEREBRAL DISEASE. 249
 This rule, it will be seen, was observed by me in the second case
 recorded in this paper, for the patient was carefully watched for
 six weeks, and decisive treatment was not commenced until the
 symptoms were so severe and so well marked as to call im-
 peratively for active interference.
+
 The theory of localisation of function in the brain, whether
 true or false, does not throw much light upon, or lead to much
 practical benefit in, the treatment of cerebral diseases. In ma-
@@ -560,9 +570,8 @@ patient himself, but in many others it has been inherited by
 him from his ancestors, even a generation sometimes intervening
 between the original taint and its repetition in the person of
 the grandchild.
+
 Without going to the extreme lengths advocated by some
-K 2
-250 PATHOLOGY AND TREATMENT OF CEREBRAL DISEASE.
 specialists, it is lamentably true that the syphilitic poison, for
 instance, may develop itself in an active form, and even go so far
 as the destruction of the bony tissues, in adults who have never
@@ -580,6 +589,7 @@ persons who are quite innocent themselves of having ever run
 the risk of acquiring the malady. Of course I here allude to
 what are called the constitutional phenomena of syphilis, and
 not to the primary manifestations.
+
 These observations are made in connexion with the treat-
 ment of several obscure diseases of the brain characterised by
 anomalous symptoms ; and probably in the cases where decided
@@ -599,6 +609,7 @@ think, afforded by the result of the treatment in the second
 case recorded at full length by me in the present paper, and in
 which there was evident congestion about the root or the
 course of the fifth pair of nerves.
+
 I do not, however, for a moment allege or suppose that all
 such cases have a syphilitic origin; all I contend for is that the
 possibility of such connexion should be borne in mind in the
@@ -609,7 +620,7 @@ brain or the cranium might consist of exostoses of the cranial
 bones, or of gummatous formations in the brain itself, and
 experience teaches that these conditions may be remedied by
 the use of iodine and mercury.
-PATHOLOGY AND TREATMENT OF CEREBRAL DISEASE. 251
+
 But there are other maladies, besides syphilis, which may
 give rise to cerebral disturbance, and perhaps one of the most
 prominent of these is gout, an affection which, like syphilis,
@@ -633,6 +644,7 @@ doses, together with alkalies, more especially potash and lithia,
 as these are the solvents of uric acid; and to prescribe change
 of air and exercise for the patient, and to enjoin a strict system
 of diet.
+
 Of the treatment of the cerebral diseases due to the strumous
 or the cancerous cachexia there is but little to be said. The
 former category of cases would derive benefit from such well-known

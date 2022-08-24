@@ -2,7 +2,7 @@ General Paralysis
 ==================
 
 264 Art. IX.?.*
-By PHILIP ZENKER, A.M., M.D.
+:Author:  Philip Zenker, A.M., M.D.
 To the majority of physicians insanity in many of its aspects
 is a sealed book. Their intimate relations with people of all
 ranks and all grades of intelligence sharpens their natural
@@ -18,6 +18,7 @@ being always at his call. But there is one form of insanity
 which attacks" the most valuable members of society, ablebodied, hard-working, intelligent men, which comes on insidiously and threatens the deepest interests of the family and
 society, that every physician should know, and know well. It
 is that usually termed general paralysis of the insane, or dementia paralytica.
+
 To the intelligent being there is nothing more interesting
 than observing the development of intellect, to see it budding
 in the crowing infant and prattling child, unfolding its powers
@@ -35,14 +36,14 @@ can be barely mentioned. Again, others we will try to enter
 into fully, especially such as are of great practical value, or
 whose thorough comprehension may be necessary for a proper
 understanding of the disease.
+
 General paralysis is essentially an affection of the anterior
-* Read before the Cincinnati Academy of Medicine, October 23rd, 1882.
-GENERAL PARALYSIS. 265
 portion of the cerebrum, of that part which the study of comparative anatomy and anthropology indicates to be the seat of
 intelligence, and "which modern experimental investigations
 indicate to contain the motor centres. And it is morbid manifestations of intelligence and of the motor functions occurring
 simultaneously and progressing co-relatively that constitute the
 essential features of this disease.
+
 The pathological anatomy consists of changes in the membranes of the brain, usually most marked in the anterior portions, and changes in the cortex and subcortical region affecting
 chiefly the anterior cerebral convolutions. The minute changes
 in the brain substance are still matters of controversy. In this
@@ -50,6 +51,7 @@ place, where we wish to enter into important practical considerations only, we w
 theories and facts in this relation, but content ourselves with
 the knowledge that the result of the pathological processes is
 atrophy of the brain.*
+
 With the question of causation we will also be brief. The
 disease occurs chiefly in men, only in adults and at the prime
 of life. Hereditary influences, or other predisposition to cerebral disease, as former disease or structural defect, seem here to
@@ -78,13 +80,13 @@ to disturbances of the sympathetic nervous system, this hyporaemia causing a
 mechanical obstruction to the lymph circulation, and thence leading to further
 changes. There is much that speaks for the correctness of this view. The second
 theory referred to is that the disease is an insterstitial encephalitis.
-266 GENERAL PARALYSIS.
 rare. Steinen declared that it is hardly known in Java. Its
 frequency has been ascertained in some coloured races. Altogether it can scarcely be doubted that it is most frequently
 found in the most highly civilized countries, just as it is most
 frequently found in highly intellectual individuals.*
 We come now to the symptomatology, the most important
 part of our subject.
+
 He, who has previously been active and diligent in his
 business transactions, is observed to become listless in his manner and careless of his affairs. Instead of going to his place of
 business he lies listlessly about the house, or he appears to be
@@ -112,6 +114,7 @@ follows the association of ideas as they uncontrolledly flit
 through his consciousness. He has lost the power of attention
 which brings things singly into consciousness, and makes them
 to be easily remembered.
+
 With the failure of the power of attention is early associated
 an impairment of the judgment. He mismanages his business.
 He entertains senseless projects. And soon those delusions
@@ -122,7 +125,6 @@ grandeur. Faint indications of this kind may be early detected,
 but the outspoken delusions are only present when the judg* In a paper read at the last International Medical Congress on the " Race
 Relationship of General Paralysis," the author suggests that the uso of the potato
 for a diet is perhaps the cause of the infrequoncy of the disease in Ireland!
-GENERAL PARALYSIS. 267
 ment is entirely in abeyance. At this time anything that is
 desirable seems possible to him. If the patient be a female
 delusions are most likely to be on the subject of dress. Though
@@ -136,6 +138,7 @@ The grandiose character of the delusions of this disease has
 been attributed to irritation of the cortical hemispheres. But,
 it seems to me, an explanation based upon psychological data
 would be clearer and, perhaps, more correct.
+
 In the great majority of cases a feeling of elation and well
 being is dominant during the whole course of the disease. The
 patient never has any feeling of illness but seems to overflow
@@ -154,6 +157,7 @@ more judgment than the infant, and whose weakened intellect,
 unobservant of external things, dwells only on the ego, in his
 sense of health and power believes everything belongs to him,
 that everything is possible to him.
+
 But in the later stages of the disease, when a smile or laughing face is nearly always present, and the, most absurd delusions
 the only utterance, we must not suppose these to express an
 active joyousness or ambitious projects. He has arrived at that
@@ -167,9 +171,9 @@ stage of the disease, his smile scarcely expresses a deeper feeling
 than the infant's. His face is only a mirror of what is passing
 about him. If you smile before him his face broadens in
 laughter; if you assume a mournful countenance he breaks
-268 GENERAL PARALYSIS.
 into tears. His uttered delusions are but the remembered
 words and phrases of a former life.
+
 Coincidently with the impairment of the intellect the
 emotions and the will become equally affected. As the power
 of observing external tilings and the judgment become weaker,
@@ -180,6 +184,7 @@ become impulsive, responding to the fleeting emotions, the controlling influence
 character, being lost. We can thus easily account for the impulsive and irresponsible actions of the paralytic, and have only
 to add that the intensity of his emotions and the energy of his
 actions have also become much enfeebled.
+
 We have now reviewed the general changes in the intellect
 and character of the paralytic in their general decay. We
 have attempted to view them from the higher standpoint
@@ -202,6 +207,7 @@ human mind, will be able to judge whether the performances
 of the individual correspond to the ability with which he has
 been hitherto credited, whether his actions are prompted by
 such motives as in a normal mind.
+
 We come now to the second set of symptoms, the motor
 phenomena of this disease. These are of great interest for they
 recall and corroborate facts gained by experimental investigation. The paralyses are cortical in their origin. Experiment
@@ -209,12 +215,12 @@ has shown that cortical lesions leave but very slight paralyses,
 which are chiefly manifested in complex movements. This is
 the exact character of the paralyses of this disease. They are
 mostly not readily observable, and are brought out by complex
-GENERAL PARALYSIS. 269
 movements requiring the delicate play of muscles. The paralyses usually observed are those of the facial muscles, dilatation
 of the pupil (usually on the same side as the affection of the
 facial, and that generally on the right side), and tremor of the
 Hps and tongue. Of these we will again speak when on the
 subject of diagnosis.
+
 We have said that the above are the usual paralytic manifestations of general paralysis. We might add they are in the
 great majority of cases the only paralyses due to the cerebral
 lesions. But?and here we are approaching the most inexplicable part of our subject?in very many cases of this disease
@@ -227,6 +233,7 @@ lesions are frequently found. For the connection of the spinal
 with the cerebral disease, as in the other case the appearance of
 the cerebral symptoms with spinal disease, there has as yet been
 no satisfactory explanation.*
+
 The spinal symptoms are mainly those of paraplegia. The
 impaired gait may be like that of lotomotor ataxy, due to
 incoordination of movements, or the spastic gait of spastic
@@ -236,11 +243,13 @@ of the posterior columns. Sometimes myelitis of the anterolateral columns.f In c
 changes of locomotor ataxy, the cerebral symptoms of that
 disease, myosis, paralysis of the occular muscles, &c., are often
 present.
+
 The spinal symptoms may precede those of mental derange* The explanation that when the posterior fasciculi are affected, there has been
 ascending disease from the cord, -when the lateral columns are affected, descending
 disease from the brain to the cord, is not tenable. _ There has been no anatomical
 evidence of such a continuity of disease, and clinical histories are often not in
 accordance -with such a development.
+
 t In the last number of the Archiv f. Psychiatric und Nerven Jcrankheitcn,
 Zachler reported a case with the ordinary manifestations of what has been termed
 spastic spinal paralysis, paresis, muscular rigidity, exaggerated tendon reflexes, &c.,
@@ -250,7 +259,7 @@ attributed to disease of the pyramidal tracts in the cord have not yet with cert
 majority of such cases, where post-mortem examinations have been made, very
 decided spinal lesions have been found. So that, notwithstanding the above mentioned case, I believe, we need not hesitate to assign that complex of symptoms to
 spinal, and not cerebral lesions.
-270 GENERAL PARALYSIS.
+
 ment, but more frequently they occur later. Westphal, who
 discovered that the absence of the patellar tendon reflex is
 nearly always a sign of disease of the posterior columns of the
@@ -261,17 +270,20 @@ frequently in general paralysis than is usually supposed, and
 has proved on the post-mortem table the correctness of the
 diagnosis of spinal disease where during life there was no spinal
 symptom.
+
 Before concluding the subject of symptomatology we will
 mention a few facts, exceedingly important in themselves, but
 of which our limited time will allow but the mere mention :
 that is the occasional occurrence of epileptic or apoplectic
 attacks, and the not infrequent outbreak of acute maniacal
 excitement.
+
 The occurrence of peculiar disturbances of vision, first
 noted by Fiirstner, and since then by a few others, and the
 effort to bring them in relation with certain changes in the
 cortex, have an interest for the physiologist, rather than any
 clinical importance.
+
 We just now enter into that part of our subject, practically
 so important, the diagnosis of the disease.
 When the patient has become a maniac, when his speech
@@ -287,6 +299,7 @@ attended by an outbreak of madness which threatens human
 life, that the ready perception of the physician, a correct
 diagnosis proves of inestimable value. And at this time a
 correct diagnosis is peculiarly difficult.
+
 In the beginning the changes are usually slight such as are
 only noticeable to those intimately acquainted with the patient.
 There may be some change in his disposition, but what is
@@ -295,7 +308,6 @@ interest in things as before, neglects his own affairs. Already
 there is some impairment of the intellectual faculties. But the
 examiner must be pardoned if he cannot yet detect a slight
 defect in one whose mental powers equal, and possibly surpass.
-GENERAL PARALYSIS. 271
 his own ; for, as we liave already stated, it is the gifted, the
 intellectual, who are most frequently affected. At least the
 practitioner will require all his acuteness to enable him to form
@@ -311,6 +323,7 @@ be already well advanced his task will be easy, in the beginning it may be beyon
 must look for motor symptoms, differences in the pupils, paresis
 of facial muscles, tremor of lips and tongue, or difficulties of
 speech.
+
 If these and the mental symptoms are observed (and fortunately for the diagnosis the two, even in the beginning, are
 usually found together) the diagnosis, even in the inception of
 the disease, is established with a high degree of certainty.
@@ -328,6 +341,7 @@ made apparent through his squeezing the hand of the physician,
 when the involuntary facial expression thus elicited will reveal
 slight differences in the muscular innervation of the two sides
 of the face.
+
 The ordinary modes of detecting facial paralysis, by the
 patient exposing his teeth or laughing, are such coarse movements that they conceal rather than reveal the slight motor
 defects. The tremor of the lips and tongue can also be best
@@ -337,7 +351,6 @@ organs, and one of the most reliable of the diagnostic symptoms,
 is the affection of speech. We do not find the scanning speech
 so characteristic of multiple sclerosis, but one of a different
 character. There is a kind of stumbling in his articulation.
-272 GENERAL PARALYSIS.
 Words are brought out with difficulty, and are frequently cut
 short, letters or entire syllables being clipped off.
 We repeat, such slight paralyses are characteristic of general
@@ -367,6 +380,7 @@ or the presence of the peculiar paralysis will reveal the true
 condition). If such a complication occurs during the course of
 the disease the diagnosis must be based on the previous
 history.
+
 We must now speak of the diagnosis of the fully developed
 disease. First in importance and frequency, among the diseases which may be confounded with it, is alcoholism. Chronic
 alcoholism may produce all the symptoms of general paralysis.
@@ -377,23 +391,26 @@ in obscure cases, that is, allow of a certain lapse of time before
 making a diagnosis. The importance of this rule in such cases
 cannot be over estimated. For want of it mistakes are only too
 frequently made.
+
 A second class of cases which may be mistaken for general
 paralysis is that where coarse lesions of the brain, most frequently due to hemorrhage or embolism, are followed by
-GENERAL PARALYSIS. 273
 dementia. In such the paralysis are usually more decided than
 in general paralyses, and point to a focal lesion. But the
 history will settle the diagnosis.
+
 There is another class of cases, but a very rare one, in
 which a correct diagnosis is far more difficult; that is, cases of
 localised meningitis (usually primarily pachymeningitis, perhaps hemorrhagic) occurring especially in the neighbourhood of
 the central convolutions. That cases of this kind are often
 classed under general paralysis cannot be doubted. The diagnosis is often impossible. The course of the disease will alone
 (but not always) be able to clear it.
+
 Lastly, we will only mention multiple sclerosis and cerebral
 syphilis, instances of which diseases being sometimes exceedingly difficult to distinguish from general paralysis. We must
 look for special symptoms of these diseases, and if these will
 not determine their character, we must again rely upon the
 course of the disease.
+
 We have frequently mentioned the " course of the disease/'
 This is clinically of the greatest importance. We know the
 disease rather by its course than its symptoms. The symptoms
@@ -411,6 +428,7 @@ Death is sometimes caused by a gradual failing of all the bodily
 functions ; more frequently it is caused by an apoplectic attack,
 decubitus, pneumonia, tuberculosis, or disease of the bladder or
 kidneys.
+
 In the preceding description we have given the symptoms
 of the usual or classical type of the disease. Other symptoms
 may be present, producing quite a different appearance from
@@ -421,7 +439,6 @@ there are outbreaks of maniacal excitement, when, it must
 never be forgotten, the patient becomes dangerous to his
 surroundings. Again we meet with conditions of mental depression. There are cases in which a depressed hypochondriacal
 state of mind marks the whole duration of the disease. In
-274 GENERAL PARALYSIS.
 some instances delusions, usually so characteristic of this
 disease, are never detected. Hallucinations may or may not
 be apparent in a particular case. Spasmodic muscular affections complicate the history in some instances.
@@ -437,19 +454,23 @@ stages of the disease would be more valuable, but the material
 is lacking. For the opportunity to examine these patients and
 their histories, I am indebted to Dr Harmon, of Longview
 Asylum :?
+
 T. D., age 34, bank clerk; duration of disease, two years;
 excessive venery, also addicted to excessive use of alcohol. The
 first history of mental disorder is that of delusions of various
 kinds. His speech was soon observed to be slow and hesitating,
 his talk foolish, did not recognise his surroundings, believed
 himself to be in a barracks. Habits filthy.
+
 At the end of eighteen months he had an attack of durable
 hemiplegia. Since then more pronounced delusions, especially
 of wealth.
+
 Present condition. Secondary contractions and rigidity of
 muscles of right arm and leg. Facial paralysis on the right
 side. Eight pupil larger than the left. Tongue tremulous.
 Speech indistinct. Mind almost a blank.
+
 In this case the diagnosis is based on the history. The dementia is the only symptom present pointing directly to general
 paralysis. The high degree of paralysis would, were it not for
 the history, lead us to exclude this disease. It is one of these
@@ -462,19 +483,22 @@ the pyramidal tracts, with subsequent rigidity of the paralysed
 muscles. We will again call attention to the fact that the
 mental condition became rapidly worse after the attack of
 hemiplegia.
+
 Gr. R., age 35, farmer, married ; duration ten years; cause
 unknown. In the beginning it was noticed that his actions
 appeared to be aimless, that lie appeared to be always contented
 and happy, was always smiling. Soon observed delusions of
-GENERAL PARALYSIS. 275
 wealth, also tremulousness of lips and tongue, and difficulty of
 speech.
+
 Present condition. Paresis of facial muscles on the right
 side. Tremor of lips, tongue, and hands. Gait feeble. Can
 obtain no utterance from him. He appears to be entirely
 demented.
+
 In this case there is the typical history, but the complete
 silence, and the absence of every facial expression, are unusual
 in this disease. We can only account for them by supposing
 complete dementia.
+
 PART II. VOL. VIII. NEW SERIES.

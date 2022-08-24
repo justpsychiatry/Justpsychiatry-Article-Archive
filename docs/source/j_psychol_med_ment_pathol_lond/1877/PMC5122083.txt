@@ -2,10 +2,10 @@ The Functions of the, Brain
 ============================
 
 167
-REVIEWS.
-
-By David Ferrier, M.D., F.R.S.
+:Type: REVIEWS.
+:author: David Ferrier, M.D., F.R.S.
 London : Smith, Elder, & Co.
+
 Dr Ferrier is well known as an indefatigable and painstaking
 cerebral physiologist, and in his recent work we have a detailed
 and comprehensive account of all that is known relating to the
@@ -36,13 +36,13 @@ Bell and Marshall Hall. Modern observers have only followed
 in the wake of Sir Charles Bell; they have done little more
 than trace the nervous tracts of sensation and motion which he
 discovered, somewhat nearer to the periphery of the brain.
+
 Moreover, the conclusions drawn by Dr terrier from his
 numerous experiments rest on insufficient grounds. In electri-
 fying different parts of the cerebral substance, it is very possi-
 ble that the currents do not excite the cells, but the contiguous
 nervous fibres. It must also be remembered that if a cineritious
 portion of the brain be cut away, movements may be caused by
-168 REVIEWS.
 electrifying the white texture of the convolutions. If, then, the
 centres of motion and sensation cannot be determined, what
 right have Dr Ferrier and other physiological psychologists to
@@ -59,6 +59,7 @@ is a revival of Grail's system, and the diagram of a skull, mapped
 out in divisions, given in Dr Ferrier's book, reminds us of the
 phrenological busts which were so conspicuous many years ago
 in Deville's shop in the Strand.
+
 Before concluding, we cannot refrain from noticing a useless
 and inconclusive experiment which Dr Ferrier made on a
 monkey. After removing the whole of the occipital lobes of its

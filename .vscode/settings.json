@@ -3,5 +3,10 @@
     "esbonio.sphinx.confDir": "C:\\Users\\Justpscyhiatry\\.conda\\envs\\sphinx\\source",
     "cSpell.enableFiletypes": [
         "restructuredtext"
-    ]
+    ],
+    "grammarly.config.documentDialect": "british",
+    "grammarly.config.documentDomain": "academic",
+    "grammarly.config.suggestions.UnnecessaryEllipses": true,
+    "grammarly.config.suggestions.StylisticFragments": true,
+    "grammarly.config.suggestions.PassiveVoice": true
 }

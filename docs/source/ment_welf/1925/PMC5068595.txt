@@ -1,10 +1,16 @@
 Intelligence Testing: Its Methods and Results
 ================================================
 
- :Type: Book Reviews & Abstracts.
- :Author: Rudolf Pintner, Ph.D.
-University of London Press, Ltd. 406 pp.
-7s. 6d. nett.
+.. article-info::
+    :avatar: images/logo.png
+    :avatar-link: https://justpsychiatry.co.uk/
+    :avatar-outline: muted
+    :author: Justpsychiatry
+    :date: Jul 24, 2021
+    :read-time: 5 min read
+    :class-container: sd-p-2 sd-outline-muted sd-rounded-1
+    :Type: Book Reviews & Abstracts.
+    :Author: Rudolf Pintner, Ph.D. University of London Press, Ltd. 406 pp. 7s. 6d. nett.
 
 We may perhaps be sceptical regarding the
 flood of literature on this subject proceeding

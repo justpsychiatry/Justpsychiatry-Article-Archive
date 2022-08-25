@@ -18,7 +18,7 @@ author = 'Justpsychiatry'
 
 
 #release = 'latest'
-version = 'latest'
+#version = 'latest'
 
 # -- General configuration
 
@@ -33,6 +33,7 @@ extensions = [
     'sphinxcontrib.apa',
     'myst_parser',
     'sphinx_rtd_theme',
+    'sphinx_design'
     'sphinx_search.extension',
 ]
 
@@ -59,6 +60,7 @@ html_title = "Justpsychiatry Article Archive"
 html_baseurl ='https://justpsychiatry.co.uk/'
 bibtex_bibfiles = ['refs.bib']
 bibtex_reference_style = 'author_year'
+sitemap_filename = "sphinxsitemap.xml"
 
 
 # -- Options for EPUB output

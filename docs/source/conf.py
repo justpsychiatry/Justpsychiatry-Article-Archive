@@ -33,7 +33,7 @@ extensions = [
     'sphinxcontrib.apa',
     'myst_parser',
     'sphinx_rtd_theme',
-    'sphinx_design'
+    'sphinx_design',
     'sphinx_search.extension',
 ]
 

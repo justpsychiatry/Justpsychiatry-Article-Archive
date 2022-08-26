@@ -12,3 +12,4 @@ sphinx-sitemap
 readthedocs-sphinx-search
 opensearch-py
 sphinxcontrib.datatemplates
+sphinx-hoverxref

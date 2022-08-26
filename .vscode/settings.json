@@ -8,5 +8,8 @@
     "grammarly.config.documentDomain": "academic",
     "grammarly.config.suggestions.UnnecessaryEllipses": true,
     "grammarly.config.suggestions.StylisticFragments": true,
-    "grammarly.config.suggestions.PassiveVoice": true
+    "grammarly.config.suggestions.PassiveVoice": true,
+    "cSpell.words": [
+        "hoverxref"
+    ]
 }

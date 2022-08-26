@@ -3,7 +3,7 @@
 import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
-import sphinx_rtd_theme
+#import sphinx_rtd_theme
 import sphinxcontrib.bibtex
 import myst_parser
 import sphinxcontrib.apa
@@ -35,6 +35,7 @@ extensions = [
     'sphinx_rtd_theme',
     'sphinx_design',
     'sphinx_search.extension',
+    'hoverxref.extension',
 ]
 
 intersphinx_mapping = {
@@ -62,6 +63,12 @@ bibtex_bibfiles = ['refs.bib']
 bibtex_reference_style = 'author_year'
 sitemap_filename = "sphinxsitemap.xml"
 
+hoverxref_roles = [
+    'numref',
+    'term',
+]
+
+hoverxref_auto_ref: True
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
@@ -96,11 +103,28 @@ source_suffix = {
     '.md': 'myst',
 }
 
+rst_prolog= """
+
+
 rst_epilog = """
-.. |M.B.B.S| replace:: MBBS
-.. |M.D.| replace:: MD
-.. |F.R.S.| replace:: FRS
-.. |F.R.C.S.| replace:: FRCS
-.. |Dr.| replace:: Dr
+ .. |M.B.B.S| replace:: MBBS
+ .. |M.D.| replace:: MD
+ .. |F.R.S.| replace:: FRS
+ .. |F.R.C.S.| replace:: FRCS
+ .. |Dr.| replace:: Dr
+
+.. admonition:: Copyright Notice
+ 
+    The historical material in this project falls into one of three categories for clearances and permissions:
+
+    1. Material currently under copyright, made available with a Creative Commons license chosen by the publisher.
+    
+    2. Material that is in the public domain
+    
+    3. Material identified by the Welcome Trust as an Orphan Work, made available with a Creative Commons Attribution-NonCommercial 4.0 International License. 
+    
+    While we are in the process of adding metadata to the articles, please check the article at its original source for specific copyrights.  
+
+    See https://www.ncbi.nlm.nih.gov/pmc/about/scanning/
 
 """

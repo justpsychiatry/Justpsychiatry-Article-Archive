@@ -27,10 +27,12 @@ We intend to clean up the articles, add metadata, structure and objects (images,
 
 Indices and tables
 ------------------
+.. contents:: 
 
 * :ref:`genindex`
 * :ref:`search`
-* :ref:`sitemapcor.xml`
+* :ref:`glossary.html`
+* :ref:`abbreviations.html` 
 
 
 :Copyright: The copyrights of individual articles vary; some articles are in the public domain, others open-access commercial use, or open-access non-commercial use. please check the original article for copyright information of each article while we are working to add them here. 

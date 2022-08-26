@@ -41,6 +41,10 @@ extensions = [
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
+
+   'otherbook':
+              ('https://www.justpsychiatry.co.uk/projects/bjpsych-bull/index.html',
+               ),
 }
 intersphinx_disabled_domains = ['std']
 
@@ -62,13 +66,16 @@ html_baseurl ='https://justpsychiatry.co.uk/'
 bibtex_bibfiles = ['refs.bib']
 bibtex_reference_style = 'author_year'
 sitemap_filename = "sphinxsitemap.xml"
+hoverxref_auto_ref = True
 
 hoverxref_roles = [
     'numref',
     'term',
+    'abbr',
+    'ref',
 ]
 
-hoverxref_auto_ref: True
+
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

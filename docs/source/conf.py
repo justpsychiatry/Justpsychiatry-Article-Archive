@@ -113,13 +113,6 @@ source_suffix = {
 rst_prolog= """
 
 
-rst_epilog = """
- .. |M.B.B.S| replace:: MBBS
- .. |M.D.| replace:: MD
- .. |F.R.S.| replace:: FRS
- .. |F.R.C.S.| replace:: FRCS
- .. |Dr.| replace:: Dr
-
 .. admonition:: Copyright Notice
  
     The historical material in this project falls into one of three categories for clearances and permissions:

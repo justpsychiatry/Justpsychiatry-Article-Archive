@@ -1,8 +1,9 @@
 The Retardation of the Pupils of Eive City School Systems
 =========================================================
 
-By Oliver P. Coenman, Ph.D.,
+:Author:  Oliver P. Coenman, Ph.D.,
 District Superintendent of Schools, Philadelphia, Pa.
+
 Ever since tlie system of graded schools was established,
 children have been promoted from grade to grade at stated
 periods as they completed definite units of work. But not all
@@ -11,6 +12,7 @@ has always failed of promotion and been required to repeat in
 whole or in part the work of the grade. This failure to win
 promotion has served to establish the fact that some children
 proceed more slowly through the grades than others.
+
 The child who fails of promotion and therefore requires
 more than a single year or term to do the work regularly allotted, is "retarded" in comparison with those who have progressed at the normal pace. It is a matter of indifference in
 establishing the fact of retardation, whether the cause resides
@@ -25,12 +27,11 @@ while other schools promoted 90 per cent or over. In another
 city the percentage of variation ranged from 42 per cent to 92
 per cent. These facts have served to direct attention to an excessive amount of retardation present in special instances, and
 have aroused discussion which has led to improvement in the
-(245)
-246 THE PSYCHOLOGICAL CLINIC
 methods of gradation and promotion in many schools; but they
 have not been fruitful in furnishing us with a satisfactory measure of the amount and general extent of retardation. The determination of a common and comparable measure of retardation for the schools of a single city and for different cities, is a
 real problem, calling for solution to-day by the administrative
-officers of our school systems. i
+officers of our school systems.
+
 The attempts that have been made to solve this problem have
 done little more up to the present time than call attention to
 the existence of the facts. Thus the report of the city superintendent of Chicago for 190G includes a valuable special investigation of the number of backward children in that city. This
@@ -61,7 +62,7 @@ its significance because the under age children offset those over
 age, and the cases of extreme over age, which are pedagogically
 of great interest, fail to affect the average by more than a trifling
 fraction of a year.
-THE RETARDATION OF PUPILS 247
+
 We are therefore compelled to turn to the enumeration of the
 children in the grades by ages for a more satisfactory standard
 by which to measure retardation. The statistics on which this
@@ -75,6 +76,7 @@ reports, this enumeration does appear annually, but in most
 cases it seems to be recorded without a full appreciation of its
 significance and value. The numbers are not reduced to percentages, and receive little or no attention by way of comment
 or analysis.
+
 A beginning, however, has been made. The city superintendent of lSTew York in his report for 1904 invited attention to the
 fact that a large number of pupils (39 per cent in the elementary
 grades) were shown by his tables to be older than what might
@@ -311,8 +313,6 @@ fl2
 14,194
 49.6
 * Seven year course for elementary schools.
-248 THE PSYCHOLOGICAL CLINIC
-Table III?BOSTON, JUNE, 1906.
 DISTRIBUTION OF PUPILS IN THE GRADES BY AGES.
 Grade
 8
@@ -431,6 +431,7 @@ Number Percent.
 16.3
 ? 9.7
 21.6
+
 THE RETARDATION OF PUPILS 249
 Table V.?NEW YORK, JUNE, 190G.
 DISTRIBUTION OF PUPILS IN THE GRADES BY AGES.
@@ -526,7 +527,6 @@ June, 1904. June, 1905. June, 1906
 23.4
 13.9
 30.1 I 30.0
-250 THE PSYCHOLOGICAL CLINIC
 Table VII.?Retardation in Elementary Schools as Shown by Distribution of Pupils
 in the Grades by Ages.
 City.
@@ -637,9 +637,11 @@ or
 2.4
 1.1
 1.5
+
 * Defined as 7 years of age or over'for pupils of first grade; 8 years of age or over for pupils of second grade, and so on through the grades,
 t" Above Normal Age " as defined by Dr Maxwell.
 t " Pedagogically retarded " as defined by Superintendent Bryan.
+
 Table VIII.
 City.
 Boston
@@ -681,8 +683,6 @@ Enrollment.
 4.7
 2.1
 5.6
-THE RETARDATION OF PUPILS 251
-252 THE PSYCHOLOGICAL CLINIC
 five cities, however, comprising as tliey do nearly 5 per cent of
 the elementary school population of the United States, are, I
 believe, sufficiently typical to afford a satisfactory basis for discussion and further elaboration of the statistical material.
@@ -712,6 +712,7 @@ ranging between 7.3 per cent for Boston, and 26.3 per cent for
 Camden and Kansas City. Table VII also reveals that of the children of these five cities, 4.9 per cent aro threo years or more
 beyond the theoretic age limit, and 1.5 per cent aro four years
 or more beyond the theoretic ago limit.
+
 Tables I-V have been prepared not only for the purpose
 of showing the distribution of the pupils by ago throughout the
 different grades of the five cities concerned, but also to present
@@ -719,7 +720,6 @@ the number and percentage of these pupils above normal ago as
 defined in the preceding paragraph. The heavy lino of steps running obliquely across the table is the lino of separation between
 the children of normal age and those above normal age. All the
 figures to the right of this black line enumerate children who aro
-THE RETARDATION OF PUPILS 253
 above normal age. Tlie tables also make possible a collation of
 the exact number of children -who are above normal age by anydesired number of years. The total registration for each grade
 of each school system is given in these tables, as also the total
@@ -754,12 +754,12 @@ as many as the city of Boston. Of children four years or more
 beyond the theoretic age limit, Boston has 0.5 per cent, New York
 1.1 per cent, Philadelphia 2.4 per cent, Camden 4.8 per cent
 and Kansas City 5.1 per cent.
+
 This result must be viewed in relation to the results shown in
 table VIII. Of the five cities Boston has the largest percentage
 enrolled in the seventh and eighth grades. New York comes next,
 Kansas City is third, Philadelphia fourth and Camden brings
 up the rear. It is probably to be expected that cities having
-254: TIIE PSYCHOLOGICAL CLINIC
 smaller percentages of retardation would have relatively more
 pupils in their higher grades. Boston is now able to make the
 proud boast that she has a seat in school for every child able to
@@ -770,6 +770,7 @@ occupancy in the highest grades. Damming the stream of children
 passing through the grades of our schools subverts the purposes of
 the public educational system and causes a wasteful expenditure of
 the public funds.
+
 The number of over-age or retarded pupils in our school
 is so large as to call for an investigation of the causes and the
 application of every adequate remedial measure that may be
@@ -785,23 +786,25 @@ one who gets through on time. Complete statistics of retardation
 would furnish the data upon which might be made a fairly accurate computation of the cost of this delay in the grades. It is
 safe to assert that the total loss to the community would be found
 to be surprisingly large.
+
 The collation of statistics similar to those which I have presented, and a careful analysis of the results, would give us much
 valuable information as to the causes of this retardation. A certain proportion of the retardation is due to the fact that pupils
 are already over age on entering school. A fairly accurate estimate of the size of this factor could readily be made by a careful
 tabulation of registration data. In some cities large numbers
 of foreign born children are retarded on account of difficulty
 with the language.
+
 A certain percentage of children have serious physical or
 mental defects, which prohibit normal progress in regular classes,
 and these go to swell the retardation figures in every school system.
 ^Ve refer to the child who is markedly atypical or different
 from the average of his fellows,?the "hundredth child," as ho has
-THE RETARDATION OF PUPILS 255
 been well named, a denomination that suggests an approximately
 accurate estimate of the number of these children; for such investigations as have been made show that at least 1 per cent of the
 children of school age may properly be classified in this way.
 Overcrowded classes and children upon part time instruction or on waiting lists, the results of inadequate accommodations, are in very many places a contributory factor of no mean
 proportions.
+
 Another important factor is the system of classification and
 promotion, by which children are periodically regraded. If the
 system is of the inflexible, lock-step variety, which compels some
@@ -822,6 +825,7 @@ hand of the recent normal graduate upon the most difficult piece
 of work that can be assigned, the task of serving in place of the
 skilled teacher, 011 the briefest notice, in an unfamiliar school,
 and in any grade!
+
 To discover, to devise, and to apply remedies for the excessive retardation that is found in our schools, is much more
 difficult than to enumerate the causes. The late entrance to school
 is due on the one hand to the thriftlessness of the ignorant parent,
@@ -831,7 +835,6 @@ ago for compulsory attendance be reduced to seven, at least for the
 large cities of New York state. Seven is the compulsory age
 in some states, for example, in New Jersey. If the issue were
 not so obscured by the complexity of causes at work, the efficiency
-256 THE PSYCHOLOGICAL CLINIC
 of the compulsory law might he tested by comparing retardation
 results in these places with the records of those having a higher
 local age limit The late entrance to school of the immigrant
@@ -852,6 +855,7 @@ is necessary in order to provide for the segregation of pupils in
 special classes, which should be undertaken only on a scientific
 basis, in order that experience may enable us to discover and
 diminish or remove the causes of retardation.
+
 Systems of classification and promotion must be made as
 flexible as conditions will permit, in order to allow each pupil
 to proceed at the pace natural to himself. It should be recognized that the pupil of extraordinary ability, as well as the backward or otherwise defective child, needs special consideration.
@@ -864,9 +868,9 @@ The reorganization of many administrative systems is required in order clearly t
 all these directions in the past two years through the passage of the
 act of Assembly of April, 1905. For reform in educational legislation for the remainder of the state, we confidently rest our hopes
 upon the commission appointed by the governor to codify the
-THE RETARD ATI ON OF PUPILS 257
 strange patch-work of school laws that are at present a disgrace
 to the commonwealth.
+
 We may entertain very different opinions as to the causes
 of retardation and the relative value of the remedies to which I
 have been able only briefly to refer, but there should be no difference of opinion as to the value of the age enumeration and the

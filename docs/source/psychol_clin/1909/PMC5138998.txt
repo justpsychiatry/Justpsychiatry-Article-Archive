@@ -1,7 +1,7 @@
 Size of Classes and School Progress
 ====================================
 
-By Oliver r. Coknman, Ph.D.,
+:Author: Oliver r. Coknman, Ph.D.,
 Associate Superintendent of Public Schools of Philadelphia.
 In discussions of the conditions affecting tlie progress of
 children in school it is generally assumed that classes beyond a
@@ -28,6 +28,7 @@ important one from the economic point of view. For this reason,
 and also for the pedagogical interest inherent in the problem,
 the influence of the size of class upon the progress of the pupils
 is worthy of careful inestigation.
+
 A method by which such investigation may be made is to
 examine the relation of the size of the class to promotion percentages, the latter constituting a convenient measure of rate of
 progress. This method was employed with the promotion records
@@ -36,8 +37,7 @@ The classes were arranged according to size in three groups:
 "under 40," "40 to 49," and "50 or over" and the promotion
 1Dutton, S. T? and Snedden, D. S., Administration of Public Education
 in the United States, N. Y., Maemillan, 1908, p. 341.
-(206)
-GLASSES AND SCHOOL PROGRESS 207
+
 percentages determined for each group. The results are given in
 table I, for each grade separately, for grammar grades (5th to
 8th) and for primary grades (1st to 4th) taken together, and for
@@ -141,6 +141,7 @@ Promoted.
 89.3
 77.9
 80.3
+
 there were 83 of the "under 40" classes with an average membership of 36 and that 83.2 per cent of the pupils in these classes were
 promoted; that the "40 to 49" group consisted of 176 classes with
 an average membership of 45 and a promotion record of 84.5 per
@@ -151,6 +152,7 @@ J_ 3_ ?6.1. Primary Grammar grades
 Chart I. Showing promotion percentages of classes. Small classes
 are on the left, large classes on tlie right, of the medium-sized (shaded)
 classes.
+
 *There were no classes of the "50 or over" group in the eighth grade.
 208 THE PSYCHOLOGICAL CLINIC
 TABLE II.
@@ -217,11 +219,11 @@ percentages; (6) that the classes of medium size make, on the
 whole, the best showing; (c) that the large classes do not, on the
 whole, fall much below the other groups; (d) that in the grammar
 grades, the larger the class the better the promotion record.
+
 Primary Grades Grammar Grac/es 7bfa/ Total AH
 1 Z 3 4- 5 & 2 8. Enmm1 Grammar Grades
 Chart III. Showing percentages of pupils rated as satisfactory in
 conduct in small, medium sized, and large classes respectively.
-210 THE PSYCHOLOGICAL CLINIC
 To secure additional data upon the relation of size of class
 to rate of progress, the monthly report cards (for February, 1909)
 upon which the teacher records her rating of the pupil's conduct
@@ -230,6 +232,7 @@ percentage of the pupils of a class rated as making satisfactory
 progress was determined and the classes were then arranged in
 groups according to size. The results are given in table II and
 displayed graphically in chart II.
+
 Examination of this chart shows that in the 2d, 6th and 8th
 grades, and in the grammar grades taken together, the largest
 classes make the best showing; that in the 1st and 5th grades and
@@ -240,6 +243,7 @@ On the whole, the pupils of the medium size classes have the best
 ratings and those of the smallest classes the poorest, while again,
 in the case of the grammar grades, the larger the class the better
 the rating.
+
 Discussion of these results in a meeting of school principals
 gave rise to the suggestion that the comparatively poor records of
 the smaller classes might be compensated for by a "moral gain"
@@ -253,6 +257,7 @@ to grade; and again in the grammar grades, the larger the class
 the better the result. The pupils of the classes of medium size are
 not rated so high in conduct as those of the small and of the large
 classes.
+
 A review of charts I, II and III seems to indicate (a) that
 size of class is not a very important factor in the determination of
 rate of progress or retardation of the pupils of the class, (b) that
@@ -261,10 +266,10 @@ showing, (c) that large classes (50 or more pupils) make a poorer
 showing in primary than in grammar grades, and?as a corollary,
 of (c)?(d) that it is more important to have small classes in the
 primary than in the grammar grades. The usual practice, however, is to overcrowd primary classes while grammar classes are
-CLASSES AND SCHOOL PROGRESS 211
 relatively small. This is sliown in table IV, the data for which
 were obtained from the Annual Report of the Superintendent of
 Public Schools of Philadelphia for the year 1908.
+
 TABLE IV.
 Annual Report, 1908.
 Average No. of Pupils
@@ -280,12 +285,14 @@ G   42.9
 Grammar   42.0
 Primary   45.7
 All grades   44.5
+
 It should be borne in mind that the data upon which this
 study is based include results from only about a score of schools
 and some 300 classes. Perhaps different results would be obtained
 if the investigation were widened to take in all the schools of the
 city. The problem is of sufficient economical and pedagogical importance to warrant further study of it, and it is hoped that careful
 and extensive investigation will be made.
+
 Even if such investigation should bear out the conclusions of
 the present study, it would not necessarily mean that large classes
 are to be desired. It may be that better results are not obtained
@@ -305,7 +312,6 @@ conditions is found only in the "special class" of from 15 to
 Psychological Clinic, "The grade teacher is interested in
 teaching reading, -writing and arithmetic. The special teacher
 must be interested in developing the individual child. ... In
-212 THE PSYCHOLOGICAL CLINIC
 the grades attention must ever be centered upon the curriculum,,
 pedagogical methods and the result as shown through class promotions. There is a problem of mass instruction, and there is an
 entirely different problem of individual development. These

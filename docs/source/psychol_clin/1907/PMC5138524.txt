@@ -1,8 +1,9 @@
 The Need for Special Classes Ie" The Public Schools
 ====================================================
 
-By J. D. IIeilman,
+:Author:  J. D. IIeilman,
 Harrison Fellow in Pedagogy, University of Pennsylvania.
+
 The April number of The Psychological Clinic contains
 an article by Superintendent Bryan, of Camden, N. J., on the
 "Extent and Causes of Retardation." In treating of the extent of
@@ -23,6 +24,7 @@ these cities rank among the best in this country, I think it is not
 too bold an assumption to maintain that pedagogical retardation
 of surprisingly large proportions is both a widespread and a
 chronic affliction of our public schools.
+
 Convinced of the nature and extent of retardation, measured
 in terms of school progress, I was easily persuaded to make a
 study of its causes. I began my work by subjecting to personal
@@ -34,9 +36,8 @@ instruction which is adapted to the mental capacity and organization of many sch
 for the retarded progress, incorrigibility and truancy of a considerable percentage of pupils. I am preparing my material for
 publication in the form of a monograph, which will present a detailed analysis of the causes of retardation thorughout a city school
 system.
-(101)
-TIIE NEED FOB SPECIAL CLASSES. 105
-]STo school system, however, need or can afford to wait nntil
+
+ISTo school system, however, need or can afford to wait nntil
 statistics of retardation have been gathered and analyzed by experts. Supervising principals and teachers are already aware of
 the existence of children in their schools who are unable to progress in the grades with normal children. Many children, indeed,
 who have been driven into the school-room by legal compulsion
@@ -55,6 +56,7 @@ entirely inadequate. It is a conservative estimate that every school
 of a thousand children contains a sufficient number of retarded
 cases to warrant the establishment of a special class for the
 retarded and mentally defective children.
+
 This statement does not imply that in every school of a
 thousand children there will be forty or more mentally defective
 children. The number of retarded children assigned to a single
@@ -65,11 +67,11 @@ the children are selected from the rest of the school to form a
 special class, Dr Gorke contends that the number of pupils should
 not exceed twelve to fifteen; while Ziehen fixes the number at
 from eight to ten.
+
 If, then, it be admitted that the special class for backward
 children should not be composed of more than ten to twenty
 pupils, may we expect to find that every school of a thousand
 pupils has a sufficient number of backward cases to form a special
-106 THE PSYCHOLOGICAL CLINIC.
 class ? This article, which is based upon an examination of all
 the very backward cases in a single school, points to an affirmative
 answer. I undertook the examination to assist the supervising
@@ -86,6 +88,7 @@ much exaggerated. Most parents are more than gratified at every
 sign of increased interest in their children shown by the school
 authorities. In more than a thousand cases examined by me during the past year, only one child refused to take the examination
 because of parental objection.
+
 Twenty-nine cases were reported to the supervising principal.
 I began my work with the examination of these cases. The supervising principal reported other cases and my examination is now
 being extended to those children who will fail to be promoted on
@@ -100,16 +103,18 @@ For the benefit of the skeptic who may doubt the existence of
 twenty subnormal children among nine hundred and twenty-eight
 children of the first three years, I present a brief sketch of these
 twenty cases.
+
 With respect to their capacity to profit by the instruction of
 the public schools, they may be classified under three heads:
 1. Children who belong in special institutions but who, under
 present conditions, must be provided for by the public school system.
 2. Children who can never bo expected to reach the grade
 standard of the normal child.
+
 3. Children who may be expected, after one or more years
 of special treatment, to make moderate progress in the regular
 grades.
-TEE NEED FOR SPECIAL GLASSES. 107
+
 The determination of the group to which, a particular child
 belongs is difficult and often uncertain. The classification is based
 chiefly on the present mental status, though in some instances it
@@ -134,6 +139,7 @@ eyesight and hearing because she refused to come into the office, nor did
 she respond for this purpose to her teacher in the school room. I could
 not even see her face, because she threw her head down upon her arms
 and finally crept under her desk.
+
 Case II. A girl aged nine years. She has attended school for one
 year, and is in the lowest class of the first grade. With some assistance
 she can count to 17, but docs not recognize words and is unable to
@@ -144,11 +150,11 @@ She has tea and bread for breakfast and also drinks tea at supper.
 Vision is with glasses and without them. Hearing is also somewhat defective. Muscular co-ordination is poor. She has crowded and
 decayed teeth, enlarged tonsils, and contracted chest. Her narrow forehead indicates a deficiency of the pre-frontal lobes, and her hands are
 cold and cyanosed.
+
 Case III. A boy nearly seven years old. This is his tenth month in
 school and his progress is nil. He can neither write, count, nor copy
 words. lie seldom attempts to talk. He is an imbecile of barely middle
 grade. His attendance is regular, but his conduct is deficient. He
-108 THE PSYCHOLOGICAL CLINIC.
 is shy, very nervous and wilful. The home language is English, although
 the parents are Russian Jews. The mother is an intelligent woman, very
 solicitous about her child, whom she is unable to discipline. ITis health
@@ -156,6 +162,7 @@ is poor, but nutrition and home care are good. Vision internal strabismus. Heari
 very poor. The tonsils are hypertrophied, and the naso-pharynx obstructed. His eyes are widely spaced, and there is some cranial asymmetry.
 2. Children who can never he expected to reach the grade standard of
 the normal child.
+
 Case IY. A boy almost eight years old. His first year at school.
 He can neither read nor write. He knows about ten words and can
 count to ten. He is an extreme case of aprosexia. On account of his
@@ -167,6 +174,7 @@ rather poor. He drinks coffee at breakfast and tea in the evening.
 Vision is only Hearing does not appear to be defective. Co-ordination is medium, but he is very inert. He is a mouth breather, with
 decayed teeth and exceedingly large tonsils. His hands are blue and cold,
 and the cranium is small.
+
 Case V. At the end of his fourth school year, this boy, whose age
 is ten years, is still in the lowest class of the first grade. He cannot read
 nor add and subtract, but he can write and count to ten. He may be
@@ -177,6 +185,7 @@ of the home is Italian. Home care, discipline, and support ai'e poor.
 His health and nutrition are good. At supper he habitually drinks coffee
 and beer. His vision is only internal strabismus. Hearing is normal; co-ordination medium. His expression is dull, forehead low, and
 cranium brachicephalic. His hands are cyanosed.
+
 He is one of several degenerate children. Cases VII and XIV are
 brothers of his. He has a sister three years old who is still unable to
 sit up. This case is interesting because when this boy was sent for several hours a week to a special trainer of deficient children there was a
@@ -185,7 +194,6 @@ took an interest in his school work and did not play truant. Since the
 special instruction has ceased, he has lost interest and is again incorrigible and a truant.
 Case VI. A boy seven years old; has attended school for one year.
 He recognizes a few words, counts to about twenty, can add a little,
-THE NEED FOR SPECIAL CLASSES. 109
 but is unable to write. Improved physical conditions might place him
 above the high-grade imbecile. *IIe attends school regularly, but his
 conduct is very deficient. His teacher thinks he is likely to become a
@@ -204,6 +212,7 @@ stimulants. His attention was so poor and his answers so uncertain that
 his sight could not be tested with the illiterate card; strabismus. Hearing seems normal. His leptocephalic skull with marked flattening all
 along the temporal and parietal regions, indicates a decided deficiency
 of gray matter.
+
 Case VIII. This unfortunate girl is seventeen years old and only
 in the third grade. She has attended school three years, having come
 from Russia four years ago, but her progress is so deficient that her
@@ -220,19 +229,20 @@ The foot is clubbed and the hand contractured. Both show the usual
 vaso-motor disturbances. Her condition is pitiable. Her father, she says,
 is unable to keep her, and so she means to go to work after her hand is
 straightened.
+
 3. Children who may le expected, after one or more years of special
 treatment, to make moderate progress in the regular grades.
 Case IX. A girl, in her eighth year, has been only ten months in
 school. She can count to ten. Her inability to progress is undoubtedly
 due to a number of remediable causes. She is very shy, stubborn and
 inert. Co-ordination is medium. Her sight and hearing appear to be
-110 THE PSYCHOLOGICAL CLINIC.
 normal. Iler parents are Russian Jews and speak Yiddish. The father
 is an inebriate and at present is confined in an institution for the
 insane. The family is supported by a Jewish society on ten dollars a month, five of which are devoted to the payment of rent. The
 home care, support and discipline are the worst possible. Iler health
 is very poor, and her haggard look and sunken eyes seem to indicate
 something more serious than bad nutrition.
+
 Case X. This is an eight-year-old boy, in the lowest class of the first
 grade. He has attended school one year, and is still unable to read. lie
 knows about twenty words, writes a little, counts to forty, and can
@@ -253,6 +263,7 @@ coffee in the morning, tea at dinner, and beer in the evening. She has
 good powers of co-ordination. Both sight and hearing are normal.
 The teeth are decayed; the tonsils hypertrophied; and the hands cold
 and blue.
+
 Case XII. A backward boy, six years old, who has attended school
 one year. His writing is very poor and many letters are in mirror script.
 He makes many errors in copying his written work, counts to about ten,
@@ -264,12 +275,12 @@ evening beer. He co-ordinates his movements well; has vision, and
 probably normal hearing. His tonsils are enlarged and his nostrils
 and nasopharynx filled with mucous. His hands are cold and slightly
 cyanosed.
+
 Case XIII. Another first grade boy who is six years old and has
 attended school one year. Some of his writing can be read, but he copies
 words incorrectly. He can scarcely count to ten, but can add numbers
 up to three. He knows hardly more than ten words. Although lie is
 backward, his case is rather hopeful. lie appears to be exceedingly shy
-THE NEED FOR SPECIAL CLASSES. Ill
 and is ratlicr sullen and obstinate. His conduct is deficient and his
 attendance irregular. The parents are Italian. The home care is
 poor and the support very poor. His health is poor and his nutrition
@@ -277,6 +288,7 @@ only medium. Co-ordination good; vision hearing normal. The
 head is well shaped. When asked to do anything by his teacher he
 invariably rubs his fists into his eyes, then covers his face with his arms
 and frequently begins to cry.
+
 Case XIV. The second brother to Case V, aged nine years. At
 the end of his third school year he is still in the lowest class of the second
 grade, can add small sums, but knows 110 tables; reads in the second
@@ -290,6 +302,7 @@ glasses of beer in the evening. Co-ordination is fair; vision with strabismus. H
 than that of either of his brothers, but his teacher says he sometimes
 falls into a stupor from which he is aroused only by being shaken. lie
 may suffer from petit mat.
+
 Case XV. A girl, nine years old. Has attended school three years,
 but cannot do second-grade work satisfactorily. Her teacher thought she
 could not even count properly, though she knows the tables to five inclusive, and can add a little. Her birthplace is Russia. The home care
@@ -300,6 +313,7 @@ well and has normal sight and hearing. She has a sleepy look, breathes
 through her mouth, has an overgrowth of lymphoid tissue in the back of
 her throat, and the nasopharynx seems obstructed. Her hands have a
 nervous balance.
+
 Case XVI. A boy who will be twelve years old in August. This
 is his fourth year at the school he is attending, but he is still in the
 lowest class of the second grade, and his progress this year has been
@@ -314,7 +328,6 @@ breathes through his mouth. He had adenoids and tonsils removed last
 summer, but on recommendation was taken to a specialist for the nose,
 who is now treating him for adenoids. His palate is only about one
 centimeter wide; his forehead is narrow, and his hand-balance very
-112 TEE PSYCHOLOGICAL CLINIC.
 Case XVII. A boy, ten years old; has attended school at least three
 years. He is in the third class of the second grade and has made
 deficient progress this year. lie counts well, and his addition and subtraction are done by counting. He is unable to repeat any part of the
@@ -327,6 +340,7 @@ coffee at breakfast; sometimes he has beer once, sometimes twice a day.
 Co-ordination is fair; sight hearing normal. The teeth are decayed.
 His sullen disposition, stolid appearance, mouth breathing, and enlarged
 tonsils are indicative of adenoids.
+
 Case XVIII. A girl who will be ten years old in October. In the
 lowest class of the third grade, she made no progress this year, and
 takes no interest in anything. She knows the tables to the fifth inclusive,
@@ -335,6 +349,7 @@ attends school regularly. American parentage. The home care and discipline are g
 good. She drinks coffee in the morning. She has fair ability in coordinate movement; sight normal; hearing of the right ear slightly
 defective. Her teeth are decayed and notfched. She breathes through
 her mouth and is an adenoid case under treatment.
+
 Case XIX. A boy, fourteen years old. Four years ago he was
 still in the first grade; at present he is only in the third, or lowest
 class of the third grade; his progress this year has been deficient. He is
@@ -347,6 +362,7 @@ good, discipline and support medium. His health and nutrition are
 apparently good. Drinks coffee, tea and beer. Co-ordination is
 fair; vision -|?; hearing of the left ear defective. His posterior glands
 are enlarged.
+
 Case XX. A girl, fourteen years old. Has attended school seven
 years, and is regarded as exceedingly deficient in the third class of the
 third grade. What she acquires one day is lost the next. She knows
@@ -365,6 +381,7 @@ her mother gives her drops to put her to sleep; she thought the name
 of the drops was "alcohol." Sometimes, however, she is put to sleep by
 being allowed to smell at a bottle. These remedies for insomnia were
 recommended by a relative.
+
 Of those twenty cases, two have been classed as middle-grade
 imbeciles, four as high-grade imbeciles and fourteen as backward
 children. Three are considered to be institution cases. It is probable that an even larger number would make better progress in an
@@ -373,6 +390,7 @@ arc unlikely to attain the grade standards of the normal child.
 Twelve of the number may possibly make normal progress in the
 ordinary grades after they have been taught for a year or more in
 a special class.
+
 Of the data that may be obtained from collating the statistics
 of the twenty cases, the most interesting item is that of conduct.
 The conduct of five was reported to be excellent, of two good, two
@@ -393,9 +411,9 @@ and drink are important items in causing mental retardation.
 Five of these children have poor health and six are not well nourished. A sufficient diet would strengthen their attention and improve their memory. Out of the seventeen cases, fifteen drink
 habitually tea or coffee or both, and nine (three of whom are girls)
 drink beer regularly. Some of these children confess that they
-114 THE PSYCHOLOGICAL CLINIC.
 have been drunk, and others may liave been intoxicated without
 having -realized their condition.
+
 Four children are mouth breathers; eight have decayed teeth;
 nine have hypertropliied tonsils, and five probably have adenoids.
 Decayed teeth are associated with enlarged tonsils in every case.

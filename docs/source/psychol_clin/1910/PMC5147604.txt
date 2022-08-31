@@ -1,8 +1,9 @@
 Physiological Age as A Basis for the Classification of Pupils Entering High Schools? Relation of Pubescence to Height
 =======================================================================================================================
 
-By Wilfked L. Foster, M.D.,
+:Author: Wilfked L. Foster, M.D.,
 Brooklyn, N. Y.
+
 About one-tliird of all the boys who enter high schools in
 New York City are discharged during the first term. It is hard
 to believe that it is necessary for so many to leave school so soon,
@@ -33,11 +34,10 @@ they are usually not found with them "outside of the school".
 The average height of a boy of fourteen is about five feet,
 but this relationship between height and age is quite variable.
 A boy of fourteen may be physiologically older than a boy of
-(83)
-84 THE PSYCHOLOGICAL CLINIC.
 sixteen.1 Chronological age is not a good index of development.
 Through illness, poor nutrition, or lack of fresh air and sunshine, growth may be retarded, while under better hygienic conditions it may go ahead of the standard height and weight of a
 certain stage of growth.2
+
 The majority of boys who enter the IsTew York City high
 schools are between the ages of fourteen and sixteen, the age of
 pubescence. The degree of pubescence in each case may be taken
@@ -46,11 +46,13 @@ of pupils on this basis can easily be made, the degree of pubescence being simpl
 of the physical examination. Of course, some will be found to
 be pre-pubescent and others post-pubescent, but by far the greater
 number are pubescent.
+
 A classification according to degree of pubescence was made
 of the entering class of a ISTew York City high school. This
 class was of the cosmopolitan character usual in this city. The
 following list classifies them according to nationalities, or rather
 according to the country where their parents were born:
+
 Number Per cent Number Per cent
 America   146 31.60 France   7 1.52
 G-ermany   886 18.73 Canada (French) 3 .65
@@ -76,7 +78,7 @@ Wramp'on, 0. Ward. The Influence of Physiological Age upon Scholarship.
 The Psychological Clinic, Vol. I, No. 4, June, 1907. See also American Physical
 Education Review, April-June, 1908.
 1Marro, A. La Puberty, Paris: Schleicher Fr&res, 1901.
-PHYSIOLOGICAL AGE. 85
+
 Group I.
 Eight classcs arranged according to physiological age.
 Registered.
@@ -143,6 +145,7 @@ Most
 mature
 Least
 mature
+
 One hundred and forty-nine boys, making four other sections, entered the high school at the same time, and these sections
 were also ranked as above, judging their efficiency from the
 number of discharges, failures, and promotions. They were
@@ -151,6 +154,7 @@ the number of the school from which they came. There is no
 reason to suppose that they were in any respct inferior or superior to the boys who were classified according to physiological
 age. The results of their daily work and examination marks
 were as follows:
+
 Group II.
 Four classes, not arranged according to physiological age.
 Registered.
@@ -199,9 +203,10 @@ No. Per cent.
 57.8
 58.7
 52.3
+
 Further investigation of a previous class of over three hundred boys, classified rather indiscriminately, shows the following
 percentages of discharges, failures, and promotions:
-86 THE PSYCHOLOGICAL CLINIC.
+
 Group III.
 Not Classified.
 Registered, 318; Discharges, 27 per cent; Failures, 17 per cent; Promotions, 56 per cent.
@@ -236,18 +241,19 @@ The influences that tempt the big fellow to neglect school duties
 do not have the same force against the smaller boy. Some boys
 entered the high school a year or two after their graduation from
 the elementary schools. Some of them are in fact too fully developed to be classed as pubescents; they are post-pubescent. Their
-PHYSIOLOGICAL AGE. 87
 physical development has been normal, but intellectually, perhaps from innate mental dullness or from interrupted attendance
 at school, we find them poorly equipped to compete with the smaller
 boys. For these reasons it is quite certain that the boy of Class I
 will never be first in scholarship, but his records show that he will
 do much better when he is classed with boys of his own age than
 when any other classification is made.
+
 Here, too, we might note the close relationship between
 pubescence and height. The average height of the pre-pubescent
 was less than that of all others, and the average height of the
 classed of pubescents gradually increased with the advance in
 pubescence.
+
 Height in Different Geades op Pubescence.
 Number Average Maximum Minimum Total range
 38 Prepubescents   146.7 cm. 165.2 cm. 130.9 cm. 35 cm.
@@ -264,6 +270,7 @@ Number Average Maximum Minimum Total range
 5th "   160.5 cm. 171.3 cm. 148.4 cm. 23 cm.
 6th " ..  164.6 cm. 176.7 cm. 151.9 cm. 26 cm.
 7th "   167.6 cm. 178.7 cm. 156.2 cm. 22 cm.
+
 There is some overlapping of height in the different grades
 of pubescence, but the relationship is so close between height and
 pubescence that it might seem to a person who had a view of the
@@ -281,11 +288,11 @@ will not make much difference. There is so moderate an advance
 from one grade to the next higher, that he will be placed with boys
 of very near his own development, which is the object for which
 we are striving.
+
 The average variation of the different grades of pubescence
 was 26 cm., or about ten inches. In observing a single class, one
 would judge all the boys to be about the same height. In some
 schools where physical examinations are difficult or impossible, it
-88 THE PSYCHOLOGICAL CLINIC.
 would appear that similar results might he obtained by classification according to height.
 Classifications according to mental ability, which are sometimes made in the first term of the high school, stimulate ambitious boys to place themselves in those classes which are known
 to contain the brightest students. This stimulating effect may
@@ -299,6 +306,7 @@ If by making school life more agreeable, we can arouse in
 a student a desire to stay in the high school as long as circumstances will permit, we shall have gone a great way toward solving
 one of the many problems of the education of our adolescents.
 Summary.
+
 1. It is more agreeable for boys of the same development to
 associate with one another.
 2. A classification of high school students according to physiological age, based upon pubescence, is easy and practical.

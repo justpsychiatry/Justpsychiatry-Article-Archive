@@ -3,11 +3,12 @@ On The Treatment of Blindness and Deafness Resulting from Cerebro-Spinal Meningi
 
 70 Art. VI. BY THE CONSTANT CURRENT OF
 ELECTRICITY.
-By EDWARD C. MANN, M.D.
+:Author: Edward C. Mann, M.D.
 
 Supt. Sunnyside Retreat for Diseases of the Nervous System, Dipsomania and the Opium Habit,
 Member New York Neurological Society; New York Medico-Legal Society ; Am. Ass'n for
 cure of Inebriates, etc. Fort Washington, N.Y. City, U.S.A.
+
 The blindness and deafness resulting from cerebro-spinal meningitis have generally been considered by the profession as
 incurable. We have been led to the study and investigation of
 this class of cases by a very fortunate result obtained recently
@@ -38,13 +39,13 @@ so. The exudation is the greatest about the chiasm, in the
 fossa of Sylvius, at the base of the cerebellum and in the fissures
 of the cerebrum. The nerves from the base of the brain are
 completely bathed in the exudation. In the spinal cord we find
-ON TIIE TREATMENT OF BLINDNESS, ETC. 71
 vascularity of the dura mater, sometimes between the dura
 mater and arachnoid an effusion, and generally there is purulent
 effusion between the spinal arachnoid and the pia mater. The
 tissue of the pia mater is implicated. In this, as in other
 inflammations, we have an exudation of liquor sanguinis and
 migration of white blood-corpuscles and alterations in the nutrition of the inflamed tissue.
+
 These alterations in nutrition are characterised by an exaltation of the nutritive functions of the cellular elements of the
 tissues involved in the inflammatory process. We have consequently cell-proliferation. These new cells are not properly
 developed, are prons to take on retrogressive changes, and if
@@ -79,8 +80,6 @@ daily experience with both currents in nervous diseases, state
 positively my firm belief in what Niemeyer stated in 1870, that
 " in the constant current we have a means more powerful than
 any other* of modifying the nutritive conditions of parts that
-* Italics are mine.
-72 ON THE TREATMENT OF BLINDNESS, ETC.
 are deeply situated," I most firmly believe that other physicians
 can get the same results I have obtained in these cases with
 patience and perseverance. The most interesting case was that of
@@ -123,7 +122,6 @@ investigation, and patient and careful treatment; and we hope
 and believe that the results of our investigations in this
 direction will lead us to be able to class blindness and deafness,
 resulting from cerebro-spinal meningitis, among the curable
-ON TIIE TREATMENT OF BLINDNESS, ETC. 73
 forms of diseases of the nervous system. There are also chronic
 congestive states of the brain which tend to mental disorder if not
 checked, where, in my opinion, we have in the constant current
@@ -134,7 +132,9 @@ contraction of these vessels if we are to cure our patient. By
 using the positive pole at the level of the first cervical vertebra,
 and the negative at the level of the superior ganglion of either
 of the cervical sympathetic nerves we can get this result.
+
 Two things must be observed in order to be successful. 1st.
+
 Long continued treatment; and 2nd. the avoidance of an
 injuriously strong current. It is well to use a slowly interrupted galvanic current to promote vascular contraction.
 Patients usually experience relief which they describe as very

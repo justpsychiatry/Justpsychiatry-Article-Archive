@@ -1,7 +1,7 @@
 A Lesson from Medical Inspection of Schools
 ============================================
 
-By George H. Martin, Litt.D.,
+:Author:  George H. Martin, Litt.D.,
 Secretary State Board of Education, Boston, Mass.
 IS
 Medical inspection of school children has been continued
@@ -10,14 +10,17 @@ some rather sweeping generalizations. No large group of children has ever been e
 defects and disabilities, serious enough not only to affect their
 school work but to form, a real handicap in their after efforts to
 secure a livelihood.
+
 These results have been so universal as to warrant the assertion that a community which has not provided through its proper
 authorities for a thorough-going inspection of its schools is guilty
 of criminal negligence.
+
 The aggregate amount of discomfort and pain experienced
 by school children is enough to awaken universal sympathy. The
 hindrances to school advancement and the consequent waste of
 effort and of money are matters of serious concern, but the ignorance which lies back of it all and causes it all is a matter of much
 greater moment.
+
 When by school inspection it is discovered that of more than
 400,000 children examined in the schools of Massachusetts, 81,000 are defective in vision and 22,000 in hearing; when it is
 stated on reliable authority that 90 per cent of the school children
@@ -32,19 +35,20 @@ these means we patch up a few. Some glasses are provided, some
 teeth cleaned and filled, some adenoids removed, some heads shaved
 and petroleumized, and many children begin to know the joy of
 living.
-(9)
-10 THE PSYCHOLOGICAL CLINIC.
+
 All this is good. It is worth many times what it has cost.
 But is it enough ? Have school people done all their duty when
 they have admitted the school physician and the school nurse to the
 sacred precincts of the school room, when they have sent out the
 warning notices to the parents ?
+
 Supposing that all defects have been discovered and. remedied, so that school life goes on without aches and pains. Must
 we go all over it next year and the next and forever? The Massachusetts law says that every child shall be examined annually for
 defects and disabilities. There is no statute of limitations. Is
 there any hope of limitation? Is there any mode of limitation?
 Or is the social mill to go on grinding out diseased and enfeebled
 children by the thousands indefinitely!
+
 This is a more fundamental question than how we shall modify and adapt school work and school life to these defectives. That
 is an immediate and important question. But it deals only with
 symptoms, while it leaves the disease itself untouched. The disease isi ignorance complicated by wilful neglect.
@@ -54,6 +58,7 @@ intelligence in these matters has been slowly rising. When Horace
 Mann wrote his Sixth Report, in which he urged the necessity of
 instruction in physiology and hygiene, he satirized a school girl
 of the period:
+
 "Shall a young miss of sixteen, elated with the idea that she is just
 finishing her education, study rhetoric, and analyze scraps of the
 speeches of Grecian and Roman orators, when she does not know that the
@@ -61,8 +66,10 @@ fumes of burning coal will destroy life; and thinks, because she swallows
 her food and inhales her breath through her neck, that they both pass
 on to one common cavity in the chest, and hence concludes that respiration and digestion are functions of the same organ? Neither of the
 above is an imaginary or an extreme case."
+
 Perhaps we are warranted in thinking that such school girls
 are not to be found.
+
 When twenty years later Herbert Spencer sent out his hook
 on education everybody knew that his gibes at the English country gentleman were based on facts, and that he might have included American gentlemen as well. ITe said:
 "When the country gentleman has paid his daily visit to the stable,
@@ -70,10 +77,11 @@ and personally inspected the condition and treatment of his horse; when
 he has glanced at his minor live stock and given directions about them;
 how often does he go up to the nursery and examine into its dietary, its
 hours, its ventilation?
-MEDICAL INSPECTION OF SCHOOLS. 11
+
 ''The raising of first-rate bullocks is an occupation on which men of
 education willingly bestow much time, inquiry and thought. The bringing up of fine human beings is an occupation tacitly voted unworthy of
 their attention."
+
 There is 110 doubt, that more thought is being1 given to personal
 and domestic hygiene. There are more bath tubs and tooth brushes
 and clinical thermometers in family use; more family dietaries
@@ -84,6 +92,7 @@ are more remote from sink spouts and privies and barn yards.
 Communities are more critical as to their water supply and the
 disposal of their waste, and there is more belief in the necessity
 and efficiency of pure food laws.
+
 That this improvement is general is shown by the reduction
 of the number of cases of diphtheria and typhoid fever and tuberculosis,?preventable diseases.
 More hopeful still is the changed attitude of mind towards
@@ -92,6 +101,7 @@ and some theologic mists have been dispersed. Probably nowhere
 to-day, even in the churches which adhere most closely to the
 ancient formulas, would we hear the lines by Watts found in all
 the old hymn books:
+
 Diseases are Thy servants, Lord;
 They come at Thy command.*
 The educational forces by which this general uplift has come
@@ -103,23 +113,25 @@ few magazines and few newspapers which do not discuss with
 great, frequency and, on the whole, with intelligence and force,
 questions which pertain to public and personal health. Discussions in women's clubs and parents' associations of various kinds
 liave helped.
+
 To all these must be added the influence of the public schools.
 Physiology and hygiene have been included in the curriculum of
 many schools for many years, and some of the instruction given
 has been well selected, well arranged and well presented. To this
 extent the schools are entitled to credit.
 *This hymn was marked, " For Sickbed Devotions."
-12 THE PSYCHOLOGICAL CLINIC.
 But when we have admitted all this and congratulated ourselves
 upon the improvement, the disclosures made through medical inspection still confront us and call for action.
 The lesson which I have learned is that, in addition to all
 the other forces making for a better understanding of health conditions, it is the imperative and immediate duty of the schools
 of all grades to broaden and make more vital their teaching of
 physiology and hygiene.
+
 Compulsory laws exist in nearly all the states, making instruction in these subjects obligatory, but unfortunately the circumstances under which these laws were enacted left the conservative school people everywhere irritated and cold. The law in its
 purpose and scope was too narrow, limited as it was to the effects
 of alcohol and narcotics, and the methods prescribed in most states
 tended to make the work abortive.
+
 The opportunity now exists, and the results of medical inspection furnish the argument, for a now propaganda in favor
 of health instruction. It should begin in the lowest grade, because
 the little children not only need to be taught how to care for themselves, but how to care for children still younger. The majority
@@ -127,9 +139,11 @@ of children of the poorer families, especially of the more recent
 foreign immigration, have the burden early laid on them of "minding the baby". The following facts are typical:
 In a class of fifty children, thirty have the daily care of
 younger children.
+
 That such care is inevitable is shown by the fact that, in the
 families represented by these fifty children, thirty-four have four
 or more children.
+
 The instruction here needs to be simple, direct and sympathetic, absolutely free from technical anatomy and technical physiology. To instruction should be added insistence upon practice,
 for the end sought is the early formation of right habits. The
 results of the right sort of teaching will not be found in answers
@@ -138,19 +152,21 @@ in clear eyes and a responsive brain, in a frame erect and elastic,
 with all the signs of an abundant supply of good red blood. The
 teaching will also show itself in the luncheons the children bring
 and in the way they spend their pennies.
+
 In the higher grades the same ends are to be sought, but the
 instruction should be less purely dogmatic, and knowledge of the
 organs of the body and their function should furnish a rational
 basis for hygienic rules. Anatomy should still be kept subordinate.
 The hygiene of the home and its relation to personal health should
-MEDICAL INSPECTION OF SCHOOLS. 13
 be taught. The personal habits of the pupils must still be an
 object of the teacher's success.
+
 It ought not to be true in any school, as the reports of a school
 physician show was true in one set of schools, that the pupils in
 every grade up to the senior class in the high school had on an
 average four or more decayed and decaying teeth, and the teachers
 did not know it.
+
 It ought to be said to all teachers and said with emphasis,?
 "These things ought ye to have done at the risk of leaving some
 other things undone." We hear much about "essentials" in school
@@ -169,10 +185,12 @@ It should be so based on the other sciences and so correlated with
 them as to appeal to the intelligence of the most advanced students, and its relations to sociology should be shown through
 public hygiene to be so intimate as to fill it with genuine human
 interest.
+
 Two hindrances have been found to the successful prosecution of this work in the schools. The text-books have been poor,
 and many of the teachers uninstructed. Text-books are improving and normal schools are making personal and school hygiene
 more prominent in their training. Much, however, remains to
 be done.
+
 To-day the physicians, general and special, are more alive
 to the needs of the times than are the school people. o permanent results of the present agitation for better sanitary conditions,
 domestic and public, can be hoped for unless the schools cooperate

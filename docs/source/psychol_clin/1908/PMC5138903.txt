@@ -8,7 +8,7 @@ Leonard P. Ayres,
 General Superintendent of Schools, Porto Rico, 1906-S.
 In Charge of Backward Children Investigation,
 Russell Sage Foundation.
-V
+
 Students and critics of our public school systems are giving
 more and more attention to the record of the figures printed in
 the annual reports of superintendents and school boards. They
@@ -26,6 +26,7 @@ some degree current conceptions as to the elements which enter
 into one of the simpler statistical statements regarding schools,
 the number of children in each grade, that the present study has
 been undertaken.
+
 In recent discussion much has been made of the falling off
 in the number of children in the successive grades, from the first
 to the eighth. Writers, who have otherwise the most varied points
@@ -34,8 +35,6 @@ efficiency of school systems. Those of a more gifted imagination
 have seen in them evidence of a conspicuous failure of our schools
 to accomplish the purpose for which they are designed, while
 those more cautious by nature have not hesitated to make it a
-(121)
-122 THE PSYCHOLOGICAL CLINIC.
 reproach upon certain cities that their upper grades contained relatively fewer pupils than those of other localities.
 The feeling that these grade records embody facts of farreaching consequence is widespread. It reveals itself in a more
 general publication of the figures in question. Such tables are
@@ -51,6 +50,7 @@ for 1907 for upwards of seven hundred towns and cities. The
 Russell Sage Foundation has in preparation a compilation of these
 and other data from the reports of the hundred largest cities in
 the United States for the past ten years.
+
 Side by side with this more abundant presentation of the
 original data have appeared certain attempts at an interpretation.
 In the school reports we find an occasional, not always a very
@@ -71,6 +71,7 @@ does not afford the means of verifying or confuting the concluFACTORS AFFECTING 
 sions. Nor does it afford a means whereby other cities not included
 in the computations can be compared with those which are so
 included.
+
 Yet there can be no doubt that Dr Tliorndike's contribution
 has stirred up a great deal of interest, and has led to such a
 scrutiny of the grade statistics as they have not received before.
@@ -88,11 +89,13 @@ the grade distribution of pupils in the public schools is the resultant of sever
 have no very clear idea of what those forces are. It is the purpose
 of the present study to make clear, if possible, some of the forces
 which produce this complex result.
+
 In our study we shall proceed from the known fact of unequal
 numbers in the several grades. It will be our purpose to exhibit
 the various factors which tend to increase or decrease this inequality. "We shall see, moreover, that many of the causes at
 work have nothing whatever to do with the efficiency of the school
 system, and others have little relation to it.
+
 In the course of his study of elimination, Dr Thorndike
 reaches the conclusion that the amount of elimination is comparatively unrelated to the efficiency of the school system and deprecates any inferences as to the latter from the rate of elimination
 which results from his studies. Our studies have led us to similar
@@ -100,11 +103,11 @@ results in comparing the grade inequalities of different cities. Any
 conclusions as to the relative merits of different systems should be
 reserved until all the elements entering into the observed grade
 inequalities have been carefully gauged.
+
 Figures showing grade distribution in city school systems
 form the simplest and most common sort of statistical information
 bearing on this subject. Wherever such figures are printed their
 most prominent characteristic is the diminution in the numbers
-124 THE PSYCHOLOGICAL CLINIC.
 of children in the successive grades. Thus the report of the Board
 of Education of Chicago for 1906 gives the average membership
 in that city as follows:
@@ -116,6 +119,7 @@ Fifth grade  28,056
 Sixth grade  22,540
 Seventh grade   17,643
 Eighth grade   12,939
+
 Here the most casual inspection of the figures shows us that
 the second grade is far smaller than the first, the third considerably
 less numerous than the second, and so on until we reach the eighth
@@ -123,6 +127,7 @@ grade, which is considerably less than one-third as large as the first.
 'Nor should it be supposed that Chicago is exceptional in this
 respect. On the contrary, very many cities show even greater
 disparities in their grade distributions.
+
 The natural conclusion of the casual student of such figures
 is that the pupils are dropping out of school all the time, and hence
 the number in each grade diminishes as the grades advance. In the
@@ -137,6 +142,7 @@ very common idea that substantially the same number of children
 enter school each year, that they advance with fair regularity from
 grade to grade, and that they remain until the completion of the
 elementary course.
+
 In fact, all of these suppositions are erroneous. To begin
 with, there is a certain natural decrease in the number of children
 with advancing age which is due to death; so that we may always
@@ -145,21 +151,23 @@ Secondly, there is an increase in the size of each successive and
 younger generation of children which is due to the natural increase
 in population. Looked at from the standpoint of the age fourteen,
 each younger generation is larger. Looked at from the standpoint
-FACTORS AFFECTING GRADE DISTRIBUTION. 125
 of the age seven, each older generation is smaller than the preceding. It is obvious that there are in New York State more five
 year old children to-day than there were five years ago, and hence
 at the present time more five-year-olds than ten-year-olds. These
 two elements?that of death and that of the increased size of
 each succeeding generation?contribute to form the factor of
 population. '
+
 All children do not advance regularly from grade to grade;
 some of them are left behind to repeat a year or two. This is the
 factor of retardation.
+
 All children do not complete the elementary schools. In
 some localities few and in others more leave the early or primary
 grades, but in all localities great numbers leave the grammar grades
 upon reaching the age of fourteen years. This is the factor of
 elimination.
+
 It is not denied that other factors may and undoubtedly do
 affect the size of grades in certain cases and localities. Among
 such possible factors may be mentioned the influx of children
@@ -169,7 +177,9 @@ immigrant children who enter the schools at comparatively advanced age. But such
 influence and undoubtedly compensatory to a certain extent in
 their action. On the other hand, the three factors of population,
 retardation, and elimination are always present.
+
 Population.
+
 Two elements contributing to form the factor of population
 have been mentioned: decrease by death and the natural increase
 in successive age generations caused by an increasing population.
@@ -178,6 +188,7 @@ seven years as the age of pupils in the first grade, and if we
 suppose for the sake of argument a stationary school population in
 which 1000 pupils enter school each year, none die, and none
 drop out, we have a grade distribution as follows:
+
 Grade Distnbution in a Stationary Population with
 No Deaths.
 First grade    1000 children 7 years old
@@ -208,6 +219,7 @@ Eighth grade  973.7
 12
 13
 14
+
 It will thus be seen that the element of death alone will
 account for a decrease of some 26 or 27 in the progress of each
 1000 children from the first grade to the eighth.
@@ -217,6 +229,7 @@ factor the two together constitute we may perhaps roughly measure
 by applying to the problem the figures given for each age group
 from seven to fourteen years inclusive in the aggregate population
 of the United States according to the late census.
+
 At that time there were in the United States 1,787,019 children seven years old. Those fourteen years old numbered 1,556,112. There are plainly two reasons why the children fourteen
 years old are less numerous than those seven years old: First,
 there were fewer children born fourteen years ago than seven
@@ -228,7 +241,6 @@ numerous than those of eight. The number of children at each
 age from seven to fourteen will gradually diminish. By dividing
 the number of fourteen year old children by that of those seven
 years old, we can readily find how many fourteen-year-olds there
-FACTORS AFFECTING GRADE DISTRIBUTION. 127
 are to be expected when there are, say, 1000 seven-year-olds. By
 means of such relative figures we may show how many children
 there are in the United States as a whole at the ages of eight,
@@ -236,6 +248,7 @@ nine, etc., for each 1000 at the age of seven. Stating this in the
 form of a supposititious grade distribution, we have the following:
 Grade Distribution as Influenced by the Two Elements,
 Death and Increase of Population.
+
 First grade  1000 children 7 years old
 Second grade  985 " 8 "
 Third grade  964 " 9 "
@@ -253,6 +266,7 @@ relative figures. In that case, instead of saying that for each
 1000 children seven years old there are 871 at the age of fourteen, we should say that for each 1000 at the age of fourteen we
 may expect to find 1148 seven years old. This is simply the
 same proposition stated in different terms.
+
 It is not claimed, of course, that the figures in the table
 constitute an absolute measure applicable to any school system.
 Their value lies rather in giving a typical measure of the attenuation to be allowed for from influences of population under normal
@@ -265,12 +279,12 @@ upon reaching the eighth grade, and we shall not be far out of
 the way if we state that under perfect school conditions of progress
 and retention of pupils we could in no case expect to find more
 than 87 per cent as many children in the eighth grade as in the
-128 THE PSYCHOLOGICAL CLINIC.
 first grade. This is a constant and very considerable factor in
 bringing about disparity in the number of children in the several
 grades, and it is one which has been entirely overlooked in much
 of the current discussion of the problem.
-Retardation-.
+
+Retardation.
 It is almost a truism to say that all pupils do not advance
 regularly from grade to grade. It is a fact of which all educators
 are keenly aware. But just how many pupils fail to advance and
@@ -280,6 +294,7 @@ is not even any general agreement as to how "percentage of promotions" shall be 
 in the matter. Some information on the subject may be gleaned
 from a study of school reports. The most recent reports from five
 large cities give the following statement:
+
 ritv Per Cent of
 Promotions
 New York  70
@@ -287,6 +302,7 @@ Chicago   83
 Cincinnati  80
 Columbus  78
 Kansas City, Mo  71
+
 From these figures it appears that we shall not greatly err if
 we assume that it is reasonable to expect that about 80 per cent
 of the pupils in a system will be advanced at each regular time of
@@ -304,7 +320,6 @@ normal progress, or that planned by the course of study, we shall
 have five-fourths of the normal number of pupils in each grade.
 That is, if the factor of population were inoperative, we should
 have under these conditions the following grade distribution:
-FACTORS AFFECTING GRADE DISTRIBUTION. 129
 Grade Distribution when 80 Per Cent of the Pupils are
 Promoted, All Finish, and the Population
 Factor Does not Enter.
@@ -322,6 +337,7 @@ who find themselves in some grade lower than the eighth at the age
 of fourteen, fifteen, or sixteen do not remain to complete the
 course. They drop out. This brings us to the third factor, that of
 Elimination.
+
 A study of the age distribution of pupils in the schools of
 the five largest cities in the United States shows, after allowing
 for inaccuracies of age returns, which are proverbial, that in the
@@ -333,6 +349,7 @@ fourteen, many drop out at that age, and some anticipate it and
 leave at the age of thirteen. The data from these cities gives us
 very nearly the following table when the figures are reduced to
 relative terms:
+
 Children of 10 years  104
 Children of 11 years  102
 Children of 12 years  100
@@ -340,11 +357,12 @@ Children of 13 years  90
 Children of 14 years    50
 Children of 15 years  25
 Children of 16 years  12
-130 THE PSYCHOLOGICAL CLINIC.
+
 From these figures we may assume as a reasonable approximation, that in the elementary schools 10 per cent of the children
 will have left at thirteen years of age, that 50 per cent will have
 left at fourteen, half of the remainder at fifteen, and again half
 of these at the age of sixteen.
+
 ]STow, if pupils in school advanced with substantial regularity,
 so as to reach the upper grades by the time they attained the age
 of thirteen or fourteen, it is evident that elimination would not
@@ -353,6 +371,7 @@ would be operative only in the highest grades. But we know that
 pupils of these ages are found in the intermediate grades in no
 inconsiderable numbers. This brings into operation the factors
 of retardation and elimination in combination.
+
 To show what the result is we may have recourse again to
 a supposititious case, but one this time which more nearly approaches conditions as found in our schools than do those cited
 heretofore. Suppose we have a school system where the population is stationary, where 1000 new pupils enter the schools at the
@@ -361,6 +380,7 @@ the age of thirteen, 50 per cent by the time they are fourteen, 50
 per cent of the remainder at fifteen years, and half of those left
 drop out at sixteen years of age. Under these conditions we shall
 have the following age and grade distribution:
+
 Age and Grade Distribution. Stationary Population. Retardation and Elimination both Operative.
 Ages.
 Grades 7 8 9 10 11 12 13 14 15 16 Total
@@ -377,7 +397,6 @@ In this table we have for the first time a grade distribution
 closely approximating those commonly found in the school systems
 of our cities. The familiar characteristics are present: the falling
 off in size of the successive grades, the presence of substantially
-FACTORS AFFECTING GRADE DISTRIBUTION. 131
 equal age groups until we reach the age of thirteen, when there is
 a slight falling off followed by a much sharper drop; and the small
 size of the eighth grade as compared with the first. We have well
@@ -395,12 +414,14 @@ of school sittings or -schoolrooms required, nor would it result in
 any financial economy. The economies effected would be educational rather than material. They would consist in giving a more
 extended education to a larger proportion of the children entering
 school.
+
 Summarizing our three modifying factors of Population,
 Retardation, and Elimination, we may compare in one table the
 effect which each one of these separately, and finally the three
 working together, will have on the grade distribution of a community, when 1000 children enter the first grade.
 Grade Distributions Showing Modification by Different Factors.
 No Death Retarda- Population,
+
 Grades Modify- Death and In- tion and Retardation
 Ing Fact- Only crease of Elimina- and
 ors Population tion Elimination
@@ -416,7 +437,6 @@ Total   8000 7891 7471 7671 7271
 This final distribution which we have as the resultant of the
 combined modifying influences of the factors of Population, Retardation, and Elimination, may well appear extreme to anyone
 who has not devoted considerable study to the phenomena of grade
-132 THE PSYCHOLOGICAL CLINIC.
 distribution. At first siglit the disparity in numbers between the
 1250 children in the first grade and the 198 in the eighth seems
 unreasonably large, while on the other hand the total of the eight
@@ -427,6 +447,7 @@ in some of our cities, taking in each case 1000 pupils in the first
 grade as a base and using relative figures to facilitate comparison.
 Grade Distributions on Basis of 1,000 Pupils in First Grade.
 Supposititious
+
 Grades Case?AJ1 three Jersey City, N. J. Newark, N. J. New York City
 Factors operative 1903 19j3 1907
 First   1000 1000 1000 1000
@@ -453,7 +474,6 @@ population factor, whereas in actual school systems the percentage
 of promotion from the first grade to the second is almost invariably
 lower than it is in the case of the higher grades A larger proportion of children enter the first grade late in the year and so fail of
 promotion, than is the case in the other grades. As the conditions
-FACTORS AFFECTING GRADE DISTRIBUTION. 133
 in this respect vary greatly in different localities, it is obvious that
 any standard which has for its basis the number of children in the
 first grade will be of little utility as a criterion for judging the
@@ -463,10 +483,12 @@ in the upper grades?would have introduced complications into
 our calculations which were deemed unnecessary, since our purpose
 was rather to demonstrate the existence of these factors, than to
 propose an exact measurement.
+
 As a result, then, of our study we may formulate the following general rules which will serve as tolerably accurate criteria for
 judging the grade membership in American city school systems
 under substantially normal conditions of population and school
 administration:
+
 (1) During the eight years following their entrance into the
 school system we may count on about 27 in each
 1000 of these children being removed by death.
@@ -483,6 +505,7 @@ on reaching the age of thirteen years, 50 per cent
 by the time they are fourteen, 50 per cent of the
 remainder at fifteen, and again 50 per cent of the
 remainder at the age of sixteen.
+
 In general it appears, then, that the grade distribution is the
 resultant of such diverse elements, that without the most careful
 analysis conclusions as to any of these elements are liable to go

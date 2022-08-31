@@ -1,8 +1,9 @@
 The Need for Improved Records of the Physical Condition of School Children
 ============================================================================
 
-By Walter S. Coknekl, M.D.,
+:Author:  Walter S. Coknekl, M.D.,
 University of Pennsylvania and Bureau of Health, Philadelphia.
+
 The reports on the physical condition of school children which
 have been issued in the past by school and health authorities, have
 been fair statements of conditions found and have served to demonstrate the wisdom of medical inspection and to further its universal adoption. It must be admitted, however, that up to the
@@ -28,16 +29,16 @@ mental defect." Such reports fail to state that the first investigator had zealo
 multiplied one eye-strain case into the four defects of "defective
 vision," "headache," "blepharitis," and "stye;" that the second
 had examined a class of eight-year-old children whose age bespoke
-(161)
-162 THE PSYCHOLOGICAL CLINIC
 a large number of decaying temporary teeth; while a third had
 drawn his inferences after ruining his work by including decayed
 teeth and the enlarged cervical glands secondary thereto among
 the physical defects considered.
+
 Let us make our physical examinations and compile our statistics in conformity at least with the following principles:
 1. The principal defect should be clearly recorded and emphasized. Those most frequently met with are ten in number, eyestrain, enlarged tonsils, nasal obstruction, defective hearing, discharging ears, poor nutrition, decayed teeth, stoop shoulders (including flat clhest), lateral curvature, nervous exhaustion and
 mental defect. In this way only can a comprehensive analysis of
 conditions be obtained.
+
 2. Secondary symptoms such as headache and catarrh should
 not only be recorded in such manner that their secondary character is understood, but should be grouped so that medical knowledge as to their relative frequency may be acquired.
 3. The number of physical defects reported to the parents
@@ -50,19 +51,21 @@ teeth encountered is so enormous that their addition to a general
 list of the other physical defects practically doubles the total
 number. The various physical defects are of such a widely different significance that such a general list is of little scientific
 value.
+
 4. Non-curable defects such as weak heart, high palate, paralyzed limbs, and temporary ailments such as styes, boils, and infrequent headaches, should receive separate record.
 , 5. The individual eye records should state the acuity of
 vision, the existence of squint, and the wearing of eye-glasses.
 By this method only can material for proper further study be
 produced. Routine official statistics as to these details is unnecessary, since they are nearly constant factors and standard figures
 can be established by a few intelligent studies.
+
 6. Age, grade and social condition should be considered in
 connection with physical defect. By this method developmental
 defects can be traced year by year throughout school life, the
 maximum prevalence of nasal obstruction and decayed teeth at
 definite ages demonstrated, and the relation of these various defects
 to the environment of the children determined.
-NEED OF IMPROVED RECORDS 163
+
 In an article in a former issue of this journal1 the writer
 endeavored to follow these general principles in his record of the
 physical condition of the school children attending the School of
@@ -73,4 +76,5 @@ the figures presented correspond closely with those drawn from
 the examination of the total school population of a great city,
 the general ideas here advocated were utilized in their preparation
 so far as opportunity permitted.
+
 'The Psychological Clinic, Vol. Ill, No. 5, October, 1909, p. 134.

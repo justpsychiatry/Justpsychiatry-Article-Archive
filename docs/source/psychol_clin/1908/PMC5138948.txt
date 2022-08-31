@@ -3,10 +3,9 @@ A Concrete Example of the Value of Individual Teaching
 
 The Psychological Clinic
 Vol. II. No. 1. December 15, 1908.
-^ x
-
-By Elmer E. Jokes, Ph.D.,
+:Author:  Elmer E. Jokes, Ph.D.,
 Indiana University.
+
 There is a type of child who sits under the ordinary class-room
 instruction and derives therefrom not the slightest benefit. lie
 appears listless and stupid, is not able to fasten his attention upon
@@ -30,9 +29,9 @@ darkness and physical degeneracy. Society is burdened to-day
 with a small percentage of such individuals, who might have been
 trained to some form of usefulness and thus have been made contributors to the assets of society, instead of unwholesome consumers, giving nothing in return. Herein, doubtless, we find a
 serious defect in the general public school system which will eventu(195)
-196 THE PSYCHOLOGICAL CLINIC
 ally be remedied by giving all such pupils the special training
 needed to bring about educative reactions.
+
 It is my opinion that the great majority of such children are
 not at all abnormal, but are regarded as defective because the
 character of the teaching has not been adapted to their individual
@@ -47,6 +46,7 @@ and if the process, which adequately instructs the class as a whole,
 fails to reach him, then he must be taken as an individual, and
 given the educational treatment which will bring about that mental
 and physical development of which he is capable.
+
 The results of the present investigation were obtained while
 studying another problem undertaken the past year with children
 of the first grade of the Training School, in the State Normal
@@ -59,6 +59,7 @@ children, with a view to determining everything possible concerning
 the manner in which the children learned the words in the prescribed reading lessons. For each child a learning curve was
 worked out, which indicated the number of words learned, and the
 rapidity with which they were learned.
+
 The tests were made in the following manner. As fast as
 words were added to the reading vocabulary of the child in the
 class-room, they were written on cards three by nine inches and
@@ -69,7 +70,6 @@ About ten words were added to the list each week, and the child
 was compelled to go over the whole list from the beginning each
 time he was tested. This was continued until in my judgment
 the tests became invalid, owing to the fact that the children reached
-INDIVIDUAL TEACHING. 197
 a point eventually, when they could name almost any word presented, whether they had ever seen it before or not. This was
 due to the excellent system of phonetics used in this school, which
 very soon enabled the child to interpret the sounds of letters and
@@ -80,6 +80,7 @@ but rather upon his ingenuity in grouping sounds and combinations of sounds into
 this stage he was excused from further tests. A complete record
 of all errors was kept throughout the long series, and a careful
 study of them reveals much of interest to the primary teacher.
+
 Among the children tested was a boy who is the special object
 of study in this paper. He had been in the Kindergarten in connection with the Training School for two years before entering
 the first grade, and in that work had been pronounced rather stupid.
@@ -108,7 +109,6 @@ appeared to carry absolutely no meaning to him. When not a
 prey to the mischievous fits, he would fall into a sort of stupor,
 resting his head upon the desk. He was somewhat under size for
 his age, but his growth at present appears to be about normal. He
-198 THE PSYCHOLOGICAL CLINIC
 increased in height one inch and a half during the time in which
 the tests were made, and gained in weight over two pounds. He
 has fair skin with usually a good color, light hair, and blue-gray
@@ -123,6 +123,7 @@ of extra drill in the regular work of the class. Still he was not
 reached by all this effort, and during the whole time he actually
 learned only a few words, and the tests showed that even these
 were known only spasmodically.
+
 TABLE I.
 Results Under Class Instruction.
 'D 03 T3
@@ -168,10 +169,10 @@ bred, seed, is.
 . .chickadees, flower, bred, caterpillar, goldenrod,
 sister, mother, doll, flower, kite, orange, father.
 16 160 2 goldenrod, mother.
+
 A very little study of Table I will suffice to show how much the
 ordinary class instruction had impressed him. The first column
 indicates the number of tests made, usually at an interval of a week
-INDIVIDUAL TEACHING. 199
 apart; the second column shows the number of words which each
 member of the class was supposed to know at the time the test
 was made; the third column shows the number of words which this
@@ -209,8 +210,8 @@ tabulated that this boy during the sixteen weeks had obtained
 scarcely a single lasting impression. The teaching was not at
 all adapted to his physical and mental condition, as is shown by
 the later results.
+
 After sixteen weeks of this sort of failure the boy was placed
-200 THE PSYCHOLOGICAL CLINIC
 under one of the best student teachers and started all over again.
 His teacher showed great tact in dealing with his case, by appealing to his meagre interests, and holding his attention for short
 intervals. The subject matter of the work did not differ materially
@@ -247,15 +248,16 @@ do, has.
 fly, has, jump.
 1 4 140 130 white, cocoon, in, am, feed, find, fly, had, has,
 were.
+
 the work was changed in such a way that his interest was made
 continuous. To the delight of his teacher, and all who had observed him during the previous months, and even to his own great
 joy, it was found that he could learn. Under this method of treatment, he was not stupid at all, on the contrary his learning capacity
 was almost up to the average of the class. This is shown by a
 comparison of Tables I, II and III.
+
 The third column of Table II, which gives the number of
 words known at each test, increases steadily from the first test,
 when he knew all of the ten words of the reading vocabulary, to
-INDIVIDUAL TEACHING. 201
 the fourteenth test when he knew 130 out of 140 words. The
 words known at each test were so numerous that these have not been
 inserted in the fourth column of the table, but in their place are
@@ -270,6 +272,7 @@ once a week he came into my office and tried to name them from
 the cards. He was perfectly delighted at his own success, and for
 about three months continued to learn at about the normal rate,
 when it became necessary to close the series of tests.
+
 TABLE III.
 A Normal Child Under Class Instruction.
 O O ? O
@@ -327,13 +330,13 @@ s a a
 ..horses, spun, his, is, it, girls, goats, Tom.
 ..horses, spun, goats, here, too, yes, sleep, sheep.
 ..here, sleep, glad, looking, brook, book.
+
 In order to compare this boy's learning capacity under individual instruction with that of a normal child under class instruction, the record of a little girl considered of average ability in
 the class is given in Table III. On the first test she knew eight
 words, and on the fourteenth test 132 words. She improved
 steadily from the first to the fourteenth test. The record of the
 supposedly defective boy, under individual training, is about as
 good as that of this normal child under class instruction. Indeed,
-202 THE PSYCHOLOGICAL CLINIC
 he excels her in the number of words known in the first, second,
 and seventh tests, equals her in the third and fourth tests, and in
 the other tests he falls below her record by from 1 to 9 words.
@@ -350,7 +353,7 @@ to 154. Heavy lower line, the learning curve of the retarded boy under
 class instruction; upper solid line, the learning curve of the same boy
 under individual teaching; broken line, the learning curve of a normal
 girl under class instruction.
-INDIVIDUAL TEACHING. 203
+
 tive boy under class instruction. It rises very little above the
 horizontal line, and there is no noticeable continuous rise in the
 curve from the beginning to the end of the tests. The lighter solid

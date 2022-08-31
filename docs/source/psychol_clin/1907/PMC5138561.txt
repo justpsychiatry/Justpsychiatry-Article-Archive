@@ -2,16 +2,18 @@ The Psychology of Mentally Deficient Children
 =============================================
 
 REVIEWS AND CRITICISM.
-By Naomi Nors
+:Author:  Naomi Nors
 worthy, Ph.D., Instructor in JUducational .b'syciioiogy, Teachers'
 College, Columbia University. Archives of Psychology, No. 1.
 November, 1906.
+
 In The Psychology of Mentally Deficient Children, Dr Norsworthy
 has endeavored to solve three problems in relation to the mentally
 deficient: "(1) Whether the mental defects of idiots are equalled by the
 bodily; (2) whether idiots form a separate species or not; and (3)
 whether the entire mental growth is retarded,?that is, whether there is
 a lack of mental capacity all around."
+
 The method used is the experimental one." A series of physical and
 mental tests were made upon 157 "school cases" in the School for the
 Feeble-minded at Waverly, Mass., in the Institution for the Feebleminded at Lakeville, Conn., and in the classes for defectives in one
@@ -24,6 +26,7 @@ and classification of idiocy, and a summary of previous experimental
 work. It is followed by a statement of conclusions and remarks on the
 application of the results to the subject matter and methods used in the
 education of defectives.
+
 From so extensive a study and so imposing a display of tables we
 hoped to glean much valuable information, and were therefore greatly
 disappointed to find inaccuracy of historical statement, an incomplete
@@ -40,8 +43,6 @@ have been hampered by what we have called 'defective children' . . .
 In London in 1899 ... a committee was appointed to investigate
 the conditions as existing at that time in the schools . . . Acting
 upon the report of the committee the London School Board established
-(147)
-148 TEE PSYCHOLOGICAL CLINIC.
 special classes in connection with schools in various parts of the city.
 . . . Philadelphia, Providence, Boston, and in 1903 New York City also
 have followed the example set by London and provided for children
@@ -71,12 +72,14 @@ to Norway in 1874, to Austria and Switzerland in 1892, to Holland in
 established throughout Teutonic Europe before the year 1899, which is
 signalized by Dr Norsworthy as the year of a "step in advance" in the
 treatment of defective children.
+
 Even in Great Britain the movement was inaugurated before this
 year. The enforcement of the compulsory education laws in 1881 was
 followed by the opening of the first school for defective children in
 Leicester in the spring of 1892, and later in the same year three were
 established in London through the efforts of General Moberly, of the
 London School Board.
+
 Dr Norsworthy fails to recognize the fact that the American movement was as independent of the English as was the English of the German. The idea of special classes for defective children in the public
 schools was first introduced to American teachers by Professor August
 Sclienck, of Detroit, in 1878, in a talk before the American Teachers'
@@ -84,7 +87,6 @@ Association. Acting on this suggestion Dr Andrew Rickoff, Superintendent of Scho
 which, however, took care only of the morally deficient. The second
 American class was established in Chicago in 1892. This is still in
 existence and in charge of the original teacher. New York established
-REVIEWS AND CRITICISM. 149
 a special class in' 1895 under the direction of Miss Elizabeth Farrell.
 Providence was the fourth American city to establish a special class
 for mentally deficient children; this was in the year 1896, although
@@ -92,12 +94,14 @@ several years previously special classes for truants had been inaugurated
 following the abolition of corporal punishment and the strict enforcement of the truancy laws. A special class was organized in Portland,
 Maine, in 1896, and the first of seventeen classes for backward children
 was established in Philadelphia in the year 1899.
+
 Striking as is the incompleteness of Dr Norsworthy's history,
 her summary of previous experimental work presents more glaring
 omissions. Thus, Binet and Simon report a long series of experiments
 in L'Annee Psychologique, 1905, Vol. XI, pp. 63-336, which are entirely
 overlooked, as is also the well-known experimental work of Ranschburg,
-of Demoor and Daniels, and of many others.*
+of Demoor and Daniels, and of many others.
+
 Dr Norsworthy's use of the term idiot to designate any and all
 grades of mental deficiency is apt to cause confusion in the minds of her
 readers. The term idiot is usually limited to the lower grades of the
@@ -129,7 +133,6 @@ Wreschner. Eine experiment-die Studie iibcr die Association in einem
 Falle von Idiotic. Allgemeine Zeitschrift fur Psychiatric. Band LVII.
 Simon. RccJicrchcs anthropomttrique sur 223 gar^ons anormaux agts
 de 8 d 23 ans. L'Annee Psychologique. 1899. Vol. VI, pp. 191-247.
-150 THE PSYCHOLOGICAL CLINIC.
 simply occupy a position at the extreme of some large distribution,
 probably approximately that expressed by the normal probability curve;
 (3) Among idiots there is an equal lack of mental capacity in all directions: there is something of the same lack of correlation among the
@@ -137,6 +140,7 @@ traits measured in the case of idiots as there is with ordinary people."
 In criticising these conclusions we must bear in mind that idiot
 as used by the author applies to imbeciles and still higher grades of the
 mentally defective.
+
 That "mental defects of idiots are not equalled by the bodily,"
 may be the opinion of Dr Norsworthy, but to designate it as a conclusion from the data presented is an unwarrantable employment of experimental results in the service of generalization. As representative of
 bodily conditions Dr Norsworthy limits herself to height, weight, pulse
@@ -168,7 +172,6 @@ in only two tests did the defectives fail of any improvement, while the
 normal failed in three tests; and that the further removed the defective was from the normal the greater was his improvement. She
 further compares year for year the increase in ability of the defectives
 with the increase in ability of normal children of the same age. These
-REVIEWS AND CRITICISM. 151
 results were overwhelmingly in favor of the defectives, the total improvement mark of the defectives exclusive of height and weight being
 24.1, and that of ordinary children being 8.7. From these figures the
 conclusions are drawn: "(1) That among mental defectives a decided
@@ -179,6 +182,7 @@ defectives most like ordinary individuals; (3) That the improvement
 is not equal in all directions, but that some mental functions improve
 more rapidly and to a greater extent than others, and that even the
 functions we designate as intellectual show marked improvement."
+
 Such results, one would think, would have been sufficient to lead
 Dr Norswortliy to look for some flaw in her method. On the contrary,
 she accepts them unquestionably, states that "they show definitely
@@ -190,6 +194,7 @@ greatest difficulties in the training of these children is the lack of uniformit
 great improvement in ability had she taken her second series of tests
 after an interval of one day as after the interval of one year. Moreover, no attempt was made to ascertain and eliminate the effect of
 practice either with the so-called idiots or with the normal children.
+
 The false conclusions that Dr Norsworthy has drawn from her
 figures lead her to. make most startling suggestions as to subject matter
 and method of education. She states that the psychological methods
@@ -232,6 +237,7 @@ is the practical one that as idiots can never become "leaders of men,"
 they can be made of more practical use by manual training, trades,
 etc. It is very evident that Dr Norsworthy has had little real experience
 with idiots.
+
 The statement in the final paragraph that "we must criticize the
 methods of educating idiots from the same standpoint, and use the same
 arguments, either for or against, that we do in criticizing the methods
@@ -250,7 +256,6 @@ attracted by the admirable clearness with which the restilts are presented
 both in tabulated and graphic form. This can be attained only by an
 expenditure of time and mental effort that too many investigators
 neglect to make, and Dr Norsworthy deserves great praise for the
-REVIEWS AND CRITICISM. 153
 consideration she lias shown her readers and the skill she has displayed
 in meeting this requirement of scientific exposition. The method of
 comparing the results of tests upon an individual feeble-minded child
@@ -263,6 +268,7 @@ opposite of words like peace, enemy, sad, below, and the wholes of which
 the following words are parts, door, pillow, letter, leaf, button; and particular things of which class names are given, booh, tree, room, etc.:?requires readiness of association as well as a stock of information. Several
 of the tests require a knowledge of reading and writing, with which the
 majority of the feeble-minded children are not equipped.
+
 Dr Norsworthy's investigation is one of a number of interesting
 attempts to gain an insight into the psychology of the mentally deficient
 by means of the experimental method. Her methods and results offer no

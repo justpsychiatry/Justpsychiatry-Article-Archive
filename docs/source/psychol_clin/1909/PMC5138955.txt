@@ -4,15 +4,17 @@ Irregular Attendance? A Cause of Retardation
 The Psychological Clinic
 Vol. III. No. 1. March 15, 1909.
 
-By Leonard P. Ayres,
+:Author:  Leonard P. Ayres,
 In Charge of Backward Children Investigation, Russell Sage Foundation,
 New York City.
+
 In the current discussion of backwardness or retardation
 among school children, it has been established that from onequarter to one-half of all of the children in the schools are behind
 the proper grade for their age or have made less progress than
 they should in the time they have attended school. Whether
 classified by the criterion of age or by that of time in school, a
 large part of all of our school children are backward.
+
 It has also been thoroughly established, as an immediate
 result of this condition, that many children, upon reaching the
 age of fourteen or fifteen years, find themselves in the fifth or
@@ -28,8 +30,8 @@ Among the causes assigned, late starting, ignorance of the English
 language, innate dulness, and physical handicaps have been particularly emphasized. Less frequently, irregular attendance has
 been mentioned as a contributory factor. It is the purpose of
 the present article to present data showing that irregular attend(1)
-2 THE PSYCHOLOGICAL CLINIC.
 ance is a large, if not the largest, factor in bringing about retardation.
+
 The principles underlying the commonly used measurements
 for enumerating the children reached by a school system are comparatively simple. The common measures are three, namely:
 total enrolment, average enrolment, and average attendance.
@@ -39,9 +41,11 @@ year for any length of time, long or short.
 Average enrolment is often stated by months. It is an expression of the number of children on the roll on the supposition
 that all remained during the entire period. It is, of course, always
 smaller than the total enrolment.
+
 Average attendance is computed substantially as is the average
 enrolment. It is an expression of the number present on the supposition that all were present during the entire time. It is, of
 course, always smaller than average enrolment.
+
 These three measures of attendance have come into so nearly
 universal use that they are generally accepted without question.
 A school or a system that reports 90 or 95 per cent attendance is
@@ -52,6 +56,7 @@ How far this is from being the case is shown by comparing
 the average attendance with the total enrolment in some of our
 cities. According to the latest available figures, the relation be
 tween them in five of our largest systems is as follows:
+
 Total Average
 enrolment attendance
 New York 1000 751
@@ -60,11 +65,11 @@ Chicago  1000 823
 Baltimore  1000 662
 St. Louis 1000 813
 Kansas City  1000 733
+
 It is plain that total enrolment, the figure almost always
 used in stating the magnitude of our public school systems, while
 appealing effectively to civic pride, does not in reality give any
 accurate idea of how many children are present and receiving instruction each day.
-IRREGULAR ATTENDANCE. 3
 In nearly all systems provision is made for temporarily
 dropping from the roll the name of any pupil absent for more than
 a few days. In some places the period of absence allowed before
@@ -74,6 +79,7 @@ of attendance and a high percentage of attendance is assured.
 I he fluctuations of attendance below 100 per cent really indicate
 nothing more than that absences of a day or two have been more or
 less frequent as the case may be.
+
 It is obvious that such a system does not answer any question
 as to persistence of attendance. It does not tell us how many
 children have been present the entire year, and how many only a
@@ -89,6 +95,7 @@ m town, the attendance falls; when the sun shines and the circus
 leaves, attendance rises. The figures tell us nothing at all as to
 which pupils and how many are always in school and the number
 of those frequently absent.
+
 It is probable that few school men realize how many of the
 children in their schools arc present only a small fraction of the
 .year.
@@ -102,15 +109,16 @@ reports are from the following places: Columbus, Ohio (1907);
 Cleveland, Ohio (190(5) ; Dayton, Ohio (1907) ; Kansas City, Mo.
 (1907) ; New Orleans, La. (1907) ; Porto Rico (1907) ; Springfield, Ohio (1907); St. Louis, Mo. (1907); Syracuse, N. Y.
 (1907).
+
 The figures they give are not all computed on exactly the
 same basis. Cleveland and Porto Rico give figures showing the
 duration of enrolment, not attendance. It is impossible to dis*
-4 THE PSYCHOLOGICAL CLINIC.
 cover from the report the basis on which the Columbus figures
 are computed. The seven other cities give figures showing the
 duration of attendance of all the children enrolled during the
 year. The figures showing the attendance in the white district
 schools of St. Louis are as follows:
+
 200 days   3,367
 180 to 200   32,672
 160 to 180   11,935
@@ -123,16 +131,19 @@ schools of St. Louis are as follows:
 20 to 40   3,282
 Less than 20   2,844
 Total  -  75,731
+
 It is plain that the pupils who attended two hundred days
 were never absent, that those who fell within the one hundred and
 eighty to two hundred days group were in continual attendance
 with merely casual absences of a day or two, and that most, if
 not all, of the rest were absent for considerable periods, or else
 began late in the year or left early.
+
 In order to compare conditions in the different localities
 some common basis must be established. The easiest way to do
 this is to reduce the data to relative figures on the basis of conditions among 1000 children. When the St. Louis figures are so
 reduced they appear as follows:
+
 200 days  44
 180 to 200   431
 160 to 180  158
@@ -144,7 +155,6 @@ reduced they appear as follows:
 40 to 60  40
 20 to 40   43
 Less than 20   38 1000
-IRREGULAR ATTENDANCE. 5
 Now, it will certainly be conceded that Ave can hardly hope
 that pupils will be promoted unless they have been in attendance
 during at least three-fourths of the school year. It is desirable
@@ -155,6 +165,7 @@ rearrange the table, dividing each group in two so as to state attendance by gro
 table into four groups. When this is done and each group divided
 in two we have a new table giving the same information in new
 form as follows:
+
 200 days   44
 190 to 200   216
 180 to 190   215
@@ -177,16 +188,18 @@ form as follows:
 10 to 20   19
 0 to 10   19 101 10.1%
 Total 1000
+
 The dotted lines divide the year into fourths, leaving in the
 first division those who have attended more than three-fourths of
 the time, in the second those who have been present from one-half
 to three-fourths of the year and so on.
-6 THE PSYCHOLOGICAL CLINIC.
+
 This explanation has been given to make clear the treatment
 to which the figures from all the localities have been subjected.
 The final-results are presented in the following table:
 Persistence of Attendance of Pupils in Different Cities
 and in Porto Rico.
+
 Attendance by Fourths of the Year.
 Less than Less than Less than More than
 one-fourth one-half three-fourths three-fourths
@@ -206,12 +219,14 @@ of enrolment, and each would occupy a lower position in the table
 if the figures gave attendance instead. The basis of the Columbus
 figures is uncertain. The figures for St. Louis and New Orleans
 are for white elementary schools only.
+
 The striking condition disclosed is that, with the exception
 of Dayton, in no city do as many as three-fourths of the children
 attend as much as three-fourths of the school year. This is a radically different showing from that made by the figures published
 by some of these same cities giving percentages of attendance
 ranging from 90 to 85. The published percentages do not disclose significant conditions. The figures giving attendance by
 periods of time do.
+
 Only three of the cities publish figures which enable us to
 compare the number of children promoted with the number present at least three-fourths of the time. The results are as follows:
 Per cent
@@ -221,7 +236,7 @@ of the year.
 Springfield, 0  71.8 72.8
 Syracuse   70.3 64.9
 New Orleans   62.6 54.9
-IRREGULAR ATTENDANCE. 7
+
 It is obvious that, wo have not greatly erred when we assumed
 that a low percentage of attendance was accompanied by a low
 percentage of promotions. The low percentages of promotion
@@ -230,6 +245,7 @@ from SO to 90 per cent of the pupils being promoted. The reason
 for the low figures in our table is that they are the result of comparing the pupils promoted with the whole number enrolled, not
 with those enrolled 011 the last day of the year, which is the
 common basis.
+
 We may now consider the relation which such low percentages of promotion bear to retardation and its correlated evil,
 elimination. It is apparent that if considerable numbers of the
 children entering school fail to be advanced regularly, the lower
@@ -238,6 +254,7 @@ stream of pupils passing through them. Experience teaches us, too,
 that in the upper grades the pupils who have advanced slowly and
 so are over-age will drop out before completing the course, thus
 making these grades abnormally small.
+
 Certain general rules govern these phenomena. The first
 is that the number of children in the lower grades before the dropping out process begins will vary as the inverse of the rate of progress. That is, if we have four-fifths of the normal progress in
 these grades we shall have five-fourths of the normal number of
@@ -250,11 +267,13 @@ expect about 10 per cent of the children to leave school upon
 reaching the age of thirteen, about 50 per cent of the remainder
 at fourteen years, and again about 50 per cent of these at fifteen
 years.
+
 Where these conditions hold?and they exist as stated in many
 localities?if we assume a stationary population and no deaths, all
 the children entering school at the age of seven and a steady rate
 of promotion of 80 per cent, we shall have a grade distribution
 for every thousand children entering school as follows:
+
 Grades Pupils Grades Pupils
 1 1,250 5 1,112
 2  1,247 6  865
@@ -269,6 +288,7 @@ they are better, it is usually because many children enter before
 the age of seven, or because fewer drop out at the ages of thirteen,
 fourteen and fifteen. More rarely it is because the percentage of
 promotion is higher.
+
 To summarize then we may state our conclusion in four
 propositions:
 1. Such figures as are available indicate that in our cities less
@@ -278,6 +298,7 @@ as three-fourths of the year.
 of promotions.
 3. Low percentage of promotions is a potent factor in bringing about retardation.
 4. Retardation results in elimination.
+
 In the foregoing, no attempt has been made to discuss the
 fact that a part of the short term attendance is due to the immigration and emigration of families into and from different cities.
 Undoubtedly many children begin the school year in one city and

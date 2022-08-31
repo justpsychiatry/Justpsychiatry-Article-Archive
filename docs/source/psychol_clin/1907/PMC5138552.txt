@@ -1,9 +1,9 @@
 The Vision" Of the Pupils of a1st Elementary School Tested by the Snellen Alphabet and Illiterate Cards
 ==========================================================================================================
 
-
-By J. M. McCaulie,
+:Author:  J. M. McCaulie,
 Principal of the Centennial School, Trenton, N. J.
+
 In 1862 Dr Herman Snellen, professor of ophthalmology in
 the University of Utrecht, Holland, and director of the Netherlands Institute for Diseases of the Eye, published an improved
 series of test types for measuring the acuity of vision. The
@@ -12,6 +12,7 @@ is based upon the fact that the normal eye can just discern objects
 that subtend a one minute angle, the vertex of the angle being
 the point where the rays of light cross before falling on the
 retina.
+
 In order that a letter may be recognized, each one of its
 elements must be discernible, and hence each of these elements
 must have a diameter equal to the tangent of an angle of at least
@@ -34,8 +35,7 @@ with the object of ascertaining the number of pupils whose vision
 was subnormal, the examination also yielded data for a comparison
 of the results obtained by using Snellen's alphabet with those
 obtained by using his "illiterate E."
-(175)
-176 THE PSYCHOLOGICAL CLINIC.
+
 Knowing tliat the scientific value of the work which I was
 undertaking depended largely upon the accuracy of the methods
 adopted, I first secured a copy of Snellen's classic work on test
@@ -45,6 +45,7 @@ up, down, right, left. (See figure 1, p. 181.) The characters
 are all of a size and structure to be read by the normal eye at
 sixteen (Paris) feet,f and are printed on white unglazed paper,
 about the thickness of ordinary book paper.
+
 Each one of these letters I carefully cut out, leaving around
 each a margin of about one-fourth of an inch of white paper. The
 letters were then pasted on white cards, three and one-half by
@@ -65,12 +66,14 @@ to the efforts put forth by the children in reading the letters. By
 holding the cards in my hands T was able to utilize the best light
 in the room more easily than if I had used a large card hung on
 the wall, as is usually done in such tests.
+
 Next I selected the best position for light in each room where
 the tests were to be made. Beginning with this position, I made
 chalk marks on the floor the entire length of the room, the first
 mark being two feet away from the card, the second four, and so
 on. All of these tests were made in the class rooms while the
 teacher was carrying on the regular work.
+
 Everything being ready, the pupils were called one at a time
 and told to stand with their toes to line twenty, with a card held
 over one eye. Two or three letters were presented. If the pupil
@@ -78,6 +81,7 @@ could not read them, he was asked to step up two feet and try again.
 ?Snellen, H. Optotypl ad visum determlnandum secundum formulnrum
 v = Ed. XVIT. (Probebuehstahen 7,ur Bestimmung der Sehschilrfe.)
 Berlin, II. Peters. 1904.
+
 fThe Paris foot is a little more than twelve and three-quarters inches
 of the English scale.
 THE VISION OF PUPILS. 1??
@@ -93,6 +97,7 @@ twenty-four feet, this fact was represented by the fraction
 showing that the eye was subnormal and far sighted. Having
 determined the distance at which one eye could read the letters,
 I repeated the same process with the other eye.
+
 Immediately after each pupil was tested with the alphabet
 cards, he was tested with the "illiterate E" cards by the same
 general method, except that instead of naming the character the
@@ -102,6 +107,7 @@ letters, a single error was taken to indicate that the pupil's vision
 was not sufficiently acute to read the characters at that particular
 distance, and he was required to move up until he reached the
 point at which every character could be read correctly.
+
 The time taken by the pupils to recognize the letters varied
 considerably. It took some pupils three or four seconds to recognize some of the letters, but the average time for each letter
 was a little over a second. A pupil was allowed to study over
@@ -114,6 +120,7 @@ in all the grades, especially in the primary grades, to allow the
 pupils to rest their eyes. Many eyes after trying to read half
 a dozen letters would be filled with tears, which probably indicated
 weakness of the ocular muscles.
+
 Before beginning the test each day, I tried the cards myself
 to see whether the light was satisfactory. Usually the best light
 for presenting the letters was found at the rear of the room. This
@@ -123,12 +130,12 @@ heard all of the letters named by the one who was being tested,
 but as their attention was required by the recitation, few of them
 could follow the pupils as they named the letters. Even if they
 had heard every letter named, it could have helped them but little,
-178 TEE PSYCHOLOGICAL CLINIC.
 for the letters were called wrong almost as often as right, and
 those tested last showed no improvement over those tested first.
 Some pupils could see the letters so far that it was necessary to
 place them out in a hall, or in another room, wherever conditions
 permitted it.
+
 Many pupils educated themselves very rapidly in the recognition of the letters, especially the "illiterate E." It was not an
 uncommon thing for a pupil to have to move up to twelve feet
 in order to make out the direction of the E; but having once
@@ -160,7 +167,7 @@ tested with the iliterate cards only, because they did not all know
 the alphabet. Curve III represents the results obtained by testing these 252 eyes with the illiterate cards. Curve IV combines
 in a single curve the results of the illiterate test with the 470
 pupils in all the grades.
-THE VISION OF PUPILS. 179
+
 The distances in feet at which the eyes of 470 pupils of the Centennial Grammar School,
 Trenton, N. J., distinguished the Snellen Alphabet and Illiterate Cards.
 Feet
@@ -649,13 +656,14 @@ Eyes
 0
 0
 252
-180 TEE PSYCHOLOGICAL CLINIC.
+
 Assuming, in accordance with the principles of Snellen's
 construction, that the characters could be read by the normal
 eye at sixteen feet, we are obliged to conclude that only those eyes
 are normal that read the characters at just sixteen feet, and that
 all those eyes are subnormal that could read them at a greater or
 less distance.
+
 The straight line a-b running perpendicularly through the
 curves is the line of assumed normal vision for all of the curves.
 If this were correct, then all of the eyes represented by the portion
@@ -663,6 +671,7 @@ of the curves to the left of this line are subnormal, being near
 sighted, while those represented by the portion of the curves to the
 right of this line are likewise subnormal, being far sighted. Tims
 we obtain the following results:
+
 Eyes normal. Eyes near sighted. Eyes far sighted.
 Curve I (alphabet test)... 128 or 18.G% 453 or 65.8% 107 or 15.5%
 Curve II (illiterate E)... 27 or 3.9% 50 or 8.1% 5GG or 82.2%
@@ -677,6 +686,7 @@ cent of the pupils, according to the illiterate test, had noijmal vision, and on
 warrant the suspicion that something was wrong with the "illiterate E." A close analysis of this letter will, I think, prove that
 the suspicion is well founded. The structure of the E is shown at
 the right-hand side of figure 1.
+
 A pupil being tested with this character has only to determine
 in which one of four directions,?up, down, right, or left,?the
 opening of the character is directed, and this opening can always
@@ -688,7 +698,6 @@ that is allowed for recognizing the direction of the character.
 It will be observed that there are three of these small squares
 lying together unfilled on the open side of this character. Four
 of these squares should bo discerned at thirty-two feet, if they
-THE VISION OF PUPILS. 181
 were arranged in the form of a square. It would therefore be
 reasonable to suppose that these three squares should be seen
 at about three-quarters of that distance, or twenty-four feet. As
@@ -697,6 +706,7 @@ number of the pupils of all grades (Curve IV), did discern them.
 I therefore feel justified in saying that the distance at which the
 normal eye should discern the character E should be twenty-four
 feet instead of sixteen feet.
+
 It may be theoretically correct to say that all eyes that could
 not see the letters on the sixteen foot line were subnormal,?
 near sighted,?and that all eyes that could see the letters further
@@ -708,6 +718,7 @@ these numbers as representing the least degree of deficiency requiring attention
 tested, 15.1 per cent, or 104 eyes, may be classed as sufficiently near
 sighted to need attention, and 1.2 per cent, or 8 eyes, are sufficiently
 far sighted to need attention.
+
 8 10 IZ 14 !6 Id 20 14 Z6 lQ 30 31 31 36 33 40 4244
 182 THE PSYCHOLOGICAL CLINIC.
 The results for each grade are as follows:
@@ -719,6 +730,7 @@ Grade. Eyes tested. Eyes &. or below. Eyes ?% or above.
 7 260 35 or 13 5% 2 or 0 8%
 8 154 19 or 123% 6 or 3.9%
 688 104 15 1% 8 1.2%
+
 The first and second grades were not tested with the alphabet,
 but with the "illiterate E" only, as I have said. Assuming that
 the normal distance for distinguishing this character is twentyfour feet, instead of sixteen feet, we have 56 normal eyes, 76
@@ -729,6 +741,7 @@ and that those eyes which could see the characters at thirty-six
 feet or over also need attention, we find that there are 38 eyes, or
 15.1 per cent, so near sighted, and none so far sighted, as to need
 attention.
+
 My experiment proves conclusively that sixteen feet is not the
 distance at which the normal eye can just discern the "illiterate
 E." In fact, I found twenty-nine eyes, exhibiting normal vision
@@ -736,6 +749,7 @@ with the alphabet test, that could interpret these characters at twice
 sixteen feet, and two of this number could do so at forty-four
 feet. If this character is used, then a new distance for the normal
 eye must be determined.
+
 If one finds such variations in test types that are supposed
 to be accurately constructed, one may, with good reason, conclude
 that the types and characters prepared by many optical concerns

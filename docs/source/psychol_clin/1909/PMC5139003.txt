@@ -1,8 +1,9 @@
 Association Tests in Practical Work for the Insane
 ===================================================
 
-By Claea Harbison Town,
+:Author: Claea Harbison Town,
 Resident Psychologist, Friends'1 Asylum for the Insane, FranJcford, Pa.
+
 Psychological methods of studying association have been
 widely used of late to render practical service in the clinical examination of the mentally abnormal. During the last three years
 we have subjected the various methods to a thorough test in the
@@ -31,8 +32,6 @@ to him after hearing the stimulus word, the time being recorded by
 the experimenter. In Galton's experiments the first two associations were recorded and timed. A long list of such reactions are
 taken, the numbers varying with the experimenter; for instance
 Galton took 75-, Jung takes 100 and Scripture 25. The second
-(276)
-ASSOCIATION TESTS. 277
 method secures a series of written words thought of consecutively
 by the subject after stimulation by a spoken or written word. The
 length of the series varies with different investigators, some requiring 5 words, others 100 or more.
@@ -62,6 +61,7 @@ the second series and lengthened reaction times in the first. The
 slight lengthening of the time indicative of an emotional complex
 is supposed to be beyond the control, and in many instances beyond
 the knowledge, of the subject.
+
 Jung believes himself able by this combination of association
 reaction and memory test to detect not only emotional complexes
 known to the subject, but also such complexes of which the subject
@@ -73,7 +73,6 @@ to be of great value in the treatment of hysteria and by Jung the
 effect is believed to be beneficial in cases of dementia prsecox as
 well. To obtain this conscious realization of the details of the
 complex, however, the association test must be supplemented by
-278 THE PSYCHOLOGICAL CLINIC.
 the use of the analytic method of Freud. The association reaction
 gives the clue which points out that such a complex exists and must
 be brought to the surface; by the Freud method this is realized.
@@ -84,6 +83,7 @@ the conscious mind. In the examination of the insane, especially
 paranoiacs who wish to conceal their true state of mind, such a
 means of gaining information, if accurate, cannot be too highly
 valued.
+
 Our experience in using this method with our patients has convinced us, however, that although the presence of emotion often does
 cause a lengthening of the reaction time, there are other factors
 of quite a different type which frequently result in just as pronounced a lengthening. Many of the insane are so absorbed by
@@ -105,6 +105,7 @@ times were undoubtedly due to the fact that the stimulus aroused
 a line of thought intense and near the surface, while the long ones
 were the result of directly opposite conditions, an uninteresting,
 non-inspiring stimulus word.
+
 Another form of test, a modification of the second general
 method described above, has proven much more useful in our work
 with the insane. This greater success is largely due to its complete
@@ -126,6 +127,7 @@ processes, of the quality of thought content, and of fatigue. Our
 results along these lines will be reported elsewhere ;* here I wish
 only to emphasize the value of the test for the study of the actual
 mental content of the individual patient.
+
 For this purpose the words of such a list are arranged in
 several classes, those suggested by the immediate environment, by
 personal experience, by subjects of study, by the world environment; names of objects, concepts, proper names, and words without
@@ -149,7 +151,7 @@ after an intermission of some months showed a decline of the
 religious fervor, while the egoism still remained.
 *"Experimental Studies in Psychology and Pedagogy," No. 4, 1909,
 The Psychological Clinic Press, Philadelphia.
-280 THE PSYCHOLOGICAL CLINIC.
+
 A patient whose mind is much occupied by some idea or group
 of ideas, is, as a rule, unable to write for so long a period as fifteen
 minutes without using some words indicative of those ideas. In
@@ -180,6 +182,7 @@ emotionally met with a more prompt response. Her mind was so
 engrossed by her thoughts and emotions that words in line with
 them evoked a quick response, while other words received little
 attention and resulted in slow reactions.
+
 From another list written by a patient suffering from melancholia one could build up the picture of a hopelessly sad woman
 who had passed through some great trouble, who was tortured with
 regret and self-accusation, who believed herself possessed by some
@@ -189,18 +192,20 @@ longed for her family. There was not a word in the entire list of
 eighty-two words which did not refer to her own condition or its
 .cause; and not an idea or delusion of all that persistently haunted
 her but was expressed therein.
+
 Another woman in a greatly confused, delusional state, wrote
 a long list in which references to her home, husband and family
-ASSOCIATION TESTS. 281
 abounded, and in which she expressed certain peculiar delusions in
 regard to colors and to sin, betrayed auditory hallucinations by
 recording what the creaking shoes of a passer-by said to her, and
 wrote of her own condition and fear of becoming insane.
+
 One woman, reserved, evidently from a fear of the consequence of speaking out, wrote a list of one hundred and seventy-six
 words in which the name of a certain man appeared forty times,
 the word man thirteen times and in many other words referred to
 the same individual. This was the first intimation she had given
 of the presence of any such complex.
+
 In another list the following group of words appear: "Occult,
 astrologer, necromancer, clairvoyant, slate, write, pencil, think,
 Dr Ilyslop, book, dreams, thoughts, mind, reason, art, mind, intellect." The writer had read Doctor Hyslop's book and had been

@@ -3,9 +3,9 @@ The Prevalence of Visual and Aural Defects Among the Public-School Children of S
 
 The Psychological Clinic
 Vol. III. !N"o. 6. November 15, 1909.
-
-By Albert E. Taussig, M.D.
+:Author:  Albert E. Taussig, M.D.
 St. Louis, Mo.
+
 The following investigation, the funds for which were generously supplied by Mr. B. Greensfelder of Clayton, Mo., was undertaken under the auspices of the St. Louis School of Philanthropy,
 at the suggestion of its director, Prof. Thomas J. Riley. The
 measurements were made by Drs. J. G. Calhoun and C. A. Vosburgh of St. Louis, under the general direction of the writer.
@@ -18,6 +18,7 @@ the school children in suburban and rural communities, and yet
 such information is indispensable to enable the state authorities
 to form a just opinion as to the advisability of inaugurating a
 state-wide medical inspection of all school children.
+
 It seemed worth while to undertake such a study of the
 school children of St. Louis County for the purpose of adding to
 our knowledge in this matter. The present investigation was limited to the prevalence of impaired vision, defective hearing and
@@ -26,8 +27,6 @@ Tuxedo, suburban communities in the neighborhood of St. Louis.
 The eyes were tested by means of Snellen's charts hung in
 a good light at a distance of twenty feet, each eye being tested
 separately. Such an examination, however, fails to reveal the
-(149)
-150 TiHE PSYCHOLOGICAL CLINIC
 presence of hyperopia, a frequent cause of eye-strain in younger
 children, and our figures for impaired vision among the youngest
 children are therefore probably somewhat too low. It seemed best
@@ -35,12 +34,14 @@ to omit the tests for hyperopia not only on account of the added
 labor involved, but also to facilitate a comparison of our results
 with those obtained elsewhere by examinations limited to the use
 of Snellen's charts. .
+
 The hearing was tested by means of a standard whisper,
 audible to normal ears at a distance of fifteen to twenty feet, each
 ear again being tested separately. Adenoids were recorded as
 present only where they clearly interfered with nasal respiration
 and thus represented an actual handicap to the child. Records
 were kept on cards arranged as follows:
+
 Age at Name  G. Q.1
 Nearest
 Birthday
@@ -52,6 +53,7 @@ Right Ear, Whisper Heard Ft.
 Left Ear, Whisper Heard
 Adenoids ? Yes. No.
 Examiner
+
 1. The Total Percentage of Visual and Aural Defects.
 Of the two thousand children examined some 30.6 per cent
 had vision that was below normal in one or both eyes. In about
@@ -64,8 +66,10 @@ the children with vision less than half the normal in both eyes
 being a little less than 3 per cent of the total number examined.
 These findings about correspond to the observations made elsewhere, as illustrated by the following table:
 *G. Q. stand for Grade and Quarter.
+
 VISUAL AND AURAL DEFECTS 151
 VISUAL, DEFECTS IN PUBLIC SCHOOLS.
+
 Per Cent
 Heidelberg, Germany (1870)2   35
 Edinburgh, Scotland (1904)3   43.2
@@ -97,6 +101,7 @@ the figures for Edinburgh and Dunfermline, between the two portions of Cleveland
 2A. Colsman, Die iiberhandnehmende Kurzsichtigkeit unter der deutschen Jugend, etc., p. 10. Barmen, 1877.
 SL. *H. Gulick and L. P. Ayres, Medical Inspection of Schools, p. 83.
 New York, 1908.
+
 Calculated from table, p. 43, Report on Dept. of School Hygiene,
 Boston, 1908.
 "Personal communication from Dr S. J. Baker, Chief of Division of
@@ -113,6 +118,7 @@ hearing. Among our children over 7 per cent were found defective in either ear, 
 whisper with neither ear, at a distance of over ten feet, was only
 a little over 2 per cent. This corresponds fairly with results
 obtained elsewhere:
+
 DEFECTIVE HEARING IN PUBLIC SCHOOLS.8
 Per Cent
 Edinburgh, Scotland (1904)  12.2
@@ -136,7 +142,6 @@ in others only a serious defect is counted.
 Adenoids sufficiently well marked to interfere seriously with
 nasal respiration were found in less than 1 per cent of our
 children. This is distinctly less than the findings elsewhere.
-PREVALENCE OF ADENOIDS AMONG PUBLIC SCHOOL CHILDREN.9
 New York City (1908)   16.4 per cent *
 Boston (1908)   4.7 "
 Chicago (1909)  3.7 "
@@ -157,6 +162,7 @@ same observations in New York in regard to visual defects.
 INFLUENCE OF SEX UPON VISUAL AND AUDITORY DEFECTS.
 Per cent
 Boys Girls
+
 New York City (1908), defective vision10  15.7 20.8
 St. Louis County (1909), defective vision  29.1 31.1
 St. Louis County (1909), seriously defective vision 13.5 15.1
@@ -174,6 +180,7 @@ by the following table. Our figures are uniformly lower than
 those of Gulick and Ayres since their records included a large
 variety of defects, while ours were limited to vision, hearing, and
 adenoids.
+
 10Gulick and Ayres, p. 199.
 154 THE PSYCHOLOGICAL CLINIC
 INFLUENCE OF AGE UPON PREVALENCE OF DEFECTS.
@@ -190,6 +197,7 @@ Age Guliek & Ayres" St. Louis Co.
 14   68.1   27.4
 15   63.1   27.3
 Over 15   23.9
+
 A closer study of the data, however, discloses a very curious
 divergence on the part of our observations from those previously
 made. Gulick and Ayres, while they found a steady decrease in
@@ -207,6 +215,7 @@ corrected by glasses. The phenomenon appears, however, hardly
 less clearly if we count as defective even those wearing correct
 glasses. The following table contrasts the observations of Gulick
 and Ayres with ours:
+
 "Gulick and Ayres, op. cit., p. 195.
 12A. Colsman, loc. cit.
 VISUAL AND AURAL DEFECTS 155
@@ -237,6 +246,7 @@ Over 15
 27.7   21.7    22.3   1.7
 25.6   20.9   22.7   2.7
 17.7   22.1   8.0
+
 About 3 per cent of all the children wore glasses of which
 two-thirds were approximately correct while one-third were definitely incorrect.16
 The explanation of the divergence of our results from those
@@ -254,6 +264,7 @@ The graver visual defects tend to become fewer with advancing
 age quite as definitely as the slighter ones, as shown by the following table. The greater irregularity of the fluctuations in the
 subdivisions of the visual defects is probably due to the fact that
 we are dealing with smaller figures.
+
 "Gulick and Ayres, p. 195.
 ""Uncorrected" includes all children whose defective vision has not
 been fully corrected by glasses.
@@ -301,6 +312,7 @@ Over 15
 11.7   10.0   2.3
 10.0   10.9   1.8
 7.1   10.6   2.7
+
 The gravest lesions alone show an irregular increase up to
 twelve years, but thereafter diminish. Such an increase is to be
 expected, since it is well known that short-sightedness tends to
@@ -308,9 +320,11 @@ grow worse under the influence of school work. The surprising
 feature of these observations is that this increase it not seen in
 any but the gravest defects and even here not after the age of
 twelve.
+
 Defects of hearing are not definitely influenced by age, as
 may be seen by the following table. I have not been able to find
 other observations for comparison.
+
 INFLUENCE OF AGE UPON DEFECTIVE HEARING.
 ^ PERCENTAGE OF CHILDREN WITH DEFECTIVE HEARING
 Age -Age
@@ -320,15 +334,18 @@ Age -Age
 9   9.1 15   6.4
 10   5.9 Over 15    6.2
 11    7.1
+
 The extreme cases of adenoids were too few in number to
 render a classification by ages trustworthy. So far as our figures
 went, however, they indicated an increase in frequency up to 2.5
 per cent at. the age of ten years and thereafter a diminution. Gulick and Ayres17 with their larger material found a steady decrease
 in frequency from six to fifteen years.
+
 "Gulick and Ayres, p. 195.
 VISUAL AND AURAL DEFECTS 157
 4. Have Physical Defects an Important Bearing on School
 Progress?18
+
 This problem has apparently never been properly approached.
 Gulick and Ayres19 divided the children in each grade into those
 of normal age and those over age. The latter are those who for
@@ -362,13 +379,14 @@ constant as we might a priori expect; indeed, about half the time
 this difference is practically negligible. Moreover, the children
 with grave visual defects have apparently not at all lagged behind
 those with slighter visual impairment.
+
 18It must be remembered that in this discussion the term "school progress" is used to indicate the rate at which the children advance from one
 grade to another. It has nothing to do directly with the quality of the
 school work or the rate at which they acquire knowledge. In the ideal
 school, "school progress" will depend directly upon the quality of the work
 done by the children; practically, however, as appears below, this is apparently not the case.
 "Gulick and Ayres, p. 191 ff.
-158 THE PSYCHOLOGICAL CLINIC
+
 AVERAGE GRADES OF NOKMAL AND DEFECTIVE CHILDREN.
 Age Normal Children with Children with Children with
 children visual de- serious vis- impaired
@@ -431,6 +449,7 @@ Over 15
 6.3
 6.9
 8.3
+
 The question naturally arises: "Why do not these physical
 defects cause a greater and more. constant retardation in the
 children's school progress ?" There are apparently no data at
@@ -450,14 +469,15 @@ school work of the children with defective vision or hearing might
 be seriously hampered without their school progress, as shown by
 a table like the above, being definitely retarded.
 Conclusions.
+
 The following conclusions may fairly be drawn from our
 data:
+
 1. Unrecognized or at least untreated defects of vision and
 hearing are nearly as common in our suburban communities as
 in large cities. Both call urgently for systematic medical inspection.
 2. Unrecognized adenoids, so extreme as to cause serious
 interference with normal respiration, were not found to be very
-VISUAL AND AURAL DEFECTS 159
 common. In nearly one per cent of the children, however, the
 adenoids imperatively demanded operation. The condition was
 apparently not realized by the parents and here, too, adequate
@@ -465,6 +485,7 @@ medical inspection might be of great service to the children so
 affected. It is probable that the marked deafness, present in every
 one of the children with adenoids, would disappear promptly after
 operation.
+
 3. Defective vision seems a little commoner among girls and
 defective hearing among boys. The difference it not, however,
 very great.
@@ -492,14 +513,15 @@ The efficiency of school inspection, in this respect, is shown by the
 fact that in cities in which this measure has been in operation
 for some years, a considerable diminution in the prevalence of
 physical defects has been noted.
+
 6. The marked divergence between the data obtained in different cities, or in the same city by different investigators, indicates the need for greater uniformity in methods of tabulating these
 statistics. Thus children with slightly impaired vision in one eye
 would by some examiners be classed as normal, by others as
-160 THE PSYCHOLOGICAL CLINIC
 defective. For statistical purposes it is important for the investigator to state just where he draws the line between defective and
 normal. As regards vision, hearing, and adenoids, a division into
 slight and serious defects is to be recommended.
 Appendix.
+
 It is probable that in future investigations, the bearing of physical defects upon school progress can best be estimated by calculating the average grade for each age in normal and in defective
 children. The problem, arithmetically, is an interesting variation
 of the method of determining the point of equilibrium! of a straight
@@ -518,6 +540,7 @@ Grade Number of Children Product
 199
 2.16, the average grade of normal children aged eight years.
 94
+
 If we regard as a unit of work done, the passing through one
 grade of one child, then towards the end of the school year, the
 17 children in grade 1 will have done 17 units of work. The

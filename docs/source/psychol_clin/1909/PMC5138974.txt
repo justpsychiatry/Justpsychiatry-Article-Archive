@@ -6,6 +6,7 @@ Report of Committee on Delinquent and Dependent Children Including Truancy, Juve
  
 [1 ranklin, Ind.] 1908.
 Pp. 40.
+
 In the present state of our knowledge each new study not only
 adds to our knowledge of local conditions, but contributes something
 to the elucidation of the general problem of retardation. Not infrequently such studies present new facts, or lay a new emphasis on
@@ -19,6 +20,7 @@ But we are not given a general age and grade table by which to judge
 at a glance whether such a condition obtains. Since, however, we are
 given both the number and percentage of over-age pupils in each
 grade we may by calculation construct the grade totals as follows:
+
 Grade 1  1000
 Grade 2   905
 Grade 3   573
@@ -28,17 +30,17 @@ Grade 6   887
 Grade 7   982
 Grade 8   729
 7018
+
 Obviously this is not a normal grade distribution, in which each grade
 would be successively smaller than the next preceding. Any properly
 calculated average of the whole, taking into account as it should the
 numbers in the several grades, must be considerably affected by such
 an abnormal grade distribution.
+
 In the absence of a general age and grade table which would have
 shown at a glance the weaknesses of the material, we find instead a
 ?Copies of this report may be obtained from the chairman of the committee,
 Supt. A. O. Ncal, Franklin, Ind.
-(86)
-REVIEWS AND CRITICISM. 87
 number of subsidiary tables and some effective diagrams. Reducing
 these tables to a compact statement we have the following:
 Statistics of 7000 Children in Indiana.
@@ -115,6 +117,7 @@ G
 33
 34
 35
+
 9 yrs. or over...
 10'yrs. or over...
 11 yrs. or over...
@@ -123,6 +126,7 @@ G
 14 yrs. or over...
 15 yrs. or over...
 10 yrs.'or over...
+
 48
 07
 121
@@ -158,6 +162,7 @@ G
 22
 ?Estimated
 from diagram.
+
 This table serves to bring out the wide variations in ages which are
 posssible in the several grades, though in the absence of exact figures
 we cannot determine how much significance is to be attached to the
@@ -173,6 +178,7 @@ proportion of over-age children should be in the third grade. Let
 us compare these results with those of Fort Wayne, computed on the
 same basis of retardation from the table reprinted in the report:
 Per cent Overage.
+
 7000 Indiana Fort Wayne, 1906-07,
 Grade Children. 5558 Children.
 1   4.8  3.0
@@ -183,7 +189,7 @@ Grade Children. 5558 Children.
 G   14.2   12.3
 7   11.3  7.0
 8   9.G  5.3
-88 THE PSYCHOLOGICAL CLINIC.
+
 The Fort Wayne figures make a showing directly comparable with those
 observed in other cities. Here the maximum retardation is in the
 fifth grade. In Dr Cornman's study we find it to be in the fourth
@@ -194,6 +200,7 @@ normal distribution of grades, a maximum retardation in the third
 grade would be a very striking fact. As it is we are forced to the
 conclusion that it results from the choice of the figures presented
 for consideration.
+
 In regard to the retardation of 12.4 per cent for the whole body
 of children reported upon, it may be said that this average is gained
 by taking the percentage column, adding it up and dividing by eight.
@@ -201,6 +208,7 @@ This is certainly not a scientific way of getting an average. We
 are told that 84G children were retarded in an aggregate of 7000.
 This is 12.1 per cent. The difference is not noticeable, but it is certain that were the grades more uneven in number the result might be
 quite different.
+
 If we have gone into a somewhat detailed analysis it is not with
 any desire to underrate the many excellencies of this report. It is
 particularly strong in its presentation of facts by means of diagrams;

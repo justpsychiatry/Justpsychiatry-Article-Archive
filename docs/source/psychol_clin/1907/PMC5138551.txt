@@ -3,7 +3,8 @@ The Dancing Mouse
 
 REVIEWS AND CRITICISM.
 
-The Animal Behavior Series, Vol. 1. By Robert
+The Animal Behavior Series, Vol. 1. 
+:Author:  Robert
 M. Yerkes. The Macmillan Company, 1907. Pp. xxi-{-290.
 In this book the author not only presents the results of his own investigations on the dancing mouse, but he also tries to give as complete
 an account of this animal as possible on the basis of the literature.
@@ -18,11 +19,13 @@ animals by their peculiar movements are unfit for the usual conditions
 of mouse-existence, so that they are thrown on human care. It can not
 be definitely settled when and where the race originated; very likely
 it is several centuries old.
+
 The dancers are imported from Japan, where they are known as
 Chinese mice. From this one may conclude that the race originated
 in China, although nothing definite could be settled by historical research. The variation is now firmly established and breeds true to its
 type, so that one cannot call it pathological, although there is evidence
 that dancers appear sometimes among common mice.
+
 After some remarks on the feeding, breeding and development of
 the animals, the author proceeds to give the results of his study of the
 dancing movements. It is curious to note that the previous investigators disagree in their descriptions of the movements of the dancer,
@@ -42,9 +45,9 @@ at the end of this chapter, that one of the most interesting results of
 his study of the movements of the dancer is the fact that in even so
 simple a matter the truth cannot be discovered except by long and careful observation, and that the method of getting knowledge of the
 (183)
-184 THE PSYCHOLOGICAL CLINIC.
 behavior of animals by impressions, verified by a few observations, is
 worse than valueless.
+
 Chapters IY and Y contain a study of equilibration and dizziness in the dancer and of the relation of these phenomena to structural
 facts. Besides the dancing movements the following peculiarities of
 the dancer demand an explanation in terms of structural facts: restlessness, and quick jerky movements of the head; lack of responsiveness
@@ -75,6 +78,7 @@ possibility that the mice did not react to other stimuli was not excluded. A clo
 totally deaf, but the young dancer perceives sounds for a few days of
 the third week of his life. Shortly before this period the young dancer
 becomes very excitable and pugnacious.
+
 Chapters YII-XI are devoted to the study of the sense of sight
 of the dancer. These chapters cover 108 pages, or almost one-half of
 the book, and they contain exclusively the results of the author's
@@ -105,6 +109,7 @@ dancer is reported to contain only one type of retinal element, but no
 details 011 this point are given. The role of the sense of sight in the
 life of the dancer is not very great; movement and differences in brightness are the only visual conditions which to any considerable extent
 control the activity of this animal.
+
 The rest of the book deals with the question of how the dancer may
 profit by experience, and with problems which are related to this question. It contains interesting remarks about the different methods of
 training and about their efficiency. One chapter gives some observations on the question of relearning; an acquired habit it lost only
@@ -115,6 +120,7 @@ this investigation is not completed because in the course of the experiments alm
 contains some remarks about the inheritance of forms of behavior;
 the author comes to the conclusion that there is no evidence of an
 inheritance of acquired habits.
+
 For the student of human psychology two parts of the book are
 of special interest: the chapter where the author discusses the results
 of the anatomical observations 011 the ear of the dancer, and the one
@@ -126,7 +132,6 @@ among them the difficulty of finding a reason why we conceive space as
 three-dimensional. Cyon gives the answer that the source of this difficulty is the fact that space is a sense quality and therefore indefinable,
 just in the same way as blue or red is indefinable. He then proceeds to
 find the organ of this sixth sense, and chiefly 011 the basis of some observations 011 the abnormal structure of the ear of the dancer he comes to
-186 THE PSYCHOLOGICAL CLINIC.
 the conclusion that the semicircular canals are the organ of this sense,
 and that we conceive space as three-dimensional, because the three
 dimensions of space correspond to the three canals. Since the appearance of Yerkes' book another article of Cyon has come out in which the
@@ -136,6 +141,7 @@ of those who are interested in the theory of space have not an opportunity to fo
 questions, and Yerkes' excellent account will be very welcome to
 them. Cyon's theory is very ingenious, and for this reason it is
 important not to forget that it rests only on a meagre empirical basis.
+
 The chapter on Weber's law is probably the least satisfactory in
 the book. In these experiments the mice were trained to recognize a
 box which was distinguished from another only by a different intensity

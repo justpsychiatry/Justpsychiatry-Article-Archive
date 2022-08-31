@@ -1,13 +1,15 @@
 The Relation of Physical to Mental Defect in School Children
 =============================================================
 
-By Walter S. Cornell, M.D.,
+:Author:  Walter S. Cornell, M.D.,
 University of Pennsylvania.
+
 The age of our race between six and fifteen years is a distinctive one, from the fact that the problem of diet, so important
 in infancy, decreases with the corresponding increase in bodily
 activity. So, also, the prevalence and effect of contagious diseases suffer a reduction. For these reasons the mortality rate
 decreases progressively, and the probability of survival becomes
 steadily brighter.
+
 The age of development, however, is one in which the subsequent physical and mental welfare is largely predetermined.
 Though the child's life be fairly safe, his fortune still lies largely
 in the hands of his parents, his environment, his teacher, and his
@@ -19,36 +21,43 @@ anfflmia, and adenoid nasal obstruction. Finally, the ignorance
 of parents causes indifference to the damage already done, and
 adds premature decay of the teeth to the existing list of evident
 ' physical imperfections.
+
 Are these injuries to the health of the child also harmful to
 his mind ? Will he ultimately pass through their pale of influence more or less scarred, but possessing the same knowledge and
 mental faculty that make for power, as his more vigorous
 neighbor ?
+
 Backward and subnormal children approach so nearly the ?
 ordinary child that the connection between physical defect and
 brain defect is often not demonstrable at all in individual cases.
-(231)
-232 THE PSYCHOLOGICAL CLINIC.
+
 In these the acting influences are of minor degree, being principally poor eyesight, deafness, and poor nutrition (adenoid
 growths are included in the latter two). We may either assume
 that the rule of a sound mind in a sound body is a natural law,
 and so reason by analogy that it operates in these cases, or by a
 study of a large series of cases draw positive original conclusions from this very class itself. The latter is well worth proving,
 if it be possible to do so.
+
+
 In the special classes for backward children conducted by
 our large cities, the reports show that almost every backward
 child exhibits physical defect of some sort. In these classes the
 proportion of defective children is given by one authority as 95
 per cent of the whole number.
+
 That the physically defective among ordinary school-children show subnormal mentality is the converse of this proposition
 and should be capable of demonstration.
+
 In the following investigation I have endeavored to clearly
 establish this relationship. The children studied were those of
 three Philadelphia public schools, whom I had previously physically examined in prosecution of the official work of medical
 school inspection.
+
 The first step was the recording, in each school, of the name,
 physical record, and scholarship of each child. The last mentioned datum was obtained by using the previous term-marks iii
 three of the school studies, from which an average mark was
 easily calculated.
+
 The average term-mark of the whole school was first obtained
 by the simple process of adding the term-marks of all the children together, and dividing by the number of children. For example, in the Claghorn School this was 73.1.
 The record-cards of the children were then divided into two
@@ -58,11 +67,12 @@ average term-mark (the scholarship index) was then calculated
 for each group separately, and the two compared, first with each
 other, and then with the term-mark of all the children previously
 calculated.
+
 The results showed that in each school, and in each individual branch of study in each school, the healthy or normal
 children stood higher in their classes than the average children,
 and the physical defectives, taken as a class, stood lower than the
 average children.
-DEFECTS IN SCHOOL CHILDREN. 233
+
 Allison School?219 Children, Both Sexes, G to 12 Years Old.
 Average
 Normal child :  75
@@ -78,6 +88,7 @@ Language Arithmetic Spelling Average
 21 cases general defectives  G3.3 70 64.8 6G
 8 cases adenoids   GO G6.7 65 63.9
 No cases deaf.
+
 Claghorn School?252 Children, Both Sexes, 12 to 15 Years Old.
 GeographyLanguage Arithmetic and Average
 History
@@ -104,6 +115,7 @@ the basis of comparison. I am indebted to Dr Beatty for per2U THE PSYCHOLOGICAL 
 mission to publish the figures which I submitted to him at that
 time. It will be observed that, on averaging the five schools, the
 brighter children showed the lower percentage of physical defect.
+
 Exempt Children Non-Exempt Children
 Normal Defective Normal Defective
 Ninth Street Primary School  5G 28 39 38
@@ -113,6 +125,7 @@ Camac School   183 71 103 75
 Claghorn School   193 61 127 66
 647 260 425 262
 Percentage defective .  28.8 per cent. 38.1 per cent.
+
 An effort was made to determine the exact degree of influence of defects of the nose and throat. The harmful results of
 these have been recognized in recent years. In the Claghorn School
 the four classes of bright and dull children were examined again.
@@ -122,6 +135,7 @@ catarrh occurred much more frequently, however, among the two
 classes of duller children. In many the adenoid expression was
 written only too plainly on their faces. The following table
 shows the findings:
+
 Class 1 Class 15 Class 9 Class 11
 Bright Children Dull Children cwitlre^i
 Number of children  50 39 32 29

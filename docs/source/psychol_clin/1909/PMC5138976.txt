@@ -1,8 +1,9 @@
 The Physical Condition of the School Children of the School of Observation, The University of Pennsylvania
 ===========================================================================================================
 
-By Walter S. Cornell, M.D.,
+:Author:  Walter S. Cornell, M.D.,
 University of Pennsylvania and Bureau of Health, Philadelphia.
+
 The Department of Pedagogy of the University of Pennsylvania conducted during the summer of 1909 a School of Observation for teachers, comprising seven graded classes containing a
 hundred and fifty-six pupils. These children attended the school
 usually for the purpose of qualifying for the grade higher than
@@ -13,6 +14,7 @@ regular work in the prescribed time. Others were precocious
 children desirous of advancing an extra grade during the summer
 season. As a whole they presented an appearance equal to and
 possibly slightly above the average school child.
+
 The physical condition of these children, when the results of
 the examination were summarized, proved to be about the same as
 that of public school children generally, except that the cases of
@@ -25,6 +27,7 @@ defectives, disregarding decayed teeth, was 36.5 per cent. The
 principal defects found were eye strain, enlarged tonsils, nasal
 obstruction, defective hearing, poor nutrition, and decayed teeth.
 They are given in the following table:
+
 Total number of children examined 156
 Children receiving parents' notices for physical defects  97
 " regarded as physically normal  59
@@ -41,14 +44,13 @@ Stoop Shoulders  3 2.
 Spinal Curvature  1
 Weak Heart  1
 Infantile' Spinal Paralysis  1
-(134)
-CHILDREN OF SCHOOL OF OBSERVATION 135
 The eye strain cases were subdivided as follows: Normal
 vision, with headache and eye tire, 14; three-fourths vision, 12;
 two-thirds vision, 3; one-half vision, 3; one-third vision, 1. The
 number of children already wearing eye-glasses was twelve. The
 total number of children with defective vision was thus forty-four,
 or 28 per cent.
+
 The proportion of children with decayed teeth was 38.5 per
 cent, the proportion being much greater in the lower grades owing
 to the decay of the temporary teeth. This is shown in the following table:?
@@ -61,10 +63,12 @@ G ...  34.5
 52.4
 3   53.8
 2   50.
+
 The following table shows the number of normal and physically defective children in each grade, the total number of defects
 found, and gives a thoroughly intelligible idea of the number of
 defects found in each grade after the subtraction of the large number of cases of decayed teeth which comprise sixty of the one
 hundred and forty-five defects found.
+
 Grade
 8
 7
@@ -87,7 +91,7 @@ Children.
 150
 Normal
 Children.
-DEFECTIVE CHILDRKN.
+DEFECTIVE CHILDREN.
 NUMBER OF CHILDREN POSSESSING
 Physical
 defects other than decayed teeth

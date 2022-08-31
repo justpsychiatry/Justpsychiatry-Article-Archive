@@ -1,7 +1,7 @@
 Provision for Exceptional Children in the Public Schools
 =========================================================
 
-By James H. Van Sickle.
+:Author:  James H. Van Sickle.
 Superintendent Baltimore Public Schools.
 The problem of educating extremely backward and defective
 children in the public schools is a comparatively new one. Before
@@ -33,8 +33,6 @@ children of normal powers. But the presence in a class of one
 or two mentally or morally defective children so absorbs the
 energies of the teacher and makes so imperative a claim upon her
 attention that she cannot under these circumstances properly
-(102)
-EXCEPTIONAL CHILDREN IN SCHOOLS. 103
 instruct the number commonly enrolled in a class. School authorities must therefore greatly reduce this number, employ many
 more teachers, and build many more school rooms to accommodate
 a given number of pupils, or else they must withdraw into small
@@ -52,6 +50,7 @@ The investigations of modern science, as well as the philanthropic sentiments th
 reinforced the practical and economic arguments which were the
 primary considerations whenever public school authorities had
 formed special classes.
+
 The action this very year of the Baltimore School Board in
 establishing special classes for epileptics illustrates this fact.
 Formerly a child, who was subject to severe attacks, was not
@@ -65,12 +64,12 @@ the interests of the normal children, it was decided to try experimentally their
 classes were authorized by the Board and two were organized
 early last fall. We wish to study these two before proceeding
 further.
+
 At once it may be said, "Why make the education of
 epileptics a public school matter at all? Institutional care is
 needed by these children." This is true of a large number of
 them, certainly, but perhaps not of all. Home and day-school
 care are sufficient for the less serious cases. Institutional care
-104 THE PSYCHOLOGICAL CLINIC.
 is, however, at present out of the question. Maryland has an
 excellent school for the feeble-minded at Owing Mills, just outside of Baltimore, but it is more than full, and it has a long
 waiting list of applicants. !Not until the state realizes the magnitude of this very problem and increases the capacity of the school
@@ -81,6 +80,7 @@ or partial self-support, and they must not be allowed to remain in
 the regular school rooms. Besides accomplishing a useful educational purpose the segregation of the mentally defective children
 will call attention to the need of enlarged facilities at the State
 institution where undoubtedly many of these children ought to be.
+
 Not all parents are as yet willing to send their afflicted
 children to the special class. The very existence of the class,
 however, enables us to relieve the regular class of the presence
@@ -100,6 +100,7 @@ teachers visit the homes of those children reported to them for
 transfer to the special class, and in most cases succeed in securing
 parental consent and co-operation through tactful explanation of
 the advantages offered.
+
 One of the supervising principals, Dr C. A. A. J*. Miller,
 physician as well as teacher, is giving special attention to the
 work in two classes. After three months' experience he submitted
@@ -107,7 +108,6 @@ the following notes:
 "The epileptics in our care up to date can be divided into
 three classes from the standpoint of ability:
 1. The bright;
-EXCEPTIONAL CHILDREN IN SCHOOLS. 105
 2. The mediocre;
 3. The weak-minded.
 "The first class, the bright, of whom there are but few, take
@@ -139,16 +139,17 @@ be pursued at home, sewing, basket-making; (later on we shall
 try cooking, housekeeping, willow-basketry, chair-caning, broommaking, modern cobbling). All are hopeful, cheerful, and growing in power of attention and concentration; some are establishing
 better personal habits and following to a limited extent rules of
 hygiene. In fine, the general progress is good."
+
 It is open to question whether it is at all necessary to separate
 the epileptic feeble-minded from other feeble-minded or backward
 children or even from the disciplinary cases. It is asserted that
 the refractory boy is made more gentle and sympathetic by being
 allowed to help the teacher care for an afflicted classmate. If this
 view is correct it simplifies the problem of special classes; for it
-106 THE PSYCHOLOGICAL CLINIC.
 is easy to find fifteen or twenty children needing special treatment
 within an area so small that the question of transportation need
 not arise.
+
 These were by no means our first speical classes. Ungraded
 classes, not differentiated very much as to grades of defect in
 children, whether mental or moral, were authorized under a rule
@@ -181,10 +182,10 @@ more than one class in a given locality, we secure the assistance of
 medical examiners employed by the Commissioner of Health, who
 are most willing to co-operate with the teaching force in making a
 proper grouping.
+
 ITew York, Philadelphia, Milwaukee, Chicago, and some
 other cities have quite recently set examples worthy of study and
 emulation in their recognition of differences . among backward,
-EXCEPTIONAL CHILDREN IN SCHOOLS. 107
 defective and refractory children and tlieir selection of means by
 which each variety of defect may receive as nearly as possible
 the proper treatment. Plans recently put into operation in St.
@@ -226,7 +227,6 @@ in the service. Some strong teacher is to give her whole time to
 the supervision of these classes, and medical attendance is to be
 furnished. Imbecile or demented children are not to be admitted,
 nor are merely slow or backward children to be taken from
-108 TEE PSYCHOLOGICAL CLINIC.
 schools near their homes and put into these classes. Attendance
 is not to be made compulsory. If the new institutions are made
 so excellent that it is a clear advantage to each defective child to
@@ -234,6 +234,7 @@ attend, it is argued that no compulsion will be necessary. Should
 a parent prefer to send his child to one of the regular schools,
 no objection is to be made, provided the child does not disturb the
 rest of the school by his presence.
+
 To meet the present needs of the city of St. Louis for the
 education of defective children, the Board ordered that three
 houses be provided and they appropriated $12,000 to cover the
@@ -242,6 +243,7 @@ school year. A later report shows that three special centers of two
 classes each, organized on the above-described plan, are now in
 operation and that each center has a waiting list of applicants for
 admission.
+
 Great changes have taken place everywhere in courses of
 study and plans of classification and promotion since the days
 when exceptional children began to be studied with some approach
@@ -266,12 +268,12 @@ lack of sufficient food, and they were agitating the question of
 giving them daily a nourishing meal at the city's expense. They
 found by investigation, however, that there were very few parents
 who could not afford to supply their children with proper food.
-EXCEPTIONAL CHILDREN IN SCHOOLS. 109
 Unwise selection of food rather than insufficient food was characteristic. Carelessness and ignorance on the part of the parents
 as to what children should eat and drink, rather than poverty,
 were found to be the causes of the trouble. It is the home that
 must be reached, and the child through the home. This school is
 only one of many in which such conditions obtain.
+
 For such conditions the school curriculum cannot be held
 responsible. The school is meeting these conditions in part by
 introducing as much activity and variety as possible into the daily
@@ -290,12 +292,14 @@ work and recreation and thus are better prepared for their later
 life among normal people than they would be if limited to association with other children equally afflicted. The day schools for
 the blind and deaf in Chicago and Milwaukee are of this mixed
 type.
+
 I have watched with much interest the progress of a blind
 girl through the grades of one of the public schools of Baltimore.
 She is now in the seventh grade and is doing work that measures
 fully up to the average for the class. At my request the mother
 of this child, formerly a teacher, has given me an account of her
 experience as follows:
+
 "This blind child learned her first play from children of
 normal vision in a public school kindergarten, and on being sent
 at six years of age to a residential school for the blind she was
@@ -307,7 +311,7 @@ Then we were thankful she was so young, but it took several years
 of home influence, which means so much to a blind child, to
 eradicate the evils of association with children from the worst
 parts of the city.
-110 THE PSYCHOLOGICAL CLINIC.
+
 "Upon the advice of the Superintendent of the Institution
 for the Blind, she was sent to a school among children who
 could see. He had noticed the change in her, and said that a child
@@ -315,6 +319,7 @@ who has a good home ought to have the benefit of home training.
 In most of the schools for the blind the number of attendants is
 insufficient to give the care to young children necessary to train
 them to be clean both in body and in mind.
+
 "The first year in the public school was an experiment, the
 lack of books and appliances of all kinds being the greatest difficulty. By using the Braille writer we copied the lessons from day
 to day and found on every hand some one to suggest ways and
@@ -324,6 +329,7 @@ seeing child was another difficulty. But after a few weeks that
 was overcome in every case where a change was necessary. Each
 year the work of the parents grew easier; they were able to procure
 more books as the child advanced in her studies.
+
 "She has become so much like the children with whom she
 associates that they often forget her affliction and treat her as any
 other playmate. She is independent of them in every way possible to a blind child. From the children she had learned to sew,
@@ -345,14 +351,16 @@ in the class' without any partiality being shown her or any extra
 work being given her by the teacher. It seems to me possible that
 any parent with a fair education should be able to take a child to
 the high school.
-EXCEPTIONAL CHILDREN IN SCHOOLS. Ill
+
 "We have let eacli year take care of itself, and feel that we
 are doing the best possible thing for her. We do not find her an
 exceptionally bright child, but normal in all things."
+
 In a special class for the deaf or blind the special teacher
 would serve the purpose of this mother to a group of five or six
 afflicted children, and she would secure the co-operation of other
 teachers in the building in the ordinary class work.
+
 School attendance laws which are the expression, after all, of
 humanitarian sentiments, have forced upon our attention more
 than ever three classes of children?the backward, the defective,
@@ -369,6 +377,7 @@ must provide for defectives in special classes; for the rights of
 normal children cannot be safeguarded when 50 per cent of the
 energy of the teacher is expended on 5 per cent of the pupils in
 the class.
+
 In dealing with exceptional children the co-operaition of
 teachers and physicians is absolutely essential. The teacher of
 the special class needs to develop to some extent the insight

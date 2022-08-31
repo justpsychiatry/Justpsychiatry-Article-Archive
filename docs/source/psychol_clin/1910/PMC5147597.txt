@@ -1,8 +1,9 @@
 Our Responsibility for Retardation
 ===================================
 
-By Cakkie R. Squire, Ph.D.,
+:Author: Cakkie R. Squire, Ph.D.,
 Principal of Training Dept., State Normal School, Superior, Wis.
+
 That there is waste, terrific waste in our public schools
 through retardation has been proven beyond a doubt by the studies
 of Ayres. and Thorndike. Ayres estimates that the cost of the
@@ -12,15 +13,18 @@ community is small in comparison with the loss in time, in vigorous mental devel
 repeat. The dumping of such a large percentage of confessed
 failures upon the community is a loss that cannot be estimated
 in dollars.
+
 Who is responsible ? The valuable statistical studies of Thorndike and Ayres give us tlie broad general outline of the situation.
 They give us facts. But special studies, such as A. E. Wagner's
 "Retardation and Elimination in Schools of Mauch Chunk Township,"1 by persons who are familiar with the children, their home
 and school environment, will give so far as they go a truer answer
 as to the real causes underlying retardation.
+
 The school of which I am principal?the training department
 of a State Normal?presents an excellent field for such an intimate
 study. We know each other pretty thoroughly, children, parents
 and teachers.
+
 Our pupils represent three general classes. There are those
 whose parents have sought the most hygienic school environment
 in the community from the beginning of the school life of their
@@ -32,8 +36,6 @@ system planned to handle masses of children. These are the socalled unmanageable
 exception, children who are strongly individualized and respond
 in a perfectly normal and wholesome way to individual treatment. The last two classes represent the children who would soon
 1The Psychological Clinic, Vol. Ill, No. 6, November 15, 1909, p. 164.
-(46)
-RESPONSIBILITY FOR RETARDATION. 47
 be eliminated were they compelled to attend a public school. It
 has been our policy to accept these children when they apply if
 there is a vacant seat. We, therefore, undoubtedly show a greater
@@ -41,6 +43,7 @@ proportion of retardation than the average public school. Our
 school accommodates 200 pupils through the first eight grades. In
 this study I have omitted the kindergarten. Our pupils were
 asked to fill out the following questionaire:
+
 1. Name.
 2. Nationality of parents.
 3. Where were you born ?
@@ -61,25 +64,28 @@ If so, which grade?
 16. Why were you obliged to repeat?
 17. Have you ever had a double promotion? If so in
 what grades?
+
 The answers were thoroughly frank. The children felt that
 I was interested to know their whole school history and in many
 cases volunteered additional data after they had talked with their
 parents. Their replies were supplemented by knowledge which
 I had previously obtained in conversation with the parents and
 data on file in the office.
+
 The answers to questions 9, 10, 11, and 12 were so suggestive
 and took us so far afield that I have reserved them for another
 paper and will only refer to them incidentally.
+
 The results of the inquiry bear us out in the presumption that
 we have our full share of retarded children. Taking six years
 as the standard age for the first grade we find 76 retarded
 children; this is 38 per cent of our total enrolment. The following table shows the amount of retardation:
-48 THE PSYCHOLOGICAL CLINIC.
 Retarded. Total number.
 1 year   36
 2 years   25
 3 years    8
 4 years   7
+
 It will be seen at a glance that there are only fifteen cases
 which looked at superficially would cause apprehension.
 When we come to the consideration of the individual cases
@@ -90,6 +96,7 @@ by the following table. I have taken the average standings of the
 retarded children in all their school work, using the terms excellent, very good, good, fair, poor and very poor in their usual
 significance. These standings are compared with the number of
 years or retardation.
+
 Standing. Retardation in Years.
 1 2.3 4 Total No.
 Excellent  11 6 .. .. 17
@@ -98,6 +105,7 @@ Good  10 10 3 1 24
 Fair  8 1 2 2 13
 Poor  1 3 1 2 7
 Very poor  .. 2 1 3
+
 With special classes for the weak and special classes for the
 exceptionally strong who may be able to go faster than the average of the class, with daily physical training in a thoroughly
 equipped gymnasium, with considerable emphasis upon the manual
@@ -125,6 +133,7 @@ him in the seventh grade. Even here his average standing is very
 poor. He has bad habits, is indifferent to all appeals that a school
 can make. We are certain that the difficulty here is moral, though,
 rather than mental.
+
 The third case is that of a girl who has a bad heredity and
 a poor home environment. The report of her teachers is uniformly that when she wills to apply herself she is capable of good
 work. There is no mental defect here, but a defect of will which
@@ -148,6 +157,7 @@ seventh grade with an average standing of good. The history is
 very similar to the preceding one. A young girl was kept out
 of school on account of her own illness and that of her mother
 until she found her former schoolmates far beyond her.
+
 Another fact is brought out strongly in this table. Twentynine of our very best pupils belong to the retarded class. Sixtysix of those whose work ranks considerably above passable, evi50 THE PSYCHOLOGICAL CLINIC.
 dencing power to grapple with school problems, are retarded. In
 other words, about eighty-seven per cent of our retarded pupils
@@ -161,12 +171,14 @@ He finds about ten per cent of the younger school children belong
 to this class. We have only one pupil who could be placed in his
 third class of backward children and none who would belong to
 his fourth group of feeble minded.
+
 Retardation, so far as this study goes, cannot be taken as an
 index of inferior mental ability. It is much more likely to be
 due to an unfortunate combination of circumstances in which
 society as it is represented in the home and the average school
 seems to have conspired with other factors, as ill health, to hinder
 progress.
+
 If it were possible to get at individual histories in other
 studies of retardation, we would undoubtedly find similar results.
 Classifying causes of retardation after a detailed study of
@@ -211,6 +223,7 @@ treated by competent physicians. Two of the children have undergone operations d
 the language of the home is foreign, it has proven a great handicap.
 It has been responsible for at least one year's retardation out of
 the two and three occurring.
+
 Late entrance seems to be the largest factor in causing retardation among our pupils. Final results may demonstrate the
 wisdom of parents who thus retard the children's progress in
 school. However, with healthy children the natural stimulation
@@ -227,7 +240,6 @@ the kindergarten period distinctly detrimental. One pupil, a
 bright child, keener intellectually than the average, was retained
 in the kindergarten an extra year at the request of her parents.
 The child has gone noticeably backward, has contracted dreamy
-52 TEE PSYCHOLOGICAL CLINIC.
 habits, is silly and inattentive. Had she been promoted and
 received the stimulation suited to her phase of development, I
 feel certain she would never have manifested her present tendencies.
@@ -262,8 +274,8 @@ the great majority of such children are not at all abnormal but
 are regarded as defective because the character of the teaching
 has not been adapted to their individual physical and mental
 needs."
+
 The results of our special classes again conform to Dr J ones'
-RESPONSIBILITY FOR RETARDATION. 53
 statement that "The record of the supposedly defective boy under
 individual training is about as good as that of the normal child
 under class instruction." The teacher must arouse the child's

@@ -1,7 +1,8 @@
 University Courses in Psychology
 =================================
 
-By Lightner Witmek.
+:Author:  Lightner Witmek.
+
 What tlie department of psychology in a modern university
 teaches is quite as important as what it contributes to science in
 the way of original research. The exclusive pursuit of either
@@ -22,6 +23,7 @@ the college department of most of our institutions of learning in
 response to an impulse that has been everywhere felt to enrich
 the restricted courses of the so-called humanities by a wider range
 of subjects in closer touch with modern life.
+
 While college instruction in psychology is thus dependent
 upon a well-equipped graduate department, the laboratory of
 psychology, on the other hand, needs the college in order that it
@@ -33,8 +35,6 @@ closely the practical every-day needs of many non-professional persons. In its b
 from many other sciences, as for instance physics and astronomy.
 For this reason it is important that the laboratory of psychology
 should seek to instruct and educate the community, because it is
-(25)
-26 THE PSYCHOLOGICAL CLINIC.
 from the community at large tliat it will draw those students, whom
 adequate training will prepare to take up the burden of investigation.
 Because certain institutions,?notably Clark and Columbia,?
@@ -58,6 +58,7 @@ principle of action, it is natural that each institution should develop, through
 through the development and application of the syllabus method,
 Columbia through the statistical method, and the University of
 Pennsylvania through the clinical method.
+
 I must not minimize the fact that there are psychologists who
 do not share the belief in the importance of comparative work in
 child psychology for the science of psychology and for the teacher.
@@ -73,11 +74,11 @@ frankly as a laboratory for experimental introspection within the
 field of the psycho-physics of the individual consciousness. I do
 not wish to appear to discredit or even to criticise the attitude of
 these departments of psychology. Whether it is justifiable for a
-UNIVERSITY COURSES IN PSYCHOLOGY. 27
 department of psychology to devote its Lest efforts to the development of a comparative cliild psychology is a question that is hardly
 susceptible of settlement through academic discussion. It may
 safely be left for the future to determine through the beneficent
 operation of the law of the survival of the fittest.
+
 To estimate what a department of psychology at any institution of learning represents, it is of as much importance to know
 the scope of its organization for teaching as to know the character
 of its output in the field of original investigation. In the administration of the department of psychology in the University of
@@ -100,17 +101,18 @@ courses in modern experimental and physiological psychology.
 teachers desiring a broader education in the science whose principles underlie pedagogical methods.
 3. Physicians and medical students who seek an acquaintance
 with modern psychological theory and method.
+
 4. Those who are or desire to become teachers of backward
 and other special classes of defective children; and
 5. Social workers, especially those whose efforts are directed
 toward the amelioration of the condition of children through factory legislation, truancy laws, the juvenile court and general philanthropy.
 The essential prerequisite for intelligent work in any department of modern psychology is a training in introspective analysis
-28 THE PSYCHOLOGICAL CLINIC.
 and experimental methods. Without this training, it is immaterial whether the student be an instructor of psychology, a graduate or undergraduate student, a grade teacher or a superintendent of schools, a physician or a social worker,?he must pass
 through this introductory course, not merely because its actual content will serve as a foundation for future work, but also because
 it is only through work of this kind that he will learn how to
 observe and accurately record the phenomena of the human mind
 and of human nature.
+
 The new psychology differs from the old in method rather
 than in fundamental principles. Method can only be acquired
 through individual laboratory work. The student must have presented to him, in an experimental course, the mental phenomena
@@ -125,6 +127,7 @@ employ what he has learned of psychology, in teaching, in medicine, or in social
 his professional work either speculative opinions or the results of
 laboratory investigations that may not have any necessary bearing
 on the problems that confront him.
+
 The first fundamental course is that given in the outline of
 courses below as Course 5, Analytical Psychology. It is based
 upon laboratory experiments dealing chiefly with perception, but
@@ -137,18 +140,18 @@ attention diverted from the principles illustrated by the experiments. In develo
 what it should be, I found it necessary to provide my own manual
 of experiments, which, after a number of years, grew into a book
 published under the title of Analytical Psychology.
+
 The second course, which in a sense is quite as fundamental
 as the first, is given in the outline below as Course G, Physiological
 Psychology. It involves laboratory work in the examination of
 the brain and other portions of the nervous system, and of their
 connection with the muscles and sense organs. The student studies
-O
-UNIVERSITY COURSES IN PSYCHOLOGY. 29
 experimentally reflex action, instinctive and voluntary activities,
 and the physiological processes underlying the emotions. The experiments are more complicated than in the previous course, and
 require more elaborate apparatus. To permit the students of a
 class to carry out the same experiments simultaneously, the laboratory has been equipped with several sets of chronographic and
 other recording instruments.
+
 These two courses constitute the first year's work in psychology. In each course one hour a week is devoted to lectures and
 demonstrations and two hours to laboratory work for the half year.
 In the Summer School, Course 1, Modern Psychology, will cover
@@ -168,6 +171,7 @@ The lecture portion is represented in the Summer School as Course
 3, Genetic Psychology, which will be limited to the evolutionary
 and other processes resulting in the development of the individual
 consciousness.
+
 These courses constitute an introductory outline of psychology. The student has obtained some training in introspective
 analysis,?the dominant note of the first course; he has been made
 familiar with psycho-physiological conceptions; and he has received a consistent account of the genesis of mental functions.
@@ -178,12 +182,13 @@ origin. He is now supposed to have a general survey of the field
 of psychology, and to have made a sufficient acquaintance with
 psychological method to undertake for himself the solution of
 definite problems. He is ready for special work.
+
 The most important single field of work comprehended within
 the general field of psychology is that of child psychology. Child
 psychology is represented, as a department of comparative and
-30 THE PSYCHOLOGICAL CLINIC.
 genetic psychology, among the courses offered in the University of
 Pennsylvania, and comprises three divisions:
+
 1. A lecture course presenting the special methods and results
 of child psychology.
 2. A seminar presenting the results of original work on problems connected with the psychology of education; and
@@ -198,6 +203,7 @@ without previous preparation in psychology may pursue them with
 profit. These courses are outlined in detail below as Course 2,
 Child Psychology; Course 4, Educational Psychology; and Course
 8, The Psychological Clinic.
+
 The seminar course in educational psychology has some
 features that are quite new in work offered along this line. It is
 a composite course given by a number of different lecturers: these
@@ -214,9 +220,9 @@ This is intended only for students who have had preliminary
 training in laboratory methods of experimentation. Students!
 taking this course will be divided into small sections, and will be
 assigned problems which they will carry out under supervision.
-UNIVERSITY COURSES IN PSYCHOLOGY. 31
 A better understanding of the scope of these courses may
-bo obtained from the following outline.*
+bo obtained from the following outline.
+
 Psychology 1. Modern Psychology.?A course of lectures presenting an outline of the problems and theories of modern psychology.
 Mental Analysis.?An analysis of perception based upon the results
 of experimentation and introspection; the role of apperception,
@@ -225,12 +231,15 @@ sense organs; the physical stimuli or objects of perception.
 Mind and Body.?The nature of the will; automatic and reflex movements; inherited instincts and acquired habits; impulse and
 emotion; the structure and functions of the human nervous
 system.
+
 Mental Synthesis.?The permanent effects of sensation and movement upon the brain; sensory after-images; memory images;
 cerebration and association; organization of imagination and
 memory; the development of ideas, the intellect and reason; the
 growth of attention and will.
+
 By Dr E. B. Twitmyer, Instructor in Psychology in the
 University of Pennsylvania.
+
 Psychology 2. Child Psychology.?A course of lectures on methods
 and results. Greater attention will be given the methods which, like the
 clinical and statistical methods, are capable of giving results when employed by investigators who are actively engaged in educational work.
@@ -240,9 +249,11 @@ for example, words, sentences, etc.; the determination of
 threshold values; the quality of association; spelling errors;
 the extension of the experimental method to child psychology
 as a branch of comparative psychology.
+
 The Statistical Method.?The history of its origin; Quetelet, Chadwick, Fechner, Darwin, Galton; the development of anthropometric tests; the psycho-physical tests of Cattell; statistics of
 association and other mental processes; statistics of defects of
 school children.
+
 The Interrogatory Methods.?Under this head will be discussed (a)
 introspection; (b) the syllabus of general interrogations; (c) the
 questionaire or syllabus of specific questions; (d) the analytic
@@ -252,7 +263,7 @@ ontogenetic method as developed by Darwin, Preyer, Perez,
 Moore, Shinn and others, which attempts a scientific biography
 of an individual child, or which may be directed to the examina*See also Courses in Psychology for Normal Schools, The Educational
 Review, 1897, xiii, 45-57, 146-162.
-32 THE PSYCHOLOGICAL CLINIC.
+
 tion of special periods, as, for example, adolescence; (b) the
 pliylogenetic method, which is directed to the study of the development. of civilized races from primitive races and of the human
 consciousness and character from lower forms; (c) the method
@@ -269,6 +280,7 @@ work in Germany, England and the United States; the necessity of familiarity wit
 and especially for educators in positions requiring supervision;
 an outline of the requirements of a clinical examination and
 record; illustrative cases.
+
 The Systematic Record of Unrestricted Observations.?Children in
 the Home, at School, on the Street, at Play, etc.
 The Examination of the Literature of Child Life.?Under this head
@@ -278,6 +290,7 @@ child life, for example, in general literature, tales of parents,
 comic stories, folk-lore, tradition and history.
 By Dr Ligiitner Wither, Professor of Psychology in the
 University of Pennsylvania.
+
 Psychology 3. Genetic Psychology.?A course of lectures on the evolution of the individual consciousness.
 Biological evolution and the hereditary factor; natural selection
 through variations; the inheritance of acquired characters.
@@ -296,6 +309,7 @@ the completed evolution of personality and will. Senescence
 and the decline of individual consciousness.
 By Dr Herbert Stotesbury, Professor of Psychology in the
 Temple College.
+
 Psychology 4. Educalio7ial Psychology.?A seminar course for the
 report and discussion of the results of the original investigation of
 special problems that are of practical importance to education as well as
@@ -306,6 +320,7 @@ which will be announced for the first time in this course, are important
 contributions to experimental psychology and pedagogy, as well as practical demonstration of methods by which those engaged in the profession of teaching may at the same time successfully conduct original
 rescarcli. The several lecturers will give from one to five lectures each
 on the topics presented below.
+
 Statistics of retardation in school work, and the method by which
 the superintendent of a school system may, with the assistance
 of his principals and grade teachers, determine the extent, character and causes of retardation in the children of his schools.
@@ -315,6 +330,7 @@ assist in this work will be demonstrated. Statistics from the
 schools of the city of Camden, N. J., will be reported and
 analyzed to show the educational and psychological significance
 of the results.
+
 By Mr. J. E. Bryan, Superintendent of Schools, Camden, N. J.
 The language problem. Oral and written language. The psychology
 of the spelling process and spelling errors. Tests of spelling
@@ -323,21 +339,23 @@ drill and the place it should occupy in the school curriculum.
 Ivice's results and those of the North West School, Philadelphia.
 By Dr Oliver P. Cornman, District Superintendent of
 Schools, Philadelphia, Pa.
+
 Truancy and delinquency. The significance of truancy in relation
 to juvenile delinquency and adult criminality. The organization of truant and parental schools, made necessary by the enforcement of compulsory education. The status of compulsory
 education enactments in the United States and the enforcement of the compulsory education act of Pennsylvania in
 Philadelphia. The relation of the Juvenile Court to truant and
-U THE PSYCHOLOGICAL CLINIC.
 parental schools and to reform schools. Clinical reports of
 truants, moral defectives and other disciplinary cases.
 By Mr. Edward A. Huntington, Principal of Special School
 No. 3, Philadelphia, Pa.
+
 Examination of the eyesight and hearing of school children. A demonstration of the practical methods by which the grade teacher
 or principal may conduct tests, keep the record of their results
 and interpret them. The betterment of the condition of pupils
 who are defective in sight and hearing. The relation of mental
 retardation to defects of sight and hearing.. Results of the
 tests of children in the Trenton schools.
+
 By Mr. J. M. McCallie, Supervising Principal of the Centennial Grammar School, Trenton, N. J.
 Backward and feeble-minded children from the standpoint of the
 grade teacher and supervising principal.
@@ -367,6 +385,7 @@ UNIVERSITY COURSES IN PSYCHOLOGY. 35
 be directed in the prosecution of as mucli individual work as each has
 time and inclination to do. Laboratory Manual: Witmer's Analytical
 Psychology.
+
 By Professor Stotesbury.
 Psychology 6. Physiological Psychology.?Laboratory course. The
 anatomy and physiology of the nervous system, the sense organs and the
@@ -383,6 +402,7 @@ of recent research consulted. Text-book: Titchener's Manual of Experimental Psyc
 and two or four hours laboratory work. Hours will be arranged to meet
 the convenience of the students taking the course. Research Rooms of
 the Laboratory.
+
 By Dr E. B. Twitmyer.
 Psychology 8. The Psychological Clinic.?Children will be examined
 in the presence of the students taking this course. The object of the

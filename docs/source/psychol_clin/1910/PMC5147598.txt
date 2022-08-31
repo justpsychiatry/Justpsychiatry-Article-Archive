@@ -1,7 +1,7 @@
 The Boy and the Cigarette
 ===========================
 
-By Charles Keen Taylor.
+:Author: Charles Keen Taylor.
 Germantown Academy, Germantoicn, Philadelphia.
 Among the very interesting results gained by an examination
 of the records of over five hundred private-school boys, few are
@@ -21,6 +21,7 @@ per cent of those fifteen; 57 per cent of those sixteen, and 71 per
 cent of those seventeen. In connection with this large percentage
 much might be said concerning the laxity of the laws which are
 supposed to regulate the sale of tobacco to boys.
+
 Now these were private-school boys, who are generally supposed to have a better "looking after" than the public-school
 boys. It is therefore a natural inference that the percentages in
 the public schools must be considerably larger. But even if the
@@ -34,8 +35,7 @@ system, but handy. The grades average as follows:
 Age   12 13 14 15 16 17
 Grade of non-smokers .. 83 '90 89 84 87 85
 Grade of smokers   73 75 73 75 75 68
-(54)
-THE BOY AND THE CIGARETTE. 55
+
 If these figures are correct, and the writer has every reason
 to believe them an under-estimate, cigarette smoking must have a
 serious effect on a boy's mental development. Indeed, the writer
@@ -49,6 +49,7 @@ to determine. Certain it is, however, that a boy's energy is bound
 to be more or less weakened by the constant use of a narcotic, so
 that we can easily believe that smoking may be the fore-runner, if
 not the support, of other vices even more unpleasant.
+
 As to physical effort, I have found that many of the older
 boys, who smoked when younger, are under normal size for their
 age, though I have also known many who have smoked continuously for some years, who are yet quite tall and broad. On the
@@ -57,6 +58,7 @@ more than dull mentally, while the little stunted fellows are generally quite br
 "something", varying with the boy, with one stopping the growth,
 with another stunting the mind, and with yet another, stunting
 both growth and mind.
+
 Brief as this paper is, I trust that enough has been said to
 draw serious attention to the smoking menace, which is a reflection on the administrative anthOrities of our cities, on our schools,
 which fail to educate rationally upon the subject, and, worst of

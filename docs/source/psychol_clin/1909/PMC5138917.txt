@@ -1,8 +1,9 @@
 The Effect of School Boom Temperature on the Work of Pupils
 ============================================================
 
-By Linnaeus N. Hikes,
+:Author:  Linnaeus N. Hikes,
 Superintendent of Schools, Crawfordsville, Ind.
+
 One of the present-day problems is the heating and ventilating of buildings. It is only within the last few years that
 much attention has been paid to the proper introduction of air
 into buildings, its distribution in correct amounts and at the
@@ -14,6 +15,7 @@ lung diseases and investigations into causes and the conditions
 in which they originate and thrive have brought the world to a
 fuller understanding of what is needed to preserve and lengthen
 human life.
+
 To-day, despite what the world ihas learned, mo greater
 crimes of ignorance against public health are committed than
 the defective planning of our homes, our schools, our churches,
@@ -22,6 +24,7 @@ Nothing is so cheap as pure air, yet so sparingly is it provided in
 the great majority of our public buildings and in our dwellings
 that, in spite of the general warfare against the white plague,
 this disease continues its widespread devastation.
+
 The greatest sins of carelessness and indifference are committed against children in our public schools. We compel
 children to attend our schools for so many hours every school day
 in the year, and then and tliere deprive them of the cheapest and
@@ -31,8 +34,7 @@ school hours in poorly ventilated and improperly heated rooms
 contributes as much, perhaps, to the poor health of the youth
 *Paper read before the Third Annual Congress of the American School
 Hygiene Association; February 25, 1909, Chicago.
-(106)
-SCHOOL ROOM TEMPERATURE 107
+
 of our land as any other one cause. The laws of every state
 ought to provide that the heating and ventilating of school rooms
 shall be in the hands of a commission of experts who would no
@@ -55,12 +57,14 @@ whole day in a room full of foul and improperly heated air than
 it is to risk the danger of contagion from smallpox. Some day,
 slowly moving public opinion will demand that the health of our
 school children shall be more carefully guarded.
+
 In the foregoing I have said much about ventilating and
 heating buildings. In the minds of ignorant school authorities
 everywhere, heating and ventilating a school building are one
 and the same thing. It is true that the two things are interwoven
 and are generally treated together, but temperature alone is a
 subject presenting many interesting problems.
+
 For a generation, perhaps, men have seen the need of contrivances whereby buildings may be heated by more effectual means
 than the old fire place and the more recent stove. Ingenuity has
 supplied the need. But there has arisen a new need and that is
@@ -79,6 +83,7 @@ second system, janitor control of the temperature, may be almost
 as good as automatic control but is likely to be much worse. The
 poorest system of all is that in which the teacher is depended upon
 to see that the room is at the right temperature.
+
 Teacher control of the temperature is the poorest, because
 the teacher who is thoroughly wrapped up in her recitations will
 forget to adjust dampers and cut-offs, and, being in the room,
@@ -86,6 +91,7 @@ variations in temperature will not be so readily noticeable. A
 faithful janitor, if he is given the proper apparatus, can control
 the temperature of the school rooms better than the teachers.
 The automatic apparatus will do the work best of all.
+
 The proper control of the temperature of the school room
 has two advantages. First, by holding the temperature at the
 right point there is an immense saving of fuel. Second, the
@@ -98,6 +104,7 @@ are certain to bring on coughs and colds which only too frequently
 end in throat and pulmonary troubles. The cause of education
 is as much promoted by. hygienic surroundings and the physical
 comfort of pupils as by teachers and text-books."
+
 As ventilation and temperature are closely associated, so
 are temperature and humidity. The percentage of moisture in
 the air of the school room, we are told, has much to do with the
@@ -112,7 +119,7 @@ heat necessary for a school room it must be borne in mind that
 the humidity of the atmosphere in the room has much to do
 with the problem. In the tests described below, however, the
 element of humidity was not considered.
-SCHOOL ROOM TEMPERATURE 109
+
 Most authorities seem to agree that the temperature of school
 rooms should be kept uniformly, at seventy degrees. The Pennsylvania legislature passed in 1905 a very practical law governing
 the erection of school buildings. This law provides that all buildings shall be properly lighted, ventilated and heated, and that
@@ -135,6 +142,7 @@ death which the school room has prepared in hundreds of communities. Numerous as
 children in improperly heated school rooms, there are added
 mental effects which show themselves in the work of the pupils
 from day to day.
+
 It has been said above that most authorities are agreed that
 a temperature of seventy, degrees is the proper one to maintain
 in the school room. That may be true in some localities. However, it is my firm belief that a temperature of sixty-eight
@@ -147,7 +155,6 @@ never suffers himself to remain in an atmosphere heated above
 sixty-eight degrees he readily adjusts himself to the condition and
 is comfortable. Furthermore, he can do better mental work. It
 is the commonest kind of an observation that when a school
-110 THE PSYCHOLOGICAL CLINIC
 room becomes too warm, the pupils become dull and listless.
 They do not work so readily nor so accurately. Usually the
 higher the temperature, the poorer the results. On the other
@@ -155,6 +162,7 @@ hand, if a room is allowed to become too cold, the results are
 almost as poor. There is a happy medium somewhere on the
 thermometer and it is that medium which many efforts have been
 made to find.
+
 Recently, in the school system with which the writer is connected some experiments were made of the effects of different
 temperatures on the work of pupils. These experiments were
 conducted in three different rooms, in three different buildings.
@@ -179,13 +187,13 @@ at 80 degrees was 58.8; 75 degrees, 77; 70 degrees, 78.2. The
 cooler the room, the better the average. The difference here
 between 70 and 80 degrees in temperature caused a difference
 in scholarship average of 20 per cent.
+
 The second day, all three rooms were held at 76 degrees.
 Another test in spelling was given. The averages were 74.5,
 75.2 and 72.7 per cent. The averages were thus practically the
 same, there being a difference of only three per cent between
 the highest and the lowest. The averages were not as good as
 those of the day before in the two rooms having lower temperatures.
-SCHOOL ROOM TEMPERATURE 111
 Tlie third day, all three rooms were held at 74 degrees for
 an hour in the forenoon. A test in spelling was given. The
 averages were 78.7, 81 and 82.1 per cent The difference between
@@ -198,6 +206,7 @@ to have had more energy and life. The averages were 82.7, 85.2
 and 81.5 per cent. The general average of all classes was the
 highest yet and the temperature was the lowest. The last test
 tvas in spelling, as the others had been.
+
 The fourth day, the three rooms were held at 68 degrees
 all afternoon. The pupils seemed to be at their best. Two
 tests were given. The first was in spelling just before recess,
@@ -209,6 +218,7 @@ cent. In the second test of the afternoon, the averages were 72.7,
 91 and 90.6. The averages in two of the rooms were again
 almost identically the same, while the third fell below the others
 from another cause.
+
 On the fifth day, two tests in arithmetic were given. For
 an hour the rooms were held at 70 degrees. The averages were
 88.7, 83.5 and 88.4 per cent. The variation was only five per
@@ -217,24 +227,27 @@ degrees. The averages were 86.1, 84.3 and 91.7. The examples
 given, it developed, were too simple to entail any severe test on
 the classes, and consisted in multiplying whole numbers of more
 than one digit by numbers of one digit.
+
 The sixth day's test was another one in arithmetic, involving work in decimals. The temperature was /2 degrees in all
 the rooms. The averages were 75.8, 90.5 and 80.9 per cent.
 The general average of all the classes in a temperature of 72
 degrees was not so high as when the temperature of all three
 rooms was 70 degrees.
+
 The seventh day involved two tests in arithmetic. The
 first temperature tried all around was 68 degrees, and the second
 66 degrees. The averages in the first test were 86, 90 and
 91.5. On the second test, they were 82.3, 94.5 and 88.8. The
-112 THE PSYCHOLOGICAL CLINIC
 variations were not large. The general average of all the classes
 was higher at 68 degrees than at 66 degrees.
+
 On the eighth day the last tests were given. Sixty-eight
 degrees was the temperature again in all the rooms. The averages
 were 68.9, 80 and 77.7. The test was in spelling, two different
 sets of words being given out. On the second set the averages
 were 75.5, 77.7 and 81.7 per cent. The variations again were
 not large.
+
 These tests were somewhat crude and it may. be claimed for
 them that they do not prove much. However, in a general way,
 they seem to show that the best school room work can be done
@@ -246,6 +259,7 @@ to humidity, I should judge that a temperature of 68 degrees
 in the school room is the right temperature and that any wide
 variation therefrom for any considerable time is an injury to the
 welfare of the children committed to our care.
+
 Another test of the effect of temperature was made in three
 third grade rooms. One of these rooms, because of a defective
 heating apparatus which failed to do the work required and was
@@ -262,15 +276,16 @@ of this time the pupils in the cool room attended only a half
 day while the others attended all day, In spite of the half day
 attendance, the pupils in the cool room excelled those in the hot
 rooms who attended all day.
+
 During the same eight weeks the building in which this
 cool room was located had more or less trouble on account of not
 being able to keep the temperature up to 70 degrees. Tests
 were given simultaneously in this building and two others, in the
 fourth, fifth and sixth grades, as well as the third. In a total
 of thirteen tests in four subjects, the building with the lowest
-SCHOOL ROOM TEMPERATURE 113
 average temperature excelled either one or both of the others
 nine times.
+
 Recent tests in certain English schools show that pupils can
 do good work in a temperature of 60 degrees, and that the best
 work was done with temperatures ranging through the sixties.
@@ -290,6 +305,7 @@ that their buildings are not only heated, but heated properly.
 They can serve their patrons well by attending most faithfully
 to this matter during all the days of the year on which heating
 of the school rooms is required.
+
 The results of heating school rooms improperly are hard to
 detect. They are so bound up with the results of improper ventilation that differentiation is almost impossible. But the evil
 effects of improper heating exist. In some future day. conditions

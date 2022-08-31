@@ -3,9 +3,9 @@ Clinical Studies of Retarded Children
 
 The Psychological Clinic
 Vol. I. No. 4. June 15, 1907.
-
-By Geokge W. Twitmyeb,
+:Author:  Geokge W. Twitmyeb,
 Superintendent of Schools, Wilmington, Del.
+
 Public education, in its broadest sense, may be regarded as
 a people's deliberate effort to secure for their children in physical,
 intellectual and moral development the best that the race has
@@ -17,6 +17,7 @@ application of the world's best thought and practice to the development of all c
 that is, to the development of its powers to their fullest possibilities. This does not mean that all children should have the
 same education, but it does mean that each child should be educated in accordance with its capacities and possibilities, in short
 in acccordance with its individuality.
+
 The school is maintained and supported for the children; its
 only excuse for being is that it shall give the individual child
 a start in the right direction, toward right living, right thinking
@@ -30,8 +31,6 @@ management, are of secondary importance. The school training
 of children means the care of individuals, not of the community;
 it means a careful study of each child in all its moods and tenses,
 of its individuality and expressive acts, of its temperament, environment and physical condition, so as to adapt the educative
-(97)
-98 THE PSYCHOLOGICAL CLINIC.
 process and surroundings to its personal needs. There are in all
 schools children who, through accident, sickness, disease, environment or heredity, have certain peculiarities of mind or body, and
 must therefore be given individual care and attention if they are
@@ -42,6 +41,7 @@ for the serious consideration of all connected with the management
 of the Wilmington schools. With the hope of ascertaining definitely the causes of retardation, two lines of inquiry were instituted; one bearing on the course of study and the quality of
 teaching in the several grades, the other bearing directly upon the
 individual child.
+
 In comparing the course of study in our schools with the
 courses followed in a number of other progressive cities, the
 amount of work to be accomplished by our children was found
@@ -52,6 +52,7 @@ the required course in the several grades. The teaching, too,
 from year to year is becoming very sympathetic, more rational,
 more painstaking, more individual, and therefore enables a larger
 number to complete the grades regularly.
+
 Every school has some unfortunate children who cannot keep
 pace with their more fortunate neighbors; they are known as
 "backward children, dullards or defectives." These children are
@@ -68,17 +69,19 @@ pupils in all grades. The causes of mental retardation as discovered by our teac
 irregularity in attendance and truancy; bad or indifferent domestic conditions and low ideals of life and conduct; want of parental
 care and discipline; vicious associates; malnutrition and
 fatigue; defective eye-sight, defective hearing, and such physical
-CLINICAL STUDIES OF CHILDREN. 99
 defects as catarrli, enlarged tonsils and adenoids; tobacco and alcoholic poisoning; the sequellse of scarlet fever, diphtheria, measles,
 whooping cough and typhoid fever; chorea and nervousness manifested in mental irritability, depression, emotional excitement, morbid fears, lack of self-control, persistent ideas, weakness of memory
 and concentration, exaggerated mobility, tremors and twitching
 movements of groups of muscles; stammering, stuttering, and
 other developmental defects.
+
 An accurate determination was made of the number and age
 of all the children in each year of the twelve-years' course of study.
 The results for a single year have been selected for presentation
 in the following table:
+
 Table I.
+
 Tiie Numbeb of Children of Each Age in Each Year of School Life
 from the First to the Twelfth Year.
 G
@@ -208,12 +211,12 @@ high school
 2
 1
 1
+
 The results do not vary much from year to year. In the several
 years, they have revealed many interesting and some quite amazing
 facts. Table I shows that in the particular year, the statistics of
 which I have selected for the purpose of illustration, there were
 1,487 pupils in the first-year course. The larger number of these
-100 THE PSYCHOLOGICAL CLINIC.
 pupils are from 6 to 8 years of age, inclusive, but a not inconsiderable number range from 9 to 13 years of age, and one member
 of this grade is as old as 16. In the second school year, there are
 1,232 pupils, the largest number are ranging from 7 to 9 years of
@@ -229,6 +232,7 @@ figures for each of the twelve years of the school reveals similar
 conditions for each year. In each school year there are many children seriously retarded. In the primary and grammar grades,
 these retarded children are from one to six years behind the normal grade; a few are shown to be from one to two years in advance
 of the normal grade.
+
 In a large number of cases the retardation was due to various causes entirely beyond the reach or control of the school; such,
 for example, as entering school at an age above the required
 school age, irregular attendance caused by prolonged sickness, or
@@ -240,6 +244,7 @@ improving tho mental, moral and physical condition of many of
 the children belonging to this group of backward pupils, when tho
 new compulsory attendance law goes into operation at the opening
 of the next term.
+
 Of the retarded children who have been subjected to examination and treatment during the past five years, 1,487 have been
 carefully examined and studied by teachers, principals and superintendents, and were treated in school by corrective training or in
 the home by the family physician. The observation and investigation undertaken by principals and teachers included tests of
@@ -248,7 +253,6 @@ tonsils and suspected adenoid growths, the ascertainment of tho
 presence of decayed teeth, defective speech, nervous troubles and
 fatigue, malnutrition and mental defects. The result of tho
 examination and subsequent treatment accorded these children is
-CLINICAL STUDIES OF CHILDREN. 101
 shown in Table II. Of the 1,487 cases of retardation examined
 for mental and physical defects, 1,231, or 82.8 per cent, were found
 to have defects of some kind; 1,001, or 67.2 per cent, were given
@@ -256,7 +260,9 @@ pedagogical or medical treatment adapted to ameliorate the condition discovered.
 were improved by the treatment given them. As to the remaining
 15.9 per cent, many of the cases treated passed from under our
 observation before the results of the treatment could be satisfactorily determined.
+
 Table II.
+
 Record of 1,487 Cases of Retardation (Boys and Girls) Examined for
 Mental and Physical Defects.
 defects
@@ -345,6 +351,7 @@ e-S841 56.6
 28.3 | 70.1
 19.9
 98.7
+
 Table II analyzes the causes of retardation and the results of
 treatment with respect to the discovered conditions. Thus 1,202,
 or 80.8 per cent, of the children had defective eyesight. Very
@@ -354,7 +361,6 @@ nervousness, with 45.2 per cent. Enlarged tonsils with 21.2 per
 cent, malnutrition with 22.3 per cent, and fatigue with 21.G per
 cent come next in order, and are of about equal frequency. Mental defects are present in 19.2 per cent of the cases. Nasal stenosis is observed in 16.5 per cent, finger twitches are observed in
 10 per cent, defective speech in 6.9 per cent, badly decayed teeth
-102 THE PSYCHOLOGICAL CLINIC.
 in 6.7 per cent of the cases, adenoids in 2.7 per cent. It is quite
 possible that many of these classes of defect occurred more often
 than this table shows them to have appeared. The work was done
@@ -362,6 +368,7 @@ without the assistance of the expert psychologist and physician.
 Similar defects may have existed in other cases not discovered by
 us. The first work of this kind must naturally be liable to some
 errors of omission.
+
 The column showing the percentages of cases improved by
 treatment is of interest. The 28 cases of adenoids treated all
 showed improvement. Over 90 per cent of improvement is shown
@@ -384,6 +391,7 @@ tion for the amelioration of many whose school life is a constant
 struggle against handicaps that can be removed by the exercise
 of a little good judgment, tactful procedure, and genuine human
 sympathy.
+
 The careful diagnosis and correct interpretation of physical
 characteristics is of inestimable value to the teacher in understanding her pnpils, when such study is supplemented by more or less
 detailed observation of the different manifestations of intellectual
@@ -391,11 +399,11 @@ activity. It is certainly true that in a general way mental condition and activi
 in accounting for a child's readiness or dullness in profiting by the
 discipline of the school room it is necessary for the teacher to
 observe carefully both mental and physical attributes.
+
 The aim of these studies was not to determine how many
 more children could be promoted by discovering certain physical,
 temperamental and environmental peculiarities as the causes of
 retardation. Rather was it through a correct interpretation of
-CLINICAL STUDIES OF CHILDREN. 103
 individual characteristics and conditions to solve the problem of
 placing each child in the best relation to the educational forces
 and instrumentalities at our command, to the end that he may
@@ -405,6 +413,7 @@ without waste. We have made only a beginning in this important,
 work and there is much yet to be done. The problem involves more
 than the determination of a child's capabilities in terms of the
 grade fiction.
+
 The presentation of typical cases, the method of diagnosis
 and corrective training and treatment, the co-operation of the
 home in medical treatment, and the results secured must be left

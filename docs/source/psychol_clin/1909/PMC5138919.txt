@@ -1,8 +1,9 @@
 A Simple and Practical Test of Hearing
 =======================================
 
-By E. A. Kirkpatrick,
+:Author:  E. A. Kirkpatrick,
 State Normal School, Fitcliburg, Mass.
+
 All persons who have had much experience in testing the
 hearing of children, will agree that such tests are not easily made
 with accuracy. It is still more difficult to record the results of
@@ -12,6 +13,7 @@ The requirements of the new state laws in Massachusetts, Vermont,
 and Connecticut, that teachers shall test the sight and hearing of
 their pupils, has made it especially necessary that a simple test and
 form of record should be found.
+
 At the Fitchburg State Normal School a group test has been
 adopted that is more quickly made and more accurate than individual tests. As many as fifteen children may bo tested at onc(?
 in an ordinary school room. They are placed five each in the two
@@ -33,10 +35,9 @@ children for the right ear and the left car respectively are then
 averaged. The record of each ear for each child is then recorded
 in the form of a fraction, the denominator of which is the avorago
 for the group (or for tho whole room tested by the same teachor),
-(96)
-TEST OF REARING 97
 the numerator of which is the number of digits correctly written
 by the pupil for that ear.
+
 This record shows accurately the acuteness of the hearing of
 each child as compared with that of his mates, regardless of the
 size of the room, its quietness, and the loudness and distinctness

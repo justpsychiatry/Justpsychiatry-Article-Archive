@@ -2,9 +2,10 @@ The Making and the Unmaking of a Dullard.
 ========================================
 
 REVIEWS AND CRITICISM.
-By Thomas Edward
+:Author:  Thomas Edward
 Shields, Ph.D., LL.D., Associate Professor of Psychology in the
 Catholic University of America. Washington, D. C. The Catholic Education Press, 1909. Pp. 296.
+
 This little book bears eloquent testimony to the possibility of
 training backward children, for it is the autobiography of one who
 was himself a backward boy. The introduction tells us, "The story in
@@ -21,6 +22,7 @@ discuss familiarly The Psychological Clinic, and note with approbation
 Dr Witmer's work for the last thirteen years at the University of
 Pennsylvania in the training of backward children, as well as other
 movements of like nature.
+
 The story of the dullard gets well started in Chapter VII. The
 first stage is downward,?and three years of school training result in
 turning a fairly bright and healthy boy into an imbecile. The trouble
@@ -38,14 +40,13 @@ hundred and sixty pounds. At fourteen he was five feet ten inches
 tall, his adult height. The lack of balance between physical growth
 and mental development, described by the author as "alternating
 phases," was in his opinion the real cause of his backwardness, augmented by bad pedagogical methods.
-(21)
-22 THE PSYCHOLOGICAL CLINIC.
 Rapid physical growth made it possible for the overgrown boy to
 be put to work on the farm. This proved his salvation. Good heredity, a strong body, five meals a day, open-air work, deep sleep, and
 mental rest were his, until he awoke from his long intellectual
 slumber and began his own eduation at sixteen. A brief experience of
 school at the age of thirteen had meanwhile served to establish more
 firmly the belief in his hopeless stupidity.
+
 His self-education began with perceptions of numbers, not as
 abstract relations, but as bushels of wheat, sacks of corn, fence boards,
 and barn timbers. His study of mechanics began with an "old oaken
@@ -58,6 +59,7 @@ mind and stuck there. That success brought self-reliance; it nerved
 him to withstand an elder brother's domination; it fired him to go
 to the city alone and visit every machine shop and ask to be taken on
 as an apprentice.
+
 That he was refused is not to be wondered at, for at sixteen his
 vocabularly was so small that he could not tell what he needed to
 finish his machine, and had to go all the way to the city in order to
@@ -79,7 +81,7 @@ were cheap in every sense of the word. The language was ungrammatical and vulgar
 gave him the final and mighty impulse which bore him out upon the
 course of intellectual and moral training which resulted in an honored
 and useful life.
-REVIEWS AND CRITICISM. 23
+
 Dr Shields in his introduction voices the growing protest that
 is being heard throughout this country against limiting the work of
 the public school to the "three R's." He shows that the school must

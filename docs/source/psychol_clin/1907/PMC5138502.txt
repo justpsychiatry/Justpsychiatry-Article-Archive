@@ -4,9 +4,9 @@ A Clinical Examination Blank for Backward Children in the Public Schools
 The Psychological Clinic
 Vol. I. No. 7.
 December 15, 1907.
-
-By J. D. Heixman,
+:Author: J. D. Heixman,
 University of Pennsylvania.
+
 Children begin their public-school life at different ages,
 some as early as five, others not until eight or older. Even where
 education is compulsory, the age of entrance will frequently be
@@ -15,6 +15,7 @@ of the law and in part to ill-health and the influx of a foreign
 population. Nevertheless, the majority of children are under seven
 years of age when first entered upon the enrollment records of the
 public schools.
+
 It is the aim of the schools to have each child do the work
 of one grade in a single year, so that if a child enters the first grade
 at the age of six years he should, if the school succeeds in its
@@ -25,6 +26,7 @@ this ideal scheme of progress. A very cursory examination of
 school reports or enrollment records will reveal the fact that there
 is a large number of children in the public schools who must often
 have failed to make the necessary promotions.
+
 From the analysis of the enrollment figures of the Camden
 schools for 1905-06 it appeared that about 2,000 public school
 children, or 26% per cent of the entire number, were retarded,
@@ -35,7 +37,6 @@ led Mr. Bryan, the city superintendent, to study by means of
 a statistical inquiry the conditions producing it, and also to consent to a clinical examination of the 2,000 children whom his
 statistics showed to be retarded. This examination was carried
 (189)
-190 THE PSYCHOLOGICAL CLINIC
 No. Name
 Grade Class 190 Address
 Grade Class 190 Address
@@ -48,6 +49,7 @@ Most deficient in
 Best in
 Habits
 54321 54321
+
 Father living dead Normal vG G M SI D Deficient Bkw IHIM II Id
 Mother living dead Health vG G F P vP Home Care vG G F P vP
 Step-father, Step-mother Nutrition F G M P St " Culture vG G F P vP
@@ -80,10 +82,10 @@ Stutter 5 4 3 2 1 Diseases
 Filled In by Date
 Laboratory of Psychology, University of Pennsylvania.
 The J. Lewis Crozer Fund.
-A CLINICAL EXAMINATION BLANK 191
 oil by me during the second half of the school year 1906-07. Its
 object was to discover the social, educational and other factors
-which delayed the normal progress of the child.*
+which delayed the normal progress of the child.
+
 In order to facilitate this investigation and to secure data
 that were relatively uniform and of scientific importance, the first
 task was the preparation of a suitable blank. I propose to
@@ -115,17 +117,18 @@ records would constitute a repository of data, upon which to build
 generalizations of the utmost significance to the school system
 and all connected with it, whether in the capacity of patron or
 pupil, teacher or supervisor.
+
 All the items of the blank, which is reproduced in actual
 size on the page opposite, may be classified somewhat roughly
 into three groups: one group pertains to the child in the home,
 ?This investigation was conducted on the J. Lewis Crozer Fund,
 provided by Mrs. Crozer as a memorial to her husband and to further the
 scientific study and remedial treatment of backward children.
-192 TIIE PSYCHOLOGICAL CLINIC
 another to the child in the school, and the third to the child as a
 mental and physical entity. Jnst as there are three main groups
 of facts, so there are three main sources from which to gain
 our information: the home, the teacher and the child himself.
+
 When large numbers of children are to be examined within a
 limited period, it is impossible to undertake to see the parents
 of every child and the necessary information must be obtained
@@ -136,6 +139,7 @@ with the district. It is also a practical expedient to use the child's
 appearance as an index of the home conditions. In my work,
 I attempted to obtain facts about the home from the teacher,
 principal and child.
+
 The blank makes no provision for obtaining certain data
 of value, such, for example, as the circumstances of the child's
 birth. A number of considerations entered into the determination of the number and kind of data, for the collection of which
@@ -151,6 +155,7 @@ to light which ought not to be passed by; these should be carefully entered on t
 into its present form after several days' trial. This resulted
 in a few alterations, but for the most part it was left as originally
 conceived by Professor Witmer.
+
 There are a number of preliminary data at the head of the
 blank which may usually be obtained from the ordinary school
 records. These are name, address, grade, class, school, teacher,
@@ -161,7 +166,6 @@ named items from the regular registration books. It will be
 noticed that grade, class, school, address, and teacher are duplicated.
 This is explained in the following way. When I began my work
 I examined the blanks Mr. Bryan had used in his inquiry during
-A CLINICAL EXAMINATION BLANK 193
 the year 1905-06. From these records I obtained the name, grade,
 class, address and teacher for each one of the 2,000 cases of retarded children. These facts are required to identify and locate
 the child, therefore I entered them upon my blank before beginning the actual examination. But when I began the examinations, I found that the location of the child had changed in a
@@ -187,6 +191,7 @@ age are both called for, in order that one may serve as a check
 upon the other. If there is any inconsistency, the information
 must be regarded as unreliable. The same may be said about
 age on entering school and number of years in school.
+
 Closely associated with all the data mentioned above are
 'progress, conduct, and attendance. After progress appear the
 letters E, G, F, D and vD; these are abbreviations for the words
@@ -199,13 +204,13 @@ to mean more to the person doing the grading, than mere figures
 standing for so many grades. However, figures may be employed.
 In connection with normal, which for the sake of compactness is
 used for normal mentality, both figures and letters appear. The
-194 THE PSYCHOLOGICAL CLINIC
 same arrangement is employed in connection with deficient, standing for deficient mentality. To indicate the grades of co-ordination, stammer, and stutter, only figures are employed, because
 no significant words suggest themselves. Below the item coordination are five groups of letters and words which are used
 to grade five different mental or moral qualities, whose purpose
 will be considered later. The other qualities which it was thought
 profitable to grade are health, nutrition, support, home care, home
 culture, and home discipline.
+
 I have now made mention of all the data involving the
 gradation of qualities, conditions and functions; I shall next
 consider the system of grading. It will be noticed that a fivepoint system is adhered to throughout, and there are some reasons
@@ -223,6 +228,7 @@ them whether the mentality was good or poor, without telling them
 how many grades of mentality I used. In very many cases they
 responded, "neither," meaning medium, or, "lie is very good,"
 or, "He is very poor."
+
 Another reason for preferring the five-point system is its
 easy adaptation to other systems. In translating this system
 into the percentile system, or the reverse, the lowest grade would
@@ -239,9 +245,9 @@ IT has really not been analyzed and graded because tlio college
 has no interest in grading students who fall below the passing
 mark; but if the E" group were graded according to relative
 ability, it would be found that the students in it would distribute
-A CLINICAL EXAMINATION BLANK 195
 themselves into two groups which would be related to each other
 like the D and G groups.
+
 In connection with normal mentality, for which normal
 appears 011 the blank, I wish to explain in what way the figures
 are used to indicate gradation. Directly after normal are placed
@@ -262,6 +268,7 @@ is adhered to in this blank for the sake of being consistent with
 the percentile system of marking grades. Just as in the percentile
 system, so in this system the lower numbers 3tand for the lower
 grades.
+
 After this general treatment of the graded items, I wish to
 consider these items individually, and first mentality. The immediate purpose of the preparation and employment of this blank
 was the collection of data for an investigation of the causes of
@@ -281,7 +288,6 @@ to the natural judgments of the teacher. It'was thought that many
 teachers speak of their children as being "slow" and that this
 means more as a grading of mental capacity than the term poor.
 A "dull" child the teacher also understands readily,' and this
-196 TIIE PSYCHOLOGICAL CLINIC
 seemed to be a more striking term for children who are in the
 lowest grade of normal mentality than the rather indefinite term
 very poor. Whatever catchwords may be employed, they serve
@@ -308,6 +314,7 @@ or as an idio-imbecile; and we fail to recognize more than one
 grade, of idiot. The mentally deficient are therefore represented
 on the blank by grades 5, 4, 3, 2, and 1, for which the following
 symbols are employed, Bkw, III, IM, II, and Id.
+
 A different point of view might have given rise to a different
 system of classification. Thus, Ireland and Shuttleworth both
 make use of a pathological classification. This must necessarily
@@ -320,7 +327,6 @@ In the British Medical Journal for 1002 Dr Eichholz says: "Feeblemindedness or m
 condition to which a medical man can apply his art with hope of
 success, as a social and educational grouping which has gradually
 arisen in connection with the development of elementary education
-A CLINICAL EXAMINATION BLANK 197
 in this and other countries." Moreover, it is recognized that the
 hope for the greatest improvement of the feebleminded lies in
 their instruction and training,?that the problem is an educational
@@ -338,6 +344,7 @@ feeblemindedness which has its basis in a congenital brain disease,
 or in one acquired in the first years of life, is no longer susceptible
 of cure. The task of the physician can therefore receive but a
 small reward."
+
 It appears to be generally admitted that the most satisfactory
 classification of the feebleminded is psychological or educational.
 A psychological classification, however, does not appear to me
@@ -351,10 +358,10 @@ Omitting the moral imbecile, it is as follows: I. Asylum Care :
 and helpfulness. II. Long apprenticeship and colony life
 under protection: Imbecile, (a)Low grade, trainable in industrial and simplest manual occupations; (b) Middle grade, trainable in manual arts and simplest mental requirements; (c) High
 oradc, trainable in manual and intellectual arts. III. Trained
-to *
-for a place in tiie world: Backward or mentally feeble, mental
+to for a place in tiie world: Backward or mentally feeble, mental
 processes normal but slow and requiring special training and
 environment to prevent deterioration.
+
 The five grades of mental deficiency that are used on the
 blank are practically the same as those which have been presented
 by Dr Barr. The three highest grades of the mentally deficient

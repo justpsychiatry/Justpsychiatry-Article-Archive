@@ -3,9 +3,9 @@ Irregular Attendance in the Primary Grades
 
 The Psychological Clinic
 Vol. III. No. 4. June 15, 1909.
-
-By Ralph L. Johnson, M.A.,
+:Author:  Ralph L. Johnson, M.A.,
 Supervisor of Schools, Upper Darby, Pennu.
+
 For some years my attention has been arrested by the fact
 that of children enrolled for periods of equal length, those who
 attended the greatest number of days had in general the highest
@@ -26,13 +26,13 @@ more, and 4 per cent by four years or more. Many children do not
 leave the first grade until they are nine or ten years of age. Some
 of the children are enrolled in the first grade for as long a period
 as four years. "Why ?
+
 Supt. Schaeffer, in the Pennsylvania State report for 1908,f
 ?The schools of Danville, Pa., in 1908 showed a retardation of 74.7
 per cent. Report of the Supt. of Pub. Inst, of Pa., 1908, page 154.
 fReport of the Supt. of Pub. Inst, of Pa. for the year ending Jan. 1,
 1908, page 11.
-(89)
-90 THE PSYCHOLOGICAL CLINIC
+
 says "Retardation is partly due to defective systems of promotion.
 Teachers are always afraid that their work will be criticised
 by those above them, if pupils are promoted whose preparation is
@@ -45,6 +45,7 @@ claims. "The question is not, Is the education good or not, but
 do tliey get it ?" They do not get it in the primary grades. The
 primary children do not enter late, they do not stop early, but
 they do attend school irregularly.
+
 In order that I might present a definite statement of the
 extent of irregular attendance, I collated the records of the attendance of children in all the grades of the school district of which I
 am supervisor. Upper Darby is a township contiguous to Philadelphia on the west. There are seven settlements, from five of
@@ -55,6 +56,7 @@ eight years, and in the other two for six and five years respectively.
 The high school records, which were also examined and classified
 in the same manner as the grade records, cover a period of fourteen
 years.
+
 Four thousand and forty-one (4041) annual records or enrolments were examined and the data classified in five sections. In
 the high school section, grades nine to eleven, there were 392
 enrolments, including both boys and girls; in the intermediate
@@ -70,14 +72,16 @@ years, nine in the grades and three in the high school. These
 children would appear in my data with twelve annual enrolments.
 Very few were represented with as large a number of enrolments
 as this. In all, 874 children are involved.
+
 Although the number of children is relatively small, nevertheless the records of a small group of children over a long period
-IRREGULAR ATTENDANCE 91
 may furnish better data for conclusions than the records of a large
 group of children for a short period of time. Epidemics, unusual
 weather conditions, or some local disorder are less likely to have
 a disturbing influence upon the results.
+
 Table I shows the percentage of pupils who have attended
 for each ten-day division. Thus, of the 958 primary boys enrolled,
+
 TABLE I.
 Percentage of Attendance.
 Days
@@ -233,6 +237,7 @@ Girls 1-3
 5.6
 3.5
 23.6
+
 5.2 per cent attended between 141 and 150 days; 3.2 per cent
 between 101 and 110 days, and so on. The inspection of this
 table does not show any significant differences between the atten
@@ -252,6 +257,7 @@ grades, so far as attendance is concerned. In the eight grades
 below the high school, barely one-half, 51 per cent of the children,
 attended more than three-fourths of the time. In 1908, GO per
 cent of the children in these grades were promoted. The percentage promoted does not differ much from the percentage attending more than three-fourths of the time. Sixty per cent promoted
+
 TABLE II.
 Percentage of Attendance (Summary).
 Days attended
@@ -277,9 +283,11 @@ j and less
 20.7
 14.4
 23.5
+
 may seem low, but this figure is based upon the total enrolment,
 and not upon the number who took the examinations, as is so
 often done in statistics of promotion.
+
 Of the pupils attending less than three-fourths of the time,
 we find the following interesting comparisons. Attending between
 three-fourths and one-half of the time, we find 12 per cent of tlio
@@ -301,7 +309,7 @@ days in 200.* In grades four to eight, 34 per cent fail to attain
 In each district shall have power, at Its June meeting, to reduce the
 period of compulsory attendance to not less than seventy per centum
 (70 per centum) of the school term in such district."
-IRREGULAR ATTENDANCE 93
+
 this standard of attendance, and in grades one to three, 53 per
 cent. That the migratory families cannot make up this difference
 appears from the fact that such families have children above the
@@ -335,6 +343,7 @@ each. The percentages of children attending are shown
 in the vertical column and by the
 height of the curve
 above the base line.
+
 The curve shows
 that 36 per cent of
 the high school pupils attended between 191 and 200
@@ -350,6 +359,7 @@ presumption of the
 law. The part of the curve to the right of this section indicates
 the relative proportion of high school pupils who failed to meet
 the requirements of the law.
+
 Curve II exhibits the attendance of those high school pupils
 who graduated. Forty-four per cent attended 191 to 200 days.
 No pupil graduated who did not attend at least 141 days, the
@@ -391,6 +401,7 @@ High Intermediate Primary
 G Pe/cent.1 Per*cent. Per cent.
 Missed ^ time   29 38 59
 " l/o "   16 22 39
+
 " ^ "   7.5 12.5 23
 A very important cause of retardation in the primary grades
 is inadequate and irregular attendance. I he public schools are

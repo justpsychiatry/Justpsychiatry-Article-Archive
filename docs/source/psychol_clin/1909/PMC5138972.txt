@@ -1,9 +1,11 @@
 The Effect of Physical Defects on School Progress
 ==================================================
 
-By Leonard P. Aykes,
+:Author: Leonard P. Aykes,
+
 In charge of Backward Children Investigation, Ilusscll Sage Foundation,
 Nciv York City.
+
 One of the studies which has been conducted by the Backward
 Children Investigation of the Russell Sage Foundation in New
 York City is a careful investigation of the school records of 20,000
@@ -15,6 +17,7 @@ cent of the children who were of normal age for their grades were
 found to have physical defects, while only about 75 per cent of the
 retarded children were defective. Ihis feature was a surprise to
 the investigators.
+
 Another noteworthy point was that the percentage of defective
 children in the lower grades was decidedly greater than in the
 upper grades. The discovery of these unlooked for results led to
@@ -23,6 +26,7 @@ and the results showed a very marked and consistent falling off
 of children having each sort of defect from the age of six up to the
 age of fifteen. Defective vision alone increases slowly but steadily
 with advancing age.
+
 Moreover, these decreases were not due to the falling out or
 leaving school of children suffering from defects. Ihis might be
 put forward as an explanation if we had to do with children above
@@ -31,15 +35,16 @@ did not take place until the ago of fourteen or fifteen; but such is
 not the case. The children were of from six to fifteen years of
 age, and the marked decrease began with the eight, nine, and ten
 year old children and continued steadily.
+
 Were further data not available, it would certainly be difficult
 to explain the seeming anomaly that retarded children have fewer
 defects than do children of normal age; but the data showing the
 decrease of physical defects with increasing age are illuminating.
+
 It is evident that here age is the important factor. The importance
-(71)
-72 THE PSYCHOLOGICAL CLINIC.
 of this on all investigations into the influence of physical defects on
 school progress is at once evident.
+
 Whether the term "retarded" is used to express a condition
 or an explanation, it will always follow from the definition itself
 that retarded children will be older than their fellow pupils in the
@@ -51,10 +56,12 @@ the retarded children are found to be defective. This does not
 mean that pupils with more physical defects are brighter mentally.
 It simply means that those who are above normal age are older, and
 that older pupils have fewer defects.
+
 In order to ascertain what correlation may exist between physical defects and school progress, the records of the children have
 recently been retabulatcd, using as a basis age instead of grade, so
 that the results should not be vitiated by the heterogeneous age
 composition of the grades.
+
 It is well known that in our schools there is no exact correspondence between grades and ages. Children of twelve years of
 age, for instance, are found in all the grades from the first to the
 eighth. A child of twelve in the eighth grade is unusually bright,
@@ -69,7 +76,7 @@ There were 3304 of these children. Those ten years old numbered 910, the eleven 
 of thirteen years 49G, and of the fourteen year olds there were 392.
 The following table shows how they were distributed among the
 grades, and how many were suffering from each sort of defect:
-PHYSICAL DEFECTS. 73
+
 Physical Defects of 3304 Children in New York City.
 Graph
 Total
@@ -174,6 +181,7 @@ G8
 30
 14
 427
+
 A child of ten in the first grade is so badly retarded that we
 may. fairly call him dull and we shall be wrong in only a few cases
 of children who entered school very late indeed. We may feel even
@@ -184,6 +192,7 @@ making appropriate changes in the grades, similar statements can
 be made for the other ages. Using this as a basis, the following
 schedule was drawn up for rating our children at the ages of ten to
 fourteen:
+
 Division of Pupils into Dull, Normal and Bright Groups by Ages
 and Grades.
 Ages.
@@ -233,16 +242,19 @@ dull
 normal
 normal
 normal
+
 Using this as a basis, the records were retabulated, the pupils
 distributed among the three groups and the results worked out in
 percentages. They are shown in the following table:
-74 THE PSYCHOLOGICAL CLINIC.
+
 Dull, Normal, and Bright Pupils Suffering from each Sort of
 Defect. Ages Ten to Fourteen, Inclusive. All Grades.
 Dull. Normal. Bright.
+
 Number of children examined. . 407 2588 309
 Defects per child  1.G5 1.80 1.07
 Percentages.
+
 Enlarged glands  20 13 G
 Defective vision   24 25 29
 Defective breathing  15 11 9
@@ -252,6 +264,7 @@ Hypertrophied tonsils . . . . 2G 19 12
 Other defects  21 11 11
 Defective  75 73 G8
 jSTot defective   25 27 32
+
 Here the results are very different from those discussed so far.
 In every case except in that of vision the children rated as "dull"
 are found to be suffering from physical defects to a greater degree
@@ -263,6 +276,7 @@ on the average 1.G5 defects as against 1.07 for the bright one. In
 other words, the number of defectives among the dull children does
 not differ widely from the number among the bright ones, but the
 dull child is found to be much more defective in degree.
+
 That hypertrophied tonsils and adenoids have a distinct bearing upon retardation seems to be clearly indicated by the fact that
 the former arc found in 2G per cent of the dull children and only
 12 per cent of the bright ones, and in the case of the latter the
@@ -274,7 +288,6 @@ The case of defective vision, however, is far from being so
 clear. Found in 24 per cent of the dull pupils, 25 per cent of the
 normal ones, and 29 per cent of the bright ones, it is difficult to
 account for it. We have already seen that defective vision increases
-PHYSICAL DEFECTS. 75
 slowly with advancing age. A computation of the individual ages of
 the dull and bright pupils in the groups here studied shows that the
 dull ones are older than the bright ones. ^Nevertheless they have
@@ -282,6 +295,7 @@ better eyesight. The explanation may be that we are here dealing
 with extreme cases. The pupils we designate as bright are very
 young indeed for their grades and in all probability include a
 number who have injured their eyes through undue use and strain.
+
 Even a small percentage of such cases would account for the difference observed.
 The computations establish in a convincing manner the close
 connection between certain physical defects and school progress, but
@@ -294,6 +308,7 @@ of the other kinds of defects. Similar computations were made
 for the eleven, twelve, thirteen, and fourteen year old children.
 Finally the central tendency for the entire group was ascertained.
 The results are illuminating.
+
 Average Number of Grades Completed by Pupils Having no Physical
 Defects Compared with Number Completed by Those Suffering
 from Different Defects. Central Tendency Among 3304 Children, Ages Ten to Fourteen Years, in Grades One to Eight.
@@ -308,10 +323,10 @@ Children having no physical defects .... 4.94
 The notable feature of the table is the fact that in every case,
 except that of defective vision, the children suffering from each
 sort of physical defect made less progress in their school work
-76 THE PSYCHOLOGICAL CLINIC.
 than did those not so handicapped. The seriousness of these handicaps in terms of percentages is shown below:
 Table Showing the Extent to Which Children Suffering from each
 Sort of Physical Defect Progress more Slowly than do Children with no Defects.
+
 Per cent of
 Kinds of defects. loss in progress.
 Enlarged glands   14.9
@@ -322,6 +337,7 @@ Hypertrophied tonsils  8.9
 Adenoids  14.1
 Other defects  8.5
 Average    8.8
+
 In this table the average loss of 8.8 per cent which appears
 in the last line is not, of course, the numerical average of the percentages of loss corresponding to the different sorts of defects, but
 rather the general loss of progress discovered among all the children having physical defects. In other words, the children suffering from physical defects made on the whole 8.8 per cent less
@@ -341,7 +357,6 @@ Moreover, the New York investigation gives us quantitative
 measures of the retarding forces of the different kinds of defects.
 In general, children suffering from physical defects are found to
 make 8.8 per cent less progress than do children having no physical
-PHYSICAL DEFECTS. 77
 defects. Children suffering from enlarged glands and adenoids
 are retarded most. Hypertrophied tonsils, defective breathing, and
 defective teeth are in general somewhat less serious in their effects.

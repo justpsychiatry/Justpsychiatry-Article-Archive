@@ -2,9 +2,11 @@ School Reports and School Efficiency
 =====================================
 
 REVIEWS AND CRITICISM.
-By David S. Snedden and William H. Allen, for the New York Committee on Physical Welfare
+
+:Author:  David S. Snedden and William H. Allen, for the New York Committee on Physical Welfare
 of School Children. New York: The Macmillan Co., 1908. ^Pp.
 xi + 183.
+
 To the great majority of people the school report is the only tangible evidence of what the school administration is doing. Citizens
 generally canot be expected to know what goes on in the school rooms
 and in the meetings of boards of education, nor what is taking shape
@@ -16,9 +18,11 @@ If the school report is at once the evidence and test of the school
 administration it is clear that its ideal is such a marshalling of the
 facts regarding the schools of the city as will give the reasonably intelligent citizen a clear notion of just how well the schools are performing
 the duties entrusted to them.
+
 The book before us is a study of the school reports for the purpose
 of ascertaining how far and in what manner they seek to embody such
 an ideal. It is a study in comparative administration.
+
 This study reveals so wide a diversity among school reports as to
 preclude the idea of any uniformity of belief as to what they should
 contain. While uniformity of scope and treatment is not to be expected,
@@ -31,17 +35,17 @@ of state school funds according to a fixed unit in school work, has
 led to an emphasis upon such units. A similar influence has been
 exerted by the United States Bureau of Education in its request for
 information along certain definite lines.
+
 Apart from these influences tending toward a certain uniformity,
 there are other forces working in the same direction, though less
 effectively. The trend of current discussion in educational affairs is
 not without its influence, and when certain facts are needed in any
 city to point a moral or adorn a tale, the experience of other cities
-(174)
-REVIEWS AND CRITICISM 175
 suggests investigations or arrangements of material which are new to
 the city in question. Conscious efforts to promote uniform treatment
 of statistical data, a theme which has been discussed almost to weariness by the National Education Association and kindred organizations,
 have been singularly fruitless.
+
 With these general considerations by way of introduction the
 work takes as its main theme the scope of educational statistics. In
 them we find the condensation of educational experience, and here more
@@ -51,6 +55,7 @@ universally, the tables of facts are isolated from the text of the report
 and no effort is made to explain their meaning or set forth the salient
 facts which they present. In view of the volume of tabular matter
 there is a painful paucity of interpretation.
+
 The method pursued by the author, in recording the facts, is to
 furnish specimen tables from the different reports in regard to each
 matter touched upon, giving a selection of the simpler and then the
@@ -66,20 +71,22 @@ their language. One cannot help but feel that in many cases some
 explanation why the detailed tables are to be regarded as superior,
 beyond the fact that they are more detailed, would have been illuminating and would have somewhat relieved the tedium for the general
 reader of this important chapter.
+
 No attempt is made to outline a model report. Instead, in chapter
 five we have a series of questions which might be answered in a school
 report. The list does not pretend to be exhaustive, but in reality it
 constitutes a somewhat formidable program if it be assumed that the
 greater part of these points should receive attention.
+
 Conscious of the fact that somewhat staggering demands are made
 on the school administration, the discussion of "suggested economics
 and improvement" comes as an antidote. This is a brief discussion of
 short cuts and methods to get at desired results, tending to a simplification of records and such forms and registers as will supply the
 needed information, without excessive work. This is a very vital point
 and the suggestions as far as they go are admirable.
+
 While the subject presented in these pages is thoroughly technical,
 the work may be commended most heartily to school authorities and to
-176 THE PSYCHOLOGICAL CLINIC
 all who are interested in the progress of our schools. It is an appeal
 for exact information and should not be passed by without a hearing.
 Such information in regard to our schools?one of the most important
@@ -93,6 +100,7 @@ too much to say that there is no great business enterprise of the people
 of which they know so little as they do of their schools. In private
 affairs such ignorance on the part of directors and stockholders would
 lead to bankruptcy.
+
 The authorship of the several chapters of the book is distinctly
 stated. The general considerations herein briefly noted are the work
 of Dr Snedden; the particular application to the city of New York

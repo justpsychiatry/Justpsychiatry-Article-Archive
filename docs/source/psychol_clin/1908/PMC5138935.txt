@@ -3,9 +3,9 @@ Some Fukther Considerations Upon the Re-Tardation of the Pupils of Five City Sch
 
 The Psychological Clinic
 Vol. II. No. 3. May 15, 1908.
-
-By Roland P. Falkner, Ph.D.
+:Author:  Roland P. Falkner, Ph.D.
 Commissioner of Education for Porto Rico, 1904-07.
+
 In the February issue of The Psychological Clinic, Dr.
 Oliver P. Cornman presented a valuable discussion of the Retardation of Pupils of Five City School Systems.* His study is based
 upon tables showing the distribution by ages of the pupils in each
@@ -28,16 +28,15 @@ purpose to call attention to both resemblance and dissimilarity.
 In the first place, it may be pointed out that the distribution of
 the ages among the different grades shows greater variations than
 in the several school systems as aggregates.
+
 If we direct our attention to the total number of children of
 each age, as reported in the tables, we note a marked similarity
-*The Psychological Clinic, I, p. 245 ff.
-(57)
-58 THE PSYCHOLOGICAL CLINIC.
 in tlie series for the different cities. In each, the numbers between the ages of 8 and 12 are very nearly identical, growing
 smaller, however, as the age of 12 is reached. But in every case
 the numbers fall off somewhat at the age of 13 years, and much
 more obviously at 14. The following figures are drawn from the
 tables:
+
 Children in School at Certain Ages.
 Av. Age Camden Kansas City Boston Philadelphia New York
 10-12  1,401 3,228 7,G71 18,162 62,360
@@ -49,6 +48,7 @@ Av. Age
 13   79 87 86 83 80
 14   48 55 52 44 47
 15   23 28 20 15 17
+
 This table shows that the falling off in school begins at 13,
 and that at 14 only about one-half of those who are in school at 12
 are still present. At 14 very few have entered the high school; at
@@ -59,6 +59,7 @@ dropping out of school depends more upon age than upon the
 degree of advancement in school studies. This is quite as true of
 Boston, where, according to Dr Cornman's conclusions, retardation is least prevalent, as it is of Camden, where it appears to be
 most frequent.
+
 This fact is of cardinal importance in the study of retardation. It dispels at once the conclusion, not infrequently drawn,
 that retardation increases the number of children in school. One
 can readily see how retardation would swell the number of school
@@ -70,8 +71,6 @@ They in fact do so in large numbers, and as the falling off at 13
 years testifies, some of them anticipate the fourteenth birthday.
 Thus Dr Cornman says,* "Boston is now able to make the
 proud boast that she has a seat in school for every child able to
-?The Psychological Clinic, I, p. 254.
-THE RETARDATION OF PUPILS. 59
 attend. This condition may be due in part to the smaller percentage of retardation. Were the stream of children through the
 grades less rapid, perhaps she would have her thousands or tens
 of thousands upon part time, while empty benches yawned for
@@ -85,6 +84,7 @@ in the grades. It is safe to assert that the total loss to the community would b
 In these sentences we find the problem of retardation brought
 into relation with the problem of accommodation, and with that
 of cost.
+
 ]STow it is perfectly clear that if Boston must accommodate
 all her children till they are twelve years old inclusive, and in
 addition at least 85 per cent of those thirteen years old, and 50
@@ -104,6 +104,7 @@ to believe that a much larger number would be ambitious to finish
 the work of the common schools, and that we should have a much
 larger number of children in their fifteenth year in the school than
 we have at present.
+
 It is not my purpose to minimize the evils of retardation,
 but cost is not one of them. I quite agree that it causes a "wasteful expenditure of the public funds" because it is an ineffective
 expenditure. The expenditure is not greater than it otherwise
@@ -122,6 +123,7 @@ means that comparatively few children finish the work of the
 elementary schools. If remedial measures can be made effective,
 a larger number of our children will receive a full elementary
 education, as provided in our common schools.
+
 The age at which children begin school is as important as
 the age at which they leave it, since between these two points
 lies the possibility of advance. We have seen that the five cities
@@ -129,6 +131,7 @@ compared show substantially similar results so far as the decrease
 of the school population after twelve years is concerned. But do
 the children begin equally early in the several cities ? The answer
 of the figures is as follows:
+
 City ? years g years 7 years 8 years
 and under
 Camden   611 1,270 1,556 1,434
@@ -147,9 +150,9 @@ the tables. The figures apparently show two types; the first three
 cities in the table above showing but a slight increase of the children seven and eight years of age over those of six years of age,
 while in New York and Philadelphia these ages are much more
 numerous than the six year old children.
+
 An examination of the tables in Dr Cornman's paper will
 show that the figures for Camden appear to be reported in September and those for Kansas City in June. As a matter of fact,
-THE RETARDATION OF PUPILS. 61
 the two tables are identical, and neither is what it is labeled. In
 both cities the official school reports show that the figures relate
 to all children admitted to the schools during the year ending June,
@@ -178,16 +181,17 @@ larger number of these young children. This explajins why
 Boston appears to conform to the type of Camden and Kansas
 City, although the children were recorded at the end of the school
 year instead of predominantly at its beginning.
+
 This examination of the first factor in the tables, that of
 age, has shown that the several tables, though similar in form,
 are quite distinct in substance. They are not so directly comparable as they would appear. If the aggregates of the age columns are affected by these differences, the details must also be
 affected, and it becomes necessary to inquire whether the conclusions drawn by Dr Comman in regard to ages within the grades
 must not be modified, in part at least.
+
 Before doing so, it will be well to inquire whether the tables
 presented are comparable in every respect as to grades. The time
 of the enumeration is not without influence upon this factor also,
 but there are other and less subtle differences revealed by a careful
-62 THE PSYCHOLOGICAL CLINIC.
 examination of the tables. If we compare tlie number of pupils
 in each grade in the several cities, we note that in Camden,
 Kansas City, and Boston, the first grade is the most numerous,
@@ -196,6 +200,7 @@ largest. Indeed, in Philadelphia the second grade contains more
 than twice the number of children found in the first, and in New
 York also the second grade is very much the larger. A reference
 to the actual figures shows:
+
 Grade Boston Philadelphia New York
 June, 1906 June, 1907 June, 1908
 First Grade   13,669 13,353 57,893'
@@ -210,6 +215,7 @@ grade pupils of the school year 1906-07 who will begin the year
 1907-08 in the same grade. In other words, the grade distribution reported in June is that with which the next school year
 would begin in September, provided no pupils dropped out during
 the summer and no new pupils were admitted in the fall.
+
 Our five tables, apparently so similar, are in fact very
 diverse, and this diversity apparently affects the numerical relations which we arc studying. Let us therefore examine closely
 just what each table represents, and how their differences affect
@@ -218,17 +224,20 @@ three distinct methods of enumerating ages and grades:
 1. All the children entering school during the year, grades
 and ages being reported as of the time of entrance (Camden find
 Kansas City).
+
 2. All the children in" school at the end of the year, the ages
 reported being those at the end of the year and the grades those
 of the last half of the year (Boston).
+
 3. All the children in school at the end of the year, the ages
 reported being those at the end of the year and the grades those
 of the next year (Philadelphia and New York).
+
 In general it may be said that the tables differ widely on
 account of this absence of consensus of opinion as to the precise
 meaning of such simple phrases as the age of the child and the
 grade in which the child is found.
-THE RETARDATION OF PUPILS. 63
+
 The first method of enumeration, which is employed in Camden and Kansas City, and which counts all the children admitted
 to school in the grades in which tlicy are admitted, has certain
 advantages and disadvantages. Its advantages are found in a
@@ -259,17 +268,18 @@ making such records, the more frequent such errors will be. We
 are not dealing here with such original errors, but with secondary
 errors arising from mistakes or carelessness in transcribing the
 facts from school registers.
+
 These considerations lead us to believe that if the ages of
 children entered in September Were reported on October 1st as
 of the date of registration, they would in a great majority of
 cities represent more accurately the school records, than if they
 were reported in June as of that date.
+
 But if, under the system pursued in Camden and Kansas
 City, the bulk of the age figures refer to a specific date- in the
 school year, namely, in September, many of them do not. The
 school register of September is continually growing through the
 year. In this system of records both age and grade are reported
-64 THE PSYCHOLOGICAL CLINIC.
 at the beginning of the child's school life for the given year. In
 the great majority of cases this will be in September, but in quite
 a number of cases it is later. In Camden, during the year in
@@ -280,6 +290,7 @@ total enrolment, showing the exact number of pupils enrolled from
 the beginning of the year to the end of each month during the
 school year 1905-1906, from which the monthly accessions can be
 derived:
+
 End of Total Enrolment Accessions
 September, 1905   11,117 11,117
 October, 1905   11,627 510
@@ -291,6 +302,7 @@ March, 1906   12,508 108
 April, 1906   12,696 188
 May, 1906   12,719 23
 June, 1906   12,801 82
+
 It appears that of the pupils registered during the year, 86.8
 per cent, or very nearly seven-eighths, were in the schools in
 September and were recorded that month as to their ages. Accessions were numerous in October and over 90 per cent of all
@@ -309,7 +321,6 @@ system having half-yearly or more frequent promotions during the
 year, this method offers considerable difficulty. Who shall report
 the child?the teacher who has him under her care at the end of
 the year, or the one who began with him? Obviously, the more
-THE RETARDATION OF PUPILS. 65
 definite system adopted by tlie city of Boston avoids tliese difficulties.
 A second method of stating the facts prevails in Boston.
 Here the statistics are prepared semi-annually on January 31st
@@ -318,6 +329,7 @@ pupils have been during the previous five months. The ages
 reported are those of the date of enumeration. In Dr Cornman's
 paper the analysis is based upon the June figures of the year
 1906*
+
 We have here two important elements of differences from
 the first method. It is fair to presume that some of the pupils
 who in September were over-age have dropped out. This would
@@ -329,6 +341,7 @@ we have some means of estimating the force of these conflicting
 tendencies. In table VI Dr Cornman prints percentages for
 Boston in January, 1906, as well as those of June, 1906, though
 he does not comment upon these added figures.
+
 In June, 1906, the percentage of over-age pupils in Boston
 as a whole was 21.6 per cent, but in January it was only 15.4 per
 cent. In the first grade there were in June 9.7 per cent pupils
@@ -336,13 +349,16 @@ over-age, but in January only 5.7 per cent, and corresponding
 differences are found in all the grades. In short, the January
 pupils are five months younger than the same pupils in June. In
 September the pupils are again five months younger.
+
 This is strikingly shown in the figures for the youngest children in school. Thus we find, comparing January with June,
 1906:
+
 Ages Number of Children
 January June
 4 years of age  67 20
 5 years of age  5,470 2,815
 G years of age  8,242 7,500
+
 Since most of the five year old children were nearing the age
 of six in January, they decrease more rapidly in number than
 the other age classes in the following five months. There are no
@@ -352,7 +368,7 @@ percentage of over-age pupils tends to diminish in the upper grades the
 inclusion of the ninth grade would have slightly reduced, in the decimal,
 the percentage of over-age pupils. Dr Cornman confines his table to the
 first eight grades.
-GG THE PSYCHOLOGICAL CLINIC.
+
 gation of pupils ten years of age and over in the three primary
 grades, enables us to establish the following comparison:
 Pupils Ten Years of Age and Over in 1900.
@@ -360,6 +376,7 @@ January 31 June 30 Sept. 12
 First Grade   74 81 38
 Second Grade   246 429 104
 Third Grade  1,099 1,789 477
+
 The figures are arranged chronologically. The last, which
 represent the beginning of the school year 190G-07, are very different from those of June, representing the end of the school yeark
 1905-190G. They show us a much lower percentage of retardation, and were figures available for Boston on the same plan as in
@@ -383,6 +400,7 @@ of general school conditions of the year. It is the moment of
 closing school in June when a large number of pupils are credited
 to higher classes, which they will not enter until school commences
 in September.
+
 Compared with Boston, the ages are the same?those at the
 end of the year?but the grades to which the children are credited
 are in many cases more advanced. We have approximately a
@@ -390,7 +408,6 @@ September grade distribution and June ages. Let us see how.
 close we approach to a September grade distribution. It would
 be an exact one if the children all came back in September and
 no new pupils entered. Of course many pupils will not return in
-THE RETARDATION OF PUPILS. 67
 September. Of those who fall out some will be in the upper
 grades. Of these it is not unlikely that the over-age pupils will
 be the most numerous. The tendency to leave school after fourPHILADELPHIA.
@@ -401,6 +418,7 @@ among the relatively unsuccessful than among those "who
 have reached a place in the
 school corresponding to their
 ago.
+
 On the other hand, many
 new pupils will appear in
 September. The ranks of the
@@ -432,7 +450,6 @@ just which day in June is not
 apparent, but probably not as
 late as the thirtieth of the
 month. !Nor will the schools
-G8 THE PSYCHOLOGICAL CLINIC.
 open precisely on September 1st. There is an interval of somewhat more than two months: to he on the safe side let ns assume
 that it is three months. Now of all the children of eight years and
 less than nine, it is safe to assume that three months later onefourth of them will have passed their ninth birthday. Raising
@@ -443,6 +460,7 @@ table for September, 1907, which is given on the preceding page.
 The full import of this table can only be seen by comparing
 its main results with those published by Dr Cornman, as follows:
 Percentage of Enrolment Above Normal Age.
+
 Camden Philadelphia, Pa.
 Grades mainly June, '07 September, '07
 September, '06 Estimated
@@ -470,7 +488,7 @@ June, 1905, 32.0 per cent,* and in June, 1906, 30.0 per cent.
 Dr Cornman suggests that improvement has followed calling attention to the problem. The ~New York reports, however, show in
 ?From N. Y. City Report, erroneously printed as 30.1 in Dr Cornman's
 paper.
-THE RETARDATION OF PUPILS. 69
+
 1904 the pupils before promotions, as in Boston, but in the following year, for some unexplained reason, the method was changed
 and the grades were noted after the promotions had taken place.
 The facts are presumably about the same in each case, but the
@@ -504,12 +522,13 @@ classes, about two-thirds of whom were in classes for truants and
 incorrigibles and about one-tliird in classes for backward pupils.
 The aggregate elementary school population at that date was
 155,763.
+
 If all the special classes were added to the backward children
 in New York in 1906, the total proportion of backwardness would
 be something over 32 per cent instead of 30 per cent. It is to be
 noted that the figures reported for 1905 are 32 per cent and that
 in that year there were no special classes.
-70 THE PSYCHOLOGICAL CLINIC.
+
 It may seem to some that this discussion of statistical
 methods has been unduly prolonged, but only by such discussion
 can the true meaning of the figures be ascertained. It is certainly
@@ -517,6 +536,7 @@ most unsatisfactory to have to deal with divergent figures which
 can be made strictly comparable only by introducing conjectural
 elements. In view of the increasing interest in the problems involved, it would certainly bo gratifying for all concerned were
 school men to follow the same method.
+
 Which method is to be preferred? Among the three whicK
 have been discussed, that of Boston has the merit of the greatest
 simplicity. Its disadvantage is that it records facts at the end of
@@ -528,6 +548,7 @@ but plainly that of June 30th, in the middle of the calendar year.
 Attention has already been called to the difficulty of transcribing
 accurately at the end of the year the facts as to age as they are
 commonly reported in American school registers.
+
 Again the moment after the June promotions selected in
 Philadelphia and New York is distinctly not typical of the year.
 ISTo other date in the whole school year is less characteristic than
@@ -546,7 +567,6 @@ of some are filled by new recruits, the accessions do not counterbalance the los
 and the effect of such losses upon the age distribution is something
 which, so far as I have been able to ascertain, has not been determined. It is safe to infer that the ages of those dropping out are
 on the average higher than those of the new accessions. The accessions always contain a large proportion of beginners. On the
-THE RETARDATION OF PUPILS. 71
 other hand, the losses contain at least a considerable number of
 those who leave school never to return, again,?who are, in short,
 over-age pupils. This does not, however, account for all the
@@ -557,6 +577,7 @@ years and after fourteen, there is undoubtedly a greater movement
 in the school population than in the ages eight to thirteen inclusive. Of course losses of pupils over fourteen years of age are
 not. compensated by accessions, while losses of those under eight
 are largely offset by additions to the register.
+
 The advantage of recording the pupils at the beginning rather
 than the end of the school year lies in the fact that on a yearly
 promotion basis all the pupils are beginning for the year the grade
@@ -572,11 +593,13 @@ out from practical experience in administering a school system
 the great advantage of making such detailed statistical records
 early in the year, so that they can be accurately summarized and
 analyzed in the scliol report.*
+
 Too much emphasis cannot be laid upon simplicity and uniformity of method. If an agreement could be reached upon this
 topic, it would greatly promote our knowledge of the subject. Such
 criticisms of method as have been the chief theme of this paper
 would be avoided and we should have more time to study the facts,
 to probe after the causes, and to test possible remedies.
+
 Up to the present time the statistical study of retardation
 has largely been confined to a' discussion of the facts. It is perhaps too early to seek to measure causes. Those who have given
 ?The writer's practice in the schools of Porto Rico wliere the facts
@@ -588,7 +611,7 @@ getting under way and that March represented the maximum eniolment of
 the schools of the island as a whole. The maximum for town schools was
 found there to be in October. In a purely city system this fact should
 determine the time of making the record.
-72 THE PSYCHOLOGICAL CLINIC.
+
 the matter attention have indicated a certain number of causes
 without trying to estimate their relative force. In this connection
 the article of Dr Cornman, on which the present study is based,
@@ -602,6 +625,7 @@ used, late entrance into school cannot be given as an explanation.
 A boy who entered school at ten years of age and advanced regularly would be "retarded" in the technical sense, though his
 progress would be normal and he would not be held back by
 failure to secure promotion.
+
 Later on Dr Cornman says, "A certain proportion of the
 retardation is due to the fact that pupils are already over age on
 entering school," and cites the proposal to make the age of compulsory attendance seven instead of eight years. While the advantage of an early start in school is undeniable, as the experience of Boston amply proves, it is doubtful whether so slight a
@@ -611,6 +635,7 @@ end of the year, the number of eight year old children is not much
 larger than that of seven year olds. New Jersey, as well as
 Massachusetts, makes school attendance compulsory at seven, yet
 Camden and Boston show vastly different results.
+
 There is another factor bearing upon the retardation of pupils
 which has thus far received scant attention. It is the irregularity
 of school membership. The school population contains many
@@ -625,9 +650,9 @@ younger than fourteen years, it is quite likely that they will return
 to school after an interval. Such a loss of time, whether caused
 by illness or other reasons, puts the pupil behind in his work and
 swells the number of over-age pupils. While we have no exact
-THE RETARDATION OF PUPILS. 73
 measurement of the force of this factor, there are some interesting
 indications that it is one of considerable moment.
+
 In Camden in 1905-06 the total register grew from 11,117
 at the end of September to 12,801 at the end of June. There
 were therefore 1,694 accessions during the year. But at the same
@@ -641,6 +666,7 @@ matter of fact, although the statistics refer to 12,801 children, at
 no period of the year were there so many children in school.
 From manuscript records Superintendent Bryan has furnished
 me the folloiwng interesting figures:
+
 1905 Total Roll for Month 1906 Total Roll for Month
 September   11,118 January   11,072
 October  11,584 February  11,221
@@ -648,11 +674,13 @@ November  11,393 March  11,073
 December   10,935 April  ...... 10,934
 May   10,548
 June  9,729
+
 Somewhat less complete but equally suggestive are the figures
 available for Kansas City. In the year 1905-06, there were 28,564
 registered, though the average daily membership of the schools
 was only 22,720. The following table is given of the length of
 attendance:
+
 Attended 200 days  1,367
 Attended 180 days and less than 200 days  12,276
 Attended 160 days and less than 180 days  4,000
@@ -665,7 +693,7 @@ Attended 40 days and less than 60 days  1,123
 Attended 20 days and less than 40 days   1,314
 Attended less than 20 days   1,236
 28,564
-74 THE PSYCHOLOGICAL CLINIC.
+
 Now it is to be observed that attendance and school membership are not identical. It is quite possible that the 17,643 children who attended 1G0 days or more were continually on the roll,
 and also that they received substantially the benefits of a year's
 teaching despite occasional absences. But when the attendance is
@@ -675,6 +703,7 @@ expect 90 per cent of the pupils to advance in their grades, this
 could only be anticipated of those who had enjoyed substantially
 the year's work. Those who entered for shorter periods must go
 to swell the number of over-age pupils.
+
 The facts to which attention is here called are found in all
 our cities. Boston, for instance, had in 1905-06 a total enrolment
 of 89,130, but on June 30, 1906, the number in the schools was
@@ -697,3 +726,4 @@ to call attention to the influence of irregular school membership,
 in order that this important factor may not remain unnoticed by
 those who are giving their time and thought to the problem in all
 its aspects.
+s

@@ -2,7 +2,7 @@ Clinical Psychology
 ===================
 
 
-By Lightner Witmee.
+:Author:  Lightner Witmee.
 The Psychological Clinic
 Vol. I. m. 1. Mae
 
@@ -31,7 +31,6 @@ made it necessary to use the illiterate card to test his vision. Nothing in the 
 for the suspicion of degeneracy, nor did the child's physical appearance warrant this diagnosis. The boy appeared to be of normal
 intelligence, except for the retardation in school work. The examination of the neurologist to whom he was sent, Dr William G.
 Spiller, confirmed the absence of conspicuous mental degeneracv
-2 THE PSYCHOLOGICAL CLINIC.
 and of physical defect. The oculist, Dr William C. Posey, found
 nothing more serious, than a slight far-sighted astigmatism, and the
 examination of Dr George C. Stout for adenoids, gave the child a
@@ -44,6 +43,7 @@ to determine whether his present pedagogical retardation is based
 upon an arrest of cerebral development or is merely the result of
 inadequate methods of education. This case is unequivocally one
 for the psychologist.
+
 My attention was first drawn to the phenomena of retardation in the year 1889. At that time, while a student of psychology
 at the University of Pennsylvania, I had charge of the English
 branches in a college preparatory school of Philadelphia. In my
@@ -71,11 +71,11 @@ of his spoken language; and he probably heard the words that
 others spoke as he himself spoke them. I therefore undertook to
 give him an elementary training in articulation to remedy the
 defects which are ordinarily corrected, through imitation, by the
-CLINICAL PSYCHOLOGY. 3
 time a child is three or four years old. I gave practically no attention to the subjects required in English for college entrance, spending all my time on the drill in articulation and in perfecting his
 verbal audition and teaching him the simplest elements of written language. The result was a great improvement in nil his
 written work, and he succeeded in entering the college department
 of the University of Pennsylvania in the following year.
+
 In 1894-95, I found him as a college student in my classes
 at the University of Pennsylvania. His articulation, his written
 discourse and his verbal audition were very deficient for a boy of
@@ -104,10 +104,10 @@ by his grade teacher. He was one of those children of great
 interest to the teacher, known to the profession as a chronic bad
 speller. His teacher, Miss Margaret T. Maguire, now the supervising principal of a grammar school of Philadelphia, was at that
 time a student of psychology at the University of Pennsylvania;
-4 THE PSYCHOLOGICAL CLINIC.
 she was imbued with the idea that a psychologist should be able,
 through examination, to ascertain the causes of a deficiency in spelling and to recommend the appropriate pedagogical treatment for
 its amelioration or cure.
+
 With this case, in March, 1896, the work of the psychological
 clinic was begun. At that time I could not find that the science
 of psychology had ever addressed itself to the ascertainment of the
@@ -136,6 +136,7 @@ the other; what fosters one, fosters the other. But in the final
 analysis the progress of psychology, as of every other science, will
 be determined by the value and amount of its contributions to the
 advancement of the human race.
+
 The absence of any principles to guide me made it necessary
 to apply myself directly to the study of these children, working
 out my methods as I went along. In the spring of 1896 I saw
@@ -144,7 +145,7 @@ some special function, like that of spelling, or from general retardation, and I
 clinic has been regularly conducted in connection with the laboratory of psychology at the University of Pennsylvania. The study
 of these cases has also formed a regular part of the instruction
 offered to students in child psychology.
-CLINICAL PSYCHOLOGY. 5
+
 In December, 1896, I outlined in an address delivered before
 the American Psychological Association a scheme of practical work
 in psychology. The proposed plan of organization comprised:
@@ -157,11 +158,13 @@ of children suffering from retardation or physical defects interfering with scho
 3. The offering of practical work to those engaged in the professions of teaching and medicine, and to those interested in
 social work, in the observation and training of normal and retarded
 children.
+
 4. The training of students for a new profession?that of
 the psychological expert, who should find his career in connection
 with the school system, through the examination and treatment of
 mentally and morally retarded children, or in connection with the
-practice of medicine. ^
+practice of medicine.
+
 In the summer of 1897 the department of psychology in the
 University of Pennsylvania was able to put the larger part of this
 plan into operation. A four weeks' course was given under the
@@ -175,6 +178,7 @@ school, children were taught throughout the session of the Summer
 School, receiving pedagogical treatment for the cure of stammering
 and other speech defects, for defects of written language (such as
 bad spelling), and for motor defects.
+
 Erom that time until the present I have continued the examination and treatment of children in the psychological clinic. The
 number of cases seen'each week has been limited, because the
 means were not at hand for satisfactorily treating a large number of cases. I felt, also, that before offering to treat these children on a large scale I needed some years of experience and
@@ -184,17 +188,20 @@ great necessity of training a group of students upon wliose assistance I could r
 the adequate publication of the results that are being obtained in
 this new field of psychological investigation, it was determined to
 found this journal, The Psychological Clinic.
+
 My own preparation for the work has been facilitated through
 my connection as consulting psychologist with the Pennsylvania
 Training School for Feeble-Minded Children at Elwyn, and a
 similar connection with the Haddonfield Training School and Miss
 Marvin's Home School in West Philadelphia.
+
 Clinical psychology is naturally very closely related to medicine. At the very beginning of my work I was much encouraged
 by the appreciation of the late Provost of the University of Pennsylvania, Dr William Pepper, who at one time proposed to establish a psychological laboratory in connection with the William
 Pepper Clinical Laboratory of Medicine. At his suggestion,
 psychology was made an elective branch in what was then the newly
 organized fourth year of the course in medicine. At a subsequent reorganization of the medical course, however, it was found
 necessary to drop the subject from the curriculum.
+
 I also desire to acknowledge my obligation to Dr S. Weir
 Mitchell for co-operation in the examination of a number of cases
 and for his constant interest in this line of investigation. I have
@@ -210,7 +217,6 @@ psychology, and which brought forth the work of Pereire in teaching oral speech 
 medical men have had a natural aptitude for psychological analysis. From them has come the chief development of the medical
 aspects of psychology,?from Seguin and Charcot in France, Carpenter and Maudsley in England, and Weir Mitchell in this country. Psychological insight will carry the physician or teacher
 far on the road to professional achievement, but at the present day
-CLINICAL PSYCHOLOGY. 7
 the necessity for a more definite acquaintance with psychological
 method and facts is strongly felt. It is noteworthy that perhaps
 the most prominent name connected with psychiatry to-day is that
@@ -223,6 +229,7 @@ fails to be utilized, because the interest of psychologists is elsewhere
 engaged, and those in constant touch with the actual phenomena
 do not possess the training necessary to make their experience and
 observation of scientific value.
+
 While the field of clinical psychology is to some extent occupied by the physician, especially by the psychiatrist, and while I
 expect to rely in a great measure upon the educator and social
 worker for the more important contributions to this branch of
@@ -234,6 +241,7 @@ In fact, we must look forward to the training of men to a new
 profession which will be exercised more particularly in connection
 with educational problems, but for which the training of the
 psychologist will be a prerequisite.
+
 For this reason not a small part of the work of the laboratory
 of psychology in the University of Pennsylvania for the past ten
 years has been devoted to the training of students in child psychology, and especially in the clinical method. The greater number
@@ -247,7 +255,6 @@ of the laboratory of psychology, Superintendent Twitmyer, of
 Wilmington; Superintendent Bryan, of Camden; District Superintendent Cornman, of Philadelphia; Mr. <T. M. McCallie, Supervising Principal of the Trenton Schools; Mr. Edward A. Huntington, Principal of a Special School in Philadelphia; Miss Clara H.
 Town, Resident Psychologist at the Friends' Asylum for the
 Insane, and a number of special teachers for the blind, the deaf,
-8 THE PSYCHOLOGICAL CLINIC.
 and mentally deficient children. I did not venture to begin the publication of this journal until I felt assured of the assistance of a
 number of fellow-workers in clinical psychology as contributors
 to tho journal. As this work has grown up in the neighborhood
@@ -284,7 +291,6 @@ examines his patient and proposes treatment with a definite purpose in view, nam
 examines a child with a single definite object in view,?the next
 step in the child's mental and physical development. It is here
 that the relation between science and practice becomes worthy of
-CLINICAL PSYCHOLOGY. 9
 discrimination. The physician may have solely in mind the cure
 of his patient, but if he is to be more than a mere practitioner and
 to contribute to the advance of medicine, he will look upon his
@@ -295,6 +301,7 @@ the patient's previous condition and the remedial agents he has
 employed. In the same way the purpose -of the clinical psychologist, as a contributor to science, is to discover the relation between
 cause and effect in applying the various pedagogical remedies to a
 child who is suffering from general or special retardation.
+
 I would not have it thought that the method of clinical
 psychology is limited necessarily to mentally and morally retarded
 children. These children are not, properly speaking, abnormal,

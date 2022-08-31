@@ -1,7 +1,7 @@
 An Examination of the Eyes, Ears, and Throats of Children in the Public Schools of Jefferson City, Missouri
 =============================================================================================================
 
-By C. M. Sneed, M.D., and Guy Monteose Whipple, Ph.D.
+:Author:  C. M. Sneed, M.D., and Guy Monteose Whipple, Ph.D.
 Purpose. The public schools of Jefferson City have an enrolment of some 1530 pupils. The physical examination which is
 here reported occupied the greater portion of the school year,
 1907-8. The primary purpose was to test the eyesight and hearing
@@ -10,6 +10,7 @@ its scope was widened to include observations of the throat, nose,
 etc. An inquiry was then made as to the correlation of sensory
 defects with school standings. Some attention was also paid to the
 value of issuing cards of warning to parents.
+
 Method. As a preliminary to the work a printed record-sheet
 was supplied to each child to be filled out as far as possible by
 the child himself, or by the teacher for the children in the lower
@@ -30,10 +31,9 @@ giving him an official appointment and aided him in many other ways.
 fMost of these questions are based upon those devised by Dr Frank
 Allport of Chicago and incorporated by him upon the charts published
 especially for school tests by F. A. Hardy & Co. of that city.
-(234)
-EXAMINATION OF SCHOOL CHILDREN. 235
 malities, such as goitre, enlarged tonsils, skin diseases, and other
 defects.
+
 The direct personal examination of each child was executed
 by Doctor Sneed as thoroughly as possible without the use of instruments or material other than the test-chart, the watch, and a card
 or thin ruler for exposing the conjunctiva.
@@ -49,9 +49,11 @@ who were reported as "hard of hearing," "subject to colds in the
 head," or as "habitual mouth breathers." These pupils were
 examined for adenoids in so far as was feasible without direct
 digital exploration.
+
 Thirdly, acuity of vision was tested by the ordinary Snellen
 types, with proper precautions to avoid the memorizing of the testletters. Defective vision was recorded upon failure to read as
 many as four letters in the 20-foot line.*
+
 Fourthly, acuity of hearing was tested by placing the pupil 20
 feet distant, with his back to the examiner and with the untested
 ear closed by firm pressure of the fleshy portion of the palm at the
@@ -73,7 +75,7 @@ yet hyperopia is the commonest type of defect in younger children and the
 source of serious eye-strain. In the absence of supplementary tests, our
 only way of "catching" these cases was through the report of headache
 or pain in the eyes after studying.
-236 THE PSYCHOLOGICAL CLINIC.
+
 TABLE I.
 PERCENTAGE DEFECTIVE AMONG 1000 WHITE AND 100 COLORED CHILDREN.
 Defects White Colored
@@ -100,6 +102,7 @@ Goiter   3.G 1
 Miscellaneous abnormalities   2.(5 G
 Cards of warning issued, 551. Number who heeded the warning, 74 of tlie
 423 that could be investigated, or 17.5 per cent.
+
 Comments on the results. The recorded percentage of negro
 children who suffer from pain in the eyes or ears is unquestionably
 too high, for we discovered that these children took a peculiar
@@ -109,6 +112,7 @@ When these two items are excluded, a comparison of the two races
 shows clearly the superior physical condition of the negro children.
 Incidentally, we noted that the negro children had by far the better
 teeth.
+
 The percentage of those who need glasses (41.0) is determined
 by adding to the 365 children who failed with the Snellen test, 45
 other children who passed the test but complained of headache or
@@ -120,11 +124,11 @@ conservative statement, therefore, to say that four in ten of the
 children in the public schools of Jefferson City need glasses. Compare with this the fact that less than four in a hundred are actually
 wearing them! When the unquestioned physical and mental
 handicap of defective vision is considered, the loss in efficiency in
-EXAMINATION OF SCHOOL CHILDREN. 237
 the public school system is surely most impressive. Several of the
 teachers in Jefferson City can attest the radical improvement in
 scholarship and behavior which has resulted from the adoption of
 glasses by some of the pupils examined.
+
 Comparison of the younger and the older pupils shows that
 inability to pass the Snellen test is a third more prevalent in the
 high than in the primary school, largely, of course, owing to the
@@ -137,6 +141,7 @@ to indicate superior, average, poor, failure, and very dull (or
 mentally deficient), respectively. The relation of these grades to
 visual defect is represented in Table 2. From this table it is evident that defective vision is an appreciable positive factor in
 handicapping the work of the child at his studies.*
+
 TABLE 2.
 Relation of School Standing and Visual Defect.
 School work
@@ -159,12 +164,13 @@ imperforate ear (no opening to the ear-passage), a congenital
 by Yule and other mathematicians, we may compute the index of correlation here to be + 0.22, with a probable error of about .03. This result
 confirms the conclusions of practically all who bare Investigated this
 relation.
-238 THE PSYCHOLOGICAL CLINIC.
+
 cataract, and a peculiar case of what we have called a "ticking
 ear," in which a clicking or cricket-like sound, synchronous with
 the pulse, emanated from one ear with sufficient intensity to be
 heard by the examiner two feet away. Several cases of chicken pox
 and scabies (itch) were also found among the pupils.
+
 Cards of warning, 551 in number, were sent to parents whose
 children were known to be suffering from defects which hindered
 their progress in school. These cards were of the usual form: they
@@ -183,6 +189,7 @@ A tactfully conducted series of general lectures before parents'
 meetings might contribute toward this end, but doubtless the best
 solution lies in the employment of school nurses to "follow up"
 the cases reported by the inspector.
+
 In the main, the work at JefFerson City was well received : some
 half-dozen parents raised minor objections to the work of inspection, objections which turned out usually to spring from a misunderstanding of the purpose of the examination; on the other hand,
 not a few parents expressed their warm appreciation of the work,

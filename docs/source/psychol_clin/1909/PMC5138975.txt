@@ -1,8 +1,9 @@
 Starvation and Mental Development
 ==================================
 
-By C. Homek Bean,
+:Author:  C. Homek Bean,
 Terre Iiaute, Indiana.
+
 It is generally accepted that the conditions of infancy and
 early childhood may have an effect, favorable or unfavorable, upon
 the entire subsequent development of the child. It has been maintained, for example, that the child learns more in the first five
@@ -24,14 +25,13 @@ month old. As soon as the cause of his condition was known, he
 was taken to the country and fed upon the fresh milk of one
 cow. The return to health was immediate and growth began soon
 afterwards.
+
 When my investigation was undertaken, Elmer was well proportioned, and almost as tall and heavy as the average boy of his age.
 A rigid medical examination found him in excellent health. He
 gave no evidence of physical deformity, or asymmetry. His general appearance betrayed no lack of normal mental development.
 His voice was normal and well modulated. His manner was
 pleasing and his conduct gave his parents and teachers no concern, but he was not able to do the work of the sixth school year,
 although he had spent five years in the public schools, one year
-(78)
-STARVATION. 79
 in a private school, and two years in the practice school connected with the School of Education of the University of Chicago.
 At this point in his development I was asked to give him
 individual instruction as a private tutor. To assist me in my work
@@ -43,6 +43,7 @@ work at the time, and the early departure of his family for the
 summer vacation, limited the amount of data Avhich I was able
 to obtain and made it impossible to apply exact methods in some
 experiments. The mode of procedure employed determined: 1.
+
 His ability to receive impressions, to remember and correlate his
 past experiences, and to express himself; 2. What he had already learned, what were his interests and what lie could do; and
 3. The opinions of his teachers and parents concerning his physical and mental capacities and the history of his physical and
@@ -65,7 +66,6 @@ manner in order to make sure that his spelling of the chart was not
 due to some previous experience with one like it. He read one
 line more than can be read by the normal eye. A second test
 was made by hanging on a wall a white card on which had been
-80 T1IE PSYCHOLOGICAL CLINIC.
 drawn two parallel vortical black lines, one centimeter long, and
 one millimeter apart. The subjects were required to approach
 the card very slowly, and to tell what they saw. Elmer saw two
@@ -88,6 +88,7 @@ He used water colors with sufficient accuracy to indicate that his
 judgment of color was excellent. The abnormality in Elmer's
 eyes was therefore too small to hinder perceptibly his acquisition
 of knowledge.
+
 Elmer's threshold of least intensity of sound was found by
 the watch test to be 1.02 meters, and was practically equal in the
 two ears. This was three decimeters less than, the average of the
@@ -100,19 +101,21 @@ heard, were sung to him, and after hearing them once, he could repeat them witho
 hesitation. But when a tune which he had once heard was slightly
 altered, he objected. This gave sufficient evidence of fairly good
 judgment of pitch.
+
 Tests in rhythm with auditory stimuli were made by means
 of a metronome. The instrument was placed on a piece of felt
 in a box, the lid of which was so padded that it could bo opened
 and closed without noise. Elmer was seated with his back toward
 the box. The lid was raised to give accent to certain clicks of the
-STARVATION. 81
 metronome. Thus the most usual accents in music, those of 2-4,
 3-4, 4-4 and 6-8 time were given. But he insisted that the metronome merely said, "Click, click, click, click." His attention was
 then called to the accented beats in 4-4 time until he could indicate them. But this did not seem to aid him in discovering the
 accents in the other kinds of time. Elmer seemed, therefore, to
 be quite below the average in feeling for rhythm.
+
 The examination of the higher stages of the knowledge-gaining process involved an investigation of imagination, memory,
 attention, and interest.
+
 To determine Elmer's type of imagery, words and objects
 were used which were famliar to him in form and meaning. Several lists of twelve words each were prepared, and all the words of
 each list were read to him at a time, or he was permitted to read
@@ -127,6 +130,7 @@ each object once. He remembered only nine of them. In so far
 as a conclusion can be drawn from these few data, Elmer remembered auditory words better than visual words; words that he had
 heard, better than those he had seen ; he remembered visual words
 better than visual objects.
+
 That his memory was assisted very slightly by meaning, is
 shown in his remembering broom as brooh, and lamp as lamb.
 The small part that meaning played in his memory processes was
@@ -141,7 +145,6 @@ and could not write intelligently about the most familiar objects.
 He spelled poorly, as did other children in the School of Education,
 because spelling was taught there only by criticism of written work,
 and never by drill. However, he learned spelling with surprising
-82 THE PSYCHOLOGICAL CLINIC.
 ease when taught in the usual way. He prepared four lessons
 each day in an eighth grade spelling book, and did this so well
 that frequently, he did not miss a word for five days. Several
@@ -177,7 +180,6 @@ work. In the study of attention, the subjects crossed out the a's
 in a page of printed matter. Elmer and six other children of
 fourteen years used the same prose selection. An effort was made
 in one portion of the experiment to keep the speed constant and
-STARVATION. 83
 to allow the accuracy to vary, and in another portion to keep accuracy at a maximum and. to allow the speed to vary. But this
 effort was unsuccessful. Elmer made one omission for every 16.5
 a's that he marked out, and the others made one omission for
@@ -185,6 +187,7 @@ every 3.26 a's marked out. Elmer crossed out 55.6 a's per minute.
 The others crossed out, on an average, 14.2 as per minute.
 Elmer's attention gave much greater speed and accuracy than the
 average speed and accuracy of the others.
+
 The capacity, for self-expression was measured in terms of
 accuracy, rate, and force of movement, and in terms of fatigue.
 Accuracy of movement was tested in the following manner. A
@@ -209,6 +212,7 @@ were to be stopped on the second line. The correct strokes were,
 for the older boys 18.1 per cent, and for the younger boys, 11 per
 cent, but for Elmer only 3.27 per cent of the total number of
 strokes.
+
 Thus Elmer appeared to have very poor control over the
 larger, centrally located muscles, which are involved in this movement of the arm. The complex motor act of throwing at a target
 was undertaken as a further study of the control of the shoulder and
@@ -216,7 +220,6 @@ arm muscles. Quantitative results could be obtained from the throwing of the oth
 he could seldom hit a target one meter by one meter in size, at a
 distance of four meters. Another indication of the relatively
 greater lack of control over the larger muscles than over the smaller
-84 TIIE PSYCHOLOGICAL CLINIC.
 ones was found in his drawing. In some of his drawing lessons
 his arm was stationary on the table, and his fingers and wrist
 performed the movements. Other lessons were conducted in the
@@ -255,9 +258,9 @@ hand toward the west, and to tell in which direction he was facing.
 There were no asymmetries in the positions of the arms and hands.
 Neither in this nor in his manner of lying down and rising were
 there any signs of chorea.
+
 This investigation as a whole, inexact and fragmentary as
 it is in some parts, established, at least as probabilities, a strange
-STARVATION. 85
 combination of psychological conditions. Tlic normal factors, on
 the one hand, were found to be passive touch, clearness of vision,
 color vision, health of retina, acnteness of hearing, accuracy and

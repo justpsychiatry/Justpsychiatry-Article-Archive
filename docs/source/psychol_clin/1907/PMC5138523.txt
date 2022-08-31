@@ -1,10 +1,11 @@
 The Influence of Physiological Age Upon Scholarship
 ====================================================
 
-By C. Ward Crampton, M.D.
+:Author:  C. Ward Crampton, M.D.
 Assistant Director of Physical Training, New Yorlc City Public Schools.
 The term physiological age refers to tlie stage of development in contradistinction to age in years and months, which
 is the usual method of designating age.
+
 Various evidences of physiological age are tooth appearance, pubescence, change of voice, menstruation, menopause, etc.
 Pubescence is an evidence of sexual ripening and the beginning of adolescence. Pubescence in the male is the feature studied
 in this work. For the purpose, three physiological groups are distinguished, corresponding to three succesive stages of development:
@@ -12,15 +13,17 @@ in this work. For the purpose, three physiological groups are distinguished, cor
 in each age group, taken in half years, is given in Table I. This
 table, which is based on 4,800 records, shows that each chronological age group contains subgroups based upon physiological age.
 Table I.
+
 Physiological Groups.
+
 It gives, also, the relative size of these subgroups. These facts
 have been disregarded hitherto, and the chronological age group
 treated as if it were homogeneous.
+
 ?Syllabus of a paper delivered before the first congress of tbe National
 School Hygiene Association of America, held in Washington-, D. C., May 6
 and 7, 1907.
-(115)
-116 THE PSYCHOLOGICAL CLINIC.
+
 It is also apparent that each, physiological age group contains
 individuals who vary much among themselves as to their real
 physiological age. For instance, the prepubescents are fifty-five per
@@ -32,11 +35,13 @@ years younger physiologically than the fourteen per cent.
 In a similar manner, the individuals in the postpubescent
 groups vary as to the number of years elapsed since they have
 passed through their pubescence.
+
 From the above table, the expected number of years required
 to reach pubescence, with the variability of each age, was calculated for each alternate half-year group. The result is shown
 in Table II. In a similar manner the average number of years
 that have elapsed since pubescence has been calculated for each
 of the half-year groups represented in Table III.
+
 . Table II.
 Expected Number of Years Required for Prepubescents to Reach
 Pubescence.
@@ -53,6 +58,7 @@ Half Year Age Group. Average in Years. Variability.
 15.75 1.04 .98
 14.75 1.13 .72
 13.75 .70 .01
+
 American born children of German born parents appear to
 be later in attaining pubescence than American bom children of
 American born parents. This was demonstrated in percentages for
@@ -60,7 +66,7 @@ each year.
 Weight and Pubescence.?Postpubescents average twenty-four
 per cent to thirty-three per cent heavier than prepubescents of the
 same age.
-THE INFLUENCE OF PHYSIOLOGICAL AGE. 117
+
 Table IV.
 From Table IV it is evident that any statistics which do not
 include a reference to physiological age are faulty and incomplete in so far as weight and allied features are concerned. Practically all of our statistical work must be revised in the light of
@@ -108,16 +114,18 @@ PREPUBESOENT. | PUBESCENT. | POSTPUBESCENT.
 1G2.G
 104.0
 105.4
+
 Table V shows the different average heights of these three
 physiological age groups for each half year. The error of previous
 statistical work is clear, and the necessity of recognizing the basis
 of physiological age in grouping statistical and other records is
 thoroughly demonstrated.
+
 Strength and Pubescence.?The strength of the muscles of
 the forearm which flex the fingers was registered by the ordinary
 grip dynamometer. It showed that the postpubescents averaged
 about thirty-three per cent stronger than the prepubescents.
-118 THE PSYCHOLOGICAL CLINIC.
+
 Table VI.
 AGE IN
 HALF YEARS
@@ -160,12 +168,14 @@ POSTPUBESCENT.
 42.9
 43.8
 48.3
+
 The variabilities of all these sub-groups liave been determined.
 The prepubescents are least variable, the postpubescents most.
 There is a very slight increase in the variability of weight and
 strength in each physiological age as the age in years increase.
 This is not the case with respect to height. The variabilities at
 the age of 14.75 are typical:
+
 Table VII.
 PrcpuVesccnt. Pubcsccnt. Postpubcsccnt.
 Weight (kilograms)  ?5.18 ?5.83 ?S.09
@@ -179,6 +189,7 @@ more advanced a group is in pubescence the better will be the
 scholarship. This can be expressed by a scale of percentages in
 which zero means all prepubescents and one hundred all postpubescents. The members of the ago group 14-.75 are distributed over
 different school terms (High School) as follows:
+
 Table VIII.
 First term   57.1 per cent.
 Second term  02.7 " "
@@ -206,12 +217,14 @@ the time elapsed since pubescence; hence the older postpubescents
 are in the higher classes and would therefore be heavier. It is possible that if this factor were to be eliminated there would appear a
 minus instead of a plus relation between scholarship and weight
 (irrespective of pubescence).
+
 Height.?There is an average movement of plus .66 centimeter in height per term including pubescence, and of plus .36
 centimeter per term eliminating pubescence as a factor; this latter
 is the only part that can possibly be due to other factors than
 pubescence and, as explained above, may also be due to this factor.
 Strength.?There is an average movement of plus 1.31 kilograms in strength, including pubescence, and of plus .36 kilogram
 in strength excluding this factor.
+
 Conclusion.?By far the greatest part of the correlation of
 weight, height and strength with scholarship is due to the fact that
 they are all correlated in common with tlie^ pubescence factor.
@@ -222,7 +235,7 @@ chronological age and physiological age group. Postpubescents
 of Education, Chicago, HI., 1S99-1000) that the higher the term the greater
 the height, weight and strength. lie failed to observe pubescence or any
 other sign of physiological age.
-120 TIIE PSYCHOLOGICAL CLINIC.
+
 are thus found to be more successful, eighteen per cent failing
 to pass into the next term as against twenty-seven per cent of
 failure for the prepubescents, at thirteen years of ago. At fourteen years the percentages of failure are twenty-four and thirtyfour respectively; at fifteen years, twenty-nine and tliirty-six.
@@ -238,9 +251,11 @@ as a prepubescent "spurt." The first year of postpubescence is
 the year of greatest acceleration in all growths, regardless of its
 chronological relation. To give any figures of growth rates for a
 chronological age is absurd.
+
 Rapidity of Development.?Children are much more apt to
 begin pubescence and complete it during the five warmer months of
 the year than during the seven colder months.
+
 Teeth as Evidence of Physiological Age.?About one thousand
 elementary school boys from ten to fifteen years of age were examined as to weight, height and presence or absence of permanent
 canines and second molars. Those with a full set of permanent
@@ -248,8 +263,10 @@ canines averaged from five to seventeen pounds heavier and from
 one-half an inch to three inches taller than those with none. The
 molar grouping showed a somewhat stronger correlation. Tooth
 appearance had but a slight relation to actual age.
+
 Menstruation as Evidence of Physiological Age.?A prelimiary study of weight, height and strength demonstrated that menstruees are taller, heavier and stronger than non-menstrueoe.
 Weight showed the greatest correlation.
+
 General Conclusion.?In future all of our thought concerning
 the years nine to seventeen must be released from the idea of
 chronological age. Statistics for groups or individuals respecting

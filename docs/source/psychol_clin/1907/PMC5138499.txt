@@ -1,42 +1,26 @@
 A Psychological Analysis of Three Delusional States 
 ====================================================
 
-Reference Type:  Journal Article
-Record Number: 16553
-Author: Balfour, J. B.
-:Year: 1855
-:Title: Case of a Gentleman Who Was Born Deaf and Dumb, and Subsequently Became Insane
-:Journal: J Psychol Med Ment Pathol
-:Volume: 8:
-Issue: 32:Pages: 591-594
-:Epub Date: 1855/10/01:Date: Oct 1
-Short Title: Case of a Gentleman Who Was Born Deaf and Dumb, and Subsequently Became Insane:PMCID: PMC4962136
-Accession Number: 28907059:Notes: Balfour, James B
-Journal Article
-J Psychol Med Ment Pathol. 1855 Oct 1;8(32):591-594.
-Author Address: Edinburgh.
-Database Provider: NLM
-Language: eng
+:Author: Clara Harrison Town, Resident Psychologist at Friends' :index:`Asylum for the Insane`, Frankford, Pa.
+
+The Belief in the Control of Thought from Without,In the Unreality of the External World, and in the Unreality of the Self.
 
 
-
-By Clara Harrison Town,
-The Belief in the Control of Thought from Without,In the Un- Reality of the External World, and in the Unreality of the Self.
-
-Resident Psychologist at Friends' Asylum for the Insane, Frankford, Pa.
 There are three symptoms, which, though of frequent occurrence in the insane, have never been given an adequate psychological interpretation. They are intimately related psychically,
-as I hope to show in the course of my analysis, although they are
-not always found to be associated together in the same individual.
-These are: (1) The belief that one's thoughts and feelings
-are guided and controlled by some outside power, whether this
-power be God, an electric machine, a malicious enemy or a hypnotist makes no intrinsic difference; (2) The feeling of the unreality of the external world, objective experience; and (3) The
-feeling of the unreality of one's self, subjective experience.
+as I hope to show in the course of my analysis, although they are not always found to be associated together in the same individual. These are: 
+
+1. The belief that one's thoughts and feelings are guided and controlled by some outside power, whether this power be God, an electric machine, a malicious enemy or a hypnotist makes no intrinsic difference; 
+2. The feeling of the unreality of the external world, objective experience; and 
+3. The feeling of the unreality of one's self, subjective experience.
+
 Before attempting an analysis, I shall briefly describe a number of cases, which present these symptoms in various forms.
-The first condition, the belief that one's thoughts and feelings
-are controlled by some external agency, is well illustrated by the
+
+The first condition, the belief that one's thoughts and feelings are controlled by some external agency, is well illustrated by the
 following cases:
 
-Case 1. A woman of refinement and culture, with a naturally
+Case 1.
+------
+ A woman of refinement and culture, with a naturally
 alert and inquiring mind, who, however, had not found any special
 field in which to exercise her mental powers. The conditions of
 her life forced her to be much alone, while they allowed her
@@ -48,8 +32,6 @@ expectantly for the communications. She succeeded in securing
 them, succeeded so well that she would sit up night after night to
 enjoy this wonderful intercourse. She was told many delightful
 stories about all sorts of objects which happened to attract her
-(198)
-THREE DELUSIONAL STATES 199
 attention, and at times her actions were guided by the advice she
 received. For instance, she was passing a shop window one day
 in which was exhibited a curiously constructed parasol. She was
@@ -73,7 +55,10 @@ in which he was interested, such as astronomy or electricity, was
 to lie back passively and attend to the ideas on the subject which
 God would send to his mind.
 
-Case 3. This patient was a woman whose mind teemed with
+Case 3.
+-------
+
+This patient was a woman whose mind teemed with
 delusions of the most vivid sort. Moreover, she experienced auditory hallucinations almost constantly. In every tick of a clock,
 creak of a shoe or chirp of a bird, voices were heard. These voices
 discussed with her questions of which she was thinking. Visual
@@ -96,7 +81,7 @@ same means her thoughts were made known to others.
 
 This patient made a complete recovery and I cannot but feel
 that it was hastened by her final acceptance of my explanation of
-the voices and her consequent persistent effort to keep lier mind
+the voices and her consequent persistent effort to keep thier mind
 actively engaged and to resist the inclination to adopt the passive,
 listening attitude. After her recovery she told me that she had
 never for a moment lost her power of reasoning, but that her
@@ -105,7 +90,7 @@ were forced upon it, that there was continual war between her old
 self and these new experiences.
 
 Cases 4, 5 and 6. These three cases are all young girls,
-and are all cases of dementia pnecox. They are all alike annoyed
+and are all cases of dementia precox. They are all alike annoyed
 by organic sensations and unwelcome thoughts. One asks me
 what they mean and how we put them into her. Another thought
 for a while that Christ and the devil }vere contending for her spirit,
@@ -118,7 +103,10 @@ mind. The sixth case believes the thoughts and feelings to be
 impressed from without, but does not seem to have formed any
 distinct idea concerning their source.
 
-Case 7. The seventh patient is a woman suffering from her
+Case 7.
+-------
+
+The seventh patient is a woman suffering from her
 third attack of melancholia. In speaking of her condition, she
 says that she is perfectly rational, but that she worries a great deal.
 This worrying, she claims, is beyond her control, as she is hypnotized and the worry put there.
@@ -151,7 +139,9 @@ enforced character of the utterance of the words, i. e., her own
 passivity, for she is persuaded that there is an electric machine in
 the room above her dragging out her thoughts.
 
-Case 12. I have chosen for the next illustration a young
+Case 12. 
+--------
+I have chosen for the next illustration a young
 woman suffering from the maniacal form of manic depressive insanity. She says that she is continually talked to by the Holy
 Spirit. She explains that she does not hear a voice, but that
 the words are in her head just like thoughts, that just as we
@@ -161,40 +151,72 @@ she was entirely irresponsible for what she wrote, that she did not
 know, when she started a word, what it would be, that her hand
 was inspired.
 
-Case 13. The thirteenth patient thinks her thoughts are
+Case 13. 
+--------
+
+The thirteenth patient thinks her thoughts are
 controlled by drugs given by the physician. She says that she
 cannot think of things when she wishes, but only at certain times;
 and that all this is brought about by the action of drugs.
 Cases 14, 15, 16, 17 and 18. Five cases present conditions
 similar to those already described.
+
 In illustration of the second symptom, the feeling of the
 unreality of the external world, I present the following cases.
+
 Case 3 (above). To this patient the world seemed entirely
 changed. Tor months there were neither stars nor moon for her,
 and when she finally recovered, her surroundings were a wonderful surprise, they differed so completely from her previous idea
 of them.
-Case 14. A woman to whom the world seemed to be in a
+
+Case 14
+-------
+A woman to whom the world seemed to be in a
 state of perpetual confusion. The people around her appeared
 ill and changed and varied greatly in appearance from day to
 day. The trees, the sunshine, all looked strange to her.
-Case 19. Complains that not even the food is real,?the
+
+Case 19. 
+--------
+
+Complains that not even the food is real,?the
 potatoes are not real potatoes, the apples not real apples, etc.
-Case 20.?Believes that the biblical prophecy has been fulfilled, that there is now a new heaven and a new earth and that
+
+Case 20.
+-------
+Believes that the biblical prophecy has been fulfilled, that there is now a new heaven and a new earth and that
 the people here have all died and risen again. "It is all so completely different," she says.
 
-Case 21. Another woman was greatly bewildered by her
-surroundings. She volunteered: "I don't believe my eyes see as
-yours do." I answered that I believed she was right, but suggested that in order to make sure of it we both describe what we
-saw. She insisted that I do so first, and when I had finished she
-said, "I seem to see the same, but it is different." I asked her
-on what she was leaning. She answered, "It seems to be a bed,
-but I don't feel that it can be. I think I am out of doors and
-far away."
+Case 21.
+---------
 
-Case 22. This woman could not believe that the world anywhere was as it used to be. She was taken a long drive through
+Another woman was greatly bewildered by her
+surroundings. She volunteered: 
+
+
+    "I don't believe my eyes see as yours do." 
+
+I answered that I believed she was right, but suggested that in order to make sure of it we both describe what we
+saw. She insisted that I do so first, and when I had finished she
+said, 
+   
+    "I seem to see the same, but it is different." 
+    
+    I asked her on what she was leaning. She answered, 
+
+    "It seems to be a bed, but I don't feel that it can be. I think I am out of doors and far away."
+
+Case 22
+--------
+
+This woman could not believe that the world anywhere was as it used to be. She was taken a long drive through
 parts of the country that she knew well, but even the children
 on the streets looked strange to her.
-Cases 23, 24, 25, and 26. Four other women all complain
+
+Cases 23, 24, 25, and 26
+------------------------
+
+Four other women all complain
 that everything is altered and strange.
 The third symptom, the feeling of the unreality of one's
 self, was manifested by several of the patients already cited.
@@ -202,7 +224,10 @@ Case 3. This patient experienced great changes of bodily
 sensations. She at one time felt that she was embodied in a little
 pet dog.
 
-Case 16. This woman believes that her brain and soul have
+Case 16.
+-------
+
+This woman believes that her brain and soul have
 departed and that she is horrible to look upon. She does not wish
 people to see her on account of her frightful appearance.
 Case 24. Believed that her head had been removed and
@@ -211,7 +236,10 @@ body gradually changing to iron. She said she had no eyes and
 wondered that she could see; she felt that she was very, very
 small (she was a large woman) and every one else looked large to
 her in comparison.
-Case 25. Believes that she is no longer human, that her
+
+Case 25.
+-------
+Believes that she is no longer human, that her
 organs are all gone and that therefore she can never die. She also
 thinks that her face is entirely changed and that she is horrible
 to look upon.

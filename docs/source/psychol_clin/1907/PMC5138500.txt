@@ -1,8 +1,11 @@
 News And Comment
 =================
 
-The Problem of Defective Children as Discussed in the International
-Congress on School Hygiene. By Anna J. McKeag, Ph.D., Professor of Pedagogy, Wellesley College.
+The Problem of Defective Children as Discussed in the International Congress on School Hygiene.
+------------------------------------------------------------------------------------------------
+
+:Author: Anna J. McKeag, Ph.D., Professor of Pedagogy, Wellesley College.
+
 At the International Congress on School Hygiene, which held its
 triennial meeting in London, August 5-10, about five hundred delegates from governments and societies and fully fifteen hundred other
 visitors were in attendance. The range of topics discussed in the general and sectional meetings included almost every phase of hygienic
@@ -130,15 +133,12 @@ A most interesting report on the mental characteristics associated
 with blindness of various causation was presented by Mr. N. B. Harman, oculist of the London County Council Blind Schools. From five
 years' study of the partially and totally blind children of London, Mr.
 Harman believes the following to be a useful clasification for medical
-and educational purposes: (1) The blind from accidental causes, about
-44 per cent of the total number, are usually normal except in sight,
-and may profitably be educated at the ordinary schools for the blind,
-using embossed type, etc. (2) The blind from constitutional disease,
-about 30 per cent of the total number, present serious physical and
-moral defects, and should be given only very elementary work, all nervestrain being avoided. (3) The blind from congenital deformity, about
-20 per cent, are usually dull and incapable of education in academic subjects. (4) The blind from purely ocular causes, about 5 per cent, are
-usually only partially blind, being highly myopic. They should be taught
-to work with the hands without the use of the eyes.
+and educational purposes: 
+
+1. The blind from accidental causes, about 44 per cent of the total number, are usually normal except in sight, and may profitably be educated at the ordinary schools for the blind, using embossed type, etc. 
+2. The blind from constitutional disease, about 30 per cent of the total number, present serious physical and moral defects, and should be given only very elementary work, all nervestrain being avoided. 
+3. The blind from congenital deformity, about 20 per cent, are usually dull and incapable of education in academic subjects. 
+4. The blind from purely ocular causes, about 5 per cent, are usually only partially blind, being highly myopic. They should be taught to work with the hands without the use of the eyes.
 
 Dr Adolph Bronner, of Bradford, accepting the usual definition of
 blindness, that "the vision of both eyes is so bad that the patient cannot
@@ -152,6 +152,7 @@ teaching purposes, children are divided at present into two classes, the
 seeing and the blind. There should be an intermediate class for those
 who can see a little. From this class some children would, in time,
 pass into the "normal sight" class, and some into the "blind" class.
+
 Dr James Kerr Love, of Glasgow, presented a plan for the educational treatment of the deaf and the partially deaf. He points out
 three chief stages in the history of the education of the deaf. The
 first was the demonstration, by the Spanish monk, Ponce de Leon, of
@@ -175,8 +176,10 @@ clinical examination:
 f Semi-deaf, better cases.. j
 o o Zo *?
 l " worse cases.. | Special day school or oral residenDeaf mute (average)... J tial school.
-" (oral failures) ) Separate classes of manual alpha3. 60%
+" (oral failures) ) Separate classes of manual alpha
+3. 60%
 4. 15% Deaf mutes {defective).) bet school (residential).
+   
 The advantages of institutional life for the deaf child are very
 great. Sixty per cent of the deaf children in Glasgow have defective
 sight; 30 per cent have adenoid growths. The institution provides
@@ -238,6 +241,7 @@ due to irregular attendance, physical defects, migration and late enrollment.
 In one of the papers on the training of the feeble-minded, the interesting suggestion was made that teachers in schools for this class should
 be required to include, as part of their preparation for this work, a
 course of training in a college for the deaf, in order to obtain an extensive knowledge of the principles of articulation.
+
 A special phase of the treatment of defective children in London
 was presented by Dr Reginald Elmslie in his report on the "Invalid
 Centres," recently opened in London, "for the instruction of children
@@ -262,11 +266,13 @@ Among the methods advocated in the Congress for the improvement of the physical 
 was laid upon the establishment of country camps and vacation schools.
 Denmark especially has made great progress in this matter, as was
 shown by the report of Thomassen, Copenhagen. In 1906, 17,400 children of Copenhagen were sent to the country. The distinctive features
-of the Danish plan are (1) the placing of children singly in homes, as
-far as possible, (2) the granting of free transportation by railway and
-steamship companies, and (3) the establishment of camps for children
-who cannot be cared for in private homes. In return, country children
-are given transportation to the city for a day or two of sight-seeing.
+of the Danish plan are 
+
+1. the placing of children singly in homes, as far as possible,
+2. the granting of free transportation by railway and steamship companies, and
+3. the establishment of camps for children who cannot be cared for in private homes. 
+   
+In return, country children are given transportation to the city for a day or two of sight-seeing.
 In England and France, also, this work has developed in importance.
 Manchester built in 1903, at a cost of $3,000, a country school for town
 children, to which children from the elementary schools of Manchester
@@ -290,9 +296,8 @@ provide glasses in all cases where children with defective sight are
 unable to pay the optician. A more conservative attitude in this matter was represented by one of the speakers who declared that "it is
 not the province of the school to provide spectacles, but to discover the
 educable and to educate, and to see that by other means and other agencies the deficiencies which make children ineducable are remedied."
-The most important results of the Congress are, doubtless, (1) the
-unmistakable emphasis placed upon the responsibility for the physical
-well-being of the child, which the state, in making education compulsory,
-has tacitly assumed; and (2) the demonstration of the necessity for a
-better classification of children on the basis of physical, mental and
-moral characteristics.
+
+The most important results of the Congress are, doubtless, 
+
+1. the unmistakable emphasis placed upon the responsibility for the physical well-being of the child, which the state, in making education compulsory, has tacitly assumed; and 
+2. the demonstration of the necessity for a better classification of children on the basis of physical, mental and moral characteristics.

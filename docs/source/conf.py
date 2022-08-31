@@ -66,7 +66,10 @@ html_baseurl ='https://justpsychiatry.co.uk/'
 bibtex_bibfiles = ['refs.bib']
 bibtex_reference_style = 'author_year'
 sitemap_filename = "sphinxsitemap.xml"
+sitemap_url_scheme = "{link}"
 hoverxref_auto_ref = True
+
+
 
 hoverxref_roles = [
     'numref',

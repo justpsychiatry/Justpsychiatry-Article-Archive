@@ -1,8 +1,9 @@
 A Study of The Biistet Definition Tests
 ========================================
 
-By Isabel Lawrence,
+:Author: Isabel Lawrence,
 State Normal School, St. Cloud, Minn.
+
 The purpose of this study is to apply the Binet scale for
 grading of mentality in one phase only, that of definitions, and to
 compare the results with the estimates furnished by teachers of the
@@ -10,26 +11,31 @@ children's ability to do school work. To try out one feature of
 the Binet scale at a time seems a thorough method of investigating
 its usefulness. Such a method, moreover, will assist in determining what features of the scale must be modified if it is to be
 used in American public schools.
+
 The definitions?the feature chosen for this study?make
 possible a written test from the second grade through the eighth.
 While written work is undoubtedly more difficult than oral, this
 written definition test has several advantages, namely:
 1. Time. This test occupied forty minutes. !No superintendent can himself take the time to examine separately over a
 thousand children.
+
 2. Fitness. The definitions are among the tests said by
 Binet to determine the maturity of intellect (la maturite as distinguished from la rectitude), and being a language test, are more
 likely to grade power to do school work as at present conducted,
 than are some of the other tests.
+
 3. Trustworthiness. As the test was made at the same hour
 throughout the city and the papers were taken up before the close
 of the session, the pupils had no chance to learn from each other
 what the questions were. The teachers themselves were ignorant
 of what the test was to be, and even of its purpose.
+
 4. Service as a coarse sieve. As the written test is more
 difficult than the oral, pupils passing it may safely be considered
 as regular, that is, of normal intellectuality for their age. The
 comparatively small number who do not pass it, may be examined
 afterward orally and their status determined.
+
 The test was given in the first part of March, 1911, to 784
 pupils in the elementary schools. These were mainly children
 in the public schools at St. Cloud, where arrangements were made
@@ -38,8 +44,7 @@ and in the practice classes at the State Normal school. Afterward
 a set of papers was sent in from the Elk River schools by Miss
 Ruth Atkins. Valuable assistance was rendered by Miss Belle
 Ranney of Wellesley College, both in reading papers and examining orally children of the first grade.
-(207)
-208 THE PSYCHOLOGICAL CLINIC.
+
 The questions were arranged in four groups, each group
 including the definitions required by Binet for one age. The first
 group served for both the sixth and ninth years, the children of
@@ -59,6 +64,7 @@ questions. The teacher gave orally one direction or question at
 a time, and waited not more than two minutes for all to finish.
 The pupils received no suggestion as to their answers in matter
 or form.
+
 The words used are literal translations of Binet's except
 that in Group I, iron is substituted for mamma which it was feared
 the older grades might not take seriously. In Group IV, evenement and avenement could not be so translated as to give the same
@@ -70,6 +76,7 @@ nine years, eleven years and thirteen years respectively. There
 are, therefore, more regular pupils of these ages than there should
 be, for some of them might have failed on the test for their own
 age, had there been such a test.
+
 In marking the number of years of retardation or advancement, the same difficulty appears. A pupil of eleven, failing to
 pass the eleven-year test, but passing the nine-year test, might
 have passed the ten-year test, had there been one. In such cases,
@@ -258,6 +265,7 @@ Total
 435
 209
 784
+
 ? One year below age was also counted as "normal" in this summary.
 In table A the complete results for the 784 children tested
 are given by both age and grade.
@@ -274,6 +282,7 @@ at a glance either the theoretical
 grade for the age or - the normal
 grade for American school children as suggested by the work of
 Mr. Ayres.1
+
 Since advancement is not as
 well tested as retardation for the
 greater number of pupils, and since
@@ -294,6 +303,7 @@ BINET DEFINITION TESTS. 211
 ability of the children according to the test, with the estimates of
 their ability in school work as furnished by their teachers is
 brought out in table C.
+
 TABLE C. TEST COMPARED WITH SCHOLARSHIP.
 Estimate of Teacher
 Poor or
@@ -341,7 +351,6 @@ one year or more, while the same per cent of those who are advancing in school m
 as above indicated, to bo advanced a year or more mentally.
 The child regarded as exceptional by the school system, will
 be proved to be exceptional by the tests, much more frequently
-212 THE PSYCHOLOGICAL CLINIC.
 than will the child indicated as exceptional by the test be found
 to be exceptional in school work. This fact was pointed out by
 Prof. J. B. Miner, who has summarized the results of table A
@@ -363,6 +372,7 @@ most frequent grades for their ages. The easy eight-year test is
 responsible for a large part of the lack of agreement in regard to
 advancement, since so many six- and seven-year-old pupils who
 are at the common grades pass this test.
+
 The fact that the exceptional child indicated by the test has
 hardly an even chance of being exceptional in school grading, may
 be due, as Dr Miner suggests, to the unwillingness of school
@@ -370,9 +380,11 @@ teachers to put a child either behind or ahead of the usual grade
 for his age. For the same reason when the pupil is exceptionally
 forward or backward in his school grades the chances are high
 that he will be found exceptional by the test.
+
 Some examples of the children's definitions may be of value.
 Group I is characteristically defined thus by a six-year-old
 girl:?
+
 (fork) 1. To eat with.
 (table) 2. To eat on.
 (chair) 3. To sit on.
@@ -458,6 +470,7 @@ F. 11. Poverty is someone very poor but can get along.
 Misery is when they can't get along.
 M. 10. An event is a circus. Prevent is to stop you from
 going to it.
+
 M. 11. An event is an accident or adventure. Prevent is to
 stop the accident or adventure.
 M. 14. An event means that something has happened to
@@ -465,7 +478,7 @@ somebody. Prevent is to keep it from happening to yon.
 F. 11. Pride is when you go to a party, and feel nice nnd
 stiff. Pretension is when von make believe that you are having
 a good time.
-B1NET DEFINITION TESTS. 215
+
 Revolution was defined as war, as a great army of men, as
 birth of a brave man, as a time when our grandfathers got killed.
 M. 10. Evolution is not to fight; revolution is to fight.
@@ -483,6 +496,7 @@ F. 9. Welfare is when you're going away and bid everybody farewell.
 F. 13. Poverty is when you have no money; misery is when
 you're too stingy to spend a cent.
 Conclusions.
+
 1. The definition test has served the purpose of separating
 grades of intellectual ability in a coarse way. It thus provides a
 method, independent of school grading, to discover exceptional
@@ -491,6 +505,7 @@ children who can then be more thoroughly tested.
 grading and by scholarship, enough are exceptional, according to
 the test, to prove the value of the tests. Of the exceptional children, as indicated by the tests, a considerably smaller percentage
 are in exceptional grades for their ages.
+
 3. The eight-year test is decidedly too easy, 38 out of 58
 six-year-old children passed it. The thirteen-year test is decidedly too hard, only 2G out of 82 thirteen-year-old children passed
 it. The difference between evolution and revolution was not given
@@ -502,7 +517,7 @@ Johnston also suggested, seems to be a movement in the right
 direction. The older pupils in this study were not sufficiently
 numerous or normally distributed to indicate what would be its
 proper place.
-216 THE PSYCHOLOGICAL CLINIC.
+
 4. An attempt was made to classify on the basis of advancing
 the child one year beyond the age for a group of definitions when
 all the answers were satisfactory for that group. The attempt
@@ -510,10 +525,12 @@ proved Binet's opinion that definitions test what he calls la
 maturite of the intellect, not la rectitude. Scarcely any pupil
 was found completely accurate with any group, unless it were
 Group I.
+
 5. The definition test can serve only as a coarse sieve. Its
 correspondence with school grades may be due to the predominance
 of language training. Other Binet tests should be tried before
 comparisons are made and conclusions drawn.
+
 6. Group IV is not well adapted as a test in American
 schools. The difference between except and accept, arraign and
 arrange, illusion and allusion, suspect and expect, and other definitions of terms in daily use with us, would be preferable to literal

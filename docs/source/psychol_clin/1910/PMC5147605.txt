@@ -1,7 +1,8 @@
 A Further Study of Retardation in Illinois
 ============================================
 
-by G. W. Gaylek,
+:Author: G. W. Gaylek,
+
 Superintendent of Public Schools, Princeton, Illinois.
 This study was begun after the more general study of this
 subject last year by the Illinois Valley Superintendents' and
@@ -15,6 +16,7 @@ grade books of the public schools are preserved complete from
 1901-02 to the present. Before that year we have no complete
 records. The two classes studied are the primary class of 1901-02
 and the primary class of 1902-03.
+
 The general plan has been to study each and every pupil
 enrolled during these years and to trace his personal school history through the course to the close of the year 1908-09. A personal study was made of all pupils who still remained in the
 schools in 1908-09 with a view of finding out as exactly as
@@ -22,6 +24,7 @@ possible the condition with regard to retardation and the cause
 ?f it. The tables given below, and the comments on them, are
 based upon this personal study of the records and of the children
 themselves.
+
 If these children entered school in 1901 they should be in
 the eighth grade in 1908. If they entered in 1902 they should
 be in the seventh grade in 1908. By referring to the tables it
@@ -29,28 +32,30 @@ be in the seventh grade in 1908. By referring to the tables it
 grades in the different years given above and who have remained
 m school have been promoted regularly year by year and in 1908
 were in the normal grade.
+
 Table I.
 Grades 4 5 6 7 8 9 Total
 Boys   2 4 12 16 12 1 47
 Girls   0 3 10 13 11 3 40
 Total   2 7 22 29 23 4 87
 Per cent   2.3 8 25 33.3 2G.4 4.6
+
 Table I gives a summary of all children who entered in 1901
 and who remained in our schools until the close of the school
 year 1908. If each had passed regularly year by year all would
-(79)
-80 THE PSYCHOLOGICAL CLINIC.
 have been in the eighth grade in the year 1908-09. Instead of
 this we find them scattered all the way from the fourth grade
 to the ninth inclusive. Sixty pupils, or 68 per cent are somewhere below the eighth grade. Four pupils, or 4.6 per cent are
 in advance of that grade. Twenty-three, or 26.4 per cent are in
 the eighth grade.
+
 Table II.
 Grades 4 5 6 7 8 9 Total
 Boys  1 7 9 7 1 0 25
 Girls   0 4 14 G 1 0 25
 Total   1 11 23 13 2 0 50
 Per cent   2 22 46 2G 4 0
+
 Table II gives the number of first grade pupils who entered
 school for the first time in the year 1902-03 and who remained
 in school until the close of the year 1908-09. If these children
@@ -60,12 +65,15 @@ through several grades, in this case from the fourth to the eighth
 inclusive. Thirty-five pupils, or 70 per cent are below the normal
 grade, and 15, or 30 per cent are in the normal grade or ahead
 of it.
+
 Table III.
+
 Grades 4 5 6 7 8 9 Total
 Boys   2 G 13 10 5 0 36
 Girls   0 3 7 10 4 1 25
 Total   2 9 20 20 9 1 61
 Per cent  3.2 14.7 32.8 32.8 14.7 1.6
+
 Table III gives a summary of those pupils who entered in
 1901, but who were retained in the first grade in 1902, and who
 continued in school until the close of the year 1908-09. All
@@ -80,7 +88,7 @@ pupils, or 32.8 per cent, did not lose any more time after the
 first year but passed through regularly after that. Twenty pupils,
 or 32.8 per cent, lost an additional year, and 11 pupils, or 17.9
 per cent, lost still more.
-RETARDATION IN ILLINOIS. 81
+
 Table IV. Summary of the Two Classes.
 Number
 4 years
@@ -119,6 +127,7 @@ Per cent.
 6
 4.4
 137
+
 An examination of Table IV will show that of the 137 pupils
 who entered in 1901-02 and 1902-03, and who remained in
 school until the close of the year 1908-09, 42, or 30 per cent, were
@@ -129,6 +138,7 @@ three years behind, and 2, or .7 per cent, were four years behind.
 Of the total number of boys (72) 51, or 72.2 per cent, were
 behind. Of the total number of girls (65) 44, or 67.7 per cent,
 Were behind.
+
 It is of vital importance to know just where in the course
 this retardation takes place and what is the cause of it. In this
 study it was found that an unusually large amount of it occurred
@@ -147,13 +157,12 @@ one year were retarded because of entering the last half year we
 still have 64 children retarded in the first grade who have spent
 an entire year there, but who have failed to win promotion for
 some other cause. I understand that during these years it was
-the policy of the school to promote only the very bright children
-82 THE PSYCHOLOGICAL CLINIC.
-s
+the policy of the school to promote only the very bright childrens
 of the first grade at the close of the first year of school. In fact
 it was the exceptional child that won promotion. It was thought
 best to retain them longer and give them a more thorough foundation if they did not show excellent ability. This has been changed
 and is no longer the policy of the school.
+
 Of the total number retarded a large majority are average
 pupils without physical defects, and of ordinary intelligence. The
 ones retarded three years or more are defectives or are wanting

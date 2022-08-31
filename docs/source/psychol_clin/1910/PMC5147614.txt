@@ -3,9 +3,9 @@ The Nurse as a Municipal Officer
 
 The Psychological Clinic
 Vol. IV. JSTo. 7. December 15, 1910.
-
-By Walter S. Cornell, M.D.
+:Author: Walter S. Cornell, M.D.
 Philadelphia.
+
 The art of Medicine today includes not only the healing of the
 sick, but the prevention of disease by the early correction of physical defects and the maintenance of proper sanitary conditions. Preventive medicine, indeed, although of recent origin, bids fair to outrank corrective medicine by reason of its scientific basis and the
 magnitude of its results. Impressive examples of its activities are
@@ -24,13 +24,14 @@ and ISTeff in Pennsylvania, stand favorable comparison with those
 of any practitioner of clinical medicine or surgery, or any military
 commander or any constructing engineer of the last two decades
 in the United States.
+
 Following the lead of the physician, his ally and helper, the
 nurse, has also entered the field of preventive medicine, and modifying her activities to include social and administrative work as
 well as the healing of the sick in their homes or in hospitals, has
 proved herself as necessary in this field as she has always been in
 that of medicine.
 (iBi)
-1S2 TIIE PSYCHOLOGICAL CLINIC.
+
 A review of the official work done by nurses in our large cities
 shows that they are principally employed in the medical inspection
 of school children and the reduction of infant mortality. A few
@@ -67,7 +68,6 @@ she is employed in the poorest districts of the city, but a larger
 number in the resident sections Avhere few if any treatments are
 given in school and the work is mainly that of home visitation. She
 first reads over the medical inspector's daily record of physical defects and diseases encountered, and sends for the children whose
-NURSE AS MUNICIPAL OFFICER. 183
 names are recorded. Those children whom the inspector has
 marked for treatment are quickly disposed of, zinc ointment and
 ammoniated mercurial ointment being dabbed on plentifully. In
@@ -92,10 +92,12 @@ can be made by ignorant parents. For this reason deep wounds
 involving more than the skin, imbedded foreign bodies, bad sprains,
 etc., should be promptly sent home with instructions to the parent
 to seek at once a physician or dispensary.
+
 The nurse leaves for the medical inspector a memorandum of
 cases treated de novo by herself. An understanding with the inspector whereby the numerous cases treated with zinc ointment
 are passed over without memorandum, shortens the list and gives
 it enough importance to make it worth reading.
+
 The cases of defective vision, decayed teeth, and other remediable defects are next taken up and inquiry made of the children
 whether the official recommendation has been heeded or not. If
 the former, the inspector's record on the "Defect Card" is finally
@@ -114,27 +116,32 @@ has been shown to possess head lice, and wholesale and heroic
 measures are needed. On one occasion a teacher informed me that
 the school nurse had examined the thirty-six girls in her class, and
 found pediculi in the hair of twenty-four.
+
 Home Visits. Home visits as a rule are for the purpose of
 urging parents to act, and not for the actual treatment of cases,
 In the latter class are home treatments for the very poor and
 ignorant when suffering from pediculosis, scabies, or general filth.
 In these rather exceptional instances the children are given a
 good scrubbing.
+
 It is well worth while to mention in this connection the success
 of the nurses in securing cooperation from hitherto indifferent
 parents. The results have been so marvellous that the suggestion
 has been made to appoint a sufficient number of nurses, or women
 visitors of some sort, to cover all the schools of the city instead of
 simply the slum districts.
+
 Dispensary Visits. Many children are escorted to hospital
 dispensaries by the nurses. These are cases who are too young
 to find their own way, and whose mothers are employed during the
 day. Occasionally an urgent case is followed up by the nurse from
 school to home and to dispensary in order that the child's eyesight
 or life may not be endangered by neglect.
+
 The routine daily work of the nurse is so arranged that if
 possible the home and dispensary visits may be made outside of
 school hours.
+
 There is no question as to the value and propriety of the
 nurse's services in treating minor skin diseases of a contagious
 character and thereby reducing the time lost by exclusion from
@@ -143,10 +150,10 @@ purpose of personally urging the correction of physical defects has
 produced remarkable results in the poorer sections of the city, and
 among the foreign element, at least, is a notable aid to medical
 inspection.
+
 It is a fact, however, that the major portion of the nurse's
 work in the school building, has come to be the treatment of minor
 cuts, bruises, and infections owing to the appreciation of free
-NURSE AS MUNICIPAL OFFICER. 185
 service by the children. It must he admitted that this relief so
 freely and gracefully given is in reality dispensary work, subtracting in a general way from the income of the neighborhood
 physicians and pauperizing the recipients, just as free clothing
@@ -155,11 +162,13 @@ and realty men of the neighborhood and lower the self-respect of
 the objects of these charities. It is well to remember this and to
 counsel moderation to our salary paid inspectors and nurses with
 an eager desire to help humanity.
+
 The nurses in Philadelphia keep 011 hand the following supplies furnished by the authorities, for the list of which I am indebted to Miss Stanley, Head Nurse:
 Tincture green soap, boric acid solution, boric acid powder,
 peroxide of hydrogen, collodion, zinc oxide ointment, ammoniated
 mercurial ointment, adhesive plaster, 1 and 2 inch bandages, absorbent cotton, bichloride solution, aromatic spirits of ammonia,
 alcohol.
+
 The results of the school nurses' work are remarkable. Contrasting the work of the medical inspector working without a nurse,
 with that of an inspector working with a nurse, the economy practiced by the authorities in employing the nurse is easily manifest.
 Just as in the business world, sales are made and business better
@@ -180,7 +189,6 @@ credit for results due the medical examiner or the nurse. They are
 rather intended to show truthfully without comment the amazing
 number of cases handled and helped by a small corps of nurses
 working under the intelligent supervision of a head nurse.
-186 THE PSYCHOLOGICAL CLINIC.
 In the three months of March, April, and May, 1908, when
 the school nurses were but six in number, in round figures thirtysix hundred visits were made to schools, and twenty-one thousand
 treatments and advisements were given to school children of whom
@@ -190,6 +198,7 @@ cases about nineteen hundred were cases of pediculosis, seven hundred were cases
 hundred and fifty were cases of defective vision recommended for
 glasses, and one hundred and twenty were cases of enlarged tonsils
 and adenoids.
+
 I have here also, a summary of the work performed by the
 enlarged corps of ten school nurses during the year 1909-1910, in
 thirty-six schools with a school population of 24,000 children.
@@ -220,6 +229,7 @@ brief report of the work done by them under the direction of Dr.
 Keff and Dr Newmayer may be here given. It should be remembered that this summer marked the beginning of the work of the
 Division of Child Hygiene and no mention is made here of the
 activities planned for the future.
+
 Eighteen nurses under the immediate direction of Miss
 Perkins formed the corps, eight of whom were paid by the city and
 ten by volunteer organizations. Twelve of the nurses formed a
@@ -234,6 +244,7 @@ sick babies already reported to the central office were made.
 The corps of nurses who carried on the mixed work of social
 investigation, instruction, and reporting of cases, visited 6300
 homes, making a total of 8300 visits.
+
 In addition to home visiting, the Department of Health and
 Charities maintained two baby-saving stations on the Delaware
 River piers. Here four nurses were stationed, fifteen hundred
@@ -245,12 +256,14 @@ accommodation furnished to several women and, babies nightly.
 This accommodation involved the furnishing of breakfast for at
 least the mothers. The other pier was open from eight in the
 morning to eleven at night.
+
 Finally, for time does not permit further detailed description,
 instructive talks were given to 500 expectant mothers, free milk
 furnished to certain worthy cases after home investigations by the
 nurses had been made, and over five hundred sanitary complaints
 concerning nuisances encountered were made to the Bureau of
 Health.
+
 In conclusion may it be pointed out that municipal nursing
 marks a new occupation, namely a combination between medical
 and social work. Just as the young woman of today who is learn188 THE PSYCHOLOGICAL CLINIC.

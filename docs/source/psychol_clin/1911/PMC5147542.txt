@@ -2,7 +2,8 @@ The Binet-Simon Scale for Measuring Intelligence
 =================================================
 
 The Psychological Clinic
-Copyright, 1911, by Lightner Witmer, Editor.
+Copyright, 1911, 
+:Author: Lightner Witmer, Editor.
 Vol. V, No. 7. December 15, 1911.
 
 Impressions Gained by its Application upon Four Hundred
@@ -16,6 +17,7 @@ series of articles by Terman and Childs) but on invitation of the
 editor of The Clinic I am glad to contribute to this symposium
 a few impressions gained from the work, and to add some criticisms
 of the scale.
+
 For the authors of the study by far the most important result
 was a decided conviction that measuring scales of this general
 type are feasible, and that when corrected, extended and multiplied, they will prove of great practical and theoretical value.
@@ -34,7 +36,7 @@ But all will admit that, for the most part, the tests were fruitless.
 ififee also Avres Leonard P. The Blnet-Slmon Measuring Seale fQr lntelllgcHC0;
 Some Criticisms and Suggestions. The Psychological Clinic, Oct. 15, 1911.
 (199 )
-200 THE PSYCHOLOGICAL CLINIC.
+
 They were either too limited in scope, or failed to utilize nonselected subjects, or else were made under conditions impossible to
 duplicate. Most fatal of all, the experimentation, instead of being
 guided by some directing idea like that of definitely establishing
@@ -59,6 +61,7 @@ frequent displacement up or down the scale, some of the tests
 are objectionable or unsatisfactory for other reasons. This is particularly true of the thirteen-year group. On the other hand,
 such tests as the "description of pictures," "omissions from pictures," "aesthetic judgment," drawing, "questions of comprehension," memory, reasoning ability, vocabulary and association gave
 specially satisfactory results.
+
 In addition to the trial given to Binet's tests, an attempt was
 made to extend the scale by securing age standards of performance in four other lines. The latter included, first, a "generalization test" (interpretation of fables) ; second, a graded "completion test"; third, a vocabulary test of 100 words; and fourth, a
 tost of "practical judgment" (involving the hunting of a lost ball
@@ -67,10 +70,10 @@ performance for the fable and completion tests which they
 believe will add much to the serviceableness of both. The vocabulary test is based upon Laird and Lee's "Vest Pocket Dictionary,"
 and is, therefore, designed to test the child's acquaintance with
 the most common concepts of everyday usage, and thus to display
-THE BINET-SIMON SCALE. 201
 grade of intelligence rather than accidents of technical education.
 It is believed that all of the above four tests will prove usable
 additions to the scale.
+
 The authors have also devised a method for calculating
 "test age" which they believe is a decided improvement over that
 used by Binet, a method which gives exactly equal value to all the

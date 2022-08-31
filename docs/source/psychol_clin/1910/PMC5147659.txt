@@ -4,7 +4,8 @@ What Can and do School Reports Show?
 The Psychological Clinic
 Copyright, 1910, by Lightner Witmer, Editor.
 Vol. IV. ]STo. 1. March 15, 1910.
-By Roland P. Falknek, Ph.D.
+:Author: Roland P. Falknek, Ph.D.
+
 In a discussion of backward children before the Philadelphia
 Public Education Association some time since, Dr Luther IT.
 Gulick scored our educational system for its lack of system, method
@@ -16,6 +17,7 @@ current year as to what failures it had made; where energy and
 material were lost; and who lost it? No. Yet that is what all
 the school boards of this country are doing. We don't know anything. We imagine, and form opinions, and debate on the best
 methods, but what we need is facts."
+
 A somewhat minute study during the past year of the published reports1 of schools in many of our larger cities confirms the
 essential truth of this arraignment. Even though it is not
 absolutely true that we know nothing, it is literally true that in
@@ -28,11 +30,10 @@ question of form. It is one of substance. The school report can,
 pursuing the analogy of a business corporation, be regarded as the
 annual statement of activities and results. Considering how uniform are the ends pursued by public school systems in the various cities of the United States, it might be supposed by the
 uninitiated that there would be a general consensus of opinion as
-(1)
-2 " TEE PSYCHOLOGICAL CLINIC.
 to what school reports should contain. But there is no such consensus of opinion. There is not a single fact of school administration which is uniformly reported. This wide diversity is much
 to be deplored, but all efforts to remedy it have thus far been
 singularly futile.
+
 In the recent work of Drs. Snedden and Allen, on "School
 Reports and School Efficiency," Dr Allen recounts the story of
 how the National Education Association has been preaching, as
@@ -49,6 +50,7 @@ anyone will sacrifice either tradition or personal convenience.
 The entire discussion before the body has hinged upon uninteresting and unstimulating questions of form. It has not touched upon
 the facts. There has been too little emphasis laid on the betterments which were proposed, and it has not been sufficiently demonstrated that customary forms of statement often give, not only
 inadequate, but false and distorted ideas of our school systems.
+
 What then should an ideal school report contain? What
 information ought the public to have? These are questions of
 primary importance, questions not to be answered lightly. Probably no man can answer them. But if we can gather together
@@ -76,6 +78,7 @@ and the result is as interesting as a book of legal forms. It lacks
 the human concrete element. It tends to overemphasize the value
 of elaboration, without any critical attempt to show wherein consists the value in detail. Moreover, such a treatment, while generous to the good things which the reports contain, fails to note
 the good things which they omit.
+
 It has seemed to the present writer that it would be profitable to examine, not what many cities have partially done, but all
 that one city has done, to take a single report and point out its
 excellencies, and by such a concrete example, to show what facts
@@ -96,7 +99,7 @@ report itself. Nearly all the calculations of percentages and other
 proportions have been made by the writer, and the present paper
 has not been written for the mere purpose of citing the figures
 but rather to show how they may be interpreted.
-4 THE PSYCHOLOGICAL CLINIC.
+
 A. School Population.1 One of the first tilings we ask about
 our schools is how far they meet the local need for education?
 How many of the children who ought to be in school are actually
@@ -109,6 +112,7 @@ at least how many, are in school. Springfield, Ohio, chooses the
 latter course. The report for 1909, from which in the absence of
 special reference all our figures are drawn, gives us the following
 information: 4
+
 School population, 6-21 years of age, enumerated in May, 1908  12,215
 School population 6-15 years of age at same time  8,273
 Total enrolment in public schools (excluding kindergarten) 1908-9.. 6,714
@@ -138,6 +142,7 @@ the hospital record of the average number of beds occupied by
 patients. Here the analogy ceases. Children who are effective
 lThis and subsequent paragraphs will be lettered, not In the pride and vainglory of schematic arrangement, but for practical convenience of later reference.
 WHAT DO SCHOOL REPORTS SHOW? 5
+
 members of the schools are often absent a day or more at a time,
 and this depresses in the aggregate the average attendance, but
 they are still members of the schools. How long such absence
@@ -206,10 +211,12 @@ was losing numbers by such changes in its population, but this
 seems improbable. The explanation may be that when a family
 moves from one city to another, the older children do not go to
 school in the new home.
+
 Bccause the withdrawals represent pupils leaving the schools
 of Springfield only, and not necessarily leaving school altogether,
 we find them distributed over all grades and over all ages, as
 shown in the following table:
+
 WHAT DO SCHOOL REPORTS SHOW?
 Grades.
 1
@@ -311,6 +318,7 @@ Per Cent Withdrawn
 31.9
 22.8
 13.5
+
 While the withdrawals are 13.5 per cent of the total enro
 ment this proportion is exceeded in the first grade and above the
 fifth. We have reflected here in the first case the effect ot sic ness, in the latter cases that of leaving, school for work. y age
@@ -319,6 +327,7 @@ fourteen and thereafter. Those figures, of course, do not s
 the entire shrinkage in the higher ages as it is not urmg
 time but in the summer vacation that so much of it occurs,
 a comparison of 1908 and 1909 is instructive.
+
 1908
 1909
 Age XT , , ? , Per cent
@@ -334,14 +343,15 @@ Number Age Number
 424 16   310 73.1
 274 17  212 77.4
 151 18  95 62.9
+
 E. Duration of Attendance. We have already seen from the
 consideration of the average attendance and total enrolment that
-8 THE PSYCHOLOGICAL CLINIC.
 not all the pupils could have been in attendance throughout the
 year. We are not left to inference, however, but are given specific
 information as to how long the pupils were in attendance. The
 school year was 187 days in length. The number of pupils attending for certain specific periods, follows:
 present Number Per cent
+
 187   33G 5.0
 180-187   1844 27.5
 170-180   1670 24.9
@@ -354,6 +364,7 @@ present Number Per cent
 100-110   136 2.0
 Less than 100   728 10.9
 6,714 100.0
+
 The table shows a not inconsiderable percentage who were present
 less than 100 days or practically half the time. Those present
 170 days and upward, numbered 57.4 per cent and it is probable
@@ -365,6 +376,7 @@ of those who were members of the school group throughout the
 year, but also the changes in the school population due to newcomers and to the withdrawal of pupils. We have here an explanation, occasionally overlooked, of why a portion of the pupils?
 and sometimes a considerable one?fails of advancement at the
 annual promotions.
+
 F. The Grades. The number of pupils in the several grades
 is one of the figures most frequently given in school reports. In
 the Springfield report we find three statements, based respectively
@@ -387,6 +399,7 @@ grades. While the first grade is the largest, there is not that concentration of
 first four grades contain about one-half of the pupils, but the
 percentage in the upper grades and in the high schools is notably
 high.
+
 G. Grade Variation. As we have the grades stated in different forms we can glean some information as to the effect of
 changes in the school population on the several grades. Without
 going into the details of grades, the following figures by groups
@@ -427,6 +440,7 @@ June
 37.2
 10.7
 100.0
+
 It appears that as the withdrawals, as before noted, were
 pretty evenly distributed among the grades, so the various grades
 show much the same proportions at different times. If we were
@@ -435,6 +449,7 @@ to the total enrolment, we should have the following results:
 Grades 1-4   87.4 per cent
 Grades 5-8   86.7
 High School  80.5
+
 II. Beginners and Grade Survival. The first grade numbered in the aggregate 947 pupils, but of these only 733 were
 reported as beginners. It is not at all unlikely that the number
 of beginners represented by the upper grades is even smaller than
@@ -442,12 +457,13 @@ thisj. It is, however, significant that while the eighth grade numbering 437 pup
 59.6 per cent of the present number of beginners.
 I- The Ages. The ages of the pupils in school are reported
 on the basis of the total enrolment. They are:
+
 6   323 11  677 16  310
 7   654 12  658 17  212
 8   695 13   647 18   95
 9   672 14  601 19  30
 10   637 15   498 20 and over 5
-10 TEE PSYCHOLOGICAL CLINIC.
+
 These figures show that only one-half as many children are in
 school at the age of six as at seven years of age, but that at the
 latter age most of the children are in school, as the difference
@@ -461,15 +477,18 @@ as follows:
 13   908 IS  142
 14   900 19  45
 20 and over  7
+
 While as yet no general rule has been worked out as to the retention of pupils in the upper ages, there is frequently a drop of 10
 per cent at the age of thirteen, and a further drop of 30 per cent
 at the age of fourteen. To find nearly three-quarters of the pupils
 still in the school at the age of fifteen, as in Springfield, is indeed
 rare.
+
 K. Grades and Ages. The useful table of the ages of the
 pupils in the several grades, upon which studies in the retardation
 of pupils can be based, cannot be repeated here for lack of space.
 Some of its main results may however be noted.
+
 Grade.
 1
 2
@@ -510,12 +529,12 @@ Per Cent Over Age
 45.6
 41.7
 41.6
+
 We see here the familiar increase of retardation as the grades
 advance, with a maximum in the sixth grade and a subsequent
 diminution. The general retardation in the elementary grades
 is rather high. The most comprehensive statement of retardation
 which has yet been made, contained in Mr. Leonard P. Ayres'
-WHAT DO SCHOOL REPORTS SHOW? 11
 book "Laggards in Our Schools," embraces thirty-three cities. The
 proportion of retarded pupils varies from 7.5 per cent in Medford,
 Hass., to 75.8 per cent in the colored schools of Memphis, Tenn.
@@ -523,10 +542,12 @@ Were Springfield, Ohio, to be added to this list, it would occupy
 the twenty-sixth place. It is the more unusual that with so much
 retardation in the lower grades, the proportion of pupils reaching
 the high school should be so large as it is.
+
 That the decrease in retardation in the upper grades is not
 due to more rapid progress of some of the pupils but rather to
 the thinning out of those who are considerably retarded appears
 in the following table:
+
 Numbers Over Age.
 Over age:
 1 year
@@ -635,6 +656,7 @@ Totals
 5.7
 3.2
 41.6
+
 This shows us that of all the pupils who are retarded, exactly
 ?ne half are one year older than the corresponding grades. Somewhat more than one fourth are two years older than their grades,
 while the remainder are three years or more over the proper ages.
@@ -645,6 +667,7 @@ pupils two years behind and three years behind is greatest in the
 sixth grade and less thereafter, while those four or more years
 behind reach their maximum in the fourth grade and almost disappear in the eighth. As showing the falling out in the upper
 grades a comparison of the fifth and eighth grades is instructive.
+
 12 TEE PSYCHOLOGICAL CLINIC.
 Normal age and under
 Above normal:
@@ -679,6 +702,7 @@ for 100 in 5th Grade
 7.0
 42.9
 54.8
+
 It is fair to presume that the fifth grade of a few years ago
 from which the present eighth grade is derived, had approximately
 the same distribution of normal and retarded pupils as the present
@@ -698,6 +722,7 @@ appear to indicate that in these grades failure did not occur. A
 useful correction of this impression is given in the figures showingrecent failure. A significant table shows the number of pupils in
 each grade who are repeating the year's work. Compared with the
 total enrolment of each grade it is as follows:
+
 p i Total Number Per cent
 Enrolment repeating repeating
 1   947 186 19.6
@@ -709,7 +734,7 @@ Enrolment repeating repeating
 7   575 25 4.3
 8   437 19 4.3
 Totals 5944 811 13.6
-WHAT DO SCHOOL REPORTS SHOW? 13
+
 It is seen that more than one-eighth of all the pupils have
 been more than one year in the grades where they now are. It
 also shows that the proportion is largest in the first grade and is
@@ -751,7 +776,7 @@ the option of leaving school. This table gives further evidence
 of which children leave school in the upper grades.
 M. Promotions. The progress of pupils is still further evidenced by the statistics of promotions. The number of promotions
 compared with the June enrolment was as follows:
-14 THE PSYCHOLOGICAL CLINIC.
+
 June Promoted
 Enrolment Numbers Per cent
 1   811 639 78.8
@@ -776,9 +801,11 @@ do return to the schools and swell the numbers of the retarded
 children. Some consideration of them therefore- seems to be
 necessary and this is found in a comparison of the promotions with
 the total enrolment.
+
 !N". Nativity and Parentage. A table giving the nativity of
 pupils and parents found in the report is here reproduced with
 percentage calculations.
+
 Pupils Parents
 Place of Birth Number Per cent Number Per cent
 Springfield   3429 51.0 2035 15.2
@@ -795,9 +822,9 @@ Italy   3 0.0 46 0.3
 Other countries   26 0.4 158 1.2
 Unknown   19 0.3 346 2.6
 6714 100.0 13,428 100.0
+
 We have here some suggestive contrasts between the pupils and
 their parents. Of the former less than 1 per cent were born
-WHAT DO SCHOOL REPORTS SHOW? 15
 abroad, of the latter, 7.1 per cent. Again more than half of the
 children were born in Springfield, but only 15.2 per cent of the
 parents were natives of the city. Among the children 88.5 per
@@ -807,6 +834,7 @@ In these figures we have an interesting picture of the migrations
 0. Occupations of Parents. Another table gives the occupations of parents. It is inspired doubtless by a desire to indicate
 m some measure the social classes from which pupils are drawn.
 The facts given are as follows:
+
 High Schools All Schools
 Elementary
 Schools
@@ -822,12 +850,14 @@ Merchants   304 5.1 74 9.6 378 5.6
 Professionals   178 3.0 71 9.2 249 3.7
 Unclassified   1259 21.2 134 17.4 1393 20.8
 Total   5944 100.0 770 100.0 6714 100.0
+
 As the public schools of Springfield are without the competition of parochial schools and private schools, and thus represent
 the entire population of school age, these figures, particularly
 those of the elementary schools, may represent prevailing occupations in the city. The unclassified are however a large item.
 The contrast between percentages for the high schools and elementary schools is striking, the occupations which represent in the
 main the larger incomes being much more numerous in proportion
 in the high school.
+
 We have thus far dealt with the general aspects of the statistics furnished for the Springfield schools. They are replete
 with information, and give us on analysis a view of the workings
 of the school system which is rare in school reports. Many of the
@@ -837,10 +867,10 @@ cent of attendance, the duration of attendance, withdrawals by
 grades, by ages and by month, ages, promotions by grades, the
 number repeating grades, and the occupation of parents. How
 far such details have any interest for the people of Springfield is
-16 TEE PSYCHOLOGICAL CLINIC.
 a matter open for discussion. I am in doubt whether their value
 is sufficient to warrant their publication, but there is no doubt
 that thej are of no interest outside the city.
+
 One of the distinctions frequently made in school reports is
 that between boys and girls. The Springfield report is rather
 sparing of this distinction. It is found only as concerns the
@@ -848,6 +878,7 @@ annual enrolment by grades, and the withdrawal by schools. We
 are not disposed to rate this as a blemish of the report. For many
 of the purposes proposed for school statistics it has little meaning
 and it always involves a considerable outlay in printing.
+
 Our study has been of the school pupils. There is another
 side to the schools, the administrative side, which finds expression
 in tables of receipts and expenditures and calculations of per
@@ -859,6 +890,7 @@ Springfield give great attention to financial matters, it seems
 proper to mention that they play a small role in the report, although
 they do not enter into the plan of the present study which is
 concerned with the pupils.
+
 The example of Springfield answers in what seems to us a
 very practical way the question as to what school reports can
 show. To answer with equal clearness the question what they do
@@ -867,6 +899,7 @@ Springfield would doubtless be instructive, but the task would
 be endless. It will answer the purpose to compare a few representative reports. For this purpose, a careful examination has
 been made of the reports of twenty cities, as follows:
 f. Population Bank
+
 Cities igoo
 1. New York   3.437,202 1
 2. Chicago   1,698,575 2
@@ -891,6 +924,7 @@ ClTIES 1900 1900
 18. Haverhill   37,175 105
 19. Spokane   36,848 106
 20. Terre Haute  36,673 107
+
 There has been no premeditation in the choice of these cities
 other than a selection according to size. It seemed proper in the
 first place to select cities of about the same size as Springfield.
@@ -903,7 +937,8 @@ and Mobile, publish no reports whatever. In treating of Springfield, we called a
 lettered A to O. In the cities selected for comparison, we find
 them represented as follows, using for our comparison the latest
 report available in the United States Bureau of Education.
-Corresponding Number of ?
+Corresponding Number of?
+
 tables cities ClTIES
 8 1 Philadelphia.
 7 3 St. Louis, Lawrence, Haverhill.
@@ -932,7 +967,7 @@ M. Promotions. 1, 2, 3, 9, 12, 20.
 N. Nativity. 4 (and for pupils receiving age and work certificates and
 for evening schools, 2).
 O. Occupations of Parents. 14.
-18 THE PSYCHOLOGICAL CLINIC.
+
 It will not, of course, be pretended that each one of these
 showings is equally important, but it is significant that the school
 census, the enrolment, and the grades, are the only, items represented in at least half of the reports under consideration. But

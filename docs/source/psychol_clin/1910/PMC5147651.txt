@@ -1,8 +1,9 @@
 A First Lesson in Thrift
 =========================
 
-By Horace Ellis,
+:Author: Horace Ellis,
 President of Vincennes University, Indiana.
+
 The first step in a psychological experiment of more than
 passing interest has just been completed by a leading merchant of
 Vincennes, Indiana, Mr. Jacob Gimbel?a man much given to
@@ -14,6 +15,7 @@ solving the problem. Incidentally, Mr. Gimbel wished to teach
 the boys a lesson on the value of husbanding their small earnings;
 at the same time he sought to note anything else which might
 assist him in understanding boy-nature better.
+
 Calling upon the public school principals, he explained to
 them his plan, which was simply this: he desired the schools to
 furnish him with a group of fifty boys, ranging in age from nine
@@ -30,14 +32,14 @@ dollar which Mr. Gimbel had placed to his credit. If any boy
 had saved more than one dollar, such an one should receive all of
 his savings, the original dollar, and also three per cent interest
 upon the whole amount.
+
 Arrangements were entered into with the Citizens' Trust
 Company under the terms of which the company was to receive
 from the boys, at the end of each week, any and all sums down to
 one cent they might bring in. President W. H. Vollmer and
 Cashier Weisert of the Trust Company gave the project their
 hearty approval.
-(23)
-24 THE PSYCHOLOGICAL CLINIC.
+
 On the last Saturday afternoon of January, 1909, the lads
 assembled in the rear room of the bank?four more boys than the
 original number provided for?fifty-four in all. The assemblage
@@ -50,6 +52,7 @@ in which they were the chief actors. It appeared to him that this
 lot of boys was genuinely anxious to ascertain how much of benefit,
 if any, the strange plan offered them, and then appropriate it.
 It was just such a "bunch" as he wished.
+
 Short addresses?no sermonizing?were made by Mr. Gimbel,
 Mr. Vollmer, and the writer, during which time the boys gave
 that respectful attention all boys lend when under a strange environment. After the talks, Cashier Weisert explained in complete
@@ -59,6 +62,7 @@ week but not to fail to bring in smaller sums, and to consider
 themselves as owning a bank account as truly as do the business
 men of Main Street. This done, the bank-books were handed out
 and the boys excused.
+
 The material results of the year's experiment are easily summarized, as follows:
 Boys given books   54
 " withdrawn   4
@@ -76,7 +80,9 @@ commonly shown by boys, but a dignified effort, devoid of display
 and false motive. The young woman cashier who received the
 boys' savings reported many sayings of these boys as they met her
 each Saturday:
+
 A FIRST LESSON IN THRIFT. 25
+
 "Well, that makes cents."
 "I shall have more than a dollar at the end of the year."
 "I'm glad Mr. Gimbel gave me a chance."

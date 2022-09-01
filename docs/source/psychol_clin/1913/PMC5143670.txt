@@ -5,8 +5,9 @@ The Psychological Clinic
 Copyright, 1913, by Lightner Witmer, Editor.
 Vol. VII, No. 7 December 15, 1913
 
-By Lightner Witmer, Ph.D., \J
+ :Author:  Lightner Witmer, Ph.D., \J
 University of Pennsylvania.
+
 A few weeks ago I saw at a college preparatory school a boy
 eighteen years of age. This school has a four years course, of high
 school grade. The boy was in the second year of this course, excepting that he was not taking the prescribed foreign languages. He
@@ -17,11 +18,13 @@ the worst boy in the school, and that every year they had boys of
 an inferior grade of mentality and scholarship. He could not assign
 his rank more closely than to say he was among the poorest 25
 per cent.
+
 This school is one of the best military academies and preparatory schools which I have ever visited, and has shown its progressive modern spirit by taking into its employ, this year, a trained
 man as consulting psychologist. The psychologist, who had already
 tested this boy and most of the other boys in the school, asserted
 that the closest rating he could give the boy was to place him
 among the worst 20 per cent.
+
 I think we may therefore assume that this boy is a normal boy.
 In every other respect than in school progress, his behavior has
 always been that of a normal boy; and yet four years ago when
@@ -30,19 +33,7 @@ without many gross errors a single sentence in a child's first reader,
 such as is employed with children of the first school year. His
 errors, however, were of a kind which did not show deficient intelligence. He might read a sentence like "I saw the hen," as "I saw
 the duck." He might even read it, "I was the boy." Intelligent
-substitutions characterized much of his reading. Where such sub(173)
-174 THE PSYCHOLOGICAL CLINIC.
-J)
-/yi
-'/W1 -vv0VyK
---tepW^H fi.'Ottv^ W
-MtcUi^^fd^v . ?
-_ 1/1^^ * ^Ct/l^^"<-)ri-- *
-2&Jb .YlWoo^ ?j&W>~ ^ Qax
-Orix^>U ^S^LcJs^- ^yLtr-lr0^ -^f^r-_ f~
-*AZ&'*fig. i
-FIG. 1
-CHILDREN WITH MENTAL DEFECTS. 175
+substitutions characterized much of his reading. Where such sub
 stitutions could not be made, owing to the words being somewhat
 more difficult, the word which he gave would often have not the
 slightest resemblance to the word on the printed page, or to any
@@ -62,6 +53,7 @@ produce in the shape of a letter at the time of his admission to the
 school. As it is scarcely possible to make out his meaning without
 knowing what he intended to say, I give this portion of his letter
 as it should have been written.
+
 "C , Nova Scotia, June 27, '09.
 "My Dear Mother:
 "Please excuse the blot on the paper. I am going to go in
@@ -71,6 +63,7 @@ all the sixth grade school books and send to C , Nova Scotia,
 in care of Miss R at the Larder Cottage. Please do for your
 son's sake. Write soon and tell me how B , J , C ,
 father and yourself are."
+
 The second specimen was produced July 19th, after a month
 and a half of training. A number of sentences had been given him
 to study the day before. He was supposed to have learned the
@@ -80,6 +73,7 @@ units were dictated to him, each word and sentence being given
 once. One of these sentences was "We are going for nuts when
 they are ripe." What he actually put down on the paper is shown
 in figure 2 on the following page.
+
 I frequently see children?but not usually so old as this boy?
 who are deficient in written work, the deficiency being due to inade176 THE PSYCHOLOGICAL CLINIC.
 quate school training. Careful examination showed that the deficiency in this case was due to a language defect, psychologically
@@ -90,25 +84,16 @@ and partially retained. The examination and history of this case
 clearly demonstrated that we had to do with a case of congenital
 amnesia, limited however to the language sphere, hence properly
 called congenital visual asphasia or word blindness.
+
 Further examination revealed an equal amount of articulatory
 ?aphasia. It was oftentimes very difficult to understand what he
-said. I thought at first that coming from the South he was shows&qJ- S&Z-#
-"A/ns~?
-,. . . _ '^%eyu&?ol.
-LpCho^^/yi^aA>liiy/^
-JL o
-jpb*ir>CjLAs.
-6n?/C/O/t'?<>0<>^^
-y J v
-^urc^zX//OM//Tu^Tjer
-FIG. 2
-CHILDREN WITH MENTAL DEFECTS. 177
-ing the effects of imitating his negro caretakers, but in many respects
+said. I thought at first that coming from the South he was showing the effects of imitating his negro caretakers, but in many respects
 his articulate language was worse than even a negro would employ.
 Moreover he was word deaf, as well as word blind, and as he had
 no definite trouble in the motor area, having satisfactory coordination for a boy of his age, and good muscular control, I would assume
 that the auditory aphasia or word deafness was primary and the
 articulatory aphasia a resultant.
+
 In other words the case was one of a specific language defect,
 involving all three of the modes of language,?a general amnesia
 verbalis, or aphasia. This defect was not associated with any other
@@ -133,6 +118,7 @@ But were society so organized that success in life in every sphere
 of activity were dependent upon a good enough ear to turn a tune,
 many persons who are now doing useful work in the world would
 have to be relegated to the class of imbeciles.
+
 Congenital aphasia is a more serious defect to the individual,
 because of its social and industrial importance, perhaps also because
 a certain measure of language development is essential for accurate
@@ -140,11 +126,11 @@ thinking. I do not believe that a case of congenital aphasia can
 ever do intellectual work of a high order, but I do believe that congenital aphasics can have useful and successful careers and pass
 muster as entirely normal persons. Owing to the social and intellectual significance of language, it is important to teach a congenital
 aphasic to read and write, although it is not of importance to teach
-178 THE PSYCHOLOGICAL CLINIC.
 a congenital amusic to sing. The latter procedure would be a waste
 of time and effort; the former procedure is necessary, especially
 if the child be otherwise intelligent enough to take his place as a
 fairly efficient adult in society.
+
 Aphasia and amusia were first studied in the adult. They
 appear as the mental symptoms of a brain lesion, an injury to the
 local cerebral centres of language and music. Congenital aphasia
@@ -180,11 +166,11 @@ defect. So far as social and intellectual importance is concerned,
 the mathematical memory stands in my opinion intermediate
 between the language and musical memories. I have not yet
 arrived at a fixed conviction as to whether it is of importance to
-CHILDREN WITH MENTAL DEFECTS. 179
 endeavor to train a child lacking mathematical ability in mathematical subjects. I am convinced, however, that the mathematical
 faculty is sufficiently lacking in many cases, to warrant exempting
 high school and college pupils from taking these subjects, certainly
 as they are at present taught.
+
 These three defects are all of them defects of memory and
 involve one mental function only. There are varieties of mental
 defects very different from these, some of them of great interest
@@ -219,7 +205,6 @@ love of truth we look upon as an asset, lying as a defect. As a
 matter of fact, both may be assets and both may be defects. An
 exaggerated love of truth, over-concientiousness, "the New England
 conscience," is a mental defect as much as is excessive lying. Lying
-180 THE PSYCHOLOGICAL CLINIC.
 often is inspired by the instinct to tell a good story, and those who
 unduly and too early curb the child's imagination, even though it
 overflow at times into direct and palpable lies, may be helping to
@@ -254,6 +239,7 @@ perfect. By the same token, no child is mentally perfect. In fact,
 the child of perfect mind and body would be a rarer specimen,?
 shall I say a greater monstrosity??than the idiot, the lunatic, or
 the criminal.
+
 Undoubtedly there are children whom we can properly designate mentally defective children. The line can not be sharply drawn
 between children with mental defects and mentally defective children. The defective are those who have so many and such severe
 mental defects that they are unable to overcome these defects as

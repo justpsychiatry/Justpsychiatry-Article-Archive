@@ -4,9 +4,9 @@ Some Results of Standard Tests
 The Psychological Clinic
 Copyright, 1912, by Lightner Witmer, Editor.
 Vol. VI. No. 1. March 15, 1912.
-
-By D. C. Bliss,
+:Author: D. C. Bliss,
 Superintendent of Schools, Elmira, N. Y.
+
 The keynote of successful business to-day is accurate knowledge of detail applied in such a manner as to eliminate needless
 waste. The margin between profit and loss is determined by the
 skill of the manager in effecting small savings. Science applied
@@ -17,6 +17,7 @@ is based upon vague opinion or untested theory. Exact knowledge
 must first be obtained. Seven out of ten business failures are due
 to the lack of this knowledge and there is no reason to suppose
 that a different ratio exists in education.
+
 The business man, judging education by his own standards,
 has expressed his growing dissatisfaction with the products of the
 schools. The insistence of his demands for a balance sheet has
@@ -24,6 +25,7 @@ finally brought about an increasing conviction among school men
 that in some degree, at least, it is possible to measure the results
 of teaching. Here and there experimental work is in progress designed to fix standards and to evolve some common measure of
 accomplishment.
+
 In 1902-1904, Dr J. M. Rice, published in The Forum the
 results of his extensive examination of several thousand children
 in arithmetic, spelling and composition. His conclusions were
@@ -36,8 +38,6 @@ clear was the fact that extra time given to arithmetic and composition did not n
 teaching appeared to be the determining factor. The conclusion
 is inevitable that it is the business of the superintendent to find
 out what classrooms are failing to produce the results expected
-(1)
-2 THE PSYCHOLOGICAL CLINIC.
 of them. This means the application of the business principle of
 checking results to determine at what points waste is going on,
 and then its elimination. The chief difficulty has been the absence
@@ -51,11 +51,13 @@ of the Home and Day School in Detroit, in determining standard
 scores in arithmetic. That there is need of such standards is evident from the fact that in a single grade he has found "all levels
 of ability from those of the primary grades to that of the senior
 class in the high school department."
+
 One of the most significant pieces of work thus far accomplished is that of Dr Thorndike in establishing a scale for measuring handwriting. It is a question if a coarser scale than his,
 which is graded from 1 to 20, would not accomplish just as satisfactory results and at the same time be easier of application. The
 practical scale must be one so simple that the busy superintendent
 or principal can use it without spending more time than he can
 afford.
+
 Dr Thorndike published in The Journal of Educational
 Psychology for September, 1911, his article dealing with a scale
 of merit in English writing. Other articles have appeared in the
@@ -67,6 +69,7 @@ actual work of the school. Superintendents and principals are
 now asking themselves the question: Is it feasible to make use
 of standard tests in my school in such a manner as to determine
 relative classroom efficiency ?
+
 For some years the writer has used the reproduction story as
 a means of determining the efficiency of classroom instruction and
 drill in English composition. Since the records of the test have
@@ -75,7 +78,6 @@ school systems with results closely similar, he feels that he is in a
 position to know something of the effect of attempting to apply
 the standard test in actual school practice. In general the plan is
 to give a reproduction story test soon after the opening of school
-RESULTS OF STANDARD TESTS. 3
 in September, and to follow this by a similar test just before the
 same pupils are promoted. The latter would be given in February under the half year promotion plan, or in May if the promotion is yearly. A comparison of the two class averages, then,
 will determine the progress of the class. The examinations are
@@ -92,6 +94,7 @@ for the test, one for the third and fourth grades, one for the fifth
 and sixth grades and one for the seventh and eighth grades. While
 one story serves for two grades, a higher standard is naturally
 expected of the more advanced class.
+
 Some difficulty is experienced in finding suitable stories.
 They must be interesting, neither too long nor too short, and with
 two or more well defined points closely enough related to be remembered easily. The story should never be read to the class by the
@@ -99,8 +102,11 @@ teacher. In a small school system the reading should be done by
 the superintendent himself. If the number of classrooms does
 not allow this, then the principals of the various buildings must
 do it under specific directions from the office.
+
 These are the usual directions:
+
 To the Principal:
+
 Will you read the enclosed story to the third and fourth
 grades in your building next observing these directions:
 (a) Read the story but once and answer no questions.
@@ -111,11 +117,11 @@ no needless delay.
 unusual character.
 (e) Mark the set of papers with the name of the teacher,
 school, and grade, and send to the office at once.
+
 ? Superintendent.
 Under this method the personal influence of the teacher in
 no degree affects the excellence of the composition. The resulting
 papers represent what the class is able to do unaided.
-4 THE PSYCHOLOGICAL CLINIC.
 The stories used for the two successive tests must be as nearly
 of the same degree of difficulty as is possible. Some of the stories
 used for the third and fourth grades are: The Dog and his
@@ -124,6 +130,7 @@ the Ant, The Cat and the Monkey. For the fifth and sixth grades:
 Two Men and the Bear, The Wolf and his Two Dinners, Cornelia's
 Jewels. For the seventh and eighth grades: The School of
 Stanz, The Story of Valentine.
+
 The papers are taken directly from the classroom to the
 office of the superintendent where they are read and rated. It
 would be an endless task to do this by marking each paper in
@@ -156,6 +163,7 @@ rection or as an aid in averaging results, and so effects the great
 saving of time. Because of this time-saving it is possible to
 carry on extensive tests, the result of which is exact knowledge of
 the work being done in every room in the city.
+
 Incidentally it may be mentioned that these papers, representing the work of the children entirely free from the teacher's influence, throw many side-lights on methods and discipline. Several times it has been proved that a reader who has seen neither
 class nor teacher can state from one glance through a set of papers,
 exactly the conditions which one who frequently visits that room
@@ -179,13 +187,14 @@ be kept constant and this can usually be done by having one person do all the re
 the opportunity it affords for making comparison of grade with
 grade within the same system; hence the necessity of a constant
 standard.
+
 In rating the papers several factors are taken into consideration. Spelling, capitalization, punctuation, and good sentence
 structure are essential characteristics. Originality receives due
 credit, often outweighing an exact verbal reproduction, which
 receives a low rating.
+
 If a paper is to be placed in grade five it must be mechanically
 perfect, and possess a distinctive style. It must show that the
-6 THE PSYCHOLOGICAL CLINIC.
 pupil is able to express ideas in his own language, to do it without
 mistakes, and to impress it with his own individuality. Grade
 five represents a quality of English which may not be reached
@@ -196,19 +205,25 @@ absolutely unintelligible yet so poor as to show that the child has
 not grasped even the rudiments of English composition. Papers
 in this group are often referred to as "impossible" or "not
 passable".
+
 The scheme of rating is best illustrated by giving two original
 stories and a representative paper in each of the five groups.
 Grades Three and Eour.
+
 THE CAT AND THE MONKEY.
+
 (Original)
 A cat and a monkey saw some nuts roasting in the fire. The
 monkey told the cat to pull them out with her paw. She got one
 out, but the fire hurt her.
+
 The monkey told her how clever she was, so she kept on trying
 till all the nuts were pulled out. Then she turned around to show
 the monkey how her paw was burned, and found him eating the
 last nut.
-Standard Eive,
+
+Standard Five,
+
 A cat and a monkey were sitting in front of a fire-place where
 some nuts were roasting. "Put your paw in and pull some of
 those nuts out," said the monkey. Without thinking of anything
@@ -218,32 +233,41 @@ very clever. Try another." So the cat kept on pulling out one
 after another till she had them all. Then she turned around to
 show the monkey her poor bumed paw and found the greedy
 animal eating the last nut.
-Standard Eour
+
+Standard Four
+
 A cat and a monkey saw some nuts roasting in the ashes. The
 monkey said, "Put your paw in and pull them out," The cat did
 so, and got one out. The monkey told her how clever she was.
 She got them all out, and turned around to show the monkey how
 she had burned her paw. She saw the monkey eating the last nut.
+
 Standard Three
+
 Once there was a cat and a monkey, and they saw some nuts
 roasting in a fire. The monkey said", if you will put your paw
-RESULTS OF STANDARD TESTS. 1
 in the fire we will have some nuts, to eat. So the cat did so,
 when the cat was getting the last nut, the monkey had eat all the
 nuts up. And told her how clever she was.
+
 Standard Two.
+
 One day a cat and a monkey saw some nuts roasting in the
 fire. So he said to the cat. She sould pout in her parw and take
 out the nuts. So she pout in her parw and took out one nut. And
 she bran her parw. The monkey said she was doing well. So she
 went on and on until she got all the nuts out. And then she show
 him her parw how bran her.
+
 Standard One.
+
 The cat was geting nut out of over was roasting. The cat
 was clever and was geting nut of over and the cat pas got brun.
 And he care get nut of the over. At at he got the last one the
 cat shone the monkey his brun pass.
+
 THE OWL AND THE GRASSHOPPER.
+
 (Original)
 A great white owl was sitting one day on her perch in a hollow
 tree. She was trying to get her afternoon nap. But a noisy grasshopper sang his song over and over again. The owl could not
@@ -251,13 +275,16 @@ sleep. Finally the owl said, "Won't you keep quiet or else go
 away ? I want to take a nap." But the grasshopper said, "I have
 as much right to sing as you have to sleep. Besides, you have
 never done anything for me."
+
 Soon the owl called out to the grasshopper, "Well, you have
 really a beautiful voice. Now that I am awake I don't wonder
 that you love to sing. Won't you let me offer you some of the
 delicious honey that I have here ?" The silly grasshopper at once
 jumped up into the tree. The owl caught him in her sharp claws
 and then finished her nap in peace.
+
 Standard Five.
+
 One day a big white owl sat on her perch in a hollow tree,
 trying to take a nap. She could not, for a naughty little grasshopper kept singing his song over and over. The owl got so tired
 of hearing the song over so many times that she said, "Mr. Grasshopper, won't you keep still? I want to get a nap." "Well,"
@@ -266,10 +293,11 @@ have to sleep." Se he kept on singing. Mrs. Owl said to herself,
 "I will fix him." So she said, "Now that I am awake you may
 sing all you wish. Oh, say Mr. Grasshopper," she added, "I have
 some fine honey up here. Won't you come up and help me eat it ?"
-8 THE PSYCHOLOGICAL CLINIC.
 The foolish grasshopper hopped up into the tree and the owl
 pounced upon him, and that was the end of the grasshopper.
+
 Standard Four.
+
 A great owl was just going to take her nap, when a noisy
 grasshopper came up. He sang his song over and over again. At
 last the owl said, "Won't you stop singing till I have had my
@@ -278,7 +306,9 @@ sing as you have to sleep. Besides you have done nothing for me."
 The pwl said, "You can sing as long as I am awake. Won't you
 come up and have some of my delicious honey ?" The silly grasshopper jumped up in the tree. The owl snatched him with her
 sharp claws and had her nap in peace.
+
 Standard Three.
+
 One day an great owl was sitting in a hole in a tree. She
 was trying to take her afternoon nap?But a grasshopper singing.
 He kept singing the same song over and over again. The owl got
@@ -289,7 +319,9 @@ have to sleep." So the owl said, "come here and I will give you
 some honey." The grasshopper the silly little thing went up and
 the owl got him and toke him in his claws and the owl toke his
 nap.
+
 Standard Two.
+
 Once upon a time a owl was trying to sleep in a tree but a
 nosye grasshopper would not let him. So the owl said, "You
 naugty thing why don't you ceep stiyl" Then said the grasshopper,
@@ -298,17 +330,20 @@ owl thought a while and them said, "Mr. grasshopper what a
 sweet voice you have. Woun't you let me offer you some of my
 honey. So the grasshopper junped up im to the tree but the owl
 snached him up and toch his nap im picae.
+
 Standard One.
+
 Once a owl and a Grasshopper was chirping on a tree. The
 grasshopper was singing. Will you not sing. I want to take a
 nap. Afterwill the grasshopper jumped up in the tree.
 Each of the five standards is given an arbitrary value:
 Standard I? 0
+
 " II? 25 points
 " III? 50 "
 " IV? 75 "
 " Y?100 "
-RESULTS OF STANDARD TESTS. 9
+
 When the papers from a fourth, grade, for instance, have all
 been read and thrown into various piles representing the different
 standards, it is easy to reckon the average rank for the class. If,
@@ -321,6 +356,7 @@ old one of marking each paper in per cents, for in that case a
 class might reasonably be required to reach 75 or 80 per cent, and
 indeed under the old laborious method of marking the class here
 used as an illustration would have done so.
+
 When the papers from each classroom have been rated on this
 basis a standard for each grade in the system is then fixed. There
 is nothing unfair to a teacher of the fourth grade, for instance,
@@ -349,7 +385,6 @@ useless. In a Massachusetts school system, with thirty-three third
 grade teachers the initial test showed a city average of 8.5 points,
 with twenty-three classes below the requirement and eight classes
 above. One year later the city average was 19.2 points with
-10 THE PSYCHOLOGICAL CLINIC.
 thirteen classes below the requirement and nineteen classes above.
 This represented an increase of 12 G per cent in the level of
 efficiency in the third grade. With thirty fourth grades the first
@@ -368,6 +403,7 @@ record was similar. The city average increased from eleven to
 thirty-one points, or 181 per cent. No exact figures are available
 from New Jersey where the same system was employed, but the
 general effect was the same.
+
 In each of these school systems not only were teachers told
 the standards attained by their classes but the chief defects of the
 papers were pointed out and specific suggestions made for the
@@ -381,16 +417,17 @@ adapted in each case to the superintendent's knowledge of conditions under which
 heavily handicapped by an ill-prepared or dull class, is not discouraged by feeling herself required to achieve the impossible,
 but, on the other hand, a lazy or indifferent teacher is stimulated
 to increased effort.
+
 "The mistakes in grammar are largely those which can best
 be corrected by careful attention to the language in the oral story
 telling and all other oral recitations. There should be much oral
 work for the half of the class which is below grade. This same
 section is inaccurate in the use of idioms."
+
 "The lower section needs much work in spelling and the forms
 of words. If this section did considerable written work at the
 board the individual mistakes could be seen and corrected?a few
 at a time in order not to discourage and confuse the child."
-RESULTS OF STANDARD TESTS. 11
 "The children show considerable dramatic power in their
 ability to visualize the story, but fail in their written English."
 (Here follow specific suggestions regarding the remedy for errors
@@ -401,12 +438,14 @@ brief statements, to use periods and capitals, and as a whole to
 spell well. It is a pleasure to look over a set of papers showing
 so clearly that the class, as well as the teacher, takes pride in doing
 good work."
+
 "The general impression given by the papers is that of carelessness and lack of clear thinking. There are several instances of
 repetition or of the omission of words necessary to the sense. The
 sentence division and construction are faulty. Correct these errors
 by careful attention to the oral story-telling. As a whole it is
 evident that the class needs hard, definite drill to fix the various
 things it has been taught."
+
 "The children should not have written reproduction at present. They need work in copying and in studied and unstudied
 dictation. They should write at the board where their mistakes
 can be seen and corrected at once. Whatever they do, insist on
@@ -414,12 +453,14 @@ accuracy. It is best for them to learn a few things well. Use
 oral reproduction until the children have enough power to write
 English correctly. Train them to correct oral expression and it
 will help the other work. They show dramatic power."
+
 "The papers from your room show just the condition I
 should expect, knowing as well as I do the make-up of your class.
 Their lack of mental calibre appears in incoherent sentences."
 (Here follow specific instances of mistakes to be set right). "I
 would not attempt, however, to correct too many points at one
 time."
+
 Of course radical improvement cannot go on indefinitely.
 What is certain to happen is a steady gain until the maximum
 efficiency has been reached. Then the city average for any grade
@@ -429,16 +470,18 @@ cause which appears against the best interests of the school.
 The figures and criticism given above are for the third and
 fourth grades only, but the same plan is followed for the other
 grades in the elementary schools. In all cases the results are substantially the same.
+
 The method is just as applicable to spelling, penmanship, and
-12 THE PSYCHOLOGICAL CLINIC.
 arithmetic as it is to English. History and geography present a
 problem more difficult of solution.
+
 It may seem at first thought that the amount of time required
 by this plan of testing for results is so great as to render it impracticable for general use. It is true that considerable time is
 required, but this is not the point at issue. The real question is,
 does it pay? The superintendent or principal has only a given
 amount of available time and it is for him to invest it in such a
 manner as to obtain the greatest returns.
+
 Experience indicates that the superintendent with a school
 system made up of fifty or sixty classrooms can give these tests
 and do all the reading unaided. The pressure of routine work
@@ -451,6 +494,7 @@ this reading need be feared. The standard is not one established
 by the reader's opinion, and she has no responsibility for it. Her
 part is to determine in what degree the papers turned over to her
 for reading measure up to the predetermined standard.
+
 We often hear objections to any plan for measuring the
 efficiency of teaching by testing the results, on the ground that
 there are certain elements of good teaching which cannot be measured. We cannot measure mathematically the effect of the influence of a good woman upon boys and girls. We are utterly
@@ -461,6 +505,7 @@ shaping of character are the very ones who obtain the highest
 results under this method of testing. There is no inconsistency
 between strength of character and efficiency. Character development is an essential part of education but it is not all of it. It
 must be present as a supplement of efficiency.
+
 In the past we have placed emphasis upon what the teacher
 knows and the methods she employs, without regard to the results
 she obtains. In the future we shall give no less attention to

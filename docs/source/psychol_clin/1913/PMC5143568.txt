@@ -2,12 +2,14 @@ The German System of Industrial Schooling
 ==========================================
 
 48 THE PSYCHOLOGICAL CLINIC.
-By Ralph C. Busser, LL.B.
+:Author: Ralph C. Busser, LL.B.
+
 Phila.: Public Education Assn., 1913 (Study No. 40). Pp. 64.
 "Have we not in America erred in turning out too many youths 'educated'
 just beyond the point where they are willing to work with their hands, and where
 they are inclined to prefer the 'genteel' clerkship to the better paid and more
 valuable labor of the trained mechanic or the farmer?"
+
 It is with this significant remark that Mr. Ira Jewell Williams in a preface
 calls attention to the evident lack in present-day American education, and to
 the way out as shown by the Hon. Ralph C. Busser, Consul at Erfurt, Germany,
@@ -19,35 +21,42 @@ the other side a mixed band of scientific experts, progressive educators, and in
 These progressives do not present a united front. Many vital problems have
 scarcely been clearly defined, much less have they been put in the way of
 solution.
+
 Shall practical education or the new industrialism begin with the kindergarten and run through the high school, shall it be postponed until the high school
 period, or shall it be introduced in the seventh or eighth grade with a junior
 high school?
+
 Is the purpose of industrial education that of training the brain or of giving
 skill to the hand?
+
 Is it the province of the public school to supplant apprenticeship and develop
 journeymen?
+
 Shall the school fit workmen for the industries as they are, or must it change
 industry to fit the child?
+
 Shall the school provide equipment sufficiently broad to meet the needs of
 a multiform industry, or shall it retain its older function of giving the tools
 of learning and correlate part-time service with practical shop work?
 Is it just and right for adolescent manhood to add three hours of academic
 work to eight hours of toil?
+
 Shall "practical education" be given as a definite part of the public school
 system or under an entirely separate management? Shall it be compulsory or
 elective? Are such schools to be established by federal aid or purely by local
 initiative?
+
 These are questions which are agitating the minds of thoughtful educators
 to-day. Such questions show that the spirit of discontent has passed the point
 of random criticism of our schools and has begun to apply constructive scientific
 tests of method. It has passed the "what" and come to the "how".
+
 This spirit of educational unrest, of seeking for practical results, is at least
 a quarter of a century old in America. Early attempts to solve the problem
 led to manual training courses which proved to be only a "mustard relish" with
 which to administer the ancient educational pabulum. In Germany the same
 spirit of unrest, beginning a generation earlier than in our country, has produced
 proven results through a broadly developed system of industrial training.
-REVIEWS AND CRITICISM. 49
 To this German system of practical training, of trade schools, continuation
 schools and technical schools, progressive thinkers turn for the materials from
 which to build a new American education. No foreign system can be adopted.
@@ -60,6 +69,7 @@ the business requirements of this country, as well as with the intimate workings
 of the German Government, Consul Busser has sources of information which
 but few have been able to reach, and his contribution is a valuable gift to the
 literature of the subject of industrial education.
+
 Germany has realized that in order to meet the growing menace of foreign
 competition, especially in countries like the United States, she must rely not
 on her natural resources and the cheapness of labor, but upon the skill and
@@ -68,10 +78,12 @@ of the factory system, which substitutes machinery for hand labor, she has
 developed besides day schools, technical schools and universities, in nearly every
 city organized evening and Sunday classes for the training of artisans in the
 various trades practiced in the community.
+
 This system Mr. Busser treats under the heads of general trade schools,
 special trade schools, engineering and scientific schools, and vocational schools
 for girls, and shows the relation of each of these schools to the development of
 the national industries.
+
 Of the relation between these schools and the government, Mr. Busser
 says: "The industrial schools in most German cities and towns form part of
 the public school system, and as such are supported by the respective municipalities, usually receiving aid from the State, and sometimes from the manufacturers and trade guilds especially interested. The appropriations of the
@@ -87,14 +99,15 @@ borne by the municipalities, 35 per cent by the State, 2 per cent by association
 and guilds, and 11 per cent by employers' contributions consisting of the tuition
 fees which they are bound to pay for their employes, together with the sum
 which some of them donate voluntarily."
+
 The general trade schools, the author says, "embrace the industrial continuation schools or part-time schools for young people between the ages of
 fourteen and seventeen who have finished their general education in the common
 schools and are employed in the industries as apprentices, helpers, or other
-50 THE PSYCHOLOGICAL CLINIC.
 manual workers; the mechanics' schools, with Sunday morning and week-day
 evening classes for the technical and theoretical instruction of journeymen;
 and the industrial art schools for the better education of artisans and mechanics
 in the theory, art and technique of their respective crafts.
+
 "The course in the common schools of Prussia covers eight years, upon
 the completion of which the compulsory period of full-lime schooling ends. As
 a rule however compulsory education does not then entirely cease, for in most
@@ -110,8 +123,10 @@ possible. However in the smaller cities and towns good results are also being
 accomplished when, as is now almost everywhere the case, related trades (for
 example, the apprentices of the various building trades) are grouped together
 in classes.
+
 "In selecting the subjects of instruction the aim is to serve the civic, vocational and economic interests of the apprentices and cultivate in them the technical knowledge, artistic sense and idealism that with the necessary mechanical
 skill and practical experience go to make the master craftsman."
+
 The most difficult task of the German industrial continuation schools has
 been the planning of the instruction for the unskilled workers. In the selection
 of studies for this class of boys, the chief aim is to enable them to learn the
@@ -133,7 +148,6 @@ art provided for the craftsmen in practically every German city of industrial
 importance has exercised great influence not only in increasing the efficiency
 of the skilled workers but in stimulating their inventive faculties. This is
 demonstrated by the lavish display of countless beautiful conceptions of industrial art in store windows everywhere in Germany; and thousands of wholesale buyers from other parts of Europe and from America come here every year
-REVIEWS AND CRITICISM. 51
 to lay in a, stock of artistic wares and latest holiday goods of German manufacture."
 These schools give both day and evening courses. A student may take
 a year or two off when he can afford to give his whole time to study, or he may
@@ -142,23 +156,28 @@ constitute the mechanics' school, the object of which is to provide practical
 courses for skilled workers who require advanced technical instruction not given
 either in the industrial continuation school (which they attended during their
 apprecticeship) or in the industries where they are employed.
+
 The program of studies in these mechanics' schools relates especially to
 the distinctive industries of each particular locality. For example, the Mechanics and Industrial Art School in Barmen pays particular attention to cabinetmaking and the lithographic industries; the school in Elberfeld to metal-working
 and bookbinding; the one in Diisseldorf to the building trades and landscapegardening; in Erfurt to shoemaking, printing, lithography, bookbinding and
 cabinetmaking.
+
 "Special schools exist in Germany for alnlost every trade known to the
 industrial world, and they have in no small degree aided in the thorough equipment of German workmen for their respective trades, to which is so largely due
 the marvelous development of the country's industries, and the consequent
 rapid spread of material prosperity and well-being, in spite of the heavy burden
 of state and local taxation."
+
 Prominent among them are those connected with the textile industry, where
 the necessity for special technical kuowledge and the acquisition of high skill
 in hand work, as well as in the operation of the complicated machinery of the
 trades, led to the establishment of special schools for spinning, weaving, knitting,
 rope making, dyeing, finishing, ribbon and lace making, embroidering, etc.
+
 Other important institutions which substitute school for apprenticeship in
 whole or in part, are the special schools for the metal trades, clock and watch
 making, basket making, straw plaiting, pottery, woodworking, etc.
+
 The schools for builders (for the education of architects, masons, and carpenters) were the earliest developed of the German special trade schools. They
 were first organized as departments of drawing schools, industrial art and continuation schools, but with the growing complexity of the building trades and
 the progress in technical knowledge, it was found necessary to erect separate
@@ -180,6 +199,7 @@ as a rule admit as full students only such young people as have had as a foundat
 the completion of an actual apprenticeship had already been established by many
 schools as a condition precedent to entering as a full course student, and in some
 as much as three years actual employment in the trade is required.
+
 Thus the German continuation schools are distinctly for Germans. The
 skilled mechanic intends to keep his skill for himself and his fellow workmen.
 He leaves the unskilled work for the immigrant, and docs not intend that the
@@ -190,6 +210,7 @@ term. In some districts this distinction is even carried so far as to discrimina
 against workmen from other parts of the German Empire, and some schools
 exclude foreigners entirely. German education is distinctly "made in Germany"
 for Germans.
+
 It is generally understood that German women do not receive the same
 consideration from men that is accorded their American sisters. Naturally
 their educational progress is far behind that of the men. Indeed it has only
@@ -201,15 +222,16 @@ handworkers. Of these special trade institutions the most important are the
 textile schools, because the corresponding industries employ a large number of
 women, who work alongside of the men in the making of suits, underwear, gloves,
 lace, trimmings, and other textile goods.
+
 Many of the continuation and trade schools hold interesting local or provincial exhibitions several times a year, and there are also in different parts of
 the Empire workmasters' courses and experimental shops which supplement
 the system of industrial education. Other features such as concerts, lectures,
 games, classes of various kinds, and excursions to places of industrial and historic interest make of the continuation school a valuable social institution,
 extending its influence, both in working and recreation hours, practically to
 the end of the formative period of the boy's life.
+
 Private industrial schools, organized and managed for profit, are comparatively rare in Germany. The continuation schools, mechanics' and industrial
 art schools are usually conducted by the local authorities, the State having certain rights of supervision and control when it shares with the municipality the
-REVIEWS AND CRITICISM. 53
 expenses of operation. The special trade schools are conducted by the municipality or else by the guilds or other industrial associations concerned with the
 particular trade taught. These latter schools frequently receive appropriations
 from local or state government after complying with certain requirements.
@@ -217,11 +239,13 @@ As a result of these unifying influences there is now systematic relation in
 entrance requirements, courses of instruction, etc., in German industrial schools
 of the same kind, and students in one state can be admitted to equivalent schools
 in other states of the Empire.
+
 The special trade schools are generally located in the localities where the
 corresponding branches of industry flourish. The institution is thus made conveniently accessible to the workers and can avail itself of the services of experts
 direct from the appropriate factory or workshop. On the other hand the industry is constantly reinforced by trained recruits, bringing new methods and
 processes. The relation between the school and the factory is a reciprocal one,
 with distinct benefit to both.
+
 Thus Germany has organized a most full and complete system of training
 for her artisans. Practically every skilled trade throughout the Empire can
 count upon thoroughly trained recruits to fill the places of those who drop out,
@@ -236,6 +260,7 @@ the free cooperative activity of each with all, on towards personal independence
 and social and industrial efficiency, is a far more difficult task than to enforce
 success through military standards of discipline. This is the problem which
 American education must face.
+
 And yet we may look to Germany,?to Bismarck?for the watchword of
 the day,?"The nation that has the schools has the future."
 James S. Hiatt,

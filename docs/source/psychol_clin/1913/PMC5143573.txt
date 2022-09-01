@@ -1,9 +1,10 @@
 Bibliography of Social Service
 ================================
 
-By Louise Stevens Bryant
+:Author: Louise Stevens Bryant
 In charge, Social Service Department, Psychological Clinic,
 University of Pennsylvania.
+
 The following bibliography has been developed in connection
 with courses on social service in the Department of Psychology of
 the University of Pennsylvania. Its aim is to furnish a background
@@ -13,6 +14,7 @@ avowedly technical in any of these subjects are mainly to the
 applied branches. Current references, in general omitted, may be
 easily secured by consulting the general bibliographical sources
 and periodicals in section V.
+
 Aside from the more general references, the scope is quite
 obviously limited to the needs of the social worker in a psychological clinic, or in some closely allied work, such as special class
 visiting, school clinics, or hospital social work, though the last
@@ -22,20 +24,21 @@ made to do more than indicate the existence of special problems
 met by the workers in philanthropic organizations, such as family
 rehabilitation, child placing, etc. Even the special references however, have been chosen largely as they serve to indicate the interrelation of the different activities to each other and to the large
 aims common to all.
+
 The reasons for emphasizing the work of the public schools
 so strongly are as follows. The public school is supremely important as an agent of social progress because it is the only institution that has continuous responsibility and oversight of the great
 majority of individuals in society for any considerable period of
 time. Most of the functions of government are concerned with
 individuals only in exceptional and frequently abnormal circumstances ; that is, existing for purposes of police protection, sanitation, of tax raising, they intervene in personal lives only in time
 of stress or violation of law.
+
 Continuity is something that becomes greatly prized by social
 workers who are confronted by the baffling gaps in society's provisions for its members. We have for example, homes for cripples,
-(263)
-264 TIIE PSYCHOLOGICAL CLINIC.
 that will not take the child of backward mind; schools for the deaf
 frequently refuse cripples; the hearing mute finds no refuge anywhere; hospitals for the insane require that the inmate be over
 fifteen years; our houses of refuge turn the child out at twentyone however pathetically a child and however much in need of
 fostering he still may be.
+
 Our public schools have enough of these gaps: the law compels attendance for six years, and provides an eight year course;
 motor minded boys and girls wait from the kindergarten till the
 third or fourth grade before a few hours a week are granted when
@@ -53,7 +56,10 @@ are. In the schools facts are being discovered and principles
 worked out which are destined to modify profoundly our industrial, political, and legal organization. Governments and particularly school systems are not now merely conservative, waiting
 upon and following private initiative and research; with the
 growth of social consciousness is coming social action.
+
 BIBLIOGRAPHY.
+-------------
+
 I. Modern Social Service Movement, General References.
 (Sociological, Psychological, Economic, etc.)
 1. Addams, Jane.?Democracy and Social Ethics. N". Y.: Macmillan, 1902.

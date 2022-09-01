@@ -1,8 +1,9 @@
 Accuracy of Pupil Reporting
 ===========================
 
-By J. C. Lewis, K. J. Hoke, J. B. Welles, and G. M. Wilson,
+:Author: J. C. Lewis, K. J. Hoke, J. B. Welles, and G. M. Wilson,
 Teachers College, New York City, N. Y.
+
 During the past few years many studies in education, particularly those concerning retardation and promotion, have been based
 upon the answers given by children to questions asked by the investigators. While this method of collecting data has been known to be
 inaccurate, no one has attempted to see how much the error was nor
@@ -22,6 +23,7 @@ fifteen; total 176. There were 63 boys and 93 girls, total 176.
 The pupils were asked to fill out the following blank, and the
 returns were secured from 137 of the 176 children in the six year
 group:
+
 Name
 1. Have you ever skipped a grade?
 2. What grade or grades have you skipped?
@@ -31,8 +33,7 @@ Name
 School Administration, Teachers College, under whose direction this study was undertaken, and
 whose co-operation made it possible. The original data for this study are on file in Dr Strayer'a
 office.
-(135)
-136 THE PSYCHOLOGICAL CLINIC.
+
 To avoid too much disturbance and to have the questions answered
 under normal conditions, the teachers gave them out and returned
 them to the investigators. In one school the children were assisted
@@ -49,6 +50,7 @@ construction tends further to make the percentage of correct answers
 too large. If the pupil reported an answer in any other way than
 that shown above, it was considered incorrect. Table I shows the
 results in detail.
+
 TABLE I.
 ANSWERS OF 137 SCHOOL CHILDREN.
 Normal Children
@@ -86,6 +88,7 @@ too
 few
 No
 ans.
+
 A double scoring was used in the case of double retardations
 and promotions. By this method the actual number of pupils'
 answers will be found to exceed the number of pupils by eleven.
@@ -98,10 +101,10 @@ one year less than the records showed and four two years less
 than the records. Finally we find that six gave no answer at all.
 Reducing this table to a percentage basis, and charting it, we find
 that 93 per cent of the children who were normal answered correctly,
-ACCURACY OF PUPIL REPORTING. 137
 while 3.5 per cent said that they were retarded. Among the accelerated children the small number of cases distorted the percentages; one child said that he was normal.
 The most significant facts were found in the answers of the
 retarded children. Sixty-five per cent of the answers were incorrect.
+
 This percentage was distributed among the different mistakes as
 follows: 30 per cent reported normal progress, 19 per cent said they
 were accelerated, 4.5 per cent reported one year less than they bad
@@ -118,6 +121,7 @@ Incidence of Retardation" by Dr Louis B. Blan (Teachers College,
 1911). This appealed to the writers as a splendid study; but their
 scientific interest led them to the plan as described above for checking
 up, for proving or disproving the results.
+
 Blan studied 4579 children as follows: a New York City district,
 1312 cases; Elizabeth, N. J., 1088 cases; Paterson, N. J., 1246
 cases; East Orange, N. J., 448 cases; Plainfield, N. J., 485 cases.
@@ -127,6 +131,7 @@ five cities were studied as to the grade distribution of the 3947 cases
 of retardation. These were reduced to a percentage basis for each
 group and then the median of the five groups calculated. This
 median for the fifth grade pupils is:
+
 Per cent of failures in the fifth grade  11.2
 " " " " " fourth "   9.2
 " " " " third "   7.2
@@ -135,10 +140,10 @@ Per cent of failures in the fifth grade  11.2
 Since our study tends to show that in the lower grades these figures are much too small, it is only fair to call attention to the evidence
 in Blan's own study tending to support the conclusion which we reach.
 We are surprised that so careful a student should have neglected
-138 THE PSYCHOLOGICAL CLINIC.
 this evidence, tending as it does to prove the unreliability of a pupil's
 report as to his own failure, a conclusion which if substantiated would
 invalidate his entire study.
+
 Blan says (p. 31): "Each pupil was asked to state in what
 grade or grades he had been kept back for a second term. In the
 event of the pupil's inability to remember accurately, a note was
@@ -146,6 +151,7 @@ made of such inability and recourse was had to the record card filed
 in the office of the principal. Such action was necessary in 32 out
 of 1312 cases and the writer was particularly fortunate in obtaining
 full records of same."
+
 The above quotation shows how little use was made of the
 cumulative record cards in checking up pupils' answers.
 Blan (p. 52) notes that the higher the grade the fewer failures
@@ -155,6 +161,7 @@ of pupils to remember the failures that occurred so many years before.
 Blan says: "In fine, then, it may be said that the fourth or fifth
 grade pupil is left back in the third grade more than twice as often
 as the eighth or seventh grade pupil."
+
 In Plainfield, N. J., there were cumulative record cards which
 Blan could have used, but of which he made little use. It appears
 however that they had some effect in helping the memory of pupils.
@@ -174,11 +181,11 @@ it was found that in no case were they left back less than they stated.
 On the other hand, in quite a number of instances their history cards
 showed one or more retardations above the number admitted by
 them in class."
+
 The values to be attached to the expressions "somewhat" and
 "quite a number" in the above quotation can be best estimated
 from the details of table I of this study. It must be evident that if
 65 per cent of pupils' answers as to retardation are incorrect, the
-ACCURACY OF PUPIL REPORTING. 139
 only profitable way in which to study this question is through an
 examination of the individual cumulative record cards.
 Let us proceed a step further by distributing the retardations
@@ -186,6 +193,7 @@ as actually occurring and as reported by the children, and then apply
 these facts to Blan's study. Table II shows the distribution of
 reported and unreported failures, and the total of the whole number
 actually occurring.
+
 TABLE II.
 Grade.
 Number of
@@ -230,6 +238,7 @@ I
 21
 34
 13
+
 Taking the first line, table II reads, beginning at the left, the
 fifth grade pupils reported 1 retardation in grade five, 3 retardations
 in grade four, 3 in grade three, 6 in grade two, and 7 in grade one;
@@ -241,6 +250,7 @@ The next line of table II shows the distribution of fourth grade
 retardations; the last line, the distribution of third grade retardations. It will be seen from the table that fourth grade pupils report
 more inaccurately than fifth grade pupils, and that the third grade
 pupils do poorest of all.
+
 The only place where this table overlaps Blan's is in the fifth
 year. It will be interesting therefore to calculate the incidence of
 retardation for the fifth grade and compare the results with the
@@ -252,7 +262,7 @@ per cent of 148,?148 being the total number of cases involved,
 including normal, accelerated, and retarded, each retardation being
 counted as a separate case. Likewise 6 in table II is 4.0 per cent
 of 148, etc.
-140 THE PSYCHOLOGICAL CLINIC.
+
 TABLE III.
 SHOWING THE INCIDENCE OF RETARDATION FOR FIFTH GRADE PUPILS ACCORDING TO THEIR OWN REPORTS.
 Grade
@@ -271,6 +281,7 @@ Blan, based on pupils' reports.
 7.2
 6.6
 7.2
+
 Table IV is derived from table II in the same maimer, but the
 totals for grade V are used. That is, 21 is 14.2 per cent of 148;
 14 is 9.5 per cent of 148, etc. The fifth grade incidence of retardation
@@ -303,14 +314,17 @@ study. If this assumption is correct, and Blan's own study bears
 evidence that it is, the conclusions reached by Blan are equally
 unreliable. The situation as to failure in upper as compared with
 lower grades is exactly reversed.
+
 It is not necessary to pursue the discussion further. While
 this study is not conclusive, it points strongly towards the following
 conclusions:
+
 First.?Pupils' reports as to progress through the grades are
 likely to be very inaccurate.
+
 Second.?The inaccuracies are greatest in the lower grades
 and where failure is involved.
-NEWS AND COMMENT. 141
+
 Third.?Conclusions as to the progress of children through the
 grades when based upon the reports of children are therefore more
 or less inaccurate and may be directly contrary to the facts.

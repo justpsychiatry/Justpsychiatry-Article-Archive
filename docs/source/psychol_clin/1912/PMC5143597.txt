@@ -1,8 +1,9 @@
 Retardation In the Elementary Schools Of Philadelphia
 =======================================================
 
-By Byron A. Phillips, Ph.D.,
+:Author: Byron A. Phillips, Ph.D.,
 Philadelphia.
+
 Iii the following study all pupils will be classed as retarded,
 who are one year or more behind the "normal" grade for their age.
 The universality of retardation is what first strikes the student of
@@ -21,16 +22,19 @@ amount of retardation will always exist. Investigation, however,
 reveals the fact that many pupils of-average intelligence are
 retarded to such an extent that the school systems have been called
 in question as inefficient.
+
 Besides natural inferiority of mind, there are several other
 factors which cause retardation, the most important of these being
 irregular attendance and lack of proper medical inspection. These
 factors are present in all school systems to a greater or less extent,
 yet there are great differences in the amount of retardation among
 the different systems.
+
 Tn studying the retardation of any system, the relation of the
 retarded to the normal and to the accelerated should be taken into
 account if we are to obtain an adequate idea of the relative worth
 of the system.
+
 The present study is an investigation of retardation in the
 elementary public schools of Philadelphia, and a word as to the
 organization of the system will make clearer the significance of
@@ -46,6 +50,7 @@ years or over in the second grade, and so on through the grades.
 In the present study the age tabulations for 1909 are used as a
 basis, and occasional reference is made to those of 1908 and 1910
 for comparison.
+
 Retardation for the Years 1908, 1909 and 1910.
 From Dr Oliver P. Cornman's study of the "Retardation of
 the Pupils of Five City School Systems,"1 we see that the different
@@ -59,6 +64,7 @@ a difference of 12.7 per cent; for girls 46.5 per cent in District 4,
 and 32.8 per cent in District 10, a difference of 13.7 per cent;
 and for both 48.3 per cent in District 3, and 35.4 per cent in
 District 10, a difference of 12.9 per cent.
+
 In 1909 we find the following range of difference in the
 amount of retardation in the districts: boys, from 48.1 per cent,
 in District 3, to 35.9 per cent in District 10, a difference of 12.2
@@ -66,12 +72,14 @@ per cent; girls, from 45.8 per cent in District 3, to 30.6 per cent
 in District 10, a difference of 15.2 per cent; both, from 47.0 per
 cent in District 3, to 33.3 per cent in District 10, a difference
 of 13.7 per cent.
+
 In 1910 the greatest amount of retardation for boys was 48.4
 per cent in District 3, and the least 34.6 per cent in District 7
 a difference of 13.8 per cent; for girls 45.7 per cent in District 3,
 and 30.i per cent in District 10, a difference of 15 per cent; and
 for both 4/.6 per cent in District 3 and 33.0 per cent in District. 7,
 a difference of 14.6 per cent.
+
 The other eight districts range in retardation between the
 extremes just cited. Tt is apparent that different causes are working in different degrees in these districts to cause the variations in
 the amount of retardation among them. The following table
@@ -79,6 +87,7 @@ the amount of retardation among them. The following table
 RETARDATION IN PHILADELPHIA. 81
 summarizes the retardation of the ten districts for the years 1008,
 1000, and 1910:
+
 Table I.
 RETARDATION BY DISTRICTS
 District
@@ -167,6 +176,7 @@ Girls Both
 34.4
 33.3
 40.1 37.0 38.8
+
 Studying this table we note its remarkable regularity. Each
 year in each district the retardation of the boys is less than that
 of the previous year; each year in each district the retardation of
@@ -177,14 +187,15 @@ cause. Since the problem of retardation is 6ccupying the attention
 of most departments of superintendence, we may infer that this
 decrease is due to supervision. The following table summarizes
 the retardation statistics for the three years in question:
+
 Table IT.
 Boys. Girls. Roth.
 1008   44.3 40.4 42.4
 1000   41.5 30.2 40.3
 1010   40.1 37.0 38.8
+
 Tsot. only the districts but the grades, with a few trifling
 exceptions, show the same uniform reduction in retardation.
-82 THE PSYCHOLOGICAL CLINIC.
 Table 111.
 RETARDATION BY GRADES
 Grades
@@ -247,10 +258,12 @@ Both
 33.9
 18.1
 38.8
+
 N"o one familiar with the problem of retardation would look
 for equal amounts of retardation in the different trades. The
 grade figures for the whole city, arranged in order of the amount
 of retardation, are for 1909:
+
 Table IV.
 5th grade   54.5 per cent
 4th "   53.7
@@ -314,7 +327,6 @@ n o-j (t2
 The coefficient of correlation obtained bv this method for the
 relationship between retardation and attendance for the year 1909
 is .05, which signifies practically a lack of correlation. A study
-S4 THE PSYCHOLOGICAL CLINIC.
 of the grade figures shows a similar lack of correlation between
 the percentages of retardation and of attendance. From this it
 would seem that attendance is a minor factor in causing retardation, but this is evidently untrue, for two reasons. In the. first
@@ -334,6 +346,7 @@ estimate the exact influence of irregular attendance on retardation
 would be to keep a record of the number of half-day attendances
 for each pupil and compare the results with the promotion record
 of the same pupil.
+
 It is to be noted that District 3, with the highest percentage
 of retardation, is a compact foreign district; while District 10,
 with the lowest percentage, is a rural American district, so it
@@ -353,10 +366,11 @@ Wilmot School has an attendance of 84.7 per cent. District 10,
 89.0 per cent. When retardation in the colored schools is discussed it will be seen that in every case it is approximately from
 10 to 20 per cent higher than that for the district.
 Summary:
+
 (1) The method of reckoning attendance used in compiling
 school reports gives results which are of small value for statistical
 purposes.
-RETARDATION IN PHILADELPHIA. 85
+
 (2) While the tables do not show any correlation between
 retardation and attendance, no doubt sucli relationship exists, and
 is an important but not the predominating factor in causing
@@ -391,7 +405,6 @@ augment the retardation. District 7 has a low percentage of retardation, althoug
 retardation will be seen to be due in part to the high elimination
 rate and to the absence of the negro element. Districts 0 and 10
 with low retardation rates are partly rural and residential.
-86 THE PSYCHOLOGICAL CLINIC.
 We can see that each district is too large to permit us to
 establish a relation between the social condition and retardation,
 except in a general way. Each district, however, is composed of a
@@ -419,6 +432,7 @@ per cent. This is a good residential section. District 10, with
 and 37.3 per cent in the 45th ward. The former is ;i factory district, which has a rather low rate of retardation owing to the hii?h
 elimination, while the latter contains a large percentage of foreigners, with a number of parochial schools, which always increase the
 rate of retardation.
+
 Many wards are differently constituted socially in their
 various parts, so that it would be profitable to investigate further
 the separate schools in each ward. The table on page 87 gives in
@@ -510,8 +524,8 @@ order, 10% foreign,
 order, 5% foreign.
 13 550 21.5 Residential of higher
 order, very good conditions.
+
 ?Spring Garden School has grades 1 and 2 only.
-88 THE PSYCHOLOGICAL CLINIC.
 these schools contain grades 1 to 4 only. In the 13th ward the
 Warner School, with 80 per cent of foreigners, has 37.G per cent
 of retardation. The Wyoming School has 44.1 per cent of retardation, about the average percentage for schools having a large
@@ -525,6 +539,7 @@ except the Allison School, with only 29.0 per cent of retardation,
 and the Stokley School with 21.5 per cent. These schools are not
 fully graded, and draw their pupils from very good residential
 districts.
+
 W e see that city, district, ward, and school are made up of
 distinct sociological units. In each of these Units the home conditions are widely different. In those districts where retardation is
 greatest, the sociological unit proves to be the one in which home
@@ -536,6 +551,7 @@ apply the curriculum inflexibly to these widely divergent social
 units ? We must conclude that retardation is in a great measure
 the resultant of unfavorable home conditions, combined with an
 inflexible curriculum.
+
 Supervision may overcome to a certain extent adverse conditions, by taking these facts into consideration. The standards of
 requirement must be differently applied to the different sociological
 groups. In District 0, for example, we expect to find a large percentage of retardation, for here arc a larj?e foreign clement. ;i
@@ -546,18 +562,19 @@ of retardation. Why is it that the retardation in schools with 00 to
 80 per cent of foreigners does not begin to be as great as that in
 schools in other districts where conditions nrr? approximately the
 same? This district has been under the superintendence of on*'
-RETARDATION IN PHILADELPHIA. 89
 who has been especially interested in the problem, and it would be
 fair to say that the course of study has been interpreted less rigidly
 and more in accord with the needs of the sociological unit.
 A closer study of the colored and foreign elements brings to
 light facts which substantiate the conclusions already drawn.
 The Colored Element.
+
 In most of the schools of Philadelphia, white and colored
 pupils are mixed in varying proportions, according to the district.
 There are nine schools for colored children exclusively. The
 following table shows a surprising contrast between these schools
 and the others:
+
 Table VII.
 RETARDATION IN THE COLORED SCHOOLS
 School
@@ -625,6 +642,7 @@ SO.7
 80.2
 80.0
 84.7
+
 In District 1 the J. Miller School has 68.2 per cent of retardation, against 41.8 for the district, the school having the next
 highest amount of retardation being the Boon's Dam, with 49.1
 per cent (8 per cent colored).- In District 3 the Pollock School
@@ -634,7 +652,6 @@ being the Florence, with 56.0 per cent (nearly 100 per cent foreign). In Distric
 for the district. The Keystone School, 44 per cent colored, has
 the next highest amount of retardation, 57.8 per cent. In District 6 the Vaux School has 66.3 per cent of retardation, against
 37.2 per cent for the district. The Hancock School (13 per cent
-90 TI1E PSYCHOLOGICAL CLINIC.
 colored), with 47.4 per cent retardation, lias the next highest
 percentage. In District (.) the. Ilill School and the Meelian have
 72.S per cent and 58.2 per cent of retardation respectively, against
@@ -655,6 +672,7 @@ In comparing the grades this colored retardation is a considerable
 factor, as the colored pupil does not often get above the sixth grade
 before leaving school. One result of this is to swell the amount of
 retardation in the fourth and fifth grades.
+
 If we look over the retardation of the several districts we
 see that District 7 has practically no negro element and that in
 Districts 8 and 10 the negro element is only 2.1 per cent and 1.4
@@ -668,4 +686,5 @@ educational results are so far behind those in the other schools,
 and it is very doubtful whether even a liberal interpretation of the
 course of study would meet the educational necessities of this
 group.
+
 (To be coil eluded.)

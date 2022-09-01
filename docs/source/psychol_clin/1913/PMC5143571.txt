@@ -1,10 +1,11 @@
 Mental and Physical Examination of School Children in Rural Districts
 ======================================================================
 
-By William H. Pyle, Ph.D.
+:Author: William H. Pyle, Ph.D.
 .V.
 Assistant Professor of Educational Psychology, University of
 Missouri, Columbia, Missouri.
+
 Much has been, written in recent years about the examination
 of school children. In many places, especially in the larger cities,
 mental and physical examinations are common. These examinations are excellent as far as they go, but they seldom go farther
@@ -29,11 +30,10 @@ why the examining functions might not be combined in one man?
 a medical graduate with some psychological training. Such an
 official would render a county more valuable service than is now
 being rendered by any county officer. It is not our purpose to
-(260)
-EXAMINATION OF SCHOOL CHILDREN. 261
 work out the scheme in detail liere. Only practice could determine
 wliat all the details should be. It might, for example, prove feasible for much of the examination to be done by local physicians,
 and perhaps a part by the teachers.
+
 Not only should the examinations be universal but they should
 be made at definite intervals, and the results should be kept in
 permanent records, open to the public under certain conditions
@@ -48,6 +48,7 @@ ordinary examinations given by the teacher. The fact that such
 data are to be placed on permanent record along with other matter
 obtained by careful tests would doubtless lead to more care and
 precision on the part of the teacher.
+
 In the light of the results obtained from these tests and examinations the teacher could proceed with definite knowledge of the
 mental and physical conditions of the children who are being
 taught. At present, teachers are largely ignorant of the physical
@@ -63,12 +64,12 @@ Some day perhaps even education will become scientific. May
 we not hope for a time when teachers will have an equally accurate
 knowledge of the children taught, and when the methods of teaching will be based on scientific facts, instead of on belief, opinion
 and mere tradition ?
+
 As to the nature of the tests that should be given, it is not
 necessary to go into details here. They should, on the physical
 side, reveal the condition of eyes, ears, nose, throat, teeth, and in
 fact as far as possible of every part and organ of the body.
 Weights and measurements should bo taken, and the successive
-262 THE PSYCHOLOGICAL CLINIC.
 examinations should show clearly the growth and development of
 the body. On the mental side, the tests should include such processes as memory, imagination, attention, discrimination and association. And, as throwing light on the condition of both the mind
 and body, tests showing the speed and accuracy of movement

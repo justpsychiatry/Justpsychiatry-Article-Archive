@@ -5,9 +5,9 @@ The Psychological Clinic
 Copyright 1912, by Lightner Witmer, Editor.
 Vol. VI. No. 7.
 December 15, 1912.
-
-By William Henry Stephenson Morton,
+:Author: William Henry Stephenson Morton,
 Superintendent of Schools, Ashland, Neb.
+
 This investigation was undertaken to ascertain, if possible, the ^
 average age for the various grades in the elementary schools of
 Nebraska; how many pupils are ahead of this grade average, and
@@ -18,6 +18,7 @@ Like all new terms, there is some difference of opinion as to its
 meaning. In one case the "progress" standard is taken as the
 criterion in determining whether the pupil is to be classed as subnormal, normal, or super-normal. On the other hand, the "agegrade" standard is considered by many to be the more exact and
 objective measure of retardation.
+
 Holding in mind that children differ greatly both physically
 and mentally and that all cases cannot be subjected to the age-grade
 standard for comparison, yet it does seem that the almost universal
@@ -31,19 +32,20 @@ accuracy to the various school systems. When school administration reaches a mor
 each student can be had, we will be in a position to speak seriously
 of the progress standard as workable. At the present time we are
 far from it.
+
 It has been declared, and we cannot ignore the statement, that
 retardation must be found by knowing the pupil's rate of progress
 through the various grades of our schools, regardless of his age
 at entering. Superintendent Greenwood, one of the staunchest
 i A thesis submitted to the Faculty of the Graduate College bf the University
 of Nebraska for the degree of M.A.
-(181)
-182 THE PSYCHOLOGICAL CLINIC.
+
 supporters of the progress standard, declares that retardation is
 not a question of age without respect to progress; but it is a question of the time required to do a given amount of work without
 regard to age. This seems to be a dangerous doctrine, for were it
 to find lodgment in the public mind it would have the effect of
 advancing the age for any grade.
+
 It must be recognized that children who vary greatly in age,
 but who are trying to do work in the same grade, will find the work
 unsuited to the two extremes. The younger ones find the work
@@ -57,6 +59,7 @@ child must be cared for in seating. Games adapted to the average of the room wil
 due to his being over-age, no matter what the cause may be, and
 it is for this reason that age is a fair standard for measuring
 retardation.
+
 A second vital reason is that since democracy requires certain achievements from every individual and since it pays for his
 education, he should at certain ages have completed certain grades
 of this work, an amount equal to the average child. If the average
@@ -66,6 +69,7 @@ the race of life. His chances for overtaking him are indeed very
 limited since our school machinery tends to interrupt him if he
 strives to gain on his fellows in the grade. Thus time is lost to
 him and to society alike.
+
 Those in favor of the progress standard argue that it is sensible for parents not to send their children to school until a late
 age, for, they say, if he does not enter the first grade until he
 is eight years old, he will soon overtake the other children by
@@ -77,6 +81,7 @@ wrong. It is true that no adequate attempts have been made to
 ascertain to what extent pupils skip grades. However, such studies
 as we do have show only a very low percentage in any graded
 school system who skip grades.
+
 RETARDATION IN NEBRASKA. 183
 Professor Keyes adds some valuable information to this subject. In a recent investigation of the individual records of 326
 graduating accelerates, he finds the following to be true. He says :2
@@ -96,6 +101,7 @@ seven and seven and one-half. Practically one-half of all children
 who begin the first grade after reaching their seventh birthday or
 before reaching their fifth, may be expected to lose a year some
 time during their grammar school course."
+
 In an article in the Educational Review in 1909, Dr R. P.
 Falkner cites from the reports of both large and small cities such
 figures as he could find that showed at all the number of pupils
@@ -114,13 +120,14 @@ evident, as the age-grade standard usually allows at least one year
 1911, p. 13.
 3 Keyes, Charles Ilenry : Ibid., p. 10.
 4 Educa. Rev., XXXVIII., pp. 122-32.
-184 THE PSYCHOLOGICAL CLINIC.
+
 of failure before the pupil is classed as retarded; for if we call
 seven years the age for the first grade, then how about those who
 enter at five or six ? Dr Falkner says further in the last named
 article, "It doesn't matter much how the pupil happened to be
 over-age for his grade; if he is there he is retarded, for the effect
 is just the same."
+
 Now in the light of the small per cent of rapidly moving
 pupils, and in the light of the fact that 50 per cent of those pupils
 who enter after their seventh birthday or before their fifth must
@@ -142,6 +149,7 @@ that on the average about 337 per cent of all pupils in our public
 schools belong to the retarded class. Superintendent Coraman
 found the range of retardation to be from 51 per cent in Boston to
 77.6 per cent in Kansas City.0
+
 The investigation in Nebraska differs a little from these.
 Here it was found that out of 25,449 pupils only 28.5 per cent are
 retarded. It does not make much difference which of these percentages we take; it gives us an idea of the size of the problem with
@@ -155,12 +163,13 @@ Schools." He took all who were under eight years as of normal
 5 Ayres: Laggards in Our Schools: p. 3.
 ? The Psychological Clinic : Feb., 190S.
 7 Ayres: Laggards in Our Schools, p. 3.
-RETARDATION IN NEBRASKA. 185
 age for the first grade, those under nine years as of normal age for
 the second grade, and so on; those who were eight or more for the
 first grade, and those who were nine or more for the second grade,
 and so on, being considered over-age or retarded.
+
 The following table shows normal ages for all grades according to Ay res:
+
 TABLE I.
 NORMAL AGE OF CHILDREN IN THE GRADES.
 Grade Age Grade Age
@@ -174,6 +183,7 @@ In the study made by Ayres only one table showing age and
 grade distribution is given, and that is of Memphis, Tennessee.
 The table is copied here for reference for those who may not have
 access to Ayres' work.
+
 TABLE II.
 AGE AND GRADE DISTRIBUTION N MEMPHIS, TENN., JUNE, 1908.
 Age
@@ -236,7 +246,7 @@ Total
 579
 392
 8248
-186 THE PSYCHOLOGICAL CLINIC.
+
 With the hope of ascertaining the age and grade distribution
 in Nebraska, the writer last autumn set about gathering data of
 this nature. He has collected statistics on age-grade enrolment
@@ -246,6 +256,7 @@ to the superintendents or principles of the schools between November 15, 1911 an
 every case responded promptly. The list of the towns from which
 reports were received follows (a few reports were received too late
 for classification) :
+
 Albion
 Alda
 Alliance
@@ -337,7 +348,7 @@ Wilber
 Woodlake
 West Point
 York
-RETARD A TION IN NEBRA SKA. 187
+
 TABLE III.
 AGE AND GRADE DISTRIBUTION OF PUPILS IN 96 NEBRASKA SCHOOLS, 1912.
 Age
@@ -446,7 +457,7 @@ Totals 1100 12307
 2 125449
 7128
 28.5 2777 ! 10.9
-188 THE PSYCHOLOGICAL CLINIC.
+
 The figures from these various reports have all been assembled
 in the preceding table. There were 25,449 pupils reported, and
 their distribution by age and grade is shown.
@@ -470,6 +481,7 @@ Another probable source of error is in the different meanings
 attached to the ages. Some think a child seven years when he is
 anywhere between six and a half and seven and a half; others
 from seven to eight.
+
 Recognizing these erratic conditions, the above table seems
 to show very well the actual distribution of school children in
 Nebraska by age among the different grades of our graded schools.
@@ -480,6 +492,7 @@ before, but they are either upon one city school, or a number of the
 larger city schools, while this investigation has omitted even
 Omaha and Lincoln, that it might be wholly a study of small
 city and town schools, all located in Nebraska.
+
 From table III it will be seen that each grade contains
 pupils varying greatly in age. For example, the first grade varies
 from 1098 five-year-olds to two twelve-year-olds; the second grade
@@ -487,12 +500,13 @@ from two five-year-olds to one sixteen-year-old; and the eighth
 grade from one child who is ten years old to one who is twenty.
 8 Lurton, Freeman E. Retardation Statistics from the Smaller Minnesota Towns.
 The Psychological Clinic, Vol. V, p. 13, March 15, 1011.
-RETARDATION IN NEBRASKA. 189
 The same conditions exist in Memphis, Tennessee, as shown
 by table II.
+
 This immediately raises three questions: (a) What is the
 normal age for any grade ? (b) How many pupils are supernormal or ahead of their grade ? (c) How many are sub-normal
 or behind their grade ?
+
 In figuring out these problems, the ages six or seven (five
 years, eleven months to seven years, eleven months, both inclusive) were taken as normal for the first grade; seven or eight
 years for the second grade; eight or nine for the third grade, and
@@ -517,6 +531,7 @@ more than this investigation. This is not so great a difference as
 might be expected since the data for one come from the large
 cities, and those for the other from the small cities, the towns,
 and the villages.
+
 It becomes an interesting question as to what is the si<rnificance of this large amount of retardation in our Nebraska schools.
 Dr Ayres9 says, "Wherever we find that the retarded children
 constitute a large part of all the school membership, we find that
@@ -526,7 +541,7 @@ studies and reach the age of fourteen (which is generally the end
 of the compulsory attendance period), when they are in the fifth
 or sixth grade instead of in the eighth, rarely stay to graduate.
 'Ayres: Laggards in Our Schools: p. 3.
-190 THE PSYCHOLOGICAL CLINIC.
+
 They drop out without finishing. The educational importance of
 this fact is great. As retardation is a condition affecting our
 schools to some extent, so too the eliminating, or falling out of
@@ -539,6 +554,7 @@ The general tendency of American cities is to carry all of these
 children through the fifth grade, to take one-half of them to the
 eighth grade, and one in three through the high school."
 It will be interesting to study in the following table the membership of the various grades reported in the Nebraska investigation :
+
 TABLE IV.
 AGGREGATE GRADE DISTRIBUTION OF 96 TOWNS IN NEBRASKA.
 Grade Membership
@@ -561,9 +577,6 @@ Carolina in 1906, 77 per cent; in Tennessee the same year it was
 Nebraska is holding her pupils better than many other places.
 The question immediately presents itself as to what causes this
 difference, and as Dr Ayres11 points out, we are likely to say
-10 Ayres: Laggards in Our Schools, p. 14.
-u Ibid : p. 21.
-RETARDATION IN NEBRASKA. 191
 immediately that it is caused by the pupils having left school.
 This is true in part but only in part. To quote Dr Ayres, "There
 is a certain natural decrease in the number of children with
@@ -576,6 +589,7 @@ of seven, each older generation is smaller than the preceding.
 . . These two elements?that of death and that of increased
 age of each succeeding generation?contribute to form the factor
 of population."
+
 Again many pupils fail to be promoted regularly from grade
 to grade, and are left behind to repeat their work. This is the
 factor of retardation, and is one of the causes for the difference in
@@ -593,20 +607,19 @@ and irregular, and their influence is undoubtedly compensatory to
 a certain extent in their action. On the other hand, the three
 factors of population, retardation, and elimination are always at
 work.
+
 The difference between the enrolment of the eighth grade
 and that of the first grade in Nebraska seems to be much less
 than in other places, yet there is plenty of retardation, even though
 Nebraska does seem to hold her pupils well through the entire
 elementary school.
+
 It certainly is a fact of significance to Nebraska school people,
 that 28.5 per cent of the boys and girls in their schools are retarded.
 It presents a question for solution to every school man (and
 woman) who has his profession at heart and wishes to do for his
 pupils what he can. The fact that many of the pupils are repeating their work is very evident. Since it is the almost universal
-rule in Nebraska that parents start their children to school when
-]3 Ayres: Laggards in Our Schools, p. 22.
-192 THE PSYCHOLOGICAL CLINIC.
-they are six 01* perhaps more often when only five, it can plainly
+rule in Nebraska that parents start their children to school when they are six 01* perhaps more often when only five, it can plainly
 be seen that a child may repeat one to two years and yet not be
 counted retarded by the age-grade standard. Suppose we take
 a new standard for the normal age and say that all who are past
@@ -614,6 +627,7 @@ seven years old for the first grade, eight for the second grade, and
 so on, are over-age or retarded, we will then find in this investigation that there are 56.2 per cent retarded. If "retardation" is to
 mean the "repeater," this standard more nearly shows the true
 situation.
+
 The following table shows the per cent of retardation (Ayres
 standard) and enrolment in the grades of twenty-five representative towns and cities in Nebraska:
 TABLE V.
@@ -816,17 +830,19 @@ IS 10
 41
 35
 293
-RETARDATION IN NEBRASKA. 195
+
 From a study of table V it will be seen that the percentage
 of retardation varies greatly among different places. For example,
 Fairmont has only 16 per cent retarded while Broken Bow has
 45 per cent, with the others ranging all along between these two
 extremes.
+
 It would be very interesting to know what causes so much
 difference. There seems to be no connection between the percentage of retardation and the size of the school. The small schools
 may run high or low in percentage of over-age pupils and so may
 the larger ones. This shows that we must look elsewhere for our
 causes of retardation.
+
 Asking one hundred and seven school superintendents why
 so many pupils failed to finish the eight grades of our public
 schools, about 290 different reasons were received, most of the men
@@ -845,6 +861,7 @@ is properly trained and that our courses of study are right. Of
 course there are many other causes for these retarded conditions
 that the school cannot overcome, and in which the school has
 nothing whatever to say.
+
 There are plainly two sides to the matter. The school must
 be held responsible for one part, and society for the other. It then
 becomes the duty of the school to care for its own part directly,
@@ -854,13 +871,13 @@ with another very serious one, that of elimination. This has been
 mentioned above as one of the three chief factors affecting grade
 distribution. This is true, primarily, because repetition and
 retardation are almost always found side by side. In fact, most
-196 THE PSYCHOLOGICAL CLINIC.
 of our retardation in Nebraska is caused by pupils repeating their
 grades, no matter what may cause the repetition. Repetition soon
 results in elimination; because when the pupil finds himself older
 than the other members of his grade, and sees himself nearing his
 fourteenth birthday and not yet, perhaps, in the eighth grade, he
 is going to quit the school for the farm, the shop, or the street.
+
 TABLE x.
 THE 270 ANSWERS HUN AS FOLLOWS:
 1. Eagerness to earn money : ? 27
@@ -917,6 +934,7 @@ ig :::::::::  ?<?
 19   7
 20   2
 Total   25,449
+
 A study of the age distribution in the above table shows that
 there is a gradual increase up to the ages of 8 to 10, reaching the
 maximum at 10 years. This shows that there are a considerable
@@ -925,6 +943,7 @@ number of pupils repeating their work along about the ages from
 after the age of 13. Dr Ayres says,13 "Comparatively few pupils
 will remain in the school after the age of fourteen." The following table of Ayres14 shows the age distribution of 58 cities reduced
 to relative terms:
+
 TABLE XII.
 DECLINE IN ATTENDANCE.
 AGES 10 TO 16 YEARS. RELATIVE FIGURES.

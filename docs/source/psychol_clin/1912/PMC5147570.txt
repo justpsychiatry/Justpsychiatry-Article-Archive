@@ -4,11 +4,10 @@ The Binet-Simon Scale AjSid the psychologist
 The Psychological Clinic
 Copyright, 1912, by Lightner Witmer, Editor.
 Vol. V, No. 8. January 15, 1912.
-j
-
-By Clara Harrison Town, Ph.D.,
+:Author: Clara Harrison Town, Ph.D.,
 Director of the Laboratory of Clinical Psychology, Lincoln State
 School and Colony.
+
 The great publicity which has been given the Binet Scale has
 laid upon psychologists a serious and perhaps unexpecte r.e^
 sibility. A peculiar situation has developed. A psyc o oeis
@@ -36,7 +35,6 @@ Slty we apparently open the door to t e ar 1 examination
 method of all precision, but this is on y app ? p^oniinations
 will always hi much superior to the ordinary rding
 because it has several advantages over them,
-240 THE PSYCHOLOGICAL CLINIC.
 to an invariable plan, it takes the age into express account, and
 it notes the answers and compares them with a norm which is a
 true mean. If, in spite of all this precision, we recognize that it
@@ -45,6 +43,7 @@ its value diminished by this reservation. The microscope and the
 graphic method are admirable methods of precision, but what intelligence, circumspection, erudition, and art are essential to the practice of these methods! Imagine the value of observations made
 with the microscope by an ignoramus scarcely better than an
 imbecile. We have seen examples which caused a shudder.
+
 "The idea that a method of examination can be made precise
 enough to be trusted to everyone must be abandoned; all scientific
 procedure is but an instrument which requires the direction of
@@ -65,8 +64,10 @@ to secure, to interpret, and to estimate at its true value. The
 system of marking, which we present, should be used only as an
 aid to the memory and to facilitate the grouping of the elements,
 the synthesis of which exists only in our own minds.
+
 "It is with the privilege of these reservations that we explain
-the following system of marking: . .
+the following system of marking:
+
 Unfortunately the American public has not read these
 paragraphs, and the result which is threatening is a wholesale use
 of the Scale in an unscientific manner, which will do nothing but
@@ -77,7 +78,6 @@ the schools, the diagnosis and classification of abnormal children,
 the arrangement of school curricula, and in the courts of law.
 The Scale has suddenly become very popular. It is at the
 same time being subjected to much adverse criticism, and many
-BINET SCALE AND THE PSYCHOLOGIST. 241
 men are engaged in improving it. M. Binet also predicted this.
 He says: "These tests are not the first of which we thought, we
 have decided on these after long trial; they seem to us both good
@@ -87,6 +87,7 @@ In April of this year he partially fulfilled his own prediction,
 publishing a revised series of tests in which he himself eliminated
 all the tests involving reading and writing which occurred earlier
 in the series than the twelve-year group.
+
 Dr Ayres, in his critique of the Scale in the November number of The Psychological Clinic, groups the tests in several
 categories corresponding to the several abilities which he considers
 they test. It is interesting to compare with this analysis the
@@ -116,7 +117,7 @@ phrases, the correct drawing of the figure produced by cutting the
 folded square of paper, the arrangement of weights and the interpretation of pictures. It is interesting that these tests enable one,
 when the need arises, to distinguish between the ability to learn at
 school and a good native intelligence.
-242 THE PSYCHOLO GIGAL CLINIC.
+
 "It remains to make a distinction between two kinds of intelligence . . . the maturity of intelligence and the accuracy of
 intelligence. An intelligence which is not ripe is an infantile
 intelligence; an intelligence ripe before its time is called precocious. Maturity consists in part in a development of the abilities of comprehension and judgment, at least that is possible,?
@@ -144,13 +145,13 @@ but the sentence did not make sense?there was maturity without
 accuracy. Another, a man of twenty-four, a veritable fool according to his friends, gave an interpretation of a picture, but a
 remarkably false one. The interpretation shows maturity, the
 making of gross errors shows lack of accuracy."
+
 The object of this paper is fulfilled now that I have given
 in his own words, though not in full, M. Binet's estimate and interpretation of his Scale. Dr Ayres' article, however, suggests a few
 further observations. The first is that his wholo critique is based
 upon the 1908 series of tests, which has since been rovised and
 greatly altered by Binet himself. Some of the tests criticised by
 Dr Ayres for their difficulty have been transferred from the thirteen year group to a new adult group.
-BINET SCALE AND THE PSYCHOLOGIST. 243
 The second is that Dr Ayres' method of estimating the
 emphasis laid upon any one ability by the number of tests devoted
 to it is hardly in accordance with the character of the Scale. For
@@ -169,6 +170,7 @@ this clearly in the mental age indicated by the responses, but they
 are not adapted to any numerical evaluation based upon a given
 value for each test, because in such case credit is given for the same
 ability several times.
+
 Next there is a word to be said for the test which requires the
 child to count backward from twenty. It is one of those tests
 which depend jointly upon acquired knowledge and intellectual
@@ -188,7 +190,6 @@ the diagonal and asks the child to describe the resulting shape if
 ?ne of the triangles were turned about and placed so that its short,
 ]eg was on the other liypothenuse and its right angle at the smaller
 of the two acute angles. So far the writer has failed to find any
-244 THE PSYCHOLO OICAL CLINIC.
 one able to describe the resulting shape." In the original the subject is not asked to describe the shape; the directions for making
 the tests are as follows: "Place the two pieces of card on a sheet
 of paper in the original position. Say to the subject?Look well
@@ -201,6 +202,7 @@ pleasure and honor. The original is pleasure and happiness; the
 point is lost entirely when honor is substituted. In the 1911 version of the Scale this pair of terms is omitted and laziness and
 idleness substituted?the whole test being transferred to the adult
 group.
+
 The Scale is published in compact form in the Bulletin de la
 Societc Libre pour I'Etude Psycliologique de I'Enfant, April,
 1911. The last paragraph of this final article of Binet's is significant: "A last word to those persons who desire to employ the

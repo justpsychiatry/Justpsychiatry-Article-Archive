@@ -1,24 +1,27 @@
 Progress of the Repeaters of the Class f 1912 of the Public Schools of Washington, D. C
 =========================================================================================
 
-By Katiierine IT. Bevard,
+:Author: Katiierine IT. Bevard,
 Principal of the Ross School, Washington, D. C.
 This study was undertaken with the purpose of ascertaining to
 what extent the eighth grade pupils of 1912 in the Washington
 Public Schools had repeated grades in their progress through the
 schools, in which grades the repeating occurred, and what the causes
 of the repeating were.
+
 By means of printed blanks, Dr William M. Davidson, the
 superintendent of public schools, collected the data for the study
 just before the mid-year promotions of February 1, 1912, at which
 time there were enrolled in the eighth grade 3243 children of whom
 2433 were white and 810 colored (tables 8 and 9).
+
 The printed blanks consisted of a "Pupil's Sheet" for every
 pupil who had ever skipped or repeated a grade, and a "Teacher's
 Sheet" on which the teacher condensed the information contained
 on the pupils' sheets. Both sets of papers were then collected by the
 supervising principals and sent to the superintendent's office.
 The "Pupil's Sheet" called for the following date:
+
 1.. Name.
 2. Sex.
 3. Date of birth.
@@ -33,8 +36,7 @@ The results of the investigation have been tabulated in sections
 representing the nine white and the four colored divisions of the public
 schools. Seven tables were prepared for each of the thirteen divisions,
 the totals of which were used in making the. nineteen tables in the following summary.
-(08)
-PROGRESS OF REPEATERS. (39
+
 COMPARISON BY GRADES OF REPEATING AND ITS CAUSES.
 8B.
 8A.
@@ -74,11 +76,13 @@ Boys Girls Total
 9
 11
 4G7
+
 CAUSES OF REPEATING
 Grades Repeated
 Illness or
 Physical Defect
 Boys Girls | Total Boys Girls Total
+
 27
 1439
 143
@@ -158,11 +162,13 @@ G74
 53
 53
 55
+
 Change of Schools
 Boys Girls Total
 115
 Poor Attendance
 Boys Girls Total
+
 116
 8.1%
 231 i 80
@@ -266,7 +272,7 @@ Boys Girls Total
 4
 13
 13
-70 THE PSYCHOLOGICAL CLINIC.
+
 COMPARISON BY GRADES OF REPEATING AND ITS CAUSES.
 Totals.
 SB...
@@ -481,8 +487,9 @@ Boys Girls Total
 18
 5.3%
 33
-PROGRESS OF REPEATERS. 71
+
 The Amount of Repeating.
+
 Tables 1 and 2 show that 2825 grades had been repeated in the
 white schools and G17 in the colored, a total of 3442 half-year grades.
 Including the grades to be repeated by the 452 white pupils and 65
@@ -490,15 +497,18 @@ colored who were not promoted February 1, 1912 (tables 3 and 4),
 the total number of repeated grades is increased to 3959 (tables 5
 and 6). This gives an average of 1.2 grades per pupil enrolled, and
 2 grades per repeater.
+
 In the white schools 112 repeaters skipped one or more grades
 (table 3), and in the colored schools 20 repeaters skipped grades
 (table 4).
+
 Including pupils who were not promoted February 1, 1912,
 there were 1521 repeaters in the white schools and 387 in the colored,
 a total of 1908 (tables 8 and 9), or 58.8 per cent of all the eighth grade
 pupils. Of the 2433 white pupils and 810 colored pupils enrolled,
 02.5 per cent of the former and 47.7 per cent of the latter are repeaters
 (tables 8 and 9).
+
 It should be remembered that these children are not typical of
 the school population as a whole, for the reason that they are survivors. The less successful ones drop out before reaching the
 eighth grade. It is also to be noted that G7.3 per cent of the white
@@ -511,13 +521,15 @@ but 25.9 per cent of these pupils were not to be promoted February
 1, 1912; 31.2 per cent repeated two grades, but 20.7 per cent were
 not to be promoted; 13.8 per cent repeated three grades, but 31.9
 per cent were not to be promoted (table 5).
+
 In the colored schools, 47.5 per cent repeated only one grade,
 but 15.2 per cent were not to be promoted February 1, 1912; 35.6
 per cent repeated two grades, but 5.7 per cent were not to be promoted
 (table 6).
+
 The greatest number of grades repeated by a white pupil is
 eleven; by a colored pupil, seven (tables 5 and 6).
-72 THE PSYCHOLOGICAL CLINIC.
+
 COMPARISON OF SKIPPING AND REPEATING.
 TABLE 3. WHITE SCHOOLS.
 1st.
@@ -867,7 +879,7 @@ Feb.,1912
 46.5%
 ISO
 65
-PROGRESS OF REPEATERS. 73
+
 REPEATING OF INDIVIDUALS.
 TABLE 5. WHITE SCHOOLS.
 No. of Pupils
@@ -1113,7 +1125,6 @@ v 99 155 254 57 76 133
 112 20 who have both skipped and repeated.
 95 23 who were not promoted for the first time Feb. 1, 1912.
 1521 387 Totals.
-PROGRESS OF REPEATERS. 75
 COMPARISON OF THE SEXES.
 TABLE 8. WHITE SCHOOLS.
 Girls.
@@ -1213,6 +1224,7 @@ Ratings
 91 or 25. %
 204 or 56. %
 1184 or 62.6%
+
 As would be expected, many of the repeaters are over age;
 66.4 per cent of the white pupils and 65.5 per cent of the colored are
 over 15 years of age (table 7). The oldest white pupil is 20 years old;
@@ -1229,7 +1241,7 @@ excellent, 24.6 per cent good, and 38.2 per cent fair (tables 10 and 11).
 In the colored schools, 55.9 per cent have "passing" ratings;
 that is, 1.9 per cent are excellent, 21.1 per cent good, 32.9 per cent
 fair.
-70 THE PSYCHOLOGICAL CLINIC.
+
 REPEATERS' SCHOLARSHIP RATINGS FEB. 1, 1912.*
 TABLE 10. WHITE SCHOOLS.
 Division
@@ -1593,6 +1605,7 @@ O
 10
 23
 28 ; 51
+
 * Non-promotions of Feb. 1, 1012, not included.
 PROGRESS OF REPEATERS. 77
 REPEATERS' SCHOLARSHIP RATINGS FEB. 1, 1912.*
@@ -1757,9 +1770,10 @@ IS
 63
 91
 25%
+
 Non-promotions of Feb. 1, 1912 not included.
-78 THE PSYCHOLOGICAL CLINIC.
 Where the Repeating Occurred.
+
 Table 1 shows the greatest number of grades repeated to be in
 8A in the white schools and 7B in the colored. Had this study been
 made in June instead of February, undoubtedly the greatest number
@@ -1769,6 +1783,7 @@ to be made. The per cent of 8B white pupils not promoted February
 1, 1912, is 28.G per cent; the per cent of 8A's is only 13.8 per cent.
 In/the colored schools 20 per cent of 8B's and G per cent of 8A's were
 not promoted.
+
 COMPARISON OF THE SKIPPING AND REPEATING.
 TABLE 12.
 Grade
@@ -1781,6 +1796,7 @@ Grade
 2d...,
 1st. . .
 Total.
+
 PER CENT OF GRADES SKIPPED
 White Schools
 B Grade A Grade
@@ -1857,6 +1873,7 @@ b.b
 8.1
 53.5
 45.7
+
 The least number of grades repeated in the white schools is in
 2A (tables 1 and 12). As is true in other school systems, the "sticking point" seems to be in the sixth grade where the children begin
 to fail in large numbers. It will be noticed also that the total number
@@ -1868,7 +1885,7 @@ The total per cent of B grades repeated in the white schools is
 51.3 per cent; the total per cent of B grades skipped is 48.9 per cent.
 In the colored schools the per cent of B grades repeated is 53.5 per
 cent; B grades skipped, 53.6 per cent (table 12).
-PROGRESS OF REPEATERS. 79
+
 COMPARISON BY SCHOOL DIVISIONS OF THE REPEATING AND ITS CAUSES.
 TABLE 13. WHITE SCHOOLS.
 Grades Skipped
@@ -2358,6 +2375,7 @@ Excess
 121 9 I 112
 47 j 139
 43 I 12S
+
 Tables 15 and 1G (also tables 13 and 14) give a classification of
 grades repeated by school divisions. By showing the normal number
 of grades the children should have completed to get to the eighth
@@ -2365,7 +2383,7 @@ grade, crediting each school with the grades skipped, debiting the
 grades repeated, the net excess of grades above the normal number is
 shown to be 2358 in the white schools and 498 in the colored, a total
 of 2856 grades.
-PROGRESS OF REPEATERS. 81
+
 CAUSES OF REPEATING.
 TABLE 17. WHITE SCHOOLS.
 Per cent
@@ -2713,8 +2731,9 @@ repeating
 13
 231
 16.1%
-PROGRESS OF REPEATERS. 83
+
 Causes of Repeating.
+
 The causes of the repeating have been tabulated under the following headings: Illness or Physical Defect, Change of Schools,
 Poor Attendance, Failure in Studies, and Other Causes.
 In both the white and the colored schools, the causes of the
@@ -2731,21 +2750,25 @@ white schools is due to change of schools; 15.7 per cent of the grades
 repeated in 5A are credited to this cause (table 17); 16.1 per cent
 of the white repeaters report change of schools as the cause of their
 repeating (table 19).
+
 In the third school division with an enrolment of 328 eighth
 grade pupils, 108 children attended 28 private and 114 other public
 schools, a total of 142 other schools. Fourteen attended both private
 and other public schools. Fifty give change of schools as cause of
 repeating (table 19).
+
 The second school division with an enrolment of 366 eighth grade
 pupils reports 126 children as having attended 52 private and 92 other
 public schools, a total of 144 other schools. Ten children attended
 both private and other public schools. Twenty-four give change of
 schools as cause of repeating.
+
 Of the total number of repeaters (1426), 479 or 33.5 per cent
 attended other public schools; 228 or 15.9 per cent attended private
 schools; 62 or 4.3 per cent attended both public and private schools.
 A few of the repeaters attended the public schools of as many as seven
 different cities.
+
 These 479 repeaters attended 635 other public schools located
 in 38 states and 12 other countries. In 34 cases the location of the
 school was not given, so that there is reason to think that nearly

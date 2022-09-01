@@ -4,15 +4,15 @@ Age and Progress Iist a New York City School
 The Psychological Clinic
 Copyright, 1913, by Lightner Witmer, Editor.
 Vol. VI, No. 8 January 15, 1913
-' '  y
+:Author: William E. Grady,
 
-By William E. Grady,
 Principal Public School Number 61+, Manhattan, New York City.
 One can hardly face the problems presented by many of the
 large New York City schools without being convinced that in many
 respects these problems are unique, and that scant justice is done
 to those in control, if the efficiency of the schools is measured absolutely by standards obtained through investigations in cities with
 a radically different type of population.
+
 I have been much interested in the recent discussions of school
 efficiency, as gauged by the factors of overage and retardation.
 The data contained in this article were collected in order to ascertain conditions in a particular New York City school that is considered sufficiently typical of schools with a large per cent of foreign-born pupils to warrant confidence in results obtained. In
@@ -20,6 +20,7 @@ order that the tabulation of age and progress may have full significance, a brie
 and secondly of the local conditions, showing how radically our
 school population differs from that of many inland cities in which
 native English-speaking stock still predominates.
+
 Within the past ten years ISTew York City's population has
 undergone a marked change as regards its composition. The mere
 increase in size is secondary to the change in the character of the
@@ -69,15 +70,16 @@ in the years 1900-1910 to the extent of 197,084 people.
 3?The population of immediate German ancestry decreased
 almost as much as the Irish, English, Welsh, Scotch,
 Canadians and other British put together.
-A NEW YORK CITY SCHOOL. 211
 4?While New York's population of northwestern European
 birth or parentage decreased, the population of Scandinavian parentage in New York was the only northwestern European group that made any substantial
 increase in the decade.
+
 5?The increase of Russian, Polish and Finnish parentage
 exceeded the whole loss from British and northwestern
 European sources. The gain in people of Italian parentage was 302,604, or more than the whole population of
 Genoa; while the population of Austro-Hungarian parentage increased to the extent of 234,842, or more than
 the whole population of Prague.
+
 6?In terms of percentage, the population of New York in
 1910 was 15.72 per cent British, 15.19 per cent of Russian birth or parentage, 12.74 per cent German, 11.16
 per cent Italian, 8.35 per cent Hungarian, 1.97 per cent
@@ -85,6 +87,7 @@ Scandinavian, 13.49 per cent of mixed foreign or mixed
 native parentage, 19.33 per cent native whites of native
 parentage, 1.92 per cent negro and .13 per cent
 "colored".
+
 7?In the classification of the mother tongue of people born
 in Russia, the Census Office found such an overwhelming
 number who gave Yiddish as the mother tongue, that
@@ -137,7 +140,7 @@ Russian   23
 English   24
 Irish  29
 Italian  36
-A NEW YORK CITY SCHOOL. 213
+
 But do these figures measure fully the amount of retardation
 due to language, racial traits, etc., of foreign-born children ? The
 span of school life of such children is relatively short. They pour
@@ -157,6 +160,7 @@ amount of work in the sequential subjects, would tend to place
 pupils in grades which frequently are no real index of the scholastic
 attainments that one could reasonably demand under a maximum
 uniform course of study.
+
 The following tabulation gives a more intimate view of the
 composition of the school population under discussion. The data
 were collected originally in relation to the problem of teaching
@@ -173,9 +177,9 @@ obtained, the tabulation on the following page was made. It was
 assumed that the three factors investigated?namely foreign birth,
 foreign tongue spoken by parent, and the study of Hebrew?were
 detrimental to a mastery of English.
+
 Inasmuch as not only the nationality of the school population, but also the size and complexity of the school organization,
 as well as the grading scheme in use in the school under discussion are vital to any interpretation of age and progress data, it
-214 THE PSYCHOLOGICAL CLINIC.
 TABLE IV.
 Schools?P. S. No. 15, P. S. No. 20, P. S. No. 64 and P. S. No. 188 (Girls).
 Grades?3d through 8th years, both sexes.
@@ -280,12 +284,15 @@ Ungraded I.... 1 11 .4
 Ungraded II. . 1 9 .3
 Totals   ? 2   20 ? .7
 Grand totals. . 76 3090 100.
+
 (b) Grading:
 The grading scheme may be briefly summarized as
 follows:
+
 Atypical children, after proper medical examination are segregated to form two ungraded classes.
 Immigrant children who cannot speak English
 form the two C or foreign classes.
+
 Overage foreign children of the various grades, usually late entrants handicapped by an inadequate lan216 THE PSYCHOLOGICAL CLINIC.
 guage equipment, are segregated to form the E classes,
 one in each year from the second through the sixth.
@@ -297,6 +304,7 @@ the class as long as they sustain themselves. If they
 fail to maintain the high standard of proficiency set
 by the group, they are replaced by more capable
 pupils.
+
 A unit class in each grade is formed of the oldest
 pupils in the grade, the grouping being made on the
 basis of chronological age in the first four years and on
@@ -304,12 +312,15 @@ the basis of physiological age in the fifth, sixth, seventh and eighth years. Th
 Ward Crampton,* Director of Physical Training, and
 is made on the basis of such external signs as height,
 weight, hair, teeth, voice.
+
 The remaining group of normal average children
 form the remaining classes in a given grade.
 To illustrate, the seven classes forming the last
 half of the fifth year during this current term are
 as follows:
+
 5B1?Adolescent class.
+
 5B2?Bright class doing more intensive and more
 extensive work than the average class, but not
 necessarily covering a grade's work in two
@@ -319,19 +330,22 @@ constituted are fitted not for the slow child
 or to the average child, but to the unusually
 bright one" (Laggards in Our Schools,
 page 5).
+
 5B3-5B6?Average classes.
+
 E5B?Theoretically, a rapid advancement class devoting double time to sequential subjects of
 number and language, but practically made
 up of retarded overage pupils preparing to
 qualify to receive work certificates issued by
 the Board of Health.
+
 *8ee Crampton, C. Ward. Influence of Physiological Age upon Scholarship.
 TnE Psychological Clinic, Vol. I, p. 115.
-A NEW YORK CITY SCHOOL. 217
 The controlling idea in the foregoing grading scheme is
 homogeneity of the class group.
 The form used to ascertain the age and progress of the pupils
 was suggested by the Bureau of Municipal Research of this city.
+
 TABLE VII.
 FORM 1. AGE AND PROGRESS CHART. CLASS 5A2. SEPTEMBER, 1912.
 a <=?
@@ -365,9 +379,10 @@ $
 6
 4
 49
+
 The pairs of double-ruled lines indicating normal school age
 and normal chronological age for a particular grade occupy different positions for each grade as in the schedule given below.
-218 THE PSYCHOLOGICAL CLINIC.
+
 TABLE VIII.
 Grade Horizontal Vertical Grade Horizontal Vertical
 1A 0 6 to ey2 5 A 4 10 to ioy2
@@ -380,6 +395,7 @@ IB i/2 61/2 to 7 5B 4i/2 10y2 to 11
 4B 31/2 91/2 to 10 8B 7i/2 131/2 to 14
 A tabulation of the data obtained on the basis of such forms
 follows:
+
 TABLE IX?AGE AND PROGRESS.
 Public School jSTo. 64, Manhattan (3002 boys).
 Age Pbogress
@@ -402,6 +418,7 @@ lli/2-12 6B 12 21 175 81 31 96
 13y2-14 8B 16 28 84 75 30 23
 Totals   202 617 2183 926 944 1132
 (3002) (3002)
+
 Group includes E Specials but excludes Kindergarten, C and Ungraded classes.
 TABLE X?SUMMARY OF PRECEDING TABLE BY PERCENTAGES.
 Age
@@ -411,7 +428,6 @@ Progress... j Normal   2.2 14.2 15 31.4
 [ Loss  8 3.0 34 37.8
 Totals   6.7 20.5 72.8 100
 ?Age limits used in form suggested by Bureau of Municipal Research.
-A NEW YORK CITY SCHOOL. 219
 That the conditions shown by the foregoing figures are probably typical of schools dealing with the immigrant child in the
 congested area of the lower east side, is suggested by the figures
 obtained in a similar investigation conducted by Mr. Anthony
@@ -462,6 +478,7 @@ Progress \ Normal 18.2 (21) 8.1 (21) 5.1 (10) 31.4 (52)
 Totals. 40.5 (29) 20.0 (34) 39.5 (37) 100
 Figures in parentheses were those obtained by Ayres in the investigation
 referred to.
+
 Conclusions:
 (a) If foreign birth, late arrival in this country, late entrance
 into school, inadequate language equipment, etc., are factors 2^inducing retardation, and if it be granted that the group investigated
@@ -481,23 +498,26 @@ lost time than has been the case in the average city schools investigated ; that
 that over-age pupils are not necessarily an additional expense to
 the educational system, although their late entrance into the wage
 earning class may be an economic loss.
+
 (b) There is urgent need of the general adoption of definite
-A NEW YORK CITY SCHOOL. 221
 age-grade limits to be used in making such investigations. As far
 as possible these age-grade limits should be based upon such age
 limits as are fixed by compulsory education laws, on "legal" limits
 set by City Superintendent William H. Maxwell and the "ideal"
 limits set by the Bureau of Municipal Research.
+
 (c) That the use of the age-progress sheet, before and after
 promotions, gives the teacher and the supervisor specific information helpful in insuring the proper redistribution of classes and
 for critically examining the new classes, and on the basis of such
 investigation of the cases of extreme over-age or retardation
 making a redistribution of such pupils to classes for which they
 are fit.
+
 (d) That such annual or semi-annual analyses of conditions
 would probably be the basis of increased confidence in the effectiveness of our work.
 In concluding I wish to quote the words of Superintendent
 Maxwell:?
+
 "But economic perils and racial differences are the teachers'
 opportunity. Here in this country are gathered the sons and
 daughters of all nations. Ours is the task, not merely of teaching

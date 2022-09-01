@@ -1,8 +1,9 @@
 The Physical Status of the Special Class for Bright Children at the University of Pennsylvania, Summer Session of 1912
 ========================================================================================================================
 
-By Harrison L. Harley,
+ :Author:  Harrison L. Harley,
 Assistant in Psychology, University of Pennsylvania.
+
 After a selection of bright children from the schools of the district in which the University is located had been made by the Social
 Service Department of the Laboratory of Psychology, the children
 reported to the Psychological Clinic for physical and mental tests
@@ -11,6 +12,7 @@ were taken at this time, and certain other data were secured, such as
 general physical condition, stigmata, abnormalities, and mental age
 as determined by the Binet tests, all of which were entered upon
 the clinical records of the department.
+
 The first interesting comparison is that of weight at the time
 of the first examination, made between April 26th and May 24th,
 and weight on July 1st. Of the children examined two did not
@@ -22,6 +24,7 @@ the weight in these two cases and causing it to remain stationary
 in two others. The figures given above will afford a comparison
 in terms of growth of the child's response to his ordinary mode of life
 and schooling and to the life directed by the special class.
+
 A study was accordingly made of the growth of each pupil
 during the six weeks of the summer session in order to determine
 the effects on the pupil of the school luncheons, rest period, gymnastic work, and especial care exercised at school and in the home
@@ -34,8 +37,7 @@ Table A is a record of the weight of the children on July 1st
 and August 8th, and shows the gain in pounds of each pupil for the
 six weeks, as well as the per cent gain in weight. A consideration
 of table A brings forward some significant facts. In the first place,
-(20)
-PHYSICAL STATUS OF BRIGHT CHILDREN. 21
+
 TABLE A.
 SHOWING GAIN IN WEIGHT DUKING SESSION.
 Child.
@@ -146,6 +148,7 @@ XI. Aet. 10
 0.91 kg.
 2.66
 No Gain.
+
 * Weight taken on entering school.
 the work of the class was in no way deleterious to the health of the
 pupils; and secondly, in spite of academic work, confinement indoors,
@@ -153,6 +156,7 @@ and the general tendency of July and August weather to lessen
 weight in children or at least cause it to remain unchanged, an appreciable gain in weight was registered for every pupil except one, and
 in some cases the gain was remarkably large. Particularly encouraging are those cases in which an increase in stature was also found,
 for in such instances a better bodily growth occurred.
+
 The average increase in weight for the boys and girls of the class
 was 7 per cent. Table A records in the case of several individuals
 gains in weight ranging from about 7 per cent to about 12 per cent.
@@ -161,8 +165,6 @@ as recorded in such tables as are available for comparison, as, for
 example, Dr Hartwell's,1 the per cent gains of table A may seem
 exceedingly large. Several conditions must be borne in mind, however. In the first place, growth shows a marked periodicity, and
 it is possible that the conditions of the school favored in certain
-'See Tanner, Amy. The Child, p. 26. Chicago, 1909.
-22 THE PSYCHOLOGICAL CLINIC.
 cases the rapid increase in weight for the season under observation.
 Secondly, school children are particularly inclined to show great
 variations owing to the extent to which exercise is indulged in at various seasons. In this case, the period between the closing of the
@@ -190,6 +192,7 @@ pupils in the form of rest, luncheon, and so forth, will interest those
 persons concerned in the socialization of the schools. The school
 luncheon and rest period received during the summer session a
 thorough and typical, if not extended, trial.
+
 Thirdly, the data given above and more in detail in table B
 possess some anthropometric value, but no research beyond the
 correlation of height and weight to age has been attempted.
@@ -198,7 +201,7 @@ school are that where due attention is given to such matters as diet,
 rest, exercise, home surroundings, and physical conditions (teeth,
 eyes, throat, and so forth), the life of the school may foster physical
 improvement and well-being, as it has been made to serve the purposes of intellectual progress.
-PHYSICAL STATUS OF BRIGHT CHILDREN. 23
+
 Child.
 Actual
 Age

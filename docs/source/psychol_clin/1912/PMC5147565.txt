@@ -1,8 +1,9 @@
 A New Method for Determining Rate of Progress M A Small School System
 ======================================================================
 
-By Nobman Cameron, Ph.D., ^
+:Author: Nobman Cameron, Ph.D., ^
 West Chester, Pa.
+
 Almost all of the articles appearing within the past few
 years 011 retardation and elimination have been based upon a study
 o arge school systems, because, in the first place, city systems
@@ -12,6 +13,7 @@ arge masses of statistics preclude the erroneous conclusions which
 individual pupil in a small school system, and to ascertain
 accurately the vital statistics necessary to define the true state of
 affairs.
+
 The present investigation was undertaken with five purposes in view:
 !? To find out the actual conditions existing in a small
 school system over a number of years;
@@ -19,11 +21,13 @@ school system over a number of years;
 elimination of pupils by following their progress
 from the day they entered school until the day they
 finally left it;
+
 3. To draw a valid contrast between the number beginning
 and the number leaving school;
 4. To compare actual with hypothetical results; and,
 5. To make such suggestions as may help in ameliorating
 the conditions which are found to exist.
+
 The facts have been obtained largely from the reports of the
 ^'hite schools of Elkton, Maryland, and through the cooperation
 of many teachers and students in the schools and of friends outside it was possible to obtain much valuable data which the reports
@@ -34,10 +38,9 @@ connected with the schools. The facts are considered under two
 heads: (1) the elementary and high school history of 295 males
 and females during the years 1891-1892 to 1908-9, inclusive;
 and (2) the progress of pupils (1514 in all) in the elementary
-(251)
-252 THE PSYCHOLOGICAL CLINIC.
 and high schools for eleven years, from 1898-9 to 1908-9,
 inclusive.
+
 The town in question is a small county seat. Its population
 has remained about the same for the past twenty years, and the
 few industries and the number of employees have not changed
@@ -59,23 +62,26 @@ spent in the Elkton system are the basis for obtaining his results;
 the rate of progress and retardation is based on a system of units
 of progress; and (4) his measure of the efficiency of a school
 system is new.
+
 The conclusions arrived at in the following pages will not,
 of course, apply in all respects to every city school system. They
 will be indicative, however, of what may be found in communities where conditions are similar to those here prevailing,
 and a knowledge of the facts of retardation, elimination, etc., is
 quite as indispensable in the administration of a small as of a
 large school system.
+
 Retardation.
 At the outset of this discussion it seems necessary to define
 certain terms already in use in the study of school statistics and
 to introduce some others.
+
 There are three classes of pupils who drop out of school:
 (1) those who graduate; (2) those who transfer to other schools;
 ?and (3) those who leave for other causes. It is to this latter class
 that the word elimination usually refers.
+
 The rate of progress for a school means the average progress
 of all pupils through the grades; that is to say, the record of the
-RATE OF PROGRESS. 253
 school system will be a summation upon the records made by the
 individual pupils in it. The movement of a pupil through his
 course may be composed of three elements or forces; (1) a normal
@@ -86,6 +92,7 @@ When a pupil moves faster than the normal rate, i.e. does a unit
 of work in less than the required time, he is said to be accelerated
 in his movement through the grades. This term is properly the
 converse of retarded in its customary meaning.
+
 Among those interested in the work of our public schools
 there is a demand to know not only that a pupil is moving at an
 abnormal rate of speed, but what the rate of that movement is.
@@ -103,6 +110,7 @@ results; that it is unfair to the school because it considers a pupil
 retarded who has entered school late, and because it takes no
 account of a large number of pupils who have advanced faster than
 one grade per year.
+
 In the present study the second point of view (progress
 method) has been accepted principally because it shows the actual
 condition of retardation. At the same time comparisons of results
@@ -115,9 +123,9 @@ impracticable. In the judgment of the writer, it is of great,
 importance in the present state of school records that a method
 approximating as nearly as possible the real conditions, be devised
 for measuring the degree of retardation in our schools. uc a
-254 TEE PSYCHOLOGICAL CLINIC.
 one is herein described. It will show definitely the extent of
 retardation for which the system is responsible.
+
 Since the word retardation, in the second sense, refers to the
 progress of a pupil through the grades, it is necessary that a
 new set of terms be adopted to designate the different degrees of
@@ -144,6 +152,7 @@ he has arrived at any point in his school career. The word
 retardation may still be used as before to denote the condition,
 but without the duty of serving also as the measure of this
 condition.
+
 As stated before it was not possible to secure absolutely complete records, yet 295 pupils were found who had passed their
 whole school life in the Elkton schools and had either dropped
 out or graduated. It is first attempted to show the exact amount
@@ -327,7 +336,7 @@ per cents
 24
 10
 1
-256 TEE PSYCHOLO GICAL CLINIC.
+
 who have started the race of school life together, scattered along
 the course, further and further apart with the passing of each
 year. In the eighth year eighteen are beginning another lap
@@ -341,6 +350,7 @@ but finishes with the other seven on account of the shorter course.
 What has become of the other 287 in these eleven years ? Two
 hundred and forty-two have dropped out and the remaining fortyfive are found in all the grades from the fourth up to and including
 the third year of the high school.
+
 Taking as a basis the number of children in school, about one
 out of ten in the eleventh year of school life has passed through
 the grades without failure, and considering the number of beginners as a basis the ratio is almost one to fifty. Ayres (1) says:
@@ -355,6 +365,7 @@ Of the pupils in school during the eighth year, 45 have failed once;
 six times, an average of 2.5 failures for 192 pupils. Hence,
 the average number of failures is somewhat larger than that found
 by Ayres. " 5
+
 In the same table are given the percentages of the retarded and
 non-retarded for each year according to the progress (exact)
 method and the age-grade method so extensively applied by many
@@ -367,7 +378,6 @@ years the age-grade standard shows a low percentage of retardation, with a gradu
 year, 38 per cent in the fifth year, and 47 per cent the sixth year,
 whereas the actual retardation for these same years based on the
 number of pupils in school was 79, 86, 89 and 91 per cent,
-RATE OF PROGRESS. 257
 respectively. The increase in percentages of retardation, according to the age-grade standard, indicates that the degree of retardation is becoming greater with each added year. Only two of the
 beginners were retarded by this method, and accordingly it is only
 as they lagged behind that they passed over into the retarded class.
@@ -375,6 +385,7 @@ To illustrate the failure of this method to catch the retarded, it
 may be said that while it gives 39 per cent of the pupils of the
 first grade in the third year as retarded, as a matter of fact every
 child in that grade has twice failed of promotion.
+
 Seventy-six per cent of the pupils failed in the first grade
 the first year, which throws light upon the large percentage of
 retarded pupils in the later years. Of the number of pupils who
@@ -389,6 +400,7 @@ since the added year becomes a prolific cause of elimination when
 the child finds himself behind grade in his fourteenth year. From
 the point of view of the school system there may be reasons for
 omitting it.
+
 Passing to the study of retardation among 1514 pupils as
 found in the various grades in eleven years of this same school
 system, one is confronted with the problem of devising a method
@@ -396,6 +408,7 @@ to show the per cent of retardation for each grade during any year
 and the extent to which each pupil is retarded, i. c. the number
 of failures, or units of minus progress made for the time by each
 pupil.
+
 The important thing to know about the child is not how many
 years he is behind the theoretical grade for his age, but (1)
 whether or not he has been retarded in the system in question,
@@ -408,13 +421,13 @@ system for this period of time to show retardation at all.
 Table II gives the per cents retarded for each grade and each
 year. In the first line for each year are the per cents retarded by
 the progress method. The second line contains the per cents
-258 THE PSYCHOLOGICAL CLINIC.
 according to the age-grade method. Owing to the fact that in
 the application of the progress method all pupils who have not
 been present during two years are omitted from the discussion,
 there are no per cents for the year 1898-9 for this method.
 The per cent of retardation increases rapidly from 1899-1900
 when the pupils had been in school only two years to 64 per
+
 TABLE II.
 PERCENTAGES RETARDED BY PROGRESS AND AGE-GRADE METHODS. (1514 PUPILS.)
 (The upper line for each year gives the per cent for the progress method,
@@ -573,7 +586,6 @@ three years, with a rise to G3 per cent in 1908-09. The greatest amount of retar
 grades. Here most of the failures occur, and here is found
 the greatest congestion, which is relieved only by the dropping
 out process that takes place at the ages of twelve, thirteen and
-RATE OF PROGRESS. 259
 fourteen. The first grade shows one hundred per cent retarded
 in each year, due to the fact that the only pupils considered in
 our calculations must have been in school more than one year.
@@ -606,16 +618,17 @@ there seems to be no reasonable doubt, its chief value consisting
 in the fact that it discloses a tendency toward retardation and
 offers a facile method of comparing the percentages of retardation from year to year, and its chief defect being that it fails to
 show the correct extent of that retardation.
+
 According to Ayres' (3) 'list of 33 cities, Elkton by is
 standard of measurement would range from twenty-fourth place
 in 1898-99 to eighth place in 1908-09. There is little doubt that
 the retarding forces were stronger eleven years ago in this town
 than they are to-day, but they are still too potent in the early
 grades for the welfare of the child.
+
 The second fact to be ascertained concerning these pupils
 during eleven years is the degree of retardation, i. e. the relative
 number of units of minus progress made by them. Collectively
-260 THE PSYCHOLO GICAL CLINIC.
 they made 3938 units in all, of which 26 were units of plus
 progress, 937 units of minus progress, and 2975 units of normal
 progress, an average for each pupil of 3.74, .02, .89, and 2.83,
@@ -632,6 +645,7 @@ school directly, we can understand the cause for the disparity in
 percentages of the first and third groups, and between the second
 and third groups. Table I (A) furnishes the same data for the
 295 pupils of each year.
+
 A casual comparison of progress with retardation might lead
 one to believe that the percentages contradict one another. The
 fact is they do not; the former corroborate the latter. What an
@@ -641,7 +655,9 @@ according to the progress method of determining retardation, about
 years will be retarded. This same per cent of units of minus
 (progress in the fifth year of school life would imply a much
 smaller per cent of retardation.
+
 Causes of Retardation.
+
 The one cause of retardation from the point of view of this
 investigation is failure of promotion, and the causes that produce
 these failures are directly responsible for the condition of retardation in schools. It has already been pointed out that a retarded
@@ -653,9 +669,9 @@ having thrust upon it greater responsibility for the social, moral,
 and mental welfare of the child. This does not mean that the
 responsibility of the home is being in any degree lessened, but
 that the state is assuming certain functions that neither of these
-RATE OF PROGRESS. 261
 agencies has exercised in the past, or if they exercised them, did
 so only in a spasmodic way.
+
 By referring to table III it will he seen that the major portion of the failures is in the early grades, 78 per cent of one group
 and 90 per cent of the other being in the first four grades. Comparatively few failures are made in the high school. The largest
 per cents of failures are in the first and third grades. Consequently, we may expect to find the greatest congestion in these two
@@ -701,14 +717,17 @@ s>
 100
 701
 100
+
 outside of Baltimore City for eight out of ten years. (7) Hence
 it is in these lower grades that the retarding forces are most
 potent.
+
 Contributory to the principal cause of retardation are the
 following: irregular attendance, late entrance, leaving before final
 examinations, lack of capacity for work, indifference on the part
 of the pupil, poor teaching, physical defects, too much work and
 many minor causes closely related with those named.
+
 No doubt the most important of these secondary causes is
 irregular attendance. Under this may be included late entrance
 and leaving before examinations. There is naturally supposed to
@@ -718,6 +737,7 @@ districts ten months, in others nine, and in still others eight months,
 more or less, of school. Yet there is great uniformity in the
 quantity of the subjects the pupils are expected to assimilate in
 these different periods of time.
+
 Of the 295 pupils, 38 per cent of the non-promoted and 77
 262 THE PSYCHOLOG1CAL CLINIC.
 of the promoted attended three-fourths time or over. Of the 1051
@@ -756,11 +776,11 @@ into the next class. But the pupils who leave before the final
 examinations at the end of the year have no chance of promotion
 unless they are given special examinations at the beginning of
 the next term, or are promoted on trial.
+
 That too much or too difficult work is an important factor in
 producing retardation admits of no doubt. Two pieces of evidence
 are offered in support of this fact. First, the per cent of failures
 in the third grade is almost twice as large as for the second grade.
-RATE OF PROGRESS. 263
 In the third grade the addition to the content of the course of
 study is much greater in comparison with that made to the second
 or fourth grades. Secondly, the per cent of failures made^ by
@@ -773,6 +793,7 @@ made three-fourths time and failed. Since a larger pei cent^ o
 pupils in the first than in the second high school failed of promotion
 it must be attributed to either too much work, or more stringent
 methods of promotion.
+
 Lack of capacity and lack of application as factors m pro
 dncing retardation are well illustrated among those pupi s w o
 make 90 per cent of attendance and yet fail of promotion. us
@@ -799,17 +820,18 @@ in many cases chargeable to the linintm'^n^Sw^atever produces
 teachers conduct their class-room wo , . school
 absence from school is sufficient cause for failure in
 prom^tion^es ^ ^ ^ a9 ca?ses of retardation,
-264 TEE P8Y0H0L0GICAL CLINIC.
 physical defects in school children, over-crowding, lack of a compulsory attendance law, or the non-enforcement of the same, and
 many others are contributory to slow movement through the grades.
 However, there is no statistical evidence bearing upon the gravity
 of each of these.
+
 Summary on Causes of Retardation.
 Failure of promotion is the prime cause of retardation.
 Failure of promotion is produced by irregular attendance,
 late entrance, early leaving, poor teaching, too much
 school work, lack of capacity, indifference, physical
 defects, etc.
+
 Most of the failures take place in the early grades, between
 TO and 90 per cent before the sixth grade.
 Out of every hundred making three-fourths time from 14
@@ -818,6 +840,7 @@ A relatively larger number of non-promoted pupils in the
 high school than in the elementary school make threefourths time or more.
 Leaving early is one and one-half times as potent as late
 entrance in producing non-promotions.
+
 While poor teaching and lack of capacity and too much school
 work are very important factors in bringing about the
 condition of retardation, their relative effects are hard

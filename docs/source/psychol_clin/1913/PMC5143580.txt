@@ -4,9 +4,9 @@ Curriculum Making
 The Psychological Clinic
 Copyright, 1913, by Lightner Witmer, Editor.
 Vol. VII, No. 3. May 15, 1913.
-
-By William E. Grady,
+:Author: William E. Grady,
 Principal Public School 64. Manhattan, New York City.
+
 The recent volcanic outburst of criticism from expert investigators and intelligent laymen against the New York elementary
 school course of stucty must be rather startling to those pedagogues
 within the system who are fond of assuming that because there is a
@@ -21,6 +21,7 @@ statements, supervisors who cannot be accused of insincerity condone
 educational practices so widely variant that at first glance it would
 be absurd to believe they were acting upon the same controlling
 ideas.
+
 In a recent discussion the following positive statement was offered
 as a criterion for the selection of curriculum material,?"Those
 accumulated habits, experiences, ideals, and standards of the race
@@ -36,8 +37,7 @@ is defective largely because we do not follow an inductive procedure
 which would supply us with scientific data showing just what local
 conditions are. Many of our problems should be discussed not in
 terms of the pupil in school, but in terms of the pupil not in school.
-(57)
-58 THE PSYCHOLOGICAL CLINIC.
+
 TAULK I.
 OCCUPATIONS HAVING MORE THAN 10,000 WORKERS.
 Totals.
@@ -233,6 +233,7 @@ C05
 1,104
 1,074
 1,038
+
 OCCUPATIONS HAVING MORE THAN 500 WORKERS.
 ' I I
 Embroidery | 29 310 62
@@ -278,7 +279,7 @@ Artificial Flowers j 21 161 ! 225
 524
 514
 505
-CURRICULUM MAKING. 59
+
 Tlu; pupil who pusses into and remains in our secondary school frequently because of sheer inertia, is an educational aristocrat whose
 salvation is really of less concern than that of the pupil whose "university training" begins and ends in the elementary school. This
 truth becomes significant when we recall that although this city
@@ -286,6 +287,7 @@ spends approximately $36,000,000 a year on its school system, only
 recently have the educational authorities obtained definite data
 showing the occupation of New York City children between the ages
 of fourteen and eighteen.
+
 On page 58 is a partial tabulation of the data collected by Mr.
 George H. Chatfield, Secretary of the Permanent Census Bureau
 of the City of New York, in an investigation covering 140,000 workers out of a possible maximum of 250,000. Mr. Chatfield adds,
@@ -298,6 +300,7 @@ The knowledge of the critics is no more accurate, and no thoroughgoing reform wi
 these facts together with the amazing conditions revealed by recent
 industrial investigations in this city and in Chicago should give new
 significance to the term, "current social conditions".
+
 If we interpret this statement from a still broader standpoint
 and assume, as statistics show, that farming and housekeeping are
 the two types of occupation in which the bulk of our people are
@@ -315,9 +318,9 @@ in terms of intensive book study may display initiative, sound judgment, and coh
 any of these characteristics in the ordinary but urgent situations of
 the playground, the street, the home, or the occupation. The present
 extension of vocational training marks only the initial stage of pub1 Quarterly Publications of American Statistical Association, Sept., 1912.
-GO THE PSYCHOLOGICAL CLINIC.
 lie appreciation of the point of view long since expounded by Pro
 fessor John Dewey:
+
 "The education of the human race upon the whole has been
 gained through the occupations which it has pursued and developed.
 The vocations, the professions, the lines of activity which have
@@ -337,7 +340,8 @@ conditions and aims of the present; to facts which when classified
 form sociology, economics, civics, and politics. The fine arts are
 naturally included?in short there is nothing of science, history,
 or art which the educational experience has shown to be of worth,
-which an occupational education would not include." 2
+which an occupational education would not include."
+
 There is little scientific basis not only for the content of curricula
 as at present organized, but also for the amount which the average
 pupil is supposed to master before he can graduate or be eligible
@@ -354,6 +358,7 @@ Elementary School Curricula". It shows the curriculum of the
 Public Elementary Schools of New York City for the years
 1808, 1888, 1904, and 1912, and also the percentage of total
 time devoted to each subject in the respective years.
+
 I)<\w \, John. Bearings of Pragmatism on Education. Proyrcssive Journal of Education.
 CURRICULUM MAKING. 01
 TABLE II.
@@ -452,9 +457,11 @@ cent
 18
 5885 49.0 j 19
 (Continued on following page)
+
 02 THE PSYCHOLOGICAL CLINIC.
 TABLE II. (CONTINUED)
 CURRICULUM OF PUBLIC ELEMENTARY SCHOOLS OF NEW YORK CITY, 1868, 1888, 1904, 1912.
+
 Subjects.
 1. Opening Exercises
 2. Physical Training, Physiology.
@@ -692,6 +699,7 @@ cent
 ... 200 1.7
 195 1435 12.0
 I I
+
 Under 1S6S * indicates subject was taught.
 Under 1SSS subjects marked a were included under the subject Grammar.
 Under 1904 subjects marked b were included under the subjects Language-English.
@@ -699,12 +707,14 @@ Under 1912 subjects marked c are included under the subject English.
 Table (or 1S6S compiled from Barnard's American Journal of Education, pages 469-576.
 Table for 1888 compiled from the United States Commissioner's Report 1S8S-1889
 vol. 1, pages 369-411.
+
 Time not specifically assigned for 1868 and 1904 has been marked "unassigned time".
 In calculating percentages the total time devoted to a subject in the eight years' course
 was divided by eight times 1500 or 12,000.
 CURRICULUM MAKING. 03
 Tabulating totals for the purpose of comparison we have the
 following:
+
 1888
 1 ? Opening Exercises
 2. Physical Training, Physiol.
@@ -806,10 +816,12 @@ Per cent.
 4.0
 1.7
 12.0
+
 It is interesting to note the increase in time devoted to music,
 nature study, and manual training if taken to include drawing,
 and the decrease in time devoted to English; more important still,
 note the decrease in the so-called unassigned time.
+
 A reading of our course of study and a comparison of it with
 those of inland cities would not even suggest that New York City
 with its immense foreign population has a unique educational problem differing radically from that of cities in which the bulk of the
@@ -824,13 +836,14 @@ As I stated in my earlier article in The Psychological Clinic,4
 ' McMurry, Frank, Reports upon the Quality of Classroom Instruction, Course of Study,
 and Supervision by Principals, issued by Committee on School Inquiry, 51 Chamber Street, New
 York.
+
 4 See Age and Progress in a New York City School, The Psychological Clinic, Vol. vi,
 No. 8, January 15, 1913, p. 209.
-04 THE PSYCHOLOGICAL CLINIC.
 sociological facts like these are the basis of a plea for a minimum
 course of study, giving a large percentage of unassigned time to be
 distributed at the discretion of local supervisors in accordance with
 the needs of a particular locality.
+
 Moreover a uniform course of study extending over a period of
 eight years is based on the assumption that the school population
 is homogeneous not only as regards nationality but also as regards
@@ -845,6 +858,7 @@ the requirements of actual conditions. The curriculum must provide not only for 
 the point of view expressed by Professor Snedden in the statement,
 "A uniform course of study for an entire cosmopolitan city, prescriptive as to most of its features, is a pedagogical absurdity and
 offense."
+
 Another problem worthy of consideration in connection with
 curriculum making is the length of the course for elementary school
 pupils. A solution of this cannot be found unless we can determine
@@ -862,7 +876,7 @@ great elimination in the seventh and eighth years of our present course,
 * See alxo Jones, Elmer E., Individual Differences in School Children, Tiik Psychological
 Clinic, vol. vi, no. 9. February 15, 1913, p. 241.
 ?Crampton, C. Ward, The Influence of Physiological Age upon Scholarship, The Psychological Clinic, Vol. i, No. 4, June 15, 1907, p. 115.
-CURRICULUM MAKING 65
+
 us evidenced by the fact that only 42 per cent of the pupils enrolled
 in the grades complete the course of study, there are 12,000 more
 adolescent pupils in the elementary grades of the schools of
@@ -876,6 +890,7 @@ of industrial life be grouped in prevocational schools in which they
 will receive, in addition to instruction in formal subjects, such
 instruction relating to the constructive activities as will develop
 taste and abilities of distinct economic value?
+
 Another point worth considering is that even though we fix an
 arbitrary chronological eight year limit, the amount of work to be
 covered within that time is practically determined by the average
@@ -883,6 +898,7 @@ attendance of pupils completing the eight year course. Dr Bachman finds that in 
 attendance of such pupils. That is to say, a course of study intended
 to cover an eight year period should not be heavily overloaded but
 should be easily completed in less than eight years.
+
 Summarizing the foregoing discussion we may say that unless
 the problem of the curriculum is interpreted in terms of definite,
 authenticated social and psychological facts, we may deceive ourselves into assuming that certain accepted principles will insure a
@@ -897,11 +913,11 @@ a study of the situation would probably reveal, have unwittingly
 led to the imposition upon our school system of a uniform encyclopedic course of study, the fruits of which have been futile effort and
 exhaustion on the part of pupil and teacher, and perennial caustic
 criticism from the facile pen of the pragmatic layman.
+
 In view of the fact that during the next year there will probably
 be considerable revision of the New York course of study, it may
 not be inadvisable, by way of conclusion, to make some suggestions
 with reference to the possible participants in such revision. The
-66 THE PSYCHOLOGICAL CLINIC.
 cooperation of intelligent men and women in the community, whether
 or not they be members of the Board of Education, should certainly be enlisted. If the word intelligent be understood as meaning
 that the individual citizen and the civic or industrial organization
@@ -915,6 +931,7 @@ work of the vocational school and elementary evening schools. Frequently however
 either the so-called "fads and frills" or of the "three R's". Less
 frequently, because of special knowledge or special interests they
 become advocates of particular subjects as music or nature study.
+
 If teaching is a profession on a par with law or medicine, no
 board of superintendents should consider that its function is to register automatically what purports to be judgment of the community
 until that judgment has been subjected to careful scrutiny to insure
@@ -926,6 +943,7 @@ board which becomes bureaucratic either because of the dominating
 personality of a courageous leader or because of a red tape procedure
 in the conduct of official business, tends to prevent frequent adjustments of school conditions to social needs, and in so far as it does
 this it is an unqualified evil.
+
 The special supervisor, the expert on subject matter, is also
 responsible for many of our ills. Once let it be granted that the subject is to be taught and the expert considers it his bounden duty to
 enlarge his problem until the complete body of thought and practice, whether in music, physical training, arithmetic, or technical
@@ -934,9 +952,9 @@ of superintendents or a board of education, because of a felt want
 of knowledge of a technical subject, uncritically accepts the overloaded syllabus which the specialist offers for adoption. Even though
 the state law and the course of study indicate minimum requirements
 as regards topics, the syllabi are practically mandatory maxima.
+
 Cordial cooperation on the part of laymen and professional
 experts, among the latter being included not only superintendents
-CURRICULUM MAKING. 67
 but also principals and teachers working in the light of professional
 knowledge gained through personal experience and official questionnaires, should enable any school system to produce an effective
 course of study. All syllabi should be regarded as tentative until

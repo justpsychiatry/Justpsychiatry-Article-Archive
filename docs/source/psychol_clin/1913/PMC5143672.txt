@@ -1,16 +1,16 @@
 Experiments in Educational Psychology
 ======================================
 
-By Daniel Starch, Ph.D. New York:
+ :Author:  Daniel Starch, Ph.D. New York:
 The Macmillan Company, 1911. Pp. viii + 183.
 The preface confirms the suggestion contained in the title, that this book
 is "designed to serve as a guide for laboratory experiments in educational psychology," and Dr Starch adds, "no previous training in experimental work is
-200 REVIEWS AND CRITISCISM
 necessary." To carry out all the experiments in this manual, keeping a notebook record of the results, would constitute in itself no mean training in method.
 Chapter I introduces the question of individual differences in mental abilities,
 and four types of mental functions are selected for measurement,?memory,
 perception, controlled association, and arithmetical ability. Incidentally the
 student is shown how to tabulate his data and plot simple curves.
+
 The subsequent chapters discuss visual tests and defects, auditory tests and
 defects, mental images, the trial and error method, the progress of learning, and
 the transference of learning, association, apperception, attention, memory, work
@@ -21,6 +21,7 @@ surprises are in store for the unwary and overconfident experimenter. The
 errors are reckoned by counting every attempt to get back to the line which is
 being traced, and again the student is assisted in representing his results by means
 of a curve.
+
 Many of these experiments in educational psychology can be recognized as
 friends of our youth, not greatly disguised by the academic diess they are
 wearing. Among them, the test which requires the crossing out of every e (or
@@ -34,6 +35,7 @@ of his experiments would make capital "stunts" for whiling away a rainy day
 in the country or on shipboard. From this point of view they may be classed as
 scientific recreations, and yet lose none of their pedagogical importance by being
 found entertaining upon occasion.
+
 In passing it may be remarked that the diagrams which illustrate the work
 are executed with something less than the perfection of draughtsmanship which
 one looks for in a book sponsored by the Macmillan Company.

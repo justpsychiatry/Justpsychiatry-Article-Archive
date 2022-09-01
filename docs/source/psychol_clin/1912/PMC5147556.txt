@@ -1,16 +1,18 @@
 A New Method for Determining Rate of Progress in a Small School System
 ========================================================================
 
-By Nokman Cameron, Ph.D.,
+:Author: Nokman Cameron, Ph.D.,
 West Chester, Pa.
 (Concluded.)
 Acceleration.
+
 In all the discussion on the subject of retardation scarcely
 any consideration has been given to the neutralizing force of
 acceleration or double promotions. There may be much of it in
 larger school units as stated by Thorndike (4), Greenwood (5)
 and Wagner (6), but in the smaller ones its effect in offsetting
 failures is insignificant.
+
 In the Elkton schools, of the total number of units (2221)
 made by 295 pupils, 19 were units of plus progress; and of 3938
 units of all kinds made by 1051 pupils, 26 were units of plus
@@ -26,16 +28,16 @@ fitness, is largely due to the fact that there is no person who will
 assume the authority to put pupils up on trial. There is too little
 of this sort of necessary supervision in our schools, especially in
 the grades where it is most needed.
+
 Rate of Progress through the Grades.
 By the rate of progress is meant the rate at which the average
 pupil passes through the grades. It is evident that for the individual this rate varies, being dependent upon the ratio of failures
 to promotions.
+
 If a pupil completed five grades of work in five years, or
 eight grades in eight years, i.e. a grade for each year in school,
 we would classify him as normalif he did the same amount of
 work in less than that time, as supernormal; and if in more than
-(279)
-280 THE PSYCHOLOGICAL CLINIC.
 tliat time, as subnormal. Of the 295 pupils under consideration,
 according to this classification, 2 would be supernormal, 23 normal,
 and 270 subnormal. It will be seen that a very small per cent
@@ -44,6 +46,7 @@ only one failure as normal, for it is doubtless true that the
 majority of such pupils have failed once. From this point of
 view, the requirements of the course of study might even be
 considered supernormal.
+
 Table 1A* gives the average of each kind of units and the
 average total for each year. For example, the pupils in the
 eighth year of school have completed 4.79 grades, whereas they
@@ -67,6 +70,7 @@ in school in 1908-09 have not been in this system from the time
 they first began school. Consequently, many of the units of minus
 progress made in the early grades are not included in calculating
 the rate of progress for those pupils.
+
 Ayres shows (8) that "the average child in the average city
 school system progresses through the grades at tho rate of eight
 grades in ten years." On the same average such a child would
@@ -74,14 +78,15 @@ complete ten grades in approximately 12.5 years, or two years less
 than the average child in the Elkton system. There can be no
 question that the rate of progress will vary with the system.
 According to the Ayres method it would require 11.2 years for
-? See Tub Psychological Clinic for January 15, 1012, p. 2C5.
-RATE OF PROGRESS. 281
 Aurora, 111., and for Erie, Pa., 16.6 years, for the completion
 of ten grades.
+
 Leaving School.
+
 Pupils leaving school come under three heads,?graduates,
 those leaving to enter another school, and those dropping out
 finally before graduation from the schools.
+
 The graduates of a system represent its finished product; and
 the larger the number of these, other things being equal, the more
 efficient is the system. That this finished product is very small
@@ -101,10 +106,12 @@ it directly from other schools, and that a fair percentage of these
 remain to graduate. It is probably more nearly correct to say
 that the percentage of graduates from the high school under
 normal conditions is about eight.
+
 Of the 1514 pupils in school during eleven years, 360 left
 TABLE IV.?NUMBER AND PER CENT ELIMINATED BY THE END OF EACH GRADE.
 (Graduates not included.)
 Grades
+
 a f
 | S J
 u N (
@@ -161,6 +168,7 @@ I
 o92
 1.36
 112
+
 (a) 8.5 % graduated.
 282 THE PSYCHOLOGICAL CLINIC.
 TABLE V.?PER CENT ELIMINATED BY THE END OF EACH TEAR OP AGE.
@@ -198,8 +206,10 @@ a92
 112
 20
 112
+
 (a) 8.5 % graduated.
 (b) Calculated as in Table IV.
+
 to enter other schools. Thirteen per cent of the 360 transferred
 from the high school and 87 per cent from the elementary
 school. On the other hand, 44 per cent of the students coming
@@ -212,6 +222,7 @@ quit the grades and leave unfinished the education which the state
 provides, will centre around two questions: (1) In what grades
 and at what ages do the pupils leave school? (2) What are the
 causes for this dropping out?
+
 The percentages in table IV answer the first of these questions. It will be seen that with both groups of pupils, 295 and
 1514, the eliminating process begins early in the grades, being
 heaviest in the fourth, fifth and sixth grades, and in the first
@@ -223,6 +234,7 @@ the high school and at the ages of fifteen and sixteen is due to
 the large number (44 per cent) of pupils entering the high
 school from the outside. Up to the last grammar grade the percentages of elimination for the two groups are approximately the
 same for the different ages and grades.
+
 Ayres (9) and Thorndike (10) express contradictory
 opinions on a fundamental fact concerning elimination in the
 early grades. The former contends that "there is abundant evidence that the general tendency of our schools is to hold practically
@@ -245,6 +257,7 @@ dropped out before the high school is reached. The larger percentages of elimina
 compared with other studies, may be partly chargeable to the
 absence of a compulsory attendance law and partly to the large
 number of failures in these grades.
+
 In calculating the number of pupils retained to the several
 grades both Ayres and Thorndike have used as a basis a number
 of beginners variously estimated. Applied to the Elkton statistics the Ayres' method gives a number of beginners too small by
@@ -259,21 +272,25 @@ unusual conditions of change prevail in a school population, it
 will be difficult to determine the true retention and elimination
 in the grades except by having exact data as the basis for such
 calculation.
+
 Summary on Leaving School.
 Approximately eight out of every hundred beginners remain
 to graduate.
+
 Eighty-seven out of every hundred transfers are from the
 elementary schools.
+
 About three and one-half times as many pupils enter the
 Elkton high school from the outside as leave it to go elsewhere.
-284 TEE PSYCHOLOGICAL CLINIC.
 Elimination forces are operative in all the elementary
 grades, being strongest in the fourth, fifth and sixth grades.
 Approximately 66 per cent of the pupils have left school
 before the first high school year is reached.
 Causes of Elimination.
+
 This brings us to the second question, What are the causes
 for this dropping out process?
+
 Retardation is both an effect and a cause. Irregular attendance, incapacity, late entrance, etc., produce it, and in turn
 it is the most potent cause of elimination. Whenever the work
 of the grade must be repeated, indifference is often engendered,
@@ -289,6 +306,7 @@ the same time. Again, of these same pupils the average number
 of units of minus progress for those leaving is 1.14 and for the
 whole number in school .89. Here is evidence, then, that retardation brought about through failure to make promotion, is an
 important cause of leaving school.
+
 A second important cause of elimination is age. Of the 270
 pupils leaving school the largest proportion, 21 per cent, drop
 out in the eighth year. This brings the child to the age of
@@ -305,7 +323,6 @@ at this age. Retention to this age, however, has an effect of tiding
 over the critical period for many boy and girls, with the result
 that they remain to complete the course. This fine influence is
 lost to the schools where the statute books contain no such act.
-RATE OF PROGRESS. 285
 There are many other conditions which indirectly are the
 cause of pupils leaving school. Many of these, such as ill health,
 needed at home, sickness of others, etc., are merely the last straw.
@@ -320,6 +337,7 @@ accumulation of gathering forces, as the pupil wends his way
 along the school course, is the real cause of leaving. The home
 and school and society in general are all more or less responsible
 for the final outcome, leaving school.
+
 Measuring the Efficiency of a School System.
 Many methods have been adopted for comparing the relative
 merits of different school systems; oftentimes a method is advocated merely because of the favorable showing it makes for the
@@ -343,15 +361,16 @@ elementary school, for every one thousand beginners, four hundred pupils, the fi
 40 per cent. If instead of eight thousand pupils in the eight
 grades, there are nine thousand, then the efficiency from the
 second point of view would be 88.8 per cent. The product of
-280 TEE PSYCHOLOGICAL CLINIC.
 these two gives 35.5 per cent as the index of efficiency for
 the school.
+
 Granting then that Mr. Ayres' methods of obtaining the
 number of beginners and the number reaching the last grade of
 the elementary school would give approximately the correct results
 for a school system where no pupils entered from the outside and
 none left to enter other schools, a just comparison of the efficiency
 of different systems could be made.
+
 But do all the children who begin in a school system remain
 in it until they leave finally? Is the number that enters the
 schools of any community, borough, or township, from other
@@ -375,18 +394,20 @@ pupils just referred to, 501 or 30 per cent, came from outside
 schools. Of this last number 330, or 22 per cent, entered the
 elementary grades, and 2G1, or 17 per cent, entered the high
 school.
+
 This estimate does not allow for the fact that 367 of the
 522 pupils in the school in 1808-00 were there beforo that year.
 If this number bo deducted from the 1514, and the difference,
 1147 be taken as a basis, the pupils entering from other schools
 will be 20 and 23 per cent respectively.
+
 If the conditions shown to bo true in the Elkton schools
 prevail in other systems, and there is every reason to believo they
 do, for this is a community in which the population makes no
 more than the average change from year to year, then the question
 arises: What system does Ayres* index of efficiency measure?
+
 If 30 per cent of the pupils in the school aro from other systems,
-RATE OF PROGRESS. 287
 his method gives a value which is made up of the elements good
 and bad of numerous systems. From what systems these pupils
 came, and how many from each, are questions that a lack of
@@ -397,6 +418,7 @@ period in the one they enter. This being the case, does the index
 of efficiency determined by the method described justly estimate a
 system's worth ? It seems evident that such a procedure would
 place responsibility on the wrong shoulders.
+
 Some plan is necessary that will show what the system
 has done and is doing for the pupils for the length of time they
 have been under its influence. What would be better than all
@@ -407,6 +429,7 @@ might be known. This, in our present condition of school records,
 is beyond our power to measure, but something can be done in
 the way of determining the effect of the different factors of a
 system on the pupils within it.
+
 It has been shown in previous sections on retardation and
 leaving school, that failure of promotion produces retardation,
 and that elimination is due to a high degree of retardation, or
@@ -415,6 +438,7 @@ of units of minus progress as compared with that of normal and
 plus progress combined, the older the pupils become in the lower
 grades, and the greater will be the per cent of elimination in
 these grades.
+
 Moreover, the more pupils drop out in the lower grades the
 fewer there will be in the first and subsequent years of the
 high school. Since there is this definite relation between the
@@ -428,10 +452,10 @@ plus progress and 3912 units of normal and minus progress.
 The former divided by the latter gives 11 as the index of efficiency
 for the system during eleven years. While this illustrates well
 enough the method of obtaining the per cent, it would be impracticable to apply it to so long a period of time. What every
-288 TEE PSYCHOLOGICAL CLINIC.
 superintendent of schools should be able to do in any given year,
 is to report upon what his system has done for the pupils who
 have been under its influence.
+
 A study of the records of those pupils who are in school
 at the beginning of 1908-9 and who have been in the present
 system during previous years reveals the fact that the total number
@@ -439,6 +463,7 @@ of units of normal and plus progress is 1254 as compared with
 1627 units of normal and minus progress. This gives as the
 index of efficiency 77, or practically the same as that for the
 eleven years.
+
 Still another way of showing the efficiency of a system is
 to find the relation between the same factors named above for
 all the pupils in the school for the year. This might be termed
@@ -452,33 +477,39 @@ progress combined and of normal and minus progress are for
 the year 1908-9, 333 and 436, respectively. By dividing the
 former number by the latter the index of efficiency is found to
 be 76.4.
+
 Of the three ways of applying this method, the last is the
 most practicable, for it is the most economical from the point
 of view of time and labor. Moreover, it offers a facile means,
 not only of comparing one system with another, but also of comparing the efficiency of the same system from year to year.
 Summary.
+
 In the present state of school records the efficiency of a
 school system cannot be measured by a ratio between the number
 of beginners and the number of pupils reaching tho last grade
 of the elementary or high school, because of the largo percentage
 of pupils entering tho system from tho outside, and leaving to
 enter schools elsewhere.
+
 The ratio of tho number of units of normal and plus progress
 to the number of units of normal and minus progress will give
 an adequate method for measuring efficiency.
 Either yearly or period efficiency of tho system may bo
 measured.
+
 The efficiency of the Elkton school system is approximately .77.
-RATE OF PROGRESS. 289
 Suggestions to Superintendents.
+
 In the gathering and study of the statistics in this investigation a few facts have stood out so impressively that it seems
 worth while to present them for the benefit of those engaged in
 the organization of schools.
+
 First, the necessity of some other method of promotion than
 that used in many of our large school systems to-day seems imperative. It is still the custom in practically all the smaller towns
 and in a large number of cities to make promotions only at the
 end of the year. That this is a serious factor in producing
 retardation there can be no doubt.
+
 If late entrance or early leaving is not due to actual absence
 from school, but merely to a transfer from one school to another,
 it is not so likely to result in failure of promotion. But if children
@@ -505,23 +536,25 @@ attendance for a half a year. There are some pupils who make
 as low as 80, 70, and 60 per cent of attendance and yet are
 promoted. A part of these too would be rescued from the school
 failures by the system of double promotions.
+
 In this connection it may be suggested that a special class
 should be formed in every school to give additional instruction to
 pupils behind their grades. Many failures would never be made
 if each school system provided such a means of assisting the pupils
 at the time when they most need it. Many a child has received
-290 THE PSYCHOLOGICAL CLINIC.
 the first start toward elimination when upon returning to school
 after an unavoidable detention at home he has been held responsible for previous work without any assistance from the teachers
 or others. The special class or special teacher would have removed
 this cause for future failures and consequent early leaving of
 school.
+
 A second matter which needs attention is examinations. In
 some few schools examinations have been done away with because
 of the feeling that they are unnecessary. To the writer they
 seem to have one significant implication; that the average teacher
 is incapable for one reason or other of judging whether or not
 a child is fitted to pass to the next higher grade.
+
 In order to throw some light upon this question a special
 study has been made of 1514 pupils. It appears that 509 including the first and second grades (239 without them), did not
 attend up until the time of final examinations and yet were found
@@ -536,6 +569,7 @@ year, but this was not a usual custom. Since no system of exemptions is in vogue
 many pupils are promoted either on trial, or in some manner
 make their way into the next higher grade without having to take
 the examinations that are considered all important.
+
 The third and perhaps most important fact that has been
 brought out in this study is the utter lack of data necessary f?r
 a proper study of school problems. A need for a uniform record
@@ -549,7 +583,7 @@ determine at any time exactly what a system is doing for tho
 pupils in it, and what it has done for them in tho past, so that tho
 index of efficiency may be accurately determined, and valid com
 parisons made with tho results of other systems.
-RATE OF PROGRESS. 291
+
 The transfer card suggested here seems to indicate all the
 information that one system should send to and immediately
 receive from another. The numbers on this card should provide
@@ -585,7 +619,7 @@ P I a ^
 C g re
 g a g
 g 2
-292 THE PSYCHOLOGICAL CLINIC.
+
 The cards proposed here are the result of educational experience covering many years of school work.* If they prove to be
 of use in bettering the manner of keeping our school records, the
 writer will feel repaid for the amount of time and thought he has

@@ -4,10 +4,9 @@ Measuring Efficiency of Instruction
 The Psychological Clinic
 Copyright, 1913, by Lightner Witmer, Editor.
 Vol. VII, No. 6 November 15, 1913
-.
-
-By William E. Grady,
+ :Author:  William E. Grady,
 Principal Public School 64, Manhattan, New York, N. Y.
+
 If the ethical problem of education is to promote such an
 organization of society as will enable each individual to do the work
 for which he is best fitted, the essential requirements are not only
@@ -18,6 +17,7 @@ method for measuring the effectiveness of our work, it is not difficult
 to indicate several important factors, many of them at present
 ignored, which are fundamental to the establishment of any such
 standards.
+
 Assuming in spite of the present confusion of ideals, that we had
 a definitely formulated aim which could stand the test of scientific
 criticism, and which would be not only broad enough to be true to
@@ -33,8 +33,6 @@ have reached the chronological age of six years, they must be alike
 as regards mental maturity despite the wide variations in nationality, physical and mental endowments, and specialized environmental
 experiences. Within the last few years we have witnessed partial
 attempts to insure homogeneity of the pupil groups under instruction by the elimination of the blind, the deaf, the tubercular, and the
-(145)
-146 THE PSYCHOLOGICAL CLINIC.
 mentally deficient. The day should speedily come when all children on admission to school will be subjected to a thorough examination, inclusive not only of the child's learning but also of his physical condition and native mental ability.
 Inasmuch as there are well-established norms of stature, weight,
 ^thoracic and cranial capacity, acuity of vision and hearing, we ought
@@ -43,6 +41,7 @@ respects he is subnormal, normal or super-normal in order that such
 knowledge may be the fundamental basis of pedagogical endeavor.
 "Biometry and bio-statistics lift the child out of a general class and
 present him to the teacher's eyes as a living individual."
+
 Great as is the need of sizing up our incoming pupil in physical
 terms, still greater is the need of testing his mental capacity upon
 his admission to school. The assumption that as regards mentality
@@ -61,6 +60,7 @@ pupils, 616 were from one to six years retarded, 582 were normal,
 and 349 were from one to four years better than normal. Can it
 be doubted that if our first year group were subjected to testing,
 a corresponding variation in ability would appear?
+
 Without amplifying the discussion it may be sufficient to state
 that until we recognize the problem of individuality, and at the very
 outset of our work determine the physical and mental equipment of
@@ -74,7 +74,6 @@ educational aims have been formulated and until pupils have been
 scientifically classified. Modes of valuation, the establishment of
 standards and scales of measurement are a present need. It is
 interesting therefore to refer briefly to two recent attempts to measure the effectiveness of the teaching in our city schools
-MEASURING EFFICIENCY OF INSTRUCTION. 147
 In his recent attempt to pass judgment upon the quality of
 instruction in the schools of our city, Professor McMurry consciously rejected the customary modes of judging the efficiency of
 instruction in terms of examinations of pupils in subject matter.
@@ -99,30 +98,36 @@ that are socially vital and yet within the pupil's appreciation, and
 that the method of presenting the curriculum is good to the extent
 to which the method exemplifies ways of solving problems found
 most effective by the world's intelligent workers.
+
 Because of their universality, Professor McMurry states that
 the following four factors were considered worthy of acceptance as
 standards for judging the efficiency of instruction:?
+
 1. Motive:
+
 Inasmuch as a man's aims or motives in terms of their quality,
 their variety and their intensity determine his character, one of the
 primary responsibilities of instruction is to develop motives, to lead
 the pupil to want, to know, to do, and to be. Instruction cannot
 rest satisfied with cold facts alone. Its quality is to be measured
 partly in terms of its provision for growth in motive.
+
 2. Initiative:
+
 In the world at large, perhaps the most highly valued quality of
 character is the power of initiative, the ability to act as a leader not
 only in one's own affairs but in the affairs of others. Children can
 act largely under the influence of a dominating personality called the
 teacher, but in the last analysis they must be self directing. It
 follows therefore that the school should consciously aim to direct the
-148 THE PSYCHOLOGICAL CLINIC.
 power of self direction. To the extent to which the instruction process
 requires that as children progress through the grades, they bear
 increasingly the responsibility for decision as to the origination and
 the execution of work, just to that extent is the work characterized
 by initiative.
+
 3. Judgment or consideration of values:
+
 Inasmuch as life's situations constantly thrust considerations
 of worth to the foreground of both adult and pupil experience, school
 instruction should consciously aim to develop the same critical
@@ -131,12 +136,15 @@ instruction should result in the development of sound judgment.
 There should be fewer recitations in history, geography, literature or
 any other subject, in which the varying values of facts and tasks are
 not distinguished.
+
 4. Organization of thought:
+
 Inasmuch as a factor of special importance in daily life is the
 organization of ideas, a fundamental aim of instruction should be
 so to group and relate the material presented that the pupil will be
 possessed of definite, conceptual systems of thought which will be the
 basis of ample, organized expression.
+
 No intelligent critic of the teaching process can deny the
 superlative value of these descriptive, subjective standards as partial
 measures of the efficiency of instruction and as a strong reminder of
@@ -149,6 +157,7 @@ as definite, concrete expression of knowledge such as the best type of
 the traditional tests demand, is also a very real index of the effectiveness of instruction, we still face the question: What means shall
 we adopt to stimulate motive, to spur initiative, to test judgment
 and to measure organization of thought?
+
 The use of the Courtis tests in arithmetic illustrates a very
 recent and interesting attempt to solve this problem. The application of the test was an attempt to supplement such subjective
 standards as Professor McMurry proposes, by definite objective
@@ -157,39 +166,49 @@ pupil's accomplishment and the effectiveness of the teacher's work.
 On the basis of tests covering 10,000 pupils in seventy schools in ten
 different states, Prof. Courtis has devised eight arithmetical tests
 involving:
-MEASURING EFFICIENCY OF INSTRUCTION. 149
+
 1. Copying of numbers during a time span of one minute.
 2, 3, 4, 5. Combinations in addition, subtraction, multiplication
 and division during periods of one minute each.
 6. Computations involving the four fundamental operations
 during a period of twelve minutes.
+
 7, 8. Problem groups in one of which operations are merely
 indicated; in the other of which the work is carried to completion
 during spans of six minutes each.
+
 Extending his investigations to 52 schools, 913 classes and
 33,000 pupils, he concluded that the application of these uniform
 tests to all grades revealed the following:
+
 (a) That grade grouping as an index of arithmetical attainment has very little significance.
 (b) That there is great variation in the abilities of the pupils in
 any given grade. He concludes that testing 4B grades as at present
 organized will reveal the following,?
+
 45 per cent of the grade will exceed the average of the grade.
 35 per cent of the grade will exceed the average of the next
+
 higher (grade 5A).
+
 25 per cent of the grade will exceed the average of grade 5B.
 15 per cent of the grade will exceed the average of grade 6A.
 10 per cent of the grade will exceed the average of grade 6B.
 5 per cent of the grade will exceed the average of grade 7A.
+
 In like manner
+
 35 per cent of the grade will fall below the 4A average.
 25 per cent of the grade will fall below the 3B average.
 15 per cent of the grade will fall below the 3A average.
 10 per cent of the grade will fall below the 2B average.
 5 per cent of the grade will fall below the 2A average.
+
 (c) That accuracy has been sacrificed for speed.
 (d) That the proficiency obtained in abstract work which is as
 high or higher than that ordinarily obtained, has been obtained at
 the expense of reasoning ability.
+
 The vital importance of Mr. Courtis' work lies in the fact that
 on the basis of extended investigation, he has developed a certain
 measuring scale of proficiency that is applicable not only to individual
@@ -198,14 +217,16 @@ such standards are tentative, that the problems employed and the
 conclusions drawn with reference to reasoning ability should be
 subjected to critical analysis, the fact remains that were such standards generally adopted they would undoubtedly do much to place
 arithmetical instruction on a sounder basis. The supervisor, the
-150 THE PSYCHOLOGICAL CLINIC.
 teacher, and the pupil would work more intelligently and more
 effectively if such terms as rapidity and accuracy found in most
 courses of study, were reduced to the degree of definiteness indicated
 by the Courtis tests.
+
 The following table with Mr. Courtis' interpretation will serve
 to indicate more clearly what is meant:
+
 STANDARD SCORES.
+
 Test No.
 Grade 3. .
 " 4. .
@@ -291,6 +312,7 @@ Ats. Rts.
 4.8 4.0
 5.0 4.3
 (6)
+
 "Translating this table into words: At the end of a year's work
 an eighth-grade child should be able to copy figures in pencil on
 paper at the rate of 117 figures per minute; to write answers to
@@ -318,6 +340,7 @@ receive cordial acceptance by our supervisory staff? To the extent
 that these results are valid we should make use of them; to the
 extent that they are defective we should reject them on the basis
 of carefully scrutinized classroom practice.
+
 In short, we have reached a stage in educational practice where
 there is a definite realization of the need of defining standards of
 attainment in each school subject, and also the degree of proficiency
@@ -336,7 +359,10 @@ proficiency that it may be desirable for him to attempt to attain.
 Moreover, such investigation as well as the application of the results
 is fundamentally the work of the administrators of our city schools,
 rather than the work of university professors or postgraduate students remote from contact with the teaching situation.
+
 BIBLIOGRAPHY.
+-------------
+
 For general survey of situation, see
 Twelfth Herbartian Year Book, I, Chicago University
 Press; article by Professor Bobbitt.

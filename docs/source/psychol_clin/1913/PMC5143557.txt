@@ -1,8 +1,9 @@
 The Binet Tests Applied to Delinquent Girls
 ============================================
 
-By Margaret Otis, Ph.D.
+:Author: Margaret Otis, Ph.D.
 Resident Psychologist, New Jersey State Home for Girls, Trenton, N. J.
+
 The efficacy of the Binet tests has been proved a number of
 times in a number of different ways. Their use is being widely
 extended and of late they are being applied to the study of criminals
@@ -14,6 +15,7 @@ institutions, and if psychology can help in throwing light on this
 important subject, it will have proved beyond question its great
 usefulness to the world. Such study has recently been begun in the
 New Jersey State Home for Girls.
+
 A preliminary testing of the girls with the Binet tests shows
 interesting results, and corroborates the results obtained in other
 institutions. One hundred and seventy-two girls of the institution
@@ -33,12 +35,11 @@ defect. This defect is further corroborated by other tests and by
 investigation of the heredity. For convenience those who attain the
 mental age of ten, but fail to reach eleven are classified as high-grade
 morons.
+
 These girls of ten-year-old mentality show themselves surprisingly
 true to the moron type established and described in other places.
 They are very capable when working under direction and can be
 trained to be good servants, but fail lamentably to establish themselves in a good way of living if left to themselves. They lack
-(127)
-128 THE PSYCHOLOGICAL CLINIC.
 initiative and need care to protect them from the temptations to
 which they are subject when they go out into the world.
 The classification of the girls tested is as follows:
@@ -50,6 +51,7 @@ A further study of the results of the testing produces interesting
 information as to the mental status of the girls. The number of
 correct answers to each question has been tabulated, and the percentage estimated, not only for the whole group, but for each one
 of the three classes.
+
 That the percentages show a regular increase from class I to
 class III is an indication of the accuracy of the scale. The only
 questions where a rising value is not found is the unimportant
@@ -72,12 +74,13 @@ IX-2 definitions better than use; IX-5 arranging weights; X-2
 drawing design from memory; XI-2 sentence; XI-5 dissected
 sentences; XII-2 definitions of abstract words; XII-3 repetition of
 sentence.
+
 The most difficult for the girls of class II are as follows: VII-2
 description of pictures (action); IX-2 definitions better than use;
 IX-5 arranging weights; X-2 drawing design from memory; XI-2
 sentence; XI-5 dissected sentences; XII-2 definitions of abstract
 words; XII-3 repetition of sentence. .
-BINET TESTS OF DELINQUENT GIRLS. 129
+
 TABLE I
 Percentage of correct answers
 Binet question. Class I Class II Class III All together
@@ -116,7 +119,7 @@ XII-1  36 62 85 58
 3  0 7 15 6
 4  38 62 61 52
 5. .18 42 73 41
-130 THE PSYCHOLOGICAL CLINIC.
+
 The most difficult for the girls of class III are the following:
 IX-2 definitions better than use; IX-5 arranging weights; X-2
 drawing design from memory; XI-2 sentence; XI-5 dissected
@@ -133,6 +136,7 @@ figures; X-4 comprehension of situations. Class III, IX-1 making
 change; IX-4 repeating months of the year; X-l knowledge of
 money; X-3 repeating figures; X-4 comprehension of situations;
 XI-1 seeing absurdity; XII-1 repeating figures.
+
 A study of what questions are easy for the girls to answer,
 and of what are hard, in this way, reveals the fact that they are
 lamentably deficient in the tests involving the use of language;
@@ -158,11 +162,12 @@ those in the other groups. Averaging the figures given above, we
 have for the language group a general average of 54.7, for the number
 group 78.8, for the comprehension group 52.6, and for the general
 information 87.7.
+
 The fact that the girls stand highest on the general information
-BINET TESTS OF DELINQUENT GIRLS 131
 tests and those involving the use of figures, but fall lowest on tests
 involving the use of language may further be shown by a study of
 the percentile curves for the different groups.
+
 Curve I. This is for all the girls examined, a total of 172. We
 see here the first important dip is at VII-2 description of pictures.
 The second dip is at VIII-2 counting backward. Then follow dips
@@ -172,6 +177,7 @@ Curve II. This is for the normal girls of class III. The dips
 occur at IX-2 definitions better than use; IX-5 arranging weights;
 X-2 design; XI-2 sentence; XI-5 dissected sentences; XII-3
 repeating sentence.
+
 Curve III. This is for the moron group of class II. The dips
 here occur at VII-2 description of pictures (action); IX-2 definitions
 better than use; IX-5 arranging weights; X-2 design; XI-2 sentence;
@@ -185,6 +191,7 @@ The big dips are of course more significant than the small dips.
 These are notably, IX-2 definitions better than use; IX-5 arranging
 weights; X-2 design; XI-5 dissected sentences; XII-3 repeating
 sentence.
+
 But some of these tests have also been found difficult for normal children, for instance the design in X-2. Likewise the sentence
 in XII-3, as has already been stated, is too difficult for those of
 twelve year old intelligence. The reason why so many of our girls
@@ -200,7 +207,7 @@ however, that so many of the language tests are difficult for them is
 very significant, and this deficiency is further corroborated by the
 work that they do in school, and by the testimony of the officers
 *KatzgngUenbogen- Critical Essay on Mental Tests in their relation to Epilepsy, p. 17.
-132 THE PSYCHOLOGICAL CLINIC.
+
 CURVE I.
 loots _
 _
@@ -265,6 +272,7 @@ The distribution here is: 8th?4, 7th?13, 6th?14, 5th?23, 4th?41,
 3rd?37, 2nd?11, 1st?9. Four girls of the total number reached
 high school, while seven had no schooling whatever. Fifty-seven
 left school before reaching the age of fourteen.
+
 With such limited school training, it is no wonder that the
 girls lack the ability to express themselves, and show themselves
 deficient in the language tests, for the ability to use language depends

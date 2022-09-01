@@ -1,14 +1,16 @@
 Language Development In 285 Idiots and Imbeciles
 ================================================
 
-By Clara; Harrison Town,, Ph.D.,
+ :Author:  Clara; Harrison Town,, Ph.D.,
 Director of the Department of Clinical Psychology, Lincoln State
 School and Colony, Lincoln, Illinois.
+
 In L'Annee Psychologique for 1908 there is an article by
 Binet and Simon entitled "Langage et Pensee". In it the authors
 have outlined what they call a new psychogenic method, a method
 which they judge can with profit be applied to the study of most
 mental phenomena.
+
 The method is not so much an application of the psychogenic
 method to the study of the feebleminded as a study in psychogenesis by means of the feebleminded. Genetic studies of mental
 phenomena have heretofore used as subjects moral children. Such
@@ -25,6 +27,7 @@ By studying any mental phenomenon in groups of feebleminded individuals of each 
 period in which the phenomenon in question normally reaches full
 development, we should be able to gain a knowledge of the gradual
 evolution of that phenomenon.
+
 In illustration of*the method the authors present a study of
 the language development of several imbeciles, and reach some
 interesting conclusions; among them the following:
@@ -33,8 +36,6 @@ is acquired.
 1 Read at the meeting of the American Association for the Study of the
 Feebleminded at Vineland, New Jersey, June 4, 1912, and published with the
 proceedings of the Association.
-(229)
-230 THE PSYCHOLOGICAL CLINIC.
 2. The ability to repeat words precedes in development the
 ability to use them, voluntarily and intelligently.
 3. Language development reaches such a high level by the age
@@ -49,23 +50,28 @@ Colony. Two hundred and eighty-five children form the basis of
 the study?50 idiots, 90 low grade imbeciles, 45 middle grade
 imbeciles, and 100 high grade imbeciles; all graded and classified
 according to the Binet-Simon scale.
+
 Among the idiots five levels of language development were
 recognized: the understanding of gestures, the imitation of gestures, voluntary gestures, the understanding of words heard, sounds
 and attempts at articulation.
+
 The idiots were subdivided into three groups: Seventeen low
 grade, 8 middle grade, and 25 high grade idiots. Of the 17 low
 grade children there were 2 who understood gestures, none who
 imitated them, 4 who made occasional use of them, 1 who understood a few words, and none who spoke so much as a single word.
 Two were able to laugh, 2 to hum, and the others to grunt, scream
 and cry only.
+
 Of the 8 middle grade children, 2 understood gestures, 1
 imitated them, 2 used them voluntarily, 3 understood a few words,
 1 spoke a few words; 4 laughed, but the others only cried, screamed
 and made inarticulate sounds.
+
 Of the 25 high grade idiots, 23 understood gestures, 20
 imitated them at least occasionally, 22 used them voluntarily at
 least occasionally, 14 understood a few words, and 10 pronounced
 one or more.
+
 Thus we find a gradual development of the faculty of expression through these grades of idiocy. In all three grades there were
 a few more children who used gestures voluntarily than there were
 children who imitated gestures. In all cases, however, in which
@@ -75,9 +81,9 @@ result of the pressing need and desire for expression.
 The rudimentary attempts at articulate speech are evident in
 the highest grade idiots, and the most striking finding of all is that
 many of these children who can say nothing, or at the most, yes,
-LANGUAGE DEVELOPMENT. 231
 no, and mama, understand the names of many familiar objects
 and acts.
+
 With the imbecile we reach the plane of articulate speech, and
 the problem of examining the language ability assumes a different
 form. The ability to gesticulate is now taken for granted and
@@ -95,11 +101,13 @@ Defects of articulation are in turn classified as follows:
 4. Vagueness without distinct stammer.
 5. An omission or slurring of letters and syllables.
 6. An omission of words in sentences.
+
 The vocabularies are designated as consisting of the names of
 a few objects and acts only, or as general. Of the 90 low grade
 imbeciles, 11 per cent show the limited auditory vocabulary, 15 per
 cent the limited spoken vocabulary, while the middle and high
 grade imbeciles all possess general vocabularies.
+
 As such a summary statement gives no idea of the size and
 character of the children's vocabularies, a special study was
 made of the vocabularies of 25 low grade, 10 middle grade, and 10
@@ -115,12 +123,12 @@ of all extra words used during the course of the experiment.
 The average per cent of the 320 test words used by the groups
 grading in mental age from three to six shows a gradual increase
 as the mental age increases. The three year group shows an average
-232 THE PSYCHOLOGICAL CLINIC.
 of 23 per cent, with a mean variation of 8.5; the four year group
 an average of 41 per cent, and a mean variation of 7.3; the five
 year group an average of 69 per cent, and a mean variation of
 7.6, and the six year group an average of 8G per cent, and a mean
 variation of 2.9.
+
 A similar gradual and regular increase is shown in the total
 number of words used (this total including the words used which
 were not among the test words). The average total for the three
@@ -129,9 +137,11 @@ group 315, and for the six year group 363. The test was not
 carried on to the seventh year of mental development because the
 vocabulary at this level is so large that this test on the basis used
 is of no value.
+
 An interesting point brought out by these vocabulary tests is
 the comparatively large vocabularies, 50, 75, or 100 words, possessed by the silent children, whom many among their attendants
 think mute.
+
 The tests were also of inestimable value as a help in the
 analysis of articulation difficulties. One little boy is recorded as
 using 216 words, yet his speech without the guide of pictures is
@@ -157,6 +167,7 @@ it in ?" To this he replied, "Budesedine." The question was
 given too rapidly for him, and he was making an effort to repeat
 exactly what he heard, thinking it some new word, the name of the
 medicine.
+
 LANGUAGE DEVELOPMENT. 233
 The records sliow tlie occurrence of echolalia in 19 per cent of
 the 90 low grade imbeciles, all cases but two occurring in the 3
@@ -165,7 +176,7 @@ findings indicate that echolalia is a phenomenon generally outgrown by the end o
 The power to repeat sentences is possessed by 52 per cent (47)
 of the 90 low grade imbeciles and by all the other children.
 The ability to use sentences voluntarily appears in 72 per
-LANGUAGE DEVELOPMENT OP IDIOTS.
+
 Low Grade
 Middle Grade
 High Grade
@@ -226,12 +237,13 @@ Other defects of articulation..
 48
 3
 4
+
 cent (G5) of the 90 low grade imbeciles, and in all the other children. Again it seems that the ability to use voluntary sentences
 precedes that of repeating sentences, or at least is more general at
 an earlier age. Many of the children included in the 72 per cent
 are, however, capable of only very short sentences and badly constructed ones.
 Of the 90 low grade imbeciles there are only 13 free from
-234 THE PSYCHOLOGICAL CLINIC.
+
 VOCABULARY TEST?IMBECILES.
 Case
 Low
@@ -485,14 +497,15 @@ High Grade
 380
 375
 4201
+
 Mental Age 6 Years.
 Av. % 86.3, M. V. 2.9
 Av. total 363, M. Y. 42.8
-LANGUAGE DEVELOPMENT. 235
 defects of articulation; 85 per cent of these children either stammer, stutter, or slur their words or sentences. Sixty-two per cent
 (28) includes all those whose articulation is defective in the group
 of middle grade imbeciles, and 55 per cent all those in the group of
 high grade imbeciles.
+
 If under faulty articulation we included all those departures
 from the absolute purity demanded by the highest culture, these
 percentages, of course, would be much higher. Those errors common to entire communities from which our children come do
@@ -500,16 +513,20 @@ not indicate faulty development of function, but faulty speech
 models Avhich have been correctly imitated. Therefore such errors
 are not included in our totals, which represent faulty developvient
 of the ability to articulate.
+
 Sixty per cent of the 90 low grade imbeciles stammer, 53 per
 cent of the 45 middle grade imbeciles stammer, and 48 per cent of
 the 100 high grade imbeciles stammer.
+
 The stutterers number 3.3 per cent (3) of the low grade imbeciles, 4 per cent (2) of the middle grade imbeciles, and 3 per cent
 of the high grade imbeciles. Stuttering is comparatively unusual
 among the feebleminded at the Lincoln State School and Colony
 and seems to have no age correlation.
+
 Those who have defects of articulation other than stammering
 and stuttering, number 22 per cent in the group of low grade imbeciles, 5 per cent in the group of middle grade imbeciles, and 4 per
 cent in the group of high grade imbeciles.
+
 In summing up the results of the investigation we find that our
 records show a distinct age correlation for the successive levels of
 language development, and just as distinct a correlation for the

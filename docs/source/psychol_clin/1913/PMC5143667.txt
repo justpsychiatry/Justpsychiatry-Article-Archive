@@ -1,8 +1,9 @@
 Clinical Psychology Adversely Criticized
 =========================================
 
-By R. H. Sylvester, Ph.D.
+ :Author:  R. H. Sylvester, Ph.D.
 University of Iowa.
+
 From visits to a number of clinics and other places where mental
 retardation or deficiency is receiving attention, from interviews with
 physicians and psychologists who are not working in the field, and
@@ -13,6 +14,7 @@ may be reduced to the following:?(1) Mental tests are being overemphasized. (2) 
 improve the mentality of the retarded and the defective. (4) Clinical
 psychology is usually based on the wrong kind of psychology. (5)
 The field should be cared for by the medical profession.
+
 With very few exceptions, clinical psychologists must plead
 guilty to the charge of over-emphasizing mental tests. Much effort
 is being directed toward devising, refining, and standardizing testing
@@ -25,6 +27,7 @@ tests adapted from the experimental laboratory are of great value
 in the clinic, but some of the effort spent in attempting to perfect
 and refine them is wasted. By giving more attention to the subjective study of children, examiners could reach a higher efficiency and
 make better diagnoses.
+
 This over-emphasis on tests and mental measurements is due
 to reasons which may be enumerated as follows:?(a) Most psychologists have worked considerably in laboratory psychology, so they
 find in tests an adaptation of the methods and procedure in which
@@ -33,8 +36,6 @@ depend on tests because he is not skilled in the interpretation of his
 direct observations of the child, (c) The experienced examiner can
 make the best use of assistants by having much of their work with
 his cases reported in terms of test results, id) In case records, test
-(182)
-CLINICAL PSYCHOLOGY ADVERSELY CRITICIZED 183
 results are especially valuable, and for the comparison of individuals
 with the normal they are a necessity, (e) Because most tests yield
 quantitative results, they offer an attractive field for research.
@@ -69,10 +70,6 @@ the single tests and teams of tests which have been devised are of
 great value. The caution is against over-reliance upon them.
 The second of the criticisms enumerated is that clinical psychologists fail to go beyond diagnosis. With this criticism is usually
 included the query, "Of what value would a physician's services
-1 Jour. Am. Med. Assoc. LIX : 451; Am. Jour. Med. Sc. CXLV : 330.
-2 Some of the best mental test teams are those of Binet and Simon, L'Annie Psychologique,
-1911 :145; Thorndike, Science, XXXVII : 133; Abelson, Brit, Jour. Psych. IV : 268.
-184 THE PSYCHOLOGICAL CLINIC.
 be if he merely diagnosed your case without treating it?" This
 usually comes from persons who have casually visited a clinic or read
 of the work. They have the notion that cases are merely examined
@@ -80,6 +77,7 @@ and disposed of by an opinion expressed in the form of a diagnosis.
 In caring for either the physically or the mentally ill, the important
 thing of course is to know what is the matter with them. Treatment
 depends on diagnosis and often is the easier problem.
+
 It is unfortunate that some psychologists do not concern themselves with treatment. An extreme instance recently came to my
 notice. A mother at considerable expense and effort took her child
 to a specialist in mental defects of children. He made a careful
@@ -110,10 +108,10 @@ diagnosis, and some others are working on the same plan. More
 therapeutics is desirable, but clinical psychology should be given
 credit for having done remarkably well in this direction considering
 the short time it has been in the field.
+
 Another criticism from those not fully acquainted with what
 is being done, is that clinical psychology is neither practical nor
 necessary; that medical treatment does all that can be done for
-CLINICAL PSYCHOLOGY ADVERSELY CRITICIZED 185
 retarded and defective children. For those who raise this point,
 the concept of retarded children includes only children who have
 adenoids, faulty vision, or other purely physical defect, and their
@@ -138,6 +136,7 @@ much promise with these trainable defectives who are remediably
 retarded, and the work has already been well begun. Of the five
 criticisms discussed in this paper, the one on the impracticability
 of clinical psychology is the least valid.
+
 Psychology as a science follows for the most part the rule of
 proceeding from the known to the unknown. In regular university
 courses emphasis is placed on the simpler mental processes with
@@ -155,8 +154,6 @@ psychology, as Dr Lloyd, one of this latter group, has wittily
 dubbed it), but they believe that much of laboratory psychology is
 impractical and they choose to approach mental pathology directly,
 handling it in terms of its own manifestations. Dr Burr has stated
-? Jour. Am. Med. Assoc. LIX : 130.
-186 THE PSYCHOLOGICAL CLINIC.
 it in rather radical terms, "I have not yet been convinced that the
 study of formal psychology throws any light on psychiatry."4 A
 part of the present difficulty lies in the exaggerated notion of the
@@ -192,15 +189,11 @@ to deal with mental deviation? Ignorance of the subject causes
 many physicians to minimize its difficulties. For instance a writer
 states with assurance that Binet tests are unnecessary because
 "feeblemindedness is so easily detected."
+
 Of course the clinical psychologist who has not a medical
 education cannot work alone. He must work in cooperation with
 medical clinics which attend to the physical examinations and
 treatments. Whether the future specialist in mental retardation
-4 Jour. Am. Med. Assoc. LX : 1054.
-'Science, XXXII:65^; Boston Med. and Surg. Jour. LVIII:911; Jour. Am. Med. Assoc.
-LVIII : 909.
-? Jour. Am. Med. Assoc. LX : 1058.
-CLINICAL PSYCHOLOGY ADVERSELY CRITICIZED 187
 and deficiency in children must have completed courses in pedagogy,
 psychology, and medicine, or whether he can make himself more
 efficient by specializing in a limited field, is a question still to be
@@ -211,6 +204,7 @@ because he does a work which "medical practice has always assumed
 was beneath its dignity, so left to anybody and everybody."7 Certainly the psychologist will in time be fully endorsed if he proves
 that he can be entrusted with duties for which the physician has not
 time adequately to prepare.
+
 Were it within the scope of this paper, a list of favorable observations on clinical psychology could be given, which would be far more
 impressive than these five adverse criticisms. Suffice it to say that
 steady progress is being made both in the amount of work done and
@@ -237,13 +231,9 @@ facilities and more help. Dr Knox calls attention to the difficulties
 of detecting morons, and to the fact that examiners must have rather
 definite notions of the normal Italian, Greek, or Pole, in order to
 recognize the defectives.10
+
 Dr Knight mentions several difficulties, especially the shortness
 of the examinations and the confused state of mind in which one
-7 Med. Times, Jan., 1913, p. 22.
-8 Archiv. of Pediatrics, XXX : 197; Jour, of Ed. Psych. IV : 61.
-* Australian Med. Jour., Apr. IS, 1918, p. 995.
-10 Jour. AV}- M&d. Assoc. LIX : 105.
-188 THE PSYCHOLOGICAL CLINIC.
 finds the immigrants.11 Dr Wilson shows still further how much a
 normal foreigner may differ from our ordinary concept of normality,
 and he shows the serious limitations of our tests.12 Dr Goddard's
@@ -263,6 +253,3 @@ through the application of psychology to retarded and defective
 children. There is convincing evidence that clinical psychology is
 worth while, and there is every assurance that the objections urged
 against it can be satisfactorily met.
-11 Jour. Am. Med. Assoc. LIX: 106.
-12 Boston Med. Jour. CLXVIII : 226.
-13 The Training School Bulletin, IX : 95.

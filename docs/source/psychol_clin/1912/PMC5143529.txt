@@ -1,15 +1,13 @@
-Preliminary Report on the Treatment of
-Stuttering, Stammering, and Lisping
-In a New York School.
-======================================
+Preliminary Report on the Treatment of Stuttering, Stammering, and Lisping In a New York School
+=================================================================================================
 
 The Psychological Clinic
 Copyright, 1912, by Lightner Witmer, Editor.
 Vol. VI. No. 4.
 June 15, 1912.
-
-By Michael Levine, A.M.,
+:Author: Michael Levine, A.M.,
 Teacher in Public School 6J+, New York City.1
+
 The first question is: what is tlie difference between stuttering
 and stammering, terms which are used interchangeably by the
 layman? According to modern physiology they both denote a
@@ -23,11 +21,13 @@ based on the kind of cramps experienced by the patient while
 speaking. For the purposes of this discussion, however, it will be
 convenient to separate the two terms and to allot to each its
 peculiar symptoms.
+
 Stuttering may be used to denote faulty speech as a result of
 respiratory disturbances, the defects being in the muscles of respiration, or in the larynx, or in both. Stammering, on the other
 hand, may be used to denote a disability of the muscles of articulation. These defects do not include disorders of speech associated
 with brain lesions, or the conditions described under such terms
 as Stammeln, Hornstummheit, or other speech abnormalities.
+
 The possible physiological causes of stuttering are very complicated, but two at least may be distinguished. Stuttering is
 caused by highly intensified nervous impulses which pass not only
 to the nerves controlling laryngeal activity, but also to those governing other motor activities. In many instances these other activities at first offer relief, but finally become involuntary, so that the
@@ -35,8 +35,6 @@ i Public School No. 64 Is under the supervision of Associate Superintendent
 Gustave Straubenmuller and District Superintendent John W. Davis, to both of
 whom the writer is Indebted for sympathetic co-operation, and also to Principal
 William E. Grady, whose suggestions and kind assistance made the work possible.
-(93)
-$4 THE PSYCHOLOGICAL CLINIC.
 patient is unable to speak without them. In many cases, however,
 these associated motor activities are involuntary from the beginning. This is self-explanatory when we remember that the laryngeal nerves are branches of the vagus. All the muscles except the
 thyro-cricoid, which innervated by the superior laryngeal, receive
@@ -54,17 +52,20 @@ endeavor to produce the desired sound. These are the external
 manifestations. There are concomitant internal manifestations
 such as palpitation of the heart, dull pain in the stomach, parched
 throat, and other depressing symptoms.
+
 Stuttering may be due to some aberration of the superior
 laryngeal or recurrent fibres. The temporary paralysis of these
 fibres deprives the stutterer of the power to speak because this
 nerve controls the smaller muscles of the larynx which in turn control the size of the glottis. The sudden changes in the larynx destroy the rhythm of breathing which is of fundamental importance
 to normal speech.
+
 As distinguished from stuttering, the term stammering may
 be used to denote defects of the speech organs employed in producing consonants. The patient repeats involuntarily the sound
 of a consonant several times before he can glide on to the next
 sound. As a rule the stammerer speaks very rapidly when he is
 not in difficulty. In all cases there seems to be a lack of proper
 respiratory control.
+
 The views expressed by the leading German authorities (see
 bibliography, page 10G) show that at present there is no consensus
 of opinion as to the causes of stammering and stuttering. The
@@ -72,10 +73,10 @@ best ciiterion of their theories would be the results of methods
 based upon them. \\ ithout doubt many factors are involved
 in producing stuttering and stammering, and many causes are
 assigned, the most common of which are fear, imitation, injury to
-STUTTERING, STAMMERING, AND LISPING. 95
 organs of articulation, and heredity. An investigation of thirtytwo cases showed the following causes. In the case of the four
 marked "unknown," the parents simply stated that their children
 had suddenly developed the habit.
+
 TABLE I. CAUSES OF STUTTERING AND STAMMERING.
 Imitation  7
 Results of disease  8
@@ -84,6 +85,7 @@ Unknown   4 32
 The defects made their appearance between the ages of five
 and eight years, and in but one case did a pupil begin to stammer
 after he had attained the age of eight.
+
 Lisping is a relatively minor speech defect, usually due to
 absence of front teeth, an unusual protrusion of the lower jaw,
 to carelessness, and in many cases to a lack of knowledge concerning the position of the tongue and the shape of the mouth
@@ -95,12 +97,14 @@ supplied by a single city school, let us inquire:
 and of lispers in the school ?
 (2) What effect does school life have on the production of
 speech defects ?
+
 (3) What specific remedial measures may be adopted?
 The figures given in Table II are very conservative, in that
 they represent only the pupils who are sent to the speech class
 because their speech is so poor as to handicap their progress. It
 is probable that a thorough examination of all the pupils in the
 school would largely increase these figures.
+
 TABLE II.
 Per cent of Per cent of Per cent of
 bchool Enrolment defective stammerers and lispers or
@@ -110,7 +114,6 @@ Investigations conducted abroad, in German and Belgium
 (see bibliography, page 106), show approximately similar results.
 As an index of general conditions the figures correspond to those
 given in table II, and while it may seem premature to generalize,
-96 THE PSYCHOLOGICAL CLINIC.
 yet it seems as if a thorough investigation of the problem in our
 city schools would reveal an even higher percentage of speech defectives here than abroad.
 In addition to ascertaining the number of speech defective in
@@ -124,6 +127,7 @@ the proportion of stutterers and stammerers increases in the same
 period. His figures also show a gradual increase in the number
 of stuttering and stammering boys from the first to the fourth
 grades, as in the following table:
+
 TABLE III.
 First year 8 per cent
 Second year  1.3 " "
@@ -131,6 +135,7 @@ Third year  2.0 " "
 Fourth year  2.4 " "
 Fifth year   1.8 " "
 Sixth year  2.3 " "
+
 Table IV shows the distribution of children with speech defects in Public School No. G4, New York City, (see page 97).
 In this table the number of stammerers, stutterers and lispers
 in each grade represents the number sent to the speech class by
@@ -138,6 +143,7 @@ the grade teachers. Owing to duties imposed upon them by their
 parents, many of the children could not attend either the morning
 or afternoon sessions. As the table shows, only sixteen of the
 thirty-seven lispers attended the speech class.
+
 A study of table IV will show that lisping is greatest in the
 early school years, and that it has a tendency to become less as we
 approach the third and fourth years. On the other hand the percentage of stammerers and stutterers increases rapidly. Few if
@@ -147,7 +153,7 @@ course. These results are substantially in accord with the findings
 of Rouma. Apparently the school is increasing rather than decreasing the number of speech defects. It is true that, as Rouma
 has remarked, indifference and neglect on the part of parents,
 are factors contributing to the acquisition of habits of faulty
-STUTTERING, STAMMERING, AND LISPING. 97
+
 TABLE IV.?DISTRIBUTION OF DEFECTIVE SPEAKERS IN PUBLIC SCHOOL NO. 64
 Kgn
 1A
@@ -286,6 +292,7 @@ II
 6.3
 4.0
 3.0
+
 speech by children, nevertheless, modern pedagogical methods probably produce many stutterers and stammerers. Devices such as
 perception cards, rapid oral arithmetic, rapid interrogation, compulsory answering irrespective of the pupil's readiness and willingness, and those school activities in general which require intense
 mental effort combined with immediate oral response, frequently
@@ -298,19 +305,21 @@ has proved that various influences snch as nagging, over-pressure,
 sarcasm, and mimicry of classmates, all tend to disturb the pupil
 and hinder him from living up to the standards set for him in the
 speech class.
+
 The pertinent question still remains, Avhat specific remedial
 measures can be adopted to assist the child with defective speech.
-98 THE PSYCHOLOGICAL CLINIC.
 The first problem is one of organization. There are various possible modes of grouping such pupils:
 (1) Isolation and segregation of speech defectives in a special class, the session of which shall last from 9 a. m. to 3 p. m.
 (2) Compulsory attendance of speech defectives in the room
 of a regular teacher, preferably a departmental teacher, who having been relieved of official class work, can give within the limits
 of the school session, instruction for an hour or more daily to
 pupils who report to his room.
+
 (3) Attendance, compulsory or optional, of speech defectives
 before the regular session (8 to 8:30 a. m.) or after the regular
 session (3 to 3:30 p. m.) for instruction by a regular or a special
 teacher.
+
 (4) Looking at the problem in terms of a school district,
 rather than one particular school, attendance compulsory or optional at a centrally located school, conforming to any of the foregoing schemes.
 Without going into the relative merits of these various
@@ -334,7 +343,6 @@ the other at the close of the session (3 to 3: 30 p. m.). The grade
 teachers were urged to co-operate bv attending a session of the
 speech class to note the method of instructing the pupils, and by
 making the pupils conform to certain standards in the daily recitation. The speech defectives were told to consult with their regulai class teachers and to indicate their willingness and readiness
-STUTTERING, STAMMERING, AND LISPING. 99
 to recite orally by raising the hand. When reciting, the pupils
 are supposed to stand erect, to take deep breaths, to talk very
 slowly, and to try to vary the pitch. The teachers were requested
@@ -344,8 +352,10 @@ put when they are not ready with an answer, frequently throws
 them iuto such a nervous state that in their attempt to answer, they
 will relapse into their former habits and nullify the results of
 special instruction.
+
 Three forms of exercises were employed in the morning and
 afternoon speech classes.
+
 (1) An exercise to build up the weakened respiratory system.
 For this purpose, use was made of the "Two-minute drill" as given
 in the city schools. This drill, when properly done, becomes a
@@ -357,12 +367,14 @@ steps taken by a young child in acquiring speech. This exercise
 was based on Wundt's Development of Speech in Children (Entwicklung der Kindersprache). Inarticulate sounds (Schreilaute)
 gradually lead to the development of articulate sounds, and these
 in turn lead to the word in the sentence.
+
 (3) Ear training. This enables the pupil to hear his own
 voice and to make an effort to change the tone of his speaking
 voice from a low monotonous pitch to the modulated speech of a
 normal child. Inasmuch as speech defectives tend to crowd their
 speech and use a faster tempo than normal, a metronome was employed to give the pupil a standard by which to measure the gait
 of his speech.
+
 In the first exercise, the effort is made not only to strengthen
 the weakened respiratory and circulatory system, but to impress
 upon the pupil the fact that proper breathing is a means of overcoming his difficulty. The child is placed on his back and told to
@@ -420,12 +432,15 @@ pitch. For example, in the following sentences the intonation is
 a rising or a falling one, according to the thought expressed in the
 sentence, and the pupil is taught to indicate the change in tone
 by raising or lowering the hand.
+
 The flag was raised.
 I walked down the steps.
 I jump up and down.
+
 Further sentences expressing everyday occurrences were put
 on charts and colored chalk used in marking the vowels, each vowel
 being marked with a different color.
+
 Inasmuch as the vowels are easiest for the pupil to sound,
 this device seems to encourage him and enable him to master the
 consonants more easily. In cases where the first word in a sentence begins with a consonant, and difficulty is encountered in
@@ -441,29 +456,24 @@ repeat the sentence with ease. Merely suggesting that the pupil
 can say a word often enables him to do so; he becomes confident,
 and finds himself trying to verify his growing belief in his
 ability.
+
 Drills in reading the vowels in a sentence are also very helpful. A rhyme is written on a chart and all the vowels are marked
 in their characteristic colors. The pupil then reads the vowels
 slowly in a sing-song manner according to one of the five types of
 melodies shown in Fig. 1. The consonants are then slipped in and
 the pupils read the entire sentence in a musical tone. The selection
-102 THE PSYCHOLOGICAL CLINIC.
 and presentation of reading material is of great importance, and
 should come as a final step in the treatment.
+
 The pupils are taught to be self-critical of their speech. Inappropriate movements, a dull monotonous tone, lack of breath, careless pronunciation or enunciation,?all these faults arouse immediate criticism. Through experience the pupil learns (1) to inhale
 until the belly wall is well extended; (2) to speak slowly and in
 rhythm; (3) to use a melody; (4) to pay close attention to vowels;
 (5) to introduce a vowel when in straits.
+
 The application of these exercises was fraught with difficulty.
 The oral rendition of any selection from the reader seemed to
 undo all that had been laboriously accomplished. The pupils still
 lacked power and confidence, and the sight of a reader or any
-.o
-s:
-o
-i
-FIG. 1. THE FIVE TYPE MELODIES.
-FIG. 1. THE FIVE TYPE MELODIES.
-STUTTERING, STAilOfflZlZVG, AM LISPING. 103
 other book made them revert to their old habits. This may have
 been due to the association of a reader with the unsympathetic
 audience in the classroom. For a long time it was hard to develop
@@ -472,6 +482,7 @@ would serve for the application of principles already taught; but
 the imitative instincts of the children suggested a plan which was
 followed with excellent results. They originated games which
 were nothing less than a dramatization of familiar occupations.
+
 One game that proved very effective was called "grocery." The
 pupils first told what could be bought in a grocery store, and then
 chose a grocer, several clerks, errand boys, and so on. Although
@@ -503,14 +514,9 @@ teeth and lips to form such difficult sounds as r, tli, I, s, v and wh.
 Investigation disclosed the fact that the most difficult sounds were
 the six just mentioned, and w, z, d and t. The s and 2 are especially difficult for children who lack the incisor or canine teeth,
 and they frequently substitute th for s or z. The I, r, t, d, wh and
-104 THE PSYCHOLOGICAL CLINIC.
-*
-V \ wK.
-FIG. 2 POSITIONS OF THE TONGUE, TEETH AND LIPS TO FORM THE SIX MOST DIFFICULT SOUNDS.
-FIG. 2 POSITIONS OF THE TONGUE, TEETH AND LIPS TO FORM THE SIX MOST DIFFICULT SOUNDS.
-STUTTERING, STAMMERING, AND LISPING. 105
 w are usually mispronounced because of inability to place the
 tongue, teeth and lips in the proper position.
+
 In correcting such defects the work is individual. Each
 pupil is studied thoroughly and his difficulties understood. In
 cases where nothing could be done because of the condition of the
@@ -542,6 +548,7 @@ because it proved to be easier. T is made by placing the tongue
 on the upper teeth, d by placing it on the hard palate near the
 teeth. The mouth, of course, is open and the breath is forced out
 while the tongue is rapidly moved downward.
+
 Only two pupils found trouble in forming the cli and sh
 sounds, which as they gave them, were thick and resembled the
 escape of steam. On close examination it was found that the
@@ -549,7 +556,7 @@ mouth was drawn to one side and the sound emitted through an
 aperture made by the lips and teeth. The defect was overcome
 by making the pupil control the motion of his lips and close the
 teeth as much as possible when producing th'e sounds.
-106 THE PSYCHOLOGICAL CLINIC.
+
 Further study of speech defectives is urgently needed.
 Physiological investigation should be made of pupils who are not
 cured in a reasonable time, because of conditions obviously other
@@ -558,7 +565,10 @@ a method for the successful treatment of theste peculiar cases.
 Statistics should be collected for the purpose of determining the
 character of the speech of pupils in city schools, so that the investigator of speech defects may give his attention to those groups
 which most need his assistance.
+
 BIBLIOGRAPHY.
+-------------
+
 1. Bell. Principles of Phonetics, with directions for the cure of stammering.
 2. The Faults of Speech.
 3. Coen. Xeueste Erfahrungen uber Sprachstorungen; 11)01.

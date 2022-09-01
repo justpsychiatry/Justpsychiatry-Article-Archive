@@ -4,8 +4,8 @@ The Fundamental Expression of Retardation
 The Psychological Clinic
 Copyright, 1911, by Lightner Witmer, Editor. j
 Vol. IV. jSfo. 8. January 15, 1911.
+:Author: Koland P. Falkner, Ph.D.
 
-By Koland P. Falkner, Ph.D.
 The problem of retardation has been so often discussed at
 recent educational gatherings and in the educational press, that the
 discussion would seem to have passed beyond the stage where it
@@ -19,6 +19,7 @@ is the accepted source of information. In the construction of
 such tables there is more and more uniformity. It is generally
 accepted that in the first grade a child is not to be regarded as
 over age or retarded until he is eight years old.
+
 As it has been recognized that retardation is a problem
 primarily of the elementary school, the cases in which these tables
 include the high schools are relatively few. As yet no general rule
@@ -29,8 +30,7 @@ growing that comparisons between different cities, whatever their
 validity, can be most effectively made when the statistical basis is
 the same in the cities compared. The work which is being done
 by the U. S. Bureau of Education and the Immigration Commission has this marked advantage over previous inquiries.
-(213)
-214 THE PSYCHOLOGICAL CLINIC.
+
 GRADES AND AGES OF PUPILS ATTENDING PHILADELPHIA SCHOOLS
 December 15, 1908.
 Ages in
@@ -280,7 +280,7 @@ Number Percent
 225
 60
 57,721
-EXPRESSION OF RETARDATION. 215
+
 Assuming that these figures are as valuable as some writers
 believe, in giving information about our schools, it can not be
 overlooked that the preparation of these tables, simple as they
@@ -290,17 +290,20 @@ authorities. If there is any short cut to the information sought,
 it may be worth while to point it out. But the short cut, if one is
 to be found, must result from an analysis of the tables commonly
 presented.
+
 The ages and grades of the children in the elementary and
 high schools of Philadelphia, December 15, 1908, are given in
 the accompanying table. For convenience of reference the table
 has been somewhat rearranged and the last three columns, giving
 derivative numbers not printed in the report, have been added by
 the writer.
+
 In such a table the figure which attracts most attention, and
 the one most likely to be quoted in comparison with other cities,
 is the aggregate for the elementary schools, which shows that of
 130,871 pupils, 55,527 or 42.4 per cent of the total, were above
 the normal age for their respective grades.
+
 But is this the most characteristic figure in the table ? Is it
 that which tells us most about the retardation in the Philadelphia
 schools ? If the figure as a general average will answer for comparisons of Philadelphia with other cities enumerated at the same
@@ -308,6 +311,7 @@ time, is it after all the best measure which the table affords of
 the extent of retardation in the city of Philadelphia ? There are
 some reasons for thinking otherwise. An analogy will show the
 grounds for such belief.
+
 If we were to calculate the percentage of married people in
 the total population we should immediately perceive that the result
 would depend not only upon the number of married persons among
@@ -321,12 +325,12 @@ them be of normal age or under, but it is not theoretically possible
 that all of them should be above the normal age. Among them
 there are 27,324 children under eight years of age who by the
 terms of the definition cannot be retarded. This leaves us 103,547
-216 THE PSYCHOLOGICAL CLINIC.
 children of eight years of age and upward who may or may not
 be retarded, the table showing that 55,527 or 54.7 per cent of all
 are actually retarded. It appears therefore that instead of rather
 less than one-half the children it is rather more than one-half the
 children of Philadelphia who are retarded.
+
 Theoretically the distinction which has just been made might
 affect the comparisons between different places. It is conceivable
 that in one communty the proportion of very youug children
@@ -349,6 +353,7 @@ common method of calculating the percentage of retardation.
 The omission of children under eight years of age from the divisor
 would increase the resulting percentage more in Boston than in
 St. Louis.
+
 But leaving comparison aside it is obvious that the statement
 that in Philadelphia 42.4 per cent of the school children are retarded, does not tell us what proportion of the school children
 suffer from the effects of losing time. Since the figures are commonly printed by grades as well as for the elementary schools as
@@ -370,11 +375,13 @@ tell in advance where the maximum retardation will be found. In
 most cases it lies in the fourth to the sixth grade. But once ascertained it would be perfectly practicable in future enumerations
 to confine the ascertainment of ages to this grade and those immediately above and below it, and this would be a saving of labor
 over the present method.
+
 A consideration of the reasons for preferring the maximum to
 the average will seem to point out an even better measure of retardation, which will not only give us (in the opinion of the writer)
 the best single expression of the extent of retardation, but will
 also show the way to a short cut in securing the really valuable
 information.
+
 To say that a child is retarded, means simply that for his
 age he is not sufficiently advanced in his studies. He may have
 begun too late, or he may have failed at some point in the course.
@@ -397,7 +404,6 @@ is quite possible for the manufacturer to make an inventory of
 his stock in process and ascertain how much in each shop is below
 grade. This would be analogous to what the school man does when
 he ascertains the retarded children in each grade. But the interest
-218 THE PSYCHOLOGICAL CLINIC.
 is not in ascertaining the general average of deficiency of the
 material in process, but what it is in each of the several stages.
 This has its value alike for the manufacturer and the school man,
@@ -418,6 +424,7 @@ leave school depends not on attaining a certain grade, but in attaining a certai
 that an examination of retardation with reference to the age of
 pupils will furnish a better measure of general results, than the
 examination of the grades.
+
 It is perhaps curious that in the current discussion of retardation so much attention has been given to the pupils who are over
 age for their respective grades and so little to the reverse aspect,
 the pupils who are under the proper grades for their respective
@@ -427,6 +434,7 @@ So if instead of confining ourselves to the elementary schools we
 take into consideration the total of high and elementary schools
 we find that in Philadelphia they constitute 41.5 per cent of all
 pupils.
+
 But the consideration of the pupils by separate ages brings
 out more clearly than that by separate grades the special characteristics of the general phenomenon of retardation. Our table shows
 that in the ages five to seven years inclusive there is no retardation,
@@ -434,7 +442,6 @@ that the term is not applicable to these ages. Retardation begins
 with the eighth year of age, where in Philadelphia 22.1 per cent
 of the children are retarded. Retardation increases regularly with
 each year of age till we reach the age of thirteen years when the
-EXPRESSION OF RETARDATION. 219
 proportion reaches 68.2 per cent. After that it declines and does
 not again reach this medium till we reach the nineteenth year of
 age, when all the few remaining pupils are under grade. In the
@@ -446,6 +453,7 @@ indeed some slight difference, a decrease in the age thirteen years
 as compared with those which precede it. But those which follow
 fall off very rapidly, and at the age of sixteen there are less than
 one-quarter as many children in school as at thirteen.
+
 The age thirteen years marks the limit of compulsory education. This is the last year in which practically all the children
 are in school. The amount of retardation at this point measures
 the results of the work of the school system. In Philadelphia, as
@@ -459,10 +467,12 @@ is characteristic of the school children generally. Practically no
 retarded children have missed being counted by leaving school,
 as would be the case if the calculation were made for instance at
 the age of sixteen years.
+
 Valuable as is the knowledge of details for each age and for
 each grade, it results from the foregoing analysis that the best
 single statement of the amount of retardation in a given community is found in the proportion of thirteen year old children who
 are under the seventh grade in the schools.
+
 It cannot escape observation that this significant figure is one
 of comparatively easy ascertainment. In Philadelphia schools
 thirteen year old children are found in all the grades, except the
@@ -471,9 +481,9 @@ the city giving name, grade, and the number of thirteen year old
 children in the grade, would be very simple to prepare, very simple
 to tabulate. In the Philadelphia schools on the date to which our
 table refers, it would have involved only 14,146 pupils, while the
-220 THE PSYCHOLOGICAL CLINIC.
 complete enumeration of elementary and high schools comprised
 nearly ten times that number.
+
 In his work on school reports Dr Snedden suggests that certain elaborate statistics which from time to time may be necessary
 for a knowledge of school conditions may be taken at periodical
 intervals, as the government arranges its census operations. If

@@ -4,12 +4,13 @@ Re-Averments Respecting Psycho-Clinical Norms and Scales of Development
 The Psychological Clinic
 Copyright, 1913, by Lightner Witmer, Editor.
 Vol. VII, No. 4 June 15, 1913
-
-By J. E. Wallace Wallin, Ph.D.,
+ :Author: J. E. Wallace Wallin, Ph.D.,
 Professor of Clinical Psychology, School of Education,
 University of Pittsburgh.
+
 Recent discussions seem to call for a re-emphasis of certain
 conclusions at which I had previously arrived.
+
 1. An expert experimental, educational, or genetic psychologist
 is not, in any legitimate use of the word, -a skilled clinical psychologist.1
 The former have no more right to regard themselves as expert
@@ -30,11 +31,6 @@ of the skilled psychiatrist?suggestion, psycho-analysis, re-education
 ?but particularly the differential, corrective pedagogics of the
 educational expert on mentally deviating children. There is no
 general scheme of corrective pedagogics. The method will have
-1 Science, 1913; Journal of Educational Psychology, 1912, p. 224.
-2 Journal of Educational Psychology, 1912, p. 224 f.; Science, 1913.
-s Journal of Educational Psychology, 1911, p. 207 f.
-(89)
-90 THE PSYCHOLOGICAL CLINIC.
 to be differentiated to meet the needs indicated by a diagnosis of
 each case. It will be as different for the feebleminded and for the
 stutterer as it is for the deaf and for the blind. Finally, the clinical
@@ -70,10 +66,10 @@ diseased person. A teacher or nurse who is trained to give the
 Binet or any other mental tests has no more right to call herself
 a clinical psychologist, than a nurse who is trained to take the temperature, pulse or any other medical readings has a right to call
 herself a physician.
+
 1 Experimental Studies of Mental Defectives, 1, 110; Journal of Educational Psychology,
 1912, p. 224. Medical Record, 1913. A similar view is evidently entertained by Bruner:
 Addresses and Proceedings of the National Educational Association, 1912, p. 1110 f.
-PSYCHO-CLINICAL NORMS. 91
 We shall for a long time be obliged to utilize more or less
 unskilled, or only partially skilled, workers in the mental testing
 of deviating children, because we shall probably not be able for a
@@ -96,6 +92,7 @@ children tested were classified as feebleminded! I am free to confess,
 however, that I have found the Binet scheme of more value than
 have the psychologists in the Chicago schools (judging by personal
 reports made to me by Dr Bruner).
+
 In spite of all this, judicious and guarded testing by trained
 teachers will have some value, because it will confirm (or refute)
 the class-room teacher's judgment by a system of independent,
@@ -105,14 +102,13 @@ that many parents will be reluctant to accept diagnoses not made
 by experts of acknowledged authority. In London parents have
 a right to demand independent examinations of mentally defective
 children every six months.
+
 It should be remembered that mental testing is only one phase
 of mental diagnosis; the determination of mental status does not
 automatically include the determination of the causative factors.
 "The function of the Binet-Simon, or any other graded scale of
 intelligence, is to give us a preliminary, and not a final survey or
 rating of the individual." The testing is "merely a point of departure for further diagnosis."5 Grade teachers or nurses are "unfitted
-s Experimental Studies of Mental Defectives, 109.
-92 THE PSYCHOLOGICAL CLINIC.
 for the two highest functions of the psycho-clinicist. First, they
 are incapable of giving a satisfactory diagnosis (the chief consideration in any examination) of individual cases; and secondly, they
 are unable to conduct research?to prosecute productive and constructive research."6 And I want to repeat with all possible emphasis
@@ -134,10 +130,12 @@ on what the clinical psychologist should do. For clinical psychology
 is just being born. I believe it is safe to predict that the type of
 training outlined above will in future be demanded of the mental
 examiner of deviating children.
+
 2. Norms of 7nental functioning established by experimental or
 educational psychologists by group tests on squads of children may
 have little practical value as clinical tests.1 There are various reasons
 why this is so.
+
 First, group tests require written responses. But the clinical
 psychologist must reduce written responses to a merely nominal
 amount, partly because children differ in the rate or skill of writing
@@ -150,9 +148,8 @@ ordeal, hence there is no time to waste on the mechanics of writing.
 There are, of course, many valuable tests which can only be done
 in writing, and these should be given in as brief a form as may be
 feasible.
-6 Journal of Educational Psychology, 1912, p. 225.
-7 Alienist and Neurologist. May, 1912.
-PSYCHO-CLINICAL NORMS. 93
+
+
 Secondly, many of the best single group tests carried out by
 the experimental and educational psychologists cannot be given in
 less than from three to thirty minutes. It is quite practicable for
@@ -160,6 +157,7 @@ the educational psychologist to give lengthy tests because usually
 during any one sitting he attempts to measure only a limited number of traits. But the psycho-clinicist, in order to get a comprehensive picture of his case, must test a very considerable number of
 functions. Hence the time of each test must necessarily be reduced
 to an "irreducible minimum."
+
 Thirdly, experiments show that children do better when
 tested in groups than when tested singly.8 For this reason group
 norms may not be serviceable as clinical norms. Merely on a priori
@@ -169,6 +167,7 @@ clinical norms which have been derived from group results. As a
 matter of fact, nearly all norms now in practical use, whether mental
 or anthropometric, have been secured by individual and not by
 group testing.
+
 It is just because our clinical norms must be based on individual
 and not on group testing that the task of securing them is herculean.
 It is this fact that I had in mind in previously emphasizing that the
@@ -183,12 +182,6 @@ group tests and norms for the same tests established clinically.
 3. So far as concerns the probing of the efficiency of mental functions by testing, the most serviceable clinical examining technique consists
 in the graded scales of intellectual, motor, and socio-industrial (possibly also emotional) development.10 The high value which Thorndike11 ascribes to the correlation formula probably is justified so far
 as concerns the diagnosis of the school system or of a number of individuals of the same ages when tested in groups. But the most
-8 See Burnham, Science, 1912, p. 761 f.
-9 Journal of Educational Psychology, 1911, p. 204; Alienist and Neurologist, May; 1912,
-Experimental Studies of Mental Defectives, 1912, p. 56 ff.
-10 Pedagogical Seminary, 1911, p. 74 ff.
-? Science, 1913, p. 133.
-94 THE PSYCHOLOGICAL CLINIC.
 valuable contribution made thus far to the technique of clinical
 diagnosis?and fundamentally diagnosis means precisely clinical
 diagnosis?does not come from the correlation formula. If there
@@ -223,12 +216,9 @@ are placed in Age XII. Here we have the absurd procedure of placing tests in an 
 a theoretical reconstruction, and of leaving an important age vacant.
 It would likewise be interesting to know the evidence on which the
 seven-digit and rhyme tests were placed in Age XV. Moreover, it
-"The Psychological Clinic. Vol. V, No. 7, Dec., 1911, p. 218; Journal of Educational
-Psychology, 1912, p. 224 f.; Alienist and Neurologist, 1912, May; Experimental Studies of
-Mental Defectives, 1912, pp. 55, 117.
-PSYCHO-CLINICAL NORMS. . 95
 is more important to have supplied reliable tests for Ages XI, XIII,
 and XIV, than for Age XV and for adulthood.
+
 Of the other revisions which have appeared in rapid succession
 it may be said that in no case are they based upon the performances
 of selected normal children; in no case has an extensive number of
@@ -267,7 +257,6 @@ children;16 the establishment of various age-standards throughout
 as follows: "The 6-year group will include children from 5 years, 10 months (beginning of 10th
 month) to 6 years, 3 months (end of 3d month), while the 6}4 year group will include children
 from 6 years, 4 months (beginning of 4th month) to 6 years, 9 months (end of 9th month)."
-96 THE PSYCHOLOGICAL CLINIC.
 the scale for the same type of test; and the establishment of normal
 norms of variation in addition to normal norms of performance.17
 Since I emphasized the advisability of testing identical traits
@@ -281,6 +270,7 @@ seriously affected." A series of consecutive tests, each differing
 somewhat from the others, which I have used with various groups of
 children and which can be given once annually for a period of six
 years, are now upon the market.
+
 I do not think that we shall be able to test existing scales in a
 thoroughly reliable manner except by a wide-range method of testing multitudes of normal children.21 We should test, at the very
 minimum, one hundred "normal" boys and one hundred "normal"
@@ -290,6 +280,7 @@ That would be a gigantic undertaking requiring the concentrated
 attack of a large corps of trained workers, but the ultimate results
 which this research would yield in human conservation would well
 repay the toil and expense required.
+
 17 Alienist and Neurologist, May, 1912; Experimental Studies of Mental Defectives,, p.
 42, 104 f.
 18 Pedagogical Seminary, 1911, p. 76 f.; Experimental Studies of Mental Defectives, pp. 8 f.,

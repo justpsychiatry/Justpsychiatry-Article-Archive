@@ -42,9 +42,9 @@ intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 
-   'otherbook':
+   'BJPsychBulletin':
               ('https://www.justpsychiatry.co.uk/projects/bjpsych-bull/index.html',
-               ),
+              ),
 }
 intersphinx_disabled_domains = ['std']
 
@@ -96,7 +96,21 @@ epub_show_urls = 'footnote'
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 
-
+myst_enable_extensions = [
+    "amsmath",
+    "colon_fence",
+    "deflist",
+    "dollarmath",
+    "fieldlist",
+    "html_admonition",
+    "html_image",
+    "linkify",
+    "replacements",
+    "smartquotes",
+    "strikethrough",
+    "substitution",
+    "tasklist",
+]
 
 
 # -- General configuration ---------------------------------------------------

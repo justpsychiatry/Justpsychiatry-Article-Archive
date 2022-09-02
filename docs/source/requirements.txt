@@ -7,7 +7,7 @@ sphinxcontrib-bibtex
 myst_parser
 sphinxcontrib.apa
 sphinx_opensearch
-sphinx_design
+sphinx-design
 sphinx-sitemap
 readthedocs-sphinx-search
 opensearch-py

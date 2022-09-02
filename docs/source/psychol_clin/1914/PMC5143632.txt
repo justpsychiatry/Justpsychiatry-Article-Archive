@@ -1,8 +1,9 @@
 A Third Study of Mental Fatigue in Relation to the Daily School Program
 =========================================================================
 
-f By William H. Heck, M. A.
+:Author:  William H. Heck, M. A.
 University of Virginia.
+
 During the year 1911-12 the author gave to forty classes in New
 York City ten-minute tests in the fundamental operations in arithmetic at four different periods of a two-session school day. The
 results were compared as to quantity and quality in order to suggest
@@ -12,6 +13,7 @@ given to sixteen classes in Lynchburg, Va., at two periods of a onesession day, 
 to those from the New York tests.2 The present paper reports an
 experiment with twelve-minute tests in reasoning problems in arithmetic given to sixteen classes in the Intermediate School in Roanoke,
 Va., at two periods of a one-session day.
+
 Although rapid computation requires a continued alertness
 on the part of grammar-grade pupils, which can well be considered
 indicative of hygienic efficiency for other lines of school work, it
@@ -30,12 +32,6 @@ elements in this gross method were mainly neutralized in the comparison of morni
 On Monday, December 8th, form 2 of test No. 8 was given as a
 preliminary test to all sixteen classes in order to acquaint them with
 the matter and method of the succeeding tests; but the papers were
-"Report published as a monograph: "A Study of Mental Fatigue in Relation to the Daily
-School Program," 1913, pp. 28.
-'Report published in The Psychological Clinic, April 15, 1913: "A Second Study of Mental
-Fatigue in Relation to the Daily School Program."
-(258)
-A THIRD STUDY OF MENTAL FATIGUE. 259
 not scored. By trying ten, fifteen, and twelve minutes as the time
 limit for this preliminary test, the twelve-minute limit was found to
 be most suitable for the classes concerned. For the succeeding tests
@@ -63,6 +59,7 @@ and the few who finished early spent the extra time in looking over
 their papers. Where children were absent from one test or where
 they did not follow important directions, their papers were thrown
 out.
+
 The hygienic conditions in the new school building were unusually
 good, but there had been no medical inspection of the children.
 Opening exercises were held in each room from 9:00 to 9:20, recess
@@ -75,9 +72,9 @@ departmental system of instruction prevailed throughout, with
 half-hour recitation periods. All classes included both boys and
 girls, the total represented in my results being 212 boys and 255 girls.
 The average age was 14.18 years.
+
 After the papers were scored, the averages of the number of
 examples done and the number right in the morning and in the afternoon tests were made for each class. Then general averages were
-260 THE PSYCHOLOGICAL CLINIC.
 made for the sixteen classes combined, and the morning and the
 afternoon results were compared. The number of examples done in
 the afternoon was 0.68 per cent greater than in the morning; the per
@@ -92,12 +89,14 @@ in the former. The seventh grade had an increase of 1.61 per cent
 in quantity in the afternoon and a decrease of 2.82 per cent in quality;
 the sixth grade had a decrease of 0.04 per cent in quantity and a
 decrease of 3.67 per cent in quality.
+
 Complete tables of class and general averages were made for
 the girls and for the boys, showing the greater relative efficiency of
 the former in the afternoon. The girls had an increase of 1.78 per
 cent in quantity in the afternoon and a decrease of 2.48 per cent
 in quality; the boys a decrease of 1.30 per cent in quantity and a
 decrease of 3.76 per cent in quality.
+
 The practice effect was calculated by re-arranging the class
 averages according to first or second test rather than according to
 morning and afternoon, thus neutralizing for the most part the
@@ -105,6 +104,7 @@ decrease in efficiency in the afternoon. The sixteen classes showed
 in the second test an average increase of 12.43 per cent in quantity
 and an average increase of 7.16 per cent in quality. This large practice effect was mainly due to the difficulty the children had at first
 in disregarding unnecessary figures in some of the examples.
+
 The final conclusion to be drawn from this experiment in Roanoke
 with reasoning tests in arithmetic, as well as from those in Lynchburg and New York with the fundamental operations, is that normal,
 healthy children in the grammar grades, in a hygienic school environment, can meet the requirements of the usual daily school program

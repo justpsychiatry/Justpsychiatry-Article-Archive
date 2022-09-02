@@ -1,24 +1,28 @@
 A Study of the Comparative Retardation of Negro and White Pupils in a Philadelphia Public School
 =================================================================================================
 
-By Louise F. Perring, A.M.,
+:Author:  Louise F. Perring, A.M.,
 Philadelphia, Pa.
+
 In determining the best education for the negro under the social
 conditions in which he finds himself, it would seem to be of first
 importance to discover, if possible, how he compares in his elementary education with the children of the white race. At present,
 except in a few instances, the negro children in the North are distributed among the white children in the regular public schools.
 In the South, while the negro is segregated, the courses of study are
 practically the same as those for the other race.
+
 Two questions arise from this situation,?first, how does the
 negro boy or girl "fit in" to the course of study prescribed originally
 for the white child? Secondly, is it possible to devise a better course
 of instruction for the average negro boy or girl??not merely a more
 practical one in the money-getting sense, but one that will fit better
 the usual type of negro mind.
+
 Few studies have been made on this subject. Dr Odum of
 the Bureau of Municipal Research has made some extensive comparative inquiries, the results of which have been published only
 in part in the Annals of the American Academy of Social and
 Political Science for November, 1913.
+
 In a dissertation on "Retardation in the Elementary Schools of
 Philadelphia," Dr Byron A. Phillips* calls attention to the increase
 in retardation in those schools and districts in which the negro
@@ -30,13 +34,11 @@ a long list of cities, comparing the retardation and elimination of
 pupils in them. In only one city, Savannah, do the negro and
 white children appear in the list with a separate group of statistics.
 The probable effect of their presence is seen in the very high percentages of retardation in the schools of the "black belt" of the
-. *The Psychological Clinic, Vol. VI, Noa. 3 and 4, May and June, 1912.
-(87)
-88 THE PSYCHOLOGICAL CLINIC.
 South. It is, of course, possible that this excessive retardation maybe due to inefficient teaching, but such an assumption would not
 only be a gratuitous insult to the ability of our southern co-workers,
 but not at all borne out by the other facts that it has been possible
 to find.
+
 The present investigation is undertaken as a contribution to
 the solution of the first question propounded above: how does
 the negro compare with the white child in taking up the white
@@ -46,6 +48,7 @@ School District of Philadelphia. In this school the negroes are
 about 40 per cent of the school population. They are not segregated, but are taught in the same classes by the same teachers,
 use the same text-books and are subject to the same supervision
 and discipline as the other children.
+
 While numbers are too small to enable us to do more than
 point to probable conclusions, yet the circumstances lend themselves to a fair comparison between the two races.
 Let us consider in the first place the percentage of retardation based on the form used in the public schools of Philadelphia
@@ -61,12 +64,14 @@ year. Taking primary and grammar grades together the negroes
 still show twice as great a percentage of retardation as the white
 children with a slight advantage in favor of the negro boys as compared with the negro girls; a difference which will be further referred
 to in the conclusion of this paper.
+
 In order to take the comparison one step further the amount
 of retardation of the retarded pupils in each group was also determined (table II). A consideration of this table shows that not only
 were a greater percentage of negro than of white pupils retarded,
 but that the average amount of retardation was greater in each
 group of negro children, the average amount of the excess being
 .45 years.
+
 In this comparison, also, the negro girls show up less favorably
 than the negro boys. The average number of years of retardation
 A STUDY OF NEGRO AND WHITE PUPILS.
@@ -232,7 +237,7 @@ Total... 84 31 16
 4
 31 24 15
 41 35 18
-A STUDY OF NEGRO AND WHITE PUPILS. 91
+
 was for negro boys, all grades 1.9; for white boys, all grades 1.6.
 In the grammar grades the average retardation was for the negro
 boys, 1.5; for the whites, 1.3 years. In the primary grades the
@@ -242,6 +247,7 @@ years and the white girls 1.5 years. In the grammar grades the
 negro girls were retarded 1.9 years and the white girls 1.3 years,
 while in the primary grades the negro girls were retarded 2.1 years
 and the white girls 1.6 years.
+
 Comparing the negro and the white children, both sexes together,
 we find that all negro children who were retarded were retarded an
 average of 2 years and all white children an average of 1.5 years.
@@ -256,6 +262,7 @@ groups, first and third year girls, was there any acceleration of negro
 children, and that only in the third year did such acceleration
 exceed that of white children. There were white children accelerated
 in eight out of sixteen sex-grade groups.
+
 In seeking for a cause, other than a racial one, for these differences, the physical condition of the negro children was also
 looked into (table III).
 TABLE III.
@@ -292,14 +299,15 @@ Total.
 75
 .62
 .42
+
 The medical inspector's record on the reverse of the school
 registration card was used as a basis for this comparison. It may
 be said that the results were surprising to the investigator, as there
 had been a preconceived opinion that the negroes were probably
-92 THE PSYCHOLOGICAL CLINIC.
 in a poorer physical condition than the white children, owing to
 their lower economic status in general, and the informality of
 their social arrangements.
+
 The record shows, however, that the average number of recorded
 defects was less per pupil among the negroes than among the whites.
 Evidently on the score of physical health, the negro child is better
@@ -307,6 +315,7 @@ off than the white child. It may, of course, be a case of "the survival of the f
 of child mortality were available, so this question must be left open
 for further investigation. However, the fact and not its cause is
 the important thing.
+
 A final point is the average age of the groups. A study of the
 facts (table IV) shows that without exception the negro children
 in any sex-grade group are from three months (first year girls) to
@@ -314,6 +323,7 @@ one and one half years older (second year boys) than the corresponding group of 
 of the Lynd School. The investigation of Dr Odum shows that
 the ages of the white and negro pupils throughout the city hold
 about the same relative position.*
+
 TABLE IV.
 Grammar.
 Primary.
@@ -391,10 +401,9 @@ Sexes
 1.2
 .7
 .7
+
 It seems that we are justified in saying that the negro boy or
 girl is not getting what he ought to get in our schools, arranged as
-* Annals of Am. Acad., November, 1913, p. 189.
-A STUDY OF NEGRO AND WHITE PUPILS. 93
 they are on a basis of European tradition. Whether the negro has
 or has not a less keen intellect than the Caucasian, is beside the
 point. His mind is evidently not like the mind of those with whom
@@ -406,10 +415,12 @@ children. To be sure, we only measurably succeed with the latter,
 and in so far as we fail, our methods and our materials are probably
 wrong; but they are probably twice as far wrong when we attempt
 to force them upon the negro.
+
 In conclusion, just a paragraph upon two points:
 First, the sudden reduction of the age differences between the
 white and negro pupils of the sixth year and above, points to a difference in the rate of elimination between negro and white pupils that
 would bear investigation along comparative lines.
+
 Secondly, the population of the special class for incorrigible
 and backward pupils in the neighborhood of the Lynd School is
 about 75 per cent negro, a much greater percentage than the neighborhood population would warrant.

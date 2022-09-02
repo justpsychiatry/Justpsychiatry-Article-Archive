@@ -5,9 +5,9 @@ The Psychological Clinic
 Copyright, 1914, by Lightner Witmer, Editor.
 Vol. VIII, No. 6.
 November 15, 1914
-
-By Robert A. Cummins,
+:Author:  Robert A. Cummins,
 University of Washington.
+
 The material herein set forth does not pretend to represent a
 particular study of any kind, therefore the reader need not expect to
 find a solution of any specific problem, much less a determination of
@@ -31,6 +31,7 @@ who elected the course in Educational Clinic, the method of procedure used in th
 1 Tlie author desires to express his thanks and appreciation to Supt. J. C. Collicott and to
 Supt. William F. Geiger, for permission to carry on these investigations in the public schools of
 Tacoma.
+
 2 Beginning with January, 1912, three free public lectures were given at the city Y. M. C. A.
 on "The Educational Clinic and Problems pertaining to the Abnormal Pupil in the Public Schools."
 Also, at the request of the Teachers' Council of the city schools, an article was prepared on "Special
@@ -39,9 +40,7 @@ Journal of Education, the official organ of the teachers of the State of Washing
 3 Acknowledgment is due to C. W. Jones, William Olson, Marie Conney, Berna Miller and
 Helen Vent, all of whom rendered extra service in tabulating data, especial mention being due
 Misses Miller and Vent.
-* A brief description of tests used and apparatus employed is given in the appendix a, b, etc.
-(153)
-154 THE PSYCHOLOGICAL CLINIC.
+
 Together with an assistant we visited the special room and
 there examined all the pupils with the Binet scale of mental measurement, taking no less than thirty minutes for each pupil, carefully
 working up and down the scale and supplementing each test with
@@ -58,6 +57,7 @@ board, needle-threading, and deSanctis tests (see b in appendix).
 This was followed up by further testing done in the laboratory,
 where apparatus for making records, such as the kymograph, was
 available (see c in appendix).
+
 The personal and family history of the subjects was obtained
 through the cooperation of the teacher and through direct interviews
 with some of the parents or guardians. This completed the data
@@ -65,15 +65,11 @@ from which the graphic charts given below were compiled. If any
 merit attaches to the method used, it lies in its freedom from personal
 bias or preconceived pedagogical theories with reference to this class
 of pupils.
+
 Chart No. 1 represents a comparison, in respect to vital capacity
 and strength of grip, of the ten pupils in the special room with the
 norms for the same age and sex, the number of pupils of each age and
 sex as actually found in the room being paralleled by an equal number
-J-rSTR.WP.
-f /o //? n W
-CHART I. PROGRESSIVE COMPARISON OF 10 FEEBLEMINDED
-PUPILS WITH NORMS.
-A STUDY OF DEFECTIVE PUPILS. 155
 of each age and sex taken from the table of norms. This study
 incidentally confirms the statement made by Dr Henry H. Goddard,
 of Vineland, N. J., to the effect that, when measured on the basis
@@ -81,6 +77,7 @@ of vital capacity and strength of grip, feebleminded children show a
 characteristic curve. By reference to the chart the curves are seen to
 be characteristic in that there is a sharp declivity beginning at the
 age of ten, then a level beginning at about the age of puberty.
+
 While the account of the study made of the thirty parental
 school boys is not included in this report, we desire to introduce here
 one of the charts from that study in order to point out one or two
@@ -93,6 +90,7 @@ beginning of puberty the curve does not strike a level as in the case
 of the feebleminded. Upon the whole the curve for the feebleminded is sharply irregular and always below the normal, while the
 curve for the parental school boys is only moderately irregular and
 varies above and below the normal.
+
 Charts Nos. 3, 4, 5, 6, and 7 represent comparisons of individual
 pupils of the special room with norms for the same age and sex.
 The scheme of charting used was devised as a convenient form for
@@ -100,29 +98,12 @@ representing in a graphical way the comparative status of the subject,
 when considered upon the basis of twenty-five traits, as follows:?
 age, weight, vital capacity, vital index, height standing, height
 sitting, correlation of sitting with standing height, head girth, head
-9-? /o // n. /3''' n? /ft '7%. Avt
-CHART n. PROGRESSIVE COMPARISON OF 30 PARENTAL SCHOOL BOYS
-WITH NORMS.
-156 THE PSYCHOLOGICAL CLINIC.
-3
-CHART III PUPIL IN SPECIAL ROOM.?NORMS FOR SAME AGE.
-CHART III PUPIL IN SPECIAL ROOM.?NORMS FOR SAME AGE.
-83 15 ^ o -i ^ ; J J ^ * h i ? ^ ? ?i'
-CHART IV PUPIL IN SPECIAL ROOM.?NORMS FOR SAME AGE.
-CHART IV PUPIL IN SPECIAL ROOM.?NORMS FOR SAME AGE.
-^ ^ O O o S $5
-CEKWS "V.
-^SSHgp|}i
-PUPIL in SPECIAL room
-WORMS FOR SAKE AGE,
-s =? c c 3 = ?5 xoou3qE<i:KTg2w&js:
-CHART VI.
-A STUDY OF DEFECTIVE PUPILS. 157
 length, head width, cephalic index, grip right hand, grip left hand,
 correlation of grip for right with left hand, steadiness of nerves, rate
 of movement, attention, memory, train of thought, judgment,
 capacity for mental work, volition, emotions, school age, and mental
 development (see d in appendix).
+
 In the more particular studies, as those given below, further
 analysis was made of some of the traits; for example, steadiness of
 nerves was tested for holding, aiming, and tracing; attention was
@@ -141,11 +122,6 @@ that the transition, due to the growth of the subject, from the "suppressed" to 
 change of the traits attention, emotion, and train of thought in the order
 named, while on the other hand, if the transition is from the "excitable" to the "suppressed" it is usually manifested by the failing of
 the powers of attention first, which is followed by a breaking up of the
-0 TWO PUPILS in SPECIAL ROOM
-NORMS TOR SAME AGE.
-, . . w . X , ?T
-CHART VII.
-158 THE PSYCHOLOGICAL CLINIC.
 train of thought and lastly a condition in which it is difficult to arouse
 emotion of any kind. Chart No. 4 represents a transition from the
 "excitable" to the "suppressed" state, in which attention and train
@@ -164,12 +140,14 @@ This was literally true, as she would not wait for any one to give
 attention, but even when we were engaged in conversation with the
 teacher this pupil would come up near by and begin to tell something
 which she had seen or heard.
+
 Chart No. 4 represents a fairly typical case of which many
 are to be found scattered throughout our public schools, and the
 following brief account of the treatment of the case is offered as
 representing something of the kind of service that is destined to be
 rendered in a constantly increasing measure by the Educational
 Clinic:
+
 The subject was first brought to the laboratory by the parents
 at the suggestion of the superintendent's office. About two hours
 were spent in the preliminary examination, after which the subject,
@@ -188,7 +166,6 @@ was again called to the laboratory, this time alone, when a more thorough examin
 and involuntary reaction, fatigue, steadiness of nerves, etc., were
 taken and the Binet tests were again given, supplemented by the
 form board and the needle-threading tests. A complete history of
-A STUDY OF DEFECTIVE PUPILS. 159
 the case was then obtained from the mother and finally, after a
 period of some six weeks altogether had elapsed, an appointment was
 made with the parents to talk over the matter in the home. It
@@ -206,6 +183,7 @@ two-fold,?first, to break through this shell of false belief with referenec
 to the real condition of the boy, and in the second place to overcome,
 if possible, a strong prejudice against the proposal to send her boy
 to a special room.
+
 On the evening of the appointment the mother desiring that the
 boy appear at his best, had kept him in after dinner instead of
 allowing him to go out to play as was his custom. Anticipating
@@ -216,6 +194,7 @@ state of nervous tension, augmented all the more by the fact that he
 had not been told just why he was being kept indoors. This state
 of affairs upon our arrival furnished the opening wedge for breaking
 through the shell of false belief referred to above.
+
 In the course of our conversation we endeavored to enforce three
 points, the first two being with reference to the diagnosis of the case
 and the third with reference to the treatment of the case. In the first
@@ -232,8 +211,8 @@ alone from the standpoint of the good of the subject himself, but
 also and perhaps in a larger sense more so, from the standpoint of
 the welfare of the thirty odd other pupils, who were in the same room
 with him.
+
 Having delivered our message we took our leave with a feeling
-160 THE PSYCHOLOGICAL CLINIC.
 that little or nothing had been accomplished. On the following
 Monday we happened to be at the superintendent's office talking
 over the possible attitude of the administration upon such cases in
@@ -246,7 +225,9 @@ was thus assured the very best care and opportunity for future
 development that the system of public instruction affords, and at
 the same time a rather perplexing problem was solved for the teacher
 of the room from which he came.
+
 The Ticket Punch Observation.
+
 In addition to the study made of the special and parental school
 classes mentioned above, a number of other pupils of varying ages
 and degrees of mentality were brought to the laboratory for examination and treatment. During the course of these interviews and
@@ -254,6 +235,7 @@ examinations a number of rather interesting and, as the writer
 believes, significant discoveries were made, some of which we beg
 to present for the consideration of others who may have occasion to
 engage in similar work.
+
 Having previously procured a number of ordinary ticket punches
 to be used for another purpose, it occurred to the writer that such an
 article would be a splendid thing to use in connection with these
@@ -272,7 +254,6 @@ the curiosity and interest of the subject. By a skilful punching of
 heart-shaped holes in an ordinary visiting card, either by a very rapid
 movement, or by the making of some familiar design as an animal or
 even a shoe, the interest and curiosity of the subject was still further
-A STUDY OF DEFECTIVE PUPILS. 161
 aroused, whereupon a finished card was handed to the subject and
 presently the punch was handed to him with the simple words, "Can
 you do that?" This attention to the subject is only incidental and
@@ -281,6 +262,7 @@ examiner continues conversation with the other person. After a
 little while the examiner asks the subject how he is getting along,
 whereupon the average subject of this kind will initiate a conversation. From such a beginning it is comparatively easy to pass to
 some other of the regular tests given by Binet.
+
 It is claimed that by means of the ticket punch, when properly
 used, one may determine to no small extent such traits as constructive ability, symmetry, completeness, motor coordination of eye
 and hand, capacity for mental work, and visual memory. The
@@ -292,38 +274,16 @@ another card and was asked to make some design, anything he
 wanted to, to make it just as complete as possible, just as good as he
 could, in other words, to finish the job. Below (No. 1-G. H.) is an
 exact copy of the card.
+
 The subject's capacity for mental work was shown to be subnormal by the fact that it was found necessary to prod him continually in order to keep him at the task after the first three or four
 minutes of work. This lack of capacity for mental work did not
 appear to bear any direct relation to the subject's idea of completeness, however, as he could not be induced to say that the job was
-CARD MO. I. G H. CARD MO I. ?.H. CARD M0.2-S.H.
-a
-3 O 0 A
-? o 0 ?
-?c " ? D
-5 ?
-c " D &
-* O O
-O O <5
-<j rj* S>
-Q & C>
-t? *" O
-Q ^7 ^ ?> O
-c ??> 0 ?>
-Q & 0 % c? ?
-& Q Q P
-,?.' O
-c
-T>
-o
-& <J
-O ^ /
-_ * ?
-162 THE PSYCHOLOGICAL CLINIC.
 done until after it had been shaped according to his notion of completeness. It will be seen by comparison that this card is very much
 more complete as well as more symmetrical than is card No. 1-S. H.
 The hole marked with a " represents an error in coordination
 as the subject was observed to try to erase it and was heard to remark
 to himself "pshaw".
+
 Another fifteen and a half year old boy designated as S. H., was
 given a ticket punch, together with a card, and after some little
 practice was also given another card and asked to make something,
@@ -352,14 +312,16 @@ three examples it may be seen that subject S. H. possesses a greater
 capacity for mental work, but at the same time is much less highly
 developed in point of symmetry and the sense of completeness than is
 subject G. H.
+
 We append also the complete charts for these two subjects,
 together with a copy of the preliminary report which was given in the
 case of S. H. Similar charts and reports were made out for all those
 brought to the laboratory, a copy of each being sent to the parents
 or guardian, to the superintendent's office, and to the teacher in
 case the child was in attendance at the public schools.
-A STUDY OF DEFECTIVE PTJPlLS 163
+
 Appendix.
+
 Report of preliminary examination of subject, S. H., aged fifteen
 and one-half years, of the city of Tacoma, Washington, examined at
 the laboratory of the Educational Clinic, of the University of
@@ -368,6 +330,7 @@ Physiological age.?Fifteen and one-half years.
 Pedagogical age.?One year.
 Degree of mental development.?That of an eight and one-half
 year old child.
+
 Anamnesis of family. On the father's side, the father was
 killed in the army, the mother died at about 76. One brother and
 one sister. On the mother's side, both parents died at about 69.
@@ -383,6 +346,7 @@ hence has not attained much in the way of pedagogical learning.
 Has always manifested a halting nervous tendency in his effort to
 talk, being delayed more than three years beyond the normal time
 when a child should ordinarily learn to talk.
+
 Anamnesis of the case.?From the time intelligence began to
 manifest itself marked tendencies of inability have been observed,
 chiefly with reference to learning to talk, which no doubt caused a
@@ -390,6 +354,7 @@ delay of all the mental processes. In general the case appears to be
 one of gradual lagging behind in point of mental development, while
 in point of physiological development the subject has gone beyond
 the normal person of the same age.
+
 Status prcesens.?The examination shows the subject to be
 above the normal for one of his age in respect to weight and vital
 capacity, height both standing and sitting, with the greatest irregularity in the case of sitting height. In point of head measurement, the
@@ -397,29 +362,6 @@ girth is super, while the length and width are both subnormal. As
 tested by the Binet scale of measurement the subject has the mental
 development of an eight and one-half year old child, which would
 put him in the class commonly designated as morons. In respect to
-164 THE PSYCHOLOGICAL CLINIC.
-SUBJECT EXAMINED AT UNIVERSITY CLINIC JANUARY 26, 1912. G. H.
-SUBJECT EXAMINED AT UNIVERSITY CLINIC JANUARY 26, 1912. G. H.
-A STUDY OF DEFECTIVE PUPILS. 165
-ft A. WT. M.C. Vh UST. KSf. ? COR. US. HI. Htf. CI. CS. ct. cort. m s.h. sjf. a k. tx j. cm* Ml.
-/7 / 1 /I CHART cr COMPARATIVE HEASURENENU
-,^''V
-K
-9
-J
-7
-6
-sT
-J
-Z
-/
-COftTlNUOUS HUE EQUALS SUBJECT.
-BROKEff lIKt FflOAlS tlQRHAl FERStJtt 5AHE AGE tDO SEX
-i r
-%' ?* 4 I i ? "f" ^ ^ ^ ? 10 ON Stmt ?{ML5 m?AL
-SUBJECT EXAMINED AT UNIVERSITY CLINIC OCTOBER 28, 1912.?S. H.
-SUBJECT EXAMINED AT UNIVERSITY CLINIC OCTOBER 28, 1912.?S. H.
-166 THE PSYCHOLOGICAL CLINIC.
 steadiness of nerves, the subject appears to be above the normal.
 In respect to attention, the large majority of his actions fall under
 the head of non-voluntary attention. As is usually found to be the
@@ -428,6 +370,7 @@ highly developed than is the rational judgment. The subject is
 designated as one of the ''suppressed" type, requiring in practice
 that all his activities be constantly prodded in order to keep him at
 his work.
+
 (a) Informal tests employed. For memory.?Examiner exhibits
 some piece of apparatus, as for example, set of wooden cubes, and
 asks subject whether or not he has seen them before. E. asks S.
@@ -442,6 +385,7 @@ blots and asks S. what they look like. E. asks two of the subjects
 to dramatize "The Hare and the Tortoise," or "Jack and Jill." E.
 tests for various kinds of imagery, as visual, auditory, gustatory,
 motor, tactile, etc.
+
 For judgment.?E. says to S., "Suppose the house should get on
 fire what could we do?" E. exhibits some article, say a book, and
 asks S. to tear off from a large sheet a piece of wrapping paper big
@@ -451,17 +395,18 @@ E. E. exhibits a Chinese doll and an American doll and asks S.
 which is the prettier. (In our experience we have found that the
 average feebleminded child is more or less confused by the use of
 the comparatives).
+
 For emotions.?E. relates pathetic story to teacher in presence of
 S. E. displays American flag and relates war stories. E. sharply
 reproves S. without cause. E. reflects upon the honesty of some
 relative of S.
+
 For attention.?E. introduces the game of "Simon says thumbs
 up." E. displays picture card with pasteboard form pictures of
 various things, as bird, dog, doll, gun, watch, boy, pony, automobile,
 etc.
 For interest.?The last-named test was also used as a means of
 determining the native interest of the" subject.
-A STUDY OF DEFECTIVE PUPILS. 167
 (b) The form board, needle-threading, and deSanctis tests.?The
 form board used was the one designed and used by Dr Henry H.
 Goddard. In our work in Tacoma we found this an excellent means
@@ -471,13 +416,16 @@ punch observation), capacity for mental work, and other like traits.
 The needle-threading test was also devised by Goddard and was
 used by the writer to test capacity for mental work, steadiness of
 nerves, as well as degree of attention.
+
 The deSanctis test is described in Whipple's "Manual of Physical
 and Mental Tests." The large card containing geometrical figures
 was used alone to test degree of attention, being similar in principle
 to the "cancellation tests."
+
 (c) The kymograph was used for making records of tapping;
 steadiness of nerves, holding; muscle fatigue, gripping; reaction time,
 sight and sound; attention, shifting.
+
 (d) Complete chart.?Age?taken in years and half years.
 Weight?taken in kilograms. Vital capacity?taken in cubic
 centimeters, wet spirometer being used. Vital index?ratio of
@@ -541,7 +489,6 @@ uniform as not seriously to affect the current by increased or decreased
 pressure area as was the case with the flat electrodes. The subject
 being thus placed in the circuit a series of varying stimulations were
 applied, such as the recitation of poetry of different sentiments, as
-A STUDY OF DEFECTIVE PUPILS. 169
 Dickens' "Christmas Carol," the selection entitled "Rienzi to the
 Romans," "An Order for my Mother's Picture," or one of Riley's
 poems; arousing the emotion of apprehension or fear by the skilful
@@ -572,6 +519,7 @@ time during the course of the lecture. There are more than twenty of the charts 
 including the author's illustration of Professor Thorndike's statement?"If the scale of measurement is made fine enough no two persons are alike in any trait." There is also in the collection
 a complete compilation, in so far as data were obtainable at the time, of all the norms for physical
 traits of boys and girls.
+
 This compilation included the harmonizing of the tables by figuring them all out in terms
 of the metric system, and calculating the half years in cases where this had not been done by
 the author from whom the norms were taken. These norms were thus compiled, harmonized,

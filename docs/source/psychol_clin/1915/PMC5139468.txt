@@ -2,8 +2,9 @@ The Individual Delinquent
 ==========================
 
 REVIEWS AND CRITICISM.
-By William Healy, A.B., M.D. Boston: Little,
+:Author:  William Healy, A.B., M.D. Boston: Little,
 Brown and Co., 1914. Pp. 862.
+
 All who are interested in social and clinical psychology should welcome
 Dr Healy's new book "The Individual Delinquent." Dr Healy has devoted
 his energies for the last five years to making a laboratory story of the science of
@@ -20,6 +21,7 @@ girls. He puts this most emphatically before the lawyers and the judges. He
 advocates fair judgment based upon common sense, and a scientific treatment
 of the offender from the point of view of the delinquent and his reaction upon
 society, rather than from the character of the offence.
+
 The volume consists of Book I and Book II. Book I gives a detailed account
 of the method of procedure followed in making the "psychogram," the crosssection of the adolescent offender, from the medical, social, and psychological
 viewpoints, in order to determine what the author calls "the essential fact"?
@@ -39,8 +41,7 @@ in normal psychology, in actual experience in studying abnormal mental types,
 and in practical differential psychology as the personal equipment of the examiner.
 He puts the requirements high, but not too high when one considers the seriousness of the task placed before a clinical psychologist. The pages relating to
 records and to the schedule of data and their treatment are especially helpful.
-(94)
-REVIEWS AND CRITICISM. 95
+
 Chapter VI deals with psychological methods of analyzing mental traits
 by means of mental tests, laying stress upon the significance of the emotional
 life frequently not discovered by the usual tests, but more often brought to light
@@ -59,6 +60,7 @@ They have not been found applicable to a cosmopolitan population, they do
 not satisfactorily measure general ability apart from schooling, they over-estimate
 language ability, and underestimate performance ability. Dr Healy's own tests
 are fully described and well illustrated.
+
 Book II on "Cases, Types, Causative Factors" gives a general survey of
 the causative factors of delinquency. Dr Healy says, "We present our concrete
 data for the use of judges, officials of probation, parole or pardon departments,
@@ -72,6 +74,7 @@ looks upon uncongeniality in the home, upon the mental imagery produced by
 pictures, upon craving for adventure, evil association, sexual indulgence, mental
 conflict and repression as dynamic in mental life and as strong factors in forming
 a criminalistic mental habit.
+
 In the chapters on "Mental Defects" he stands for the recognition of (a)
 a group of feebleminded with special abilities either socially or nonsocially insignificant, (b) a group not feebleminded but with defects in special mental abilities
 and (c) a group characterized by mental dulness from physical conditions. He
@@ -79,6 +82,7 @@ has adopted Dr Adolf Meyer's term, "psychic constitutional inferiority" for a
 group "recognized by chronic abnormal social and mental reaction to the ordinary
 conditions of life, on the part of one who cannot be classified in any of the groups
 of the insanities, neuroses, or of the mental defectives."
+
 To psychologists, jurists, and social workers, the discussion of the so-called
 "moral imbecile" is especially interesting. The author asserts that although he
 has searched industriously, he has not yet found a single case in which the
@@ -86,7 +90,6 @@ basic trouble was not mental deficiency or some form of aberration, or in which
 the individual was not a victim of environmental conditions, or of some sort
 of mental conflict, and therefore assignable to some other definite class.
 Throughout both books he urges the public and the courts to consider the
-96 THE PSYCHOLOGICAL CLINIC.
 mental status in determining the disposition and treatment of offenders even
 while making the individual case serve as a warning. He holds that defective
 self-control is no excuse for legal freedom. He heartily endorses probation,

@@ -13,7 +13,7 @@ import sphinxcontrib.apa
 # -- Project information -----------------------------------------------------
 
 project = 'Justpsychiatry Article Archive'
-copyright = '2022, Justpsychiatry'
+Copyright = '2022, Justpsychiatry'
 author = 'Justpsychiatry'
 
 
@@ -115,16 +115,23 @@ source_suffix = {
 
 rst_prolog= """
 
+.. contents:: 
+
+
+"""
+
+rst_epilog= """
+
 
 .. admonition:: Copyright Notice
  
     The historical material in this project falls into one of three categories for clearances and permissions:
 
-    1. Material currently under copyright, made available with a Creative Commons license chosen by the publisher.
     
-    2. Material that is in the public domain
+     1. Material currently under copyright, made available with a Creative Commons license chosen by the publisher.
+     2. Material that is in the public domain
+     3. Material identified by the Welcome Trust as an Orphan Work, made available with a Creative Commons Attribution-NonCommercial 4.0 International License. 
     
-    3. Material identified by the Welcome Trust as an Orphan Work, made available with a Creative Commons Attribution-NonCommercial 4.0 International License. 
     
     While we are in the process of adding metadata to the articles, please check the article at its original source for specific copyrights.  
 

@@ -5,9 +5,9 @@ The Psychological Clinic
 Copyright, 1915, by Lightner Witmer, Editor.
 Vol. IX, No. 7
 December 15, 1915
-
-By A. Travis,
+:Author:  A. Travis,
 Philadelphia, Pa.
+
 General Conditions and Data.
 These tests were given in the Laboratory of Psychology of the
 University of Pennsylvania, as a regular class-room exercise in connection with Psychology 2c (undergraduate), Psychology 62 (graduate), and Psychology 30 (the Psychological Clinic). On the
@@ -18,6 +18,7 @@ on the morning of April 17th; and finally to 12 undergraduate and
 2 graduate students in the Summer School on the morning of July
 28th. The total number of students tested was 128, 69 men and
 59 women. One man and one woman were colored. The distribution by college classes will be found in table I.
+
 TABLE I
 SUMMARY BY CLASSES, MEN AND WOMEN
 Men Women
@@ -43,15 +44,18 @@ date. I am going to dictate a paragraph, or read a paragraph.
 I want you to pay attention to it, and then I want you to give
 the paragraph back again as well as you can. This is one of
 the Binet tests."
+
 He then read selection B, from Dr Town's translation of the
 Binet tests (1). This contains 80 words, and the reading occupied
 less than one minute. The students wrote down what they could
 recall of it, taking an average time of two and a half to three minutes,
 a few requiring as long as four minutes.
+
 After allowing a few minutes of relaxation and rest, the instructor said: "On another sheet of paper will you make a similar record
 of this selection, which I shall read you. I shall not begin reading
 until you have all finished such preliminaries as writing your name.
 Everybody ready?"
+
 Then he read selection A, which is taken from the 1915 Stanford revision of the Binet tests (10), with very slight changes. This
 selection contains 86 words, and the time of reading and subsequent
 writing was practically the same as in the preceding test. The
@@ -62,7 +66,9 @@ for one student in the college courses for teachers appears to have
 been lost. Results are reported for 113 students in selection B.
 As will be seen later, the omission of these 15 records is probably
 not important.
+
 Marking.
+
 Table II shows the results of both tests, by classes.
 Selection B was marked in two ways. It was first analysed into
 seven essential ideas as follows, and the 113 papers were rated upon
@@ -76,9 +82,9 @@ the number of points in seven which were reproduced by the student.
 have them.
 7. It is this mediocrity of life which makes it just, or rather which prevents it
 from being radically unjust.
+
 for
 and
-REPRODUCTION OF SHORT PROSE PASSAGES. 191
 The passage was then subjected to a close logical (or rather
 grammatical) analysis after the manner set forth by Jevons (6) in
 his "Lessons in Logic," pages 94-97. This is very similar to the plan
@@ -120,10 +126,11 @@ On this basis, 84 students made approximately 66 per cent or over,
 and 29 failed to pass. Must we regard these persons as in some
 respect subnormal? Or is it just one more bit of evidence for the
 unreliability of the tests?
-192 THE PSYCHOLOGICAL CLINIC.
+
 Selection A yielded results far more interesting. There were
 128 papers, and six (in fact eight) ways of marking were chosen for
 comparison and study:
+
 (1) The papers were read quickly and sorted into five heaps,?
 distinguished, good, passed, not passed, and failed. This is a very
 satisfactory method for ranking college quiz papers when only two
@@ -132,6 +139,7 @@ or three topics are assigned for discussion. There were 13 D's,
 D's and G's than a large class taking an examination in psychology,
 but there are fewer P's, more N's and F's. The percentage value
 of these marks will be discussed later.
+
 Mr. Finkelstein, who has written a monograph (5) upon the
 marking system, based upon an analytic study of many thousands
 of marks given at Cornell University, believes that a five-division
@@ -149,6 +157,7 @@ of the present study, that tests of this sort are not a fair index of
 students' ability in college work. The better students at any rate,
 and probably all grades of students, tend to make low scores on tests
 when rated solely by points.
+
 (2) The five piles representing the five grades were now assembled into one, and the papers were arranged in rank order from
 the best D down to the poorest F (see third column of table II).
 (3) Selection A was analysed into its essential ideas, of which
@@ -174,6 +183,7 @@ points, and it is interesting to note that while seven students
 shorter selection, no one made a perfect score on selection A, and
 only one student, a woman in the Summer School, made as high
 as 12 points in the 14.
+
 (4) The papers were ranked again, this time strictly in order
 of points, and the second rank order is recorded in column 5 of
 table II and column 6 of table III. Table III gives the results
@@ -197,7 +207,6 @@ distinctions of a fineness of one-hundredth may be made, and in
 practice such distinctions are constantly attempted. But what
 is the difference, if any, between a mark of 75 and one of 76? What,
 for that matter, does 75 mean? Has the student accomplished 75
-194 TIIE PSYCHOLOGICAL CLINIC.
 per cent of some ideal accomplishment? . . . The very fact that
 its divisions [the hundred-point scale's] are so minute is doubly
 insidious; it promises precision, but it cannot afford it." In the
@@ -212,6 +221,7 @@ over the range from 81 per cent down to 76 per cent inclusive.
 method of Jevons, and now yielded twenty-five points. The papers
 were marked on this basis, and the score reduced to a percentage by
 multiplying by four.
+
 (1) (2)
 Tests such as we are now making
 | (3) f both for the advancement of science (4)
@@ -232,6 +242,7 @@ We may < . ' ;
 [m some cases (21)
 (22) |
 correct defects
+
 (23) | j- which we might otherwise (24)
 and develop abilities J neglect. (25)
 (8) The percentages now ranged from the highest, 22 points or
@@ -239,7 +250,7 @@ and develop abilities J neglect. (25)
 results will be found in columns 7 and 8 of table II, and in columns
 8 and 9 of table III. The distribution by points will be found
 summarized in table IV.
-REPRODUCTION OF SHORT PROSE PASSAGES. 195
+
 TABLE II
 RESULTS OF TESTS A AND B. SUBJECTS GROUPED BY COLLEGE CLASSES
 A '15
@@ -971,7 +982,7 @@ cent
 68.7
 81.2
 93.6
-198 THE PSYCHOLOGICAL CLINIC.
+
 TABLE III?SELECTION A. SUBJECTS ARRANGED IN RANK ORDER
 Rank
 Sex
@@ -1742,8 +1753,8 @@ Per cent
 20.0
 Term
 mark
+
 Psych. 2
-200 THE PSYCHOLOGICAL CLINIC.
 TABLE IV
 DISTRIBUTION OF 12S STUDENTS BY POINTS REPRODUCED
 SELECTION A?14 POINT ANALYSIS
@@ -1810,6 +1821,7 @@ SELECTION B?16 POINT ANALYSIS
 .5 "   2 2
 4 "   1 . . 1
 1 "   1 . . 1
+
 29 scored less than 66 %
 Total 113
 Discussion.
@@ -1826,6 +1838,7 @@ oration verbatim after hearing it only once. The mathematical
 prodigy Inaudi has a memory-span of forty-two digits. Mozart
 and other musicians have gone home and played from memory a
 long melody heard once at a concert.
+
 No prodigies are to be found in the group of university students
 tested, but it is conceivable that most of them would have done
 much better had they been tested singly, under favorable clinical
@@ -1837,7 +1850,6 @@ as a medium. These factors were distinctly observable in the
 results of the tests, but they operated in varying degrees not susceptible to close estimation. In a similar way it is evident that
 this test should reveal something about the range and concentration
 of attention, but here again we can do little more than affirm what
-202 THE PSYCHOLOGICAL CLINIC.
 we knew beforehand, that the better papers show a greater power
 of controlled attention to auditory stimuli of this sort, and greater
 persistence in writing down as much as possible.
@@ -1864,6 +1876,7 @@ Pennsylvania Phi Beta Kappa Committee, and next year a revised
 scale may be used, in which D will be counted as 93 per cent, G as
 85 per cent, and P as 73 per cent, these values representing a fairer
 median for the marks.
+
 A comparison of columns 6 and 12 of table II shows that there
 is no correlation between college standing and the results of these
 tests. The most brilliant senior, with a general average of 94.5
@@ -1874,13 +1887,14 @@ even greater, as these men ranked number 41 and 49 respectively
 by points. Two juniors with exactly the same college standing,
 68.8 per cent, ranked number 32 and 94 respectively on the second
 ranking.
+
 This comparison enables us to discount the fact that the women
 students did very much better in these tests than the men. In the
 first ten per cent for Selection A (13 students) there were 10 women
 and 3 men; in the last 10 per cent there were 10 men and 3 women.
 The general distribution of men and women will be seen in tables
 III and IV,
-REPRODUCTION OF SHORT PROSE PASSAGES. 203
+
 There was not even the slightest correlation between the rankings of these tests and the term marks given in Psychology 2, in which
 the tests formed a class exercise. Of the undergraduates tested,
 81 had marks in Psychology 2, as follows: 3 D's, 26 G's, 43 P's,
@@ -1888,6 +1902,7 @@ the tests formed a class exercise. Of the undergraduates tested,
 ranked 23, 27, and 49 on test A. Those receiving G ranked as follows: 3, 4, 7, 9, 19, 20, 22, 24, 31, 33, 35, 55, 57, 59, 64, 67, 69, 75,
 76, 88, 90, 103, 109, 110, 111, 115. Those receiving N ranked:
 29, 42, 46, 66, 70, 113, 125.
+
 There was likewise no correlation between the results of A and
 B. The prose passages used for the tests were very similar, in that
 both were trite, and badly phrased, and contained no ideas which
@@ -1901,6 +1916,7 @@ on selection B were made respectively by numbers 6, 34, 35, 40,
 67, 76, and 100 on the ranking list for selection A; and the one
 man who did worst in selection B, making a score of only 6.2 per
 cent, stood eighth from the last on selection A.
+
 For testing students of university grade the passages should
 be chosen from the work of acknowledged masters of English prose.
 At least two passages and preferably three should be used, varying
@@ -1909,6 +1925,7 @@ tests averaged, if possible, for each individual tested. An experiment of this s
 a position to judge more fairly of the value of such tests, and to
 standardize them if it seemed worth while to retain them as tests
 of students' ability in college work.
+
 As substitutes for the unsatisfactory passages used in the present study I would suggest the following three. The first is from
 Milton's "Eikonoclastes." It contains 80 words, and voices an
 abstract idea which should be within the comprehension and power
@@ -1917,7 +1934,6 @@ that its relations are not immediately obvious. The papers could
 hardly be scored by points; but could be rated in five grades of
 excellence, and arranged in rank order; and could then be assigned
 percentages to indicate the ranking.
-204 THE PSYCHOLOGICAL CLINIC.
 I.
 To counterfeit the hand of God is the boldest of all forgery. And he who
 without warrant but his own fantastic surmise, takes upon him perpetually to
@@ -1959,8 +1975,9 @@ highest grade, number five, he says "may not be reached by more
 than one child in five hundred." He has standardized the method
 of giving the tests, and discusses the qualities upon which scoring
 is to be based, showing specimen papers for each grade.
-REPRODUCTION OF SHORT PROSE PASSAGES. 205
+
 Imaginal Types.
+
 When this investigation was first begun, it was intended to
 include in it a study of the imaginal types of the persons tested,
 as shown in their reproduction of a short story, to be known as
@@ -1979,6 +1996,7 @@ with practically no loss translate the material from one sense department to ano
 has greatly fallen off and symbolic and verbal thinking has taken its
 place, a type of thinking to which visual imagery particularly lends
 itself."
+
 Meumann (8) does not quite agree with Colvin as to the absence
 of loss in the translation from one kind of imagery to another. He
 cites Polhmann's observations which go to show that an observer
@@ -1994,6 +2012,7 @@ type will apprehend it in terms of auditory images; the visualizers
 will, so far as possible, transform it into visual images, and the
 observers who belong to the auditory-motor type will pronounce the
 words to themselves during the presentation."
+
 The graduate students noted on the margin of their papers
 the imaginal type to which each believed he belonged. This was
 arrived at, in most cases, by "aasy chair" introspection, and
@@ -2002,12 +2021,14 @@ under strict laboratory conditions. Only once did the memorandum of imaginal typ
 selection A, and that was in the case of a man who made a very
 low score, ranking number 119, and who remarked, "I think I am
 visual in imagery?little of it in this."
-206 THE PSYCHOLOGICAL CLINIC.
+
 Transpositions and Omissions.
+
 Transpositions, which are so common in the recall of series
 of digits used as a test of memory span, were very rarely met with
 in these prose passages. Three men and seven women transposed
 ideas, at the same time preserving the meaning.
+
 The sentence most frequently omitted was the second,?"It
 is important for science to learn how people differ and on what
 factors these differences depend." Thirty-five men (50 per
@@ -2018,10 +2039,12 @@ frequently omitted, being missing from the papers of 29 men and
 19 women. The first sentence of selection A was omitted by no
 one, although the first sentence of selection B was the one most
 frequently omitted in that test.
+
 One misunderstanding was so common as to be worth mention.
 "For the information of the person who is tested," seemed to confuse some of the students, who took it to mean information about
 or concerning the person tested. This mistake was made in various
 forms by five men and seven women.
+
 As might be expected when the originals were in such feeble
 English, the reproductions were even weaker. Errors in syntax,
 however, were not frequent. One or two foreign-born students
@@ -2033,6 +2056,7 @@ rendered what he did hear, his failure to hear the rest was probably
 due to lack of attention. Another undergraduate, a sophomore
 in arts, coined this charming phrase,?"So life is neither unjust
 or too goo but a medium of mediocrity."
+
 Four women, three of them graduate students and one a student
 in the college courses for teachers, were present on two of the occasions when the tests were given, and therefore were represented
 by two papers. In order to put them on a footing of equality with
@@ -2041,7 +2065,6 @@ included in the results in tables II to IV. All four of them made
 distinctly better marks on the second trial. One raised her score
 from 7 points to 9, one from 7 to 11, one from 9 to 10, and one from
 5 to 9. This would seem to show a certain amount of practice
-REPRODUCTION OF SHORT PROSE PASSAGES. 207
 effect, or assistance from the recollection and correction of omissions
 made in the first testing. It is remarkable that the woman who
 made the most improvement, rising from 5 points to 9 points, was
@@ -2051,10 +2074,13 @@ in the Kuhlmann tests a number of times. This time I tried to remember it verbat
 poor repetition, I should say." On her first paper she had confidently written, "Familiarity with test makes it a pretty simple
 visual memorary (!), verbal too. There is no auditory but some
 motor elements."
+
 Specimen Papers.
+
 The fullest paper in selection A was the following, which had
 the additional merits of being neatly written, correctly spelled and
 well punctuated:
+
 "Tests of this nature are of value both for science and for the
 information of the individual to whom the test is applied. It is
 of importance for science to observe the differences in individuals
@@ -2063,33 +2089,38 @@ what is due to environment from what is due to heredity, it can in
 some cases correct defects which would be otherwise neglected and
 in others prevent the development of peculiarities which might
 otherwise hinder the progress of the individual."
+
 This is somewhat transposed, but the meaning is not distorted
 and only two out of the fourteen ideas are omitted.
 The following paper is typical of a large group. It ranked
 number 26, received a G, and contained nine out of the possible
 fourteen points:
+
 "These tests are of value not only for the advancement of
 science but for the information of the individual. We may find
 the various factors influencing development. If we could separate
 the influences of environment from those of heredity we might gain
 certain facts concerning the behavior of the individual, which we
 might otherwiss neglect."
+
 Here the transpositions modify the meaning to a considerable
 extent, but do not contradict it. When we come down to some
 papers in the lower range of the series, this number 26 quite shines
 by comparison.
+
 One man who caught very little of selection A wrote:
 "The tests which we are now making are not only a test of the
 student's ability but a test made for the advancement of science."
 But compare with this the same man's paper for selection B, which
 contained all seven of the essential ideas:
-208 THE PSYCHOLOGICAL CLINIC.
+
 "There are many opinions on life. Some call it good and some
 call it bad. Rather it should be called mediocre, for life is never
 as good as we would have it, nor never as bad as it might be. It
 is this mediocrity that makes life just rather than unjust."
 A paper which seems to betray a state of mental confusion is
 the following:
+
 "Tests are of value both for the scientific side and informational.
 That is to know how much information one has, and for the advancement of science. If we can find out how one acts for the tests,
 we can test their ability. If we test their parents' ability we can
@@ -2098,6 +2129,7 @@ science." This paper received credit for three ideas in fourteen.
 But compare with it this paper, which, although it contains
 only one more of the fourteen ideas, must be regarded as the work
 of a very much abler mind:
+
 "Tests such as we have been performing are of value (1) for the
 information of the individual, and (2) for the advancement of science."
 And finally, here is the remarkable effusion of the lowest ranking student in selection B:
@@ -2107,6 +2139,7 @@ and not to receive in return just compensation for energy expended
 in an honest task is one of the evils of modern progress, under such
 progress medocrety may become great, and greatness mediocre."
 Conclusions.
+
 The conclusions are negative, with unimportant exceptions:
 (1) The results of these two very similar tests, given to the same
 students under the same conditions, do not correlate with each other.
@@ -2115,6 +2148,7 @@ the records of the Dean's office in the few cases where these were
 adequate for comparison. They do not even correlate with the
 term marks in the subject (Psychology 2) in which they were given
 as a class exercise.
+
 (3) Women do better in these tests than men. This may point
 to the fact that women use verbal imagery of various sorts to a
 greater extent than do men. It probably means that women are
@@ -2124,9 +2158,9 @@ made under group conditions. They may well be stricken out
 of the Binet tests for fifteen years and over, unless given under
 standard Binet conditions. They might yield highly misleading
 results when not applied?as they are certainly not being applied
-REPRODUCTION OF SHORT PROSE PASSAGES. 209
 by many Binet testers?with the skill and discrimination of the
 experienced clinical psychologist.
+
 (5) It seems probable that the most favorable results in the
 reproduction of selection A are represented by the papers scoring
 from six to ten points in a possible fourteen on the first trial. The
@@ -2142,7 +2176,10 @@ limit which seems to be represented by about six points for selection
 A. The test needs to be supplemented by other clinical observations of a student's behavior, before it can be determined whether
 the omissions are due to trained habits of selection, or merely to
 fluctuations of the untrained attention.
+
 Bibliography
+-------------
+
 1. Binet, A., and Simon. Th. A Method of measuring the development of the
 intelligence of young children. Trans, by Clara Harrison Town. Lincoln,
 111., 1912.

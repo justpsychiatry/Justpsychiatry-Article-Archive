@@ -2,8 +2,9 @@ The Marking System in Theory and Practice.
 ==========================================
 
 REVIEWS AND CRITICISM
-By I. E. Finkelstein. Baltimore:
+:Author:  I. E. Finkelstein. Baltimore:
 Warwick and York, 1913. Educational Psychology Monographs, No. 10.
+
 "What we need to know," says Professor Whipple in his preface to Mr.
 Finkelstein's monograph, "is: What are the traits, qualities, or capacities that
 we are actually trying to measure in our marking systems? How are these
@@ -21,6 +22,7 @@ different instructors is so great as frequently to work real injustice to studen
 and that the marking system in most common use?the percentage system with
 100 for a maximum and 60 or 70 as a 'pass mark'?is in all probability not the
 best system."
+
 Chapter II discusses three theoretical problems: "Should marks indicate
 performance, or ability, or accomplishment? . . . What is the theoretical
 distribution of the quality or traits that the marks are to indicate? . . . What
@@ -33,6 +35,7 @@ a theoretically predetermined distribution." Assigning "the symbols A, B, C,
 D, and E to excellent, superior, average, inferior, and failure, respectively,"
 he shows that "the divisions recommended by Professors Meyer, Dearborn,
 and Cattell for each hundred students are as follows:
+
 A B C D E
 Meyer  3 22 50 22 3
 Dearborn  2 23 50 23 2
@@ -41,8 +44,6 @@ Criticizing the percentage system he makes an observation which will have
 weight with all who have studied its application to class grading. "Theoretically," he says, "this scale implies that distinctions of a fineness of one-hundredth
 may be made, and in practice such distinctions are constantly attempted. But
 what is the difference, if any, between a mark of 75 and one of 76? What, for
-(181)
-182 THE PSYCHOLOGICAL CLINIC.
 that matter, does 75 mean? Has the student accomplished 75 per cent of some
 ideal accomplishment? . . . The very fact that its divisions [the hundredpoint scale's] are so minute is doubly insidious; it promises precision, but it
 cannot afford it." In a footnote he quotes with apparent confidence the debatable conclusion of Professor Starch: "The steps on a scale should be at
@@ -65,6 +66,7 @@ If, however, he assumes that the correct theoretical distribution is a curve
 skewed to the right, then the translation of this curve to the actual distribution
 is feasible. He lays down as "the pattern or ideal distribution of marks the
 following scheme:
+
 "Group Poorest Inferior Average Superior Excellent
 Percent  12 19 45 21 3
 Range in percentile scale 0-59 60-69 70-84 85-94 95-100"
@@ -72,17 +74,18 @@ His conclusion is that "It would be in every respect desirable for Cornell Unive
 secondary schools as well, to adopt a five-division system of marking with the
 express provision that, in the long run, the marks given by any instructor must
 not deviate widely from the distribution just indicated."
+
 Chapter IV gives the distribution of marks by individual courses, a total
 of 8141 marks being analysed. Charts are used to show, among other things,
 the first term marks in one course as compared with second term marks in the
 same course, typical "high markers" as compared with "low markers," and
 the low standing of a class of engineering students taking a course in mathematics as required work, contrasted with the far better standing of a class of
 arts students taking the same course as an elective.
+
 Mr. Finkelstein believes that while "marks may be based upon performance,
 upon ability, or accomplishment, the last named is, save under unusual circumstances, the quality on which the marks should be based." Among his
 other conclusions there is at least one which might be adopted by college officers
 of administration, no matter what individual standards may be adhered to
-REVIEWS AND CRITICISM. 183
 by members of the faculty, "In order to insure the working of the system,"?
 and this applies equally, of course, to any system of marking,?"the distribution actually given should be tabulated at stated intervals, say biennially, and
 the distribution should be made public, so that every examiner shall know to

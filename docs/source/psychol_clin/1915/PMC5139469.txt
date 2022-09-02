@@ -5,10 +5,9 @@ The Psychological Clinic
 Copyright, 1915, by Lightner Witmer, Editor.
 Vol. IX, No. 3.
 May 15, 1915
-/
-
-By Lightner Witmer, Ph.D.,
+:Author:  Lightner Witmer, Ph.D.,
 University of Pennsylvania.
+
 An important chapter in ex-President Eliot's recent book, "The
 Road toward Peace," treats of the diverse character of "national
 efficiency" under free and autocratic governments in a manner
@@ -18,6 +17,7 @@ diagnosis of efficiency and of a mental trait, intelligence, on which
 efficiency in part depends. While Dr Eliot's book gave the immediate impulse to the preparation of this article, my subject matter
 and treatment are the outcome of experimentation with so-called
 intelligence and efficiency tests.
+
 At some points my analysis compels me to propose a revision
 of Dr Eliot's terms, but I intend only the constructive criticism
 of admiration. The acumen and insight with which he presents
@@ -38,7 +38,6 @@ going to turn out in competition with such efficiency as the freer
 nations develop." While Dr Eliot's treatment of the difference
 between German efficiency on the one hand, and British or French
 efficiency on the other, has reference to national interests of imme(61)
-62 THE PSYCHOLOGICAL CLINIC.
 diate concern, a penetrating analysis of the nature of intelligence
 and its relation to efficiency is essential to a satisfactory treatment
 of many other problems. Efficiency is now a popular catch-word in
@@ -47,6 +46,7 @@ where it has even been put forward to measure the value of the
 scientific output of university laboratories. Efficiency, its causes
 and its differentia, is a field of direct inquiry within the science of
 psychology.
+
 Clear thinking and precise expression are difficult when we lack
 the necessary words to indicate differences which we know exist.
 A vocabulary develops more slowly than our apprehension of differences. This is eminently true of the science of psychology, which
@@ -78,13 +78,14 @@ government, he tells us that "under free governments and in communities which ha
 are surer to come forward into vigorous action," and continuing, he
 speaks of these men as "the men who are competent, not only to
 invent or imagine the thing or the method that is next wanted, but
-RELATION OF INTELLIGENCE TO EFFICIENCY. 63
 to put their inventions into practical form, and to make them useful
 in the actual industries of their nations and the world." Here and
 elsewhere he suggests what is to be my express contention, that
 competency will tend to develop and use efficiency, but that
 efficiency does not necessarily produce competency.
+
 The Problem
+
 The issue thus presented is a fundamental problem in psychological diagnosis, for the differentia of efficiency, competency, and
 intelligence, inevitably arise and require analysis, whenever we
 carry forward any series of mental tests. For purposes of illustration, let the test be the adding of a column of figures. Different
@@ -103,6 +104,7 @@ acquire and use the results of his teacher's knowledge, which itself
 is a product of the collective intelligence of the community relating
 to this special problem. The source of efficiency is therefore of diagnostic importance if we would interpret the significance of different
 degrees of efficiency in different persons.
+
 If I call C more efficient than D, I affirm an efficiency difference
 without expressing any opinion as to the origin of this efficiency.
 We can call machines and persons efficient or inefficient, but we do not
@@ -119,7 +121,7 @@ To say that efficiency causes efficiency, is like saying that a log floats becau
 of flotation. To say that efficiency is a product of intelligence, doubtless affords only a partial
 explanation, but at least we are on our way, and after we have taken the first steps of our analysis,
 we may proceed to analyse intelligence itself.
-64 THE PSYCHOLOGICAL CLINIC.
+
 efficient and yet know nothing about his intelligence. An efficient
 person may or may not be intelligent, for even stupid persons can be
 trained to be efficient. In a given situation the competent person
@@ -148,6 +150,7 @@ inefficiencies of a none the less competent person, forgets that after
 all the main issue is the accomplished result, and the muddler who
 just gets through may count for as much as the best exponent of
 the specialized efficiencies.
+
 The uses to which words are limited in ordinary language often
 reveal subtle differences in meaning, which are obscured by their
 definitions, for the definition is a formula, and in language as well as
@@ -158,7 +161,6 @@ order. We do not call an artist efficient, although we may perhaps
 speak of an efficient illustrator. We do not characterize a great
 composer as an efficient musician. This limitation in the use of the
 term efficiency bears witness to the fact that production is an art as
-RELATION OF INTELLIGENCE TO EFFICIENCY. 65
 well as a science. We can and do analyze complex human behavior
 into simple elementary performances, and we measure the efficiency
 of these performances. When we discover and measure the efficiency
@@ -167,6 +169,7 @@ if we go further and diagnose the performer as competent, or grant
 him intelligence, perhaps even " genius," we do something more than
 discover or measure the efficiency of his performance. We interpret
 the performance as a manifestation of intelligence.
+
 Suppose we set out to test a class of children, and employ for
 the purpose some problems in arithmetic. Certain members of the
 class solve the problems, others do not. If the problems were
@@ -189,6 +192,7 @@ table, eat and drink, ride a bicycle, use a key to unlock a door, and
 we marvel at the animal's intelligence. Do we really observe the
 intelligence of a child or animal? As a matter of fact we observe it
 no more than we feel some one else's pain.
+
 It is all a matter of interpreting behavior, or using the seen
 performance to diagnose an unseen quality of the performer. The
 only intelligence of which you can be directly aware when you
@@ -214,6 +218,7 @@ during a particular thunderstorm, and your dissertation will leave
 her cold. She is wrong in interpreting her behavior in terms of
 intelligence. It should be interpreted in terms of instinctive and
 emotional reactions.
+
 What do we observe in a performance which causes us to call
 the performer intelligent, to look upon his performance as in part at
 least due to hfs intelligence? In unfolding my analysis of what we
@@ -243,7 +248,6 @@ ascertaining the average daily temperatures of the two cities for a year or a lo
 average of average daily temperatures I may call the temperature level. When we assert that the
 college professor is a man of higher intelligence than an unskilled day laborer, do we mean anything more than that the average level of daily performances is higher in the one group than in
 the other?
-RELATION OF INTELLIGENCE TO EFFICIENCY. 67
 adequate explanation we are compelled to posit the existence of
 conscious states like pain, sensations of color, aesthetic feelings,
 emotions, thoughts, and ideas. These conscious states are not
@@ -272,6 +276,7 @@ This problem is not directly concerned with consciousness at all,
 but with the analysis and abstraction of a particular quality of
 behavior, to which quality I would limit the meaning of the word
 by precise definition.
+
 Precision of thought will never be reached in psychology if
 intelligence as a tferm is thus confused with mind or consciousness.
 Nor can we omit to discriminate between intelligence and intellect.
@@ -282,7 +287,6 @@ may or may not be true that the highest grades of intelligence are
 revealed only in the intellectual sphere, but it is important to distinguish one thing from the other, and to recognize the possibility
 that a man or a child may be intelligent without being at all intellectual. When, therefore, a recent writer says of universities that
 they are "the very citadels of intelligence, the guardians in trust of
-68 THE PSYCHOLOGICAL CLINIC.
 the higher intellectual life of our nation," he apparently considers
 the sphere of intelligence to be co-extensive with that of the intellect.
 If he is employing intelligence in the sense in which I define it, his
@@ -297,6 +301,7 @@ more than one student of greater intelligence than fifty per cent
 of the college faculty. I could entertain no hope for the future of
 this country, if I did not think that just as intelligent young men
 go into the industries as go to college.
+
 Again, we must avoid using the term intelligence when we mean
 reason or the understanding. Reasoning is only one kind of performance, the material being facts. Intelligence is not exclusively
 a manifestation of the reasoning process, although reasoning, like
@@ -319,7 +324,6 @@ ability of an individual to solve what for him is a new problem.
 The mere solving of problems, then, is not the criterion of
 intelligence. Take a college class in some subject, let us say, psychology. I teach this class for a year, and at the end of the year I
 employ a test, i. e. an examination paper consisting of a number of
-RELATION OF INTELLIGENCE TO EFFICIENCY. 69
 questions or problems which the student is required to solve. Those
 who give a certain proportion of correct answers, that is to say,
 solve a certain proportion of the problems, I pass. Have I any
@@ -355,7 +359,9 @@ college professor at his level. Your performance level is doubtless
 higher than your butler's, if you have one. But do not rashly boast
 of your superior intelligence before it has been put to a real test.
 Remember the "Admirable Crichton"!
+
 Diagnostics
+
 A performance level is defined by the average day in and day
 out performances of an individual or group of individuals. To
 define this level it may or may not be necessary for us to study
@@ -374,6 +380,7 @@ so-called mental age levels of children of five, eight, ten, twelve,
 and fifteen years. In defining the differences of level which are due
 to education, the ability to read, write, and cipher, separates the
 level of the illiterate from levels which lie above.
+
 When differences can be arranged in a series of grades or levels,
 we establish a scale. The use of such terms as more or less, greater or
 less, higher or lower, implies that we have a scale and that the component grades and levels can be measured, or more or less accurately
@@ -387,6 +394,7 @@ graded series all the differences in behavior under consideration.
 I shall first define the eight scales of performance level.
 There are two growth scales of performance level: (1) the
 species scale; (2) the age scale.
+
 When we say that a chimpanzee is more intelligent than a sheep
 but less intelligent than a human being, intelligence here means only
 relative complexity, variety, and number of the daily performances
@@ -397,16 +405,18 @@ orang will probably be placed. Far below these range the horse,
 the cow, the sheep, the ant, the bee. Students of animal behavior
 will in time establish the relative position of all animals on the
 species scale.
+
 An entirely different series of performance levels is obtained
 from the behavior of the infant, the child, the adolescent,^the adult,
 and at the end of the series, the senile. This series of performance
 levels constitutes the age scale. The result of a Binet test is to
-RELATION OF INTELLIGENCE TO EFFICIENCY. 71
 assign a child his position on the age scale. This is called his "mental age". It gives no clue as to the grade of a child's intelligence,
 although an experienced observer may estimate it from his behavior
 in solving some of the tests.
+
 There are two sex scales of performance level: (1) the scale of
 masculinity; (2) the scale of femininity.
+
 We speak of the manly man and the womanly woman, of
 effeminate men and of masculine women. Exactly what is meant
 by these terms, and whether performances have a sex quality or not,
@@ -432,6 +442,7 @@ case of a man, for the simple reason that when it is discovered in
 the male, it is called feminism. The performances of a male may
 exhibit either infantilism or feminism, both or neither; the performances of a female, either infantilism or masculinism, both or
 neither.
+
 There are two culture scales of performance level: (1) the
 civilization scale; (2) the education scale.
 At the lowest point of the civilization scale stands primitive
@@ -443,10 +454,10 @@ own estimation. The civilization scale measures the effect of the
 organized social environment into which the individual is born and
 in which he is reared. It is the Kultur scale. If there are biological
 differences of race and family stock, these will be represented on the
-72 THE PSYCHOLOGICAL CLINIC.
 species scale. Germans may place the German race at the top of
 the species scale, even as they place their Kultur at the top of the
 civilization scale.
+
 At the lowest level of the education scale stand the illiterate.
 The performances called reading, writing, and arithmetic, are at a
 very significant point on this scale. Another significant point is
@@ -462,14 +473,17 @@ business affairs. Near the top of the scale will come those whose
 accomplishments rest upon a lifetime of education and training,
 i. e. men of science, statesmen, and the foremost representatives of
 every art.*
+
 There are two normality scales: (1) the deficiency scale; (2)
 the insanity scale.
+
 At the lowest point on the deficiency scale must be placed the
 idiot, above him the imbecile, and then the moron at the level which
 separates the imbecile, who is clearly subnormal, from the normal.
 The insanity scale, proceeding from the normal, passes through those
 whom we call unbalanced, borderline types, to those who are clearly
 insane.
+
 The significant levels in both these scales are determined by
 social behavior. The line between the normal and the feebleminded
 child is not drawn with reference to grade of intelligence. Feebleminded children are those whose performances indicate the necessity
@@ -483,12 +497,13 @@ i. e. being born of a good family, necessarily equip the individual with culture
 the culture levels of different persons, it is well to bear in mind that a given culture level may be
 determined either by relatively higher position on the civilization scale and lower position on the
 education scale, or vice versa.
-RELATION OF INTELLIGENCE TO EFFICIENCY. 73
+
 formances, in some of which he will be normal and in others subnormal. An average of sufficiency in performance establishes
 normality, as an average of deficiency establishes subnormality.
 The normality point on the scale can be defined only as the average
 performance level of all the children who remain in the ordinary
 social environment.
+
 The level of those we call normal is therefore to be distinguished
 from the level of those we call subnormal, by a patho-social criterion.
 On the insanity scale also, at a point which indicates the level of
@@ -503,7 +518,8 @@ whereby we establish different degrees of abnormality, is of less
 concern to the science of psychology than the study of so-called
 normal individuals. For instance, we would like to know how many
 deficiencies an individual may exhibit and how unbalanced he may
-be, and yet pass for normal.*
+be, and yet pass for normal.
+
 If the diagnostician will bear in mind that each of the several
 performance scales represents a different series of facts, he will
 avoid some interpretations of behavior which give rise to misunderstanding and confusion. The Binet testers assume not only that
@@ -520,11 +536,12 @@ normal children. Every child, normal or feebleminded, can be
 assigned a level on both the age scale and the deficiency scale. The
 deficiency scale cannot be superimposed upon the age scale to make
 a single scale.
+
 * In a later contribution I shall seek to render this point of view more emphatic by designating
 these two normality scales:?(1) the sufficiency scale, and (2) the equilibrium scale. At the
 present moment I cannot stop to consider the merits of this proposed terminology, and therefore
 I adhere to terms which are more nearly in accord with common usage.
-74 THE PSYCHOLOGICAL CLINIC.
+
 By comparing mental age with actual or chronological age we
 derive such diagnostic categories as infantilism and 'precocity. The
 terms backwardness and retardation also are employed with reference
@@ -563,9 +580,9 @@ to the species scale, is atavism; referred to the age scale, it is
 infantilism; to the civilization scale, primitivism; and to the education scale, backwardness.
 There are two scales for grading intelligence: (1) the invention
 scale; (2) the resource scale.
+
 I have defined intelligence as the ability of an individual to
 solve what for him is a new problem. A problem must be solved,
-RELATION OF INTELLIGENCE TO EFFICIENCY. 75
 and it must be new. In the relative newness of the problem for each
 individual will reside its relative difficulty. The more difficult the
 problem the greater originality will be required for its solution. A
@@ -581,6 +598,7 @@ test the intelligence of a horse by requiring it to climb trees. The
 ability to solve a new problem is invention. It is a creative act.
 The invention scale measures the degree of originality displayed
 in producing a required result.
+
 Invention may be limited to a single field, or be manifested in
 many fields. Whenever intelligence is tested, it can be tested in
 only one field at a time, in a problem of arithmetic, let us say, or in
@@ -592,6 +610,7 @@ scale which measures the generalness of intelligence or its range of
 distribution I call the resource scale. A line representing intelligence differences increasing from lower to higher intelligence will be
 determined by two coefficients, the one on a scale of invention
 grades, and the other on a scale of resource grades.
+
 Men of great intelligence are not distinguished from men of small
 intelligence by possessing more or less of a single unit character,
 i. e. intelligence, but by virtue of the fact that their performances
@@ -604,11 +623,12 @@ excludes him on the ground "that his song has but one motive,
 sorrow for the irrecoverable dead." Nevertheless he admits that
 within the range of this one motive Poe's invention is creative
 genius of the first rank. Aristotle, Plato, Leonardo da Vinci, Goethe,
-76 THE PSYCHOLOGICAL CLINIC.
 are examples of an intelligence which ranks high, both in invention
 and resourcefulness.
+
 There are two scales for grading proficiency: (1) the efficiency
 scale; (2) the operation scale.
+
 Mr. Courtis has contributed results of great value to the scientific treatment of efficiency, because he has so clearly distinguished
 between the efficiency of an elementary operation in arithmetic,
 such as addition, subtraction, multiplication, and division, and the
@@ -636,6 +656,7 @@ already in common usage, and science should attempt to be at least
 as discriminating as the man in the street. Training schools give
 certificates of proficiency. I do not happen to know of any training
 school which gives a certificate of efficiency.
+
 When I restrict the term efficiency to a single phase or element
 of an operation, I do not mean that efficiency is unimportant, but
 that invention, and resourcefulness, and the number of operations,
@@ -647,7 +668,6 @@ I cannot tell whether it would be more important for me to develop
 efficiency in a particular student or to extend the number of his
 operations, to strive to encourage the development of creative
 originality or to add to the number of his possible resources. The
-RELATION OF INTELLIGENCE TO EFFICIENCY. 77
 nations are struggling blindly forward. What may be most important
 for the development of each nation?to strive for efficiency, or to
 encourage invention,?who can tell? I only know that for science
@@ -655,6 +675,7 @@ the immediate task is to study and measure efficiency. Science
 must begin with elementary processes. It must learn how to measure by measuring first what can be measured. Efficiency may be
 measured with some precision. Intelligence grades and performance
 levels can only be approximately estimated.
+
 To one who has followed my analysis with understanding, it
 will be evident that most so-called intelligence tests are not tests of
 intelligence at all. Some of them are tests of efficiency, while others
@@ -663,7 +684,9 @@ the species or the age level, the deficiency or the insanity level, or the
 education level. No one has devised as yet a satisfactory test of
 intelligence. Intelligence differences are based upon estimates,
 which are for the most part as crude as popular estimates of civilization level.*
+
 Application.
+
 Dr Eliot speaks with admiration of the "wonderful efficiency"
 of the Germans. They have conceived and carried forward a policy
 in government, industry, and military organization, whose aim has
@@ -690,10 +713,9 @@ Levels
 8. The femininity scale
 9. The civilization scale
 10. The education scale
-Culture |
+Culture 
 .. I 11. The deficiency scale (or the sufficiency scale)
 orma y ? \ jg. The insanity scale (or the equilibrium scale)
-78 THE PSYCHOLOGICAL CLINIC.
 neglected to acquire efficiency in some essential operations, he
 would have clarified his argument if he had used some term like
 'proficiency to indicate the combination of efficiency with the number
@@ -702,6 +724,7 @@ cannot show Germany's efficiency to be inferior to what it really
 is. It may indeed be questioned whether the Germans have not
 developed. efficiency beyond the point where it has maximum
 effectiveness.
+
 If grades of efficiency can be measured on an efficiency scale,
 then the terms higher and lower should be restricted to mean relative
 position on this scale. Greater care in the use of these terms would
@@ -735,8 +758,8 @@ on equal terms with his efficiency in the elementary operations. We
 must be able to do this before we can arrive at a precise estimate of
 the relative importance of reasoning and ciphering as elements in
 an education.
+
 Another difficulty in estimating relative importance arises from
-RELATION OF INTELLIGENCE TO EFFICIENCY. 79
 lack of agreement as to the purpose or aim of a process, such for
 example, as the educational development of an individual or the
 progress of a race or nation. The value, and hence the importance,
@@ -755,6 +778,7 @@ blind are easily reared to a fairly normal adult age, while children
 born without the sense of hunger would probably die in infancy.
 For these and other reasons, I think that questions of relative importance will remain for a long time matters of opinion rather than
 problems in scientific measurement.
+
 Dr Eliot's "highest efficiency," by which he means the
 efficiency of the more complex and socially important operations,
 rests upon intelligence, will, and moral purpose. Thus he considers
@@ -778,7 +802,6 @@ gaining information, and for adopting and adapting methods.
 have a fair amount of social mobility, the rare men are surer to come
 forward into vigorous action?the men who are competent, not only
 to invent or imagine the thing or the method that is next wanted, but
-80 THE PSYCHOLOGICAL CLINIC.
 to put their inventions into practical form and to make them useful
 in actual industries of their nations and the world." The issue with
 respect to intelligence is clearly and justly presented by Dr Eliot,
@@ -814,14 +837,13 @@ more by persevering efficiency than by creative originality. He has
 employed many resources and shown the highest proficiency, but
 seldom in his work do we see the invention which leaps up to us
 from every page of William James. In Fechner, the Germans have
-*New here means new for the world. An invention is, by definition, always new with reference to the individual.
-RELATION OF INTELLIGENCE TO EFFICIENCY. 81
 produced a scientific intelligence of the first rank in psychology. The
 influence of Fechner's invention upon the science already transcends
 the influence of Wundt, whose greatness lies in the skill with which
 he has elaborated and diffused the ideas of Fechner and other men.
 Darwin and Galton have done more to determine the character of
 modern psychology than Helmholtz.
+
 From many fields of art and science Dr Eliot gathers the data
 from which he justly concludes that the British and French exceed
 the Germans in creative originality. I agree also with Dr Eliot's
@@ -847,6 +869,7 @@ discipline, training in method, and the acquisition of information,
 the conditions may be provided?perhaps are provided in school,
 high school, and college?which eventuate in the atrophy of intelligence through disuse. We cannot give a child eye-sight if he is blind,
 but we can destroy his vision if he has it.
+
 "A man will develop greater mental capacity and greater force
 with freedom than without," says Dr Eliot. If he means by
 "greater mental capacity," greater intelligence, I can agree with
@@ -854,7 +877,6 @@ him; but if he means by "greater mental capacity," greater
 efficiency in a larger number of operations, I cannot agree with
 him. A measure of freedom is a necessary condition for the full
 exercise of intelligence, and I believe with Dr Elliot that intelligence may be expected to develop both resources and efficiencies.
-82 THE PSYCHOLOGICAL CLINIC.
 Whether, as a matter of fact, intelligence or external discipline
 will develop the larger number of resources and efficiencies, can
 only be determined after an adequate test. The least known
@@ -892,7 +914,6 @@ made his choice with respect to that order and others of like nature.
 The Anglo-Saxon considers each time the situation arises, whether
 his desire to walk on that particular plot of grass or his appreciation
 of the reasonableness of the mandate of the "collective will" shall
-RELATION OF INTELLIGENCE TO EFFICIENCY. 83
 determine his choice of action. In view of the diverse development
 of constitutional government in England and in Germany, the
 objection may be offered that a large number of Germans, perhaps
@@ -905,6 +926,7 @@ greatest modern exponent of autocratic ideals, Bismarck. Nevertheless, in the li
 organization, it would be hazardous to assert that the State Socialism of Germany, with its emphasis upon the discipline of constraint
 in school, army, and social life, has not been accepted as a matter of
 choice by the German people.
+
 Questions of relative value are now apparently to be settled
 by the test of war. Whether the Germans win or not, they have
 already shown the value of efficiency and constraint. If the Allies
@@ -927,7 +949,6 @@ Intelligence and proficiency, freedom and constraint, are not the
 only factors of competency. They are the general expression of
 particular mental capacities and traits, which constitute the congenital endowment of the individual. Thus, as I have already
 pointed out, articulate language is a congenital capacity of every
-84 THE PSYCHOLOGICAL CLINIC.
 normal human being, which he uses intelligently or proficiently as
 the case may be. When a capacity is present in more than average
 amount, it is called a talent. Thus we speak of a talent for music,
@@ -943,6 +964,7 @@ tone-deafness, or color-blindness, or insensibility to pain, is a defect.
 A mental trait which makes for progress and success, I call an asset.
 The total mental capacity of an individual, then, is the algebraic sum
 of his assets and defects.
+
 The competency of an individual or nation is a complex of
 many elements. It includes intelligence, which we measure in terms
 of invention and resource; proficiency, measured in terms of
@@ -958,6 +980,7 @@ draw for the guidance of nations and individuals will depend in
 large part upon the soundness of our analyses and interpretations.
 Psychology will contribute not only to the analysis and interpretation, but also to the exact measurement of efficiency and such other
 factors as may prove to be measurable.
+
 The relative value of mental traits, however, can never be established by psychological investigation alone, and for an indefinite
 period we may expect the determination of the relative value of
 different mental qualities to remain mere expressions of opinion and
@@ -968,7 +991,6 @@ point of view, but an asset from the mule's if it prevents his being
 overworked. Obstinacy in a child, parents usually consider a defect,
 but it is one of the means whereby the child preserves his personality
 from being too much affected by external constraint. Success in
-RELATION OF INTELLIGENCE TO EFFICIENCY. 85
 war may not reveal but obscure the relative value of qualities like
 intelligence and love of freedom. The Germans may have a greater
 talent for war than the English or French, and the value of this asset
@@ -1005,7 +1027,6 @@ for witchcraft, and eliminated torture as a recognized procedure in
 law. In peril of his life, he wrote for the world's enlightenment:
 "I now saw that any being gifted by God with reason sins against
 the goodness of his Creator when he allows himself to be led, like an
-86 THE PSYCHOLOGICAL CLINIC.
 ox, by any other human being," and he adds, "I determined to shut
 my eyes against the brightness of human authority and to give no
 more thought to the question, who supports any doctrine,?but only
@@ -1026,6 +1047,7 @@ book is represented by the difference between the sacking of Magdeburg by Tilly,
 toward the inhabitants of La Rochelle, which earned for him the
 title of "The Cardinal of Satan," bestowed by the astonished fanatics
 of his own church.
+
 Many brave comrades of Grotius and Thomasius paid with
 their lives to create the beginnings of international law, and thus
 raise our civilization above the moral level of Machiavelli. To

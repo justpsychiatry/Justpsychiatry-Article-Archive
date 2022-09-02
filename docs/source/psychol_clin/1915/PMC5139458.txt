@@ -1,9 +1,10 @@
 Difficulties in the Interpretation of Mental Tests? Types and Examples
 =======================================================================
 
-By Frances Porter, A.B.,
+:Author:  Frances Porter, A.B.,
 Assistant Psychologist, Psychopathic Institute, Juvenile Court,
 Chicago.
+
 In the literature on tests, with a few exceptions such as
 Haberman's article on the evaluation of mental tests, criticisms,
 particularly of the Binet scale, have been made from the statistical
@@ -14,6 +15,7 @@ retardation. In such studies discussion of peculiarities of the individual child
 aspect of the examinee is entirely ignored or dismissed with a few
 general remarks. It is just this side of the problem that we have
 attempted to emphasize here.
+
 Our plan in this paper is to give, first, a classification of the
 anomalous findings by tests, then typical records from case studies.
 We wish to emphasize that the cases cited are merely single illustrations of types which we find repeated over and over; that they
@@ -32,8 +34,6 @@ other tests and those which would grade lower.
 performance tests.
 a. The verbalist type of defective.?These cases often do better
 on Binet because of their language ability.
-(140)
-DIFFICULTIES OF MENTAL TESTS. 141
 b. Individuals with good ability along rote lines, but poor
 apperceptive ability.?This is presumably because Binet
 tests involve to a large extent information which most
@@ -71,7 +71,6 @@ after condition has improved.
 b. Individual tested when in an unfavorable emotional state
 and retested in a favorable state.
 (1) Tested under unfavorable laboratory conditions.
-142 THE PSYCHOLOGICAL CLINIC.
 (2) Tested when in a recalcitrant attitude. (Of course
 many other emotional moods, such as sorrow and
 fear, may interfere with fair testing.)
@@ -101,6 +100,7 @@ a. Defectives (not of the usual type) whose irregularities are
 the result of failures on all types of Binet tests.
 b. Normal children who fail on all the questions of one type
 (e. g., all involving information).
+
 In order to make the following rather detailed case studies clear
 it seems necessary to give a brief description of the tests used. They
 include tests for school work, the Binet-Simon tests, the HealyFernald tests,1 and other tests especially to gauge mental control.
@@ -108,13 +108,13 @@ In ail the cases cited the 1911 Binet-Simon series was used.
 Introductory Test.?This is a combination of the test form board
 1 Tests for Practical Mental Classification. William Healy and Grace M. Fernald, Psyche
 logical Monograph 54 Psychological Review Pub, Co,, Princeton. N. J,
-DIFFICULTIES OF MENTAL TESTS. 143
 with the picture puzzle. The seven pieces are quite dissimilar in
 shape and have distinctive parts of the picture printed on them, two
 are nearly interchangeable, and two are right triangles which
 together fit into an equilateral triangle. These last two give a good
 opportunity for studying the subject's ability to profit by trial and
 error.
+
 The First Construction Test.?This is a wooden frame into which
 five pieces are to be fitted. While there are a number of possible
 positions into which the various pieces can be put into the frame
@@ -125,6 +125,7 @@ shows his planfulness and ability to profit by past trials.
 The Second Construction Test.?This involves the same mental
 elements as the first construction test. It is, however, more complex
 as there are many more alternative moves.
+
 The Puzzle Box.?The purpose of this test is to bring out abilities or defects in manipulative power and the ability to analyze a
 slightly complicated physical situation. The box is fastened by a
 series of strings passed over posts which can only be unfastened in
@@ -144,11 +145,11 @@ and perhaps by a definite logical process, the numbers corresponding to the part
 Second Cross Line Test?The procedure is the same as above
 except that the figure is the one used by children in the game of
 "Tit-tat-to," and is made up of nine parts.
+
 Code Test.?By a combination of the two cross line tests a complete alphabetic code can be arranged. After the subject has studied
 the arrangement, it is turned over and he is given a sentence to
 write. Because of the greater number of parts to be worked out
 from the subject's recollection of the general scheme, this test is of
-144 THE PSYCHOLOGICAL CLINIC.
 great value in indicating the subject's ability to control his mental
 processes as well as his ability to grasp the idea of a code.
 The Completion Test.?This test is a picture representing ten
@@ -158,21 +159,25 @@ more pieces on which are drawn objects that do not logically complete the pictur
 "make the best sense." The test brings out the subject's powers of
 apperception and has an added value in the fact that in psychosis
 cases the performance is often extremely erratic.
+
 Substitution Test.?This test shows the ability of the subject to
 learn the arbitrary association of a set of symbols with numerals.
 Memory Tests.?Two passages, one to test auditory verbal and
 the other to test visual verbal memory.
+
 Aussage Test.?The butcher-sliop picture is shown to the subject, who gives a free account and answers to direct questions.
 School Work.?This includes reading and giving the meaning of
 a passage, writing from dictation, and arithmetic. The work is, of
 course, varied according to the age of the subject and the actual
 amount of schooling he has had.
+
 Tapping Test.?In this test for psycho-motor control, the subject taps as rapidly as possible in half inch squares without touching the lines or missing the squares.
 Kraepelin Subtraction Test.?This is the continuous subtraction test used to gauge mental control.
 Opposites Test.?Here the subject is given a stimulus word to
 which he is to reply with the exact opposite. This should be a test
 for control, of association processes, but with our group of subjects it
 sometimes turns out to be a language test.
+
 Class I. Cases in which the Results on Binet as
 Compared with Other Tests are Discrepant.
 1. Results on Binet tests proportionately better than results
@@ -184,9 +189,9 @@ stealing. Judged by Binet tests alone this girl is found to be only a
 year retarded; nevertheless her work on other tests shows her to be
 feebleminded. She is noticeably lacking both in reasoning and in
 acquisitive powers, but her ability to use spoken language is sufficient
-DIFFICULTIES OF MENTAL TESTS. 145
 to disguise her mentality when studied by tests which depend so
 largely on ability to use language.
+
 Mental tests: Binet tests?failures; 7 years (1) knowing right
 and left, (2) describing pictures; 8 years (2) counting 20-0, (4) knowing date, (5) repeating numerals; 9 years (2) defining in terms
 superior to use, (4) naming months; 10 years (1) arranging weights,
@@ -203,6 +208,7 @@ fairly well. Auditory memory test?quite well done. School work?
 the girl cannot read. Cannot add 2 and 2. Her success with the
 two Binet questions involving arithmetic is due to their concrete
 form. The girl has had ordinary school advantages.
+
 Case 2. F. E. 14 years, 3 months. Girl. Summary: Physical condition good. This case, like the preceding one, represents
 the verbalist type of feebleminded who cannot be adequately tested
 by Binet tests alone. When this girl was first examined, only the
@@ -214,6 +220,7 @@ many morons we have seen. On school work she shows this same
 verbal glibness coupled with a lack of any real comprehension; for
 instance, she reads a third grade passage well, but cannot give the
 meaning oi it.
+
 Mental tests: Introductory test?5' 45"; excessively slow with
 many trials. The triangles were done slowly with repeated errors.
 First construction test?2' 39" with 26 moves. This, too, is a decidedly
@@ -224,9 +231,9 @@ This is a very poor record both from the number of illogical errors
 and for the very long reaction time. Substitution test?2 errors.
 (At her age this should be done perfectly.) Memory tests?both
 of these were done very poorly, very few items were recalled and
-146 THE PSYCHOLOGICAL CLINIC.
 those in a rather incoherent manner. Tapping test?done slowly but
 accurately.
+
 Mental tests (four days later): Binet tests?failures; 9 years
 (2) defining in terms superior to use; 10 years (2) ? copying drawings, (3) detecting incongruities, (4) solving common sense questions;
 12 years (4) defining abstract terms, but gets one correct, (5) arranging shuffled sentences, but does one of these. Successes: besides the
@@ -235,6 +242,7 @@ interpreting pictures, (5) inferring facts from narrative. First cross
 line test?failed, again. Second cross line test?failed. School work?
 does simple sums. Reads third grade passage fluently, but cannot
 give meaning. Writes and spells well.
+
 The remarkable interest of this case lies in the fact that this
 girl does so many of upper year tests and yet ranges so low in her
 reasoning ability and in her work with concrete material.
@@ -255,6 +263,7 @@ memory ability does not help him. In this type of case the Binet
 scale has proved inadequate because the boy has ability along rote
 lines and his training has been such that he has been taught the
 necessary information.
+
 Mental tests: Binet tests?gets through all the 13 year tests
 rapidly and easily. First construction test?6' 30" with 60 moves,
 25 of which were impossible. This is an atrocious performance.
@@ -263,7 +272,6 @@ moves at the most, with not more than a couple of impossible ones.
 Second construction test?1' 10" with 12 moves, but this was apparently by chance. Second cross line test?done on first trial, this
 good result being due to his memory power. Code test?could not
 grasp the idea! Completion test?7 errors, 5 being illogical. These
-DIFFICULTIES OF MENTAL TESTS. 147
 were such ridiculous errors as substituting the football for the child's
 hat, and blanks for all the pieces. This is another exceedingly
 stupid performance. Instruction box, substitution test, auditory and
@@ -272,6 +280,7 @@ the details. Memory span?7 numbers. School work?shows the
 same contrast between rote work and that requiring reasoning. He
 reads well, but speaks poorly. Arithmetic very poor indeed, cannot
 even do long division.
+
 Case 4. M. 0. 13 years, 4 months. Girl. Summary: This
 little girl is definitely a moron in spite of her fairly intelligent expression. When we first examined her she did very poorly on all tests
 including school work. Later, after having been in an institutional
@@ -301,9 +310,10 @@ this is an excessively bad record. Substitution test?5 errors in
 copying and 4 in reproducing from memory, another atrocious
 performance. School test?adds very simple combinations, cannot
 multiply. Reads very poorly.
+
 Mental tests (next day): First cross line test?fails. Substitute test?done with only 1 error in the reproduction from memory.
 School work test?fails on all arithmetical problems.
-148 THE PSYCHOLOGICAL CLINIC.
+
 Mental tests (one month later): Binet tests?failures; 9 years
 (2) and (4) ; 10 years (2)|; 12 years (4) and (5). First construction
 test?10" with 5 moves, this, of course, merely shows her good memory. Second construction test?6' 55" with 44 moves. This is done
@@ -311,7 +321,9 @@ slowly and in a random manner. First cross line test?failed. Completion test?9 e
 School work?adds and subtracts correctly and can "prove" her
 results. Has learned to do simple problems in multiplication.
 Writing and spelling unexpectedly good. Reads third grade passage easily.
+
 c. Aberrational cases.
+
 Case 5. W. D. 13 years, 6 months. Boy. Summary: No
 significant physical findings. The boy has been behaving strangely
 at home and his manner and conversation during the tests were
@@ -339,10 +351,10 @@ test?was done normally, so that on the basis of Binet tests alone
 this boy passes as normal, although it is plain from the other tests
 that he is not. He was diagnosed as an aberrational case, possibly
 dementia praecox.
+
 Mental tests: Binet tests?does all the 12 year tests very well
 and all the 10 year tests except (2) the drawings. First construction
 test?failed in 5'. Half an hour later he does this very well in 14"
-DIFFICULTIES OF MENTAL TESTS. 149
 with 8 moves. Second construction test?makes 63 moves in 8' 21",
 then says, "I surrender." This also was done later in 15" with 18
 moves. First cross line test?done on fourth trial, showing the boy's
@@ -354,15 +366,18 @@ and tells us that "the other chicken is doing what the baby is," that,
 "the girl is showing the cat an empty cage to make it wild hunting
 the bird"?an explanation involving two unrelated groups. Auditory and visual verbal memory tests?done very poorly. School work
 ?arithmetic poor.
+
 (Three weeks later.) Second cross line test?still fails on fourth
 trial. Completion test?6 illogical errors. When urged to correct
 them changes two pieces which had been correct and insists, "there's
 nothing wrong now."
+
 (Next day.) Seco?id cross line test?still fails. Kraepelin test?
 done fairly quickly with 4 errors in subtraction by sevens. Opposites
 test?done fairly promptly with 2 errors. Tapping test?taps 70
 squares with 0 error and 75 with 1 error, but when urged to speed
 up makes an excessive number of errors.
+
 Case 6. G. I. 16 years 7 months. Girl. Summary: This
 girl is in rather poor general physical condition, and has very defective vision. Heredity is atrocious, the mother is insane and the
 father is a drunkard. At present she is regarded by her teachers
@@ -377,16 +392,17 @@ subtraction by fours. This same lack of power of sustained attention is shown in
 numerous errors are made in carrying. She multiplies each digit
 correctly when working orally, but the final result is entirely
 wrong.
+
 Mental tests: First construction test?13" with 5 moves, a very
 good record. Second construction test?7' 41" with 42 moves, a
 decidedly poor and slow performance. First cross line test?done
 on second trial. Second cross line test?failed. Completion test?
 6 errors, 4 illogical, a typically erratic performance. Substitution
-150 THE PSYCHOLOGICAL CLINIC.
 test?2 errors in copying, 6 in reproducing from memory, a significantly bad result. School work?fails on multiplication and long
 division, apparently because she cannot control her mental processes. Tapping test?77 squares in 30" with 6 errors. Later 74
 squares in 30" with 6 errors. Kraepelin test?subtracting by sevens
 and by threes: very poor results.
+
 Mental tests (three days later): Binet tests?does all the 12
 year tests easily, and all the 15 year tests except (4) which was
 omitted. Second cross line test?(renumbered) correct on first trial.
@@ -394,6 +410,7 @@ Completion test?i errors, 2 illogical. Substitution test?0 errors.
 Tapping test?84 squares in 30" with 30 errors! 80 squares in 30"
 with 30 errors! Kraepelin test?by sixes and by fours, done
 miserably.
+
 Case 7. J. V. 15 years, 1 month. Boy. Summary: Much
 enlarged tonsilar glands. No other morbid physical findings. This
 boy has held two "jobs", first as actor on the vaudeville stage, and
@@ -411,6 +428,7 @@ tests, but even here again the boy's language ability aided him. The
 diagnosis was tentative, the boy is very probably an adolescent
 psychosis case, perhaps on the basis of bad habits, but possibly also
 he is a defective of the verbalist type.
+
 Mental tests: Binet tests?does all the 12-year tests with the
 greatest ease and assurance. First construction test?failed in 5'.
 Done with nervous haste. Second construction test?done in 9' 58"
@@ -418,14 +436,16 @@ with 82 moves, and with the same frantic haste. For a boy of his
 age, this amounts to a failure. First cross line test?correct on second
 trial. Second cross line test?failed. School work?knows the processes of multiplication and long division, but fails because of
 inaccuracies.
+
 Mental tests (next day): First construction test?failed. Second
 cross line test (renumbered)?failed. Completion test?does very
 slowly and with 5 illogical errors, a thoroughly aberrational result.
-DIFFICULTIES OF MENTAL TESTS. 151
 Tapping test?60 squares in 30" with 0 errors. On second trial taps
 60 squares with 14 errors! Kraepelin test?3 errors in subtracting
 by sevens. Opposites test?2 errors, normal reaction time.
+
 Individual with poor powers of concentration.
+
 Case 8. P. K. Just 12 years. Boy. Summary: Good physical condition except for slightly defective vision and occasional
 headaches. This boy shows himself quite capable on any test not
 requiring prolonged attention, with the possible exception of the
@@ -440,6 +460,7 @@ out of four problems. Since the Binet tests require only a succession
 of brief efforts they quite failed to show this boy's mental peculiarity,
 although it is one that may be most significant as an explanation of
 his reactions to school and vocational life.
+
 Mental tests. Binet tests?failures, 12 years (1) judging lines.
 First construction test?done in 2' 43" with 30 moves. This and the
 next test were done in a random way. Second construction test?
@@ -451,14 +472,15 @@ knows the process. Reads and writes fairly for his grade?the
 sixth. Kraepelin test?subtraction by sevens very poorly done.
 2. Results on Binet tests proportionately poorer than results
 on performance tests.
+
 a. Foreign born individual.
+
 Case 9. S. V. 16 years 1 month. Boy. Summary: Physical
 conditions, rather premature development. This boy has got in
 with a bad crowd and done a good deal of stupid stealing, and his
 explanations of this in court were very incoherent and slow-witted.
 His parents are Norwegian and the family speak Norwegian altogether at home, although the boy was born in this country. The
 officer reports that they are all very slow of speech. In conversation
-152 THE PSYCHOLOGICAL CLINIC.
 this boy seems to have the utmost difficulty to express himself.
 "Words fairly seem to rattle round in his head and his ideas never
 come out clearly." Quite as one would expect from this he does
@@ -471,6 +493,7 @@ in the low sixth grade?but his writing is extremely bad. His
 Binet age is 10 years, so that by that criterion he would be considered a moron, but his work on performance tests is that of a
 normal person. We considered him to be of fair ability, except for
 language.
+
 Mental tests: Binet tests?failures; 10 years (5) using given
 words in two sentences; 12 years (1) comparing lines, (2) using
 given words in one sentence, (4) defining abstract terms, (5)
@@ -494,9 +517,9 @@ implied in the teacher's comment. We noted his slouchiness, and
 that he was very easily diverted from his work. His test record
 shows the same tendencies; for there he grades almost up to age
 on Binet, although his work on all tests requiring continued effort
-DIFFICULTIES OF MENTAL TESTS. 153
 is on a much lower level. Very probably he will turn out to be
 subnormal and his development will not go much further.
+
 Mental tests: Binet tests?failures; 9 years (4) naming months;
 10 years (1) arranging weights, (2) copying drawings, (5) using given
 words in two sentences. Binet age 9 1/5. Introductory test?failed
@@ -511,8 +534,10 @@ on such problems as 16 minus 7 and 12 plus 8. Even if we rule out
 the work on construction tests as due to a specialized defect, the
 results on all these other tests are much worse than one could expect
 from the results on Binet tests.
+
 b. Individual with some physical deject affecting language
 ability.
+
 Case 11. F. Z. Just 17 years. Boy. Summary: Physical
 condition, completely deaf since 5 months old. Since the boy had
 had only a few months' training at a school for the deaf, he does not
@@ -529,6 +554,7 @@ tests are done quickly and by a very rational method. Puzzle box?
 correct on second trial. Second cross line test?correct on third trial.
 These two tests are only fairly well done. Completion test?2' 37",
 no errors. School test?adds a single column of numbers.
+
 Case 12. B. E. 15 years, - months. Boy. Summary: This
 boy is a case of otitis media with varying hearing conditions. When
 we saw him, he could barely hear a low voice at 10 feet. His general
@@ -536,7 +562,6 @@ physical condition was poor; weight only 91 pounds, height 4 feet
 11 inches. Says he suffers much from headache. Is only in the
 third grade in school, but has been out much. This boy grades
 Very low on Binet tests, but his work on performance tests is good,
-154 THE PSYCHOLOGICAL CLINIC.
 and so is his work on all the Binet tests that do not involve language.
 Thinking that the boy might not have understood because of his
 deafness, a definite effort was made to get him to do better on the
@@ -550,6 +575,7 @@ him to co-operate on work requiring verbal answers. While the
 Binet tests failed to measure this boy's innate mental ability, his
 response to them does give some clue concerning his probable reaction to many social situations, but his mentality must be judged
 by other tests.
+
 Mental tests: Binet tests?failures; 9 years (2) defining in terms
 superior to use; 10 years (3) detecting incongruities, (4) solving
 common sense problems, (5) using given words in two sentences.
@@ -562,20 +588,23 @@ the second cross line test, are very well done. School work?adds
 simple sums correctly, but fails on simple multiplication. Writes
 only shorter words and reads third grade passage with difficulty,
 but refuses to give any account.
+
 Mental tests (next day): Binet tests?failures; 10 years (3) read
 all these sentences, but only succeeded on one out of five; failed
 badly on all the others, (4) and (5); 12 years (2) using given words
 in one sentence (later this was done correctly), (3) giving 60 words
 in 3', (4) defining abstract terms.
+
 3. Results on school work at variance with results on
 other tests.
+
 a. Individuals with special disabilities for learning the usual
 school subjects.
+
 Case 13. H. C. Just 10 years. Boy. Summary: This boy
 was sent to us from an institution because of his failure to learn in
 school. He cannot read, cannot write the simplest words from
 dictation, and cannot add more than two digits. We found him
-DIFFICULTIES OF MENTAL TESTS. 155
 to be rather an intelligent little boy, much interested in his own
 problem. He co-operated most willingly on tests and even offered
 his own explanation of his difficulties. By Binet tests he graded up
@@ -593,6 +622,7 @@ out of school. Because of these conditions he was sent to a family
 in the country, with some recommendations as to possible methods
 of teaching him. However, he was sent too recently for any result
 to be repeated.
+
 Mental tests: Binet tests?failures, 8 years (4) knowing date:
 9 years (4) naming months. He does all the 10 year tests correctly.
 Fails, 12 years (3) saying 60 words in 3', (4) defining abstract terms
@@ -610,18 +640,19 @@ to do things the school way, but to use his common sense. H. C.
 cannot write words dictated to him, but offers to write a few which
 he does know because he has practiced them over and over again,
 He puts down run, nam (man), care, ayn (and).
+
 Mental tests (five days later): The child told us that he thought
 his trouble was that he didn't remember, so to test his remote memory
 he was asked to do the following. The first construction test he
 completed in 28" with 10 moves; much better than his first effort,
 but he did not remember absolutely. He failed to reproduce the
 first cross line drawing, but drew the second after one failure.
-156 THE PSYCHOLOGICAL CLINIC.
 Drew the first of the 10 year Binet drawings. Gave a good account
 of two auditory verbal memory passages read 48 hours previously.
 School work?he writes a few new words which he has learned and
 writes out the table of threes, but this is really done by putting down
 the problems and then adding on his fingers.
+
 Case 14. W. E. 13 years, 5 months. Boy. Summary:
 This boy, also, is an educational problem; he is unable to read well
 even a first grade passage, and is equally poor in the handling of
@@ -630,6 +661,7 @@ years. In spite of this, he does very well on all tests except the
 fourth and fifth of the 12 year Binet tests. The only notable feature
 is his very poor rote memory; he does much better with logical
 material.
+
 Mental tests: Binet tests?failures; 12 years (4) defining
 abstract terms, (5) rearranging shuffled sentences. Of course
 inability to read affects this result. First construction test?1' 15"
@@ -642,14 +674,17 @@ extremely poorly. Reads first grade passage very poorly and
 utterly fails on second grade passage. Tapping test?61 squares
 in 30" with 1 error; 63 in 30" with 3 errors. Opposites test?1 error
 in first list, 4 errors in second; prompt reactions.
+
 In this case again, feeblemindedness cannot be considered if
 we go by the scale of Binet, which, however, does not bring out the
 essential peculiarities of the case. Scholastically the boy is very
 defective, and naturally social judgment is largely based on just
 those attainments which he lacks. The correct diagnosis is that the
 boy is defective along special lines.
+
 b. Individuals whose abilities show distinctly better in learning
 the usual school subjects.
+
 Case 15. C. P. Just 15 years. Girl. Summary: This case
 scarcely needs any commentary; it is given merely to show that we
 find cases which do much better on school tests than on other tests,
@@ -657,12 +692,12 @@ as well as such cases as H. C., just cited, where we find the reverse.
 This girl has had rather poor educational advantages, yet her school
 work is well up to her grade, the fifth, while her work on other tests
 is that of a moron. We must add that the girl does not give the
-DIFFICULTIES OF MENTAL TESTS. 157
 impression from her conversation and reaction to commands of
 being an out-and-out defective. Her mother is insane and it is
 possible that the girl herself is aberrational, although her test work
 shows none of the irregularity so common to the work of that class
 of cases, but is merely consistently poor.
+
 Mental tests: Binet tests?failures; 9 years (2) defining by terms
 superior to use, (4) naming months; 10 years (2) copying drawings,
 (3) detecting incongruities, (4) solving common sense problems;
@@ -677,8 +712,10 @@ in subtraction at the end. Tells the price of 5 oranges at 60 cents
 per dozen. Reads a third grade passage easily and gives a good
 account of it. Inadvertently, she was not given a fifth grade
 passage.
+
 4. Results on one specific type of tests better than results
 on all other tests.
+
 a. Defective with highly specialized abilitiest
 Case 16. N. E. 13 years, 5 months. Girl. Summary:
 Vision, right and left 20/40. No other significant physical findings.
@@ -688,6 +725,7 @@ feebleminded. In this instance the value of using the performance
 tests as well as the Binet system lies in the possibility of making a
 constructive recommendation as to the training from which she is
 best able to benefit.
+
 Mental tests: Binet tests?failures; 8 years (1) comparing
 objects, (2) counting 20-0, (4) knowing date; 9 years (2) defining
 in terms superior to use, (4) naming months, (5) solving common
@@ -699,7 +737,7 @@ with only 6 moves. Second construction test?55" with 13 moves.
 These three construction tests are done excellently both for time
 and number of moves. First cross line test?failed on fourth trial.
 Completion test?8 errors out of a possible 9, only 2 being logical.
-158 THE PSYCHOLOGICAL CLINIC.
+
 This is a very poor result even for a defective, and her explanations
 of her errors are also very silly. School test?reads only the simplest
 words. Can barely write. Fails to add 2+5 or 6+7.
@@ -707,6 +745,7 @@ Case 17. D. T. 11 years, 6 months. Boy. Summary:
 Physical condition good, except for an old head injury. This boy's
 work is poor on all types of tests, except the construction types where
 he does fully as well as any normal boy of his age.
+
 Mental tests: Binet tests?failure; 7 years (4) giving value of
 stamps; 8 years (2) counting 20-0, (4) knowing date, (5) repeating
 numerals; 9 years (2) defining in terms superior to use, (4) solving

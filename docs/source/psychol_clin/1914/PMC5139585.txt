@@ -1,8 +1,9 @@
 Experience and the Binet-Simon Tests
 =====================================
 
-By Rudolf Pintner and Donald G. Paterson,
+:Author:  Rudolf Pintner and Donald G. Paterson,
 Ohio State U7iiversity, Columbus, Ohio.
+
 The ideal measuring scale would test a child's innate mental
 ability without taking into account knowledge that he may have
 acquired through experience. This is obviously an ideal that will
@@ -15,6 +16,7 @@ majority of them, there seem to be a few at least that can be justly
 criticized in this respect. Without agreeing entirely with the sweeping criticisms of Ayres,1 we believe there is much to be said on this
 point, particularly with two of the tests, i.e. naming the days of the
 week and naming the months of the year.
+
 The days of the week was regarded originally by Binet as a
 nine year old test and the months of the year as a ten year old test.
 In the revised scale of 1911, however, Binet2 omitted some of the
@@ -26,14 +28,15 @@ above all that these simple lessons have been learned from the
 parents. We have thought it well, therefore, to omit these three
 tests." On the other hand the Months test is retained, but is made
 a nine year old test without further comment.
+
 Goddard's3 results on 2000 normal children for the two tests in
 question are given on the following page:?
+
 1 L. P. Ayres, The Binet-Simon Measuring Scale for Intelligence: Some Criticisms and Suggestions. The Psychological Clinic, Vol. V, 6, pp. 187-197.
 1 Binet, Nouvelles Recherches sur la mfaure du niveau intellectuel chez les enfants d'ficole.
 L'annie psychologique, Vol. 17, 1911; pp. 145 ff.
 3 H. H. Goddard, Two thousand children measured by the Binet Measuring Scale of Intelligence. Pedagogical Seminary, June, 1911, Vol. 18, pp. 232-259.
-(197)
-198 THE PSYCHOLOGICAL CLINIC.
+
 TABLE I.
 Binet
 Old Scale.
@@ -56,6 +59,7 @@ X 1. Months
 1
 14
 P=Passed, F=Failed.
+
 Upon these results is based to a great extent his revision of the Binet
 Scale as now generally used in this country. It seems questionable
 to the writers as to whether he is warranted in replacing the Days
@@ -66,6 +70,7 @@ only 20 per cent of his eight-year-olds pass this test. It is not the
 purpose of this paper to go further into this question. The uncertainty of these two tests even as they now stand for normal children
 in the approved scale, has only been mentioned in view of the results
 that have been found by the writers in work with adults.
+
 Even if these tests are adequate for children, are they equally so
 for adults? Is not such ordinary knowledge as is contained in knowing the days and the months likely to be forced upon an adult during
 years of experience in the outside world or within the walls of an
@@ -83,7 +88,7 @@ arbitrarily. Tables II and III show the number of failures and
 passes in the two tests for those below and those above fifteen respectively.
 'The Ohio Institution for the Feebleminded. The authors desire here to thank Dr E. J.
 Emerick, superintendent of the institution, for his kindness and courtesy.
-EXPERIENCE AND THE BINET-SIMON TESTS. 199
+
 TABLE II.
 ALL AGES BELOW 15 WHEN TESTED.
 Mental
@@ -277,15 +282,16 @@ Percentage of
 100
 Total.. .606
 Grand total. .!
+
 In the first column the mental age as determined by the BinetSimon scale (Goddard's revision) is given, in the second column the
 number of cases, in the third column the number passing the Days
 of the Week test, in the fourth column the number failing in that test,
 and in the fifth column the percentage of cases correct for that test.
 The last four columns give the analogous data for the Months of the
 Year test.
+
 Looking at the percentage of passes for all ages in table II,
 it would seem that the Days test is too easy for our eight year olds,
-200 THE PSYCHOLOGICAL CLINIC.
 that it is in fact a seven year old test. The significant rise in the
 percentages is between ages six and seven, a rise from 59 to 87 per
 cent. Similarly with the months, we have the significant rise between

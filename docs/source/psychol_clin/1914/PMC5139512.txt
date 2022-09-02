@@ -4,8 +4,8 @@ The Hygiene of Eugenic Generation.1
 The Psychological Clinic
 Copyright, 1914, by Lightner Witmer, Editor.
 Vol. VIII, No. 5. October 15, 1914
-- !  /
-By J. E. Wallace Wallin, Ph.D.,
+:Author: J. E. Wallace Wallin, Ph.D.,
+
 Director Psycho-educational Clinic, St. Louis Public Schools.
 Eugenic or generative hygiene is preventive individual and race
 hygiene raised to the nth. power. No measures for individual or
@@ -30,10 +30,10 @@ the application of which will make for the improvement of the inborn qualities o
 the hereditary, in the narrow Galtonian sense of the latter term.
 I shall state and attempt briefly to support four fundamental
 theses.
+
 1 An address delivered, in part, befor# the Eugenics Section of tha Pittsburgh Academy of
 Arts and Sciences, May 15, 1914.
-(121)
-122 THE PSYCHOLOGICAL CLINIC.
+
 1. Society should prevent degenerate or anti-eugenical matings.
 It is alleged that about 15 per cent of the present generation produces
 50 per cent of the next generation, and that this producing minority
@@ -48,6 +48,7 @@ eugenic diagnoses:?first, the hereditary study of ancestral strains
 by the methods of heredity research; and secondly, the psychological
 observation or testing or study of the level of intelligence and of
 mental deviation.
+
 Present day heredity studies are usually conducted with either
 a distinct Galtonian or Mendelian bias. In the United States the
 Mendelian bias is unmistakable. Judging by the recent publications
@@ -75,7 +76,6 @@ less unscientific than Heron has found to be the methods of tabulating
 the data and interpreting the charts. It should be emphasized that
 * David Heron. Mendelism and the Problem of Mental Defect. I. A Criticism of Recent
 American Work. Eugenics Laboratory Publications, London, 1913.
-THE HYGIENE OF EUGENIC GENERATION. 123
 the accurate scientific determination of the etiological heredity factors
 of mental abnormalities is frequently just as difficult, abstruse, and
 technical as the scientific differential diagnosis of bodily diseases
@@ -116,7 +116,6 @@ will be able to determine indubitably which is cause or which is
 accidental antecedent or accompaniment. The apparent accuracy
 of many heredity charts is wholly deceptive and misleading. In my
 own clinic, I am constantly confronted with such cases as this: a
-124 THE PSYCHOLOGICAL CLINIC.
 feebleminded child with diphtheria or typhoid at, say, three, and with
 a grandfather or uncle or cousin who was alleged to be "feebleminded,"
 "queer" or "peculiar". What is the prime etiological factor here?
@@ -133,6 +132,7 @@ duty to commend the really good work done?because it is being
 accepted at its face value by the uncritical, and because it is therefore
 leading to the enactment of precipitate legislation which in the end
 must bring discredit upon the science of eugenics.
+
 The absurd belief that any so-called heredity field worker is
 competent to make scientific diagnoses after taking short courses on
 heredity field work, is akin to the dogma which has been promulgated
@@ -155,12 +155,12 @@ necessary to identify, because these individuals are the most numerous, they are
 social and moral offenders. It is quite easy to identify the lowest
 ' For a discussion of what is meant by amateurs in this field of work, see "The Mental Health
 of the School Child." New Haven, Yale University Press, 1914.
+
 * In spite of the fact that this statement has been made on the best evidence a number of times
 during the last few years we still (December, 1913) read pronouncements by reputable physicians
 and psychologists like the following: "We recognize as feebleminded anyone who doesn't pass the
 twelve-year Binet test." Think of the army of high school and even college students who would
 be condemned to feeblemindedness on the basis of this arbitrary dictum!
-THE HYGIENE OF EUGENIC GENERATION. 125
 grades of defectives by existing methods, but they are usually sterile
 and hence set no eugenic problem. Not only so; it is quite probable
 that many normal persons are carriers of transmissible degenerate
@@ -184,22 +184,25 @@ or high grade defective. In the second place, I know of no one who
 can guarantee that when weakness marries strength, the progeny
 will all be normal or that the weak traits will not eventually crop out
 as recessives in later generations.
+
 The cautions which I have sounded against slipshod hereditary
 and psychological diagnoses may be reinforced by reference to a
 recent clinic case:
+
 A young man of Russian-German descent, 21 years 1 month old
 at the time of the examination in January, 1914, the fourth of six
 children, born in Pennsylvania, removed to Germany at the age of
 six, remained there eleven years, returning to America four years
 ago.
+
 The history of the case indicates that he was born on time, but
 the birth conditions were difficult, requiring an instrumental delivery
 after 48 hours of labor; that animation had to be established by
 slapping; that the mother was very nervous during gestation; that
 the child was very puny for some time after birth; that he was bottlefed; that he was unable for some time to assimilate various artificial
-126 THE PSYCHOLOGICAL CLINIC.
 foods, but finally began to grow rapidly on Mellin's Food and Swiss
 condensed milk.
+
 At four he had whooping-cough, and hurt his head severely by
 running against a hinge on a door, which rendered him unconscious
 for a while, but he apparently recovered. At five he fell into a lime
@@ -239,7 +242,6 @@ him toys and candy, and aided him unfairly in his lessons. At this
 time he manifested a desire to become a chauffeur, and rebelled
 against the scholastic and religious training. His parents suspected
 that there were secret understandings or clandestine relations between
-THE HYGIENE OF EUGENIC GENERATION. 127
 the instructor and the boy, and therefore removed him to a private
 school of the aristocracy, where most of the teachers were young
 students. Here he was always getting into trouble and indulging
@@ -253,6 +255,7 @@ that he kiss her, but he did not do so because, as he alleged, he "did
 not know just how." This youthful romance upset the routine of
 his life for some time: he could neither study nor work, for "he was
 always thinking of her."
+
 While staying at home he was constantly clashing with his
 mother. She punished him severely (he was "beaten until black and
 blue"), taunted him for his failures, nagged at him and forced him
@@ -266,6 +269,7 @@ sent to an asylum for the insane, where he remained for six weeks,
 and where he was examined by three physicians, who pronounced
 him "not demented" but deficient and in need of protective oversight,
 and who counselled him to control his temper.
+
 In 1909 he was sent to a preparatory day school, but was unable
 to make his examinations, "because he could not concentrate." In
 spite of this uninterrupted record of maladaptation in various school
@@ -276,6 +280,7 @@ have completed higher mathematics and ancient and modern history,
 and to read English, German and French, although he has "no
 aptitude for languages." At this time he again expressed a desire to
 become a chauffeur.
+
 In 1910 he returned with his parents to America. His first
 exploit here was to run away from a boarding-house in which he had
 been placed under kindly supervision. For some time he led the life
@@ -283,7 +288,6 @@ of a vagabond, sleeping in parks and out-houses, and getting his food
 no one knew where. He broke into a house in New Jersey and was
 sent to jail. On his release he joined "robber bands" and came in
 contact with immoral women. He was finally taken in hand by the
-128 THE PSYCHOLOGICAL CLINIC.
 Salvation Army, in New York City, and was sent to a half-brother,
 a landscape architect, in Minneapolis, who found a place for him as a
 clerk; but one day he struck his brother's wife because she would
@@ -302,6 +306,7 @@ down because, as he says, "he stole from me," was court-martialed and
 dishonorably discharged in July, 1913?after about two and a half
 years of service. The boys on the battle-ship took up a collection and
 sent him to his parents.
+
 His record since his return home has been one of insolence,
 disobedience, defiance, unemployment, and loafing. He left his first
 place, where he was taking care of a garden and a horse, because he
@@ -325,8 +330,8 @@ school. He backed out at first, finally entered the school, but at the
 end of the first day came home drunk, furiously angry because he had
 been allowed only $5.00 instead of $8.00 a week for his lodging and
 board, and threatened to kill his father.
+
 At this point the aid of the psychological clinic was invoked.
-THE HYGIENE OF EUGENIC GENERATION. 129
 The anthropometric examination showed that he was under-developed,
 but only to a slight extent, in standing and sitting (particularly)
 stature, weight, strength of grip, and in lung capacity. He had a
@@ -397,6 +402,7 @@ to an institution for the mentally disordered. On March 12th he had
 a disagreement with a patient, put a towel around his neck and
 attempted to choke him. Since the time he was disciplined for this
 offense his conduct has been fairly satisfactory.
+
 I have given this history in some detail because this boy is a fair
 representative of a large army of abnormals who are not always
 recognized as sufficiently abnormal to require special educational
@@ -405,9 +411,9 @@ menace in one way or another to society; who are usually allowed to
 drift along until they become confirmed social parasites, vagabonds or
 criminals, and for whose training and restraint society has thus far
 largely failed to provide the right kind of institution.
+
 But now to the two points which I desired to illustrate by
 means of this case history. In the first place, is this boy feebleminded? Undoubtedly so, if judged by a Binet diagnosis by a
-THE HYGIENE OF EUGENIC GENERATION. 131
 Binet tester, for he measured only 10.6 years, thus being retarded
 about 10.5 years. But equally certainly not, if judged by the entire
 symptom-complex. His inferiority in the intelligence tests is not so
@@ -429,6 +435,7 @@ individuals should be diagnosed much earlier in their careers than
 is usually done. They should be picked out in the elementary and
 secondary schools, and be subjected to appropriate educational and
 physical treatment.
+
 In the second place, is the boy eugenically unfit? Certainly he
 ought not to marry as long as he remains industrially incompetent,
 as long as his perspective of life is distorted, and as long as he manifests pronounced emotional instability and violent outbursts of
@@ -444,13 +451,13 @@ have been brought on by seasickness. Shall we say that the taint
 of insanity was inherent, and that the accident merely removed the
 barriers? Or shall we say that the disease was of accidental origin?
 There is no conclusive evidence for either view.
+
 Coming to the boy's immediate family, we find that the oldest
 child, a sister, was prematurely born dead. The mother attributes
 the fatal prematurity to a severe fright caused by a fire which broke
 out in the room she was occupying. The second child died at the
 age of one from sunstroke. Her head was left exposed to a hot sun
 by a careless attendant. The other children are apparently normal
-132 THE PSYCHOLOGICAL CLINIC.
 except a sister attending a boarding school, who is said to be
 capricious, high tempered, indiscreet, and a flirt. She likes the
 sensational, and has kleptomaniac tendencies. The father is a
@@ -483,15 +490,16 @@ involved in the correct diagnosis of anti-eugenic stocks, it must not
 be forgotten that the most important factor in eugenical hygiene is
 the prevention of the propagation of inherently, that is hereditarily,
 weakened, defective, and degenerate strains.
+
 2. Society should adopt measures to prevent the syphilization
 of the unborn child. Numerous investigations have been made to
 determine the influence of parental syphilis upon the foetal and
 post-foetal child, but the results have often led to disagreement
 and controversy. That parental syphilis is at least one of the causes
 of the abortion, miscarriage, or early mortality of many both eugenically fit and unfit infants seems to me to be strongly indicated by
-THE HYGIENE OF EUGENIC GENERATION. 133
 the available evidence. The importance of this conclusion, if true,
 may be judged from the following figures:?
+
 According to the best estimates, from one-fifth to one-fourth of
 all the children born die before the age of one year, and one-third
 before the age of five years. At least one-third of infant mortality
@@ -514,6 +522,7 @@ births which barely escape these conditions, varies greatly in different localit
 countries (Kaye). In certain districts in England the number of
 still-births increased from 47.3 per 1000 in 1901 to 56.3 per 1000
 in 1905.
+
 Now, since prenatal syphilis may be transmitted with full virulence to the offspring and since it is almost certainly transmitted
 when the mother suffers from the secondary symptoms, it would
 be strange if it did not somehow affect the causation of prematurity,
@@ -529,7 +538,6 @@ living children were syphilitic, while only 43 were in good health
 (Jullien). In another group of 154 syphilitic pregnancies, there
 were 120 abortions or still-births, 26 deaths soon after birth and
 only 8 survivals (Le Pileur). In the Foundling Asylum in Moscow,
-134 THE PSYCHOLOGICAL CLINIC.
 the mortality among 2038 syphilitic infants amounted to 70 per
 cent. One authority maintains that the number of still-births
 among illegitimate children amounts to 50 per cent more than
@@ -550,6 +558,7 @@ diseases, 37 per cent for diarrhea cases, but only 4 per cent for
 congenital debility cases. The susceptibility of syphilitic children
 to the following diseases is said to be greater than for non-syphilitic
 children by the ratios indicated:?
+
 Typhoid   . nearly 2| times
 Scarlet Fever  " 3 "
 Measles  " 3| "
@@ -570,7 +579,6 @@ probably one of the causes of insanity (of 25 per cent of inherited
 insanity, say some) and feeblemindedness. One authority found
 a syphilitic family history in 80 per cent of 40 carefully investigated
 cases of juvenile dementia ("juvenile general paralysis"?F. W.
-THE HYGIENE OF EUGENIC GENERATION. 135
 Mott). A careful study of the family histories of 90 feebleminded
 patients over sixteen years of age showed that one or the other of
 the parents were syphilitic in 14.4 per cent of the cases (E. B. Sherlock). Likewise a positive Wasserman was secured in 15.4 per cent
@@ -589,6 +597,7 @@ On the other hand, gonococcus infection is probably the chief
 cause of sterility, and of 75 per cent of infant blindness. The
 sterility and the blindness probably affect the fit as well as the
 unfit stock in equal measure.
+
 Venereal diseases thus constitute one of the arch destroyers of
 human stock which may be inherently noble and in every way
 eugenically fit. The racial injury is just as positive even if the
@@ -610,9 +619,9 @@ our traditional principles of morality, but it seems to me that humanity is in t
 eugenical imperatives. Any measure will merit the eugenical
 sanction if the ultimate result is the permanent improvement or
 preservation of the human stock. Is not the enforced use of
-136 THE PSYCHOLOGICAL CLINIC.
 venereal prophylactics better than the wholesale slaughter of potentially robust innocents and the possible pollution of the race
 stream?
+
 3. The procreation of mentally and physically robust offspring
 is endangered by the alcoholization of the parents and of the embryonic and foetal life. Here again the evidence is not conclusive.
 The investigators of the Francis Galton Laboratory for National
@@ -634,6 +643,7 @@ matings. The treatment did not affect the health or development
 of the pigs. The alcoholized males and females, as well as the
 unalcoholized descendants of alcoholized parentage, were mated
 with both normal and alcoholized stock.
+
 The results showed that "an alcoholized male guinea-pig almost
 invariably begets defective offspring even when mated with a
 vigorous normal female," and that the effects were nearly as bad
@@ -648,9 +658,9 @@ the proportion in the blood has been found to be as 2 to 3 and 3
 to 5, respectively (Nicloux and Renauet). Alcohol, therefore,
 apparently can act deleteriously directly on the spermatozoa and
 eggs before or during the period of impregnation.
+
 Studies of human alcoholism indicate that alcohol produces
 almost instantaneous changes in the constituents of the blood
-THE HYGIENE OF EUGENIC GENERATION. 137
 (Richardson), lessening the normal resistance of the red corpuscles
 (Laitenen) and producing temporary paralysis of the phagocytes
 (Metchnikoff), while in women it may also temporarily paralyze
@@ -660,6 +670,7 @@ and leads to testicular degeneration or atrophy. In 39 chronic
 alcoholics atrophy of the testicular tissue was found in 37 cases
 (Weichselbaum), while azoospermia was found in 60 per cent of
 autopsied alcoholics (Simonds).
+
 If the above conclusions are correct, alcoholic indulgence before
 and during conception and maternal indulgence during pregnancy
 should be especially sinister for the offspring. The embryo of a
@@ -674,6 +685,7 @@ babies of drinkers and abstainers has amounted to 3.6 per cent
 and 4.4 per cent for boys and girls, respectively, while at 7 and 8
 months the corresponding figures amounted to 2.2 per cent and
 7.2 per cent.
+
 That there is a causal relation between alcoholism and sterility,
 abortion, prematurity, still-birth, inability to lactate, infant mortality and degeneracy is indicated by numerous studies. Of 107 English women investigated who died of alcoholism before the age of
 29, 8 bore no children, while 99 bore only 6 delicate and deformed

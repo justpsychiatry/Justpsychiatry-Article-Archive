@@ -4,9 +4,9 @@ Shall Elective Courses be Established in the Seventh and Eighth Grades of the El
 The Psychological Clinic
 Copyright, 1913, by Lightner Witmer, Editor.
 Vol. VII, No. 8. January 15, 1914
-
-By I. E. Goldwasser,
+:Author:  I. E. Goldwasser,
 Principal Public School 62, Manhattan, N. Y.
+
 Table XLI of the Fourteenth Annual Report of the City Superintendent of Schools to the Board of Education of the City of New
 York presents the following figures:
 Register before Promotion, June 30, 1912.
@@ -27,13 +27,12 @@ IB  49,740
 8A  22,250
 8B  21,169
 Total 1A-8B  578,407
+
 In computing registers for the spring terms of the year, it has
 been found that the totals for B classes in the various grades are
 larger than those for the A classes. This is due to the fact that the
 admission into the 1A classes in September of each year is greater than
 that in February. The weather conditions are somewhat responsible
-(205)
-206 THE PSYCHOLOGICAL CLINIC.
 for this situation, parents being reluctant to have their children
 begin their attendance at school in the midst of winter. Furthermore, the old tradition that the year begins in September, is also a
 factor tending to make the 1A registers larger in the September term
@@ -51,12 +50,14 @@ It cannot, however, too frequently be brought before the notice
 of those interested in the schools, that under the present forms of
 organization and administration, we are not able to hold children
 in the schools even to the end of the elementary course.
+
 Economic stress cannot be cited as the cause of this great reduction. No one who has interviewed the boys and girls applying for
 an employment certificate, can fail to have become convinced that
 most of these children leave not because there is a real need for their
 going to work, but because the remaining years of the course do not
 offer features which bind them closely to school. It is not that work
 is necessary but rather that school is not attractive.
+
 In order to determine why the course of study seems not to hold
 within itself the features that make the school a vital thing to the
 pupils, it is not necessary to take the subjects individually and
@@ -70,13 +71,14 @@ never be made to enter into the real thinking experience of the children. We mig
 re-presentation of old material is uninteresting. Or the 8A course
 in geography might be cited as a curious relic of the old interest
 in science as an academic subject.
+
 In a similar way, the course in grammar could be analyzed
 so as to show wherein it demands a power of discrimination and logical thinking beyond the average child of the elementary school in
-ELECTIVE COURSES. 207
 so cosmopolitan a city as ours. Again, the selection of masterpieces
 for literary study might be criticized on the ground that it does not
 properly provide for a vital point of contact between the emotional
 life of the pupils and the spirit of the selection.
+
 All these criticisms have been made, and with authority. In
 fact earnest efforts are now being made to revise the various courses
 of study so as to rid them of the burdens of the centuries and make
@@ -92,6 +94,7 @@ who has mastered such courses. And the unfortunate fact will still
 confront us, so serious in its implications that its import is truly
 tragic, that the general fitness which we attempt to secure really
 means specific unfitness.
+
 Take if you "will the ordinary graduate of an elementary school.
 What is he fit for? Has he an equipment that will make him ready
 to take up with even a reasonable degree of efficiency any occupation
@@ -109,6 +112,7 @@ possession. And as an offset to the diploma, there is the larger pay
 envelope of the pupil who left in the seventh year and in a year or so
 has become economically more valuable to his employer than is the
 inexperienced graduate.
+
 Even this, however, serious as it is, does not give us a true
 picture of the gravity of the situation. The inflexibility of the course,
 essentially academic?a book-course?would seem to imply a homogeneity of interests in the pupils. There is no material offered on
@@ -120,6 +124,7 @@ before a final form for activity is discovered is bound to be tremendous. Nor is
 average in some trade, who would find happiness in self-expression,
 but who is doomed to discontent because he was never given a chance
 to discover himself until it was too late?
+
 Opinions may differ as to whether we can develop efficiency
 in any trade by training pupils in the seventh and eighth years of
 the course. There may be debate as to whether children of thirteen
@@ -130,6 +135,7 @@ in spite of their ignorance of all, but because of an actual, if limited,
 experience of work in each of the vocations? Let them learn and know
 the different trades, so that, knowing, they shall be able later to exercise a free choice. Let us eliminate, as far as we can, the accidental
 determination of a life pursuit.
+
 If our seventh and eighth years were converted into an experimental period, pupils would soon come to find value in these final
 years of the course. And if, when the choice had been carefully made,
 an added year were given to the elementary schools, so that a pupil
@@ -138,6 +144,7 @@ efficient graduates, with choices rationally made and with an equipment that wou
 should be laying the foundations for happiness and competency.
 Incidentally, we should be holding a greater number of pupils for a
 longer period in our schools.
+
 Is there the variety of demand that is presupposed by our
 statement of the needs of the situation? Is it true that pupils in our
 seventh and eighth years have decided preferences for pursuits,
@@ -148,7 +155,9 @@ This school receives pupils from the 6B classes of seven neighboring
 schools. Almost all the children are Jewish. Each child was told
 to write a letter to the principal of the school, covering these points :
 1. What do you intend to do when you go out into life?
+
 2. Why do you make this selection?
+
 3. If you could begin at once to prepare for this pursuit
 what would you like to take up?
 ELECTIVE COURSES. 209
@@ -189,7 +198,6 @@ of a vocation? What is the occupation they wish to follow, preparation for which
 The second of these investigations is extremely interesting as
 affording an insight into the definiteness of the selection made by
 pupils.
-210 THE PSYCHOLOGICAL CLINIC.
 TABLE 2.
 Among the 396 boys selecting an academic course, these
 ambitions are to be noted,?
@@ -215,6 +223,7 @@ Teacher  45
 Veterinary Surgeon  1
 Total  269
 The remaining 127 will be accounted for in another way.
+
 TABLE 3.
 Among the 376 girls selecting an academic course these ambitions are to be noted,?
 Teacher  220
@@ -274,7 +283,6 @@ Mining Engineer  1
 Ironworker  1
 Total  232
 The remaining 41 will be accounted for in another way.
-212 THE PSYCHOLOGICAL CLINIC.
 TABLE 5.
 Among the 326 girls selecting an industrial course the following
 ambitions are to be noted,?
@@ -319,7 +327,6 @@ Stenographer, Typewriter and Bookkeeper
 Broker
 To know how to pay workmen
 Total  440
-ELECTIVE COURSES. 213
 TABLE 7.
 Among the 741 girls selecting a commercial course the following
 ambitions are to be noted,?
@@ -347,6 +354,7 @@ be able to add to their original judgment of aptitude the results of
 their observation, and so might make intelligent suggestions to
 influence choice. For it is to be noted that with a definite aim in
 view, children have selected the wrong course.
+
 In some instances, the choice indicated clearly that the child
 had made a selection and still was entirely wrong in conception as to
 the nature of the course.
@@ -400,7 +408,7 @@ Commercial
 1
 3
 1
-ELECTIVE COURSES. 215
+
 An interesting study was made of what the pupils should like
 to have the various courses include:
 Academic Course
@@ -515,6 +523,7 @@ Stenography  65
 Algebra  1
 Designing  2
 Spelling  13
+
 A similar study of the content of commercial and industrial
 courses as judged by girls has not been tabulated, owing to circumstances which lead us to question the value of the data.
 It is interesting to note how definite is the demand. There is
@@ -526,6 +535,7 @@ build upon these desires of the children, a broad, fundamental
 preparedness making for greater efficiency in any particular vocation.
 How can this be done in a school of the type of Public School 62,
 Manhattan?
+
 It may be well to make clear at the outset that an intermediate
 school offers many opportunities for organization which do not
 exist in the regular grades of an elementary school. The number of pupils in the seventh and eighth years is much larger; in
@@ -534,7 +544,9 @@ the course. There are three shops, three kitchens, two sewing rooms,
 a typewriting room, two science rooms, and one laboratory. There
 is space for the equipment of special rooms for the various industries
 as they are taught.
+
 The following plan of organization is suggested:
+
 1. Secure from the principals of 6B schools a detailed statement
 of the special aptitudes and weaknesses of pupils entering the intermediate school. Classify new admissions on the basis of these
 reports so as to secure a certain degree of homogeneity in the composition of each class.
@@ -542,10 +554,10 @@ reports so as to secure a certain degree of homogeneity in the composition of ea
 situations, etc. Tabulate all such findings for future reference.
 Miinsterberg tests or others of a similar nature may be used to
 furnish a basis for teachers' judgments.
+
 3. Beginning with the 7A grade and extending through the
 8A grade, courses should be established in electric-wiring, sheet
 metal work, wood-turning, leather work, etc., for boys, and in
-218 THE PSYCHOLOGICAL CLINIC.
 dressmaking, millinery, embroidering, machine work, etc., for girls.
 Each course should extend over a period of nine weeks, thus affording
 a series of six courses. All pupils should be required to take each
@@ -564,6 +576,7 @@ the course should be carefully examined, and the pupil should be
 directed into the course for which he appears to be suited and in
 which all conditions combine to make it probable that he will become
 efficient.
+
 It is in the 8B grades that the special training should begin.
 Small groups should be formed for each course. Intricate processes
 cannot be taught nor can work of a heavy nature be undertaken.
@@ -576,6 +589,7 @@ lines determined by some such study as this. The courses should
 be checked up constantly by the results of occupational investigations
 and must be organized with an ever-present ideal of sympathetic
 vocational guidance.
+
 Pupils who wish to enter a classical high school with the idea of
 graduating should be enrolled at the "beginning of the 8B grade in
 classes organized for such pupils. Special attention should be given
@@ -584,16 +598,17 @@ arithmetical operations, to oral English with particular reference
 to the technique of correct speech, to penmanship, to the mechanics
 of written language, spelling, punctuation, etc., and to teaching
 pupils how to study.
+
 Pupils who intend to complete the full course in a commercial
 high school should be enrolled at the beginning of the 8B grade in
 classes organized for such pupils. Special attention should be given
 to correct oral English, as regards both the technique of speech and
 freedom from foreign idioms; to letter writing; to study of business
 forms; to an explanation of the principles underlying the various
-ELECTIVE COURSES. 219
 kinds of business to which arithmetic applications are made, such as
 commission, discount, insurance, etc.; to commercial geography, and
 to modes of manufacture.
+
 Pupils who intend to complete the full course in a manual
 training trade high school should be enrolled at the beginning of
 the 8A grade in classes organized for such pupils. Special attention
@@ -608,6 +623,7 @@ given to sewing (hand and machine), embroidering, with applications
 to dressmaking and millinery; to cooking and a study of food-values;
 to home-making in general. For the last named work, use should be
 made of the model flat built for this specific purpose.
+
 This will leave a large number of pupils who, under ordinary
 circumstances, would leave school at the end of the eighth year,
 or when they had attended a half year or more at a high school.
@@ -624,6 +640,7 @@ is to be, the academic course should be recommended. For those
 intending to enter business, the commercial course should be urged,
 while the industrial course should be recommended to those who wish
 to enter one of the trades.
+
 The term in these courses should be one and a half years. In
 this way, for pupils who ordinarily would leave school at the end
 of the eighth year, we shall be adding a year to their school career,
@@ -633,7 +650,6 @@ compensated for by the increased efficiency,?yes, and the increased
 earning power of the child who has this more extended preparation.
 It may be urged that parents will not be able to afford to keep their
 children at school for the longer period. This may very well be true.
-220 THE PSYCHOLOGICAL CLINIC.
 Still it must be borne in mind that where legislation has prolonged
 the compulsory school attendance period, parents have found the
 means to support their children at school. When the grade at which
@@ -645,11 +661,13 @@ not exercised by a law but by the self-interest of pupil and parent.
 Is it not reasonable to expect that once the work has justified itself,
 parents will be more than willing to have their children remain in
 school for the extra year?
+
 Many graduates from our elementary schools enter a business
 school for a training of a half year. The commercial course which is
 here suggested, will keep many pupils in the school and the city will
 for the first time be meeting a need which has for many years been
 clearly expressed by the people of the community.
+
 The records show that large numbers of the pupils who enter our
 high schools from the elementary school, stay in the secondary
 institutions for a year or so and then drop out. A certain percentage
@@ -674,12 +692,12 @@ Their work ends nowhere. They have no general culture, they have
 no special training. In the ninth year, however, they will receive
 a complete course. True, they cannot get as much training as would
 be theirs were they to complete the entire course in an academic, a
-ELECTIVE COURSES. 221
 manual training, or a commercial high school. But they will be far
 more efficient than the derelict high school student who leaves at
 the end of one year; who does not know what he wants to do, or
 who, if he does know, cannot do it because he has had no training
 for it.
+
 The planning of the work for such courses calls for much careful
 thought and systematic preparation. A body of opinion should
 first be gathered from men of affairs representing different outlooks,
@@ -688,6 +706,7 @@ which to test any course that may be evolved by educators. In
 every case, the course should be adapted to the community, and due
 regard should be had for the kind of pupils the course is intended
 to serve.
+
 There may be some doubt whether a purely academic course
 should find a place in a ninth-year school, the aim of which is to
 increase vocational efficiency. As a matter of fact, this course is
@@ -696,6 +715,7 @@ high schools today. Arrangements should be made whereby pupils
 may be transferred from the academic course to either the industrial
 or the commercial, as soon as the more special demand makes itself
 felt.
+
 The academic course should include literature, current history,
 business conditions, business arithmetic, science, civics, music, and
 physical training. If possible there should be work in ethics through
@@ -706,6 +726,7 @@ The industrial course should cover for boys and for girls a
 complete course in the occupation, the training to extend over
 the full year and a half. In no course should work in English,
 oral and written, and in civics, be omitted.
+
 The details of these courses must be worked out with the greatest
 care. Much preparatory work has already been done. Analyses
 have been made of some of the industries, and the processes have

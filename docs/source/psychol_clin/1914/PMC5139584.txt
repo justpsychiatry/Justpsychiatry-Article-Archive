@@ -1,7 +1,7 @@
 The Binet Tests Applied to Colored Children.
 ============================================
 
-By Bykon A. Phillips, Ph.D.
+:Author:  Bykon A. Phillips, Ph.D.
 Supervising Principal, Harriet Beecher Stowe School, Philadelphia, Pa.
 In measuring retardation in the past, emphasis has been laid
 on pedagogic retardation owing to the fact that the psychological
@@ -13,11 +13,13 @@ would be required; secondly, the limited number of those who can
 handle the Binet tests. This method of testing, however, might
 be easily applied to a limited group of children and the psychological
 retardation compared with the pedagogic.
+
 In a former article (The Psychological Clinic, Vol. 6, No. 3) a
 comparison was made of the retardation of schools containing all
 colored pupils and of those containing none or only a few. The result
 of this has shown that the retardation of the colored schools is as
 follows:
+
 J. Miller School 68.2 per cent
 Pollock School 60.6
 Catto School 67.3
@@ -26,20 +28,21 @@ Vaux School 66.3
 Hill School  72.0
 Meehan School 58.3
 Wilmot School 59.3
+
 The retardation of Philadelphia in that year was 40.3 per cent. No
 school in the city, even those composed almost totally of foreigners,
 had a retardation percentage above 56 per cent.
+
 While the result from this investigation leads to the conclusion
 that the mentality of the two groups is not the same, or else that the
 courses of instruction do not fit both groups equally well, there are a
 great many factors entering into this result which make it dangerous
 to draw conclusions.
+
 One of these factors in particular is the environmental conditions
 of each group. Even ascertaining the environmental conditions of
 each group, still without knowing the home conditions of each individual our conclusions are apt to be erroneous. In order to make a
 comparison of the two groups a psychological method is preferable
-(190)
-BINET TESTS OF COLORED CHILDREN. 191
 to a pedagogical if we can control all the factors. Of course in any
 scientific experiment we should endeavor to reproduce exactly the
 same conditions in each group of phenomena. This is particularly
@@ -63,6 +66,7 @@ arranged chronologically. It will be noted that this table gives the
 following data: the chronological age, the Binet age, the Binet
 retardation, the Binet acceleration, the school grade, and the home
 conditions. Table II gives the same data for the girls.
+
 Table III summarizes tables I and II. This table, it will be
 noted, is divided into three parts. Part I shows that the retardation
 of the colored boys is .83, of the colored girls .57, and of boys and
@@ -70,6 +74,7 @@ girls combined .7, against no average retardation for the white.
 On the other hand there is no acceleration in either colored girls or
 boys, while the white boys are accelerated .16, the white girls .19, the
 combined white group .17.
+
 Passing to the second group we see that of those tested 37.9 per
 cent of the white boys were retarded, while 65.5 per cent of the colored
 boys were retarded; that 46.4 per cent of the white girls were retarded
@@ -80,8 +85,8 @@ This makes the colored boys retarded 17.4 per cent more than the
 white boys; the colored girls retarded 25 per cent more than the white
 girls; while the total rate of retardation of both groups is 26.3 per
 cent.
+
 In the third group we find that 31 per cent of the colored girls
-192 THE PSYCHOLOGICAL CLINIC.
 TABLE I?BOYS.
 COLORED
 15.0 11.2 3.8 5 E
@@ -203,7 +208,7 @@ WHITE
 6.6 8.4 1.8 1 E
 6.5 7.2 .7 1 G
 6.1 6.6 .5 1 G
-194 THE PSYCHOLOGICAL CLINIC.
+
 TABLE III.
 WHOLE GROUP
 ?!
@@ -333,6 +338,7 @@ yr.
 1.226
 .788
 1.236
+
 29 Colored Boys + 28 Colored Girla
 29 White Boys + 28 White Girls
 BINET TESTS OF COLORED CHILDREN. 195
@@ -344,15 +350,18 @@ This makes a difference in the acceleration between the two races
 of 31 per cent in favor of the white boys, 25 per cent in favor of the
 white girls, 28 per cent in favor of the white pupils with boys and girls
 combined.
+
 This would seem to corroborate the findings in the case of
 pedagogic retardation. We see in every group, considering the retardation from pedagogical or psychological view points, that the
 colored pupils are retarded from 20 to 30 per cent more than the white
 pupils, and that the white pupils are always greatly above them in
 acceleration.
+
 The above data are taken from experiments where the home
 conditions are practically the same. It is interesting, however, in
 corroboration of the above to note the results obtained from the
 testing of the whole group. Table IV gives them:
+
 TABLE IV.
 BOYS
 Colored
@@ -389,9 +398,9 @@ White
 6.9
 24
 20.4
+
 We note here that 59 per cent of the colored boys are retarded one
 year or more and 21 per cent of the white boys. That 50 per cent of
-196 THE PSYCHOLOGICAL CLINIC.
 the colored girls are retarded one year or more against 29.3 per cent
 of the white girls, and combining the two we find that the colored
 retardation is 54.6 per cent against 25.4 per cent of the white retardation.
@@ -400,6 +409,7 @@ boys accelerated against 21.9 per cent of the white boys; 12.5 per
 cent of the colored girls against 18.6 per cent of the white girls, with
 a total colored acceleration of 6.9 per cent against 20.4 per cent of
 white acceleration.
+
 In applying the Binet tests to colored children the following facts
 of interest were fortunately thrust upon our attention. In the first
 place the colored pupils as a class were good in the memory tests
@@ -410,6 +420,7 @@ less animated. It is significant to note that the younger white
 children were more advanced than the colored children of the same
 age. This is in contradiction to the generally accepted fact that
 colored children are quicker when young.
+
 To summarize, we see, first: that the colored children are
 retarded to a much greater extent both pedagogically and psychologically than the white children; and secondly, that the white children
 are accelerated to a much greater extent than the colored children.

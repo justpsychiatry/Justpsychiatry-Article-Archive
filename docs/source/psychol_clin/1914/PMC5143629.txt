@@ -5,8 +5,9 @@ The Psychological Clinic
 Copyright, 1914, by Lightner Witmer, Editor.
 Vol. VII, No. 9 February 15, 1914
 
-By Lightner Witmer, Ph.D.,
+:Author:  Lightner Witmer, Ph.D.,
 University of Pennsylvania.
+
 At the dawn of civilization, education probably began as an
 induction of the young adolescent to full social union with the adult
 members of the tribe, through ceremonial rites, tests of endurance
@@ -18,6 +19,7 @@ indoctrinating of the youth in the truths of religion, usually by
 means of a course of instruction based upon a catechism, the direct
 purpose of which is to prepare the boy or girl for the ceremonial
 of confirmation.
+
 Later on civilization developed a body of useful or supposedly
 useful knowledge, and we find each generation ardently assuming the
 task of transmitting to the next generation its traditional and acquired
@@ -33,8 +35,6 @@ best represented in the college course, which originally undertook
 the instruction of the young adolescent in the cultural elements
 of the philosophy of his day, though not always of his generation,
 for the traditional element in this instruction has always given the
-(237)
-238 THE PSYCHOLOGICAL CLINIC.
 college curriculum an inclination backward rather than forward.
 Nevertheless there has been a development, an augmentation of
 the subject matter of instruction, leading to a lengthening of the
@@ -45,6 +45,7 @@ It should be remembered in all discussions of the relation of the
 college curriculum to the students and to the culture of our generation, that the high school pupil comes to college today at about the
 age and with the equipment which our grandfathers had when they
 left college.
+
 A different type of education also developed very early in the
 history of civilization, a technical or professional training, first
 perhaps for the priesthood, then for medicine, then for law, and now
@@ -75,12 +76,12 @@ of the content of popular education, formal pedagogical methods
 have been devised and directed to group units, representing the
 eight grades of the primary school, wherein attention is centered on
 the passage of groups of children from grade to grade, the prescribed
-THE SCOPE OF EDUCATION. 239
 curriculum of each grade being the same for all children. The chief
 agent for the execution of this work is the grade teacher. She must
 know what is to be taught; she must know standard pedagogical
 methods. In general, the grade teacher is now doing her work
 well and is adequately equipped for her task by the normal school.
+
 The development of a conscious social impulse and the growth
 of the science of psychology led at first slowly, and then more rapidly,
 to a restatement of the motive of education and a reconsideration
@@ -115,7 +116,6 @@ and too much emphasis can not be laid upon the fact that competency
 to discuss or minister to the mental and physical development
 of the individual child must be scientifically grounded upon the
 facts, principles, and methods of modern psychology. There is no
-240 THE PSYCHOLOGICAL CLINIC.
 fundamental difference between one kind of psychology and another
 kind. All psychology that is worth while is experimental, physiological, and genetic. Nevertheless psychology may address itself
 to problems of general mental development, overlooking for the
@@ -154,7 +154,6 @@ become psychologists and to regard too intently the individual
 personality of their pupils, would seriously diminish the efficiency
 of their work. These teachers require a thorough grounding in
 the subject matter of the curriculum which they are required to teach,
-THE SCOPE OF EDUCATION. 241
 combined with an adequate training in the methods of good teaching. Nevertheless there must be officials connected with the school
 system who are competent to look upon the problem of education
 as a problem of individual development, who know their psychology
@@ -167,7 +166,8 @@ words, the growing demands of educational practice require us to
 recognize within the profession of teaching two groups of differently
 trained persons?the grade teacher, who is and must remain a
 mechanic, a technician, and the educator who must be a man or
-woman of high professional attainments. _
+woman of high professional attainments.
+
 These professional attainments must rest upon a solid basis
 of knowledge in such modern sciences as psychology, sociology,
 biology, hygiene, physiology, etc., as well as the usual equipment
@@ -182,6 +182,7 @@ referred to him for advice. The clinical psychologist or educational
 expert will perform a function in the schools analogous to that of
 the medical consultant or specialist in nervous diseases, surgery,
 internal medicine, etc.
+
 The diversity of function which I have posited for the grade
 teacher on the one hand and the educator or educational expert
 on the other, has an important bearing upon the part which our
@@ -190,18 +191,19 @@ teaching. Let us rid ourselves of the notion that grade teachers
 and educators can come out of the same mill, namely, the normal
 school, even though that normal school be called a teachers' college
 and be connected with a university.
+
 It is the function of a normal school to train good teachers
 for the grades. It is not so necessary for an educator to be a good
 teacher. He needs only to be a good critic of teaching, to know
 good teaching when he sees it. It is absurd to believe that a man
 must always be able to do expertly what he is able to criticize. One
-242 THE PSYCHOLOGICAL CLINIC.
 does not need to be able to lay an egg, to distinguish between a
 good egg and a bad one. Nor does one need to be able to write
 good poetry or compose good music, to exercise a discriminating
 taste in literature or music. The great successes in administration,
 whether they be in education or business, are often achieved by executives who know enough to select assistants who can do the work
 better than they can do it themselves.
+
 There must therefore be a fundamental differentiation between
 the training which will equip doctors of education and educational
 experts, and the training which wall make a good grade teacher.
@@ -217,6 +219,7 @@ principles and methods of sciences leading up to specific professional
 training. I believe the university has an extremely important function to perform, no less than the creation of a new profession, a
 learned profession of education, which shall receive the same social
 recognition as the three older professions.
+
 This work can never be done by the university, unless the
 university resigns to the normal school the task of training grade
 teachers. The standard of our normal schools is already high, in
@@ -234,6 +237,7 @@ are not at all medical, i. e. therapeutic, in their intent. Thus
 bacteriology is a department of botany; anatomy and physiology
 are biological sciences; physiological chemistry is a branch of chemisTHE SCOPE OF EDUCATION. 243
 try; pathology belongs in part to botany and in part to chemistry.
+
 These sciences took their origin within the department of medicine,
 but they would now be maintained on their own account whether
 medicine endured as a profession or not. Indeed some of the professors in these subjects in our medical schools do not now possess
@@ -242,6 +246,7 @@ were looked upon at one time as medical sciences, a fact which led
 Lotze as late as 1852, when he came to write his treatise on physiological psychology, to call his work Medical Psychology, although
 there is not a word in it which has to do with medicine in the narrow
 sense of therapeutics.
+
 Within recent years the field of education has been so broadened
 that it comprehends within its boundaries many sciences which are
 only indirectly related to education in the narrower sense of pedagogical practice and school administration. The modern conception
@@ -252,6 +257,7 @@ We are now awaiting a new definition of education, for the scope of
 education as a university department can not be conceived to include
 less than all those branches of learning which contribute to our understanding of the helps and hindrances to the normal development of
 the infant, the child, and the adolescent.
+
 Indeed when we consider that medicine and social service are
 conducting a campaign involving the education of adults-to prevent
 disease and poverty,?although the education of the adult is often
@@ -271,7 +277,6 @@ a school of psychology or orthogenics paralleling some of our schools
 of education of today. Moreover, within the field of education
 psychology will play a part analogous to that which is now played
 within the field of medicine by anatomy, physiology, and pathology.
-244 THE PSYCHOLOGICAL CLINIC.
 Education both in the phase of individual development and in the
 phase of group instruction, deals with the human mind, and psychology is the science which informs us as to the nature of the
 human mind, its functions, its growth, and its biological or
@@ -301,6 +306,7 @@ I am convinced, however, from observation of the trend of development within thi
 comprehend and to designate this group of sciences, is the term
 education, unless some new term like orthogenics be substituted
 for it, a substitution I consider most unlikely.
+
 A school of education, that is to say, a department of education
 in a university or a course in education within the college or graduate
 school of a university, must therefore comprehend a number of
@@ -312,7 +318,6 @@ not what some departments of education would lead us to suppose,
 a little cream skimmed from the milk of psychology to make tasty
 the subject matter of pedagogy. Almost all of psychology is educational psychology. Of the thirty-six courses in psychology offered
 at the University of Pennsylvania, twenty cover work commonly
-THE SCOPE OF EDUCATION. 245
 included within the scope of educational psychology, and only three
 lie entirely outside this field. Of the remaining thirteen courses,
 two are introductory courses which must be completed by students
@@ -332,6 +337,7 @@ With this end in view, the professional training of the educator
 requires, like the professional training of the medical practitioner,
 a four-year graduate course in the various sciences comprehended
 within the scope of education as I have defined it.
+
 Education in the past has not been a learned profession with
 a body of expert opinion to which the world pays deference, because
 those who occupy the positions of authority within the profession
@@ -345,6 +351,7 @@ step can be made in upbuilding a modern profession of education,
 than to recognize that the course of preparation and subsequent
 training of the grade teacher and of the educator must be made to
 follow diverse lines.
+
 In comparing the grade teacher to the private in the ranks, I
 would not be understood to wish to minimize the professional and
 social value of the grade teacher's functions, nor do I mean to imply
@@ -353,7 +360,6 @@ nothing more to do than to carry out the orders of the officers of
 education. I believe a greater measure of freedom in school-room
 practice very desirable today, but I also believe that one of the
 causes which prevents the exercise of freedom on the part of the
-246 THE PSYCHOLOGICAL CLINIC.
 grade teacher in the classroom is the deficient training of supervisors. When supervisors are provided with adequate information and are inspired by a true scientific spirit, when grade teachers
 are thoroughly drilled in the technique of educational practice,
 supervisors and grade teachers working together harmoniously will
@@ -367,6 +373,7 @@ practical problems must often be left to their judgment. I only
 desire to emphasize that efficiency within the profession of the
 grade teacher must be based upon training in technique, and not
 upon dribblings of knowledge from history, literature, and science.
+
 Modern requirements within the medical profession have called
 into existence within recent times a new branch of this profession
 ?perhaps I had better say a new profession, that of the hospital
@@ -381,6 +388,7 @@ offers courses to college graduates, leading to the Master of Arts
 degree and requiring a summer's work and one full academic year
 in the graduate school, as a standard course for the professional
 training of the social service worker.
+
 Within the field of education also, there is room for a psychologically trained teacher whose professional training should be
 superimposed upon a four year college course or its equivalent.
 This expert teacher is the trainer of backward children, not of the
@@ -388,6 +396,7 @@ feebleminded children who constitute so large a portion of the
 classes for backward children, but of those backward children who
 give promise of restoration to the normal grades?the teachers of
 what I suggest we seek to distinguish as the restoration classes.
+
 I believe too, that the Montessori teacher must represent this grade
 of cultural and professional training. Much more than a three
 months' course is needed to make a Montessori teacher. Dr MontesTHE SCOPE OF EDUCATION. 247
@@ -395,6 +404,7 @@ sori herself emphasizes the function of her teachers as psychological
 observers and experts, in contradistinction to their function as
 instructors. I even venture the assertion that the kindergartner
 also should represent a similar type of expert trainer.
+
 The proposal to develop a scientifically trained worker within the
 field of education, i. e. the expert teacher or orthogenic trainer,
 would remain little more than an impractical dream, if we did not
@@ -408,6 +418,7 @@ teachers of the other grades. These teachers consequently stand in
 rank just below the high school teacher. The kindergartner, if
 scientifically trained for her extremely important work, will gain an
 equal if not superior position.
+
 The city of New Orleans has adopted a procedure which is likely
 to develop in one and the same person a better equipped kindergartner and special teacher for backward children. The kindergartners of that city are being employed to supplement the work of
 the grade teachers by giving individual instruction to the backward
@@ -431,7 +442,6 @@ It is the adjustment of the child through individual development
 to the more formal work of the elementary grades, and the beginner
 should be taken to the point where he is made ready through initiation into reading, writing, and perhaps arithmetic, as well as through
 his arrival at a satisfactory stage of mental growth cultivated by
-248 THE PSYCHOLOGICAL CLINIC.
 general training, to master the curriculum of the grades. For many
 reasons, psychological and educational, the kindergarten may serviceably be extended to cover much of the work of the first grade.
 As this problem of individual adjustment is primarily a psychological one, the department of psychology at the University of
@@ -471,11 +481,11 @@ experts. In the college or undergraduate course there should be
 offered courses in education and the various branches tributary to
 it, and these should be offered to college students because of the
 cultural value which they possess, as well as because they will enable
-THE SCOPE OF EDUCATION. 249
 those students who already look forward to the profession of education to prepare themselves in part for this work while still in college.
 The educational sciences in the college would therefore have the
 same relation to the professional graduate course in education that
 college courses in biology bear to the professional course in medicine.
+
 I believe that the definition and scope of education as I have
 presented them in this paper, must be adopted by our universities
 if the profession of education is ever to win society's deference to

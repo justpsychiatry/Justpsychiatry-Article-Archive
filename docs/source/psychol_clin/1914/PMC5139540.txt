@@ -1,8 +1,9 @@
 Class Size and School Progress
 ===============================
 
-By Philip A. Boyer,
+:Author:  Philip A. Boyer,
 Thomas Jefferson Public School, Philadelphia.
+
 It is generally accepted that there are limits to the efficient
 educative contact between pupil and teacher. The number of
 pupils per teacher as set by the educational theorist varies from one
@@ -17,6 +18,7 @@ small should classes be in order to meet efficiency requirements?
 And, we must add, would the increased efficiency of smaller classes
 warrant the additional expenditure which their establishment would
 necessitate?
+
 In order to discover the relation existing between the size of
 classes and school progress, an investigation was made of the promotion records for June, 1913, of the public schools of Philadelphia.
 In each of the city's ten districts, the classes were divided according
@@ -38,8 +40,7 @@ The largest number of classes in any one group is found in Group IV
 VI show one hundred four, and fifty-nine classes respectively.
 Reference to table I will show these groups and the percentage
 of the total number of classes which each constitutes.
-(82)
-CLASS SIZE AND SCHOOL PROGRESS. 83
+
 TABLE I.?DISTRIBUTION OF CLASSES AMONG SIZE GROUPS?DISTRICT NO. 7.
 Groups
 I. ( -30).
@@ -67,6 +68,7 @@ Number of Classes
 25.2
 14.3
 99.8
+
 The ten classes of Group I are distributed among five grades
 and the percentages of promotion are higher than those of all other
 groups in three of these five grades, the 6th, 4th, and 1st. The
@@ -97,6 +99,7 @@ Grades
 89.0
 86.5
 85.7
+
 83.4
 66.7
 96.4
@@ -156,11 +159,11 @@ Total
 82.8
 79.9
 79.1
+
 Nevertheless, that minority of pupils fortunate enough to find
 themselves in small classes would seem to be the favored few.
 The complexity of the situation, the many diverse factors
 which enter into promotion, do not warrant us in expecting to find
-84 THE PSYCHOLOGICAL CLINIC.
 a regular and gradual decrease in promotion rates as classes increase
 in size. But table II shows some glaring irregularities, e. g. the
 lowest percentages in four grades, (8th, 6th, 4th, 1st), are found in
@@ -178,6 +181,7 @@ Group II, while the highest percentage for total primary is found in
 Group I (89.4). In the total of all grades the highest percentage,
 87.4, is found in the smallest group, and the other percentages vary
 less, as might be expected.
+
 The irregularities of table II, together with the fact that a
 somewhat similar investigation pursued by Dr 0. P. Cornman,1 in
 District No. 6, in January 1909, showed very different results, led
@@ -325,16 +329,16 @@ VI. 50+
 65.3
 77.1
 68.7
+
 District No. 9 is the only one having the greater number of
 highest percentages in groups of classes over forty. Examination
-86 THE PSYCHOLOGICAL CLINIC.
 of table V will show that of the five highest percentages in larger
 groups, four are found in Group IV (40-4) and only one in the very
 largest group (50 and over). Even this is not a bad showing when
 we remember that only 22 per cent of the total number of classes in
 the district are found in Groups I, II, III, and that these groups
 have three of the eight highest percentages.
-TABLE y.?PER CENT PROMOTED BY GRADE-GROUPS?DISTRICT NO. 9.
+
 Groups
 Grades
 I. -30.
@@ -387,6 +391,7 @@ VI. 50+ .
 83.1
 76.9
 77.4
+
 Re-examination of table III will show that of the total number
 of classes considered (3602), only 22.4 per cent have less than forty
 pupils belonging. In these 808 favored classes there are fifty-seven
@@ -403,6 +408,7 @@ lowest district promotion percentages. Even though these were
 shown to be exceptional cases, by the fact that their effect was
 almost imperceptible on percentages for total grammar, total primary, or grand total (table II); nevertheless, they succeed in
 weakening conviction to a certain extent.
+
 The effects of extraordinary conditions are sometimes shown
 plainly in district percentage tables such as the three given above.
 For example, in one district the rate of promotion in first grade
@@ -411,7 +417,6 @@ of one abnormally small class (twenty-three) where manifestly
 abnormal conditions prevailed. On the other hand it is conceivable
 that a large class, working under peculiarly good conditions, might
 show an exceptionally high percentage. Indeed, it has sometimes
-CLASS SIZE AND SCHOOL PROGRESS. 87
 been the practice in large schools to segregate the brighter pupils of
 a given grade into a large class in order to permit of increased
 personal attention to the particular shortcomings of duller pupils in
@@ -521,9 +526,9 @@ i?
 19.0
 3602
 99.
+
 Turning now to the promotion rates of these various groups of
 classes (table VII), it will be seen that highest promotion percentages
-88 THE PSYCHOLOGICAL CLINIC.
 in the seventh, fifth, third, and first grades are found in those classes
 of the city which have less than thirty pupils belonging. There are
 but seventy-three such classes, forming only 2 per cent of the total
@@ -536,6 +541,7 @@ constitute but 22.4 per cent of the total number, show highest
 promotion percentages in all eight grades. It will be remembered
 that it was this same group of smaller classes that had fifty-seven
 of the eighty highest district percentages (table III).1
+
 TABLE VII.?PER CENT OF PROMOTION IN TOTAL NUMBER OP CLASSES IN EACH
 GRADE GROUP.
 Groups
@@ -619,6 +625,7 @@ VI. 50 +
 85.4
 82.7
 80.1
+
 Further examination of table VII will show that only in the
 seventh and fifth grades is there a gradual shrinkage of percentages
 as the classes grow larger in size, but this is not surprising in view of
@@ -627,6 +634,7 @@ Moreover, the lowest rates in the sixth, fourth, and second grades
 are located in groups smaller than those indicating highest percentages. But these apparently unwarranted stragglers are more than
 counterbalanced by the fact that in the remaining five grades,
 1 Comparison of tables III and VI develops the following table of broad generalizations:
+
 Class size-groups
 Under 40...
 40 to 49....,
@@ -661,6 +669,7 @@ mean significance when it is recalled (table VI) that they are the
 promotion percentages of 48.9 per cent of the total number of classes
 in the city, and that these classes contain 55 per cent of the total
 number of elementary pupils.
+
 The statistics would seem to indicate 85 per cent as a normal
 rate of progress. That this rate was not attained by more than
 half of the pupils in the system, is worthy of notice. The promotion
@@ -675,14 +684,15 @@ energy. The cost to the city of this retardation at $13.00 per pupil
 per term, is over $45,000; the added expense to the home is great;
 but more important than both of these is the loss to the individual
 child in confidence in his own ability to achieve.
+
 " Superintendent Elson of Cleveland has estimated that oneeighth of the money spent on education goes to pay for repetition,
 maladjustment, and failure to see the needs of school children."1
 The New York Committee on School Inquiry finds that, "Conditions
 favorable to a maximum rate of promotion have not been studied
 and provided for." However, on a basis of confessedly inadequate
 statistical returns, the following observation is made:
+
 1 Denison, Elsa. "Helping School Children," N. Y., Harper, 1912, p. 300.
-90 THE PSYCHOLOGICAL CLINIC.
 "As promotions were made in the February-June term of 1911,
 oversize classes, i.e. classes having more than 50 pupils, contributed
 but slightly, if at all, to non-promotion, i.e. to congestion. This

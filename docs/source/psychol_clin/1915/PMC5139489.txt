@@ -3,8 +3,9 @@ Backward Children
 
 REVIEWS AND CRITICISM.
 
-By Arthur Holmes. Childhood and Youth Series.
+:Author:  Arthur Holmes. Childhood and Youth Series.
 Indianapolis: The Bobbs-Merrill Company, 1915. Pp. x-{-247.
+
 Dr Holmes' contribution to the series edited by Professor O'Shea is "an
 inductive study of backward children. It presents in a series of concrete illustrations," says Dr Holmes, "studies of cases to exemplify the principles and
 methods underlying the diagnosis, treatment and training of backward children."
@@ -14,8 +15,10 @@ in Y. M. C. A. and college work, and in the Psychological Clinic at the Universi
 volumes. Truly he has the gift for making his books, "as popular in vein as
 possible without offending scientific principles or sacrificing scientific exactness
 in essentials."
+
 The ten chapter headings give a comprehensive idea of the scope of the
 present volume, and indicate its quality:
+
 I. Measuring rods for children; II. Varieties of backward children; III.
 Typical retardation due to physical defects; IV. Minds in straight jackets;
 V. Bad and backward; VI. Retardation due to environment; VII. The Backward child in the home; VIII. The clinical diagnosis of backward children;
@@ -55,6 +58,7 @@ and should not be condemned until the causes are known,
 b. The progress standard.?According to this standard a backward child is one who takes longer than the regularly scheduled time to complete one grade, no matter how old he is.
 In the long run, with many pupils, these two standards give
 about the same results.
+
 3. In general intelligence.?According to several systems like the
 Binet-Simon, De Sanctis, and others, a backward child is one
 who cannot answer certain sets of prescribed questions and do

@@ -1,8 +1,9 @@
 Physiological Age and School Standing
 =======================================
 
-By Irving King,
+:Author:  Irving King,
 State University of Iowa.
+
 The following study is the initial report of an investigation
 under way in the Iowa City grammar and high schools, which it is
 hoped may be extended over several years. Its object is to record
@@ -38,8 +39,6 @@ familiar are those by Dr Crampton and Dr Foster, which are referred
 1 A similar method is reported by Dr C. Ward Crampton in his paper, "The Significance of
 Physiological Age in Education," Proceedings of Fifteenth International Congress on Hygiene and
 Demography, 1913.
-(222)
-PHYSIOLOGICAL AGE AND SCHOOL STANDING. 223
 to in this article. Dr Crampton states that there is a direct relation
 between physiological maturity and mental ability, the pubescent
 and mature boys doing better work than the immature; and that
@@ -86,12 +85,14 @@ G5
 31
 62
 42
+
 school pupils according to chronological age and estimated degree of
 physiological development.
+
 2 "Physiological age as a Basis for the Classification of Pupils entering High Schools. Relation of Pubescence to Height." The Psychological Clinic IV, 83.
 ' "The Influence of Physiological Age upon Scholarship." The Psychological Clinic, 1,115.
 4 Foster, Op. cit.
-224 THE PSYCHOLOGICAL CLINIC.
+
 From this table one may easily see the incidence of maturity
 for the sexes by half years from ten and a half to seventeen.
 Table II shows the distribution of the school marks actually
@@ -109,12 +110,14 @@ inferior work. The limited number of pupils available for this study
 satisfactory than a finer grouping would be. It better reveals the
 general tendencies and these are all that we can hope to arrive at in
 any case.
+
 From this table we can see the total number of high and low
 marks received by each sex for each half-year of chronological age
 and for each stage of physiological development. By computing the
 percentages which the high grades are of the total number of grades
 received by each sex and physiological age, we are able to compare
 the total standings directly with each other.
+
 PERCENTAGES OF GOOD GRADES.
 Immature Maturing Mature
 Boys  68.4 57.8 45.7
@@ -122,6 +125,7 @@ Girls  71.0 60.9 56.6
 It appears from the above figures that the girls of each physiological age make slightly better showings in their marks than do the
 boys of corresponding degrees of development; that the prepubescents of both sexes do better than the pubescents, and that the
 pubescents are superior to the postpubescents.
+
 It is of interest to see how these high and low marks are distributed through the various classes of the grammar school and in
 table III on page 226 this is shown in percentages, for greater ease of
 comparison. The table does not throw any great light on the problem
@@ -129,7 +133,7 @@ in which we are here interested, namely,?the relation of physiological
 age to school standing and school progress, because chronological
 age is not considered. Grade 7b, for example, contains immature
 boys of several different chronological ages.
-PHYSIOLOGICAL AGE AND SCHOOL STANDING. 225
+
 AGE-MATURITY DISTRIBUTION OP HIGH AND LOW MARKS. (THE UPPER
 NUMBERS IN EACH SPACE REFER TO THE BOYS AND THE LOWER TO THE
 GIRLS.)
@@ -229,7 +233,7 @@ Totals.
 45
 91
 Age lOV'a means the group from 10H to 11, and so on with each age group.
-226 THE PSYCHOLOGICAL CLINIC.
+
 TABLE III.
 DISTRIBUTION BY PERCENTAGES OF HIGH AND LOW MARKS ACCORDING TO
 SCHOOL GRADE, SEX AND PHYSIOLOGICAL AGE. (THE UPPER NUMBERS
@@ -302,6 +306,7 @@ M-F
 63
 15
 37
+
 This group of immature boys is not therefore a homogeneous
 group, some being normal in their development and others retarded.
 This lack of homogeneity renders very uncertain any conclusions
@@ -322,12 +327,13 @@ development are the same, physiologically speaking, no matter what
 their actual age may be; on the contrary, the past and prospective
 physiological changes in their bodies will proceed in different
 '"Growth," Cyclopedia of Education, II, 189.
-PHYSIOLOGICAL AGE AND SCHOOL STANDING. 227
+
 manners."6 The presumption is that the mental development will
 also be different according as to whether the prepubescent- or the
 pubescent pupil is young or old in his group, i. e. normal or retarded
 in his development, as compared with his fellows of the same age in
 years.
+
 With reference to this point it is fortunately possible, from our
 data, to compare various age-groups in the different degrees of
 maturity. Thus we can compare immature boys of thirteen years
@@ -337,6 +343,7 @@ into younger and older groups which is here presented is based in
 part upon the distribution shown in table i, in connection with the
 commonly accepted ages of normal pubescence in the two sexes. We
 thus get,?
+
 TABLE IV.
 THE RELATION OF GOOD AND POOR GRADES IN THE YOUNGER AND OLDER
 AGE-GROUPS.
@@ -412,6 +419,7 @@ E-G M-F i E-G M-F
 48
 40
 60
+
 It is clear from this table that the younger groups of each
 physiological age do better work than the older groups. Since
 the older groups comprise those pupils who are more or less retarded,
@@ -420,10 +428,10 @@ statements of Boas, quoted above, with reference to the unfavorableness of late 
 Our next question was with reference to the relative efficiency
 of pupils of different degrees of development but of practically the
 e"The Growth of Children," Science, N. S., X^XXVI, 817, 1912.
-228 THE PSYCHOLOGICAL CLINIC.
 same age in years. Only the half year groups between twelve and a
 half and fourteen and a half contained enough cases of each physiological age to make such a comparison significant.
 Percentage
+
 TABLE V. of Good
 Grades
 , 101 , 1Q /immature  56
@@ -440,9 +448,11 @@ Girls 13 to 13 j years
 Boys 13 to 135 years
 Boys 13? to 14 years
 Boys 14 to 141 years
+
 It can be seen from the above table that, age for age, the mature
 girls do better work than the immature. The boys' figures show a
 similar superiority in all but one of the groups.
+
 Thus far we have confined our discussion to the high and low
 marks in their relation to physiological age. Such marks are only a
 rough measure of intellectual ability; at least they are only one of
@@ -464,16 +474,17 @@ distribution graphically. The maturing pupils are presented according to half-ye
 classes being indicated by white rectangles while those who are of
 the same age in years, but in the upper classes, are indicated by black
 rectangles.
+
 These figures show clearly that the maturing age in both sexes
 is favorable to school progress, for at every age where there are enough
 cases to be significant, pupils of this degree of development are found
 in the upper classes in decidedly greater numbers than in the lower
-PHYSIOLOGICAL AGE AND SCHOOL STANDING. 229
 classes. This showing is not inconsistent with the comparatively
 lower standing indicated above for pubescents in the matter of
 grades. Maturity, in the case of these pupils, does not seem to be a
 factor in improving the quality of work, but it does seem to be
 associated with progress through the grades.
+
 It would not be safe to draw dogmatic or sweeping conclusions
 from this little study. As far as they go, the findings agree with
 those of Crampton that progress in physiological age is related to
@@ -482,6 +493,7 @@ of these children, based upon a more accurate determination of
 physiological age, will lead to different results. In one important
 respect particularly, these results are in accord with previous studies,
 in that they indicate that over-age individuals in all the three physiological stages are inferior to those of normal development.
+
 No. Cases
 IS.
 COMPARISON OF NUMBER OF MATURING PUPILS, AGE BY AGE, IN THE LOWER

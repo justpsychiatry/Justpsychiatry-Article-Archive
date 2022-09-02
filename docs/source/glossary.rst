@@ -15,9 +15,7 @@ Glossary
 
     Accommodation
         Change how you think about something based on information.
-
-    Accommodation
-        adjustment of a schema by changing a scheme to accommodate new information different from what was already known
+        Adjustment of a schema by changing a scheme to accommodate new information different from what was already known
 
     Achromatopsia
         Achromatopsia is a term referring to or acquired agnosia for color. This term includes color blindness. Achromatopsia is a condition characterized by a partial or total absence of color vision. People with complete achromatopsia cannot perceive any colors; they see only black, white, and shades of gray. Incomplete achromatopsia is a milder form of the condition that allows some color discrimination. Achromatopsia also involves other problems with vision, including increased sensitivity to light and glare (photophobia), involuntary back-and-forth eye movements (nystagmus), and significantly reduced sharpness of vision (low visual acuity). Affected individuals can also have farsightedness (hyperopia) or, less commonly, nearsightedness (myopia). These vision problems develop in the first few months of life. Achromatopsia is different from the more common forms of color vision deficiency (also called color blindness), in which people can perceive color but have difficulty distinguishing between certain colors, such as red and green.

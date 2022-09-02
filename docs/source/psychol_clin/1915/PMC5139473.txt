@@ -5,9 +5,9 @@ The Psychological Clinic
 Copyright, 1915, by Lightner Witmer, Editor.
 Vol. IX, No. 6
 November 15, 1915
-
-By G. W. Gayler,
+:Author:  G. W. Gayler,
 Superintendent of Schools, Canton, Illinois.
+
 Four years ago one hundred and fifty-nine eighth grade pupils
 in our schools were asked among other things to give their choice
 of a life work. In classifying and summarizing the answers we
@@ -17,11 +17,13 @@ wireless operator, teacher, physician, nurse, musician, lawyer,
 chemist, cartoonist, stenographer, bookkeeper, draughtsman, contractor, telegraph operator, carpenter, milliner, aviator, mail clerk,
 hotel clerk, inventor, merchant, soldier, civil engineer, mechanical
 engineer, electrical engineer, etc.
+
 By grouping these we found that 26 per cent chose commercial
 and industrial occupations, 23 per cent chose professional work,
 and 24 per cent chose pursuits so difficult to classify that we placed
 them in a group which we called miscellaneous. Twenty-seven per
 cent indicated that they had made no choice.
+
 At the beginning of the next year (Freshman year) all members
 of this class still remaining in our school, ninety-eight in all, were
 asked the same question and the answers were tabulated as before.
@@ -30,17 +32,17 @@ yet in school indicated a change of mind with regard to their choice
 of a life work. The remainder, 33Yi per cent, expressed themselves
 the same as before, i.e. they remained fully decided in their first
 choice or they remained wholly undecided in the matter.
+
 In October, 1914, a further study of the same class now reduced
 to seventy-three showed that 47 per cent of those remaining had
 changed since the question was first asked them. A large percentage of those remaining constant in choice remained in school while
 a large percentage of those changing had dropped out of school.
 A few days ago this same question was submitted to the members of this same class for the fourth time. Fifty-two per cent of
-(161)
-162 THE PSYCHOLOGICAL CLINIC.
 those remaining in school the entire four years had not changed
 their minds concerning their choice of a life work. Twenty-three
 per cent changed once and 12 per cent changed twice; 13 per cent
 changed three times or more.
+
 This study, extending over a period of four years and as yet
 incomplete, seems to point toward several conclusions. First,
 a large percentage of adolescent boys and girls do not definitely
@@ -52,12 +54,14 @@ personality of a popular teacher, or by the subject of study with
 which the mind is filled at that particular time. Thirdly, there
 is a greater school life expectancy for those who remain constant
 in choice than for those who change.
+
 It is interesting at this point to follow the amount of change
 in the enrolment of a given class through a number of years and
 to see, as far as possible, what relation there is between the migration of families and remaining in school. In the case of this class
 there were one hundred and fifty-nine enrolled the first year in the
 eighth grade, ninety-eight the second year, seventy-three the third
 year, and fifty-six the fourth year.
+
 This does not mean that all who dropped out of this class have
 remained out of school permanently. Although unable to check
 all pupils we know that a large number moved out of our district
@@ -80,6 +84,7 @@ stant in choice of life work. Social and economic conditions which
 make it necessary for the family to remove from district to district
 affect the choice of a life work and consequently are factors to be
 considered in vocational guidance.
+
 In addition to the factor of change there is another which
 must be considered in any study of vocational education and especially vocational guidance for the smaller cities, villages, and rural
 communities. This is the opportunities offered in the local community, and whether these vocational opportunities are purely
@@ -103,16 +108,17 @@ future outlook. Should children be guided into "blind alley jobs"?
 Shall they be guided into jobs in which the work is irregular, the
 promotion slow and uncertain, and at best the highest place soon
 reached ? The answers are not yet in sight.
+
 I am fully convinced from the study I have made that the
 kind of guidance we need in our schools today is that which will
 lead boys and girls into higher grades of school work and the advice
 they need most is that which will cause them to remain longer in
 school.
+
 I am further convinced that what we as superintendents,
 principals, and teachers need most is that guidance which will help
 us so to shape the course of study, and so to manage the school,
 that students will regard the school as of so much value to them
-164 THE PSYCHOLOGICAL CLINIC.
 that they can not afford to remain away. What we need is that
 knowledge and ability which will help us to guide children forward
 in their school work faster and further. The question of vocational
@@ -127,6 +133,7 @@ the management. For too long a time we have been content to
 let tradition dictate our management. We have taught the same
 school our fathers have taught and used the same methods our
 fathers have used.
+
 Among the many things which can be done by the school to
 guide the boys and girls into a better life as well as better places
 in life, is a full and complete study, continuing from year to year,
@@ -151,7 +158,7 @@ to the school as a whole, or to individuals, discussions concerning
 different vocations and opportunities will help pupils to understand
 the value of the school to them, and the aid which it attempts
 to give each student.
-VOCATIONAL GUIDANCE IN THE HIGH SCHOOL. 165
+
 Children in the lower classes should get acquainted with the
 work in the higher classes. It is entirely in order to take the time
 of any class to explain and discuss with the children the work of
@@ -160,6 +167,7 @@ discussions the teacher can get the viewpoint of the children. Visits
 to different departments can be made by pupils and oral reports
 of work visited can be given to the class. This is good oral theme
 work for English classes.
+
 Finally, the question of vocational guidance in so far as the
 high school ought to deal with it, is concerned with the abridgment
 and enrichment of the course of study. The course of study must
@@ -169,6 +177,7 @@ with every subject of study and every recitation. It is not a new
 subject to be brought into the course. It must not be handled by
 a new teacher added to the corps. It should vitalize every subject
 and every lesson.
+
 So much of our work, especially our high school work, is not
 adapted to the life of today?is traditional, memory work?that
 students seeing the uselessness of it, refuse to give their time to it.
@@ -181,12 +190,14 @@ one of the many things offered in our high school course of study.
 Put yourself in his place with his choice of life work and his prospect
 ahead and see how much of the dry, mechanical, memory work,
 appeals to you.
+
 It is not a question as to what we think about these subjects.
 We may think they are very much worth while. We cannot
 impose our standpoint upon him. What he thinks counts. It
 may be it ought not to do so, but it does. How will this course
 help him? He does not see that it will. I do not see how some
 of it will, do you?
+
 Vocational guidance has to do with the kind of work offered
 in school, with the way work is done in school, with the inspiration
 breathed by the teacher into her class, with the advice which
@@ -195,7 +206,6 @@ teacher should be a counsellor. Every teacher must be interested
 in boys and girls, far more interested in these than in Latin, or
 history or science or literature or any subject whatever. It is not
 a subject to be thrust upon one teacher as we have been doing with
-166 THE PSYCHOLOGICAL CLINIC.
 Latin, history, etc. This counselling with boys and girls is the
 vital work in teaching. Too long we have been concentrating our
 attention on subject matter, forgetting that we are teaching boys
@@ -204,6 +214,7 @@ has for existence is that it helps boys and girls to solve life situations
 the better for having had the advice and experience of school life.
 The vital thing in life is the solution of situations. The main purpose of the schools is to help boys and girls to get ready to solve
 these situations correctly. Does the high school help?
+
 One of the things which will be very helpful in vocational
 guidance is to study boys and girls in a sympathetic way, viewing
 things from their standpoint not from the adult standpoint, and
@@ -224,6 +235,7 @@ had no time for talk about the things of vital concern around us.
 It would be amusing, if it were not pathetic, to see how concerned
 teachers are about finishing pages, all the time neglecting the vital
 issues in which children are interested.
+
 In conclusion then let me say that there is a place in high
 school for vocational guidance. We ought to have more of it, but
 it should come in largely through the regular work and in many

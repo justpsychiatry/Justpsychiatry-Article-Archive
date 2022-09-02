@@ -4,9 +4,10 @@ The Significance of the Binet Mental Ages
 The Psychological Clinic
 Copyright, 1914, by Lightner Witmer, Editor.
 Vol. VIII, No. 7. December 15, 1914
+:Author:  Edward L. Thorndike, Ph.D.,
 
-By Edward L. Thorndike, Ph.D.,
 Teachers College, Columbia University.
+
 In view of the wide use that is being made of the Binet-Simon
 tests, in one or another of their varieties, it seems important to
 know how far their successive steps, labeled Mental Ages, 3, 4, 5, 6, 7,
@@ -19,6 +20,7 @@ average thirteen-year-old child. But Goddard has asserted that
 Number of children of each chronological age who were rated by Goddard as
 of each Binet Mental Age; 1547 children were reported belonging to
 Grade VI or lower.
+
 Chronological
 Age
 4 yrs.
@@ -119,22 +121,26 @@ Totals
 20
 6
 1547
-186 THE PSYCHOLOGICAL CLINIC.
+
 fit the ages to which they are assigned";1 and others have accepted
 this conclusion.
+
 I shall show that the very measurements whence Goddard
 derived this assumption of the exact correspondence of the Binet
 mental ages V to XIII, to the average ability of chronological ages
 5 to 12, show in reality something entirely different, and that so also
 do the results of others who have used these tests.
+
 Goddard's facts are given in table I (a copy of table I on page
 234 of the article referred to above).
+
 If one reads this table down, asking "Does the Binet or mental
 age hit the corresponding chronological age?" the affirmative answer
 seems correct, unless one realizes that the numbers should first be turned
 into percentages of the total numbers examined of the age in question.
 But when one realizes this and replaces, say, the 3, 4, 27, etc., of the
 column under XI by:
+
 Binet Mental Age XI
 Chronological
 Age Frequency
@@ -159,10 +165,11 @@ at Binet VIII, 6 at Binet IX, 30 at Binet X, 19 at Binet XI, 21
 at Binet XII and only 7 at Binet XIII. Of 144 twelve-year-olds,
 only 39 tested at Binet XII or higher, while Binet IX, X, and XI
 had 91.
+
 The average and the median Binet ages for the four-year-olds,
 five-year-olds, etc., tested by Goddard were as follows (table II).
 1 Pedagogical Seminary, June, 1911, Vol. 18, p. 232 and p. 523.
-SIGNIFICANCE OF BINET MENTAL AGES. 187
+
 The Binet Test values corresponding to
 each chronological age, using the data
 of table I.
@@ -180,6 +187,7 @@ Age
 13
 14
 15
+
 Median.
 Binet Age
 or so-called
@@ -212,6 +220,7 @@ Mental Age
 10.7
 11.0
 10.3
+
 These figures however cannot be taken at their face value, for
 Goddard's 1547 cases were all from grades VI or below, and represent
 therefore a superior selection of 4-, 5-, and 6-year-olds and an inferior
@@ -220,10 +229,12 @@ after examining some of the results obtained by other investigators.
 Dougherty1 tested children in grades 1 to 8 of a certain school,
 getting a fair sampling of children of each age from 7 to 14, and finding
 the facts shown in table III, columns 4 and 5.
+
 As nearly as I can judge, Terman and Childs2 got approximately
 the facts shown in table III, column 6. They had a fair sampling up to
 13, but had rather inferior pupils of ages 13 and 14 (pupils still in
 grade VII).
+
 Strong3 testing about 30 of each age from six to twelve (how
 selected, I cannot be sure), found the facts shown in columns 7 and
 8 of table III.
@@ -293,6 +304,7 @@ Average
 10.8
 11.0
 11.5
+
 Measurements
 by Terman
 and Childs.
@@ -306,6 +318,7 @@ Median
 10.8
 11.3
 12.0
+
 Measurements
 by Strong
 7
@@ -323,6 +336,7 @@ Average
 9.7
 10.6
 11.0
+
 This means of course that the Binet X, XI and XII are not
 exact correspondents of the normal or modal abilities of children
 ten, eleven and twelve years old. The mental ages represented by
@@ -341,9 +355,9 @@ Allowing generously for the fact that some of the brightest twelveyear-olds woul
 half of the thirteen-year-olds would have done so, these results agree
 fairly well with those used in this article and do not suggest any
 considerable change in table IV.
-i J. of Ed. Psy., 1914, Vol. V, pp. 439-448.
-SIGNIFICANCE OF BINET MENTAL AGES. 189
+
 TABLE IV.
+
 The true "mental" ages denoted by the Binet scores VII.O, VII.2,
 VII.4, XI.8.
 Score by Binet

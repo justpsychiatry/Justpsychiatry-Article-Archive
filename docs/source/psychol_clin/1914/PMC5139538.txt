@@ -1,8 +1,9 @@
 Retardation as Indicated by one Hundred City School Reports.1
 =============================================================
 
-By Hilda Volkmor and Isabel Noble,
+:Author:  Hilda Volkmor and Isabel Noble,
 Stanford University, Cal.
+
 This paper is a survey of the school reports of one hundred
 cities, made with a view to finding out what has thus far been done
 by the city schools, to study and to solve the problem of retardation.
@@ -18,6 +19,7 @@ over the entire country. The showing should be suggestive of the
 practical consideration which has been given to the problem thus
 far. Not enough of the 1913 reports were yet available for this
 study, hence it closes with the year 1912.
+
 Of the hundred cities reviewed, 26 made no reference whatever
 to the problem. Table I shows that these 26 cities are of all sizes,
 and table II, that they are scattered throughout all sections of the
@@ -79,8 +81,7 @@ Given
 51
 1 This study was made at the suggestion, and under the direction of Prof. J. B. Sears, of
 Leland Stanford Junior University.
-(75)
-76 THE PSYCHOLOGICAL CLINIC.
+
 have determined the spread of this movement. Twenty-three made
 some reference to the problem, but offered inadequate statistics,
 and to all appearances had not treated the question seriously, i.e.
@@ -108,10 +109,12 @@ Total.
 26
 23
 51
+
 presented, from which the amount of retardation could be computed.
 The distribution of these 51 cities as to size and locality as seen in
 tables I and II again shows that the movement is not local, and
 that it is not confined to large cities alone.
+
 The movement began in 1904 in New York City, and the annual
 report of the superintendent for that year is the pioneer document.
 By chart I the rapidity with which the schools over the country
@@ -126,12 +129,12 @@ which have dealt more systematically with the problem, is shown
 in chart II. Here the height is not reached till the year 1911, when
 18 per cent of the 100 cities examined made definite studies of their
 laggards.
+
 The amount of retardation shown by these reports may not
 add to what is commonly known from other sources, but it does
 show what one can find on the subject in city school reports, and
 it also shows some interesting facts in the way of difference between
 maximum and minimum retardation in the same city, and differences in average retardation in various cities and in different years.
-RETARDATION INDICATED BY SCHOOL REPORTS. 77
 Because various definitions of retardation have been used in
 different cities, and by the same city in different years, the amount
 of retardation in the schools of one city as shown by its report, can
@@ -141,6 +144,7 @@ the one based on normal age, and the other on progress. Normal
 age for grade one is in some cases, 6-7 years, in others, 6-8, and
 at least in one case, 6-9. This makes comparison difficult if not
 impossible.
+
 The amount of retardation is shown in some form, as average
 retardation for all the grades, or maximum, or minimum, and often
 all three. In some cases the amount was computed from the statistics given. These are shown in tables III, IV, V, VI and VII.
@@ -161,7 +165,7 @@ CHART II.?SHOWING WHEN FIRST
 STUDY OR STATISTICS WERE FURNISHED (INCLUDES 51 CITIES).
 CHART II.?SHOWING WHEN FIRST
 STUDY OR STATISTICS WERE FURNISHED (includes 51 cities).
-78 THE PSYCHOLOGICAL CLINIC.
+
 of the average retardation for all grades. These reports appear
 within the interval studied (1904-1912). As the record for no city
 appears more than once in any one year this chart shows the history
@@ -240,6 +244,7 @@ WAS NOT GIVEN BUT WAS COMPUTED FROM STATISTICS PRESENTED.
 43.0
 46.5
 63.1
+
 In 1904 there is one case only, New York City, with a retardation of 39 per cent. In 1906 the range, with three cities, is between
 21.6 and 49.6; in 1907, with five cities, between 7.5 and 51.3; in
 1910, with fourteen cities, the range is between 7.5 and 36.0; in
@@ -250,7 +255,7 @@ is hard to say, but it is evident that there is yet no settled standard
 of what is a reasonable amount of retardation to expect. At least
 no such standard is being used, else this wide variation would not
 exist.
-RETARDATION INDICATED BY SCHOOL REPORTS. 79
+
 TABLE IV. SHOWING PERCENTAGE
 OF MAXIMUM RETARDATION (NO
 CITY INCLUDED MORE THAN
@@ -307,15 +312,18 @@ ONCE.)
 32.0
 37.0
 37.9
+
 Table IV shows thirty records, from thirty cities, within the
 years 1909-12. The variation in amount is much the same as in
 table III. Table V shows the range of the minimum retardation
 in a similar way. The city with 0.0 per cent minimum retardation
 says there is no retardation in its schools. (It is excluded by
 definition only.)
+
 Where this maximum and minimum retardation appears, is of
 some importance, and is shown in table VI, which includes each
 city but once, but covers the years 1904-12 inclusive. It will be
+
 TABLE VI.?SHOWING THE NUMBER OF CITIES IN WHICH THE MAXIMUM
 AND THE MINIMUM FALL IN A GIVEN GRADE.
 Grade
@@ -339,17 +347,19 @@ Max.
 No. Cities
 Min.
 25
-80 THE PSYCHOLOGICAL CLINIC.
+
 seen that the minimum retardation falls most frequently in grade
 one, and only five of the thirty-one cities reporting have found the
 minimum above grade six. The maximum falls heavily in grade
 five, and probably if elimination could be figured out, it would
 appear quite as often in grade six.
+
 One more item of interest is the difference between the maximum and the minimum in the same city, and for the same year.
 Table VII shows twenty-four such cases, mostly given in the reports
 for the last two years studied. Whether the ratio of minimum to
 maximum is more constant in these twenty-four cities than mere
 chance would make it, is a question.
+
 TABLE VII.?24 CASES FROM 24 CITIES, SHOWING PERCENTAGE OF MAXIMUM
 AND MINIMUM RETARDATION. (NO TWO REPORTS FROM SAME CITY.)
 1909
@@ -412,6 +422,7 @@ Min.
 37.0
 32.0
 37.9
+
 It is also possible to show for eleven cities what the average
 retardation was in two different years. In ten of the cities the
 amount shown in the later report was lower than that shown in the
@@ -422,6 +433,7 @@ dropped from 9 per cent to 5 per cent in one year. It is probably
 correct to assume that when the problem was defined by the first
 inquiry, definite steps were taken to meet it, and the result is a
 lowering of the proportion of pupils retarded.
+
 The causes for retardation mentioned in the reports are thirtyeight in number, only nineteen of which are mentioned more than
 RETARDATION INDICATED BY SCHOOL REPORTS. 81
 once, and only nine of which are mentioned more than four times.
@@ -432,6 +444,7 @@ entrance," by 10; "change of school," by 8; "crowded school
 room," by 7. "Poverty" is mentioned but once. Very general
 causes, which may mean almost anything or nothing, are often
 mentioned.
+
 Thirty different solutions of the problem were proposed, only
 12 of which were proposed by more than 4 different cities. "More
 frequent promotions" was used or proposed by 14 cities; "ungraded
@@ -441,6 +454,7 @@ schools," by 14; "medical supervision," by 8; "summer school,"
 by 8. "School nurse" is proposed as an aid by only one city;
 "departmental teaching," by one; "enforce child labor law," by
 one.
+
 Aside from this rather bare collection of facts, the reports show
 many indications that the principles of scientific management are
 rapidly being introduced into the administration of schools, that

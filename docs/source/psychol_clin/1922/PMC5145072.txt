@@ -6,11 +6,13 @@ Copyright, 1922, by Lightner Witmer, Editor.
 Vol. XIV, Nos. 5-6
 October, November, 1922
 By Lightner Witmer, Ph.D.
+
 Psychology is a science of behavior. It is derived from the
 observation of one particularized performance after another. Let
 "B " represent the behavior of a lifetime, a day, an hour, or a moment,
 and P, P', P" the sequence of performances observed; then
 B = P+P'+P"+ (1)
+
 A particular performance is defined by a beginning, a number of
 discriminated components, and an end. "A child walks upstairs"?
 this performance begins with the first step up and ends at the top
@@ -27,6 +29,7 @@ is itself a complex performance made up of constants and variables.
 To solve a mathematical problem is a complex performance involving
 the four elementary operations of arithmetic and many other
 operations.
+
 The operation is the analytic element of performance, a constant
 which may be repeated, but which, by definition, varies only quantitatively. The goal of scientific analysis is the differentiation of
 elementary, i. e., not further analyzable operations; theoretically,
@@ -37,8 +40,6 @@ operations, and x, y and z are differentiated quantities.
 Even when performances are known to be complex, they are
 often treated as quasi-operations; thus, we speak of the operation of
 a machine (an ideally simple operation), and also of the operations
-(129)
-130 THE PSYCHOLOGICAL CLINIC.
 of an army or the human intellect?performances which differ
 exceedingly in complexity. Adding up a column of figures approaches
 more nearly the ideal operation of analytic discrimination than
@@ -46,6 +47,7 @@ writing a composition, but both may be regarded as operations or
 as complex performances, depending on our point of view. All the
 behavior of a lifetime may be considered as an operation, i. e., a
 sequence of adaptations to environment.
+
 The outcome of a performance brings something into existence
 that did not exist before. This "something" is a product. A performance is usually defined by its product. The classification of
 performances, therefore, will be a classification of products. We
@@ -62,6 +64,7 @@ Just as performances are analyzed into components called
 "operations," so an ability may be analyzed into cooperating
 abilities, a different ability for each qualitatively differentiated
 product.
+
 Competency is an aggregate of abilities. Thus, reading competency is the aggregate of all the abilities necessary in order to read.
 The use of the word "competency" suggests that reading is the
 product or effect of many different operations, and that each differentiated operation implies a differentiated ability. Talking and
@@ -74,8 +77,10 @@ general, a competency is the ability to bring into existence some
 qualitatively differentiated product. Every competency, no matter
 how apparently simple, is theoretically analyzable into cooperating
 abilities. Every
+
 C = A+A'+A"+ (3)
 or C = No A's (4)
+
 Such statements, as "Man has more ability than any other
 species of animal," or, "Shakespeare is a greater poet than LongTHE ANALYTICAL DIAGNOSIS. 131
 fellow," are diagnostic estimates based partly on opinion and partly
@@ -91,6 +96,7 @@ to those of Longfellow. The critico-impressionistic diagnosis is an
 expression of preference. It implies relative value or importance; it
 displays appreciation or prejudice. It enters into every statement
 of relative competency; it is an integral part of every diagnosis.
+
 Let Cj represent the competency of one man and C2 the competency of another, and let us suppose that
 Cx>C2 (5)
 then ViAj-f V,1A,1+V',1A"1+ >V2A2+V'2A'2+V',2A',S+ or,
@@ -107,17 +113,19 @@ unit of time, for example, the time required to pass a test. Competency is only 
 rank order, i. e., a rating determined by the measurement of what
 has been produced during the passage of a standard measure of time;
 in other words,
+
 Proficiency = Rank Order X ^ro^uc^on
 Time
 Proficiency, therefore, is relative productivity, measured by the
 estimated value of a number of qualitatively differentiated products,
 and by the time required to produce them.
+
 Proficiency=VXPX^+V'XP'X^+V"XP"X^+ (7)
 As every qualitatively differentiated product is assumed to be
 a consequence of the operation of a number of differentiated abilities,
 No P's
 Proficiency = VxNo. A'sX?^?11 (8)
-132 THE PSYCHOLOGICAL CLINIC.
+
 The result of a test, even though it be a battery of tests, is scored
 in a number of products. This score, divided by time, measures the
 performer's productivity, or efficiency. If the perfonnance is an
@@ -137,6 +145,7 @@ with which an ability operates, and a rank order of efficiency is
 taken to be the rank order of ability. Those who produce the most
 goods with the Binet Test have the most intelligence?according to
 the Binet testers.
+
 While a similar assumption underlies most tests, the assumption
 is more often false than true, for the proficiency of performance
 varies more often with the number of abilities employed in production than with the efficiency of a particular operation. Nor must
@@ -151,12 +160,12 @@ important, if possible, to ascertain, by observation and analysis, how
 many abilities cooperated in their production, and the relative
 value, weight or importance of each ability contributing to the
 total product.
+
 The demonstrable diagnosis is a proficiency rating, which resolves
 itself theoretically into the measurement of efficiency, and a list
 of the analytically discriminated abilities, with an estimate of the
 relative value of each ability. This citation and estimate of abilities,
 I call the "analytical diagnosis." It is, in fact, an analytico-criticoimpressionistic diagnosis. It is based on observation and measurement, but it is not a measurement. Exact measurement is a good
-THE ANALYTICAL DIAGNOSIS. 133
 thing in its place, but any fool may use a tape to give specious exactitude to his opinions. This was the regular practice of the phrenologists, and psychological charlatans will continue to flourish their
 tapes and batteries of tests. Science develops partly by measurement, but largely by analytical discrimination and the exercise of
 good judgment, which is opinion refined by experience. This the
@@ -172,6 +181,7 @@ difficult to measure his ability to write a composition. Nevertheless, even comp
 of another. In so far as the diagnosis depends on exact measurement,
 it is a demonstrable diagnosis; in so far as it depends on analysis and
 valuation, it is an analytical diagnosis.
+
 Every performance, then, is the product of an operating competency. "How many abilities were concerned?" This question
 requires us to consider the number of abilities into which the competency is to be analyzed. We may specify too many, or too few.
 Over specification is cumbersome and over generalization is unenlightening. Biology assumes that self-preservation and reproduction
@@ -181,6 +191,7 @@ Age at one moment and intelligence at another, assumes that mentality is the sam
 product of a single ability. Common sense and the purpose in hand
 determine how many categories it will be desirable to employ for
 the purpose of analytical diagnosis.
+
 I discriminate six general competencies, or, in other words, six
 universal categories of behavior. They are:
 1. Operation = Mechanism ? Body
@@ -195,6 +206,7 @@ different points of view, if the performance is to be adequately known
 as the complex-unit it really is. The six categories are to be defined
 by contrasting each with the other five in turn. In this way, thirty
 different categories of behavior are developed. They are:
+
 1. Operation 1. Ability 1. Direction (Ac) 1. Control I. Initiative 1. Energy (V)
 Power
 Motivation
@@ -208,7 +220,9 @@ Convertibility
 Ambition
 6. Endurance 6. Judgment 6. Discernment 6. Culture 6. Confidence 6. Orientation
 Force Alertness Educability
+
 Satisfaction
+
 If psychology is a science of behavior and the unit of observation
 is a performance, and every performance may be analyzed into the
 operations of qualitatively discriminated abilities, then psychology
@@ -221,6 +235,7 @@ comprises a total of fifty-six items?too many, perhaps, for a perspicuous psycho
 into which human competency may be satisfactorily analyzed. The
 number may be cut down in practice to suit the convenience of the
 diagnostician.
+
 1 Humptstone, Henry Judson, Ph.D., "The Analytical Diagnosis." The Psychological
 Clinio, Vol. XII, Nos. 5-9, May, 19l9, pp. 171-174.
 THE ANALYTICAL DIAGNOSIS. 135

@@ -1,8 +1,9 @@
 Correlation of the Witmer Formboard and Cylinder Test
 =======================================================
 
-By Mary Hoover Young,
+:Author:  Mary Hoover Young,
 Graduate Student, University of Pennsylvania.
+
 In the spring of 1915, the cylinder test was given by two advanced
 graduate students in psychology to 47 men and 28 women undergraduates in Psychology 2c at the University of Pennsylvania. The
 following fall, this same test as well as the Witmer formboard was
@@ -11,6 +12,7 @@ undergraduates in Psychology lc. These tests were employed to
 give the students an insight into mental testing, and to begin the accumulation of data with the view of establishing norms for adults.
 As such tests come in the group generally known as mechanical or
 manual tests it has seemed advisable to treat them together.
+
 The cylinder test consists of eighteen wooden cylinders of
 graduated depth and diameter, modelled after the larger Montessori
 insets with duplications omitted, and fitted into eighteen cylindrical
@@ -24,6 +26,7 @@ the subject touched the first block until the last one was correctly
 replaced. Each subject was given three trials by the same method
 in as rapid succession as possible. The shortest trial time is taken
 as the index of the subject's cylinder ability.
+
 TABLE I. NUMBER OF CASES AND TIME VALUES IN SECONDS?CYLINDER TEST.
 Number of subjects.
 Mean
@@ -90,7 +93,7 @@ Combined
 34.0
 38.0
 57.0
-CORRELATION OF THE WITMER FORM BOARD. 113
+
 Table I contains the results of the cylinder test for both classes.
 The first column of figures contains the time values for the men in
 Psychology 2c; the second, for the men in Psychology lc; the third
@@ -106,6 +109,7 @@ below which twenty-five per cent of the cases fall; the median is
 that record above and below which fifty per cent of the cases occur;
 the upper quartile is that record above which the highest twentyfive per cent of the cases occur; and the maximum is the highest or
 longest time record of the group.
+
 Reference to table I shows that there is a close agreement
 between the results for the two classes, and that the standard deviations are fairly constant. It would thus appear that the record
 for either of these groups is fairly representative of what could be
@@ -169,10 +173,10 @@ Closed
 119.0
 185.0
 499.0
-114 THE PSYCHOLOGICAL CLINIC.
 while he himself replaced them. The time was taken in seconds by
 means of a stop watch from the moment the subject touched the first
 block until the last one was correctly replaced.
+
 Table II includes the results of the undergraduate students in
 Psychology lc on the Witmer formboard. The first column of
 figures contains the time values for the men tested by the standard
@@ -183,6 +187,7 @@ closed. The time values in table II have the same significance for
 their respective groups as those in table I. By the standard method
 the men are slightly superior to the women in formboard ability, but
 with the eyes closed the reverse is true.
+
 The standard deviation is relatively much larger where the
 formboard is worked with the eyes closed than where it is worked
 by the standard method. The large standard deviation in the former
@@ -193,6 +198,7 @@ test cannot be worked, there is not such an upper limit. For the men
 the difference between the median and maximum is 3.7 times that
 between the median and minimum, while for the Avomen the difference between the median and maximum is 5.4 times that between
 the median and the minimum.
+
 The formboard worked by the standard method gives results
 which lie within a narrower range of distribution than the results
 for the cylinder test, while the formboard worked with the eyes
@@ -210,12 +216,13 @@ the tests. These three tests represent a series of progressive difficulties; the
 test, the cylinder test is a stage higher in difficulty, while the formboard worked with the eyes closed makes a very difficult test, because
 the individual is facing a new problem and feels himself in a strange
 environment.
-CORRELATION OF THE WITHER FORM BOARD. 115
+
 Since three trials were used in working these tests, it would
 naturally be expected that the majority of the best records would
 occur on the third trial, for here practice would tend to shorten the
 time. The percentage of cases where the best records occurred on
 the first, second, and third trials respectively, was determined.
+
 TABLE III. DISTRIBUTION OF SHORTEST TRIAL TIME RECORDS.
 Trial.
 Formboard.
@@ -238,6 +245,7 @@ Table III shows these percentages for both the men and the
 women in working the cylinder test and the formboard by the standard method. Thus 11 per cent of the men made their best record
 on the second trial of the formboard, and 34 per cent made their
 best record on the second trial of the cylinder test.
+
 Since it is the general assumption that the different mechanical
 or manual tests, such as these, test the same factors or qualities in
 an individual, it would be only natural to expect that success on the
@@ -253,16 +261,18 @@ mechanical or manual tests. If these tests were simple and involved
 the same factors they should show a high correlation. To determine
 the facts of the case, a correlation was worked out between the
 results obtained from each test.
+
 From the class in Psychology lc in the fall of 1915, 55 undergraduate men and 59 undergraduate women took the formboard
 test by the standard method and with the eyes closed during one
 recitation. The following recitation the same students took the
 cylinder test. These tests were not given as group tests. Each
 individual was tested by himself so that no student saw any other
 work the tests. The results are presented in the preceding tables
-116 * THE PSYCHOLOGICAL CLINIC.
 and are here correlated by Pearson's product moment method of
 correlation. Table IV gives these correlations.
+
 TABLE IV. CORRELATION.
+
 Correlation between:
 Cylinders and Formboard by the Standard Method.
 " " " with the eyes closed
@@ -275,6 +285,7 @@ Men
 +0.067
 +0.186
 +0.415
+
 These correlations are scarcely what one would have expected
 from such apparently closely allied tests. In no instance is there
 a high correlation. Just as interesting as the lack of a high correlation, is the fact that there is no agreement in correlation between
@@ -286,6 +297,7 @@ correlation of 0.466 for the men, have the very low positive correlation of 0.06
 method and the eyes closed, which gives the insignificant negative
 correlation of 0.008 for the men, has the positive medium correlation
 of 0.415 for the women.
+
 Assuming that the number of cases presented is sufficient to
 give fairly reliable results, what are we to conclude about the above
 tests? It does not appear that they are as simple as is generally

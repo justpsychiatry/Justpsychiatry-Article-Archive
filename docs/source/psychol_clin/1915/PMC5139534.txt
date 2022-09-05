@@ -5,8 +5,8 @@ The Psychological Clinic
 Copyright, 1915, by Lightner Witmer, Editor.
 Vol. IX, No. 1.
 March 15, 1915
+:Author:  Lightner Witmer, Ph.D.,
 
-By Lightner Witmer, Ph.D.,
 Director of the Psychological Clinic, University of Pennsylvania. \J
 When asked for specimens of the record blanks which are used
 by the Psychological Clinic, my invariable answer is that we have
@@ -34,8 +34,6 @@ ambition. Careful testing shows that he is not able to do problems
 in arithmetic with the efficiency of the average boy in the fourth
 grade. While deficiencies in school accomplishments are adequately
 revealed, a three hour probe of the boy's pedagogical and physical
-(1)
-2 THE PSYCHOLOGICAL CLINIC.
 history, combined with a painstaking mental examination, does not
 disclose sufficient mental inferiority to explain his inability to succeed
 in high school subjects. An additional observation involving the
@@ -57,6 +55,7 @@ age of six, would safely lead to the diagnosis of feeblemindedness, but
 usually in such cases an experienced examiner could make the diagnosis of feeblemindedness on sight. Why spend many minutes of
 valuable time with the Binet test or other elaborate mental tests
 to find out what one already knows?
+
 We receive for purposes of examination at the Psychological
 Clinic, children who are by classification idiots, others who are
 imbeciles, cretins perhaps sixteen years of age with the height of a
@@ -73,10 +72,10 @@ to us to assist the parents in finding out what they are most fitted for
 in life, some of them brought to us as by the parent who said, "Yes,
 I know that my children are bright, but I have come to you to find
 out how to keep them bright."
+
 I confess I do not know how to prepare a single formula of
 examination which will fit these diverse types of children, nor have I
 as yet studied these cases long enough to prepare different formulas
-CLINICAL RECORDS. 3
 to fit the classifications which it will some day be necessary to make.
 Moreover, life is short and we do not have time at the Psychological
 Clinic to do more than make an exploratory examination for the
@@ -118,9 +117,9 @@ The psychologist's is certainly not the ascertainment of the physical
 causes of physical defects. He may go into these questions for his
 own enlightenment, or as a means of checking his own opinions, but
 his distinctive field of research is in my opinion the mental process,
-4 THE PSYCHOLOGICAL CLINIC.
 its normal unfolding, and the modifications which environmental
 influences may produce.
+
 In every case, we are compelled to leave unsolved some problems
 of interest, many of them extremely important. For example, take
 syphilis as an etiological factor. In many borderline cases the Wasserman test will positively demonstrate the presence of what is called
@@ -141,6 +140,7 @@ something which will be of no help to us in treating the child? Let
 us have many questions in our formula, let us employ many tests,
 all the way from the simple sense tests to the Courtis tests, but do
 not let us become slaves to the items of our formula.
+
 Of course there are questions which arise by the way, which
 could only be satisfactorily answered if the same formulary were
 applied to all children. For instance, I believe that syphilis is a
@@ -159,7 +159,6 @@ in all these cases was no greater than the percentage of syphilis in
 the community. I had gone out of my way to make a statistical
 inquiry in an approved scientific fashion, and obtained a negative
 result so far as demonstrating the etiological significance of syphilis in
-CLINICAL RECORDS. 5
 cases of feeblemindedness. Nevertheless I think we have sufficiently
 clear evidence that it is a causal factor in some cases, and a clinical
 examiner must hold in the background of his mind the thought that
@@ -168,6 +167,7 @@ examination. If the Binet test, or the memory-span test, or the
 formboard test were applied in every case, doubtless we should get
 data of great statistical value, but this would be turning the Psychological Clinic into a bureau of statistical inquiry, and probably it
 would lack the means to perform this work well.
+
 Some men of science, and more pseudo-scientific men, fail to
 criticize the fundamental bases of statistical data. For example,
 I saw a boy recently, one of nine children. The other eight children
@@ -200,7 +200,6 @@ and into the history of the mother during pregnancy, and have
 degree of probability and combined with other causes having an equal degree of probability. In
 what percentage of cases it is the determining factor can never be ascertained from data collected
 by methods in common employment today.
-6 THE PSYCHOLOGICAL CLINIC.
 perhaps discovered some abnormality in the family of the father or
 mother. I have then had the mother when alone with me and in a
 confidential moment say, "I might as well tell you that when I said
@@ -241,7 +240,6 @@ Year by year a change is manifest in the clientele of the Clinic.
 *Dr Louise Stevens Bryant, Head Social Worker; Miaa May Ayrcs, Acting Head Social Worker;
 Miss Cyrena Martin, Assistant Social Worker, and Miss Marguerite Lazard, Recorder, at the
 time the report was prepared. Miss Ayres compiled and wrote the report.
-CLINICAL RECORDS. 7
 We are seeing fewer feebleminded children, and more whom we
 diagnose as normal. Recently the Psychological Clinic has been
 examining cases with a view to vocational guidance. I consider that
@@ -258,6 +256,7 @@ social service department we may assist parents in placing these
 children in institutions, but we can help greatly children of normal
 grade, who are handicapped in school or in the struggle for existence.
 The forty records are of children who were diagnosed as follows:
+
 Diagnosis Number. Per cent.
 Normal  11 27.5
 Physically defective  1 2.5
@@ -298,6 +297,7 @@ were omitted which would apply only to a limited number of the cases, for
 example the question as to whether or not a child was a truant, was omitted
 because in many cases the child could not be a truant. The tabulation has been
 made under eleven heads:
+
 A-l Name, age, address, by whom sent, and by whom brought.
 A-2 Diagnosis.
 A-3 Recommendations.
@@ -315,6 +315,7 @@ points were which the different clinic examiners regard as most significant, and
 which tests they feel are of the greatest value. Is there any body of questions
 asked alike by all the examiners? Is there any uniformity of opinion on their
 part as to the value of different data?
+
 The General Examination is usually made by the psychologist, although
 when he is busy with other cases the social service workers may make it for him.
 It consists of the eleven parts noted. Much of the information is gathered from
@@ -324,7 +325,6 @@ The results of the General Examinations are recorded under these eleven
 main heads. Tabulation has been made of the presence or absence of information under each of sixty-one sub-topics considered as of general applicability to all
 cases. Since the analysis covers forty records, there should be forty times sixty* Theoretically this assumption may be justified, but practically many diverse conditions
 modify this equal opportunity to make a mental examination in a given case.?L. W.
-CLINICAL RECORDS. 9
 one items of information, or a total of 2440 items, if the record were entirely
 complete in every case. How nearly the existing records approximate this impossible ideal is shown in the following summary tabulation:
 Information asked. No. of answers. Information asked. No. of answers.
@@ -372,13 +372,15 @@ During the three and a half years covered by the cases examined we find that
 in general less complete records were kept during the first year. After the slight
 increase at the end of the first year the rate remains the same during the two
 and a half years following.
+
 The sixty-one questions tabulated were supposed to apply equally to all children brought to the Clinic. Of these three have received attention and been
-10 THE PSYCHOLOGICAL CLINIC.
 recorded in every case: The name of the child has been given; the age of the
 child has been given; the question has been raised as to whether the child has
 brothers or sisters.
+
 Section 1 of the General Examination consists of five points?name, age,
 address, brought by, sent by.
+
 This section is by far the most complete of all in our tabulation. The psychologists have all agreed on the importance of the five topics. Under the heading
 "sent by" there are a good many omissions, probably due to the fact that many
 children are brought to the Clinic by the same people who sent them, and no need
@@ -387,7 +389,9 @@ Section 2 of the General Examination shows whether or not a diagnosis has
 been made. In six of the cases examined there is no record of any diagnosis.
 In five, diagnosis has been "deferred." This topic is treated more at length under
 the text relative to mental examination.
+
 Section 3, Recommendations.
+
 In four out of forty cases no recommendations of any kind have been made.
 In twenty-two, physical recommendations have been made, but they are recorded
 as having been carried out in only nine. Other recommendations are recorded
@@ -400,7 +404,9 @@ The Social Service department should have as part of its files a "follow-up"
 system. This work would be of real scientific value. Its need is evident; but
 the labor entailed is such that the system cannot be installed until a larger number
 of trained assistants are available.
+
 Section 4, Preliminary Report.
+
 A preliminary report is usually secured at the time of the child's first examination at the Clinic. In general it answers the question "Why is this child a
 Special problem?" In very nearly all cases the definite question "Why was he
 brought?" is asked. In less than one-half of the cases the examiner goes more
@@ -410,42 +416,53 @@ himself?" In less than one-fourth of the cases the questions are asked, "Does
 the child have enuresis? Is he a masturbator? Does he like to play with other
 children, and are they older or younger than himself?" In only one of the cases
 analyzed is the preliminary report entirely absent.
+
 Many other questions are asked in this preliminary examination. In tabulating an effort was made to record only those questions which were of general
 application. In looking over the files we find the questions " Does he steal?
 Does he run away? Does he lie? Does he show other immoral tendencies?"
+
 These questions are important, but apply to only a limited number of cases. It
 might be of value to make a more detailed study of high grade imbecile and
 borderline cases among adolescent boys and girls in order to determine what
 further questions should be added to the regular examination of these cases.
+
 Section 5, Pedagogical History.
+
 Information with regard to pedagogical history is usually secured from
 the parent, although corroborative details may be obtained by visits to the
 school. In general the school records are very full. In over three-fourths of the
-CLINICAL RECORDS. 11
 cases information is given as to the child's grade and the progress he has made in
 school. In over half of the cases a record is also given as to the child's age when he
 started school. There is but one case where no questions of any kind appear to
 have been asked. Where the child never attended school, and a statement has
 appeared on record to that effect, the case has been tabulated as giving positive
 information.
+
 Section 6, Medical History.
+
 Fairly careful investigation has been made of the child's general health. In
 only three out of the forty cases tabulated have no questions been asked. Much
 less attention has been paid to whether the child ever suffered from convulsions,
 whether wounds heal easily, and whether the child has had falls or accidents.
+
 Section 7, Babyhood.
+
 The report on babyhood has been rather meagre. In a third of the cases
 there is no record of any questions having been asked. From one-half to threefourths of the cases show some record of the time when the baby first walked,
 and when he first talked. Record as to the first tooth occurs in less than half the
 cases.
+
 Section 8, Birth.
+
 There are many cases in which no questions have been asked concerning the
 birth of the child. In seventeen of the forty cases no records are shown. The
 questions most frequently asked, "Was the birth natural?" "Was it full time?"
 are recorded in only a little over one-fourth of the cases. Other questions as to
 weight, "Was he a blue baby? Was he healthy? Was he different from the
 other children?" have been asked and recorded in less than one-fourth of the cases.
+
 Section 9, Family History
+
 Careful efforts appear tohave been made to secure full family histories.
 In every case examined there is some record. In two of the cases the only record
 given is in answer to the question, "Are there other children living?" The next
@@ -454,7 +471,9 @@ cases attempt has been made to ascertain the ages of the other children, and
 whether any children in the family have died. Questions as to miscarriages,
 the health of other children, and whether the other children are peculiar in any
 way, occur in from one-fourth to one-half of the cases.
+
 Section 10, Mother's History.
+
 There are two cases where nothing has been asked about the mother, and in
 three there is no record as to whether or not the mother is living. The questions
 most frequently asked are, " What is the mother's health now, and are her relatives
@@ -468,10 +487,11 @@ In two cases nothing is said of the father's history. In four cases no note is
 made as to whether he is now living. Next in frequency is the question as to his
 health at the present time. In less than half of the cases is there mention of
 whether he works, whether his relatives are healthy, or whether there are abnormalities among his relatives; and in less than one-fourth of the cases examined
-12 THE PSYCHOLOGICAL CLINIC.
 is there record as to whether the father is peculiar in any way; whether he uses
 intoxicants; whether he has been married before; and his nationality.
+
 B. PHYSICAL EXAMINATION.
+
 Twenty-five points were tabulated under the heading Physical Examination.
 Several of these points are likely to be regarded by clinicians as unimportant.
 They have been recorded only once or twice in cases examined. Report has been
@@ -479,6 +499,7 @@ made on these topics not because a criticism is implied if they are not tabulate
 as having been noted, but because these points all appear on the physical examination sheet which has been freely used as Clinic record. The following is a list
 of physical points noted in the order of their frequency.
 Number of cases in
+
 Point noted. which point is noted.
 Anthropometric measurements  26
 Eyes  24
@@ -508,16 +529,17 @@ Arches  1
 Total  323
 Total possible  1000
 Per cent of possible  32.3
+
 The first record studied comes in October, 1910. The following year,
 October, 1911, to October, 1912, records are a little over one and one-half times
 as full as in the years before and after. From May, 1913, through February 1914,
 physical examinations are less full than they have ever been before.*
 * At the present time physical examinations are still less oomplcte, becauso the mental grade
 of the cases is higher and the mental examination is crowding out the physical examination.
-CLINICAL REPORTS. 13
 The Physical Examination contains twenty-five points which were selected
 because they appear on the Physical Examination blank which has been used
 freely in record making.
+
 In three of the forty cases tabulated no physical examination has been made.
 In six either no examination has been made or there is simply a record of a blood
 test. Under the heading "anthropometric measurements" records have been
@@ -525,7 +547,9 @@ marked as giving positive information which gave even one measure, such as
 weight; although the general caption would include height, weight, chest girth,
 and head girth. The points most commonly noted in the physical examination
 are one or more of the anthropometric measurements, the hair, and the eyes.
+
 C. MENTAL TESTS.
+
 In tabulating this portion of the records, only those tests were included which
 were recorded in at least two of the cases. There were thirty-three of these tests
 if we include in that number the Binet tests as one, and general observations as
@@ -564,8 +588,8 @@ Sixty words in minute (Binet-Simon)  2
 Give value of stamps ( " )  2
 Name days of week, months of year, give date, etc  2
 Tell time  2
+
 Design blocks  2 224
-14 THE PSYCHOLOGICAL CLINIC.
 Although there are records of 224 tests having been given to the forty children, this does not mean that each child was given five or six tests. An analysis
 of the data shows that they do not cluster around any central tendency. When
 the cases are listed in the order of the number of tests given, it is found that at one
@@ -573,6 +597,7 @@ extreme are six cases where no formal mental tests were given, while at the othe
 extreme there is one child who was given twenty separate tests. The frequency
 distribution of the number of children receiving each specified number of tests is
 as follows:
+
 No. of teats. Cases.
 0 6
 1 5
@@ -591,16 +616,19 @@ No. of teats. Cases.
 17 1
 20 1
 224 40
+
 Since it would be unfair to assume that in these cases a truly complete record
 would be one showing that the child had been given every test, it is impossible
 to make a comparison between the possible number of items of information and
 the number actually found.
+
 The record frequently shows much less than the psychologist has ascertained. Often the psychologist has in mind facts which may form an adequate
 basis for a diagnosis but if he does not dictate these facts to the recorder and
 if the recorder is not aware of them herself, no evidence appears in the record
 which would seem to justify the diagnosis given. Often tests are used and no
 record made?for example, the pegging board is frequently employed as a test,
 yet only once in the cases examined is it mentioned.
+
 It would seem necessary for clinicians to consider this question of recording
 at some length, in order to decide what should invariably be dictated by the
 examiner, and what should be left to the discretion of the recorder. If no such
@@ -610,8 +638,8 @@ to act as an assistant clinical psychologist, making judgment as to the child's
 responses, or else she will be guilty of omitting from the records information
 of importance which would be desirable at a later time if the accuracy of the
 diagnosis were called into question.
+
 Only those mental teste were considered which were noted in at least two of
-CLINICAL RECORDS. 15
 the cases examined. Had every test given once been included there would have
 been a total of forty instead of the thirty-three headings.
 Diagnosis.
@@ -619,26 +647,33 @@ Six of the cases were undiagnosed. Four had a diagnosis given which was
 not a diagnosis; for example?"speech" is not properly a statement of mental
 grade, but has been used several times as a diagnosis.*
 Section 13, Binet Test.
+
 The Binet test ranges next to the form board in popularity, since it is used
 in nearly one-half of the cases. In general, definite statements are given as to
 the mental age, and not infrequently one or more quotations are included. Where
 quotations are given they are usually entered upon the scoring sheet. In only
 three cases has the Binet test been given by the same person who conducted the
 rest of the mental examination.
+
 Section 14, General Observation.
+
 Sections 14 and 15 have been placed first among the mental tests, because
 they are essentially different in character from the others. Section 14 is the
 record of statements made by the psychologist of conditions under which the
 examination was made, or of the child's reactions and general attitude during the
 test. Where such statements have been given, they are generally specific in
 nature. In twenty-six of the forty cases they have been omitted altogether.
+
 Section 15, Attempt to Teach.
+
 There are very few records of any attempt having been made to teach the
 child during the examination. It is not improbable that such efforts have been
 made, but that they have been recorded in such a way as to indicate the child's
 fund of knowledge rather than his ability to learn. In only two of the cases
-examined has any attempt to teach been recorded as such.f
+examined has any attempt to teach been recorded as such.
+
 Section 16, Form Board.
+
 The form board is the most popular of all mental tests. It occurs in fifty
 per cent of the cases. In one-half of the trials the time is recorded, and in onehalf a specific statement as to the child's performance is given.
 Section 17, Mental Tests with Samples or Quotations.
@@ -654,21 +689,25 @@ recorded at great length. In fact I consider the psychological diagnosis as dist
 the "diagnosis of classification" incomplete without the results of an "attempt to teach." It
 happens that the selection of the forty cases provided only a few of those in which an attempt
 to teach was possible or worth while,?L. W.
-16 THE PSYCHOLOGICAL CLINIC.
 he has not been given the regular Binet tests, and for this reason "copy" was
 made a separate heading.
+
 Of 361 entries under Section 17 eleven per cent consist of samples or quotations without comment; three per cent of samples or quotations with comment.
 Section 18, Other Mental Tests.
 One of the most popular tests, occurring in fifteen cases, is that for color naming and discrimination, the only test under Section 18 which is used in more than
 one-fourth of the cases.
+
 Pedagogical Tests.
+
 Sections 17 and 18 contain together several headings which may properly be
 grouped under the title "pedagogical tests." Here we find arithmetic and writing
 are tested in between one-fourth and one-half of the cases, and spelling and reading
 in less than one-fourth. Arithmetic ranks next to the Binet test in popularity.
 It is recorded in seventeen of the records examined. Writing is recorded in fifteen
 cases; reading in nine cases; and spelling in eight cases.
+
 GENERAL SUMMARY.
+
 As stated at the outset, the object of this analysis was to discover through
 an intensive study of a small number of cases chosen by random selection, what
 information is secured about each case and how it is recorded. It was an endeavor
@@ -678,6 +717,7 @@ study has yielded only moderately definite answers to the questions, for the
 reason that it has brought to light a great variability in the amount and kind of
 information recorded, and but slight consensus of practice in the manner of
 making the records.
+
 In the portion of the records devoted to general information, it is found that
 among sixty-one items the number of answers recorded in the forty cases ranges
 from forty down to three. The average number is nineteen; and the total number
@@ -686,6 +726,7 @@ recorded for every child. The records are scattered over the past three and one
 half years, and the study shows that the number of items of information in the
 general examination was nearly as large at the beginning of the period as at the
 latter end.
+
 The results of physical examinations are recorded under twenty-five heads,
 and if they were noted in every case there would be forty entries under each head
 to cover the forty cases. In point of fact the number of answers ranges from
@@ -700,9 +741,9 @@ number of tests per child was between five and six, but an individual tabulation
 shows no tests at all recorded in six cases, while in one case there are records of
 twenty tests having been given to one child. The other cases are scattered
 between these two extremes. The number of mental tests given appears to have
-CLINICAL RECORDS. 17
 increased during the early part of the period studied, and subsequently remained
 nearly stationary.
+
 One of the reasons for undertaking this study of 1000 clinical records was to
 secure a list of questions and tests upon which clinicians were so generally agreed,
 that it might be used as a minimum standard for all examinations. It seemed that

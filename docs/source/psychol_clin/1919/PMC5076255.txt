@@ -1,9 +1,10 @@
 Effects of Smoking on Mental and Motor Efficiency? Conclusion
 ==============================================================
 
-By Oscar J. Johnson,
+:Author:  Oscar J. Johnson,
 University of Minnesota.
 Experiment II.
+
 It has been mentioned before that the method in this experiment was to have the four subjects practice the tests until they ceased
 to improve and then to have them smoke in order to observe the results. These smoking tests were held the evening of Friday or
 Saturday of each week for four weeks. Each subject usually took
@@ -14,6 +15,7 @@ They were also gone through twice the next morning, but in no case
 were any measureable effects found. In fact, from three to four hours
 after smoking the performances were so nearly normal again that the
 deviations might well have been accidental.
+
 Tests Used: 1. Aiming: Steadiness of Motor Control; 2.
 Tapping Test; 3. Color Naming Test; 4. Addition Test; 5. Steadiness Test.
 The materials used in tests 1 and 5 consisted of the brass plate
@@ -29,10 +31,11 @@ for lack of space. This one shows the immediate effect of smoking
 on the various functions, and the disturbances are quite large as
 compared with the average of three performances one hour between.
 Aiming: Steadiness of Motor Control.
+
 From table I it will be seen that in the four smoking tests there
 were 321.2 per cent, more contacts after smoking than before for
 230
-EFFECTS OF SMOKING ON EFFICIENCY. 231
+
 subject I., when the average of three tests was used as the measure.
 The increase for K was 13.1 per cent.; for R, 22C.5 per cent., and for
 J., 68.4 per cent. That is to say, that for every contact before smoking there were 1.48 after smoking. By glancing at table VI, it will
@@ -41,7 +44,9 @@ per cent, for I.; 72.9 per cent, for K; 533.3 per cent, for R; and
 130.4 per cent for J., making an average of 342.5 per cent. This
 means 3.42 contacts immediately after smoking to every one when not
 under the influence of tobacco.
+
 Tapping Test.
+
 Here an increase in number of taps means improvement. On
 an average for the four smoking series, only R increased his performance, and this by 1.4 per cent only; I dropped 3.5 per cent;
 K, 4.9 per cent; and J, 7 per cent, thus making an average drop of
@@ -52,7 +57,10 @@ This is due to the low mark made by J here which is 2.1 per cent
 compared with 7.7 per cent in the other case. The effects of smoking
 are clear and consistent for almost every test, although not so large
 as in aiming.
+
 Color Naming.
+--------------
+
 Table II shows that it took K 4.2 per cent longer to name 100
 colors after smoking than before; R 2.4 per cent longer and J 0.3
 per cent, shorter, making the average time of three tests an hour
@@ -60,7 +68,10 @@ between after smoking 2.1 per cent longer than before smoking.
 Table VI shows that the average for the three subjects in the test
 immediately after smoking is 11.5 per cent longer than before smoking, subjects R and J having their times increased 14.7 per cent, and
 14.2 per cent, respectively, while K's is only 6.1 per cent, longer.
+
 Addition Test:
+---------------
+
 Here we have rather unexpected results in that the time to add
 is shortened considerably in most instances. This is especially true
 of R who found that smoking stimulated both his efficiency and
@@ -71,8 +82,10 @@ will be seen in table VI that his time in the test immediately after
 smoking is 7.4 per cent longer than before smoking, while in table IV,
 including two subsequent tests, the time is 1.0 per cent less. R's
 results are consistent in the two cases.
-232 THE PSYCHOLOGICAL CLINIC.
+
 Steadiness Test.
+------------------
+
 This test is especially adapted to show slight tremors of the
 hand and arm muscles, and we find that smoking increases them
 very decidedly. Table V shows that the increases in number of
@@ -83,12 +96,14 @@ unable to take more than one smoking series. The average increase
 in contacts for all four subjects in the three tests after smoking is
 25.1 per cent, as compared with 192.2 per cent in the test immediately following smoking. The individual scores are given in the last
 column of table VI.
+
 It will be noted that in experiment II no attempt has been made
 to measure the number of errors. The only account taken of them was
 to have the subject stop and correct himself whenever he made any.
 The only data gathered are those of the time taken to a-definite
 amount of work, or of the amount of work done within a specified
 time.
+
 The results prove that the effects of smoking are very detrimental to muscular control and also to the purely mental processes
 studied. This confirms the results of experiment I. There are some
 individual differences, as with subject R in addition and K in aiming,
@@ -97,10 +112,12 @@ on other grounds which are so purely hypothetical as not to be dealt
 with here. In a larger number of tests, it would probably be found
 that the ones showing a positive aid from smoking would be so small
 as not to be of any especial significance.
+
 The following table is a summary of the main results. It shows
 the effect on performance immediately after smoking and two
 hours after smoking for all subjects for all tests in experiment II.
 The figures are averages.
+
 Per Cent decrease in
 Performance.
 Rioht After
@@ -123,12 +140,13 @@ After.
 5.3%
 6.4%
 5.1%
-EFFECTS OF SMOKING ON EFFICIENCY. 233
+
 Experiment II.?Table I.
 Aiming Test.
 Numbers are averages of three performances before and three after
 smoking for each smoking test, the tests after smoking being given at intervals
 of one hour.
+
 Subjects
 First
 Smoking Tost
@@ -193,11 +211,14 @@ iilTercncc between
 10S.
 205.0
 148.8
+
 Explanation.
+
 1. Under 1 are given the average number of contacts in three trials before smoking.
 2. ? Under 2 arc given the average number of contacts in three trials after smoking.
 3. Under 3 are given the difference in per cents between 1 and 2. Increase in number of contacts
 means decrease in performance.
+
 Experiment II.?Table II.
 Tapping Test.
 Showing averages of three performances before and three after smoking
@@ -267,12 +288,14 @@ Differ
 1.4
 -7.7
 -3.7
+
 Explanation.
+
 1. Under 1 arc given the verage number of taps in three trials before smoking.
 2. Under 2 are given the average number of taps in three trials after smoking.
 3. Under 3 arc given the difference in per cents between 1 and 2. Increase in number of taps means
 improvement in performance.
-234 THE PSYCHOLOGICAL CLINIC.
+
 Experiment II.?Table III.
 Color Naming Test.
 Showing averages of three performances before and three after smoking
@@ -323,11 +346,13 @@ and 1
 4.3
 -1.3
 2.1
+
 Explanation.
 1. Under 1 are given the average length of time for three trials in naming 100 colors before smoking.
 2. Under 2 are given the average length of time for three trials in naming 100 colors after smoking
 3. Under 3 are given the diffcrcnccs in per cents between 1 and 2. Longer time under 2 indicates
 poorer performance after smoking.
+
 Experiment II.?Table IV.
 Addition Test.
 Showing averages of three performances before and three after smoking
@@ -384,12 +409,14 @@ difference between
 -7.9
 -2.7
 -2.4
+
 Explanation.
+
 1. Under 1 are given the average length of time of three trials at adding before smoking.
 2. Under 2 are given the average length of time of three trials at adding after smoking.
 3. Under 3 are given the differences in per cents between 1 and 2. Longer time under 2 indicates
 poorer performance after smoking.
-EFFECTS OF SMOKING ON EFFICIENCY. 235
+
 Experiment II.?Table V.
 Steadiness Test.
 Showing the averages of three performances before and three after smoking
@@ -456,17 +483,22 @@ difference between
 30.9
 72.8
 25.1
+
 Explanation.
+
 1. Under 1 are given the average number of contacts for three series of two trials each before smoking.
 2. Under 2 are given the average number of contacts for three series of two trials each after smoking.
 3. Under 3 are given the differences in per cent between 1 and 2. A larger number of contacts under
 2 indicates poorer performance after smoking.
+
 Experiment II.?Table VI.
+
 This table is condensation of five tables made up in the same manner as
 I, II, III, IV, and V, except that instead of giving the averages of three performances before and of three after smoking, they represent the averages of three
 performances before smoking, but give the results of the first series of tests immediately after smoking, thus showing the most pronounced effects possible in
 this experiment. Only the columns "Average of Differences" from each of the
 other tables is given here.
+
 Aiming Test
 Tapping Test
 Color Naming

@@ -1,8 +1,9 @@
 The Etiology of Mongolism
 ==========================
 
-Leslie Ray Marston, M.A.
+:Author: Leslie Ray Marston, M.A.
 Greenville College, Greenville, Illinois
+
 Few types of mental deficiency are more interesting than the
 Mongolian, thus designated because of its striking resemblance to
 the ethnic type whose name it bears?a resemblance due largely to
@@ -11,6 +12,7 @@ of the Mongolian imbecile. While the Chinese physiognomy, totogether with other 
 mental traits, contributes to the interest in the type, no aspect of
 Mongolism is more interesting than its etiology, concerning which
 little is definitely known.
+
 Down seems to have been the first to describe the type, 1886.1
 He ascribed to tuberculosis the cause of Mongolism. Tredgold2
 frequently discovered a tubercular taint in the histories of the cases he
@@ -19,15 +21,18 @@ important factor in producing Mongolism, but later discredited this
 explanation, since tubercular heredity is quite characteristic of all
 types of imbeciles. Barr4 found a phthisical history in all but one
 fourth of the cases he observed.
+
 Goddard5 cites four cases involving possible alcoholic heredity,
 but the evidence is far from adequate to establish alcoholism as the
 causative factor.
+
 Tredgold6 notes that in nearly all cases neuropathic heredity
 can be traced. Shuttleworth7 attaches significance to neurotic tendencies in families in which Mongolism appears, and estimates that
 a neurotic taint is present in fifty per cent of cases. Goddard, however, while admitting that nervous disturbances are often found in
 such families, fails to find evidence warranting the conclusion that
 neuropathic heredity is peculiarly accountable for the occurrence of
 the condition.
+
 Congenital syphilis has been advanced by some as the prime
 etiological factor. Sutherland is cited by Tredgold as having favored
 this explanation. Out of twenty-five cases he found eleven which he
@@ -39,7 +44,6 @@ Mongolian Imbecility," Jr. Amer. Med. Assoc., Vol. 68, No. 10, March 10, 1917.
 6 Goddard, Feeble-mindedness, p. 454.
 6 Tredgold, Mental Deficiency.
 7 Shuttleworth, "Mongolian Imbecility," Brit. Med. Jr., 1911, Vol. 2.
-136 TEE PSYCEOLOGICAL CLINIC
 wise inclines to this view, basing his argument upon the results of
 modern tests for syphilis,8 but McClelland and Ruh9 carefully
 studied thirteen Mongolians and obtained no positive Wasserman
@@ -50,6 +54,7 @@ of the disease among twenty cases.10 Shuttleworth and Potts11 tell
 of eight cases given the Wasserman Test, not one of which yielded
 a positive reaction. Hjorth, in a study of twenty-one cases, found
 no evidence whatever of syphilis.12
+
 The confusion at this point may be due to faulty technique in
 diagnosing syphilis, or to error in diagnosing Mongolism. Cases of
 congenital syphilis, we are told, sometimes closely resemble Mongolian imbeciles both in physical features and in mental traits. According to Pardee,13 a positive Wasserman in a case of Mongolism seems
@@ -58,6 +63,7 @@ Mongolians fail to reveal the characteristic pathological marks of
 syphilis. Goddard's experience discredits the congenital syphilis
 explanation, and he suggests that were syphilis the cause, Mongolism
 would be far more prevalent than it is.14
+
 Since Mongolism resembles in some respects the condition known
 as Cretinism, which is due to mal-functioning of the thyroid, a similar
 glandular disturbance suggests itself as the cause of the former, but,
@@ -68,6 +74,7 @@ conducted at Vineland and reported by Goddard, in which Mongolians were subjecte
 failed to produce significant results. On the other hand, thyroid
 treatment of Cretinism is attended by phenomenal physical and
 mental improvement.
+
 8 Stevens, in Jr. Amer. Med. Assoc., May 15, 1915; April 29, 1916.
 # "Syphilis as an Etiologic Factor in Mongolian Imbecility," Jr. Amer. Med.
 Assoc., March 10, 1817.
@@ -79,7 +86,7 @@ Amer. Med. Assoc., vol. 74, Jan. 10, 1920.
 14 In Jr. Amer. Med. Assoc., vol. 68, p. 1057, April 7, 1917.
 16 The Research Department. Publications of Vineland Training School, No. 1,
 May 1914.
-ETIOLOGY OF MONGOLISM 137
+
 An interesting fact, and one suggestive of a partial explanation of
 Mongolism, is the relatively high incidence of the defect among the
 younger children of large families?a fact mentioned by numerous
@@ -119,7 +126,7 @@ occiput, and other traits of Mongolism being likewise characteristic
 17 Goddard, Feeble-mindedness, p. 451.
 18 In Kelynack's Defective Children, Chap. 3.
 19 Ibid.
-138 THE PSYCHOLOGICAL CLINIC
+
 of the foetus. Shuttleworth20 in his second edition (1900) calls
 Mongolians "unfinished" children. In his fourth edition (1916), he
 refers to his earlier characterization of the type and adds: Dr.
@@ -128,6 +135,7 @@ of the term "ill-finished," pointing out that, although something goes
 wrong in their growth in very early intra-uterine life, probably in
 their second month, yet their later development goes on continuously,
 though badly.
+
 Goddard notes that Mongolians are strikingly similar in their
 mental development, usually attaining a mental level of four or five
 years, very rarely exceeding seven or falling below four. This fact,
@@ -157,7 +165,7 @@ have been grouped into periods of mother-age for purposes of comparison with the
 21 Feeble-mindedness; p. 453. See also Jelliffe and White: Modem Treatment
 of Nervous and Mental Diseases, Chap. 4.
 22 Goddard, Feeble-mindedness, p. 420.
-ETIOLOGY OF MONGOLISM 139
+
 Table I
 Age of
 Mother
@@ -247,10 +255,12 @@ Born
 1
 1
 1
+
 eastern city,23 and with the mother-ages of 143 births of all types of
 feeble-mindedness excluding Mongolians, selected at random from
 the inmates of Lincoln State School, Lincoln, 111. Table II gives the
 distributions and percentages in each five-year period.
+
 Table II
 19 and
 younger
@@ -308,6 +318,7 @@ No.
 24.1
 109
 36,9
+
 The accompanying chart is a graphic representation of the facts
 exhibited in Table II. Note the close correlation between the motherages of "all-births" and "defectives," and with these contrast the
 tendency of Mongolians to be born at the higher mother-ages.
@@ -321,7 +332,7 @@ Another striking feature of Mongolism is its higher incidence
 23 Data from Infant Mortality?Results of a Field Study in Brockton, Mass.
 Mary V. Dampsey, U. S. Dept. of Labor, Children's Bureau, Infant Mortality
 Series No. 8.
-140 THE PSYCHOLOGICAL CLINIC
+
 among better families. Goddard, in a study of the classes for defective
 children in the New York City schools, found by far the greater
 number of Mongolians in those schools located in the better sections
@@ -334,14 +345,17 @@ Mongolian brothers.25 Shuttleworth cites a case of twins, one of
 which was normal and the other a Mongolian, and another instance
 observed by Hjorth in which both twins were Mongolians.26 Other
 cases are on record, but they are relatively rare.
+
 Conclusion: The weight of evidence points to an explanation of
 Mongolism on the basis of arrested foetal development through
 uterine exhaustion due to any one of a number of factors, or a combination of factors. This study indicates that a significant factor in
 inducing this state of uterine exhaustion which results in Mongolism
 in the offspring is advanced age in the mother.
+
 Incidence of births according to mother-age, showing proportionately more
 Mongolian births than normal or unselected feeble-minded births in the latter
 ages.
+
 24 Goddard, Feeble-mindedness, pp. 450 and 453.
 25 "Two Cases of Mongolian Idiocy in the Same Family," Jr. Amer. Med.
 Assoc., Vol. 74, Jan. 10, 1920.

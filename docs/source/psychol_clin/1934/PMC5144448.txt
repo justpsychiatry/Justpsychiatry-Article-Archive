@@ -1,7 +1,8 @@
 Predicting Musical Progress? A Technique for Guidance
 =======================================================
 
-By Hazel M. Stanton
+:Author:  Hazel M. Stanton
+
 Director, Musical Talent Service, Psychological Service Center of New York
 During a period of twelve years in a university music school,
 the writer studied the achievement of some thousand or more high
@@ -14,6 +15,7 @@ them aspired to be no less than concert artists. To accomplish
 the four-year program leading to a bachelor of music degree was
 a difficult task for many of them even when curricular standards
 were low and poorly integrated.
+
 Later in the development of this music school the curricular
 organization was greatly improved and it was possible for the first
 time to study the achievement of these students on a long time
@@ -27,15 +29,15 @@ successfully meet the requirements of a broad musical education.
 This prediction the writer attempted eight years ago and as a result
 the cumulative key for the prognosis of musical achievement1 is
 now organized, validated and ready to be used.
+
 This article will consider, first, the main points of the development of the cumulative key, and second, the various angles from
 which the key has been validated.
+
 Developing the Cumulative Key. The entrance program for
 music degree students included seven tests?six musical capacity
 tests and a comprehension test?also a questionnaire covering such
 1 See No. 6 in the Bibliography of articles by the writer at the end of
 this article.
-270
-PREDICTING MUSICAL PROGRESS 271
 usical factors as training, education, environment, expression,
 interests, et cetera. From the tests each student was given a letter
 classification for his musical talent profile of six Seashore Measures
@@ -45,6 +47,7 @@ each student a test combination of two letters such as A, A or B,
 C-f- or C?, A, et cetera, as you observe in the Cumulative Key,
 Table 1. The first letter refers to the musical talent profile and the
 second refers to the comprehension test.
+
 Table 1
 Cumulative Key for the Prognosis of Musical Achievement
 N = 978
@@ -73,6 +76,7 @@ A, A
 A, B
 A, C+
 B, A
+
 The five-fold classification of Safe, Probable, Possible, Doubtful
 and Discouraged was derived in this way. The ratings, marks
 and test scores received by several hundred music degree students
@@ -87,8 +91,8 @@ the C?, C+ under Discouraged, et cetera. This key has been
 stabilized with approximately a thousand entering music degree
 students who have been classified each successive year on the basis
 of first semester achievement.
+
 Validating the Cumulative Key. Now the question is, to what
-272 THE PSYCHOLOGICAL CLINIC
 extent does the key actually differentiate the groups as predicted?
 This question is answered for several groups of university music
 degree students from eight points of view, viz., the annual academic survivors; dismissals; scholarships and honors; participation in student recitals; ratio of hours to points earned for credit;
@@ -99,8 +103,10 @@ These eight points of view are considered for one entering class of
 (Doubtful-Discouraged, combined) were studied, a total of 83
 Safe and 90 D.D. students; and for four successive entering classes,
 total 565 students.
+
 Considering the five differential groups in the class of 164
 students, we see in Table 2, first, that the annual academic survivors decrease, of course, for each of the five groups but the
+
 Table 2
 Validation of the Cumulative Key for Predicting Musical Progress
 Validation Factors
@@ -181,18 +187,20 @@ Graduates in Each Group
 34.4
 14.8
 60.0
-PREDICTING MUSICAL PROGRESS 273
+
 percentages of decrease are much greater for the Discouraged than
 for the Safe group. In the fourth or last year none of the Discouraged group remained while 54 per cent of the Safe group remained. Second, over a three-year period 64 per cent of the Discouraged group had been dismissed as compared with less than 4
 per cent of the Safe group. Third, none of the lowest group received scholarships or honors, but 43 per cent of the highest group
 held scholarships or received honors. Fourth, the percentages of
 students appearing in student recitals increased steadily from the
 lowest to the highest group.
+
 Turning now to the 83 Safe students and the 90 D.D. students
 from three entering classes, we find a similar picture for each of
 the validation factors as shown in Table 3. A significant contrast
 is seen between the two extreme groups in all the items mentioned
 Table 3
+
 Validation of the Cumulative Key for Predicting Musical Progress
 Validation
 Factors _
@@ -297,13 +305,14 @@ A (96)
 A (94)
 A (95)
 60.0
-274 THE PSYCHOLOGICAL CLINIC
+
 in Table 2 and in the additional items of ratio of hours to points,
 individual talent profiles and range of median scores in each of the
 seven tests. The Safe group is not only the highest in all these
 validation points of view and the D.D. group the lowest, but each
 of the five differential groups fall in line in proportion to their
 differentiation.
+
 Finally, graduation data tell a story no less significant, especially in the light of the fact that one waited eight years for this
 information since it took that time for four successive entering
 classes of 565 students, to complete the courses necessary for
@@ -317,6 +326,7 @@ the class of highest talent, 57 per cent of its students were graduated in four 
 highest talent began in 1928, so that it carried through three years
 of the depression with this highest per cent of graduation of all
 four classes.
+
 For four successive classes combined of 565 students of which
 125 are Safe students, 143 Probable, 195 Possible, 73 Doubtful,
 and 29 Discouraged, it was found that 60 per cent of the Safe
@@ -339,11 +349,13 @@ lowest groups are poor risks for a music degree, for themselves as
 well as for the music schools; they should know these facts and
 not be deceived. For many of them music should be only an
 avocation.
+
 It is to help remedy this situation that the cumulative key has
 been developed. When a student knows his own classification he
 has a definite psychological aid to help him decide his future concentration in music. Such knowledge can serve in preventing the
 disappointment of failure and at the same time stimulate the
 talented.
+
 This cumulative key stabilized from about a thousand students
 and validated from some seven or eight points of view for various
 classes, single and combined, over an eight year period, is now
@@ -371,7 +383,6 @@ adults repeated after music education. Univ. Iowa Stud., Ser. Aims
 Prog. Res., 1930, No. 31. Pp. 18.
 9. Research in music: looking forward thirty years. Univ. Iowa Stud. Ser
 Aims Prog. Bes., 1931, No. 33, 136-138.
-276 TEE PSYCHOLOGICAL CLINIC
 10. (In collaboration with Koerth, Wilhelmine) Musical capacity measures of
 children repeated after musical training. Univ. Iowa Stud., Ser. Aims
 Prog. Res., 1933, No. 42. Pp. 48.

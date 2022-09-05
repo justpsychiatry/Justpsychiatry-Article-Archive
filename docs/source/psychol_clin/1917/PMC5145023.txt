@@ -1,8 +1,9 @@
 The Psychology of Special Abilities and Disabilities
 =====================================================
 
-By Augusta F. Bronner,
+:Author:  Augusta F. Bronner,
 Fh.D. Boston: Little, Brown and Co., 1917. Pp. viii ?+? ^t>y.
+
 Dr Bronner opens her preface with an amazing statement. She says*
 nowhere else have special defects been outlined and nowhere can one find even
 enumeration of the types of variation that are practically important." Leaving
@@ -17,6 +18,7 @@ concerned with are those that arise because of lack of recognition of special
 abilities and special disabilities?problems even outlined, so far as we know,
 only by Healy," we-find ourselves again in the presence of the serious limitations
 of the work.
+
 The chapter on differential diagnosis is particularly weak. Take for example
 a loose statement like this: "She had been tested in several other laboratories,
 in one of which she was diagnosed as feebleminded, a diagnosis made, no doubt,
@@ -29,6 +31,7 @@ a statement which is more than loose, when she says, "Aphasia, alexia,
 agraphia, word-deafness, and other such disturbances are, as defined by neurologists, always due to brain lesion and not to innate defect; they involve loss
 or impairment of power that once existed." Such a misstatement can only rest
 upon an insufficient acquaintance with the authorities.
+
 Understanding Dr Bronner's attitude toward the many workers who have
 preceded her in her chosen field, we shall not wonder at the absence of a bibliography in her volume. Her forty-six case histories are well presented, especially
 as regards the enumeration of formal tests. Nevertheless they are not subjected

@@ -1,14 +1,15 @@
 Children Tested by the Point Scale and the Performance Scale
 ============================================================
 
-By Rudolph Pintner, Ph.D., and Jeannette C, Reamer.,
+:Author:  Rudolph Pintner, Ph.D., and Jeannette C, Reamer.,
 Ohio State University, Columbus, Ohio.
-1/
+
 The present study is a comparison between ratings of the same
 children on the Yerkes-Bridges Point Scale1 and the PintnerPaterson Performance Scale.3 Since the authors of the latter scale
 suggest four possible ways of computing mental age, a comparison
 of the ratings on the Performance Scale by these four methods is
 made.
+
 This study therefore raises two distinct problems. The one,
 rather technioal in its nature, is as to the best method, out of four
 possible methods, of computing mental age on the Pintner-Paterson
@@ -33,19 +34,22 @@ individual? More specifically, will the mentality of the individual
 be best measured by a scale of performance tests, or by a mixed scale
 of performance and language tests, or by a scale of language tests
 alone?
+
 1 Yerkea, R. G., Bridges, J. W., and Hardwick, R. S. A Point Scale for Measuring Mental Ability. Baltimore:
 Warwick and York, 1915.
 ' Pintner, R., and Paterson, D. G. A Scale of Performance Testa. New York: Appleton and Co., 1917.
-(142)
-POINT AND PERFORMANCE SCALE TESTS. 143
+
 These are the questions involved in the comparison of the
 Yerkes-Bridges with the Performance Scale. A complete answer to
 all of them is impossible, but some light may be thrown upon them
 as a result of this study.
+
 The Subjects.
+
 The children used for this work were ninety-seven inmates of a
 County Children's Home, including all from the first grade through
 the eighth grade.
+
 On the whole the intelligence of this group is somewhat lower
 than the general level of a public school. However, as we are not
 concerned with the intelligence of the child but rather with the
@@ -54,12 +58,15 @@ average intelligence can make no difference in the results of this work.
 Another group includes twenty-six subjects from the first
 grades of a public school in a very poor district of the city. The
 children range from five to twelve years of age.
+
 The remainder of the total number is made up of fifty-five
 miscellaneous cases examined at the University Psychological Clinic.
 In this group the range is from five years to nineteen.
 The total number of children tested is one hundred and
 seventy-eight.
+
 Scoring.
+
 The total credits on the Point Scale were counted according to
 the standard method. The mental age derived from the total credits
 was computed from the table of age norms first published by the
@@ -68,7 +75,9 @@ On the Performance Scale the responses were evaluated according
 to the four possible methods suggested by the authors, and intelligence quotients for the three methods, which express the results in
 dental ages, were calculated. The fourth or percentile method
 cannot be used for conversion into an intelligence quotient.
+
 Results.
+
 Tables 1 to 4 show the distribution of the total number of cases
 according to the mental age as determined by the Yerkes-Bridges
 Scale and the three methods of the Performance Scale. These
@@ -76,7 +85,6 @@ tables give interesting pictures of the range of the two scales. It
 will be noticed that the mental ages on the Yerkes-Bridges Scale
 reach up to age eighteen. The median mental age and the point
 age methods of the Performance Scale stop at age fourteen, while
-144 THE PSYCHOLOGICAL CLINIC.
 Mental Aqe.
 8 4 5 6 7
 10 11 12 13 14 15 16 17 18 Total
@@ -112,6 +120,7 @@ Mental Age.
 Total 1
 3 3 10 12 21 27 22 28 27 24
 178
+
 table 4.?distribution of cases, performance scale, tear scale method.
 The distributions according to intelligence quotients, show very
 much the same features as the mental age distributions, that is, that
@@ -120,8 +129,8 @@ Yerkes-Bridges, while the year scale method extends up to very
 much higher intelligence quotients, thus spreading the distribution
 ?f the cases out at the upper end. Conversely, the median mental
 age method masses more cases at the lower end.
+
 Graph 1 shows these different distributions. The curves are
-146 THE PSYCHOLOGICAL CLINIC.
 fairly normal considering the total number of cases. On the whole
 the point age curve follows the Yerkes-Bridges most closely. The
 median mental age method shows a curve which conforms very well
@@ -129,6 +138,7 @@ with the Yerkes-Bridges except at the lower end. The year scale
 method shows very few cases at the lower end of the distribution and
 far too many at the upper end. The cases are, furthermore, very
 scattered.
+
 Correlations
 6^(d2)
 The formula P = 1???- was used. Correlations have been
@@ -143,6 +153,7 @@ Yerkes-Bridges and Year Scale Method.
 P = .59 r-.61 P. E. = .033
 Yerkes-Bridges and Percentile Method.
 P= .41 r = .43 P. E.= .043
+
 With the exception of the percentile method, the correlations
 between the Yerkes-Bridges and the Performance Scale are all
 above .50 and the probable errors are small. The difference between
@@ -158,8 +169,9 @@ The conclusion for practical work would seem to be that where
 possible, both scales should be used. A combined rating of the
 individual's achievement on both scales might give us the best index
 of his intelligence.
-POINT AND PERFORMANCE SCALE TESTS. 147
+
 Correlations for Specific Age Groups.
+
 The groups at ages ten and eleven were used because they
 contained the largest number of subjects. The Spearman Foot
 Rule Method was used. The correlations between the ranking on
@@ -167,6 +179,7 @@ the Yerkes-Bridges Scale and the ranking on each method of the
 Performance Scale, and also between each method and every other
 method of the Performance Scale were computed. The correlations
 are as follows:
+
 Age 10. No. of cases 24R r
 Yerkes-Bridges with Median Mental Age 45 .65
 " " Point Age Method 49 .70
@@ -181,6 +194,7 @@ Yerkes-Bridges with Median Mental Age 21 .32
 Median Mental Age with Point Age Method 70 .89
 " " Year Scale Method '.69 .88
 Point Age Method with Year Scale Method 74 .92
+
 The correlations of the different methods of the Performance
 Scale with every other method are higher in all cases than the correlations of the Yerkes-Bridges and the Performance Scale. This is
 exactly what we would expect, because even with the different methods
@@ -195,20 +209,8 @@ year to year is not constant, nor would we expect it to be, but there
 is some increase all along, except at age thirteen on the Performance
 Scale and at ages fourteen and above on both scales. Our older
 children would seem to be more retarded mentally than our younger.
-The average of the differences at each age between the Yerkes148 THE PSYCHOLOGICAL CLINIC.
-y /\   Ytrkei.
-/ \ ?-  . ? TJIeJian M-A.
-/   -PoUf Set le.
-jj jl .X\
-// // v" W\\
-/ / //
-A
-\
-s
-V
-\
-\
-\
+The average of the differences at each age between the Yerkes
+
 01 ?i 1 1 1 1 1 1 1 ii?'"???<??   ^? i
 JO-if p-tf frsj -lo-lf Jc-ff go-S<j fo-ff iK-iof "c-iiy no-/if iic-iif /w-iifj /sc/sf ti-'lf i/i-Jy
 If
@@ -226,8 +228,6 @@ V
 vl  ._. )W tye.
 3 2 / arf,Ap. 6 ? g 9 ">? a ? >*? rj-'t
 Graph II.
-Graph II.
-POINT AND PERFORMANCE SCALE TESTS. 149
 Bridges and the median mental age methods shows that the YerkesBridges, on the average, ranks a child about .39 of a year higher than
 the Performance Scale.
 Chron.
@@ -354,8 +354,10 @@ Average Differences.
 +1.35
 -0.39
 -0.11
+
 table 5.?median mental age for each chronological age by each method,
 WITH AVERAGE DIFFERENCE FOR EACH.
+
 The same average difference for the Point Age Method shows
 the Yerkes-Bridges diagnosis only .17 of a year higher. The largest
 difference of all occurs with the Year Scale Method, where it is 1.35
@@ -368,12 +370,13 @@ The curves for the Yerkes-Bridges, the Median Mental Age and the
 Point Scale are on the whole rather close together, while the Year
 Scale curve is very much above the others at every age.
 Diagnosis by the Different Methods.
+
 The diagnoses shown in table 6 are made roughly from the
 tables of distribution according to intelligence quotients and so
 do not follow the usually accepted divisions. Intelligence quotients
 below .70 are supposed to denote feeblemindedness, those from
 ?70 to .89 backwardness. Subjects receiving quotients from .90 to
-150 THE PSYCHOLOGICAL CLINIC.
+
 Feebleminded
 Backward
 Normal
@@ -419,8 +422,10 @@ Totals.
 106
 37
 712
+
 TABLE 6.?TABLE OP DIAGNOSES, SHOWING DISTRIBUTION OP CASES BY EACH
 METHOD.
+
 1.09 are considered normal, from 1.10 to 1.29 bright, and from 1.30
 upward very bright.
 The median mental age method has the advantage of being a
@@ -428,8 +433,10 @@ very easy and quick way of determining a child's mental age, but it
 grades a larger percentage of the cases feebleminded and backward,
 and fewer normal, bright, or very bright, than the Yerkes-Bridges
 Scale.
+
 The year scale method goes to the other extreme. An abnormally large percentage of cases are thrown into the groups of bright
 and very bright.
+
 The correlation of the percentile method with the YerkesBridges is the lowest of the four methods and at present does not
 seem to be of much value. Possibly this is due to the comparatively
 small number of cases tested at each age. There should be several
@@ -437,11 +444,13 @@ hundred at each chronological age to give reliable norms according
 to this method. The advantage of such a distribution is that new
 cases can always be added. This addition may be accomplished at
 some future date.
+
 In table 6, showing the distribution of cases as diagnosed, it
 will be seen that, on the whole, there is less variation in the size of
 the groups diagnosed feebleminded, backward, etc., by the YerkesBridges Scale and the Point Scale Method on the Performance Scale
 than in the case of the other two methods. The difference between
 the medians for these two rankings is only .11 of a year.
+
 At present it would seem that either the Median Mental Age
 Method or the Point Age Method gives a close enough approximation
 to the Yerkes-Bridges Scale for all practical purposes, although just
@@ -449,7 +458,6 @@ where the dividing lines between different grades of intelligence are
 to be drawn, it is difficult to say. The correlations between the
 various methods of the Performance Scale and the Yerkes-Bridges
 Scale, although not extremely high, are, however, high enough to
-POINT AND PERFORMANCE SCALE TESTS. 151
 indicate that both scales are roughly grading the children in the
 same way. There is, of course, a certain amount of discrepancy and
 this indicates that the two scales are not testing the same qualities,
@@ -460,6 +468,7 @@ tests. This difference between ability on language and on performance tests has 
 strikingly in this study. It is precisely for this reason that a performance scale is required to supplement our present intelligence
 scales with their emphasis upon tests requiring language responses.
 Summary.
+
 1. A comparison between the Yerkes-Bridges Scale and the
 Pintner-Paterson Performance Scale has been made by comparing
 the records of 178 children tested on both scales.

@@ -6,7 +6,8 @@ Copyright, 1924, by Lightner Witmer, Editor
 Vol. XV, No. 8 November, 1924/
 
 An Analytical Study at the College-Adult Level
-R. A. Brotemarkle, Ph.D.
+:Author:R. A. Brotemarkle, Ph.D.
+
 Instructor in Psychology, University of Pennsylvania
 CASES
 Those tested were students at the University of Pennsylvania,
@@ -15,6 +16,7 @@ School of Finance, Summer School and Graduate School, taking the
 first year course in psychology during the sessions of 1919-20 and
 1920-21. The chronological age level of the group is adult, average
 20-21.
+
 Results of Dr Henry J. Humpstone (3) were gathered from the
 corresponding classes of previous years and are used in the Standardization of Results.
 METHOD
@@ -68,14 +70,16 @@ TREATMENT OF RESULTS
 "IS THE MEMORY SPAN SCORE ATTAINED BY
 GROUP TESTING INDICATIVE OF THE ACTUAL
 MEMORY SPAN OF THE INDIVIDUAL?"
+
 In attempting to ascertain the diagnostic value of the Memory
 Span of the individual it is not enough to assume that the score
-SOME MEMORY SPAN TEST PROBLEMS 231
 attained under any given method of testing is the actual memory span
 of the individual. The first problem of memory span testing challenges
 the accuracy of the memory span score itself.
+
 Is the memory span score attained by an individual in a group
 testing indicative of the actual memory span?
+
 This question cannot be answered by a comparison of the
 Original Group score with other Memory Span Test scores; it requires
 an analysis of the score or response given, and also an analysis of the
@@ -83,6 +87,7 @@ stimulus which prompts the given response. Is the stimulus well
 enough organized to elicit the best possible response, not only
 quantitatively but also qualitatively? Is the response given amply
 treated by a single quantitative measure or score?
+
 For clearness of definition the stimulus material must provide
 "discrete elements" of unitary content, otherwise the parts of the
 stimulus may not be equal in value. The "discrete elements used
@@ -96,6 +101,7 @@ must be avoided. In the "ideas" test, the entire foundation of
 communicative language is involved, since a letter, a sound, a word,
 a phrase, a sentence, a paragraph, a chapter, a book make possible
 the expression of varying numbers of ideas.
+
 The stimulus material must be presented to exclude variations of
 s?und, breathing and enunciation in the voco-auditory forms of
 testing, and confusional factors in the visual and kinaesthetic forms.
@@ -104,15 +110,16 @@ the comparison of original and repeated tests are impossible since
 the individuals have become accustomed to the original variant
 factor; nor are they comparable to other tests made under more
 accurate presentation.
+
 The rate of presentation is more controllable under mechanical
 ^eans, though the individual rate of discharge of nervous energy
 adds a variant factor to all vocal stimuli. In the event of a rapid
 mcrease in the rate of presentation, when the case is of a low grade
 mentality, the individual will often be able to increase his span
 Sc?re for digits by one or two measures. When the rate of presentation falls into the error of rhythmic beats a simple form of grouping of
-232 THE PSYCHOLOGICAL CLINIC
 digits is suggested to the individual, and is seldom escaped in the
 longer series of digits.
+
 The problems of the response arouse the fundamental questions
 of the basis of the memory span as an ability. Kirkpatrick (4) discusses the "tendency to repeat what has been perceived," which is
 but a teleological interpretation of the facts between the presenting
@@ -124,9 +131,11 @@ in more detail the "impulsive" or "mechanical" basis of imitation,
 and form a basis for the great psychological development of "volitional" or "reflective" imitation as outlined by Calkins (1). Upon
 any explanation of the response the elicited response does to some
 measure reveal the normal memory span of the individual.
+
 During the fall of 1921 the first year class in psychology was
 given a series of experiments in the memory span test for digits with
 the results as follows:
+
 Memory Span Test For Digits
 Maximum Median Mode Mean Minimum
 Original Group Test  12 8 8 8.18 5
@@ -139,6 +148,7 @@ Individual Visual-Vocal Test. .. 13 9 9 8.8 5
 (Experiment No. 7)
 Group Test For Backward Span. 10 8 8 7.39 4
 (Experiment No. 5)
+
 The repetition of the group test was made three months after the
 original group test, during which time the class had made a thorough
 study of the memory span test problems, and had the privilege of
@@ -151,9 +161,9 @@ for digits backward a decided spread of distribution below the modal
 tendency is evidence of the difficulty of the backward span.
 The study of the individual variations in these experiments by
 the group method points to a relatively small increase of the score in
-SOME MEMORY SPAN TEST PROBLEMS 233
 subsequent tests over the original group standing. The variations
 rom the original group standing are as follows:
+
 Variation from the Original Group Test Score
 Repetition of Individual Individual Group Test
 Group Test Voco-Auditory Visual-Vocal Digits
@@ -176,6 +186,7 @@ sPan score is from 0 to plus or minus 3, further corroborates these
 g anc*ing of low or high scores,?there being but a single variation of
 111 the low group; eight variations of 4 in the low, ten of 4 in the high,
 aild three of 4 in the median.
+
 the case of the backward span for digits it will be noted that
 ., 6 tendency of the lower score is to vary but not by more than + 2,
 ?re being but one variation of +3; the median scores varying by
@@ -189,11 +200,11 @@ any test under standard conditions. The average variation of the
 andmg of about 1 measure higher in the visual tests over the
 a, whereas the actual variations do not displace the original
 landing of the results.
+
 Is THE MEMORY SPAN DIAGNOSTIC OF SPECIFIC
 ABILITIES OR DEFECTS?
 Of what mental ability is the memory span diagnostic? Is it
 agnostic of some specific mental ability or defect; and if so, how
-234 THE PSYCHOLOGICAL CLINIC
 much are these abilities involved in the definition of memory span?
 The Table of Distribution for experiments 1, 2, 3, and 4 enable us
 to settle upon the cases for immediate study, there being a definite
@@ -202,6 +213,7 @@ scores that we find the actual case problems involved, and for that
 reason?arrived at by laboratory and clinical experience?the
 following scores are arbitrarily used to decide the cases for studyLow Memory Span Scores
 Measure Per cent of Cases
+
 Digits  4-5 3.1
 Three-Letter Words  3-4 8.4
 Syllables  10-20 4.41
@@ -215,6 +227,7 @@ The quintiles already noted in the standards for memory span
 scores for college adults are to a large degree indicated by these scores,
 the first (I) and fifth (V) quintiles of each group being to a large
 measure used for this study.
+
 In a recent study of The Competency of Fifty College Students,
 Miller (5) reports a series of mental abilities tests made during the
 same period of laboratory instruction with the same group. These
@@ -234,11 +247,12 @@ the specific mental abilities or defects. However, a very definite
 tendency is discernible in the fact that the scores are more diagnostic
 of certain groups of mental abilities or defects than others. In the
 case of the attention factors?observation, distribution of attention,
-SOME MEMORY SPAN TEST PROBLEMS 235
 description?and the reproduction factors?LaHguagability, me y?
 arithmetical proficiency?a more decided tendency o gn
 value is noted than in the discrimination factois.
+
 Definition of Memory Span
+
 Memory span then is not diagnostic of certain mental abilities
 ?r defects but is an ability itself which involves the attentiona
 in an act of immediate reproduction; it is a mental grasp a
@@ -273,33 +287,38 @@ Memory Span For Digits
 Memory Span For Three-Letter Words
 Memory Span For Syllables
 : Memory Span For Ideas
-236 THE PSYCHOLOGICAL CLINIC
 employment of other defective abilities, but not primarily dependent
 upon them.
+
 Humpstone (2) has given us a clear definition of memory span,
 involving the stimulus, mental process and response: "Memory span
 is the ability to grasp a number of discrete elements in a given moment
 of attention and reproduce the same immediately." The stimulus
 and response have been noted; it is the mental process with which we
 are here concerned.
+
 A mental process involving the field of attention in a spatial
 existence of successive events is not easily analyzed, and yet it is of
 sufficient complexity to involve any and all of the factors of the
 attentional abilities. The analytical concentration of attention, the
 persistent concentration of attention, its distribution, and its "motivated" factors of alertness and interest may readily play their
 independent or component part in the "given moment."
+
 And again, though memory span is not memory, as shown by
 Humpstone (2), it not only makes use of the attentional field in the
 first instance, but of the various imagery fields and various types and
 laws of association, at the same time relying upon its own grasping
 power to secure the material for immediate reproduction.
+
 IS THE MEMORY SPAN DIAGNOSTIC OF THE
 COMPLEXITY OF MENTAL
 ORGANIZATION?
+
 The memory span is of diagnostic value not alone because of its
 own simplicity, but also because of its use of the numerous mental
 factors of the attentional, imagal and associational fields?its use of
 mental complexity.
+
 While no test will give us a rating of the general mental organization of the individual, this intellectual standing may be readily
 subsumed under the general grades of the college courses. The various
 factors of marking and grading are not to be considered constant,
@@ -308,15 +327,16 @@ of grades much of the variance will be smoothed out. The grading
 system used at the University of Pennsylvania is a rough quintile
 system using the letter D for the upper of V quintile, G for IV,
 P for III, N for II, and F for I.
+
 Two summation grades have been chosen for comparison with
 the memory span scores or standing. First, the psychology grade
 attained in the first year course, which is the combined judgment of
 from four to seven instructors and professors, who have had the
-SOME MEMORY SPAN TEST PROBLEMS 237
 ^pportunity to analyze the individual's work from various angles;
 indivV}001^-' C0^eSe grade which is the combined standing of the
 Ua *n courses taken to date, and is the summation
 gnient of numerous teachers.
+
 fcosis h CaS? psychol?gy grades the accuracy of the diaga rati ^f?o"T memory sPan sc?res ranges from 67-93 per cent, or from
 accuvn ? ~^? a ratio of 13-1; by the high memory span scores the
 of 2-1 C^an?es from 53-64 per cent, or from a ratio of 1-1 to a ratio
@@ -327,7 +347,9 @@ ratio<of'QS^,ai1 SCOres ^ave a range from 78-90 per cent, or from a
 ratio of a ra^? ^le ^ovv memory span scores have a
 6 c i ? and the high memory span scores have a ratio of
 on the average.
+
 The Individual Cases
+
 diagn^t^8 mil?k may adduced from the group results, the real
 studv?SfC Va*Ue of memory span is to be found in the individual
 standin? lT80 pro^lems- cases indicated as of high or low
@@ -351,13 +373,14 @@ sPan sc 6 *nc^v^ual case the number in italics indicates that the
 0r low T SUppor^s diagnosis of the oi'iginal score whether high
 that th n ^?W Span scores number in bold face indicates
 6 score does not support the original score.
-238 THE PSYCHOLOGICAL CLINIC
+
 The following ratio of diagnostic value is found: The low digit
 span has a diagnostic accuracy of 7-1; the low three-letter word span
 4-1; the low syllable span 24-1; the low ideas span 13-1; the high
 digit span 2.6-1; the high three-letter word span 3.1-1; the high syllable span 2-1; the high ideas span 3.1-1. The low span scores have an
 average diagnostic accuracy of 12-1; the high span scores an average
 of 2.25-1.
+
 The low memory span is far more pronounced in its diagnostic
 accuracy than the high memory span. This is true even where an
 attempt made to explain many of the "Not Diagnostic" cases, since
@@ -368,6 +391,7 @@ the fundamental abilities at hand. Other cases, as for example, cases
 34 and 92, may be found to be weighted more accurately by othei
 scores than those under which they have been originally listed.
 Low Digit Span Cases
+
 CO
 F
 M
@@ -410,7 +434,9 @@ Spans
 30
 35
 35
+
 Remarks
+
 Three-letter word span low.
 Three-letter word span low.
 Syllable span low.
@@ -601,6 +627,7 @@ s
 10
 4
 5
+
 Remarks
 Observation and Discrimination
 defects.
@@ -855,6 +882,7 @@ Q
 30
 30
 30
+
 Remarks
 Abilities defect.
 Abilities defect: Attention.
@@ -890,7 +918,7 @@ Abilities defect: Imagation and
 discrimination.
 Imagation low.
 Abilities defect: General?.
-SOME MEMORY SPAN TEST PROBLEMS 243
+
 High Ideas Span Cases
 h
 , ? , 5
@@ -943,6 +971,7 @@ CO
 40
 40
 35
+
 Remarks
 Trainability plus.
 Observation low.
@@ -1003,6 +1032,7 @@ Q
 8
 8
 8
+
 Remarks
 Distribution of Attention low.
 Distribution of Attention low.
@@ -1015,7 +1045,6 @@ observation, and languagability.
 Not Diagnostic.
 Not Diagnostic.
 Not Diagnostic.
-244 THE PSYCHOLOGICAL CLINIC
 High 3-LErrER Word Span Cases
 ps
 H
@@ -1130,6 +1159,7 @@ Spans
 30
 30
 30
+
 Remarks
 Trainability defect.
 Attention defect.
@@ -1164,7 +1194,7 @@ Observation low.
 Committee Dropped from
 College.
 Not Diagnostic.
-SOME MEMORY SPAN TEST PROBLEMS 245
+
 ?
 H
 n
@@ -1272,7 +1302,7 @@ Not Diagnostic.
 Observation and attention
 defects.
 Not Diagnostic.
-246 THE PSYCHOLOGICAL CLINIC
+
 As in the group study we again find far greater ratios of accuracy
 for certain types of spans. In the case of psychology grades and
 college grades alike, the syllable span and the ideas span stand far
@@ -1284,6 +1314,7 @@ It is apparent that some variance may be found when we are
 considering different types of memory span scores in relation to
 mental organization, though the memory span may on the whole be
 considered diagnostic of mental complexity.
+
 IS THE MEMORY SPAN CONSTANT IN THE USE OF
 MENTAL COMPLEXITY IN THE INDIVIDUAL?
 This question suggested by the variant factors already noted is
@@ -1299,6 +1330,7 @@ the series or as much of the series as possible.
 Immediately following your reproduction of the series you will
 give an introspective account of the content of consciousness from
 the "ready" signal to the end of your reproduction.
+
 First Trial Second Trial
 Series   5316 4715
 69517382 58149372
@@ -1451,6 +1483,7 @@ of muscles." "doubtful whether
 one can give auditory attention
 without something of muscular
 tension particularly in neck muscles." "slight inhibition of breathing."
+
 TREATMENT OF RESULT
 I
 Types of Imagery Used
@@ -1485,7 +1518,7 @@ Kinesthetics  13 8
 Grouped  5 3
 Rhythm  2 2
 1
-SOME MEMORY SPAN TEST PROBLEMS 251
+
 tvD'ff^C?m^eX^y ^magery *s found in 10 of the 14 cases, usually
 Co 1 6 ^ the addition of auditory imagery; a complexity of some
 0f comitant is found in all 14 cases, usually typified by the addition
@@ -1498,6 +1531,7 @@ the an m US6 men^ complexity of the individual, that
 diffe ar?6- S^an ^oes no^ ca^ ^or the same mental complexity in
 con<J6n+ .lnc^^v^ua^s? an^ that therefore the memory span is not
 ant m any way in its use of the mental complexity.
+
 SUMMARY OF EXPERIMENTS AND CONCLUSIONS
 evid ^ diagnostic value of the memory span test is readily
 extr-6110 *n manner in which it clearly differentiates the two
@@ -1517,7 +1551,10 @@ clearj"^ ^ntellectual level of the individual being tested. This is
 relaf0IriOly sPan- Further research in this field should reveal the
 a? 1Ve. Agnostic use of the different types of memory span tests
 arymg intellectual and age levels.
-( BIBLIOGRAPHY*
+
+BIBLIOGRAPHY
+--------------
+
 *(2) ^ A First Book in Psychology. New York: Macmillan Co. 1912.
 ^ ttpstone, H. J. Some Aspects of the Memory Span Test, A Study in
 pi,S]C^, Experimental Studies in Psychology and Pedagogy No. 7.

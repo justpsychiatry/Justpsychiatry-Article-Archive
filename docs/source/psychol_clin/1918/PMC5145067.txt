@@ -5,9 +5,10 @@ The Psychological Clinic
 Copyright, 1918, by Lightner Witmer, Editor.
 Vol. XI. No. 8
 January 15, 1918
-By Adam Perry Kephart, A.M.,
+:Author:  Adam Perry Kephart, A.M.,
 University of Pennsylvania.
 Introduction.
+
 In 1915-16 H. H. Young1 made the first extensive study with
 the Witmer Formboard and used the results from testing 1474
 normal boys and 1375 normal girls of all ages for a preliminary and
@@ -32,8 +33,7 @@ failure was determined arbitrarily by the fact that the trial was left
 as finished when one or more blocks were left unplaced or incorrectly
 placed, or that the child received some assistance, or more than the
 standard instructions as given in the method of procedure.
-(229)
-230 THE PSYCHOLOGICAL CLINIC.
+
 Method of Procedure.
 In the initial presentation of the formboard to all the children
 but case 1, the standard method of procedure of Young1 was followed
@@ -57,11 +57,13 @@ However, in very few cases were two or more children given exactly
 the same amount of instruction. The lists given below consist of
 the instruction given, from the minimum amount, up to the actual
 placing of the blocks for the child.
+
 The board was laid before the child with all the blocks correctly
 placed, and the child was allowed to see the examiner take them
 out and put them in the tray. The following steps were taken as
 needed, but only as much as needed. In case what was said or done
 did not have any effect the next step was taken.
+
 1. "Go ahead, or "All right," or "Ready."
 2. The original instructions were repeated or the examiner
 simply said, "See how quickly (or fast) you can put them back."
@@ -70,6 +72,7 @@ he was allowed to work until he gave up.
 4. If the child did not begin after the repetition of the instructions and sufficient urging and encouragement, the following procedure was followed, using only as much of it as was absolutely
 necessary, under the condition that the minimum amount of
 instruction should be given.
+
 (?) Examiner picked up block 6 and handed it to the child.
 (?) Examiner said, "Place it," or "Put it back."
 (c) If the subject tried to place the block and persisted without
@@ -95,34 +98,39 @@ them together until there was certainty in placing.
 (/) If after correctly placing one or more blocks the child refused
 to go on, he was urged by saying, "Go on, finish it," or "Put the
 rest back."
+
 (g) If he had trouble with any one block, he was allowed to
 Work as long as he would, until it could be called an actual failure.
 (h) If he failed and gave up on any block, the trial was counted
 ^ failure. The examiner then corrected all the errors and without
 comment started the next trial.
+
 (i) If on the third trial the child could not place one or more
 blocks correctly, the examiner said either, "Look at it carefully," or
 Turn it around." If this had no affect the examiner took the
 particular block and turned it and then handed it back. If it was
 not placed the examiner took the block and placed it, then handed
 it back and said, "Now you put it in."
+
 (j) If the child, on the third trial, persisted in trying to place
 the block in one place without looking around the examiner said,
 "Look all around."
+
 There are other details of teaching which were used with individual cases, and described in the case reports. The general method,
 so far as it can be made standard, was as described.
 Data Collected.
+
 As far as possible the following record was made: Name, sex,
 chronological age, school age, teacher's estimate, whether failure or
 not, diagnosis, rating on five point scale, formboard time, nationality,
 social class, physical characteristics, and qualitative statement.
-232 THE PSYCHOLOGICAL CLINIC.
 In case of failure, further clinical examination was made using
 one or more of the following tests: peg-board, color discrimination,
 design blocks, Witmer cylinders, hearing, vision, memory span,
 Healy completion test, Binet (Terman) scale, reading, writing,
 number work. The data collected from these tests was used in
 making the diagnosis and summation rating.
+
 Reports of Cases.
 As far as possible all of the cases are treated alike, especially in
 the order of presentation of the material. Case 1 is an exception to
@@ -148,6 +156,7 @@ unfortunate that neither of these can be located on Young's standardization. The
 were located thus: shortest of Young's successes, in group IV of
 years; shortest of Young's failures, from group I of 4^ years to
 group V of 8z/i years.
+
 Case 1.
 Girl. Diagnosis: Normal. Age: 13 mo. School age: 0.
 Rating: 3.5. Formboard Time: See report. Nationality: American. Social Class: Professional. Physical Characteristics: Normal.
@@ -156,7 +165,7 @@ of failures: Below all. Types of Failure: Lack of understanding and
 persistent concentration of attention. Why Selected: To determine
 how long it would take the baby to teach herself to do the formboard
 test.
-FAILURES WITH THE WITMER FORM BOARD. 233
+
 This study was made for the purpose of observing the part
 Played by the several abilities as they develop in the very young
 child. Margaret had had no experience with the formboard and
@@ -178,6 +187,7 @@ from May 30th to September 28th. After that she did not see the
 board for a full month. From November 1st to 12th, when complete
 success came, she had the board to play with as she pleased, but
 without assistance and never with other children.
+
 Test 1. May 80, 1915. Age 12 mo. 18 da.
 (?) Before showing the formboard all the blocks were placed
 in the tray. It was then put before her and the examiner said, "Put
@@ -186,9 +196,11 @@ the blocks back." This was repeated twice. She did nothing.
 "Put this one in." She took it, looked it over, and handled it as
 she would any other article, then put it in her mouth. The examiner
 insisted, "Put it in." She did not try.
+
 (c) The examiner placed the circle in its recess, handed it to
 her and said, "Margaret do it." She took the block and put it in
 her mouth.
+
 (d) Without permitting her to see what he was doing, the
 examiner placed all the blocks in their recesses with the exception of
 the circle. He then put the board before her, handed the circle to
@@ -196,15 +208,17 @@ her and said, "Margaret, put it in." She took the block but did
 nothing with it. The examiner then took it, put it in its recess and
 Pointed to it. He then took it out, handed it to her and said,
 'Margaret do it." She quickly put it in.
+
 (e) With all the blocks in their recesses the examiner took the
 circle, placed it on the board just beside the recess and pushed it in.
-234 THE PSYCHOLOGICAL CLINIC.
 He then placed it again in the same position and said, "Margaret,
 do it." She quickly did it.
+
 (/) The examiner placed all the blocks in the tray. Margaret
 picked up the circle and tried it in the diamond recess. She then lost
 interest and tried to take the examiner's pencil and paper. She threw
 the blocks around the room.
+
 The circle was chosen because it is the simplest of the forms.
 It requires less information, less coordination, than any of the rest,
 and is attractive. In (a) above there were several possibilities. She
@@ -223,6 +237,7 @@ she quickly responded. Trial (e) was not necessary but it served as
 a review of the fact that the block and the recess belonged together.
 Trial (/) showed that she had reached the limit of persistence of
 attention.
+
 The coordination of hand and eye movements is most important
 in this early feat of coordination. An occasional glance might be
 sufficient to locate and associate the block and its recess, but the
@@ -231,29 +246,36 @@ The performance shows that the command and the demonstration
 were necessary because of the small range of observation and distribution of attention. Attention is forced by the procedure but the
 period is very short. The first test did not last longer than three
 minutes.
+
 Test 2. May 81, 1915. Age 12 mo. 19 da.
 (?) With all the blocks in the trough, the board was placed
 before Margaret with the command, "Put the blocks all back."
 She pulled at the board and picked up blocks at random, but always
 picked up the circle first.
+
 (?) The examiner picked the circle from the tray, handed it to
 her and said, "Put this one in." She took it and looked at it as she
 turned it over and over.
+
 (c) The examiner then took the circle and said, "See Daddy do
 failures with THE WITMER FORMBOARD. 235
 it," and placed it. He then handed it to her and said, "Margaret
 do it." She quickly placed it.
+
 (d) With all the recesses filled except 6, the board was put
 before her. The circle was given her with the command, "Margaret
 Put it in." She did it.
+
 (e) With all the other blocks in their recesses, the circle was
 placed beside its recess and the command given, "Push it in." She
 did it.
+
 Very definite progress is seen in this second presentation. The
 amount of teaching is cut down. A decided improvement in analytic
 concentration of attention in a very elementary form is shown by the
 very certain success when the number of choices is increased.
 Test 8. June 1, 1915. Age 12 mo. 20 da.
+
 (a, c, d) Procedure and result the same as on the first two days.
 (<b) The examiner took the block from the tray (all recesses being
 empty) and handed it to her saying, "Margaret put it in." She
@@ -263,35 +285,42 @@ Here is shown another definite stage of improvement. She
 selected the proper recess from many empty ones. The simplicity of
 the task and the first attempt to place another block are to be
 floted.
+
 Test 4. June 2, 1915. Age 12 mo. 21 da.
 There was no variation from the third day except that she tried
 to put the circle in a triangular recess.
 Test 5. June 8, 1915. Age 19 mo. 22 da.
 Could not get any response.
+
 Test 6. June 4, 1915. Age 12 mo. 23 da.
 (a, b, c) Procedure and success as before. She tried to put the
 circle in the semicircular recess and in several other places, and then
 lost interest.
+
 (e) She picked up the circle and rolled it across the floor. She
 then tried to put it in the recesses for cross, triangle, and star; took
 the diamond and star, put them on the floor, and then walked away
 "with the circle.
+
 In (a) the attempt to put the circle in other recesses and in
 (b) her attention to other blocks were significant in that she was
 showing interest in other blocks and that her distribution of attention
-236 THE PSYCHOLOGICAL CLINIC.
 was increasing. The repeated success of (Jo) shows that the success
 was not accidental.
+
 Test 7. June 9, 1915. Age 12 mo. 28 da.
 (a) The examiner put all the blocks in the tray and told her to
 put them back. She picked the circle and placed it without trial
 and eiTor.
+
 (b, d) Procedure and success as before. She then took out a
 few blocks, emptied the board, and carried the semicircle away.
 This was the first time she took a block from the tray and placed
 it; it was also the first time she tried to take the blocks out of the
 recesses, showing that she had some idea of the relations.
+
 Test 8. June 14, 1915. Age ISmo. 3 da.
+
 (a) Procedure and success as on the 9th. She tried the ellipse
 in the square and circular recesses and then in its own recess.
 The other trials were omitted. On the 9th she seemed to see
@@ -306,21 +335,25 @@ Test 9. June 15, 1915. Age 13 mo. 4 da.
 She threw them down at once with the exception of the circle. She
 held it and looked at it for about five seconds and then placed it
 correctly.
+
 Test 10. June 16, 1915. Age 13 mo. 5 da.
 (a) Procedure and success as before, three times in succession.
 She tried to put the circle in the semi-circular recess but then went to
 playing and throwing the blocks about.
+
 Test 11. June 18, 1915. Age 13 mo. 7 da.
 (?) She took the circle from the tray and placed it correctly.
 (?) The examiner put the circle back in the tray with the other
 blocks, then took it out, handed it to her and said, "Put it back."
 She did it.
+
 (c) The examiner placed all the blocks in the recesses without
-failures with THE WITMER FORMBOARD. 237
 permitting her to see the operation, handed her the circle and said,
 'Put it back." She did it.
+
 (d) The examiner repeated trial (a). She played a while and
 lost interest.
+
 Test 12. June 20, 1915. Age 13 mo. 9 da.
 No apparent progress except that she took all the blocks out and
 placed them beside her on the chair.
@@ -332,17 +365,21 @@ the circle, then passed out the blocks to the examiner, one by one,
 threw them around the room and tried to put the circle in the square
 and elliptical recesses. When other blocks were handed to her she
 threw them away.
+
 Test 15. July 4, 1915. Age 13 mo. 24 da.
 No new developments. Trial (a) only was given.
 Test 16. July 10, 1915. Age 18 mo. 29 da.
+
 (a) With the board empty she took first the circle and then the
 star and placed them correctly without trial error. She then wanted
 to throw the blocks. She sat on the board, turned it over and tried
 to place the blocks on the under side.
+
 Here we see another definite acquisition. Of her own accord
 she picked the star, an attractive form, and placed it correctly.
 That she tried to place the blocks on the under side of the board
 indicates improvement in understanding.
+
 Test 17. July 15, 1915. Age 14 mo. 8 da.
 Performance of the tenth repeated exactly.
 Test 18. July 28,1915. Age 14 mo. 16 da.
@@ -351,11 +388,13 @@ it. She then tried it in other recesses, took it out and put it back
 four times in succession. She tried the star in its recess but could not
 make it go down. She then took the other blocks from the tray and
 passed them to the examiner one by one and sat on the board.
-238 THE PSYCHOLOGICAL CLINIC.
+
 Test 19. July 30, 1915. Age 14 mo. 18 da.
+
 (a) She took the circle from the tray, tried it in the semicircular
 and square recesses, then on the cross and then in its own recess.
 Test 20. August 2, 1915. Age 14 mo. 21 da.
+
 (?) She took the hexagon (10) and tried it in the diamond (11)
 recess, the semicircle (5) in the ellipse (4). She then put the ellipse
 on the hexagon and tried to put both in the diamond recess.
@@ -365,20 +404,24 @@ She placed it without error after a little fumbling.
 Test 21. August 10, 1915. Age 14 mo. 29 da.
 This test was a complete failure. She showed no inclination
 to try.
+
 Test 22. August 11,1915. Age 14 mo. 30 da.
 The examiner presented the board with all the blocks in their
 recesses. She took out all and then put the equilateral triangle (9)
 back in its recess. She then tried to put the cross in the circular
 recess and the circle in the cross recess but lost interest and quit.
 Test 23. August 13, 1915. Age 15 mo. 1 da.
+
 When all of the blocks were in the tray the examiner handed
 the circle to her and she placed it correctly. He then gave her the
 star and she put it on its recess but not down in it.
 Test 24. August 20, 1915. Age 15 mo. 8 da.
+
 With all the blocks in the tray she took the circle, placed it,
 took it out again, and tried to put the star in the circular recess. She
 then took the cross and tried it in the circular recess, and then put
 the circle back in its recess.
+
 Test 25. August 24,1915. Age 15 mo. 12 da.
 No progress or change to report.
 Test 26. August 25, 1915. Age 15 mo. 13 da.
@@ -386,10 +429,11 @@ Test 26. August 25, 1915. Age 15 mo. 13 da.
 semicircle, ellipse, cross, and star, then put it back in its own recess.
 She took the semicircle and star and put them on but not down in
 their own recesses.
-FAILURES WITH THE WITMER FORM BOARD. 239
+
 (b) With all the blocks but the star and semicircle placed, the
 examiner gave her first the star and then the semicircle saying, "Put
 this one back." She refused and ran away.
+
 In these recent tests she seemed to think that if the circle would
 fit one recess it should fit all, so she tried it around the board. This
 shows poor imageability, but increased association and understanding. On the second of August there was indication that she was
@@ -400,7 +444,9 @@ second she placed the star, and on the eleventh the triangle. She
 now reversed the association and tried the other blocks in the circular
 recess. On the thirteenth and twenty-fifth, she definitely connected
 the star and semicircle with their recesses.
+
 Test 27. September 7,1915. Age 15 mo. 26 da.
+
 "With all the blocks in the tray she took the cross, semicircle, and
 circle and tried to place them but failed. This is the first time it was
 certain that she understood when told to take the blocks out and put
@@ -411,20 +457,23 @@ told to put the blocks back she tried a few but lost interest and quit.
 Here is shown definite interest, increase in understanding,
 increase in distribution of attention, and increased persistence of
 attention.
+
 Test 28. September 17, 1915. Age 16 mo. 5 da.
 The examiner placed the board before her with all the recesses
 filled and said, "Take the blocks out and put them here" (indicating
 the tray). She put them all there except the cross and the rectangle.
 The examiner then said, "Put them back." She began picking up
 the blocks, placed the circle and cross, and quit.
+
 Test 29. September 26, 1915. Age 16 mo. 14 da.
+
 The examiner placed the board before her as on the 17th. She
 took all the blocks out and placed them in the tray. He then told
 her to put them back. She put all on the board but only the circle
 m its recess. She worked longer than at any previous test and seemed
 to like to take the blocks out and put them back on the board.
-240 THE PSYCHOLOGICAL CLINIC.
 Test 80. September 28, 1915. Age 16 mo. 16 da.
+
 With all the blocks in the tray the examiner gave her the circle
 and she placed it. He then took away the circle and gave her the
 cross. She tried to force it into the circular recess. The examiner
@@ -432,13 +481,16 @@ then put the circle in its recess and gave her the cross. She took the
 circle out and again tried to force the cross into the circular recess.
 She then took the semicircle, star, and cross and tried all in the
 circular recess.
+
 The results so far are about what would be obtained from a
 low grade imbecile on the first trial with the formboaVd. There
 is about the same amount of interest, persistence, and imageability.
 This is the first time Margaret took all the blocks out and placed them
 all back on the board. This certainly shows increase in understanding
 and in persistent concentration of attention.
+
 Test 81. November 12, 1915. Age 18 mo.
+
 During the day it was observed that Margaret had put all the
 blocks back in the correct recesses. It was known that they had
 been scattered about the room before and that no one else had replaced
@@ -453,6 +505,7 @@ the examiner, but when she made up her mind to place a block she
 did it relatively quickly. This same condition persisted throughout
 the trials which follow. A large part of the time was spent in playing.
 From this time on many unrecorded tests were made.
+
 On December 25th all were placed in three minutes, on April
 24th, after she had not seen the board for five weeks, they were all
 placed with one trial error in 110 sec. On August 10th the time was
@@ -461,10 +514,10 @@ and on January 15,1917, when she was aged 32 months, it was 35 sec.
 Since then the time has not been improved and there is no attempt
 to speed up. From the first success, most of the time was spent in
 playing between placing the blocks.
+
 Case 15.
 Girl. Diagnosis: Idio-imbecile. Formboard Time: F. 196?
 F. 436. Age: 12yrs. 4 mo. School Age: Kindergarten. Rating: 1.2.
-FAILURES WITH THE WITMER FORMBOARD. 241
 Nationality: Italian. Social Class: Poor shopkeeper. Physical
 Characteristics: Cephalic index, 79.03; head girth, 52.9. Talks
 little more than a child of two. Hard palate high; protruding canines and wide frog mouth; leering, wolfish appearance, slant eyes,
@@ -473,11 +526,13 @@ feet, small ears, and awkward, babyish gait. Very thin. Young's
 Standard: Shortest of successes: below all. Shortest of failures:
 below all. Type of Failure: Lack of understanding and persistent
 concentration of attention.
+
 Tests.
 F ormboard.
 I. Blocks were fingered in monkey fashion. After the directions
 were repeated she placed 3, 6 and 8 and put the rest on top of the
 board.
+
 II. She again put the blocks on top at random. When 1 was
 given to her she placed it over recess 2, but corrected it when the
 examiner said, "No." Nos. 2 and 4 were treated similarly. All of
@@ -519,6 +574,7 @@ II. Trial I was repeated. She tried to force large into small,
 and left small cylinders in large recesses. Occasionally she leaned
 back and laughed and hit the cylinder a hard blow. Time 452 sec.
 Binet (Terman revision).
+
 Mental age score, three years. Intelligence quotient, 24.3.
 This girl is obviously an idio-imbecile. She plays about with
 other children, is imposed upon and cries at nothing, like a two year
@@ -536,15 +592,16 @@ intelligence 1.2. This is a good illustration of the fact that control,
 coordination, and general vitality may be very low, but may not
 produce failure without lack in some other respect.
 General Analysis.
+
 It will be seen from table III that there is little, if any, relation
 between age, formboard time, diagnostic rating, and diagnosis (in
 cases of this investigation) except the direct relation between summation rating and diagnosis. Table II shows the general tendency
 for time to decrease with age for 188 subjects. A summation of all
 available cases is not possible on account of the incomplete record of
 formboard time for the failures who came to the Clinic. Table III is
-FAILURES WITH THE WITMER FORM BOARD. 243
 given to afford a short summary of these studies rather than to
 attempt to prove anything.
+
 H. H. Young had a total of 182 failures out of 3031 cases examined, or 6 per cent; 75 out of 1549 boys or 4.2 per cent, and 107 out
 of 1422 girls or 7.2 per cent. Of the 122 failures, 72 per cent occurred
 on the first trial only, 11 per cent on the first and second trials, 3 per
@@ -554,6 +611,7 @@ there was only one trial, as the strain of teaching wore the child out.
 Ten failed on the first trial only, none on the second only, none on
 the third only, six on both first and second, one on the first and third,
 and seven on all three trials.
+
 Although this investigation was not undertaken to find the
 failure level for the formboard, there are many things in the results
 which make it possible to locate that level approximately. In
@@ -575,6 +633,7 @@ majority of children over five years of age may be expected to succeed with the 
 of this investigation were selected simply emphasizes this point,
 since in spite of the selection, twice as many succeeded in the sixth
 year.
+
 Of the 1400 cases in the Psychological Clinic of the University
 of Pennsylvania who were examined with the Witmer formboard
 since it has been in use, 137 failed on one or more trials. This is
@@ -583,7 +642,7 @@ failures. Of the eighteen diagnosed as normal, sixteen were under
 five years of age. Of the one hundred diagnosed as definitely feebleniinded, 69 per cent were over five years of age. Young tested very
 few children under five years of age, the median of his failures coming
 at 6.75 years. However, 80 per cent of his failures were between
-244 THE PSYCHOLOGICAL CLINIC.
+
 Table I.?Young's Shortest Trials.
 Age
 4.25
@@ -735,7 +794,9 @@ IV
 19- 30
 19- 24
 18- 27
+
 Table II.?Young's Shortest Trials for Failures.
+
 No.
 hi
 IV
@@ -971,6 +1032,7 @@ F. B. Time
 75
 59
 436
+
 N.-Normal. D.=Doubtful. L. G.I.=Low Grade Imbecile. I. I.=Idio-imbecile. M.G.I.=Middle Grade Imbecile.
 Table IV.?Distribution According to Diagnosis. Clinic Cases.
 All
@@ -1031,6 +1093,7 @@ Table V.?Time Types of Failure.
 Diagnosis
 Complete Under 60 Sec. Over 180 Sec,
 Clinic Cases:
+
 Normal
 Deferred
 H. G. I
@@ -1058,7 +1121,6 @@ Young's. No Diagnosis.
 2
 6
 11
-246 THE PSYCHOLOGICAL CLINIC.
 the ages of four and eight. In the examination of 3037 subjects
 Young found 188 failures, or 6.2 per cent. The difference between
 this and the 10 per cent of the Clinic cases is due in part to the fact
@@ -1076,6 +1138,7 @@ age. The experience of the Clinic is that the tendency is for the
 diagnosis to go down rather than up in the cases of deferred diagnosis,
 so that the probability is that at least 75 per cent of these 19 cases
 are feebleminded, especially those over five years of age.
+
 As table IY shows, 69.1 per cent of the Clinic failures are over
 five years of age, 13.1 per cent are definitely normal, 73 per cent are
 definitely feebleminded, and 13.9 per cent doubtful, making a probability of 86.9 per cent feebleminded. Of the feebleminded 44.5 per
@@ -1098,7 +1161,6 @@ A treatment of the time results of these failures sft the Psychological Clinic i
 more than failure. Table Y shows the approximate number of
 complete failures, those who failed under one minute, and those who
 failed after working more than three minutes. ' Of course all of the
-FAILURES WITH THE WITMER FORM BOARD. 247
 137 cases could not be used in this classification. Only those where
 there is good evidence of time record and of complete failure were
 used. However, the tendencies are evident from this incomplete
@@ -1110,6 +1172,7 @@ a probability of 98 per cent. Of the failures in one minute or less
 more than 50 per cent are probably feebleminded. In the three
 minute class 27 per cent are probably normal, and 20 per cent
 definitely so.
+
 The futility of comparisons based upon the time records of
 failures with the formboard is made obvious by a consideration of the
 difficulties encountered by the different subjects. If the formboard
@@ -1126,6 +1189,7 @@ of the examiner were the same in every trial for every subject, then
 the shortest trial might be the index. But it seems as if these factors
 are equalized most nearly in the first trial and a careful study of that
 trial is most important.
+
 In every examination the subject was told to see how quickly
 tie could put the blocks back. The suggestion to hurry or do the
 test fast does not have much, if any, effect upon children under six
@@ -1141,7 +1205,6 @@ a quickening of the movements where the gain is of no advantage.
 Case 1, at the age of three years and six months, after much training
 "with the formboard, when urged to hurry, will make quick movements of the hands after the block is selected and near the recess by
 slapping it down quickly, but she loses just as much time as ever in
-248 THE PSYCHOLOGICAL CLINIC.
 picking up the blocks and finding the recesses. Her speed has
 improved through practice, but not because of any understanding
 of what it means to do the test fast. The older child gets the concept
@@ -1158,6 +1221,7 @@ studied imageability, etc., but no speed in the analytic process.
 Children who do try to hurry make slower records. Often the
 number of errors is not due to lack of ability to perceive form, but
 to blurred and incomplete perception due to rapid work.
+
 To the second part of the first instructions, "Use both hands
 if you want to," there is no response of any consequence until from
 eight to ten years of age. All of the younger subjects work with the
@@ -1168,6 +1232,7 @@ seven, or eight, uses both hands in selecting and placing the blocks,
 he has good initiative, originality, and planfulness, and that in this
 case the formboard aids in selecting an individual of more than
 average ability.
+
 Two general classes of failures are found, the normal and the
 feebleminded, but this classification can hardly be based upon the
 fact of failure or success alone. As has already been said, the
@@ -1188,6 +1253,7 @@ the kind of experience necessary to develop them. Thus the disFAILURES WITH THE 
 tinction arises as to whether a subject fails because of a congenital
 defect or because his experience has been such that his intellect is too
 small. His intelligence is affected by both.
+
 No failures are due to lack of vitality, health, control, coordination, or dexterity, although performance is qualitatively affected by
 all. If a child is poor enough in any of these abilities to fail he would
 not be submitted to any sort of test. Most failures are due to some
@@ -1224,7 +1290,6 @@ yet established. By the time this has come about there is sufficient
 ability in coordination to succeed with the task. This makes possible
 a very definite line of distinction between the two general classes of
 failures in which the causes are apparently the same. The feebleminded child is very much like the very young normal child.
-250 THE PSYCHOLOGICAL CLINIC.
 In many cases failure seems due to lack of imageability or understanding. However, if there is persistence enough, many children
 will succeed with poor imageability. Persistence in the trial and
 error method will bring success in spite of poor imageability. This
@@ -1241,6 +1306,7 @@ to see the possibilities in a given situation; analytic concentration
 of attention may also be defined as the ability to select out the important and significant details of the situation. Therefore lack of distribution of attention is much more likely to produce failure, than
 lack of analytic concentration of attention or lack of imageability or
 associability.
+
 It is apparent, therefore, that failure with the formboard is
 primarily a failure in some way of attention. From the standpoint
 of attention there are three things most necessary for the satisfactory
@@ -1262,9 +1328,9 @@ on the fact that in the education of the child he must be held to any
 educational task by repeated encouragement and command, up to
 the point of fatigue or distraction due to misunderstanding of the
 command.
+
 A small range of attention may be due to lack of development, to
 congenital deficiency, or to injury. The range may be so small that
-FAILURES WITH THE WITMER FORMBOARD. 251
 comparison of forms, or of forms with recesses is impossible. This comparison marks the use of a more intelligent process in the performance of
 the formboard test. The child goes beyond the trial and error method,
 beyond simple recognition, to a simple reasoning process. But it follows immediately upon attentive observation of two or more objects
@@ -1303,7 +1369,6 @@ others. If all forms in the formboard are equally clear, attention
 is too dispersed; if none are analyzed, or if only one is observed,
 there is no clearness of the mental image and hence no clear idea
 dominates consciousness. It is impossible to measure the participation of all of the mental processes in determining a state of attention,
-252 THE PSYCHOLOGICAL CLINIC.
 but much depends upon association in perception. Clear perception
 is fundamental. Some apperceptional background is also fundamental, but this is dependent, in the first place, upon former clear
 perceptions and these upon certain motor adaptations and coordinations, which come about in response to some stimulus. The value of
@@ -1319,6 +1384,7 @@ and the amount of stimulus necessary for distraction. If distraction
 comes early, there is little persistence of attention. Fluctuation of
 attention depends upon the duration of acts of attention, and this is
 largely due to the fatigue of the cortical cells.
+
 Again, the response that the examiner gets from the subject
 depends upon two sets of conditions. These two include all of what
 has already been said. This classification aids in keeping clear the
@@ -1345,13 +1411,13 @@ present task will be a complex determined by his apperceptional
 background. To some children it is an opportunity to play a game,
 to some it means a command to do hard work which they will be
 compelled to do. The child with a lack of manual and digital experience will be sadly handicapped. We are inclined to say that the
-FAILURES WITH THE WITMER FORMBOARD. 253
 performance depends upon the interest the child takes in the task,
 but we are only saying again what has already been said. Interest
 is only the objective way of looking at the conditions of attention.
 Things are interesting because we attend to them. The aroused
 sensation, memory image, or imagination gives pleasure and there is
 interest in the object.
+
 This brings us to the point that attention goes back fundamentally to the element of consciousness, sensation. Clarity of
 perception is due to sense acuity and imageability, the initial ability
 to have images. The stimulus which gets attention must be relatively
@@ -1366,6 +1432,7 @@ with past experience. Voluntary action is a problem of attention.
 This produces a syllogism: action is dependent upon sensation;
 attention controls the entrance and course of sensation and its
 consequent ideas; therefore attention controls action.
+
 The child who cries, who is shy, nervous, stubborn, excited or
 frightened, cannot give proper attention, for attention is very poor
 when feeling and emotion are strong. Most attention involves strain,
@@ -1380,6 +1447,7 @@ must accept the hypothesis of psycho-physical parallelism."3 With
 this in mind it appears that the conditions of a state of attention at any
 given moment deoend most largely upon apperceptional urge.
 Bibliography.
+
 1. Young, Herman H. The Witmer Formboard. The Psychol. Clinic,
 1916, 10, 93-111.
 2. Pjllsbury, W. B. Attention. New York: The Macmillan Co., 1908.

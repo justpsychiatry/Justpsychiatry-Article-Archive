@@ -1,18 +1,21 @@
 Point Scale Ratings of Ninety-Three Dependent Children
 ======================================================
 
-By Charles E. Skinner, Ph.D.,
+:Author:  Charles E. Skinner, Ph.D.,
 Ohio University, Athens.
+
 In the year 1915-16 the writer became very much interested
 in psychological, educational, and sociological problems relating to
 dependent children. A survey of psychological literature revealed
 the fact that but little had been done in this field. A little more
 had been done along sociological lines.
+
 The problem was to determine the mental status of dependent
 children and to interpret as far as possible the results of the investigation. The superintendent of one of the county homes for orphan
 children gave permission to test the dependent children in his charge.
 There were 93 children in the home at that time, ranging in age
 from 3 to 17 years.
+
 The tests of the Yerkes-Bridges-Hardwick Point Scale were
 given to these children, and had time permitted several performance tests would also have been given. Attention is called to the
 fact that while the Yerkes Point Scale is one of the best of its kind,
@@ -35,9 +38,8 @@ doubles the backward group. This I believe is closer to the actual
 state of affairs. It is my firm belief that the majority of workers
 have been diagnosing many as feebleminded, who in reality are
 only backward.
+
 The cases were then diagnosed by using ? .75 I.Q. (Intelligence
-(168)
-POINT SCALE RATINGS. 169
 Quotient, or coefficient of mental ability) as diagnostic of feeblemindedness. Stern advocates the I.Q.; Kuhlman, Terman, and
 Bobertag use it. The quotient is arrived at by dividing the mental
 age by the chronological age. Some writers have considered the
@@ -49,6 +51,7 @@ is totally inadequate for children of sixteen and over. Several of
 our cases fell into this upper age group. Instead of using ? .80
 as the line of demarcation between the feebleminded and the normal,
 I am using ? .75 which is much more conservative.
+
 After thorough consideration I cannot help but feel that Pintner and Patterson's psychological concept of feeblemindedness
 greatly clarifies our ideas as to who is feebleminded, and at the same
 time, offers a self-perfecting method of determining whether an
@@ -205,8 +208,8 @@ Averages
 54
 8.0
 54
+
 ' The Mental Age as determined by Huey's method. See Huey, E. B. Syllabus for Clinical Examination of Children.
-170 THE PSYCHOLOGICAL CLINIC.
 will do much toward preparing one to accept the concept and method
 of Pintner and Patterson.
 Table II gives in the first column the age of the child; the
@@ -558,12 +561,12 @@ X +
 -4.7
 -8.5
 -6.4
+
 or retarded (subtracting column 3 from column 1); in the fifth the
 diagnosis of the child or the usual 3 years retardation above 9 and
 2 years retardation below 9 as being diagnostic of feeblemindedness;
 and in the last column the diagnosis based upon the hypothesis
 that 3 per cent of unselected children in an average community are
-POINT SCALE RATINGS. 171
 TABLE XIX. SHOWING GODDARD's 3 AND 2 BASIS OF DIAGNOSIS, AND
 PINTNER AND PATTERSON'S 3 PER CENT HYPOTHESIS.
 Age
@@ -638,7 +641,7 @@ All Ages, per cents
 2.1 2.1
 1.0
 99.9 99.7
-172 THE PSYCHOLOGICAL CLINIC.
+
 feebleminded, 22 per cent backward, 50 per cent normal, 22 per
 cent bright, and 3 per cent very bright. The letters in the table
 are F = Feebleminded, B = Backward, N = Normal, Br = Bright, and
@@ -647,6 +650,7 @@ Table III gives the distribution of the children in the five-fold
 classification above referred to, by chronological age, using the 3
 and 2-year basis, and also the 3 per cent hypothesis of Patterson and
 Pintner.
+
 TABLE IV. INTELLIGENCE QUOTIENTS OF NINETY-THREE DEPENDENT CHILDREN,
 ARRANGED IN CHRONOLOGICAL YEAR GROUPS, AND IN ORDER OF THE I. Q.
 WITH MEDIAN AND AVERAGE ATTAINMENTS.
@@ -793,11 +797,14 @@ Averages
 60.3
 5.5
 60.5
+
 We may speak of those scoring between 0.70 and 0.75 I. Q. as
 a group of "doubtfuls." We have just ten such cases. By using
 ? .75 I. Q. as diagnostic of feeblemindedness, ,we find 35 cases in
 that category, or 37.6 per cent of our cases.
+
 Interpretation and Conclusions.
+
 The diagnosis of our data shows clearly that many of the
 dependent children are either feebleminded or backward. In a
 recent investigation of the mental status of dependent children,
@@ -821,11 +828,13 @@ We find one child of much promise, forty-nine of nearly average
 ability or better, while forty-eight are four years or more behind,
 and the remaining three-fifths are from half a year to four years
 behind."
+
 Using the three per cent hypothesis, I found 15 per cent of my
 cases to be definitely feebleminded; 62.3 per cent backward; 19.3
 per cent normal; 2.1 per cent bright; and one child very bright.
 My results show a much larger percentage of feebleminded and
 backward children than was found by Rodebaugh.
+
 The relation between dependency and the mentality of the
 dependent is, as we have seen, a most important problem both to
 clinical psychology and to society in general. The present study
@@ -841,7 +850,6 @@ children come from syphilitic parents, or feebleminded parents.
 The social conditions of the home would also point to feeblemindedness in the family. Many of the children are illegitimate. Parents
 seldom visit their children, or send them anything after they have
 become public charges. One single case will serve to illustrate the
-174 THE PSYCHOLOGICAL CLINIC.
 conditions found by the writer. Five children (brothers and sisters)
 in the Home have an idiotic mother and a syphilitic father. These
 children do not play with other children. Three of them cannot
@@ -862,6 +870,7 @@ years and only .29 for the older. "In other words, the longer the
 supposed influence of home environment lasts, the more independent
 of it the I. Q. becomes." All of our facts point to the same conclusion, that the correlation of I. Q. with social status rests upon actual
 differences in endowment.
+
 1. Forty-eighth Annual Report of the N. Y. State Board of Charities, 1914.
 2. Kuhlmann, F. What constitutes feeblemindedness? Journal of
 Psycho-Asthenics, June, 1915.

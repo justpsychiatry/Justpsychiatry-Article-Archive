@@ -5,7 +5,8 @@ The Psychological Clinic
 Copyright, 1925, by Lightner Witmer, Editor
 Vol. XVI, Nos. 3-4
 March-April, 1925
-R. B. W. Hutt, Ph.D.,
+:Author:R. B. W. Hutt, Ph.D.,
+
 Jenkintown, Pennsylvania
 In the year 1914, Francis N. Maxfield constructed a set of
 cubes somewhat larger than but colored like the color cubes now
@@ -30,7 +31,7 @@ The procedure developed at the University of Pennsylvania included the additiona
 after the removal of the stimulus pattern. The writer knows of
 no publication giving any standardization of procedure or of results
 C Town, C. H., University of Iowa Studies, Vol. I, Number 4.)
-78 THE PSYCHOLOGICAL CLINIC
+
 for the use of the Maxfield cubes when employed in. the above
 manner. In fact, the present report is an outgrowth of the Maxfield experiment as employed at the University of Pennsylvania
 and has little in common with the two publications cited. This is
@@ -58,6 +59,7 @@ found in the Public Schools for normal children in Philadelphia
 and its environs and, further, inasmuch as they had not been
 diagnosed otherwise. In respect to social status, the majority of
 the cases were below the median.
+
 In all, 1,198 cases are represented in the tables here submitted
 although more than 1,500 were examined. Those of the kindergarten group, those above fourteen years in chronological age, and
 some concerning whom the grade had not been noted had to be excluded when the tables for age and grade were compiled, since these
@@ -66,7 +68,7 @@ to the fourteenth year of chronological age. However, to keep
 the grade groups representative, it was necessary to include in them
 2 ("Analytic Diagnosis," Psychological Clinic, Vol. XII, page 173).
 3 (Town, C. H. Op. cit., p. 66).
-COLOR CUBE TEST 79
+
 those cases found in the grades which could not be included in the
 limited age groups. In each grade and age group a minimum of
 100 cases was considered significant.
@@ -98,25 +100,29 @@ marginal note of significant factors observed in the performance.
 (Note: The author notes the form of incorrect solutions by means
 of symbols or sketches. This gives a permanent record of the
 nature of each failure.)
+
 Figures B and C are introduced in a similar way but with the
 following words: '' Let us try another design. See if you can make
 one exactly like this. Go." In each case the blocks are arranged
 as above.
+
 In introducing D, the procedure is as follows: "Now we will
 do it differently. Instead of leaving my design on the table for
 you to copy, I will show it to you for a little while and then take it
-80 THE PSYCHOLOGICAL CLINIC
 away. You are to do nothing but look at my design while it is on
 the table but will begin to make one like it when I say 'Go' after
 having taken it away." Allow ten seconds exposure, remove and
 say "Go."
+
 In introducing E, say: "Let us try another design. Remember
 you are to do nothing but look until I take my design away and say
 'Go' and then you will make one like it."
 In case the subject fails to complete E satisfactorily, reexpose
 with these words: "Look at this again." Allow five seconds exposure. "Now make one like it. Go."
 The five designs are given below.
+
 Discussion of Results
+
 Table 1 shows that less than twenty per cent of the lowest age
 group failed to complete the first three figures within the time allowed. In fact, only four per cent failed to complete one of these
 first three figures satisfactorily. Although figure C required more
@@ -132,7 +138,7 @@ A
 KEY
 "YELLOW?? I
 BLUE ? rf-WH.TE
-COLOR CUBE TEST 81
+
 Table 1. Age Distribution (Each "year" includes the twelve months span beginning with
 the seventh month of the previous year.)
 Figure A 6th 7th 8th 9th 10th 11th 12th 13th 14th year (C.A.)
@@ -254,7 +260,7 @@ Max. 2nd, Decile 26 20 16 18 16 16 13 14
 Max. 1st, Decile 19 13 11 15 15 13 11 12
 Min. 1st, Decile 10 8 4 3 11 9 7 6
 Failures noted in italics
-COLOR CUBE TEST 85
+
 Figure D 1st 2nd 3rd 4tli 5tli 6th 7th 8th grade
 Total Failures 107 102 61 38 22 28 20 28
 Max. 10th, Decile 12 12 11 12 10 10 10 10
@@ -283,7 +289,7 @@ Max. 1st, Decile 40 40 25 16 15 11 11 13
 Min. 1st, Decile 15 8 10 10 8 7 8 4
 NUMBER OP CASES 122 124 111 122 100 100 100 107
 Failures noted in italics.
-86 TEE PSYCHOLOGICAL CLINIC
+
 successful completion of any other one of the three. Inasmuch as
 only four per cent of the children in this lowest group failed to
 pass any one of the three first figures, they are better fitted to
@@ -302,6 +308,7 @@ year group were probably accidental and that the threshold
 probably belongs at the "20 per cent superior,J point. It should
 be noted that at the ninth year, we find an approximately equal
 distribution of successes and of failures.
+
 Table II shows a similar situation but with less regularity.
 The first grade group shows approximately 20 per cent not passing
 the first three figures but this is probably explained by the presence
@@ -309,6 +316,7 @@ of some five year old children and of some children whose mental
 status has not been determined by competition in school or in
 psychological examination. However, the results here would indicate that the first three figures are too easy for this grade from the
 standpoint of diagnosis.
+
 In the grade distribution, the curve for the last two figures is
 not so smooth as the age curve and the point at which 50 per cent
 fail and 50 per cent succeed lies about the third grade.
@@ -322,11 +330,12 @@ the following analysis proves interesting and significant.
 Distribution of the 8-year old children in the grades:
 2 per cent in first grade, 62 per cent in second grade, 32 per cent in
 third grade, and 2 per cent in fourth grade.
-COLOR CUBE TEST 87
+
 Distribution of 9-year old children:
 2 per cent in first grade, 20 per cent in second, 41 per cent in third, 36
 per cent in fourth, and 1 per cent in fifth grade.
 Distribution of 10-year old children:
+
 8 per cent in second grade, 18 per cent in third, 49 per cent in fourth,
 19 per cent in fifth, and 4 per cent in sixth grade.
 This occurrence of children of a given age in different grades accounts in some measure for the different rate of improvement noted
@@ -338,16 +347,20 @@ is roughly indicated by a study of the occurrences of failure to
 complete one or both of the last two figures of the test. The ninth
 and tenth years were selected for this study and attention is confined to the three middle groups: i e., the failures of the nine-yearolds in the second, third, and fourth grades and of the ten-year-olds
 in the third, fourth, and fifth grades.
+
 Of the failures made by the nine-year old children in the second, third,
 and fourth grades, 50 per cent were in the second, 30 per cent in the third, and
 20 per cent in the fourth.
+
 Of the failures made by the ten-year old children in the third, fourth,
 and fifth grades, 66 per cent were made in the third, 22 per cent in the fourth,
 and 12 per cent in the fifth grade.
+
 This distribution and the distributions shown in the tables for
 age and for grade, indicate that there is an improvement in performance, from the standpoint of the occurrence of failures to
 complete the last two figures satisfactorily, both in increase of age
 and in increase of grade.
+
 Upon approaching the problem from the point of view of the
 age distribution in a given grade and the comparative number of
 failures made by each such age, we find that, of the failures made by
@@ -360,7 +373,7 @@ cent. The fourth grade distribution, considering the records of
 nine, ten, and eleven-year-old children, the nine year olds made 30
 per cent of the failures, the ten-year-olds made 34.5 per cent and the
 eleven-year-olds made 35.5 per cent.
-88 TEE PSYCHOLOGICAL CLINIC
+
 The above paragraph shows superior performance by the
 younger children in these grades. This precipitates the question of
 mental age and indicates that the child of superior mental age, as
@@ -374,6 +387,7 @@ the six-year-old cases used in this standardization, we find that
 discrepancy appears at each age level. It is probable that the discrepancy is due to the small number of cases upon which Kohs
 based his conclusions. He had fifteen six-year-old children, for
 instance.
+
 When we turn to the consideration of individual scores, we
 find great irregularity of performance. Occasional low or high
 scores mar an otherwise smooth or regular reaction. In the tenth
@@ -384,23 +398,29 @@ The following tables of results, accompanied by marginal notes
 made at the time of the examination will show the apparent causes
 of such irregularity and, also, the need of careful analysis of the
 performance and the making of proper notation.
+
 Table III
+
 (The initials refer to the subject examined. The numerals refer to the
 time required to complete the five figures in the test and as noted in the first
 case. The sixth set of numerals refers to the result of re-exposure of figure E
 and occurs only when the first exposure resulted in failure. The notes refer to
 the results in italics.)
+
 ABODE
+
 1. J.P. 34 11 14 12 F 10
 In attempting to reproduce the pattern A, the subject tried to match the
 vertical surfaces of the cubes as well as the top surface. As this is not
 possible and as the examiner did not discover what was happening until
 4 Concerning mental ratio see Mateer-Ped. Sem. 1918, Page 367 Diagnostic Fallibility of Intellig. Batio.
 ?Kohs, Intelligence Measurement, Table XLY, page 124.
-COLOR CUBE TEST 89
+
 ABODE
+
 several seconds elapsed, tlie figure was not completed as quickly as the
 other figures were.
+
 In the case of figure E, first trial, the correct pattern was reproduced but
 in an inverted position.
 2. B.W. 36 19 17 F 15
@@ -408,24 +428,32 @@ In this case the subject was not attentive to the pattern. He had the
 right solution at the end of twenty-six seconds but failed to recognize it
 and immediately moved the block in the lower left hand corner. Solution
 was finally secured after reference to the pattern.
+
 3. H.O. 10 16 33 18 26
+
 H.O. became confused when he first found difficulty in arranging the inferior half of figure C and used a trial and error method of quick
 random moves instead of the careful analysis and synthesis which characterized the rest of the test. This performance disclosed a deficiency of
 self-control.
+
 4. F.S. 23 45 21 14 18
+
 F.S. was inattentive to the pattern and reproduced the design in the
 colors used in the previous pattern. He showed surprise when he did
 look at the pattern and realized his mistake. In the case of the two last
 figures, which show a shorter time reaction than the previous simpler
 figures required, it was apparent that the subject was using more care
 (less trial and error) and more effort.
+
 5. F.C. 7 39 15 21 43
+
 The subject made the error, which was so frequently met with in the
 course of this experiment, of assuming that some other block would fit
 into a certain place more readily than the ones first tried. This was an
 indication of insufficient attention to instructions inasmuch as the examiner had called attention, at the outset, to the fact that each block
 was exactly like every other block.
+
 6. E.T. 8 9 29 127 12
+
 E.T. had three of the blocks correctly placed and needed to place the
 one with the all white surface in the lower right hand corner. Upon
 picking up the block, the needed surface was on the far side of the cube
@@ -433,7 +461,9 @@ and E.T. failed to turn the block so as to bring that side into view.
 After looking at the other five sides, she seemed to assume that there
 was no all-white side and that the correct solution could be gotten by
 means of the red and white side. This she attempted to do until repeated failure led to a new search and the finding of the needed surface.
+
 7? I.G. 31 37 24 6 32
+
 In this case the subject was aided by a fortuitous grouping of the blocks.
 When he turned the first two over, they formed the upper half of the
 pattern without further adjustment. Upon turning the other two, the

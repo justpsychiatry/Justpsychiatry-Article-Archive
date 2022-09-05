@@ -5,8 +5,9 @@ The Psychological Clinic
 Copyright, 1916, by Lightner Witmer, Editor.
 Vol. IX, No. 9
 February 15, 1916
-By Leo Bruckner and Irving King, \J
+:Author:  Leo Bruckner and Irving King, \J
 State University of Iowa.
+
 Among current mental tests various so-called form-boards hold
 a creditable place. Like all other tests, in order that they may be
 used with any degree of accuracy, norms of accomplishment need
@@ -20,12 +21,7 @@ With this tentative valuation in mind, two groups of children
 were selected from among the pupils attending the public schools of
 Iowa City; namely the eight-year-old and part of the ten-year-old
 groups. They were graded in school as follows:?
-* Sylvester, R. H. The Form-Board Test. Psychol. Review Monograph Supplement,
-Whole No. 65, Sept., 1913.
-THE FERNALD FORM-BOARD
-THE FERNALD FORM-BOARD
-(249)
-250 THE PSYCHOLOGICAL CLINIC.
+
 TABLE I
 Grade
 Total
@@ -39,6 +35,7 @@ Total
 39
 90
 59
+
 Each pupil was tested in the presence of the experimenter alone.
 Every effort was made to keep the child from becoming confused
 or disturbed by outside influences. When he first came to the
@@ -70,6 +67,7 @@ the entire group of eight-year-olds for the second solution. The
 median of the whole group for the first trial was 2:20 minutes, while
 for the second it was only 22 seconds. Apparently the pupils solved
 A STUDY OF THE FERNALD FORM-BOARD. 251
+
 TABLE II.?EIGHT-YEAR-OLDS
 First Trial
 Time in Seconds and Minutes
@@ -326,7 +324,6 @@ Median time.
 ~13*
 :07
 * Too few cases to justify conclusions.
-A STUDY OF THE FERNALD FORM-BOARD. 253
 the combination on the first trial largely by the trial and error method
 and were aided by their memory of the first solution in the successive trials. To the experimenter it was plain that in many cases
 there was a conscious effort made by the pupils to recall the form
@@ -336,12 +333,14 @@ the succeeding trials the trial and error method continued to be
 used, as can be seen from table II, in the amount of time required
 for solution. Table III shows the same distribution by grade and
 time used in the case of the ten-year-old group.
+
 Table III is to be read in the same way as table II. There is
 in this group a direct correlation between school progress and success in completing the test quickly, although due weight must be
 given to the small numbers in the various grades. The median time
 for the combined group in the first trial was 1:09 minutes, while
 that of the eight-year-old group was 2:20 minutes.
 Below are the medians for the successive trials by both groups.
+
 TABLE IV
 Trial
 Eight-year-olds.
@@ -369,10 +368,12 @@ eight-year-olds and 2:15 minutes for ten-year-olds. In view of this
 conclusion it may be said that the time allowed by the Bureau of
 Immigration is very fair to the immigrant, and would hardly be
 considered a highly selective device.
+
 An analysis of the forms used and of the changes made in solving the problem in successive trials was also undertaken. The pur254 THE PSYCHOLOGICAL CLINIC.
 pose of this was to discover the predominance, if any, of a particular
 form and in a rough way to determine the part memory played in
 the successive solutions.
+
 Table Vgives the analysis of the form used by the eight-year-olds.
 TABLE y?EIGHT-YEAR-OLD GROUP
 Analysis of Form used
@@ -415,6 +416,7 @@ on the first trial. It reads: 12 pupils used form 1 on the first trial;
 16 used form 2, etc. Although there a'rfe two modal forms, namely
 2 and 5, it would appear that, with a larger number of cases, there
 would not be a predominance of any particular form.
+
 The next line in table V gives the number of changes in the
 successive trials. Of the ninety cases, fifty-nine made no change in
 the form used, but used the form of the first successful solution on
@@ -441,7 +443,6 @@ Three changes.
 2
 Table VI gives the same analysis for the ten-year-old group.
 Again it would appear that if a great number of cases were studied
-A STUDY OF THE FERNALD FORM-BOARD. 255
 there would be no predominant form. As was the case with the
 eight-year-old group a large number made no change in the form
 used. Sixty-four (64) per cent of the eight-year-olds and 61 per
@@ -453,6 +454,7 @@ told at the time of the experiment that they were to have more
 than one trial. The recall was therefore spontaneous, as there was
 no opportunity given for memorizing the form used on the first
 successful trial.
+
 The greatest difficulty in completing the test and the greatest
 number of changes were found with very nervous children, and with
 those who were afflicted with some ailment, such as adenoids, nearsightedness, etc. These cases stood out so strongly that they could
@@ -462,6 +464,7 @@ seen in the absent-minded way in which he handled the blocks.
 The greatest difficulty seemed to be found in the attempts to fit in
 the two smallest blocks, even after the other blocks had been placed
 in the proper position.
+
 TABLE VII?EIGHT-YEAR-OLD GROUP
 Occurrence of each Form
 Form
@@ -476,6 +479,7 @@ Used five times. .
 This table is to be read: Of all the pupils, form 1 was used only
 once out of all the successful trials by 6 pupils; was used twice by
 a pupil in 5 cases; 3 times by a pupil in 8 cases, etc.
+
 TABLE VIII?TEN-YEAR-OLD GROUP
 Occurrence of each Form
 Form
@@ -493,6 +497,7 @@ It is probable that no particular form would predominate if
 enough cases were studied. If one form stood out in a large number
 of cases studied, the matter might be worthy of further study and
 experimentation.
+
 In order to discover the relation between the ability to solve
 the test quickly and ordinary school ability, records of the Courtis
 tests were examined. As speed is the factor which enters into the
@@ -503,6 +508,7 @@ obtain the totals of only forty of the ten-year-olds, and as only nine
 of the eight-year-olds took the test their results were discarded.
 The total number of problems attempted by these pupils ranges
 as follows:
+
 TABLE IX
 Attempts
 Less than 15.
@@ -525,13 +531,13 @@ Cases
 2
 1
 40
+
 The median number of attempts was 28.7. These results were
 correlated with the ability to solve the board quickly, and a Pearson
 coefficient of .0025 was found. This coefficient shows that there
 was no correlation between these two factors. It shows that probably the Fernald form-board test is too easy a test for the ten-yearold children. But, as it has been seen that one-fourth of the eightyear-old group can solve the problem of the form-board more quickly
 than one-half the ten-year-olds, it is probable that this test has little
 significance and is of little value when used alone. The writer feels
-A STUDY OF THE FERNALD FORM-BOARD. 257
 that it would be of little value to an inexperienced experimenter, but
 for a trained psychologist the method of attack of the pupil upon
 the solving of the form-board would reveal many things. The
@@ -542,6 +548,7 @@ on the look-out for any irregularities or peculiarities in the mental
 make-up of the person being tested. It would seem that this formboard would be valuable as one of a series of tests. It should not
 be used alone as a measure of mentality; but the inability to complete the test satisfactorily within the time allotted should place
 the tester on his guard.
+
 Note.?After our study had been made and this report written our attention was called to
 a somewhat similar study published in Eugenics and Social Welfare Bulletin No. V, by the New
 York State Board of Charities. This report is mainly a study of reaction by mental age. Where

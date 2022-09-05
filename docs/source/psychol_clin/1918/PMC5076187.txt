@@ -1,8 +1,9 @@
 A Study of 100 Retarded Fourth Grade Pupils Tested by the Binet Scale
 ======================================================================
 
-By William I. Lacy,
+:Author:  William I. Lacy,
 Northwestern University, Evanston, III.
+
 In the spring of 1917, a study was made of all the slow progress
 children of the fourth grade in the schools of district 75, Evanston,
 Illinois, as a part of the general movement of the administration
@@ -10,6 +11,7 @@ of the Evanston schools for a complete survey and analysis of conditions looking
 The present study has to do with the results of the Binet tests given
 to one hundred of these children. The Stanford Revision of the
 Binet Scale was used.
+
 The one hundred children who comprise the basis for this
 study are distributed in an even, and what may be considered a
 very fair manner, throughout the school system. There has.been
@@ -31,11 +33,10 @@ children in the fourth grade of the district. In both of them, the
 bulk of the enrolment is from the less favored social stratum and
 there is also a large percentage of colored children. These are
 designated Group III and Group IV.
+
 In a study of medians based upon the Intelligence Quotient
 of these four groups, we find that two groups have a median Intelligence Quotient of 88, one of 90 and one of 91. This would indicate
 that the study is based on a fairly uniform group of children, despite
-(16)
-A STUDY OF 100 RETARDED PUPILS. 17
 the fact that they come from these different social conditions. In
 a comparison of the distribution of the children of the various groups
 according to their mental state in terms of the Intelligence Quotient,
@@ -46,11 +47,13 @@ of "border line" cases (I. Q. 71-80) than in any of the other three
 groups. The other three groups have a fairly uniform distribution,
 though Group IV presents none who class above normal (I. Q.
 91-110).
+
 It must be remembered that all of the children comprising
 the basis of this study are what are known as "retards;" That is,
 not that they are, necessarily, over age for the grade in which they
 are found, but that they have, at one time or other, repeated one
 or more years of their school work.
+
 In making a comparison of the distribution of the Intelligence
 Quotient of the 100 pupils, with the probability curve, or normal
 intelligence distribution, we find in figure I what we would naturally
@@ -67,7 +70,6 @@ too Rttftviei A-XW G-tftie VL\v'A;> u>A:Vv Normal C UT?t/
 OuMft^g E.van?to?.-X);?,t 15.
 FiaUBE I
 Figure I
-18 THE PSYCHOLOGICAL CLINIC.
 two children who have superior intelligence (I. Q. 111-120) and
 one with very superior intelligence (I. Q. 128).
 In figure II we find that by far the largest per cent of the
@@ -85,6 +87,7 @@ doing sixth or seventh grade work. One even has a mental age of
 fifteen, which would normally put him in High School. Does this
 not immediately raise the question as to the method of promotion
 generally in use?
+
 In order to see the problem here presented more clearly, we
 have distributed children by half year mental ages (as shown in
 figure III), into the grades where they would normally be at the
@@ -94,15 +97,8 @@ doing first grade, first semester work; one of six and a half, first
 grade second semester work; one of seven, second grade first semester
 work, etc. A child's chronological age does not necessarily determine
 his ability to do the work of any particular grade, but a normal child
-Ots\ri\lvA.?ow Mental A^ts lDo\??.^avit\ ^"U*. G.vaAt Vuv?;\k.
-tvDmtVo-n. - On\. *)5.
-AS
-3Sr
-3?
-vyr iHr io</r ny >*-y H)r i+fT '*1"
-A/lentaL A(jCFigure II
+
 Figure II
-A STUDY OF 100 RETARDED PUPILS. 19
 of the age specified is mentally capable,?that is, he is intelligent
 enough, to do the work of the grades as outlined above. Every
 effort should be made to place each child in the grade where the
@@ -121,33 +117,6 @@ them two years of their school lives. One girl with an intelligence
 quotient of 104 and a mental age of eleven years, thus belonging in
 grade V, although she was just finishing fourth grade work, was
 questioned regarding her work and her attitude toward it. She
-Grade100 \?ctaviSei ^t\v ClYaii. flx^vAi iu <yradei
-\su fAt?U\ (Xcve..
-3rd (i rode It
-CL
-*rd. Grade ,
-6
-CL
-itri Grade 0
-a
-Cf'i. Grade 0
-a
-7ik Grade I?
-a
-hL Qradc lr
-a.
-%L Qradc ^
-CL
-/Otk Qradt lr
-a.
-mmm:
-m
-EZ>
-^\>avkslo*\- 75"
-3*
-Figure III
-Figure III
-20 THE PSYCHOLOGICAL CLINIC.
 enjoyed her school work, she said, but found the work she was
 doing very easy, and also rather monotonous. She had changed
 schools the preceding fall, having completed the work of the fourth
@@ -172,6 +141,7 @@ This boy was failing in his studies because he was not interested in
 the work, and he was not interested because the work was too easy
 for him, and yet he was being kept back in the grade, which merely
 aggravated the unfortunate situation.
+
 Of the 100 children, 64 are mentally retarded, for their chronological age. If we take actual half year measurements, 79 are of
 mental age lower than their chronological age. But allowing for a
 difference of half a year, either way, which would make a normal
@@ -180,6 +150,7 @@ normal in intelligence, yet most of whom are over age for their
 grade. Six of the one hundred are above the normal intelligence
 for their chronological age, but are not under age for the grade in
 which they are.
+
 Is there not something in the system of promotion to blame for
 these conditions? Although we are coming more and more to the
 idea of the socialization of the curriculum, and letting go our hold on
@@ -189,7 +160,6 @@ compared with the development of the child's intelligence. If a
 child is intelligent enough to do fifth grade work, is it not of comparatively little importance whether or not he is able to pass an
 examination in the actual subject matter taught in the fourth grade?
 Furthermore, having once been over the work of the fourth grade, if
-A STUDY OF 100 RETARDED PUPILS. 21
 he is mentally capable of doing fifth grade work, he will have no
 difficulty in going on with the work in the fifth grade, although he
 may have failed in an examination, or failed on daily recitations in
@@ -205,6 +175,7 @@ led to believe that the present system of determining whether or not
 a child should be promoted is unsatisfactory, and propose that the
 use of intelligence tests would be a far more scientific method of
 determining fitness for promotion.
+
 In figure I we see, also, the relation of the intelligence of the
 white children to that of the colored. Referring back to figure I,
 in \yhich we have separated the white children and the colored
@@ -222,6 +193,7 @@ quotient of the white children is at every age superior to the median
 intelligence quotient of the colored. This means that the mental age
 and the chronological age of the white children is less widely separated
 than that of the colored children.
+
 We see, then, that on the whole, the intelligence of the colored
 children is inferior to that of the whites. Therefore, where whites
 and colored are together in school, either they must be grouped
@@ -229,7 +201,6 @@ together having unequal mental ages, or they must be grouped
 together with unequal chronological ages. The first is educationally
 unsound, the other unwise from the social point of view. In elementary schools, children will, as a rule, group themselves together
 largely according to their ages. So where children of different races
-22 THE PSYCHOLOGICAL CLINIC.
 are together, having different ages, we shall find not only the race
 attitude tending to divide them into cliques, but also the age factor.
 Where the mental age is the same for the children of the two races,
@@ -237,6 +208,7 @@ the physical age of the colored is apt to be greater and there is often
 a tendency for the older ones to make it unpleasant for the younger
 ones. All phases being considered, we believe there should be
 separate schools for colored children.
+
 As is to be expected, the largest per cent by far, (69%) of these
 retarded children, have repeated but one year. But when we come
 to a study of the relation of the amount of retardation to the intelligence of the child, we find certain unexpected facts. One would
@@ -254,6 +226,7 @@ five out of eighteen, or 28 per cent, are of normal intelligence. More
 than half of the pupils who have repeated three years are above the
 border line group, while the children who have repeated four years
 are all either feebleminded or very nearly so.
+
 TABLE I. DISTRIBUTION BY INTELLIGENCE AND NUMBER OP TEARS REPEATED
 OF 100 RETARDED FOURTH GRADE PUPILS. EVANSTON, DIST. 75.
 Feebleminded
@@ -281,7 +254,6 @@ Total.
 The distribution in table I leads us to a consideration of the
 problem of these children who have repeated three or four years and
 are in the feebleminded, or possibly lower section of the border line
-A STUDY OF 100 RETARDED PUPILS. 23
 groups. What is to be done with such children? It is evident that
 there are in the school system certain children who are being carried
 on from year to year, who, from the tests given, are of such low
@@ -301,10 +273,12 @@ the use of intelligence tests for promotion should be adopted.
 Second: Having white and colored children together in the
 same schools is educationally and socially unwise; separate schools
 for colored children should therefore be established.
+
 Third: Feeblemindedness should be detected through the use
 of intelligence tests, and children found to be feebleminded or very
 nearly so, should be placed in regular institutions, schools, or rooms
 equipped to take care of them.
+
 Fourth: The Intelligence Quotient should be found for all
 children, and the subject matter and methods of instruction adapted
 to the intellectual capacity, rather than the chronological age.

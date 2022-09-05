@@ -5,9 +5,9 @@ The Psychological Clinic
 Copyright, 1916, by Lightner Witmer, Editor.
 Vol. X, No. 4
 June 15, 1916
-
-By Herman H. Young, M.A.,
+:Author:  Herman H. Young, M.A.,
 Harrison Felloiv in Psychology, University of Pennsylvania.
+
 In its various modifications the formboard is in general use
 among clinical psychologists, and appears to have won a permanent
 place among the tests to be regularly employed in clinical laboratories. It is a developmental outgrowth of the simpler contrivances
@@ -30,6 +30,7 @@ board. This smaller board also makes a much more convenient
 piece of apparatus, as it does not take up so much store room and
 is very easily carried about. Moreover the addition of an extra
 block makes it a slightly more complicated test.
+
 The Witmer formboard contains eleven geometrical figures as
 nearly uniform in size as their variety of form will allow. The
 square block in the upper left hand corner of the board is one and
@@ -37,8 +38,6 @@ a half inches on a side by half an inch in thickness. All the blocks
 are the same thickness. The recess on the board corresponding to
 each block is just enough larger than the block to permit it to be
 fitted in loosely, i. e. easily without becoming wedged in place, yet
-(93)
-94 THE PSYCHOLOGICAL CLINIC.
 with but little play. The depth of each recess is one-half that of
 the blocks, so that the blocks when in place extend one-fourth of
 an inch above the surface of the board. The blocks and their
@@ -53,8 +52,9 @@ the blocks are thick. Both board and blocks are neatly stained,
 the board being light oak and the blocks walnut, while the recesses
 are painted black. This produces an effective contrast between
 board, blocks, and recesses.
+
 THE WITMER FORMBOARD.
-THE WITMER FORM BOARD. 95
+
 The tray at the top of the board is a receptacle for the blocks
 when removed from their recesses. It determines definitely where
 the blocks are to be placed and insures that they shall be within
@@ -94,9 +94,9 @@ investigation is the negative correlation between age and the time
 required for replacing the blocks [10]- This clearly demonstrates
 the fundamental basis upon which a satisfactory standardization
 can be made. Other considerations discussed indicate that the
-96 THE PSYCHOLOGICAL CLINIC.
 time feature of the test constitutes the only definite basis for the
 establishment of norms.
+
 It is around this latter feature of the test that most of the
 experiments and discussions concerning the formboard center.
 It would take us too far afield to attempt a review of the literature
@@ -123,6 +123,7 @@ significantly conclusive results from comparisons until the mental
 processes and traits compared are more precisely defined and proved
 to be simple and elementary, instead of complexes. Too often
 attempts are made to compare incommensurate qualities.
+
 The considerations just summarized have prompted the present
 investigation and determined in general the scope of the work
 attempted. It was undertaken and completed as a preliminary
@@ -133,10 +134,10 @@ Problems and possibilities were opened which indicate roughly
 the extent and character of the necessary future investigations for
 the establishment of reliable norms of even the simplest sort and
 for finality in any sense.
+
 A glance at the distributions of the time records shows that
 the norms here established are only approximately correct, and
 that with two or three times as many records they might be considerably shifted. As in all preceding investigations, we shall also
-THE WITHER FORMBOARD. 97
 see that there is a consistent negative correlation between time
 and age up to the ages of fifteen or sixteen at least. Up to the age ,
 of thirteen, half-year groupings are necessary. It is possible that
@@ -146,6 +147,7 @@ in general there is a sex difference in formboard ability in favor
 of the boys. At present we must be content with these generalizations. Just what the differences are from one age to the next and
 just how great the sex differences are, must be left for future
 investigators to determine experimentally.
+
 Until age norms for the two sexes, separately, are more reliably
 determined, i. e. until these simplest of correlations have been made,
 other possible and attempted correlations must necessarily suffer
@@ -154,7 +156,9 @@ we would have the essential material at our command to attempt
 other comparisons, such as formboard ability with class standing,
 with manual training, a mechanical turn of mind, or with vocational
 adaptation.
+
 Method.
+
 The test is presented by exactly the same method to all subjects, whether they be normal or defective, children or adults.
 Even though the conditions here outlined may appear trivial, they
 are in certain cases of great importance. If they are not carefully
@@ -163,6 +167,7 @@ or poor record on the part of the subject may indicate the examiner's
 incompetency rather than the subject's inability. The sad thing
 about it is that in the permanent records, it is marked against the
 subject.
+
 Height of the table. The height of the table upon which the
 board is placed is the only variable. This is to be suited to the
 convenience of the individual tested, the aim being to have the
@@ -171,16 +176,17 @@ the best advantage. It is necessary that he be able to look down
 upon the board. If he can barely see across the top, he is compelled
 to work at a disadvantage, as he cannot see the recesses properly
 and cannot use his arms and hands freely.
+
 Position of board on table. The board is placed horizontally
 on the table with its lower edge (edge opposite tray) even with the
 edge of the table nearest the subject. It is very important that
 the board be kept in this position and be constantly watched. In
 his attempts to hurry, a subject will often move the board about
 considerably, sometimes getting it out over the edge of the table
-98 THE PSYCHOLOGICAL CLINIC.
 where it may tip and fall to the floor, and sometimes pushing it
 back from the edge until only with difficulty can he reach the blocks
 in the tray.
+
 Position of subject. The subject is always required to stand
 directly in front of the board throughout the test. In fact he is
 required to take a correct position with respect to the board before
@@ -206,6 +212,7 @@ correctly without additional instruction constitutes a failure. These
 failures will be treated elsewhere as a separate investigation. The
 entire test consists of three trials given in as rapid succession as
 possible.
+
 First trial. As soon as the experimenter knows who the subject
 is and the position has been taken before the board, he says to the
 subject, "I am going to take these blocks out and put them up here.
@@ -219,7 +226,6 @@ are all removed the experimenter continues the directions thus,
 is generally sufficient to induce the subject to begin replacing the
 blocks at once. If he hesitates with an air of uncertainty, as if
 waiting for the "ready" signal, the experimenter may add, "You
-THE WITHER FORMBOARD. 99
 may begin as soon as you are ready," or "Go ahead, ' or "All
 right," or "See how quickly you can put them in." If, however,
 these additional directions fail to bring an appropriate response,
@@ -232,6 +238,7 @@ a trial may be accepted as correct if only one block is left lying loosely,
 but turned correctly upon its recess, providing the other ten are
 set in properly. It is advisable to encourage and assure the subject of his success by saying, "That's right," as soon as he has all
 the blocks correctly replaced.
+
 . Second trial. This follows the completion of the first trial
 immediately without comment of any kind whatever. On this
 trial the test is presented to every subject not only with the same
@@ -256,11 +263,11 @@ on block 10, then picking up these two and placing them on block
 7, then these three and placing them on block 8, and last of all
 picking up all four and placing them in the tray directly above
 recess number 1.
+
 While the blocks are being removed in the manner described
 above, the experimenter says, "Now I am going to take the blocks
 out in this order (or a definite order) and I want to see if you can't
 put them in quicker. ' Then when the blocks are all removed,
-100 THE PSYCHOLOGICAL CLINIC.
 he spurs the subject on thus, "Now see how quickly you can put
 them in." The time is recorded in exactly the same manner as
 on the first trial. Unless all the blocks are correctly replaced without further suggestion the test is recorded as a failure.
@@ -273,6 +280,7 @@ the tray. As soon as he has removed all the blocks, he is urged to
 do his best by saying, "Now see how quickly you can replace them
 (or put them in)." The time is again taken as on the first trial,
 and the test is complete.
+
 Quantitative Treatment.
 Exactly the same method was employed in securing all the
 records treated in this monograph, and as far as uniformity can
@@ -285,6 +293,7 @@ is arbitrary, but justifiable. All college students and public school
 teachers are considered adults regardless of age. They make up
 nearly the entire adult group. Its age limits are very wide?from
 sixteen to sixty years.
+
 All pupils of the public schools are considered as children, and
 are grouped according to sex and age. The children of this investigation constitute an unselected group of pupils from the regular
 classes of the Philadelphia public elementary schools. Unselected
@@ -299,12 +308,14 @@ last twelve hundred children tested, with the exception of about
 and live in one of the best sections of the city. These different
 sections were chosen in an effort to make the quantified results
 more typical and reliable.
+
 Records eliminated. Although there was no selection of the
 THE WITHER FORM BO ART). 101
 children to be tested, it was found necessary to make certain eliminations after the data had been collected. Eliminations were not
 made without abundant evidence of justification. In no case was
 a record excluded merely because the time record did not prove to
 be what the examiner expected.
+
 The eliminations can roughly be divided into two general classes.
 The first contains those cases who failed to complete the test
 correctly without instructions other than the standard directions.
@@ -324,6 +335,7 @@ while 11 per cent occurred on both the first and second trials, the
 third trial being a success. Failure occurred for the first time on
 the third trial in about 3 per cent of the cases. Two children failed
 on all three trials.
+
 The second group of eliminations contains the records thrown
 out entirely from the above group and from the group who completed
 the test correctly. It includes the records of four children whose
@@ -332,6 +344,7 @@ that it interfered seriously with his performance, of two children
 diagnosed as not higher than borderline cases, and four children
 diagnosed as feebleminded at the Psychological Clinic of the
 University of Pennsylvania.
+
 As the result of questionable formboard performances, about
 twelve children have been examined at the Psychological Clinic.
 Of these, six, as indicated above, have been diagnosed as below
@@ -342,7 +355,6 @@ of the other three failed on any trial, but completed it successfully.
 The shortest trial of the girl diagnosed as a borderline case was 6
 seconds longer than the maximum for her age. The other two who
 completed it without failure, but were diagnosed as feebleminded,
-102 THE PSYCHOLOGICAL CLINIC.
 were boys. The shortest trial of the one was next to the longest
 record for his age; the shortest trial record of the other was within
 the upper or poorest 10 per cent for his age. It is therefore evident
@@ -361,6 +373,7 @@ our position is definitely established that we do not know the
 significance of failure, but that it does not necessarily mean feeblemindedness. It appears that, if we must depend entirely upon
 time records or other quantifiable data in the treatment and interpretation of such cases, we are helpless.
 Successful Performances.
+
 This group includes the records of all the public elementary
 school pupils in regular classes tested, except those eliminated in
 the preceding section. It also includes the records of 221 adults.
@@ -376,6 +389,7 @@ it ends with the end of the fifth month. Those who are six years
 and six months old, but less than seven years of age come in the
 group headed 6.75. The 13.50 group contains all children thirteen
 years of age.
+
 No record was kept of the number or character of errors made
 by these children. The work of other investigators already referred
 to, shows the futility of such records, especially for normal children.
@@ -384,7 +398,6 @@ been felt. It is much more important to consider why a child makes
 errors than merely to know what errors he makes. If the examiner
 gives his attention to the number and kind of errors, he cannot
 study the performance analytically while it is in progress.
-THE WITMER FORM BOARD. 103
 The only data uniformly collected from the performances of
 all the subjects tested, were the time records for each of the three
 trials. In some of the cases a record was also kept of those who
@@ -394,6 +407,7 @@ factors. It was found impossible in many cases to decide whether
 a. subject intended to plan or if he just happened to remove the
 blocks according to a plan. In reality the easiest way to remove
 the blocks happens to be the best plan.
+
 The shortest of the three trials is taken as the index of an
 individual's formboard ability. This is generally taken by other
 investigators as the most reliable single index. It is easily determined and lends itself readily to statistical treatment. So far as
@@ -401,6 +415,7 @@ this investigation goes, it distinctly supports the earlier formboard
 studies which establish and adopt this as the most satisfactory
 basis for standardization. The shortest trial is here taken as the
 basis for the quantitative treatment of results.
+
 Tables I and II contain the distributions of the shortest trial
 time records for each age group; table I for boys and table II for
 girls. Across the top of the table, opposite F on the ordinate, are
@@ -422,11 +437,12 @@ distribution within which the records of all normal children fall.
 It appears, however, that enough cases are here presented to indicate
 in a general way the tendencies of the various age distributions and
 their central values.
+
 The range of distribution is wider and the standard deviations
 are larger for the records collected in this investigation than for
 those reported by any other investigator. Two factors are largely
 responsible for these differences. In the first place, the standard
-104 THE PSYCHOLOGICAL CLINIC.
+
 TABLE X. DISTRIBUTION OF SHORTEST TRIAL TIME RECORDS OF 1474 BOYS.
 5 6
 4 14
@@ -568,11 +584,11 @@ vo vo to
 \r>
 <? 00 o>
 ?5 *0 W5
+
 Ordinate: Time in seconds.
 Abscissa: Age, middle value of.
 F: No. of failures per age (excluded).
 In parentheses: No. per age in distribution.
-THE WITMER FORMBOARD. 105
 TABLE II.?DISTRIBUTION OF SHORTEST TRIAL TIME RECORDS OF 1375 GIRLS.
 F
 103
@@ -710,11 +726,11 @@ lO ^ *0
 ?o vo >o
 vo *0 IT3
 OS
+
 Ordinate: Time in seconds.
 Abscissa: Age, middle value of.
 F: No. of failures per age (excluded).
 In parentheses: No per age in distribution.
-106 THE PSYCHOLOGICAL CLINIC.
 TABLE III.?TIME VALUES AND NUMBER OF CASES OF DIFFERENT AGES BOYS.
 Age
 Number
@@ -917,7 +933,9 @@ Adult
 23
 27
 23
+
 TABLE IV.?TIME VALUES AND NUMBER OF CASES OF DIFFERENT AGES?GIRLS.
+
 Age
 Number
 of Cases
@@ -1126,7 +1144,7 @@ Adult
 24
 23
 22
-THE WITMER FORMBOARD. 107
+
 method of giving the test permits the expression of greater individuality on the part of the subject. It is less mechanical and allows
 him more freedom in the employment of his own resources. In the
 second place, the scope of the investigation is larger and includes
@@ -1165,8 +1183,8 @@ which 40 per cent of the cases are distributed; the tenth column,
 the highest quintile, or that value above which 20 per cent of the
 cases are distributed; the eleventh column, the maximum or longest
 record made by any individual of the group.
+
 The central values, as indicated by the relatively large standard
-108 THE PSYCHOLOGICAL CLINIC.
 CHART I.?BOYS.
 THE WITMER FORMBOARD. 109
 CHART II.?GIRLS.
@@ -1208,16 +1226,18 @@ test to many more hundreds of children. Until such an extension
 is made these tables and charts will have to serve as the basis of
 comparison for records obtained with the use of the same board by
 the same method.
+
 The most expeditious way of using the charts to compare a
 given record, is to refer the record first to its proper sex and age
 group. Its relative position within this group should then be determined by locating it with reference to the quintile within which
 it falls.
+
 BIBLIOGRAPHY.
+-------------
 1. Goddard, H. H. The Formboard as a measure of intellectual development
 in children. Reprint from The Training School [Bulletin], 1912, 9, 49-52.
 2. Jones, E. E. Individual differences in school children. The Psychol.
 Clinic, 1913, 6, 241-251.
-THE WITMER FORMBOARD. Ill
 3. Norsworthy, N. Psychology of mentally deficient children. Columbia
 University Cont. to Philos. and Psychol., 1906. Pp. 111.
 4. Pintner, Rudolf, and Paterson, Donald G. The Formboard ability

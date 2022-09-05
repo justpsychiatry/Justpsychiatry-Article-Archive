@@ -1,8 +1,9 @@
 Birth Rate and Native Intelligence
 ===================================
 
-By Willis W. Clark, M.A.
+:Author:  Willis W. Clark, M.A.
 Sociologist, California Bureau of Juvenile Research, Whittier, Calif.
+
 Introduction. It is commonly considered that families of low
 mentality have more children than those of normal intelligence; i. e.,
 are especially prolific in reproduction. "Feeble-minded beget feebleminded and they propagate fast" is the essence of usual statements
@@ -28,12 +29,11 @@ generally accepted as the most accurate measure of native intelligence available
 is the ratio of mental age to actual or chronological age, may be used
 in preparing a statistical table indicating the frequency distribution
 of native intellectual endowment.
+
 That there is a high correlation between the intelligence of children and parents is usually assumed as being governed by the laws
 of heredity, and has been verified by mathematical formulae. For
 example, Pearson (4, p. 24) found a coefficient of correlation of 0.58
 between the intelligence of father and son. Unpublished correlations prepared by Popenoe (5), using data of Department of Research
-(111)
-112 THE PSYCHOLOGICAL CLINIC.
 concerning the same cases included in this study, found further
 evidence of this positive relationship. Where the intelligence of one
 parent and one child was known, the correlation was found to be
@@ -44,6 +44,7 @@ indicating a high relationship between the two factors. Thus it
 appears that we may assume, for the purposes of this study, that
 the I. Q. of the boys in the School would show the relative degree of
 intelligence of the parental stock.
+
 Quantitative data. A distribution of the I. Q.'s of 323 boys in
 Whittier State School concerning whom we have both an intelligence
 examination and an accurate family history, is given in Table I.
@@ -59,6 +60,7 @@ borderline, and feeble-minded according to the usual estimates of
 1. Q. values. It is seen that 3.5 per cent are superior, 25 per cent
 average-normal, 50 per cent dull-normal or borderline, and 21.5 per
 cent feeble-minded.
+
 Statistical analysis. Statistical measures of averages and relationship between the native intelligence of the boys (therefore, as
 previously indicated, the intelligence of the parents) as measured by
 intelligence examinations and the number of fully related brothers
@@ -74,25 +76,28 @@ there were 1204 children of full relationship, an arithmetic average
 of 3.7 per family. The arithmetic average for the superior groups
 is 3.0 children; average-normal, 3.4; dull-normal and borderline,
 3.9; feeble-minded, 3.8 children. The mode, not marked in any
-BIRTH RATE AND NATIVE INTELLIGENCE. 113
 group, increases from 1 child for the superior and average-normal,
 to 3 children in the two lower intelligence groups. Finally, the
 medians for each of the groups show the same tendency as the other
 measures of averages,?there is a slight tendency for those of inferior
 intelligence to be members of the larger families.
+
 Qualifying factors. Two factors concerning the validity of data
 for statistical purposes should be considered. They are (1) the families used as a basis for this study are a selected group, and (2) the
 average intelligence is low.
+
 Each family considered have one factor in common; namely, a
 boy has been committed to a state industrial school. Otherwise
 they are from various racial groups, from city, town, and country,
 well-to-do and poverty stricken, of various grades of moral character,
 and from a great variety of home conditions.
+
 The median I. Q. for the group of boys in this study is 81.5,
 while Williams (8, p. 25) found the median I. Q. for the usual population of the School to be 82, a negligible difference. This I. Q. indicates an average mental age of 13 years for adults in this group.
 While this is considerably below the expected average adult mental
 age for school children as found by Terman (6), it is practically identical with the average mental age of adults, which Doll (1) finds
 that the U. S. Army tests indicate.
+
 Thus it appears that the data may be used as a relatively unselected group and with reasonable expectation of trustworthy results.
 Summary and conclusion. The data presented in this study
 show only a very slight tendency for boys of higher intelligence (by
@@ -103,7 +108,10 @@ practically negligible. However, there is nothing in these data which
 should militate against the desire to reduce the frequency of disgenic
 characters; all efforts to promote a higher birth rate among the more
 eugenic groups should be encouraged.
+
 References.
+-----------
+
 1. Doll, Edgar A. The Average Mental Age of Adults. Journal of Applied
 Psychology, IV-4, December, 1919.
 2. Elderton, Ethel M. The Relative Strength of Nurture and Nature.
@@ -125,6 +133,7 @@ Table I.?Intelligence Quotient of One Boy and Number of Children
 in Family.
 i.Q.
 Number of Children in Family.
+
 9 10 11 12 13 14
 Total
 121-130..

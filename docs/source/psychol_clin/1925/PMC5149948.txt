@@ -14,12 +14,14 @@ to the two standard blocks. The progressive weights were scored in
 terms of the number of times the judgment "heavier" was given in
 the last ten judgments. The I.Q.'s of the group range from 37 to
 106, the average being 72.7, P.E. 18.2.
+
 The correlations between the suggestibility scores and those
 made on the Stanford Revision are of some significance, and afford
 interesting data on a problem about which too little is known. In
 some cases high suggestibility seems to be one of the factors underlying delinquency, and it is worth while to know how suggestibility
 relates with intelligence. The coefficients of correlation (Pearson's
 product-moment formula) are given below.
+
 I. Q. with size-weight illusion r. = -.150 ? .110
 I. Q. with progressive weights r. = -.472 ? .087
 M. A. with size-weight illusion r. = -.118 ? .111
@@ -46,6 +48,7 @@ Size-weight illusion with progressive weights H
 plus L r. = -.048 ? .113
 The correlations here are only slightly higher than when the
 "heavier" judgments are used alone.
+
 Inspection of the scatter-diagram shows that, for both suggestibility tests, the relationship between I.Q. and suggestibility is
 greater at the ends of the I.Q. distribution. The force of this can
 also be seen, if the suggestibility scores of those cases falling in the
@@ -64,7 +67,10 @@ the I.Q.'s for the two sexes differ by only two points. The following table expr
 Cases Size-weight illusion Progressive weights
 Boys 26 38.4 5.1
 Girls 9 40.0 8.1
+
 Summary
+--------
+
 In the group studied, the relationship between suggestibility
 and intelligence is inverse. It is moderately high and inverse in
 the case of the progressive weights and slight in the case of the sizeweight illusion, the inverse relationship being greater in both instances at the ends of the intelligence distribution. The girls appear more suggestible than the boys, the difference being greater

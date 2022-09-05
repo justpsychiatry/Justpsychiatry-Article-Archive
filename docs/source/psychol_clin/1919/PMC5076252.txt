@@ -1,7 +1,8 @@
 Intelligence and Efficiency Tests Distinguished
 ================================================
 
-By A. L. Ide, Ph. D.
+:Author:  A. L. Ide, Ph. D.
+
 University of Pennsylvania.
 The man who has had no experience or acquaintance with
 psychological tests is very apt to form the judgment that all tests
@@ -17,6 +18,7 @@ If we should examine the two classes of tests after the man on the
 street had divided them into the two groups, we should find that he
 had unconsciously divided them roughly into tests of efficiency, and
 tests of intelligence.
+
 For it is the purpose of testing in general to answer either or
 both of two questions: What are the fundamental capacities of the
 individual in question, and how much has the individual acquired as
@@ -37,10 +39,9 @@ out how much has been acquired. Two students of very different
 real ability may have acquired approximately the same amount from
 the course, the weaker one having put in a proportionately greater
 amount of time and labor. This acquirement may be in the form of a
-(204)
-INTELLIGENCE AND EFFICIENCY TESTS. 205
 body of remembered knowledge, or a degree of manual or mental
 dexterity, but it is always something acquired.
+
 While examinations fall in the class of efficiency tests it must not
 be too readily admitted that they are at all scientific as tests of that
 kind. The best that any examination can do is to put through a
@@ -56,6 +57,7 @@ score is commensurate with the difficulty of the question itself. But
 while examinations are often very faulty in these respects, it is so
 seldom that the fate of the subject rests entirely upon the examination
 that in the long run very little harm is done.
+
 It is because of this lack of scientific accuracy and standardization
 in examinations that efficiency tests have sprung up to fill the need.
 This can best be made clear by referring to one of the best known
@@ -75,13 +77,13 @@ remainder. There was a fifth page on which the subject was given
 the task of copying single figures, to determine the speed of putting
 down figures when the operation did not involve any mathematical
 calculation.
+
 The whole arrangement seems very simple and at first glance one
 does not see how it is any advance over what second and third grade
 teachers have been doing for many years. The main value of the
 test lies in the fact that it has been nationally standardized. It has
 been given to students in schools in nearly every state in the Union,
 and the results from many thousands of school children of all grades
-206 THE PSYCHOLOGICAL CLINIC.
 and ages have been combined to secure normal scores. With these
 normal scores available it is possible, and convenient, for any administrator to give the tests in his school and at once be able to compare his results with the standard results from the nation as a whole.
 In one respect the Courtis tests have become somewhat unfair
@@ -102,6 +104,7 @@ Mr. Courtis has since published series B in the fundamentals of
 arithmetic, in which all the processes are longer and more complicated.
 Whether they represent an improvement over the first series produced
 is still a matter of opinion.
+
 It can readily be seen that the Courtis tests in the fundamentals
 of arithmetic are purely a test of acquirement, an efficiency test.
 This is shown by evidence of various kinds. Two students of widely
@@ -110,6 +113,7 @@ addition test, merely because one has had more or better training
 than the other. Also, any student may progress from one score in
 the test to a much higher score in a later attempt by putting in the
 requisite amount of study and practice.
+
 This is not the case with the other general class of tests, the
 intelligence test. In this form of investigation, the attempt is made to
 determine the innate abilities of the subject, regardless of the formal
@@ -119,7 +123,7 @@ It seems reasonable to be tested to see what we can do by special
 endeavor and practice, but to be tested for what we can do in a game
 in which we cannot improve our work by practice, falls outside the
 reasonable experience of the individual.
-INTELLIGENCE AND EFFICIENCY TESTS 207
+
 An illustration of this style of test is the one which rightly or
 wrongly goes by the name of the memory span test. In this test, a
 series of digits is read slowly to the subject, and he is required to
@@ -147,6 +151,7 @@ This then is the basic difference between the two classes of tests,
 whether they are calculated to test ability independently of training
 received, or whether they are testing the degree of the accomplishment resulting from training. There are other aspects in which the
 two forms of tests usually differ.
+
 Since the efficiency test is not attempting to analyze the individual's condition, but his progress, it is almost never an attempt to
 get a measurement of any single mental factor or faculty. There is
 no aim to differentiate between visual memory and auditory memory,
@@ -157,7 +162,6 @@ number of different mental powers may be put in use in accomplishing a specific 
 efficiency test we measure the accomplishment that results from the
 total combination of the powers, not differentiating one from the
 other. The efficiency test is not at all at fault for failing to make this
-208 THE PSYCHOLOGICAL CLINIC.
 distinction in its results, because this distinction is of no advantage
 to the purpose of the test. On the other hand the tests are much
 simpler than the intelligence tests, for the very'reason that they are
@@ -173,6 +177,7 @@ intelligence which the various mental powers present. It is again
 this attempt to get down to the fundamental, the unitary, which gives
 to intelligence tests the strangeness of appearance that arouses
 amusement in the minds of the inexperienced.
+
 This situation throws some light upon the question which is
 arousing so much interest today, that of employing psychological
 tests as a means of determining the fitness of a candidate for entrance
@@ -199,9 +204,9 @@ movement as distinguished from the speed of initiating movement,
 and many other factors. Variation in these factors will of course
 modify the final score of the individual, but as I have suggested
 above, the efficiency test is not concerned with the factors which
-INTELLIGENCE AND EFFICIENCY TESTS. 209
 have brought about the results, but with the complex of the results
 themselves.
+
 The intelligence test, in its turn, almost always requires a certain
 amount of acquirement. In the Columbia cancellation test, the
 subject must learn, or have learned, the differences between the
@@ -212,6 +217,7 @@ selected that the individual should grade low because there were
 factors in it which he had not yet learned, it would be open to considerable criticism. This would be the case if I should attempt to
 measure the memory span of the ordinary twelve year old boy and
 give him the digits in Greek.
+
 To sum up, we find that tests divide at once into two classes,
 those of capacity, and those of accomplishment. The latter are
 familiar and reasonable, the former unfamiliar and at first unreasonable. The intelligence test attempts to measure mental unitary

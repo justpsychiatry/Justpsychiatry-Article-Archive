@@ -1,9 +1,9 @@
 An Organized Mental Survey in Philadelphia Special Classes
 ==========================================================
 
-/
 By Norbert J. Melville, M.A.,
 Psychological Laboratory, Philadelphia School of Pedagogy.
+
 Early in 1915 the Philadelphia School of Pedagogy in co-operation with the Division of Medical Inspection and the Department
 of Instruction of the Public Schools organized a system of psychological testing of the pupils in the special classes. Although the
 public schools have had the advantage of the active co-operation of
@@ -13,6 +13,7 @@ examination except for a comparatively small number of the 2700
 pupils enrolled in the special classes, to say nothing of the 9000
 pupils enrolled in the regular grades who are from three to six
 years over age for grade.
+
 Consequently it seemed desirable that some system should be
 organized by which a certain number of standardized mental tests
 should be applied individually to as many of the pupils as could be
@@ -28,13 +29,12 @@ analyzed and interpreted, would be helpful along with the school
 and home records in determining provisional pedagogical treatment
 until a complete medical and psychological examination of the case
 could be made.
+
 At the time some forty men were just completing a laboratory course in mental testing with special reference to the use of
 standardized series of tests. No student had been admitted to this
 course who had not completed in a satisfactory manner the fundamental courses in general and experimental psychology. Parallel
 with the course in mental testing, a course in child study was required. Each man was provided with the materials necessary
 for giving the Binet tests, some of the Knox tests, and certain tests
-(258)
-AN ORGANIZED MENTAL SURVEY 259
 of ability in reading and arithmetic. All such material was carefully inspected from time to time.
 A circular letter was sent out by Dr Oliver P. Cornman, Associate Superintendent having charge of the special classes, to all
 principals having such classes in their schools. The letter stated
@@ -46,6 +46,7 @@ Francis B. Brandt, Head of the School of Pedagogy, laboratory
 extension work was organized as part of the advanced work in educational psychology.1 A roster was arranged by which the students
 could be present one afternoon a week in the schools to which they
 had been assigned for the testing.
+
 In order to insure the greatest possible standardization of procedure the following measures were adopted. The recommendations of the informal conference on mental testing at Buffalo were
 carefully studied and interpreted. Regarding the many questions
 of Binet procedure not covered by these recommendations, an effort
@@ -67,16 +68,18 @@ In order to perfect the mechanics of testing and recording, special
 record blanks known as forms 43 and 44 of the Philadelphia Public
 Schools were prepared. These forms will be described in a later
 article on our proposed standardization.
+
 Arrangements are being made to translate our proposed uniform
 method into several foreign languages so that foreign born pupils
 can be tested in their native tongue.
+
 i See Am. Psych. Assoc., Report on Academic Status of Psychology, Dec., 1915.
-260 THE PSYCHOLOGICAL CLINIC.
 During the first part of the extension work the students retested
 such pupils in the School of Practice as had already been carefully
 examined. The practice-testing was done in the presence of the
 writer so that he could assist and render such immediate and later
 criticism as was necessary in training these student assistants.
+
 This practice work was supplemented by a series of carefully planned
 written examinations on questions of standard procedure. The
 student-examiners were then given a series of lectures on their relation
@@ -88,6 +91,7 @@ the interruptions of school routine, and other similar topics were
 considered. The student-assistants were instructed never to attempt an evaluation of results except in laboratory conferences
 under the direction of the writer, who made the final interpretation
 of results.
+
 The student-assistants reported to the principals who assigned
 them rooms where the individual examinations could be made under
 satisfactory conditions. The examiner was held responsible for the
@@ -95,6 +99,7 @@ pupil from the time of leaving to time of returning to the class; and
 following the regulation of the Division of Medical Inspection, it
 was provided that the testing of a girl pupil should always be done
 in the presence of a witness.
+
 The results of all tests were brought to the psychological laboratory and there carefully evaluated during the term. At the
 end of the term reports were sent to each school, to the Division of
 Medical Inspection, and the Department of Instruction. During
@@ -107,13 +112,14 @@ tests for the first eight hundred and fifty pupils examined. The
 results obtained with the Knox tests will be reported in another
 article on the development of a supplementary scale of performance
 tests.
+
 In order that the total Binet age might not obscure certain
 important facts concerning the pupils tested, they have been classified in growth periods2 according to their ability to pass four out of
 1 This chart was prepared for the Special Class section of the exhibit of the Committee on
 Feebleminded of the Public Charities Assn. of Pa.
+
 2 cf. Ellis, F. W.p Report of Mental Examinations at Neurological Inst., N. Y.: 5th and
 6th Ann. Rept. of N. Y. Probation and Protective Assn., 1913, 1914.
-AN ORGANIZED MENTAL SURVEY 261
 850 SPECIAL CLASS PUPILS CLASSIFIED BY MENTAL LEVELS AND AGE
 DIFFERENCES ACCORDING TO THE BINET SCALE (FINAL REVISION).
 Summary According to Mental Levels
@@ -152,6 +158,7 @@ Total Examined 1 850
 20
 5
 90
+
 five of the tests for III, VI, IX, or XII years, as shown in the chart.
 The pupil who fails to pass the III year tests is classified at the level
 of early infancy in his intellectual development through not necessarily in his emotional or volitional development. A pupil who
@@ -159,16 +166,19 @@ passes III but fails on the VI year tests is classified at the level of later
 infancy, etc. This method of classification (1) reveals the fact that,
 certain highly diagnostic tests, e. g. the definition tests, have not
 been passed and (2) suggests one form of school grading.
+
 As shown in the table, twenty, or 2 per cent of the pupils appeared to be at the level of early infancy i.e. they failed to show
 the intelligence of normal three-year-old children. All of the twenty
 should be given a thorough clinical examination with a view to the
 proper disposal of these cases for whom it would seem impossible
 to make adequate provision in the public schools.
+
 One hundred and twelve pupils, or 13 per cent appeared to be
 at the level of later infancy i.e. they failed to show the intelligence
 of a six-year-old child. Further examinations will probably show
 that comparatively few of these pupils can be adequately provided
 for in the public schools.
+
 Five hundred and sixty-three, or 63 per cent of the pupils tested
 at the level of early childhood i.e. they showed the intelligence of
 six-year-old children but not of nine-year-old children. One hundred and sixty of these, four or more years below age, call for special
@@ -178,7 +188,7 @@ per cent of the total number examined, together with the one hundred and ninetee
 four years retarded, represent the type of pupil for whom the state
 cannot at the present time hope to make institutional provision.
 Of the one hundred and thirty-nine pupils tested at the level
-563 PUPILS TESTED
+
 (7to 18 Years Old}
 20 PUPILS TESTED
 ROMAN NUMERALS INDICATE YEAR5 OF MENTAL GROWTH
@@ -195,6 +205,7 @@ the five pupils to be mentioned later in group D were usually of the
 disciplinary or ill balanced type. Together with disciplinary cases
 belonging in groups B and C many of these would be best provided
 for in probationary classes or in a parental school.
+
 As already mentioned the pupils are grouped within each level
 according to the difference between their Binet age and their chronological age. Four groups are made on this basis, namely, Group A?
 pupils four or more years below normal according to the Binet scale,
@@ -202,6 +213,7 @@ Group B?pupils from one to three years below normal, Group C?
 pupils having an age difference of less than plus or minus one, Group
 D?pupils one or more years above normal according to the Binet
 scale.
+
 Although Binet and other psychologists suggest that a mental
 retardation of three years is indicative of serious mental deficiency,
 the writer has considered it best to include in Group A i. e. those
@@ -217,12 +229,13 @@ constitute the main problem of special classes in our public schools.
 Groups C and D,1 containing ninety-five, or twelve per cent of
 the pupils, represent the most promising cases for possible restoration to regular grades when given thorough clinical examination
 and adequate treatment.
+
 All the cases of re-examination thus far studied merely confirm
 the previous testing with the exception of two cases. One of these
 pupils is troubled with a serious speech defect and has shown a gain
 'These "approximately normal" pupils are the younger children at each level who have thus
 far failed in the regular grades.
-AN ORGANIZED MENTAL SURVEY 265
+
 of 1.6 years within six months. The other pupil passed the tests
 of memory span and association in the higher years when first tested
 but failed to do so when retested six months later, thus lowering
@@ -234,6 +247,7 @@ case were the changes of such a nature as to alter the classification
 of these pupils. The retesting confirmed their original classification
 in mental levels and their grouping by age-difference. A further
 study of retesting is in progress.
+
 Upon request from a school, the writer has analyzed the results
 of a given examination in conference with the examiner and has
 submitted a report based on the detailed analysis. Later conferences
@@ -243,6 +257,7 @@ supplementary studies. In our practice school, each of the special
 class pupils was tested one hour per week for five successive weeks.
 This testing included experiments in learning the regular school
 subjects.
+
 It is important to emphasize here that the results of this survey
 are based upon the Binet-Simon scale as revised by its authors in 1911.
 Unlike the earlier revisions still generally used in this country,
@@ -251,6 +266,7 @@ ages X to XII inclusive, pointed out by Brigham1 and by Thorndike.2
 Their criticisms, though published in 1914, do not refer to Binet's
 final revision of 1911, recommended by the Buffalo conference, but to
 an earlier form of the scale.
+
 Conclusions.
 The Binet-Simon and other scales administered under careful
 supervision provide a standard method of:

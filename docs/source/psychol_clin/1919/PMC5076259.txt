@@ -2,8 +2,9 @@ The Children of a Jewish Orphanage
 ====================================
 
 A Preliminary Report of a Psychological Survey.
-By M. S. Viteles.
+:Author:  M. S. Viteles.
 University of Pennsylvania.
+
 This report is based upon the examination of 155 children in a
 Jewish orphanage in Philadelphia. The original purpose of the
 investigation was to compare the performance level of this group of
@@ -34,8 +35,7 @@ of a case, made upon one of the blanks used in the investigation,
 illustrates the type of cases marked for further examination. In each
 individual case a social history taken from the records of the institution was drawn up, in greater detail for the cases marked for further
 examination.
-248
-THE CHILDREN OF A JEWISH ORPHANAGE. 249
+
 RECORD OF THE EXAMINATION OF CASE 65.
 Name, No. 65. Sex, Male. C. A., 8-1. S. A., 2A.
 Date, May 3, 1919.
@@ -70,9 +70,9 @@ Energy, 1. Further mental examination.
 Observation, 2.3.
 Alertness, 2.
 PROCEDURE.
+
 The form used to record the findings was developed primarily
 for conciseness. It offers the opportunity for presenting on one side
-250 THE PSYCHOLOGICAL CLINIC.
 of a sheet of paper the data connected with the preliminary examination. For most of the cases it presents the one statement which will
 be made; only for the suspected cases will more data be gathered.
 Certain of the oustanding specificities involved in the performance tests on which a qualitative estimate was to be given are
@@ -82,11 +82,14 @@ and distributed particularization, the concentration and distribution
 of attention. Fluctuation refers to the distractibility of attention,
 retentiveness and training to the memory complex, and co-ordination
 to muscular co-ordination.
+
 The procedure followed in presenting the tests was in each case
 the standarized method of procedure outlined by the men who
 standardized them. Each child was examined separately under
 conditions which minimized the distracting influences.
+
 TREATMENT OF RESULTS.
+
 After the investigation was completed it was found impracticable
 to take the means of the age groups as had been done by Young,
 Paschal and Humpstone in the standardization of the tests with
@@ -112,7 +115,6 @@ performance fell. These three values were then added and divided
 by three, the resulting figure representing what I call the mean level
 of the individual's performance. For example: Case No. 15 (Boys)
 takes 13 seconds to do the Witmer Form Board. His performance
-THE CHILDREN OF A JEWISH ORPHANAGE 251
 time falls into the second quintile with a rating of 4. The Cylinder
 Test is done in 37 seconds, falling into the third quintile with a rating
 of 3. His memory span is also in the third quintile with a rating of 3.
@@ -124,13 +126,17 @@ children in the orphanage show a mean level of 3 and over. If such
 is the case, the performance of the selected group can be said to be
 on the same plane as the performance level of the unselected group in
 this series of tests.
+
 The results in tabulated form show the age, school grade, actual
 performance time for the Form Board and Cylinders, the Memory
 Span, the performance estimate for each of these and the mean level
 of the results for boys and girls.
+
 The cases chosen for further examination are marked by an
 asterisk.
+
 CONCLUSIONS.
+
 The qualitative judgments of the individual performances could
 not be subjected to a statistical study, but the judgment of the
 quality of the performance was made on a five-point scale.
@@ -140,6 +146,7 @@ mean level of 3 and over. This means that the difference in the
 quantitative results between the selected group and the large unselected group is so small as to warrant the assumption that quantitatively, at least, the selected group, from a low social stratum, has
 as high a performance level as an unselected group.
 Table I.?Distribution of Mean Levels.
+
 Value.
 1-1.9
 2-2.9
@@ -315,6 +322,7 @@ lb
 lb
 2a
 la
+
 Performance Time
 (in sees.)
 Formboard Cylinders
@@ -466,6 +474,7 @@ F
 81
 90
 61
+
 Memory
 Span.
 Performance Mean
@@ -544,6 +553,7 @@ Estimate. Level.
 3 3.6
 4 4.0
 3 3.3
+
 *Further examination. HS=High School.
 Table III.?Girls.
 Case No.
@@ -793,6 +803,7 @@ fib
 2a
 2a
 lb
+
 Performance Time
 (in sees.)
 Formboard Cylinders
@@ -1034,8 +1045,8 @@ Level.
 3.3
 1.6
 3.6
+
 B.C.=Business College. HS=High School. C=CompIeted. * Further examination.
-254 THE PSYCHOLOGICAL CLINIC.
 3. As a result of this preliminary investigation 15 boys and 15
 girls were marked for further examination. It is important to note,
 however, that the quantitative statement of results?as represented

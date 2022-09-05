@@ -2,19 +2,22 @@ Job Spicifications and Diagnostic Tests of Job Competency Desigend for the Audit
 ============================================================================================================================
 
 (A PSYCHOLOGICAL STUDY IN INDUSTRIAL GUIDANCE)
-By Morris S. Viteles, Ph.D.,
+:Author:  Morris S. Viteles, Ph.D.,
 Instructor in Psychology, University of Pennsylvania.
 This study concerns itself with the development of job specifications and diagnostic tests of job competency for the auditing
 division of a street railway company. The purpose of this study is
 to outline the general method of procedure in developing specifications and tests of job competency and to discuss their application
 in the selection and maintenance of an effective working force in
 one unit of a particular organization.
+
 The Auditing Division.
+
 The Auditing Division, in which the job specifications and tests
 wTere prepared, is devoted to the auditing of the receipts of the interurban section of the railway, both passenger and express. This
 division also keeps records of car mileage and calculates the expenses
 and receipts of operating cars in terms of car miles, passenger miles,
 car hours and other statistical units.
+
 The daily receipts of cash and tickets of each conductor on the
 interurban division are audited in this division. At the end of each
 day each conductor turns in the cash and tickets collected by him
@@ -27,16 +30,19 @@ auditor does not handle any money. This is counted by a money
 counter and a statement of the amount turned in by the conductor
 given to the auditor. The latter, however, does count the tickets
 and checks them against the stubs.
+
 In addition to the audit of interurban passenger receipts the
 daily receipts of the city lines are audited in this division. This
 involves a separation of cash from tickets, the counting of the cash
 and the weighing of the tickets, etc.
+
 All express business carried on by the interurban line is also
 handled by this division. Express rates must be calculated, cus(83)
 84 THE PSYCHOLOGICAL CLINIC.
 tomers charged, statements issued, etc. In addition various statistics
 concerned with passenger and express business are prepared in this
 division.
+
 All of the employes in the Auditing Division are called Auditing Clerks both on the pay roll and in a classification of employes
 prepared by a Wage Equalization Board. The implication in such a
 designation is that all the employes in the division perform exactly
@@ -45,6 +51,7 @@ job in it. As a matter of fact, it was found during the course of this
 study that the workers simply called "clerks" were engaged on nineteen
 different jobs requiring dissimilar competencies on the part of the
 workers.
+
 There existed, neither in the Employment Office or elsewhere
 a standard statement of the duties of the jobs in this division (or in
 any other unit of the organization) and of the qualifications which a
@@ -52,6 +59,7 @@ worker must possess in order to be proficient on any one of them.
 Such a statement, known as a job specification, is an essential part
 of the machinery of effective personnel administration. Such a job
 specification involves:
+
 1. A description of the job with special reference to its duties
 and the conditions under which these duties are to be performed.
 2. An analysis of the physical qualifications of the job.
@@ -85,6 +93,7 @@ operation in the job.
 10. Time to learn.
 11. Nature of training for the job.
 12. Opportunities for promotion.
+
 The object of this study was, in part, the preparation of job
 specifications for the Auditing Division. The method of procedure
 used in developing them and a discussion of their application in this
@@ -93,7 +102,9 @@ preparation of job specifications for other units of this organization
 and it is expected that a somewhat analogous application of them in
 the selection and maintenance of an effective working force in these
 other units of the organization will be made.
+
 A. Devising Standard Specifications.
+
 According to the analysis of the preliminary job specifications
 developed in conference with the division head there were being
 done in this unit of the organization nineteen different jobs, each with
@@ -105,6 +116,7 @@ in duties, a similarity in mental requirements was revealed. Jobs
 for which the competency requirements are the same can be listed
 under a single specification, called a Standard Office Job Specification. All the jobs in the Auditing Division, I have grouped under
 eight such Standard Specifications.
+
 The character of the grouping of the jobs under Standard Specifications depends upon the similarity of the qualifications which
 make an individual competent to fill any of the jobs covered by a
 single standard specification. In some cases, in the Auditing Division, the grouping is influenced by the fill-in character of some of the
@@ -112,16 +124,17 @@ jobs. Applicants must be hired not only according to the qualifications for work
 from day to day, but also in accordance with specifications for jobs in
 which they are going to fill in. Employes who, for example, do
 "money counting" and "mileage record" need possess little or no
-86 THE PSYCHOLOGICAL CLINIC.
 competency in arithmetic or sorting, but since they are required to
 fill-in on interurban railway receipt auditing, they must be hired
 according to the specifications of interurban railway receipt auditing,
 and those jobs are therefore included under the same Standard
 Office Job Specification as the latter job.
+
 Below are listed the names and numbers of the Standard Office
 Job Specifications developed for the Auditing Division. A copy of
 one standard specification is included in this report.
 Standard Office Job Specification. Auditing Division).
+
 No. Name. Jobs Covered.
 1 Auditing Clerk A Express Audit;
 Fare Box Register;
@@ -151,7 +164,7 @@ be made on the basis of standard psychological tests. One series of
 tests covers a number of different jobs in which the operations differ,
 but for which the qualifications essential to properly carrying out the
 different operations are the same.
-SPECIFICATIONS OF JOB COMPETENCY. 87
+
 Form 1A
 STANDARD OFFICE JOB SPECIFICATION NO. 1.
 Name: Auditing Clerk A Dept.: Accts. Div.: Auditing
@@ -195,7 +208,7 @@ Special Features:?Use of adding machine taught where needed. Use of
 money-counting machine also taught.
 Handling money in money counting is dirty.
 Honesty essential.
-88 THE PSYCHOLOGICAL CLINIC.
+
 (6) Clerks who are hired on the basis of similar qualifications
 can be readily transferred from one job to another as the circumstances require. This is especially desirable in such a division as the
 Auditing, where the nature of the work is essentially "fill-in."
@@ -210,7 +223,9 @@ can be established.
 similar qualifications covering a wide variety of jobs, it can be used
 in equalizing wages on the basis of similar abilities, experience and
 knowledge brought to different jobs.
+
 Statements of Duties.
+
 It has been explained above that a single standard specification
 may cover a variety of jobs with different duties. (This is actually
 the case with Standard Specifications No. 1 and No. 2 for the Auditing Division.) The qualifications for the jobs covered by a standard
@@ -229,9 +244,9 @@ specification which covers more than one job a Statement of Duties
 has been drawn up. This form is used in requisitioning and selecting
 employes in the manner described under Application in Selection.
 Diagnostic Tests of Job Competency.
+
 A job specification is a schedule of the operations and qualifications of the job. The essential feature of the job specification, from
 the point of view of the personnel worker in industry, is the description of job competency?the statement of the abilities, knowledge,
-SPECIFICATIONS OF JOB COMPETENCY. 89
 personality and experience prerequisite to the attainment of proficiency on the job. The specification of the competency required
 for a particular job is, however, of little value unless means for
 determining whether the applicant for the job possesses such competency are provided. There must be standards for determining
@@ -245,6 +260,7 @@ job for which he is making application. It is a definite, quantitative
 method of determining the presence or absence of job competency,
 to replace the inaccurate, unscientific method of mere observation.
 1. Development of Tests for the Auditing Division.
+
 A series of such psychological tests have been prepared for use,
 together with the job specifications, in the selection and in the
 maintenance of an effective working force in the Auditing Division.
@@ -269,7 +285,6 @@ correlation could be computed because of the small number of
 employes on the job. In these cases a direct comparison between
 the scores of the individual on the tests and the scores of employes
 in jobs covered by the same specifications was made. Moreover, in
-90 THE PSYCHOLOGICAL CLINIC.
 such cases, the procedure was adopted of retaining for the selection
 of these employes the series of tests assigned, to the standard specification covering the particular job under consideration.
 On the basis of correlations obtained between the test scores
@@ -279,6 +294,7 @@ and ten were retained for use in guiding applicants toward positions
 in this division on the basis of specific job competency. The names
 of the tests to be used for selection and in other ways indicated in
 the section on applications are as follows:
+
 1. Arithmetic A.
 2. Arithmetic B.
 3. Mental Arithmetic.
@@ -289,12 +305,15 @@ the section on applications are as follows:
 8. Stenographical Test.
 9. Alphabetical Filing.
 10. Language Test.
+
 A "critical level" or the lowest score which could be considered
 a passing score was established for each test by distributing the
 scores on the tests, calculating significant measures and computing
 the percentage of successes and failures above and below a given
 measure.
+
 2. Grouping into Batteries.
+
 The tests, on the basis of the co-efficients of correlation between
 scores and proficiency ranks were grouped into batteries. Each
 "battery" of tests is to be used in selecting workers for jobs covered
@@ -307,19 +326,21 @@ the battery and job proficiency is also given in each case except
 where the number of employes covered by the Standard Office Job
 Specification is less than ten. In calculating these co-efficients of
 correlation the rank order ratings of workers on all jobs covered by
-SPECIFICATIONS OF JOB COMPETENCY. 91
 a single Standard Office Job Specification were used. The following
 information is given about each test:
+
 1. Name of Test.
 2. Method of Scoring.
 3. Time allowed.
 4. Critical level.
+
 Since there are a number of tests in each battery, it has been
 necessary to work out some method by which a combined score representing a combination of the scores of the individual tests in the
 battery could be computed. Such a combined score, called the
 " Total Score," can be computed for each complete battery of tests.
 The Total Score represents a pro-rating of each test in direct proportion to the significance of its co-efficient of correlation with
 industrial proficiency. The co-efficients of the tests in Battery No.
+
 1, for example, are:
 Mental Arithmetic  [-0.60
 Number checking  1-0.52
@@ -328,11 +349,13 @@ The relative value of these co-efficients is 6, 5, 4. The relative
 value of the score of each test in the Total Score is exactly the same.
 The score for Arithmetic A is 21, for Number Checking is 25, and
 Mental Arithmetic, 30, in a Total Score of 75.
+
 The Total Score is the criterion for selection. Applicants who
 obtain a Total Score lower than the one which is indicated as the
 Lowest Acceptable Score?determined empirically except where
 otherwise indicated?are not to be hired for the job for which they
 are being tested.
+
 3. Tests for Selection of Clerks for Auditing Division.
 Battery 1. Standard Job Specification No. 1. Auditing Clerk A.
 Test. Name Scobing. Time Allowed. Critical Level.
@@ -341,6 +364,7 @@ F-101 Mental Arith Number right... 3 minutes  30
 F-102 Number checking Number right... 2 minutes  8
 In each case by "number right" is meant the total number of
 correct answers.
+
 To obtain the Total Score for this battery, the score of the applicant in test F-100 is multiplied by 1.5 and the score in test F-102 by
 3. The scores so obtained is added to the score in test F-101.
 92 THE PSYCHOLOGICAL CLINIC.
@@ -375,6 +399,7 @@ F-105 D
 F-110 Filing Number Right. .. .3 minutes 21
 The Critical Level for the test in arithmetic for typists in this
 division is 10.
+
 The typing tests are scored in terms of time taken to finish and
 number of errors. Mistakes in spelling, spacing and punctuation
 constitute errors. The standards are such that all applicants may
@@ -386,7 +411,7 @@ a test of the ability to copy uncorrected material; the second a test of the abi
 possible, the applicant is tested on the same type of machine to which she is accustomed. If this
 is not possible, a time allowance is made by reason of the applicant's unfamiliarity with the type
 of machine on which she is required to take the test.
-SPECIFICATIONS OF JOB COMPETENCY. 93
+
 meets their needs. The actual needs of the Auditing Division are
 being ascertained in the course of standardizing this test.
 The following is a tentative classification of typists on the
@@ -430,7 +455,7 @@ t The Filing Test is included in this battery by reason of the fact that the ste
 this division are required to do alphabetical filing.
 t All items correctly checked and copied, including the samples, constitute the score for Test
 F-103.
-94 THE PSYCHOLOGICAL CLINIC.
+
 Battery 6. Standard Job Specification No. 8. General Clerk.
 Test. Name. Scoring. Time Allowed. Critical Level.
 F-100 Arithmetic Number Right... .6 min  14
@@ -442,6 +467,7 @@ These tests can readily be given and graded by a clerk in the
 employment office. Each individual test in a battery is given
 separately, graded by the clerk and the score entered on the employment application, to be used for selection in the manner described
 elsewhere in this report.
+
 4. Follow-Up.
 It has been generally agreed that the psychological test used
 in industry can only be properly evaluated by following up the
@@ -457,7 +483,10 @@ Provision has also been made that for a period of from three to six
 months the employment agent send to the division head for interview and employment some or all of the applicants whose scores in
 the tests are belo\v the Lowest Acceptable Score, and that the work
 of these so employed be even more closely followed up.
+
 The Psychologist and Job Specifications.
+-------------------------------------------
+
 It has been indicated throughout this report that the job specification is made up of three parts: (1) a description of the duties
 of the job; (2) an analysis of the physical requirements of the job;
 (3) an analysis of job competency, of the mental qualifications which
@@ -467,9 +496,9 @@ the last aspect of the job specification?with the statement of the
 mental qualifications which constitute competency for the job.
 There are two contributions which the psychologist can make
 in the analysis of job competency.
+
 1. He makes an analysis of competency or qualifications for
 the jobs, in terms of specific abilities. He can substitute for such
-SPECIFICATIONS OF JOB COMPETENCY. 95
 vague mental qualities as dependability, alertness, force, good habits
 and other vague terms of mental characteristics a category of the
 specific abilities which go into each performance?into each job.
@@ -478,6 +507,7 @@ testing individuals for the possession of the competency which a
 particular job demands. These standards are psychological tests
 The method of procedure to be used in developing such tests are
 presented in the section on Diagnostic Tests.
+
 The most important contribution which it is the aim of the
 psychologist to make to the theory and practice of job analysis is a
 more accurate and scientific formulation of what constitutes competency for the job.
@@ -505,7 +535,7 @@ found, the results are a standard and scientifically accurate measurement of tho
 job. It is unnecessary to name these abilities even." In my opinion,
 it is extremely important to name these abilities od the job specification for the following reasons:
 * Link, Henry C., "Employment Psychology."
-96 THE PSYCHOLOGICAL CLINIC.
+
 1. It is a record, in a definite form, of the analysis made by the
 psychologist, for his own use and for use by others working in the
 same field. The actual accomplishment in industrial testing in
@@ -517,6 +547,7 @@ in the work is esssential to its ultimate success. The most important
 feature in such a formulation of theory is, in my opinion, the analysis
 and recording of the specific abilities which establish competency
 for a particular job.
+
 2. The employment agent and the operating executive should
 know what, in the opinion of the psychologist, constitutes competency for the job in which they are interested, and such competency can only be fully expressed in terms of specific abilities. The
 industrial executive will quickly agree to use concepts of specific
@@ -527,6 +558,7 @@ will be so defined that they can be understood, by the industrial layman as well
 have generally been used in place of terms denoting specific ability
 are vague concepts of mental qualities which have in them very little
 which is actually related to job competency.
+
 . A great variety of such terms have been used in various job
 specifications in an attempt to describe job competency.* In the
 Description of Occupations of Office Employes prepared by the
@@ -539,9 +571,11 @@ responsibility, tact and trustworthiness. Other qualities which are
 often used in the statement of job competency are, ambition, intelligence, sincerity, patience, loyalty, impulsiveness, reliability, creative
 ability, manual or motor ability, willingness, thoroughness, and so on
 ad infinitum.
+
 Schneiderf gives a list of sixteen classifications which can often
 be applied to the individual in a description of the competency
 demands of jobs.
+
 * Discription of Occupations?U. S. Department of Labor; Office Employes.
 t H. L. Hollingsworth, "Vocational Psychology," p. 105 ff.
 SPECIFICATIONS OF JOB COMPETENCY. 97
@@ -562,6 +596,7 @@ These are as follows:
 (n) Concentration (mental focus); diffusion.
 (o) Rapid mental co-ordination; slow mental co-ordination.
 (p) Dynamic; static.
+
 The terms listed here are somewhat different in general import.
 Some of them are concepts of motivation. Loyalty, sincerity,
 patience, impulsiveness are related to the drives, the impulses leading to certain types of performances. The motive concepts also
@@ -573,6 +608,7 @@ examples of these, but the terms here used, and they are very fair
 examples of those used in the majority of job specifications, are not
 at all accurately descriptive or representative of specific mental
 abilities.
+
 This study is presented as a preliminary one which merely serves
 to open up the problem of the analysis, in terms of specific mental
 abilities, of the operations involved in a particular task. Posting,
@@ -584,7 +620,7 @@ made for all operations in every job if an accurate description of
 job competencies in psychological terms is to be obtained. A list
 of terms which can be used for such a purpose, is presented
 below.
-98 THE PSYCHOLOGICAL CLINIC.
+
 These terms are descriptions of the specific mental abilities
 necessary for success on a given job. They are adapted from the
 "Analytical Diagnosis Chart," used in the Psychological Clinic of
@@ -594,6 +630,7 @@ and later modified by Young* and Humpstone.f In this report is
 indicated a method of applying these terms in job analysis. They
 have already been so applied in the analysis of the jobs discussed in
 this report.
+
 It is not only necessary to indicate the specific mental abilities
 which are required on a given job, but it is necessary to indicate the
 extent to which each job calls for a specific ability. In many cases,
@@ -609,11 +646,13 @@ discussed in this report, a 5-point scale, in which each of the numbers
 1, 2, 3, 4, 5, represents a degree to which each specific mental ability
 is essential for success upon the job, was used. The meaning of each
 numerical rating is given below.
+
 1. Negligible.
 2. Barely significant.
 3. Significant
 4. Of great importance.
 5. Of utmost importance.
+
 In other words, thinking in terms of the mental abilities which
 are called for a given job, 1 means that the importance of the ability
 so rated is practically negligible in job success; 2 means that this
@@ -625,13 +664,13 @@ particularly distinguishes this job from other similar jobs; 4 means
 that the ability is essential and that it is called for to such a great
 * W. H. Young, "Physical and Mental Factors Involved in the Formboard Test," Psychological Clinic, Nov. 15, 1916.
 tH. J. Humpstone, "The Analytic Diagnosis," Psychological Clinic, May 15, 1919.
-SPECIFICATIONS OF JOB COMPETENCY. 99
 degree that a deficiency in it on the part of the worker engaged on the
 job would interfere seriously with the efficiency on the job; 5 means
 that the job requires this ability to such an extent that a deficiency
 in it on the part of the worker would make him absolutely incompetent to fill the job.
 The specific mental abilities used in this investigation and
 suggested for use in job analysis are as follows:
+
 1. Energy. By energy is meant the degree of physical force
 necessary for success on the job. It is perhaps illustrated by the
 difference between the job of laborer, in which the amount of energy
@@ -639,6 +678,7 @@ would be rated as 5 on a five-point scale, and the crossing watchman
 at a country crossroad on a railroad in which there are just a few
 trains a day, in which case the amount of energy to be expended would
 be rated as 1.
+
 2. Rate of Discharge. By this is meant the speed with which
 energy is called forth by the job. On some jobs much energy may be
 called forth, but this energy is called forth slowly, while on other
@@ -646,11 +686,13 @@ jobs it must be expended with great speed. The reverse is also true;
 that is, there are jobs in which the amount of energy demanded is
 low, but it may be required that this be expended either at great
 speed or slow speed.
+
 3. Endurance. By endurance is meant the degree to which the
 ability to resist fatigue is required by the job. It is equivalent to
 what is ordinarily called "stamina" and refers to the degree to which
 the job demands -the ability to discharge energy beyond the limit
 of physical fatigue.
+
 4. Control. By control is meant the ability which is demanded
 in the direction and execution of large bodily movements. Walking,
 for example, involves control to a very great degree. In the realm
@@ -659,16 +701,18 @@ would require control to the extent of 5 on a five-point scale. This
 would be contrasted with, let us say, comptometer operating, in
 which the emphasis would be more upon co-ordination than upon
 control. Control would be rated 5, for example, in the job of running
+
 a street car.
+
 5. Co-ordination. (A) This refers to the job requirement in the
 combination of fine muscular movements; in the establishment of
 finer adjustments among these movements. The importance of
 this ability rates high in such jobs as fine instrument making, comptometer operating, and in fine armature winding.
 6. Co-ordination. (B) This refers to the harmonious combination of eye and muscle action demanded by the job. It is movement controlled by sight. It is important in such a job as telephone
-100 THE PSYCHOLOGICAL CLINIC.
 operating, in which the operator is required to get the plug into a
 hole of small diameter, the location of which is perceived through
 the eye.
+
 7. Initiative. This refers to the self-starting aspect of the job
 demand. It is the ability of the individual to begin a new operation
 without instruction. It is required to some extent in running the
@@ -676,6 +720,7 @@ trolley car, exhibiting itself when trouble arises in the mechanism of
 the trolley car or on the road. It is found to a much less degree in,
 for example, the job of interurban railway receipt audit, and to a
 much greater degree in that of "shooting trouble."
+
 8. Concentration. This refers to the attention which the job
 requires to be given to one unit, or one small part, in contrast to the
 distribution of attention over a number of parts. For example, a
@@ -685,6 +730,7 @@ single operation, to one single thing. It is attention to individual,
 single component parts of a complex operation or object in contrast
 to attention spread over a number of parts of a complex operation
 or object.
+
 9. Distribution. This refers to the distribution of attention which
 the job requires over a number of different operations or things at
 the same time. For example, the motorman distributes his attention
@@ -701,6 +747,7 @@ by the job. ' It is the ability which the job calls for of giving entire
 attention to the matter at hand until it is completed. It is the
 opposite of fluctuation of attention, in which attention wanders from
 the matter at hand.
+
 11. Alertness. This is the readiness which the individual must show
 on the job in meeting changing situations. It is wide-awakeness.
 It should be rated as an important requirement on the job of motorman and relatively of less importance in the job of running a mimeographing machine.
@@ -713,13 +760,16 @@ individual will need a memory span of at least four in order to be
 successful on the job. In a job such as that of listing clerk a long
 memory span will be of great help. In still other jobs, such as feeding a drill press, a memory span of three and possibly less is sufficient
 for efficiency.
+
 13. Discriminability. This refers to the ability required by the
 job of recognizing differences in size, shape, sound, taste, etc.
 The smallness of the difference it is necessary to recognize on a given
 job is a measure of the degree of discrimination required by the
 job.
+
 Discriminability is employed in each of the several realms, and
 we therefore have:
+
 (?) Visual discriminability.
 (?) Auditory discriminability.
 (c) Tactile discriminability (touch).
@@ -780,7 +830,7 @@ new problem. In most jobs new problems are not presented. They
 may occasionally arise in the process of running a street car, very
 often in "shooting trouble," but very rarely in clerical jobs, and in
 most of the other jobs of a producing nature.
-SPECIFICATIONS OF JOB COMPETENCY. 103
+
 21. Intellect. This refers specifically to the ability to put the
 kind of knowledge that is ordinarily obtained in the schools to use on
 the job. A job in which no knowledge of school work is at all
@@ -793,6 +843,7 @@ knowledge of about sixth grade standing, a rating of 3. A job of the
 intellectual level of the high school graduate would be 4, and a job
 which required collegiate or technical training would be given a
 rating of 5.
+
 22. Judgment. This is the exercise of choice on a job. It is the
 job demand for the selection for a best response from among a number
 of possible satisfactory responses, e. g., train dispatching.
@@ -801,16 +852,19 @@ consideration in an impartial, rational way of the problems presented by the job
 in relatively few jobs. A research assistance in a Research
 Department is a job which would be rated high with reference to
 this ability.
+
 24. Language Ability. The extent to which the use of written
 and spoken language is an essential requirement for job proficiency.
 Information clerk, correspondence clerk would be jobs rating high
 in the requirement of this ability. Listing clerk, laborer would
 rate low.
+
 25. Executive. This refers to the capacity for leadership required
 on the job. This is a complex, unanalyzed mental ability which
 can only be rated in a very superficial way. This is probably a
 complex of personality as much as it is one of specific ability, but
 it is tentatively included in this list.
+
 In order to facilitate the use of these terms in making job analysis,
 Form M. Q. 1 was provided. A copy of this form, giving an analysis
 of one of the jobs studied in this investigation, is included in this
@@ -823,7 +877,7 @@ degree to which it is significant on the job. The three specific mental
 abilities which most definitely distinguish the job, that is, which
 represent the specific mental abilities of greatest importance for
 success on the job are checked with XX.
-104 THE PSYCHOLOGICAL CLINIC.
+
 Form M. Q. 1
 Name of Job:?Interurban Railway Receipt S. J. S. No. 1 Tests No. F-100
 Auditor.
@@ -865,13 +919,13 @@ c/K
 24. Language Ability
 25. Executive
 Remarks.
+
 A line connecting the X's on the chart gives what might be called
 a "job psychograph." If the form is held so that the specific abilities
 come at the bottom of the sheet and the curve strikes horizontally
 across the page/ fthe peaks of the curve reveal at a glance the specific
 mental abilities, which, in the opinion of the one who is making the
 job analysis, are the ones Which are most essential in job success,
-SPECIFICATIONS OF JOB COMPETENCY. 105
 These abilities can be called the "keystone" specific mental abilities
 of the job and they are correlated to the "keystone" operations of
 the job or the activities which most clearly distinguish this job from
@@ -881,5 +935,5 @@ is the possession of these abilities to the extent required by the job
 which makes the worker most competent to fill the job. The tests
 should be such as to pick individuals whose vocational psychograph
 coincides with the job psychograph. The problem in both vocational guidance, in which the job is selected for the individual, and
-industrial guidance, in which the individual is selected for the job, /
+industrial guidance, in which the individual is selected for the job,
 is to make the vocational psychograph and job psychograph coincide.

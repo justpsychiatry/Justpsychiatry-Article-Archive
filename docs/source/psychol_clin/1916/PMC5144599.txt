@@ -2,7 +2,7 @@ The Control of hunger in health and disease
 =============================================
 
 176 THE PSYCHOLOGICAL CLINIC.
-By Anton Julius Carlson. Chicago:
+:Author:  Anton Julius Carlson. Chicago:
 University of Chicago Press, 1916. Pp. viii+319. Illus.
 This volume presents "a summary of the work on the stomach, with special
 reference to hunger and appetite, carried out in the Hull Physiological Laboratory of the University of Chicago during the last four years," in the light of
@@ -13,6 +13,7 @@ no remedy; when it fails in disease, he dispenses the 'bitter herb' of tradition
 and hopes for the best. . . . There is yet much work to be done on the problem
 of hunger control, work worth doing, co-operative work of the clinic and biological
 laboratory."
+
 Mr. Carlson's investigation represents a very substantial attack upon the
 problem. During the last four years he "has been fortunate in having in his
 service a 'second Alexis St. Martin,' a man with compete closure of the esophagus

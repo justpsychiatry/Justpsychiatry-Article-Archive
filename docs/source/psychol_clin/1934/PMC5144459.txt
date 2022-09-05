@@ -1,13 +1,14 @@
 Some Behavior Changes in A Juvenile Paretic
 ===========================================
 
-By Mary V. Louden
+:Author:  Mary V. Louden
 University of Pittsburgh
 Patty was a colored girl of eleven years when she was first referred to the psychological clinic from the out-patient department
 of a local hospital.1 The hospital reported the following clinical
 findings: Spinal Fluid "Wassermann, four plus; Blood "Wassermann,
 anti complimentary; Kahn, negative; Colloidal Gold, 5555552200-0
 and 5555554210-0.
+
 Her abnormality was first noted in school. She had seemed to
 make average school progress until she reached 2-A, which grade
 she repeated. She also repeated the third grade where she became
@@ -16,6 +17,7 @@ speech, incoherent ; and her behavior, unpredictable. She lost her
 way when sent to school, lost her sense of propriety in school and
 cried to be taken home, and did not seem to be able to adjust well
 with the group.
+
 It was at about that stage that Patty was first seen by a psychologist. There were then noted in her test performance great
 irregularities, the nature of which seemed to indicate that she once
 had been able to master material which was now beyond her ability
@@ -31,10 +33,9 @@ examinations she failed one item, and on the last retest, two items
 in the four-year battery. Thus far she has never failed any test in
 the three-year battery and never did she score any success beyond
 the eight-year level.
+
 i The author is indebted to the Pediatric Clinic of the Allegheny General
 Hospital and to Dr Theodore Elterich in particular for cooperation, for certain information included here, and for permission to publish this report.
-257
-258 THE PSYCHOLOGICAL CLINIC
 Some test items?comparison of weights (V-l), right and left
 hand (YI-1), morning or afternoon (VI-alt.), and differences
 (VII-5)?show an irregular alternation of success and failure from
@@ -43,6 +44,7 @@ perhaps depending upon whether the particular test was presented
 on the upward or the downward swing of her rapidly fluctuating
 attention. These variations actually did cancel each other so far
 as score was concerned.
+
 The tests below eight years which were failed most consistently,
 indeed almost invariably, are repeating 12-13 syllables (IV-alt.),
 patience (V-5), three commissions (V-6), counting thirteen pennies
@@ -54,6 +56,7 @@ Her poor penmanship, as well as her failure on the diamond, is
 predominantly a matter of eye-hand coordination. That performance has become progressively poorer. In the diamonds reproduced
 below, note the fringes which Mateer found characteristic in the
 performance of luetics.
+
 The Porteus mazes also reflected tremors; however, failure on
 them was due to something more than faulty coordination. Although Patty never scored a success on the five-year maze, her performance became decidedly poorer from test to test, being marked
 March 15, 1932
@@ -61,7 +64,6 @@ March 15, 1932
 November 24, 1933
 ?
 November 24, 1933
-BEHAVIOR CHANGES IN A JUVENILE PARETIC 259
 by more fringes and irregularities. Her last performance was a
 succession of random stabs at the paper. Earlier failures had
 seemed to be due to incoordinated efforts to trace between the lines
@@ -74,11 +76,13 @@ as would a child just learning that feat. She was unable to adjust
 her clothing or tend to her physical needs. Her speech had become
 more and more indistinct until it was impossible to understand
 much that she said.
+
 A tendency toward constant and incoordinated motion, hypersensitivity to stimuli and rapid fluctuation of attention have increased over this period until it is now almost impossible to administer any test. The tendency toward irrelevant conversation,
 present throughout the period of this study, has become extreme.
 At the last interview, Patty was in constant activity. No less constant was the flood of speech which was disconnected, irrelevant,
 and garbled. Perseveration of a few ideas seemed to have reached
 the point of obsession.
+
 Memory, too, has shown a change. Whereas Patty once remembered the examiner's name from one interview to another, on
 the last occasion she asked the name every time she wished to address any remarks to that same person.
 No picture of Patty's behavior during this period of deterioration would be adequate without the mention of at least two other
@@ -95,7 +99,6 @@ be a request for praise, rather than the expression of any doubt as
 to the satisfactory nature of her performance. It is asked with the
 same eagerness and in the same tone of voice whether the task has
 been perfectly executed or most obviously and absurdly failed.
-260 THE PSYCHOLOGICAL CLINIC
 It is unfortunate that we have no objective record of Patty's
 behavior prior to the havoc of disease. We have only the mother's
 word that she seemed to be "normal" and the teachers' report that
@@ -111,6 +114,7 @@ There are present here certain physical and personality traits
 which detract from the significance of the test score and which must
 Binet Results from Five Successive Examinations
 Date of Examination
+
 Oct.
 23,
 1931
@@ -154,119 +158,6 @@ Year VI 1. Right and left
 5. Coins
 6. Repeats 16-18 syllables
 Alt. Morning or afternoon
-0
-0
-0
-0
-0
-0
-0
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-0
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-0
-+
-+
-+
-+
-0
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-0
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-BEHAVIOR CHANGES IN A JUVENILE PARETIC 261
 Binet Results from Five Successive Examinations?Continued
 Year VII 1. Fingers
 2. Pictures, description
@@ -335,8 +226,10 @@ t Year X given, no tests passed.
 Key:
 +, test was passed.
 ?, test was failed.
+
 0, test omitted because all test items on previous level were failed or for
 some other reason provided for by Terman.
+
 be considered in all plans for her care. Here we have a thirteenyear-old girl who can scarcely climb stairs alone, who falls frequently, who cannot be intrusted with the simplest errand, who no
 longer can dress herself nor tend to her simplest physical needs, and
 on whom the most patient and persistent instruction is wasted, for
@@ -347,7 +240,6 @@ or in the neighborhood. The real gravity of the situation lies in
 the fact that Patty cannot be relied upon to sense cause and effect
 relationships, nor to use proportion in her behavior, nor to comprehend the gravity of her acts. We are told that the window and the
 baby and all other objects have" equal chances of being the recipient
-262 THE PSYCHOLOGICAL CLINIC
 of blows with a knife or hammer or any object she may have in her
 hand. So it has come about that the younger children in the family
 are never safe in her presence. The mother has been anxious for

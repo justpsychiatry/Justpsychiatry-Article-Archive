@@ -1,8 +1,9 @@
 The Meaning of a Binet Score
 =============================
 
-By H. J. Humpstone, Ph.D.,
+:Author:  H. J. Humpstone, Ph.D.,
 University of Pennsylvania.
+
 Of the origin and history of the Binet tests there is no need to
 write here, but to understand the significance of the results obtained
 by the use of the tests it is necessary to know something of their
@@ -29,17 +30,18 @@ shall make 110 attempt to distinguish between acquired and congenital
 idiocy; for a stronger reason we shall set aside all consideration of
 pathological anatomy which might explain his intellectual deficiency."
 (Page 37.)
+
 Now if the followers of Binet had stuck to that we should have
 had no quarrel with their methods or with their tests. Then Binet
 goes on to distinguish the different kinds of subnormal children and
 the tests that he employed with them. "Here we shall limit ourselves to the measuring of their general intelligence. We shall determine their intellectual level, and, in order the better to appreciate this
 1 The Intelligence of the Feeble-minded, translated by Elizabeth S. Kite, 1916, The Training School, Vineland,
 New Jersey.
+
 The Development of Intelligence in Children, translated by Elizabeth S. Kite, 1916, The Training Sr.hool,
 Vineland, New Jersey.
+
 Thu quotations in this article are made from the latter.
-(18)
-THE MEANING OF A BINET SCORE. 19
 level, we shall compare it with that of normal children of the same
 age or of an analogous level. The reservations previously made as
 to the true conception of arrested development, will not prevent
@@ -63,6 +65,7 @@ be able to determine how many years such an individual is advanced
 or retarded. In a word, we shall be able to determine to what degrees
 of the scale idiocy, imbecility, and moronity correspond." (Pages
 40 and 41.)
+
 "Our purpose is to evaluate a level of intelligence. It is understood that we here separate natural intelligence and instruction.
 It is the intelligence alone that we seek to measure, by disregarding
 m so far as possible, the degree of instruction which the subject
@@ -80,7 +83,6 @@ Note particularly the statement just read. We must disregard
 the degree of instruction possessed by the subject. And yet we
 question him on the days of the week, the names of the months
 and to count forwards and backwards, etc. Are not these facts
-20 THE PSYCHOLOGICAL CLINIC.
 acquired through instruction? He even contradicts the sentence
 that "we disbelieve that we take into account any acquired information." Some of the tests in the later revisions do ask him to
 read something and to write something. In my opinion this does
@@ -97,6 +99,7 @@ or an imbecile if he is lacking in judgment; but with good judgment
 he can never be either. Indeed the rest of the intellectual faculties
 seem of little importance in comparison with judgment." (Pages
 42 and 43.)
+
 Intelligence, level of intelligence, intellect, level of intellect,
 judgment, initiative, comprehension and adaptation are different
 terms used. Those terms are all used as equivalent in this article,
@@ -113,6 +116,7 @@ contains a strictly theoretical exposition of the methods of diagnosis
 which we have devised for recognizing and measuring intellectual
 inferiority. It remains to complete the preliminary work, to standardize it, to show how far these methods work out when applied to
 real facts. After the theory must come the proof.
+
 "The psychological examination of a subject lasts on an average
 forty minutes. We made in the beginning many useless tests with
 each child, because we were doing a work of investigation; we were
@@ -120,7 +124,6 @@ groping; now that one knows what to look for, one can proceed more
 rapidly, and we believe that a half-hour will suffice to fix the state of
 the intellectual development of each child." (Page 91.)
 In the use of the tests certain concepts have been formed and
-THE MEANING OF A BINET SCORE. 21
 are in general use. Two of these concepts are fundamental. The
 first is the concept of the mental age. It is claimed that by the use
 of the Binet scale we arrive at a figure or a number which represents
@@ -152,6 +155,7 @@ and we found that he had a mental age score of a little less than
 nine and a half years. Does that represent the mentality of a normal
 child of nine and a half years? The diagnosis of feeble-minded children is made entirely on that concept by those who use the Binet
 scale and apply it strictly.
+
 The tests are arranged with that fundamental concept in view.
 No feeble-minded child ever gets a mental age above twelve. If the
 mentality is twelve or over we do not have a feeble-minded child no
@@ -160,7 +164,6 @@ and the subject is classified under that grade which is indicated by
 his mental age. An idiot has a mental age of two or less. From
 two to seven or eight is classed the imbecile, and from eight to
 twelve the moron. There are three degrees in each grade and each
-22 THE PSYCHOLOGICAL CLINIC.
 one of those degrees has its own mental age.1 That is the classification which is most widely used in this country, based on the
 concept of mental age and the other concept which goes with it,
 that intelligence is a unit characteristic. In spite of the analysis
@@ -172,6 +175,7 @@ all point to the fact that the mental aberrations that are present
 in those children whom we call feeble-minded are different, not only
 in different localities and in different families, but also in the same
 family. The same is true of normal children.
+
 Those are the two fundamental concepts which underlie the
 general applications of the Binet-Simon Scale for intelligence, and
 they are both false. The mental age score is not the representation
@@ -200,7 +204,6 @@ or for a prognosis of their intellectual development, the score alone
 derived from any of these arrangements of the tests in the series is
 absolutely worthless for diagnostic purposes. What does the I. Q.
 1 Of course the mental age must be considered with reference to the attained chronological age, and the twoand-three-year system is understood in this discussion.
-THE MEANING OF A BINET SCORE. 23
 mean? Does it mean social competency? No. The M. A. or the
 I. Q. is no index of social competency. Under certain circumstances
 it may be an index of educational competency. They are using these
@@ -214,6 +217,7 @@ of the scores as criteria for vocational guidance is a different matter
 entirely. There may be some vocations in which a high intellectual
 level is required where a Binet test would help in the selection, but
 I do not think of any at this time.
+
 What do these tests measure? A series of tests which can be
 applied and the results used in any field should be selected and applied
 so as to show definite competencies or proficiencies necessary in that
@@ -242,7 +246,6 @@ of these are memory span tests, using digits, sentences or ideas, and
 they all use auditory stimuli. Visual memory span is not tested at
 all, although some of the other tests involve some visual memory
 span. The next ability which seems to be tested by some of the
-24 THE PSYCHOLOGICAL CLINIC.
 tests is memory. There is no attempt to distinguish between auditory
 or visual memory. Most of the memory tests involve chiefly verbal
 memory and that may be largely motor. So the analysis can not
@@ -259,6 +262,7 @@ only five. There are seven which may be said to test intelligence
 in the sense in which we use it, that is the ability to solve what for
 the individual is a new problem. Such tests as the fifth test under
 Table of the Tests Under Each Heading.
+
 Memory Span Memory Discrimination Imagination
 III 6
 III al
@@ -351,10 +355,11 @@ VII 4
 VII 6
 VIII al2
 X 3
+
 Aboye all other abilities this series tests the ability to understand and use language. There are only right
 tests in th? ninety that do not depend primarily on language ability. They are IV, 2; IV 4; V, 1; V, 5; VII, 4;
 VII, 6; X, 3 and X, 3d alternative.
-THE MEANING OF A BINET SCORE. 25
+
 the fourth year seem to be in a special series by themselves. They
 may or may not test memory. If the child has already learned by
 experience the thing to do then they come under memory; if the
@@ -391,11 +396,11 @@ the trained psychologist these competencies may be analyzed out of,
 or estimated from the performance of, these tests, but in the grouping
 of the tests and in the method of scoring them they are concealed
 and lost sight of.
+
 Neither the Terman tests nor any other form of the Binet tests
 when administered and scored by the standard method can show the
 abilities or disabilities of the individual child. It is true that in most
 school systems and clinics where these tests are used the examiner
-26 THE PSYCHOLOGICAL CLINIC.
 is directed to record carefully and accurately the response of the
 child and the method of procedure in all tests, and the experienced
 examiner can often tell from these notes the way in which the child

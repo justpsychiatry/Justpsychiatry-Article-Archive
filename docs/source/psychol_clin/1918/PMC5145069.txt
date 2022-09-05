@@ -1,10 +1,11 @@
 A Brief Binet-Simon Scale
 ============================
 
-By Edgar A. Doll,
+:Author:  Edgar A. Doll,
 Assistant Psychologtst, the Training School at Vineland, N. J.
 {Concluded.)
 Ill
+
 Although the brief scale was developed as an experimental
 method, it has seemed advisable to consider its actual practicability.
 As a critique of its practical value I have applied the first brief scale
@@ -31,16 +32,16 @@ acquire in less than a half hour's instruction the technique required
 for applying the brief scale satisfactorily, if this has been preceded
 (or presumably supplemented) by some observation of actual
 examinations.
+
 The children were examined under very satisfactory conditions
 in cloak-rooms and ends of corridors. All children present in the
 first four primary grades were tested. The children were for the
 most part from the homes of mill-workers of inferior social status.
 No exact data on social status and nationality were obtained; school
-(254)
-A BRIEF BINET-SIMON SCALE. 255
 grade was the only satisfactory criterion of the ability of the subjects.
 The examination times for the individual tests varied from five to
 ten minutes per subject.
+
 The final data were analyzed by mental age distributions, I. Q.
 distribution, school grade, and life age, in various combinations.
 The data for each examiner were also analyzed for influences of
@@ -58,6 +59,7 @@ that the selective influence of the course of study would cull out
 the more seriously retarded in the third and fourth grades, whereas
 these retardates would not yet be so differentiated in the first two
 grades.
+
 The position of the I. Q. mode at 85 instead of at 100 might
 be interpreted as indicating either that the scaled arrangement of
 the tests was too difficult, or that the subjects actually represented
@@ -78,7 +80,6 @@ grade is rather complicated in the absence of some index which
 permits the grouping of all the children in one classification. To
 overcome this difficulty I have used a pedagogical quotient, or P. Q.,
 the ratio of the standard age for a grade to the actual age of a child
-256 THE PSYCHOLOGICAL CLINIC.
 in that grade. By means of this ratio one is able to eliminate one
 term in the statistical analysis, and is able to summate and graph a
 total distribution. In using the pedagogical quotient I have taken
@@ -136,6 +137,7 @@ bright children are (relatively) retarded scholastically. The P. Q.
 mode, however, is at 90, whereas the I. Q. mode is at 85, so it appears
 that the average and dull children are scholastically advanced in
 relation to their intelligence.
+
 From the foregoing it is not too much to hope that this study
 has indicated a profitable field of research and has developed a
 reliable ready-to-hand measuring scale for rapid mental testing.
@@ -145,7 +147,7 @@ expertness now required for reliable mental testing. If we can make
 these laboratory methods over into tools of everyday life we shall
 indeed realize the aim of making psychology indispensable to all
 branches of social science.
-258 THE PSYCHOLOGICAL CLINIC.
+
 APPENDIX.
 Table IX.?Frequency Distribution, Showing Correlation Between
 Mental Ages by the Complete (Goddard) Binet-Simon Scale
@@ -192,7 +194,7 @@ Total.
 9.0
 9.5
 10.0
-A BRIEF BINET-SIMON SCALE. 259
+
 Table X.?Frequency Distribution, Showing Correlation Between
 Mental Ages by the Complete (Goddard) Binet-Simon Scale
 and by the Second Brief Scale, for Normal Subjects.
@@ -298,7 +300,7 @@ Total...
 9.0
 9.5
 10.0
-A BRIEF BINET-SIMON SCALE. 261
+
 Table XII.?Frequency Distribution, Showing Correlation Between
 Mental Ages by the Complete (Goddard) Binet-Simon Scale and
 by the Second Brief Scale, for Feebleminded Subjects.

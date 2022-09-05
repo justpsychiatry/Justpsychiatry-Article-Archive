@@ -1,8 +1,9 @@
 Clinical Psychology and the Rural Schools
 ==========================================
 
-By Ernest R. Groves,
+:Author:  Ernest R. Groves,
 Professor of Psychology, New Hampshire Stale College, Durham.
+
 In The Psychological Clinic for February, 1913, Professor
 Pyle makes an appeal for an organized effort to discover the feebleminded living in the country. Although it is impossible at present
 to determine the proportion of rural aments as compared with those
@@ -22,6 +23,7 @@ is the range of feeblemindedness gradually ascending from the
 smallest percentage, in the most populous county of the state, to the
 largest percentages, in the two most remote and thinly populated
 counties."
+
 A student of country-life problems can hardly fail to appreciate
 the importance of this proportion of feebleminded in the rural
 counties. Without attempting to assume that such a condition is
@@ -36,8 +38,6 @@ It is most reasonable to turn to the schools as the means by which
 the country's need may be met. As in most fundamental social efforts
 the instrument for progress is already at hand. The country school
 1 Report of tho Children's Commission, Concord, 1914, p. 01.
-(272)
-CLINICAL PSYCHOLOGY AND RURAL SCHOOLS. 273
 organization must be made use of in the attempt to find the children
 who are physically and mentally defective. It is wise economy to
 organize the forces of public education so as to enable them to undertake clinic investigation in localities too small to carry on such work
@@ -47,6 +47,7 @@ practical and even painful ways to feel the need of such work being
 done. Any school administrator of experience realizes the magnitude
 of this problem as it appears in matters of school administration,
 especially as it is related to moral difficulties.
+
 In any such investigation an interested but unbiased source
 of information provides a useful first step in the effort. The teacher
 is a most excellent source for such preliminary information. She is
@@ -59,6 +60,7 @@ give a preliminary test. Although such an investigation can not
 take the place of expert examination, it can serve a purpose in giving
 information of value to the school administration and perhaps in
 showing the need of expert help.
+
 The rural ament will never receive deserved attention unless
 educators are alive to the greatness of his needs. At this point those
 who realize the significance of the defective child must concentrate
@@ -68,6 +70,7 @@ school officials before the legislators can be expected to consider the
 matter seriously. The educating of schoolmen and schoolwomen in
 regard to the imperative character of this special problem is no hopeless undertaking. Already a limited attention to such educating
 effort has accomplished wonders.
+
 It will be impossible merely to expend social energy in finding
 ky clinic tests in small communities the defective children. A
 larger public provision for the treatment and segregation of such
@@ -76,9 +79,9 @@ will make this fact very clear. The dull child who improves when
 given special class work must have the attention in the rural communities that he now receives in the cities. It would seem as if
 special class work for country children involves necessary expenses
 and problems of administration greater than the demands of similar
-274 THE PSYCHOLOGICAL CLINIC.
 work carried on in the cities. Who can question, however, the
 social economy such work represents?
+
 The large problem of institutional care for mental defectives
 created by the discovery of additional aments is not so hopeless as it
 at first seems to one who knows that even now proper segregation is
@@ -96,6 +99,7 @@ real meaning of this social problem. There is also a possibility that
 our progress in taking care of the morons will not depend wholly
 upon our ability to provide segregation. Science offers hope of other
 means of relief.
+
 A very aggressive attack upon the problem of amentia in the
 county is certain to provide unexpected social relief along other lines.
 It is impossible to know how much the problem of the use of alcoholic
@@ -118,7 +122,6 @@ promise of better conditions. Progress in the control of rural amentia
 must surely conserve the resources of the various activities that are
 attempting to improve social conditions in the country. Political
 exploitation also in its different forms in rural communities is tied up
-REVIEWS AND CRITICISM. 275
 with amentia. The largest result, perhaps, of all which may be
 expected to follow an effective program respecting the country feebleminded is the bringing of optimism into the lives of people in some
 country places who at present are possessed by a pessimism which

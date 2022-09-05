@@ -5,9 +5,9 @@ The Psychological Clinic
 Copyright, 1916, by Lightner Witmer, Editor.
 Vol. X, No. 2
 April 15, 1916
-
-By Felix Arnold, Ph.D.,
+:Author: Felix Arnold, Ph.D.,
 Principal Public School No. 80, New York City.
+
 What does it profit a child if he be classified and grouped, aided
 and supervised, studied and investigated, and still is unable to progress, may, in fact, be able to do little more than mark time? No
 matter how elaborate a school system, no matter how elegant a
@@ -16,6 +16,7 @@ out, that a child can be taught no faster than he can learn; and, to a
 great degree, he can learn only as fast as he can grow, not only
 mentally, but also physically. Before anything else can be done for
 the child, he must be properly nourished and fed.
+
 We prate glibly about the sound mind in the sound body, but
 shake our heads when the feeding of children in school is suggested.
 We prepare overage tables and praise or condemn accordingly, but
@@ -28,6 +29,7 @@ of the same age in the different grades will convince one that almost
 automatically, the place of the child in the school is determined by
 his physique, and that a child will progress more rapidly according
 to his increase in weight.
+
 In any examination of grade-weight tables, a few cautions must
 be kept in mind, and a few popular fallacies must be disregarded.
 It is a common experience in the classroom, that usually the smallest
@@ -38,7 +40,6 @@ are of the same age, it will be found that relative to pupils in the
 lower grades, such pupils are heavier. The larger pupils in the grade
 may be dull, but (1), they will be found to be much older than the
 rest of the children, and (2) they will usually weigh less than chil(33)
-34 THE PSYCHOLOGICAL CLINIC.
 dren of the same age in higher grades. The small bright pupils are
 small for the grade, but large for the age, while the large dull pupils
 are large for the grade, but small for the age, this rule holding in
@@ -53,6 +54,7 @@ Where larger averages are in question, these overweight pupils,
 however, do not occur in sufficient number to overbalance the number of underweight children. ' Where the numbers are large, the
 underweight pupils will, 011 the average, be found in the lower
 grades.
+
 In 1909 I began to weigh the children of one school, and was
 able to continue the work in three other schools. These schools are
 designated schools A, B, C, D, the letters signifying simply the order
@@ -63,6 +65,7 @@ heights of the pupils, and tabulated them by (1) grade, (2) sex,
 in each school at relatively the same time, so that for purposes of
 comparison, the figures hold. The parentage of the children was
 recorded as Italian, Irish, German, Syrian, and miscellaneous.
+
 TABLE I.
 WEIGHTS (IN POUNDS) OP ITALIAN BOYS, BY SCHOOLS.
 School
@@ -100,12 +103,13 @@ S.6
 53.1
 7 yrs.
 4.77
+
 If it is true that the school progress of children is determined in
 large measure by their weights, it must follow that the school which
 has the heavier and better nourished children will show the best
 results in the matter of school progress and instruction, other conditions remaining the same. It must follow that unless the physical
 bases in the two schools are the same, results of similar value can not
-WEIGHTS AND SCHOOL PROGRESS. 35
+
 TABLE II.
 VARIATION IN WEIGHTS OP BOYS IN FOUR SCHOOLS.
 School
@@ -245,6 +249,7 @@ i 47.7
 7.3
 49.
 4.
+
 TABLE III.
 WEIGHTS?PERCENTAGE DISTRIBUTION BY GRADES AND AGES?BOYS.
 Age
@@ -465,7 +470,7 @@ D A
 68.9
 4A 5A
 80.0 72
-36 THE PSYCHOLOGICAL CLINIC.
+
 be obtained. It is extremely convenient for a supervisor to apply
 to the schools the political formula, "All men are created equal,"
 and to hold that there is little difference in pupils, and that where
@@ -489,11 +494,13 @@ here the comparison holds in most cases. The heavier pupils fill the
 higher grades, and the school which has the heavier pupils has most
 of these pupils in the higher grades, when compared with the other
 schools.
+
 Comparing the girls of the different schools, one finds the
 same state of affairs, namely, that the heavier girls, on the average,
 are in the higher grades, and that the school which has the heavier
 pupils has a larger per cent in the higher grades. Detailed figures
 are given for the girls in table IV.
+
 In this connection the tables issued under the direction of the
 Hon. J. A. Hogue1 are worth reprinting for the benefit of American
 readers. The results obtained by him in Sydney, New South
@@ -501,9 +508,10 @@ Wales, show with convincing regularity that the lighter the pupil,
 on the average, the lower is his school grade. As over 30,000
 pupils were measured, these results can not be questioned. They
 appear as tables V and VI.
+
 1 Report upon the Physical Condition of Children Attending Public Schools in New South
 ArVales, issued by direction of the Hon. J. A. Hogue, Sydney, 1908, pages 56 and 57.
-WEIGHTS AND SCHOOL PROGRESS. 37
+
 TABLE IV.
 WEIGHTS?PERCENTAGE DISTRIBUTION BT GRADES AND AGES?GIRLS.
 Age
@@ -708,6 +716,7 @@ Grade
 5B
 5A
 4B
+
 Percent 100 8 40 78.4 89.3 78.8 71.4 50.0 34 6'29.9
 60.7 j 62.9 64 3
 100
@@ -871,7 +880,7 @@ Girls
 58.4 107 54.8 3 55.6
 56.4 703 53.0 139 49.7 5 45.8
 53.9 1025 50.9 1506 47.4 1286 43.4 595 39.7 40 36.1 4 36.1
-WEIGHTS AND SCHOOL PROGRESS. 39
+
 TABLE VI.
 Height in Inches. School Yeah and Aoe.
 Boys 20 yrs. 19 yrs. 18 yrs. 17 yrs. 16yrs. 15 yrs.

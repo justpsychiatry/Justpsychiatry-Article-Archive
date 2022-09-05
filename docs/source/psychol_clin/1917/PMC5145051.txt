@@ -1,8 +1,9 @@
 A Case of Educational Retardation
 ==================================
 
-By Charles L. Harlan,
+:Author:  Charles L. Harlan,
 University of Minnesota.
+
 Early in October, 1916, Andrew C. applied to Unity House
 Settlement for instruction in reading the English language. He
 was referred to the writer as a fit subject for instruction and, as an
@@ -22,6 +23,7 @@ study was also varied somewhat in the ways indicated for the instruction period 
 The Mann Readers (1) supplemented by other books and reading
 material, formed the basis for the instruction as well as the basis for
 determining the progress made.
+
 The following facts are stated in order to make clear the conditions under which the subject worked: Andrew was born of
 Swedish parents in Sweden, July 24, 1898. He is eighteen years
 and four months old, emigrated to Saskatchewan, Canada, when he
@@ -37,8 +39,7 @@ which he attended he learned to speak but not to read or write
 English. He now speaks English practically without the accent
 1 This experiment was condusted as a part of the work of Dr M. E. Haggerty's Seminar in Educational
 Psychology during the year 1916?17.
-212
-A CASE OF EDUCATIONAL RETARDATION. 213
+
 peculiar to Swedish speaking people, but he has a very limited vocablary. Swedish is spoken at home by both parents, but he has a sister
 who is enrolled in the fifth grade of the Minneapolis schools, and who
 speaks, reads, and writes English. When beginning his work in
@@ -53,29 +54,19 @@ read signs, the newspapers, instructions about his work, and rhymes
 and stories which he hears his sister read and some of which he can
 repeat from hearing them read. He is somewhat handicapped by
 defective vision and has to wear thick-lensed glasses.
-Arr M?W/\L/1DE
-SUBSTITUTION ^rnfT P? ACE
-T/mj
-Acc.
-CAMCBLLATlD/HcX \ / 7\ ^HEIGHT
-Tims
-INT.FABta? / 2in>s/^   \A\ \ Js>W?IGHT
-VOCAPr
-E?Asy d;
-PAST-WHDLbX y VISUAIi nEf1t
-/ Ii(iU
-EEWIfS-HFEC. ?? ?^T\ KMffP1MEM. C0N.TRD5E'
+
 Figure I.
 The points at which the circles cross the radii represent the norms in the tests represented by the radii and
 for the ages represented by the circles. The dotted line indicates the thirteen year old norms which also represents
 the subject's mental age as shown by the Stanford Tests. The heary line shows the subject's standing in the
 various t?sts.
+
 Figure I.
 The points at which the circles cross the radii represent the norms in the testa represented by the radii and
 for the ages represented by the circles. The dotted line indicates the thirteen year old norms which also represents
 the subject's mental sge as shown by the Stanford Tests. The heary line shows the subject's standing in the
 various tests.
-214 THE PSYCHOLOGICAL CLINIC.
+
 On October 5th he was given the Stanford Revision of the
 Binet Tests (2) along with certain other mental and physical tests
 (3), (4), (5). His standing in these tests is represented graphically
@@ -105,6 +96,7 @@ with these words has been acquired through reading them, writing
 them, and speaking them. On these grounds it is claimed that
 Andrew's case is one largely of educational rather than of mental
 retardation.
+
 It is a difficult matter to measure progress in reading. A series
 of reading tests of equal difficulty is needed for this purpose. If a
 reading test be once given, its usefulness as a test for the same individual is destroyed. Moreover, there are several elements in the
@@ -115,9 +107,9 @@ or oral reading, in mastery of phonetic symbols, in number of words
 recognized in context, and in depth of meaning attached to printed or
 written symbols. Progress in only a part of these was measured as
 the subject learned to read.
+
 When several pages had been read either silently or orally and
 the difficult words had been explained and the' pronunciation fixed,
-A CASE OF EDUCATIONAL RETARDATION. 215
 the pupil was asked to read these pages again at home. By means of
 the lists at the back of the books used, the pupil's recognition of the
 words previously gone over in context was tested during the following
@@ -130,6 +122,7 @@ named lists it was possible to determine the difficult words, something
 of the nature of the difficulty, and the final percentage of words found
 Table I.?Percentage op Complete Lists of Words Recognized in
 Successive Tests.
+
 Date
 Primer list:
 Nov. 22..
@@ -211,15 +204,16 @@ minutes
 100
 47
 45
+
 in each book which had not been mastered, or at least not sufficiently
 well understood to be recognized at sight. No drill was given on any
 of these lists except that involved in the reading of these words whenever they occurred in the context. The results of these tests, therefore, give a basis for measuring the pupil's increase in vocabulary, both
 in the recognition and in the understanding of words. The time
 required for giving each test was also recorded. Table I shows these
 data for the primer, first, and second reader lists.
+
 The results of the tests on complete lists only are given in the
 above table. There is a marked increase in the percentages of words
-216 THE PSYCHOLOGICAL CLINIC.
 recognized at successive periods. There are two exceptions to this
 statement however. One is in the primer list for January 3d and the
 other is in the first reader list for February 7th. The words missed
@@ -229,10 +223,12 @@ The time taken for going over the complete lists does not vary greatly
 in the primer and first reader tests, but there is a marked decrease in
 the amount of time taken for the second reader list from the first two
 to the last two tests.
+
 The curves of figure 2 represent the progress made in word recognition from the first test to the last in the complete as well as partial
 lists. All of these curves indicate gradual though not uniform progress
 in this performance in all three of the lists used. The curves all
 terminate near the same point.
+
 This point in all cases is above 90 per cent- This means that on
 April 25th Andrew recognized at sight more than 90 per cent of all
 the words encountered in the reading of the primer and first and
@@ -261,10 +257,11 @@ ad Reader
 i?r?r;
 jrds.
 lYo'rds,
+
 Figure II.
+
 Increase in percentage of words recognized in the various tests from week to week without any drill on words
 except when found in the context of the Primer, First, and Second Readers.
-A CASE OF EDUCATIONAL RETARDATION. 217
 nevertheless, there is improvement which is regular and continuous.
 Just how much of this improvement is due to repetition of primer
 words in the first reader, and of first reader words in the second reader
@@ -287,6 +284,7 @@ Readers lists. Table II shows the percentage of words in these lists
 recognized on three different dates. The lists were the same each
 time but the order of words was changed for each successive test.
 Table II.?Improvement in Word Recognition.
+
 Date
 Nov. 1.
 Nov. 22.
@@ -307,6 +305,7 @@ hrs. min.
 2 30
 2 43
 3 05
+
 The standings in the sight test, for corresponding dates, are higher
 in every case than the standings in the phonetic test. There is,
 however, a material difference in the amount of time required to
@@ -316,9 +315,9 @@ of time for recognizing the words of the sight list in successive tests.
 The increasing percentages of words correctly given is evident in
 both lists. The pupil was not tested on these lists later than December so it is impossible to indicate his present knowledge of these words,
 but since they are all found in the lists of the Mann Readers the pupil
-218 THE PSYCHOLOGICAL CLINIC.
 probably knows a larger proportion of them than indicated in the
 above table.
+
 There was also an increase in the rate of oral reading. A part
 of each instruction period was devoted to oral reading. The rate was
 ascertained for the total amount of material read orally during any
@@ -327,6 +326,7 @@ difficulty of reading matter. No correction was made for the increasing difficul
 reader. The increase in the number of words read per minute is
 shown in table III, also graphically in figure 3.
 Table III.?Increase in Rate of Oral Reading.
+
 Date
 Oct. 19.
 Oct. 25.
@@ -350,6 +350,7 @@ per Minute
 41
 64
 72
+
 There is a gradual though not rapid increase in rate of oral
 reading as indicated for the different test periods. No doubt the
 fluctuations in rate would have been evident had the rate been ascertained for shorter periods of time and at more frequent intervals.
@@ -363,7 +364,7 @@ during this period the "sight" method of reading was being substituted for the p
 periods is due in part at least to a dominance of sight over phonic
 mastery of words. It is not known how much this curve is flattened
 by the increasing difficulty of the material in the texts read.
-A CASE OF EDUCATIONAL RETARDATION. 219
+
 The silent reading at first was not at all silent. The words were
 whispered and very difficult ones were occasionally vocalized. Later
 the sounding was reduced to lip movements and still later, especially
@@ -374,6 +375,7 @@ silent reading was fifty-five words per minute on March 7th. This
 rate had increased to seventy-five words per minute by April 25th.
 This is much below the rate of normal children in the grades of the
 public schools.
+
 The quality of reading done by the pupil, as measured by the
 amount he was able to reproduce or by answers to questions on what
 tad been read, indicates excellent ability along this line. Although
@@ -386,9 +388,11 @@ November 8th. He then ranked 4 on the Thorndike scale (Alpha 2.)
 (8). On January 31st he had reached and passed exercise of difficulty
 6, and on March 7th he ranked at exercise of difficulty 8. In all
 these tests his reading was slow but comprehensive.
+
 He was also given the Indiana revision of the Thorndike vocabulary scale (9) on November 8th, December 13th, and January 24th.
 On the first test his score was line value 15, on the second, 25, and on
 the third, line value 35. In the Trabue language test Scale C (10)
+
 70
 . ?
 O
@@ -409,9 +413,9 @@ Figure III.?Increase in Rate of Oral Reading.
 W
 "35"
 Figure III.?Increase in Kate of Ural Heading.
-220 THE PSYCHOLOGICAL CLINIC.
 on November 8th his score was zero, but on February 7th he made a
 score of 7.
+
 Although he knew how to write his name and could write most
 of the letters of the alphabet with pencil when he first appeared for
 instruction, it can not be said that he could write. He could draw
@@ -422,18 +426,19 @@ however, asked to copy the script words of the primer and the sentences of the f
 his writing performance on April 25th, when he wrote a page of
 approximately quality 50, Ayres Scale (11), at the rate of fifty-six
 letters per minute.
+
 Andrew's attainments in these educational activities in the
 GH A3JE
 VIS.VMM
-language. X \ \??WL-^^ / X "aiJm&
+language.
 VmiTl N ff
 Figure IV.
 The dotted line represents the pupil's standing on November 8th relative to the norma of the different grades.
 The heavy line indicates his standing on April 25th relative to th? differeit grade norms.
 Figure IV.
+
 The dotted line represents the pupil's standing on November 8th relative to the norma of the different gradei.
 The heavy line indicates his standing on April 25th relative to th? different grade normi.
-A CASE OF EDUCATIONAL RETARDATION. 221
 initial periods and in the final periods are represented in figure IV.
 In this figure the dotted line represents his achievements on November 8th relative to the achievements of normal children in their
 respective grades. The heavy solid line represents relatively his
@@ -446,6 +451,7 @@ also be noted that although no instruction was given in language as
 such, or in writing as such, there was marked progress in both of these
 performances. This suggests a close correlation between these
 school activities and reading.
+
 Aside from the data of these tests there is the additional evidence
 that considerable improvement was made since he passed from the
 primer level to that of the fourth reader level in his ability to read.
@@ -455,6 +461,7 @@ niade as to the difficulties encountered, how they were overcome,
 and devices and aids which proved helpful. In addition to these
 data the pupil was asked to state what his greatest difficulties were
 and how they were overcome.
+
 First of all it must be kept in mind that the pupil wanted to
 learn to read. He had been confronted by obstacles which ability
 to read would have helped him to surmount. He had been somewhat
@@ -464,6 +471,7 @@ in order to do the work he desired to do and to secure the wages he
 wanted to secure, ability to read was necessary. Under these conditions the services of an instructor, although somewhat necessary,
 Were never more than supplementary to the fundamental processes
 of learning to read.
+
 No methods of procedure were outlined for the pupil since it
 was deemed desirable to discover how the pupil proceeded to learn
 to read. However, after a method, device or trick of mastering the
@@ -472,7 +480,6 @@ discussed with him. The methods and devices of attacking words
 were the ones ordinarily used by pupils in learning to read. The
 sounding of letters and syllables, association of new words with
 objects pictured on the same page, combination of new syllables
-222 THE PSYCHOLOGICAL CLINIC.
 with stem words already known, similarity in appearance of words,
 similarity in sound of words, suggestiveness of rhymes and stories
 already known through hearing them read or recited, and recall
@@ -493,6 +500,7 @@ phrase or group associations was helpful only when the other words
 of the phrase or group were familiar. The method of recognition of
 words through similarity of appearance was sometimes misleading
 in the case of words different in sound.
+
 In addition to these difficulties of method there were certain
 difficulties inherent in the nature of the words or letters themselves.
 The following letters and syllables were found to be difficult: the
@@ -514,7 +522,7 @@ the 17, or 65 per cent, of the words missed in the list of 333 words
 are the same words missed on every test. In the first reader list
 of 457 words 28 were missed in the final test. Of these 17, or 61
 per cent, are words which had been missed in all previous tests.
-A CASE OF EDUCATIONAL RETARDATION. 223
+
 Primer list. (333)
 back fur ""business ""seize
 *bin ""gate *certain *shout
@@ -543,6 +551,7 @@ brown promise ""wear
 ^farther ""angel ""remain wigwam
 feather *beast replied ""wrinkle
 *field ""break ""secret
+
 In the second reader list of 666 words, 57 were missed in the final
 test. Of these, 40, or 70 per cent, are words previously missed.
 These figures indicate that 60 per cent or more of the words
@@ -555,25 +564,31 @@ These words should be discovered as soon as possible and selected
 for special drill. This was not done in Andrew's case, consequently
 his vocabulary efficiency on April 25th was about 90 per cent of
 1456 words.
+
 The following summary sets forth some of the conclusions concerning this case:
 (1) Although the mental status of the subject indicated retardation of five years, the subsequent improvement in several abilities
 indicates that this was due to lack of schooling and not to low
 mentality.
-224 THE PSYCHOLOGICAL CLINIC.
+
 (2) The progress made in learning to read was accompanied by
 corresponding improvement in language and in writing, as well as
 improvement in the several abilities involved in the reading process
 itself, such as increase of vocabulary, understanding of sentences,
 rate of silent and of oral reading, and in ability to reproduce what
 was read.
+
 (3) The aids, devices, and methods of learning to read which
 were found helpful, were numerous and not limited to one process.
 These, although worked out independently, were found to correspond
 closely to those in ordinary use in most class rooms.
+
 (4) The difficulties encountered, although varied in kind, are
 not numerous and the words causing difficulty are limited in number
 to about 6 per cent of all the words encountered.
+
 References.
+------------
+
 (1) Horace Mann Readers, Primer, and Books One, Two, Three, and Four.
 (2) L. M. Terman. The Measurement of Intelligence. New York, 1916.
 (3) G. M. Whipple. Manual of physical and mental tests. New York.

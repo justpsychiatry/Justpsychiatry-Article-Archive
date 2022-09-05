@@ -1,8 +1,9 @@
 An Analysis of the Proficiency and Competency of a Fourth Grade Class
 ======================================================================
 
-By Gladys E. Poole, M.A.,
+:Author:  Gladys E. Poole, M.A.,
 Clinic Teacher, University of Pennsylvania.
+
 The Observation School conducted by the University of Pennsylvania during its summer session is regarded not as a model but as a
 typical elementary school in which the pupils are representative of
 the typical school group. These pupils are recruited from the
@@ -13,6 +14,7 @@ pupils having fourth grade competency and at least advanced third
 grade proficiency. This means pupils having the ability to do the
 work of the fourth grade and the education which should precede
 fourth grade work.
+
 At the close of the first week of the summer session the teacher
 of this fourth grade felt like the old woman who lived in a shoe and
 had so many children that she did not know what to do. Group
@@ -25,6 +27,7 @@ number of teachers may be interested in seeing how the problem
 was analyzed to determine the proficiency and competency of the
 class in order to readjust the course of study to fit group and individual needs. This paper treats only of the results of the diagnosis.
 No discussion of remedial treatment is attempted.
+
 A preliminary survey of the class showed that the thirty pupils
 were of nine different nationalities?Italian, Russian, Jewish, Hungarian, Bohemian, Spanish, Irish, Negro, Scotch and old-line American. There were four old-line Americans. The first outstanding
 problem was a language difficulty. Four of the pupils neither understood nor spoke English. These pupils could not take directions
@@ -34,8 +37,6 @@ years to eighteen years. The median age was twelve, i. e., there
 were just as many pupils over twelve years of age as there were pupils
 under twelve. The average and mode were also twelve years. If
 children enter the first grade when six or seven years old and advance
-(51)
-52 THE PSYCHOLOGICAL CLINIC.
 a grade each year we should expect the median entering age of fourth
 grade children to be from nine to ten years. The fourth grade
 teacher who has in her class pupils of normal age only has a much
@@ -43,6 +44,7 @@ easier problem than the teacher who has pupils ranging from eight
 and a half years to eighteen years. This class should have been
 classified so that pupils of the same experience, capacities and proficiency were reciting together. The wide age variations lead the
 teacher to question that this had been done.
+
 The first step in the problem analysis was to give certain standardized educational tests in order to determine the proficiency of
 the group and to make possible comparisons from pupil to pupil.
 The tests were given by the advanced students of the School of
@@ -53,6 +55,7 @@ the scores made by each pupil, arranged so that the pupil making the
 highest score headed the list, was handed to each teacher. This
 article is concerned only with the results obtained from the fourth
 grade tests.
+
 The tests used were: Standardized Research Tests in Arithmetic
 Series B (for determining accuracy and speed in the fundamental
 processes), Monroe Standardized Silent Reading Test (for determining rate and comprehension in silent reading), Courtis Standardized
@@ -60,6 +63,7 @@ Research Test in Reading, Thorndike Visual Vocabulary Scale A-2
 (Y series), Ayres Measuring Scale for Handwriting, Ayres Measuring
 Scale for Ability in Spelling. The results of these tests are shown
 in the following tables.
+
 Table II shows that in the Monroe Standardized Silent Reading
 test the pupils in the Observation School read at the rate of fifty-four
 words in three minutes, and comprehended 6.4. The scores in rate
@@ -75,10 +79,10 @@ They read two-thirds as fast and comprehend much less than the
 standard set for fourth grade, but as well as the median reached
 by the three hundred children in Philadelphia schools.
 These facts are significant when we consider that nineteen out
-AN ANALYSIS OF A FOURTH GRADE CLASS. 53
 of thirty pupils enrolled had been promoted in June to the fifth
 grade by their regular teachers on the condition that they did excellent
 work in the fourth grade during the summer session.
+
 Table I.
 Scores of Fourth Grade Pupils in some Educational Tests.
 Pupil
@@ -161,6 +165,7 @@ Vocabulary
 100
 28
 57
+
 Table II.
 Monroe Silent Reading Tests Showing Median Scores Obtained in Fourth Grade
 of the Observation School and Standard Scores.
@@ -187,6 +192,7 @@ Comprehension
 6.4
 9.0
 14.5
+
 Table III shows that in the Courtis Reading test the class made
 a median score very little above the standard second grade median.
 This means that in so far as the Courtis Reading test is a test of pro54 THE PSYCHOLOGICAL CLINIC.
@@ -197,6 +203,7 @@ Table IY shows that in rate and accuracy in addition, multiplication and divisio
 fourth grade falls considerably below the median score made by the
 State of Pennsylvania and slightly below the third grade standard
 as set by Courtis. On the whole the class was not far below what
+
 Table III.
 Scores Obtained by Courtis Reading Tests in the Observation School and
 Standard Scores.
@@ -264,6 +271,7 @@ Rate Accuracy
 100%
 100
 57%
+
 1 Schoolmen's Weekly Proceedings, pp. 97-101.
 might be expected of a beginning fourth grade. Still the class was
 unable to do fourth grade work because of the wide variations in
@@ -272,11 +280,11 @@ to nine, accuracy from zero to seven. Ten pupils scored zero in
 accuracy of addition and five in accuracy of multiplication. Should
 these pupils whose scores fell on the extreme lower end of the scale
 in the proficiency test for the fundamental processes have been
-AN ANALYSIS OF A FOURTH GRADE CLASS. 55
 classified in the fourth grade where the emphasis is usually placed
 upon long division and various types of thought problems? Accurate
 work in long division must depend upon accuracy in multiplication
 and addition.
+
 The purpose of the visual vocabulary test is to show how difficult
 words the pupils can read and understand well enough to classify
 under proper headings, e., animal, flower. Of the words given
@@ -314,7 +322,6 @@ In order to determine why some of these fourth grade pupils
 having only first or second grade proficiency had not attained the
 proficiency required by their grade they were sent to the Psychological
 Clinic where they were examined and their competency determined.
-56 THE PSYCHOLOGICAL CLINIC.
 One of them who was pronounced feebleminded had not been suspected by the teacher because he looked intelligent and apparently
 learned easily but his mind was a mental sieve. As a result of the
 examinations, Dr H. J. Humpstone gave a group test to the class.
@@ -323,14 +330,17 @@ to be a measure of the competency of individuals, but it did do two
 things at least: first it gave an estimate of the competency of the
 group and second it showed up the pupils who were apparently
 weakest in native ability.
+
 As a result of this group test cases were selected for individual
 examination. These individual examinations showed that each
 pupil had specific defects which conditioned his performance in the
 group test and which would interfere to a greater or less extent with
 his acquisition of the content of the school curriculum under ordinary
 conditions.
+
 Report on Psychological Examination of Fourth Grade
 Pupils.
+
 As a first step in the solution of the problem some group tests
 were given the class. These consisted of memory span for digits
 and short words according to the method standardized and described
@@ -349,9 +359,10 @@ lowest quintile the mark of one. The four scores for each pupil
 were then averaged and a new rank order made on the basis of thees
 averages. The comparison of these ranks is shown in the following
 table:
+
 1 "Some Aspects of the Memory Span Test," H. J. Humpstone, Psychological Clinic Press, Philadelphia, 1917.
-AN ANALYSIS OF A FOURTH GRADE CLASS. 57
 Comparison of Grades in Educational and in Psychological Tests.
+
 Pupil Number
 Quintile Grades
 Educational Tests
@@ -386,6 +397,7 @@ ab
 1
 1
 1
+
 The column headed " Difference in Grade" gives a rough index of the correlation between the two sets of tests.
 There are seven who rank the sane in both tests. There are nine whose grade only differs by one point. There
 are three whose grade only differs by two points. Three differ by three points and one by four points. The Pearson
@@ -394,6 +406,7 @@ group tests in Psychology satisfactorily because of his extremely defective visi
 language difficulty and did not understand what he was to do. The other two whose grade differs by three points
 (numbers five and eight) have a native ability as shown in the Psychological tests, but do not apply themselves
 in the school work.
+
 A number of pupils were then brought to the clinic for analytic
 diagnosis. The criterion on which they were selected was principally
 the result of the memory span tests. No. 19 is a Russian Jew. He
@@ -424,6 +437,7 @@ No. 17 is retarded, partly as a result of illness. She lacks energy
 and concentration of attention. No. 21 is feebleminded. He is also
 defective in hearing and seems to be an institutional case.
 H. J. Humpstone.
+
 Some of these pupils absolutely lacked fourth grade competency.
 To attempt to give them fourth grade proficiency was a waste of
 money on the part of the district, of time and energy for the teacher,

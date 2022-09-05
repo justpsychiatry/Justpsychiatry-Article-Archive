@@ -1,13 +1,15 @@
 The Feebleminded in the State Of Missouri
 ===========================================
 
-By J. E. Wallace Wallin, Ph.D.,
+:Author:  J. E. Wallace Wallin, Ph.D.,
 Psycho-educational Clinic, St. Louis, Mo.
+
 We shall first consider the present situation in the state with
 respect to the state care, control, education and identification of the
 feebleminded; and secondly, some of the needed remedial measures
 which we have recommended in connection with our work on the
 Children's Code Commission.
+
 In 1911 it was estimated that there were 11,427 feebleminded
 persons in the state of Missouri. The basis for this estimate was not
 revealed. On the basis of figures published in connection with a small
@@ -36,8 +38,6 @@ all children over 9 years of age who were pedagogically retarded three
 years or over. From the reports sent to the clinic by the principals
 we examined 67 pupils who had the most serious record of pedagogical retardation. The percentage of feeblemindedness found
 1 Delivered before the Missouri Conference for Social Welfare, Columbia, November, 1916.
-(55)
-56 THE PSYCHOLOGICAL CLINIC.
 among these children was 31.3, which is only 3.2 per cent higher than
 the percentage found for the entire group. The percentage diagnosed
 as feebleminded and borderline was 56, which is 10 per cent higher
@@ -77,9 +77,10 @@ that the percentage of feeblemindedness will exceed one-half of one
 per cent of the public elementary school population. This estimate
 is very much more moderate than the claim that from 2 per cent
 to 3 per cent of school children are feebleminded.
+
 1 The details of these studies may be found in the Reports of the Board of Education of the city of St. Louis
 or 1914-1915, pp. 129-160 and 1915-1916, pp. 142-211; and in the Problems of Subnormality.
-FEEBLEMINDED IN MISSOURI. 57
+
 This huge difference in estimates is undoubtedly largely due to
 a difference in standards of judgment. The liberal estimates made
 during the last six years have almost invariably been based on certain
@@ -100,6 +101,7 @@ from birth or from early life and when it is so extreme that the person
 cannot get along without external support, should the person be
 classified as feebleminded. We must remember that there are other
 causes of social inefficiency besides feeblemindedness.
+
 How many feebleminded, then, are there in the state? Nobody
 knows. Personally we are not prepared to say that the number
 exceeds 6000. This is based upon an old estimate of one feebleminded person to every 600 in the general population which we
@@ -115,10 +117,10 @@ prisons, jails, and infirmaries, is probably very much larger, say
 1500. This would leave 4000 feebleminded at large in society. It
 is probable that not much over one-half of these are properly supported, safeguarded or controlled at home, leaving at large possibly
 2000 dependent, or neglected, or unprotected, or delinquent feebleminded persons who, for their own good and for the protection of the
-58 THE PSYCHOLOGICAL CLINIC.
 state, should be permanently confined in institutions and colonies
 specifically organized for their proper training, care and control,
 and for the utilization of their labor possibilities.
+
 There is no state in the Union of the same population and wealth
 as Missouri, with possibly one exception, which has provided such
 meagre institutional facilities for the care of the feebleminded. This
@@ -148,13 +150,10 @@ We do not wish to be understood as implying that we have the same
 ratio of feebleminded and epileptics as the three eastern states
 mentioned above, but there can be no doubt that our institutional
 facilities are utterly inadequate.
+
 The state of Missouri has likewise been equally remiss in
 establishing special classes in the public schools for the proper
-training of feebleminded children. In this state it is entirely optional
-1 From Dr George Mogridge, Iowa; Dr J. M. Murdoch, Pennsylvania; Dr Geo. M. Kline, Massachusetts;
-and Dr Charles Bernstein, New York. We do not have data for this year from Ohio and Illinois, but both of
-these states do very much better than Missouri.
-FEEBLEMINDED IN MISSOURI. 59
+training of feebleminded children. In this state, it is entirely optional
 with the local boards of education to open special classes for the
 feebleminded. In New Jersey school districts are required by law
 to open such classes when there are ten or more mental defectives in a
@@ -194,8 +193,8 @@ should be trained in ungraded classes (which should be distinct from
 the feebleminded classes.) Borderline cases will necessarily gravitate
 to the ungraded classes and indeed should be tried out in these classes
 before being considered for the special schools for the feebleminded.
+
 In the ungraded classes abundant opportunities should be afforded
-60 THE PSYCHOLOGICAL CLINIC.
 for individual help and the instruction should be predominantly
 concrete, and, for the more backward types, industrial and motor.
 A beginning has been made to organize classes of this kind in the St.
@@ -204,6 +203,7 @@ there is now one ungraded class in the public schools of the state
 there should be a hundred such classes, together with supplementary
 elementary industrial schools for vocational or prevocational
 training.
+
 The third defect is the woefully inadequate provision afforded
 by the state for the proper educational and psychological examination
 and classification of feebleminded, backward and other types of
@@ -238,7 +238,9 @@ brought to even approximate normality. It is well to emphasize
 that the diagnosis of mental defect and deficiency is often difficult
 and that a correct diagnosis is of vital practical consequence to the
 individual concerned.
+
 FEEBLEMINDED IN MISSOURI. 61
+
 The fourth defect is the inadequacy of the state statutes for the
 legal commitment and permanent detention of the unsupported,
 uncontrolled and delinquent feebleminded in the state. There is no
@@ -257,6 +259,7 @@ are liable to become a serious menace to the community, either
 because of their industrial incompetency or because they become
 willing cat's-paws or unsuspecting dupes of evil designers, or because
 they become aggressive offenders.
+
 The defects pointed out above reflect accurately, we believe,
 the lack of popular interest in the state in the problems affecting our
 feebleminded dependents. In order to remedy these defects in some
@@ -267,6 +270,7 @@ unsupported, or unprotected feebleminded persons in the state.
 feebleminded persons to a feebleminded institution and providing
 for the release of persons committed as feebleminded who later prove
 on careful study not to be feebleminded.
+
 3. The enactment of a law providing that certification of feeblemindedness shall be made only by psychologists or by physicians who
 are specialists on feebleminded and backward children.
 4. The establishment of a state bureau for mental defectives, to
@@ -277,27 +281,33 @@ provide shelter and protection for 1500 or 1600 feebleminded persons,
 in a central colony at Marshall, combining the features of an asylum,
 school, farm colony and workshop, in an auxiliary institution near
 St. Louis, designed especially as a school for educable feebleminded
+
 1 The complete report is available in the published report of the Code Commission.
-62 THE PSYCHOLOGICAL CLINIC.
+
 children, and in small permanent or temporary camps. It is further
 recommended that the epileptics be colonized in a separate institution.
+
 6. The abolition of the present political method in favor of a
 merit or efficiency method of appointing the superintendent of the
 institution or institutions for the feebleminded.
+
 7. The permanent detention of feebleminded prostitutes in
 detached cottages, either in the Industrial Home for Girls or in the
 central colony for the feebleminded as well as the permanent detention of feebleminded delinquents and criminals of any age and of
 either sex in detached cottages.
+
 8. The enactment of a law providing for the mandatory establishment of special classes for the feebleminded whenever ten feebleminded children are found in any given public school district.
 Ungraded classes should also be established for slow and backward
 children. Eventually the establishment of these classes should also
 be made compulsory by law.
+
 9. The appropriation of $5000 by the state for the conduct of a
 census by qualified investigators, of the number of the feebleminded
 at large in the state, and in the elementary schools, penal and
 eleemosynary institutions and county infirmaries, and the making
 of further recommendations with respect to the care and control of
 the feebleminded in the state.
+
 Let us say, in conclusion, that the question of the elimination or
 reduction of the feebleminded by sterilization, or birth control, or
 regulation of marriage is worthy of consideration, but it is not

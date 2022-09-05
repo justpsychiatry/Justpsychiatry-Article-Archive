@@ -1,9 +1,10 @@
 The Peg Formboards.
 =====================
 
-By J. E. Wallace Wallin, Ph.D.,
+:Author:  J. E. Wallace Wallin, Ph.D.,
 Psycho-Educational Clinic and Special Schools, St. Louis, Mo.
 V
+
 In the examination of young children in better babies contests
 and in baby clinics, of children and adults of low mentality, and of
 subjects with motor defects affecting the upper limbs, we have been
@@ -38,8 +39,7 @@ square pegs and square holes, analogous to board A, which contained
 1 J. E. Wallace Wallin. Psycho-Motor Norma for Practical Diagnosis. A Study of the Seguin Formboard,
 based on the Records of 4072 Normal and Abnormal Boys and Girls, with Yearly and Half-Yearly Norms.
 Psychological Review Publications, No. 94, 1916, If.
-(40)
-THE PEG FORM BOARDS. 41
+
 only round pegs. The series as now constituted contains, therefore,
 the following four boards:
 A, six round holes and six round pegs.
@@ -58,30 +58,12 @@ the pegs fit too tightly they should be sandpapered down to the point
 where they can be inserted without difficulty. It was our aim to
 make the pegs so large that they could be easily grasped and handled
 by hands incapable of delicate coordination. Experience has shown
-1 The above measurements vary somewhat in the manufacturer's set which I have. The boards are made
-by the C. H. Stoelting Co., 3037-3047 Carroll Ave., Chicago, to whom acknowledgment is made for the loan
-of the cut (Fig. 1).
-\ N
-\
-r  M
-?r^^-.yrxx^mrrrrrr'.
-jm
-i pii
-' |
-in
-i
-i,Mt
-! iW; i i
-1 ( H'!
-it
-AJ
-WW
-42 THE PSYCHOLOGICAL CLINIC.
 that this aim has been successfully realized with the size of the pegs
 now employed, although we have tested a number of subjects, who,
 because of their extremely crude power of coordination, would have
 been more successful with larger pegs. These subjects had great
 difficulty in properly grasping and inserting the pegs.
+
 In giving the test the subject is seated close to the table on a
 height sufficient to enable him readily to see the holes in the board
 and to handle the pegs. The board is placed lengthwise in front of
@@ -108,6 +90,7 @@ tendency to play with the pegs, to insert them in the mouth, to keep
 on inserting and removing the same peg from the same hole, to take
 out a peg and place it in another hole, to throw the pegs on the table
 or floor, etc.
+
 We have made sufficient use of the peg formboards during a
 period of two years to assure ourselves of their practical utility in
 the examination of young normal and of young or old low grade
@@ -120,7 +103,6 @@ the necessary leisure and inclination should undertake the further
 work that is needed on young normal children, especially the work
 of determining the best method of procedure and of establishing
 reliable norms. In order to stimulate such an investigation, we
-THE PEG FORMBOARDS. 43
 here make available our preliminary data, based on the examination
 of 101 consecutive young children selected from so-called normal
 groups, and ranging from 9 months to 8 years and 2 months of age.1
@@ -136,6 +118,7 @@ done behind a screen and distracting noises sometimes occurred in
 other sections of the room. The younger children frequently had
 to be held by their mothers, and much urging was sometimes needed
 to get them to respond properly.
+
 It is to be assumed that some of the institutional children were
 below normal in native capacity, while some of the children examined
 in the babies' contest were superior to the average. Our examiners
@@ -156,6 +139,7 @@ Two girls, twins, 26 months old, were very bashful, nad could not
 be induced to try the tests. The 32 months old boy who talks a
 1 In testing these children we were greatly aided by Mrs. Watkins, Miss K. Guy, Miss Elsa M. Butler, Miss
 Hilda Benn and Miss Neta Davis.
+
 1 Namely cases 1 to 7, inclusive.
 ' Nos. 8 to 15.
 4 Nos. 16 to 27.
@@ -165,7 +149,6 @@ Hilda Benn and Miss Neta Davis.
 The above numbers will identify the data in the table of individual results, which we are unable to
 print here, but which we shall be pleased to lend to investigators who may want to embody our individual
 records in their own results.
-44 THE PSYCHOLOGICAL CLINIC.
 little but does not walk, would only hold the pegs. Some of these
 children would not attempt to do the tests, while others were unable
 to discriminate the shapes.1
@@ -310,6 +293,7 @@ Trial
 3d
 2d
 2d
+
 We have classified the subjects into half-year groups. The
 designations 1-1 to 1-6, and 1-7 to 2-0 indicate, respectively, 1 year
 1 month to 1 year 6 months, and 1 year 7 months to 2 years and
@@ -320,6 +304,7 @@ larger. This problem invites experimental investigation in future.
 Forty-five of the subjects were tested before the fourth board had
 been added to the series. All except 3 of the failures were tested
 with the three-board set.
+
 It would be possible to follow a six-fold order in giving the
 three-board set, namely: A, C, D; A, D, C; C, D, A; C, A, D;
 D, C, A; D, A, C. Actually these boards were given in five different
@@ -328,12 +313,14 @@ A, D, C; and D, C, A. The four board set may be given in 24
 different ways. It was given in the five following ways to these
 subjects: A, B, C, D; B, C, D, A; C, D, A, B; D, A, B, C; and
 C, D, B, A.
+
 1 Since this article was written we have secured the records of 15 additional children ranging in ages from 3-5
 to 8-2, 9 of these being in a day nursery connected with a " neighborhood house settlement," while 6 were
 children of friends of the examiner. Unfortunately the examiner sent us only the fastest scores out of three
 trials, and we are unable to secure the records for the other two trials. The records of these cases are as follows:
-THE PEG FORMBOARDS. 45
+
 Results.
+
 The Influence of Repetition on the Speed of Replacing the Pegs.?
 Table 1 shows the number of instances in which the subjects gained,
 lost or made equal scores in the second trial compared with the first
@@ -371,11 +358,6 @@ repetitions, based on the average amount of improvement rather
 than on the number of instances of improvement.2 In that investigation we found that subnormal and dull children gained relatively
 more than normal and bright children, the lower grades of the
 subnormal gained relatively more than the higher grades, the younger
-1 We have complete records of the numbers of right and wrong moves made to replace the blocks, but these
-data are not considered in this article.
-J Psycho-Motor Norms for Practical Diagnosis, as above, p. 73f. Sylvester's results show the same fact for
-the Seguin formboard: The Formboard. Psychological Monographs, No. 65, 1913.
-46 THE PSYCHOLOGICNL CLINIC.
 children gained relatively more than the older children, while the
 improvement made from the first repetition was "relatively much
 greater than the improvement made from the second repetition."
@@ -383,6 +365,7 @@ It is evident that the factor of practice or repetition is of vital
 consequence in the establishment of norms or standards, and in the
 comparison of an individual's performance with such norms.
 Table 1.?The Influence of Repetition.
+
 Order of
 Presentation
 Second Trial Compared with First
@@ -426,11 +409,14 @@ Total
 39
 24
 37 19
+
 The figures indicate the number of subjects who gained (+), lost (?) or made the same scores (=) in the
 second trial compared with the first and the third compared with the second. Cases 52 and 77 were given only
 one trial.
+
 There are 71 instances in which no comparison could be made, because of the fact that the subjects failed
 to do the boards in the corresponding trial.
+
 Improvement with Increasing Maturity.?In order to determine
 whether the efficiency measured by these formboards correlates with
 increasing chronological age we have first computed the percentage
@@ -438,12 +424,12 @@ of instances in which the scores show improvement with each
 increasing half-age, and secondly we have computed the average
 time of performance for each board in each half-age, irrespective of
 the order of presentation.
+
 In the first method we have compared the average scores (based
 on the time of performance) in each age classification with the next
 higher age designation, and have enumerated the number of gains
 and losses between the different intervals. The comparisons made
 in the different age classifications have always been between the
-THE PEG FORMBOARDS. 47
 scores in the same trial with the same board and the same order of
 presenting the boards. To illustrate: taking the order A, B, C,
 and D, we have compared the score in the first trial of the A board
@@ -458,6 +444,7 @@ D. The same comparisons were then made for each board in all
 the other "orders of presentation." The detailed figures are given
 in table 2 for each order of presentation and each trial with each
 board.
+
 The comparisons we have been able to make are not wholly
 satisfactory for the following reasons: first, there are instances in
 which no averages are available in the different classifications.
@@ -468,10 +455,12 @@ between our highest and lowest ages are not available for all the
 orders in which the boards were presented. Wherever such gaps
 exist we have made the comparison with the next higher available
 age.
+
 We shall confine our analysis to the gross results. The following
 figures show the total number and the corresponding per cents of
 gains and losses, for each board, basing the results on the combined
 figures for all three trials:
+
 Number.
 Per cent.
 Board A
@@ -493,13 +482,15 @@ Board D
 45
 47.3
 + = gains. ? ?= losses.
+
 The gains are more numerous than the losses with all the boards.
 Curiously they are most marked with the two simplest boards,
 A and B. Combining the figures for all four of the boards and all
 three trials, we find a total of 216 gains (i. e. comparisons showing
 improvement), 167 losses, and one instance in which the scores were
+
 1 One equal.
-48 THE PSYCHOLOGICAL CLINIC.
+
 equal. In other words, an improvement occurred in 56.2 per cent,
 a loss in 43.4 per cent, and equal scores in .2 per cent of the comparisons. That the percentage of gains was not greater is probably
 due, first, to the fewness of the subjects, which gives undue prominence to accidental variations. Secondly, to the inclusion of dull
@@ -524,9 +515,11 @@ board C, gains in 6 ages, losses in 6 and an equal score in 2 ages;
 and board D, gains in 9 ages, and losses in 4 ages. Had we had a
 larger number of subjects it is possible that the losses would have
 been considerably reduced.
+
 Our general impression is that the steps are not too fine. The
 optimal size of the steps, however, can only be determined by a more
 extensive investigation.
+
 So far as our results go this test can be profitably used with
 normal children from a year and a half or two years to about five
 or six years, and with mental defectives of approximately a similar
@@ -538,10 +531,11 @@ lowest and the highest age group amounts to 73.5 sec. for board A,
 Our results thus far seem to indicate, however, that older mental
 defectives can perform the tests at a lower mental age than young
 children.
+
 Table 2.?Improvement with Increasing Mattjritt as Determined by the
 Instances of Gain or Loss with Each Increasing Half-Year.
-Order of
-Presentation
+Order of Presentation
+
 A
 A,C,D...
 C.A.D...
@@ -559,8 +553,10 @@ Board C
 + Board D
 + + 3
 +
+
 The figures show the number of instances in which there were gains (+) or losses (?) with each higher
 half-year.
+
 1 The scores were equal in one instance.
 Table 3.?Improvement with Increasing Maturity, as Determined by the
 Average Time of Performance, Based on the Fastest Scores Only.
@@ -582,8 +578,8 @@ No. S. No. S. No S. No. S. No. S. No. S. No. S. No. S. No. S. No. S. No. S. No. 
 7-1 to7-6 2 9.0 2 9.0 2 10.0 2 10.0 2 13.9 2 13.9
 7-7 to 8-0 2 8.2 1 4.2 3 6.8 2 10.6 1 8.6 3 9.9 2 10.7 1 12.2 3 11.2
 8-1 to8-6 1 10.4 1 6.6 2 8.5 1 13.4 1 6.6 2 10.0 1 13.2 1 14.4 2 13.8
-50 THE PSYCHOLOGICAL CLINIC.
 Table 4.?Comparison of Difficulty of the Different Boards.
+
 Order of
 Presentation
 A, C, D...
@@ -645,8 +641,10 @@ than B
 - +
 10 1
 1
+
 The figures show the number of instances in which the designated board is easier (?) or harder (+) than
 the board with which it is compared.
+
 Relative Difficulty of the Different Boards.?In table 4 we have
 given for each order of presentation the total number of instances
 in each trial in which the individual scores for board B were better
@@ -661,6 +659,7 @@ and not the averages. The comparisons cannot be made in the
 trials in which the scores are failures for both of the boards compared.
 Combining the figures for all the trials, irrespective of the order of
 presentation, we have the following results:
+
 Number
 Per cent
 B harder
@@ -698,8 +697,8 @@ than B
 6.1
 138
 93.8
+
 1 Equal scores in one instance. * Equal scores in two instances.
-THE PEG FORMBOARDS. 51
 It is apparent that the boards constitute a graded series and
 increase in the order of difficulty as provisionally arranged. The
 board with the square holes is more difficult to do than the board
@@ -733,6 +732,7 @@ and failures (?) for the boards given in the order indicated:
 C?, D+, A+ and B ?. Using the fastest trial as the standard,
 No. 46 did better on C than on A, and No. 9 did better on C than
 on B.
+
 It is to be presumed that the order of presentation will affect
 the relative difficulty of the different boards. If board A is given
 before board B it is quite possible that the familiarity and practice
@@ -742,7 +742,6 @@ following illustrations. With the order D, A, B, C, B was done
 more rapidly than A in 16 instances and more slowly in only 13,
 while with the order B, C, D, A, B was done more slowly than A
 25 times and faster than A only 6 times (equal in one comparison).
-52 THE PSYCHOLOGICAL CLINIC.
 With the order D, A, B, C, D was done more slowly than C in 18
 instances and more rapidly in only 8 instances?the latter instances
 may, perhaps, be accounted for by the phenomenon of initial spurt.
@@ -790,6 +789,7 @@ scale of performance tests by Pintner and Patterson,1 which does
 not extend sufficiently far downward. The further refinement in
 the use of the boards presents a problem for experimental solution
 in future.
+
 'Pintner, Rudolf, and Patterson, Donald. A Scale of Performance Tests, 1917.
 It is evident that the time order is an important factor to be considered in this series of tests. It appears,
 however, not to have been evaluated by the authors.

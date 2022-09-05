@@ -1,7 +1,7 @@
 The Educability of a Two-Year-Old
 ===================================
 
-By Helen Squier Skerrett, M.A.
+:Author:  Helen Squier Skerrett, M.A.
 In an article entitled "The Trainability of the Human Infant,"
 published in the Psychological Clinic for May, June, 1922, I
 showed that a certain baby at from five to seven months old had a
@@ -13,6 +13,7 @@ years, become sufficiently general in its scope to justify a formal
 attempt to teach any of the things commonly included in the realm
 of education it is the purpose of this present article to discuss.
 1. The Memory Span of a Two-Year-Old.
+
 It is usually conceded that the memory span?the number of
 units comprehended by the span of attention?and the ease with
 which one or more than the memory span can be taught any specific
@@ -21,6 +22,7 @@ span of only one would be regarded as quite uneducable. A child
 with a memoiy span of two would be regarded, unless there was
 some evidence to the contrary at hand, as somewhat trainable, but
 still not educable.
+
 When Bob was twenty-two months old, I could not, by any of
 the usual methods, or even by any means which I could devise
 myself, find any evidence that his memory span was more than two.
@@ -38,13 +40,12 @@ hours after he had first seen the book he could name every animal in
 it. While we have no data to show a constant correlation between
 the length of the memoiy span and the degree of retention, yet it
 seemed to me quite impossible for a child to memorize ten new
-(221)
-222 THE PSYCHOLOGICAL CLINIC.
 names in twenty-four hours with the memory span of barely two
 that Bob was exhibiting at this time. The fact that I could not get
 him to repeat three digits even on ten repetitions seemed to me to
 make the discrepancy between his memory span and his performance
 with the picture book all the greater.
+
 I therefore determined to make a very careful study of Bob's
 memory span. But still he never gave me more than two digits
 correctly, and sometimes not even two in correct order. He could
@@ -73,6 +74,7 @@ grass, It's too wet" became, in his echo, "High?grass?too?
 wet." Five minutes later, I asked him to say "High grass too wet,"
 but the best I could get from him even after several repetitions was
 "high too wet."
+
 It seemed to me apparent from the nature of his conscious repetitions that the phrases he echoed were without any real significance
 to him. That is, he had heard the words in special groups so seldom,
 that groups of words or even two syllables or words did not tend to
@@ -80,7 +82,6 @@ form single units for him as they do for older children, and as they
 began to do for him about a month later than this; I had many
 examples of four and even five distinct units in an echoed sentence,
 but the "high too wet" was the longest conscious repetition I could
-THE EDUCABILITY OF A TWO-YEAR-OLD. 223
 get from him at this stage of the game. He was then able to repeat
 any single word after me, but he was not yet talking in sentences.
 Shortly after this, however, the echolalia decreased to a marked
@@ -92,6 +93,7 @@ sentences consciously. At twenty-four months he gave Terman's
 "I have a little dog" as "I have little dog," and "the dog runs after
 the cat" as "the dog runs after cat." But still I could not get a
 memory span for digits of more than two.
+
 When he was two years and six days old, Bob was present for
 the first time when I was teaching another boy. He watched the
 performance with the keenest interest, but did not once make a
@@ -118,11 +120,12 @@ more successful in putting one animal on another at command. On
 that same day he could touch two parts of his body when I touched
 the corresponding parts of mine, but he could not touch three parts
 in succession in imitation of my movements.
+
 Conclusion.
+
 It seems to me incredible that a child of two years could rise
 from an inability to repeat three digits on ten repetitions to the
 ability to repeat four digits on two repetitions in the short period of
-224 THE PSYCHOLOGICAL CLINIC.
 months. The fact that his ability to repeat three digits correctly
 and four on a short number of repetitions made itself manifest for
 the first time immediately after he had watched another boy struggling with the memory span for digits has in it, I think, the solution
@@ -137,6 +140,7 @@ route function automatically, we can get, by means of that route only,
 a reproduction span that is probably about equal to the comprehension span. But the other reproduction routes are practically unaffected by this specialized instruction, and will continue to give a
 smaller reproduction span than the probable comprehension span
 until they, too, have become automatic.
+
 I find in my notes just one very specific bit of evidence, that
 not all that goes into a child's brain comes out again: When Bob
 was about a year old, there were certain stunts which he learned to

@@ -1,7 +1,7 @@
 The Mental Hygiene Problems of School Attendants
 =================================================
 
-By Frances V. Markey
+:Author:  Frances V. Markey
 Mental Hygiene Clinic, Judson Health Centre and Columbia University
 This paper presents an analysis of the problems of 295 sc oo
 children referred to the Judson Health Centre Mental Hygiene
@@ -11,6 +11,7 @@ to some extent, of school attendants without Stanford-Binet I.Q. s.
 Chronological age, sex, school status, referral agency and leason
 for referral were obtained from the record forms of the 295 children.1 The tables below show the distribution of the eases according to referral agency and reason for referral in relation to the
 other factors mentioned.
+
 The referral agency is indicated on the clinic folders and may
 be classified readily under the headings indicated. In some instances, however, parents are the ultimate source of certain cases
 classified under Centre; that is, parents coming to the Centre for
@@ -20,15 +21,12 @@ recommend the case to the Mental Hygiene division. Less frequently, as may be se
 mental hygiene personnel. For some cases the Bureau of Attendance (truancy division of the public schools) made recommendations ; these were counted as school referrals. The heading ' Other
 Agencies" subsumes miscellaneous social agencies, such as clinics,
 child placement agencies, hospitals, etc.
+
 The clinic folders- indicate also the reason for referral. The
 basic difficulties of the child may not correspond to the reason
 given; however, the problem stated is the source of difficulty so far
 as the referral agency is concerned. The truancy cases were
 usually described as discipline-truancy, but in our classification
-1 Case records of the clinic were made available through the generous cooperation of Mrs. Margaretta S. Levet, Assistant Director General of Judson
-Health Centre.
-277
-278 THE PSYCHOLOGICAL CLINIC
 truancy only is used since the word discipline is used, on the whole,
 to conform with the terminology of the public school's truancy
 agents. Enuresis, stammering, and masturbation were classified
@@ -39,11 +37,13 @@ scholarship aid (3), interested in art (2), referred for placement
 aid is in a sense a request for vocational guidance, but these cases
 are not classified as such since scholarship aid does not constitute
 a problem in job placement.
+
 The cases were drawn largely from the neighborhood immediately surrounding the Centre, a Latin-American area. Some of
 the schools were informed of the work done by the clinic and were
 invited to refer cases; educational work had been carried on with
 the parents also to secure cooperation with the clinic. These factors were probably of significance in determining the kinds of cases
 referred.
+
 Table I shows that the most frequent single problem for which
 Table I
 Type of Problem on Referral and Source of Case
@@ -165,7 +165,7 @@ Total 295
 18
 9
 33
-MENTAL PROBLEMS OF SCHOOL ATTENDANTS 279
+
 cases are referred is neurotic behavior; however, if truancies are
 added to the school discipline cases, non-conformity in school totals
 most. The Centre refers almost equal numbers of neurotics and
@@ -199,11 +199,14 @@ studies. The group as a whole, it may be noted, tends to be subnormal in intelli
 somewhat more retarded than those referred by the Centre and by
 parents. The age-grade status of the school cases is considerably
 lower on the average than Centre and parent cases.
+
 Summary
+
 In general, the analysis shows that mental hygiene cases from
 this particular area are slightly retarded in intelligence. Health
-280 THE PSYCHOLOGICAL CLINIC
+
 Table II
+
 Median I.Q. and Average Age Gbade Retardation of 295 Cases According
 to Problem, Sex and Source of Case
 Source of Case
@@ -336,8 +339,8 @@ Av. Age Grade
 1.0
 97
 0.8
-* 2 cases attending ungraded class counted as 2 years retardation.
-t Boldface indicates acceleration.
+
+Boldface indicates acceleration.
 workers at the Centre are relatively more sensitive to neurotic
 traits, school personnel to disciplinary difficulties, and parents to
 discipline as mental hygiene problems. Girls are referred to the

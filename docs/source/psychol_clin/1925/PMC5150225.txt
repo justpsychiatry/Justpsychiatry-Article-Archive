@@ -2,14 +2,17 @@ An Analytical Study of One Hundred Twenty
 Superior Children
 ==========================================
 
-By Alice M. Jones, Ph.D.
+:Author: Alice M. Jones, Ph.D.
 Clinical Psychologist and Organizer of Special Classes, Beaver
 County, Pennsylvania, Sometime Recorder to the Psychological
 Clinic, University of Pennsylvania
+
 INTRODUCTION
+
 Superiority is success demonstrated in some field of competition. The use of the word "superiority," which is a comparative
 term, implies the correlative concept of inferiority, and the superiority-inferiority relation appears only as the demonstrable result
 of some competitive event.
+
 If we wish to discover the superior members of a group, the
 simple way open to us is to set up some form of competition. Life,
 the school, all fields of social and economic production do this day
@@ -22,6 +25,7 @@ passing events of daily life. A psychological examination is such
 a pre-arranged competitive event, designed to discriminate the
 greatest possible number of factors which make toward success or
 failure in the long run.
+
 If, as a result of this pre-arranged competition, the competitors
 are placed in rank order with reference to the preferred end of
 the competition, what is the measure of the superiority of each
@@ -32,7 +36,7 @@ to state in concrete terms the individual's relative superiority.1
 1 For these concepts regarding the essential nature o success, a
 methods of measurement, I am indebted to Doctor Witmer, un er w ose it
 tion and inspiration this study was conducted.
-20 TEE PSYCHOLOGICAL CLINIC
+
 Suppose now, we wish to form a group whom we shall designate as relatively superior individuals. Upon what criterion shall
 we proceed? Some point in the series, above which the individual
 values shall be called superior, must be selected, and in the final
@@ -50,6 +54,7 @@ of the differentiation which is desired. Shall we call superior an
 individual who represents one of a group of twenty individuals,
 superior to eighty in every hundred ? This will give a finer differentiation that the median, it is true, but in this case the superior
 group will still be relatively large.
+
 It was finally decided to consider superior for the purposes of
 this investigation any child who, on the basis of a Binet score, has
 a rank which places him in a group of one, superior to ninety-nine
@@ -65,7 +70,6 @@ the true one, may not the discrepancy between capability and demonstrated produc
 others? And further, may it not vary, from time to time, in the
 same individual? Can this ratio be expressed by any sort of
 fraction, and, if so, what would be the meaning of terms ?
-AN ANALYTICAL STUDY 21
 Doctor Witmer has approached this problem from the following point of view. He would use a new term, to express this relationship, calling it "Individual Efficiency."
 t j ? ? j , ? Proficiency Measured
 Individual Efficiency =
@@ -76,6 +80,7 @@ individual efficiency, is of great value in the diagnosis of superiority.
 To illustrate the value of the competency estimate, let us suppose that, in the course of my study, I encountered two individuals,
 of precisely the same age, who give me identical proficiency scores
 on one or all the tests.
+
 One of these children comes from a very fine home. She has
 had every cultural and environmental advantage, including travel,
 books, and a musical and artistic education. The other child, whose
@@ -88,6 +93,7 @@ latter child possesses a far greater degree of ultimate capability
 than the former? Is it, indeed, fair to judge these two children
 solely on the basis of any measure which can be ascertained as to
 their present status?
+
 In making a final estimate of competency, then, one must take
 into consideration all those factors which tend to increase or decrease individual efficiency. One can even carry this question of
 individual efficiency further, finding cases where health and environmental factors are substantially the same, and where the present productivity in terms of proficiency measures is approximately
@@ -96,7 +102,6 @@ rated as superior to that of the other, because the motivation or
 "disposition" of one was such as to interfere with his best effort to
 succeed in the competition, or because a difference in poise has
 caused a variable response to the test situation, resulting disastrously for one and not for the other.
-22 THE PSYCHOLOGICAL CLINIC
 The diagnosis of superiority as I view it, therefore, presents at
 least two separate phases. "Insofar as the diagnosis depends on
 exact measurement, it is a demonstrable diagnosis; insofar as it
@@ -108,6 +113,7 @@ of the ideal that ALL DIAGNOSIS SHOULD BE VIEWED AS
 PROGNOSIS, the competency estimate may be viewed as the more
 adequate prediction of future achievement than any mere measure
 of present status can hope to give us.
+
 There is another factor which comes into play as soon as one
 begins to make estimates regarding ultimate achievement level?
 a factor which has always acted as a "joker" in the competitive
@@ -119,6 +125,7 @@ a very marked gift in some special field, and, in most other abilities,
 fall consistently below the level of mediocrity. The probability
 that such an individual will succeed in any field outside the limited
 range of his specific ability is relatively slight.
+
 Terman,2 and Root3 have included within their superior groups
 a number of individual cases of children with some marked special
 ability. After some thought, I have decided to diverge from this
@@ -131,15 +138,17 @@ Genius must be, it is true, founded upon some talent or group
 of talents, but talent is not the only significant factor. Among
 2 Terman, L. M., A New Approach to the Study of Genius. Psychol. Bev.
 29, 4, July 1922.
+
 * Root, W. T., A Socio-Psychological Study of Supernorms. Psychol.
 Monograph, 1921.
-AN ANALYTICAL STUDY 23
+
 other essential accompaniments of genius are the following, a
 superior discernment level, superior intellectual capacity, superior
 motivation, which urges toward production, and an ability to is
 play origination of such profound effectiveness that it ten s to
 produce an entirely new pattern of perfection in the field in w ic
 it operates.
+
 Because, however, general intellectual superiority is an item
 which must be considered with reference to genius, Dr lerman is
 in part justifiable when he speaks of the study of the superior child
@@ -156,10 +165,13 @@ I. Q. is 140. There are so many factors involved in the prediction or
 diagnosis of genius that I should hesitate to so name any child in
 my group, no matter how great his relative superiority as measured
 in terms of present status.
+
 In summary, it will be remembered that the criteria of superiority are two: the first, the demonstrable diagnosis, concerned with
 exact measures on a battery of tests and frequency scores in terms of
 previous distributions; and second, the analytical diagnosis, comprising qualitative analysis and evaluation.
+
 SELECTION OF TEST BATTERY, AND PROCEDURE
+
 In view of the fact that contemporaneous investigations from
 this laboratory are being conducted at two of the major compe
 tency levels: the six5 and the fifteen6 year old level, and t at
@@ -175,6 +187,7 @@ well to use a test combining the major features of the two other
 investigations, in order to relate each competitor to one or the
 other, or both, of these major competency levels. The tests selected
 were, therefore, as follows:
+
 Six Year Level
 School Grade
 Height, Weight
@@ -193,6 +206,7 @@ Dearborn Formboard (2 trials)
 Young Slot Maze CT (2 trials)
 Memory Span?auditory, visual-vocal, reversed, learning, syllables
 in sentence.
+
 Binet Test (Terman Revision, abbreviated scale)
 Three Written Tests?(used in tests at fifteen-year-old level)
 Woodworth and Wells Hard Directions Test
@@ -209,11 +223,12 @@ results cannot be used in comparison with any norms.
 Psychol. Clinic, X, 1916, p. 93.
 Witmer Cylinders?Paschal, F. C. The Witmer Cylinder Test
 The Hershey Press (1918).
-AN ANALYTICAL STUDY 25
 scale of increasing difficulty, when the ability displayed in simpler
 problems indicated that there was some reasonable expectation of
 success.
+
 The Analytic Diagnosis
+
 Following the examination, each candidate was subjected to
 an informal interview with the examiner. Questions were asked
 concerning extra-curricular activities, music, dancing, athletics,
@@ -230,6 +245,7 @@ attainment of which was the child's concrete ambition, questions
 regarding play, relations with other children, favorite school subject, reaction to school and teachers, gave the examiner a fairly
 Dearborn Formboard?Learning, E. E. Tests and Norms for Vocational
 Guidance at the Fifteen Year Old
+
 Level. Psychol. Clinic, 14, 1922,
 p. 193.
 Maze A?Young, H. H. Slot Maze A. Psychol. Clinic, 14,
@@ -239,6 +255,7 @@ Exper. Studies in Psych, and Ped.,
 1917.
 Maze C?Young, H. H. (Standardization under preparation
 ?not yet published).
+
 Note: For purposes of analytic diagnosis, the examination was augmented from time to time with other tests which appeared to the examiner to
 have some definite diagnostic value. A test frequently used as an adaptation
 of the Maxfield Design Blocks. In order to get some supplementary information regarding a child's imagery, two simple designs (the red square and the
@@ -248,17 +265,19 @@ gained some valuable introspective material regarding the type of imagery
 which functioned. Similarly, the two Healy Pictorial Completion tests were
 frequently used, and in the case of high school boys, the Marvin Pyramid, a
 test, the quick solution of which appears to involve relatively superior imagery.
-26 THE PSYCHOLOGICAL CLINIC
 definite picture of the child's major interests and general social
 orientation. Language ability, superiority-inferiority sense, confidence, initiative and creative imagination were estimated on the
 basis of this interview, and a total personality rating was arrived
 at. When possible, supplementary information from parents and
 teachers was obtained regarding the child's play life, his level of
 interests, and, more especially, his talents.
+
 Following both examination and interview, an analytic diagnosis chart was checked, based upon the new schedule of personality items prepared for use at this Laboratory by Dr Witmer.
 Ratings were made on a five-point scale, 5 representing the highest,
 3 the median, and 1, the lowest rating (see pp. 69-70).
+
 PHYSIOLOGICAL DATA
+
 There is accumulating in the general literature a large number
 of results which tend to show a direct relation between mental
 and physiological age. Perhaps the most insistent voice in this
@@ -269,6 +288,7 @@ dealing with the age of onset of pubescence show a tendency for
 those individuals whose maturation is early to show a relatively
 higher degree of success in academic subjects, and in the results
 of psychological examinations.10
+
 My results tend to confirm this finding. In treating the results
 for the purpose of showing relative acceleration in growth, I have
 adopted the procedure of comparing the individual height and
@@ -277,11 +297,12 @@ given credit for as many years' acceleration as it is evident between
 the median for that age, and the level which it most nearly approximates. A gross treatment of this sort serves to bring out very
 8 Baldwin, Bird T. Physical Growth and School Progress. U. S. Bureau
 Ed. Bui, 1914, No. 10 (and others).
+
 10 A useful, reference here is Lutz, The Relation of Mental to Physical
 Growth, The Psych. Clinic, 1924, pp. 125-129. Lutz gives a rapid resume
 of the literature regarding the relation of pubescence onset to mental findings.
-AN ANALYTICAL STUDY 27
 clearly the general tendency of the figures. Following are the
+
 figures:
 Height11
 No. Years Acceleration No. Cases Per Cent Cases Total Per Cent
@@ -301,6 +322,7 @@ Weight
 Median for age 22 18.3 97.3
 One year retarded 2 1.6 98.9
 Off the chart (too young) 1 0.8 100
+
 It will be seen from a quick inspection of these tables that 79
 per cent of the cases are one year or more accelerated in height, and
 79 per cent are one or more years in excess of the median for
@@ -317,7 +339,6 @@ expect individuals of accelerated mental growth YEAR BY YEAR
 TO APPROACH MORE NEARLY THE MEDIAN INTELLECTUAL LEVEL FOR THEIR AGES. I am convinced that this is
 what actually does happen in many cases, and that we may thereby
 11 Height and Weight measures have been made in cm. and kg., respectively. The norms used for comparative purposes were those of Hastings.
-28 TEE PSYCEOLOGICAL CLINIC
 readily account for the frequent regression to the norm which is
 seen in cases of what looks like unusual childhood promise. In the
 light of this hypothesis, it becomes at best precarious to make any
@@ -325,13 +346,17 @@ prediction about the ultimate achievement level in cases where
 unusual mental development appears in combination with a high
 maturation index, until the individual has reached the point of
 post-adolescent physiological stability.
+
 NATIONALITY, CULTURAL AND ECONOMIC FACTORS CHARACTERISTIC OF GROUP
+
 Nationality
+
 In polyglot ancestry, the members of this group are typically
 American. In some few cases the examiner inquired into the race
 pattern disclosed by grandparents, but two or three illustrative
 cases will show the futility of trying to make any classification of
 such data.
+
 196 M Paternal grandparents Scotch-Irish and Pennsylvania Dutch.
 Maternal grandparents Swiss and "American."
 121 M Paternal grandparents Dutch.
@@ -369,6 +394,7 @@ Rank 4   32 89
 Eank 3   8 97
 Eank 2   2 99
 Eank 1   1 100
+
 If we compare these percentages with those of any unselected
 group, it becomes obvious that, from the point of view of economic
 status alone, we| are dealing with a highly selected group. Given
@@ -379,17 +405,19 @@ scale, and 89 per cent into class 4 or better, have unquestionably
 shown a high degree of success in competitive society. Should we
 not be led to expect a somewhat greater probability of success, or
 superiority, in the children of such parents?
+
 The few cases at the lower end of the scale perhaps deserve
 some special mention here. 45M is a very talented boy who was
 reported as Joseph by the author, in a group of children especially
 13 Terman, L. M. A New Approach to the Study of Genius, Psychol.
 Review, July, 1922, p. 314.
+
 u Eoot, W. T. A Socio-Psychological Study of Supernorms, Psychol.
 Monograph, 1921, p. 193.
 "Terman, op. cit. p. 313.
 15 Taussig, F. W. Principles of Economics. The Macmillan Co., 1921.
 141-144.
-30 THE PSYCHOLOGICAL CLINIC
+
 gifted in music.16 His parents are Italian born, his father a day
 laborer. Joseph is twelve years old, however, and unusual interest
 has been accorded him throughout his school career. The school
@@ -402,6 +430,7 @@ among the highest for his age reported in the superior group. His
 I. Q. of 141.2, although admitting him to the group, is found just
 above the minimum requirement at the fourteen year old age level,
 into which level he falls.
+
 The cases which fall into Rank 2, on the basis of economic
 classification can also be explained in some measure. 97F is a little
 girl whose father, although a high school graduate, has not yet
@@ -414,7 +443,9 @@ marked cultural and economic handicap. As the individual approaches adult life, 
 by the exercise of initiative and intelligence. It is the younger
 children who are most dependent upon the home for what it can
 give in the direction of creature comfort and cultural inspiration.
+
 Cultural Status of the Home
+
 It is, of course, sound economic reasoning to expect that in a
 group of cases which are found at the upper economic levels of
 society, we shall find a superior cultural status. However, in order
@@ -422,9 +453,9 @@ to be doubly sure of the approximate cultural status of the homes
 from which these children come, information was gathered concerning the educational background of the parents. In some eases,
 examined in schools, it proved impossible to get this data from the
 19Psychological Clinic. January, 1924 (Vol. 15), p. 130-133 (Joseph)
-AN ANALYTICAL STUDY 31
 children. In general, the examiner was able to obtain more information about the fathers than about the mothers. On cases examined in the clinic, however, a careful record was kept. Enough
 cases were reported to make the tendency very clear.
+
 TABLE TO SHOW EDUCATIONAL STATUS OF PARENTS
 Father Mother Both
 College Graduate  55 24 21
@@ -451,12 +482,13 @@ view of the fact that these very characteristics are so greatly preferred among 
 make them successful in the intellectual competitions of childhood,
 perhaps in ignoring them in our search for superior children, we
 should defeat our own end.
+
 A better solution of the problem would be a recognition of the
 fact that superior social and cultural status in parents tends toward
 intellectual superiority on the part of the children, and that therefore a sliding rather than an absolute standard of selection should
 be imposed, lowering the standard of admission to the group in
 cases of inferior environmental status, where the child gives evidence of possessing superior competency.
-32 THE PSYCHOLOGICAL CLINIC
+
 RELATIVE DEGREE OF ACCELERATION IN SCHOOL GRADE
 "When we consider the exceptional degree of acceleration in
 mental age which is characteristic of this group as a whole, we
@@ -474,6 +506,7 @@ Retarded in School Grade
 No child in the group was found to be more than two years
 accelerated in school age, and no child was more than two years
 retarded.
+
 Supplementary investigation of those records which show retardation in school work shows the facts to be as following:
 Two years retarded, case No. 89M, aged ten year, three months.
 This boy is ten years of age, and up until this year he has been
@@ -481,8 +514,10 @@ taught in a haphazard fashion by his mother, but has never been in
 school. His father is a civil and mining engineer, and the family
 has moved from place to place so frequently as to make it impractical to place the boy in school. He was placed this year provisionally in 3B, and as he was examined early in the fall, was still
 in that grade.
+
 Cases which show one year's retardation are analyzable as
 follows:
+
 Children of six years not yet in school?? cases.
 Lost all, or most of a year because of illness?3 cases.
 In all the other cases the birthday falls at such a time that the
@@ -496,8 +531,11 @@ acceleration in school grade, and that in most cases they are receivAN ANALYTICA
 ing no unusual attention from the viewpoint of adaptation of curriculum, it would seem that the schools, as a whole, are neglecting
 a problem of great importance, in their failure to provide exceptional facilities for the education of the children who fall into this
 group.
+
 EESULTS
+
 General Method of Treatment
+
 In view of the wide chronological age spread, and the relatively
 few values occurring at each age interval, all cases, regardless of
 age or sex, were thrown into straight rank order distribution. The
@@ -511,6 +549,7 @@ tables were made up giving decile limits, maximum, minimum,
 median, and mode. In accordance with the viewpoint of this Laboratory toward the essential nature of "norms," the mode reported
 is not the usual frequency mode, but the median sixty per cent
 range.
+
 Percentage tables were also prepared to show the number and
 percentage of cases within a certain range of scores. Time scores
 are reported in periods of ten seconds' range on some tests, and
@@ -520,12 +559,15 @@ adequate for each particular test. In the percentage tables, the
 last figure indicates the total percentage of individuals securing
 given score or better. The tables are accumulative, in both the number of cases, and in percentage, from the least to the greatest score.
 Results and discussion of individual tests follow:
+
 BINET TEST
+
 The results on the Binet Test are reported under five major
 captions: Chronological Age, Mental Age, Basal Age, Intelligence
 Quotient and Vocabulary.
-34 TEE PSYCHOLOGICAL CLINIC
+
 I. Chronological Age
+
 The range in chronological age within the group is from three
 years, eleven months to fourteen years, nine months.
 From the point of view of chronological age, therefore, it will
@@ -546,23 +588,27 @@ R's. Between six and ten a superior child may take on increments
 in efficiency in school work so rapidly as to take him entirely out of
 the class of his associates in the grades, and thus open up almost
 infinite I. Q. possibilities.
+
 That the chronological age does not run higher is the result of
 the limitation of the upper ranges of the Binet Series, which makes
 it imposible for a fifteen or sixteen year old child to obtain a strikingly high I. Q. There are five cases above the twelve year level
 which were included in the group on the basis of a maximum I. Q.,
 rather than one which is above the lower criterion for admission.
+
 II. Mental Age
+
 Beginning with a minimum mental age of 6-0, the range in
 this group runs up to the maximum possible on the Terman Revision, or 19-6. The median mental age is 15-7? and the sixty per
 cent median range is from 11-4 to 18-0.
+
 The disparity between the chronological and the mental ages in
 this group is, of course, striking. The general tendency is shown
 by the median, where with a median chronological age of 9-9, we
 find a median mental age of 15-7|. Inspection of any other point
 in the decile distribution, however, shows just as great a difference,
-AN ANALYTICAL STUDY 35
 and in individual cases we find a mental age almost double the
 chronological.
+
 I have a word of warning about the literal interpretation of
 the words mental age. It has for some time been recognized that
 there is a fallacy in applying the concept of mental age to an inferior child, in that such children cannot be favorably compared
@@ -571,6 +617,7 @@ stressed that the mental age of a post-adolescent defective individual
 is in no sense that of a younger child who is pre-pubescent, in that
 actual physical maturation and the experience which years of living bring, invalidate a comparison between the mentality of the
 two individuals.
+
 However, most persons have accepted with relatively little
 question the assertion that a child, let us say, of eight years, may
 have a mental age of sixteen years or thereabouts. This notion I
@@ -580,6 +627,7 @@ for a much higher age level, does not, in my opinion, warrant the
 supposition that he has attained to the complexity and maturity of
 mind which is the natural outcome of physiological maturity and
 experience.
+
 In almost every case which I have presented, I should be willing
 to say that the mental age score obtained, taken alone, would give
 a very much exaggerated picture of the child's relative intellectual
@@ -589,6 +637,7 @@ and behavior pattern differs from that of the older individual in
 certain very significant although rather elusive ways. One of these
 differences is unquestionably a lack of maturity and complexity of
 response.
+
 On the other hand, I have reported certain cases where postadolescent stability has been reached at an early age. Case 25F is
 an excellent illustration of this point. At 11-11 she has the physiological maturity of a girl of sixteen. Her mental age rating is 17-10,
 and in this case, the mental age does not appear too high to give a
@@ -597,6 +646,7 @@ is below fourteen, but who have reached the age of post-pubescent
 stability, impressed the examiner as showing a maturity of intel36 TEE PSYCHOLOGICAL CLINIC
 lectual organization which was adequately expressed in terms of
 the mental age score.
+
 However, I wish to re-emphasize the statement that in my
 opinion a mere statement of mental age would tend to give a distorted picture of the intellectual level of these children. That these
 young children are able to pass tests at the upper level age must
@@ -608,7 +658,9 @@ represented by his chronological age on the one hand, and his mental age, on the
 speaking, appears therefore not only inadequate, but erroneous,
 although for purposes of general comparison it is, of course, a
 useful type of measure.
+
 III. Basal Age
+
 It has been felt by some investigators at this Laboratory that
 the basal age level might be expected to give a relatively better
 picture of the actual intellectual level at which an individual is
@@ -628,8 +680,9 @@ tests passed scatter through the folder, as a result of certain specific
 abilities (memory span in particular) the basal age level does attain
 more significance than that of the mental age, but these cases are
 the exception rather than the rule.
-AN ANALYTICAL STUDY 37
+
 IV. Intelligence Quotient
+
 It will be seen from inspection of the tables that two cases,
 or 1.6 per cent scored I. Q.'s above 190, 8.3 per cent above 180,
 17.5 per cent above 170, 31.6 per cent above 160, 71.6 per cent above
@@ -637,6 +690,7 @@ or 1.6 per cent scored I. Q.'s above 190, 8.3 per cent above 180,
 the group, where the I. Q. ranges between 130 and 140, but where
 the I. Q. obtained is the highest possible, because of the upper limit
 imposed by chronological age.
+
 In view of the fact that the I. Q. was made the ultimate criterion of selection for the members of this group, I feel it well to
 justify the choice of this particular test. The justification rests in
 general upon two factors. The first of these is the very excellent
@@ -652,6 +706,7 @@ the Binet serve to give indices of memory span, vocabulary, judgment, and genera
 making a qualitative as well as a quantitative judgment of the child.
 For this reason it is preferable to other tests, in the solution of
 which some few specific abilities are involved.
+
 It will be remembered that the quantitative lower criterion of
 admission to the group was that of the upper one percentile, as
 found in the distributions of the other two major investigations
@@ -664,6 +719,7 @@ mately high achievement level, because of certain very favorable
 environmental factors which have tended to raise the I. Q. level.
 However, with these very few exceptions, the criterion proved a
 fairly satisfactory one.
+
 It will be remembered that 31.6 per cent of this group secured
 an I. Q. of 160 or better. The highest figure appearing in the distributions at the six and fifteen-year-old level is 160, secured by a
 child at the six-year level. At this level five hundred cases are
@@ -678,13 +734,16 @@ I. Q. of 190 or better, and no case above 200. There are comparatively few such 
 thousand?just how small the frequency index would be is still a
 matter of estimate. However, it is clear that the smaller the frequency index the greater the relative superiority. Frequency is
 the ultimate criterion.
+
 V. Vocabulary
+
 Vocabulary is one of the tests in which the most general and
 striking superiority is demonstrated by this group. For the most
 part, the vocabulary of these children approximates a level almost
 as far in, advance of their chronological age norms as the mental
 age itself. Distribution in terms of number of years' excess vocabulary above age norms is as follows:
 No. Years Above C. A. No. Cases Per Cent Total
+
 9 1 0.8
 8 1 1.6
 7 3 4.1
@@ -695,7 +754,7 @@ No. Years Above C. A. No. Cases Per Cent Total
 2 17 84.7
 1 10 93.0
 0 8 100.0
-AN ANALYTICAL STUDY 39
+
 Those cases which show no acceleration whatever in "vocabulary age" are, with one exception, below four years of age. In the
 case of such young children, of course, the Binet vocabulary list
 is of little value. No child in the group is retarded with reference
@@ -703,6 +762,7 @@ to vocabulary. Twenty-four per cent show an acceleration of five
 years or more, 50 per cent an acceleration of four years or more,
 seventy per cent an acceleration of three years or more, eighty-five
 per cent an acceleration of two years or more.
+
 With a median chronological age of 9-9, the median vocabulary
 score is 52, which represents a median acceleration of four years
 plus. The median sixty per cent range for the group is from a
@@ -730,7 +790,6 @@ of the higher levels of complexity. Not only does the superior child
 define more words, his very language increment, proceeding hand
 in hand as it does with conceptual complexity, enables him to give
 better definitions of those words which he does define. There are
-40 THE PSYCHOLOGICAL CLINIC
 eight and nine year old children in this group whose "sense of
 definition" exceeds that of the average college student.
 Explanation of the vocabulary increment in this group comes
@@ -753,13 +812,15 @@ level. In the final analysis, however, although we may "explain
 away" a relatively poor vocabulary score in terms of lack of opportunity, since the increase of intellectual complexity and the development of language are so intrinsically inter-related, we must
 admit that an individual of inferior vocabulary fails to attain to
 the intellectual level of one whose vocabulary is superior.
+
 MEMORY SPAN
+
 Memory span results are reported in general under five captions, comprising the Auditory, Visual, Reversed, Learning and
 Sentence Spans.
+
 I. Auditory Memory Span
 Inspection of the tables for auditory memory span shows a
 minimum repetition of five digits and a maximum of 10 digits,
-AN ANALYTICAL STUDY 41
 which was the highest series presented. The median is clearly 8,
 with three entire deciles. Eight and three-tenths per cent of the
 cases give 10; 21.6 per cent give 9 or more; 71.4 per cent, 8 or more.
@@ -767,6 +828,7 @@ The median range (sixty per cent mode) is 7 to 9. The median for
 this group is therefore the same as that for the high school groups
 at the fifteen year old level, although the median chronological age
 is 9-9.
+
 A quick survey of the minimum chronological age at which
 each of the memory span values occurs may be of interest here.
 The youngest child to obtain a score of 10 was 121M, aged 9-5;
@@ -775,6 +837,7 @@ aged 4-2; 6 by 195M, aged 3-11; 5 by 2F, aged 3-5. The distribution
 shows, however, a marked over-lapping in the relation of chronological age and auditory memory span, so that what appears here
 as a fairly symmetrical ratio is actually marked by considerable
 scattering in age scores.
+
 That the distribution shows a consistently high auditory memory span in relation to chronological age is obvious from the distribution of significant results.
 II. Visual Memory Span
 There is in general a close correspondence between the results
@@ -796,12 +859,13 @@ children to the series presented. It is almost impossible to have the
 child "follow the pencil" and proceed slowly. His eyes move
 rapidly over the entire series two or three times while the voice is
 pronouncing the digits at the required rate. No matter how quickly
-42 THE PSYCHOLOGICAL CLINIC
 the card is removed, the glance slips back to the beginning of the
 series while the last digit is being pronounced. This form of "beating the game" was frequently obvious to the examiner, but after
 giving the standard directions, the tendency was ignored, in that
 it seems a justifiable display of intelligence.
+
 III. The Learning Span
+
 The learning span, or the number of repetitions required to
 learn a series longer by one digit than the memory span, was tested
 on all cases whose span as tested was less than 10. Results are
@@ -818,11 +882,14 @@ failed to raise the span on ten repetitions are six years old or less.
 In the other exception, a girl of 11-2, the emotional factor was
 paramount, and after three or four failures, her series became
 "wild."
+
 The group tendency, is, as would be anticipated, toward a
 relatively low number of repetitions. This factor, coupled with an
 exceptionally large memory span as a foundation, serves as an adequate indication of the high degree of educability, or, in the Witmer
 terminology, " perf ectability " characteristic of the group.
+
 IV. The Reversed Span
+
 The distribution for the reversed span shows an even wider
 divergence from the age norms than that for the forward spans.
 The minimum span is, of course, 0 (two cases, both four years).
@@ -830,12 +897,12 @@ The modal 60 per cent range is from four to seven, the median 6,
 and the maximum 7, with three deciles. In percentages, 35.8 per
 cent give 7, 59.1 per cent give 6 or better, 72.5 per cent give 5 or
 better, 86.6 per cent give 4 or better, and 97.5 per cent give 3 or
-AN ANALYTICAL STUDY 43
 better. The median chronological age being 9-9, the median reversed span as reported by Terman should be 4. Six, it will be
 remembered, is scored at the average adult level.
 The youngest child to give a reversed span of 7 was 184F, aged
 8-8. Six was scored by 156F, aged 7-9; 5 by 58M, aged 7-2; 4 by
 85F, aged 4-11; 3 by 195M, aged 3-11.
+
 That the results obtained with the reverse span are uniformly
 in excess of the age norms would, in the opinion of some writers,
 be considered of even greater significance than the acceleration in
@@ -851,6 +918,7 @@ and then read the number in reverse sequence.) In view of the
 fact that the problem is more complex, success is unquestionably
 more significant. The problem of the significance of failure, or
 inferior score in the test need not concern us here.
+
 A word as to the method of recall characteristic of the superior
 group on this test, might be of interest. There is evident a much
 greater caution in response than with the average child. Instead
@@ -862,20 +930,22 @@ The examiner regrets that she did not begin by permitting an
 upper limit of 10 digits in this test, instead of 7, as she is convinced
 that in many cases the reversed span might have been even higher
 than that standardized at the Superior Adult Level.
+
 " Starr, A. S. The Diagnostic Value of the Audito-Vocal Digit Memory
 Span. Psychological Clinic, 1923, 14, p. 83
-44 TEE PSYCEOLOGICAL CLINIC
 V. The Sentence Span
 By the sentence span is indicated the number of syllables in
 a sentence which can be repeated by the subject after a single
 auditory presentation. In this group, the number of syllables repeated distributes from a minimum of 13, to a maximum of 35.
 The modal sixty per cent range is 22-29, the median is 26. Twentyfour per cent of the cases give 30 or better, ninety-one per cent give
 20 or better.
+
 In interpreting the significance of these results, I am handicapped by a lack of norms. Terman places twenty-eight syllables
 at the average adult level, and drops to twenty to twenty-two syllables at the ten year level. The median, or twenty-six syllables,
 in this investigation, would therefore fall between these two levels,
 and more nearly approximate the former. With a median chronological age of 9-9, these findings would indicate a degree of acceleration comparable to that found with the other spans.
 The Significance of Memory Span
+
 Memory span, as a measure of an individual's span of apprehension lies at the basis of all intellection. There is some disagreement in the literature as to what the memory span test actually
 tests. Humpstone18 has defined the memory span as ''the ability
 to grasp and associate a number of discrete units of perception in
@@ -892,9 +962,9 @@ there is the well-known span of echolalia, which from the point of
 view of intellect possesses no significance, and there is also the increase of repetitive span which accompanies increased facility in
 18 Humpstone, H. J. Some Aspects of the Memory Span Test. The
 Psychol. Clinic Press, Philadelphia, 1917.
-AN ANALYTICAL STUDY 45
 the use of language. With intelligent subjects, grouping and other
 devices supplement the true operative span.
+
 In order to give as complete a test as possible of memory span
 and avoid, by checking, the possibility of gaining an entirely false
 impression of the individual's true span, the five forms of the test
@@ -917,6 +987,7 @@ with, increasing urgency, but in spite of the excellent efforts in
 laany communities, progress in this direction is slow.
 I
 THE PERFORMANCE TESTS
+
 Discussion of the individual performance tests follows:
 The Witmer Formboard
 In order to economize in the matter of time, the Witmer Formhoard was given only to cases at the six year level. An arbitrary
@@ -926,7 +997,6 @@ Statistical results here are of comparatively little significance, because of th
 of the University of Pennsylvania has defined three major age levels. (1) the
 six year level (age range 3 yrs. 6 mos. to 8 yrs. 5 mos.), (2) the fourteen
 year level (age range 11 yrs. 6 mos. to 16 yrs. 5 mos.), and third, an intermediate level, lying between these two.
-46 THE PSYCHOLOGICAL CLINIC
 On the first trial, all but three cases complete the test within a
 minute; the maximum time required is 197 seconds, and there are no
 failures. The minimum time is 21 seconds, scored by 20M, aged
@@ -945,25 +1015,29 @@ his distribution is reached at 50 seconds for boys, and at 52 seconds
 for girls. The median reported for this group is 35 seconds, which
 gives some indication of acceleration. Young offers no distribution
 of the second trials.
+
 Dr Easby-Grave, in her investigation at the six year old level,
 finds a median first trial time of 45 seconds, which is considerably
 poorer than the median time for this group. She finds 2.6 per cent
 failure on the first trial with first grade children. In this group
 I report no failures.
+
 For the second trial, her distribution shows a median score of
 35 seconds, as against 26 seconds for this group. It is quite clear
 from the general tendency of the results that in this test, the scattered "six year old level" group of superior children makes a consistently better showing than does the more homogeneous first grade
 group.
+
 The Witmer Cylinders
+
 The significant results in the first trial of the Witmer Cylinders are as follows: minimum 27 seconds, maximum failure, median
 80 seconds, and 60 per cent range 56-134. Eight-tenths per cent
 succeed in less than 30 seconds, 1.6 per cent in less than 40 seconds,
 26.6 per cent in less than a minute, 74.1 per cent in less than two
 minutes, 90 per cent in less than three minutes. Four cases, or
 3.3 per cent, fail the test.
+
 ? Young, H. H. The Witmer Formboard. Psychol. Clinic, 1923, 14,
 85-91.
-AN ANALYTICAL STUDY 47
 The failures fall, with one exception, below 4-11 in chronological age. 86F, aged 8-1, scored a technical failure, by replacing
 all the blocks as quickly as possible without regard to the problem.
 Her second trial was satisfactory. No cases at six years failed,
@@ -976,6 +1050,7 @@ favor of the boys. Above the median we find 58.8 per cent of the
 boys, as against 38.4 per cent of the girls. Seventy-five per cent
 ?f the highest decile are boys. The failures include three girls but
 only one boy.
+
 The median first trial time, 82 seconds, fails to compare favorably with the median at the high school level.
 The significant results in the second trial are as follows: minimum 25 seconds, median 59 seconds, and. 60 per cent range 47-91.
 There are three failures on the second trial. There is a general
@@ -989,6 +1064,7 @@ boys, and 44.4 per cent of the girls. Although the highest decile
 shows no significant difference in the number of cases of each sex,
 the upper quintile shows a distribution of 25 per cent of the boys,
 as against 13 per cent of the girls.
+
 Mere success on the Cylinders, above the six year level,, is of
 little diagnostic value. The important considerations for diagnosis
 are (1) the relative position of the time score in the percentile distribution for age, and (2) the qualitative manner of attack. The
@@ -998,8 +1074,8 @@ two most valuable single performance tests, from the point of view
 of the analytic diagnosis, in the battery under discussion, certainly
 above the four year level, where the Witmer formboard is of great
 value.
+
 The Witmer Cylinder Test is admirably adapted to show fineness of analytic discrimination within a certain range of material
-48 THE PSYCHOLOGICAL CLINIC
 where the general form is constant, but the variations appear in
 the single factor of size (height and diameter). In addition, it
 provides an opportunity for the integration of the problem as a
@@ -1018,6 +1094,7 @@ devoted to qualitative considerations. The cylinder test well merits
 its place in the battery, because of the light it throws upon these
 analytic elements.
 The Dearborn Formboard C
+
 Significant results on the Dearborn Formboard C, first trial,
 are as follows: Maximum failure (ten cases), minimum 34 seconds, median 165 seconds, and 60 per cent range, 100 seconds to
 340 seconds. Four per cent of the cases succeed in less than one
@@ -1025,18 +1102,19 @@ minute, 34.1 per cent in less than two minutes, 55 per cent in less
 than three minutes, 79.1 per cent in less than five minutes, and 91.6
 per cent in less than ten minutes. The median does not compare
 favorably with that of the high school group.
+
 The minimum score was obtained by 25F, aged 11-11, followed
 closely by 185M, aged 9-6. These values are reported to show how
 relatively little significance the chronological age of the subject
 possesses in the final distribution. The youngest child to finish the
 test within the ten minute limit was 162M, aged 5-4. The oldest
 child to fail the test was 189M, aged 7-4.
+
 The sex difference in this test, within this group, is negligible.
 Investigation of the number of each sex found above the median
 shows exactly 50 per cent of the boys and 50 per cent of the girls.
 The number of boys and girls in the highest decile is equal, which
 indicates a slight preference in the direction of the girls, since there
-AN ANALYTICAL STUDY 49
 are more boys than girls in the group. The number of failures
 shows no significant difference between the sexes. This result is at
 variance with the findings in unselected groups at both the six and
@@ -1044,6 +1122,7 @@ the fifteen year level which show a marked sex difference in favor
 ?f the boys. In view of the relatively small size of this group, the
 finding here may be the result of accident, in that the distribution
 is somewaat scattered.
+
 On the second trial, significant results are as follows: maximum
 failure (ten cases) ; minimum 23 seconds, median 85 seconds, and
 60 per cent range 52 seconds to 175 seconds. Thirty-two and fourtenths per cent succeed in less than a minute, 66.6 per cent in less
@@ -1055,12 +1134,14 @@ by 25F, aged 11-11 (who made the best score on trial one). The
 youngest child to pass the second trial was again 162M, aged 4-11,
 with a rank of 82 in 120 cases. The oldest child to fail the test on
 the second trial was 26F, aged 6-4.
+
 There is a slight indication of a sex difference in the second
 trial, in that 53 per cent of the boys fall above the median, as
 against 46 per cent of the girls. The ratio of girls to boys in the
 highest decile is as two to three. However, in view of the small
 number of cases this finding cannot be considered of any great
 significance.
+
 Like the cylinders, the Dearborn Test has its greatest value as
 an aid in analytic diagnosis. It is an excellent test to use in combination with the cylinders, as the problem is essentially different.
 While the cylinder test shows relative fineness of discrimination of
@@ -1072,12 +1153,13 @@ simple oval and rectangle, to the difficult triangulation problem.
 I believe that a successful performance on the Dearborn involves not only intelligence, but (unless the method is unselective
 trial and error) a fairly complex intellectual level. As an aid to
 analytic diagnosis, this test is invaluable. The actual analytic elements involved will be discussed in another section of the paper,
-50 THE PSYCHOLOGICAL CLINIC
 but those which are pre-eminent are analytic discrimination of
 form, distribution of attention, and planfulness. As with the cylinders, the time score, especially with younger children, is of far
 less relative significance than purely qualitative considerations.
 THE SLOT MAZE TESTS (YOUNG)
+
 Maze A
+
 Young's Easy Maze Test (Boy and Shoe) was used only at the
 six year old level, and the results at this level, as with the Witmer
 formboard, comprise only thirty-two cases. Significant results of
@@ -1085,12 +1167,14 @@ the first trial are as follows: Maximum failure 6.2 per cent, minimum 18 seconds
 of 26 seconds to 144 seconds. Fifty-two and six-tenths per cent
 succeed in less than a minute, 78.1 per cent in less than two minutes, 84.3 per cent in less than three minutes, and 93.8 per cent
 within the time limit of five minutes.
+
 On the first trial within this small group, the sex difference is
 marked, and in favor of the boys. Sixty-three and one-tenth per
 cent of the boys score above the median for the group, and 30.7 per
 cent of the girls. In the rank order distribution, nine boys are
 superior to any girl. Of the two failures, one is a boy, and one
 a girl.
+
 Significant results on the second trial are as follows: Maximum
 failure, (one case), minimum 12 seconds, median 25 seconds, and
 modal range 16 seconds to 95 seconds. There is very marked time
@@ -1098,6 +1182,7 @@ improvement on second trial distributions, throughout the group.
 Above the median on this trial we find 68.4 per cent of the boys,
 as against 23 per cent of the girls, confirming the previous sex
 difference.
+
 When we compare the results of this small selected group with
 Dr Easby-Grave's norms at the six year level, there is a distinct
 difference in favor of this group. For the first trial, the median
@@ -1107,7 +1192,7 @@ cent for the superior group. On the second trial, the median at the
 six year level is 50 seconds, and for the superior group, 25 seconds.
 This is in spite of the fact that in this group the chronological age
 range scatters down to 3-11, which is considerably under that covered by the Easby-Grave results.
-AN ANALYTICAL STUDY 51
+
 Maze C
 Significant results on the first trial for Maze C are as follows:
 Maximum failure (twenty cases), minimum 39 seconds, median
@@ -1117,6 +1202,7 @@ Per cent in less than two minutes, 40.8 per cent in less than three
 minutes, 63.3 per cent in less than five minutes, and 83.3 per cent
 Within the ten minute time limit. Seventeen per cent fail to do
 the test within the required time.
+
 The minimum time score was secured by 92F, aged 12-10, followed by 116M, aged 9-11. The youngest child to succeed with the
 test within the time limit was 20M, aged 5-9. Failures with the
 test, even in this highly selected group, run up to 11-5.
@@ -1125,16 +1211,19 @@ boys. Above the median we find 56 per cent of the boys, as against
 41 per cent of the girls. The ratio of girls to boys is one to four
 in the upper three deciles. The failures, however, are divided
 equally between the two sexes.
+
 On the second trial the significant results are as follows: maximum failure (twelve cases), minimum 25 seconds, median 83 seconds, and 60 per cent range 53 seconds to 198 seconds. Thirty
 per cent succeeded in less than a minute, 65.8 per cent in less than
 two minutes, 76.6 per cent in less than three minutes, and 90 per
 cent within the time limit of ten minutes.
+
 The minimum time score was secured by 59M, aged 14-7. The
 youngest child to succeed on the second trial was 85F, aged 4-11.
 Failures on the second trial run up to 9-1.
 On the second trial the sex difference becomes even more apparent. Above the median here we find 62 per cent of the boys as
 against 34 per cent o^ the girls. In the upper three deciles, the
 ratio is three to one in favor of the boys.
+
 In interpreting the results on Maze C, the examiner is handicapped by an absence of norms. Within the next six months such
 norms will be available, as they are under preparation at this
 Laboratory. The sole value of the test, therefore, to date, lies in
@@ -1142,7 +1231,6 @@ its contribution to the analytic diagnosis. However, examiners
 within this Laboratory present most conflicting opinions as to what
 are the analytic elements involved in the test. Certainly, as regards
 this present study, the examiner considers the relation of success
-52 THE PSYCHOLOGICAL CLINIC
 on the Maze tests to general competency to be negligible. Solution
 of this test appears to involve some specific ability with maze tests.
 The high percentage of failure within his group, as compared with
@@ -1184,17 +1272,22 @@ group, and designated as of superior intelligence and intellectual
 attainment, individuals whose scores on the performance tests are
 far from reaching the upper one percentile of all children of
 their age.'
+
 The performance tests possess diagnostic value in proportion
 as they are able to throw light upon the problems of the analytic
 diagnosis. Time scores are of relatively greater value with increase
 in chronological age on the part of the subject. At and below the
 six year level, analytic considerations become more and more diagnostic and time scores correlatively of less value.
+
 TESTS OF SCHOOL PROFICIENCY
+
 In testing school proficiency, children were tried on the three
 written tests at the fifteen year level, or on any of these tests which
 they gave evidence of being able to handle. If they were obviously
 below this level, a rough test of reading and arithmetical proficiency was made.
+
 Beading
+
 i Six year level and below:
 Ninety-five cases demonstrated enough reading ability to be
 permitted to try the Monroe Silent Reading, and will be reported
@@ -1205,7 +1298,7 @@ Grade Proficiency No. of Cases
 2nd 3
 1st 3
 Pre-School 12
-54 THE PSYCHOLOGICAL CLINIC
+
 Among the pre-school group there was only one case who had
 not taken on at least the beginnings of reading, in the sense of the
 knowledge of letters, words, etc. This one child, aged 4-2, had unquestionably the competency to learn letters and simple words, but
@@ -1219,6 +1312,7 @@ at the six year level, and already in school show great acceleration
 in reading proficiency, with the possible exception of those in the
 first grade, who are held back by the limitations of the teaching
 method, and have not yet acquired reading as a tool.
+
 Monroe Silent Reading Test
 Significant results on the Monroe Silent Reading are distributed in terms of Rate Score and Comprehension Score.
 Rate
@@ -1239,7 +1333,6 @@ the test gives some idea of the relative reading acceleration prevalent in this 
 Comprehension
 Comprehension scores distributed from a maximum score of
 45, to a minimum of 5. The median point is reached at 24. The
-AN ANALYTICAL STUDY 55
 modal range is a wide one?17-40. The scattering is largely at the
 lower chronological age levels. The 25 per cent point is reached at
 36, which is approximately the high school median. The median
@@ -1247,11 +1340,13 @@ for this group is at the 20 per cent mark in the high school group.
 Considering the wide chronological age range, this over-lap into
 the high school group appears to signify marked acceleration insofar
 as reading comprehension is concerned.
+
 The youngest child to make a perfect comprehension score,
 however, is 12-10, which indicates that this is one test at least in
 which chronological age proves a significant factor. At the next
 score level (one error in comprehension) the youngest child is
 153F, aged 9-5.
+
 Although one would have expected the finding, it is obvious
 from this distribution of results, that these children as a group, are
 greatly accelerated in reading proficiency. They are also characterized by a great love of reading, as will be indicated under another caption. There is no question that, once the superior child
@@ -1261,6 +1356,7 @@ in the classroom, the teacher should remember that while his slower
 comrades are struggling with the mechanics of reading, the superior
 child should be set to reading for content and information, and
 thus make original contributions to the class activities.
+
 Arithmetic?Six Year Level
 That this group tends to be somewhat more advanced in reading than arithmetic is evidenced by the fact that while only twentyfour cases were unable to handle the reading tests, thirty failed
 to demonstrate sufficient arithmetical proficiency to attempt the
@@ -1278,7 +1374,9 @@ letters.
 Fifteen Year Old Arithmetic Test
 Significant results on this test are reported in terms of time
 and score.
+
 Time
+
 Dr Learning, in using this test at the fifteen year old level,
 set an arbitrary time limit of fifteen minutes. In view of the fact
 that this group comprises largely younger children, the time was
@@ -1289,12 +1387,15 @@ thus seen to scatter greatly. A glance at the tabic will show the
 essential features of the distribution. The median score, 585, approaches the maximum for the high school groups, but for groups
 at the fifteen year level, other than high school, an entire quintile
 will be found to exceed this score.
+
 The case giving the minimum score on time, is 61M, aged 12-3.
 Here again the influence of efficiency increments gained through
 age manifests itself. Fifth in the distribution, however, appears
 11F, aged 9-5, and from then on the distribution scatters with reference to chronological age. The youngest child to attempt the
 test was 127F, aged 8-5.
+
 Score
+
 The significant values for score are as follows: Maximum 8,
 minimum 1, median 6, and modal 60 per cent range 4-7. Six and
 six-tenths per cent obtain a perfect score, 34.7 per cent a score
@@ -1308,7 +1409,6 @@ The youngest child to obtain a perfect arithmetic score is 158F,
 aged 8-11. There are several eight year old children in the highest
 decile. "When we consider that the median school grade for eight
 years is the third, and realize the difficulty of these arithmetical
-AN ANALYTICAL STUDY 57
 Problems as compared with the usual third grade work, we are able
 to obtain a fairly clear picture of the degree of acceleration in
 arithmetical efficiency possessed by some of these children.
@@ -1320,6 +1420,7 @@ grade level) was sheer ennui. In other cases, superior children,
 finding the class-room routine in arithmetic dull, have refused to
 take on efficiency because they lacked the sense of competition which
 leads to increased effort. '
+
 On the whole, however, the children in this group have "plus"
 efficiency in fundamental operations, and possess a good number
 sense. None of them has shown any particular talent in the field
@@ -1327,7 +1428,9 @@ of mathematics; the one case who was referred because of superiority in this fie
 tests. None, on the other hand, has shown signs of specific defect
 in this field, other than mild carelessness.
 Woodwortli and Wells Hard Directions Test1
+
 Time
+
 Significant results regarding time are as follows: Maximum
 485 seconds, minimum 88 seconds, median 240 seconds, 60 per cent
 range 177-315 seconds. The median time does not compare favorably with that of the high school groups, but is superior to the
@@ -1336,14 +1439,16 @@ minimum score was obtained by a high school boy, 60M, aged 14-9,
 and falls six seconds short of being as good as the minimum time
 for high school boys. The youngest child to attempt the test was
 190F, aged 6-11 (time score in sixth decile).
+
 Score
+
 The maximum score for this group is 20, with 24.4 per cent
 of the cases. The 50 per cent mark is passed with a score of 19
 (one error). Eighty-two per cent give 18 or better. The minimum
 score is 9, with one case. The youngest child to obtain a perfect
 score is 86F, aged 8-1. The youngest child to attempt the test,
 1 96 cases.
-58 TEE PSYCHOLOGICAL CLINIC
+
 190F, made a score of 18 (two errors only). The median score of
 this group, 19, is the median score of the high school group.
 The uniformly high results on this test are of real significance.
@@ -1360,7 +1465,9 @@ The ability to apprehend and follow directions, producing the pattern of behavio
 educability. It is a valuable asset at all times. The results on this
 test are very convincing evidence that it is an asset possessed by
 this group, in unusual degree.
+
 QUALITATIVE CONSIDEKATIONS
+
 In outlining the problem for this study, I defined' qualitative
 considerations as comprising the psychographic make-up of the
 child, based upon the observation of performance, and such indications as may be discovered as to the individual's general orientation, interests and value trends.
@@ -1371,14 +1478,15 @@ Clinic" and followed in the same number, by a case study21 to
 show the practical working of the diagnostic schedule. Other than
 this, there has been no presentation of results using this particular
 schedule.
+
 In rating on a five point scale which ranges from marked
 superiority to marked inferiority, through a median range of three,
 one is confronted immediately, in dealing with a selected group at
 the superior end of the scale, with the problem of the evaluation
 30 "Witmer, L. The Analytical Diagnosis. Psychol. Clinic, 1922, 14,
 129-135.
+
 "Jones, A. M. Miss Inconsistency. Same reference, 136-142.
-AN ANALYTICAL STUDY 59
 of the scale. Shall three represent the median for the selected
 group, or for an unselected distribution of all children? As the
 schedule is used in routine clinical examinations, the latter procedure is followed. If such a plan is followed in this group, the
@@ -1396,6 +1504,7 @@ of a separate study of each individual child. Some of the more
 interesting eases have been already presented in Volume XV of
 The Psychological Clinic, and it is probable that the series will
 be continued.)
+
 For a complete understanding of all the implications of the
 items reported in this diagnostic schedule, it is necessary to have
 a working knowledge of the entire categorical scheme of classification under which Doctor Witmer is subsuming all possible forms
@@ -1403,17 +1512,19 @@ of behavior. It is manifestly impossible for me to give even an
 indication of this scheme within the limitations of this paper.
 As for the items themselves, their definition is, for the most
 part, that in current usage.
+
 Under competency are subsumed the two items ability and
 efficiency. In the introduction, in dealing with the question of
 individual efficiency, I indicated that this item represented the
 fractional relationship of an individual's production to his estimated capability for production. We are able to measure the proficiency of the individual, but the competency rating must always
 represent an estimate.
+
 Any individual who is included within a superior group should
 be rated five in competency. In using the I. Q. as the diagnostic
 criterion, it is possible that there are included within the group
-60 TEE PSYCEOLOGICAL CLINIC "
 some eases where such a rating may be considered mildly doubtful,
 because of unusual environmental advantages.
+
 77F, aged four years, is a case in point. This little girl attained an I. Q.
 of 150. Her memory span was 7. In chronological age, she falls below the
 six year level, so that failure with the six-year performance tests need not
@@ -1426,6 +1537,7 @@ She is the third child in a family in which the two older children give unmistak
 younger children, and this little girl has never been 11 babied,'' but the mother
 reports that she has always displayed a lamentable lack of initiative, and
 excessive timidity.
+
 Whether, as she grows older, she will acquire a more acceptable social
 orientation, it is impossible to judge. Because of these personality and
 character traits, especially the lack of initiative, one is led to question whether,
@@ -1435,11 +1547,13 @@ On the other hand, some cases were unquestionably excluded
 from the group, in which the competency was very high, and the
 individual efficiency (particularly in the field of language) so low
 as to make a high I. Q. impossible.
+
 Such a case is 140M, aged fourteen years. The boy is of Russian Jewish
 parentage, and was born in Russia, having been in this country only a year.
 In spite of his language handicap, he made' an I. Q. of 121, his vocabulary
 scoring 60, which is almost at the average adult level. His work on performance tests was excellent, and in view of his language deprivation, he gave
 excellent results on the written tests.
+
 Had he been born in America, and subjected to the usual educational
 procedure in English, there seems little question that his scores would have
 been found well within those required to enter the superior group.
@@ -1448,6 +1562,7 @@ contrast between the estimated, and the demonstrable productivity,
 are best handled by a psychographic record which will show the
 relationship between competency on the one hand, and efficiency
 on the other.
+
 The items of speed and accuracy, with their respective subheadings productivity and directions are valuable in making a
 psychographic description. Information concerning rate of discharge and accuracy of movement is best gained from observation
 of the performance tests; information regarding rapidity of '' intelAN ANALYTICAL STUDY 61
@@ -1476,6 +1591,7 @@ superior individual; it is these, in the long run, which tend to mark
 him off from the group. If the individual fails to display some
 evidence of superior initiative, there is a question as to whether he
 merits a high competency rating.
+
 In vital energy, endurance, strength and health, the modal
 rating for this group is four. As a group, they are healthy and
 strong children, although there are a few exceptions in cases where
@@ -1499,12 +1615,14 @@ than, five to indicate how great is the relative superiority in this
 field. Analytically speaking, memory is dependent upon imageability, and we must infer, from the results obtained on tests, that
 each child included within the group must possess superior imagery
 in some field.
+
 The superior child is the most educable, or perfectable type of
 child. This means that we must give him a high rating on such
 items as conformability, susceptibility, and convertibility? as these
 are fundamental in the transformation of the child, which we call
 education. I include no child within the group to whom I would not
 give a rating of five on educability.
+
 As for intelligence, in the specific sense of the word, I indicated
 in the discussion of the significance of the performance tests, that
 in my opinion, the very possession of a high level of intellectual
@@ -1515,7 +1633,6 @@ under personality, we find our greatest individual variations within
 the group. The danger of approaching a study of this sort from
 the point of view of general tendencies, is that in so doing the individual differences are ironed out. Let no one imagine that this is
 a homogeneous group. A separate study could well be written concerning the personality variations among superior children. "Personality," as such, concerns individuals and not groups.
-AN ANALYTICAL STUDY 63
 There are certain personality attributes concerning which we
 may be able to point out the group tendencies, however. With
 reference to the superior-inferior orientation of the superior child,
@@ -1530,6 +1647,7 @@ girl whose case is reported above, and the other is 33F, where a
 hyper-analytical tendency on the part of the mother tended to
 exaggerate what appears to the examiner as a rather pleasing
 modesty.
+
 An excellent balance concerning the inferiority-motive, accompanied by a (slightly superior degree of confidence, is a characteristic of the superior child. When I speak of confidence, I do not
 mean '' conceit,'' as these children have a saving grace in a critical
 attitude toward themselves. Root makes special note of this tendency to wholesome self-criticism in his group of fifty-three "supernorms. ''
@@ -1541,6 +1659,7 @@ is difficult to make the child show a normal interest in play at his
 own age level, but that this is not actual introversion is indicated
 by popularity with children in the class room, and during actual
 play intervals.
+
 In his reaction to organized authority, the superior child shows
 unusually fine social orientation. With very few exceptions, these
 children are exceptionally conscientious in the performance of
@@ -1555,6 +1674,7 @@ the fact that general conformity of behavior is after all the most
 intelligent reaction to the home and school problem for the child,
 the prevalence of such conformity is evidence of a relatively good
 social orientation.
+
 In the matter of temperament, or mood, a single examination
 did not afford enough information to make an adequate rating.
 However, if a single interview can give an indication, at least, I
@@ -1563,6 +1683,7 @@ direction of exhilaration rather than depression. If mood is, in
 general, an expression of metabolism, we should expect a significant
 absence of depression in a group with health and vital energy
 ratings above the mode.
+
 In range of interests this group unquestionably exceeds the
 modal group. The interest in reading is universal. Many of these
 children are already confirmed "book worms." The rate of reading
@@ -1579,13 +1700,13 @@ attempts outside the field of school assignments. Four such cases
 were reported in The Psychological Clinic for May-June, 1923.
 All the children in the group do consistently good work in English
 composition, as compared to their slower classmates.
+
 Extra-curricular activities are many and various. A large
 proportion of the girls have had lessons on the piano, and most of
 them are considered entirely satisfactory pupils. The number of
 children with an intense interest in music is smaller than that with
 an "urge" toward production in the field of written language.
 Four such cases were reported, however, in the Clinic for January,
-AN ANALYTICAL STUDY 65
 1924. In view of the superior confidence, many of the children are
 interested in, and successful at, dramatics. There is no field of
 ordinary childhood interest which is not represented somewhere
@@ -1596,27 +1717,34 @@ the tendency toward origination. What the ultimate achievement
 level of each individual will be, and what will be his contribution
 to society, depends, in large measure, upon his ability for creative
 production.
+
 CONCLUSIONS
+
 I- A diagnosis of superiority presupposes a quantitative criterion,
 which can be most concretely attained in terms of frequency of occurrence. For the purposes of this investigation, this diagnostic
 criterion is the upper one percentile as determined from distributions of Intelligence Quotient at the six and fifteen year old level.
 The actual criterion is 140 at the fifteen year old level, and 147 at
 the six year level.
+
 II. The superior group shows marked physiological acceleration
 as expressed in height and weight indices. The tendency here is
 so clear as to indicate that there is a significant inter-relation
 between physical and mental growth. We may perhaps account in
 these terms for the frequent regression to norm following the end
 ?f the growth period, seen in cases which have shown unusual childhood promise.
+
 III. The factor of sex is operative in the selection of cases, in that
 the group as constituted is composed of 57.5 per cent boys and
 42.5 per cent girls, although the number of boys and girls examined
 as candidates was approximately equal.
+
 IV. Racial factors appear to be of relatively little significance in
 this group. There is, however, an overweighting of Jewish cases
 in proportion to the population.
+
 V. Analysis of the economic and cultural status of the homes
 shows an extreme tendency toward superior environmental factors.
+
 VI. In mental age, this group shows a median acceleration of five
 years beyond the chronological. These mental age scores, especially
 in cases below the level of pubescence, are so high as to give a distorted picture of the relative intellectual complexity of the subjects.
@@ -1658,7 +1786,10 @@ XV. There is a lamentable tendency upon the part of the schools
 to fail to provide adequate educational facilities for the maximum
 development of the potentialities displayed by the members of this
 group.
+
 BIBLIOGRAPHY (Selected)
+------------------------
+
 Badenes, J. E. The First Practical Steps in Selecting Gifted Children in
 a Large City School. N. Y. 1921. pp. 22.
 Baldwin, B. T. Physical Growth and School Progress, U. S. Ed. Bur.
@@ -1835,7 +1966,7 @@ VI 15-7* to 16-1? ( 8-8 to 11-9)
 VII 16-1* to 17-0 ( 8-8 to 11-0)
 VIII 17-0 to 18-0 ( 8-10 to 12-7)
 IX 18-0 to 18-9 ( 9-9 to 13-0)
-X 18-9 to 19-6 (10-9 to 14-9)
+sX 18-9 to 19-6 (10-9 to 14-9)
 MINIMUM MAXIMUM MEDIAN MODE (60%)
 Mental Age 6-0 19-6 15-7* 11-4 to 18-0
 Intelligence Quot. 131.4 194.2 153.1 147.2 to 168.7

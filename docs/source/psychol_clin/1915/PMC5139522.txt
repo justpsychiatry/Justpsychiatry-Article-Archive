@@ -2,9 +2,10 @@ The Psychological Methods of Testing Intelligence
 ====================================================
 
 REVIEWS AND CRITICISM.
-By William Stern. Tr. by
+:Author:  William Stern. Tr. by
 Guy Montrose Whipple. Baltimore: Warwick and York, 1914. Pp. x + 160.
 (Edu. Psych. Monographs No. 13.)
+
 The work of which this is the English translation, was completed in German
 in October, 1912. Therefore it necessarily fails to cover the very extensive discussion of tests, which has been carried on the past two and a half years.
 Professor Whipple remarks that this "book affords what is, so far as I know,
@@ -42,14 +43,14 @@ not easy to conduct. Their administration demands extended practice, psychologic
 prevailing mistaken ideas upon this matter, Captain Meyer's [of the German
 army] declaration that "in military enlistment tests of intelligence could some
 day be carried on quite mechanically by subalterns."
-(56)
-REVIEWS AND CRITICISM. 57
+
 In the beginning, "For a long time," says Dr Stern, "we started from the
 erroneous presupposition that any psychological method of experimentation
 would be really usable as a test," and he considers, "A significant advance was
 made when it was recognized that tests of intelligence must be definitely selected
 on the basis of certain presuppositions that were to be made concerning the nature
 of intelligence."
+
 "Various psychologists," Dr Stern remarks, have considered various "mental functions to be the touchstone of intelligence." He mentions the "combination" or "completion" method of Ebbinghaus; Ries' word-association test;
 "the combination test of Masselon in which a meaningful sentence is to be made
 from three given words," and Meumann's elaboration of this test to require a
@@ -60,12 +61,14 @@ work of Meumann we note at times the laying of a certain one-sided emphasis
 on the understanding of the abstract as being the root of intelligence. . . . Quite
 a number of investigators have directed their attention particularly to capacity
 to apprehend, as the index of intelligence."
+
 A third main class of tests includes "those patterned after familiar pedagogical tasks," and here we are surprised to find no mention of Mr. Courtis' work, the
 first reports of which appeared as early as September and November of 1911.
 Not being aware of the Courtis tests, Dr Stern is to be pardoned for his comment,
 "The intelligence of individuals that are working or that have worked, under
 different school conditions cannot be subjected to comparative tests by means of
 these activities."
+
 In his fourth main class Dr Stern places those tests which "aim to secure
 records of such evidences of intelligence as are accepted in ordinary life as special
 evidence of it. These direct tests of intelligence have been specially developed
@@ -76,6 +79,7 @@ no appreciation of the formboard as a testing device?indeed, he fails even to
 mention such a thing. Had he studied the operation of the formboard test with
 normal and subnormal children, it is almost certain that he would have wished to
 retract this sweeping opinion.
+
 From a study of separate tests, "three things are evident: first, series of
 tests must be arranged that will set in play the various constituent functions of
 intelligence; secondly, for this purpose there must be a wise selection of tests, . . .
@@ -84,7 +88,6 @@ results of the testing can be united into one resultant value, i. e. a value tha
 the grade of intelligence of the subject objectively in an inclusive formula in which
 performances of different degrees of value shall in some way be compensated."
 "Numerous test series," Dr Stern explains, "have been used by the psychiatrists for testing intelligence," and among them he mentions the classifications
-58 THE PSYCHOLOGICAL CLINIC.
 of Sommer and of Ziehen. A highly interesting method of testing and recording
 mental ability is that of the Russian alienist, G. Rossolimo, and we could wish
 that Dr Stern had given us more information about it. "Rossolimo," he says,
@@ -107,6 +110,7 @@ ranges of irregularity, has devised a way of computing this factor; I have mysel
 suggested another way, but neither has been published as yet." Further on he
 says "The area of irregular distribution is very much wider with the feebleminded
 than with the normal child."
+
 Part III deals with estimation and testing of finer gradations of intelligence.
 Dr Stern decides that neither the Binet test nor the ordinary school ranking is
 adequate to show the degree of intelligence of the pupil. He asks, "Is it possible,
@@ -121,6 +125,7 @@ that this task of estimating intelligence be assigned to "teachers specially tra
 and specially gifted in psychology," and he adds with emphasis, "Only those
 pupils should be located in a given rank-order of intelligence that are sufficiently
 like one another in other respects."
+
 In this connection Dr Stern contributes some original investigations of his
 own, in which he had three different teachers estimate the intelligence of an
 Untertertia grade in a Gymnasium (equivalent approximately to our first high
@@ -129,10 +134,10 @@ the judgments of the teachers on their pupils' intelligence, taken in conjunctio
 with the fair degree of independence of their judgment from the class-place, seems
 to me to be a forcible argument for the scientific usefulness of the method of
 intelligence estimation." In conclusion he sums up the points to be observed in
-NEWS AND COMMENT. 59
 working at the problem of ranking by tests, as (a) measurability; (b) reliability;
 (c) fairly high correlation; (d) comprehensiveness; (e) estimation of intelligence;
 (/) construction of an amalgamated rank-order.
+
 The book has a complete bibliography of material published from the summer
 of 1911 until September, 1912, which is intended to supplement the bibliography
 contained in Dr Stern's earlier work, Die differentielle Psychologie. Professor

@@ -1,8 +1,9 @@
 Solt Maze a
 ============
 
-By Hehman H. Young, Ph.D.,
+:Author:  Hehman H. Young, Ph.D.,
 University of Pennsylvania.
+
 The slot maze designed by the author employs the fundamental
 principles of the pencil and stylus mazes in such a manner as to set
 an interesting practical problem by such mechanical construction of
@@ -15,6 +16,7 @@ is being devised and standardized. This article, as a preliminary
 statement, is confined to a report on the use of the first of the series,
 Slot Maze A, in testing 1304 children ranging in age from four to
 nine.
+
 The accompanying diagram shows the pattern of the maze.
 The narrow unshaded strip between the parallel lines is the cut out
 part of the panel and consistutes a continuous slot from the point
@@ -31,23 +33,26 @@ slots at A and above B enable the slider to be inserted or removed
 at these points. When in use the circular opening at the starting
 point A is closed so the child cannot remove the slider by returning
 to the starting point.
+
 Method.
+
 The test is placed in front of the child so that the right side of the
 goal boy is toward the child. This position of the test makes the
 slot leading from the starting point A, point directly toward the
 child.
+
 The instructions to the child are: "See this boy? (Pointing
 to the boy). This (grasping the shoe) is his shoe. The boy wants
-(73)
-74 THE PSYCHOLOGICAL CLINIC.
 his shoe. I want you to take it to him. See how quickly you can
 take the shoe to the boy." (With these last instructions the shoe
 being firmly grasped by the examiner is slowly moved several inches
 along the slot directly toward the child.)
+
 The above are the full set of exact instructions given the child.
 If they are not given verbatim, the examiner is apt to give the child
 a cue by unwittingly using the word around in some such statement
 as, "Push the shoe around to the boy."
+
 The time is counted in seconds from the instant the above
 instructions are completed until the child gets the shoe in the slot
 in front of and against the boy. If the child does not complete the
@@ -67,31 +72,28 @@ clearly defined can discover the route by which to deliver the shoe.
 At the end of each trial the examiner lifts out the slider through
 the opening in front of the goal boy and inserts it at starting point
 A, ready for the next trial.
+
 Children who complete the test within the time limit are given
 a second trial immediately with instructions, "See if you can take
 it (pointing to the shoe) to him quicker this time." The time is
 kept and recorded as on the first trial. Five minutes is the time
 limit here also.
+
 Type and Distribution of Children Tested.
+
 The children tested for this report came from four schools in
 different districts of the City of Philadelphia.* In one district,
 children came from homes considered to be above average so far as
 social status and type of occupation of parents is concerned. A
 second district is rated below average in these same respects, while
-* Acknowledgements are due District Superintendent Dr C. A. Coulomb, and to Principals
-M. L. Emrey and Charles Buckley, for opening their schools to this investigation, and to Mary
-H. Young and S. Sanderson, graduate students of the University of Pennsylvania, for assisting
-in testing children.
-SLOT MAZE A. 75
-Slot Maze A.
-Slot Maze A.
-76 THE PSYCHOLOGICAL CLINIC.
 the other two districts are rated as about average. In the first two
 schools every child up to and including 7 years and 11 months of
 age was tested. In one of the others every child up to and including
 8 years and 11 months of age was tested, while in the fourth school
 only children under 6 years of age were tested.
+
 Results.
+
 Table I gives the ten percentile distributions for boys and girls
 separately. Under age 4 are reported all children according to sex
 who at the time of examination were 4 years old but not 5. All age
@@ -102,6 +104,7 @@ trial in each age is set down in the table opposite the 10th percentile.
 In the same way the remainder of the table shows the best score for
 every tenth percentile. Thus the 100th percentile line shows the
 best score made at each age.
+
 Table I.?First Trial Percentiles in Seconds for 642 Boys and 662
 Girls.
 Boys.
@@ -240,6 +243,7 @@ DNC
 275
 DNC
 DNC
+
 In every instance, except in the 100th percentile which is the best
 trial score and hence cannot be expected to be uniformly consistent,
 the time values for the older children are shorter than for any younger
@@ -247,13 +251,16 @@ age group within the same sex. Six per cent of the eight-year-old
 and nine per cent of the seven-year-old boys did not complete the
 test within the five-minute time limit. In all other ages the number
 of DNC's was greater than ten per cent.
+
 SLOT MAZE A. 77
+
 Figure 1 is a graphic representation of the percentile distribution
 of Table I. The numbers across the top indicate the ten percentile
 limits, and those at the side indicate the time in seconds. The
 number on each curve indicates the age it represents. As DNC
 signifies an arbitrary time limit and is not a time value, it means that
 Figure 1. Percentiles op First Trial Time. Full Line Boys.
+
 Broken Line Girls.
 78 THE PSYCHOLOGICAL CLINIC.
 the actual time for completing the test, if sufficient time had been
@@ -270,6 +277,7 @@ can be read into a percentile by noting its position on one or
 relative position between two of the vertical ten percentile lines.
 Table II.?Second Trial Quintiles and Medians in Seconds for the
 523 Boys and the 412 Girls who Completed First Trial.
+
 Age.
 Boys.
 Girls.
@@ -362,6 +370,7 @@ DNC
 47
 101
 DNC
+
 Table II is constructed for the second trial in the same manner
 as Table I for the first trial, except that only the median and every
 twentieth instead of every tenth percentile are given. That there
@@ -372,11 +381,11 @@ time with increasing age, but for the girls this is not true. For the
 longer than for the seven-year-old girls. The eight-year-old boys
 constitute the only group where every child successfully completed
 the second trial within the five-minute time limit. Of the eightyear-old girls only one failed.
-SLOT MAZE 79
 Figure 2 gives the medians for both sexes on both trials. Itshows the rapid decrease in time which accompanies increasing
 age, especially on the first trial. The young children do the second
 trial so well that on it it would be impossible to have the same rate
 of improvement with increasing age.
+
 Table III is employed to show that on an average within certain
 limits there is a direct ratio between rate on first trial and rate on
 second trial. The boys and girls are treated separately. The first
@@ -384,8 +393,9 @@ column shows first trial time intervals, the second column the number of boys wh
 of the first column, the third column gives the median time for these
 same boys on their second trial, and the fourth column gives the
 Figure 2. Medians op First and Second Trials. Full Line Boys.
+
 Broken Line Girls.
-80 THE PSYCHOLOGICAL CLINIC.
+
 Table III.?Second Trial Median Time Values as Related to Time
 on First Trial for the 523 Boys and the 412 Girls who
 Completed First Trial.
@@ -505,6 +515,7 @@ P. E.
 84
 54
 48
+
 probable error of this median. The P. E. here is one-half the difference between the upper and lower quartiles. Thus the figures
 in the first line of the table mean that eight boys finished their first
 trial somewhere in the time interval between ten and nineteen
@@ -547,7 +558,9 @@ These differences are graphically represented on Figures 1 and
 nearly identical throughout are the time values for the four-year-old
 boys and the five-year-old girls, and also those for the six-year-old
 boys and the eight-year-old girls.
+
 Discussion.
+
 As it is the purpose of this article only to introduce the slot maze
 and furnish a preliminary standardization of slot maze A, no attempt
 is made to analyze the various mental and physical factors involved
@@ -558,15 +571,16 @@ years of age and older. Accordingly only children under nine were
 taken for this investigation. The distribution tables indicate that
 boys at least one year older and that girls two and possibly three
 years older should have been included.
+
 There are great differences in the time taken by children of the
 same age in performing this test and there is much overlapping in
 the successive ages. These variations and overlappings, however,
 are probably no greater than the variations and overlappings in
 mental make-up of the children. These differences and overlappings
 in a test make it distinctly useful to bring out individual differences,
-82 THE PSYCHOLOGICAL CLINIC.
 but seemingly do not enable the validity of the differences it reveals
 to be satisfactorily established by statistical treatment.*
+
 As a test free from the classical fitting together of blocks in one
 form or another, the slot maze fills a gap in the array of clinical tests.
 Slot maze A is useful in testing children four to ten years of age.
@@ -578,4 +592,5 @@ time of the second trial over the first is not the result of increased
 efficiency in the physical manipulation of the test. It is the average
 time required by the children to learn how to solve the problem of
 delivering the shoe.
+
 * S. W. Fernberger, "Statistical vs. Non-Statistical Interpretation of Test Results," Psychological Clinic, 1922, XIV, 68.

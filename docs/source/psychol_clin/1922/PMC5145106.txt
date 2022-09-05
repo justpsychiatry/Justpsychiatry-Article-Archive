@@ -1,8 +1,9 @@
 Sergent X, A Study in Vocational Guidance
 ==========================================
 
-By Morris S. Viteles, Ph.D.,
+:Author:  Morris S. Viteles, Ph.D.,
 Instructor in Psychology, University of Pennsylvania.
+
 Late one afternoon in September one of the officers of the Training Section brought down and introduced to me Mr. X, former
 sergeant in the Chemical Warfare Service. Mr. X, dressed in the
 elaborate costume of the Knights Templar (it was the week of the
@@ -37,8 +38,7 @@ the redintegration in consciousness of his past life.
 1 The material for this article was obtained during service as a Vocational Adviser with
 the Federal Board for Vocational Education. Acknowledgment is due to this organization for
 permission to publish it.
-(36)
-SERGEANT X. 37
+
 Following the realization that he had lost his memory, that
 something which he had possessed had gone from him, he undertook a systematic re-establishment of old associations. He sent to
 his home for all the letters which he had sent from France and
@@ -54,6 +54,7 @@ his condition at the present time, including the reasons which had
 moved the Training Office and the medical officer to refer him to
 the psychologist of the office, can best be brought out by a r?sum6
 of the case as it is presented in the case record.
+
 The first report upon the case, received from a physician in
 May, gives a diagnosis of: "Gassed, which results in impaired
 memory. Cannot tell if memory will improve as it was formerly."
@@ -74,7 +75,7 @@ Hamilton Institute to prepare him for an executive position in the
 glue industry. A note, however, raises the question of the advisability of training. "An examination," it states, "may show that
 he will need special training to remedy the condition of his
 memory."
-38 THE PSYCHOLOGICAL CLINIC.
+
 The blank devoted to "an inquiry concerning the soldier" bears
 the same information with additional data on the soldier's vocational
 experience, which indicates six months spent in a machine shop and
@@ -92,15 +93,19 @@ is most anxious to be trained in some kind of laboratory work. . . .
 He is of a happy disposition and is helping himself in every way
 possible, but he seems to be in need of some kind of definite training
 as soon as possible."
+
 In the meantime, while the status of his case was being investigated and action delayed at his suggestion Sgt. X had returned to
 his position as chemist in the glue factory. In July an examination
 was made by a psychiatrist and following is a report of his examination:
 Patient is a well-nourished adult, white male, thirty-one years
 old, single, by occupation a chemist.
+
 Previous Personal History.?Scarlet fever; mumps; whooping
 cough; measles during childhood.
+
 Chief Complaint.?Loss of memory?general information. Loss
 of strength. Easy exhaustion.
+
 Present Condition.?Gives following information that has been
 built up by himself through letters that he has written home, papers
 in his pockets, and men in his regiment to whom he has been talking
@@ -116,14 +121,17 @@ retain anything. He tires easily both physically and mentally.
 Neurological Examination.?Left pupil irregular. Right 0. K.
 Tremor tongue. (Had accident to eye at age of ten.)
 Diagnosis.?Amnesia-Hysterical.
+
 SERGEANT X. 39
 Disability?25%.
 Note (District Medical Officer).?"Training must be tentative
 and free from strain."
+
 It will be noted that the medical examiner, a psychiatrist, gives
 a diagnosis but no rating on a trainability scale?no answer to the
 all-important question whether it would be feasible to attempt to
 train this applicant for a new vocation at this time.
+
 Late in August, in reply to a letter from the District Vocational
 Officer making inquiry as to his condition, the following statement
 was received from Sgt. X: "There has been a slight improvement
@@ -136,14 +144,17 @@ here who was familiar with this line of work, and both of these men
 helped me out when necessary, so this has given me three months of
 good practical training. I now have the routine work going satisfactorily but still have some difficulty with the special and extra
 jobs which turn up from time to time.
+
 "Another difficulty is that I tire very readily and naturally
 that holds me back somewhat, but lately I have started treatments
 similar to those received at the hospital in Plattsburg arid so far
 they seem to be helping.
+
 "My principal work is testing glues, and that combined with
 five years' experience gave the V. A. the idea of training for an executive position, but in thinking over the proposition the technical end
 appeals more to me?something along the line of efficiency expert in
 the line of adhesives."
+
 It was in September that Sgt. X appeared in my office. He had
 encountered certain difficulties in carrying on his work and had
 deemed it wise to consult with the Board on the advisability of taking
@@ -157,8 +168,8 @@ unable to compete on equal terms with others doing the same work.
 Referred to the Training Section he presented a problem which
 demanded immediate solution before any adequate action could be
 taken on the case or before any plans for training could be developed.
+
 The question put to the district medical officcr by the Training
-40 THE PSYCHOLOGICAL CLINIC.
 Office was one which concerned the capability of Sgt. X to profit by
 training. "Is his condition such," they asked, "that any kind of
 training at the present time will be energy wasted?" It must be
@@ -200,7 +211,6 @@ we passed into the actual examination. His auditory vocal memory
 span proved to be seven with eight on ten repetitions. The visual
 memory span was also seven with eight on eight repetitions. The
 initial performance on the Dearborn Formboard took 157 seconds,
-SERGEANT X. 41
 with a decrease in the time for the completion of the test to thirtytwo seconds in the fourth trial. The rate of improvement was steady.
 The solution of the problem was an intelligent one. With the
 Witmer Cylinders the approach to the solution also revealed
@@ -226,6 +236,7 @@ be needed to insure retention than would have been needed before
 the attack of amnesia. I took care to inform Sgt. X of my findings,
 because of the therapeutic value of bolstering up faith and of suggestion in hysterical amnesia. On the basis of my findings the
 following report was made to the Training Office:
+
 "Mr. X was examined by me at the Psychological Clinic of the
 University of Pennsylvania on September 10, 1919. In my opinion
 it would be advisable for him to enter training at the present time.
@@ -235,10 +246,12 @@ immediately reinforced by practical application. The kinesthetic
 memory seems to be the least impaired, so as far as possible there
 should be established associations of educational material in other
 sense realms with kinesthetic sensation and memory.
+
 "The prognosis is good. Mr. X possesses a high degree of intelligence which will enable him to meet situations if his memory does
 not respond immediately. With the course of treatment suggested
 to him during our conversation complete redintegration can be
 looked forward to."
+
 42 THE PSYCHOLOGICAL CLINIC.
 On the basis of this report the following recommendation for
 training was made and approved:
@@ -251,15 +264,18 @@ serious handicap in his former occupation as laboratory man. After
 a trial of five months he finds he cannot carry on.
 (B) In what way will the proposed training enable the man to
 overcome his vocational handicap?
+
 The training will first cover such review work as is necessary to get
 him to the point at which he was before the loss of memory occurred.
 This will be followed by advanced courses to complete his course for
 graduation as a chemical engineer. He has already completed
 three years of this course at Lehigh University."
+
 This recommendation was approved. In the opinion of the
 examiner, the applicant is well equipped to carry on this work and
 with a little application he will successfully complete the course
 outlined for him.
+
 The problem presented by this case was one of vocational and
 educational guidance. In practical guidance of this kind, at least
 four factors must be taken into consideration. These are as follows:
@@ -267,6 +283,7 @@ four factors must be taken into consideration. These are as follows:
 of disabled soldiers this factor attains greater importance than in
 the guidance of children, the chief reason for guidance of the former
 being physical disability.
+
 2. Desire. The interests of the individual must be taken into
 consideration in practical guidance. As with health, the interests
 and desires attain greater importance in the counseling of disabled
@@ -274,6 +291,7 @@ soldiers than in the guidance of children. As a result of education
 and experience, the desires of these adults have taken on a more
 definite trend and greater force than have the desires of young
 children.
+
 3. Economic and Social Factors. Certain kinds of training
 and vocational objectives which, from the point of view of other
 considerations in guidance, may seem desirable cannot be considered
@@ -282,7 +300,7 @@ economic and social factors which must be properly weighted in
 guidance. These do not assume great importance in the guidance
 of disabled soldiers, because the cost of training and maintenance
 is provided by the Government.
-SERGEANT X. 43
+
 4. Competency. The most essential factor in guidance is the
 capacity of the individual to learn and to become proficient in the
 occupation which he is being advised to enter. At least four elements
@@ -299,6 +317,7 @@ a more scientific determination of the general competency and the
 specific abilities of the subject. The psychological test is the instrument for such scientific determination, and the qualitative analysis
 of competency into its component specific abilities is the method
 of such determination.
+
 My purpose in presenting this case is to illustrate the modus
 operandi of such a scientific analysis of the competency of subjects
 in practical vocational guidance. It is recognized that in this method

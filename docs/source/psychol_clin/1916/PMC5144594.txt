@@ -1,7 +1,7 @@
 A Survey of Medical Inspection in the City Schools of California
 ==================================================================
 
-By Emily Oothaut Lamb,
+:Author:  Emily Oothaut Lamb,
 Stanford University, Cal.
 In a recent survey of the amount and kind of medical inspection
 in the public schools of twenty-nine of the larger cities and towns of
@@ -9,12 +9,14 @@ California, the conditions shown were far from being ideal, yet
 demonstrate the fact that the superintendents and school boards are
 considering the matter seriously and that many of them are doing
 important work.
+
 The cities considered by this survey run from 416,912 to 5,021
 in population (Census of 1910).
 The following is the list of questions of the survey:
 1. Have you medical inspection in your schools?
 2. Is the work done under the Board of Education or the Board of
 Health?
+
 3. Is the inspection done by a doctor? If more than one, number?
 4. How much time does he give to the work?
 5. What is his salary?
@@ -41,8 +43,7 @@ open-air schools?
 22. Do you use individual towels?
 23. Have you drinking fountains?
 24. Have you oiled floors? How often oiled?
-(124)
-MEDICAL INSPECTION IN CALIFORNIA. 125
+
 Of the twenty-nine cities in the survey, sixteen have medical
 inspection and fifteen cities employ a doctor for this work; several
 cities employ more than one. Los Angeles has nine, four for full
@@ -59,6 +60,7 @@ the examination may be most carefully made, but if the parents are
 either too negligent or too poor to have anything done about their
 children's defects, it is of little use to examine unless there is a clinic
 to take care of such cases.
+
 In the cities not employing a doctor, seven employ a school
 nurse. In twenty-nine cities, sixteen employ one or more nurses,
 and the total number of nurses thus employed is forty-six. San Francisco has fourteen of these. In several places, the district nurses or
@@ -81,7 +83,6 @@ One of the advantages of such a type of building is the fact that it can
 be torn down after it has served its usefulness and be replaced by a
 new one embodying the most modern ideas of lighting and ventilation. When structures are erected which cost a half million dollars
 or perhaps a million dollars, then we are in duty bound to use them
-126 THE PSYCHOLOGICAL CLINIC.
 for many years whether they are suitable or not. The open-air
 school, together with the school lunch, might do much toward solving
 the problem of the ill health of the school children of California, and
@@ -95,6 +96,7 @@ coast cities from the over-heated eastern homes and feel that the
 California houses are very cold; the nights are cold to them, they had
 expected summer heat the year round. The result is the closing up
 of houses at night.
+
 Medical inspection is especially necessary in the California
 schools because of the problem of many families migrating to the
 Pacific coast every year who are physically unable to endure the
@@ -103,6 +105,7 @@ because one or more of the members have tuberculosis or some other
 serious disease. Many families also come to California because of
 the poor health condition of the children, who may be anemic or
 tubercular.
+
 The strongest argument for the open-air school is to watch a
 school being emptied at noon, in one of the well-to-do sections of
 almost any of our coast cities: there will be pale, thin, anemic looking children in the ranks; children who have plenty of food but
@@ -124,7 +127,6 @@ their insanitary home conditions, where many sleep in the same
 hermetically closed room; and where bathing is little indulged in.
 Or we may have cities, such as San Francisco and Los Angeles, with
 a large foreign population to be dealt with; each nationality living in
-MEDICAL INSPECTION IN CALIFORNIA. 127
 groups and as much in the manner of the life of their native lands as
 possible, universally with little air and in some cases the most inappropriate food.
 On the whole, the showing for these larger cities seems fairly

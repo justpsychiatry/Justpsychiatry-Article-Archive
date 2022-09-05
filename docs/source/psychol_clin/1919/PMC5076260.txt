@@ -1,8 +1,9 @@
 Memory Span Tests
 ===================
 
-By H. J. Humpstone, Ph.D.
+:Author:  H. J. Humpstone, Ph.D.
 University of Pennsylvania.
+
 The memory span test consists of a presentation of series of
 stimuli with the immediate reproduction of the series by the subject.
 The stimuli may be digits, syllables, words, sentences, paragraphs,
@@ -32,8 +33,6 @@ have been put upon results obtained from them. Jacobs in proposing
 the test called his study, "Experiments in Prehension." We think
 that a definite congenital ability exists, which is measured in the
 performance of this test. This is the ability to distribute the attention over a series of discrete perceptions, and is shown by their
-(196)
-MEMORY SPAN TESTS. 197
 immediate reproduction. In other words, it is the ability to grasp
 a number of different elements in one operation of attention. Perhaps "prehension" is a good word for this ability, but like so many
 other terms is used in other senses. We are using the term "Associability" and subsuming it under the general heading of imagination.
@@ -74,9 +73,9 @@ the figures in the air at least. As soon as each series is dictated the
 students write it as nearly as they can. In scoring the papers the
 number of digits in the longest series reproduced exactly as read is
 taken as the score. Using this method of procedure with several
-198 THE PSYCHOLOGICAL CLINIC.
 succeeding classes we have the following table, including results
 from 476 men and women.
+
 Digits
 Number of
 students
@@ -99,6 +98,7 @@ number
 18.3
 8.4
 2.7
+
 Mode=8. Median=8. Mean=8.5.
 70.5% score above 7 digits.
 Using the same method of procedure we employ as stimuli
@@ -107,6 +107,7 @@ words, two series of each length. Care is taken in arranging these
 series so as to avoid as far as possible familiar combinations and
 associations. We obtain this next table including results from
 360 men and women.
+
 V.'ords
 Number of
 students
@@ -177,6 +178,7 @@ number
 19.2
 No mode. Median=5. Mean=5.9.
 87.2% score more than 3.
+
 This shows that the test is too easy for our students, although
 it is included in the superior adult tests of the Terman Revision.
 To complete this series of tests a real memory experiment is given
@@ -188,7 +190,6 @@ memory, the experimenter reads the facts, and the class writes the
 name and date. This experiment permits of several variations, and
 reproduction may be repeated at intervals to test retentiveness. In
 a class of eighty-nine men and women the scores range from six to
-200 THE PSYCHOLOGICAL CLINIC.
 thirty-six. There is no distinct mode. The median is 20, the
 mean is 18.6. The names are remembered better than the dates.
 Probably the correlation would be higher with more verbal material
@@ -202,12 +203,14 @@ following are some of the results obtained. Any value of "r" less than
 words that different abilities are involved in the tests. Any values
 over .30 show some tendency or ability operative in both tests, while
 values over .50 are considered to be very significant.
+
 Digits and words, r = +0.52.
 Digits and sentences, r = +0.37.
 Sentences and ideas, r = +0.37.
 Sentences and memory, r = +0.12.
 Combined scores of digits, words, sentences and ideas with the
 memory experiment, r = +0.09.
+
 These correlations are a strong indication that the discrete
 stimuli test some different ability from any of the other kinds of
 material; that this ability is not memory; that a person may be

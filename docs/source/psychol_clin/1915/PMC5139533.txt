@@ -1,8 +1,9 @@
 Need for Correlation of Binet-Simon Tests With other Tests of Doing
 =====================================================================
 
-By Eleanor Keller,
+:Author:  Eleanor Keller,
 Vanderbilt Clinic, New York City.
+
 The standardized tests for intelligence that have won the
 widest recognition are doubtless the Binet-Simon tests. These
 as used generally in the United States are the result of a gradual
@@ -32,9 +33,8 @@ the imbeciles as three to eight, and the morons as eight to twelve.
 In Binet's opinion, if there is congenital brain defect causing feeblemindedness, the subject does not pass into adolescence. Twelve
 years of age evidently marks for Binet the dividing line between
 childhood and adult life. Binet and Simon, assisted by their students, revised this scale again and again from 1904 to 1911.
+
 In America Goddard in Vineland, Huey of Johns Hopkins,
-(18)
-NEED FOR CORRELATION OF TESTS. 19
 Whipple of Cornell, Wallin of Pittsburgh and Terman of Leland
 Stanford University have changed and adapted these tests for use
 among American children. Previous to 1910 Goddard tested his
@@ -51,15 +51,16 @@ but by doing so we cover up the many variations in the different
 1 See Pedagogical Seminary, Sept., 1910, June, 1911.
 s Ayres, Leonard P. The Binet-Simon Measuring Scale for Intelligence: Some Criticisms
 and Suggestions.
+
 I' i ' i   ; " i
 -7 -6 -5 -1* -3 -2 -1 H +1 +2 +3 ?
 Distribution curves showing variations from normal of 1547 children tested
 by the Binet-Simon scale (solid line) and 14,762 children in 28 cities rated by their
 progress through seven grades (dotted line). Curves based on relative figures
 showing distribution of 1000 cases of each kind. (Ayres.*)
-20 THE PSYCHOLOGICAL CLINIC.
 grades and cities. If the distribution curve were based on ages the
 normal curve would not be obtained.
+
 This distribution curve obtained by measuring all returns from
 all cities, rating their standing by progress through the grades,
 almost corresponds to the curve obtained by Goddard for his 1547
@@ -69,6 +70,7 @@ Binet-Simon tests. Dr Ayres rightly concludes: "If this were
 true there would be far less need for securing a measuring scale of
 intelligence than there undoubtedly is, for in our public school system we should have just such a scale, scientifically correct and
 already at hand."
+
 Let us bear in mind that Binet's method of standardization was
 testing public school children of Paris, a selected group chosen by
 school standards. Progress was based on language development.
@@ -76,6 +78,7 @@ Remembering the overemphasis that the schools put on language
 work, talking versus doing, are not the results just what might be
 expected? Do the tests measure native ability or do they not rather
 measure scholastic attainment?
+
 It is significant that those psychologists who have used the
 Binet-Simon most, agree that tests for the youngest are too easy
 and those for the older pupils too difficult. With the disappearance
@@ -94,6 +97,7 @@ of these muscles more than does the Binet-Simon scale?
 The Binet-Simon tests fail the clinician in three kinds of cases:
 in the lower range, in the upper range, and in certain neuropathic
 cases.
+
 1. In the lower range, the child, often backward in speech
 development, is still intelligent in every other way, making his
 wants known by gestures, smiles, etc. If tested by the BinetNEED FOR CORRELATION OF TESTS. 21
@@ -110,6 +114,7 @@ among their peers, cleanly in habits and in a small way helpful as
 institution workers. Otherwise they will be a source of misery to
 their families and themselves and an unnecessary cost to the
 community.
+
 2. Furthermore in the upper limit of the scale, little satisfaction
 is gained by use of the Binet-Simon tests, that is for those girls and
 boys of thirteen through fifteen who read and write, but have been
@@ -130,6 +135,7 @@ larger musculature; something calling for initiative, persistent
 attention, reason, judgment. Tests of doing rather than of talking
 will help to separate these two classes and test native ability rather
 than scholastic attainment.
+
 3. The children who have been pressed (neuropathic cases) and
 in whom the nervous affection is marked by facial tics, twitches,
 stuttering, stammering, lisping. They are often ahead of grade, but
@@ -138,8 +144,8 @@ twelve years of age. They have happened to have that type of
 mind which enables them to grasp abstract reasoning early in life.
 They shine in the arithmetic and grammar classes. These are
 subjects which make a premature demand on the association centers.
+
 If as Kraes and others assert the entire middle cortical layer is
-22 THE PSYCHOLOGICAL CLINIC.
 lacking in association fibres in childhood, but after the new growth
 of the later teens they increase rapidly and continue to grow in
 complexity up to fifty years of age, should our course of study put
@@ -150,6 +156,7 @@ doing, gathering and retaining facts to broaden their experience, be
 diagnosed as retarded? These neuropathic cases may show affections due to premature exercise of the association center. Would
 not tests of doing help us separate these cases from the retarded
 and feebleminded?
+
 Furthermore for clinical use, tests of doing help one to get a line
 on choreic tendencies, and note a lack of coordination, give signs of
 dementia praecox, or other cerebral affections, and assist in the
@@ -158,6 +165,7 @@ secondly, tests involving the larger as well as the finer musculature.
 To Binet and Simon is due credit for arranging a scale according to age?a scale intelligible to all, but founded as it is on speech
 development, tests of doing are needed, to correlate and perhaps
 take the place of some tests in the scale.
+
 It requires a trained and experienced psychologist to give the
 Binet-Simon tests, to record results and personal and family histories and in conjunction with these try out other standardized
 tests, preferably those of doing. It is also necessary to study the

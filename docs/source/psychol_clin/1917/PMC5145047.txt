@@ -5,8 +5,7 @@ The Psychological Clinic
 Copyright, 1917, by IJfhtna* WHmer, Editor.
 Vol. XI, No. 7
 December 15, 1917
-
-By Edgar A. Doll,
+:Author:  Edgar A. Doll,
 Assistant Psychologist, the Training School at Vineland, N. J.
 I.
 Many studies have demonstrated the need for employing mental
@@ -18,6 +17,7 @@ must be brought about on the basis of levels of intelligence. School
 administrators, sociologists, penologists, eugenists, and vocationalists
 must all consider mental defect and intellectual capacity as vital
 elements in their dealings with human material.
+
 But how shall society effectively recognize and take advantage
 of the significance of intelligence, if the means of determining intellectual capacity remain the property of a small group of experts,
 whose working methods are far too laborious, too complex, and too
@@ -26,6 +26,7 @@ applied psychology is to make its way in the world and become an
 instrument in human welfare, its working methods must become the
 property of the many and must be both refined and condensed.
 Efficiency is not incompatible with science.
+
 The Binet-Simon Scale has been welcomed as one of the most
 valuable and economical devices foi* the practical measurement of
 intelligence. This scale is now available in many arrangements
@@ -39,13 +40,12 @@ scale might be put. If the Binet-Simon Scale, in any of its forms,
 1 The substance of sections I and III of this paper were presented in abstract before Section L of the American
 Association for the Advancement of Science under title of A brief scale for rapid Binet-Simon examining, at New
 York, December, 1916.
+
 197
-/
-/
-198 THE PSYCHOLOGICAL CLINIC.
 could be abbreviated without serious loss of efficiency as a measure
 of intelligence levels, there would indeed result a great gain for
 mental measurement and its many fields of application.
+
 It has long been recognized that the individual tests of the
 Binet-Simon Scale do not present the same relative degrees of difficulty to feebleminded children that they do to normal children of the
 same intelligence level. That is, while the individual tests are of
@@ -85,12 +85,12 @@ in life age from 5 to 10 years, and were in the proper school grades
 data to this account. Cf. Carl C. Brigham, Two studies in mental tests, Psychological Monographs, Vol. XXIV,
 No. 1,1917. I am much indebted to Dr Brigham for many suggestions in preparing this study. Unfortunately
 I have not had access to the monograph itself, and cannot therefore make specific acknowledgments to his results.
-A BRIEF BINET-SIMON SCALE. 199
 for their ages. The feebleminded subjects included all inmates of
 the Training School whose mental ages were between 5 and 10 years.
 The average life age for each mental age group was approximately
 20 years. The group represents a wide variety of clinical and pathological types of mental defectives. The tests were wide-range tests
 conducted by members of the research staff.1
+
 Table I shows the classification of data, with the percentages
 of successes for each test and each age-group. For more direct
 comparability of results all the normal subjects are classified by
@@ -115,6 +115,7 @@ analysis was made after the method described by Brigham (see
 footnote p. 198). The influence of these factors proved to be greater
 than the experimental errors which arise from the chance selection
 of a comparatively small group of subjects.
+
 The relative difficulty of each test of the scale as compared
 with every other test, and the differential difficulty of each test for
 normal subjects compared with the same test for the feebleminded
@@ -129,6 +130,7 @@ is the simplest method, and also yields the most satisfactory results.
 1 The statistical tabulation of results for these subjects was prepared for me by Miss Katherine Roese.
 2 For descriptive names of the tests consult Goddard's record blank. All subsequent references are based on
 this arrangement.
+
 Table I.?Per Cents of Passes on Individual Tests of the Goddard Binet-Simon Scale, for Normal and Feebleminded Subjects.
 Mental
 Age
@@ -510,7 +512,7 @@ lox Aetectwea ^ \ -V^ y -VtA \ ?TA \\-\-X7 \ ?W \ -yn \ ?VE \ -V6 \ -VV7 \ \ -\-
 -IS \ -VSV \\ -VTO \ \ -V4
 85
 34
-A BRIEF BINET-SIMON SCALE. 201
+
 These results make possible an arrangement of the individual
 tests in a total order of difficulty for either normal or feebleminded
 subjects; at the same time, they afford empirical measures of the
@@ -529,8 +531,10 @@ therefore much more difficult for the defectives. These differential
 difficulties of the individual tests for defectives are set forth in table
 II. The numerical values in this table have no intrinsic worth
 except as comparative measures.
+
 Table II.?Differential Difficulties of B-S Tests for Feebleminded
 Subjects.
+
 Easy for Defectives Hard for Defectives
 Patience  V-5 + 21 Two weights   V-l ?55
 Morning or afternoon... VI-1 + 3 Square  V-2 ? 7
@@ -554,7 +558,7 @@ Abstract words XII-2 + 25
 Long sentence XII-3 + 4
 Suggestion XII-4 + 38
 Problems  XII-5 + 27
-202 THE PSYCHOLOGICAL CLINIC.
+
 Table II gives rise to some questions of grave import for the
 psychology of mental tests and of mental development. If we assume
 that these experimental data are at least sufficiently reliable to raise
@@ -595,12 +599,12 @@ and regularly rising standardization curve. Two tests were selected
 for each year because of the practical convenience of estimating
 results, and because, as it happened, there proved to be but two tests
 which could be used at each year according to the criteria of selection.
-A BRIEF BINET-SIMON SCALE. 203
 Tests VIII-2 (counting backwards) and VIII-4 (valuing stamps)
 proved too difficult with time-limits to standardize at year VIII,
 but when these tests were rescored for all subjects without regard for
 the time needed to obtain the correct response, then they
 standardize at year VIII.1
+
 In theory, no standardization percentage is adequate for arranging tests into a scale unless account is taken of the correlations
 between the individual tests of such a scale. I have not computed
 these inter-correlations, for I have not been able to find a statistical
@@ -614,6 +618,7 @@ the abbreviated scale. Consequently it appears that the present
 five tests per year of the complete scale are so highly inter-correlated
 that more than half of them can be dispensed with, without affecting
 the reliability of the mental ages obtained.
+
 The selected tests and their arrangement into a year scale is
 presented in table III. The apparatus, procedures, and scores for
 administering the tests are identical with those employed by Binet
@@ -623,6 +628,7 @@ the two tests at year VIII. Each test of this brief scale has a mental
 age value of one-half year. General instructions for giving the tests
 and for interpreting the gross mental ratings obtained, are the same
 as are now observed in accepted usage.
+
 Table III?Brief Binet-Simon Scale.
 V. VIII.
 1. Compare two weights 1. Count from 20 to 0
@@ -635,7 +641,7 @@ VII. X.
 2. Copy diamond 2. Reproduce design
 1 It is interesting to note that although the removal of the time-limits on these two tests affected the percentages of passes for the normal subjects, it did not at all affect the percentages of passes for the feebleminded
 lubjects.
-204 THE PSYCHOLOGICAL CLINIC.
+
 This brief scale is limited in range from 5 to 10 years, because
 the experimental data were limited to those age ranges for the
 normal subjects. But by applying the same methods to groups of
@@ -644,6 +650,7 @@ directions. Six tests, selected on the basis of experience as being
 probably satisfactory, will be suggested subsequently for years III,
 IV, XI, and XII. This gives a scale which may be used to advantage
 in the first five grades of the public schools.
+
 The reliability of the determination of mental ages by this
 brief scale, as compared with the complete scale, may be measured
 by correlating mental ages obtained by both scales with the same
@@ -667,6 +674,7 @@ feebleminded subjects, but the mental age values for the feebleminded subjects w
 by the brief scale than by the complete scale, whereas the mental
 age values of the normal subjects will be approximately the same by
 both scales.
+
 This conclusion is sufficiently surprising to merit further analysis.
 If mental measurement is to extend very far into the fields of pedagogy
 or of social science, simplicity and economy of technique are secondary only to accuracy of results. Therefore, if two systems of
@@ -676,7 +684,6 @@ practical utility to eliminate the less efficient method, provided that
 no loss of accuracy ensues. We have seen that this brief scale does
 retain the reliability of the complete scale as a measure of intelligence
 level, and in addition has the merits of reduced speed, simplified
-A BRIEF BINET-SIMON SCALE. 205
 technique, and reduced apparatus. The technique can be mastered in half an hour by intelligent persons acquainted with the
 essential principles of educational or psychological measurement,
 and individual subjects can be examined by this scale in from 5 to
@@ -691,6 +698,7 @@ No medical inspector or court official could afford to devote sixty
 minutes to such an examination under the heavy pressure of hundreds
 of cases; nor need he do so when he can obtain equally valid results
 m an examination requiring only ten minutes.
+
 II.
 The Binet-Simon Scale is made up of five tests per year, and
 each test is presumed to be located at the year where it is passed
@@ -703,6 +711,7 @@ measure general intelligence, that is to say is highly correlated with
 each of the other tests, then more than one test per year should not
 be necessary, except, possibly, to avoid chance errors in individual
 cases.
+
 The statistical reliability of the scale is a function of three
 variables, namely, the percentages of passes from year to year, the
 inter-correlations between tests, and the number of tests per year.
@@ -713,9 +722,9 @@ obtained from the scale with five tests per year. This can only
 mean that the five tests per year are so highly inter-correlated that
 more than half of them may be dispensed with without serious loss
 to the mental age ratings desired.
+
 The question naturally arises, is the brief scale valid because of
 this conjectural high inter-correlation, or is it due to the innate worths
-206 THE PSYCHOLOGICAL CLINIC.
 of the tests which have been selected for diagnostic values? Is it
 essential that the tests should offer exceptional difficulty to mentally
 defective subjects, or might not a brief scale of tests made up of
@@ -742,6 +751,7 @@ correlation between the several tests of each scale. For example,
 if the difficult tests should be highly inter-correlated and the easy
 tests not highly correlated, then the first brief scale would prove
 more reliable than the second.
+
 Table IV.?Second Brief Binet Scale.
 V. VIII.
 1. Distinguish A. m. from p. m. 1. Name days of week
@@ -752,11 +762,11 @@ VI. IX.
 VII. X.
 1. Describe action in pictures 1. Recognize money
 2. Compare verbally 2. Repeat six digits
+
 The actually obtained Pearson coefficients of correlation between
 mental ages derived by the second brief scale compared with those
 obtained by the complete scale are r = .95 for the normal subjects
 (as compared with r = .98 for the first brief scale), and r = .92 for the
-A BRIEF BINET-SIMON SCALE. 207
 feebleminded subjects (as compared with r = .90). Apparently,
 therefore, our conjectures are correct and the easy tests are just
 about as highly correlated (as a system) as the difficult tests. Consequently, one may expect to obtain almost identical rankings for
@@ -771,6 +781,7 @@ in order to simplify the presentation. These variations are so small
 (the coefficient of variability was not as great as .10 for any average)
 that variability is practically negligible. The lowest m. v. was .1
 and the highest .6.
+
 Table V.?Comparison of Average Mental Ages by the Three Scales.
 Binet
 Age
@@ -835,6 +846,7 @@ Scale No. 2
 8.6
 9.2
 9.7
+
 From these considerations it appears that the present BinetSimon Scale may be divided into two scales of approximately the
 same degree of reliability, and that these brief scales might be used
 alternately by the aid of conversion constants to correct minor
@@ -846,7 +858,6 @@ between tests. The advantage of a scale made up of diagnostic
 tests lies in the automatic exaggeration of mental retardation which
 such a scale produces with mentally defective subjects. By the use
 of the first of these brief scales, for example, the mental ages of
-208 THE PSYCHOLOGICAL CLINIC.
 feebleminded subjects are automatically reduced by approximately
 5 to 10 per cent. This may prove to be of very definite service in
 detecting feeblemindedness in potentially feebleminded subjects
@@ -854,6 +865,7 @@ and in borderline cases. By the second brief scale the mental ages
 of mental defectives are slightly increased, which effect has no
 material value. On the other hand the mental ages of normal subjects are relatively the same by either of the brief scales or the
 complete scale.
+
 Because of the automatic exaggeration in the mental retardation which the first brief scale shows with feebleminded subjects,
 the first scale is to be commended to those examiners who must conduct rapid mental examinations intended to yield preliminary
 indications of mental subnormality. It may also be pointed out that
@@ -863,6 +875,7 @@ and most reliable from the standpoint of experimental technique.
 The tests of the second brief scale, on the contrary, are for the most
 part the least desirable tests of the scale, being too much influenced
 by chance errors and by mechanical memory.
+
 These brief scales are presented as valid only to a mental age of
 9 years (because of the absence of tests in higher levels), and consequently have a limited range of application. They were developed
 as an experimental demonstration of method; their practical value
@@ -875,6 +888,7 @@ with both normal and feebleminded subjects, supported by miscellaneous experimen
 employed for rapid examining at the Vineland Laboratory is presented in table VI. It is to be noted that because of the absence of
 tests beyond year XII this scale is not reliable in measuring mental
 capacity beyond 10 years.
+
 A similar record blank for the measurement of mental levels
 beyond 10 years could easily enough be experimentally developed.
 I myself lack the experimental data for such an undertaking, but
@@ -886,6 +900,7 @@ be statistically significant. The selection of these tests is wholly
 conjectural, being based on my personal experiences with the StanA BRIEF BINET-SIMON SCALE. 209
 Table VI.?Department op Research, the Training School at Vineland.
 Record blank for rapid Binel-Simon Testing*
+
 Name Date Mental age
 Born Time Life age
 School grade Examiner Status
@@ -926,7 +941,7 @@ also retains the numerical ease of estimating results, with each test
 having a value of one half year in the mental age score. This brief
 Stanford scale is presented in table VII. It is subject to the same
 general uses as the complete Stanford scale.
-210 THE PSYCHOLOGICAL CLINIC.
+
 Table VII.?Department of Research, the Training School at Vineland.
 Record blank for rapid Binet-Simon testing (Stanford revision).1
 Name Date Mental age
@@ -1000,7 +1015,6 @@ VOCABULARY.
 1 These tests are to be administered and scored according to the procedures and standards described by Terman
 in "Tht Measurement of Intelligence." The mental age value of each test is one-half year, assuming IX as a basal
 year.
-A BRIEF BINET-SIMON SCALE. 211
 It may be advisable to emphasize some of the limitations of
 the brief scale as well as its advantages. Equivalence in mental
 age rating must not be misconstrued as meaning complete psychological or clinical equivalence. Neither may one forget that a

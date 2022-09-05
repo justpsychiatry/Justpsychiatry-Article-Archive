@@ -1,8 +1,9 @@
 A Report on the Standardization of the Witmer Cylinder Test
 ==============================================================
 
-By Franklin Cressey Paschal, Ph.D.,
+:Author:  Franklin Cressey Paschal, Ph.D.,
 University of Pennsylvania.
+
 It has been three years since the Witmer Cylinder Test took
 its present form and was adopted for use in the Psychological Clinic
 of the University of Pennsylvania. The important part it has
@@ -17,8 +18,7 @@ present a problem to children older than those with whom that test
 was of the most value. Among other things, the Montessori cylinders were brought into use and out of these grew the present Cylinder
 lThe complete report has been published in monograph form by the author, and may be obtained from Thb
 Psychological Clinic. Price 75 cents.?Editor.
-(54)
-WITHER CYLINDER TEST. 55
+
 Test. In the early form, the presentation of the three separate sets
 of cylinders was followed by that of the three placed together in a
 triangular position, the thirty cylinders being removed and mixed
@@ -39,6 +39,7 @@ seven blocks of constant height but decreasing steadily in diameter
 to one inch. Then the next six retain this same diameter but decrease
 in height to one inch. Beyond this point there is an increase in
 both height and diameter up to the original block.
+
 The method of procedure could not be made as simple as in
 most performance tests, as this apparatus is not self-correcting.
 While we may expect all but the youngest children to return every
@@ -60,7 +61,6 @@ indication. The remaining trials (and the first trial as well in the
 better cases in which the nature of the whole problem is grasped
 before starting) are quantitative, and the time is the only valid measure of the value of the type of performance.
 The children tested for this standardization were pupils in five
-56 THE PSYCHOLOGICAL CLINIC.
 of the public schools in the city of Philadelphia, these schools being
 chosen in sections of the city which would give a fair sampling of the
 different social classes. There were 867 boys and 855 girls tested in
@@ -77,6 +77,7 @@ that our results for women are taken from but one group, there being
 no records available to combine with those of the university women,
 these figures cannot be considered indicative for adult women in
 general.
+
 In undertaking this investigation, the intention was to examine
 a hundred subjects of each age group from six to fifteen years
 inclusive, fifty to be taken from each half year. In its final form,
@@ -98,12 +99,13 @@ of failures for the two lower ages, however, was so high as to make it
 evident that a special investigation would be needed for these years
 in which any amount of time necessary might be allowed for the
 completion of the first trial.
+
 Preliminary investigations, one of them a correlation with
 mechanical ability or manual ability as shown in shop rating, has
 indicated that the shortest time trial is the best quantitative measure
 1 Simpson, B. R.: Correlations of Mental Abilities. Teachera College, Columbia University, Contributions to
 Education, No. 53 (1912).
-WITMER CYLINDER TEST. 57
+
 of performance ability for this test. Therefore, the figures used here
 are those of the shortest trials. While the shortest of three trials
 has been used, in no case is a trial accepted where the task was
@@ -111,6 +113,7 @@ not satisfactorily completed or where additional instructions
 were necessary. Three trials were found advisable; less than this
 gives an inadequate result, while four trials tend to fatigue the subject as well as to require too much time in the case of the younger
 children.
+
 The accompanying tables present the shortest time trials of all
 the subjects examined, distributed by quintiles and with the inclusion
 of the means and standard deviations. The number of failures (F.)
@@ -118,6 +121,7 @@ indicates the number who failed to complete the first trial within the
 five minutes alloted. There are also three cases included under this
 head of failures to give a satisfactory shortest trial after the first
 trial had been completed.
+
 The failures are included within the distribution under the
 heading DNC (did not complete). It may seem that the grouping
 of all the failures within the slower end of the distribution might be a
@@ -133,6 +137,7 @@ failures. In the ages six and seven, this distribution of the checking
 cases did not hold true, which supports our conclusion that the
 standardization for these ages must allow sufficient time for the first
 trial to be satisfactorily completed.
+
 The tables show that there is, without exception, a continuous
 decrease in the time of the means, quintiles and medians with
 increasing age for each sex. The standard deviation shows the same
@@ -143,7 +148,6 @@ inadequate since there were only available the pedagogically "at
 age" or "over age", the better half of the boys and girls of these
 ages having completed the grade schools. Our experience with the
 test does not lead us to believe that an adequate sampling of these
-58 THE PSYCHOLOGICAL CLINIC.
 ages would show them to be slower than the thirteen year group.
 The figures for the ages six, seven, fourteen and fifteen, have been
 included for whatever they may be worth, but we do not ascribe to
@@ -184,7 +188,6 @@ and slow performances the number of moves is much in excess of
 this. The plan, as shown by the blocks picked up; the estimation,
 as shown by the positions in which they are placed; the moves in
 making corrections,?all these furnish considerable material for the
-WITHER CYLINDER TEST. 59
 observation of behavior. The subject is moving almost continually,
 and any idea which arises is immediately followed by an attempted
 placement. In many performance tests, the better subjects do a
@@ -194,6 +197,7 @@ is possible to follow very closely the mental activity of the subject.
 For diagnostic purposes, we must require that in a performance test,
 the physical processes shall adequately portray the mental processes
 involved.
+
 Quintile Distribution.
 boys.
 10

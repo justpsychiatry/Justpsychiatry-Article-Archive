@@ -4,9 +4,9 @@ Vocational Guidance and Job Analysis
 The Psychological Clinic
 Copyright, 1924, by Lightner Witmer, Editor
 Vol. XV, Nos. 6 & 7 May-June, 1924
-
 The Psychological Viewpoint
-By Morris S. Viteles, Ph.D.
+:Author: Morris S. Viteles, Ph.D.
+
 Instructor in Psychology, University of Pennsylvania
 The purpose of this article is to discuss the relationship between
 the scientific study of vocations and vocational guidance. It serves,
@@ -30,7 +30,6 @@ PP. 722-24
 3 Morris S. Viteles, "Job Specifications and Diagnostic Tests of Job Competency for the Auditing Division of a Street Railway; A Study in Industrial
 Guidance," Experimental Studies in Psychology and Pedagogy, No. IX, Psychological Clinic Press, Philadelphia, 1922, and Psychological CuNrc, Vol.
 XIV, Nos. 3-4.
-158 THE PSYCHOLOGICAL CLINIC
 application of the same method and the same terminology in a
 description of vocations for use in vocational guidance.
 The term vocational guidance has been used in both a restricted
@@ -54,6 +53,7 @@ at approximately the working age level, to courses in study of
 occupations, etc., but in use the term is usually restricted to the
 efforts which are being made to direct scientifically the choice of
 vocation by children at the working age level.
+
 In the more general sense the term vocational guidance refers
 to the direction of the education of the individual child?education in the school, the home, the playground?from infancy to
 maturity so that the child may be prepared for the vocation best
@@ -63,10 +63,10 @@ to be adequate and scientific direction in choice of vocation when
 the necessity for choice arises, at the working age level, at the time
 of graduation from the high school, from the university, and at
 any other time.
+
 In the discussion of the relationship between job analysis and
 vocational guidance which follows the emphasis will be on vocational
 guidance in the restricted sense. The technique of job analysis
-VOCATIONAL GUIDANCE AND JOB ANALYSIS 159
 lias an important bearing on the development of curricula, as has
 been pointed out by Strong,3 and therefore in guidance in the
 general sense, particularly since the ultimate aim of vocational
@@ -74,6 +74,7 @@ guidance, in whatever sense the word is used, is the selection of
 a vocation by the individual. In this article, however, the discussion is limited to the relationship between the study of vocations
 and the practical problem of guiding children at the working age
 level. Actual choice of vocation is given first consideration.
+
 Such guidance presupposes in my opinion a very thorough
 analysis of vocations in terms of the mental qualifications necessary for success in them. In practice guidance has advanced far
 beyond the accumulation of scientific data on the mental requirements of vocations. It has, as a matter of fact, become common
@@ -91,6 +92,7 @@ guidance, the facts concerning the mental abilities and temperamental qualities 
 attention. In this particular respect, as in many other phases
 ?f guidance, sentimental opinion takes the place of facts which
 can only be revealed by careful and arduous analysis.
+
 The article considers the problem of the extent to which the
 vocational counselor must employ the data furnished by job analysis in determining whether a given individual should remain in
 school, which course he should take, whether he should go to
@@ -100,9 +102,9 @@ carpentry, or bookkeeping, or one of the many other vocations
 analysis and suggestions for presenting the facts obtained by such
 an analysis which are, in the opinion of the author, particularly
 8 See E. K. Strong, Jr., and R. S. Uhrlock, "Job Analysis and the Curriculum." Personnel Research Series, No. 1, Baltimore, 1923,
-160 THE PSYCHOLOGICAL CLINIC
 applicable in substituting the facts of vocational qualifications
 for opinion in vocational guidance.
+
 THE ESSENTIALS OF VOCATIONAL GUIDANCE
 In vocationally guiding both children and adults, the vocational counselor, whether he be a trained psychologist or not, must
 consider the following factors with reference to the individual he
@@ -136,10 +138,11 @@ interest in many vocations, but merely a negative attitude, an
 absence of desire which is oft times the direct result of the failure
 of the school to supply the information about vocations which lies
 at the basis of vocational interest.
+
 Competency
+
 The second factor in guidance is competejicy. It refers to the
 mental ability of the individual to meet the requirements of a
-VOCATIONAL GUIDANCE AND JOB ANALYSIS 161
 given vocation. Vocational competency has been stated in terms of
 "general intelligence" and in terms of "specific mental abilities."
 The validity of one or the other point of view cannot be discussed
@@ -158,9 +161,11 @@ been devised to measure competency, and the results of such tests,
 properly administered and evaluated by a trained examiner, must
 be substituted for the judgment of counselors in the determination
 of the vocational competency of applicants for guidance.
+
 There are two contributions which the psychologist can make
 toward the more scientific analysis and measurement of vocational
 competency.
+
 1. He can make an analysis of competency or qualifications for
 vocations in 'terms of specific abilities. He can substitute for such
 vague mental qualities, as dependability, alertness, force, good
@@ -169,12 +174,13 @@ each of the occupations grouped into a vocation. He is, moreover,
 prepared by training and experience in psychological analysis lo
 weigh the relative importance of each one of these abilities in
 vocational success.
+
 2. The psychologist can provide quantitative methods for testJng individuals for the possession of the competency which a particular vocation demands.
 A number of attempts have been made, in the first place, to
 analyze the demands of vocations, and in the second place, to devise
 ]nstruments for measuring vocational competency.
+
 4 See Morris S. Viteles, "Tests in Industries," Journal of Applied Tsyrfiology, March, 1921, Vol. V, pp. 57-63.
-162 THE PSYCHOLOGICAL CLINIC
 The Analysis of Vocational Competency
 The earliest attempts at vocational analysis were those made
 by French and German psychologists' "who have been especially
@@ -187,6 +193,7 @@ relation between mental traits, as shown in the results of psychological tests, 
 method represents the earliest methodical attempt to differentiate
 the various vocations from one another on the basis of special aptitudes and characteristics, as distinguished from the factor of
 general intelligence."
+
 Dr E. Toulouse has published reports of such examinations
 or psychographs in the cases of Zola, the novelist, Dalou, Henri
 Poincare, the mathematician, and others. For example,0 "Zola's
@@ -195,12 +202,14 @@ with no tendency to perseveration of ideas after cessation of work.
 His thought, as disclosed by the tests, was logical, methodical, and
 (in spite of his actual vocation) seemed preeminently fitted for
 the work of mathematical deduction."
+
 The method of the individual psychograph has not yielded7
 "results which are sufficient to inform us why the particular individuals examined were so much more successful in their work than
 were others who seem to have been equally favored and equally
 diligent. Nor has it yet revealed in any adequate way the nature
 or degree of the qualifications requisite for success in vocations
 from which the representative men have been selected."
+
 The individual psychograph represents more the personal
 prejudices, the educational advantages and disadvantages, "accident of time and place," of the few men who have been eminently
 successful than a careful, impartial analysis of the abilities which
@@ -209,7 +218,6 @@ have made for the success of the many mediocre workers in each
 York, 1916, p. 80.
 'Ibid. 86-87.
 7 Ibid. p. 88.
-VOCATIONAL GUIDANCE AND JOB ANALYSIS 163
 field. An analysis of the mental characteristics of a great number
 of men who have been successful in a given vocation may yield data
 which will be of service in vocational guidance, but a study of the
@@ -221,6 +229,7 @@ and define accurately the terms which have been used in describing
 the qualities characterizing the successful men who have been
 studied destroys almost entirely the value of such data as has
 already been obtained by the above method.
+
 The method by which the successful individual is studied has
 been replaced, or perhaps it is better to say re-enforced, by the
 study of the vocation with the view of determining the necessary
@@ -244,8 +253,7 @@ mechanic are described as follows: 8"Mechanical ability, especially
 deftness of fingers, is a prime essential. The boy must be fairly
 intelligent and he must have the patience to do careful work. Education through the grammar school is helpful, but not considered
 8 Ruth J. Woodruff, "The Dental Mechanic," The JVliite-WilUoms Foundation Monograph Series, No. 4, Philadelphia, Pa., June, 1923, page 3.
-L
-164 THE PSYCHOLOGICAL CLINIC
+
 essential. Some mechanics have found chemistry and metallurgy
 profitable."
 In the same way the qualifications of a librarian are described
@@ -258,6 +266,7 @@ she must constantly be her own teacher in assimilating current
 information. She must possess a liking for people with a natural
 desire to assist them. The executive must have breadth of vision.
 Scholarliness would be another fundamental."
+
 The qualifications of the manager of a professional photographic
 studio are described as follows: 10"Good taste in selecting art
 papers and characteristic tones and mounts, executive leadership
@@ -267,6 +276,7 @@ sense of responsibility for the success and reputation of the firm,
 foresight in planning for the needs of employees, and, as an interviewer of patrons, tact, good manners, command of language, and
 good appearance are the chief qualifications of a successful studio
 manager."
+
 In such descriptions of mental qualifications the title of another
 occupation could, in many cases, be substituted for the one being
 described, and the statement would be equally accurate. Thus
@@ -275,14 +285,15 @@ librarian, the terms office worker, teacher, cashier in a department
 store, a scraper of celery in Campbell's soup factory, could be
 substituted for librarian, and the description would be equally
 applicable.
+
 The outstanding deficiency in such statements of mental qualifications is the failure to define the terms which are used in describing the qualities necessary for success. The qualifications are stated
 in vague terms, almost incapable of exact definition, which convey
 entirely different ideas to different readers. In addition, the quali* Florence B. Jennings, "The Librarian," The White-Williams Faiivdatu/ii Monograph Series, No. 2, Philadelphia, Pa., June, 1923, page 5.
 10 May Rogers Lane, "The Professional Photographer," White-William3
 Foundation Bidletin Series, No. 2, Philadelphia, Pa., Nov., 1923, pp. 31-32.
-VOCATIONAL GUIDANCE AND JOB ANALYSIS 165
 ties which are given are not rated quantitatively; there is no indication of the degree of each quality which is necessary for success
 and the relative importance of each.
+
 In analyzing vocational competency there must be substituted
 for such vague qualities as "accuracy," "quickness," "mechanical
 ability," "intiative," and other indefinite terms of mental characteristics, a category of specific mental abilities which are involved
@@ -316,9 +327,9 @@ emphasized in the second occupation. It is therefore necessary
 to give a quantitative rating to each ability with reference to the
 extent to which it is required for success in a given occupation.
 For this purpose a five point scale can be used, in which each of the
-1G6 THE PSYCHOLOGICAL CLINIC
 numbers, 1, 2, 3, 4, 5, represents a degree to which each specific
 mental ability is essential for Success in the occupation. The meaning of each number is given below.
+
 1. Negligible
 2. Barely significant
 3. Significant
@@ -353,7 +364,7 @@ found in a given vocation, a blank form is used, similar to the
 11 Experimental Studies in Psychology and Pedagogy, No. 5, "A Clinical
 Study of Retarded Children," by Jacob Daniel Heilman, Ph.D., Philadelphia,
 The Psychological Clinic Press, 1910.
-VOCATIONAL GUIDANCE AND JOB ANALYSIS 167
+
 will be seen that on the left-hand side of the form are given the
 specific mental abilities. To the right of these are five columns
 numbered 1, 2, 3, 4, 5, respectively. Each specific mental ability
@@ -398,17 +409,18 @@ c/K..
 22. Judgment
 23. Logical Analysis
 24. Language Ability
+
 If the X's on the chart arc connected by a line we have what
 I have called a job psychograph. If this is held so that the names
 of the specific abilities come at the bottom of the sheet and the
 broken line stretches horizontally across the page, the peaks of the
 curve reveal at a glance the specific mental abilities, which, in the
 opinion of the one who is making the job analysis, are the ones
-168 THE PSYCHOLOGICAL CLINIC
 which are most essential in occupational success. These abilities
 can be called the "keystone" specific mental abilities of the occupation and they are correlated to the "keynote" operations of the job
 or the activities which most clearly distinguish this occupation
 from other similar occupations.
+
 Such an analysis of occupational competency is of prime importance in vocational guidance. The aim of guidance should be to
 select for the individual the vocation and, if possible, the specific
 occupation, for which, from the point of view of mental ability,
@@ -441,7 +453,7 @@ energy is called forth by the occupation. In some occupations
 Form Board Test," Psychological Clinic, Nov. 5, 1916.
 H. J. Humpstone, "Tho Analytic Diagnosis," Psychological Clinic,
 May 15, 1919.
-VOCATIONAL GUIDANCE AND JOB ANALYSIS 169
+
 much energy may be called forth, but this energy is called forth
 slowly, while in others it must be expended with great speed. The
 reverse is also true; that is, there are occupations in which the
@@ -451,6 +463,7 @@ this be expended either at great speed 01* slow speed.
 ability to resist fatigue is required by the occupation. It is equivalent to what is ordinarily called "stamina" and refers to the
 degree to which the occupation demands the ability to discharge
 energy beyond the limit of physical fatigue.
+
 4. Control. By control is meant the ability which is demanded
 in the direction and execution of large bodily movements. Walking,
 for example, involves control to a very great degree. In the
@@ -460,15 +473,18 @@ This would be contrasted with, let us, say, comptometer operating,
 in which the emphasis would be more upon co-ordination than
 upon control. Control would be rated 5, for example, in the
 running of a street car.
+
 5. Co-ordination. (A) This refers to the occupational requirement in the combination of fine muscular movements; in the
 establishment of finer adjustments among these movements. The
 importance of this ability rates high in such occupations as fine
 instrument making, comptometer operating, and in fine armature
 winding.
+
 6. Co-ordination. (B) This refers to the harmonious combination of eye and muscle action demanded by the occupation.
 It is movement controlled by sight. It is important in such an
 occupation as telephone operating, in which the operator is required to get the plug into a hole of small diameter, the location
 of which is perceived through the eye.
+
 7. Initiative. This refers to the self-starting aspect of the
 occupational demand. It is the ability of the individual to begin
 a new operation without instruction. It is required to some extent
@@ -477,6 +493,7 @@ m running the trolley car, exhibiting itself when trouble arises
 to a much less degree in, for example, the occupation of interurban
 railway receipt audit, and to a much greater degree in that of
 shooting trouble."
+
 8. Concentration. This refers to the attention which the occu170 THE PSYCHOLOGICAL CLINIC
 pation requires to be given to one unit, or one small part, in contrast
 to the distribution of attention over a number of parts. For
@@ -486,6 +503,7 @@ only to one single operation, to one single thing. It is attention
 to individual, single component parts of a complex operation or
 object in contrast to attention spread over a number of parts of a
 complex operation or object.
+
 9. Distribution. This refers to the distribution of attention
 which the occupation requires over a number of different operations or things at the same time. For example, the motorman
 distributes his attention over the street, the control apparatus
@@ -493,17 +511,21 @@ which he is handling and the signals which come from the conductor at the same t
 his attention over a number of levers in starting the lathe. The
 sub-station operator may be required to distribute his attention
 over a number of switches simultaneously.
+
 Distribution is contrasted with concentration. In some occupations one is exemplified and in some the other. It is possible that
 in certain occupations both may be required to approximately the
 same degree.
+
 10. Persistence. This refers to the stick-to-it-iveness demanded
 by the occupation. It is the ability which the occupation calls for
 of giving entire attention to the matter at hand until it is completed. It is the opposite of fluctuation of attention, in which
 attention wanders from the matter at hand.
+
 11. Alertness. This is the readiness which the individual must
 show on the occupation in meeting changing situations. It is wideawakeness. It should be rated as an important requirement on the
 occupation of motorman and relatively of less importance in that
 of running a mimeographing machine.
+
 32. Associability. This refers to the number of discreet units
 which must be associated in one moment of consciousness. Some
 occupations require that the individual be able to hold in consciousness only two or three things at once, and others that they may be
@@ -513,10 +535,11 @@ successful on the job. In an occupation such as that of listing
 clerk a long memory span will be of great help. In still others
 such as feeding a drill press, a memory span of three and possibly
 less is sufficient for efficiency.
-VOCATIONAL GUIDANCE AND JOB ANALYSIS 171
+
 13. Discriminability. This refers to the ability required of
 recognizing differences in size, shape, sound, taste, etc. The smallness of the difference it is necessary to recognize in a given occupation is a measure of the degree of discrimination required by the
 occupation.
+
 Discriminability is employed in each of the several sense realms,
 and we have therefore:
 (a) Visual discriminability.
@@ -547,9 +570,9 @@ laboring jobs, gross repair work, etc.
 specific types of memory, in three specific sense fields, to be considered in giving a rating on Memory. These are:
 A. Visual, or the memory of visual material.
 B. Auditory, or the memory of auditory material.
-172 THE PSYCHOLOGICAL CLINIC
 C. Kinaesthetic. This refers to motor memory, or the ability
 to recall movements.
+
 16. Tinder standing. This refers to ability to understand directions as part of the occupational qualifications. It is the degree of
 comprehension of verbal or written directions demanded. This is
 probably involved in all occupations, but the degree of its importance will vary from occupation to occupation.
@@ -558,6 +581,7 @@ and plenty of time taken to interpret them. In others it is essential
 that the directions be grasped and understood readily. Trouble
 shooting is an example of an occupation in which quickness of
 understanding would be rated high.
+
 18. Observation. This refers to the ability which is called
 forth by the occupation of employing attention so that no detail
 of the performance remains unnoticed. The individual must always
@@ -568,21 +592,23 @@ detail of the proof. A typist, copying from rough draft, would
 also be rated high on observation, although not quite as high as a
 proof-reader. And in such a job as shoveling coal, observation
 would be rated low.
+
 19. Planfulness. This refers to the ability to look ahead, to
 foresee the general plan of the work, and to methodically pkm oi
 form a scheme for the method of doing the work as part of the occupational requirements. Supervising would be rated high in pl?in"
 fulness. The occupation of comptometer operating would probably
 be rated low.
+
 20. Intelligence. This is the ability of the individual to solve
 a new problem. In most occupations new problems arc not pre
 sented. The} may occasionally arise in the process of running ^
 street car, very often in "shooting trouble," but very rarely *n
 clerical occupations.
+
 21. Intellect. I his refers specifically to the ability to put the
 kind of knowledge that is ordinarily obtained in the schools to use
 in the occupation. An occupation in which no knowledge of school
 work is at all required, not even reading and writing, should not
-VOCATIONAL GUIDANCE AND JOB ANALYSIS
 be checked at all. An occupation which requires snnply1^ ability
 to read numbers or spell out words slowly shou e ra ^ ^
 occupation in which reading and writing an 1 e ? ^
@@ -619,7 +645,6 @@ these tests, moreover, must be empirically demonstrated e!ther^y
 the comparison of test results with the efficiency 0 ^ test
 engaged in a vocation or by the follow-up an ^ompa ess ^
 results of those examined by means of tests wi e
-174 THE PSYCHOLOGICAL CLINIC
 various vocations. The studies of Woolley13 and Learning14 are
 examples of the latter procedure. But such investigations have
 not been carried far enough to be of great service in the vocational
@@ -631,6 +656,7 @@ for which training is there given. They are not, however, useful
 in directing toward specific vocations children, who, either by reason of deficiency in intellectual ability or for some other reason
 must be advised to leave school and must be immediately guided in
 the choice of an occupation.
+
 In the guidance of such children and to some extent in the
 selection of the most suitable course in high school, use can be made
 of tests which have been devised for the selection of workers in
@@ -655,7 +681,6 @@ Adolescents and Some of Its Uses," Jour, of Ed. Vftycli., 1915, 6, 521-550.
 14 R. E. Learning, "Tests and Norms for Vocational Guidance at the
 Fifteen Year Old Performance Level," PSYCHOLOGICAL Clinic, 1923, 14>
 193-224.
-VOCATIONAL GUIDANCE AND JOB ANALYSIS 175
 amined can be credited with these abilities to the degree of
 1, 2, 3, 4, 5, on the basis of his performance. The ratings can be
 entered upon Form MQ1, to give the individual psycliograpli of the
@@ -665,6 +690,7 @@ occupational demands appears to the author to possess greater
 possibilities for accuracy not only than the haphazard judgment
 of the vocational counselor and the analysis of the so-called general intelligence tests, but than the quantitative results of tests
 such as described by Woolley and Learning.
+
 In the two vocational studies reported in this number of the
 Psychological Clinic are found a series of job psycliograplis
 covering the standard jobs in the printing trade and those of one
@@ -677,6 +703,7 @@ it is quite possible that even after specific vocational tests have been
 standardized for selection in these and other industries the quantitative method which, for one reason or another, must be used in
 industry, may not lend itself to the more complex and possibly
 more important problem of vocational guidance.
+
 The use of such a method presupposes, of course, that the
 counselor has been trained in psychology or, at least, a co-operation
 between vocational counselor and a Psychological Clinic for Vocational Guidance such as is conducted at the University of Pennsylvania. It is not surprising that adequate guidance should involve
@@ -686,8 +713,9 @@ and defect, as the diagnosis of physical defect, is a specialized operation whic
 Mentality in vague, general terms and confusing scientific vocational guidance with a sentimental haphazard judgment of vocational competency may retard the speed with which the vocational
 guidance movement spreads; it can only serve, however, to set it
 on a firmer foundation.
-176 THE PSYCHOLOGICAL CLINIC
+
 Temperament
+
 The third factor in guidance is temperament. By this is meant
 the motives, the urges in the individual's make-up.13 "It must certainly seem," says Watts in an article in the British Journal of
 Psychology, "that the vocational psychologist will need to take
@@ -701,6 +729,7 @@ set up in business. And it will be agreed that a soldier or a reformer without a
 priest, the doctor and the nurse, the teacher and the shepherd would
 soon tire of their work if they were not endowed strongly with the
 tender impulse."
+
 It would be possible to quarrel with Watt's analysis of the
 "instinctive" qualities. It is also probably better to substitute the
 term temperamental for instinctive. It is certainly true, however,
@@ -711,19 +740,22 @@ training and profit equally from such training, but if one is tactful, even-temp
 certainly be better qualified for success in this occupation than the
 introverted, excitable individual who fails to inspire the confidence
 so necessary for successful work as a surgeon.
+
 The qualities which are given are temperamental qualities.
+
 It is the point of view of certain psychologists that temperament
 plays an even greater part in vocational success than does competency. It is not my purpose to present the pros and cons of this
 point of view at this time. It is merely my purpose to emphasize
 the need for a consideration of the temperamental qualities necessary for vocational success, and to point out that such a consideration presupposes a thorough-going analysis of the duties and
 15 F. Watts, "The Outlook for Vocational Psychology," British Jaur. of
 Psychology, January, 1921.
-VOCATIONAL GUIDANCE AND JOB ANALYSIS 177
+
 conditions of work, of the sex and nationality requirements of
 various vocations and other facts which will throw light upon the
 temperamental qualities necessary for success in the vocation. Such
 an analysis must he psychological in character, employing the technique of the science and based upon a knowledge of the fundamental
 facts about human personality provided by this science.
+
 In the measurement of these temperamental qualities psychology has not progressed very far. Experimental investigations
 which have been conducted in the measurement of such traits have
 not yet yielded data which can be of great service in actual guidance. The judgment of temperamental qualities must still moie
@@ -732,6 +764,7 @@ history of the individual, a consideration of his habits, his responses
 during the interview, the opinions of his teachers, parents, etc.,
 than upon an analysis of standardized performances which give
 exact measures of these qualities.
+
 The discussion of temperament brings with it the matter of attitude toward work. Attitude toward a vocation is expressed in
 terms of willingness, interest, etc. Differences in attitude toward
 work may be very closely related to differences in temperament.
@@ -751,7 +784,6 @@ Along with the capacity for music goes the musical interest; along
 with the capacity for handling numerical relations goes an interest
 18 Robert S. Woodworth, Ph.D., Dynamic Psychology, Columbia University
 Press, 1922, p. 74.
-178 THE PSYCHOLOGICAL CLINIC
 in numbers; along with the capacity for mechanical devices goes
 the interest in mechanics; along with the capacity for language
 goes the interest in learning to speak; and so on through the list of
@@ -764,7 +796,10 @@ and the author leans toward this view, the importance of measuring
 mental ability is enhanced, because with the measure of such ability
 interest is in the practice of the vocation which is chosen, to a
 certain extent, also determined.
+
 Health
+-------
+
 The health of an individual plays an important part in vocational success, and this must therefore be given due consideration
 in vocational guidance. By health is meant not only the physical
 state of the body as a whole but the degree of development and the
@@ -774,17 +809,19 @@ them to sudden changes in temperature. Girls suffering from
 irremediable eye-conditions cannot be advised to enter millineryA boy with a heart condition cannot be advised to select the vocation of tool-maker although from the point of view of other factors
 considered in guidance, toolmaking may appear to be a desirable
 vocation for the boy.
+
 As in the case of competency and temperament the specific
 health requirements of the vocation can only be determined by a
 study of the vocation, by an analysis of the vocation in terms of the
 qualifications, physical as well as mental, necessary for the attainment of proficiency in each of the occupations. Such an analyst
 will also serve to reveal the strains and health hazards of a vocation, with which each vocational counselor must be well acquainted.
+
 Education and Experience
+
 Vocations differ with respect to amount of education and the
 amount and type of experience necessary for success. Educators
 and laymen alike have possibly more varying notions with reference
 to the amounts and kind of education necessary for success in various vocations than with reference to any other phase of the vocation. This is perhaps well illustrated by the varying educationa
-VOCATIONAL GUIDANCE AND JOB ANALYSIS 179
 requirements which candidates for the degree ot Doctor oi
 must fulfill even in the same city. In the ease of other profes>ons,
 as well as in the case of many industrial an vocational
@@ -809,7 +846,9 @@ ease of other occupations to which children o e ^ to'analyse,
 are eligible. It is one of the functions of job
 among other things, the weight to be attache o
 guidance toward the various vocations.
+
 Economic and Social Conditions
+
 The seventh essential for adequate guidance is a
 of the social and economic conditions influencing e 1 , a
 who is being guided. A boy of fourteen who wan s o
@@ -823,13 +862,13 @@ which she is most interested because she is depen ent upo ^
 for support, and the wages of the second are big lei a
 the first. The proper weighting of social and economic ac a
 many cases a matter extraneous to the vocation, mvo ving
-180 THE PSYCHOLOGICAL CLINIC
 complete knowledge of the social background of the individual.
 In some cases, however, the earnings enter as a factor; the length
 of the training period may enter, and these involve a knowledge
 about earnings of different vocations, about the methods of training
 for them, which again is based upon the type of vocational study
 discussed in this article.
+
 The above discussion serves, I believe, to show the relationship
 between job analysis and vocational guidance, to show the need
 of careful analysis of vocations as a preliminary to scientific
@@ -839,7 +878,9 @@ etc., of the individual are such as qualify him for a given vocation; he must be
 opportunities for advancement offered by the vocation; its advantages and disadvantages as compared with other vocations; the provisions made for training; the rate of progress in the vocation, etc.
 In addition to telling the applicant for guidance about this, the
 counselor must actually weight these factors in guiding the boy.
+
 THE REPORT
+
 There still remains the question of the form into which the
 data obtained in the analysis of the vocation should be thrown. It
 appears to the author that a complete job analysis for use in vocational guidance must contain the following data about the vocation.
@@ -854,9 +895,10 @@ must follow in order to arrive at the best of them. It appears to the
 author that a complete description of each occupation can most
 readily be given in the form of a job specification. Such a job
 specification must include:
+
 (1). A description of the occupation with special reference to its duties and conditions under which these duties are
 performed.
-VOCATIONAL GUIDANCE AND JOB ANALYSIS 181
+
 (2). The analysis of the physical qualification of the occupation.
 (3). An analysis of the mental qualifications which the
 individual must possess in order to make a proficient worker.
@@ -891,7 +933,6 @@ the statement of the specific mental abilities necessary for success
 psychographs have been devised for the jobs covered in the accompanying reports.
 II. In addition to the description of each of the specific occupations in a vocation the job analysis must contain a description
 ?f the status and economic importance of the vocation in the region
-182 THE PSYCHOLOGICAL CLINIC
 in which the vocational counselor is situated. It is only from such
 a description that the vocational counselor is able to determine the
 relative value of the given vocation from a point of view of material
@@ -900,6 +941,7 @@ is well to introduce the statement of the status and economic importance of a vo
 III. A description of the present status and economic importance of a vocation leads directly to a discussion of the advantages
 and disadvantages of a given vocation as compared with others
 which it is possible for the boy to enter.
+
 IV. It is also necessary to provide a statement of the training
 which is given for each job but it is important to discover the
 opportunities for training for the vocation which are found in the
@@ -907,6 +949,7 @@ immediate vicinity. For example; in one of the reports which follows this articl
 vocational training in printing offered by the Typothetai in Philadelphia and by the Printing Trade Unions. The knowledge of such
 opportunities for vocational training is essential in adequate
 guidance.
+
 The accompanying reports represent vocational studies prepared for use in vocational guidance. The reports represent intensive rather than extensive studies of the vocations. They are
 intensive in a sense that they represent a careful study and analysis
 of the specific mental and physical requirements for each of the

@@ -5,9 +5,11 @@ The Psychological Clinic
 Copyiiiiht. 1918. by Lightner Witmer, Editor.
 Vol. XII. No. 3 May 15, 1918
 
-By Gladys G. Ide, A.M.,
+:Author: Gladys G. Ide, A.M.,
 University of Pennsylvania.
+
 I. Introduction.
+
 The Witmer formboard and cylinders have been used for several
 years in the Psychological Clinic of the University of Pennsylvania
 as a means for measuring the abilities of children. Since no one knew
@@ -19,6 +21,7 @@ children of school age in the public schools of Philadelphia, and a
 similar investigation for the cylinders has recently been made by
 Dr Franklin C. Paschal. Not enough records have yet been collected for the standardization of either test, but a start in that
 direction has been made.
+
 Many children of less than six years are brought to the Clinic
 for examination. The use of either of these tests as testing or
 teaching material is of doubtful value if no one knows what is to be
@@ -44,12 +47,14 @@ in the third. Of 28 four-year-old children tested, 9 of the ten boys
 required two trials for a successful performance, while the tenth
 boy required three trials. Four girls succeeded in the first trial,
 11 in the second, and 3 in the third trial.
+
 These figures would seem to indicate that four and five-year-old
 children are not able to do the formboard on the first trial, but in
 reality the number of failures to perform it at the first attempt is
 due to the limit of time which Young allowed. Since the Clinic
 made no restriction in time, none was placed on either of the tests
 used in this investigation.
+
 The children chosen as subjects were from kindergartens connected with the public schools of Philadelphia, or those operated in
 conjunction with social centers. The American children came from
 families very few of whom were professional people, but who were
@@ -63,6 +68,7 @@ French, Spanish, Germans, and Turks make up the completed list.
 In determining a child's nationality, he was considered as being of
 that nation to which his parents formerly belonged. If his parents
 were born in the United States, he was considered an American.
+
 The nationality and age of the child were taken from the
 reports which the schools require of the parents. They were supplemented by the teacher's knowledge. In some cases the aid of
 social workers and the parish priest was sought in the attempt to
@@ -75,7 +81,7 @@ to an age of four years. As a result, many are entered shortly
 after they have passed their third birthday. Again, many foreigners pay no attention to the date of a child's birth, or remember it in
 relation to some holiday, so that the birthday is unknown and is
 given as is convenient.
-WITMER FORMBOARD AND CYLINDERS. 67
+
 In the present study it was noted that the birthdays of a large
 number of children were given as occurring in August, September,
 or January, months in which the child would be entering school.
@@ -85,6 +91,7 @@ date of birth. In one social center there was no record of any sort,
 the dates given being those of the teacher in charge who had been
 in the district when the children were born, and who gave the ages
 as nearly as she could remember.
+
 The tests used were the Witmer formboard and cylinders.
 The formboard, including the raised edge on each side, is one foot
 square. The surrounding edge, three-quarters of an inch wide,
@@ -114,7 +121,6 @@ placed on a chair or a low table with the tray farthest from him.
 The board was placed so that the light fell in such a way that no
 shadows obscured it. In some schools a private room was available,
 and in that case no one was present in the room but the subject and
-68 THE PSYCHOLOGICAL CLINIC.
 experimenter. In other schools no private room was available and
 in those cases the subject was taken as far from the others as possible and screened from their view. The conditions were thus not
 ideal, but the children were less disturbed emotionally when the
@@ -126,6 +132,7 @@ securing all gradations of temperature and health. All the children
 of a given kindergarten were tested and the records retained except
 only those from colored children and from subjects with obviously
 defective sight.
+
 The blocks were left in their proper recesses until the subject
 had placed himself before the board, when they were removed from
 the tray in a random order by the experimenter. At the same
@@ -136,6 +143,7 @@ as fast as you can." If the subject did not seem to understand?
 and many did not since they did not speak English?the experimenter added further, "You put them away," accompanying the
 words by a gesture from the tray toward the reccesses. No child
 failed to understand after the gesture.
+
 The time?to the nearest second?required for the completion
 of the test was taken, as was also an observation as to method, and
 in the case of failure, the reason for failure. The watch was kept
@@ -143,6 +151,7 @@ in the hand as much out of sight of the child as possible. The experimenter sat 
 board was clearly visible. This position was necessary since many
 kindergarten children depend largely on the affirmative or negative
 cues given by the teacher as a guide to their next act.
+
 If the subject succeeded with the test the first time, he was not
 required to repeat it, but if he failed the first time, that is, failed to
 place all the blocks correctly in the spaces, not over them or leaning
@@ -155,7 +164,6 @@ recess four and seven, included blocks numbered eleven, two, and
 nine, and the third pile, consisting of blocks numbered one, six,
 four, and three, was placed above recess nine. The numbering of
 the blocks was always from the topmost block downward. After
-WITHER FORMBOARD AND CYLINDERS. 69
 the blocks had been so placed, the experimenter said, "I want to see
 if you cannot put them in quicker this time." If the child failed to
 place the blocks correctly on this trial, he was permitted to remove
@@ -164,6 +172,7 @@ you may take out the blocks yourself and put them in the tray, and
 then see if you can't put them in quicker." The subject removed
 the blocks as he saw fit, except that he was required to place them
 in the tray.
+
 If the third trial proved a failure, the blocks not placed correctly were removed from the board, and the circle, the one most
 easily placed?was handed to the child, and he was told to put it
 away. If he did not succeed in placing it, he was told "Put it
@@ -175,6 +184,7 @@ been correctly placed. If some of the blocks had been correctly
 placed in the first trials, this amount of teaching was sufficient to
 insure success in a succeeding trial, where the procedure was the
 same as in trial three.
+
 If in the preceding trials, none of the blocks had been correctly
 placed, then all the blocks except the circle were correctly placed
 and this was offered to the child to place. No child failed to place
@@ -185,6 +195,7 @@ spaces were left vacant, the blocks offered in different order, and the
 number of blocks was increased until five or six would be removed
 at once and all correctly replaced. Beyond this point it was unnecessary to go, as the children were then able to place all the blocks
 by themselves.
+
 The second test, the cylinders, consists of a single solid frame
 of wood, formed of seven layers of pine, each three-eighths inch thick,
 and glued together in such fashion that alternate layers of the wood
@@ -196,7 +207,6 @@ formed. The outer wall varies from two and one-eighth inches at
 the widest point to one and one-sixteenth inches at the narrowest
 point to accommodate the different diameters of cylinders reposing
 in recesses cut in this outer wall. Eighteen recesses are cut in the
-70 THE PSYCHOLOGICAL CLINIC.
 wall, the deepest being two tind one-sixteenth inches, and when
 that recess is placed farthest from the observer a variation of threesixteenths of an inch is made in each of seven recesses to the right
 of the deepest one, the shallowest recess thus formed being fifteensixteenths of an inch deep. The recesses to the left of the shallowest
@@ -210,6 +220,7 @@ that of fifteen-sixteenths of an inch has been reached, after which all
 the remaining cylinders are of the same diameter, but of varying
 depth. The whole is finished in oil and varnish in the natural color
 of the wood.
+
 In giving the test, the conditions and subject were the same as
 in the formboard test. The cylinders were placed before the subject
 with the largest cylinder at the point farthest from the child. The
@@ -235,7 +246,6 @@ These two were handed to the subject and he placed them. The
 process was then repeated with three cylinders and then four and so
 on as the child became proficient. The drill was continued until all
 the cylinders of a given diameter but of varying depth had been
-WITMER FORM BOARD AND CYLINDERS. 71
 taught. Then those of varying diameter and the same depth were
 taught and then the remainder. Two cylinders could be used at
 the beginning because the children of four years had had enough
@@ -245,13 +255,16 @@ child was learning, the cylinder was removed by the experimenter
 and offered again later. If the child again made an error,
 the correct recess was pointed out and the child told to "Put it
 there."
-?1. Statistical Aspects of the Formboard?Five-year-old
+
+1. Statistical Aspects of the Formboard?Five-year-old
 Children.
+
 The formboard was used as a test with 449 five-year-old children. Of this number 231 were boys and 218 were girls. Table 1
 shows the number of cases of failure and the percentage of failure
 for the year groups. The year groups include all children within
 two weeks of their fifth birthday and those within two weeks of
 their sixth birthday.
+
 Table 1.?Number Failing on both Formboard and Cylinders.
 Age
 Number
@@ -310,13 +323,14 @@ Girls.
 39.1
 48
 26.8
+
 Nineteen or 8.2 per cent of the five-year boys failed to complete
 the formboard correctly the first trial, and 22 or 10.1 per cent of the
 girls. The first trial is taken as the significant trial to eliminate the
 learning process which is so large a factor in the second and third
-72 THE PSYCHOLOGICAL CLINIC.
 trials. But 1.7 per cent of the boys and 1.4 per cent of the girls
 failed to complete the board successfully in three trials.
+
 Seventy-nine of the boys were Americans and 82 were foreignborn Jews; 2.5 per cent of the American boys and 13.4 per cent of
 Table 2.?Comparison of Results from Americans and Jevtb of
 Foreign Parentage.
@@ -396,11 +410,11 @@ American Girls.
 Jewish Girls.
 5 50 33
 21 42 14 28
+
 the Jewish boys failed the first trial as shown in table 2. Of the
 girls, 100 were Americans and 63 Jews; 6 per cent of the American
 girls and 14.3 per cent of the Jewish girls failed to pass the first
 trial. One and three-tenths per cent of the American boys and 3.6
-WITMER FORMBOARD AND CYLINDERS. 73
 per cent of the Jewish boys failed in three trials; while 2 per cent of
 the American girls and 1.6 per cent of the Jewish girls failed to pass
 the test in three trials. The percentage of failures in the first trials for
@@ -409,8 +423,10 @@ children, while the percentage of failures of those who had three
 trials is higher for the boys, but lower for the girls.
 Table 3 shows the time values for the successful performance
 on the first trial in relation to the number of cases of different ages,
+
 Table 3.?Time Values for Successful Performance on First Trial
 and Number of Cases of Different Ages.
+
 Age
 No. of
 Cases
@@ -533,6 +549,7 @@ lm 4s
 lm 55s
 3m 26s
 3m 7s
+
 the age groups being divided into first and second half-years. The
 first column of the table indicates the ages, the second the number of
 cases of each age, the third the time values, in minutes and seconds,
@@ -541,13 +558,13 @@ fifth column contains the minimum or shortest time record for the
 age, the sixth column the value of the record below which 20 per
 cent of the cases are distributed, the seventh column the value of that
 record below which 40 per cent of the cases are distributed, and the
-74 THE PSYCHOLOGICAL CLINIC.
 eighth column, the median or the value above and below which 50
 per cent of the cases are distributed. The ninth and tenth columns
 contain respectively values above which 40 per cent and 20 per cent
 of the cases are distributed, and the eleventh column contains the
 maximum or longest record made by an individual of the group.
 Four-year-old children.
+
 Three hundred and eleven four-year-old children, of whom 154
 were boys and 157 were girls, were tested with the formboard. Of
 these, 29 or 18.8 per cent of the boys and 44 or 27.9 per cent of the
@@ -559,12 +576,14 @@ Americans and 2.9 per cent of the Jews failed in three trials. Fiftynine of the 
 American girls and 30.2 per cent of the Jewish girls failed in the first
 trial, while 3.4 per cent of the American girls and 6.3 per cent of the
 Jewish girls failed in the third trial.
+
 The time values for the half year groups are shown in table 3
 the same as for the five-year-olds. Except for the 4.25 year boys,
 the mean shows a decrease with an increase of age, with a lessened
 mean deviation. This tendency continues for the median and
 maximum as well as the other values shown in the table. The differences shown in the half-year groups clearly warrant norms for half
 year rather than for full year groups.
+
 Sex differences are not clearly sustained. A larger percentage
 of both five and four-year-old girls fail on the first trial than of the
 boys, but the percentage of five-year-old girls failing in three trials
@@ -579,8 +598,8 @@ percental differences can be explained on the basis of either sex or
 nationality. The differences in time as shown in table 3 are not
 sufficiently consistent to warrant conclusions as to definite sex
 differences.
+
 Thirteen boys and 15 girls of three years of age were given the
-WITMER FORMBOARD AND CYLINDERS. 75
 formboard test; 8 of the boys and 7 of the girls succeeded in performing the test on the first trial; 4 boys and 4 girls succeeded on
 the second trial, and 1 boy and 3 girls completed the test on the
 third trial. One girl failed to complete the test in the three trials.
@@ -589,6 +608,7 @@ exception of one girl. The time required for the boys who
 completed the test on the first trial varied from 1 minute 10 seconds to
 7 minutes 40 seconds and for the girls from 48 seconds to 4 minutes
 27 seconds.
+
 The shortest time required for a four-year-old American boy
 successfully to complete the formboard the first trial was 28 seconds.
 Two American girls and one Jewish girl each made a record of 37
@@ -613,6 +633,7 @@ excluded. Except in cases of obvious myopia, no exclusions were
 made on the ground of sensory unfitness. Deafness was not considered a reason for exclusion where the child understood a gesture
 well enough to start work on the test, as he was as well fitted to be a
 subject as the child who did not speak English.
+
 Ratings were made under the subdivisions of Vitality, Move76 THE PSYCHOLOGICAL CLINIC.
 ment, Responsiveness, Attention, Imagination, and Memory, where
 these appeared to be factors in a failure. The attitude of the children, while of great importance, was not brought out sufficiently
@@ -635,6 +656,7 @@ standard for four years was used. This was obviously too high
 and it is likely that the ratings for these ages would better be made
 normal. However, as they are they serve the purpose for which
 they were made.
+
 Each age-sex group were assumed to be a normal group, and
 under the five-point scale would be placed in group 3 in subdivision 3. Closer observation of each group reveals the fact that
 certain children have not performed as well as most of the other
@@ -649,7 +671,6 @@ the rest of the group, but not so quickly as those in group 1. Groups
 4 and 5 include the failures, the former those who succeeded in either
 the second or third trials, and the latter those who failed to successfully complete the board in the three trials.
 One hundred and sixty-three five-year-old girls were rated in
-WITMER FORM BOARD AND CYLINDERS. 77
 group 3, the time requirement being from 40 seconds to 3 minutes.
 Ten girls were placed in group I, and 12 in group 2 because of their
 quickness of performance. Groups 4 and 5 contain the failures, the former containing 27 and the latter 4, the division of the
@@ -659,6 +680,7 @@ girls were placed in group 3, 18 boys and 19 girls in group 2, and
 10 boys and 7 girls in group 1; 23 boys and 39 girls were placed in
 group 4 because of failure to complete the formboard the first trial,
 and 8 each of boys and girls failed to complete the board successTable 4.?Failures and Successes, Distributed bt Quintii.es.
+
 No. of
 Cases
 Group
@@ -709,11 +731,14 @@ Failed
 Failed
 CYLINDERS.
 Boys.
+
 5 189 12 lm-2m 37 2m-4m 103 Failed 32 Failed 5 Failed
 Girls.
+
 5 179 11 lm-2m 44 2m-4m 88 Failed 33 Failed 3 Failed
 fully in three trials and were placed in group 5. Table 4 shows this
 distribution for both age and sex.
+
 Of the failures of the five-year-old boys, two were rated 2-5 and
 2-3 respectively in understanding of the test, and the remainder of
 the failures were judged to be due to absence of distribution of
@@ -721,11 +746,11 @@ attention. Persistency of attention was rated at 3-1 in the case of
 one girl, and concentration of attention at 2-5 in the case of another.
 Distribution of attention was responsible for the remainder of the
 failures, as in the case of the boys.
+
 The same ratio holds true for the four-year-olds. Imageability
 was rated at 2-5 in the case of one boy, and persistence of
 attention at 2-3 for another. Understanding was rated in group 2
 four times as a factor in failures, and the remainder of the failures
-78 THE PSYCHOLOGICAL CLINIC.
 were judged to be due to lack of distribution of attention. Understanding was rated once in group 2 and three times in group 1 as
 a factor in the failure of four-year-old girls, while concentration of
 attention was rated 2-2 once, and persistency of attention 2-3, 2-4,
@@ -741,14 +766,17 @@ developed the necessary abilities for the correct performance of
 this test, or whether they are due to the specific absence of some
 ability in the individual. Although there is a wide range of individual difference in degree of maturity, it is assumed that the former is
 more nearly the case.
+
 A number of children of two, three, and four years of age were
 unsuccessful in their first attempts with the formboard. These children were then taught how to complete the test. Analytical ratings
 were made as with the other children. A record of the number of
 trials for successful performance was kept, as well as a complete
 history of each didactic effort.
+
 The Formboard as Didactic Material.
 Girl, Jewish, aged 2 yrs. 3 mos.; 2 trials; teaching. Correct
 in 3 m. 25s. .
+
 Frieda had not yet lost the chubbiness of babyhood. She
 spoke no English but talked a little in Yiddish. She refused to
 reach for the blocks on the first trial, and they were handed to her,
@@ -763,13 +791,13 @@ another trial. She reached for the blocks herself, using either
 hand but not both at the same time, and completed the board correctly in 3m. 25s. She then removed the blocks herself and replaced
 them correctly. The method used was better than trial and error.
 If a block did not fit in the recess in which she tried it, she placed it
-WITMER FORMBOARD AND CYLINDERS. 79
 back in the tray and selected another block for the same space.
 This method increased the time required for the performance but
 was successful in the long run. It enabled the child to complete
 the test with no change in the distribution of her attention.
 Girl, Jewish, aged 2 yrs. 9 mos.; 4 trials; teaching. Correct
 in lm. 45s.
+
 Dottie placed all the blocks over spaces in 4m. 38s. No. 9 was
 over the correct space with No. 8 on top of it. She tried the star over
 the correct space, but did not succeed in getting it in. Distribution
@@ -784,6 +812,7 @@ which it was tried, and the second block chosen was not always
 tried in the same space. The rating made in distribution of attention was not changed in the last trials.
 Girl, Jewish, aged 3 yrs.; 4 trials; no teaching. Correct in
 lm. 15s.
+
 Elizabeth placed the blocks over spaces, none correctly, in 65s.
 Distribution of attention was rated 1-3 and understanding 2-3.
 On the second trial, seven blocks were correctly placed in lm. 36s.
@@ -792,6 +821,7 @@ blocks were not correctly placed in the third trial which requred
 6 minutes, but blocks were both removed from spaces and replaced.
 The fourth trial resulted in a successful performance in lm. 15s.
 with no teaching.
+
 Girl, Jewish, aged 3 yrs.; 6 trials; teaching. Correct in 2m. 25s
 Rose placed the blocks over the spaces in 3 minutes. None
 were correct. She was rated 1-5 in interest and 2-1 in distribution
@@ -806,7 +836,6 @@ blocks not placed and a fourth trial given. Again 6 blocks were
 placed in 6m. 5s. The same blocks were not placed for each of
 these trials although the same number of blocks happened to be
 placed correctly. In the fifth trial, Rose for the first time removed a
-80 THE PSYCHOLOGICAL CLINIC.
 block incorrectly placed. She still showed the same lack of persistence and distribution of attention. With no further teaching a
 sixth trial was given. She completed the test successfully in 2m.
 25s. Blocks for particular recesses were chosen from the tray and
@@ -825,6 +854,7 @@ the rating in persistence of attention was not raised in the last three
 trials. There was no lack of understanding of the test.
 Boy, Jewish, aged 2 yrs. 4 mos.; 6 trials; teaching. Correct
 in 3m.
+
 Benjamin placed Nos. 3 and 6 in 3m. 20s. He was rated 3-1
 in coordination and 2-5 in observation and distribution of attention. A second trial resulted in 4 correctly placed blocks in 65s.
 and a third trial 3 correctly placed blocks in 2m. 10s. In both cases
@@ -840,6 +870,7 @@ the child held securely to the side of the chair with one hand, moved
 slowly and yawned frequently, but kept at work until it was finished.
 Boy, Italian, aged 2 yrs. 6 mos.; 3 trials; teaching. Complete
 in 2 m. 20s.
+
 Richard placed one block correctly in one minute in his initial
 effort with the formboard. It was necessary to hand the blocks to
 him to get him started to work. He placed the blocks in an orderly
@@ -847,11 +878,11 @@ line but did not associate them with the spaces in the board. He
 was taught with all the blocks. The second trial he placed 3 blocks
 correctly in lm. 4s., removing one incorrect one and placing the correct one over the space. With the blocks which he had not placed
 he was taught, and on a third trial completed the board correctly
-WITMER FORMBOARD AND CYLINDERS. 81
 in 2m. 20s. The rating for distribution of attention in all the trials
 was 2-2. The rating for understanding in the first two trials was 2-3.
 Boy, Jewish, aged 2 yrs. 10 mos.; 6 trials; teaching. Correct
 in 2m.
+
 Lewis placed one block correctly in 3 minutes. His rating for
 understanding was 2-1 and for distribution of attention was 2-3.
 After being taught with all the blocks, one block was correctly
@@ -867,14 +898,17 @@ hard at the blocks and grunting happily when he had got them
 into place. The suggestion was made in the case of No. 9 which he
 could not place even after he had chosen the correct space. The
 final trial was successful in 2m.
+
 Boy, Jewish, aged 3 yrs. 2 mos.; 4 trials; teaching. Correct
 in 3m. 31s.
+
 Harry failed to place any of the blocks in lm. 20s. Distribution of attention and understanding were graded 2-1. After teaching with all the blocks, he still failed to place any correctly in 3m. 30s.
 He made great efforts to push the blocks into the wrong spaces.
 After further teaching with all the blocks, he placed 8 correctly in
 2m. 20s. Those wrongly placed were again used as teaching material, following which he successfully placed all the blocks in 3m. 31s.
 Boy, Jewish, aged 4 yrs. 8 mos.; 5 trials; teaching. Correct
 in 54s.
+
 Aleck placed four blocks correctly in his first trial with the formboard. He was rated 2-3 in observation and 4-3 in rate of movement. The ratings were not changed in the second trial when he
 placed 7 blocks correctly in 2m. 6s. Six blocks were correctly placed
 in lm. 48s. on the third trial, in which observation was rated 2-5.
@@ -884,8 +918,9 @@ placed 9 blocks correctly in lm. 42s. He was then taught with the
 blocks which had not been correctly placed, and completed the
 board in 54s. Exactly one week later he performed the test in 76s.
 with no errors. A final rating of 2-3 in observation in direct comparison with four-year-old boys was made in his case.
-82 THE PSYCHOLOGICAL CLINIC.
+
 Conclusions.
+
 Ninety per cent of five-year-old children should be expected
 successfully to complete the formboard on the first trial, according
 to the results obtained in this investigation. Two per cent may be
@@ -897,17 +932,20 @@ three-year-old children in the last half of the year may be expected
 to be successful in the first trial, while many of the remainder will
 succeed after several trials, or may be taught in a short time. This
 is also true of younger children.
+
 Five-year-old children possess adequate distribution of attention to be successful with the test. Understanding of the test, persistence of attention and other abilities may occasionally be lacking, but are not conspicuously absent in children of this age. Fouryear-old children show less distribution of attention than the fiveyear-olds, and this ability decreases with age. Among the twoyear-olds tried with the test, none showed adequate distribution of
 attention for success with a method other than trial and error or
 fitting a given space with blocks chosen at random. Fitting the
 block to a space was a method which appeared with greater distribution of attention, and was used by the five-year-olds and most of the
 four-year-olds.
+
 The rate of movement was slow with the smaller children and
 increased with age, as the shortened time for successful performances
 indicates. Only one child tried to hurry when told to do so. Two
 four-year-olds and 20 five-year-olds used both hands in placing the
 blocks. Either hand, but not both, was used by the younger
 children.
+
 Several of the small children sang lustily while working. All
 pushed hard at the blocks to get them in the spaces, and all gave the
 blocks a pat with the palm of the hand after they were in. Often
@@ -920,7 +958,7 @@ the board of his own accord, he was left for another time. Only
 one failure was recorded because of refusal to come to the board,
 and this was not counted with the others, as the child had just been
 removed from her own home to a temporary home.
-WITMER FORMBOARD AND CYLINDERS. 83
+
 From these results we may conclude:?
 1. The age level for the formboard is four years;
 2. It has clinical value analytically for children of four and
@@ -931,7 +969,9 @@ distribution of attention which seems to be a function of age; and
 5. Failing as clinical material, the formboard may profitably be
 used didactically for purposes of analysis and for observation of the
 learning process.
+
 ?2. The Witmer Cylinders.
+
 Of the 368 five-year-old children who were given the cylinder
 test, 189 were boys and 179 were girls; 140 or 73.9 per cent of the
 boys and 124 or 63.9 per cent of the girls failed to perform the test
@@ -944,6 +984,7 @@ was the case with the formboard, the percentage of failures among
 the Jewish boys is considerably in excess of that of the American
 boys, while the differences in the case of the girls is very much less
 marked.
+
 Of the boys of 5.75 years 33 were successful on the first trial
 with an average time of 3m. 21.5s. The mean deviation was 2m.
 27.2s. Sixteen boys of 5.25 years were successful on the first trial,
@@ -963,7 +1004,6 @@ results showed a decreasing number of errors and indicated that
 they were learning. Five boys and 3 girls were placed in group 5
 not only because they failed in three trials to complete the test, but
 also because an increased number of errors in each trial showed
-84 THE PSYCHOLOGICAL CLINIC.
 that they were not learning. Groups 1 and 2 include those successful on the first trial, (table 4).
 Table 3 shows the time distribution as far as possible and the
 distribution by quintiles in even groups. Only the figures for the
@@ -973,6 +1013,7 @@ for the successes of the entire group regardless of the number of
 trials are meaningless, as many of those who failed on the first or
 second trial learned enough during those trials to perform successfully in less time than was required by those who were successful
 on the first trial.
+
 The same children who did the cylinders also did the formboard. By the Spearman rank method, using time as the basis of
 ranking, except for the unsuccessful third trials where the number of
 final errors was used, the correlation between the two series was
@@ -980,6 +1021,7 @@ final errors was used, the correlation between the two series was
 between two tests of apparently such similar character agrees with
 the results obtained by Mrs. Mary Hoover Young with the same
 tests.
+
 Eleven four-year-old boys and 9 four-year-old girls were given
 the cylinder test. They were chosen as being the best of the group
 from the standpoint of their performance on the formboard?an
@@ -995,6 +1037,7 @@ years of age. A Polish girl of four years, six months performed the
 test in lm. 10s. the first trial. A Jewish boy of four years eight
 months completed the test in lm. 58s. No children younger than
 four years were tried with the cylinders.
+
 The Cylinders as Didactic Material.
 Boy, Italian, aged 4 yrs.; 8 trials; teaching. Complete in
 lm. 42s.
@@ -1003,7 +1046,6 @@ Pasquale completed the formboard correctly and then placed
 rated 2-3. He was persistent, but in a nervous excited sort of way.
 He placed 3 cylinders correctly in 3m. 50s. on the second trial and
 4 correctly in 4m. 8s. on the trial. He showed the same lack of
-WITMER FORMBOARD AND CYLINDERS. 85
 distribution of attention and analytic concentration that he had on
 the first trial. He was then taught with all the cylinders. The
 fourth trial resulted in 3 correctly placed cylinders in eight minutes.
@@ -1020,8 +1062,10 @@ placed blocks was continued and an eighth trial then given. After
 lm. 42s. two cylinders were left interchanged. This was corrected
 on one suggestion. Two subsequent trials undertaken on his own
 initiative were successful.
+
 Boy, Jewish, aged 4 yrs.; 8 trials; teaching. Complete in
 2m. lis.
+
 Sam placed one cylinder correctly on his first attempt. He was
 rated 3-1 both in distribution and concentration of attention. He
 talked constantly to himself and suggested that some of the tops
@@ -1043,8 +1087,8 @@ were corrected with one suggestion. The eighth trial was successful
 in 2m. lis., using the method of fitting the cylinder to the recess.
 Boy, Jewish, aged 4 yrs.; 4 trials; no teaching. Complete in
 5m. 46s.
+
 Max placed 5 cylinders correctly in 5m. 47s., leaving 2 cylinders
-86 THE PSYCHOLOGICAL CLINIC.
 unplaced. On a second trial he placed 13 cylinders correctly in
 4m. 31s. He was dismissed without teaching, and two days later
 at the same hour was recalled to complete the test successfully in
@@ -1052,6 +1096,7 @@ at the same hour was recalled to complete the test successfully in
 day was due to lack of understanding, in which he was rated 2-5.
 Boy, Jewish, aged 4 yrs. 5 mos.; 4 trials; teaching. Complete
 in lm. 31s.
+
 Bernard placed 9 cylinders correctly in 5 minutes. One was
 left unplaced. He fitted the cylinders to the spaces. Distributive
 attention was rated 2-5. Those cylinders placed in too shallow a
@@ -1064,6 +1109,7 @@ the same diameter but of different length. Correctly placed cylinders were remov
 showing an absence of understanding of the test. Teaching followed
 this trial and then Max had a glass of milk and a cake. The trial
 following the refreshment was successful in lm. 35s.
+
 Boy, Jewish, aged 4 yrs.; 4 trials; teaching. Correct in 2m. 20s.
 Teddy placed no blocks correctly on the first trial of the cylinders, which required 6m. 20s. He constantly remarked that he
 could not do it, and applied opprobrious street terms to cylinders
@@ -1078,13 +1124,13 @@ He remarked that he knew he could do it on the fourth trial, and
 was successful in 2m. 20s. No formal teaching was given in this
 case, but without the stimuli supplied during the first two trials the
 test would never have been completed successfully.
+
 Boy, American, aged 4 yrs. 11 mos.; 5 trials; teaching. Correct in 2m. 25s.
 Seven errors were left on the first attempt Hamilton made to
 complete the cylinder test. The time was 4m. 48s. He removed
 blocks correctly placed, but replaced all but one of them. His
 understanding of the test was rated 3-1 and his distribution of attention 2-5. Six cylinders were correctly placed on the second trial,
 completed in 4m. 55s. One cylinder was not placed. Analytic
-WITMER FORMBOARD AND CYLINDERS. 87
 concentration of attention was rated 2-4 for this performance.
 Only 6 cylinders were correct after 4m. 16s. on the third trial.
 Teaching followed, and for a third time 6 cylinders were correctly
@@ -1092,6 +1138,7 @@ placed in 2m. 25s. On two suggestions these were corrected and the
 test completed in 4m. 15s. The fifth trial was successful in 3m. 12s.
 Boy, Irish-American, aged 5 yrs. 5 mos.; 3 trials; teaching.
 Complete in 2m. Is.
+
 William was reported very dull by his teacher. He placed
 12 cylinders correctly in 2m. 13s. on his first attempt. His errors
 were interchanges of cylinders varying in diameter. His rating
@@ -1122,7 +1169,7 @@ out," indicating that she was beginning to understand what was
 wanted. On the fifth trial there were no errors, the cylinders being
 placed after 4m. 20s., the problem being attacked with an assurance
 wholly lacking in the first four trials.
-88 THE PSYCHOLOGICAL CLINIC.
+
 Girl, American, aged 5 yrs. 6 mos.; 5 trials; teaching. Complete in 3m. 8s.
 Helen, after 4m. 55s., completed a performance in which she
 had placed 12 cylinders correctly. She placed the blocks at random
@@ -1134,6 +1181,7 @@ the rating for understanding remained the same. Teaching followed
 the third trial. Twelve cylinders were correctly placed in the fourth
 trial after 4m. 2s. These errors were corrected on one suggestion.
 The fifth trial was successful in 3m. 8s.
+
 The repeated low ratings for understanding given in the cases
 which were taught, indicate that the cylinder test is distinctly above
 the understanding of children of four years, and the fact that so
@@ -1145,13 +1193,17 @@ and is more properly placed above five years;
 but requires in the majority of cases too much time for its successful
 use to make it of general value as clinical material for children of
 four and five years;
+
 3. The passing age level of 50 per cent of the group for one trial
 is certainly higher than five years;
 4. The most common cause of failure is an inadequate understanding of the test as a result of its too great complexity; and
 5. Failing as clinical material for children of five years, it still
 possesses value as didactic material where time does not limit the
 observation.
+
 BIBLIOGRAPHY.
+--------------
+
 Paschal, Franklin C. The Witmer Cylinder Test. Hershey, Pa.: The
 Hershey Press, 1918, pp. 54.
 Paschal, Franklin C. A Report on the Standardization of the Witmer

@@ -5,8 +5,8 @@ The Psychological Clinic
 Copyright, 1927, by Lightner Witmer, Editor
 Vol. XVI, No. 7
 October, 1927
+:Author: Florence L. Goodenough
 
-By Florence L. Goodenough
 Institute of Child Welfare, University of Minnesota
 The Wallin series of performance tests designed for use with
 very young children consists of four boards, each measuring 3 by
@@ -18,6 +18,7 @@ Board D there are two round, two square, and two triangular pegs,
 also arranged alternately. The round pegs are % of an inch in diameter; the square and the triangular pegs are % of an inch on a
 side. All pegs are 2y2 inches in length. The recesses correspond
 to the pegs in form, and are % of an inch deep.
+
 At least three previous investigators have published material
 dealing with the use of these pegs. The original report by Wallin1
 is based upon results obtained from 101 subjects ranging in age from
@@ -30,17 +31,19 @@ than the younger children. Tentative age norms are included in
 the report, but because of the small number of cases at each age,
 these can be regarded as suggestive only. No data as to the reliability of the test or its correlation with other measures of ability
 are given.
+
 Baldwin and Stecher2 gave the test to 59 children ranging in
 age from 2 to 6 years. Of these 22 were tested four times at two
 week intervals. Some improvement on the later occasions as com1 Wallin, J. E. W.: The Peg Form Boards. Psychol. Clinic, 1918, 12,
 40-53.
+
 2 Baldwin, Bird and Stecher, Lorle: The Psychology of the Pre-School
 Child. D. Appleton and Co., 1925. See pages 77-80.
-200 THE PSYCHOLOGICAL CLINIC
 pared to the first is reported, but the correlations between the successive tests are not stated. No correlations with other tests are
 reported, but age norms in terms of average time required for a
 successful performance are given for each of the four boards separately. Since the method employed for administering the test differs from that used by Wallin, the results obtained in the two
 studies cannot be compared directly.
+
 Boards A and B are included in the Stutsman series of performance tests for children of pre-school age.3 Percentile norms
 upon the performance of approximately 50 children in each of three
 age groups?18 to 23.5 months, 24 to 29.5 months, and 30 to 35.5
@@ -61,13 +64,15 @@ a change of examiners upon the test score, the following plan was
 carried out: In each age group, 25 of the cases were examined by the
 8 Stutsman, Rachel: Performance Tests for Children of Pre-School Age.
 Genetic Psycliol. Mono., 1926, Vol. 1, No. 1.
+
 4 For a more detailed account of the method of selecting the cases, the
 reader is referred to The Kulilman-Binet Tests for Children of Pre-School Age,
 A Critical Study and Evaluation, by Florence L. Goodenough, University of
 Minnesota, Institute of Child Welfare, Monograph Series No. 2.
+
 6 Ibid.
+
 6 The standard deviation of the interval between tests was 1.5 weeks.
-TALLIN PEG BOARDS 201
 writer on both occasions, 25 by Miss Buffington on both occasions,
 25 were examined first by the writer, then by Miss Buffington, and
 the remaining 25 first by Miss Buffington, then by the writer.
@@ -76,6 +81,7 @@ from interruption could be insured. The tests were given with the
 child seated at a low table which was placed at the left of a single
 pedestal desk at which the examiner sat. The following procedure
 was used:
+
 After any initial shyness had been overcome, and when the
 child seemed to be entirely at ease, the examiner asked, "Now
 wouldn't you like to see some of my blocks?" (The word blocks
@@ -103,9 +109,9 @@ attempt, i.e., from the time when the first peg touches the board, is
 likely to be a more stable measure than one taken from the pronouncing of a signal word or from the time when the first peg is
 touched, since the signal word is frequently ignored, or the peg
 merely taken up and played with.
+
 The children were not urged to greater speed during the placing of the pegs, since this is likely to lead to mental confusion and
 consequent increase in the number of errors, especially with the
-202 THE PSYCHOLOGICAL CLINIC
 boards containing more than one form of the pegs. The only exception to this rule was made in the case of children who stopped to talk
 or who interrupted their performance for other reasons. In such
 cases the examiner recalled his attention by a gesture toward the
@@ -122,11 +128,13 @@ board but taking care not to point out the error?"and see if you
 can find what is the matter.'' If the child then perceived his error
 he was permitted to correct it; if not, the board was counted as
 failed. Only a single suggestion of this sort was given.
+
 The boards were always presented in the same order, and one
 trial was allowed on each. In this study, a time limit of two minutes was allowed for each board, but when the data were worked
 up, it was found that nothing was added to the accuracy of the test
 by counting time over 100 seconds each for Boards A and B, and
 60 seconds each for C and D.
+
 Errors were also recorded, but, as penalizing for errors was
 found to lower the reliability of the score, no account has been
 taken of them in the scoring method finally adopted. Both examiners felt the error score to be an unreliable measure in itself, because
@@ -142,7 +150,7 @@ error, and since the time score is affected not simply by the number
 of errors but also by their duration, it is perhaps not surprising
 to find that the time score alone is a more reliable and presumably
 a more valid measure of a child's performance than a combined
-WALLIN PEG BOARDS 203
+
 Table I
 Medians and 10~00 percentile ranges of time required for success on each of the four boards by half year age groups.
 Age (months)1
@@ -356,6 +364,7 @@ Test 1 Test 2
 27.7
 16.5
 69.5
+
 1 At the time of the first test.
 2 DNC?Did not complete.
 204 THE PSYCHOLOGICAL CLINIC
@@ -370,6 +379,7 @@ found, moreover, that the correlation between the time required for
 the entire series on the first trial, and time on the best trial was
 above .9 for this group of 30 cases. With only a single trial on
 each board, practically all the children enjoyed the test greatly.
+
 Table II
 Reliability of the separate boards by age.
 Age 2
@@ -401,9 +411,11 @@ D
 .055
 .376
 .058
+
 Table I shows the median and the 10-90 percentile range of
 time required to complete each of the four boards by half year age
 groups.7
+
 Table I shows a steady decrease with age in time required for
 a successful performance on each of the boards. It also corroborates
 Wallin's findings as to the comparative difficulty of the four boards.
@@ -411,9 +423,9 @@ A slight effect of practice is seen when the median scores on
 the second test are compared with those earned six weeks previously, making allowance for the difference in age. This effect is, how7 Because of undistributed failures at the lower extreme, these measures
 have been used in preference to the mean and standard deviation. See Statistical
 Method by T. L. Kelley, Macmillan and Co., 1923, pages 75-77.
-WALLIN PEG BOARDS 205
 ever, less marked than was found for the Binet tests given at the
 same sitting.8
+
 Table II shows the reliability of each of the four boards, calculated by means of the correlation between the time scores on each of
 the two tests. The Pearson product moment formula was used.
 The data have been treated by age groupings of one year.
@@ -421,7 +433,9 @@ Boards A and B are seen to be more reliable, on the average,
 than Boards C and D. This is in part a result of the fact that the
 test appears to be better suited to the study of two-year-olds than
 of older children, and, ? as was shown in Table I, only a small percentage of the two-year-olds succeed with Boards C and D.
+
 Table III
+
 Correlations between Kuhlman-Binet mental age and score on each of
 the four peg boards *
 Age 2
@@ -450,6 +464,7 @@ B
 ?.058
 D
 + .417 ?.056 +.482 ?.051
+
 * Based upon the results of the first test.
 Table III shows the correlation between Kuhlman-Binet mental
 age and time required for success on each of the four boards. The
@@ -463,7 +478,7 @@ clinical allowance must always be made. The method employed is
 based upon an inspection of the data in Tables I-III and weighting
 in round numbers according to average reliability, correlation with
 ? Previous reference.
-206 THE PSYCHOLOGICAL CLINIC
+
 Binet, and low variability. Four different approximations, one of
 which involved a combined time-and-error score were tried. The
 method which was found to show the highest average reliability and
@@ -478,10 +493,11 @@ by age and sex on each of the two examinations. Allowance is made
 for the gain in age. The data of Figure 1 are given in Table IV.
 Figure 2 shows the median scores according to Kuhlman Binet mental age. Figure 3 shows the medians for each of the four boards
 separately.
+
 letoitf ? Z4to?95 JOtom 3bto415 42to 47.5 4dta%5 54t0m
 Cfironological aye in months
 Fig. 1.
-WALLIN PEG BOARDS 207
+
 A tendency toward negative acceleration is very apparent in
 the curves on each of the separate boards. This tendency is somewhat masked in the combined score, owing to the fact that, since
 the boards constitute a graded series, the periods of most rapid gain
@@ -496,27 +512,20 @@ it is less reliable, but even here the figures are sufficiently high to
 3b 4Z
 Mental Age in Months
 Fig. 2.
-208 THE PSYCHOLOGICAL CLINIC
+
 warrant its use as a supplementary measure, especially in the case
 of children with a language handicap. Since the total time required for the four boards is rarely over five minutes, the test can
 readily be given at the same sitting as a Binet without danger of
 overfatiguing the child.
+
 Table VI shows the correlation between the total score earned
 on the four boards and Kuhlman-Binet mental age for each of the
 Test!
 Test Z
 Board C
 Board D
-\
-\
-\
-\
-\
 V?
 I
-\
-\
-\
 Test 1
 Test 2
 _l
@@ -601,11 +610,12 @@ Median score...
 59.0 61.3 56.1 43.6
 38.3 42.9 44.0 33.7
 90.3 89.3 66.1 53.9
-210 THE PSYCHOLOGICAL CLINIC
+
 two examinations. It appears from these correlations that the mental functions measured by the two tests are not entirely identical,
 though they evidently have much in common. Even when correction is made for the unreliability of measurement (correction for
 attenuation) the relationship is still far from perfect; averaging
 slightly above .7 for the various groups. It is doubtful whether
+
 Table V
 Correlation between Scores earned on the First and Second Tests by Age and Sex.
 Age 2
@@ -647,10 +657,12 @@ PE
 .029
 .809
 .033
+
 tests of this sort, even though their reliability were to be greatly
 improved, should be looked upon as the equivalent of a Binet test.
 They supplement the Binet, but do not precisely duplicate it, either
 in form or significance.
+
 Table VI
 Correlation between Kuhlman-Binet Mental Age and Total Score
 on the four boards.
@@ -695,11 +707,14 @@ PE
 PE
 .072
 .065
+
 Additional evidence as to the significance of a test is afforded
 by a study of the amount of overlapping between successive chronological or mental age groups. Tables VII and VIII show these
 facts for our group of 300 cases. The data are based upon the first
 of the two examinations given.
+
 WALLIN PEG BOARDS 211
+
 Examination of Tables VII and VIII shows that the amount of
 overlapping between age groups is relatively small, and is somewhat less when the division is made upon the basis of mental age
 than when chronological age is used. Moreover, the amount of
@@ -781,6 +796,7 @@ Cases
 76.9
 50.0
 52
+
 nitely laid out plan which was described in an earlier paragraph.
 A statistical study of the findings shows no consistent difference in
 the results obtained which can be attributed to a change in examiners, either for the peg boards or the Kuhlman Binet which was
@@ -789,6 +805,7 @@ summarized briefly in the following statement: When both tests
 were made by the same examiner, the median change in total score
 ? See Mental Tests by Frank N. Freeman, Houghton Mifflin Co., 1926,
 page 280.
+
 Table VIII
 Percentage of each half year mental age group1 equalling or exceeding the median of each successive mental age group.
 Under 2-0
@@ -913,8 +930,8 @@ Mdn. = 64)
 25
 18
 100.0 100.0 100.0 100.0 100.0 83.3 50.0
+
 1 Tiy given on t\ve same day.
-WALLIN PEG BOARDS 213
 amounted to a gain of 8.4 points; when there was a change of examiners, the corresponding change was 9.4 points. The difference
 of one point is well within the limits of chance, and its unreliability is further demonstrated by the fact that the direction of difference is not the same at all ages, and is always small in amount.
 Nevertheless, since only two examiners were involved, the findings
@@ -924,6 +941,7 @@ Sex differences. Figure 1 shows the gain in total score from
 age to age for sexes separately on each of the two examinations.
 The curves for the second examination have been moved forward
 to allow for the difference in age.
+
 It is seen that sex differences are very small, but that the boys
 are, on the average, slightly more accelerated than the girls. Figure
 2 shows that this is also true when the groups are divided on the basis of mental age instead of chronological age. On the Binet tests
@@ -933,6 +951,7 @@ slight superiority of the girls. Both findings are in general agreement with tho
 children, where the girls, as a rule, show some superiority over the
 boys in tests of the Binet type, while boys are more likely to excel
 in form board tests.
+
 Socio-economic differences. It was stated in an earlier paragraph that the children were selected to constitute a representative
 sampling of the population of Minneapolis. The basis of selection
 was paternal occupation. On the Kuhlman tests given to the same
@@ -966,6 +985,7 @@ group. On the peg boards, the children of day laborers exceed the
 children of the professional classes, but the difference is less than
 one tenth of a standard deviation of the total distribution of scores
 at that age.
+
 These data tend to confirm the conclusion which was drawn
 from the table of correlations, that entirely apart from the question
 of comparative reliability, the two tests do not measure precisely
@@ -979,7 +999,7 @@ passing that the results of certain tests for mechanical ability recently standa
 lack of relationship to social status. It may be that the peg board
 performance is in some degree related to mechanical aptitude, the
 Binet to potential scholastic achievement. This hypothesis is plausible, but it has not been verified.
-WALLIN PEG BOARDS 215
+
 Summary
 1. The Wallin peg boards, Series A-D inclusive, were given to
 three groups of 100 children each, whose ages, taken to the nearest
@@ -990,6 +1010,7 @@ a whole in the 1920 census. Exactly 50 boys and 50 girls were included in each a
 reliability of the test was determined by correlating the scores
 earned on the two occasions. At age two the reliability was found
 to be .794; at age three, .688; at age four, .583.
+
 3. The average correlation with the Kuhlman-Binet given on
 the same day was .507 for single year age groups. There is little
 difference in the correlations obtained at the various ages.
@@ -998,6 +1019,7 @@ difference in the correlations obtained at the various ages.
 score, if the testing procedure and examining conditions are uniform.
 6. Sex differences in the test performance are small, but in
 general tend to favor the boys.
+
 7. Children from different socio-economic levels do about
 equally well on this test, although they show marked differences in
 their performance on the Kuhlman-Binet. Possible explanations

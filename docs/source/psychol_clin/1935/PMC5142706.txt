@@ -42,7 +42,6 @@ Mooseheart:
 The Mooseheart Laboratory for Child Eesearch.
 Winnetlca:
 Department of Educational Council (Public Schools).
-REPORT OF COMMITTEE OF CLINICAL SECTION 131
 Indiana (No License)
 Bloomington:
 Indiana University Psychological Clinic.
@@ -109,7 +108,9 @@ Brooklyn:
 Mental Hygiene Clinic, Brooklyn Hebrew Orphan Asylum.
 Buffalo:
 Psychological Clinic, Children's Aid Society of Buffalo.
+
 New York City:
+
 Catholic Charities Guidance Institute.
 Clinic Division, Bureau of Child Guidance, Board of Education.
 Clinical Service, Jewish Board of Guardians.
@@ -182,6 +183,7 @@ Huntington:
 Psychological Clinic, Marshall College.
 134 THE PSYCHOLOGICAL CLINIC
 INDEX OF CLINICS
+
 Based on Type of Supporting Organization
 A. Clinics Supported ~by Universities and Colleges
 A 1 Claremont Colleges Guidance Center, Claremont, California.
@@ -193,6 +195,7 @@ A 4 Stanford University Psychological Clinic, Department of Psychology;
 Stanford University, Stanford University Post Office, California.
 A 5 Department of Research, University of Denver, Denver, Colorado.
 A 6 The Yale Clinic of Child Development, 14 Davenport Ave., New
+
 Haven, Connecticut.
 A 7 American University College of Liberal Arts Clinic in Psychology,
 American University Campus, Washington, D. C.
@@ -208,6 +211,7 @@ Center, Indianapolis, Indiana.
 A 14 Psychological and Speech Clinic, University of Iowa, Iowa City, Iowa.
 A 15 University of Kansas Educational Clinic, Lawrence, Kansas.
 A 16 Wichita Child Research Laboratory, Friends University, Wichita,
+
 Kansas.
 A 17 Psychological Clinic, University of Kentucky, Lexington, Kentucky.
 A 18 Clinic of the Psychological Department of Louisiana State University, Baton Rouge, Louisiana.
@@ -221,6 +225,7 @@ Rutgers University, New Brunswick, New Jersey.
 A 23 Mental Hygiene Institute, State Teachers College, Upper Montclair,
 New Jersey.
 A 24 Guidance Laboratory, Teachers College, Columbia University, New
+
 York City.
 A 25 Psycho-Educational Clinic, School of Education, New York University, New York City.
 A 26 Educational Clinic, College of the City of New York, Department of
@@ -229,6 +234,7 @@ REPORT OF COMMITTEE OF CLINICAL SECTION 135
 A 27 Psychological Clinic, Ohio State University, Columbus, Ohio.
 A 28 Department of Psychology, Lafayette College, Easton, Pennsylvania.
 A 29 The Psychological Clinic, University of Pennsylvania, Philadelphia,
+
 Pennsylvania.
 A 30 Temple University Psychological Clinic, Temple University, Broad
 and Montgomery Avenue, Philadelphia, Pennsylvania.
@@ -263,6 +269,7 @@ Boom 203, Board of Education Building, Cleveland, Ohio.
 B 14 Child Study Department, Erie School District, Erie, Pennsylvania.
 B 15 Philadelphia Public School Clinic, Parkway at 21st Street, Philadelphia, Pennsylvania.
 B 16 Providence Public School Clinic, 9 Exchange Terrace, Providence,
+
 Rhode Island.
 B 17 Child Study Department, Seattle Public Schools, 7th and Madison
 Streets, Seattle, Washington.
@@ -270,6 +277,7 @@ Streets, Seattle, Washington.
 C. Clinics Supported by Social Agencies
 C 1 Santa Rita Clinic, 2361 Bellevue Avenue, Los Angeles, California.
 C 2 Clinic of Jewish Social Service Bureau, 1800 Selden Street, Chicago,
+
 Illinois.
 C 3 Psychological Clinic of Des Moines Health Center, Jewett Building,
 Des Moines, Iowa.
@@ -284,6 +292,7 @@ York City.
 C 8 Catholic Charities Guidance Institute, 181 East 68th Street, New
 York City.
 C 9 Clinical Service, Jewish Board of Guardians, 228 East 19th Street,
+
 New York City.
 C 10 Child Study Department, Society for the Prevention of Cruelty to
 Children, 158 Plymouth Avenue, North, Rochester, New York.
@@ -304,10 +313,10 @@ D 6 Department of Public Instruction, Harrisburg, Pennsylvania.
 E. Clinics Supported by County Departments
 E 1 Wayne County Clinic for Child Study, 1025 East Forest Avenue, Detroit, Michigan.
 E 2 Clinie of Children's Court, County of Westchester, County Office
+
 Building, White Plains, New York.
 F. Clinics Supported by City Departments
 P 1 Mental Clinic, Lynchburg, Virginia.
-REPORT OF COMMITTEE OF CLINICAL SECTION 137
 G. Self-Supporting Clinics
 G 1 Institute of Family Relations, Consolidated Building, 6th and Holl
 Streets, Los Angeles, California.
@@ -319,6 +328,7 @@ H 2 Mental Hygiene and Health Education Clinic, Battle Creek, Michigan.
 H 3 The Children's Center, Child Guidance Division of the Children's
 Fund of Michigan, 660 Frederick Street, Detroit, Michigan.
 H 4 The Psychological Clinic, Emma Pendleton Bradley Home, East
+
 Providence, Rhode Island.
 I. Clinics Supported by Institutions
 I 1 The Mooseheart Laboratory for Child Research, Mooseheart, Illinois.
@@ -326,6 +336,7 @@ I 2 Department of Personnel and Research, Perkins Institution and
 Massachusetts State School for the Blind, Watertown, Massachusetts.
 I 3 The Yineland Laboratory, The Training School, Vineland, New Jersey.
 I 4 Mental Hygiene Clinic, Brooklyn Hebrew Orphan Asylum, 373 Ralph
+
 Avenue, Brooklyn, New York.
 I 5 Department of Child Guidance, Hebrew Orphan Asylum, 1560 Amsterdam Avenue, New York City.
 I 6 Psychological Laboratory, Children's Hospital, Randall's Island, New

@@ -1,7 +1,7 @@
 A Study of 1000 Cases of Children who do not Conform to School Routine
 =======================================================================
 
-By Selinda McCaulley, v'
+:Author:  Selinda McCaulley, v'
 Department of Special Education, Public Schools, Philadelphia, Pa.
 In the public schools today in many of the classrooms sit a
 number of children who are never able to take part in regular classroom work. Some of them are content to just sit, disturbing no
@@ -13,6 +13,7 @@ their depth, as far as ability to do the work is concerned, sit and
 contrive ways to make life interesting for the teacher and their classmates. In recent years children of this type have been referred to
 the Department of Special Education in order that some suitable
 adjustment in their school life can be made.
+
 In studying their cases, an attempt has been made to discover
 where differences exist between them and the normal group, and what
 is the nature of the differences. Teachers are often perplexed about
@@ -35,8 +36,7 @@ great institutions for the feeble-minded?"Heart, head, and hand."
 The method of teaching in many of our special classes presupposes
 that retarded children always possess good manual ability. Since
 this is so, it is important to discover the validity of this supposition.
-(9)
-10 THE PSYCHOLOGICAL CLINIC.
+
 In many special classes, an attempt to develop the mind through
 the training of the hands is the fundamental basis of all the work.
 For instance, the child is given material which is easily handled, and
@@ -53,6 +53,7 @@ basketry, simple wood construction work, hammock making, chair
 caning, brush making, sewing and rag rug weaving are taught also.
 Theoretically, as the child advances step by step in manual ability,
 so does he progress in mental ability.
+
 In actual practice, however, it does not work out this way.
 Some children, it is true, respond well to this method of teaching,
 but others never respond. Their hand work is mediocre, or worse,
@@ -80,9 +81,9 @@ The child, however, who was really capable of much better work,
 was delighted with his accomplishment, and the teacher seemed not
 unsatisfied. If she had had any skill or training in this line, the
 result might have been different, but since she had not, could she
-A STUDY OF 1000 CASES. 11
 not have obtained better results by teaching actual school subjects
 in which she had been trained?
+
 Miss Grey, Director of Special Education in New York State, in
 her address during Schoolmen's Week, told of the experience of a
 trained supervisor of Special Education in one of the middle western
@@ -91,6 +92,7 @@ As time went on, the results were so negative, and the morale of the
 children so lowered, that in a revulsion of feeling, she excluded all
 manual training and substituted instruction in regular school subjects, modified to suit the needs of the pupils. She is firmly convinced that the mental development obtained by the latter method
 is far superior to that obtained by the former method.
+
 In an attempt to answer unbiasedly the question?are retarded
 children better able to work with their hands than normal children,
 or is this ability exaggerated merely because the results of the concrete
@@ -111,6 +113,7 @@ performance tests bring forth clearly some very interesting points.
 Although qualitatively the performances of many of these children
 compare favorably with those in the unselected group, quantitatively,
 their performances are very inferior.
+
 The following table (see Table I) taken from Sylvester's results
 from his study of the performance on the Form Board of 1537 normal
 children, shows that the average time of the five-year-old, 37.6 seconds, is not equalled by the average time of the eleven-year-old in
@@ -119,7 +122,7 @@ seconds, is not equalled by the sixteen-year-old in this group. The
 zone limits of the five-year-old group are from 22 to 75 seconds.
 There is no zone limit past 75 seconds in any group. All of the zone
 limits in this group run over 100 seconds.
-12 THE PSYCHOLOGICAL CLINIC.
+
 A comparison of Paschal's Table, taken from the results of his
 study of the performance level of 1000 cases, with the Witmer Cylinders, with the table of this retarded group, emphasize the same thing.
 Although qualitatively many performances could be compared
@@ -128,10 +131,12 @@ normal six-year-old is 82.4 seconds. This is not equalled by any of
 the children under thirteen years old. The mean for the normal
 seven-year-old, 73.9 seconds, is practically paralleled by the sixteenyear-old. The zone limits are also very much higher among the
 retarded children.
+
 So, likewise, with the Healy A; from the tables given in Pitner
 and Patterson, the median for the normal seven-year-old is 131
 seconds. This is not equalled by any median below the age of
 thirteen years in the retarded group.
+
 It seems, therefore, that the group retarded in school work is
 much slower, also, in reaction time. Just as this group succeeds in
 doing two or three problems in arithmetic while the rest of the class
@@ -156,12 +161,14 @@ work. Here they can learn slowly what their more favored fellows
 grasp quickly. With such a provision made for them, they are not
 neglected, and on the other hand, they do not retard the progress of
 the regular classroom.
+
 In the field of physical education, a comparison of their achievements with that of an unselected group shows their inferiority. Mr.
 Judelsohn, Supervisor of Physical Training, found the following
 results:*
+
 *"A Study of Normal, Backward and Disciplinary Boys in Regard to Height, Weight and
 Jumping Ability."
-A STUDY OF 1000 CASES. 13
+
 Observations.
 Height.
 In every age group but the eleven-year-old, the normal child
@@ -170,7 +177,9 @@ varies from an average of one inch to 2}/% inches. But altogether
 there is not such a great difference in height between any two groups.
 As concerns the backward and disciplinary boys, there is very little
 difference in height.
+
 Weight.
+
 In regards to weight, the groups vary considerably. But again
 the normal child is not far above the other two divisions. In the
 thirteen and fourteen-year groups, the normal child is the heaviest;
@@ -185,6 +194,7 @@ where the difference in extremes is so great. We may summarize
 by stating that with the single exception of the thirteen-year group,
 there is little?practically nothing?in favor of the normal child.
 Standing Broad Jump.
+
 It is in the jumping ability of the three divisions that one sees
 the great difference, and always in favor of the normal child. In
 every age chart the normal child's curve is beyond that of both the
@@ -202,8 +212,9 @@ but higher than that of the backward child. The averages show that
 the normal child, on the average, jumps from 6^- to 13x/? inches
 further than the disciplinary child, and from 71/6 to 15 inches further
 than the backward boy.
-14 THE PSYCHOLOGICAL CLINIC.
+
 Conclusions.
+
 In the foregoing observations we find that as far as height and
 weight are concerned, there is little to choose between normal and
 disciplinary, normal and backward, or backward and disciplinary.
@@ -224,11 +235,13 @@ above the backward child and the disciplinary child. He who is
 mentally backward will be found, upon investigation, to be physically
 backward, or retarded, for coordination is the tremendous factor
 entering into so many of our physical activities.
+
 In every field of accomplishment in which we study these children, we find they are less proficient than the average child. A study
 of their results in the performance tests show that they are no more
 gifted in motor ability than they are in intellectual ability. It seems,
 therefore, that a course of study which gives predominance to motor
 education does not meet their needs.
+
 Only such arithmetic as the child actually needs should be taught.
 Roman numbers, the value of francs, pounds, shillings, etc., decimals,
 as such, are among a few of the things that can easily be dispensed
@@ -243,11 +256,11 @@ subjects. Manual training, in the sense of pre-vocational training,
 should play an important part in the curriculum. Finally, by adjusting the work to keep it within the ability of the children, so that they
 feel that they are now succeeding instead of constantly failing, the
 children are given a right emotional attitude. There is a great
-A STUDY OF 1000 CASES. 15
 opportunity for character formation, and even if these children are
 never to be counted among the leaders of the world, they can at least
 help to form a dependable, self-supporting group of law-abiding
 plodders, who are, also, necessary to help the world go round.
+
 Table I.
 Age.
 Number

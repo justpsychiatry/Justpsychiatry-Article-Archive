@@ -1,10 +1,11 @@
 A Discussion of the Index of Formboard Ability
 ===============================================
 
-By Rudolf Pintner,
+:Author:  Rudolf Pintner,
 Ohio State University,
 and Donald G. Paterson,
 University of Kansas.
+
 The Seguin Formboard has an interesting history as a mental
 test. It is now used in routine examinations by most clinical psychologists. There seems to be no disagreement among the many who
 have used it as to its excellence in differentiating the abilities of the
@@ -24,19 +25,19 @@ have been any attempt to get a single index of ability and the results,
 therefore, were presented for the first and second trials separately.
 The question as to which of these trials is the more reliable was not
 raised.
+
 The formboard was given to 271 normal children and 420 feebleminded children by Goddard.2 In this work he used the best of the
 first three trials as the index of formboard ability and presented age
 norms of the two sets of subjects tested. Among other mental tests
 the Goddard formboard was used by Wallin3 in testing epileptics.
-*
+
 1 Norsworthy, N. Psychology of mentally deficient children. Columbia Contributions to Philosophy and
 Psychology, 1906. Pp. 111.
 2 Goddard, H. H. The Formboard as a measure of intellectual development in children. The Training School
 Bulletin, Vol. IX, June, 1912. Pp. 4.
 3 Wallin, J. E. W. Experimental studies of mental defectives. Educational Psychology Monographs No. 7.
 Baltimore: Warwick & York, 1912. Pp. 155.
-(192)
-THE INDEX OF FORMBOARD ABILITY. 193
+
 On page 62 Wallin states that each subject was given three trials, and
 then on page 63 he says, "Tests were repeated during the second
 and third sittings for many subjects, so that frequently the figures
@@ -64,15 +65,18 @@ performance in the first trial may be taken as the measure of his
 normal unpracticed performance." This evidently means that the
 first trial reveals the child's innate ability to better advantage than do
 the other possible indices.
+
 The formboard test was given to over 1000 subjects by the
 Bureau of Analysis, New York State Board of Charities.4 Hall, after
 a short discussion of the possible indices, decides in favor of the best
 time record in three trials.
+
 The writers5 in comparing the formboard ability of deaf and
 hearing children gave the average time and error results for the first
 three trials and for the average of three trials. In that paper the
 * Jones, E. E. Individual differences in school children. The Psychological Clinic, Vol. VI, 1913. Pp. 241?
 251.
+
 * Sylvester, R. H. The Formboard test. Psychological Monographs. Vol. XV, 1913. No. 65. Pp. 86.
 ? Whipple, G. M. Manual of mental and physical tests. Baltimore: Warwick & York, 1914. Vol. I. Test
 25 B, pp. 297-305.
@@ -83,6 +87,7 @@ f Pintner, R., and Paterson, D. G. The Formboard ability of young deaf and heari
 main comparison was made by using the average time of three trials
 although no reason was advanced which would justify the use of the
 average as the most reliable index.
+
 Wallin's1 most recent work with the formboard advances some
 arguments, based upon experimental results, in favor of the shortest
 of three trials. He states, (p. 24) "Properly to gauge psycho-motor
@@ -107,20 +112,22 @@ Young2 in his standardization of a new modification of the formboard accepts as 
 of three trials is the most reliable single index of the subject's formboard
 ability. He therefore presents his standard age norms in terms of
 the shortest of three trials.
+
 To recapitulate, we find that of nine different workers two favor
 the use of the first trial record, two the average of three trials and
 five the shortest of three trials. This is not veiy significant, however, as workers in this field as in other fields tend to follow the beaten
 track and because the first important study (Goddard, 1912) adopted
 the shortest of three trials as the index, we find later workers doing
 likewise.
+
 Sylvester's3 work devotes considerable attention to the problem
 of the determination of the most reliable index of formboard ability.
 He compares the distribution of the time records of the first trial, the
 1 Wallin, J. E. W. Age norms of psycho-motor capacity . Journal of Educational Psychology, Vol. VH, No. 1,
 Jan. 1916, pp. 17-25.
+
 ? Young, H. H. The Witmer formboard. The Psychological Clinic, Vol. X, No. 4, June, 1916, pp. 93-112.
 ?Sylvester, R. H. Op. cit., pp. 26-34.
-THE INDEX OF FORMBOARD ABILITY. 195
 third trial, the shortest trial, and the aveiage of three trials. The
 following criterion is then proposed for the determination of the
 index, " That standard which gives the lowest and most regular variability is probably the best." The shortest of three trials is chosen
@@ -151,17 +158,18 @@ So far as we are aware it rests upon no definite piinciple. The reverse
 might be held with as much justification in logic. Thus we might
 argue that that measure which gives the greatest variability in the distributed results is the best measure because it is making finer dif~
 ferentiations among those tested.
+
 From the consideration of the principle of eliminating the influence of chance fluctuations of attention, above referred to, we might
 conclude that the average of three trials is the best index of a child's
 formboard ability. It measures the child's average ability without
 giving undue weight to extreme fluctuations of attention and possibly
 other accidental factors which might be operative to produce one
 exceptionally short trial.
+
 The first trial record seems to us to be especially significant. It
 falls in line most closely with the now commonly accepted definition
 of general intelligence as the rapidity and accuracy with which the
 organism can adjust itself to relatively new situations. The common
-196 THE PSYCHOLOGICAL CLINIC.
 objection urged against the first trial is that the instructions and
 meaning of the situation may not be understood by the subject.
 This is really no objection at all if one will but consider the instructions, which should at all times be standardized and rigorously adhered
@@ -178,6 +186,7 @@ measure is the truest index which yields the highest correlation
 between the rankings of the same individuals from one period of time
 to another. By the use of correlational formulae the various indices
 in question can readily be submitted to this test.
+
 Fortunately, we have the records of thirty-two children (18 deaf
 and 14 hearing) tested in October 1914 and again in October 1915.
 In an article1 presenting those results the fact was brought out that
@@ -198,10 +207,12 @@ used in determining the correlations for the other indices. Column 1
 of table I gives the index used for purposes of correlation, column
 2 the Spearman R value, column 3 the Pearson r value, column 4 the
 1 Pintner, R. and Patcrsoa, D. G. Op. eit.
+
 1 Whipple, G. M. Manual of mental and physical tests. Baltimore: Warwick & York, 1915. Vol. I, pp.
 42-44.
-THE INDEX OF FORMBOARD ABILITY. 197
+
 probable error (P. E.), and column 5 the reliability of r, i. e. the ielation between the size of the r and the P. E.
+
 TABLE I. CORRELATIONS OF FIVE INDICES OF FORMBOARD ABILITY.
 The Index
 First trial 1914 with first trial 1915
@@ -247,6 +258,7 @@ waste." The first trial record, the second trial record and the shortest
 trial record seem to yield about the same coefficient of correlation
 and we would hold are of the same reliability as indices of formboard ability. The average of three trials gives the highest correlation of all (r = +.77). The r is 11.1 times the P. E. and is very
 reliable.
+
 These correlations show us that regardless of the index used
 (with the exception possibly of the third trial record) we find that the
 children maintain their relative ranks from one year to another
@@ -260,8 +272,8 @@ compared to the other children. If our assumption with which we
 started out is correct then the average of three trials is the most reliable index of formboard ability for it shows the highest correlation.
 This result is not strange for it fits in well with the general a priori
 considerations outlined above.
+
 We would conclude, then, that the average of three trials is the
-198 THE PSYCHOLOGICAL CLINIC.
 best index because it shows the highest correlation from one period of
 time to another and because it does not give undue weight to fluctuations of attention although it rightly takes them into consideration,
 and further because it allows for the influence of the measure of the

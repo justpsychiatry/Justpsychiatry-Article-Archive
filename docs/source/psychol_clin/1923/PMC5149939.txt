@@ -1,9 +1,8 @@
 The Witmer Formboard? First Trial Records
 ==========================================
 
-By Herman H. Young, Ph.D.,
-and
-Mary H. Young, A.M.,
+:Author:  Herman H. Young, Ph.D.,
+and Mary H. Young, A.M.,
 Department of Psychology, Indiana University.
 The first report on the Witmer Formboard gave a description
 of the board, the method of giving the test, the average, median and
@@ -11,11 +10,14 @@ quintile time records for the shortest of the first three trials of three
 thousand children.1 The present report includes the first trial
 records of these same children and of six hundred other children
 under eight years of age.
+
 The writers tested all the children, but did not test all the adults.
 All children tested were in the Philadelphia elementary public schools.
 The standard method as given in the first report and as restated here
 was scrupulously adhered to throughout.
+
 Standard Method.
+
 It is necessary always to make the testing conditions such and
 to present the test in such manner that any failure on the part of the
 child is the result of his own inability to solve the problem and not
@@ -27,6 +29,7 @@ blocks and recesses. The board is placed horizontally on the table
 with its lower edge (edge opposite tray) even with the edge of the
 table nearest the child. The board should always be placed in the
 best light available.
+
 All instructions to the child are positive. In no case is he given
 any help or suggestion. He is not given any instructions other than
 those included in the standard directions. Inability to follow these
@@ -37,8 +40,7 @@ First Trial. As soon as the subject has his correct position in
 front of the formboard, the examiner, beginning to remove the blocks,
 says, "I am going to take these blocks out and put them up here..
 1 Young, Herman H. The Witmer Formboard, The Psychological Clinic, 1916, 10, 93-111.
-(85)
-86 THE PSYCHOLOGICAL CLINIC.
+
 I want to see how quickly you can put them back where they belong."
 While giving these directions the examiner removes the blocks from
 their recesses and distributes them in a haphazard arrangement in
@@ -63,6 +65,7 @@ left lying loosely, but turned correctly upon its recess, providing the
 other ten are set in properly. It is advisable to encourage and assure
 the subject of his success by saying, "That's right," as soon as he has
 all the blocks correctly replaced.
+
 Second Trial. This follows the completion of the first trial
 immediately without comment of any kind whatever. On this trial
 the test is presented to every subject not only with the same verbal
@@ -79,12 +82,12 @@ pile is set in the tray directly above the square and contains the semicircle, t
 second pile is placed in the middle of the tray and contains the
 diamond, the rectangle, and the equilateral triangle. The third pile
 is placed in the tray directly above the equilateral triangle and contains the square, the circle, the elongated oval and the maltese cross.
-THE WITHER FORMBOARD. 87
 The blocks of each pile are picked out of their recesses with one hand
 by taking them in the order named above. Thus the middle pile is
 formed by picking up the diamond, and placing it on the rectangle,
 then picking up these two and placing them on the equilateral triangle and then picking up all three and placing them in the middle
 of the tray.
+
 While the blocks are being removed in the manner described
 above, the examiner says, "Now I am going to take the blocks out
 in this order (or a definite order) and I want to see if you can't put
@@ -93,6 +96,7 @@ subject on thus, "Now see how quickly you can put them in." The
 time is recorded in exactly the same manner as on the first trial. If
 all the blocks are not correctly replaced without further suggestion
 the trial is recorded as DNC.
+
 Third Trial. As soon as all the blocks are correctly replaced
 on the second trial, the following directions are given, "Now (or
 this time) you may take the blocks out to suit yourself, and see if
@@ -103,6 +107,7 @@ As soon as he has removed all the blocks, he is urged to do his best
 by saying, "Now see how quickly you can replace them (or put them
 in)." The time is again taken as on the first trial, and the test is
 complete.
+
 Index of Formboard Ability.
 In the first report of the Witmer Formboard the shortest of the
 first three trials was taken as the index of a child's formboard ability.
@@ -113,10 +118,12 @@ the last few years indicate that the shortest of three trials is not a
 thoroughly satisfactory index of formboard ability. Recent investigations in differential psychology show that indices which reveal
 and vary with individual differences must be employed in clinical
 practice.
+
 Pintner and Paterson have computed the correlation of five
 indices of formboard ability on thirty-one children, tested twice with
 an interval of one year.2 These indices and correlations arranged
 in rank order are:
+
 1 Sylvester, Reuel Hull. The Formboard Test. Psychological Monographs, Vol. XV, No. 4. September,
 191o, Whole No. 65. Princeton, N. J.
 2 Pintner, Rudolf and Paterson, Donald G. A Discussion of the Index of Formboard Ability. The Psychological Clinic, 1916, X, 192-198.
@@ -138,6 +145,7 @@ P. E.
 0.086
 0.086
 0.113
+
 These unanalyzed correlations do not indicate the relative
 psychological significance of the five indices. The psychological
 value of an index depends upon the definiteness with which it can
@@ -157,10 +165,12 @@ trials. It falls most frequently on the third trial or after two practice
 trials. Because with different people it comes after unequal practice
 periods it can scarcely be considered a satisfactory standardizable
 index.
+
 Each of the three trials has more definite psychological significance than either the average or shortest of three trials. The first
 trial is an individual's initial reaction to the formboard as a new
 problem. The second trial is his reaction after one practice trial,
 while the third is his reaction after two practice trials.
+
 The second trial time is a statistical index of a child's formboard
 ability after a preliminary practice trial. It probably has little if
 any value as an index of success in handling new problems. It has
@@ -176,6 +186,7 @@ ability after two practice trials, its definite psychological value can
 be obtained only by subjecting it to statistical treatment similar to,
 but probably more complicated than that indicated above as necessary for the second trial time. The third trial time without such
 interpretation has little definite psychological value.
+
 The first trial time is a statistical index of a child's formboard
 ability without previous acquaintance or practice on this specific
 problem. As such it emphasizes his proficiency in utilizing somewhat similar, yet dissimilar previous experiences in the solution and
@@ -191,9 +202,11 @@ This analysis of the psychological value of various indices of
 formboard ability leads to the following conclusions:
 1. That neither the average nor the shortest of three trials has
 definite psychological significance.
+
 2. That each trial, but not the uninterpreted time record of
 each trial has definite psychological significance when considered in
 its exact numerical order.
+
 3. That the definite psychological significance of the second and
 third trial time records is probably not great enough to justify the
 lengthy computation of their psychologically significant indices.
@@ -202,15 +215,16 @@ is more adequately expressed by its time record than that of any
 other trial. This gives its time record the superior advantage of
 both definite psychological significance and statistical simplicity over
 all other indices considered.
+
 This discussion of the psychological significance of formboard
 time records should not be construed to imply that psychological
 interpretations of this test should be restricted to the manipulation
 and interpretation of statistical data. Other psychologically significant features and limitations of this test which should always be
 considered were published as the second report on the Witmer
 Formboard.1
+
 1 Young, Herman H. Physical and Mental Factors Involved in the Formboard Test. The Psychological
 Clinic, 1910,10, 6, pp. 149-167.
-90 THE PSYCHOLOGICAL CLINIC.
 Table I.?Witmer Formboard?First Trial.
 Percentiles?1850 Boys.
 Percentile.
@@ -595,8 +609,8 @@ DNC
 55 35 38 39 35 33 34
 118 125 136 85 53 45 65
 64 70 155 164 146 73 31
-THE WITMER FORMBOARD. 91
 First Trial Time Records.
+
 Table I gives the first trial time records for 1729 boys and 121
 men, a total of 1850 males. Table II gives the first trial time records
 for 1669 girls and 103 women, a total of 1772 females. This makes
@@ -610,6 +624,7 @@ children whose ages lie within the interval of four years and no
 months to four years and five months inclusive or those who have
 reached their fourth birthday but are not yet four years and six
 months old.
+
 The numbers of the first column at the left side of the table 0,
 10, etc., every ten to 100, designate the percentile value of the time
 in seconds of the rows opposite each. The zero row gives the longest
@@ -623,9 +638,11 @@ Thus for the boys four years old but not yet four years and six months
 old all of the 20 per cent who took longest rated DNC, i. e., did not
 complete the test in 180 seconds. Of the 30 per cent who took
 longest the best record was 180 seconds.
+
 Because only elementary school children were tested the time
 records for the upper ages are not truly representative. This is
 especially true for the 14 and 15 year old children.
+
 With increasing age of children there is a reduction in the time
 required to work the formboard, but this reduction in time becomes
 less and less marked with increasing age. The discrimination value

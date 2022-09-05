@@ -5,8 +5,8 @@ The Psychologifcal Clinic
 Copyright, 1925, by Lightner Witmer, Editor
 Vol. XVI, Nos. 1 & 2
 Jan.-Feb., 1925
+:Author: Lightner "Wither, Ph.D.,
 
-By Lightner "Wither, Ph.D.,
 University of Pennsylvania, Philadelphia
 Man's progress toward what we consider enlightenment and
 culture has come through the refinements of analytical discrimination. Though civilization, even in western Europe and America, is
@@ -16,6 +16,7 @@ of learning is analytic, and the differentiating catechisms of the
 Christian churches are the joint product of romance and discernment. Mysticism struggles toward truth without analysis. Its
 measure of success is the prevalence of the pre-analytic generalization?what Kant called a "synthetic judgment a prioriand which
 many women fondly idealize as "intuition."
+
 Greek thought is the first to turn resolutely away from romantic and pre-analytic generalizations of Eastern origin. European
 science and art, in consequence, are successful in proportion as they
 follow the Hellenic trail to such perfection of judgment as may be
@@ -23,9 +24,10 @@ evolved from discerned and discernible knowledge.
 *Read in part before the Section on Clinical Psychology^ ^annual
 meeting of the American Psychological A880^D^^ method of psychois the prologue to a formal exposition of The * <<change> Superiority,
 logical diagnosis-in theory and practice Ch*P 'ti >, and Chapter 3,
-and Preference," Chapter II, "Originality and ^ ^ ^ ^
+and Preference," Chapter II, "Originality and 
 "Novelty and Order," will appear in following n
 The Psychological Clinic.
+
 2 THE PSYCHOLOGICAL CLINIC
 Whenever I think of the dead weight of obscure words defining
 mystical metaphors, like "the group mind,"
@@ -51,12 +53,14 @@ for orthogenic diagnosis in either psychology or education. They
 may serve administrators of instruction for the organization of
 tentative groups of pupils defined by relative ability to make progress through the grades, but a clinical diagnosis is always something more?it is an interpretation of observed behavior, and requires much insight and more experience, a few tests and only a
 little figuring.
+
 Mass education will endure of economic necessity, for no one
 can give individual educational treatment to more than one person
 at a time. Strictly speaking, however, class instruction conforms
 and trains, but can not educate. It does little more than offer
 opportunity to those in the group who have the ability to profit
 by it.
+
 A civilization is defined by the collective behavior of a group
 of people, but culture is personal, the product of intelligence and
 PSYCHOLOGICAL DIAGNOSIS 3
@@ -94,6 +98,7 @@ a test of teachability on a minimnm of instruction. The purpose
 of a clinical demonstration in the presence of students is to increase
 the ascertained ability of those examined and to give instruction in
 the science and art of psychology.
+
 A psychological diagnosis is an interpretation of the observed
 performance of human beings. Relative ability is defined by relative superiority in competition, and the relative superiority of
 human beings is defined by whatever is thought to differentiate the
@@ -113,6 +118,7 @@ orientation, and involving a pre-analytic exploration, which is observation with
 hand, is a post-analytic generalization derived from the observed
 results of an analytic exploration. A numerical description is the
 most precise form of post-analytic generalization.
+
 The object of analytic science is to reduce pre-analytic generalization to relative insignificance, and at the same time to make
 post-analytic classification, and especially numerical description,
 relatively more significant. Nevertheless, categories of behavior in
@@ -123,7 +129,9 @@ generalization called an "assumption," acceptable to science because, so far, an
 as in every other sphere of thought, faith is "justified of works."
 Scientific diagnosis is prophetic utterance. A diagnosis of ability
 or defeat is always a prognosis of behavior.
+
 PSYCHOLOGICAL DIAGNOSIS 5
+
 "He is intelligent" and "She is graceful"?these are preanalytic generalizations, fashions of speech maybe, not calling for
 scientific justification. Feeble-mindedness, insanity and criminality
 are defined by what I call an '' ethno-dramic" diagnosis, originating, in the first instance, as the public opinion of unorganized
@@ -141,6 +149,7 @@ acts. In many states, two physicians may commit persons thought
 insane or feeble-minded to an institution, but only the verdict of
 a jury can hold them there, if the propriety of the commitment is
 challenged.
+
 A definition of human competency will involve a pre-analytic
 interpretation of personal and group behavior which has been made
 to conform to the post-analytic generalizations of numerical and
@@ -158,7 +167,7 @@ formance and Success. Psych. Clinic, XII, 191 J, P- "
 Factor, of Success. Psych. Clinic, XII, 1919, p. 241. PrMem of EducaMity. Psych. Clinic, XII, 1919, p. 174. The delation of Mergence ,o EffiT. n ' , ',5 C-, Whnt I<s Intelligence and Who Has
 ciency. Psych. Clinic, IX, 1915, p. 61. What is y
 It? Scientific Monthly, August, 1922.
-6 THE PSYCHOLOGICAL CLINIC
+
 The more differentiating the diagnosis demanded, the less likely
 is a pre-analytic diagnosis to satisfy. It is easy enough to differentiate feeble-minded children from those who are normal?in most
 cases, at any rate. It is not so easy to affirm that a child's competency is to be defined by the proficiency of one in a thousand,
@@ -166,6 +175,7 @@ superior to nine hundred ninety-eight in a thousand, and inferior to
 only one in a thousand?a differential diagnosis recently made at the
 Psychological Clinic of the University of Pennsylvania.2
 A > X < Y
+
 This is the formula of relative ability in competition. "A" is
 one person or a group of persons. "X" and "Y" are groups of
 persons used as differentiated grades of relative superiority in competition. Competition is an estimate of potential ability, expressed as superiority to a group, class or grade of inferiors. The
@@ -183,6 +193,7 @@ Genius in childhood undoubtedly exists, but how demonstrate or
 prove its existence? It is more likely to be found before the bar
 of a juvenile court than at the top of a proficiency scale defined by
 the Binet intelligence test.
+
 A child who is above average is superior to 50 per cent and in
 the best half of his age group. If he is superior to 75 per cent, he is
 in the best quartile. Superior to 80 per cent, he is in the best quintile; to 90 per cent, in the best decile; to 99 per cent, in the best
@@ -191,9 +202,9 @@ completed an investigation of the competency of one hundred twenty
 superior children, belonging to a group defined by the proficiency
 of 1 per cent superior to 99 per cent. These children are in the best,
 or one hundredth, centile grade.
+
 Competency C.G. 100=Proficiencyl per cent> 99 per cent <0 per cent
 aMade possible by Dr Alice M. Jones' investigation of one hundred twenty superior children, reported in this number of The Psychological Clinic.
-PSYCHOLOGICAL DIAGNOSIS 7
 As Dr Jones divides the whole group of one hundred twenty
 children into ten groups, or deciles, the best 10 per cent of her
 group is the best or one-thousandth millile of all children?a group,
@@ -228,7 +239,6 @@ to have demonstrated his own proficiency as a diagnostician in the
 field of clinical psychology before he is considered qualified to make
 just estimates of the total relative ability of those whose partial
 relative ability almost any one may adequately observe, and psychometrists may precisely measure.
-8 THE PSYCHOLOGICAL CLINIC
 Proficiency is relative superiority in competition, observed and
 if possible measured. Competency cannot be measured?it can only
 be estimated. The estimate of competency may be derived from
@@ -240,6 +250,7 @@ authority. The ascertained results of observation, test and measurement constitu
 of the diagnostician in clinical psychology begins to operate at
 the very point where psychometrists and group testers cease to
 function.
+
 Psychonomic is a word which denotes what is in conformity to
 a fundamental or universal law of thought. The orientation of
 the clinical psychologist is, or at least ought to be, psychonomic.
@@ -262,10 +273,10 @@ what is considered normal and orthogenic, and only by way of exception with what
 Freudian psycho-analysis, on the other hand, is concerned with
 what is non-normal and pathogenic, and only by way of exception
 with what is normal and orthogenic.
+
 Psychology is not yet taught in the medical schools of this
 country, for one reason because professors of medicine think they
 can make psychonomic as well as psychopathic interpretations of
-PSYCHOLOGICAL DIAGNOSIS 9
 human behavior without having had instruction in the psychological
 diagnosis of normal mentality, personality and will.3
 The curriculum of the preparatory and professional courses in
@@ -290,6 +301,7 @@ attempting to secure instructors experienced in clinical diagnosis.4
 8 At the University of Pennsylvania, on motion of Dr William Pepper,
 experimental psychology was offered as an elective to fourth-year students in
 the Medical School from 1896 to 1901.
+
 4 At a meeting of the Clinical Section of the American Psychological
 Association, December 30, 1924, those who were gathered together to discuss
 methods of research and instruction in the field of clinical psychology resolved,
@@ -299,7 +311,7 @@ the future, to be set at not less than a Ph.D. from an approved graduate
 school, in which the professional training ought to equal in comprehensiveness
 the four-year course in a Class A medical school, and include at least one year
 of clinical practice in psychological diagnosis.
-10 TEE PSYCHOLOGICAL CLINIC
+
 A psychological diagnosis is of psychonomic origin when the
 pre-analytic orientation and exploration of personal and group
 behavior, called an "interpretation," is matched by the post-analytic description called a "scientific explanation." Teleological categories of interpretation prepare the necessary foundation for the
@@ -314,6 +326,7 @@ mad dog, hand Socrates the hemlock, and then begin to wonder,
 and religion, or a guide to spiritual perfection ?'' The chosen hero
 of man's highest aspiration is the moral adventurer who rises again
 from the ashes of an auto da fe.
+
 Orthogenics in the field of human psychology is defined by
 whatever is considered normal in the development of human personality and character. The orthogenic treatment includes any
 agency known to science likely to develop, preserve or restore
@@ -332,7 +345,7 @@ is needed for occupational placement, but those who give or sell
 vocational and educational guidance without having made a personal examination and without the training, knowledge and insight
 of the clinical diagnostician belong to the numerous, and often successful, tribe of charlatans, even though they be known professionally as a council of mental hygiene, or the faculty of a school of
 education.
-PSYCHOLOGICAL DIAGNOSIS 11
+
 A clinical diagnosis in psychology is the coherent product of a
 personal examination, a detailed individual and family history, the
 report of a social visitor on environmental conditions, an ascertained measure of school progress, an adequate medical report, the
@@ -342,6 +355,7 @@ diagnosis which arrives at the differential classification of human
 performance from the results of group tests. When the purpose
 of the psychological diagnosis is to provide orthogenic guidance, a
 statistical diagnosis may do more harm than good.
+
 The normal development of human behavior is discerned from
 the record of man's progress in civilization and culture from a beginning in pre-historic times. The orthogenics of behavior and the
 orthogenics of thought are co-terminous. Every form of thought
@@ -363,7 +377,6 @@ after pleasure, it is no less human to find the perfection of life in
 self-renunciation. Men, no doubt, display the instincts of the herd.
 At times they will even behave like a pack of wolves, or again, like
 a flock of geese. But the psychology of man is not to be defined by
-12 THE PSYCHOLOGICAL CLINIC
 the observed resemblance of human behavior to the behavior of
 other animals, but rather by some differentiating character or characteristics. The "ethnos"?a group of human beings, large or
 small?is defined by whatever differentiates the behavior of men
@@ -388,6 +401,7 @@ successful outcome of a projected event. Psychology is defined by
 the perfeciability of nature, and human psychology by the perfectability of man in nature. If death is but the beginning of a
 superior life, supernatural perfectability is a component part of
 human competency.
+
 My thought is that man's ability to move toward a preferred
 perfection must be estimated from demonstrable progress in six
 directions. We live, as it were, in a room, enclosed by the floor,
@@ -396,10 +410,10 @@ whole universe?and yet it is limited in every conceivable direction.
 The best we can do is to explore, differentiate and measure progress
 as an advance from a chosen point of orientation toward discernible
 goals?up and down, right and left, forward and backward?three
-PSYCHOLOGICAL DIAGNOSIS 13
 pairs of contrasting opposites?three dimensions, defined by the
 ultimate ends of perfectable behavior in six diversities of direction?a system of coordinates, the common property of the analytic
 sciences.
+
 The form of a room in the ordinary house is a cube. It has
 six boundaries or sides?all of them rectangular in pattern. When
 any portion of space is oriented and explored, whether in imagination or in observation, as "extension" referred to a system of
@@ -413,12 +427,14 @@ Every item of behavior, every element of personality, every
 performance, is a form of thought and behavior, oriented and explored as one individual unit-form, and also from six different
 points of view?hence seven universal categories of personality,
 thought and behavior.
+
 The pre-analytic forms of thought and behavior provide criteria of analytic exploration from which are derived the postanalytic categories of scientific classification. Every form of thought
 is a kind of performance, and every hind or class of performance
 is a form of thought. A post-analytic generalization of observed
 behavior implicates a pre-analytic generalization of interpreted
 behavior. The etiological explanation is woven into the mesh of
 teleological interpretation.
+
 The universal room in which we live is a world of three dimensions defined by six oppositions of direction, and referred to a
 system of rectangular co-ordinates, because human thought is a
 form of three coherent forms, called "dimensions," defined by
@@ -441,6 +457,7 @@ scientific observation. I have derived from it a psychonomic plan
 of clinical analysis, called the Analytic Diagnosis Chart, which
 serves the Psychological Clinic of the University of Pennsylvania
 for the perfection of the psycho-analytic diagnosis.
+
 My seven universal and general categories of behavior are
 categories of pre-analytic interpretation. Every unit of consideration in psychology is a single unit-complex of orientation and also
 six complex units of pre-analytic exploration. Human ability in
@@ -449,12 +466,14 @@ It is the ability of men, women and children to make progress
 toward a preferred perfection. It is also the unit-complex of
 observed behavior?a differentiated performance measurable in
 one, two or three dimensions.
+
 "General ability," i.e. perfectability, measured in only one
 dimension, I shall call conf ormability. It is defined by a constant
 of determination, and a variable of motivation, two categories of
 behavior differentiated as control and value, the criteria of judgment and appreciation. They are familiarly known in the history
 of science and literature as the "will" and the "soul," "character"
 and "personality."
+
 "General ability," measured in two dimensions, I shall call
 trainability; it is defined by a constant measure of conformity, and
 by the potentiality of origination in one directon and the probability
@@ -464,6 +483,7 @@ are familiarly known as "intelligence" and "mechanism."
 "General ability," measured in three dimensions, is educability. It is defined by constant measures of conformity and effectuality, and by minima of differentiation and maxima of organization. These two categories are also called discernment and comPSYCHOLOGICAL DIAGNOSIS 15
 prehension, and are familiarly known as "mind" and intellect,
 '' enlightenment" and " culture
+
 Competency is the name I give to ability considered as a unit
 complex of pre-analytic generalization. It is a unit-complex of
 seven discernible abilities. Competency is relative superiority in
@@ -498,6 +518,7 @@ University of Pennsylvania.5 The total number of ana y ic 1 ems
 . -r. , ___. inn 7fi<ts Inconsistency, Alice M.
 lytic Diagnosis, Lightner Witmer, p. 129, and ?
 Jones, p. 138.
+
 16 TEE PSYCHOLOGICAL CLINIC
 necessary to complete a psycho-analytic diagnosis will be at least
 thirty-seven?how many more will depend upon the exigencies of
@@ -511,6 +532,7 @@ opposition of those who are romantic without analysis, and those
 who are romantic with discrimination. Religious men are not
 necessarily theologians, for theology is a science. Theological, political and scientific truth is less likely to be proportional to the vehemence and intolerance of advocates than to their wisdom and
 discernment.
+
 Thought is a form of behavior which the relative novelty of
 performance differentiates from the kind of behavior which is
 called habit. The world of habit and tradition in which we live is
@@ -522,13 +544,14 @@ to the present limits of human competency, determined as it is in
 one direction by the novelty of performance and the free initiative
 of the performer, and in the opposite direction by conformity and
 habit.
+
 Culture is more than a discipline of habit, more than conformity of preference and will. The educator is a perfectioneer.
 Orthogenics defines the aim of normal development, which is progress toward the perfection of preferred superiorities. Diagnostic
 teaching is the method?the orthogenic treatment of all the possibilities of personality. Clinical psychology establishes the differentia and criteria of behavior which make diagnostic orthogenics
 possible.
+
 My method of thought is the outcome of personal experience,
 research and reflection. The best I can say for it is that it fits the
-PSYCHOLOGICAL DIAGNOSIS 17
 results of clinical research and the requirements of orthogenic
 guidance. I am not aware of any large indebtedness to the current
 literature of psychology,6 though I owe much to those with whom I
@@ -556,6 +579,7 @@ a city superintendent; and Mary E. Marvin, a talented teacher of
 deaf children, who organized and conducted, for the Department of
 Psychology, in 1897, the first of a number of demonstration classes
 for the teaching of mentally exceptional children.
+
 8 Among those who, not being clinical psychologists, have contri u e
 to the original sources of clinical psychology are: Plutarch, St. ugus ,
 Cardanus, Vesalius, Leonardo da Vinci, Descartes, Berkeley, Sha ?sPe:* '
@@ -566,7 +590,7 @@ Whitman, Henry James, S. Weir Mitchell, William James,^ . an ey . ,
 J. M. Bice and Adolph Meyer. At the moment, '' The American erc^ y
 making best use of the clinical method of psychological diagnosis n
 of general literature.
-18 THE PSYCHOLOGICAL CLINIC
+
 In December, 1896, at the annual meeting of the American
 Psychological Association, I announced my discovery of a method
 of research and instruction which I called the Clinical Method in
@@ -587,12 +611,14 @@ About the middle of the last century, what was then the new
 science of physiology transformed medical theory and practice.
 Today another science renders a similar service?the chemistry of
 metabolism.
+
 Modern psychology was evolved as an experimental science
 from the technique* of astronomy and physics. It was first called
 "physiological psychology" because it shared, with physiology, the
 domain of animal behavior. The etiology of personality is now
 being sought, and ultimately will be found, in the differentia of
 metabolism.
+
 Young men and women?would you dedicate yourselves to
 original research in a field of science most likely to be distinguished
 above all others for discoveries of importance during the latter half

@@ -2,9 +2,10 @@ The Effect of Humidity on Nervousness and on General Efficiency
 ===============================================================
 
 REVIEWS AND CRITICISM.
-By Lorle Ida
+:Author:  Lorle Ida
 Stecher, Ph.D. Archives of Psychol. No. 38, Dec. 1916. New York:
 The Science Press. Pp. vi + 94.
+
 "This study," explains Dr Stecher in her summary, "was undertaken primarily to investigate the supposed effect of air of low relative humidity upon
 nervousness as shown by defective motor control, and upon general inefficiency
 in work similar to that performed in daily life by clerks in offices and operatives
@@ -31,6 +32,7 @@ not attempt to reproduce the conditions that go to make up a crowded, ill-smelli
 due to a constant adjustment of the organism that will eventually result in a
 strain, it is for physiology to trace any subtle, long-time, ill effects that may
 have escaped the behavior tests."
+
 Dr Stecher's monograph "is part of an extensive investigation of the subject
 of ventilation in its various biological and mechanical aspects, carried on during
 the years 1913-16 by the New York State Commission on Ventilation. ... by
@@ -39,6 +41,7 @@ experiments of the Commission which were, like this one, planned by Professor
 Edward L. Thorndike and carried out under his direction, are described in full
 in a recent number of the Teachers College Contributions to Education, and
 briefly reviewed in the historical section of this monograph."
+
 The tests which Dr Stecher used she describes in every essential detail and
 presents her results in well studied tables and curves. The bibliographical
 references given in the form of footnotes, constitute a guide to the further investigation of the literature of the problem. In her chapter on correlations the author
@@ -46,8 +49,6 @@ remarks, "To bring together this loosely connected group of correlations into
 any sort of consistent scheme is almost impossible. These conclusions can be
 drawn: 1. The distinction between the purely intellectual mental-multiplication
 and the motor tests, particularly the inverse relation with those designed especially to test nervous control?hand steadiness, arm steadiness, tremor?seems
-(92)
-REVIEWS AND CRITICISM. 93
 evident. 2. Addition is not an intellectual performance of the same order as
 mental multiplication, as is shown by its incomplete resemblance to mental
 multiplication .22, and by its tendency to correlate positively with many of the

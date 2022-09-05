@@ -1,7 +1,7 @@
 Joseph
 =======
 
-By Winifred Stewart,
+:Author:  Winifred Stewart,
 Senior, School of Education, University of Pennsylvania.
 Joseph is a sturdy eight-year-old Irish boy, with a mop of
 bright red hair, deep blue eyes and a pink and white complexion.
@@ -13,6 +13,7 @@ mentally, with good trainability but deficient in reading. Indeed,
 he did not show first grade competency in this subject, although he
 is in the third grade of the Ascension School. He was recommended
 for diagnostic teaching with special attention to reading.
+
 My first introduction to Joseph was made by his mother, who
 prefixed this formality by saying, "My, Joseph is so dumb. Here
 he is eight years old, been going to school two years, and can't read
@@ -20,6 +21,7 @@ as good as his little sister Maria. He does nothing but play marbles.
 I can't even send him to the store because he never brings home what
 I tell him to." The general tenor of this dissertation was repeated
 every time I saw her in the future.
+
 I devoted my first lesson to letting Joseph read the story of
 The Little Red Hen, pp. 1-9, Winston Primer. He read with great
 difficulty, spelling the words out loud before attempting to pronounce them. I had to help him with some of the harder words
@@ -36,12 +38,12 @@ the same words that he was unable to read, namely, "plant," "help,"
 and "some." After he had written a list of these words with my
 assistance I asked him to point to different words. He was unable
 to do this, making many mistakes. I also found him to be unsuccessful in reading the words from the word cards.
-(67)
-58 THE PSYCHOLOGICAL CLINIC.
+
 I found in subsequent lessons that he was of normal third grade
 competency in arithmetic. In fact, he was even good at that subject.
 He performed all the elementary operations very easily and quickly,
 and when I taught him a new form he was quick to learn.
+
 I decided that since Joseph had been going to a parochial school,
 it might be well to try a new method of reading with him, to see
 whether he could learn better. I tried the phonic method, giving
@@ -57,6 +59,7 @@ in the case of pronounced tonal differences, he was wholly unable to
 reproduce the sounds and unable to sing the musical scale or to
 raise his voice a tone higher when I told him to. He is apparently
 psychically deaf.
+
 For several weeks I drilled him on the phonic sounds of consonants, short vowels, and in reading and writing three-letter words.
 He learned to discriminate the consonant sounds very quickly, but
 learned very slowly with the vowel sounds, showing, however, a
@@ -64,6 +67,7 @@ little improvement as time went on. At the end of three weeks he
 was able to read almost any three-letter word, if he spelled it out
 phonetically at first, and only occasionally did he make mistakes,
 and these in discriminating between short e and short i.
+
 In order to cure him of this and to teach him more sounds, I
 made him say long e, followed by short e, long a followed by short a,
 and long u followed by short u, in order to build up auditory associations between these sounds. He did this fairly well, and learned to
@@ -75,13 +79,15 @@ words from dictation, but always by spelling them out phonetically
 at first. It seems that he gets the word only by running together
 the three sounds, and not through a memory image of the whole
 word.
+
 I also discovered that Joseph forgot a word with which he had
 some difficulty, as fast as he learned it. I next tried giving him
 dictation. Accordingly, I read the word cards for the Little Red
 Hen. The results are:
-JOSEPH. 59
+
 Wanted?he couldn't read it, but could write it after seeing it a
 few seconds.
+
 grind read led wrote grind
 shall   wrote she then shall
 make read mend wrote make
@@ -91,11 +97,13 @@ It is interesting to note that he cannot write the words he can't
 read. However, he can write a word correctly after he has read it,
 incorrectly, even though the stimulus word has been removed. However, he can't write a word composed of more letters than his memory
 span. I tried him on this and every time he failed.
+
 On the whole, Joseph's case seems to be one of congenital semialexia or word-without-letter blindness. He is able to read figures
 fluently, and moreover, to work with them intelligently; in addition
 he knows his letters, but he is unable to read words except in a very
 few cases. On the other hand, he is able to write, but unable to
 read what he has written.
+
 Hinshelwood states a case of acquired word-without-letter
 blindness in which the individual suffered the complete loss of ability
 to read words, but yet could write fluently from dictation, but could
@@ -107,6 +115,7 @@ most complex manner. 3. They could write spontaneously and
 from dictation, but could not interpret the words they themselves
 had written." This condition is due to the fact that the area for
 words in the visual memory center has been destroyed.
+
 Joseph's case shows the same symptoms exccpt that he cannot
 write at dictation words that he cannot read. In his case I should
 say that there is a lack of the potentiality for development in the
@@ -119,7 +128,6 @@ the fact that to get even the simplest word image, he has to be
 taught about ten times as long as an ordinary child. During his
 lessons with me, he learned a few words this way. These were
 "some," "plant," "help," "shall," "Goose." He had also picked
-60 THE PSYCHOLOGICAL CLINIC.
 up a reading vocabulary of about fifteen of the most simple and
 essential words during his two years of school training. In reading
 the three-letter words which I taught him, Joseph got them purely
@@ -136,6 +144,7 @@ that he can write words from the word cards which he cannot read
 does not point to the fact that he has verbal imagery in the visual
 field; indeed, this ability of his is pure memory span in the reproduction of the discrete letters which form the word, and combined
 they mean nothing to him.
+
 On the whole, I should say that Joseph could learn to read
 only at the expense of the greatest labor and time, and at that it
 will be almost impossible for him to read such words as are not
@@ -149,5 +158,6 @@ despite his inability to read. His hands were perpetually grimy.
 Finally I said in desperation, after having washed them for him,
 "Joseph, why are your hands so dirty? Do you play marbles on
 the way to the Clinic? "
+
 "No'm," said Joseph. "We fellers get coal out of the cars and
 off the tracks and sell it for fifteen cents a bucket."

@@ -1,8 +1,9 @@
 Irregularity on a Binet Examination as a Measure of its Reliability
 =====================================================================
 
-Sidney L. Pressey, Ph.D.,
+:Author: Sidney L. Pressey, Ph.D.,
 Indiana University.
+
 The writer became much interested, while serving as Assistant
 Psychologist at the Boston Psychopathic Hospital in the summer of
 1916, in "irregularity" on a psychological examination as shown by
@@ -37,8 +38,7 @@ groups away from the test group in which the mental age appears).
 1 IYessey, S. L.: "Distinctive Features in Psychological Test Measurements made upon Dementia Praecox
 and Chronic Alcoholic Patients," J.of Abn. Psychology, June, 1917,and " Irregularity as a Measure of Deterioration,"
 same Journal December, 1918.
-236
-IRREGULARITY ON A BINET EXAMINATION. 237
+
 And the five-months'worth of success in the sixteen-year test group
 would be multiplied, again, by three?the number of test groups
 away from that test group in which the mental ages falls. We will
@@ -63,6 +63,7 @@ which this last success is away from the test group where this child
 should, if the examination had been perfectly even, have stopped
 succeeding.1 The total irregularity, as thus figured, would be
 forty-two.
+
 The present brief study is based on irregularities, thus figured,
 from 141 white children, 51 colored children and 16 adults. The
 white children have, of course, been the basis of comparison. They
@@ -72,6 +73,7 @@ sub-normal or brilliant. The group is thus not a representative one,
 but does well enough for the rough comparisons here presented.
 The number of cases and median irregularity at each age are as
 follows:
+
 A<re  4 5 6 7 8 9 10 11 12 13 14 15
 No  1 1 12 13 18 10 24 25 17 12 4 4 141
 Median  8 10 8 12 9 13 9 8 10 10 10
@@ -84,7 +86,6 @@ variation of successes and failures about the mental age which shall give an exp
 consistency of a subject's responses to the different parts of the examination, and which shall make possible a direct
 comparison of the consistency shown by different subjects, and at different ages. And the difficulties encountered
 are due to the fact that the mental age is not an average but a sum, and that even the Stanford scale is not sufficiently systematized for any very satisfactory statistical treatment.
-238 THE PSYCHOLOGICAL CLINIC.
 The small number of cases at certain ages permits only tentative
 conclusions from these results, but the medians would suggest that
 the irregularity was fairly constant over the range of these ages.1
@@ -101,6 +102,7 @@ hardly, when everything is considered, be thought of any practical
 importance. In fact, it is hard to see any value in such a measure
 of irregularity?unless, possibly, as a special method in the study of
 examinations from insane patients.
+
 The results from the colored children and the adults put a
 different light on the situation, however. The 51 colored children
 referred to in the beginning of the paper make up all the pupils
@@ -125,7 +127,7 @@ to.
 2 The results are thus in accord with Dr Wallin's interesting paper, dealing with this subject in a
 slightly different way. Wallin, J. E. Wallace, "Irregularity and Feeble-mindedmss," Ptycholociccd Clinic 11;
 179-195, 1917, and with the results of the writer already mentioned.
-IRREGULARITY ON A BINET EXAMINATION. 239
+
 vision is so defective that her teacher says she can "scarcely see
 even with glasses;" the teacher also says that home conditions
 are "dreadful." A third girl with an I. Q. of 72 and an irregularity
@@ -141,6 +143,7 @@ good reason to believe that the results of the first examination
 (which had been for practice), along with talk among the pupils,
 had influenced the examination; the scale rating was much higher
 than was expected by either examiner or teacher.
+
 In fact, of the fifteen children of irregularity 20 or over there
 were only three who were not known to have some marked peculiarity
 of mental make-up or training, or whose examinations were not
@@ -155,6 +158,7 @@ perhaps, of senility) upon the make-up of the examination might be
 expected. And the majority suffered from special handicaps of one
 sort or another which might be expected to affect the consistency
 of their showing in the examination.
+
 The slightly greater irregularity of the colored children the
 writer is inclined to explain in analogous fashion. Previous work
 has shown negro children to give a somewhat distinctive "pattern"
@@ -166,11 +170,11 @@ mental environment acting upon the white child; standards of living,
 distinctly different from the examination given by a child of the same "mental age." See Pressey, S. L. and Cole,
 L. W. "Are the Present Psychological Scales Reliable for the Examination of Adults?" J. of Abn. Psychoogy
 December, 1918.
+
 2 See, for instance, Pyle, W. II. "The Mind of the Negro Child" School and Society 1: 357-G0,1915; Ferguson
 G. 0., Jr.: "The Psychology of the Negro: An Experimental Study," Archives of Psychology, No. 3G, 1916 p. 138,
 Sunnc, Dagny: "A Comparative Study of White and Negro Children," J. of Applied Psychology, 1: 71-83, 1917;;
 Loades Redfern, H., and Rich, S. G. "Binet Tests on South African Natives?Zulus," Ped. Sem. 24: 373-83, 1917.
-240 THE PSYCHOLOGICAL CLINIC.
 moral and social attitudes, sentiments and ideals and interests and
 ambitions, are all subtly but powerfully different. And it would
 seem not unreasonable to expect the sum of such influences to have
@@ -197,6 +201,7 @@ of tests on a given individual. And the few results above presented
 surely suggest an actual value for such a measure in the use of the
 Binet scale. The writer hopes further studies may be made of the
 subject.
+
 1 It might be said that the writer believes the irregularity shown by mentally diseased individuals should be
 interpreted in the same way. Irregularity need not, in such instances, be the result of deterioration. It may be
 simply the result of absorption in a delusional system, of distraction by hallucinations, of negativism, retardation,

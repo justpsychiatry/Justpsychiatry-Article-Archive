@@ -2,8 +2,9 @@ The English Convict: A Statistical Study
 =========================================
 
 REVIEWS AND CRITICISM.
-By Charles Goring, M.D., B.Sc.
+:Author: Charles Goring, M.D., B.Sc.
 London: Darling and Son, Ltd., 1913.
+
 This extensive collection and tabulation of statistics, which resulted in a
 volume of approximately nine hundred pages of ordinary octavo size, was begun
 under the supervision of Dr Griffiths in 1901. The material, after having
@@ -11,12 +12,15 @@ passed through several hands, finally came to the notice of Dr Goring about
 1904. He assumed the responsibility of this most laborious task through almost
 a decade and has finally given to us a monumental piece of work in criminal
 science.
+
 ice.
+
 The thesis maintained in this volume is that there is no physical or mental
 "criminal type." The word "criminal" throughout the book is used in the
 sense of the legal interpretation of that word The criminal is not abnormal,
 ("qualitatively different") as has been formerly held, but rather is unusual
 ("a deviation from the normal").
+
 Taking up the larger subdivisions to which the book readily lends itself,
 the introduction is concerned with a review of previous methods in criminal
 science with special emphasis upon that of the Lombrosian school, together with
@@ -28,6 +32,7 @@ as an etiological factor in crime," "The criminal's vital statistics," "The ment
 differentiation of criminals," "The influence of 'the force of circumstances on
 the genesis of crime," and lastly, "The influence of heredity on the genesis of
 crime."
+
 The first subdivision in Part II repeats portions of Part I, in that both are
 concerned with the criminal's physique. The conclusion reached is that the
 criminal is under weight and under size. Upon this conclusion, the author
@@ -57,6 +62,7 @@ there are more fundamental factors influencing the situation. The point in
 question is only an apparent and not a real cause of crime. The author finds
 doubtfully significant the "relationship between social inequalities" (adverse
 environment and force of circumstances) and crime.
+
 In the study on the fertility of criminals, the author makes a very careful
 investigation, extending through several years, concerning the rate of birth, death,
 marriage, illegitimacy, and divorce, together with many other minor facts concerning the points in question among criminals and the general population.
@@ -70,6 +76,7 @@ much the same rate as are other physical and mental qualities and pathological
 conditions in man" (page 368). A secondary conclusion is that "parental
 contagion" is of trifling importance in comparison with the influence wielded by
 heredity and mental deficiency.
+
 The positive results of such an enormous task as this book represents may be
 put briefly: the criminal is lighter in weight and lower in stature and the major
 part of the etiology of his misfortune can be attributed to two factors,?mental
@@ -85,5 +92,6 @@ On the whole, the book is well arranged for reference or careful reading*
 the data admirably handled; the ideas suggestive and helpful. The volume is
 to be recommended for systematic study to all who are interested in any phase
 of criminal science.
+
 M. L. Beaniilobsom,
 Psychologist, Indiana Reformatory.

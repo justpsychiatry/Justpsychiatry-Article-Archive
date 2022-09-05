@@ -1,8 +1,9 @@
 Education of Parents and Intelligence of Children
 ==================================================
 
-By Claude L. Nemzek and F. H. Finch
+:Author:  Claude L. Nemzek and F. H. Finch
 University of Minnesota
+
 That there exists some degree of relationship between the amount
 of schooling of parents and the measured intelligence of their children has been revealed by investigations dealing with a variety of
 problems. Jones (6), in a study of 120 superior children, found
@@ -16,29 +17,32 @@ of mother was .353 zt .040; between I.Q. 's on the second test and
 education of father, .349 ? .040. The differences in the figures for
 father and mother are obviously no greater than might occur by
 chance.
+
 Van Alstyne (11), using the Kuhlmann Revision, tested a group
 of children between ages 33 and 39 months. She reports an r of
 .51 ? .06 between father's education and child's mental age, and
 an r of .60 ? .05 between mother's education and child's mental
 age. A high degree of variability in intelligence characterizes her
 sample, the standard deviation of I.Q.'s being 21.67.
+
 Pater son and his colleagues (10), in their work upon mechanical
 ability, observed an r of .14 between Otis I.Q.'s of 100 junior high
 school boys and education of father. For the same group, education of mother gave a corresponding figure of .08.
 Carter (3), in his study of family resemblances, reported the
 following relationships:
+
 i The findings presented in this paper are from an analysis of the records
 of the University of Minnesota High School Personnel Office, made in co
 operation with Professor John E. Anderson, Director of the' University n 'f
 Minnesota Institute of Child Welfare.
-263
-264 THE PSYCHOLOGICAL CLINIC
+
 Ni;
 Ni
 Min.
 P.E.
 Max.
 P.E.
+
 r between education of father and:
 Son's Arithmetic Score
 Daughter's Arithmetic Score
@@ -49,6 +53,7 @@ Son's Arithmetic Score
 Daughter's Arithmetic Score
 Son's Vocabulary Score
 Daughter's Vocabulary Score. ..
+
 102
 107
 101
@@ -89,11 +94,14 @@ Daughter's Vocabulary Score. ..
 .08
 .08
 .08
+
 * Ni refers to the number of offspring included in the sample; N% to the number
 of families represented.
+
 Carter used the Courtis Standard Research Tests in Arithmetic,
 Series B, and Vocabulary Tests A and B of the University of
 Minnesota College Aptitude Test.
+
 Miller (8), in a study of 1,021 children considered dull by
 teachers and 337 children considered bright by teachers, noted that
 larger proportions of the bright children were the offspring of
@@ -104,6 +112,7 @@ Moore (9), in her study of high school graduates, selected by
 means of intelligence and objective achievement test records on
 27,219 cases a group of 341 whom she designates as gifted. A comparison of the gifted and total groups on the basis of amount of
 parental education is given below:
+
 Gifted Group Total Group
 per cent per cent
 Parental Education
@@ -115,7 +124,7 @@ Bayley (1), who studied the mental growth of 61 children during the first three 
 tests, calculated the relationships between mid-parent education and
 infant test scores for the various administrations of the tests. Her
 results are included in Table I.
-EDUCATION OF PARENTS 265
+
 Table I
 Relationships Between Mid-Parent Education and Infant Test Scores
 Tests for
@@ -187,6 +196,7 @@ N
 .41 ? .08
 .44 ? .08
 .47 ? .08
+
 There is a peculiar trend in the correlations for successive ages,
 which may possibly be due to the nature of the test employed.
 There is considerable evidence that such tests used at early ages do
@@ -195,6 +205,7 @@ Three studies of foster children included an examination of the
 relation between amount of schooling of foster parent and intelligence of the child. Burks (2) reports on this relationship for a
 group of foster children and also for a control group of own children :
 Foster Group
+
 P.E.
 N
 Control Group
@@ -215,21 +226,24 @@ Grade reached by mother
 .06
 102
 103
+
 The foster children on which Burks's results are based were placed
 in the foster homes before they had attained an age of 12 months,
 and ranged in age from 5 to 14 years at the time of test. Control
 cases were matched with foster cases in age, sex, locality of residence, type of neighborhood, and occupational level of father.
 Freeman (4) reports a correlation of .42 ? .03 between educa2 See Shirley, Mary M. The First Two Years, Vol. I, Postural and Locomotor Development. Minneapolis, University of Minnesota Press, 1931 pp
-128-134. '
+128-134.
+
 Furfey, Paul Hanly and Muehlenbein, Josephine. The Validity of Infant
 Intelligence Tests, J. Genet. Psychol., 1932, 40, 219-223.
-266 TEE PSYCEOLOGICAL CLINIC
 tion of foster parents and intelligence of foster children. These
 subjects ranged up to 17 years 6 months in age at placement, and
 had been in the foster homes for an average of 6 years 11 months
 before being tested.
+
 More recently Leahy (7) reported the following relationships
 between education of parents and intelligence of foster children:
+
 Parent
 N
 C Uncorrected
@@ -245,6 +259,7 @@ Father.
 .367
 .12
 .13
+
 Despite the fact that these cases were placed in foster homes at
 an age much below that typical of Freeman's cases, Leahy finds
 evidence that selection is to a large extent responsible for the observed relationship.
@@ -260,6 +275,7 @@ selection with respect to both variables is present. Approximately
 42 per cent of the fathers were classified as professional, and all
 except 2.6 per cent of the remainder were in occupational classes II
 and III.4
+
 Eesults are reported for six groups of subjects, as follows:
 1. High school entrants?719 cases representing as many families,
 not classified as to sex or to grade in which tests were given.
@@ -268,11 +284,12 @@ of the ninth grade (or later in a few cases) and who graduated from University H
 3. High school graduates?girls who were tested at the beginning of
 the ninth grade (or later in a few cases) and who graduated
 from University High School.
+
 3 Miller, W. S. The Variation and Significance of I.Q. 's Obtained from
 Group Tests, J. Educ. Psychol., 1924, 15, 359-367.
 4 Occupational classification from Goodenough, Florence L., and Anderson,
 John E. Experimental Child Study. New York, Century Co., 1931. 546 p.
-EDUCATION OF PARENTS 267
+
 4. Seventh grade?cases tested at entrance to the seventh grade.
 5. Eighth grade?cases tested at entrance to the eighth grade.
 6. Ninth grade?cases tested at entrance to the ninth grade.
@@ -285,6 +302,7 @@ the respective numbers of cases reported, as more than one child
 from a family occasionally fell into the same category. Where this
 is true, the probable errors of r as reported are slightly below the
 true values.
+
 Table II
 Correlation Between Mother's Education and I.Q. op Offspring
 1. Mother's Education in Years.
@@ -393,19 +411,21 @@ N
 93
 108
 136
+
 From the tables it is obvious that in these data there is a positive relationship between amount of parental education and I.Q. of
 offspring. While the obtained values seem to center about .2 there
-268 THE PSYCHOLOGICAL CLINIC
 is no means of determining how well this figure will hold for the
 population in general, since the cases here available are largely
 from the upper part of the scale, both in education and in intelligence. The homogeneity of the data is such as to suggest that the
 observed value may be below that typical of the population of this
 country.
+
 It will be noted that the raw correlations are consistently higher
 for the fathers than for the mothers, but here again there is a difference in variability in education that must be taken into account.
 The corrected values of r,5 given in Table IV, indicate that the apparent difference in the two groups is due to this factor, and that
 the same degree of relationship exists for the fathers and the
 mothers.
+
 Table IV
 Corrected Correlations of Parental Education with I.Q. of
 Offspring
@@ -424,7 +444,10 @@ Mother's education (corrected).
 .329
 .143
 .109
+
 Bibliography
+-------------
+
 1. Bayley, Nancy. Mental growth during the first three years: A developmental study of sixty-one children by repeated tests, Genet. Psychol.
 Monog., 1933, 14, 1-92.
 2. Burks, Barbara Stoddard. The relative influence of nature and nurture

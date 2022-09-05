@@ -2,14 +2,16 @@ The Mentality of the Criminal Woman
 ====================================
 
 REVIEWS AND CRITICISM.
-By Jean Weidensall, Ph.D. Educa.
+:Author:  Jean Weidensall, Ph.D. Educa.
 Psychol. Monog. No. 14. Baltimore: Warwick and York, 1916. Pp.
 xx+322.
+
 Professor G. M. Whipple, as editor of the series of monographs, contributes
 a preface in which he describes this book as "of prime importance to workers
 with mental tests and to practical penologists who S3ek to individualize punishment in such a manner as to meet the needs of the offender as well as the needs
 of the offence." No student of clinical psj'chology, moreover, can afford to
 miss it.
+
 An introduction by Dr Katherine Bement Davis outlines the history
 of the Laboratory of Social Hygiene in the New York State Reformatory for
 Women at Bedford Hills, N. Y., where most of Dr Weidensall's work was done.
@@ -38,6 +40,7 @@ data we so much needed were being in large part formulated by the Bureau of
 Vocational Guidance ... in Cincinnati under the direction of Dr Helen
 Thompson Woolley. . . . The application of these tests to the Reformatory
 women constitutes the major portion of this monograph.
+
 "The total list of our subjects' scores," Dr Weidensall remarks, "have
 been included in this monograph. They constitute a scale representative of
 an average and typical hundred criminal women who have been sentenced to
@@ -45,10 +48,10 @@ a reformatory. The complete list of the Maid's records is also given." Of
 the hundred women tested, eighty-eight were used in the percentile tables and
 curves, and twelve foreign women were omitted because they had little facility
 in the Engli h language.
+
 The standard tests which were given are:
 Physical tests.?(1) Height; (2) Weight; (3) Strength of Grip; (4) Steadiness of hand; (5) Rapidity of movement and indexes of fatigue.
-(268)
-REVIEWS AND CRITICISM 269
+
 Mental tests.?(6) Card sorting; (7) Cancellation of the letter a; (8) Memory
 span and the per cent of 7, 8, and 9 numbers remembered; (9) Substitution,
 (10) Completion of sentences; (11) Association by opposites. Besides these
@@ -69,11 +72,13 @@ efficient College Maids. The results of the two new verbal directions tests
 are not included. "It may be affirmed, however," says Dr Weidensall, "that
 they bid fair to be useful. . . . They serve to isolate with considerable finality
 those who are slow to comprehend simple, every-day directions."
+
 Among the conclusions reached, the most important is that "Approximately 40 per cent of the Bedford 88 are decidedly less efficient in whatever
 these tests measure than is the average Cincinnati working girl of fifteen. . . .
 It may also be affirmed that about 33.3 per cent of the Bedford 88 are at least
 as intelligent and as efficient in whatever these tests measure as is the average
 Cincinnati working girl of fifteen.
+
 "Even the more intelligent third of the Reformatory subjects differ very
 obviously and unmistakable in stability and emotional control from the group
 of Maids. The Maids are more self-contained; they constantly employ more
@@ -97,7 +102,6 @@ be trained to be efficient and be taught a reasonable measure of self-control.
 Perhaps this would be true for more of them, if their sentences were longer.
 As this work has proceeded the writer has felt increasingly sure that it would
 have been true for a much higher per cent if each girl could be put through a
-270 THE PSYCHOLOGICAL CLINIC.
 careful examination in a clearing-house at the time of her first offense, sentenced
 in accordance with her needs and capacities, and then have been followed up
 until each had received the discipline and the training found to be essential

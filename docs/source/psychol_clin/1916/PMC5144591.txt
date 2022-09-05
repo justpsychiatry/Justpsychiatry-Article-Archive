@@ -1,7 +1,7 @@
 The Outlook for James: A Clinic Teacher's Report
 ==================================================
 
-By Sarah Warfield Parker, A. B.
+:Author:  Sarah Warfield Parker, A. B.
 Graduate Student, University of Pennsylvania.
 It was a few months before his seventeenth birthday, when
 we first saw James. He stood awkwardly, with his right hand
@@ -17,12 +17,14 @@ the tongue slipped over them constantly, leaving them moist and
 red. To add the finishing touch to this unprepossessing appearance, the boy lifted his hand weakly and dragged the fingers through
 his short, oily hair, so that straight wisps stuck out untidily at
 every angle.
+
 James walked across the room with a queer, shuffling gait,
 thumping as though he walked in clogs. The right leg dragged as
 if it were weaker and possibly shorter. The grip of his hand too
 was weak, especially of the right. When he spoke the words came
 hesitatingly, often with a forced facetiousness that was vacuous
 and ineffective.
+
 "Right hemiplegia; right hemiparesis remaining; apparently
 about 80 per cent of development and 60 per cent of power on
 right as compared with left." This was the diagnosis of James'
@@ -37,13 +39,12 @@ was again threatened with a miscarriage at the third month, but
 carried the child over to the seventh month, when James was born
 prematurely. After two weeks, it was found that the child was
 suffering from uremic poisoning, and possibly from Bright's disease. At that time also, he had frequent convulsions. It was with
-(71)
-72 THE PSYCHOLOGICAL CLINIC.
 great difficulty that he was made to take food. The description
 of the baby in these first weeks is consistent with the symptoms
 of diplegia or hemiplegia, although a physician who examined the
 child at the end of the third week, stated that there was nothing
 organically wrong with him.
+
 The convulsions did not leave him with any perceptible paralysis, but he was slow in walking and talking. When he was two
 years old, he began to walk, with great difficulty, however, in the
 use of the right leg. The trouble was ascribed to a shorter Achilles
@@ -65,6 +66,7 @@ the first grade. His mental deficiency was a result of the cerebral condition wh
 development of the cellular elements of the cortical, and particularly of the pyramidal cells?not restricted to any one part
 of the brain but involving all parts of the hemispheres about
 equally."1
+
 A review of some of the cerebral changes as indicated in Professor Eugenio Tanzi's chapter on "infantile cerebropathies" may
 help us to interpret James's defective reactions. Professor Tanzi2
 agrees with Dr Sachs that in the greater number of cases, the
@@ -74,11 +76,12 @@ wider area by the effusion of blood throughout the cortex. He
 summarizes the anatomical disturbances as "atrophy of the nervous elements and excessive proliferation of the neuroglia."3 He
 ?Sachs, Bernhard, M.D. A Treatise on the nervjus diseases of children. New York J
 William Wood & Co., 1895.
+
 2 Tanzi, Eugenio. A Text book of mental diseases. Translated from the Italian by W. Ford
 Robertson, M.D., and T. C. MaoKentie, M.D. New York: Rebman Company, 1909. (Reprint
 1911.) Pp. 444-471.
 8 Ibid. p. 445.
-THE OUTLOOK FOR JAMES. 73
+
 states as his opinion, that the "associative centers are those most
 exposed to the first assault and to the further diffusion of the disease, for the reason that they present a mark which is more widely
 dispersed and collectively larger."1 Prof. Tanzi describes the condition of the mental processes and the effect upon the character of
@@ -108,13 +111,14 @@ transmission of impulses along the sensory and motor tracts, defective associati
 of behaviour had a common mechanical basis in the defective apparatus for sending the nerve currents from one cell to another,?i. e.
 ill-nourished cells without adequate energy and adequate receptive
 dendritic processes.
+
 Apathetic James certainly was. He had no "spunk." He
 i Ibid, p. 445.
 a/Wei. p. 461.
 ?Ibid, p. 461.
 * Ibid, p. 460.
 ? Ibid, p. 469.
-74 THE PSYCHOLOGICAL CLINIC.
+
 knuckled under to the strongest, and he did it meekly, meanly.
 A boy might taunt him, call him "coward," "sissy"?there was
 no retort; but let that boy touch James in the merest good-humored
@@ -157,11 +161,11 @@ By insistent drill he can be made to eliminate some of the stupid
 useless movements and comments which delay his reactions. . . .
 I am sorry to keep you so long, I had to turn this page. You see it
 had to go this way instead of that way." He will stand slouching in
-THE OUTLOOK FOR JAMES. 75
 the middle of the floor, muttering: "I'm going to try to hurry now
 ?I shan't be long this time?I'm sorry that I'm so slow." James'
 slowness is a functional disability, but this deliberation is a habit
 which should respond to training.
+
 A pack of eighty cards, consisting of ten suits of eight cards
 each, having printed on each respectively one of the ten form-board
 geometric figures, was used to determine by test this trainability of
@@ -177,13 +181,16 @@ his motor reactions. Reactions which follow processes involving
 simple psychic functions come less slowly than one might expect.
 James' reaction time has been tested only roughly, but the results
 give an impression of his responses.
+
 Speed Tests.
+
 Test 1, February 15, 1915. Woodworth and Wells,1 Number
 Checking Test, a blank on which are printed 500 digits in ten rows
 of fifty each, so arranged that each digit occurs with equal frequency
 in each row. The subject is directed to draw a line through each
 cipher on the blank,?a test involving simple recognition and motor
 response.
+
 Comparative Time Record.
 James?no errors  185 sec.
 Imbecile (probably H. G. I.) (14 years)  157 "
@@ -200,7 +207,6 @@ involves recognition and voco-motor response.
 'Woodworth, R. S., and Wells, F. L., Association Tests. Psychological Review (Reprint),
 Vol. VIII. No. 5, December, 1911, pp. 24-29.
 2 Ibid, pp. 49-52.
-76 THE PSYCHOLOGICAL CLINIC.
 Comparative Time Record.
 James  45 sec.
 Moron (15 years)  35 "
@@ -228,6 +234,7 @@ Moron (15 years)  74 " 53 " 50 "
 H. G. I. (15 years)  113 " 52 " 89 "
 Adult 1  53 " 33 " 30 "
 Adult II  40 " 32 " 35 "
+
 James's practice record for ten trials was (1) 70 sec.; (2) 43
 sec.; (3) 80 sec.; (4) 99sec.; (5) 73 sec.; (6)74sec.; (7) 66sec.; (8)61
 sec.; (9) 49 sec.; (10) 55 sec. This record is significant in its unevenness
@@ -237,12 +244,14 @@ thirty-six round holes, and a tray containing in one compartment
 four dozen white pegs and in another compartment one dozen each
 of red, blue, green, and yellow pegs. The subject is first directed to
 fill the holes with white pegs as rapidly as possible.
+
 Comparative Record.
+
 James used left hand, placing one peg at a time; coordination
 scarcely fair; attention persistent; energy 1 (lowest) on a scale of
-THE OUTLOOK FOR JAMES. 77
 five; planful in that he placed pegs in an orderly way, row by row.
 Time 78 sec.
+
 Moron (15 years) used two hands, taking up several pegs at a
 time; coordination fair but broken by nervous excitability; twisted
 the board, dropped pegs and wasted much energy; planful but not
@@ -253,9 +262,11 @@ Adult II  42 "
 The subject is then directed to put in a row of red pegs. After
 carrying out this direction he is directed successively to put in a
 row of each one of the remaining colors.
+
 James showed no defect in color discrimination. He understood and followed directions, and displayed more initiative than
 we were accustomed to expect of him, suggesting another color as
 soon as he had finished with the preceding one.
+
 Test 6, May 9,1915. Association Test, Carl G. Jung Association
 Blank,1 a series of 100 words arranged by Carl G. Jung. The subject, seated with back to experimenter responds with any word
 suggested by stimulus word, and the reaction word is recorded.
@@ -306,6 +317,7 @@ association that we find James's most serious deficiency. To discuss
 understandingly the evidence of this defect, and to determine just
 what is the effect of this deficiency upon the learning process we must
 attempt a tentative analysis of that process itself.
+
 There are probably three processes of mind fundamental to the
 learning process,?attention, imagination, and memory. Under the
 caption of attention, we must consider analytic and persistent
@@ -314,13 +326,14 @@ intensity and associability; under memory, trainability as measured
 by the number of repetitions necessary to fix an image, and retentiveness. These, subject to the direction of the volitional elements of
 mind, control and initiative, are the fundamental factors in the learning
 process.
+
 From a pedagogical point of view, attention is the first to be
 considered, because it is the active element in education. When we
 say that a child must be prepared for school work, we mean that his
 attention must be trained. It is to that function of mind, that we
 either consciously or unconsciously direct our efforts. James needed
 ? Woodworth and Wella, op. pp. 59-60.
-THE OUTLOOK FOR JAMES. 79
+
 no such preparation for study. His attention was good. He had
 the capacity for analytic concentration,?that is to say, he could
 separate into component parts the sensational elements of his perception. This conclusion is based on daily observation; the quickness with which James singled out birds and flowers in the fields, the
@@ -346,24 +359,27 @@ boy there was a little boy looking at the Scotch boy. His hair was
 dark. He had a blue suit on, and shoes. They were standing still.
 The Scotch boy was looking at the little boy and the little boy was
 looking at the Scotch boy."
+
 To be sure, his pathological lethargy often prevented the volitional element of initiative from acting so as to use effectively this
 capacity for analytic concentration. He was lacking likewise in the
 ability to follow analysis with synthesis,?that is, to pass again from
 the state of concentration to the state of diffusion. That, I believe,
 however, is a process of associating part with part to form a whole and
 comes rather under the caption of association.
+
 James's persistent concentration was equally good. He stuck
 to each task perseveringly without flagging of effort or interest. In
 distribution, likewise, there appeared no observable defect. He
 therefore had all the qualities of attention which are fundamental
 to the learning process.
+
 Imagination we have chosen to discuss from two points of view,
 intensity, and associability. The intensity of James's images,
 especially visual, seemed to be normal. He remembered readily
 birds and flowers which he saw. He remembered accurately the
-80 THE PSYCHOLOGICAL CLINIC.
 map which he studied. He could reproduce from his image simple
 designs made out of four design blocks.
+
 The intensity of visual images was apparently of relatively high
 order. Auditory images were probably normal. He remembered
 and recognized bird calls without effort. Response to practice in
@@ -372,6 +388,7 @@ images. His voco-motor images, too, in all probability, were not
 defective, since he had no particular difficulty in remembering words
 and names. There was no evidence of defect in the intensity of
 imagination.
+
 The subject of associability is to us the most important. We
 have to consider it in three divisions, although the third somewhat
 overlaps the first two:?(1) sequence in association, (2) logical relation in association, (3) recall.
@@ -380,6 +397,7 @@ span. It is the linking of images in simple series. In this first and
 simplest element of association James is deficient. The following
 shows his memory span to be approximately that of an eight year
 old child.
+
 Presentation Visual Auditory
 Digits   5 5
 Letters  5 5
@@ -423,6 +441,7 @@ East west
 Day short
 Big high
 Love love?"why, just love."
+
 Recall is itself nothing but controlled association?the ability
 to produce at will two or more images linked by sequence or logical
 relation. James was consequently distinctly weak in recall. A
@@ -440,7 +459,6 @@ simple image is fixed without a great number of repetitions. It is
 the association of images that must be fixed by drill. In retentiveness, there is the same situation. James remembers well what is
 taught to him, but his mind seems a vast chaotic store of images
 linked in very elementary sequences, which are practically unassociated with each other.
-82 THE PSYCHOLOGICAL CLINIC.
 It seems very probable that James has no fundamental mental
 defect other than that in the process of imagination which we call
 associability. That function is so essential, however, to the learning
@@ -450,6 +468,7 @@ hopeful prognosis. Only physiological strengthening of the brain
 cells will establish the stability of association tracts which can
 correct this condition. In training James, the most we can do is to
 attempt by drill to fix certain associations.
+
 If this defect of association interferes so gravely with the simple
 acquirement of facts, it is only to be expected that it would affect
 even more gravely the higher phases of the learning process involved
@@ -459,6 +478,7 @@ relation are the chief constituent processes leading to the conclusion
 which we call reason. In the solution of every problem, there must
 be analysis and there must be synthesis?that is, constructive
 association.
+
 We have presented certain instances of behavior from which
 we infer that James had the first element?analytic concentration
 ?at least in relation to concrete perceptions and images. This
@@ -466,6 +486,7 @@ type of concentration of attention varied inversely, as the material
 presented to consciousness became more general and abstract. The
 major part of the boy's defect in the faculty of reason, however,
 was due to his defect in constructive association.
+
 In the description of the pictures, which have been used for
 illustrative material, we find a rather unusually minute selection of
 details, but not a sentence that describes the picture as a whole.
@@ -483,9 +504,9 @@ essentially a completion test, consisting of sentences with omitted
 words to be filled in by the subject. He attempted sentences up to
 the seventh grade, but failed in one fourth grade, one fifth grade, one
 sixth grade, and one seventh grade sentence. This performance
-THE OUTLOOK FOR JAMES. 83
 gives him a mark of sixteen points, which according to Mr. Trabue's
 figures, ranks him with third grade children.
+
 Woodworth and Wells, in their book on "Association Tests,"
 publish three interesting and rather amusing blanks designed to test
 the ability of a subject to understand directions.1 On one of the
@@ -494,6 +515,7 @@ simple processes of association), James did very well. On the more
 difficult blank, where more of the element of selective attention and
 constructive association entered in, James's mark for comprehension
 was not above 50 per cent.
+
 In the same way, James failed on all the Binet tests that depended
 upon an effort of reason, except in the simple problems of behavior,
 which a nine-year-old boy is supposed to pass. A record of his
@@ -505,6 +527,7 @@ well." What is foolish in that?
 A. Why didn't they bandage his head as soon as he got there?
 Q. "I have three brothers, Paul, Ernest, and myself." What is
 foolish in that?
+
 A. He could have one more brother without counting himself.
 Q. "The body of a young girl cut into eighteen pieces was
 found yesterday. People think that she killed herself." What is
@@ -526,9 +549,9 @@ Q. "My neighbor has just received some significant visits; one
 after another, a doctor, a lawyer, and a priest called. What is
 happening at my neighbor's?"
 1 Woodworth and Wells, op. cit.
-84 THE PSYCHOLOGICAL CLINIC.
 A. Doctor there to help her, priest there to a dinner and lawyer
 because she wants to make some new laws.
+
 The persistence of this inability to reason showed itself particularly when James was confronted with the simple problems of
 arithmetic. He is seventeen years old. He cannot make change.
 He cannot count the cost of three two-cent stamps and three onecent stamps. On the morning of February 23, 1915, James was given
@@ -550,6 +573,7 @@ exactly the extent of the consequent pedagogical retardation by outlining his sc
 examiner, according to the Binet tests, and according to his general
 school progress, James has, in the main, developed no further than
 the nine-year-old-child.
+
 James, since he has normal kinaesthetic and visual images, has
 learned to write legibly but carelessly a handwriting worth perhaps
 40 per cent by the Ayres Scale. He has learned to spell certainly no
@@ -566,7 +590,6 @@ wages; (2) omission, "conveent" for convenient; (3) phonetic,
 "exsalunt" for excellent; (4) inversion, "Adiartic" for Adriatic;
 "Scandinvania" for Scandinavia. This last was the prevailing
 type of error. James can learn to spell readily, especially if he sees
-THE OUTLOOK FOR JAMES. 85
 the words. It takes constant drill, however, to fix the letter order so
 that it will persist in spite of the confusion of association. This
 recurrence of inversion of letters is typical. All the letters are
@@ -575,6 +598,7 @@ out. Leonard P. Ayres' "Scale for Measuring Ability in Spelling,"
 which was published in April, 1915, offers a more accurate measure
 of James's efficiency in spelling. The Ayres Scale has a practical
 basis in the "thousand commonest words in English writing."
+
 According to this scale James has ability in spelling somewhat greater
 than that of the average fourth grade child. The following table
 compares his ability on June 2, 1915 with Mr. Ayres' standards for
@@ -622,15 +646,16 @@ James' status in arithmetic is not encouraging. In fundamental
 processes he is slow but fairly accurate. The association sequences
 involved are simple enough for him to learn, and he knows them
 satisfactorily, subject however to an occasional characteristic slip
-86 THE PSYCHOLOGICAL CLINIC.
 of association. In reasoning, obviously, his mark is zero. In
 January, the Courtis Arithmetic Tests were given to James but his
 motor reactions are so slow that his grading in the mechanical processes was scarcely a fair index of his capacity, though doubtless
 placing him justly on the efficiency scale. Of decimals, he knows
 something; of fractions, less.
+
 The first composition James wrote in the school, January 15,1915,
 carries in itself the evidence of his status in English composition:
 "The Boy and the Wolf.
+
 "A Little Shapard was keeping his flocks a little way out of the
 village. And he came rushing into the village crying a wolf was
 after one of is had lambs. And he ran for help and twice or three
@@ -638,11 +663,13 @@ times the work men dropped is work and want to help him but when
 he got there they were only laugh at and nobody paid any heed to
 them. And they were though him of his joke and that was how he
 lost his flock."
+
 The four months following showed a gradual improvement in
 sentence structure, the elimination of confused and careless constructions. He could write a letter or a diary, lucidly following sequence
 in time. There seemed to be little improvement, however, in his
 grasp of more complex associations and the ability to comprehend
 and reproduce the elements of a simple plot.
+
 Of history and geography James had learned and retained a great
 deal, but knew nothing,?that is to say, his mind was stored with a
 vast number of facts wholly unassociated and all subject to the most
@@ -661,20 +688,22 @@ exercising it he was keeping alive that segment of the reasoning
 faculty which he possessed. The task of establishing ordered associations was necessarily a slow one because its basis was drill and
 patient repetition. At the end of four months, James knew thoroughly the most important facts about nine of the countries of
 Europe. In so far as effective associations could be established in
-THE OUTLOOK FOR JAMES. 87
 his unstable mind, they were established. There had been fixed a
 high probability of a correct response to questions reating to this
 mass of information, yet sometimes scattered through a long series
 of questions, the drilled association would fail to hold and each
 sequence would have its turn at failure.
+
 The work in geography served further as a disciplinary exercise.
 The cholalic habit of repetition was almost entirely eliminated, and
 the unnecessary factors serving to lengthen reaction time minimized,
 so that three or four seconds was the standard reaction time in
 responding to questions.
+
 A conclusion as to wise procedure in the further handling of
 this case must be based on a review of the situation outlined in the
 preceding pages.
+
 James is a boy whose mental development has been so arrested
 by cerebropathic conditions, that in seventeen years his progress in
 school has been less than that of a normal nine-year-old child. The

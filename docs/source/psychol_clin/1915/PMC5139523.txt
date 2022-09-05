@@ -1,8 +1,9 @@
 The Factor of Experience In Intelligence Testing
 ==================================================
 
-By Rudolph Pintner and Donald G. Paterson.
+:Author:  Rudolph Pintner and Donald G. Paterson.
 Ohio State University, Columbus, Ohio.
+
 This paper will endeavor to show that the factor of experience
 in intelligence testing depends upon the type of test used. In a
 previous article1 the writers showed that those defectives over fifteen
@@ -31,12 +32,12 @@ those tests that call for adaptations on the part of the re-agent to
 relatively new situations will best discriminate between degrees of
 1 Experience and the Binet-Simon tests. The Psychological Clinic, Vol. VIII, No. 7,
 December 15, 1914.
+
 2 J. E. W. Wallin. The Binet-Simon tests in relation to the factors of experience and
 maturity. The Psychological Clinic, Vol. VIII, No. 9, February 15, 1915.
 'Stern, William. Psychological methods of testing intelligence. Tr. by G. M. Whipple.
 Baltimore: Warwick & York, 1914, p. 3.
-(44)
-THE FACTOR OF EXPERIENCE. 45
+
 intelligence. Empirical evidence shows this to be the case. Based
 upon an analysis of the Binet-Simon tests given to feebleminded
 children, Chotzen4 found that among children of the same mental
@@ -140,17 +141,19 @@ Passed.
 Total . . 102
 Grand Total. .320
 218
+
 Keeping these points in mind we will proceed to consider the
 results obtained in testing 320 feebleminded inmates of the Ohio
 Institution for Feebleminded Youth6 with the Knox Cube Test7
 revised and standardized by Pintner.8 The tests were not made
 tIbid., p. 89.
 6 Ibid., p. 89.
+
 6 The writers wish to acknowledge the courtesy of the Superintendent, Dr E. J. Emerick.
 7 Howard A. Knox. A Scale based on the work at Ellis Island, for estimating mental
 defect. J. of the Am. Med. Assoc., March 7, 1914, Vol. LXII, pp. 741-747.
 8 The standardization of this extended Cube Test to be published shortly.
-46 THE PSYCHOLOGICAL CLINIC.
+
 with the view of showing such facts as we here present, but for the
 purpose of comparison with normal children of corresponding ages.
 Bias in giving the tests to the older and younger feebleminded
@@ -178,6 +181,7 @@ the two groups is one of experience, i. e. they will excel in those tests
 which depend upon daily experience. The difference is due to the
 kind of test and not to any maturity difference or any intellectual
 superiority.
+
 Although maturity and experience are two factors which are
 no doubt closely inter-related, yet they are different, and it is well
 to avoid confusion between them. The distinction is not made
@@ -191,7 +195,6 @@ due to a maturity difference and would apply to young children
 only, younger than any that have been considered by Wallin or
 by us. Experience, on the other hand, refers to the number of
 times an individual has been confronted with the same situation,
-THE FACTOR OF EXPERIENCE. 47
 and should be kept distinct from maturity. We can not conceive
 of maturity differences entering into any of the tests under discussion with the individuals tested, but experience differences obviously
 do, and yet only in some specific tests. We have mentioned the
@@ -212,17 +215,12 @@ those over 21 passing only 1.14 lines. The same tendency is seen
 for each mental age. The curve shows graphically the average
 efficiency per mental age for those over 21 (solid line) and for those
 below 15 (dotted line).
-PlV.
-No. {
-hh?i I
-i av or alovz*
-= i? or ?e/otV.
-/<3 //
-48 THE PSYCHOLOGICAL CLINIC.
+
 This curve enables us to see at a glance that the children are
 superior to adults throughout all mental ages. This is in direct
 contrast to the results found in our paper on the days and months
 test.
+
 Now, we could take the average number of lines passed for
 all ages for each group, but this would not be accurate for we have
 not tested the same number in each group in each mental age. It
@@ -258,13 +256,13 @@ a scale that has eliminated the experience factor as far as possible,
 their difference in mentality would have been shown. Now any
 two individuals, no matter what their chronological age, testing the
 same by such a scale, would show about the same average performance in any other test involving practically no experience.
-THE FACTOR OF EXPERIENCE. 49
 We will next take up the consideration of a different test, i. e.
 Knox's Feature Profile. This test is placed before the child with
 the following verbal direction, "Put this together." It pre-supposes on the part of the subject an ability to read a diagram, to
 perceive the seven pieces of the profile, as a head, to synthesize in
 other words the various parts into a whole. The results are given
 in table II.
+
 TABLE II.?SHOWING RESULTS OF FEATURE PROFILE TEST.
 Chron.
 Age
@@ -327,6 +325,7 @@ Grand Total.. . .179
 71
 100
 100
+
 Under each mental age are given three columns, one showing
 the number of passes (i. e. when subject puts the parts together
 correctly within five minutes), one the number of failures, and the
@@ -336,11 +335,11 @@ up and down is found the difference in efficiency for each group in
 any mental age. There are 179 cases recorded, 86 above twenty-one
 chronologically and 93 below twenty-one. This table is not so satisfactory as table I in showing these group differences because of the
 relatively few cases tested below 15 years.
+
 Below age IX there is no basis of comparison because of the lack
 of subjects. In age IX however we find that those below fifteen
 have a percentage of passes of 71, those below twenty-one have 65
 per cent, those fifteen to twenty-one have 55 per cent, those above
-50 THE PSYCHOLOGICAL CLINIC.
 fifteen have 50 per cent, while those above twenty-one trail along
 behind with only 36 per cent of passes. It is significant that even
 with the small number of cases we find exactly the same tendency
@@ -356,6 +355,7 @@ mental age as the child would be as efficient in meeting the new
 situation. We hold then that it is not a question of physical growth
 but rather of a too liberal estimation of an adult's intelligence by the
 Binet-Simon scale.
+
 In conclusion we may ask, what does all this show? We believe
 that first, it is of value in calling attention to the fact that the interpreter of Binet test results must take into account this factor of
 experience when summing up his case, and secondly, that tests

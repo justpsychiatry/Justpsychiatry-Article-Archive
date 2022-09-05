@@ -4,10 +4,10 @@ Performance and Success
 The Psychological Clinic
 Copyright, 1919, by Lightner Witmer, Editor.
 Vol. XII, Nos. 5-9 May 15, 1919
-
 An Outline of Psychology for Diagnostic Testing and Teaching.
-By Lightner Witmer, Ph.D.,
+:Author:  Lightner Witmer, Ph.D.,
 University of Pennsylvania.
+
 This outline of a new psychology is published primarily for the
 use of students of psychology at the University of Pennsylvania.
 It covers a part of what is taught students both at the Summer
@@ -16,6 +16,7 @@ The student who has understood and assimilated it, is ready to
 apply his acquired knowledge to the interpretation of the results of
 a psychological test, and to employ psychological diagnosis in the
 practice of teaching.
+
 The psychology here outlined is a clinical psychology, that is to
 say it is the psychology of an individual child or adult. This outline
 is the skeleton of a body of knowledge which must be held in mind
@@ -28,15 +29,15 @@ social standards. The value which I claim for this psychological
 outline is that it works in practice, whether for individual or social
 diagnosis, whether for teaching or vocational guidance, whether
 to ameliorate or offset a defect.
+
 OBSERVATION
+
 Psychology, like every other science, is based upon observation.
 The psychologist observes performers and their performances, infers
 their purpose or intention, and then records the results of a performance in terms of success, the zero point of which is failure.
 Psychology, therefore, observes the performances of individual
 men and women, children and animals, for the purpose of determining
 their relative competency to achieve results of standard value.
-(145)
-146 THE PSYCHOLOGICAL CLINIC.
 Observation is a scientific method. It is also a congenital ability
 which every normal child displays from early infancy. By means
 of observation the child acquires knowledge which he then employs
@@ -45,8 +46,10 @@ level of the college student and at the various intellectual levels of
 everyday life, observation operates as an important capability.
 Success or failure rewards the individual's congenital and acquired
 ability to observe.
+
 To observe is to attend to something and to make note of it
 for a purpose.
+
 If an individual discerns the purpose of his observation, his
 purpose is called an intention. He may make an observation
 without intending it. For example: he may spit out of his mouth
@@ -61,7 +64,9 @@ observation may be revealed to him only after he has made it.
 For much casual observation, we may be unable to give a reason
 and it may, indeed, have little or no intention, but it is nevertheless
 motivated by congenital ability having purpose, which, when particularized, is called the instinct of curiosity, the source of all observation and of every science.
+
 DESCRIPTION
+
 A scientific observation is not completed unless the observer
 notes what he has observed. The flitting attention of the child or
 adult doubtless determines behavior and increases efficiency, but
@@ -76,9 +81,9 @@ what he observes, or, in other words, to give precise descriptions.
 From the written records he can then select what has significance or
 value in relation to his intention at the time he made the observation.
 A summary of his recorded observation, he must then embody in a
-PERFORMANCE AND SUCCESS. 147
 report which may lead to and comprise explanations, diagnoses,
 conclusions and general principles.
+
 Observation, then, is not a simple but a complex ability. The
 two abilities which compose it are attention and memory.
 ATTENTION
@@ -99,13 +104,16 @@ observes occurrences: the setting of the sun, or the passing of a
 train. He observes objects: the stars, the trees, a house. Among
 the objects which a psychologist observes are the performer's hands
 and feet, his head and body.
+
 Attention unitizes many occurrences into a single event, as
 when we speak of the Civil War, many objects into a single object,
 as a pile of bricks. It unitizes all the objects of the world, and calls
 this single thing a universe. To particularize a performer is called
 individualization.
+
 Attention is particularization. The degree of particularization
 is measured on the scale of definiteness.
+
 Attention to a severe pain, to a band of music, to a bright object
 is very definite in particularization. When one is half overcome
 with sleep or stands looking into the dusk at some fading landscape,
@@ -115,8 +123,8 @@ in definiteness of particularization. It is more important, however,
 to ascertain what a performer is particularizing at the moment and
 to discover what he particularizes habitually, than it is to measure
 the definiteness of his particularization.
+
 Psychology, therefore, observes individuals and even groups of
-148 THE PSYCHOLOGICAL CLINIC.
 individuals, which may be either unitized or individualized and
 called the family, the army, the nation or the race.
 Psychology observes relatively simple performances like walking,
@@ -126,8 +134,11 @@ Performances may be unitized, even though not in a continuous
 series, as when we speak of a boy's behavior at home or at school, or
 an individual's behavior through life, or the behavior of an army or
 nation during the war.
+
 Psychology is, then, correctly defined as a science of behavior.
+
 GROWTH AND CULTURE
+
 To understand the performances of an individual it is necessary
 to know something of the performer's ancestral and individual
 development and relate this to the evolution of the race from lower
@@ -144,22 +155,27 @@ necessary to distinguish two lines or scales of individual development:
 the growth scale, on which we plot his development in body and mind,
 and the culture scale, representing his growth in knowledge through
 education and experience.
+
 The line of organic development from the lowest forms of living
 organisms to the highest type of human being is the line of phylogeny.
 This line also is divided into two lines: the scale of organic evolution,
 or more simply the species scale, and the scale of racial culture, the
 civilization scale.
+
 Every performer under observation can be assigned with more
 or less certainty to a position on: first, the species scale; second, the
 civilization scale; third, the age scale; and fourth, the culture
 scale.
+
 These scales are used for the purpose of estimating relative
 position, or rank, when one performer is compared with another.
 On any one of these scales a lower position than the average for
 chronological age is called retardation. On the species scale retardaPERFORMANCE AND SUCCESS. 149
 tion is atavism; on the civilization scale, primitivism; on the growth
 scale, infantilism; and on the culture scale, ignorantism.
+
 TELEOLOGY AND ETIOLOGY
+
 Continuous observation shows that every particularized performance is preceded and followed by other performances, by occurrences, and by the appearance and disappearance of objects, as
 when a child builds his blocks into what he calls a house, and then
 knocks them down again, or children on the street dance to the music
@@ -196,7 +212,7 @@ question is mainly or wholly congenital; thus curiosity is a capability,
 but observation is partly congenital and partly acquired, whereas
 scientific observation is wholly acquired, although developed from
 congenital abilities.
-150 THE PSYCHOLOGICAL CLINIC.
+
 Every acquired ability, in so far as it is acquired and not congenital, is the effect of causes acting during the individual's lifetime.
 Whether the existence of a congenital ability can be explained as
 the effect of causes acting through heredity and derived from the
@@ -205,7 +221,9 @@ point of psychology is the assumption of a number of congenital
 abilities, and the first question to be answered is how many and
 what congenital abilities are to be recognized as potentially existing
 in every normal individual.
+
 EXCITABILITY
+
 Spontaneity Irritability
 Initiative Guidance
 Performance Reaction
@@ -214,6 +232,7 @@ Competency Efficiency
 The Start The Guide
 Control Direction
 Motivation Stimulation
+
 Excitability is the ability of a performer to be excited by a
 stimulus to initiate a performance. It is displayed by living organisms at the lowest point of the species scale and the highest, from
 the point of birth on the age scale to its terminal of death. Excitability initiates a performance and reacts to a stimulus. It is the
@@ -230,13 +249,14 @@ particular urge to fight; the urge to migrate, of which truancy is a
 variety; the urge to court, to marry, to beget and raise children.
 The highly particularized urge to organize an educational system
 for the benefit of all the children of a community is only a particular
-PERFORMANCE AND SUCCESS. 151
 display of the aboriginal urge for the preservation of the individual
 and the race.
+
 The motivation includes all the purposive antecedents of performance, whether the purpose is discerned by the performer or not.
 It includes all his congenital and acquired abilities, among which
 some may be particularized as emotions or ideas, others, as instincts
 or habits.
+
 When the purpose of an ability, operating to produce a performance, is discerned by the performer, or its existence is assumed by
 an observer, the discerned or assumed purpose is called a motive.
 Included among the motives are the emotions and many instincts.
@@ -254,11 +274,13 @@ the performer's initiative. Etiology is a study of the stimuli causing him to re
 the objects and occurrences of his environment. Motivation and
 the initiative are endogenous, stimulation and the reaction are
 exogenous.
+
 The human body occupies a peculiar position. Within it
 originates the motivation of behavior, and within it, as well as beyond
 it, are the stimuli of reactions. The etiology of stimulation includes
 stimuli arising within the performer's body, excluding only what
 belongs to the teleology of motivation.
+
 152 THE PSYCHOLOGICAL CLINIC.
 THE EMOTION
 Emotives Directives
@@ -287,6 +309,7 @@ symptom of exhaustion, malnutrition or satiety. On the intensity
 scale of desire, we may pass from an inclination or disinclination to
 stronger likes or dislikes, and ultimately to the maxima of love or
 hate, the pathological manias and phobias.
+
 Desire is the performer's motive. Its expression is a performance
 resulting in success or failure, satisfaction or dissatisfaction. Mood
 is the expression of an urge to performance, either wishing or dreading, either hope or fear, and at the same time, it is a reaction to the
@@ -296,10 +319,10 @@ of dreading or failing. Lethargy is the indifference point.
 Interest and ennui, hope and fear, are increasingly more intense
 displays of the alternating moods of exhilaration and depression.
 Pathological exhilaration is displayed in the maniacal stage of manicdepressive insanity, while melancholia is the final stage of depression.
-PERFORMANCE AND SUCCESS. 153
 The fear psychosis is at the basis of many defects in children, just
 as it is the source of much mental disorder in adults. In both
 children and adults it is a display of depression.
+
 The etiology of exhilaration and depression must concern itself
 with the normal surge of energy, now to exhilaration, now to depression, as well as with the pathological and more or less permanent
 stages of manic-depressive insanity. The mood line of every normal
@@ -313,6 +336,7 @@ etiological factor determining the display and rhythm of desire and
 mood. Likes and dislikes, hopes and fears, are the primal and unparticularized expression of metabolism. They are fundamental
 motives of behavior, early discriminated by man as the four emotions
 ?I call them emotives?love, hate, hope and fear.
+
 Desire and mood are expressed in the emotionalized attitudes
 of sympathy and antipathy. These, in turn, motivate the performer to do something, "to promote" or "to oppose," and in the
 performance, he will display respectively the emotionalized attitude
@@ -334,6 +358,7 @@ not only the motivation of performance by motives and intentions,
 but also operations produced without emotional motivation. Expres154 THE PSYCHOLOGICAL CLINIC.
 sibility, therefore, is the ability to do, to carry on, to operate, no
 matter what the source of motivation may be.
+
 A particular form of expressibility is the urge to seek pleasure and
 to avoid displeasure. Pleasure and displeasure are emotives.
 Appetite and distaste are particularized expressions of desire, as
@@ -345,6 +370,7 @@ rejection are the contrasting attitudes and operations of susceptibility; appeti
 displayed at the zero point of indifference. Torpor, like apathy
 and the other zero points of motives, is dependent upon the energy
 of the performer.
+
 I have now differentated eight emotives: inclination and disinclination, hope and fear, sympathy and antipathy, pleasure and
 displeasure. Under one or the other of these, or under some
 combination of two or more, the motives to behavior may be classified.
@@ -389,6 +415,7 @@ so-called "intelligence tests" are strictly speaking only performance
 tests. When performances are interpreted with the aid of the
 psychological assumption, performance tests become mentality tests,
 tests of the performer's mental abilities.
+
 Every performance is a resultant of the operation of one or
 more mental abilities. The more definitely the performance is
 particularized, the more clearly do we recognize it to be a discrete
@@ -399,7 +426,7 @@ acquired either by experience or by training, and partly the
 unfolding of congenital capabilities. The operations of discernability,
 are measured on the scale of vividness and on the scale of
 definiteness. On the scale of definiteness, the operation of discernability is what is commonly called attention.
-156 THE PSYCHOLOGICAL CLINIC.
+
 THE OPERATION
 The Start The Guide
 Kinesis: Motibility Aesthesia: Discernability
@@ -434,13 +461,13 @@ civilization has been nourished. Fire, the chemical balance, writing,
 the printing press, the mariner's compass, gunpowder, the telescope
 and the microscope, all these instruments have been added to man's
 congenital forces.
+
 The urge of appetite and distaste (nausea) leads man to smell, to
 taste, to put food into his mouth or reject it, to masticate, to savor
 and then to swallow it. If distaste does not reject it, an organic
 nausea may, and the congenital reflexes can even eject itjfrom the
 stomach after he has swallowed it. Along this road, man^began to
 particularize his pleasures and displeasures, and these in turn became
-PERFORMANCE AND SUCCESS. 157
 motives to wider exploration. He discovered, also, the pleasure of
 accomplishment, but strenuous activity always remained a joy in
 itself, for activity is an exhilarant and awakens desire without the
@@ -451,12 +478,14 @@ even without the motive of desire or enjoyment. It motivates the
 strenuous life in which the pursuit of power becomes an ideal of
 desire, in comparison with which the pursuit of enjoyment offers
 but feeble interest.
+
 If kinesis has led man to exert his own force and to discover
 the forces of nature, aesthesia has led him to discriminate and
 appreciate his sense-perceptions. Seeking enjoyment, accepting
 the agreeables and rejecting the disagreeables, he learned to know
 good and evil. If kinesis has initiated the pursuit of knowledge,
 aesthesia has directed it.
+
 power: mentability
 Initiative Guidance
 Competency Efficiency
@@ -479,7 +508,6 @@ at the first successful attempt is approximately zero, will increase
 until he gains control over these two operations and begins to employ
 them as instruments to acquire knowledge and express his thoughts.
 A child's competency to read and write may be easily ascertained
-158 THE PSYCHOLOGICAL CLINIC.
 by the attempt to teach him reading and writing. During the first
 school year, he should have established his competency and acquired
 a measurable efficiency in these two operations. As he passes from
@@ -495,6 +523,7 @@ of addition is determined by the number of accurate additions
 which the child is able to produce in a given unit of time. Accuracy
 measures the competency. Efficiency is measured in terms of time
 and product.
+
 Practice and training may increase efficiency indefinitely. The
 excessive efficiency of an operation is no more to be desired than
 inadequate efficiency. The standard of efficiency to be established
@@ -511,6 +540,7 @@ foreign language is to be learned, the aim should be to develop an
 adequate instrument which can be used to exchange ideas with the
 foreigner and to procure information or enjoyment not otherwise
 obtainable.
+
 The history of organic evolution, as well as the ontogeny of a
 child is the story of the organization and control of a number of
 diverse abilities so as to perfect a new unitized ability, which is then
@@ -522,10 +552,10 @@ and the discoveries of science and art, provided the human being
 with instruments of precision, enjoyment and general utility. Of
 congenital instruments, the eye is perhaps the most important.
 In comparison with other organic instruments, binocular vision,
-PERFORMANCE AND SUCCESS. 159
 articulate language and the right hand are instruments of precision,
 comparable to the chemical balance, the telescope and the microscope
 among mechanical and scientific instruments.
+
 Conformity is displayed in the relative constancy or accuracy of
 an operation. Absolute conformity or accuracy is the only acceptable
 standard in arithmetic. The performer, when required to add two
@@ -539,7 +569,9 @@ eccentricity is called variability. Some measure of conformity to
 type is required of every operation. No individual, however, conforms to type in all his operations. He displays more or less eccentricity. The line between normal variability and abnormal deficiency
 or defect is a proficiency criterion, determined partly by the biologist,
 but in mental operations chiefly by individual or social requirements.
+
 INTELLIGENCE
+
 The Competency Grades The Intellectual Levels
 Intelligence is eccentricity. Its only criterion is success. Intelligence is the ability of the individual to solve what for him is a new
 problem. It is the ability of the organism to change a conformed
@@ -548,6 +580,7 @@ which does not necessarily increase with the intellectual and other
 resources at the performer's command. It may atrophy through
 disuse, however, and often does, especially under a rigid system of
 educational training.
+
 Intelligence, then, is successful eccentricity. It is competency
 achieving success without efficiency. It is the performer's initiative
 operating successfully but without sufficient guidance to make
@@ -557,13 +590,13 @@ directions that success is sure. The formboard is an intelligence
 test for a three- or four-year-old child, provided he is merely directed
 to replace the blocks. If he is shown how to replace the blocks or
 if, as he proceeds, he is told when he is right or wrong, the formboard no longer serves as a test of intelligence. Intelligence is displayed only where the probability of success is fifty per cent or less,
-160 THE PSYCHOLOGICAL CLINIC.
 and intelligence increases as the probability of success diminishes.
 If a test is above the intellectual or knowledge level of the performer?for example, the formboard at the two-year level, the
 cylinder test at the four-year level or a problem in arithmetic at
 the six-year level?the probability of success is zero, and it can not
 be used as an intelligence test. A performer's failure with an intelligence test indicates that his invention is deficient or that the test
 is above his intellectual level.
+
 For a more extensive consideration of intelligence see my article
 on "TheRelation of Intelligence to Efficiency" in the Psychological
 Clinic, May, 1915.
@@ -577,6 +610,7 @@ disapproval; and the naive distinction between normality and
 abnormality is based upon the emotionalized excitement initiated by
 an inclination for what is familiar or a disinclination for what is
 strange.
+
 Success and failure give rise to the primal quantitative judgment. It is based upon an observation of the operation and its
 results. The judgment may express approval even of eccentricity
 provided it has brought success. Judgments may be either reflective
@@ -586,7 +620,9 @@ is the resultant expression of all his motivation?the organic urge
 to performance, as well as the discerned motives. A startling
 conflict is often to be observed between the individual's initiative
 and the social standards of conformity.
+
 ATTENTION
+
 Alertness Persistence
 Speed Endurance
 The time which the performer requires to initiate a movement in
@@ -594,10 +630,10 @@ response to a stimulus is called his reaction time. It measures the
 alertness of attention. It depends upon the speed at which the
 energy of senso-motor reaction is discharged. Speed is a congenital
 characteristic. The "rate of movement," i. e., the speed of an
-PERFORMANCE AND SUCCESS. 161
 operation is probably dependent upon the same conditions of metabolism as the speed of "energy-discharge." It is also an individual
 characteristic, as displayed, for example, in the speed of walking,
 running, talking and thinking.
+
 The motivation of organic energy causes the organism to display
 now this, now that, capability; now this, now that, operation; the
 performer is always on the move, his attention is always flitting from
@@ -615,17 +651,20 @@ that may be presented. As the alertness of attention becomes particularized, it 
 stimuli but inert to others. Competent attention is the successful
 compromise between unparticularized alertness and particularized
 expectancy.
+
 Attention may or may not be motivated by interest. A child
 can be compelled to pay attention to what does not interest him,
 but interest is an exhilarant,and although we can be compelled to give
 attention to what depresses us even to the point of ennui, the effect
 upon the organism, if prolonged, is to make heavy drafts upon the
 store of energy.
+
 Endurance is the ability to carry on the same operation despite
 the distraction of fatigue, or to carry on some operation, no matter
 what, despite exhaustion. In the ability to resist fatigue and
 exhaustion, the performer displays the amount of energy at his
 disposal.
+
 Rapid fatigue or exhaustion and a slow speed of reaction and
 operation indicate relatively little energy. A slow rate of reaction
 and operation may, however, be a congenital attribute and have no
@@ -634,6 +673,7 @@ operators cannot be speeded up to keep pace with quick discharging
 and moving organisms, without causing loss of control and rapid
 fatigue, and, when the demand for speed is long continued, more or
 less profound nervous exhaustion.
+
 162 THE PSYCHOLOGICAL CLINIC.
 ORIENTATION
 The Self An Other A group The Herd
@@ -656,6 +696,7 @@ by a movement of the attention upwards and from the left to right
 around the four sides. To make a square standing on one corner
 look like a square, you must orient one of its sides and then explore
 it as you would a square.
+
 Orientation is the point of view from which the individual
 observes the performances, of himself and others, objects and ideas.
 The earliest and still most common orientation is egoism, which
@@ -674,9 +715,9 @@ family, the community, the nation, the race, humanity. What is
 called the social consciousness is another name for the social orientation. I have invented the word "sociatism" to distinguish group
 orientation from socialism, which is a theory or ideal of conduct
 to regulate and control social and individual behavior. Socialism
-PERFORMANCE AND SUCCESS. 163
 in all its varieties claims to be benevolent sociatism, in other words,
 an attempt to do the greatest good to the greatest number.
+
 EXPLORATION
 Objects Performers
 1. Expansion 1. Superior
@@ -689,6 +730,7 @@ hand, and on the other, to resist the distraction of multiple stimuli.
 It is the urgent quest of change and novelty, the exploration of
 attention and not its persistence, which predominates in childhood
 and youth, and often throughout life.
+
 Persistent attention having particularized an object, the exploring attention may then proceed to particularize a part of the object.
 Attention thus moves from the whole to the part, as when we observe
 a man and then look at his head and features. Attention moves in
@@ -709,13 +751,14 @@ consequences of great magnitude in the history of races and nations.
 It gives rise to emotional attitudes which cause perversity as well
 as diversity in human relationships. It is the parent of caste and
 other varieties of social stratification.
-164 THE PSYCHOLOGICAL CLINIC.
+
 ASSOCIABILITY
 Distribution of Attention or Memory Span
 The memory span is really the ability of the performer to distribute his attention over two or more discrete operations or stimuli;?
 in other words, to particularize at one time several operations or
 objects. The memory span is a congenital characteristic, the primal
 associability, which makes the development of an intellect possible.
+
 DISCRIMINABILITY
 Qualitative Quantitative
 Known Strange More Less
@@ -736,6 +779,7 @@ pursuit of power, sensibility led him to discriminating enjoyment, and
 together they motivated him to acquire knowledge, to systematize
 it in the sciences and arts, and then to organize it into instruments for
 his use.
+
 To carry on an operation required the individual to exert more or
 less force to overcome resistance. Thence, no doubt, he derived his
 first quantitative discriminations. Wherever we employ such terms
@@ -745,7 +789,7 @@ Comparison is an operation of discriminability employing distributed
 attention. Comparison and discrimination are perhaps the earliest
 operations of the intellect. They require an adequate associability
 for their employment and development.
-PERFORMANCE AND SUCCESS. 165
+
 Even the primitive intellect added the superlative to the comparative degree. The five-point scale for the estimation of quantityis based upon primitive discriminability. Its psychological foundation makes it still the best and most practical scale of estimation.
 Measurement is a method devised by man's intelligence and
 intellect to arrive at something more certain than an estimate.
@@ -757,10 +801,13 @@ can and do express them as estimates. We may be quite certain that
 scale of measurement for grace. Most of the quantitative judgments
 employed in every-day life and even in some sciences are estimates
 and not measurements.
+
 TRAINABILITY
+
 The senso-motor reaction is a capability. The organism responds
 with a definitely particularized reaction to a stimulus. The reaction
 is exogenous.
+
 A child, for example, has a congenital urge and also the ability
 to say A when he sees and hears some one else say A; to say B when
 he sees and hears someone say B. Memory will be displayed, if the

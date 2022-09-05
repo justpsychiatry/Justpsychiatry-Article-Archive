@@ -1,7 +1,8 @@
 "Construction Test A" of the Healy-Fernald Series
 ==================================================
 
-By Augusta F. Bronner, Ph.D.,
+:Author:  Augusta F. Bronner, Ph.D.,
+
 Assistant Director, Psychopathic Institute, Juvenile Court of Chicago.
 In the February number of The Psychological Clinic there
 J appeared an article entitled "A Study of the Fernald Form-Board"
@@ -19,6 +20,7 @@ the idea of the test is definitely given by Healy and Fernald to Professor Freem
 but rather, as its correct name suggests, a test for constructive ability,
 the purpose of which is very different from that of the ordinary formboard. The latter tests perception of form; the former, perception
 of relationship of form.
+
 Furthermore, the technique used by Bruckner and King is
 evidently quite different from that originally described for the test
 and commonly used. They apparently use it as a learning test,
@@ -32,8 +34,6 @@ placed correctly. Since the eight ways are not described, yet form
 the basis of their findings, the study becomes practically meaningless
 to those who are unfamiliar with these writers' method. Certainly,
 nothing in the directions given in Psychological Monograph No. 54
-(40)
-HEALY-FERNALD CONSTRUCTION TEST A. 41
 nor in the study by Dr Clara Schmitt (Psychological Monograph
 No. 83), who has standardized the test following closely Dr Healy's
 directions, would explain the possibility of the method.
@@ -43,6 +43,7 @@ so improperly made as to defeat the specific object of the test. In
 the correct form certain parts are interchangeable, and unless so constructed the test loses its whole value. The frame must be manufactured very accurately. If these precautions are taken, it would
 seem impossible to use the test in a manner so different from the
 original directions.
+
 The authors do not refer to the work done with this test by others,
 and yet references to it in the literature of psychological tests are
 very frequent. There is the standardization given by Schmitt, mentioned above, in which the technique is described in detail. She has
@@ -58,13 +59,13 @@ period of time for the solution than Knox does. In a later revision,
 procedure, using it apparently as a learning test, in part at least.
 We do not know the basis for his decision. Results with this test
 are reported, also, in a bulletin issued by the State Board of Charities
-42 THE PSYCHOLOGICAL CLINIC.
 of New York, where the findings, based on extensive study, show the
 test to be suitable for the nine-year level of intelligence.
 In the Bruckner and King study the only figures comparable to
 other studies are the median times given for the first trial with eight
 "CONSTRUCTION PUZZLE A"
 RECORD OF NORMAL BOYS OF GOOD INNATE ABILITY
+
 Age
 11
 12
@@ -223,15 +224,16 @@ Age
 FEEBLEMINDED GIRLS
 7-12 yrs
 36 95 17-292 26-128 I 15 5-71 S-26 31
+
 and ten year old children. The time scores for the later trials cannot
 be compared because in most instances later trials are not given.
 It seems to us a great pity that these investigators have not used the
 test m such a way that their results throughout would be clearer.
 With the present effort to standardize tests which are being widely
-HEALY-FERNALD CONSTRUCTION TEST A. 43
 used, it would seem wise that everyone should adopt the same technique in order to facilitate this end, or at least give the variations
 from the generally accepted technique in such detail that the findings
 can be readily interpreted.
+
 Our own study of young adolescents leads us to question whether
 "Construction Puzzle A" is valuable as an age test. We believe that
 it is better adapted to throw light upon ability along certain lines
@@ -245,7 +247,9 @@ schools the mentality of the children cannot be determined and there
 . might conceivably be included feebleminded and greatly retarded, as
 well as the normal. A few such extreme cases would alter averages
 considerably.
+
 Noting our results we find:
+
 A. Among boys 11 to 17 years of age, all of whom are of good
 general innate ability: (1) At all ages there are some individuals
 who fail to solve this test within the time limit of five minutes. (2)
@@ -260,6 +264,7 @@ general innate ability: (1) The results present the same characteristics as for 
 There are fewer failures, the median time and number of moves are
 lower; but the results present the same general features as those for
 boys.
+
 C. Among the feebleminded, as diagnosed on the basis of Binet
 and other tests: (1) The test is not solved correctly by any individual who grades lower than a moron. (2) A large percentage of the
 moron group succeed in solving the test. (3) The successes are
@@ -267,7 +272,6 @@ scattered from those Avith a mental age of 7 to those whose mental
 age is above 10 years. (4) Success with the test among the feebleminded does not depend upon chronological age, and thus world
 experience does not seem to be a determining factor. That is, there
 are children 11 years old chronologically and 7 years old mentally,
-44 THE PSYCHOLOGICAL CLINIC.
 according to the Binet scale, who succeed; on the other hand, there
 are children 14 years old chronologically who grade as 10 years mentally by Binet tests who fail.
 The table on page 46 furnishes the data from which these conclusions are drawn:

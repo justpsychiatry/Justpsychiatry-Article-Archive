@@ -5,16 +5,16 @@ The Psychological Clinic
 Copyright, 1919, by Lightner Witmer, Editor.
 Vol. XIV, Nos. 1-2
 March, April, 1922
-
 (A Diagnostic Study.) X
-<r
-By Karl Greenwood Miller, Ph.D.,
+:Author:  Karl Greenwood Miller, Ph.D.,
 Assistant Professor of Psychology, University of Pennsylvania.
+
 Note: This article is part of a Monograph published in full in Experimental Studies in Psychology and Pedagogy, No. 8, 1922.
 Introduction.
 No task more worthy of attention confronts the psychologist
 today than the scientific study of the college student by means of
 mental tests.
+
 Psychological tests were first employed in the examination and
 segregation of the mentally feeble. A large number of clinics connected with modern school systems, hospitals, or juvenile courts
 have found these tests of service in detecting mental subnormality.
@@ -30,14 +30,13 @@ tests are used not only in the field of education but also form an integral part
 large industrial organizations. The present vogue of the mental
 test carries with it one real danger in that the uninitiated are likely
 to demand more of the psychologist than he can give.
+
 Without doubt it is now possible to say, as a result of a psychological examination, that one individual possesses too little mentality
 to admit of his being a self-supporting member of society, that
 another can be trained to perform a simple task satisfactorily, that
 a third has ability which will enable him to fill a place in the great
 middle class, while still another has intellectual endowments which
 should lead him into the fields of higher education and professional
-(1)
-2 THE PSYCHOLOGICAL CLINIC.
 activity. These broad classifications can be made through the
 employment of many and various tests which have been carefully
 devised and scientifically standardized. With the concept of differing
@@ -50,6 +49,7 @@ Shall the man of small competency he a ditch-digger or a stevedore?
 Is the citizen of mediocre ability best qualified to follow the vocation
 of motorman, mechanic or clerk? Should the college student be
 guided into industry, law or teaching?
+
 These questions imply that the psychologist must also function
 as a vocational adviser, and while this obligation may not at present
 be generally accepted, the implication is nevertheless warranted.
@@ -69,13 +69,13 @@ principles to industrial management. Although investigation of
 this character has hardly passed beyond the experimental stage, a
 beginning has nevertheless been made, and remarkable developments
 during the next decade may be confidently anticipated.
+
 The task of differentiating the particular abilities required of
 the successful plumber, mechanic, clerk, motorman, and telephone
 operator?to mention only a few of the almost countless range of
 occupations?is doubtless a difficult one, but it hardly approaches the
 complexity of the problem presented in the guidance of individuals of
 greater intelligence and higher intellectual organization to the one
-COMPETENCY OF FIFTY COLLEGE STUDENTS. 3
 vocation for which each is best fitted. While interest, personality,
 and various external circumstances can not be disregarded as important factors in the selection of the life work, the concern of the
 psychologist lies primarily in the determination of the specific
@@ -84,6 +84,7 @@ scientific evaluation of the particular abilities possessed by each
 individual. It is with the latter phase of the problem that this investigation will deal, the interest being centered on the college student,
 who, despite his many shortcomings, must be regarded as representative of the highest intellectual type of young manhood in the country.
 Experimental Conditions.
+
 Stated briefly, the aim of the present study is to examine certain
 data which have been collected relative to each member of the class
 in elementary psychology at the University of Pennsylvania during
@@ -97,6 +98,7 @@ consideration, and with the scrutiny of the individual record with a
 view to reaching, if possible, some conclusions which might be of
 assistance to the student in the direction of his intellectual
 development.
+
 The investigation differs from many which have preceded it, in
 that the psychological tests, with one exception, were given as a
 part of the ordinary class instruction and therefore not primarily
@@ -113,7 +115,6 @@ laboratory work and with the purpose of graphically demonstrating
 the various factors which function in the formation and development
 of the intellect. It is believed that this method enables the student
 better to understand and appreciate the particular ability or mental process under discussion. It is not claimed, therefore, that the
-4 THE PSYCHOLOGICAL CLINIC.
 series of tests employed would necessarily have been chosen had the
 purpose been the psychological examination and diagnosis of the
 individual to the exclusion of other considerations. However, the
@@ -124,7 +125,10 @@ psychological processes. In addition, the tests are extremely valuable
 to the student, in that they enable him to determine his peculiar
 mental assets and liabilities through a comparison of his individual
 results with accepted standards or class distributions.
+
 The Psychological Tests.
+-------------------------
+
 The psychological tests included a general intelligence examination, the "Psychological Examination for College Freshmen and
 High School Seniors," devised by Professor L. L. Thurstone, and the
 following thirteen tests designed to exercise some particular ability
@@ -151,7 +155,7 @@ could have been devised for the present purpose. Since all grades
 assigned in the School of Arts and Science at the University of Pennsylvania are recorded in terms of a five-point system, an added
 advantage is gained in the comparison of test scores with academic
 success.
-COMPETENCY OF FIFTY COLLEGE STUDENTS. 5
+
 The results tabulated in a later section will therefore not be
 found to contain the number of digits for the memory span, the
 number of seconds required for the completion of the cylinder test,
@@ -165,7 +169,10 @@ results, it will be found a relatively simple matter to scrutinize the
 ratings for each individual and gain a fairly trustworthy impression
 of his standing in an unselected group of university students, and at
 the same time to note his peculiar mental assets and liabilities.
+
 Selection of Group.
+---------------------
+
 Since it is the aim of this investigation to discover individual
 differences in a comparatively homogeneous group of students, it
 seemed advisable to make certain eliminations before undertaking an
@@ -192,7 +199,7 @@ group, thereby eliminating all who were not able to survive at least
 one year of university work, reducing the variation in age, and alt the
 same time making it possible to base the academic rating on college
 grades received during two or more years of class attendance.
-6 THE PSYCHOLOGICAL CLINIC.
+
 When these eliminations had been made, fifty-one students
 were eligible for inclusion in this study. Of this number, one individual over thirty years of age was arbitrarily excluded as not conforming to the normal college age. Of the fifty remaining as subjects
 of this investigation, thirty-three had sophomore standing, twelve
@@ -206,7 +213,10 @@ will be well to point out that although only about one-fourth of the
 total class in psychology is to be included in the study, the selection
 was made on the basis of group qualifications and without regard to
 individual merit, except for the automatic elimination of those members of the class who were excluded for deficiency in scholarship.
+
 The Competency Rating.
+-----------------------
+
 One purpose of this investigation was to determine what reliance
 may be placed on the "snap judgment" of a trained observer. Is
 it possible to rate the college student with any degree of accuracy on
@@ -226,9 +236,9 @@ of the two cylinder trials, the latter do not necessarily correlate with
 a rating based on the quality of the performance. As has been
 previously noted, the cylinder test is the only one considered in this
 study which was given individually.
+
 The rating, however, was not based solely on the performance
 with the cylinders. As the student presented himself to the examiner, he was asked to write his name upon a record card, and the
-COMPETENCY OF FIFTY COLLEGE STUDENTS. 7
 character of his writing as well as the degree of composure displayed were observed. A few leading questions were then asked
 regarding preparatory school, purpose in coming to the University,
 intended vocation, outside activities, and the like. No attempt
@@ -249,6 +259,7 @@ an instructor familiar with the student and with his work in the
 classroom, or by averaging the estimates made by a number of instructors so qualified. The competency rating is therefore not
 directly comparable with the ratings on estimated intelligence
 referred to in a preceding section.
+
 In giving these ratings, the five-point scale was used in a somewhat modified form. Each of the five points of the scale was subdivided into five lesser grades, thus giving a maximum rating of 5.5,
 a minimum of 1.1, and a mediocre grade of 3.3. When each student
 had been rated on this scale, the three examiners in conference
@@ -258,11 +269,15 @@ employed in determining a quintile rating on estimated competency,
 which appears in the tabulation of results. This treatment has the
 added advantage of making the rating directly comparable with the
 quintile scores of the various mental tests.
+
 Tabulation of Results.
+-----------------------
+
 While it was intended to make a statistical study of the various
 scores and ratings which form a basis for this investigation, the
 primary purpose was to study the individual record rather than the
 Tabulation of Results.
+
 1 So. 3 4 2
 2 So. 5 4 4
 3 So. 2 1 3
@@ -560,7 +575,7 @@ Ort o 03 [??
 5 5 5 3.7 5 3.4 G P
 2 4 1 2.5 2 3.7 P N
 3 1 3 2.4 3 3.9 G P
-COMPETENCY OF FIFTY COLLEGE STUDENTS. 9
+
 mass results. It has therefore been deemed advisable to present a
 complete tabulation of the ratings for each member of the group,
 and thereby facilitate the scrutiny of the individual case. In the
@@ -573,11 +588,13 @@ separate tests?this average does not include the Thurstone test and
 only the shortest trial with the cylinders is included, (6) the quintile
 rating based on estimated competency, (7) the final grades in Psychology 1 and Psychology 2, (8) the academic rating obtained by
 averaging college grades as previously described.
+
 In studying the tabulation of results it must be borne in mind
 that in every case the quintile rating was obtained from the distribution of the results of the class of approximately two hundred
 students, and not merely on the basis of the fifty here included.
 This explains the fact that the ratings are not equally divided among
 the five quintiles.
+
 Analysis of Individual Records.
 No. 1.
 This student shows a consistently mediocre record until his
@@ -594,13 +611,13 @@ high grades in psychology and the high academic rating it seems
 probable that this student has some strong motive, such as ambition,
 and supplements a mediocre intellect with an unusual amount of
 industry.
+
 No. 2.
 This record shows the most consistently high rating to be found
 in the group. The academic record is the highest, and this is borne
 out by "distinguished" grades in both courses in psychology. The
 ratings for estimated competency and for the Thurstone test are
 both in the fifth quintile, while the average test rating is equaled
-10 THE PSYCHOLOGICAL CLINIC.
 by only one other student in the group. In considering the results
 of the particular tests, it will be observed that this student has not
 fallen below the middle quintile, but has reached the highest in only
@@ -608,6 +625,7 @@ three tests. He shows the poorer scores in those tests which stress
 language ability and memory, and the higher ratings where intelligence, imagination and attention are involved. The general level
 of performance is so high as to make any specific recommendation
 or prognosis unsafe.
+
 No. 3.
 The chief point of interest in this case is the lack of correspondence between the competency rating and the remainder of the data
 at hand. This student shows an academic rating which places him
@@ -618,6 +636,7 @@ the middle quintile only in the sentence completion and cylinder
 tests. This may indicate good intelligence not directed toward
 college work, but the conclusion that the competency rating is too
 high in this case seems justified.
+
 No. 4.
 The indication here is of a student of somewhat more than
 average general intelligence whose record is largely influenced by
@@ -629,6 +648,7 @@ rating is slightly above the average, and shows a preponderance of
 memory span for ideas, the sentence completion and the definitions
 tests, as contrasted with a very poor cylinder performance, indicate
 intellectual ability rather than intelligence.
+
 No. 5.
 This record shows a student somewhat below the average in
 competency, with an academic rating slightly better than would be
@@ -641,7 +661,7 @@ in the definitions and memory tests were rated in the lowest quintile.
 High scores were obtained in the Ausfrage and Courtis tests and in
 the second trial with the cylinders. Although the test results show
 great variation, there seems to be no definite tendency displayed.
-COMPETENCY OF FIFTY COLLEGE STUDENTS. 11
+
 No. 6.
 This individual probably possesses mediocre ability, although
 receiving a veiy low competency rating and a very high score on
@@ -652,6 +672,7 @@ gives a true picture of the student. High scores in the Ausfrage,
 digit span, Trabue, opposites and memory tests, with very poor
 cylinder performances, would suggest fair intellect coupled with
 rather deficient intelligence.
+
 No. 7.
 The record here indicates relatively low competency with a
 high degree of native intelligence. A very poor academic rating is
@@ -670,6 +691,7 @@ tests which emphasize the intellectual side usually show good scores,
 while those which do not depend on language ability, such as the
 Taylor number, the Courtis, and the cylinder tests, are placed in the
 lower quintiles. On the whole, the record is mediocre.
+
 No. 9.
 In this instance, a high academic rating, good work in psychology,
 a high competency rating and a good score on the Thurstone test
@@ -679,16 +701,17 @@ quintile, indicate a rather consistent mediocrity. A high rating
 in the memory test and an excellent cylinder performance suggest
 that good memory and intelligence are responsible for the high
 academic standing.
+
 No. 10.
 A competency rating of "4" indicates that this man was not
 doing his best on the mental tests. Mediocre college work and a
 low rating on the Thurstone test suggest that the competency rating
 is too high. The test scores are generally low where language ability
-12 THE PSYCHOLOGICAL CLINIC.
 is involved, and are above the average for the Taylor, idea span,
 memory and cylinder tests. As in Case 7, it seems likely that this
 individual is not profiting by his college course and would be more
 successful in some other line of activity.
+
 No. 11.
 The record of this student is quite inconsistent. Placed in
 the lowest quintile in the Thurstone test and competency rating,
@@ -701,6 +724,7 @@ imaginative one. That this man is a slow thinker is demonstrated by
 his score on the Thurstone test. The fact that he retains and digests
 the information which he acquires is evidenced by his high academic
 record.
+
 No. 12.
 This student displays a record consistently near the average for
 the group. The Thurstone and academic ratings are somewhat better
@@ -710,6 +734,7 @@ are rated in the third quintile, a poor score on digit span and a very
 high rating on the Trabue test being the only significant scores.
 On the whole, the competency rating seems to express the ability of
 the student adequately.
+
 No. .13.
 The record in this case is consistently high. Very good grades
 in the two courses in psychology substantiate an academic rating
@@ -723,10 +748,10 @@ his college work. Almost without exception ratings in the upper
 quintiles are displayed for the tests which do not stress language
 ability, while lower ratings are found where this factor is of great
 importance.
+
 No. 14.
 This record presents an interesting contrast with that of student
 No. 13 in that the intellectual rather than the intelligence factors
-COMPETENCY OF FIFTY COLLEGE STUDENTS. 13
 are here stressed. While not quite so good from the academic viewpoint, this record shows a slightly higher rating for the Thurstone
 and other mental tests than does the preceding case. Ratings of
 "5" on the Ausfrage, digit span, Trabue, and memory tests indicate
@@ -736,6 +761,7 @@ poor intelligence. A much better record on the second trial with the
 cylinders shows trainability, which, coupled with a high memory
 span and good memory, pictures a student of more than average
 intellect.
+
 No. 15.
 The indication here is of a man of high general intelligence who
 does not care to apply himself to college work. On the one hand
@@ -748,6 +774,7 @@ indicate laziness and lack of interest. In view of the higher scores
 on the other tests this explanation may also hold for the low rating
 on definitions. On the whole the picture is that of a student with
 real ability who does not care to exert himself.
+
 No. 16.
 In spite of a good rating on the Thurstone test, this record
 indicates an individual of somewhat less than average ability.
@@ -757,6 +784,7 @@ spans, the Trabue and definitions tests, while only the ratings for the
 Ausfrage, Courtis and memory tests are better than the average.
 It seems likely that this student supplements good retentiveness
 with more than the usual degree of industry in passing his college work.
+
 No. 17.
 Thurstone and competency ratings in the lowest quintile combined with the lowest composite test rating of the group indicate
 decidedly inferior ability in this case. Eight of the separate test
@@ -764,7 +792,6 @@ ratings are below the middle quintile and only three are above.
 Low ratings on the Thurstone, Taylor, Trabue, Courtis, opposites
 and cylinder tests, all of which involve a definite speed factor, suggest that a slow rate of discharge is primarily responsible for the
 poor test performances of this individual. High ratings in the
-14 THE PSYCHOLOGICAL CLINIC.
 digit span, description, and definitions tests, in all of which the time
 element is relatively unimportant, seem to bear out this conclusion.
 An observation of the scores of the three memory span tests shows
@@ -774,6 +801,7 @@ is not limited. This fact explains the lack of correlation between the
 test ratings and the academic record, which is at least average,
 and it also emphasizes the undue weight given to the time factor in
 most mental tests.
+
 No. 18.
 This record displays the interesting combination of a very
 high academic rating with mediocre performance in the various mental tests. The record is quite comparable with that of student
@@ -783,6 +811,7 @@ for the success in college work. It seems probable, however, that
 some motivation factor which cannot be measured by the test
 results has played an important part in the academic attainments
 of this student.
+
 No. 19.
 In this case the record, with the exception of the grades in
 psychology, is consistently above the average. Low ratings on the
@@ -793,6 +822,7 @@ memory tests show associability, retentiveness, and language ability,
 which may be looked upon as essential factors in intellectual development. The low rating on the cylinders hardly seems significant in
 view of the other test results, although it may indicate a deficiency
 in mechanical as contrasted with mental ability.
+
 No. 20.
 This record provides an interesting comparison with that of
 student No. 19. Although the psychology grades, competency
@@ -802,7 +832,7 @@ tendencies, but the scores for the Courtis and cylinder tests are lower
 here than in the preceding case. The most significant difference
 between the two records is found in the very low memory rating of
 this student, which places him definitely in the mediocre group.
-COMPETENCY OF FIFTY COLLEGE STUDENTS. 15
+
 No. 21.
 This record is one of the most consistent to be found in the group
 and places the student definitely in the fourth quintile. The academic
@@ -813,6 +843,7 @@ in the middle and upper quintile. Although the first cylinder trial
 was slow, the second trial compensated for this deficiency. There
 is no comment to make on this case other than a desire that mental
 tests might always correlate so closely with academic standing.
+
 No. 22
 While this record is, on the whole, mediocre, the academic
 rating is somewhat higher than might be expected in view of the
@@ -823,6 +854,7 @@ ability, and particularly on the memory test, provide a satisfactory
 explanation for the fair academic rating. From the test results
 it seems probable that this individual has to apply himself to his
 studies in order to do passing work.
+
 No. 23.
 The failure in Psychology 2 is the only discordant note in an
 otherwise mediocre record. The composite test rating and that for
@@ -830,6 +862,7 @@ the Thurstone test are about average for the group, while the competency rating 
 do not seem significant except for a high rating in memory. The
 poor work in psychology must probably be accounted for by lack of
 interest or failure to study.
+
 No. 24.
 The record here is comparable with that of student No. 15 in
 that a high composite test rating is contrasted with a low academic
@@ -841,14 +874,15 @@ only one exception. The competency rating is "4". It seems
 probable that this man is not particularly interested in his college
 work and is expending most of his time and energy in some kind
 of outside activity.
+
 No. 25.
 In this instance the record is consistently mediocre. All four of
 the general ratings are either in the middle quintile or slightly below
-1G THE PSYCHOLOGICAL CLINIC.
 the group average. The failure in Psychology 1 is hardly to be
 accounted for by the separate test results, which display no definite
 tendency, and was probably due to lack of application, since the
 student was able to pass the second course.
+
 No. 26.
 The rather high academic rating in this case seems to contradict
 the low Thurstone and composite test ratings. The low digit span
@@ -857,6 +891,7 @@ must be a hard worker in order to have received such high grades
 for his college courses. Good trainability as displayed in the second
 trial with the cylinders may be a significant factor in his academic
 work.
+
 No. 27.
 In this case a very high score on the Thurstone test correlates
 well with a high composite test rating and a high academic rating.
@@ -866,6 +901,7 @@ cylinders which resulted in a competency rating of only "3" is the
 only flaw in an otherwise excellent record. Eight of the thirteen
 tests are rated above the middle quintile and indicate nothing more
 than an unusually high level of general intelligence.
+
 No. 28.
 This record offers an interesting comparison with that of student
 No. 27. The composite test ratings and the competency ratings are
@@ -879,6 +915,7 @@ memory spans are conspicuously lower. These facts indicate a
 relatively low intelligence coupled with a rather high intellectual
 development. On the whole, the student is decidedly superior to
 the majority of the group.
+
 No. 29.
 The record in this case must be considered consistently good
 although it can hardly be compared with either of the two preceding
@@ -886,7 +923,6 @@ cases in general excellence. The academic rating shows a "G"
 average and the psychology grades rate the student even higher.
 While the Thurstone rating is "4", the rating on estimated competency is higher than that in either of the preceding records. This
 rating is not substantiated by the results of the separate tests, only
-COMPETENCY OF FIFTY COLLEGE STUDENTS. 17
 four of which are found to be above the middle quintile. These
 seem to point to intelligence rather than to intellectual organization,
 although it would be unsafe to make any specific diagnosis.
@@ -898,6 +934,7 @@ very high ratings on the memory and cylinder tests show that this
 individual has unusual ability in some directions. It seems probable
 that lack of interest or want of application is responsible for the
 deficiency in psychology.
+
 No. 31.
 The mediocre composite test rating in this case does not correlate with the generally high level of the other ratings, all of which
 are in the fourth quintile. Although the separate test results are
@@ -905,6 +942,7 @@ distributed through the five quintiles, they show no definite tendency which mig
 degree of trainability displayed in the second cylinder trial is significant, but it seems likely that this student either did not take the
 tests seriously or that some strong motivation factor has entered into
 his college work.
+
 No. 32.
 This record presents as great a contradiction as is to be found
 in the whole group. While only two students have academic records
@@ -919,13 +957,13 @@ the latter receiving the only "5" of the series. It seems hardly
 possible to explain the excellent academic record on the basis of good
 memory alone, and the only conclusion which can be reached is that
 the test results do not reflect the evident competency of this student.
+
 No. 33.
 All things taken into consideration, this is the poorest record in
 the group. The academic rating is low and one of the courses in
 psychology was not passed. The competency rating and that on
 the Thurstone test are both in the lowest quintile, the score on the
 latter test being the lowest made by any of the fifty students. The
-18 THE PSYCHOLOGICAL CLINIC.
 composite test rating is one of the lowest in the group, and only two
 of the separate test results are placed above the middle quintile.
 A rating of "5" in the memory test suggests that this ability may
@@ -935,6 +973,7 @@ definitions tests and the first trial with the cylinders indicate a very
 general deficiency. The test results in this case are quite similar
 to those in the record of student No. 32, but seem here to be really
 significant.
+
 No. 34.
 In this instance, the various ratings of the record correlate
 well to show better than average competency. The academic rating
@@ -945,6 +984,7 @@ marked deficiencies. Low ratings in the Ausfrage and Taylor tests
 are not particularly significant, while higher ratings in the digit span,
 Courtis, and memory tests and second cylinder trial indicate associability, speed, retentiveness and trainability. On the whole, the
 record shows no contradictions.
+
 No. 35.
 This record is consistent in so far as the composite test rating,
 the Thurstone rating and the competency rating are concerned.
@@ -956,6 +996,7 @@ in other activities. High ratings on the Taylor number, digit span,
 Trabue, Courtis, definitions and memory tests, on both trials with
 the cylinders, and on the Thurstone test indicate that this student
 has the ability to do excellent college work if he so desires.
+
 No. 36.
 Although a number of the separate test results are missing in
 this record, the ratings on the Thurstone test and estimated competency as well as the composite test rating indicate a rather high
@@ -965,7 +1006,7 @@ received in a number of courses, even though the work in psychology
 was somewhat above the average. The evidence seems fairly conclusive that this man could do better college work if he wished to
 apply himself. Interest in outside activities probably explains the
 discrepancy between the test ratings and the academic record.
-COMPETENCY OF FIFTY COLLEGE STUDENTS. 19
+
 No. 37.
 With the exception of a low rating on the Thurstone test, this
 record is consistently mediocre. The academic rating, competency
@@ -974,6 +1015,7 @@ A good performance on the first trial with the cylinders, followed
 by an excellent second trial, indicate intelligence and trainability,
 while a low rating on the memory test may explain the mediocre
 college record.
+
 No. 38.
 The record in this instance is consistently below the average
 for the group and may be considered typical of the second quintile.
@@ -987,6 +1029,7 @@ quintile appear. An analysis of these results seems to indicate
 good associability and intelligence coupled with rather deficient
 intellectual organization. This man would probably be more
 successful in business than in an academic or professional vocation.
+
 No. 39.
 This record disputes with that of student No. 33 the distinction
 of being the poorest in the group. The fact that the student was
@@ -1007,10 +1050,10 @@ in imagination and retentiveness. High ratings on the Taylor
 number and cylinder tests show that there is no deficiency in the rate
 of discharge of energy, and that distribution of attention and intelligence are both above the average. It seems probable that this man,
 now being free to follow his own inclinations, will be successful in the
-20 THE PSYCHOLOGICAL CLINIC.
 vocation which he chooses. The case is particularly interesting as an
 example of the influence of special abilities and of motivation in the
 behavior of the individual.
+
 No. 40.
 In this case a very low competency rating is contradicted by
 a composite test rating only slightly below the average and Thurstone and academic ratings in the fourth quintile. The competency
@@ -1021,6 +1064,7 @@ and memory tests. In other words this student has the associability,
 alertness, language ability and retentiveness necessary to do good
 college work. It is possible, also, that lack of interest in the tests
 may have affected the significance of the results.
+
 No. 41.
 This is a consistently mediocre record with the exception of
 the psychology grades, which are slightly above the average, and
@@ -1033,6 +1077,7 @@ the second trial with the cylinders. Low ratings also appear for the
 Taylor number, digit and syllable spans, Trabue, and memory tests.
 These results indicate rather poor general intelligence and suggest
 that the competency rating is too high.
+
 No. 42.
 Every one of the principal ratings in this record occurs in the
 highest quintile, and the student must be ranked definitely with the
@@ -1043,17 +1088,18 @@ rating on the digit span is neutralized by a high idea span. Other
 low ratings on the Courtis and opposites tests do not seem significant.
 On the whole the record is unusually consistent and justifies the high
 competency rating.
+
 No. 43.
 Although the composite test rating in this case is about average
 for the group, the academic rating is decidedly inferior. The competency rating is the lowest given to any member of the class, and
 is based on very poor performances with the cylinders. Although
 this student seems to lack intelligence, high ratings were obtained in
-COMPETENCY OF FIFTY COLLEGE STUDENTS. 21
 the Ausfrage, Trabue, and definitions tests. Low ratings for the
 Taylor number, digit span, and Courtis tests indicate a consistently
 poor performance in those tests which do not involve language ability.
 The good ratings in the strictly intellectual tests suggest that outside
 activities are responsible for the low academic rating.
+
 No. 44.
 This record seems to be typical of the fourth quintile. The
 academic record shows a preponderance of "Good" grades, and this
@@ -1062,6 +1108,7 @@ rating is "4" and the Thurstone rating "3". The composite test
 rating is one of the best in the group, although fifth quintile ratings
 appear only for the Ausfrage test and the first cylinder trial. Other
 test ratings show a high level of general intelligence with no significant disabilities.
+
 No. 45.
 An academic record in the fourth quintile is accompanied in
 this case by a Thurstone score in the middle quintile, a competency
@@ -1074,6 +1121,7 @@ cylinder performances. The test results show no definite tendency,
 but display a low level of general intelligence. The high academic
 rating notwithstanding, this student falls below the middle quintile
 of the group in competency.
+
 No. 46.
 The lowest academic rating in the group is displayed by this
 senior, who, nevertheless, was able to graduate with his class. While
@@ -1081,12 +1129,12 @@ the Thurstone score is poor, the competency rating and the composite test rating
 for digit and idea spans, but high for most of the other tests with
 exceptionally good performances on the cylinder test. This student
 was evidently doing no more college work than was necessary to obtain his degree, and was probably interested in outside activities.
+
 No. 47.
 The competency rating, composite test rating, and academic
 rating agree in placing this student in the second quintile. The
 rating on the Thurstone test is very high, and the grades in psychology
 the poorest in the group, consisting of an "N" for the first course
-22 THE PSYCHOLOGICAL CLINIC.
 and a "Failure" for the second. High ratings on the Thurstone
 and Courtis suggest a rather quick mind when familiar operations
 are involved, while the very low ratings on the cylinder test indicate
@@ -1095,6 +1143,7 @@ college courses, the inability of the student to adapt himself to the
 new situation is probably the cause of his deficient work in this
 subject. Although the result for the memory test is missing, a high
 rating in that ability may be predicted.
+
 No. 48.
 In this record the composite test rating, the competency rating
 and the Thurstone rating indicate a very high level of general intelligence. The academic rating, however, is far below the average for
@@ -1104,6 +1153,7 @@ in the highest quintile. Excellent associability, language ability,
 retentiveness, and intelligence are displayed in the various test scores,
 and the only explanation of the relatively poor college grades seems
 to lie in lack of interest or absorption in outside activities.
+
 No. 49.
 Although the Thurstone score, the competency rating, the composite test rating, and the grades in psychology agree in placing this
 student below the middle quintile, the academic rating is the median
@@ -1113,6 +1163,7 @@ this test only the Ausfrage and the syllable span were rated higher
 than the middle quintile, while eight of the thirteen tests fell below
 that level. It seems certain that more than the usual amount of
 industry is expended by this individual on his college work.
+
 No. 50.
 This record is quite similar to that of student No. 49 with the
 exception that the composite test rating is slightly lower and the
@@ -1123,11 +1174,11 @@ the rating on the memory test is in the highest quintile. The ratings
 for the Taylor number, description, Trabue, Courtis and first cylinder
 tests are in the lowest quintile. The second trial with the cylinders
 indicates good trainability, which with the assistance of an unusually
-COMPETENCY OF FIFTY COLLEGE STUDENTS. 23
 good memory may account for the high academic rating. On the
 other hand, lack of effort in the tests may be responsible for the low
 composite test rating, and is suggested by the high score on the
 Thurstone test.
+
 Summary.
 A scrutiny of the analyses of the fifty individual records shows
 that these may be separated into two general groups. In twenty-six
@@ -1148,6 +1199,7 @@ results, while in the ten remaining cases the Thurstone score, competency rating
 better scholastic ability than is displayed in the academic rating and
 psychology grades. The following summary shows the classification
 of each individual record.
+
 Classification of Individual Records.
 I. Cases showing general correlation of ratings:
 Very good 2, 13, 14, 27, 28, 42, 44
@@ -1162,7 +1214,6 @@ Medium academic, low mental 8, 10, 16,^17, 49, 50
 High mental, medium academic 15, 30, 35
 High mental, low academic 24, 36. 46, 48
 Medium mental, low academic 7. 25, 43 :
-24 THE PSYCHOLOGICAL CLINIC.
 Although in some cases the evidence is not so clear cut as the
 summary above may seem to indicate, the classification nevertheless
 is justified by the data at hand. It also seems reasonable to attribute
@@ -1183,7 +1234,10 @@ method of evaluating these factors external to competency has been
 devised. At present it is possible to do no more than call attention
 to the lack of correlation and attempt to explain the discrepancies
 in the most logical manner.
+
 Conclusions.
+--------------
+
 (1) The psychologist should engage in the analysis and evaluation of the "ability" components of the college student's competency
 rather than in the correlation of general intelligence tests with academic grades.
 (2) The abilities required for scholastic success, under the
@@ -1192,6 +1246,7 @@ abilities comprising individual competency. Hence the failure of
 test results to correlate with college grades. The better the general
 intelligence test, the smaller will be the correlation with academic
 standing.
+
 (3) College grades will provide more satisfactory material
 for statistical treatment when each institution adopts a standard
 distribution of grades and provides for supervision by some administrative officer.
@@ -1199,18 +1254,20 @@ distribution of grades and provides for supervision by some administrative offic
 dependence upon time measurement, which have a higher reliability
 coefficient, and which are of greater difficulty, than most of the tests
 now available.
+
 (5) Motivation and environmental and economic conditions
 have not as yet yielded to quantitative treatment. Until they do,
-COMPETENCY OF FIFTY COLLEGE STUDENTS. 25
 it will not be possible to predict with accuracy the success of a student
 in college or in any other field of endeavor.
+
 (6) Test ratings such as those presented here should be made
 available to deans, faculty advisers, and committees dealing with
 scholastic deficiency. In many instances this information would
 be of value to the student, also, providing him with educational or
 vocational guidance.
+
 (7) A "follow up" of the fifty students who have provided the
 material for this study will be published at some future date.
 (8) Only after many investigations are at hand with diagnoses
 carefully followed up over a period of years will psychological diagnosis and orthogenic guidance become as reliable for the normal
-individual as it is now for the subnormal.
+individual as it is now for the subnormal.D

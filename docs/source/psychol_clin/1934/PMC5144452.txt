@@ -1,7 +1,7 @@
 Auditory Perceptibility: Acuity and Dominance
 ==============================================
 
-By Edwin B. Twitmyer and Yale Nathanson
+:Author:  Edwin B. Twitmyer and Yale Nathanson
 An experiment to correlate auditory and visual dominance 1
 and bodily laterality 2 led the authors to perfect a method for the
 determination of gross auditory perceptibility of value to clinicians, generally. It is not demanded of the clinical psychologist
@@ -23,15 +23,15 @@ cases which do not display the speech pattern. For purposes of
 differential diagnosis the five possible causes of "gross mutilation
 of speech or total inability to produce articulate sounds necessary
 for normal speech" 4 are presented herewith:
+
 1 Visual perceptibility: acuity and dominance, by the authors, will appear in The Psychological Clinic.
 2 Twitmyer, Edwin B., and Natlianson, Yale, The determination of laterality. Psychol. Clin., 1933, 22, 141-148.
 3 Hearing impairment in school children, Penna. Med. J., 1934, 37, 408,
 resume of work of Dr E. Beatrice Eossell from New York State Journal of
 Medicine, Dec. 1, 1933.
+
 4-5 Twitmyer, Edwin B., and Nathanson, Yale, Correction of defective
 speech, 1932, Philadelphia, P. Blakiston's Son & Co.
-220
-AUDITORY PERCEPTIBILITY 221
 "1. Deafness. The congenitally deaf child is incapable of acquiring speech in the normal instinctive manner. Determination
 of this condition is both easy and conclusive Avhere there is tota
 deafness with an absence of symptoms suggesting some egree o
@@ -45,6 +45,7 @@ and conflicting observations of parents) are at times resistant to
 consistent interpretation. The prognosis for the acquisi ion o
 speech in cases of deafness is favorable, if the patient be placed m
 a suitable training environment.
+
 "2. Amentia. The child's mind and his speech develop pari
 passu, and if there is a lagging behind in his speec i process, sus
 picion as to his mental integrity is aroused. The normal child sits
@@ -56,7 +57,8 @@ for things and actions, then qualities, then proper names. om
 plete absence of the speech function or a considerable discount at
 any one of the indicated stages of development siou e viewe
 as a symptom of general mental deficiency, and in sue i cases a
-complete psychological examination is indicated. ^
+complete psychological examination is indicated.
+
 "3. Brain Injury. Injury of the brain resulting from trauma
 or infection may interfere with normal speech deveopmen , or
 occurring after speech has been well established, may rmB a ou
@@ -69,12 +71,13 @@ brain fatigue in the form of aphonia or aphasia.
 Speech. These include paralysis of the tongue or facial muscles,
 malocclusion of the teeth, malposition of the jaw, obstructing tonsils and adenoids, cleft palate, and faulty or inadequate breathing.
 "5. Negativism. Pathological stubbornness may express itself
-222 THE PSYCHOLOGICAL CLINIC
+
 in children in the refusal of certain foods, persistence in some unacceptable pattern of behavior despite correction and training, etc.
 A few cases steadfastly refuse to attempt to make the initial sound
 in the acquisition of language, and remain mute in consequence.
 A differential diagnosis of this condition from the mutism, of congenital deafness or profound amentia is not difficidt, being arrived
 at on the facts of behavior in situations not involving speech."*
+
 The absolute determination of auditory perceptibility is often
 difficult.6 Conflicting testimony of parents, attempts to shield the
 child, lack of knowing or general bias makes their information unreliable. The difficulty is aggravated because of the complexity
@@ -102,7 +105,7 @@ cupping the hand to the ear, focusing attention on the speaker or,
 what is worse, is an habituation to a process of mentally substituting for omissions.
 6 Creak, E. M., A case of partial deafness simulating congenital auditory
 imperception, J. Neur. Psychopathol., 1932, 13, 133.
-AUDITORY PERCEPTIBILITY 223
+
 The great danger lies in the fact that the onset is gradual and
 the warning signs thus obscured. Even the physical sign of running ears as sequeke to certain childhood diseases is overlooked.
 When the onset is gradual, the younger child, unaware of what is
@@ -138,9 +141,10 @@ examination, supported by her academic record, indicated a good
 general competency. The girl was asked whether or not she had
 7-10 Berry, Gordon, The psychology of progressive deafness, J. Amer.
 Med. Assoc., 1933, 101, 1599?1603.
+
 8 The Clinic cases herein cited are from the Speech Clinic, Department of
 Psychology, University of Pennsylvania.
-224 THE PSYCHOLOGICAL CLINIC
+
 any hearing defect and she very willingly replied that she did not
 have any defect in her hearing which could be held responsible for
 the deficiency. However, an audiometric examination indicated
@@ -172,11 +176,11 @@ There is reproduced herewith, a test, T-N-51, developed by the
 authors in 1931 to determine auditory acuity and ear dominance.
 The instrument used is an adaptation of existing audiometers,
 Figure 1.
+
 The sound is produced by a ticking clock in the rear compartment of the audiometer. The sound is conveyed to the subject
 through the ear pieces connected with rubber tubes, and volume is
 controlled by a central dial. Each ear can be stimulated separately or both together.
 ? Macfarlan, Douglas, Salvaging the haid of hearing, Penna. Med. J., 1934.
-AUDITORY PERCEPTIBILITY 225
 In giving the test the following procedure should be clearly adhered to. First, the ear pieces should be carefully washed in an
 antiseptic solution and then thoroughly dried. The individual
 should be comfortably seated on a stool without a back. This
@@ -195,13 +199,14 @@ ticking in both ears, raise the index finger of each hand. Keep
 your finger raised as long as the ticking continues. As soon as it
 stops, lower the finger. As soon as it begins again raise it." In
 Audiometer. (Developed from design originally suggested by Joseph M. McCallie, Ph.D., University of Pennsylvania, 1912.)
-226 THE PSYCHOLOGICAL CLINIC
 giving the test keep the screen between the audiometer and the
 subject.
+
 Fill in the data requested at the top of the test sheet and begin.
 Do not permit subject to watch recording on the test sheets.
 The Test employed, T-N 51, follows:
 AUDITORY PERCEPTIBILITY:
+
 ACUITY AND DOMINANCE
 T-N-51
 N ame Age Sex. Occupation
@@ -285,9 +290,9 @@ words, if the dial is turned to 70 degrees it means 70 per cent
 hearing, the ability to hear when 70 per cent of sound has been
 shut off. If the subject hears the ticking of the clock in each ear
 at zero, place a check mark in the space provided. The subject
-228 THE PSYCHOLOGICAL CLINIC
 reports whether or not he hears the sound by raising his index
 fingers, as previously instructed.
+
 No. 2. Without apprising the individual that any change has
 occurred, allow the right ear stimulation to continue and shut off
 the sound for the left ear. Sometimes the subject continues to report hearing the sound in the ear from which the sound has been
@@ -295,15 +300,18 @@ shut off. Repeat this if necessary until it is certain the subject
 understands. Do not allow any other training periods later.
 No. 3. In this exercise the right ear stimulation is shut off
 and the left ear is given at zero.
+
 No. 4. As in test No. 1 both ears are again given at zero.
 Close watch should be exercised to see whether or not the subject
 encounters any confusion or whether a decision is difficult at this
 point for some other reasons.
+
 No. 5. This test is for the right ear only. Sounds to the left
 ear are completely shut off and the stimulation of the right ear
 is given as indicated on the test; percentages, 0, 10, 0, 15, 5, 20, 10,
 25, etc. When the maximum point of hearing is reached, circle
 the corresponding number on the test.
+
 No. 6. The procedure employed for test No. 5 is repeated for
 the left ear, the sounds of the right ear having been shut off.
 No. 7. Let us assume that the highest perceptibility for the
@@ -321,6 +329,7 @@ only in one ear. Indicate in the space provided which ear and
 following "ear at" , the percentage of stimulation perceived.
 No. 10. The information here requested is of importance and
 any pertinent data should be recorded.
+
 The audiometer reading thus obtained serves two purposes;
 first, we can make a determination of absolute hearing, and secondly, we can determine ear dominance. Aside from our experimental interest in the question of ear dominance, there has deAUDITORY PERCEPTIBILITY 229
 veloped from the 200 eases studied the fact that the perception of
@@ -358,12 +367,13 @@ number of distressing impinging stimuli. This means that we must
 place the individual in an environment which draws minimally
 upon his specific defects and maximally upon those specific abilities
 which he enjoys the greatest.
+
 From the point of view of general safety and the ordinary
-230 THE PSYCHOLOGICAL CLINIC
 social relationships of life, the hard of hearing compete "with the
 "normals" at a decided disadvantage. The blind live in a relatively protected environment, but the deaf are offered no such protective advantage.
 Vocational adjustment and whatever hope can be held out to
 the hard of hearing is ably summed up by Berry:10
+
 "Vocational Measures. Vocational adjustments offer an interesting study ... (a) the youth who knows in advance that this
 handicap will exist and must be reckoned with, and (Z>) the adult
 whose trade has already been learned and for which his impairment now suddenly unfits him. Type a: For any young man, the
@@ -389,12 +399,12 @@ ears are available to make up completely for the individual lack.
 In most instances, the problem is one of human intercourse. When
 these social adjustments have been made, the handicap is largely
 taken care of.
+
 11 Phillips, W. C., and Howell, H. G., Your hearing: How to preserve and
 aid it, New York, 1932.
 12 Peck, Annetta "W., Samuelson, Estelle E., and Lehman, Ann, Ears and
 the Man: Studies in social work for the deafened, Philadelphia, F. A. Davis
 Co., 1925.
-AUDITORY PERCEPTIBILITY 231
 Not Always a Liability. Indeed, impaired hearing may be an
 asset rather than a liability. A deafened bookkeeper or machine
 operator minds her business and does not spend her time or her

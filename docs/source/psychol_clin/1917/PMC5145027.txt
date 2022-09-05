@@ -2,8 +2,9 @@ Health and Disease, Their Determining Factors
 =============================================
 
 REVIEWS AND CRITICISM.
-By Roger I. Lee, M.D. Boston:
+:Author:  Roger I. Lee, M.D. Boston:
 Little, Brown, and Co., 1917. Pp. xvi 378.
+
 Dr Lee, who is professor of hygiene in Harvard University and visiting
 physician to the Massachusetts General Hospital, dedicates his book "to the
 anonymous graduate of Harvard whose wisdom and generosity made possible
@@ -19,6 +20,7 @@ person and in his family, and who pays not only the doctor's bills for himself
 and family, but also his share of the community's medical bills in taxes, is entitled
 to a straightforward exposition of the underlying principles of health and
 disease."
+
 The range of subjects covered is exhaustive. The treatment is judicial,
 especially in discussing such moot questions as alcohol, tobacco, diet, and venereal
 disease. Dr Lee disarms the only serious criticism to which his book is exposed,

@@ -5,8 +5,10 @@ The Psychological Clinic
 Copyright, 1916, by Lightner Witmer, Editor.
 Vol. X, No. 1
 March 15, 1916
-By Clara Harrison Town, Ph.D.,
+:Author:  Clara Harrison Town, Ph.D.,
+
 Psychologist, Orthogenic Clinic, Rush Medical College, Chicago.
+
 The study here reported is the first step in a research which
 seems to be forced upon the writer by a very definite need for
 knowledge on the subject. In clinical and educational work with
@@ -20,6 +22,7 @@ stretched by some writers to include so much that it loses all significance, whi
 seems well to state that for the purposes of the present study suggestion means a mental influence which causes the person influenced
 to think and to act without the guidance of his own reason. Persons
 peculiarly open to such influence are called suggestible.
+
 The experimental studies thus far made on suggestion fall into
 two groups, those concerned with hypnosis, and those concerned
 with suggestion in the waking state. This study considers suggestion in the waking state only.
@@ -32,8 +35,6 @@ common to most men. This fact is impressed upon us constantly
 by our contact with average as well as with under-average persons.
 A couple of years ago, at the University of Pittsburgh, Professor
 O'Shea was invited to give a talk on what he considered the most
-(1)
-2 THE PSYCHOLOGICAL CLINIC.
 serious omission in the curriculum of the Pittsburgh schools. He
 gave a most illuminating talk, pointing out the utter lack in the
 course of anything that would tend to counteract the super-suggestibility of the young people. To illustrate this prevalent supersuggestibility he cited the incredible ease with which fakers lead
@@ -52,6 +53,7 @@ the average person certain moral and ethical standards limit the
 realm where suggestion rules; with the feebleminded these standards
 are absent, and in consequence, the most essential acts of life are
 but the blind realization of the suggestions of others.
+
 With suggestion a dominant factor in conduct, it surely is
 important that those undertaking to guide the conduct of others
 find out as much as possible about this condition, about its causes
@@ -73,13 +75,13 @@ ability and inability; the production of a variation in imaginal
 activity by the presentation of an immediately preceding stimulus.
 The subjects have varied much in age, being drawn from primary
 and high school pupils, college students and teachers, and suggestibility has been found in persons of all ages.
-A STUDY OF SUGGESTIBILITY. 3
 Binet,2 Yung,22 Guido Guidi,8 Vitali2 and Small17 all consider
 suggestibility a function of age, finding that it decreases as age
 increases. Binet,2 and Guido Guidi8 also consider it a function of
 school grade, and Lippman and Guido Guidi8 a function of culture.
 Pearse,12 Binet,2 and Vitali,2 all found that suggestibility increased
 with the repetition of the suggestion experiments.
+
 Several investigators have endeavored to find out whether there
 is a correlation between suggestibility for different kinds of stimuli.
 Professor Scott14 using suggestions of color and of heat found a very
@@ -90,6 +92,7 @@ degrees of suggestibility for the different senses. Pearse also finds
 that the highest degree of suggestibility for all the tests was attained
 by the same subject, an inevitable result if the ratio hypothesis is
 a true one.
+
 Arthur Chojecki,4 also looking for correlations, used three tests,
 one suggested heat sensation, one suggested a magnetic influence,
 and one suggested a judgment of length of line. Sixty subjects
@@ -108,18 +111,19 @@ MacDougal11 writes of this tendency and considers it a transition state between 
 is interesting to find this tendency toward negativism, which is such
 a constant factor of conduct in certain insane and feebleminded
 types, so prominent in the reactions of average persons.
+
 The present study is an attempt to discover something definite
 about the relation of suggestibility to age. It aims to find out
 whether there is any marked difference in the suggestibility of average boys of twelve and fifteen years of age. Forty twelve-year-old
 boys and thirty fifteen-year-old boys were used as subjects. Age
 and average performance in school were the only requirements.
-4 THE PSYCHOLOGICAL CLINIC.
 Apart from these two constant factors the groups were quite heterogeneous, quite representative of the Chicago populace?the seventy
 boys represented many races and many social conditions. Some
 boys were pupils of the Glenwood Manual Training School, Glenwood, Illinois, which is a school for dependent boys; these boys,
 before their Glenwood experience, had enjoyed few if any environmental advantages. Some boys were attending the Grammar
 School at Hinsdale, Illinois, where the pupils are drawn from families
 of education and means.*
+
 The conditions with the exception of the time of day and the
 place of testing were quite constant. The majority of the tests were
 made at the two schools mentioned. As the tests were all made by
@@ -128,6 +132,7 @@ to keep the time of day constant. The personal equation, an important factor in 
 all tests being made by the same person, who was a stranger to all
 the boys. Each boy was tested individually, and was put through
 the series of five tests at one sitting.
+
 Five tests were used, all devised by Binet, all of the judgment
 controlling type. In two tests the personal element is practically
 eliminated?the suggestion is given by the arrangement of the test
@@ -136,6 +141,7 @@ is a combination of the suggestive arrangement of material with the
 personal element. This last is the test made familiar by incorporation in the "Measuring Scale of Intelligence." The other four tests
 with tabulated results of experiments, are presented by Binet2 in
 his volume entitled La Suggestibilite.
+
 Binet's subjects were pupils of the elementary primary school,
 varying in age from seven to fourteen years, and pupils of the
 superior primary school, averaging sixteen or seventeen years of age.
@@ -147,9 +153,10 @@ superior school; for test 5 he used 35 subjects, 25 from the elementary and 10 f
 definite information concerning the degree of suggestibility usual at
 certain ages. They show in a general way that his older subjects
 were less suggestible than his younger ones.
+
 * I wish to express to Mr. Leo A. Philips, Superintendent of the Glemwood Manual Training
 School, and to Mr. Douglass, Superintendent of the Hinsdale High School, my sincere appreciation of the cordial and generous co-operation which made this study possible.
-A STUDY OF SUGGESTIBILITY. 5
+
 The results attained by any one individual, in the different tests
 are compared by Binet in a study of order of individual achievement
 in the large groups, or in smaller groups representing different grades
@@ -159,6 +166,7 @@ seem to be a correlation; if subject B's suggestibility coefficient
 appeared among the first ten in test 1 (number 2) and among the
 first ten in test 2 (number 9) there would still be a correlation, but
 one of less degree.
+
 The limitation of subjects to two ages in the present study
 makes it possible to compare group instead of individual results.
 The first test in the series aims to influence the judgment of differences of weight, and to do this entirely by the suggestive arrangement
@@ -179,6 +187,7 @@ often as he chooses. Finally, the weights are lifted for the third
 time, and the subject required to estimate the actual weight after
 being told that the first weight is 20 grams. Introspections are then
 brought out by questions and recorded.
+
 Binet compared the results of the three trials and found the
 suggestibility decreased in the second and increased again in the
 third proceeding, and that it was greatest of all by the first method.
@@ -189,9 +198,6 @@ first series, a single lifting of the weights; Ave recorded no introspections* a
 type. Binet discusses this point but finally excludes the negative
 judgments from the results. The writer feels strongly that they
 should be included, and the mathematical treatment of the results
-* No introspections were recorded with any of the tests in the present series. It was Binet's
-practice to add the introspections.
-6 THE PSYCHOLOGICAL CLINIC.
 seeins to support this view, as the probable error, the probable error
 of means and the coefficient of variability are all reduced by including them.
 The mean, the average deviation (A. D.), the standard deviation (S. D.), the probable error (P. E.), and the coefficient of variation (C.) have been worked out for the twelve and the fifteen-yearold groups. As the mean for each group is nearly six times its
@@ -201,6 +207,7 @@ mean compared with the mean for a very large number of cases, was
 P. E.
 computed by the formula ? which gave a P. E.m of about oneVn
 thirtieth of the mean.
+
 The mean suggestibility for the twelve year group was 8.2 of
 a possible 10, and for the fifteen year group it was 7.5 of a possible
 10. The difference in suggestibility was thus only 0.7 in favor of
@@ -332,10 +339,10 @@ d.
 1.27 1.12
 14.0 j 1.3
 3.6 I 1.69
+
 The second test in the series is that used in "The Measuring
 Scale of Intelligence." The results are here treated quite differently in order to make them comparable with the results of the
 other tests of the series. The test aims to influence the judgment of
-A STUDY OF SUGGESTIBILITY. 7
 the length of lines. Six pairs of lines are used, each pair drawn on
 a separate card. The lines are drawn in line with each other and
 one centimeter apart. The first pair measure four and five centimeters each, the second pair five and six centimeters, the third pair
@@ -345,12 +352,14 @@ seven centimeters. The subject is shown each pair separately; as
 he is shown each of the first three pairs he is asked "Which is the
 longer line there?" and as shown each of the last three pairs "And
 there?"
+
 In scoring this test for the "Intelligence Scale" resistance to
 suggestion is recorded, not suggestibility, and resistance is credited
 whether two or three of the equal pairs is judged correctly. In
 order to compare the results with the results of the other four tests
 in this study it is necessary to record suggestibility, not power of
 resistance, and also to credit each response.
+
 It is interesting to note that in both the twelve and fifteen
 year groups, the line to the left in the last pairs was judged "longer"
 more than twice as often as the line to the right. That the judgment
@@ -369,6 +378,7 @@ so large for each group that the group averages are practically
 worthless. The results of test 2 are therefore omitted from our final
 comparative analysis. The results are presented in table I, Group
 Results.
+
 Test 3 aims to influence the judgment of the length of line,
 this time by a purely personal, verbal suggestion. A series of 24
 parallel vertical lines are drawn from a base line on a piece of paper.
@@ -377,7 +387,6 @@ The shortest of these lines measures 12 millimeters and the longest
 paper each one being 4 millimeters longer than the one to the
 left of it. These lines are plainly numbered from 1 to 24. On
 separate cards three other lines are drawn, one like line 6 of the
-8 THE PSYCHOLOGICAL CLINIC.
 series, one like line 12, and one like line 18. The subject is shown
 the line like line 6, allowed to look at it for several seconds, and
 then is asked to pick out from the series of lines the line of the
@@ -389,6 +398,7 @@ from the use of this test again shows such large probable errors that
 neither of the group averages is reliable; they are therefore omitted
 from the final analysis. The results are presented in table I, Group
 Results.
+
 Test 4 also attempts to influence the judgment of length of
 lines, but by the arrangement of material only. The method is
 the same as that of test 1, lines being substituted for weights. A
@@ -415,12 +425,12 @@ the best index of suggestibility, as it is the only one whose probable
 error is small enough to justify its use. It may be questioned
 whether this P. E. is small enough (a little more than one third the
 mean. The coefficient of greatest positive suggestibility for the
-A STUDY OF SUGGESTIBILITY. 9
 twelve-year group is 142 (P. E. 18.5), that for the fifteen-year group
 128 (P. E. 11.6). The difference in means is quite large?14. Its
 probable error (P. E.m) is 3.60. It seems correct to infer that there
 is an age difference in favor of the fifteen-year group for this test.
 The results are presented in table I, Group Results.
+
 Test 5 aims to affect the judgment of length of lines by a purely
 personal suggestion. Forty lines are presented to the subject one
 at a time, and he is directed to indicate their length on quadruled
@@ -456,7 +466,6 @@ a minus sign if it contradicts the suggestion, and by an equal, sign
 if it entirely ignores the suggestion and estimates the line as equal
 to the preceding line. The number of suggested judgments are
 found by adding the plus and minus judgments. The mean, the
-10 THE PSYCHOLOGICAL CLINIC.
 A. D., the S. D., the P. E., the C. and the P. E.m have been calculated for each age group for positive, negative and total suggestibility, and the D. M. and P. E.a have also been calculated for
 both kinds of suggestibility as well as their sum. Negative or contrary judgments are more frequent among the fifteen-year-old than
 among the twelve-year-old boys, but the probable errors are so
@@ -467,6 +476,7 @@ errors reduced sufficiently to support the means in a claim to consideration. Th
 in favor of the fifteen-year-old group has a P. E.a of 1.69 which, of
 course, invalidates it. There is practically no age difference for the
 two groups in this test.
+
 In the present study 40 lines were used instead of 18 and an
 attempt was made to ascertain whether the force of suggestion
 increased or diminished as the experiment progressed. The number
@@ -488,15 +498,15 @@ weight 8. Of the fifteen-year group 20 of 30 subjects were suggestible for both 
 judgments for weight 6 and 26 for weight 10. Not one of the four
 curves plotted indicates that repetition either increases or diminishes
 the force of a suggestion.
+
 The sifting out process has left results which seem reliable from
 three of the five tests used, tests 1, 4, and 5. An age difference in
 suggestibility is indicated in only one of these, test 4. To discover
 whether suggestibility for one of these tests indicates suggestibility
 for the others, the twelve and fifteen-year groups for each test were
-A STUDY OF SUGGESTIBILITY. 11
 merged into one group of Seventy subjects, and the correlation coefficients for tests 1 and 4, tests 1 and 5, and tests 4 and 5 were calcuX xv
-lated by the "Product-Moments" Method of Pearson (r=
-n Oj o2).
+lated by the "Product-Moments" Method of Pearson (r=n Oj o2).
+
 The probable errors of each of these coefficients were also found?
 (P. E.r = 0.6745
 V n
@@ -506,6 +516,7 @@ Tests 1 and 5 r = 0.043 P. E.r = 0.080.
 Tests 4 and 5 r = 0.448 P. E.r = 0.064.
 The only coefficient with a sufficiently small probable error is that
 between tests 4 and 5.
+
 It is of considerable interest that the only correlation coefficient
 found is that between two tests which, while they both aim to produce a variation in judgments of visual stimuli, differ profoundly in
 method of effecting the suggestion. In test 4 the suggestion is
@@ -523,6 +534,7 @@ correlation coefficient on this basis. There was still an absence of
 correlation. These findings are in accord with those of Scott and of
 Pearce, that there is a relation between the degree of suggestibility
 and the sense stimulated.
+
 The results of the present study lead to the following conclusions:?that average boys of twelve and fifteen years of age are
 highly suggestible; that the difference in suggestibility due to the
 age difference between twelve and fifteen in average boys is slight;
@@ -530,7 +542,9 @@ that to secure an estimate of an individual's suggestibility it would
 be well to use a series of tests each effecting the suggestion through
 stimulation of different senses; that repetition has little if any effect
 on the strength of a suggestion.
+
 Bibliography.
+
 1. Bell, J. Carleton. The Effect of suggestion on the reproduction of triangles
 and of point distances. Amer. Jour, of Psychol, 1908, 19, 504-18.
 12 THE PSYCHOLOGICAL CLINIC.

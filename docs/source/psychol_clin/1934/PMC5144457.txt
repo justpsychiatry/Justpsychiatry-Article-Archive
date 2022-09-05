@@ -3,12 +3,14 @@ Copyright, 1934, by Lightner Witmer, Editor
 Vol. XXII, No. 4 December, 1933-February, 1934
 THE INFLUENCE OF DISTRACTION UPON MENTAL
 TEST PERFORMANCE 1
-By Andrew W. Brown, Verne W. Lyon, and Seymour Stein
+:Author:  Andrew W. Brown, Verne W. Lyon, and Seymour Stein
+
 Institute for Juvenile Besearcli, Chicago
 The experiment to be reported here was carried out in connection with the examinations given in the process of selecting men
 for guides and policemen at the Century of Progress Exposition.
 While a number of tests were given and a great deal of data collected, this investigation is concerned only with the two tests of
 general intelligence which were used.
+
 It was assumed that many of the men selected as guides would,
 at times, be required to carry on their duties under distracting
 circumstances. It was further assumed that the men who would
@@ -27,12 +29,11 @@ Otis Self-Administering Tests of Mental Ability. As there are
 four alternative forms of these tests, they served the purpose well.
 i The writers are grateful to Dr Chester W. Darrow for his suggestions
 in this study, and also to Miss Eleanor Garm for her assistance in the statistical calculations.
-213
-214 THE PSYCHOLOGICAL CLINIC
 Two types of distractions were used: first, what we have called
 "sensory," consisting mostly of noises of various kinds, and second, what we have called " ideational," i.e., meaningful material.
 These will be discussed in order and will be followed by two or
 three related problems.
+
 The Influence of Noise or Sensory Distraction on Efficiency
 in Mental Test Performance
 The sensory distractions consisted of the noise produced by
@@ -41,6 +42,7 @@ punched off center; by blowing a siren, a horn, and a whistle.
 These were presented in various combinations and sometimes all
 together. The object was to create as much din as possible while
 the men were taking the second intelligence test.
+
 The distractions were presented over a microphone through an
 amplifier. The amplifier used was capable of reproducing either
 music or voice or both together. Either could be amplified or reduced in volume with control.
@@ -54,6 +56,7 @@ after the men had taken the other tests, i.e., after about one hour
 of work, they were given the Otis Self-Administering Test, Form
 B (30 minute time limit) with the distractions. All the tests were
 given between 8 and 10 o'clock in the evening.
+
 The mean raw score on test A which was given without distraction was 44.8 ? .97 and the mean for the test with the distractions was 48.0 ? 1.06. The correlation between the two tests
 was .84 ? .02. Otis reports a practice effect of 4 points from one
 test to another, but he also reports that Form B which was given
@@ -62,7 +65,6 @@ so far as A was given first and B second, the difference in difficulty should, t
 an increase in score of 3.2 in raw score under distraction. This
 difference divided by P. E. diff. is 2.7. We can at least be fairly
 sure that the distraction did not decrease the mental performance.
-INFLUENCE OF DISTRACTION UPON PERFORMANCE 215
 Kornhauser,2 who studied the effect of noise on the production
 of four typists in a large Chicago office, found that 3.2 per cent
 more lines were written under quiet conditions, but that there was
@@ -70,6 +72,7 @@ more lines were written under quiet conditions, but that there was
 in the quiet than in the noisy room so that the net figures for total
 completed letters favored the work under the noisy conditions 1.5
 per cent.
+
 Morgan 3 who made one of the earliest studies of the influence
 of distractions upon performance also found that noise in the form
 of a variety of buzzers, electric bells, and phonograph records not
@@ -89,18 +92,19 @@ Efficiency in Mental Performance
 seemed to increase rather than decrease efficiency, it was decided
 to investigate the influence of ideational or meaningful distractions
 on performance.
+
 The distracting material used for this part of the experiment
 consisted of short stories and abbreviated articles on a variety of
 subjects presented over a microphone with the same amplification
 2 A. W. Kornhauser, The Effect of Noise oil Office Output, Indus. Psychol.,
 1927, 2, 621-622.
+
 3 J. J. B. Morgan, The Overcoming of Distractions and Other Resistances
 Arch. Psychol., 1916, 5, No. 35. Pp. 84.
 * Eleventh Annual Report, Industrial Health Board, London, 1931, pp.
 62-65.
 5 Iiid.
 c Ibid.
-216 THE PSYCHOLOGICAL CLINIC
 unit as previously described. An endeavor was made to select
 topics of popular interest, interspersed with various bits of humor.
 The type of distraction was changed about every three minutes
@@ -118,23 +122,26 @@ the practice effect, the men improved with the ideational distractions. There is
 difference divided by P. E. diff. is 11.4. We can therefore be fairly
 certain that this increase in score under ideational distractions is a
 reliable one.
+
 To make certain that the increase in performance under distraction was not a function of the difference in difficulty of the
 test, we reversed the order of the tests, giving Forms B and D first
 without distraction and Forms A and C second, with distractions.
 For Forms A and C the additional distraction of "set" was added,
 but the average increase under the distraction with "set" was 6
 points for 460 men.
+
 In each of the above experiments the distractions were given
 during the second test. When, however, the distractions were reversed, i.e., given during the first test, and when the difference in
 difficulty and the influence of practice, as stated by Otis, were taken
 into account, there was less than one point difference between the
 result of the two tests for 195 men.
+
 The Influence of an Increase in the Duration of the Distraction on the Performance
 The increase in the performance under the ideational distractions just noted was on the basis of a 20-minute time limit. Several
 of the groups were given the tests under exactly the same conditions as above except that a 30-minute time limit was used. We
-INFLUENCE OF DISTRACTION UPON PERFORMANCE 217
 were thus able to get some estimate of the effect of increasing the
 duration of the distraction.
+
 On the basis of a 30-minute time limit the mean raw score for
 171 men on Form A, without distractions, was 52.9 ? .64 while
 the mean on Form B with distractions was 54.2 ? .63, an increase
@@ -148,6 +155,7 @@ Although there is an improvement in performance with both
 sensory and ideational distraction, nevertheless, it was possible
 that there might be, at the same time, an increase in the number
 of errors.
+
 To test this hypothesis the average of the percentage of errors
 in relation to the number of items attempted (not including the
 omissions) was computed for 220 cases on Form A which was
@@ -163,7 +171,7 @@ It seems, therefore, that for this type of work under these conditions, the dist
 diff. is 2.7. The P. E. of a diff. between differences ? P. E. diff. (A ? B) 2
 ? P. E. diff. (A ? B)o2. This formula was provided for the writers by Dr.
 Luton Ackerson.
-218 THE PSYCHOLOGICAL CLINIC
+
 Influence of ''Set" or Attitude toward Distractions on
 Mental Test Performance
 Another aspect of the study was an attempt to determine the
@@ -177,6 +185,7 @@ told that they would be expected to answer those questions and
 were given additional motivation by emphasizing that those who
 could recall most would make the highest score. Other groups were
 given the true-false questions without previous warning.
+
 For a group of 220 who were given the true-false tests without
 any previous warning there was not only an average gain on the
 Otis, which was given under distractions, of 2.1, but the men were
@@ -191,6 +200,7 @@ This consistent tendency to lose is probably due to the introduction of the thir
 in performance (i.e., the difference between 2.07 and 6.85) of the
 two groups could probably be accounted for by the difference in
 the degree of attention given to the distractions.
+
 In the process of the experiment two other relationships were
 studied which may be of some general interest:
 1. There is only a slight relationship (r =-f-18 ? .04,
@@ -198,9 +208,9 @@ N = 203) between general intelligence as determined by the average score on the 
 2. There is also only a slight relationship (r = .19?.03,
 N = 368) between general ability as determined by the two tests
 and the amount of gain or loss under the distractions. The correlation is about 6 times the P. E. and perhaps indicates a slight
-INFLUENCE OF DISTRACTION UPON PERFORMANCE 219
 tendency for the dull ones to be more disturbed than the bright
 ones.
+
 Summary
 1. Mental efficiency as measured by mental test performance
 does not seem to be greatly impaired, at least for a short period of

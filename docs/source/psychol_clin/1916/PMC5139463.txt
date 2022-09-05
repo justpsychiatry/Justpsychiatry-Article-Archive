@@ -2,9 +2,10 @@ The Intellectual Status of Children who are Public Charges
 ===========================================================
 
 REVIEWS AND CRITICISM.
-By J. L. Stenquist,
+:Author:  J. L. Stenquist,
 E. L. Thorndike, and M. R. Trabue. Archives of Psychology No. 33,
 September, 1915. New York: The Science Press.
+
 This monograph belongs to the none too large class of scientific books
 which succeed in being thoroughly dry and compact, but not at all dull. " Two
 hundred and sixty-five children, including one hundred and eighty-three boys
@@ -14,6 +15,7 @@ of the investigation, public charges in a certain county. The selection was rand
 state institution for the care of the feebleminded were included. ... A comparison of the measurements of the children committed for delinquency with
 those committed for destitution shows no demonstrable difference either in the
 tests of abstract intellect or in the mechanical test."
+
 The Stenquist test of mechanical ability, which is the first reported in this
 monograph, aims to get as far as possible "from the child's ability to read and
 to write and to deal with heard words. The general plan is to measure his
@@ -25,6 +27,7 @@ half were the pieces for constructing a similar set of models. Photographs show
 the perfect models, the intermediate grades of accomplishment, and how they
 are to be scored. Thirty minutes was the time allowed, and one extra credit
 was given for each minute saved by the child.
+
 Mr. Stenquist obtained median scores for each year from six to sixteen,
 by testing 432 children in two New York City public schools. From these data
 he computed the "probable true central tendencies for these ages." From
@@ -34,6 +37,7 @@ were obtained, but he remarks, "The scores to fit ages below 6.5 and above
 computed by finding the age in the table which corresponds in score with the
 score made by the child. "Where the same score appears for several ages, the
 midpoint was taken."
+
 The second test given to the dependent children was the Trabue completion test, a series of fifty-six sentences with omitted words to be filled in. The
 directions were very clear, and in substance told the child to "put one word
 in each blank, so that the sentence will sound right and make good sense." It
@@ -43,8 +47,6 @@ examiner always went about the room, however, to do what he could for such
 cases. . . . Thirty-five minutes from the time the children began work, all
 papers were collected. . . . Each child's paper was given a score for each of
 the fifty-six sentences, each sentence receiving a grade of 5 if perfectly com_
-(271)
-272 THE PSYCHOLOGICAL CLINIC.
 pleted, and 0 if not sensible at all. ... If the sentence as completed by the
 child was only slightly imperfect, a grade of 4 was given it," and so on. "In
 an effort to make the grading consistent an objective scale of value was made
@@ -83,11 +85,12 @@ that he was unable to do any that were more difficult. No child was given all
 the tests of any group, but each was given all those in any group between the
 point where he showed full ability to do anything easier and the point where he
 showed complete inability to go higher."
+
 Dr Thorndike had previously found that "the mental ages as calculated
 by the Binet-Goddard scheme are, after 8.6 years, too low for ordinary American
 children." The corrected Binet ages were presented by him in The Psychological
 Clinic, Vol. VIII, No. 7, and are given again in this monograph.
-REVIEWS AND CRITICISM. 273
+
 The fourth and final test was of ability to read certain passages and answer
 questions or perform acts based on them. The passages and questions were
 selected from those published in the Teachers College Record for September, 1914.
@@ -100,6 +103,7 @@ of ordinary children in these reading tests were obtained from about 700 childre
 table shows the frequency of the scores attained by these ordinary children,
 and another table rearranges these facts for convenient use in determining the
 "reading ages" from the gross scores.
+
 In combining the results of all four tests and computing the retardation
 (or acceleration), the experimenter took the chronological age as "determined
 by the child's statement, corroborated or modified by the records of the institution or county wherever possible. . . . There is reason to believe that the
@@ -111,6 +115,7 @@ child in terms of 'underageness' we use as his chronological age the average of
 his own statement and the report of the institution or county records, or, if the
 two differ by three years or more, choose the one which best fits his bodily
 appearance and score in the tests. . .
+
 They found, as might be expected, that "these dependent children as a
 group are much below ordinary children of corresponding ages in the sort of
 abilities tested by the Binet, completion, and reading tests. They differ of
@@ -126,11 +131,11 @@ that being a public charge is more and more symptomatic of dulness, the older
 the child is. Probably the adults up to beyond the prime of life who-are public
 charges would be found to be even duller than these children of fourteen to
 sixteen."
+
 In a supplementary chapter on "Heredity versus environment as the cause
 of the low intellectual status of dependent children," the authors report measurements of nine pairs of siblings who have been in institutions for five years or
 more, and compare with them the measurements of nine other pairs of siblings
 who have been in institutions from one to three years. "It appears that, as
-274 THE PSYCHOLOGICAL CLINIC.
 far as our data go, equalizing opportunity, as by institutional life, for five years
 or more for children three to nine years at entrance upon it, does not reduce
 original likenesses within families and differences between families to any
@@ -141,4 +146,5 @@ given here put the burden of proof upon those who attribute any great share in
 the resemblances found in siblings, under the same general conditions of life
 during the same decade in the same community, to their similarity in home
 training."
+
 A. T.

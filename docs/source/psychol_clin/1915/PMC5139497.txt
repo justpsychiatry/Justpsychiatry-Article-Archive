@@ -1,7 +1,7 @@
 The Binet-Simon Tests in Relation to the Factors of Experience and Maturity
 =============================================================================
 
-By J. E. Wallace Wallin, Ph.D.,
+:Author:  J. E. Wallace Wallin, Ph.D.,
 Psycho-educational Clinic, Board of Education, St. Louis, Mo.
 In the December (1914) number of The Psychological Clinic,
 Messrs. Pintner and Patterson supply data, from an analysis of the
@@ -12,6 +12,7 @@ namely, the naming of the days of the week and months of the year.
 The results show that on the basis of a passing standard of 75 per
 cent, the days-of-the-week test is normal for the adult group at the
 B.-S. (Binet-Simon) age VI and for the child group one year later.
+
 On the other hand, the months-of-the-year test is normal for both
 groups at age VIII. That the adults' superiority compared with
 the children's is actually larger in the months tests than in the weeks
@@ -29,6 +30,7 @@ of intelligence, but to the fact that they have had more experience
 with the tests in question?the experience that comes inevitably
 with the necessity in workaday life of attending to the days of the
 week and months of the year.
+
 Several years ago a similar analysis of "maturity" difference1
 was made for various tests, based on the testing and the B.-S. classification of subnormal epileptics. A comparison was made between
 the records of children and adults for the following tests: time of
@@ -36,8 +38,6 @@ naming the four B.-S. colors, time of reading the B.-S. selection, number of mem
 1 Called maturity difference simply to indicate "differences between the juvenile and adult
 periods of life." Experimental Studies of Mental Defectives: a Critique of the Binet-Simon
 Tests and a Contribution to the Psychology of Epilepsy, 1912, p. 69.
-(266)
-THE BINET-SIMON TESTS AND MATURITY. 267
 60 detached words, time of replacing blocks in the form board (Vineland modification), and the strength of grip. The "adults" included
 those twenty-one years or over, and the "children" those who were
 less than twenty-one. Twenty-one was chosen as the dividing line,
@@ -59,6 +59,7 @@ scale is now constituted, it may be assumed that defective adults
 will grade somewhat higher than defective children." . . . "The
 adults among defectives possess a larger storehouse of experience
 and acquired knowledge.2
+
 On the other hand, the analysis of the tabular data for the six
 individual tests3 which were specifically investigated revealed significant maturity differences in some tests but not in others. I shall
 here give the results of a more complete analysis of the first five
@@ -70,6 +71,7 @@ in the time required to read it (M.V., 14.3) as do the children (M.V.,
 26.6). The children, however, gain almost three times as much from
 B.-S. age to B.-S. age between IX and XI4 (average improvement
 per year, 37.2 sec.) as do the adults (13.8 sec.).
+
 A surface examination of the results for the form-board test
 (table XIII in the book) would indicate that the adults surpassed
 the children considerably in the speed of the performance (47.4 sec.
@@ -98,6 +100,7 @@ adults). The children reproduce from the reading selection .6 units
 more than do the adults (5.5 vs. 4.9 units), their M.V. is .3 less
 (1.1 vs. 1.4), while their improvement with each successive B.-S. age
 is .6 unit more than for the adults (1.8 vs. 1.2 units).
+
 It is thus evident that there is a significant difference in only
 one test, or at least two: in the time to read the selection, in which
 the adults excel, and in the form-board test, in which the children
@@ -120,7 +123,6 @@ Most of the epileptic children tested were school cases. This may
 explain the slight superiority of the children in this test. Similarly,
 the fact that the children named the colors slightly more rapidly and
 reproduced slightly more memories from the reading selection than
-THE BINET-SIMON TESTS AND MATURITY. 269
 the adults did may be due to the fact that they had been given practice in school in the naming of colors and in the reproduction of
 contents of selections read. However, our results show a significant
 difference in only one test, and therefore suggest that it is legitimate
@@ -130,6 +132,7 @@ needs to be verified for other types of subnormals than epileptics
 (and forsooth, also for normal children and normal adults) when
 arranged into similar groups: children under twenty-one years,
 adults twenty-one years and over.
+
 If the dividing line between the children and the adults is drawn
 before the children reach maturity, the adult superiority in a given
 test might depend upon the factor of maturity rather than on the
@@ -146,18 +149,20 @@ the adults on the other hand, there would be no growth in maturity,
 even if the chronological age increased slightly with increasing B.-S.
 age, on the supposition that the adults had practically attained their
 maturity at the age of twenty-one.
+
 The fact that the children gain more with ascending B.-S. age
 would suggest that there should be less difference between the children and the adults in the higher B.-S. ages, than between the children and the adults in the lower B.-S. ages. In order to test this supposition I have worked out the amount of difference between the
 children and the adults, first for the children's and adults' averages
 for the lower half of the B.-S. ages, and, secondly, for the children's
 and adults' averages for the upper half of the B.-S. ages which are
 tabulated for each test.
+
 Actually the difference between the children and adults was
 larger for the lower B.-S. ages in four tests: the four colors (the difference was larger in the lower ages than in the upper by an average
 difference of .84 sec. per B.-S. age); the form board (larger by an
 ? But facts have been given tending to show the validity of the reading test as a test of intelligence: as before, p. 72. Granting that this is so, separate norms for children and adults may still
 be required in this test.
-270 THE PSYCHOLOGICAL CLINIC.
+
 average difference per age of 23.9 sec.); the reading selection (by an
 average difference per age of 45.6 sec.); and the week days (by an
 average difference per age of 13.0 per cent; computed from Pintner
@@ -194,11 +199,12 @@ by experience, merely because they are so influenced and irrespective
 of whether or not the tests in themselves are intrinsically valuable
 or give us an insight into traits which are significant for mental or
 social growth and development.
+
 From the earlier analysis of the B.-S. results it was conjectured
 ? It should be said that in all tests when the children are superior to the adults in the lower
 B.-S. ages they are also superior in the upper ages. The same statement applies when the adults
 are superior to the children.
-THE BINET-SIMON TESTS AND MATURITY. 271
+
 that it is not "essential to eliminate (from scales of development)
 all the tests which are dependent upon training . . . partly because
 this is not desirable and partly because this is impossible. Nature
@@ -210,6 +216,7 @@ processes of nurture. We cannot, if we would, test merely pure
 native capacity uninfluenced by environmental agencies, except
 possibly during the first months of life. But we can measure native
 capacity as modified by the environment" (p. 57).
+
 The analysis of a number of individual tests in this paper seems,
 therefore, to show that common age standards can be used, without
 very much error, for both subnormal children and subnormal adults,

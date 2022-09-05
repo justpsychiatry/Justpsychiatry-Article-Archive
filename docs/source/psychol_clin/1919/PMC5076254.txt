@@ -1,7 +1,7 @@
 The Analytical Diagnosis
 =========================
 
-By H. J. Humpstone, Ph.D.,
+:Author:  H. J. Humpstone, Ph.D.,
 University of Pennsylvania
 In arriving at a final diagnosis in a clinical examination the
 examiner should be able to state the specific defects and abilities of
@@ -12,6 +12,7 @@ and the interpretation is made in terms of specific abilities and defects.
 Every qualified clinical examiner must have as a background an
 intimate knowledge of Psychology, especially of that part of the
 science which we know as Clinical Psychology.
+
 Contrasted with that larger background there are certain specificities which the examiner must be able to recognize and upon which
 ratings must be made. If the subject shows defects in one or more of
 these, there still may be compensation through others. The mentality is a complex; it is not to be determined by the score of any one
@@ -19,6 +20,7 @@ test or of a set of tests, however significant such a score may be.
 We have used the following schedule of capabilities in the teaching
 and practice of clinical diagnosis, and have found it to stand the
 test of use for both purposes:
+
 VITALITY
 1. Energy.
 2. Rate of Discharge.
@@ -52,6 +54,7 @@ IMAGINATION
 20. Observation.
 21. Intellect.
 22. Intelligence.
+
 These are congenital capabilities. They are developed as the
 child grows and may be trained by exercise and guidance. They
 atrophy for want of use and are impaired by improper training. At
@@ -76,10 +79,10 @@ In giving attention one may select one small part and concentrate on it, or he m
 several parts. Young children and low-grade feebleminded ones show
 this distribution by their movements. Some do not concentrate
 long enough to accomplish the task or solve the problem. Persistent
-THE ANALYTICAL DIAGNOSIS. 173
 concentration of attention is a very important factor in success.
 Alertness is expectant attention, an attitude of readiness. Interest
 is emotionalized attention.
+
 Sensibility may be directly measured by careful tests, or may be
 inferred from the reactions to different stimuli. One may have
 apparently perfect sense organs and yet have little sensibility.
@@ -93,10 +96,12 @@ be tested. Trainability refers to the ease with which the child learns
 and is measured by the number of repetitions necessary to fix the
 material, while retentiveness refers to the permanence of the modification and is measured by the length of time the material is retained
 or by the amount retained after the lapse of a given time.
+
 The remaining specificities are imagination complexes of different
 kinds. Intellect is the ability to use knowledge either for pleasure
 or to gain new knowledge. Intelligence is the ability to solve what
 for the individual is a new problem.
+
 The mental examination should employ tests designed to elicit
 performances which will enable the examiner to estimate all of these
 specificities, if the performance is interpreted in the light of the

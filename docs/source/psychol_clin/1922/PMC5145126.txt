@@ -1,8 +1,9 @@
 Statistical and Non-Statistical Interpretation of Test Results
 ==============================================================
 
-By Samuel W. Fernberger, Ph.D.,
+:Author:  Samuel W. Fernberger, Ph.D.,
 Assistant Professor of Psychology, University of Pennsylvania.
+
 Some time ago, a survey was made to determine standards for
 children of the fifteen-year-old level at the University of Pennsylvania.* This age is a critical one for vocational guidance and the
 study is thus relatively important. From a preliminary study, it
@@ -15,6 +16,7 @@ Monroe Reading, Courtis Arithmetic, and Woodworth and Wells'
 Hard Directions Test. One hundred boys and one hundred girls
 were each tested in Groups II and III. One hundred and thirty
 boys and seventy girls were tested in Group I.
+
 One of the important results of this study was the discovery
 that the performances of the High School children (Group III) were
 considerably better than those of either of the other two groups.
@@ -36,9 +38,7 @@ Group III with those for Groups I and II. The probable errors,
 however, are quite large indicating great variability within each
 group. The probable errors for the Dearborn Formboard results
 are relatively very much larger than those for the Binet I. Q.
-* R. E. Learning, "Vocational Guidance at the Fifteen-Year-Old Level."
-(68)
-INTERPRETATION OF TEST RESULTS. 69
+
 Table I.?I. Q.
 Group. Average.
 I B  87.6
@@ -67,6 +67,7 @@ Ill G.
 75.96
 65.14
 63.42
+
 Then the probable errors of the differences were calculated by
 the formula, P. E.d = VP. E.^ + P. E.b. Then a value z was
 calculated by the formula, z = D/P. E.d, i. e., the difference divided
@@ -78,6 +79,7 @@ For mathematical certainty that the difference is significant, the
 value Pz must be 0.9999 or unity.
 Table III.?I. Q.
 Boys-Girls.
+
 D
 P. E.d
 Pz
@@ -122,6 +124,7 @@ II-III.
 16.4
 15.5
 13.6
+
 Table VI.?Dearborn.
 Boys-Girls. D P. E.d Pz
 I- 1  33 133 0.1339
@@ -137,8 +140,7 @@ Group. D P. E.d Pz
 I-II  30 135 0.1180
 I-II I  57 128 0.2385
 II-II I  27 99 0.1445
-* "W. W. Johnson, The Theory of Errors and Method of Least Squares, N. Y., 1892, p. 154.
-70 THE PSYCHOLOGICAL CLINIC.
+
 These values are to be found in Tables III-VIII. Tables III-V
 contain the values for the Binet I. Q., while Tables VI-VIII contain
 those for the Dearborn Formboard. Tables III and VI compare
@@ -147,10 +149,12 @@ different groups for boys and Tables V and VIII compare the different groups for
 first columns are indicated the groups compared. In the second
 columns are given the differences with the probable errors of the differences in the third columns. In the last columns are given the values
 of P2, the index of significance.
+
 In the consideration of the I. Q. for boys and girls (Table III)
 none of the differences are at all significant. That for Group III is
 the largest but this indicates less than a fifty per cent probability
 that the difference is not due to chance factors.
+
 Comparing the I. Q. for boys (Table IV), the differences between
 Groups I and II are very insignificant. Group III shows a much
 greater significance; indeed, comparing Groups I and III there is
@@ -167,6 +171,7 @@ seconds which is nearly one-third as large as the lower average?a
 relatively large difference indeed. But there is so much variability
 within each group that the probable errors are so large that the value
 of z = (D/P. E.d) is small.
+
 It was therefore thought advisable to try and correct the values
 so as to obtain greater statistical significance. The obvious method
 is to lower the time limits beyond which the performance is considered a failure. In the present experiment, a period of 10 minutes
@@ -177,11 +182,11 @@ cases which give the large variations and which give extremely large
 values when the variations are squared. Hence we arbitrarily cut
 off the "tails" of the distribution curves for the upper limits by
 arbitrarily calling all performances over 400 seconds failures. In
-INTERPRETATION OF TEST RESULTS. 71
 this new procedure, we record 17 failures for Group I and six failures
 for Group III. The averages and probable errors for these new
 "corrected" values are to be found in Table IX. We have reprinted
 in this table the original "uncorrected" values for comparison.
+
 Table IX.
 Group.
 Average.
@@ -205,6 +210,7 @@ I?III (corrected) .
 74
 0.2385
 0.1971
+
 The size of the probable errors are considerably reduced by the
 assumption of a shorter time limit for failure. But it will also be
 noticed that the elimination of the few longer values from the calculation of the averages also considerably reduces the size of the averages themselves. The subsequent calculations, described above,
@@ -230,12 +236,12 @@ In the non-mathematical interpretation of the results, one fact
 gave added conviction to the significance of the differences; namely,
 that when one compared two groups, the differences for all of the
 tests in the battery were invariably in the same direction. Hence,
-72 THE PSYCHOLOGICAL CLINIC.
 for both boys and girls, the averages for Group II showed greater
 competency than for Group I and the averages for Group III showed
 much greater competency than for Group II in every test of the battery. And, in comparing the sex results, the boys were almost
 invariably, although only slightly, better in all the tests than the
 girls of the same group.
+
 Furthermore we do not see how one can expect mathematical
 significance in a mental test which is going to be of any value for
 purposes of diagnosis. It is upon the variability within the group
@@ -245,6 +251,7 @@ has to form the basis of his diagnosis, and hence, the better the test.
 Hence the ideal for mental tests is great variability within the group
 which is utterly incompatable with mathematical significance when
 one compares the results of one group with another.
+
 It seems possible to draw several conclusions from these results:
 1. Mental tests, as they are now developed, show such a degree
 of variability within a relatively homogeneous group that the differences between two groups do not have statistical significance, even
@@ -258,6 +265,7 @@ great reduction in the value of the test for the purposes of differentiating the
 value, which means great variability within the group, we can never
 hope to obtain differences between groups which will have statistical
 significance.
+
 3. The modern tendency to over-statisticize test results seems,
 therefore, to be erroneous. It would seem better to treat the raw
 material with as little statisticizing as possible. In so doing one is,

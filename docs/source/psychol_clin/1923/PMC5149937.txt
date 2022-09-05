@@ -1,8 +1,9 @@
 Mental Changes After Removing Tonsils and Adenoids.
 ===================================================
 
-By Gladys M. Lowe,
+:Author:  Gladys M. Lowe,
 University of Kentucky.
+
 This paper presents the results of an attempt to measure the
 change in general mental alertness which followed the operation for
 diseased tonsils and adenoids. The comparisons made in this study
@@ -16,9 +17,11 @@ actual scholarship records. Cornell estimates that about 8 per cent
 of school children suffer from diseased tonsils and adenoids. The
 prevalence and the easy correction of these defects make important
 the question of the mental changes after their removal.
+
 There have been few studies attacking the problem in a scientific way. The four chief investigations are those made by Rogers
 ('22), Terman ('19), McPhail ('20), and Cornell ('12). See the
 bibliography at the close.
+
 Doctor Rogers' study of 28 children operated upon for defective
 tonsils and adenoids reveals no difference in the average I. Q. six
 months after the operation when compared with 28 children, of practically the same life age, possessing these defects. She says: "We
@@ -36,8 +39,6 @@ control group, however, made an average gain of 6.24 after twelve
 months, the gain after six months being 3.29. These numbers are
 insignificant as gains, but they at least show no improvement in the
 test group which the control group does not reveal as well." This
-(92)
-MENTAL CHANGES AFTER REMOVING TONSILS. 93
 investigation was extended by comparing the I. Q.'s of a group of
 236 children with diseased tonsils with a group of 294 children without this handicap. This comparison showed that the children of the
 normal group had as high I. Q's. as those of the tonsil group.
@@ -48,12 +49,14 @@ were tests for strength of grip, speed of tapping, and Healy's Picture
 Completion test, number II. None of these tests showed a reliable
 gain in favor of the operated group, except speed of tapping, which
 did show a marked improvement.
+
 Among children retested by Terman (interval between tests
 from a few months to seven years), using the Stanford Revision of
 the Binet tests, 27 children had diseased tonsils and adenoids removed.
 When the average I. Q's. for the first and second tests were compared
 there was a gain of two points and a fraction. He regards this gain
 too small to be significant.
+
 McPhaiPs study is based upon the school records of thirty-one
 school children. The scholarship records obtained ten months previous to the operation were compared with records obtained ten
 months subsequent to the operation. These showed that one-third
@@ -62,6 +65,7 @@ namely, eighteen, the scholarship record for the second year showed
 that twelve had improved. Records for eleven of the original thirtyone cases were obtainable for the third year after the operation.
 These showed that the scholarship had improved in each case over
 the record obtained before the operation.
+
 The results of this investigation are uncertain for it is not indicated whether or not the cases showing improvement the first year
 after the operation are in the main the same cases that showed
 improvement in the school year, and again in the third year following
@@ -75,11 +79,11 @@ retarded in comparison with the average of the different grades. In
 the teacher's opinion forty-four had improved mentally, sixteen
 remained unchanged, and three had deteriorated. However, there
 were sixty-one who failed to be promoted a grade out of ninety-seven
-94 THE PSYCHOLOGICAL CLINIC.
 possible promotions. This means, then, that if the forty-four
 improved as estimated by the teachers, the improvement in some
 cases did not give them average ability as shown by the number who
 failed to be promoted.
+
 The somewhat inadequate methods of some of the other investigations were partially avoided in this study by the use of a control
 group possessing the same defects as those removed from the operated
 group, and by the use of a standardized scale of tests of mentality.
@@ -92,6 +96,7 @@ comparison with the operated group of thirty-five. For statistical
 purposes the groups should have been paired according to life age.
 It was possible to pair only thirteen in this study, a group too small
 for results to be significant.
+
 The Stanford-Binet test was given subsequent to diagnosis,
 always preceding the operation, usually by one or two weeks. All
 of the mental tests were given in the school buildings, and all made
@@ -105,6 +110,7 @@ fellows, (2) emotional self-control, (3) initiative, (4) self-expression
 (speech), (5) interest in school work, (6) attention, and (7) scholarship. As a final means of comparison of the two groups for the two
 years, the actual grade of the child and the average grade of the class
 in which the child belonged were obtained from the teacher.
+
 When the two groups are compared as to the average increase
 in I. Q's. we find no significant difference. The average I. Q. for the
 control group in the first test was 83.0. One year later the average
@@ -234,7 +240,7 @@ P. E. of Median..
 0.9
 4.5
 0.9
-96 THE PSYCHOLOGICAL CLINIC.
+
 from 40 to 114, with a median of 87.5. The range for the operated
 group in the first test was from 50 to 113, with a median of 92.9.
 In the second test the I. Q's. of the control group ranged from 40 to
@@ -249,6 +255,7 @@ change for the control group was 0.9 of a unit of I. Q. with a Q. of
 was ?0.1, Q. being 3.8, and a P. E. of 0.6. This, of course, shows
 the difference in the median change for the two groups to be
 negligible.
+
 Comparing the two groups as to their life ages, we find the
 average age of the control group, 9 years and 6 months, is one year
 and one month less than the average age of the operated group.
@@ -257,6 +264,7 @@ with a Q. of 3 years 7 months, is five months more than the median
 age of the operated group, 10 years 2 months, with a Q. of 2 years
 6 months. The error of this difference, 5 months, is 9 months, which
 makes the difference negligible.
+
 The distribution of changes in mental age for the two groups
 is probably a more important comparison as to the effects of the
 operation. It is shown in Table II. The difference in the average
@@ -272,7 +280,7 @@ months, with Q. 11 months and a P. E. of 1.7 months. This shows a
 median gain of 3 months (P. E. 3.6) in mental age in favor of the
 operated group. The chances are even that there is practically this
 gain of 3 months.
-MENTAL CHANGES AFTER REMOVING TONSILS. 97
+
 Table II.?Distribution of Changes in Mental Age.
 Mental Age in Years and Months.
 Operated.
@@ -325,6 +333,7 @@ P. E. of Median
 11
 15.5
 3.1
+
 There are three chances out of four that there is some gain in
 mental age in the operated group over that of the control group, if
 we consider these median gains rather than the average gains.
@@ -337,6 +346,7 @@ somewhat reduced by an increase in life age. Unfortunately, in the
 only other study in which the mental effects after one year are measured by objective tests the distribution of gains in mental age for
 the two groups is not given, so that no comparison of this criterion
 of change is possible.
+
 The teachers' estimates of the seven traits named above show
 an average rating slightly in favor of the second year for both the
 control and operated groups. For two traits the difference of the
@@ -345,9 +355,9 @@ work 0.1 of a division and scholarship 0.1 of a division). These
 differences are too small to be significant. It is probable that the
 changes, if any, were not large enough on the average to be
 observable.
+
 The average scholarship grade of the control group remained
 the same, "C," for the two years, but the average grade of their
-98 THE PSYCHOLOGICAL CLINIC.
 Table III.?Distribution of Changes in I. Q.
 Rogers and Lowe.
 Changes in I. Q.
@@ -428,11 +438,12 @@ M. E
 4.1
 4.9
 0.7
-MENTAL CHANGES AFTER REMOVING TONSILS. 99
+
 corresponding classmates rose one scholarship rank, i. e., to "B".
 The average grade of the operated group not only remains the same,
 "C", but remains the same as the average of the classes represented,
 weighted for the number of pupils for such classes.
+
 The average gain in scholarship rank was approximately the
 same for the two groups (0.2 advantage for the control group).
 When compared with classmates, the operated group compares more
@@ -441,6 +452,7 @@ control group fell one rank below the average of their classmates.
 The consistency between the estimated and actual scholarship records
 is not without significance. It seems to confirm the value of the
 method of rating used in this study.
+
 Three cases were found in which there was a marked improvement in conduct at school and in scholarship. This, though not
 shown to be the general tendency, suggests possible secondary factors
 influencing improvement which should be investigated.
@@ -458,7 +470,9 @@ average gain in I. Q. for control in excess of operated).
 However, as discussed above, the nature of the I. Q. as a measure
 of change makes these small figures insignificant as indicative of
 improvement in either the control or the operated group.
+
 Summary
+
 1. There was a mean increase of 3 months (average 1.1) in mental
 age found to be in favor of the operated group. No other investigator has found any change in mental age as revealed by a mental
 test. The advantage was, however, only once its error.

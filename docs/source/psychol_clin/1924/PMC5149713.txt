@@ -1,7 +1,7 @@
 Correlation of the Auditory Digit Memory Span With General Intelligence
 ========================================================================
 
-v/ By Arthur S. Clark, M.A.
+:Author: Arthur S. Clark, M.A.
 Graduate Student, University of Pennsylvania
 Memory span has come to be accepted " "?? f ta
 of intellectual development." So true is is ^ ^ ^ compre_
@@ -37,8 +37,9 @@ gence. Upon a somewhat cursory inspectionx ^ ^ University of
 Pennsylvania, the present investigation was -ne koW far the
 *ore definitely this fact. The purpose is to ae intelligence.
 group auditory digit memory span correlates wit g
-260 THE PSYCHOLOGICAL CLINIC
+
 PROCEDURE
+
 An unselected group of fifty boys and girls of the 9B class of the
 Tilden Junior High School, Philadelphia, were taken as subjects.
 To them was given the group digit memory span test, using Humpstone's arrangement of digits. The Humpstone procedure for written
@@ -57,6 +58,7 @@ Test 5. Observation?(Missing Parts)
 Test 6. Information
 The results were then correlated, using the product moment
 formula.
+
 RESULTS
 Digit Span with Direction Test  r = . 137
 Digit Span with Common Sense Judgment Test.. . r = . 018
@@ -65,7 +67,9 @@ Digit Span with Number Completion Test  r = .
 Digit Span with Observation Test  r = ? .003
 Digit Span with Information Test  r = . 030
 Digit Span with Total Score of Entire Test  r = ? . 029
+
 DISCUSSION AND CONCLUSION
+
 It is obvious that memory span shows no correlation with this
 general intelligence test as a whole, or with any of its component
 parts. From this it follows that memory span is a mental ability
@@ -75,7 +79,9 @@ the negro children. In the various test scores they stood in every
 instance among the lowest ten per cent while they gave a digit
 memory span of eight and nine placing them among the highest ten
 per cent in memory span.
+
 BIBLIOGRAPHY
+
 1. Whipple, G. M. Manual of Mental and Physical Tests. Part II. BaltimoreWarwick and York, 1915.
 2. Humpstone, H. J. Some Aspects of the Memory Span Test. A Study in Assoda
 bility. The Psychological Clinic Press, 1917.

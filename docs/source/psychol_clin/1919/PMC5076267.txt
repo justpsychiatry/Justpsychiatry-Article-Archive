@@ -2,8 +2,9 @@ The Grading and Analytic Diagnosis of a Feebleminded Boy
 =========================================================
 
 DIAGNOSTIC TEACHING.
-By L. Doris Wilcox,
+:Author:  L. Doris Wilcox,
 Senior, School of Education, U. of P.
+
 When Edward was examined at the Psychological Clinic this
 spring he was pronounced qualitatively feebleminded. The examiner
 noted particularly these defects: poor distribution of attention,
@@ -17,10 +18,12 @@ trainable in the simplest manual and industrial occupations?
 The best way of solving the question was by an attempt to teach.
 Accordingly, Edward has come for clinical instruction three times,
 remaining about an hour each time.
+
 The boy is ten years old, well grown and well developed, but he
 is not very well. Has very poor vision, lacks energy, has adenoids
 and enlarged tonsils and bad teeth and has had a cold for about three
 weeks.
+
 One of the first things I found out about Edward was that he
 knew no words or letters, printed or written. He could not even
 spell his own name. He counted to twenty-three but knew practically no arithmetic. He said that five less three are four.
@@ -31,16 +34,16 @@ was "not a bad boy." She remarked that he was in the second
 grade because the superintendent had required that if too many
 pupils in a grade failed to make a passing mark, some of them should
 be promoted on condition.
+
 At the first lesson I attempted to teach Edward to print one word.
 I taught him to move his arm vertically and horizontally and to obey
 the commands: "Raise your right arm vertically up. Move your
 right arm horizontally to the right." As he knew left and right and
 had a memory span of five, this was comparatively easy.
-276
-DIAGNOSTIC TEACHING. 277
 Next, I gave him chalk and had him make horizontal and vertical
 strokes on the board. When he could do that, I said, "Make a
 vertical stroke." He did so.
+
 "Make a horizontal stroke, at the bottom of that and to the
 right." He carried out the command easify.
 "That letter is L." He repeated "L" and made four new L's.
@@ -49,6 +52,7 @@ right." He carried out the command easify.
 We drilled on 0 and reviewed L.
 "Now make a vertical stroke. At the top draw a horizontal
 stroke, going both ways."
+
 "That is the letter T." Apparently he learned T.
 Then I put the letters together and told him he knew how to spell
 a word: LOT. He seemed delighted and wrote L 0 T all over the
@@ -59,6 +63,7 @@ I took a box of anagrams and selected L, 0, and T and placed
 them before Edward, drilling until he seemed to know them. Ten
 minutes later he was able to spell and write LOT, but did not know
 the three letters.
+
 In number work, I began by teaching him to count backward
 from six. When he could say, "1 ? 2?3?4?5 ? 6, 6?5?4?3 ? 2
 ? 1," I reviewed 1 + 1=2, 2+1=3, 3+1=4, 4+1=5, 5+1=6.
@@ -78,13 +83,14 @@ any of the letters contained in the word. He remembered none of
 the arithmetic I had taught him except the addition by one. I
 reviewed the entire lesson, and the boy seemed to learn it a little
 more easily than before.
+
 In addition I tried some of the Binet material. With the
 pictures he gave an excellent enumeration and passed the Vlll-year
 "similarity test," but failed on the VH-year "dissimilarity test."
-278 THE PSYCHOLOGICAL CLINIC.
 The third week, when Edward came to the clinic, I gave him a
 sliced animal puzzle to put together. He manipulated the pieces
 futilely and finally gave up without any success.
+
 He wrote LOT on the board and spelled it aloud, but did not
 know the letters. He could count backward from six, but could
 not subtract by one without blocks. The poor performance may
@@ -92,6 +98,7 @@ have been partially due to the fact that Edward was suffering from a
 bad cold and a headache. He has been discharged from the clinic
 temporarily until his adenoids and tonsils have been removed and
 his physical condition has improved.
+
 What has the clinical teaching accomplished? Principally it
 made possible a slight particularization of diagnosis. It has shown
 conclusively that Edward is trainable in manual and industrial work,
@@ -102,6 +109,7 @@ and arithmetic, or is he only capable of the very simplest mental
 acquisitions? Up to the present time it is impossible to say. The
 results are not conclusive, for the lessons have been too far apart, and
 Edward has not been in good physical condition.
+
 In this case it will be seen that further clinical instruction is
 necessary both for the .child's sake and for the sake of the diagnosis.
 As soon as Edward is in good physical condition, he will return

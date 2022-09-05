@@ -4,9 +4,9 @@ Errors in Scoring Binet Tests
 The Psychological Clinic
 Copyright, 1918, by Li&htner Witmer, Editor.
 Vol. XII. No. 2 April 15, 1918
-
-By Lewis M. Terman, Ph.D.,
+:Author:  Lewis M. Terman, Ph.D.,
 Stanford University, Cal.
+
 All the Binet tests made by my research students are recorded
 in a twelve page "record booklet" which contains suitable space
 for the full recording of each response. Students are urged to make
@@ -14,6 +14,7 @@ the record as nearly verbatim as possible and to make notes of
 significant peculiarities of behavior. Immediately after a test has
 been made the responses are scored by the examiner who also computes the mental age and intelligence quotient and records the
 results in pencil on the blanks.
+
 For several years it has been my custom to go over each record
 carefully in order to call the attention of the student to errors in
 scoring and in the calculation of mental age and intelligence quotient.
@@ -28,6 +29,7 @@ unless it is supplemented by constant criticism and correction of
 work done. Moreover, in the training of students it is especially
 important that attention be called to errors of scoring before they
 have become habitual.
+
 The errors made by five students in scoring 843 Binet tests
 have been tabulated and classified and the results are here reported
 in the hope that they may be of value both to teachers and students
@@ -36,8 +38,6 @@ engaged in Binet testing. The facts presented show:
 2. That carelessness in noting and adding scores and in dividing
 to find the intelligence quotient is responsible for a very
 large proportion of the errors.
-(33)
-34 THE PSYCHOLOGICAL CLINIC.
 3. That not more than half of the errors made result in an
 incorrect mental age; and
 4. That if errors are to be kept at a reasonable minimum, special
@@ -54,6 +54,7 @@ test. Moreover, two or more tests may be incorrectly scored without
 giving an incorrect result, provided the errors are in opposite
 directions and equal. These facts are largely responsible for the
 rather good showing in table 1.
+
 Table 1.?Showing Frequency of Errors of Various Amounts in the
 Mental Ages Found by Five Examiners.
 Amount of
@@ -106,14 +107,15 @@ months
 months
 .78
 months
+
 The resulting errors of intelligence quotient cannot be computed
 directly from the above table, since an error of a given amount in
 mental age affects the intelligence quotient differently at different
 chronological ages. An error of two months at the chronological
-ERRORS IN SCORING BINET TESTS. 35
 age of six is as serious as an error of four months at the chronological
 age of twelve. Tabulation of the errors of intelligence quotients
 for these five sets of data gave the following:
+
 Table 2.?Errors in Intelligence Quotients.
 Number without error
 Average error
@@ -148,6 +150,7 @@ Mr. E.
 4
 0
 Sources of error.
+
 Most of the errors are accounted for under the following heads:
 1. Too generous scoring.
 2. Too strict scoring.
@@ -217,11 +220,11 @@ Mr. E.
 7.5%
 5%
 0%
-36 THE PSYCHOLOGICAL CLINIC.
 how the third is scored. Similarly, if all three attempts are failures,
 it is again sufficient if two are correctly scored. A majority of the
 tests in the Stanford Revision offer a wide margin for "harmless"
 error of this kind in scoring.
+
 Perhaps the most striking and significant fact in the above
 table is the large proportion of errors due to what may be called
 carelessness. Theoretically there is no excuse for mistakes in
@@ -244,6 +247,7 @@ IQ may be read directly. In table 3 it will be noted that examiners
 A and E made no errors whatever in calculating IQ. This is because
 it was done by means of a slide rule specially prepared for the
 purpose.
+
 Another frequent source of error is the weighting of tests in a
 year group when not all the tests of that group have been given. The
 rules are fully and explicitly stated in my book, "The Measurement
@@ -254,12 +258,13 @@ then each test given should have a weight of or 2.4 months;
 that if only six of the eight are given in year XII, each should have a
 weight of 4 months. The trouble nearly always comes from simply
 overlooking the fact that a test has been omitted.
+
 From half to three-fourths of the errors made are strictly errors
 of scoring. The standard of what constitutes a "pass" is too high
 or too low. Examiners E and A graded much too strictly, and D
 not strictly enough, while B and C erred in one direction about as
 often as in the other. The figures show the desirability of acquainting the student early with the general trend of his errors.
-ERRORS IN SCORING BINET TESTS. 37
+
 The total 'percentage of error.
 The total number of errors shown in table 3 appears large.
 On an average it is about one for each record blank. However,
@@ -279,13 +284,16 @@ have been greatly increased owing to the wide margin for "harmless"
 error in the vocabulary test. As this test is scored in the Stanford
 Revision it makes no difference what score is assigned between
 20 and 30, 30 and 40, etc.
+
 In order to gain a rough idea of the accuracy with which the
 vocabulary test can be scored, the errors have been tabulated for
 100 tests made by three examiners, A, B, and D. Only tests were
 chosen in which the responses were recorded in full. The results
 showed that an average of .62 words per test were incorrectly scored.
 In only six tests did the error affect the mental age.
+
 Tests difficult to score.
+
 Many of the tests can give no trouble in scoring, provided the
 responses are correctly recorded and provided the rule is observed
 regarding the number of successes (2 out of 3, 3 out of 4, etc.)
@@ -297,21 +305,23 @@ aesthetic discrimination, right and left, naming coins, giving number
 of figures, counting backward, giving date, making change,
 "induction" test, code test, naming days and months, etc. This
 includes almost exactly one-half of all the tests.
+
 It is interesting to note that the easily scored tests fall predominantly in the lower half of the scale, below 9 years. For this
 reason it should be easy for first grade teachers to learn to test their
 own children. They need to master thoroughly the procedure for
 only the year groups IV to IX, inclusive. In the main these tests
 are easily learned and the scoring is not difficult. This is especially
-38 THE PSYCHOLOGICAL CLINIC.
 fortunate, since the first grade in the place above all others where
 testing should be done. There is no reason why all children should
 not be tested in the first year of school life.
+
 Table 4 shows the distribution of scoring errors among the tests,
 including only those from groups V to XVI. The tests of groups
 VI to XIV were given with almost equal frequency in these series
 and those of groups V and XVI somewhat less frequently. Tests
 below V and above XVI were not given often enough in the data
 analyzed to justify tabulation of errors.
+
 Table 4.?Distribution of 356 Scoring Errors in Year Groups V to XVI.
 Sub-items of Each Test are Counted Separately.
 Ball and field (VIII and XII)  5S
@@ -347,8 +357,8 @@ gotten somewhat different figures. Even the same judge would
 not find exactly the same number of errors in grading the responses
 twice at different times. In scoring Binet tests it is not possible
 to eliminate the personal equation altogether.
+
 Notwithstanding these limitations, the figures are of value.
-ERRORS IN SCORING BINET TESTS. 39
 They show, for example, that nearly three-fourths of the errors are
 accounted for by the following tests: Ball and field, picture
 description and interpretation, comprehension, definitions, similarities, and fables. The appearance of all of these tests in two or
@@ -359,6 +369,7 @@ in the case of the ball and field test for the reason that any error
 in its scoring always gives an error in mental age. Since the other
 tests have from three to six sub-items, they afford a considerable
 margin for "harmless" errors.
+
 Summary.
 Analysis of the errors made by five examiners in scoring 843
 Binet tests discloses the following:

@@ -3,6 +3,7 @@ The Form Board Ability of Young Deaf and Hearing Children
 
 By Rudolf Pintner and Donald G. Paterson,
 Ohio State University.
+
 In October, 1914, the form board ability of the entering deaf
 pupils of the Ohio State School for the Deaf was measured and
 compared with that of the entering pupils in the first grade of a
@@ -19,6 +20,7 @@ The Form Board used was made from the description given by
 Sylvester,1 but it differs in this respect,?the insets fit in flush with
 the board proper. Hence, our results are not comparable with either
 the norms of Goddard2 or of Sylvester.3
+
 We do not maintain that our modification of the form board
 is better or worse than the standard one in use. It requires a
 greater degree of muscular co-ordination to perform our test and
@@ -26,6 +28,7 @@ therefore it is probably testing more factors than the standard
 board. At any rate the high correlations between performances
 separated by a year's interval indicate the reliability of the board
 we used.
+
 Each child was given three trials and the number of errors
 and the time required were recorded for each trial. The total and
 the average number of errors made on the three trials as well as the
@@ -35,11 +38,12 @@ deviations for each group were derived. Each group of children was
 also arranged according to the relative position of each individual
 1 R. H. Sylvester. The Form Board Test. The Psychological Review Monographs, Vol.
 XV, No. 4, Sept., 1913, pp. 1-56.
+
 2H. H. Goddard. The Form Board as a Measure of Intellectual Development in Children.
 The Training School, Vol. IX, June, 1912, p. 4.
 3 Op. tit., p. 48.
 (231)
-FORM BOARD ABILITY. 235
+
 within the group. From this the rank correlation between the
 first and second year standings in this test was obtained.
 The deaf children were shown the board with the holes empty.
@@ -57,6 +61,7 @@ deviation in errors for the first trial, while the succeeding columns
 give similar data for the second and third trials. Column nine
 gives the average number of errors for all three trials and column
 ten those for one trial.
+
 TABLE I. AVERAGE ERRORS.
 Age Group
 Num- Trial
@@ -147,7 +152,7 @@ Deaf " 7. . .! 18 72.9
 44.9
 5.9
 8.8
-236 THE PSYCHOLOGICAL CLINIC.
+
 Table II gives similar averages for the time records. An additional column gives the average deviation for one trial.
 We find by an analysis of table I that the seven-year-old deaf
 child makes more errors on the first trial than does the six-year-old
@@ -159,6 +164,7 @@ deaf group over the hearing group is so slight as to warrant the
 statement that the seven-year-old deaf child of the entering class
 in 1914 is equal to the six-year-old hearing child or about one year
 retarded on this test.
+
 Now considering the effect of a year's development it seems
 that the deaf child has made a relatively greater gain than the
 hearing child with respect to time but not with respect to errors.
@@ -183,11 +189,13 @@ of the entering class would in time give valuable norms which could
 well be used in determining the educational prospects for a given
 class. Some classes might need radical classification into groups
 while others might progress as a unit.
+
 The Spearman Correlation "Foot-Rule" or R-Method4 was
 used in determining the degree of correlation existing between ranks
 on the test in the first year and the ranks in the second year. For
 4 G. M. Whipple. Manual of Mental and Physical Tests. Baltimore: Warwick and York,
 1914. Part I, pp. 42-43.
+
 FORM BOARD ABILITY. 237
 the deaf children the Spearman R value was .44 which equals Pearson's r value of .64.5 This r value is eight times the P. E.,6 which
 makes the correlation reliable. For the hearing children a still
@@ -207,6 +215,7 @@ whole manner and attitude seemed to change suddenly, his arm and
 leg movements seemed to become more nicely co-ordinated and he
 has made progress out of all proportion to the rest of the children.
 Summary.
+
 The results of this paper seem to indicate that the average
 entering class of deaf children is apt to be about a year backward
 in form board ability and that this backwardness is not made up

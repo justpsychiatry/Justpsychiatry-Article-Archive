@@ -5,9 +5,9 @@ The Psychological Clinic
 Copyright, 1910, by Lightnor Witmer, Editor.
 Vol. X, No. 7
 December 15, 1910
-
-By Lightner Witmer, Ph.D., y
+:Author:  Lightner Witmer, Ph.D., y
 University of Pennsylvania.
+
 As he appeared before the class, Arthur was a well-nourished boy of nearly
 eleven, good looking, neatly dressed, and respectful in manner. He sat quietly at
 the table while doing the formboard and cylinder tests. He used his right hand
@@ -21,6 +21,7 @@ by a history of brutal treatment when a little child. This afternoon he quite
 evidently found nothing to be afraid of. From time to time he smiled up at Dr.
 Witmer, and co-operated willingly. There was nothing to suggest an eye defect.
 Hearing as well as vision was apparently normal.
+
 Today his best time on the Witmer formboard was 15 seconds. When first
 examined at the Clinic a few days before, his best record was 20 seconds. Then
 he did the Witmer cylinders in 52 seconds. Today he did them in 45 seconds, and
@@ -30,6 +31,7 @@ degree of distributed attention and space perception. He noticed instantly if
 a cylinder was too long or too short for its socket, taking it out and putting it in
 the right place, which he found quickly by looking for it. As far as concerns
 this kind of test, he "looks" very efficiently.
+
 Dr Witmer asked him to write his name on the blackboard, and his age.
 Arthur wrote his name and the number 10.
 Q. Ten? Ten what? Arthur made no answer.
@@ -41,13 +43,13 @@ After some hesitation Arthur wrote y, then stopped. Dr Witmer had him
 come to the further edge of the blackboard and write the letters s, r, a, and e,
 1A clinical lecture delivered to undergraduates in Psychology 2C on March 23, 1916, and reported by
 A, Travis, Recorder of the Psychological Clinic. The boy's name is fictitious.
-(181)
-182 THE PSYCHOLOGICAL CLINIC.
 one under another. Arthur wrote them correctly; then Dr Witmer rubbed
 them out.
+
 Q. Now what was the word you were to write on the board? A. Years.
 Q. And I told you it began with a y, and you put the word on the board.
 Now put down the rest of the word years.
+
 Arthur hesitatingly added an s to the y, and stopped again.
 Q. What's the second letter you have got there? S? All right, y-s. Do
 you know any word that you spell y-s? Don't know any such word? Then
@@ -56,7 +58,9 @@ years, ten years (pronouncing it very slowly with the full sound of each letter)
 Can you guess how that is spelled? Can't guess at all? Now I'll tell you once
 more how it is spelled? You rub out what you have down there. That word is
 spelled y-e-a-r-s, years.
+
 Arthur wrote ye, and stopped again.
+
 Q. Y-e, now what was the next letter that I told you? Arthur could not tell.
 To the class Dr Witmer said,?Now observe that that word has five letters
 in it. He knows how to make each one of the five letters, so that it isn't that
@@ -68,18 +72,24 @@ work. Now we will see if we can find out something about Arthur's memory span.
 Q. Do you know how to spell the word cat? All right, put that down.
 Arthur wrote it on the board, and also the word dog from dictation.
 Q. Eight, can you spell horse?
+
 He wrote ho, and then paused.
+
 Q. All right, you can't spell that, very good. Can you spell desk7
 Again Arthur wrote the first two letters of the word, and paused.
 Q. Can you spell girl? Try girl, write it down.
+
 Arthur wrote gar, and stopped. While writing he fumbled with his left hand
 toward the eraser and loose pieces of chalk at the bottom of the blackboard, a
 clear betrayal of his state of uncertainty.
+
 Q. Can you spell cow? Right. Can you spell boy f
 He wrote bog, rubbed it out, wrote b, and then stopped.
 Q. That's very good. Now I'm going to tell you the spellings of some words.
 Boy is b-o-y, write it down.
+
 Arthur wrote bay.
+
 Q. What have you put on the board? Did you put b-o-y on the board?
 You have got b-a-y. I want b-o-y. Right. Now write g-i-r-1.
 Arthur innocently wrote goil, to the uproarious amusement of the class, and
@@ -94,7 +104,6 @@ write desk. Write on the board d-e-s-k. That's right. Can you write the word
 horse? Can't do that, can you? Know how to spell that? Now you write on
 the board what I tell you, h-o-r-s-e.
 Arthur wrote hose, omitting the r.
-CONGENITAL APHASIA AND FEEBLEMINDEDNESS. 183
 Q. What's that word, spell it, h-o-s-e? What does h-o-s-e spell? What
 was the word that I spelled for you a short time ago, the whole word? A. Desk.
 Q. Desk was one word, but what was the word you were trying to put on the
@@ -124,6 +133,7 @@ Arthur wrote the numbers as he did the separate letters, one below another
 in a vertical column. For 7, 3, 9, 2, he wrote 7932; for 8, 4, 6, 1, he wrote 8642.
 Series of three numbers, as 9, 4, 2, and 8, 5, 7, he wrote correctly. For 7, 4, 8,
 3, he wrote 7432.
+
 Turning again to the class Dr Witmer continued,?Now you see here a very
 limited memory span, and you get the distinction between intelligence and certain
 other qualities which are necessary for intellectual development. I haven't been
@@ -140,6 +150,7 @@ Handing Arthur a second grade reader, Dr Witmer said,?There, can you
 read this? Arthur spelled out the word who, and read the next two words without
 spelling, "Who is it,?" and paused to rub his eye. As his eyes are all right, this
 was evidently a ruse to gain time.
+
 Q. What's the next word? Spell it. A. C-o-m-e-s.
 Q. What does that spell? C-o-m-e-s, that spells comes. "Who is it comes,"
 what is the next word? A. W-i-t-h.
@@ -150,6 +161,7 @@ Q. What's the rest of the word? A. D-e-e-r.
 Q. What's that? Reindeer. Who does come with his reindeer?
 A. Santa Claus.
 Q. Santa Claus, yes. What's the next word, spell it.
+
 By dint of spelling and prompting, Arthur was pulled through the first
 sentence, "Who is it comes with his reindeer over the ice and snow, with a sleigh
 just full of good things?" After reading the next sentence, a very short one,?
@@ -187,6 +199,7 @@ Q. Would you believe it was Thursday if all these people in the room said it?
 There you see, we are all in the same class.
 Arthur was now released from further examination, and returned Dr Witmer's "good-bye" with a pleasant smile. Proceeding with his lecture, Dr.
 Witmer said:
+
 I want to give you some facts. This boy, Arthur, is ten years
 and eight months old, nearly eleven years old. He told you he was
 in the second grade A, which is the first half of the second grade.
@@ -195,7 +208,6 @@ would call true backwardness, pedagogical backwardness. It is
 retardation on the education scale. He is nearly eleven years old.
 He ought to be at least in the fourth grade, so that he shows at least
 two and perhaps we ought to say three years of backwardness. Now
-CONGENITAL APHASIA AND FEEBLEMINDEDNESS. 185
 the question is, has he just gone to school? He might be a foreigner,
 just imported from the other side. Our record shows that he was five
 terms in the first grade, and this is his third term in the second grade.
@@ -204,6 +216,7 @@ will be the end of his fourth year. He ought to be in the fourth
 grade B, if he had been promoted each year. Instead of that, he is
 only in the second grade. Here is a record of very considerable
 backwardness.
+
 Now I have told you there are certain scales1 upon which we rate
 performances. There are the growth scales, first of all, and there are
 the culture scales. For the growth scales we have species and age.
@@ -234,9 +247,6 @@ see he isn't fit to be advanced to the second half of the second school
 year. In very nearly four years he has succeeded in getting ahead
 not more than one year. He is doing work which many six-year-old
 children are doing better than he can do it today. As far as our
-1 Witmer, Lightner. On the Relation of Intelligence to Efficiency. The Psychological Clinic, Vol. IX,
-No. 3. May. 1915.
-186 THE PSYCHOLOGICAL CLINIC.
 record went here, in his proficiency in school subjects he is about like
 a six-year-old child, that is, he has four years of retardation.
 There is a set of tests called the Binet-Simon tests, a series presumably adapted for different ages. There is some difference of
@@ -246,12 +256,14 @@ boy the Binet tests, his age came out as 8.4, so that the Binet tests
 show him to be retarded in mental age about two years. My examination here today would seem to indicate that he is more retarded
 than that. I would say that his mental age is certainly not more than
 7.5 as shown by these tests.
+
 Of culture scales I have said there are two,?the civilization scale
 and the education scale. He is well enough dressed, he goes to
 public school, his people are in moderate circumstances. We would
 say that on the civilization scale he is normal,?nothing to note
 about that, he is not some young savage. On the education scale he
 is retarded three years.
+
 Now we have another set of scales that I would call proficiency
 scales. One is the amount of proficiency, and the other is the number
 of operations in which he may be proficient. What ought a ten-yearold boy be able to do? Among other things he ought to know his
@@ -268,13 +280,14 @@ he can't read, and that is an operation to be expected of a ten-yearold boy. He 
 formboard and cylinder test he has all the necessary operations and
 he does them as well as I have seen some college students do
 them.
+
 He can write, but his proficiency is small. He can write separate
 letters. He is supposed to have acquired the operation of addition
 up to 99, but I am confident his proficiency there is limited. As you
 saw, he said 3 and 4 equals 8, and the next time, equals 7. That is
-CONGENITAL APHASIA AND FEEBLEMINDEDNESS. 187
 what I meant when I said his proficiency is small and his range of
 proficiencies is limited.
+
 What does the calendar test show, when I asked him the days
 of the week? Stubbornness? Not exactly. My recollection is that
 of the days of the week, Thursday is this boy's special difficulty, and
@@ -283,6 +296,7 @@ knows the other days pretty well, but has never been able to remember the word T
 Thursday, so he took the next easiest word. I tried him on that to
 see if it would turn out as they told me, and my interpretation of it is
 that it is a memory defect.
+
 Now let us come to the question of the interpretation of all this.
 What is wrong with this boy? He is a very interesting case for us,
 because his deficiency is in the psychological field. It is something
@@ -311,9 +325,9 @@ There is deficient associability or deficient memory span. If a boy is
 going to say, twice two are four, five times six are thirty, and learn
 his multiplication tables, each one of these sentences which he has
 to repeat and fix in his mind involves the memory span, the association of images. Now if every one of the image complexes in a table
-188 THE PSYCHOLOGICAL CLINIC.
 of that kind is beyond the associability point in his memory span of
 three or at the most four, he can't possibly get it.
+
 We got very good evidence here this afternoon of the difficulty
 that anybody would have in trying to teach him to spell anything
 more than a three-element word. If you start him in on five or six
@@ -339,6 +353,7 @@ his memory was not retentive. He had extremely poor retentiveness.
 He did not have a high degree of trainability, and there was fundamentally lacking the power of associating images, which probably
 was the chief difficulty, so that we would say that his difficulty is in
 the field of memory.
+
 The next question is, is it general? Does it cover the whole
 field of memory? We asked him, what day is this? He said Tuesday. But when we asked him questions about the other days of the
 week, he seemed to have a good memory for that. He seems to have
@@ -350,7 +365,6 @@ number work is based upon language, so it may be in his case a specific defect o
 This is what we would then say about this boy: His general
 difficulty, that which is fundamental, is a deficient associability, a
 deficient memory span. His specific defect is a deficient memory.
-CONGENITAL APHASIA AND FEEBLEMINDEDNESS. 189
 He has not formed the proper idea complexes which he should have
 for a boy of his age, and it would appear that the defect is limited to
 language and number. We can translate this if we please into technical terms, for instance, a lack of memory or a deficient memory is
@@ -358,6 +372,7 @@ amnesia, that is the alpha-privitive and the Greek word meaning
 memory, lack of memory. The lack of memory applies chiefly to
 language, so we may call it amnesia verbalis, lack of verbal
 memory. For a ten-year-old boy he is lacking in verbal memory.
+
 Your memories today are dependent upon two factors. One is
 the amount of training which your memory has received, that
 is the acquired part of the process. The other is your congenital
@@ -386,11 +401,11 @@ be diagnosed as feebleminded, not socially competent to get on with
 others of the same age. At present he hasn't got mind enough to get
 on with second grade pupils, and if we are very strict in our diagnosis,
 I think we would have to call him feebleminded.
+
 Some are beginning to recognize a condition in children that they
 call congenital illiteracy. I would say that one line of separation
 among people in civilized communities is between literacy and illiteracy, and the literate are all above those about able to do fifth grade
 work. They acquire reading, writing, and arithmetic so that they
-190 THE PSYCHOLOGICAL CLINIC.
 have it as a clumsy tool. They read newspapers, the sporting columns anyway,?and they read the signs. Perhaps before they die
 they cease to be literate, but they do acquire reading and writing.
 Those who do not acquire reading and writing as a tool, are the
@@ -403,6 +418,7 @@ to sing. These others we can speak of as congenital illiterates, and
 since it has to do with language we may call it congenital aphasia.
 I would say this boy is probably not really feebleminded, but it
 looks as though he had congenital aphasia.
+
 He seemed to understand spoken words pretty well, so that the
 aphasia would seem to be very largely visual, although I think there
 was some auditory and motor aphasia too. When it is limited to the
@@ -414,6 +430,7 @@ found students who after taking a year of psychology, maybe two,
 don't know how to spell psychology, at least not in combinations
 like "physiological psychology." They just fall down in a heap like
 that boy when he tried to spell girl.
+
 The whole question, when you see deficiency of language memory, is this,?does it mean that this person didn't get an education,
 or that he couldn't get an education? I assume that this boy is where
 he is at the present time because he couldn't get an education. He
@@ -423,15 +440,16 @@ call his chief defect one of memory in the field of language. Inasmuch as we ass
 has not been acquired as a result of defective education, we say that
 this boy's chief defect is a congenital aphasia, and it probably means
 that he is in the class of illiterates.
+
 We saw a couple of years ago an extremely able mechanic, doing
 very high grade work, who didn't know how to write. He had gone
 to school and had never learned to write. He came to us to learn
 why it was he had not learned to write, although he had tried to do it.
 Apparently he had congenital aphasia, or congenital alexia. When he
 asked us that question we had to explain to him, "You are in the
-CONGENITAL APHASIA AND FEEBLEMINDEDNESS. 191
 position of the person who has no ear for music, who can't learn to
 sing."
+
 My recommendation is that this boy be placed in a special class.
 He ought to be taken very well in hand. For example, I do think
 that in the educational backwardness of this boy, one factor is a
@@ -444,6 +462,7 @@ teach him by the word method. For children who are somewhat
 deficient, I find that the word method throws them into confusion
 for several years. I think this boy can be taught some reading and
 writing.
+
 If you are interested in this, you will find in The Psychological
 Clinic for December, 1913, my report of a boy who was taught for a
 couple of years and finally learned to read. I don't think that this
@@ -456,6 +475,7 @@ music. Such a boy can be trained to sing so other people could
 stand hearing him sing, but he couldn't earn much of a living by it.
 I think this boy could be trained that much in school subjects, and
 it looks as if he should be trained to a trade.
+
 This is only the second time we have seen him. To make sure
 of all the parts of the analytic diagnosis we would have to teach him
 and keep him under observation for a couple of months.

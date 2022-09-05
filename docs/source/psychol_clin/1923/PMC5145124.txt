@@ -2,14 +2,16 @@ Bright Children
 ===============
 
 (Mental and Physical Correlations)
-By S. C. Garrison and G. M. Pullias.
+:Author:  S. C. Garrison and G. M. Pullias.
 Professors of Educational Psychology, George Peabody College for
 Teachers, Nashville, Tenn.
+
 The purpose of the present paper is to present certain data to
 show the relation of mental ability to physical development. Only
 bright children, those making a high score on the Binet-Simon intelligence test, are used in this study. Our problem is very well expressed
 in the question: Does the child of high intelligence possess physical
 development commensurate with his mental ability?
+
 The subjects used in this study were pupils from the Demonstration School of the George Peabody College for Teachers. Since
 the study was restricted to children of superior intelligence, the number was necessarily limited to forty-five. School grades four to
 eight, inclusive, were included in the study as follows: Thirteen from
@@ -19,12 +21,14 @@ tests were handled separately for each grade. For convenience the
 children were given numbers from one to forty-five and ranked
 according to I. Q. within the several grades. Seventeen boys and
 twenty-eight girls were used in the study.
+
 The Stanford Revision of the Binet-Simon test was used as a
 measure of mental ability. Only children with an I. Q. of 116 or
 above were selected for use in this study. The highest I. Q. found
 was 170. The percentile method was used in the study and according to Terman1 all I. Q.'s of 116 or above are in the best 10 per cent
 or above the 90-percentile. All the physical measurements were
 taken by the writers in April, 1921.
+
 The following physical measurements were taken: Standing
 height, weight, strength of grip, and vital capacity. All apparatus
 used is fully described by Whipple.2 The stadiometer was used in
@@ -33,9 +37,9 @@ was deducted from the total height. The weight was obtained by
 accurate scales, the type especially devised for anthropometric work,
 and given in pounds or kilograms. No reduction was made from
 1 Terman, L. M. The Measurement of Intelligence.
+
 s Whipple, G. M. Manual of Mental and Physical Tests.
-(259)
-260 THE PSYCHOLOGICAL CLINIC.
+
 weight for clothing. Strength of grip was determined by the improved form of Smedley's dynanometer and expressed in kilograms.
 Only the right hand grip was taken. The highest score of two trials
 was the one recorded for strength of grip. The vital capacity was
@@ -48,6 +52,7 @@ children. The degree of rank correlation between these measurements is shown. Th
 of correlation. In showing the degree of rank correlation the percentile method is used. Since the number of children in the study is
 limited to forty-five, the correlative positions of the various scores
 are shown in terms of 10-percentiles.
+
 Table 1 shows how the rough data were arranged for the purpose
 of studying the correlative positions of the several scores. Five
 such tables were made, one for each grade represented in the study.
@@ -65,7 +70,7 @@ I shows that pupils 4, 5, 6, 11, and 12 have records in physical measurements wh
 Pupils 9 and 10 have two records each in the physical measurements
 which fall above the 90-percentile, while pupils 2, 8, and 13 each have
 three records and pupils 1, 3, and 7, four each which fall there.
-BRIGHT CHILDREN. 261
+
 Table I.?Arrangement of Data for Purpose of Studying MentalPhysical Correlations.
 Eighth.
 Pupil.
@@ -225,6 +230,7 @@ SO
 90
 80
 70
+
 The frequencies of correlation for the 90-percentile of intelligence with the four physical measurements are given in Table II.
 Correlations for the eighth grade are shown in the second vertical
 column; for the seventh, in the third vertical column, and so on for
@@ -235,7 +241,9 @@ measurements; and three with four physical measurements.
 Table II.?Frequencies of Correlation of Physical Measurements with
 Stanford-Binet Intelligence Test for the Ninetieth Percentile.
 Number of Physical Measurements Correlating.
+
 Number of Pupils Correlating.
+
 Gr.
 VIII
 Gr.
@@ -249,6 +257,7 @@ IV
 Totals.
 Total.
 45
+
 The frequencies of correlation of the separate physical measurements with mental ability are indicated in Table III. The first line
 of the table reads: Of the thirteen pupils in the eighth grade, six
 correlated by rank with weight; of the eleven pupils in the seventh
@@ -257,11 +266,11 @@ of the ten in the fifth grade, three correlated; of the six in the fourth
 grade, two correlated, and of the forty-five children in the five grades
 there was a total correlation of fourteen. The percentage of correlation for the eighth grade was 46; for the seventh grade, 18; for the
 sixth grade, 20; for the fifth grade, 30; for the fourth grade, 33;
-262 THE PSYCHOLOGICAL CLINIC.
 and for all the grades a correlation of 31. The table contains a similar showing for each of the physical measurements. The highest
 correlation is found in strength of grip; the lowest in weight. The
 correlation of strength of grip with mental ability as shown in this
 table is rather significant.
+
 Table III.?Frequencies of Correlation of Separate Physical Tests
 with Intelligence Quotient.
 Tests.
@@ -319,6 +328,7 @@ Number of pupils
 100
 40
 45
+
 The range of deviation for the scores failing to correlate is given
 in Table IV. The second vertical column of the table reads: Of the
 forty-five possible correlations with weight, fourteen actually correlated. Of the twenty-nine scores failing to correlate, eight fall in the
@@ -326,6 +336,7 @@ forty-five possible correlations with weight, fourteen actually correlated. Of t
 Table IV.?Showing Range of Deviation in Terms of Percentiles for
 Scores Failing to Correlate with Reference to the Various
 Physical Tests.
+
 Weight,
 Height,
 ins.
@@ -343,6 +354,7 @@ Scores deviating five percentiles...
 Scores deviating six percentiles....
 Scores deviating seven percentiles.
 Scores deviating eight percentiles..
+
 The writers are aware of the fact that the percentile method is
 often misleading, because of the inequalities in the distances between
 the percentile steps. However, when interpreted in terms of P. E.,
@@ -351,13 +363,14 @@ could very readily be converted into terms of P. E. deviations from
 the 90-percentile instead of percentile deviations from that point by
 referring to Thomdike, Mental and Social Measurements, Table 44,
 page 198.
-BRIGHT CHILDREN. 263
+
 Conclusions.
 1. There is considerable correlation between physical development and mental ability indicated by the results of our measurements. Fifty-four per cent of the physical measurements fall above
 the 90-percentile, the point above which all our I. Q.'s fall. Seventysix per cent of the physical measurements fall above the 70-percentile.
 That is, in three-fourths of our cases the results for our physical
 measurements fall not more than two steps, on our percentile tables,
 from the results of our mental measurements.
+
 2. Some physical measurements show a higher degree of correlation with mental measurements than other physical measurements.
 A very high correlation is shown between strength of grip and intelligence.
 3. These results show definitely that superior mentality and

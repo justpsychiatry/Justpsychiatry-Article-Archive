@@ -5,8 +5,7 @@ The Psychological Clinic
 Copyright, 1916, by Lightner Witmer, Editor.
 Vol. X, No. 6
 November 15, 1916
-
-By Herman H. Young, Ph.D.,
+:Author:  Herman H. Young, Ph.D.,
 Psychologist, Psychopathic Laboratory, Juvenile Court,
 Cincinnati, Ohio.
 1/
@@ -35,10 +34,9 @@ a short and fascinating task which calls for his best efforts, and it
 helps to free him from the fear and self-consciousness which often
 interfere seriously in a mental examination. At the same time the
 test gives the examiner a good general view of the child's mentality
-(149)
-150 THE PSYCHOLOGICAL CLINIC.
 and it usually indicates more or less clearly the nature of his
 defects." (4).
+
 The above citations serve two purposes. In the first place
 they show the general agreement among clinicians as to the value of
 the formboard as a general diagnostic test. In the second place
@@ -56,6 +54,7 @@ simple tests. In addition, it indicates the great need of carefully
 studying and analyzing the elementary mental qualities involved
 in the performance of each test as a basis for correctly evaluating
 the behavior of an individual.
+
 Perhaps the chief obstacle to a more rapid analytic development of tests has been the desire to express results in quantitative
 terms in order to establish norms for comparative purposes. To
 accomplish this aim, since only measurements of objects or qualities
@@ -77,7 +76,6 @@ narrow outlook is sure to be unjust and misleading.
 No attempt is made to minimize the value of quantitative
 measurements and the establishment of norms. That has great
 value and is an important part of the further development of tests.
-FACTORS INVOLVED IN FORMBOARD TEST. 151
 The emphasis here is on the careful establishment, proper use, and
 interpretation of norms. Objection is raised against the habit of
 assuming that figures tell the whole story. They have value only
@@ -105,6 +103,7 @@ and formboard ability, but such classification is impossible at present,
 because there is no ready means of adequately determining physiological development. Although not a part of the established system
 of classification, it has been found advisable to record the subject's
 educational or professional standing.
+
 After the sex, age, and educational standing of the subject
 have been obtained, his performance may be compared with the
 performances of normal subjects of the same sex, age, and educational
@@ -123,6 +122,7 @@ because his assets and defects counterbalance one another. It is
 exceptional to find a normal child consistently above or below par
 in every respect. His degree of success is determined by the interplay of all the factors involved and by the number, nature, and
 degree of their variations from the median.
+
 If a subject does so poorly that he falls outside his age group,
 he may be found to do as poorly as a two or three year old in some
 respects, while in others he may show normal powers. On the
@@ -135,6 +135,7 @@ the individual excels, where he is defective, in what he may be
 expected to succeed, and in what to fail. It gives evidence as to
 why he is thought dull, normal, or precocious by his teachers or
 parents.
+
 Early in this investigation attempts at the qualitative analysis
 of the formboaid test revealed that faulty evaluation and interpretation of performances are responsible for more mistakes than
 inherent defects of the tests themselves. It is generally assumed,
@@ -151,7 +152,6 @@ is to be made, the individual must be subjected to a large series of
 tests and given an opportunity to display his powers. But later,
 when referring to the written record, how shall an individual's performances be interpreted? How shall the significant be distinguished from the insignificant, those tests which presented a real
 difficulty from those which were mere play? If in connection with
-FACTORS INVOLVED IN FORMBOARD TEST. 153
 one test he is rated low on muscular coordination, and on another low
 on attention, are we to understand these ratings to refer to his performance on the particular tests in connection with which they are
 recorded or shall they be interpreted to represent his maximum
@@ -173,6 +173,7 @@ powers really tested, because no special demand is made upon them.
 The test is not, however, without value in such cases as it shows
 the individual to have adequate powers so far as required for a
 satisfactory performance.
+
 That analytic ratings may be of the greatest diagnostic value
 and convey a definite meaning, both at the time they are recorded
 and later when reference is made to them by the same or another
@@ -192,7 +193,6 @@ actually did. If I meant to convey the idea that I had really tested
 and measured their full strength and capacity or had other sufficient
 evidence, gained by considerable experience with the indivdual or
 by the results of a long series of tests, for knowing their optimum
-154 THE PSYCHOLOGICAL CLINIC.
 limits, i. e. the existing innate power of each quality actually present
 and available, I could distinguish such rating from the above only
 by the use of a different term. The noun hyparxis, (Greek, hyparcho,
@@ -204,6 +204,7 @@ capable of giving and actually possesses, or could possibly give
 under any conditions whatever, no matter how favorable, is low.
 It means that he could, if necessary, under appropriate conditions
 give so much attention but no more.
+
 Hyparctic ratings are justified only upon clear cut evidence
 or actual determination of the maximal intensity and ability of the
 specific factors rated. In the absence of such evidence in respect to
@@ -215,6 +216,7 @@ The hyparxis of a given boy's energy at the age of twelve is distinctly
 different from what it was at the age of five. No hyparctic rating
 per se indicates the future possibilities or probabilities of development. It has to do only with actualities, with no reference whatever
 to possibilities.
+
 It is unfortunate that in practice it is unsatisfactory to attempt
 to restrict the terms to either of the above uses alone. Either one
 alone serves the purpose about as badly as the other. If the two
@@ -229,11 +231,11 @@ thing is not so much what the subject does, but how he does it. The
 chart is not intended to displace descriptive accounts of behavior.
 It has an independent function which cannot be subsumed under
 the head of description.
+
 Owing to the large number of factors involved in performing
 this test, two fundamental facts must be recognized; (1) that it is
 impossible to predict what factors will be tested in a given individual, and (2) that the number of possible combinations which may
 determine his success or failure is practically unlimited. Exactly
-FACTORS INVOLVED IN FORMBOARD TEST. 155
 what factors will be tested can be determined only by application
 of the test. These vary from individual to individual and show why
 the formboard cannot be used as a specific test, i. e. a test of a specific
@@ -245,6 +247,7 @@ results mechanically. The tester gives tests with assurance that he
 knows exactly what problems he is setting, what they will test and
 measure, and then upon this illusion, either forgetting or not recognizing that in reality it was an entirely different problem for the
 child, he proceeds to interpret results.
+
 In evaluating the different factors and qualities a five point
 scale is used. The highest grade is 5, the medium or median 3,
 and the lowest is 1. It is often advantageous and frequently
@@ -272,8 +275,8 @@ significance of each defect and asset should be carefully noted.
 Deformities, over- or under-development, or absence of parts of the
 body, particularly of the arms, hands, and eyes, are classed as anatomical. Under functional factors come such disturbances as
 paralysis, choreic movements, and impaired volitional control.
-156 THE PSYCHOLOGICAL CLINIC.
 Sensitivity
+
 The subject must have at least fair powers of auditory acuity
 to understand the spoken directions. Suspicion as to hearing ability
 is often aroused when the subject, otherwise awake, fails to comprehend the directions. He may by observation grasp the idea that he
@@ -303,6 +306,7 @@ than he is able to distinguish the forms with certainty. Although
 the acuity of vision can in no way be accurately determined by this
 test, grave defectiveness should be discovered or at least arouse
 suspicion.
+
 Cutaneous and kincesthetic sensations play a more important
 function in the formboard test than is ordinarily attributed to them.
 They are seldom given a place even in introspective reports. These
@@ -315,12 +319,13 @@ the blocks with their proper recesses, but we depend upon pressure
 and kinsesthesis to furnish the final information as to the fit of each
 block. The eyes follow a block only until it approaches its chosen
 recess, and then give it no more attention unless it does not fit
-FACTORS INVOLVED IN FORM BOARD TEST. 157
 securely. There may be some relation between the functional
 development of tactile and kinesthetic sensations and the amusing
 performance of some young children and many feebleminded who
 energetically pound in each block with their hands.
+
 Vitality
+
 The energy used by different individuals varies from the person
 who would break the board if it were at all destructible to the one
 whose energy is almost zero. In many cases rate is in direct ratio
@@ -330,7 +335,9 @@ subjects, except in the case of young children, fatiguability is negligible so f
 repeated failures on successive trials. The health of the subject has,
 of course, a great deal to do with the general tone and character of
 his performance.
+
 Movement
+
 Control has reference to the degree of success with which the
 subject is able to direct and execute his general bodily movements.
 Good control requires that the subject accomplish easily and readily
@@ -345,20 +352,23 @@ expertness or readiness and skill in using the hands. Dexterity for
 some people is limited to the use of only one hand at a time. This
 is the case with most young children. Many adults use both hands
 successfully at the same time.
+
 Complexity of responsiveness is rated by the appropriateness of
 the movements made in response to the instructions of the examiner.
 Poor responsiveness is illustrated by those children who begin to
 gather the blocks into their arms, put them into their mouths, try
 to drop or throw the blocks into recesses. Vivacity is shown by
 ready, animated, and brisk responsiveness.
+
 Attention
+
 Analytic concentration requires that the subject give attention
 to the different parts and features of the test individually in such a
-158 THE PSYCHOLOGICAL CLINIC.
 way as to break it up into its component parts and attend to each
 separately. It demands an analysis of the situation at the beginning and at its various successive stages. Persistent concentration
 requires that the subject give his entire attention to the matter in
 hand until it is completed.
+
 Distribution requires that the attention be properly distributed
 over the board as a whole or unit, and that no part of the test escape
 notice. Poor distribution of attention is exhibited when the child
@@ -367,16 +377,19 @@ to find the recess for a given block.
 Alertness is shown when the child is wide awake and "on the
 job." It is the facility with which attention can be awakened and
 employed.
+
 When the test makes an appeal to the child and arouses and
 holds his involuntary attention, we are dealing with interest. Without interest the child may refuse to do the test, may do it as a piece
 of drudgery, or as a matter of courtesy to the examiner.
 Imagination (general)
+
 Imageability has a very definite influence on formboard ability.
 Its innate powers determine the intensity and keenness of an individual's images. Without imageability this test cannot be worked, for
 the subject cannot directly compare block with recess. He must
 form an image of the block looked at and then hold it in mind while
 looking for the recess which, when found, must be compared with
 the image of the block.
+
 Associability refers to the number of discrete things which can
 be present in consciousness at one time. It is generally considered
 under the caption of memory span. The individual who is able to
@@ -386,14 +399,15 @@ Associability as the measure of possible complexity determines
 to a considerable extent the complexity of imagination, but great
 complexity does not necessarily accompany good associability.
 Imagination (specific)
+
 For a first class performance on this test the subject must possess
 good powers of observation. He must be able, in addition to comprehending the test and directions, to employ his attention in such a
 manner that nothing escapes his notice and that he is constantly
 aware of the success, failure, and particular stage of his progress on
 the test. Blocks left out entirely or misplaced and at the end of the
-FACTORS INVOLVED IN FORMBOARD TEST. 159
 trial still uncorrected, are some of the things which happen with
 faulty observation.
+
 Understanding is rated according to the degree of comprehension
 with which the subject grasps the directions and works the test.
 If he understands what he is to do and then shows that he can do
@@ -403,6 +417,7 @@ which individuals comprehend what is to be done that it is advisable
 to rate quickness of understanding. A mere suggestion or hint is
 sufficient to give many the clue, while others must be shown or they
 would never be able to work the test.
+
 An individual may show planfulness (1) by attempting a method
 in replacing the blocks and reviewing the board systematically in
 search of the correct recess when it is not seen at once, and (2) by
@@ -421,13 +436,16 @@ Trainability and retentiveness of memory can be only estimated in the majority o
 as an adequate measure, especially of the former. Both are essential
 for a normal performance and have a direct bearing on formboard
 ability.
+
 Attitude
+
 Adaptability refers to the individual's behavior and bearing in
 adjusting, accommodating, and fitting himself in with these new
 and changed conditions. Good adaptability requires that the individual either appear accommodated from the very first or else be able
 to adjust himself readily. Some conduct themselves as well as if
 coached for the occasion. Others with poor adaptability are out of
 harmony with their surroundings.
+
 Assurance is used in much the same sense as self-confidence, the
 difference being that confidence is founded on reasoning, while
 assurance is largely a matter of feeling. A reasonable degree of posi160 THE PSYCHOLOGICAL CLINIC.
@@ -436,10 +454,12 @@ a direct relation between degree of assurance and formboard ability.
 An absolute lack of assurance accomplishes nothing. In this case
 the child does nothing without encouragement and assent from the
 examiner for every move he makes.
+
 The spirit of competition or rivalry is an important contributing
 factor, and is rated under the heading of competitiveness. Some
 subjects show a very high degree of competitiveness and others a
 very low degree.
+
 Painstaking refers to attitude toward or habits of work. It
 is characterized by careful attention. The painstaking individual
 is scrupulous and faithful in performance. He is dependable and
@@ -448,6 +468,7 @@ do his best, but his best may be far below the standard for his age
 group. He is rated in terms of the faithfulness with which he applies
 himself to the best of his ability, not in terms of his ability and not in
 terms of the resulting success.
+
 Poise as defined by Sylvester is " ability to work at one's maximum speed without losing control and getting confused. When a
 child in his efforts to place the blocks quickly, over-hurries and gets
 flustered so that he makes numerous and inexcusable errors or hesitates in a semi-dazed way, he does so because he is lacking in this
@@ -456,12 +477,14 @@ Shyness frequently has a definite influence on formboard ability.
 When present it should be recognized by the examiner and given its
 appropriate rating. An individual capable in other respects may be
 shy and on that account make a poor record.
+
 Individuals may approach the test with predetermined ideas
 concerning the nature of the test and the conditions under which it
 is to be taken. Such ideas, depending on their nature, may hinder
 or facilitate the performance and should be rated accordingly under
 their appropriate heading, H being used for hinder and F for
 facilitate.
+
 Tractability has to do with manageability or the ease with
 which the subject is controlled or governed. It takes account of
 how he submits to discipline, and refers to his obedience. Surprising
@@ -497,7 +520,9 @@ try to grasp an entire pile of blocks in one hand as the examiner did
 in taking them out. On the third trial he may attempt to remove
 the blocks by a mixed arrangement as the examiner did on the
 second trial.
+
 Summation Rating
+
 The general attitude or feeling of the examiner toward the
 performance as a whole, considered in terms of the impression he
 has of what others of the same sex and age do, is graded as impressional rating.
@@ -508,6 +533,7 @@ falls within the limits of its sex and age group, it is located in that
 group according to the quintile within which it falls. If a record
 lies outside its own group, the individual's formboard ability must
 be rated accordingly.
+
 Formboard age is not synonymous with mental age, and is used
 only in comparing the formboard ability of children of different
 ages. The individual is assigned for his formboard age the^age of
@@ -530,6 +556,7 @@ examiner's ability to interpret and evaluate performances. It is,
 therefore, highly important that the test be kept constantly in mind
 as a device for learning something about the subject's ability and
 conformity.
+
 Explanation of the Ratings of William on Chart 1A.
 The formboard test was given William according to the standard
 method immediately after his arrival at the Clinic. The only information at hand was that he is a boy eight years and one month old.
@@ -541,10 +568,13 @@ and in only two instances were the differences more than five points
 of the finer grading system. The nearness of the two ratings,
 together with facts developed during the remainder of the clinical
 examination, evidence the practical usefulness of the chart.
+
 Physical adequacy
+
 He had neither anatomical nor functional defect to interfere
 with this test. He appeared as able for it as most boys his age, and
 was accordingly given median rating.
+
 Sensitivity
 So far as shown by this test he had normal auditory, cutaneous,
 and kinesthetic sensations. He appeared to be hindered by poor
@@ -647,10 +677,14 @@ b-r
 2
 2-3
 3
+
+
 * It will be observed that the qualities enumerated under the general heads ?Vitality, Movement, Attention,
 Imagination, etc., are the same as on Dr Witmer's diagnostic chart, used at the Psychological Clinic of the University of Pa. See Thb Psychological Clinic, Vol. IX, No. 8, Jan., 1916, p. 229.
 164 THE PSYCHOLOGICAL CLINIC.
+
 Vitality
+
 Both energy and rate were distinctly below that employed by
 the ordinary eight year old boy. They were so far below and used
 in such a way that both examiners rated him as unable to employ
@@ -658,7 +692,9 @@ as much energy, even at his best, as an eight year old ordinarily uses.
 As is shown by a rating of three from both examiners, nothing
 unusual was noted concerning his fatiguability and health. He thus
 falls far below normal in vitality.
+
 Movement
+
 His control is better than his energy and rate. His coordination
 is better than his control, and is, in fact, good enough for his age.
 His initiative is considerably below normal and falls far short of that
@@ -667,18 +703,22 @@ use more than he could possibly muster up. He showed low normal
 dexterity for his age. The complexity of his responses was as good
 as need be and was not responsible for his poor record. His epideictic
 vivacity was very low.
+
 Attention
 His epideictic analytic concentration, distribution of attention,
 and interest were distinctly low. Alertness was given a low hyparctic
 rating. The persistence of his attention was sufficient for his age.
 Imagination (general)
+
 There is a question as to where he should be rated on imageability. The evidence is strongly in favor of putting him entirely below
 his age group. About associability there is no question, for in it he
 is distinctly poor. That the low hyparctic rating of associability
 here is justified, was proven later by the fact that he has a memory
 span for only three digits. Complexity of imagination is also on the
 borderline.
+
 Imagination (specific)
+
 His observation was scarcely as good as it should be for an eight
 year old boy. In understanding and quickness of understanding he
 comes within the lower limits of his age group. His poor performance was thus not entirely due to inability to comprehend the task.
@@ -686,11 +726,12 @@ His planfulness was about on a par with his understanding. His
 intelligence was not put to any great test, but so far as revealed was
 scarcely of as high grade as it should be. His perception of form was
 good enough to enable him to perform the test at a greater rate.
-FACTORS INVOLVED IN FORMBOARD TEST. 165
 The fact that he confused some of the blocks may have been due to
 poor vision, inadequate space perception or poorly directed attention.
 In trainability and retentiveness he fell distinctly below the performance level of his sex and age group.
+
 Attitude
+
 In adaptability and assurance he comes within the lower limits
 of his age group. Lack of the spirit of rivalry or competitiveness
 characterized his whole performance. He did not hurry or work
@@ -698,16 +739,20 @@ with a winning spirit. So far as painstaking, poise, and shyness were
 involved, there was nothing unusual. They did not tend to give
 him a bad record. The highest rating in any factor is in tractability.
 Miscellaneous
+
 The laboratory conditions were satisfactory. There were no
 important disturbing factors and nothing in them to give an excuse
 for his poor performance. His method was to find the recess for a
 block after picking it up. This is the best method. He did not
 imitate. His shortest trial time record was 53 seconds.
+
 Summation Rating
+
 His time record is much longer than that of any normal eight
 year old boy. His formboard ability is very low. It is just about
 that of a four year old child. His performance impressed one as
 very bad, even when not carefully analyzed.
+
 William was rated distinctly low in ability by both examiners.
 This rating for his age is virtually a diagnosis of feeblemindedness.
 His conformity was considered good enough for a lad of his age and
@@ -723,6 +768,7 @@ Other details of the examination cannot be given here, but it is of
 interest to note that he was diagnosed as an idio-imbecile, custodial
 case, due to developmental degeneracy of intra-uterine origin.
 Ratings and Diagnosis of Mary.
+
 Owing to the lengthy descriptions of the chart already given,
 it is unnecessary to give a detailed description of the ratings of
 CHART 1 B. ANALYTIC CHART FOR FORMBOARD WITH RATINGS OF MARY.
@@ -839,8 +885,6 @@ b-r
 2
 2-3
 3
-\ . I
-FACTORS INVOLVED IN FORM BOARD TEST. 167
 Mary. Her ratings are included because some of them stand in
 marked contrast with those of William. Reference to the chart should
 give a fair clinical picture of her performance. The only information
@@ -853,7 +897,9 @@ give them a normal or medium rating in most of the factors. In one
 or two of the factors there is generally sufficient variation to require
 a rating slightly above or below the median, but nearly always
 coming within the age group.
+
 BIBLIOGRAPHY.
+
 1. Goddard, H. H. The Fonnboard as a measure of intellectual development in children. Reprint from The Training School {Bulletin), 1912, 9, 49-52.
 2. Norsworthy, N. Psychology of mentally deficient children. Columbia University Cont. to Philos. and Psychol., 1906. Pp. 111.
 3. Pintner, Rudolph, and Patterson, Donald C. The Formboard ability

@@ -1,8 +1,9 @@
 The Individual Tests in the Binet-Simon Scale
 ===============================================
 
-By J. E. Wallace Wallin, Ph.D.,
+:Author:  J. E. Wallace Wallin, Ph.D.,
 Psycho-Educational Clinic, St. Louis, Mo.
+
 While studying the application of the Binet-Simon scale to
 epileptic children in 1910 and 1911, we found an "amazing lack of
 uniformity between the difficulty of the tests of the same age-norms for
@@ -34,11 +35,6 @@ of clinically examining a large number of non-epileptic school children
 of various grades of intelligence. In order that we might obtain
 Bmet-Simon records which would be comparable with our records
 fr?m the epileptic group previously studied we have continued to
-u^the 1908 Binet scale and have given the tests as they were admin1 "Experimental Studies of Mental Defectives," 1912, pp. 22, 26, 41, 43.
-* "Pr\ KOf
-'Pp. 52f.
-(79)
-80 THE PSYCHOLOGICAL CLINIC.
 istered to the epileptics.1 Owing to the exigencies of dispensary work
 we have not always, however, found it possible to use the wide-range
 method of testing as thoroughly as we did with the epileptics. The
@@ -55,6 +51,7 @@ the subjects included were over sixteen years of age chronologically, 7
 of these being seventeen years old, 1 eighteen, 3 nineteen, 2 twenty-one,
 1 twenty-five, 1 twenty-seven, and 1 thirty-five. The intelligence
 classification of the subjects was as follows:
+
 Boys
 No.
 Girls
@@ -131,6 +128,7 @@ Feebleminded.
 11.7
 .9
 27.8
+
 1 See " Experimental Studies of Mental Defectives," p. 119f. In giving test No. 10 we have never asked "What
 is it about?" This question was inadvertently introduced into the Guide. We did not have all the sentences
 in tests 8, 21 and 58 standardized at the time some of the epileptics were tested. For test 23 nine-year credit
@@ -142,13 +140,14 @@ a wholly perfunctory manner. These instances of suggested revision have been ver
 arranged "the weights while the subject looks on," as stated by Terman. After the subject has arranged the boxes
 we have merely turned them upside down, retaining the same arrangement. We have asked the subjects to use
 one hand when two have been used.
+
 2 The general practice of requiring authors to subsidize the publication of their experimental monographs in
 psychology, the revenues from the sales of which rarely enable the author to recover his initial investment, makes
 it necessary to utilize the medium of the periodical press. At the present time we are more in need of grants for the
 publication of original investigations than for the prosecution of researches.
 8 Based on the total number of boys (703). 4 Based on the total number of girls (297).
 'Based on the total number of boys and girls (1000).
-INDIVIDUAL TESTS IN BINET-SIMON SCALE. 81
+
 Only 27.8 per cent of these subjects were diagnosed as feebleminded.
 Those who roughly classify children into two categories, normal and
 feebleminded, would have classified a considerable majority of them
@@ -157,10 +156,13 @@ however, that some of our subjects were feebleminded. Only twelve
 of the subjects were epileptic (including one case of masked epilepsy ),
 which is so small a proportion of the entire number as not to affect
 the general averages.
+
 In this article we shall confine ourselves to a consideration of
 the data for the B.-S. weight discrimination test placed in Age IX
 in the 1908 scale and in Age X in the 1911 scale.
+
 The Weight Discrimination Test.
+
 Our interest was attracted to this test in 1910 because of the
 very unsatisfactory results which we obtained from its use on epileptics, when we strictly adhered to Binet and Simon's method of administering the test. When administered in the classical way, success
 in the test depends not only on the ability to discriminate small differences in weight by the kinesthetic sense, but also on the ability to
@@ -179,13 +181,14 @@ according to the B.-S. procedure, so that almost in despair we adopted
 the procedure described in our Guide (pp* 123 and 133). We
 usually only hefted three or four of the boxes, but as stated on page 80
 we have never placed them in position.
+
 Under this method of administration we still found the test
 entirely too difficult for the IX-year epileptics, only 44 per cent of
 whom succeeded in the test, while it has also proved too difficult
 for the IX-year olds in our non-epileptic group, only 59.4 per cent
 of whom passed the test (based on 133 IX-year records). The results
 1 We have not followed Lombroso's conception of epilepsy.
-82 THE PSYCHOLOGICAL CLINIC.
+
 are somewhat discrepant among other investigators who have tested
 "normal" or unselected children, only some of whom have adhered
 to the original method of administering the test. Decroly and Degand
@@ -199,6 +202,7 @@ respectively. Binet and Simon placed it in age X in the 1911 revision.
 In several of the above investigations, therefore, the test has proved
 too difficult for Age IX, on either the 60 per cent or the 75 per cent
 standard of passing.
+
 Terman, who retains the test in Age IX in his latest revision,
 prescribes a different procedure for the two boxes in Age V than for
 the five boxes in Age IX.1 He does not approve of our method of
@@ -212,6 +216,7 @@ the means of reaching the objective. He apparently feels that the
 test does not correlate very closely with "true mental age." We have
 analyzed our data on this point and find, on the contrary, a very significant correlation with mental age (B.-S.),as shown by the percentage
 of successes in each B.-S. age from VI to XIII:
+
 B.-S. Age
 Boys.
 Girls.
@@ -255,12 +260,13 @@ No. %
 70.0
 100.0
 72.7
+
 1 Our percentage of successes for the two boxes in Age V was 66 per per cent for the V-year old epileptics (based,
 however, on very few cases), and 92.8 per cent for the V-year olds in the non-epileptic group, being 96 per cent for
 the boys and 87.5 per cent for the girls (based on 42 boys and girls). According to our results for the non-epileptic
 group the test is too easy for Age V, a finding in harmony with the conclusion of Petersen and Doll: "Sensory Discrimination in Normal and Feebleminded Children," Training School Bulletin, 1914, November and December
 This article gives the latest summary of experiments on weight tests.
-INDIVIDUAL TESTS IN BINET-SIMON SCALE. 83
+
 There is a decided increase in the percentage of successes in every
 ascending age except XIII?the data in the two upper ages, however,
 being based on only a few cases. The increase is particularly marked
@@ -271,6 +277,7 @@ increase holds fairly uniformly for both the boys and the girls. ?sot
 only so, when the data are averaged separately for each intelligence
 category, we likewise find a decided increase in the ability to perform
 the test with each higher category of intelligence, with only one exception, as shown by the following percentage of successes:
+
 Boys.
 Girla.
 Both.
@@ -323,6 +330,7 @@ No.
 75.0
 80.0
 78.5
+
 This is a strikingly significant increase in view of the fact that many
 chronological ages are contained in each intelligence category. The
 increase between the morons and the borderline amounts to 17.7
@@ -342,7 +350,6 @@ test, depends more on central than peripheral factors. We find,
 therefore, in harmony with this interpretation, that the normal or
 backward pupils do better than the morons, and the morons better
 than the imbeciles in this sensory test. In a series of other sensory
-84 THE PSYCHOLOGICAL CLINIC.
 and perception tests on epileptics and normal children the results
 point to the same conclusion (described in a monograph on "The
 Measurement of Mental Traits in Normal and Epileptic School
@@ -359,6 +366,7 @@ weight test is administered to isolate, except theoretically, the sensory
 elements in the complex, so as separately to measure the elemental
 sensory experience. In practice the intellectual and sensory components are integrated or fused and can be measured only as a unitary
 whole.
+
 Incidentally, it may be pointed out that we have found both
 imbeciles and morons who have been able to pass the test. Bobertag
 had said that no child of eight or nine who performs the test properly
@@ -367,33 +375,40 @@ our own. We are less sanguine. We do not believe that the passing
 of any single test will prove any child to be normal, nor that the failure
 on a single test will prove any child to be feebleminded, except in
 perfectly obvious cases.
+
 Conclusions.
+
 1. Success in this weight test depends both on kinesthetic and
 on intellectual factors, even in the simplest practical form in which
 it can be administered.
+
 2. The successful performance of the test increases with ascending B.-S. age and ascending intelligence classification. It is possible
 that if the kinesthetic elements could be measured wholly independent of the intellectual?i. e. as elemental sensory experiences?there
 would be no such increase or that it would be greatly reduced. But
 the increase occurs even when the test is administered in its simplest
 practical form. This being the case,
+
 3. It seems unwise to complicate the test by making the directions difficult to follow?by converting the test into a difficult directions test: the test is already difficult to perform because of the small
-INDIVIDUAL TESTS IN BINET-SIMON SCALE. 85
 differences between the weights, and the ability to perform the test
 already varies with mental age or intelligence.
+
 4. Specifically the test is sufficiently difficult for Age IX, without
 the addition of the difficult "directions test" feature. Indeed, we
 are not convinced that it is not too difficult for this age there is as
 yet no agreement on the percentage of passes which should constitute
 a test normal for a given age.
+
 5. The improvement in the test with increasing mental age or
 intelligence?also shown by Petersen and Doll in their test on feebleminded and normal children?would seem to indicate that its use
 as an intelligence test is legitimate. It happens, of course, that some
 bright children of considerable maturity occasionally fail on the test,
 while imbeciles may succeed.
+
 6. In our results the boys surpassed the girls in all the B.-S. ages
 and in all the intelligence categories except two. In our previous test
 of epileptics the boys, again, surpassed the girls. These boys, however, averaged somewhat higher in intelligence than the girls. The
 findings among other experimenters are somewhat discrepant.
+
 7. Our earlier1 conclusion that epileptics "apparently suffer from
 a blunting of the kinesthetic sensitivity" seems to be reinforced by the
 data presented in this article, for the percentage of successes in the

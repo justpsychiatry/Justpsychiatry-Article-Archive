@@ -5,10 +5,11 @@ The Psychological Clinic
 Copyright, 1928, by Lightner "Witmer, Editor
 Vol. XVI, No. 8-9
 November-December, 1927
-
-By Dorothy Kern Hallowell, M.A.
+:Author: Dorothy Kern Hallowell, M.A.
 Philadelphia, Pennsylvania
+
 Introduction
+
 It is not surprising that the earliest efforts of the clinical
 psychologists should have centered around the school age groups.
 When children begin school they enter upon a new and distinct
@@ -24,6 +25,7 @@ for the past thirty years, the clinician has been working on these
 problems, devising and redevising tests, accumulating and evaluating norms. We have had, therefore, at our command for a number of years, a goodly range of equipment from which to select
 material for a psychological evaluation of individuals from five
 or six years up through adulthood.
+
 With pre-school children, the problem is quite different. Their
 successes and failures are not being measured so accurately. They
 are not competitors against their age mates in anything like as
@@ -43,18 +45,21 @@ aid from psychological tests. Only those who have seen at first
 hand the acute disappointment which the wrong adoption brings to
 foster parents, and the harm which also comes to the adopted child,
 can sense the importance of this problem.
+
 Tests for pre-school children have, of course, a much wider
 application than their use in the process of adoption. As a preliminary step in dealing with the behavior problems familiar to
 mental hygiene clinics, psychological studies of even such young
 children can be of great aid. Much time and effort can often be
 saved by determining at the earliest possible moment whether unsocial habits are engrafted on a good mentality, or on an inferior
 one.
+
 The progressive pediatrician is continually correlating mental
 with physical development. The age of sitting up, standing, walking, and talking, are all dependent on both physical and mental
 condition. If the appearance of any of these accomplishments is
 delayed, a psychological study can often reveal whether in other
 directions there is subnormal mental functioning, and also what
 is the degree of retardation.
+
 Since pre-school tests have such wide possibilities for service,
 it seems that study in this direction should be extensive and varied.
 Therefore, although a number of excellent contributions have already been made in the field of pre-school tests, the writer feels
@@ -66,9 +71,9 @@ years. An interesting beginning was made by these pioneer tests,
 but particularly from twelve months to three years they left much
 to be desired, as the range of abilities tested was too limited and
 too dependent on specific training.
+
 Gesell's excellent book, The Mental Development of the PreSchool Child (1925), added much to the psychologist's equipment.
 Especially from four to twelve months is the material very valuable,
-MENTAL TESTS FOR PBE-SCHOOL CHILDREN 237
 and at the higher levels also if one happens to be testing a child
 at exactly the ages where the norms are applicable, as eighteen,
 twenty-four or thirty-six months. If the subject, however, happens
@@ -95,6 +100,7 @@ material are also a limiting factor of no small importance. But
 the writer believes that the group of 650 children tested will, in
 a general way, be found to be a fairly representative sampling
 of an urban population.
+
 Twenty-five per cent of the cases were secured through private sources, representing homes of a fairly high intellectual level,
 one or both parents usually being college graduates. Aside from the
 probability of a good mentality, through inheritance, these children
@@ -104,7 +110,6 @@ was subjected to ample play material and considerable adult stimulation. We shou
 group were, in addition to home stimulation, having the benefit
 of nursery school training. A few negroes are in this series, but
 the large proportion are white and all are of American parentage.
-238 THE PSYCHOLOGICAL CLINIC
 The other 75 per cent of the group were obtained through social agencies, though the reason for contact with the agency was
 by no means always financial dependence. For instance, 11 per cent
 came through a "well clinic" of a large babies hospital and through
@@ -112,6 +117,7 @@ a city health center. These families were practically all on a selfsupporting ba
 factory worker or laborer, they do not represent a depressed economic group. Their children were mostly well clothed and fed,
 medically cared for, their homes, though often small, were usually
 clean. The majority of these parents were foreign born.
+
 Twenty-three per cent of these cases were examined at fifteen
 day nurseries, a connection which probably implies a semi-dependent financial status. Some of the fathers were dead, but more
 usually both parents were living and working. Most of them were
@@ -123,6 +129,7 @@ to twelve hours a day, could, however, largely offset the lack of
 home care, by their attention to health, cleanliness, diet, rest and
 supervised play. These children are about equally divided between
 the white and colored, American and foreign born.
+
 Eleven per cent of the cases were from three different institutions caring for white children of either American or foreign parentage. A problem produced by illegitimacy, by ill health, inadequate care, desertion or death of one or both parents, made the
 placement of the baby necessary. Though adequate standards of
 diet and health were maintained by the institutions, these children
@@ -131,16 +138,18 @@ usually over-worked or untrained or both, so that the minimum of
 play material was supplied and practically no individual help or
 encouragement was given for exploring their environment. These
 conditions might readily produce a stunted development.
+
 The other 30 per cent of the cases secured through social agencies were from two child placing agencies * The reason for care by
 *1 am indebted to the Children's Aid Society of Pennsylvania, for their
 vision in making possible the major part of this research, and especially to
 Dr Jessie Taft, the Director of their Child Study Department, "who was
 largely responsible for the initiation of the study.
-MENTAL TESTS FOR PRE-SCHOOL CHILDREN 239
+
 these two agencies would parallel that of the institutions, meaning
 a similar social status. Although the facilities for individualization
 by the foster homes were good, many times a child was still handicapped in his fullest development by a previous unstable home care
 or actual neglect.
+
 Those who have not had actual experience with individual children from various social groups may be inclined to think that in
 this study there are too many cases from social agencies, which
 may imply a poor quality of mental equipment. In looking very
@@ -155,6 +164,7 @@ private sources. In general, the writer can state that from the
 standpoint of the case material obtained in this piece of research,
 that the economic, racial or nationality status has no bearing on the
 mentality which we can expect in any individual case.
+
 The writer realizes the difficulties involved in making an accurate racial classification if we attempt to set up certain criteria
 for physical traits, such as skin color, nose width, type of hair, etc.
 Not only is it impractical in such a study as this to make the actual
@@ -166,17 +176,18 @@ according to the lay standard of social acceptance. Only in one
 ease, however, were the physical traits not pronounced enough for a
 possible question to have been raised as to racial classification.
 Fifiteen per cent were negroes; 85 per cent white.
+
 Although we are all familiar with the different cultural standards in recreation, discipline, diet and dress, which are apparent in
 homes of varying nationalities, it does not seem to the writer that
 at present we can assume that there is any significance to such differences in relation to the degree of mentality exhibited. At least,
 for the purpose of this study, the only bearing that another nationality seems to have, is the foreign language which the child
 hears exclusively, or along with his learning of English. This
 would especially affect the verbal tests, but should not influence
-240 THE PSYCHOLOGICAL CLINIC
 performance test results. For those who are interested in the
 foreign nationalities contributing to this study, we can say that
 Italians lead, with Polish, and Russians next, and an occasional
 Greek, French, Armenian and Spanish.
+
 Six hundred and fifty-seven cases were personally examined,
 the ages ranging from twelve months to forty-seven months. To
 gain familiarity with younger babies and how their reactions differ
@@ -187,6 +198,7 @@ for the performance tests to mean anything except something to
 grab, throw around, or put in the mouth. Four 11 month babies, who
 by other tests appeared average, were given the 3 Disc Formboard
 and Peg Board A, with entirely negative results.
+
 On all the tables 12 months means from the day the child becomes 12 months old until the day before he is 13 months old.
 When norms are being presented in bimonthly periods, a child can
 be compared by this calculation just as accurately as if 12 months
@@ -206,22 +218,24 @@ No. Cases No. Cases No. Cases
 22 m  17 2:10   15 3:10   15
 23 m  20 2:11   20 3:11   17
 Total 201 Total 250 Total 206
+
 Anyone who has observed a child's development, even apart
 from test responses, knows the very rapid advance that is made
 month by month. For this reason it seems highly desirable to report all the results in as small groups as the entire number of cases
 warrants. Therefore, bimonthly norms are being used as the age
 group against which any one individual may be compared.
-MENTAL TESTS FOR PRE-SCHOOL CHILDREN 241
 The number of cases for all the tables is not the same, as some
 of the tests were added later in the study, and also, because of
 difficulty, some of the tests were not even presented to certain
 children at some ages.
+
 The sex distribution is not quite even, 56 per cent boys, 44 per
 cent girls, but for practical purposes this seems satisfactory. The
 results are not being reported by boys and girls separately, as the
 groups, being arranged bimonthly, would be too small, and from
 reported studies, sex differences are on the whole small or entirely
 insignificant.
+
 A most important question in making a group of representative norms is the quality of the cases included. Should the cases
 all be within the average range, thereby rejecting all feeble-minded
 as well as superior children. It seems to the writer that the first
@@ -234,6 +248,7 @@ in this disease between mental and physical retardation. However,
 of some twenty rachitic children examined, all were mentally retarded, many even appearing to belong in the definitely feebleminded group, and because they definitely were below par on the
 physical scale, it seemed better to discard these results from the
 group study.
+
 Assuming then, that, as far as we could know, the cases were
 physically well at the time of examination, are we justified in including all of them in a representative group? It seems to the
 writer, that if a child has not been socially excluded from his group,
@@ -243,9 +258,9 @@ treatment, he can legitimately be included. In any individual study
 we want to know how a child measures up to his whole age group,
 and his age group might well have an occasional feebleminded or
 superior child in it.
+
 Another question which might be raised is the validity of including retested children in the norms. If a retest is not given
 too soon after an initial examination, it seems justifiable. For instance, a twelve months baby may be retested at sixteen or eighteen
-242 THE PSYCHOLOGICAL CLINIC
 months. The probability of the familiarity with the material from
 the first examination influencing the second one is very slight. The
 time interval between the tests is frequently such that entirely new
@@ -269,6 +284,7 @@ behavior, habit training or development existed, we were told of it.
 Significant facts in heredity could usually be gotten. Eight foundlings are included in this study, for whom no history whatever was
 procurable. The birthdates were assigned by a physician according to physical maturity.
 Test Material Used
+
 Formboards at any age level, and particularly for the preschool child, lend themselves well for psychological study. They
 are largely self-explanatory, which puts the foreign speaking child
 or the "late talking" child at no particular disadvantage. They
@@ -279,13 +295,14 @@ any child. Their resemblance to games makes them readily appealing, especially t
 often evident when verbal responses are required, is not a deterring
 factor with concrete material. An uneasy attitude many times completely vanishes as soon as the child begins to do something with
 his hands.
-MENTAL TESTS FOR PRE-SCHOOL CHILDREN 243
+
 With new material of the performance type, opportunity is
 given to study the rapidity with which new associations can be built
 up, which is, of course, the whole problem for learning. Also, when
 a child is actually at work 011 a given test, many attitudes and
 methods of approach can be observed, which are a good index to
 future competency.
+
 Because of all these general advantages from the presentation
 of performance test material, the writer was interested to secure a
 battery of tests of increasing difficulty for the ages of one to four,
@@ -303,6 +320,7 @@ discrimination and the audito vocal digit memory span was obtained
 when possible, either as a test by itself, or as one of the Binet tests.
 Under method of procedure, complete descriptions of the above
 mentioned tests will be given.
+
 The writer wants to make clear to any interested in using preschool tests, that she does not feel this battery of tests should be the
 only material used for a complete individual study. Especially
 now with the Gesell and Stutsman norms available, they should be
@@ -312,10 +330,11 @@ Binet. Particularly from 12 to 18 months, this battery is an incomplete gauge, f
 and B fails, which are the only performance material simple enough
 for so young a child, there is nothing else in the series by which
 to evaluate mental development.
+
 General Method of Procedure
+
 The general conditions applying to all clinical psychology held
 in this study except that with a large proportion of the cases the
-244 THE PSYCHOLOGICAL CLINIC
 testing was done, not in a strange laboratory, but in a place where
 the babies felt at home?in their own houses, or, with the social
 agency cases, in the nursery where they habitually spent a large
@@ -357,10 +376,12 @@ enough encouragement and praise must be given to offset discouragement and even 
 encouragement must be given, it should be indirectly, by the examiner's attitudes rather than by any definite assistance. If too
 much help is given, it does not make an individual test result representative of that age and justly comparable to results with the same
 material given to older children.
+
 When possible, the order of presentation was 3 Disc Formboard, 3 Figure Formboard, Witmer Formboard, Pegs A, B, C, D,
 Color Matching and Memory Span. When it was seen that a certain test was beyond the ability, still harder ones were not given.
 Tests such as the Binet and the Gesell were interspersed for diversity or because it was known that many language tests could never
 be given together.
+
 In evaluating individual responses for diagnostic purposes,
 a most essential factor to be kept in mind is the interest element
 of the child. Especially with children under eighteen months, attention to a set task is at times very difficult to secure and hold,
@@ -374,16 +395,17 @@ of norms to take results as we obtain them, in an individual case
 the response may not be an index to potential ability.
 Individual Tests?Description, Presentation, Scoring and
 Discussion
+
 three disc formboard*
 Description. This board is of wood, 8% inches long by 4^
 inches wide, with three recesses *4 inch deep and % inch apart,
 into which fit round wooden blocks, each 1% inches in diameter, and
 Vig inch thick.
+
 Presentation. The board is placed on a table in front of the
 child, the long edge parallel to the table edge, and with the three
 blocks in their recesses. As soon as the child's attention is on the
 * The Three Disc, Three Figure, and Witmer Formboards can be purchased from the Psychological Clinic Laboratory, University of Pennsylvania.
-246 THE PSYCHOLOGICAL CLINIC
 formboard, the blocks are removed one at a time and placed on the
 table between the board and the table edge, in one pile in front of
 middle recess. Then examiner says, ''put the blocks back." If the
@@ -395,6 +417,7 @@ the hole. If necessary, repeat for the other two blocks until all
 three are in. Count this as one teaching trial, and then say, "put
 the blocks back again.'' If necessary use ten teaching trials.
 Three Disc Formboard
+
 (199 cases)
 Deciles
 100
@@ -521,6 +544,7 @@ No. of Cases
 37
 35
 36
+
 Scoring. Success, learning, did not complete, or failure, is the
 recorded qualitative performance. Success (S) in the norms means
 immediate success on first two trials with no help given. Learning
@@ -528,13 +552,13 @@ immediate success on first two trials with no help given. Learning
 teachings; L2, success after six to ten teachings. Did not complete
 (DNC) means the three discs were not all replaced after ten teaching trials, but single blocks were put in unaided. A block may be
 considered replaced if it is more than half-way in the hole. Failure
-MENTAL TESTS FOR PRE-SCHOOL CHILDREN 247
 (F) means no blocks at all were put in on any of the ten teaching
 trials. The time element is not considered except in a general way,
 as rapid, slow or very slow. Record carefully how the test is done
 ?for example, "first trial, all in"; "first trial, two in, third on top
 of second"; "second trial, one in, throws others around"; "sixth
 trial, still gets no idea of putting in.''
+
 Discussion. Qualitatively there are four distinct types of response to this simple formboard. There is the child who immediately understands the problem of the test and solves it, which is
 success. No individual under sixteen months succeeded and the
 fact that at sixteen months only 9 per cent did succeed would seem
@@ -549,6 +573,7 @@ than lack of comprehension, presumably an inhibition due to shyness or self-cons
 type of thing shows what was mentioned above, that with small
 children especially, any individual test result can never be considered as a thing apart, but must be evaluated in light of the entire
 range of responses.
+
 Although a child did not immediately comprehend the test, it
 seemed to be worth while to analyze other responses, and the study
 has demonstrated the excellence of this formboard for teaching
@@ -565,7 +590,6 @@ number required more than five teachings before solution was possible. As with o
 part. The exceedingly active child whose ability and keeness may
 even be above normal, frequently fails to learn the test because he is
 too eager, reaching out for new stimuli, to fixate on this one object
-248 THE PSYCHOLOGICAL CLINIC
 long enough to learn how to do it. Because of a quieter, maybe
 even duller disposition, the attention of another baby can be held
 and the same performance will contentedly be done time after time,
@@ -584,6 +608,7 @@ a trait of immaturity whereby the baby puts in one or two blocks,
 takes them out again, puts them back again, but always fails to put
 in all three. It is as if the third hole were out of their field of
 vision.
+
 The most immature and inferior type of response is complete
 failure?even after teaching, no blocks are replaced. The baby
 may ignore them, put them in his mouth, throw them on the floor,
@@ -591,7 +616,9 @@ or hammer them together. At least, no evidence can be obtained for
 thinking that a learning in relation to this problem is taking place.
 Of course, we must remember that again it may be lack of interest
 at the attempt to teach, which gives the failure.
+
 THREE FIGURE FORMBOARD
+
 Description. This board is also of wood, the same size and
 general construction as the 3 Disc Formboard, only instead of there
 being 3 circle blocks, there are in order, a circle, an equilateral triangle and a square.
@@ -600,7 +627,6 @@ parallel to the table edge, with the blocks in their recesses and the
 circle at the child's right. For convenience call circle, block 1; triangle, block 2; square, block 3. Remove the blocks, while the child
 is attending, and place in one pile directly in front of triangle recess, in order 1, 3, 2, circle on top. Examiner then says, "put the
 blocks back." If the child seems to be trying, allow even several
-MENTAL TESTS FOR PRE-SGHOOL CHILDREN 249
 minutes of independent effort, then, if incorrect, teach the correct
 placements. '' Put the blocks back again,'' and for the second trial,
 vary the order of the pile to 3, 1, 2, square on top. After each
@@ -609,12 +635,14 @@ Fourth trial, same as first 1, 3, 2. Fifth trial, same as second, 3, 1,
 2, etc. After two consecutive correct trials, reverse the board to
 Examiner
 OD A ?
+
 Position A
 Child
 position B with the circle at the child's left. This is done to vary
 the problem and negate chance successes. It is noted that the order
 of piled blocks is never the same as the order of the holes in the
 board. Allow ten teaching trials if necessary.
+
 Scoring. To obviate chance fitting in of the blocks, which by
 the law of probability works out to three consecutive trials, require
 two correct trials in position A, and the next immediate one in position B, or vice versa, two in position B, one in position A. Success
@@ -630,13 +658,13 @@ position B, form discrimination used in placements. Count as correct if all but 
 half-way in, and over its hole in the proper position. Because of
 difficult co-ordination, the square or triangle may be hard for the
 younger children to replace.
+
 Discussion. Obviously, the 3 Figure Formboard is a task considerably harder than the 3 Disc Formboard. It is an excellent test
 for the study of the appearance of form discrimination. Better developed motor co-ordination is required to fit in the square and the
 triangle than the circles of the 3 Disc Board. Since each block can
 only go in its own hole, the problem becomes almost a triple intelligence test, and before discrimination for the different shapes
 is developed, trial and error, which is a changeability in response,
 is needed for the solution. It is only the very young or the dull
-250 THE PSYCHOLOGICAL CLINIC
 child who will interminably continue to try and force a square block
 into a round hole, and it is the better mind which will sooner think
 of some other plan to try. As the table of norms shows, quality of
@@ -661,7 +689,9 @@ different thing, no comprehension and all or some of the blocks left
 lying over the wrong holes?the idea of solving by trial and error
 could not be learned. So we see that even DNC has its qualitative
 aspects which should, in an individual response, be carefully noted.
+
 WITMER FORMBOARD
+
 Description. This board has eleven figures, the general size of
 which approximates the blocks of the 3 Disc and 3 Figure Formboards. Complete description, procedure and discussion of it will
 be found in Dr Young's first standardization.
@@ -671,7 +701,6 @@ or fast has practically no meaning for most children under four and
 often confuses them. It seems better therefore to substitue
 "nicely" for the words "quickly" and "fast." In the third trial,
 substitute "even better" for "still quicker." If more help is given
-MENTAL TESTS FOR PRE-SCHOOL CHILDREN 251
 to the younger children than the older ones, it does not make the
 results comparable, but it does seem legitimate to urge continuance,
 if necessary, by saying at least several times, "put the blocks all
@@ -680,6 +709,7 @@ directions, according to Young, do not bring the appropriate response.
 Scoring. A five minute time limit was placed on each of three
 given trials. Although the norms report quantitative responses, the
 qualitative aspects are equally important.
+
 Discussion. At a point where half of the cases will succeed with
 a given test, it becomes necessary to introduce a harder problem
 if we wish to differentiate the children who are above the median.
@@ -687,6 +717,7 @@ Therefore the Witmer Formboard was given at the ages where success was obtained 
 desirable to have a board which in difficulty lies between the 3 blocks
 and the 11 blocks and possibly in the near future such a test will
 be ready for standardization.
+
 In general we can say that the children who will do the 3
 Figure Board without teaching, will, after teaching, solve the Witmer Formboard. Success on first trial is almost negligible in the
 two year group and not until 3 years, 8 months, do half succeed.
@@ -694,6 +725,7 @@ Below this point, the test has value for teaching purposes, and from
 the norms we see that, at 2 years, 10 months, almost a year below
 the median age for initial success, we have 54 per cent succeeding by
 at least the third trial.
+
 The realization that this is a very hard task is evident apart
 from the statistics. Many children, discouraged or fatigued by its
 difficulty, push it aside long before the five minute time limit is up,
@@ -707,7 +739,6 @@ the forms into others. Of course this is only the case with the more
 immature, for whom form recognition is not developed sufficiently
 to assure them that the block is correct for the particular hole. To
 those who have not yet acquired a visual form discrimination, kinesthesis is a great aid to correctly replacing the blocks, and with this
-252 THE PSYCHOLOGICAL CLINIC
 sensibility and sufficient persistence and some planfulness, the
 Formboard can be and often is solved entirely by trial and error.
 Although some language comprehension is necessary to understand the initial instructions, its need is even more apparent when
@@ -720,7 +751,9 @@ have a block fitting in a recess or to have it lying on top of a wrong
 hole. It is the many psychological traits thus revealed that make
 this one formboard so valuable a problem even for the pre-school
 group.
+
 WALLIN PEG BOARDS
+
 Description. These pegboards, series A, B, C and D, are each
 14 inches long and 3 inches wide, 6 pegs to a board, each peg 2i/?>
 inches long and with a diameter of % inch. They are figured in
@@ -728,6 +761,7 @@ the catalogue of C. H. Stoelting Company, from whom they can
 be purchased. Series A has 6 round pegs; series B, 6 square pegs;
 series C, 3 round and 3 square pegs alternating; series D, 2 round,
 2 square, 2 triangle pegs alternating.
+
 Presentation Pegboard A. Place the board with the length
 parallel to the table edge, the pegs removed. Place the 6 pegs in a
 bunch at right angles to the board (so as not to roll off the table)
@@ -743,10 +777,10 @@ observe the improvement, allowing 3 minutes for each. For the
 very young children from 12 months to about 17 months, the teaching will often take the form of guiding the hand with the peg in
 it to the hole, in order to see if even single pegs can be replaced.
 Scoring. The results are chiefly quantitative, recorded in seconds, although observations should be made on comprehension, coordination difficulties, and any abnormalities of response. Success
-MENTAL TESTS FOR PRE-SCHOOL CHILDREN 253
 (S) means 6 pegs replaced in 180 seconds or less. Did not complete (DNC) means 2 or more single pegs put in, but the board
 never filled up without help. Failure (F) means no single pegs put
 in, even after two teaching trials.
+
 Discussion. From the viewpoint of general difficulty, Pegboard A correlates fairly well with the 3 Disc Formboard. It is
 much easier, however, even apart from size differences, to put in
 a round block than round peg. Luck assists many times in helping
@@ -766,6 +800,7 @@ and the 3 Disc Formboard, 81 per cent as against 57 per cent, would
 seem to be due to the 3 Disc Board being presented at the beginning
 of the examination when a self-consciousness or shyness prevented
 the best possible response.
+
 Above 19 months in at least one trial there were no failures with
 this simplest pegboard, which therefore decreases its value except
 as a measure for muscular co-ordination. The completion times
@@ -774,10 +809,10 @@ deciles, and decreasingly less as the ages increase. For instance,
 the median time decreases from 18 months to 24 months by approximately a half minute, while through the entire 3 year group the
 median does not vary by more than 5 seconds, an almost negligible
 amount.
+
 Presentation Pegboard B. The directions are the same as with
 Pegboard A. Allow 3 trials, teaching if necessary.
 Scoring. Same as with Pegboard A. Time limit is 180 seconds.
-254 THE PSYCHOLOGICAL CLINIC
 Discussion. Pegboard B presents no harder a problem than
 series A except from the standpoint of more difficult co-ordination
 which in turn requires more persistence with the set task. Below 14
@@ -791,6 +826,7 @@ instance, the range at 36 months with Pegboard A is only from 12
 to 36 seconds while with Pegboard B it is from 13 to 116 seconds.
 The higher in the age scale we go, the less does the time decrease,
 which therefore lessens its test value.
+
 Presentation Pegboard C. The same procedure is used as with
 A and B series, but care must be taken that the pegs are definitely
 mixed up, and not lying on the table in an order to correspond to
@@ -802,6 +838,7 @@ by luck got the 6 pegs replaced, but could not repeat their success,
 and to obviate this kind of chance success, 2 trials were required.
 Note whether success is by apparent discrimination or by trial and
 error.
+
 Discussion. With the presentation of series C, an entirely new
 problem is involved just as in the 3 Figure Formboard?analytic
 discrimination. The most superior children will solve the test without error, through form discrimination, but if form recognition is
@@ -816,15 +853,16 @@ success is median for the 3 Figure Formboard, is success obtained
 with the Pegboard C by 55 per cent of the cases on first trial, and
 74 per cent after teaching. Solution of the 3 Figure Formboard
 after teaching is median for 24 months. Therefore while there are
-MENTAL TESTS FOR PRE-SCHOOL CHILDREN 255
 some similarities as to abilities required, Pegboard C is the harder
 of the two problems.
+
 Presentation Pegboard D. The same procedure is used as with
 Pegboard C. Place the board with the point of the triangle towards
 the child, to bring this distinguishing feature closer to his notice.
 Scoring. Success means any one trial completed in 180 seconds.
 Allow three trials to note improvement, and teach if necessary after
 the first two failures.
+
 Discussion. There are several features which make this the
 most difficult of the 4 pegboards. There being 3 different shapes,
 even more form discrimination is required than with Pegboard C,
@@ -836,7 +874,9 @@ be the incorrect one and shift it to a square hole where it will go
 in easily. Unless observation is keen, the chances for correcting
 this mistake are slight. It is obviously only the most superior children who will solve the test by real form discrimination, that is, immediately placing the right peg in the right hole. Not until 34
 months do more than half of the children do this test without teaching, while after teaching, success can be carried down to 30 months.
+
 COLOR CUBES FOR MATCHING
+
 Description. Use Milton Bradley's one inch color cubes?5
 yellow, 5 red, 5 blue, 5 green, 5 purple, 5 orange.
 Presentation. Throw on the table 20 blocks, 5 each of the four
@@ -846,6 +886,7 @@ examiner takes another yellow cube and placing it with the first
 says, "See, these are alike. Give me another one like these." Illustrate again if not understood. When a block is correctly
 matched, continue, saying, '' Give me another one like these,'' until
 4 out of 5 blocks are correctly matched.
+
 Repeat the directions with the red blocks. If red and yellow
 are both failed, consider the test a failure. If red and yellow are
 matched, continue, using green, then blue. If there is any doubt
@@ -853,7 +894,7 @@ as to the responses, go through the series again with the 4 primary
 colors, so that at least 8 out of 10 blocks will have been correctly
 matched. Then place the 5 orange and 5 purple blocks with the
 other 20, go through the entire series again, using the same directions. It is to be noted that the color names are not used.
-256 THE PSYCHOLOGICAL CLINIC
+
 Scoring. Failure (F) means no color matched in at least 4
 out of 5 trials, or 8 out of 10 trials. Yellow (Y) means yellow
 blocks matched in at least 4 out of 5 trials, or 8 out of 10. Red
@@ -891,7 +932,6 @@ color naming or the results were dependent on earlier teaching.
 In this study the aim was to detect the age at which the child,
 regardless of previous teaching, familiarity with color names, or
 even a comprehension of verbal instructions, could demonstrate the
-MENTAL TESTS FOR PRE-SCHOOL CHILDREN 257
 presence of color discrimination by matching cubes of the same
 color. Color matching is an ability which ontogenetically appears,
 regardless of training, and the earlier it is developed, the more
@@ -900,6 +940,7 @@ tests, this one seemed best to pick out the dull and feeble-minded
 children, for color matching cannot, like many tests, be done by
 trial and error or any amount of persistence, but demands actual
 differentiating ability.
+
 Our results, even though the case material includes a number
 of young superior children, show no child under 18 months matching the cubes, while Shinn reports 15 or 16 months as the dawn
 period of conscious color discrimination. It is the very unusual
@@ -908,6 +949,7 @@ not until 30 months do at least half of the cases reveal some degree
 of discriminating color ability. The norms show good curves?not
 only does the presence of the most rudimentary discrimination increase, but the refinement of the differentiation just as gradually
 develops with age.
+
 Apart from the age at which color matching appears, our research also gives different results from those usually reported as
 to which color is first discriminated. It is usually claimed that red
 is matched before all other colors. Of 20 children who successfully
@@ -916,7 +958,9 @@ and not red, which would seem to show yellow to be the first discriminated color
 blue and green, which, particularly for children under 3 years,
 were readily confused. Purple was often confused with blue or
 even red, and orange with yellow or red.
+
 AUDITO-V0CAL DIGIT MEMORY SPAN
+
 Presentation. The standard procedure was slightly modified
 so as to make the digit material arouse interest and so as to begin
 at a point as familiar as possible to the child. The examiner says,
@@ -927,10 +971,10 @@ then 4, and so on until the upper limit was reached. Care was
 taken that the series of digits never followed the natural order.
 The digits were pronounced at the rate of one per second, without
 rhythm or changing intonation in the voice.
-258 THE PSYCHOLOGICAL CLINIC
 Scoring. The memory span was taken as the highest number,
 of digits that the child reproduced correctly in one of three trials.
 Failure indicated a negative response.
+
 Discussion. Since practically nothing has been reported on
 memory span ability below the three year level, it seemed worth
 while to try and obtain some results for one- and two-year-olds.
@@ -1009,6 +1053,7 @@ Cases
 2
 F
 30
+
 years most children are learning in a limited way to count three
 or four objects, and the test is then much easier to obtain results
 for. Although the percentage of failures for one- and two-year-olds
@@ -1019,6 +1064,7 @@ In some cases when negative results were obtained, the test was repeated later d
 sponses were gotten. Hence we cannot always say which responses
 were due to inability, and which to lack of interest or emotional
 negativism.
+
 It is interesting to find that some children, even in the 3 year
 group, have a 2 digit span. Of 192 two-year-olds, only 3 gave 5 digits, 20 gave 4 digits, while 3 was the mode. Even in the three year
 group, not until 46 months or almost the fourth birthday, do at
@@ -1026,7 +1072,9 @@ least half of the cases give a span of 4 or more.
 If time had permitted, more extensive experimentation should
 have been made, using memory material other than digits, and also
 a simple commission test.
+
 BINET TESTS
+
 Since the Stanford-Binet tests have aroused such universal interest, I am reporting on the responses as obtained in this study,
 Stanford-Binet Results
 Number and Percentage Passing Individual Tests
@@ -1095,10 +1143,10 @@ Passing at 3 yrs.
 11- 5
 9- 4
 6- 3
+
 Specially showing the order of difficulty of the individual tests.
 With a large group of unselected children there are instances where
 Binet results are not a fair index to general ability. The reasons
-260 THE PSYCHOLOGICAL CLINIC
 for this, discussed by previous investigators, were also apparent
 with my group. Because of a foreign language, many children were
 placed at a special disadvantage, probably much more so even than
@@ -1112,6 +1160,7 @@ personally received a positive response. On the other hand, ambitious parents fr
 full name and their sex, so that the Binet question is not a new
 problem, and such children through environmental acceleration may
 Deciles of I. Q.s?Stanford Binet Tests
+
 2 years 3 years
 100%
 90
@@ -1137,18 +1186,19 @@ Negative 62
 Neg. (23) Neg. (15)
 No. of Cases
 150 186
+
 get a much higher I.Q. than their intelligence warrants. Therefore,
 as with all tests for young children, we must remember that any
 individual test may not have good diagnostic value for a certain
 child, still the tendencies revealed by a large group are, it seems to
 me, very worth while knowing.
+
 From a number of the cases which have been restudied the I.Q.
 seems more unstable than we would expect in later years. Two outstanding instances are of boys placed for adoption. One, tested
 while still in an institution, had an I.Q. of 79, while after one year,
 with all the opportunities of an excellent private home, the Binet
 score jumped to 99. Another child within two years had I.Q.'s of
 120, 139, 179, 160. Although some of this fluctuation might have
-MENTAL TESTS FOR PEE-SCHOOL CHILDREN 261
 been partly conditioned by the adjustment to a new foster home,
 it seems that the nature of the test material and the whimsicality
 of the pre-school age better explains it. It is not rare for a child to
@@ -1165,6 +1215,7 @@ the three year group. The only explanation for this seems to be
 that certain of the three year tests, as the table shows, are very
 easy, and for three-year-olds there are no tests at the higher points
 which are equally easy.
+
 It might seem, especially for the three-year-olds, that this
 group was an inferior one since the median I.Q. was only 94. The
 general results from the performance tests did not give at all that
@@ -1172,6 +1223,7 @@ impression. I believe the explanation is the number of foreign
 and social agency children in the study who do not have the stimulation along verbal lines which the upper social classes have, and
 since practically all the tests require language, the I.Q. would naturally be lower.
 Validity of Diagnoses for Pre-School Ages
+
 The question has very frequently been asked, how reliable is a
 diagnosis made on a baby ? One naturally has a right to be cautious
 in accepting at 12 months or even 36 months a statement as to what
@@ -1179,13 +1231,16 @@ scholastic and social success we can expect at 16 years. The only
 proof or reliability is through retests of the same individual. Fortunately, I was able to follow 142 children for periods ranging from
 one to four years, which meant that each case had at least two
 psychological examinations and some had as many as five. The results seem highly gratifying and are as follows:
+
 Results on Retest
+-------------------
+
 First exam, made, Same Rating Higher Rating Lower Rating
 cases, under 24 months ?50 cases or 74%?15 cases or 22%?3 cases or 4%
 j?? cases, from 24 to 36 months?34 cases or 65%?14 cases or 27%?4 cases or 8%
 ^ cases, from 36 to 48 months?20 cases or 90%? 2 cases or 10%?0 cases or 0%
 !42 cases (total) 73% 22% 5%
-262 THE PSYCHOLOGICAL CLINIC
+
 It is important to analyze the cases where the diagnosis varied
 on a retest. I should say in regard to the system of diagnoses used,
 that the children were classified as superior, above average, average,
@@ -1226,6 +1281,7 @@ solely by concrete material. I might say that no child, however, was
 ever diagnosed as average and later fell into a very inferior group.
 The 7 cases whose ratings fell, were from above average to average,
 and from average to dull.
+
 From these 142 retested children it seems therefore that our
 first judgment of a child, even though he be as young as one year,
 if made cautiously by well standardized tests, will in at least 95
@@ -1239,7 +1295,10 @@ which had been formed from the test responses, agreed with the
 opinion of ability held by nursery school teachers, trained nurses,
 and others who had the children under their daily care and observed
 their reactions to habit training, play ability and general adaptations.
+
 Conclusions
+-------------
+
 1. Tests for pre-school children have an important place in the
 field of clinical psychology. The most vital application is in adoption studies, but their worth is also being realized by mental hygiene
 clinics and by pediatricians in medical circles.
@@ -1253,12 +1312,14 @@ competency much more than is the case with older children.
 4. Performance tests make excellent material for the psychological study of small children as they so easily arouse the interest.
 For a complete evaluation of ability, they should, however, be supplemented by language tests. The battery of simple concrete tests
 standardized in this study should be a helpful part of the equipment for studying pre-school ability.
-264 THE PSYCHOLOGICAL CLINIC
 5. One hundred and forty-two cases restudied give a high reliability for the initial diagnosis. When tested later, 73 per cent
 classified in the same group, 22 per cent in a higher group and only
 5 per cent in a lower group. This seems to show that by the careful
 use of standardized mental tests, the risk of adoption can be reduced to a very low degree.
+
 Bibliography
+----------------
+
 Baldwin and Stecker?Psychology of the Pre-School Child?Appleton, 1924.
 Gesell, Arnold?Mental Growth of the Pre-School Child?Macmillan, 1925.
 Humpstone, H. J.?Some Aspects of the Memory Span Test?A Study in
@@ -1266,6 +1327,7 @@ Associalility?Psychological Clinic Press, 1917.
 Kuhlmann, F.?A Handbook of Mental Tests?Warwick & York, 1922.
 Moore, K. C.?The Mental Development of a Child?Psychological Review
 Monograph, 1896.
+
 Preyer, W.?The Senses and the Will?Appleton, 1914.
 Development of the Intellect?Appleton, 1909.
 Shinn, M. W.?Notes on the Development of a Child?U. of Cal. Pub., Education, Vol. 4, July, 1907.
@@ -1274,6 +1336,7 @@ Stutsman, Rachel?Performance Tests for Children of Pre-School Age.?
 Genetic Psychology Monograph, Vol. I, No. 1, Jan. 1926.
 Terman, L. R.?The Measurement of Intelligence?Houghton, Mifflin Co.,
 1916.
+
 Wallin, J. E.?The Peg Formboards?Psychological Clinic, Vol. XII, No.
 2, April 15, 1918.
 Witmer, Lightner?Performance and Success?Psychological Clinic, Vol.
@@ -2776,8 +2839,6 @@ DNC
 64 55 38 39 36 46 38 26
 DNC 101 116 52 54 107 46 33
 97 100 100 100 100 100 100 100
-3
-MENTAL TESTS FOR PRE-SCHOOL CHILDREN 273
 Best Trial of at least 2 Successes
 Age
 1:6
@@ -3002,7 +3063,7 @@ No. of Cases
 41
 30
 32 31 31
-274 THE PSYCHOLOGICAL CLINIC
+
 Wallin Pegboard D
 (492 Cases)
 First Trial
@@ -3658,6 +3719,7 @@ No. of Cases
 30
 33
 37 28 33 29
+
 S?6 Colors Matched (yellow, red, blue, green, orange, purple).
 P?4 Colors Matched (yellow, red, blue, green).
 RY?2 Colors Matched (yellow, red).

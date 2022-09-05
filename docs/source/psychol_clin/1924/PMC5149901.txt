@@ -1,7 +1,7 @@
 The Textile Industry in Philadelphia1
 ======================================
 
-By Elliot Cades, B.S. in Ec.
+:Author: Elliot Cades, B.S. in Ec.
 Assistant in Psychology
 University of Pennsylvania
 CONTENTS
@@ -22,7 +22,9 @@ Advantages and Disadvantages to Boy and Girl Entering this as Compared with Othe
 Part 8
 Summary
 PART 1
+
 HISTORY OF THE TEXTILE INDUSTRY
+
 Textile manufacture is based upon the simple fact that certain
 fibers, if twisted or felted together, will maintain a permanent
 Ullity. Spinning and weaving are the two primary principles of
@@ -32,10 +34,12 @@ is the art of interlacing spun threads to form a fabric, and is the
 m?st highly mechanized portion of the industry. All the fibres
 most suitable for textile manufacture were selected during prehistoric time, the primitive selection of Silk, Wool, Cotton, Flax,
 Jute, Ramie standing unimpaired and unimproved.
+
 *A study prepared for use in vocational guidance in accordance with
 the principles suggested in "Vocational Guidance and Job Analysis, the Psychological Viewpoint" by Morris S. Viteles, appearing in this number of The
 Psychological Clinic.
-204 THE PSYCHOLOGICAL CLINIC
+
+
 There are four methods of fabricating the spun material: 1.
 Weaving, 2. Felting, 3. Knitting, and 4. Netting. Felting, which
 most nearly rivals weaving as the primitive method of cloth production, applies to wool and hair only. During the course of unknown
@@ -43,6 +47,7 @@ ages of weaving, four kinds of fabric have been evolved, these are:
 1. Cloths, 2. Gauzes, 3. Velvets, and 4. Carpets. From these have
 come the four great divisions of the weaving industry and the
 four distinct types of loom.
+
 Paleolithic man had acquired the arts of twisting cords, plaiting and sewing; Neolithic man cultivated flax; during the Later
 Stone Age mankind selected the principal textile fibres and acquired the arts of spinning and weaving.
 The Egyptians were famed for the beauty of their woven stuffs.
@@ -60,6 +65,7 @@ Weavers in 1368, and a Company of Linen Weavers in 1386, etc.
 The silk, linen, and wool industries of England received considerable impetus, when by the Revocation of the Edict of Nantes, in
 1685, 800,000 of the artisan population of France were driven
 from that country.
+
 The latter half of the sixteenth century marked the beginning
 of a long list of textile machinery inventions which at its most
 accelerated tempo resulted in the Industrial Revolution. Hand
@@ -71,7 +77,6 @@ still further dislocations. The weavers who could work so much
 more quickly with this invention found they did not have enough
 yarn to keep them occupied. In turn this situation brought about
 the invention of more spinning devices. In 1761 the Society of
-THE TEXTILE INDUSTRY IN PHILADELPHIA 205
 Arts offered a prize for the best of these machines. The result
 was that James Hargraves invented the Spinning Jenny, and in
 1767 Awkwright invented the Roller Spinning Frame, and the
@@ -87,6 +92,7 @@ o'clock each morning, a custom practiced until 1827. W^ages were
 low and the hours long, work continuing from 5 o'clock in the
 morning until 7 :30 in the evening, or in the summer, from sunrise
 to sunset."
+
 It is a far call from conditions such as those to conditions
 to-day. In the last hundred years most of the improvements upon
 the fundamental English inventions have come from the United
@@ -95,13 +101,17 @@ large scale production. Comprising many trades, employing millions of workers, s
 machinery, and utilizing annually thousands of tons of various
 fibres, both animal and vegetable, textile manufacturing to-day is
 complex, imposing, almost incomprehensible to the human mind.
+
 PART 2
+
 THE IMPORTANCE OF THE INDUSTRY AND ITS
 STATUS IN PHILADELPHIA
+
 "The Textile industry .... leads all other industries in the number
 ?f establishments employing more than 250 hands each."
 In 1914 it employed 1,498,664 wage earners or 21.3% of the
 total reported for all manufacturing industries.
+
 "It leads all industries in the number of plants, the product of which
 has a value of more than $1,000,000. It is second only to the steel and iron
 industry in the amount of capital represented, which is now conservatively
@@ -111,7 +121,8 @@ its products was very close to $7,000,000,000 of which $499,279,939 was exported
 The prosperity and buying power of the managers and workers in the textile
 206 THE PSYCHOLOGICAL CLINIC
 industry is, therefore, important to the prosperity of American industry as a
-whole.''
+whole.
+
 The leading textile city of the United States (and of the
 world) is Philadelphia. In 1919 the value of its production was
 $378,000,000; the closest figure to it being $184,000,000 produced
@@ -132,8 +143,11 @@ and value of product. The knitting trade comes second. These
 mills are generally capitalized at a small figure and represent the
 most competitive and unsystematized branch of the textile industry.
 The dye works and finishing are, of course, subservient to the spinning, knitting and weaving plants.
+
 PART 3
+
 DESCRIPTION OF JOBS
+
 Under the factory system the textile industry has expanded
 enormously. From being a hand industry practiced in the homes
 of the producers, it has become a mechanical industry carried on
@@ -145,12 +159,12 @@ of fabric from one kind of raw material?factories for woolens,
 cotton, silk, linen, and jute. More significant is the fact that many
 great establishments have been organized and are employed for
 the purpose of supplying prepared materials to other branches of
-THE TEXTILE INDUSTRY IN PHILADELPHIA 207
 the textile industry. Wool combing, silk throwing, yarn spinning,
 bleaching and a host of minor industries are merely parts of the
 textile manufacturing processes. Even the weaving factory itself,
 commonly supposed to make a finished commodity, may be nothing
 more than the raw material of a finishing plant.
+
 It is obviously impossible, in a report of this nature, to do
 more than cover one phase of an industry having as many ramifications and specialized processes as the textile. I will, therefore,
 confine my information to a description of the jobs in a particular
@@ -158,6 +172,7 @@ and typical plant which spins cotton yarn and weaves dress goods
 material, shirting, sheeting, underwear material and similar fabrics.
 The jobs described will be found with some variations in every
 plant in the weaving trade.
+
 The operations in the preparation of cotton fibre foi commercial use are dependent upon the quality of the yarn desired
 and the ultimate use to which it is put. Coarser and cheaper yarn
 do not necessarily need the same number of operations or preparatory treatments as the better grade. Thus, the mill receives the
@@ -173,6 +188,7 @@ feed the cotton as evenly as possible. He must prevent the rolls
 from clogging, and he cleans and oils the machine once a week.
 This is a semi-skilled operation from which the operator is usually
 Promoted to the Cards.
+
 2. The Opener is connected with the Bale Breaker and both
 machines constitute the Opening Room. The new Opener is a
 vertically-shaped device with a churning arrangement running
@@ -182,7 +198,7 @@ fibres. The cotton is delivered in a fluffy mass. The operator
 must keep the dust trunk clean, and must especially guard against
 spontaneous combustion. "When necessary he must clean out the
 machine. This is a semi-skilled job.
-208 THE PSYCHOLOGICAL CLINIC
+
 3. The Breaker Lapper is the first of three lapping machines.
 From the Opener the cotton in bulk is placed in a hopper or hold
 which is fed by the cotton clinging to the spike of a lattice. The
@@ -198,6 +214,7 @@ in order to secure the most economical product must be able to
 set the grid-bar in relation to the length of the fibre. There is no
 regular promotion to this job, the time worked at the plant usually
 being the avenue to Breaker Lapping.
+
 4. Four of the cotton laps are then fed to the Intermediate
 Lapper and then to the Finisher Lapper or Picker, or directly
 from the Breaker Lapper to the Finisher Lapper in the case of the
@@ -206,8 +223,10 @@ do practically the same thing: cleaning, evening and delivering one
 lap from four feeds. The product of the Finishing Lapper is
 called a Card Lap. This is designated as weighing a certain number of ounces per yard of a specified width and of a specified
 number of yards, usually forty-two.
+
 The operators on these machines have practically the same tasks
 as those on the Breaker Lapper.
+
 5. The Card Lap is now fed to the Carder, being placed upon
 lap rolls and unwrapped at the same speed as the feed roll. After
 passing through the Card it is delivered in the form of a ropelike strand without twist known as a Sliver, which has its fibres
@@ -220,7 +239,6 @@ be ten or a hnudred. He has an assistant or second hand and
 helpers. The Boss Carder is the only one who can adjust the
 machinery should anything go wrong; the others look on and thus
 gather up information and experience. The helpers must see that
-THE TEXTILE INDUSTRY IN PHILADELPHIA 209
 the machinery does not get clogged up with dust, must watch the
 Web to see that the cotton gets the proper carding action, and that
 the "clothing" is well ground. The helper who comes in without
@@ -228,18 +246,21 @@ experience does menial labor, removing the full cans and bringing
 in others, and sees to it that the lap always goes in and comes out
 Properly. Carding is a skilled job and is hard work because something often goes wrong with the machinery. Promotion to Boss
 Carder depends upon experience and length of service.
+
 The operations described in 2, 3, 4 and 5 are called the cleaning processes, and after these the Sliver is sent through the Combing Room. From this point the proper sequence in processing of
 the Sliver into a manufactured yarn is a matter of opinion. If the
 cotton is to be a combed yarn it is preferable to send it through the
 first Drawing Frame then to the Sliver Lapper, then the Ribbon
 Lapper, then the Comber, and finally through the second and third
 Draw Frame.
+
 6. The Draw Frames are used to even, parallel and arrange
 the fibres in the most suitable manner. It consists of four sets of
 rollers running at accelerated speeds. Thus its effect is aggiegati?n and attenuation, feeding six Slivers and deliveiing one. The
 reason for using the first Draw Frame prior to Combing is to
 Prevent a useless waste which would be caused by that machine if
 fibres were not arranged.
+
 7- and 8. The Sliver Lapper and the Ribbon Lapper and
 Comber are only used in the manufacture of combed yarn. Ihis
 requires cotton of the better grade, strength and staple length.
@@ -257,13 +278,14 @@ due to the parallelzation of fibres of a single length. After the
 combing operation the sliver is sent through the second and third
 ^rawing Frames, which resemble the first Drawing Frame. Then
 the fibre is ready for the Slubber or first Roving Frame.
-210 THE PSYCHOLOGICAL CLINIC
+
 The attendant in the Combing Room must watch the rolls, see
 that the ends are being fed, that the proper weight product is coming off and that the next process is being supplied. This does not
 require close care as the machines are equipped with automatic
 stops and the operators are therefore semi-skilled. However, the
 head of the Combing Room must be a skilled worker and a mechanic
 and able to utilize applied mechanics.
+
 10. All Roving Frames reduce the sliver from a rope-like
 strand into roving, having a definite number of twists per inch.
 The Slubber or Roving Frame may have two sliver ends fed and
@@ -272,6 +294,7 @@ which allows winding to take place at the same rate of speed when
 the bobbin is started as when the bobbin is full. From the Slubber
 to the Spinning Frame there is a gradual reduction of the sliver
 to a Roving which will be used on the Spinning Frame.
+
 11. Spinning may be done in one of two ways: by a Ring
 Spinner or a Mule Spinner. The former, instead of having a
 flyer as in the Roving Frame, has a traveler of a specified weight
@@ -294,12 +317,12 @@ Spooling and Twisting machines are usually located in the Spinning Room.
 12. The Spooler winds the yarn off the bobbin on to the spool.
 When full the spool should be weighed, then fed to the twister
 which feeds two spools of approximately the same weight in order
-THE TEXTILE INDUSTRY IN PHILADELPHIA 211
 to more perfectly twist the yarn. This twisting can make the
 final product perfect or spoil it entirely; too much twist making
 unbalanced yarn, too little twist weakening the final product. The
 winding of twisted yarn on the bobbin is done in precisely the
 same way as on the Spinning Frame.
+
 The operator of a Spooling Machine puts on the new spools,
 beats the skeins straight, puts them on the machine, finds the
 Proper ends of yarn, and starts them winding on the spools, sets the
@@ -307,6 +330,7 @@ guides, regulates the tensions and ties all breaks with the weaver s
 knot. This job requires no experience and is often handled by
 women. It is very much like reeling and promotions are made
 from this job to quilling or weaving.
+
 13. The bobbins from the Twister are placed on a reel and the
 skeins are reeled and the operator on the Reeler puts on the bobbins,
 running the yarn ends through the proper places ready to reel.
@@ -316,6 +340,7 @@ This job is also done by women; the Reeler does not have to keep
 working all the time but must watch her machine, and to get the
 best ^production must do her doffing and lacing as lapidh as
 Possible.
+
 The reeled yarn is then wound and dyed in the Dyeing
 department; or if it is not dyed at this juncture it is dyed in the
 piece" that is as a woven fabric. The Dyeing Department is off
@@ -328,23 +353,26 @@ yarn is dyed it is sent through centrifical driers and then up to be
 spooled. The proportions and combinations of dyes are determined
 by the boss of the dye department from designs submitted by the
 designer.
+
 It is essential for the head of the dye department to be experienced with all the processes of the mill to some extent, but
 especially to have worked for a long time in the dye department.
 This is necessary because even after laboratory tests have been
 made the actually achieved results are not predictable. However, a
 man trained in a technical school can cut short this long road of
 apprenticeship by many years.
-212 THE PSYCHOLOGICAL CLINIC
+
 14. If the yarn is not dyed after twisting it is wound back
 on spools and set up in a creel, the ends passed through a lease
 reed, then through a condensing reed and made into a warp. This
 warp is then beamed, which operation is described in detail in an
 attached job specification.
+
 15. The beamed warp, having been drawn through harness
 according to a pattern, is mounted on a loom and woven. The
 weave desired is determined by harness chains. If more than one
 color is used in filling, the incidence of each in the design is
 governed by the arrangement of the box chain.
+
 The weaving operation is very interesting and is the best
 paying job to the operator in the mill. It is somewhat similar to
 beaming, requires great skill and energy and is very noisy. There
@@ -353,6 +381,7 @@ themselves, a diversity of degrees of skill exists, one measure of
 skill being the ability to operate a number of different kinds of
 looms. The duties of this operation are described in greater detail
 in a job specification.
+
 16. The Designer works in a room off the main production
 floor and away from all detracting noises. He is a very important
 individual in the productive process, and the originality of his
@@ -368,11 +397,11 @@ know all the operations it is almost imperative that he receive
 some technical training if he wants to save a great amount of
 time. A good many of the younger designers to-day are graduates
 of such technical schools.
+
 All of the jobs I have described are standard operations in
 every cotton spinning and weaving mill though great variations
 occur according to differences in quality of yarn used and customary community practices which is a complex composed of such
 elements as the quality of labor employed, the amount of capital
-THE TEXTILE INDUSTRY IN PHILADELPHIA 213
 invested, and the relative modernity or obsolescence of equipment.
 The effectiveness of the factory lay-out is also an important factor,
 and thus intermediate between many of the standard operations
@@ -382,6 +411,7 @@ does not permit a machine to be placed where it naturally belongs
 in the manufacturing process. Where these gaps occur opportunities are often offered to beginners in the trade, who at the same
 time they are working these simple processes, may observe both of
 the standard jobs between which they are placed.
+
 Besides the standard jobs in the fabrication of the yarn and
 cloth and what I have called the minor jobs, there are such others
 as Boss Weaver, Loom Fixer, Mender, Inspector, Doffer, Section
@@ -393,16 +423,20 @@ full spindles and place empty spindles upon the particular kind of
 Machine at which they are working. Inspectors and Doffers are
 located in the plant according to department and machine which
 they are tending.
+
 Detailed descriptions of these jobs and a statement of the
 Qualifications prerequisite to success in each of them are found in
 the job specifications and job psychographs included in this article.
 These are presented for use in vocational guidance in accordance
 \vith the principles suggested by Viteles in Vocational Guidance and
 Job Analysis, the Psychological Viewpoint, appearing in this number of The Psychological Clinic.
+
 Name of Job: Beamer Department: Beaming
 Sex Male. Preferred age from 21 to 40 Age limits from 18 to ....
 Kace and nationality White No. persons on this job about 45
+
 Qualifications :
+
 Educational Physical Mental Special
 ?one ....Height Med Right or L. handed ....Accuracy 5
 Kead X Weight .... Exactness of movem't X Co-Ordination A, B 4
@@ -519,7 +553,7 @@ Take ^ r?^ w*re> heddle and split (of the reed).
 5. Make^0 ex*ra ends, winding them on a ball or on the beam.
 _. e cuts at the proper places, and start the cloth winding on beam
 again.
-216 THE PSYCHOLOGICAL CLINIC
+
 a. Oil and clean machine.
 b. Rip imperfect weaves caused by loose ends getting into the sheds and drop
 wires failing to drop. Then turn back the pattern chain to the right box
@@ -538,6 +572,7 @@ Noisy very Quiet .... Varied ^
 Form Psychograpii
 Name of Job: Weaver
 Department: Weaving
+
 1. Energy.,
 2. Rate of Discharge.
 3. Endurance
@@ -586,10 +621,12 @@ Allied Jobs: Beaming is a bit similar.
 Advantages: Big pay, interesting work. v noisy.
 Disadvantages: Requires great skill and ene gj,
 Remarks:
+
 Name op Job: Qniller Department: Cotton Wimiing
 Sex Female. Preferred age from 18 to 22 Age 'in"^s this j0b 15
 Race and nationality White American born iso. peisons
 Qualifications: ? . ,
+
 Educational Physical Mental Distribution 5
 .... Height (B) Right or L. 1handed -- " ? 5
 Rearl -v ttt ?1,1 F-vnptness of movem t A jrer^ibtt:
@@ -636,8 +673,8 @@ Alertness . ^
 Experience desired?any work with
 Experience required?none
 ers?nality?patience; carefulness
-218 THE PSYCHOLOGICAL CLINIC
 Duties :
+
 1. Twist in the new warp to the old one.
 2. Set the guides right.
 3. Keep the warp straight and see that the ends are running on properly.
@@ -675,6 +712,7 @@ Wet Floor
 Time to Learn and Nature of Training: Helper for 2 weeks, twisting
 in twisting char, etc. can learn in 3 months, may become a fair operator in 6
 months.
+
 Promotion from skein winding sometimes to
 Allied Jobs: Skein winding.
 Advantages: Good pay, clean work.
@@ -694,7 +732,7 @@ Add & Sub. X Endurance .... Observation ^
 Fractions .... Eyesight good
 Experience required?none Experience desired?work with yarn
 Personality?patience; carefulness. /
-THE TEXTILE INDUSTRY IN PHILADELPHIA 219
+
 Duties :
 Put on new spools.
 2. Boat the skeins straight and put them on the machine.
@@ -752,7 +790,7 @@ Dj t ? Fine A Wet
 y,. .... Clean X Dusty
 tandmg x Sitting .... Routine
 1Sy .... Quiet .... Varied
-220 THE PSYCHOLOGICAL CLINIC
+
 Walking X Manual labor .... Illumination good
 Stooping X Clerical .... Ventilation good
 Lifting X Operative X Cement Floor ?Pulling X Mechanical .... Wooden Floor ^
@@ -766,6 +804,7 @@ Promotion from    to quilling or weavingAllied Jobs : Reeling.
 Advantages: Steady work and pay and not heavy.
 Disadvantages: Standing nearly all the time.
 Remarks:
+
 Name of Job: Coner Department: Coning (Mercerizing)
 Sex Female. Preferred age from 17 to 22 Age limits from 15 to ....
 Race and nationality White No. Persons on this job 88
@@ -804,7 +843,7 @@ K
 24. Executive Ability.
 1
 Remarks
-THE TEXTILE INDUSTRY IN PHILADELPHIA 221
+
 Qualifications :
 |d"cational Physical Mental Special
 gg ? ?- Height ....Right or L. handed .... Co-Ordination A 4
@@ -859,7 +898,7 @@ Advantages: Steady work and not very heavy. _ , ? ?
 Disadvantages: Noise of the machines in the room is somewhat trying
 011 nerves.
 Remarks:
-222 THE PSYCHOLOGICAL CLINIC
+
 PART 4
 CONDITIONS OF WORK
 Spinning and weaving mills require large capital, most of
@@ -869,6 +908,7 @@ operator than machine tools. The effect on the type of labor
 required in the industry has been that only those individuals can
 be used who are intelligently self-directed. Textile machine-tending
 is not monotonous, but has a definite routine.
+
 Because most of the mills of the industry operate on a large
 scale, there is little possibility of a worker rising in the ranks and
 acquiring sufficient capital with which to become a mill owner. Or
@@ -876,6 +916,7 @@ if he could acquire the money, there is little possibility that he will
 have acquired a knowledge of all the manifold phases of manufacturing. Younger mill owners, as a body of men, have been
 trained in technical schools outside their own mill, though many
 old-timers have been raised in the business.
+
 All the conditions above mentioned combine to make the mill
 owner, as a class, distinct from the worker, which is a situation
 favorable to the formation of strong Manufacturers' Associations.
@@ -886,13 +927,13 @@ other plants will employ union men '' as long as they do not stir up
 trouble," and a third group resorts to the use of so called "labor
 spies" to weed out the trouble maker. This has led to ill feeling
 and sometimes to rioting.
+
 Among the workers themselves there is nothing like unityOver 800,000 are unorganized workers and a Babel of small independent unions have organized the remaining 100,000 workers.
 Besides the strong opposition of the Manufacturers' Association
 there are other important factors which have retarded unionizationThese are the large number of women and adolescent workers employed, the utilization of newly-arrived immigrants, and the attitude of many old members of the craft union who will not
 organize in trade or industrial unions. Two main union groups
 exist in the industry. They are the United Textile Workers, who
 are amalgamated with the A. F. of L. and the so-called Independent Unions, now loosely joined together in an Association
-THE TEXTILE INDUSTRY IN PHILADELPHIA 223
 known as the Federated Textile Unions of America. Four of these
 Independent Unions" are located in Philadelphia. These aie The
 Tapestry Carpet Weavers, a strong union of skilled workers; the
@@ -900,6 +941,7 @@ Bearners and Twisters, the Turkish Towel Weavers and the Ait
 Square Weavers Union. In addition, the Amalgamated Brussel
 Carpet Association has a good organization consisting of skilled
 Workers.
+
 The most recent points of dispute between the workers and
 the mill owners in the industry has been over hours of work and
 rates of pay. The hours of work customary in the average mills
@@ -908,11 +950,13 @@ hours average between nine and ten. Thus, the discussion is cen
 tered around the establishment of a forty-eight-liour week as
 ?Pposed to the fifty-four-hour week, though in a few cases a more
 ^an fifty-four-hour has been the rule.
+
 An analysis made of the table of wages and employ ment 01
 Third Federal Reserve District reveals the fact that since the
 war the wages received by the various trades grouped under texti e
 Products has been consistently below the average for all the industries included in the survey. The following table makes this
 Point graphic.
+
 Weekly Wage for the Month of
 March Nov. Dec. No.
 1923 1923 1023 Employed
@@ -930,9 +974,9 @@ considered. In the cotton goods group it can be said that upon
 *A11 Industries includes Metal Products, Food Products, Building MaJ^ls, Boots and Shoes, Leather, Chemical and Paints, Cigar and Tobacco,
 p rniture, Musical Instruments, Paper and Pulp, Printing and Publishing,
 t' oleum Refining, Rubber Tires and Goods.
+
 ** The figures for Clothing and Hats, Felt and others, included under the
 extile group under the table issued by the Federal Reserve Bank of Philae Phia have been omitted.
-224 THE PSYCHOLOGICAL CLINIC
 no seasonal fluctuation at all, though the seasonal irregularity of
 employment varies from shop to shop with the efficiency of management in proportioning work and manufacturing alternate lines.
 The majority of the operations in this group require unskilled
@@ -946,7 +990,9 @@ one of the three groups, because the duties in each job vary with
 the amount of specialization, the kind of machinery utilized and
 the system of pay: day rate, piece rate, the task and bonus
 system, etc.
+
 PART 5
+
 OPENINGS FOR BOYS AND GIRLS
 Every boy entering the trade is called a "learner" and he is
 ususally assigned to some manual task as trucking cones or
@@ -959,6 +1005,7 @@ into the cloth making or weaving as distinguished from the winding
 or spinning phase of the trade. Or he may decide to enter the dye
 house which is non-mechanical and distinct from the machine
 processes.
+
 The first job of girls may be as menders, though this is beginning at a high level, or as record keepers, but usually it is as
 members of a doffing crew. Opportunities arise to help out on
 some machines, and finally the learner becomes an operator. It is
@@ -975,6 +1022,7 @@ The only knowledge upon which this trans er? .i ^ and
 worker's "steadiness," his service recor wi ^ Worker is
 Perhaps the additional knowledge that a relative
 in the Dye House and will help him "learn.
+
 PART 6
 training
 TRAINING ^ ^ j^self
@@ -1008,7 +1056,6 @@ night courses. But in its day
 graduates, some high school graduates. training embracing
 This school gives a three-year ?n?e * paration
 the study of all textile raw materials and the,r mitial piep
-226 THE PSYCHOLOGICAL CLINIC
 for fabrics, including spinning, dying, weaving, and finishing of
 cotton, woolen, jute, and silk goods, including also a study of the
 best types of machinery for their production. Naturally, this
@@ -1022,7 +1069,9 @@ sure to depend. Instead of training the student to be a textile
 engineer, the student's progress is measured by his ability to do
 real work, judged by economic as well as technical and artistic
 standards.
+
 PART 7
+
 ADVANTAGES AND DISADVANTAGES TO BOY AND GIRL ENTERING
 THIS AS COMPARED WITH OTHER TRADES
 Advantages :
@@ -1042,7 +1091,9 @@ in many industries which are dangerous to life and limb, involve
 the possibility of industrial disease and which are unorganized and
 offer irregular employment at monotonous jobs and an unequal
 wage.
+
 Disadvantages:
+
 1. Mills in the textile industry require extensive capital and
 there is little possibility of a worker becoming an owner.
 THE TEXTILE INDUSTRY IN PHILADELPHIA 227
@@ -1054,8 +1105,11 @@ ttien trained outside of the industry and such training cannot be
 given to all textile workers. Therefore, a comparatively long
 Period of training is required for the better jobs in the industry.
 Lack of unionization.
+
 PART 8
+
 SUMMARY
+
 1. Spinning and weaving are the two primary principles of
 ^e textile industry. The most important fibre spun is cotton and
 the most important product is cloth. The textile industry has had
@@ -1064,10 +1118,12 @@ industrial Revolution which has continued to the present day.
 2. In the United States the textile industry leads all others
 111 value of its products, and the leading textile city m the United
 States is Philadelphia.
+
 3. To-day the textile industry is highly mechanized and
 specialized, and in the cotton branch has developed a number o
 standard operations a description of which gives some clue to the
 kind of workers required.
+
 4. Spinning and weaving mills require large capital, and
 there are few chances of a worker ever becoming a mill ownci.
 Strong Manufacturers' Associations exist in both the cotton and wool division of the industry. These have consistently
@@ -1080,8 +1136,8 @@ iowever, regularity of employment is the general rule.
 uP?n such factors as satisfaction they give on the job, regularity of
 attendance and length of service, but there are no regular piomotlon avenues.
 8- To the majority of workers, training is upon the job itself.
+
 ?rmal training of a sort is given to foremen. An association of
-228 THE PSYCHOLOGICAL CLINIC
 foremen exists which brings foremen of a different class together in
 discussion groups; some plants have organized foremen training
 courses for their own employees utilizing outside instructors. The
@@ -1094,6 +1150,7 @@ and weaving mill?as opposed to a knitting mill?are regular
 employment at a regular standardized task, the possibility of forging ahead in spite of deficient schooling, the absence of industrial
 disease or hazard, and the interesting nature of most of the
 processes.
+
 10. The disadvantages to a boy or girl are the small possibility
 of ever becoming an employer, the lack of unity and solidarity
 among the workers, the absence of a regular system of training and

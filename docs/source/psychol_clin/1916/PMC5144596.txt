@@ -5,10 +5,9 @@ The Psychological Clinic
 Copyright, 1910, by Lightner Witmer, Editor.
 Vol. X, No. 5
 October 15, 1916
+:Author:  Edward L. Thorndike, Ph. D.,
 
-By Edward L. Thorndike, Ph. D.,
 Teachers College, Columbia University, New York
-i/
 In a study of the intellectual status of the dependent children of
 a certain county, made by Mr. Stenquist, Mr. Trabue, and the author,
 four series of tests were used?the Binet-Simon series as arranged by
@@ -23,6 +22,7 @@ dependent child's actual chronological age were used.
 It is of some theoretical interest, and of great practical importance,
 to measure the correlations between these four measures of superiority or inferiority to the median ordinary child of the same chronological age. I have therefore computed the Pearson coefficients of
 correlation with the following results:
+
 the interrelations of the three tests of intellect involving ability
 WITH WORDS, NUMBERS, AND THE LIKE.
 29 10-year olds.
@@ -58,10 +58,7 @@ Test.
 .92
 .92
 .86
-* Details concerning the tests may be found in "The Intellectual Status of Children Who are Public Charges,
-Archives of Psychology, No. 33, Sept., 1915.
-(121)
-122 THE PSYCHOLOGICAL CLINIC
+
 It is clear that these three series measure much the same complex of abilities and achievements. If the Binet tests measure general
 intellect, so to a high degree must the tests in merely reading a
 passage with understanding. The Binet tests are almost as much
@@ -86,6 +83,7 @@ test). They do not. On the contrary, they show no superiority in
 this respect to the completion test and very little superiority to the
 reading test. The correlations found (Pearson coefficients) are as
 follows:
+
 RELATIONS OF THE BINET, COMPLETION AND READING SCORES TO THE CONSTRUCTION TEST SCORES.
 28 10-year olds.
 11-year olds.
@@ -130,8 +128,8 @@ Construction.
 ? 55|
 .75
 .66
+
 Clearly the Binet test is not an adequate test of intellect in general for even very stupid children of ages 10-14. It tests much the
-SIGNIFICANCE OF BINET-SIMON TESTS. 123
 same ability or complex of abilities as the completion and reading
 tests. This ability or complex of abilities is far from identical with
 the ability measured by the construction test, for example.

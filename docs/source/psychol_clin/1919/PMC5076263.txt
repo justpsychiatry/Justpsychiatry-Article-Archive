@@ -1,8 +1,9 @@
 A Comparison of Test Ratings and College Grades
 ================================================
 
-By Frank H. Reiter, Ph.D.,
+:Author:  Frank H. Reiter, Ph.D.,
 University of Pennsylvania.
+
 For several years the students in Psychology 1, at the University of Pennsylvania have been subjected to a series of tests as a
 part of their regular laboratory work. The results obtained from
 one of these classes have been used for this comparative study of
@@ -20,6 +21,7 @@ booth with only an experimenter and a recorder present. In each of
 these tests three trials were given and the shortest trial was used as
 indicative of formboard and cylinder ability. A stop-watch was
 used to determine the time for each trial.
+
 In presenting the formboard test to the subject for the first
 trial, the blocks arc removed and placed at random into the tray
 attached to the edge opposite the subject. While this is being done
@@ -35,12 +37,11 @@ to their respective recesses as possible, he will be able to perform the
 test more quickly on this trial than on the other two. The arranging
 1 YounR, II. II.: The Witmer Formboard. Psychological Clinic, X, 4 (June, 1916). Pp. 93 to 111.
 J Paschal, F. C.: The Witmer Cylinder Teat. The Hcrshey Press, 1918. Pp. 64.
-(221)
-222 THE PSYCHOLOGICAL CLINIC.
 of the blocks in a definite order before the second trial should be
 enough of a suggestion for an adult to follow on the third trial, even
 if his own resourcefulness to do so might fail him. The third trial
 is, therefore, the most interesting one to observe.
+
 For an adult the formboard is a test of motor-control or accuracy of movement; rapidity of movement, which is dependent upon
 the normal rate of discharge of energy for a particular subject;
 interest; planfulness or resourcefulness, on the third trial. A comparison of the three trials gives some indication of the subject's
@@ -50,6 +51,7 @@ two aspects involved in the performance of a test of this type are,
 nevertheless, related; and a relatively short trial must be qualitatively a good one even if we make an allowance for individual
 differences in reaction time. For 90 per cent of the subjects in this
 study, the third trial is the shortest.
+
 In the Cylinder Test the inserts are all of the same shape but
 vary in size. They are divided into three groups with reference to
 variation in size: first, seven blocks arc of the same height but vary
@@ -60,6 +62,7 @@ inserts and recesses. However, three inserts are represented in each
 group or series, i. ,e., the three series overlap. Thus three of the
 blocks are the last block of one series and the first of the next
 respectively.
+
 The Cylinder Test was placed before the subject. While his
 attention was directed to it he was told the blocks would be removed
 and placed into the receptacle in the center, and that he was to
@@ -75,9 +78,9 @@ the blocks as before and told the subject to replace them once more.
 If the subject failed to replace all of the blocks correctly the trial was
 scored a failure, that is, in this test 100 per cent accuracy is required
 on any particular trial. If any subject failed to replace the blocks
-A COMPARISON OF TEST RATINGS. 223
 correctly in all three trials his performance was considered a failure,
 regardless of the time required for the different trials.
+
 For an adult the Cylinder Test tests: motor-control or accuracy
 of movement; rapidity of movement, interest, analytic concentration and distributive attention, discrimination of small differences in size, ability quickly to anafyze and apprehend a new problem
 or situation, and learning ability, if three trials are given. The
@@ -87,6 +90,7 @@ they do not designate precisely what the psychologist desires to
 know; the fundamental mental capacities tested by a given test.
 Psycho-motor ability is not equally connotative for operations at
 different performance levels.
+
 The other tests employed were memory span and language tests.
 They were given as group tests, i. e., the entire class was tested at
 one and the same time. The material used in the memory span test
@@ -107,6 +111,7 @@ discrete elements or units long enough to reproduce them graphically
 after one oral presentation. In the reproduction of the paragraph
 the subject's ability to apprehend the relation of the ideas and the
 thought as a whole is tested, in addition to retention.
+
 The language test employed is one of the Trabue tests. It consists of a series of sentences with certain words omitted. The
 instructions given to the subjects arc that they are to complete the
 sentences, using words which make the best sense. Trabue has
@@ -114,7 +119,6 @@ published standards which are to be used as a guide in scoring the
 completed sentences. The results for this group of students were
 1 Humpstone, H. J.: Some Aspects of the Memory Span Test, A Study in Associability. Experimental Studies
 in Psychology and Pedagogy, No. 7 (1917). The Psychological Clinic Press, Philadelphia. Pp. 31.
-224 THE PSYCHOLOGICAL CLINIC.
 carefully scored on the basis of Trabue's standards. Five minutes
 are allowed for the completion of this test. Any college student
 should have no difficulty in completing this test in the alloted time,
@@ -128,6 +132,7 @@ poorly chosen and 2 if the selection of words completes the thought
 precisely. Discrimination in slight differences of meaning is what is
 required for a high score. There are eight sentences in the series.
 Sixteen is, therefore, a maximum score.
+
 Before taking up a distribution of the results of these tests I
 wish briefly to indicate the manner in which a student's average
 college grade was obtained. The grades recognized by the office of
@@ -156,7 +161,6 @@ scale was also employed, 5 corresponding to D, 4 to G, 3 to P, 2
 to N and 1 to F. The intervals for groups 5 and 4 are equal; the
 intervals for 3 and 2 are equal but they likewise are twice the magnitude of the intervals of 5 and 4. In this way the college grade
 and test rating for any given student are directly comparable. It
-A COMPARISON OF TEST RATINGS 225
 matters little whether we call our best group the D group or group 5
 as long as the method of distributing the results is consistently adhered to. A student's final rating in the tests was obtained in precisely the same way as his college grade. Each test rating was
 translated into a median percentile value, and the sum of all the
@@ -173,6 +177,7 @@ test ratings of 94 students. Each student's average college grade is
 compared directly with his average test rating. The table shows the
 percentage distribution of test ratings occurring for a given college
 grade.
+
 Test Ratings.
 2.5
 3.0
@@ -203,6 +208,7 @@ of Test Ratings.
 20.2%
 5-3%
 1.0%
+
 The above table shows that the mode for test ratings as a whole
 and for their distribution in each class of college grades is 3.5. Of
 the students having an average college grade of D, 50 per cent have
@@ -215,7 +221,6 @@ ratings are distributed among the 4.5 and 4.0 classes of test ratings
 ?none appear in the 5.0 class. In this group 28 per cent of the
 students have a test rating less than the mode?all appearing in the
 3.0 class. Of the students having an average college grade of P,
-226 THE PSYCHOLOGICAL CLINIC.
 18.2 have test ratings greater than the mode; these ratings all
 appear in the 4.0 class?none appearing in the 4.5 and 5.0 classes.
 In this group 33.4 per cent of the students have a test rating less
@@ -232,6 +237,7 @@ college grade and of the test ratings of individual students shows that
 the less proficient a student is in college work, the less proficiency he
 displays in the tests. The foregoing comparisons are presented in
 the graphs on the following page.
+
 An average test rating is an index of a subject's proficiency.
 The concept proficiency connotes the efficiency in a certain number
 of operations. An operation may be so simple as to arouse few mental
@@ -252,6 +258,7 @@ tests a definite and peculiar value in determining the proficiency of
 an individual. This is especially true of the cylinder test for the
 reason that no subject in three trials will replace the blocks with
 the minimum number of moves required.
+
 The operation in the graphic reproduction of the Binet Paragraph may be considered as being more complex than the operations
 involved in the performance of the formboard and cylinder tests
 because of certain intellectual acquirements necessary. In the
@@ -275,12 +282,12 @@ tg.Z%t48.4%?27.5%. 6.1% t
 5.0 4;5 4.0 3.5 3.0 2.5
 GRAPH 3.
 GRAPH 3.
-228 THE PSYCHOLOGICAL CLINIC.
 portant ability is stimulated. This ability is also brought into play
 by the formboard and cylinder tests. In the language test, however, a specific kind of imagination, the recalling of words, the
 result of a specific kind of training, is called into play. The average
 test rating, therefore, indicates the efficiency exhibited in the performance of certain operations, that is to say, the average test rating is
 a proficiency index.
+
 In the following table and Graph 4 are shown the distribution
 of the college grades, the grades which the students received in
 Psychology 1, and the average test ratings.
@@ -307,6 +314,7 @@ F.
 0.0%
 7.5%
 0.0%
+
 The comparison of college grades and test ratings shows that
 on the whole students displayed greater proficiency in college work
 than in the test. In my opinion this difference between the proficiency indices of the college grades and test ratings can be explained
@@ -316,6 +324,7 @@ of "making up" an exercise if it happens to be unsatisfactory; recitations and q
 the examination at the end of the courcs. This is not true of tests.
 The students in Psychology 1 constituted a selected group composed of sophomores, juniors and seniors. There was only a small
 number of freshmen in the course.
+
 A comparison of the grades in Psychology 1 with the test ratings
 in the D, G and P groups shows that the former more nearly approximate the latter than the college grades. 11.8 per cent of the students
 received N for a grade in Psychology 1, while only 3.2 per cent
@@ -328,7 +337,6 @@ course in Psychology 1 as it is due to extraneous factors. Psychology may not ap
 sufficient interest. A new terminology has to be acquired and old
 concepts revamped. Terms such as sensation, for example, have a
 definite connotation differing from that which the student was wont
-A COMPARISON OF TEST RATINGS. 229
 to apply. In order to acquire these new meanings, and these new
 terms strict application is necessary throughout the greater part of
 the term in Psychology 1. The assignments are of such a character
@@ -343,9 +351,11 @@ percentage of D's and G'sr and the graphs would represent a curve
 skewed toward the D end and not in the opposite direction. With
 two exceptions the limits in the tests are determined by the results
 of the individuals of the group themselves.
+
 If the tests had been used as a criterion to any purpose, all
 students, with two exceptions, having passed the tests would have
 done satisfactory college work.
+
 ^ ? o  _D_
 Coll. Psy. Tests Coll. Pay. Tests Coll. Psy. Tests Coll. Psy. Tests Coll. Psy. Tests
 8.5% 4.4% 1.0% 53.2% 25.8% 25.5% 35.0% 50.5% 70.2% 3.2% 11.8% 3.2% 0.0% 7.5% 0.0%

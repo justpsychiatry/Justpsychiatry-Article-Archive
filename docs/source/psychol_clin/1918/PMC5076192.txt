@@ -2,8 +2,9 @@ Problems of Subnormality
 =========================
 
 REVIEWS AND CRITICISM.
-By J. E. Wallace Wallin. Yonkers: World Book
+:Author:  J. E. Wallace Wallin. Yonkers: World Book
 Co., 1917. Pp. xv ?485.
+
 In his preface Dr Wallin presents four problems as fundamental and
 inviting thorough scientific investigation. They are: first, the development of
 an adequate art of differential diagnosis; second, providing differentiated educational treatment in accordance with the diagnosis; third, the organization of
@@ -19,7 +20,6 @@ point score, or intelligence quotient is used makes no difference. Whether absol
 amount of retardation or relative amount of retardation is used, it all comes to
 the same thing. Neither feeblemindedness nor normal mentality is a unit
 character and the one can no more be determined by a measuring stick than can
-28 THE PSYCHOLOGICAL CLINIC.
 the other. Therefore, Dr Wallin's plea for further and more scientific study of
 the problem of diagnosis is very much to the point. But he devotes much
 space to a fruitless discussion of whether Binet age XII, XI, X or IX is the
@@ -28,6 +28,7 @@ sets forth the need of adequately trained medical and psychological examiners
 for every school system, he should consistently take a stand for analytic diagnosis
 of the nature and extent of the defects of the children examined. How else can the
 problem of differential educational treatment be solved?
+
 The book is written largely from the standpoint of a public school system
 trying to solve the problem of the disposition of children who cannot get on in the
 regular grades. Of what use is a discussion of the number of feebleminded when
@@ -36,6 +37,7 @@ cities have really trained psychologists dealing with the problem, and nearly al
 the data are estimates based on observation or on Binet tests applied by people
 who do not know what they are doing. What difference does it make whether
 there are .5% or 2% when so little provision is made for any?
+
 The latter part of the first chapter (page 104 ff) is a good statement of the
 need and the functions of a psychologist and a physician in every school system.
 He says, "Since a psychological clinic in a public school system exists for the
@@ -51,6 +53,7 @@ medical supervision. The medical and psychological work should be coordinated,
 but not by making one subordinate to the other. The superintendent should be
 able and willing to rely for diagnoses and recommendations upon the head of the
 psychological clinic.
+
 Suppose there were an ideal psycho-educational clinic and medical cooperation, what good would it do when there are no classes or institutions to put the
 children in? Logically, is not the basic problem the one relating to provisions
 for differential educational treatment? This problem is well treated in chapter
@@ -69,7 +72,6 @@ children. All of these and more are provided for in Dr Cornman's proposed
 scheme quoted by the author, but some of them are not differentiated either in
 the scheme or in actual practice in the schools. The reasons for the unsatisfactory conditions in the great majority of cities are, doubtless, the ignorance of the
 supervising force and the penuriousness of the appropriating body. Lack of
-NEWS AND COMMENT. 29
 money and the wasteful expenditure of available funds keep conditions bad,
 even in systems where the department of superintendence is informed and willing
 to make the differentiation. The schools must take the burden because the state
@@ -77,6 +79,7 @@ does not, and apparently will not, provide adequate accommodations for all its
 feebleminded dependents. This subject is treated in chapter six which contains
 a report with recommendations submitted to the legislature of the State of
 Missouri in 1917.
+
 The problem of prevention is the hardest to solve. The data as yet are not
 available. It is hard enough to get at the etiology in individual cases, and anything like a generalization or even a classification of causes is out of the question
 for the present. Various hypotheses need careful investigation and above all

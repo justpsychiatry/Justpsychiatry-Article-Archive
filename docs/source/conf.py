@@ -13,7 +13,7 @@ import sphinxcontrib.apa
 # -- Project information -----------------------------------------------------
 
 project = 'Justpsychiatry Article Archive'
-Copyright = '2022, Justpsychiatry'
+Copyright = "2022"
 author = 'Justpsychiatry'
 
 
@@ -136,7 +136,12 @@ rst_prolog= """
 
 rst_epilog= """
 
-
+.. meta::
+   :keywords: reStructuredText, demonstration, demo, parser
+   :description lang=en: A demonstration of the reStructuredText
+   :author: Justpsychiatry,
+   :date: 
+   
 .. admonition:: Copyright Notice
  
     The historical material in this project falls into one of three categories for clearances and permissions:

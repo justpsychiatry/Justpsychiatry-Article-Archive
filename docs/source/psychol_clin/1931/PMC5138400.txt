@@ -5,13 +5,15 @@ The Psychological Clinic
 Copyright, 1931, by Lightner Witmer, Editor
 Vol. XX, No. 6 November, 1931
 
-By Arthur Phillips, Ph.D.
+:Author: Arthur Phillips, Ph.D.
+
 Formerly Executive Officer, Psychological Clinic, University of Pennsylvania
 I. Robert, a Case of Aprosexia
 Robert, aged nine years and five months, was brought to the
 Psychological Clinic of the University of Pennsylvania because of
 poor reading and spelling and was examined by Dr Murphy in
 June, 1929.
+
 He is the oldest of three children. His father is a physician,
 busy and prosperous, in a suburban town. The home background
 is one of culture and economic stability. The family is socially
@@ -23,6 +25,7 @@ tonsils and adenoids were removed. He has suffered from abscesses
 in his ears since he was six months old and at five years had a
 mastoid operation. He was again threatened with mastoid trouble
 in the summer of 1929.
+
 His school life began at five and a half years when he entered
 the first grade. He repeated the second grade and at the time of
 his examination he was in the third grade. His work was very
@@ -32,8 +35,7 @@ Quotient of 112. His Basal Age was nine. He passed all tests
 at the ten-year level except the vocabulary where his score was 28.
 At the twelve-year level he passed the ball and field (superior
 plan), fables, and picture interpretation. His memory span was:
-161
-162 THE PSYCHOLOGICAL CLINIC
+
 auditory, 5; visual, 6; reverse, 4. His work on the performance
 tests?the Witmer formboard and cylinders, the Dearborn formboard?was superior to fifty per cent of ten-year old boys. His
 performance on the Dearborn was slightly better than his performance on the cylinders. The tester remarked that he made a
@@ -43,6 +45,7 @@ Dr Murphy diagnosed him as of normal mentality with competency superior to seven
 The recommendations were: (1) That he be promoted to the
 fourth grade; (2) That he have an eye examination; (3) That he
 have clinic teaching in the fall of 1929.
+
 On November 18, 1929, Robert reported for clinic teaching and
 has received thirty-four hours of clinic instruction. In neither
 reading nor spelling did he have good 2B proficiency when he first
@@ -66,7 +69,7 @@ was made in the development of the fundamental concepts of reading and spelling 
 needed much drill in phonics and word analysis if his reading and
 spelling were to improve sufficiently to allow him to succeed in the
 higher grades.
-CASE STUDIES IN DIAGNOSTIC EDUCATION 163
+
 The greatest difficulty experienced with Robert was due to his
 lack of motivation. He scored low on effort. His persistence was
 poor; it was difficult to keep him continually at his task. He gave
@@ -76,6 +79,7 @@ disciplinary aspects of the case, under a teacher who would show
 decided firmness. His teacher gave Robert at the beginning of
 the semester in February, 1930, a 3A proficiency test in spelling
 and reading. He was now in the fourth grade.
+
 Types of errors which Robert made in reading were characterized by his teacher as follows: (1) Careless errors: these accounted
 for at least a third of his poor reading: A few typical ones were:
 reading '' through'' for '' thought," '' build'' for '' built," " know''
@@ -103,7 +107,6 @@ not recognize at sight by spelling aloud he could readily pronounce.
 He is the type of child who has difficulty in learning to read by the
 word and sentence method. With his good imaginal endowment
 in the kinaesthetic and auditory field and with the substitution of
-164 THE PSYCHOLOGICAL CLINIC
 reading aloud for silent reading and phonic analysis for the context
 method, there is no reason why from the intellectual standpoint
 Robert should not make rapid progress in learning to read.
@@ -138,7 +141,6 @@ away with behavior that would not be tolerated in other children.
 His mother, apparently, considers his flippancy a mark of superiority. Neither at home nor at school has obedience been exacted.
 When the mother was asked if Robert had any specific tasks
 to do around home she replied, "Yes, he has certain chores to
-CASE STUDIES IN DIAGNOSTIC EDUCATION 165
 do on Saturday and they are usually completed." But, recently
 when she made an investigation of the progress of the work assigned for a certain day she found Robert leisurely sitting by and
 watching his companions doing his assigned task. A mark of intelligence, perhaps, but certainly more distinctly a mark of a boy
@@ -150,6 +152,7 @@ log while his companions sawed his wood for him. Only, in this
 case there was no one to saw the wood. He is a case of aprosexia.
 He has learned inattention; he has been taught it by his parents
 and teachers.
+
 Robert's ambition is to follow in the footsteps of his father
 and become a physician. He has native ability sufficient, as proved
 by our tests, to carry him through high school and college, but despite an adequate I.Q. and co-discernment span, despite intelligence,
@@ -169,7 +172,7 @@ is to escape learning to read. So far Robert has been successful.
 The recommendation is that this boy be transferred from the public school system in a community where his family is influential
 to a private school where he will be under strict discipline and
 one of a group, instead of an exception.
-166 THE PSYCHOLOGICAL CLINIC
+
 II. Precocity and Infantilism in a Polyglandular Case
 Jacob was seven years and seven months old when he was first
 examined by Dr Lightner Witmer at the Psychological Clinic,
@@ -197,11 +200,11 @@ inferior to his first, his time actually increasing. This may have
 been due to boredom, as the problems presented were scarcely intelligence tests to him. Or it may have been due to a lack of efficiency or of a willingness and desire to be made efficient. On the
 Dearborn Formboard No. lc, there was a challenge to Jacob's intelligence. He met it, obtaining a score on first and second trials
 superior to fifty per cent of ten-year-old boys. He lessened his
-CASE STUDIES IN DIAGNOSTIC EDUCATION 167
 time on second trial, though not sufficiently to improve his rating,
 indicating, perhaps, a lowered efficiency. His approach to this test
 was analytical. He made few false moves, and showed excellent
 ability to reason in manipulating concrete material.
+
 Given the school proficiency tests, Jacob proved to have almost
 3A proficiency in spelling and arithmetic. In these subjects, his
 school record for the term was unsatisfactory. He could read all
@@ -209,10 +212,12 @@ the words in the fourth reader, but skipped lines due to his defective vision. I
 his score was average in spelling, above average in reading, and
 superior in arithmetic. The tests in the clinic and at school, therefore, demonstrated a competency to do the work in which he was
 failing.
+
 Despite a superior I.Q. and a demonstrated competency in both
 the verbal and non-verbal tests, he was presenting a picture of failure to achieve even satisfactory school standing for his grade. A
 study of environmental, physical and emotional factors is demanded
 to cast light upon the situation.
+
 Jacob is the second child of a prosperous merchant in a suburban town. His social and economic background is good. His
 sister, about two years older than he, does excellent work in school,
 and always stands at or near the head of her class. The parents
@@ -224,6 +229,7 @@ until he was two years old?a fact that his mother attributes to his
 excessive weight. The child had bronchitis, chicken-pox, tonsillitis,
 measles and mumps between his third and fifth year. At three and
 one half years, his tonsils were removed.
+
 The three most noticeable physical characteristics of the boy are
 his excessive blondness, adiposity, and defective eyesight. In
 height, he was at the median for twelve years; in weight, at the
@@ -233,7 +239,6 @@ his parents until after the tonsillectomy was performed. A brief
 acquaintance with Jacob reveals his excessive nervousness. He is
 in constant motion, never relaxed or still. He chews his fingers,
 makes grimaces, shifts his position, twitches in some way. The
-168 THE PSYCHOLOGICAL CLINIC
 parents report that he has night terrors. During his clinical examination, he rose from his chair time and again, and walked about
 the room as though unable to remain seated. An oculist whom the
 family consulted attributed the nervousness to his eye defect and
@@ -247,6 +252,7 @@ coordinated physical examination be made at the Graduate Hospital of the Univers
 and lack of binocular vision. It was further advised that an attempt be made to have Jacob excused from school temporarily so
 that every effort could be concentrated on improving his physical
 condition.
+
 A report from the optometrist under whose care the boy had
 been was secured by the Social Worker of the Clinic. This report
 stated: 11 The left eye converges and is amblyopic, which was caused
@@ -254,6 +260,7 @@ by non-use. The nystagmus is much less than when I first saw him.
 Both eyes are highly hyperopic with hyperopic astigmatism." It
 was his judgment that with his present prescription, Jacob was
 able to continue with his regular class room work.
+
 The report of the pediatrician follows: "He has a pluriglandular disturbance. His hypothyroidism does not seem very marked.
 His basal metabolism is minus 19. The X-ray report is negative.
 Other ailments present are intestinal indigestion, obesity, pavor
@@ -261,13 +268,14 @@ nocturnus, undescended testicle and strabismus. His blood chemistry is normal, b
 It was later reported that Wassermann was negative. Corrective
 treatment was prescribed, a modified diet and endocrine therapy
 being indicated.
+
 The superintendent of schools cooperated readily with the suggestion that the boy be removed from school activity temporarily.
 No educational treatment was given Jacob until February, when
 he was admitted to the Clinic Teaching Department of the Psychological Clinic for observation and instruction.
-CASE STUDIES IN DIAGNOSTIC EDUCATION 169
 Clinic Teaching began February 27, 1929, and continued to the
 end of the semester. Jacob received a total of sixteen hours of
 teaching, in two one-hour periods per week.
+
 The observational data accumulated during the period of clinic
 teaching present the picture of a boy, hyperactive, vivacious,
 loquacious, who was unable to direct his energy into productive
@@ -295,6 +303,7 @@ times three is,?'' Three and three are six, six and six are twelve.''
 No explanation of the inefficiency of his own method and the effectiveness of knowing the multiplication tables availed until Jacob
 discovered for himself that such knowledge was helpful in learning
 a new subject, division.
+
 He had also good periods, when concentration seemed to be no
 difficulty for him. This was usually in the reading period. Jacob
 had very little difficulty with reading. He knew how to use the
@@ -302,9 +311,9 @@ context clues, and was familiar with the mechanical reading skills.
 He knew the method of analyzing a word into its parts, associating
 the proper sounds with the letters, and synthesizing the sounds to
 make the word. The accent might be displaced but the syllables
-170 THE PSYCHOLOGICAL CLINIC
 were correctly sounded. He had good comprehension for what he
 read, and read for content.
+
 His oral reading was, however, unintelligible. Only Jacob
 knew what he was reading. He was so eager to get on with the
 story that he mumbled half the words, his voice dying down to a
@@ -317,6 +326,7 @@ progress. At the end of the semester, he read clearly, with enthusiasm and expre
 character speaking in the story, frequently adding comments of
 his own. He had learned to read for the edification of a listener,
 and had acquired better breathing habits.
+
 In order to improve his writing, he was asked to keep a diary.
 The requirements were very simple; day and date, and three or
 four sentences recording daily occurrences. The results were highly
@@ -337,7 +347,6 @@ complex, he was found to be distinctly superior. His intelligence
 in the sense of his ability to solve what for him is a new problem,
 as shown in the psychometric and academic tests, must be rated
 high. He is alert and quick in grasping new material, and has a
-CASE STUDIES IN DIAGNOSTIC EDUCATION 171
 penchant for the novel. On the other hand, he resists mechanization. His efficiency is greatly lowered by this resistance as well
 as by his lack of persistent concentration of attention and his
 tendency to waste time and energy in purposeless activities. His
@@ -348,6 +357,7 @@ needs constant supervision and abundant encouragement to secure
 results that are adequate. Left alone, he is unproductive. His
 inefficiency and lack of determination are further complicated by
 fatigue. He is deficient in energy.
+
 On January 31, 1931, Jacob returned to the Psychological Clinic
 for retesting. Two years and two months had elapsed since the
 first examination. On the Binet-Simon test, he obtained an I.Q.
@@ -357,6 +367,7 @@ had increased from a score of 34 to 58, giving him eight points
 beyond the requirement for the fourteen year level. His memory
 span, audito-vocal, had increased from 5 to 7; his visual from 7 to
 8, and his reverse from 4 to 5.
+
 His time on every trial of three formboard tests, Witmer Formboard, Witmer Cylinders, Dearborn Formboard, showed a reduction, with an average reduction of 40 per cent. The qualitative
 changes in his performance are more significant. On the Witmer
 Formboard he showed an excellent competitive spirit, improving
@@ -375,11 +386,11 @@ trial, he cut his time for the first trial in half. Healy Completion
 II, which is presumed to test "general adaptive capacity," was
 given. He obtained a score of 53, one point under the norm for
 the eleventh year. He was left alone in the examining room for
-172 THE PSYCHOLOGICAL CLINIC
 twenty minutes during the giving of this test to see how he worked
 without supervision. At the end of the period, the test was completed. This indicates a marked change in the boy, and the presence of a quality totally lacking two years previously. He can now
 work without supervision, direct his energy purposively, carry
 through a project to completion.
+
 The picture which Jacob presented after two years shows some
 very significant changes. During the two-hour examination he
 showed no overt signs of fatigue. Distractibility was noticeably
@@ -391,6 +402,7 @@ test. His efficiency in production had increased, partly as a result
 of the elimination of useless motions, and partly as a result of the
 appearance of a surpassing motivation, a desire to do better than
 he had done.
+
 A conversation with his mother brought out the fact that his
 sense of inferiority based probably on his organic inadequacy was
 being compensated for by self-assertion and independence of judgment. He feels that his judgment is right, argues for it, and with
@@ -402,13 +414,13 @@ he had earned a "mark of one hundred three times in succession,
 and was the champion of his class.'' It was his way of announcing
 that the old order had passed away and that he was coming into
 his own.
+
 In his social relations, Jacob's problem has not approached solution. His appearance is against him as well as his manners. In
 height he is now superior to the median at fourteen, having grown
 five inches in two years; in weight, superior to the median at sixteen,
 a gain of 27.5 pounds, and 24.9 pounds overweight for his height, as
 against 16.5 pounds in November, 1928. He suggests the fat pituitary type. There is excess distribution of fat about the hips. The
 general trend of his makeup and manners is towards feminancy.
-CASE STUDIES IN DIAGNOSTIC EDUCATION 173
 His almost white hair, and defective vision make him fair sport of
 youths his own age. He refuses to associate with them on equal
 terms, and prefers younger children whom he can dominate. With
@@ -421,6 +433,7 @@ to reading, drawing, making airships with boards and blocks and
 other material. The range of his moods is beyond normal. He
 has days when everything goes wrong, and nothing is right; days
 when he is better balanced, more equable.
+
 Jacob returned to school in November, 1929. He entered the
 third grade and is now in the fourth grade. His marks are now all
 "Excellent" and "Good." There is no complaint on the score of
@@ -432,10 +445,12 @@ style, written with his left hand in small letters. In the finer
 coordinations necessary in handwriting, he is wanting. At present,
 he is not a school problem, the trouble that brought him originally
 to the Clinic having been removed.
+
 The boy remains a medical and social problem. What the future may hold for him depends on the success of glandular and
 other therapeutic measures, and upon his ability to adjust himself to the demands of his social environment. The level at which
 he will function will depend on these factors as much as upon his
 superior intelligence and intellect.
+
 III. The Educational Treatment op a Handicapped Child
 Walking on his toes with a festinating gait, his arms from
 shoulder to elbow held close to his body, his forearms bent forward
@@ -443,7 +458,6 @@ in Simian fashion, each step taken seeming to indicate that the frail
 body would be plunged to the ground, a boy of five years and
 seven months entered the Speech Clinic of the University of Pennsylvania, May 25, 1928. He had been referred to Dr E. B. Twitmyer by a physician, who had had the boy under observation since
 he was eighteen months old. At that time, he was markedly undernourished and carried very definite stigmata of rickets. He was
-174 THE PSYCHOLOGICAL CLINIC
 unable to sit erect. The birth history was not very definite, but
 there was evidence of early paralysis, and probable birth trauma.
 His speech was unintelligible to strangers. Tonsils and adenoids
@@ -469,6 +483,7 @@ and relatively happy member of society. It was recommended
 that he should spend as much time as possible during the summer
 in the open air, and should return to the Clinic in the fall for speech
 and academic training.
+
 Lester began his speech and academic training in the Psychological Clinic, October 10, 1928, and during the academic year received thirty-seven hours of training. Owing to the condition of
 his health his attendance Avas irregular. Forty per cent of the
 time he was absent. Approximately half of the teaching period
@@ -489,6 +504,7 @@ sight, was the total reading result for the year. The speech exercises involved 
 mastered. Excellent cooperation in home practice was furnished
 by the mother, and marked progress was made toward articulate
 speech.
+
 It was Lester's privilege this year to spend an extra hour each
 day he came to the Clinic with the pre-school group of superior
 children in their hour of games and handwork. This provided a
@@ -509,7 +525,7 @@ what they say but I do." No sense of inferiority lay behind this
 remark, but rather the reverse. If he was aware of his defects,
 he was aware also of his ability. Singularly well-balanced was the
 personality of this handicapped boy.
-176 THE PSYCHOLOGICAL CLINIC
+
 His general intelligence was revealed also in his comprehension
 of life situations and practical affairs. A boy who could not use
 hands or feet efficiently, he was able to describe accurately the
@@ -517,6 +533,7 @@ movements that one makes in driving an automobile. His comprehension with all th
 in all situations where a six-year-old child of superior intelligence
 may be presumed to take interest. He was a fine bit of mechanism with a very specific damage to the neural background involving hands, legs, tongue. Beyond this, his mentality was normal,
 surely above average.
+
 Lester was making such progress in his speech without overtaxing his strength, that Dr Twitmyer advised the mother not to
 enter him in public school in the fall of 1929, but to bring him
 back to the Clinic for another year. October of that year found
@@ -528,6 +545,7 @@ the mechanical operations and problems; in addition and subtraction, his profici
 take up 3B work in the public schools, being only one semester behind grade. In reading he had attained only 1A proficiency; in
 spelling IB. Three semesters' work had been covered in arithmetic;
 but one in reading.
+
 The relation between seen, heard and spoken language in the
 case of this boy became a subject of study. Hard c and g, k, q, v,
 f, the sibilants s, z, sh, ch, th were the most difficult consonants for
@@ -543,12 +561,12 @@ relation to the reading problem. Syllables were used comparable
 in some respects to the Ebbinghaus nonsense syllables containing
 the difficult consonants and practice carried on both in the clinic
 and at home. Care was taken in the choice of syllables to obtain
-CASE STUDIES IN DIAGNOSTIC EDUCATION 177
 those that could be used later in the reading situation. It was drill
 work in phonic analysis as well as training in speech. Lester acquired the habit of attacking a word by syllables, patiently striving for the correct position of the tongue in utterance. Correct
 articulation and a fundamental reading skill, the ability to sense
 the component letter and sound parts of a word, were developed
 simultaneously.
+
 Lester's difficulty appeared to be that while he had a correct
 auditory image of the word, e.g., kind, and understood its meaning,
 his kinaesthetic imagery was faulty, for he had never been able to
@@ -562,6 +580,7 @@ it, he would not understand and would say, "1 do not know."
 This was tried on the lad again and again where there was not the
 slightest suspicion apparently that you were trying to trick him
 or make sport of him.
+
 It became apparent in the first year that the boy could not be
 taught to read by relying upon his visual imagery even in the case
 of words that he was capable of pronouncing. Drill by means of
@@ -579,7 +598,7 @@ involving the posterior part of the tongue and palate, are in conflict. The diff
 and has lessened his motivation for reading. The method adopted
 which combined corrective speech work and the development of
 reading skills seems to hold promise for the future.
-178 THE PSYCHOLOGICAL CLINIC
+
 The problem of correct walking was also approached. Appropriate exercises were prescribed and a part of each play-hour devoted to practice in stamping out old habits that persisted since
 the early years of his life, and in developing correct habits.
 Marked improvement was noted in a short time. There is but a
@@ -588,11 +607,14 @@ provoked strangers to catch him lest he fall forward on his face,
 in his present gait, which is by no means perfect, but is always
 much better when his attention is called and he is summoned to
 do his best.
+
 From October, 1930, to the following June, Lester studied under
 a private tutor, coming to the Psychological Clinic once a day for
 speech training. With his superior intelligence, good social adjustment, excellent reasoning ability and the evidence of improvement in his speech, there is every reason to conclude that Dr Twitmyer's prognosis that Lester will become a good and useful citizen
 has been justified.
+
 IV. From Mental Deficiency to Normality
+
 From mental deficiency to normality condenses the story of a
 child who has been under the professional care and guidance of
 Dr E. B. Twitmyer at the Psychological Clinic. This child
@@ -612,14 +634,15 @@ the little girl before they could translate her speech into language
 for the benefit of those who asked, "What is she saying?" It
 seemed another child who stood up before a large audience at the
 Speech Clinic Demonstration, March, 1931, and recited a poem
-CASE STUDIES IN DIAGNOSTIC EDUCATION 179
 clearly and distinctly so that it was heard and understood by all
 her auditors.
+
 Significant as was the cleft palate, it was but a part of the picture. The bulging, glassy eyes, restricted vision, constant necessity, due to myopia, for bending over to see things, told the story
 of a second congenital defect?glaucoma. Expert optical attention
 was required and supplied: glasses were provided and from time
 to time changed. The future of our little girl, her social competency, would seem to hang at present upon the issue of this eye
 condition which is almost as obscure as its etiology.
+
 Add to these, another condition?glandular dystrophy. She had
 a bad start in life. In addition to her congenital defects, there was
 the difficulty of adjusting a defective organism to extra-uterine
@@ -631,6 +654,7 @@ but attractive. A large head suggested hydrocephaly, which judgment was afterwar
 with a malformed bridge nestled between exophthalmic orbs. Her
 posture was bad, her shoulders stooped. The frail organism failed
 to produce enough energy for normal child life.
+
 Congenital cleft palate, congenital glaucoma, congenital glandular dystrophy?was it any wonder that she came to the Psychological Clinic from a hospital with the diagnosis of congenital mental
 deficiency? Without normal speech, sight, glandular functioning,
 physical growth, or mental development there appeared small hope
@@ -646,7 +670,6 @@ without charm. She was a great conversationalist, dramatic in
 her recital of events and incidents that interested her. What she
 was narrating was a mystery to the hearers, but there was no mistaking the interest, enthusiasm, and, perhaps, intelligence of the
 child. At. the conclusion of her speech examination, she was admitted to the speech training class of the Clinic.
-180 TEE PSYCEOLOG1CAL CLINIC
 Her teacher, a student in. Dr Twitmyer's course in Orthogenics,
 noted temperament traits which were to make the task of speech
 training exceedingly difficult. She was highly distractible and
@@ -660,12 +683,14 @@ she be admitted to the Clinic Teaching Department of the Psychological Clinic fo
 on the Binet-Simon scale was 88. Her chronological age was five
 years and ten months; her mental age, five years and two months.
 Her memory span, audito-vocal was 5.
+
 Jane attended the clinic for instruction from March to June,
 but only very irregularly. Her teacher found her a problem both
 in attention and retention. She learned slowly and retained but
 little. Her achievements at the end of the semester may be summed
 up as follows: she knew the alphabet, was able to spell ten threesyllable words and four four-syllable words, to count and to write
 numbers up to twelve.
+
 In May, at Dr Twitmyer's recommendation, she was examined
 at the Pediatric and the Nose and Throat Clinics of the Graduate
 Hospital. The report of the Pediatric Clinic follows: "X-ray of
@@ -673,6 +698,7 @@ the skull: Sella Turcica within normal limits as to size and contour. Clinoid pr
 contour of skull with rarified thinning appearance indicates moderate hydrocephalic tendency. Wasserman?negative." The report of the Nose and Throat Clinic was hypertrophied tonsils and
 adenoids. Tonsils and adenoids were removed in the summer of
 1928. Her eyes were refracted and glasses provided.
+
 During the college year, October, 1928, to June, 1929, Jane received fifty hours of clinic teaching; during the year, October, 1929,
 to October, 1930, one hundred fourteen hours in academic subjects.
 For the major part of the time she had the privilege of attending
@@ -680,12 +706,12 @@ the recreation hour of the pre-school group of superior children.
 Association with this group was invaluable as a socializing agency
 for Jane, as all her contacts had been with adults. She had never
 played with children. The shy, timid Jane, two years undersize
-CASE STUDIES IN DIAGNOSTIC EDUCATION 181
 and underweight, with her stooping shoulders, bad posture, bulging eyes, nasal voice, and awkward movements, was in striking
 contrast to the members of the pre-school group with their alert
 minds, active bodies, independent and original ways. The ego-centricity of child nature saved her from self-consciousness, but as she
 grew older, there were moments when it appeared that she realized
 that "she did not belong."
+
 The reports of her teachers from October, 1928, to January,
 1929, show that the main task of the year was to teach this child
 to attend. Her attention, as was to be expected, was in inverse relation to her fatigue. The frail organism did not manufacture
@@ -696,6 +722,7 @@ indifferent but hostile. She yawned, fidgeted, twisted her dress,
 turned her body in a tortuous fashion. Streams of conversation
 poured forth at most unexpected moments. This was her favorite
 method of '' stalling.''
+
 The word and object method was employed without result in
 teaching reading. The analytical method was then tried. Jane
 proved to have poor visual discrimination of letters, especially
@@ -714,7 +741,6 @@ control. She became in a measure habituated to classroom instruction. She had le
 On January 28, 1929, her I.Q. was 88. Her chronological age
 was six years, eight months; her mental age, five years, ten months.
 As far as the abilities tested by this scale are concerned, Jane had
-182 THE PSYCHOLOGICAL CLINIC
 suffered no loss during the year. She was holding her own. Her
 memory span remained unchanged?5. She had learned to read
 numbers, and her visual span was equal to her audito-vocal. She
@@ -729,6 +755,7 @@ in the use of methods for evading tasks she did not like; what
 intelligence she displayed was manifested in this direction. However, with the sense of achievement, and the gradual awakening of
 the perception of relations, she found satisfaction and acquired
 some pride in her new-found power to do.
+
 Her speech showed considerable improvement. Her new glasses
 were proving much better than the ones originally provided. She
 did not stoop so low over her reading. The prognosis for future
@@ -743,7 +770,6 @@ points. Her memory span was audito-vocal, 6; reverse, 3. In
 height and weight, she was superior to the mean at seven years.
 Since the removal of her tonsils, her physical condition had steadily improved.
 At the end of the semester, Dr Twitmyer advised entering her
-CASE STUDIES IN DIAGNOSTIC EDUCATION 183
 in the public schools. Owing to the difficulty Jane had in making
 adjustments to new situations, her peculiar tempermental traits,
 her physical handicaps, it was thought advisable to recommend

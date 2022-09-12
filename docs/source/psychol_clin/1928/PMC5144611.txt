@@ -1,7 +1,8 @@
 Results of Examination of 91 at a State Institution
 ====================================================
 
-By Margaret C. Brooke, M.A.
+:Author: Margaret C. Brooke, M.A.
+
 Child Study Department, Rochester, New York
 In 1925, a request came to the Univ. of Penn. Psychological
 Clinic for someone to do psychometric work at a state school
@@ -11,7 +12,10 @@ certain times weekly. As a result, ninety-one girls were tested,
 ranging from nine years, five months, to eighteen years, eleven
 months. The comparison of the ninety-one scores with the seven
 hundred seventy-eight girls tested by this Clinic at the "fifteenyear level" is very interesting and significant.
+
 Environmental Factors
+-----------------------
+
 The girls in this group are placed in the institution by civil
 authorities- throughout the state, and their placement generally
 means a two-year program there. They are neither kept nor accepted after twenty-one years of age. The cottage plan is used and
@@ -21,16 +25,19 @@ but one never sees them. To the casual observer, these girls apparently have unl
 of almost everything which savored of group disciplinary life
 usually apparent in institutions. Individualism was allowed even
 in dress, with no semblance of regulation uniform.
+
 At the time this group was tested, school was not in session;
 consequently the grade proficiency was listed as given by the girl
 prior to her placement. Most of the girls had never been in school
 at the institution. In almost no instance did the intellectual level
 correlate with the grade given?the retardation ranging from two
 to five or six years.
+
 The emotional make-up of this colony was especially wholesome
 ?laughter and singing seemed spontaneous, with a normal tendency to chastise and "kid."
-EXAMINATION AT STATE INSTITUTION 23
+
 CULTURAL STATUS
+
 The cultural status was not so easily recognized, due perhaps to the heterogeneous mixture of human beings. The cottage
 life was a great stimulus. Furniture and decorations were in excellent taste?entirely in keeping with the surroundings. Everything was immaculate, and every girl, to all appearances, was
 keenly interested in keeping it so. The living rooms were livable,
@@ -48,7 +55,9 @@ were on the scene. Personally, the examiner was converted at the
 time of her first contact?and is now a loyal and sympathetic admirer of the institution as a whole.
 Naturally, these girls suffered from a mal-adjusted home environment, otherwise they would never have reached the Court because of truancy, immorality, et cetera, but in the majority of
 cases they were "more sinned against than sinning."
+
 In each examination, some attempt was made to get:
+
 a) Mental status from a battery of tests used at the fifteenyear level.
 &) School proficiency with fundamentals.
 Little attempt was made and little recorded concerning the
@@ -61,9 +70,10 @@ and second trials on the performance tests, known as the Witmer
 Cylinders and Dearborn Formboard 1C. The former has been
 standardized and found to be a test at about the six-year level.
 Statistical data has not been compiled on the Dearborn Formboard
-24 THE PSYCHOLOGICAL CLINIC
+
 1C, but it is undoubtedly a more difficult performance test than
 the Witmer Cylinders.
+
 Memory span for digits, both auditory and visual, and the reverse span were given. The latter was not included in Dr Learning's original study. The Stanford Revision of the Binet-Simon
 Scale was given, and an arithmetic test including eight problems
 involving the four fundamental processes, using digits only.
@@ -72,6 +82,7 @@ the memory span were given as an index to intellectual status,
 since they dealt with knowledge and the ability to organize knowledge through language. According to Dr Witmer, intellectual
 ability is that which makes it possible to '' acquire, retain, organize
 and use knowledge."
+
 On the Binet Test, these girls failed more consistently on the
 tests involving understanding and use of language than on those
 in which understanding only was involved. Consequently, the
@@ -86,17 +97,18 @@ of which is, "How are a snake, a cow and a sparrow alike?"?
 46.1% pass and 53.9% fail. At the fourteen-year level?questions
 involving differences between President and King, including
 Tenure, Accession and Power?8.2% pass, and 91.8% fail.
+
 At the fourteen-year level?problems of fact, involving three
 questions, the first of which is, "A man who was walking in the
 woods near a city stopped suddenly, very much frightened, ....
 etc. "?51.6% pass, and 48.3% fail. At the sixteen-year level?
 tests asking for an interpretation of Fables?23.1% pass, and
 76.9% fail.
+
 An index to intellectual status is available in Test No. 4,
 eight-year level, if something more than a simple likeness is given,
 but most of the children pass this test by giving obvious comparisons which, of course, must be credited, but which are not
 an index to their intellectual level. This test involves discernment more than complexity or intellect.
-EXAMINATION AT STATE INSTITUTION 25
 Test No. 8, at the twelve-year level ("In what way are
 and alike?") is a more complex one if for no other
 reason than that a third word is introduced, necessitating a higher
@@ -108,6 +120,7 @@ training, is essential, for no child without school training could
 answer this satisfactorily. It is then very significant, but not
 surprising that such a large percentage of this group should fail
 with this test.
+
 In direct contrast are the problems of fact at the same age
 level. Here we find intelligence?which, according to Dr Witmer,
 is "the ability to solve what for the individual is a new problem
@@ -117,6 +130,7 @@ These prerequisites?primarily intelligence?were not lacking, as
 shown by the percentage of satisfactory completions, as were the
 prerequisites?mainly intellectual?in the tests of differences, both
 tests at the fourteen-year level.
+
 The percentage of failures with the Fables is particularly significant where delinquents are concerned. Terman says this is a
 generalization test valuable when examining delinquents, since it
 gives an insight into the status of social consciousness and the
@@ -124,6 +138,7 @@ ability to interpret motives underlying acts and attitudes. Probably a lack of t
 of transgressors to meet human problems and situations without
 outside help or interference. In other words, the fables involve
 the practical application of an abstract situation, and from generalizations, the ability to appropriate broader interpretations applicable in everyday life.
+
 VOCABULARY ANALYSIS
 (91 Cases)
 Number % Word Number %
@@ -161,7 +176,9 @@ Quotients suffered. In many cases the girls had the ability to
 answer questions, but lacked the vocabulary adequate to enable
 them to pass the tests according to the standards laid down by
 Terman.
+
 FIFTEEN-YEAR LEVEL INSTITUTIONAL GROUP
+
 778 Females 91 Females
 Chronological Age Chronological Age
 Maximum  19-2 Maximum  18-11
@@ -198,7 +215,9 @@ Dearborn 1C?Second Trial Dearborn 1C?Second Trial
 Maximum  F Maximum  ^
 Minimum 21" Minimum  30"
 60% Mode 55-185" 60% Mode  72-272"
+
 CONCLUSIONS
+
 I. The results show marked pedagogical retardation, but a
 normal display of intelligence. Since no test has been devised that
 determines intelligence alone, the conclusion that these girls display more intelligence than intellect is reached only through analysis and interpretation of their reactions to submitted test material.
@@ -214,9 +233,9 @@ Their school competency can be estimated only through school
 proficiency. These proficiencies were especially apparent in their
 deficient vocabulary and lack of arithmetical foundations.
 II. If delinquency is largely referable to truancy and pedagogical retardation?in fact, any number of things which might
-28 THE PSYCHOLOGICAL CLINIC
 result from poor home environment?the comparisons and findings
 in this study are especially interesting and valuable.
+
 III. Many of those in this group are adolescent girls who are
 chronologically able to profit by additional instruction and will
 doubtless raise their intellectual level as the result of the school
@@ -225,6 +244,7 @@ subsequent psychological examination would be interesting and
 should be significant, before they leave the institution, not only
 from a psychological point of view, but as an index of the value of
 the program carried out in the institution.
+
 IV. Personality ratings giving some index of emotional traits
 with social and psycho-physical characteristics, would make an interesting correlation and enhance the value of the psychological
 findings. An insight into the individual qualities from this angle

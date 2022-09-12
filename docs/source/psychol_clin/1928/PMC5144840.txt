@@ -1,9 +1,11 @@
 The Study of a Special Class Center
 ===================================
 
-By Jessie M. Lightfoot
+:Author:  Jessie M. Lightfoot
 Supervisor of Mental Examinations, Department of Special
+
 Education, Philadelphia
+
 In all the three hundred seventy-five special classes in Philadelphia an effort is being made to care for the misfit and the nonconformed child?the one who is unable either for physical or mental reasons to fit into the organization of a regular class. In some
 sections of the city one class of this type to a school takes care
 of these misfits. In some more closely populated sections, it has
@@ -32,7 +34,6 @@ undernourished. They come from homes where no regular hours
 are kept either in regard to eating or sleeping. Frequently both
 parents are employed during the day. As a group, these children
 are more self reliant and independent than those found in a
-A SPECIAL CLASS CENTER 191
 regular school. They are thrown on their own resources at an early
 age. They are accustomed to handling money. Though all the children stay at school at noon, practically none bring lunch from
 home. Pretzels, cakes, and milk are purchased at the store across
@@ -42,6 +43,7 @@ came to the teacher in desperation one day, "What is my name,
 anyway? Some call me Joe Connor, me mother says it's Joe Yokowski, but me sister says it's the same as the man what's living
 at our house this year.'' Three of the children have fathers who are
 in prison?two on the charge of murder.
+
 Many of the children have court records. Most of the offenses have been for stealing money, fruit, iron, copper or lead
 pipe. Several of the boys have been to the reform school at Glen
 Mills or to the Protectory, having been sent there chiefly for stealing or for confirmed truancy. Though these children are slow in
@@ -67,7 +69,7 @@ little fellow of ten who is unable to talk, after an hour's attempt
 finally made passersby realize that there was something wrong in
 the building. Though the wrath and indignation of the neighborhood ran high for the day, it soon died out and the case was never
 brought to court.
-192 THE PSYCHOLOGICAL CLINIC
+
 The seventy-five white children attending the school are for the
 most part from a very low social level. They are chiefly of German,
 Polish, Lithuanian, and Roumanian extraction. For the last three
@@ -85,6 +87,7 @@ sixteen years, six months. One hundred thirteen are boys and
 eighty-seven are girls. A large proportion of these children are
 adolescent. Many at thirteen and fourteen have the physical development of men and women. This is particularly true of the
 negro group.
+
 The tests given included the Witmer Formboard, Healy A, Terman's Revision of the starred Binet-Simon Tests, auditory and
 visual memory spans, school proficiency in reading and arithmetic.
 The time scores on the performances tests were higher than
@@ -103,7 +106,6 @@ Very few children succeeded in correctly placing five blocks of
 varying weights. Defective imagery was an almost universal defect.
 Despite the fact that negroes have previously been reported to have
 long memory spans, the results did not show this to be so.
-A SPECIAL CLASS CENTER 193
 Visual and auditory memory spans were tested by series of
 digits. Previous investigations have shown that a memory span of
 four is necessary in order to learn first grade work as it is presented
@@ -114,6 +116,7 @@ simple and concrete a manner as is possible. Following is a table
 of the memory spans of this group. Two children were unable to
 repeat digits because of their inability to talk. Both, however,
 reproduced two on the tapping test.
+
 Table 1. Auditory Memory Span
 Digits 12345678
 Aud.
@@ -246,6 +249,7 @@ less than 3 years  3
 10:0?10:5   7
 10:6?10:11   3
 11:0?11:5   2
+
 When special class work was first organized in Philadelphia,
 hand work was stressed. A very large proportion of the dailyprogram was devoted entirely to manual work. It was felt that
 the children in these special groups were unable to profit by academic training. Today, however, stress is placed on the fundamentals of Reading, Spelling and Arithmetic, though handwork is
@@ -270,7 +274,6 @@ nearly a universal defect among the special class group having
 difficulty learning to read. Progress is very slow and it is only
 after innumerable repetitions followed by intensive drill that these
 children eventually learn to read. The teacher aims to teach the
-A SPECIAL CLASS CENTER 197
 child to read and spell ordinary words such as are found in the
 daily news. Among this particular group at the present time,
 thirty-four have no proficiency, fifty-one read at the first grade
@@ -296,6 +299,7 @@ to lack of language ability. One of these failures is a fifteen year
 old cretin girl, another is a seven year old white child who understands what is said to her but cannot talk. The third failure is an
 eight year old boy, who understands all that is said and who is
 commencing to respond to intensive speech training.
+
 A large percentage of children failed in copying the diamond.
 This was particularly true of the colored group whose psychomotor
 control is poor. Many of the children understood the problem and
@@ -309,7 +313,6 @@ handicapped. They soon learn to use English as fluently as their
 parents' native tongue. This fact, however, is not true of the dull
 child. Despite five hours a day in school where only English is
 spoken, he continues to have a very limited vocabulary as well as a
-198 THE PSYCHOLOGICAL CLINIC
 poor use and comprehension of the English language. Nor is this
 limited vocabulary and poor language ability confined to the children coming from non-English speaking homes. Despite the fact
 that 72 per cent of the children in this school come from homes
@@ -325,6 +328,7 @@ with this type of material and have been given daily drill on the
 making of sentences. Detection of absurdities was an almost universal failure for the children less than twelve. The younger
 children failed to grasp the problem involved and many of the older
 ones comprehended it only after several repetitions.
+
 Despite the fact that these children are much retarded intellectually still it is safe to say that fully 90 per cent of them will be
 able to earn their own living and be socially independent. They
 are perfectly capable of holding a simple job, working on a farm,
@@ -342,7 +346,6 @@ the country district of the South, especially from Georgia and South
 Carolina, have worked in the fields. School attendance there was a
 secondary consideration. These southern negro children apparently
 like the city life and in a few month's time most of them become
-A SPECIAL CLASS CENTER 199
 fairly well adjusted. A few hold regular jobs after school and
 on Saturdays as errand boys. Others earn money selling papers.
 Two have regular newspaper routes. One boy has a shoe shining
@@ -355,22 +358,29 @@ marked psychopathic tendencies. They are decidedly unstable emotionally and are 
 also at home. It is possible of course that some of these may not
 develop into definite psychoses but that, following the unstable
 period of adolescence, the condition will tend to improve.
+
 Conclusions
+
 1. Colored children who have recently come from the South
 show a deficient output of energy and generally poor muscular
 coordination.
+
 2. Learning ability even for concrete material is poorer than
 that found among regular grade children. They showed a marked
 lack of speed. Their methods of working are generally poor and
 the planfulness they show is of an inferior quality.
+
 3. Memory spans are short. The supposition that colored
 children have long memory spans is apparently a fallacy.
+
 4. These children have restricted vocabularies and a generally
 poor use and comprehension of the English language. This language
 deficiency is not confined to children coming from non-English
 speaking homes.
+
 5. A diagnosis of "feebleminded" does not necessarily follow
 an I.Q. below 70.
+
 6. Failure in school work does not mean failure in the ability
 to meet the social demands of the community. A child feebleminded on the intellectual scale may have ability to earn a good
 living.

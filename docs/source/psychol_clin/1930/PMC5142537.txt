@@ -1,9 +1,10 @@
 Shall We Continue to Train Clinical Psychologists for Second-String Jobs?
 =========================================================================
 
-By J. E. W. Wallin,
+:Author:  J. E. W. Wallin,
 Baltimore Department of Education and Johns Hopkins University
 The following facts are well known:
+
 1. The American Psychological Association twelve years ago
 established a section of clinical psychology whose fundamental aim
 was to "advance professional standards in the field of clinical psychology." In furtherance of this aim, the section adopted as the
@@ -11,6 +12,7 @@ minimal requirement for membership, the Ph.D. degree in various
 branches of psychology, and the publication or the preparation for
 publication of "a contribution of importance to the literature of
 mental tests or of clinical psychology."
+
 2. Because of the recommendations of leading clinical psychologists and because of the example set by a few institutions of
 higher learning, the curriculum for clinical psychologists has gradually been expanded to include not only the major branches of psychology, such as normal, abnormal, clinical, criminal, experimental,
 genetic, child, educational, industrial, and social, but also group
@@ -18,29 +20,33 @@ mental and educational tests, educational diagnosis, the education
 of deviating types, mental hygiene, psychoanalysis, psychopathology,
 mental deficiency and disease, nervous disorders, and frequently
 other branches of medicine.
+
 3. To obtain a major appointment in clinical psychology, it is
 now necessary to have the Ph.D. degree, to have obtained about
 four years of specialized training (counting the senior year in college), and, in all probability, to have had several years of practical
 clinical experience. This exacting requirement is not excessive in
 view of the technical nature of mental diagnosis, provided responsible positions are available for thoroughly trained clinical
 psychologists.
+
 4. It is notorious that such positions are becoming less and
 less available, if we exclude a few teaching positions in the universities, a few research positions, and a few directorships of public
 school, state education department, or institutional clinics or bureaus. Most of the directors of mental hygiene clinics or child
 guidance clinics are physicians, and most of the directors of testing
 1 Prepared for the Ninth International Congress of Psychology, New
 Haven, Connecticut, September, 1929.
-SECOND-STRING JOBS? 243
+
 bureaus or departments for handicapped children in school systems
 do not possess the qualifications of clinical psychologists, nor are
 they required to have such qualifications, in fact many possess very
 limited technical training for the handling of work which is, after
 all, essentially technical.
+
 5. The reason for the situation depicted above is fairly obvious. Organizations have been established for the definite purpose
 of bringing about the establishment of child guidance or mental hygiene clinics everywhere, for the purpose of extending the scope of
 such clinics to include all types of mentally maladjusted children,
 and for the purpose of placing physicians at the head of such clinics
 at a remunerative professional wage.
+
 Some of these organizations maintain alert intelligence divisions, whose function is to discover projected private or independent
 clinics and exert friendly pressure to have physicians appointed as
 directors, while they studiously withhold recognition from all bureaus, clinics, or departments not directed by psychiatrists. The only
@@ -62,15 +68,16 @@ them have secured very limited technical training. A few courses
 offered by departments of psychology and a normal school diploma
 or a bachelor's degree is about the extent of training of many of
 these so-called psychologists.
+
 6. Two outstanding consequences have followed in the wake
 of this organized attitude toward the psychological clinician. In
 the first place, with a few notable exceptions, a distinctly inferior
 type of psychologist represents the profession on clinic staffs. With
-244 THE PSYCHOLOGICAL CLINIC
 the term psychologist indiscriminately applied on the one hand to
 any infra-psychologist who may be employed to give mental tests,
 and2 on the other hand, to the brood of pseudo-psychologists swarming over the land and deluging the daily press with bombastic advertisements of their magical esoteric powers, is it to be wondered at
 that the term psychologist has become a stench and a reproach.
+
 In the second place, the well-trained, experienced clinical psychologist, even though he may be better qualified to direct a guidance
 clinic than a young physician who has pursued a few months' course
 in a child guidance clinic and who has no technical preparation whatever in the field of differential education, is forced into teaching or
@@ -78,10 +85,12 @@ research or some other line of activity, although he has faithfully
 prepared for and prefers to devote himself to organizing and directing clinical work for mentally maladjusted children.
 7. Society and the state are fully justified in setting up efficiency standards for all types of public service in order that the
 public funds may be wisely and economically expended.
+
 8. But neither the state, nor any private organization, is justified in bringing about the establishment of personnel qualifications
 which discriminate in favor of the members of one profession and
 against the members of another profession who are as well trained or
 better trained for the work in hand.
+
 9. It is notorious that clinical psychologists, with the training
 now offered by the leading departments of clinical psychology, are
 fully as competent to direct behavior, or mental hygiene, or psychological, or child guidance clinics, as most of the physicians now in
@@ -93,14 +102,16 @@ the modest income of college professors, is it not probable that a
 higher order of clinical psychologists than of psychiatrists can be secured for the directorship of public child guidance bureaus. After
 all, the work which such a bureau or clinic must do, and the requirements with respect to staff and technique remain the same whether
 it is directed by a clinical psychologist or by a psychiatrist.
+
 3 Of course, both the clinical psychologist and the psychiatrist require
 the services of well-trained mental testers or psychometrists. No criticism of
 them is implied. They subserve a very important function. But they are not
 clinical psychologists.
-SECOND-STRING JOBS? 245
+
 10. If I have presented the situation correctly, and I believe
 this has been done in all essentials, psychologists are faced with two
 alternatives.
+
 Either the departments of psychology should inform their students that there is little future for upstanding clinical psychologists
 without the M.D. degree, except in teaching and research, and advise students who want to go into psycho-clinical examination work
 to transfer to medical schools, no matter how poorly the training offered in such schools may prepare them for the fundamental psychological work which must be expertly done in mental hygiene clinics
@@ -126,6 +137,7 @@ legislation can be secured which accords psychologists legal recognition is show
 Law of 1919, and the Ohio statutes of 1929, a decade later. The
 latter authorize juvenile and probate courts to place psychologists
 on their staffs of examiners.
+
 Shall we as psychologists frankly face the question here presented, or shall we continue to dodge it? I content myself with
 merely raising an issue, which I know is giving concern to many
 psychologists.

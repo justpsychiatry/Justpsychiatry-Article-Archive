@@ -1,13 +1,14 @@
 Stanford Binet "Indicators" of Mechanical Ability
 ==================================================
 
-G. Riley, Research Fellow, The Training School, Vineland, N.J.
+:Author: G. Riley, Research Fellow, The Training School, Vineland, N.J.
 One of the common practices in clinical psychology is the use
 of the results from one test to indicate the advisability and the
 direction of further testing. The development of this method is
 largely a matter of individual clinical experience and is rarely
 validated quantitatively. This study is an attempt to make a statistical evaluation of the items in the Stanford Binet and, incidentally, of certain performance tests that might indicate the
 presence of mechanical ability.
+
 The theory that general intelligence and mechanical ability are
 distinct traits is consistently confirmed by the low correlations found
 between tests of intelligence and mechanical ability. Almost all of
@@ -18,12 +19,14 @@ might be sufficiently prognostic of the presence of mechanical ability
 to be of practical clinical value. The Stanford Binet has the
 further advantage in that it is more frequently used as the base
 of a test battery than any other test.
+
 Performance tests seem to require, in common with tests of
 mechanical ability, speed of activity, motor coordination, manipulative skill, and a certain ability "to see relationships of a concrete
 nature." From this overlapping in the functions necessary for
 these two types of tests a higher correlation between them might
 be anticipated than with Binet and mechanical ability, and so be of
 greater prognostic value.
+
 The Arthur Performance Scale1 was used in this study. It
 is composed of nine tests (in this experiment the Kohs was omitted
 to conserve time) : Knox Cube, Seguin, Two Figure, Casuist, Manikin and Feature Profile, Mare and Foal, and Healy I?Picture Completion. The scores were obtained by applying a differentiating
@@ -31,9 +34,9 @@ formula to the norms of Pintner and Paterson2. This weights the
 1 Arthur, Grace: A New Point Performance Scale?Journal of Applied
 Psychology, 1925, 9: 390.
 'Pintner, B., and Peterson, D. G.: A Scale of Performance Tests.
-"INDICATORS" OF MECHANICAL ABILITY 129
 tests according to their ability to separate an age level from the succeeding one. The tests are combined into a scale by taking the
 Median mental age.
+
 As a test of mechanical ability the Minnesota Assembly3 was
 Used. This is a revision of the Stenquist Assembly. It is arranged
 in three boxes containing thirty-three common mechanical objects.
@@ -46,6 +49,7 @@ even items raised by Brown's formula gives a reliability coefficient
 for the total scale of plus 94. The criterion of mechanical ability
 used was the quality of the boy's work in shop graded in a semi?bjective way against certain standard objects. This correlation
 was plus 55.
+
 The subjects of this study were sixty-five boys from the Hennepin County Probation Office. The usual procedure in giving an
 individual test battery was employed. Special care was taken to
 establish rapport because of the type of subjects and to avoid fatigue
@@ -55,25 +59,30 @@ The life ages of these boys extended from 10 to 17 years (median
 18-5 years (median 12.1 years) and on the Arthur Performance
 Scale from 9.0 to 15 plus years (median 13.0 years). On the
 Assembly they made scores from 160 to 320 (median 255).
+
 Their scores on all tests were in line with other findings, keeping in mind the selection and small number of cases. Although
 the distribution is not normal, this would not materially vitiate the
 results for the purpose of this study. A wide variation might do so,
 but this as indicated by the standard deviation of the Binet I.Q.s is
 13, which is similar to Terman's result and identical with the pupils
 ?f one of the city high schools.
+
 A summary of the correlations computed from these data is
 given in Tables I and II.
+
 As shown by the intercorrelation of the various boxes, the
 Minnesota Assembly shows a reliability comparable to the coefficients
 at its formation. In its standardization two boxes of ten items each
 3 Anderson, D., Paterson, D. Gr., et al: Tests of Mechanical Ability
 (manuscript).
-130 THE PSYCHOLOGICAL CLINIC
+
 gave a correlation of 63. The average in the present study for the
 three boxes is 66 (Table I).
+
 The low correlation (r 13, life age constant) between the Binet
 M. A. and the Minnesota Assembly in consistent with other findings
 and confirms the "unique trait" theory.
+
 As was anticipated, the Arthur Performance Scale gave an
 appreciably higher correlation than the Binet with the Assembly
 (r 44, life age constant). This is 11 points higher than the correlation with the Stanford Binet. If the validity and reliability of
@@ -84,6 +93,7 @@ some range in their correlation with the Minnesota Assembly (r 42 to
 13). The Knox Cube (r 52) and the Casuist (r 40) show the highest
 coefficients and therefore are the most valid indicators of mechanical
 ability as measured by the Minnesota Assembly.
+
 Considering the separate items on the Stanford Binet, the
 scores (passes and failures) form a series of dichotomous measures
 which are to be compared with a series of graduated measures, and
@@ -93,6 +103,7 @@ II) show a rather wide range (58 to ?14). In general the verbal
 and memory tests show little relationship with mechanical ability
 while the problem and perceptual tests are fairly close, although
 the clock test is an exception to the latter statement.
+
 The ten tests in the Binet showing the highest correlation with
 the Assembly (starred in Table II) were combined into a scale by
 adding up the number of mental ages represented in the scattering
@@ -101,12 +112,12 @@ tests in the scattering and the results correlated by the product
 moment method with the Assembly. As this gave a correlation of
 only 45, the complexity of its formation would not warrant the
 slight gain in validity.
+
 The application of these findings to clinical procedure may be
 illustrated by the situation which originated the study. Part of the
 subsidiary work for the Minneapolis Child Guidance Clinic consists
 in a brief study of certain cases from the County Probation Office.
 The minimum psychometric datum is a Stanford Binet. The schedule allows about an average of forty-five minutes for additional testing.
-"INDICATORS" OF MECHANICAL ABILITY 131
 Studying the Binet scores on some two hundred cases shows
 there is a bimodality in the distributions of I.Q.s. The high points
 occur at 85 and 105. This, with other data, suggests that one of the
@@ -121,6 +132,7 @@ highest tests passed are those showing the highest correlations (the
 starred tests), or if a high score is made on the Knox Cube and
 Casuist, the Assembly Test should be given to obtain confirmation of
 the presence of mechanical ability.
+
 Table I
 Correlations N-65
 Inter-correlations of the Minnesota Assembly
@@ -143,7 +155,7 @@ Feature Profile?Minnesota Assembly r equals 24? .08
 Knox Cube?Minnesota Assembly r equals 18? .08
 Seguin?Minnesota Assembly r equals 17? .08
 Healy Pictorial I?Minnesota Assembly r equals 13? 08
-132 THE PSYCHOLOGICAL CLINIC
+
 Table II
 Biserial r's between Stanford Binet (test items) and Minnesota Assembly
 Scores

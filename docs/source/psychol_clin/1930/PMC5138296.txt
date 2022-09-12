@@ -1,9 +1,11 @@
 Review
 =======
 
-Davies, S. P., Social Control of the Mentally Deficient,
+:Author: Davies, S. P., Social Control of the Mentally Deficient,
 Thomas Y. Crowell.
+
 New York, 1930, pages XIX plus 389.
+
 The book opens with a consideration of the faulty concepts of feeblemindedness, and especially the misinterpretation of the results of the Army
 Intelligence Tests. Three acceptable criteria are listed as (1) marked deficiency
 of intelligence, (2) lack of normal development, (3) social and economic incompetence. There follows a brief history of the care and training of the mentally deficient, emphasizing the period from Itard ?s program for mental development through the promotion of physiological functioning, to the most recent work in colonization and parole by Bernstein, Fernald, and others.
@@ -16,6 +18,7 @@ the "changing concepts of heredity." Here are offered Davenport and
 Danielson's study, "The Hill Folk," the contributions in genetic research of
 Jennings and others, the incidence of feeblemindedness among children of normal parents, etc. as evidence that the hereditary transmission of feeblemindedness is neither so simple, nor so predictable, nor so alarming numerically, as
 was formerly believed.
+
 A review of the laws and practice of sterilization in this country leads to
 the conclusion that as a general procedure it has its limitations, and that at
 any rate it is certainly not a solution of the problem for the present generation.
@@ -33,9 +36,9 @@ The progress made in socialization by institutions for the mentally defective co
 schools in the care and training of the mentally subnormal. The work which
 is being done in New York City's trade extension class, in Rochester's prevocational schools for those unable to make the grade of junior high schools,
 and by the state-wide clinic system of Massachusetts in aiding the special class
-13G REVIEW
 program, are cited as examples of progress in the socialization of tlie mentally
 deficient in the public school.
+
 Even when institutions, schools, and private agencies are functioning at
 their best, there is need for an agency of broad scope to cover the field of
 community supervision, and to fill in the gaps left by the others. The state,
@@ -46,17 +49,23 @@ supervisory agency always on the alert to help such cases. The employment
 of six field agents in New York to work in cooperation with the schools, courts,
 and poor law authorities, and the state clinics of Massachusetts are described
 as instances of state supervision and coordination.
+
 Throughout the volume the author stresses the fact that in the adjustment of the mentally deficient, intelligence is not the only factor to be considered, but that other phases of personality and of social circumstances are
 of the utmost importance. Behavior is the result of the interaction of two
 factors?personality and environment. The problem is to modify the environmental stimuli in relation to the personality in such a way as to bring out the
 desired type of behavior.
+
 In conclusion of his volume Davies states four broad principles as a basis
 for a program of social control:
+
 1. Specialized education and industrial training from an early age,
 through the agency of the public schools.
+
 2. Special training in institutions and colonies with the end in view of
 returning the cases to the community.
+
 3. Organized community supervision.
+
 4. Permanent segregation of the feebleminded in whom it is not possible to develop adequate social qualifications.
 Only the most favorable comment can be on this excellent treatise. In
 addition to a wealth of factual material, tho volume is characterized by balanced critical judgment. The two serve to make this an outstanding volume

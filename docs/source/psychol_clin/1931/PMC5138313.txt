@@ -1,7 +1,8 @@
 A Case of Reading Disability due to Deficient Visual Imagery
 ==============================================================
 
-By T. W. Richards, M.S.
+:Author: T. W. Richards, M.S.
+
 Clinic Teacher, The Psychological Clinic, University of Pennsylvania
 A case of reading disability is certainly not an unusual clinical
 problem, but the remedial treatment which proved successful in
@@ -29,11 +30,10 @@ in September, the boy's work during the 1A term had evidently
 been satisfactory, for he was placed in the high or IB grade in
 February. His reports throughout the year indicated that his conduct had been excellent, and that his work had been of passing
 quality, which the mother described as "fair." Learning that, in
-120
-READING DISABILITY 121
 spite of this evidence, he probably would not be placed in the
 second grade in June, the mother quite naturally became alarmed,
 and brought him to us for advice.
+
 Arthur was examined in May by Dr Miles Murphy. We
 learned little of significance from the medical history of the case.
 The ages for walking, talking and becoming clean were not at all unusual. Arthur had suffered from measles, whooping cough and
@@ -42,6 +42,7 @@ victim of 110 serious accidents which might have contributed to the
 problem. Normal for boys of his age in height and weight, and in
 fine health at the time he was examined, there was little to suspect
 of definite physical etiology.
+
 On the psychological tests the boy did well. Compared with
 boys of his age he was superior to ninetj7' per cent on both the
 Witmer formboard and the Witmer cylinders, and he gave a good
@@ -50,6 +51,7 @@ The second and third trials on this test were evidence of definite
 ability to improve. With the Stanford Revision of the BinetSimon Scale the boy, then aged six years and ten months, obtained
 a mental age of seven years and nine months, receiving an Intelligence Quotient of 113. His memory span was five forward, both
 visual and auditory, and three reverse.
+
 Conclusions based on the history of the case and upon the results
 of the tests as mentioned above indicated that Arthur was of normal mentality, at about the eightieth percentile of boys his age in
 general competency. It was in the field of school proficiency that
@@ -67,12 +69,12 @@ do second grade work if his deficiency in reading and spelling were
 removed. This deficiency merited further study, and it required
 special teaching. If Arthur could receive this simultaneously with
 his regular school work, he would thus save a year at school, and be
-122 THE PSYCHOLOGICAL CLINIC
 saved the stigma of a "left-back," which designation he in no way
 deserved except for the fact that he had not done as well in his
 reading as had most of the children in his grade. The recommendation was made to the school that Arthur be promoted to the second
 grade, but that he attend the Psychological Clinic regularly for
 teaching in the fall.
+
 In October Arthur reported for clinic teaching?a boy in the
 second grade who was not only entirely unable to read words but
 could not even name letters. He was taught by Miss Libby Stone
@@ -102,7 +104,6 @@ teach the A, B, C's according to the old-fashioned, mechanical
 method, and get something upon which to base a remedial program.
 Within a month the boy was able to recognize letters when printed,
 make them himself, and use them occasionally in writing words.
-READING DISABILITY 123
 His teacher states, however, that he was "completely lacking in the
 knowledge of what word integration might mean. He hadn't the
 faintest idea of how to incorporate letters into words by listening to
@@ -110,6 +111,7 @@ the sound. The sound of the individual letter was a thing in itself
 that to him could not be transferred into a group. The learning of
 words is for him then a very mechanical process, attained only by
 constant drill."
+
 The next step was to establish the association of sound. This
 was done by giving Arthur over and over words with sound elements of all kinds, by drilling on the sounds of different letters, by
 having him say them to himself in an undertone, if he chose, by having him "feel" how to write the letter which stood for a certain
@@ -130,6 +132,7 @@ of words in many different ways was necessary. At times Arthur
 was able to write and spell correctly short sentences dictated to him
 hy his teacher, but after they were written he could not read them.
 Yet, only in this way was progress at all possible.
+
 By January Arthur had covered the first grade material in
 reading. He was tested for his school proficiency and found to be
 of second grade ability in reading and in spelling. The school as
@@ -139,7 +142,7 @@ from our rolls. He was now a good independent reader, able to
 proceed with the others in his class; a second grader in every sense
 of the word. Still he had difficulty with spelling?perhaps he always will have, for this ability involves visual imagery more than
 does any other school subject.
-124 THE PSYCHOLOGICAL CLINIC
+
 Here was a boy who, with the exception of a specialized sort of
 difficulty, was normal in every way, destined to be "left down" because he had acquired nothing in a very fundamental field as the
 result of a year's teaching. It was found that the reason for his

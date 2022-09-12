@@ -1,9 +1,10 @@
 Tests of the Stanford Revision of the Binet- Simon Scale Most Frequently Failed by Children in Orthogenic Backward Classes
 ===========================================================================================================================
 
-By Rebecca R. Townsend
+:Author:  Rebecca R. Townsend
 Supervisor of Mental Examinations,
 Department of Special Education, Philadelphia
+
 The object of this experiment was first, to determine the tests
 most frequently failed by children in the Orthogenic Backward
 classes and secondly to see how these failures correlated with the
@@ -20,6 +21,7 @@ and all are attending the public schools. The Intelligence Quotients
 ranged from 60 to 89. Only the starred Binet questions were used
 since the complete Binet is seldom given in the public schools. The
 following table shows the number of failures for each test.
+
 Table I
 Year VI VII VIII IX X
 Test 1234 1256 2346 1 2 45 1256
@@ -33,7 +35,6 @@ failures at the Six Year Level is so small as to be almost negligible.
 At the Seven Year Level there is a decided discrepancy in
 the number of failures. The fact that there are seven times as
 many failures in copying a diamond as there are in giving the
-TESTS OF THE BINET-SIMON SCALE 201
 correct number of fingers on each hand and on both hands, not
 only indicates that these tests do not necessarily present the same
 difficulty but that the task of copying a diamond presents a problem to the retarded child that involves more than adequate muscular coordination. According to these results this test presents a
@@ -44,6 +45,7 @@ satisfactory descriptions of pictures. These results would indicate
 that the tests at the Seven Year Level are not of equal difficulty
 and also that the diamond presents a more difficult and involved
 problem than might be expected.
+
 At the Eight Year Level, the greatest number of failures occur in the vocabulary test. There are over three times as many
 failures in this test as there are in that of meeting practical situations where there are only 14 per cent of failures, which is less
 than the failures in copying the diamond at the Seven Year Level.
@@ -56,6 +58,7 @@ tests at this level and, as realized all through the scale, is not an
 estimate of the individual's native intelligence. This is true of
 many of the other tests, but the weakness of the vocabulary test
 is pronounced.
+
 At the Nine Year Level, with the exception of the reverse
 memory span, the tests seem to show more correlation than any
 of the preceding tests at any one age level. The outstanding deviation in this series of tests is the great percentage of failures in
@@ -69,7 +72,6 @@ failures in the reverse memory span are to be expected since it
 involves more abstract thinking than the preceding and some of
 the following tests. The test of composing sentences when three
 words are given claims the next number of failures at the Nine
-202 THE PSYCHOLOGICAL CLINIC
 Year Level. This can be understood because of the demand made
 for the adequate use of language. This ability is related to some
 extent with the ability employed in passing the vocabulary test.
@@ -79,6 +81,7 @@ this, the problem of arranging five blocks of various weights from
 heaviest to lightest presents 59 per cent of failures. The failure
 to perform this task is often due to lack of comprehension and not
 always to poor kinaesthetic imagery.
+
 At the Ten Year Level, the percentage of failures is naturally
 greater because the tests are approaching the chronological age
 level of the group. The first three tests at this level, namely?
@@ -91,6 +94,7 @@ Taken collectively, however, the various tests seem to show better
 correlation at this age level than at any of the preceding levels.
 The following table shows in rank order the percentage of
 failures for each test below the Ten Year Level:
+
 Failures No. op Test Name op Test
 84% ^ Reverse Memory Span
 65% 5 Using three words in a sentence
@@ -110,6 +114,7 @@ Failures No. op Test Name op Test
 This table shows that, at least for retarded children, the tests
 are not arranged according to difficulty in the present Binet-Simon
 Scale.
+
 The tests most frequently failed have to do first with the
 problem of reverse memory span which presents too complex maTESTS OF THE BINET-SIMON SCALE 203
 terial for the retarded child to cope with. The next most difficult

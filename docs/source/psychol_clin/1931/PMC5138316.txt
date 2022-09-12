@@ -3,8 +3,9 @@ Physique and Intellect
 
 REVIEWS
 
-By Donald G. Paterson. New York: The
+:Author: Donald G. Paterson. New York: The
 Century Co. (Century Psychology Series). 1930.
+
 There have been during the past few decades many investigations directed
 primarily toward the determination of the relation between those two factors
 which the author of this book generalizes under the names physique and intellect. The theoretical and practical importance of the results of these investigations for the entire field of psychology is evident. The published results of such studies, however, have been widely scattered and not always
@@ -22,6 +23,7 @@ to be very inadequate grounds investigators hastened to conclusions and generali
 is just what one Avould expect to find. This book reveals very strikingly how
 what at first sight seem reliable conclusions disappear when exposed to the
 light of exacting quantitative analysis.
+
 The general term intellect is used by the author to apply to what in one
 chapter he calls intelligence, in another mental age. The most commonly
 employed indices of this factor are age-grade location in school and standard
@@ -40,8 +42,6 @@ changes like dentition and pubescence are only slightly, if at all, related to
 intellect, as are also morphological indices of body build. Likewise physical
 defects and even harmful physical conditions like malnutrition, diseased tonsils,
 adenoids, defective teeth, even hookworm, show no deleterious influence upon
-125
-126 THE PSYCHOLOGICAL CLINIC
 mental growth. In fact unless disease or injury affects the central nervous
 system directly it lias no significant relation to intellectual development.
 Obviously of course, as the author points out, these findings will not diminish
@@ -51,6 +51,7 @@ the field of mental growth. This review merely summarizes the results generally 
 tables which give the original data of the various investigations and which
 substantiate every point made are included in the book and add greatly to
 its value.
+
 The chapter on "Physique and Temperament" is concerned with the relation between physique and certain non-intellectual aspects of personality
 which the author subsumes generally under 'temperament.' We find in this
 field a great variety of attempts which the author considers critically. Among
@@ -74,4 +75,5 @@ not lose sight of the fact that in clinical psychology we are dealing with indiv
 disappear in the statistical treatment of group results, while it throws valuable
 light on the probability of the relationship, does not entirely preclude it in
 individual clinical analysis.
+
 Miles Murphy

@@ -1,17 +1,19 @@
 Some Performance Test Norms for Children
 =========================================
 
-By Clairette P. Armstrong
+:Author:  Clairette P. Armstrong
 New YorTc City
 Problem
 This study is an investigation of the reactions of normal public
 school children from eight to fifteen years of age on two Army Performance scales standardized for the most part on adult males
 during the war.
+
 Scales of real diagnostic value for school children, that gauge
 the specialized intelligence involved in non-language tests, are
 sought. How accurately do these two scales evaluate the ability
 of the child to manipulate concrete objects, to respond to actual
 objective situations?
+
 Reasons for Research
 As Wells points out, "Most groups coming to clinical attention
 make a readier and more interested response to non-language tests.
@@ -31,8 +33,6 @@ consisted of designs, manikin and feature profile, mazes, cube imitation and shi
 iF. L. Wells, Mental Tests in Clinical Practice, p. 117.
 2 Yoakum & Yerkes, Army Mental Tests, p. 126.
 3 Ibid., p. 79.
-39
-40 THE PSYCHOLOGICAL CLINIC
 mazes, cube analysis, X-0 series, digit-symbol, number checking,
 pictorial completion, geometrical construction, all of -which afford
 opportunity for a wide variety of skills.
@@ -51,6 +51,7 @@ demonstrate all items of one practice sheet and even then the
 subject might not comprehend, but never was this the case for all
 tests of the series; indeed it rarely occurred with any one child
 for more than one item.
+
 The Army Individual Performance Test, short scale, was also
 administered to the same children and a few more, numbering 461.
 In scoring this test, the digit symbol test is included although
@@ -58,6 +59,7 @@ administered only with the Beta Test first. The procedure of
 administering may be the same in the two scales. It was included
 in the scoring because it is a valuable adjunct to the short Individual Performance scale and exercises a different function from
 the other items of the scale.
+
 For comparison, results are recorded of tests administered to
 417 of these children on the Otis Group Test for grades 4 to 8.
 Raw scores of the Army Individual Performance Test4 were
@@ -70,7 +72,7 @@ remembered that the I.Q. is merely a ratio between a mental age
 4 Ibid., p. 125.
 5 Ibid., p. 127.
 6 Ibid., p. 133.
-PERFORMANCE TEST NORMS FOR CHILDREN 41
+
 and a chronological age, a useful symbol in various situations, the
 "dogma" may tend to disappear from the I.Q. The I.Q. may be
 regarded in its true light, not as a mystic label of a cryptic faculty
@@ -78,12 +80,14 @@ called intelligence which because of its esoteric character defies
 definition, but which none the less may be irremediably and irrevocably attached to an individual. If I.Q.s of concrete abilities
 are a commonplace as well as I.Q.s of verbal abilities, the usefulness of the I.Q. may be restored and a more accurate and enlightened interpretation of it may prevail.
 Results
+
 Table I shows the number of children from 9 to 14 years of
 age (omitting the few of 8 and 15 years), the median scores and
 the test norms, all at six month intervals, on the two Army Performance scales and the verbal test. There is a consistent superiority of these children on all three tests up to 13 years, 6 months
 and a general inferiority to the norms from then on. On the
 Individual Performance Test most of the 452 children exceeded
 the Army norms.
+
 At 12 years they were inferior merely by a fraction and continued so to a varying degree at 13^2 and 14^/2 again negligibly
 at 14. A few children fell below the army norms on the Beta at
 131/2 and 14i/o years. The children were ahead of the Otis norms at
@@ -98,11 +102,12 @@ Performance scale is too easy by from 4 to 22 months except at 12
 years where the scores are practically identical, and at 13^> and
 141/2 where the children fall well below. There is a like superiority
 on the Otis.
+
 "Were yearly intervals considered instead of semi-yearly the
 differences would be somewhat less. A scrutiny of the scores shows
 that the tests distinguish between children of different ages for
 there is a regular augmentation of the score year by year.
-42 THE PSYCHOLOGICAL CLINIC
+
 Table I
 Comparison Median Scores op Children with Norms
 Army Performance Test
@@ -265,11 +270,12 @@ Score (mos.)
 45.5 - 1
 47.5 - 2
 49.5 - 3
-PERFORMANCE TEST NORMS FOR CHILDREN 43
+
 As is predictable from the first table, Table II demonstrates a
 consistent lowering of median I.Q.s as age advances for the 452
 children between 9 and 14 years on the Performance, the 430 on
 the Beta and the 411 on the Otis tests.
+
 The I.Q. gradually diminishing yearly is 17 points less for 14
 year olds than for 9 on the Individual Performance Test and 21
 points less on the Beta. There is a similar tendency with the Otis
@@ -277,6 +283,7 @@ but the decrease of I.Q. with augmenting age is not consistent.
 However the I.Q. of the 14 year olds is 11 points below the 9 year
 olds. The I.Q.s were computed from Binet mental age equivalents
 for the sake of uniformity with the Army tests.
+
 Table II
 Median I.Q.s per Age Level
 Age
@@ -308,6 +315,7 @@ Otis
 104.2
 99.5
 94.57
+
 The frequency distributions of I.Q.s on the three tests for 461
 children on the Performance Test, 436 on the Beta and 417 on the
 Otis, ages 8 to 15 inclusive, are given in Table III. Histograms
@@ -315,6 +323,7 @@ illustrate, each accompanied by the frequency polygon on the same
 coordinate axis. The frequency curves are generally symmetrical
 in all three cases and show a fairly normal distribution of I.Q.s.
 There is only a slight skewness for each test.
+
 The average I.Q.s are also given in Table III, about 103 for
 the Individual Performance Test, 109 for the Beta and 103 for the
 Otis. The middle fifty per cent on the Performance Test fall between 92 and 113, on the Beta between 99 and 117 and on the Otis
@@ -324,41 +333,20 @@ at the upper end and is negligibly different at the lower; on the
 Beta the middle fifty per cent are consistently higher; on the Otis
 they cover a wider area, somewhat lower and distinctly higher.
 " Terman, The Measurement of Intelligence, p. 67.
-44 THE PSYCHOLOGICAL CLINIC
+
 Army Individual Performance Test
-/I
 /
-/
-/
-?r?
-/
-?
--+?
-\
-\
-\
 -X65- 75- 85- 95- 105- 115- 125- 13574 84 94 104 114 124 134 144
 % 1.74 8.68 20.83 24.29 25.81 12.36 4.98 1.3
 (Terman) 2.3 8.6 20.1 33.9 23.1 9.0 2.3 .55
 Army Individual Performance Test
 Army Beta
-?
-M
-/ I
-/ ?
-, t
-u ?
-/ *
-V
--t-V"T"!
-\
-\
 65^. 75?- 85~ 95~ 105_ 115~ 125- 135- 145- iv74 84 94 104 114 124 134 144 ir.4 1fU
 .23 3.67 12.84 20.87 33.03 16.74 11.01 1 37 01
 Otia Test
 55- 65- 75- 85- 95- 105- 115- 125- 135- 145- 155- 16564 74 84 94 104 114 124 134 144 154 164 174
 % .72 3.11 10.31 21.58 21.58 17.03 12.95 7.44 4.08 .72 .24 .24
-PERFORMANCE TEST NORMS FOR CHILDREN 45
+
 Table III
 I.Q. Distributions (Ages 8-15)
 165-174.
@@ -455,6 +443,7 @@ Per cent
 103.28
 18.02
 90.22-115.38
+
 Terman's percentages of children per I.Q. interval are also
 given under the Individual Performance Test column diagram,
 though his step intervals are slightly different, 66-75 instead of
@@ -463,6 +452,7 @@ shows a fairly similar spread but at a slightly higher level throughout except t
 massed between 96-105; between 95-104 are 24.29 per cent of the
 New York group with the largest percentage 25.8 per cent at the
 105-114 interval in contrast with Terman's 23 per cent.
+
 Table IV
 Middle 50 Per Cent (I.Q.s)
 QhQ3 & Q
@@ -518,7 +508,7 @@ Q
 13.5
 11.9
 10.3
-46 THE PSYCHOLOGICAL CLINIC
+
 Table IV gives the I.Q. ranges of the middle 50 per cent per
 age level as well as Q, on the two non-language scales and the
 verbal. On the former the interquartile ranges are not absolutely
@@ -529,12 +519,14 @@ nearly seven to slightly over ten points above and below the norm
 for a given age. On the Stanford-Binet the range at five years
 was 97-111 and at eleven 92-108, seven and eight points above
 and below the norms.
+
 The wider range of the New York group may be partly due to
 the fact that the children were unselected and not within two
 months of a birthday as with Terman's group which also was
 larger than the New York group. The spread on the Otis and
 marked variability may be attributable to the presence of children
 of foreign-born parents, and a possible language or verbal inequality.
+
 Table V
 Correlations (Scores)
 (417 boys and girls)
@@ -549,7 +541,10 @@ Individual Performance Test and the Otis, and .633 between the
 latter and the Beta, support the concept of g. The correlation
 .801 between the two non-language tests may be emphasized by one
 identical item in the scale of six and in the scale of seven items.
+
 Discussion
+-----------
+
 The appearance of greater ease on all these tests for younger
 than for older children may be partly explained by a perhaps
 irremediable characteristic of tests. There is greater opportunity
@@ -557,7 +552,6 @@ for younger children to score high than for older who are checked
 by the finite quality of tests?the more and more limited spread
 with advancing age. Again, the selective effect of the public school,
 since only grades 4 to 8 were tested, and dull pupils pile up in
-PERFORMANCE TEST NORMS FOR CHILDREN 47
 the higher grammar grades, plays its role. The fact that 16 years
 was used as the age of mental maturity instead of 14 would be
 another factor in a somewhat lower I.Q. for those 14 and 15 of age.
@@ -566,6 +560,7 @@ by 'ability to speed' reaches maturity early, while efficiency of
 meaning matures later."8 Ability to speed may be a factor in
 the extremely high I.Q. of younger children on these tests for it
 is an important item in the scales.
+
 The following criticism may be summarized concerning the
 Beta:9 That the test shows a massing of scores at the upper part
 of the scale with a large number making a perfect score on the
@@ -579,6 +574,7 @@ Occupational level may be an important factor in the high
 I.Q.s in the New York Group where there were no children of
 unskilled laborers. It is generally conceded on the basis of considerable research that children in inferior occupational classes
 have lower test scores than children in higher occupational classes.
+
 This is true of ability to react to objective as well as to verbal
 situations.10
 Since the schools were all in better residential districts there
@@ -596,7 +592,6 @@ Children. J. Ed. Sociology, 1931, 5, p. 311.
 Ore.PuU.,l922, V. 15, pp. 417_434.
 . Kirkpatrick, Intelligence and Immigration. Ment. Measure. Monog.,
 I, 1926, N.
-48 THE PSYCHOLOGICAL CLINIC
 Summary and Conclusions
 1. The Army Individual Performance Test, short scale, is somewhat easy for New York public school children from 9 to 11 years
 who at 12 approach the norm but at 13 and 14 it becomes somewhat difficult.

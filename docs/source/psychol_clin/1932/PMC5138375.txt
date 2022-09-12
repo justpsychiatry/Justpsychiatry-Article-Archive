@@ -5,11 +5,12 @@ The Psychological Clinic
 Copyright, 1932, by Lightner Witmer, Editor
 Vol. XX, No. 9 February, 1932
 
-By R. A. Brotemarkle, Ph.D.
+:Author:  R. A. Brotemarkle, Ph.D.
 University of Pennsylvania
 Assisted by
 Dorothy M. Bassett Cornelia B. Meytrott
 Charlotte Easby-Grave Adele Rosenheim
+
 PART II
 Case 31?M. b. May 11, 1921.
 1928?B No examination. Not in Home.
@@ -31,7 +32,6 @@ Witmer FB?(1) 40", 1 percen- Morgan.
 tile; (2) 24", 20 percentile; (3) 20"
 Ilealy A?DNC; B (1) DNC, (2) DNC
 257
-258 THE PSYCHOLOGICAL CLINIC
 Dearborn FB?(1) 250", 30 percentile; (2) 240", 1
 percentile
 Memory Span AY?4, 1 percentile; R?3, 20 percentile ; L?5 on 2d
@@ -63,12 +63,12 @@ Dearborn FB?(1) 210", 40 percentile; (2) 145",
 Memory Span AV?5, 40 percentile; R?3, 20 percentile; L?6 on 3d
 Diagnosis: Normal. Poor distribution of attention. Imagery
 deficiency.
+
 Recommendation: Normal personality development.
 Case 34?F. b. Oct. 15, 1920.
 1928?B C.A. 7.6 30 percentile
 6 year F M.A. 7.2
 I.Q. 95.5 20 percentile
-THE PERSONNEL OF A CHILDREN'S HOME 259
 Porteus Maze?Mental Age 7
 Goddard FB?Mental Age 7.3
 Army Designs?Mental Age 9.7
@@ -104,7 +104,7 @@ I.Q. 96.0 20 percentile
 Porteus Maze?Mental Age 11.5
 Goddard FB?Mental Age 7.3
 Diagnosis : Normal.
-2 60 THE PSYCHOLOGICAL CLINIC
+
 Recommendation: Remain at Home.
 1929?G C.A. 8.8 70 percentile 1st grade
 8 year M B.A. 9.0
@@ -112,6 +112,7 @@ M.A. 9.3
 I.Q. 106.7 60 percentile
 Memory Span AY?5, 50 percentile; R?4, 90 percentile ; L?6 on 5th
 Diagnosis: Normal. Needlessly retarded.
+
 Recommendation : Normal personality development.
 1930?R C.A. 9.9 99 percentile 2d grade.
 10 year M B.A. 8.0 5th grade reading.
@@ -288,7 +289,6 @@ tile 4th grade reading.
 Witmer FB?(1) 25", 30 percentile; (2) 26", 10
 percentile; (3) 14"
 Healy B?(1) DNC, (2) 30"
-THE PERSONNEL OF A CHILDREN'S HOME 265
 Dearborn FB?(1) 170", 40 percentile; (2) 75",
 60 percentile
 Memory Span AV?4, 1 percentile; R?4, 70 percentile ; L?5 on 4th
@@ -325,7 +325,7 @@ Dearborn FB?(1) 235", 30 percentile; (2) 80",
 Memory Span AV?4, 1 percentile; R?3, 20 percentile; L?5 on 3d
 Diagnosis: Normal retarded. Planfulness and comprehension
 good.
-266 THE PSYCHOLOGICAL CLINIC
+
 Recommendation: Make up school retardation. Behavior adjustment through responsibility. Vocational training?mechanical.
 1930?R C.A. 11.11 60 percentile 5th grade.
 12 year M M.A. 9.5 4.4 Morgan.
@@ -474,7 +474,6 @@ Recommendation: Normal personality development.
 I.Q. 80.0 (M) 10 percentile 4th grade arithmetic.
 Witmer FB?(1) 31", 10 percentile; (2) 21", 30
 percentile; (3) 20"
-270 THE PSYCHOLOGICAL CLINIC
 Healy A?105"; B (1) DNC; (2) 50"
 Dearborn FB?(1) DNC, 20 percentile; (2) DNC,
 1 percentile
@@ -547,7 +546,6 @@ Case 52?M. b. Dec. 20, 1917.
 I.Q. 90.0 30 percentile
 Porteus Maze?Mental Age 8.5
 Army Designs?Mental Age 11.8
-272 THE PSYCHOLOGICAL CLINIC
 Diagnosis: Normal. Behavior problem.
 Recommendation: Medical and psychiatric examination. Reestablish contact with mother.
 1929?G C.A. 11.5 70 percentile 4A grade.
@@ -621,7 +619,6 @@ Recommendation: Foster home.
 1929?G C.A. 11.10 60 percentile Promoted to 6A grade.
 12 year M M.A. 9.9 4.7 grade Morgan
 I.Q. 82.3(M) 20 percentile
-274 THE PSYCHOLOGICAL CLINIC
 Healy A?(1) 25", (2) 10"; B (1) 30", (2) 20"
 Dearborn FB?(1) 220", 20 percentile; (2) 75",
 60 percentile
@@ -736,7 +733,6 @@ Ilealy A?(1) 25", (2) 15"; B (1) 25", (2) 30"
 Dearborn FB?(1) 130", 70 percentile; (2) 55", 80
 percentile
 Memory Span AV?6, 70 percentile; R?5, 90 percentile L?7 on 2d
-THE PERSONNEL OF A CHILDREN'S HOME 277
 Diagnosis: Retarded mentally. Lacks analytical discrimination. Planful. Resents family situation and sullen.
 Recommendation: Corrective personality development.
 1930?R C.A. 13.9 90 percentile 8th grade.
@@ -813,7 +809,6 @@ Recommendation: Transfer to institution for mental defectives. Train for househo
 Case 64?M. b. Feb. 14, 1915.
 1928?B C.A. 13.1 90 percentile
 15 year M M.A. 9.1
-TEE PERSONNEL OF A CHILDREN'S HOME 279
 I.Q. 70.0 1 percentile
 Porteus Maze?Mental Age 13.5
 Army Designs?Mental Age 12.9
@@ -852,7 +847,6 @@ Army Designs?Mental Age 14.5
 Diagnosis: Dull normal.
 Recommendation : Needs advanced interests. Farm home
 placement.
-280 THE PSYCHOLOGICAL CLINIC
 1929?G C.A. 15.8 30 percentile 7th grade.
 15 year M M.A. 14.6 Promoted to 8th.
 I.Q. 92.5 (M) 30 percentile
@@ -957,7 +951,6 @@ X
 | 62%
 26%
 12%
-THE PERSONNEL OF A CHILDREN'S HOME 281
 Diagnoses based primarily upon the Terman Classification would
 indicate that the personnel of the Home is improving so far as
 intellectual ability is concerned, but do not present the true facts
@@ -971,6 +964,7 @@ whether a Home can refuse to accept some Dull Normal case problems, but certainl
 the education or training of Mental Defectives.
 Table III indicates a reasonable stability of diagnostic grading
 on the basis of the Terman Classification.
+
 Table III
 Fluctuations in Terman Classifications
 One
@@ -1028,6 +1022,7 @@ BR
 BGR 1 3.2%
 B-G-R
 BGR 14 45.1%
+
 Such fluctuations are indicated by the individual recommendations
 of the three examining psychologists, especially among the large
 number who were retarded in their education beyond the functioning level of their mental ability.
@@ -1036,10 +1031,12 @@ chronological age of the group. The average age remains about the
 same, although unfortunately the range is slowly increasing, bringing too large a difference in age range for the best social relation282 THE PSYCHOLOGICAL CLINIC
 ships within the group. (This condition will shortly be cared for
 by the institution of a cottage system.)
+
 The gradual elimination of some of the older defectives by
 return to their parents still leaves, at the end of the third survey,
 nine of these individuals for whom definite recommendations of disposition have been made. The selection of Dull or Sub-normal
 individuals in the younger age levels means an ever increasing
+
 Table IV (a)
 Comparison of Chronological Ages
 B-1928
@@ -1234,7 +1231,6 @@ group of the older age, who, by natural deterioration of the mental
 decrement, must be eliminated by definite institutional care. The
 moral risk of social and individual misconduct of these cases demands definite refusal of admission at an earlier age upon the basis
 of psychological examinations, or the willingness of the Board to
-284 THE PSYCHOLOGICAL CLINIC
 take steps toward a consistent removal program upon the basis of
 proper recommendations. The fact that some of these older Subnormals and Defectives are no longer attending school and give
 some relief to the employment problem in the home labor does not
@@ -1242,10 +1238,12 @@ alter the complicated risk of a poor program of individual and
 group discipline and socio-moral danger. The immediate corrective lies in the proper disposition of these cases to other institutions
 either by the Board of Managers or by the State Board of Children's
 Guardians.
+
 The folly of attempting the education of these latter individuals
 under the present public school arrangement of the home is more
 definitely indicated by the following tables which show the school
 retardation and advance of the entire group.
+
 The separate survey reports have indicated several causes which
 may account somewhat for this large amount of retardation, such
 as "late entering," "irregular attendance," "difference in school
@@ -1258,6 +1256,7 @@ that some of these latter continue to move ahead in the grade system
 surely cannot be traced to their scholastic achievement, but must
 be based on age and other school functional factors.
 Table V (a)
+
 B-1928 School Retardation (According to Chronological Age)
 0 yr.
 1 yr,
@@ -1414,7 +1413,7 @@ Total
 4
 5
 50
-286 TIIE PSYCHOLOGICAL CLINIC
+
 When school placement is considered on the basis of mental
 ability, as rated by the Binet Mental Age, a decided improvement of
 standing is indicated. However, interest, effort and time nsed in
@@ -1564,6 +1563,7 @@ Total
 23
 12
 50
+
 should be the main point of educational effort. At the end of the
 third survey 15 Normals are still 1 or 2 years below their capacity,
 while the Dull Normals and lower mental levels are either up to
@@ -1579,14 +1579,17 @@ of the Home is to be commended for the sincere effort which it
 sustains in individual personality development. However, a more
 definite effort should be put forth in carrying out the recommendations of the survey reports, both as to individual development and
 case disposition.
+
 Conclusions
+-----------
+
 The following conclusions are clearly indicated:
 1. The selection of children should be based upon a psychological
 examination with recommendations for personality development.
-288 THE PSYCHOLOGICAL CLINIC
 More adequate information of the child's education and training to
 date should be secured by a Social Investigator for aid in this
 recommendation.
+
 2. Sustained effort should be given by the staff in understanding
 and carrying out the recommendations to give each individual the
 highest possible personality development and social employability.
@@ -1597,6 +1600,7 @@ highest possible personality development and social employability.
 mental develoment record should parallel the present excellent
 health or physical records to form a complete cumulative personality
 record of each individual.
+
 5. The maintenance of such a policy, established by the Board
 of Managers, can only be attained by the persistent effort of a
 specifically trained director with a sufficient staff of capable workers.

@@ -1,7 +1,8 @@
 The Significance of Vocabulary in the Interview
 ================================================
 
-By Gladys C. Schwesinger
+:Author: Gladys C. Schwesinger
+
 There are but few objective facts to offer relative to the vocabulary of the interviewee. With the exception of studies on the very
 young child, whose knowledge and use of words could not be measured through any other medium than that of oral speech, and with
 the exception also of Snedden's2 work on adolescents, there are no
@@ -10,6 +11,7 @@ have been conducted by the written, pencil-and-paper, formal testing method, and
 The vocabulary of the interviewee, that is, his use and knowledge
 of the spoken word, has not received its fair share of attention,
 doubtless because of inherent difficulties involved in such.studies.
+
 The best justification for reporting on what vocabularies may
 be expected to indicate is the available evidence 011 the significance
 of vocabulary. Studies have been carried out from time to time
@@ -33,7 +35,7 @@ quality of the words chosen by the subject. For instance, does
 1 Read at the annual meeting of the National Vocational Guidance Association, Atlantic City, Feb. 21, 1930.
 2 Snedden, D. S. A study in disguised intelligence tests. T. C. Contrib.
 Educ. No. 291, 1927.
-124 THE PSYCHOLOGICAL CLINIC
+
 he tend to express himself in slang or in good English? Is he inclined to use a "high-brow" or a "low-brow" word in a given situation? His pronunciation, articulation, inflection and other speech
 factors have also been observed and related to personality.
 The methods employed for measuring and weighing the use and
@@ -66,9 +68,10 @@ This last method of measuring word knowledge lends itself admirably to adaptatio
 which Sneddon employed in his disguised intelligence tests. It has
 its difficulties and complications, but its diagnostic possibilities are
 promising.
+
 2 Rugg, H., Krueger, L., and Sondergaard, A. Study of the language of
 kindergarten children. J. Educ. Psychol., 1929, 20, 1-18.
-SIGNIFICANCE OF VOCABULARY 125
+
 The nature of the data accumulated in the various researches
 to which reference has been made may be briefly presented. The
 first point for consideration is the matter of sex differences. Up
@@ -101,7 +104,7 @@ observations led to a change in the rating of their intelligence and
 to crediting them with at least average mental ability. The conversation in each case was never allowed to stray beyond the limits
 set by the standardized interview. The sole reason for the shift
 in the estimate of their mental ability was the word knowledge indicated by the women.
-126 THE PSYCHOLOGICAL CLINIC
+
 From, many different studies we have evidence to show that
 vocabulary grows as knowledge grows. There is a progressive increase in growth of language ability from grade to grade. There
 is a definite and positive correlation between one's score on a general vocabulary test and a general knowledge test. This correlation
@@ -113,6 +116,7 @@ also for English. Kennon4 has offered a vocabulary test for teachers
 of high school English which in itself provided the best single measure for predicting success within the field of teaching English literature. Whipple5 has devised a word list to measure specific knowledge of any one of several fields. Familiarity with American history, for instance, will be tapped by the subject's knowledge of
 "Anthony Wayne"; or of French by " aujourdhui"; of social
 usage by "R.S.V.P."; of golf by "midiron," and so on.
+
 Again to illustrate the significance of this for the interviewer,
 consider the case of the student who presented herself as an applicant for training in the psychological clinic of a hospital. Ker only
 groundwork was a half course in the elements of psychology, and a
@@ -128,11 +132,12 @@ background, he could easily have found her out by this other
 method?that of using technical words and gauging her reactions,
 to note whether they indicated professional comprehension or lack
 of it.
+
 a Babbitt, E. II., A vocabulary test. Pop. Sc. Mo. 1907, 70, 378.
 * Kennon, L. II., Tests of literary vocabulary for teachers of English.
 T. C. Contrib. Educ. No. 223, 1926.
 5 Whipple, G. M., Manual of mental and physical tests. Part II. Baltimore, Md.: Warwick and York, 1915. (Pp. 308-332, 674-688.)
-SIGNIFICANCE OF VOCABULARY 127
+
 A fourth general line of evidence on factors behind vocabulary
 comes from research studies which attempt to relate vocabulary to
 social and cultural background. There is a definite and fairly high
@@ -151,6 +156,7 @@ an older age suggests that vocabulary may be more closely related
 to environment than intelligence is. The writer,6 in testing grade
 and high school children, found that the relation between vocabulary and social background, measured by two different scales, was
 .54 and .72 respectively.
+
 To illustrate the powerful force of home training on vocabulary development, an extreme case may be cited. This young man
 of twenty comes from an unusually cultured home. His father is
 an author of international fame; the other members of the family
@@ -162,12 +168,13 @@ word knowledge and general command of language is at least ninth
 or tenth grade. He has been well-brought up, is well mannered,
 6 Schwesinger, G. C., The social-ethical significance of vocabulary. T. C.
 Contrib. Educ. No. 211, 1926.
+
 7 Van Alystine, D., The environment of three-year-old children. Factors
 related to intelligence and vocabulary tests. T. C. Contrib. Educ. No. 3G6, 1929.
 8 Burks, B. S., The relative influence of nature and nurture upon mental
 development. Twenty-seventh yearbook, Nat. Soc. Study Educ. Part I, 1928,
 (pp. 219-31G).
-128 TEE PSYCEOLOGICAL CLINIC
+
 well-spoken, and unless one penetrates into any special subject of
 conversation, one would not discover his intellectual limitations.
 The discrepancy between his attainments and his verbal ability can
@@ -178,6 +185,7 @@ language responses are considerably superior or considerably inferior to their g
 social background and vocabulary in this group could be studied,
 it would doubtless throw more light on the degree of dependence of
 language growth on environmental supplies.
+
 This inter-relation of word knowledge and social background
 has been studied from still a different angle. Here the quality rather
 than the extent of one's vocabulary has been considered. For example, Wyman9 in California studied whether children were
@@ -192,6 +200,7 @@ from the standpoint of conduct. In the second experiment, the
 differences proved to be not so marked as in the first group. If
 this same experiment could be tried on different cultural levels,
 the results might be illuminating.
+
 This same tendency can be noted in children's responses to the
 word "curse" in the Stanford-Binet vocabulary. Young children
 from the lower socio-economic groups almost invariably, whatever
@@ -202,7 +211,7 @@ Genetic studies of genius, Vol. 1, Stanford Univ., Calif.: Stanford Univ. Press,
 1925. (Pp. 455-483.)
 10 Schwesinger, G. C. Slang as a factor in character. J. Appl. Psychol.
 1926, 10, 245-263.
-SIGNIFICANCE OF VOCABULARY 129
+
 A fifth, and more fruitful line of evidence on factors back of
 word knowledge, comes from the data gathered on the relation of
 general intelligence to language. This relation is so well supported
@@ -216,6 +225,7 @@ have pointed out that this high relationship is due to a spurious
 factor, because intelligence tests are heavily loaded with vocabulary
 elements. But even so, the fact remains that a vocabulary test measures whatever a general intelligence test measures, and makes that
 measurement with almost equal effectiveness.
+
 Hence, if it is possible in the course of an interview to get an
 estimate of,the vocabulary of the interviewee, one will, at the same
 time, have secured a fairly reliable guage of his general intelligence. People will often consent to taking a "vocabulary" test,
@@ -230,6 +240,7 @@ in such a way, that if the interviewee understands the meaning
 of the key word, his knowledge will be revealed by his answer. He
 can then be led through a scale of words which become harder and
 harder until the subject's limit is reached.
+
 The chief defect of this method is that the interviewer must
 be sure that the interviewee actually knows the meaning of the
 word; or that, in other words, he is not "bluffing." Questions
@@ -238,20 +249,26 @@ These and other complications render the "disguised" method of
 testing intelligence somewhat impracticable, but with further experience, the difficulties should be overcome.
 11 Terman, L. M., Measurement of intelligence. Boston: Houghton, Miflin,
 191G (p. 230.)
-130 THE PSYCHOLOGICAL CLINIC
+
 Summary
+--------
+
 With the exception of the work on pre-school children very
 little has been done on the oral vocabularies of children or adults.
+
 The importance of pursuing such research is indicated by the significant results obtained from studies on groups or individuals to
 whom formal vocabulary tests have been applied.
+
 Methods have varied from that of counting the words actually
 used in a given time, to formal definition requirements, and more
 recently to presenting the test word in a sentence and requiring
 an understanding answer. This last method, which has most promise
 for the interview, has not yet been perfected.
+
 The influences at work in determining the quality and extent
 of a person's vocabulary are: general intelligence; chronological
 age up to adult mental levels; environment, consisting of such determiners as education, general knowledge, social and cultural background, special interests, and special experiences.
 Knowledge of what good and poor vocabularies signify may
 guide the observation of the interviewer in regard to these factors.
+
 Much more research is needed before these factors can be designated as facts.

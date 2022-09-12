@@ -5,7 +5,7 @@ The Psychological Clinic
 Copyright, 1932, by Lightner Witmer, Editor
 Vol. XX, No. 8 January, 1932
 
-By R. A. Bkotemabkle, Ph.D.
+:Author:  R. A. Bkotemabkle, Ph.D.
 University of Pennsylvania
 Assisted by
 Dorothy M. Bassett Cornelia B. Meytroti
@@ -27,8 +27,7 @@ of the Department of Institutions and Agencies of the State of New
 Jersey. The survey was conducted by Mrs. Cornelia B. Meytrott
 of the Department. The psychological examinations were in charge
 of Miss Dorothy M. Bassett, Psychologist of the Vineland State
-225
-226 THE PSYCHOLOGICAL CLINIC
+
 School, Vineland, New Jersey, assisted by Miss Lucile D. Moore
 and Miss Margaret E. Lawler. In May 1929 a second survey was
 made under tlie direction of the author, the psychological examinations being in charge of Dr Charlotte Easby-Grave, Clinical Psychologist and Consultant. In June 1930 a third survey was made
@@ -38,6 +37,7 @@ The surveys were approximately one year and one month apart
 and included the following distribution of individual cases. (Hereafter the three surveys will be designated by the abbreviations
 B-1928, G-1929 and R-1930, to indicate the examining psychologist
 and year of survey.)
+
 Cases in Study Yearly Overlapping
 Total B-1928?48 B-1928 ?11
 67 G-1929?50 B-1928]
@@ -50,6 +50,7 @@ G-1929)
 R-19201
 R-1930 ? G
 ?13
+
 The individual case studies are presented in chronological age
 order as a cumulative record. The tests used each year are readily
 identified. All tests were used under the standard procedures and
@@ -62,10 +63,10 @@ the Psychological Clinic of the University of Pennsylvania. The
 percentile ratings are taken from the year or school grade level
 indicated in italics with each yearly examination record, i.e. 6 yr.,
 as follows:
+
 5.4 yr. to 3.7 yr.?Mental Tests for Pre-Scliool Children, Dorothy Kern Hallowel, Psycliol. Clinic, 1928, 16, 235-276.
 C yr. ?Tests and Norms at the Six Year Old Performance Level,
 Charlotte Easby-Grave, Psychol. Clinic, 1924, 15, 261-300.
-THE PERSONNEL OF A CHILDREN'S HOME 227
 8 yr- ?The Eight Year Level of Competency, Genevieve McDermott-Murphy (an unpublished Mss. in Department of Psychology, University of Pennsylvania).
 10 yr. ?The Ten Year Level of Competency, Miles Murphy, Psychol. Clinic, 1928, 17, 33-60.
 J2 yr. ?The Performance Level of Children in the Fifth Grade in
@@ -74,11 +75,13 @@ Psychol. Clinic, 1931, 19, 233?257.
 *"r> yr. ?Tests and Norms for Vocational Guidance at the Fifteen
 Year Old Performance Level, Learning, E.E., Psychol.
 Clinic, 1924, 15, 261-300.
+
 At the conclusion of each survey the examining psychologist has
 presented to the Board of Managers a comprehensive record of each
 child including specific recommendations for guidance or disposition. These are not of immediate interest and have been reduced
 to a minimum of specific recommendations in certain cases, while
 in others a general type of procedure has been indicated.
+
 The Cumulative Case Records
 Case 1?F. b. Feb. 19, 1927.
 1928?B No examination. Not in Home.
@@ -103,7 +106,6 @@ I.Q. 92.8
 Witmer FB?(1) 160", 80 percentile; (2) 60"- (3)
 105"
 Memory Span Audito-Vocal?4 90 percentile
-228 THE PSYCHOLOGICAL CLINIC
 Diagnosis: Normal. Speech defect.
 Recommendation : Corrective personality development. Corrective speech.
 1930?R C.A. 4.3
@@ -352,7 +354,6 @@ Dearborn FB?(1) DNC, (2) 270"
 Memory Span AV?3, 20 percentile; R?0, 40 percentile; L?0, 20 percentile
 Diagnosis: Normal. Behavior problem. Temper. Mental deficiency background in father and brother.
 Recommendation : Corrective personality development. Placement institution.
-THE PERSONNEL OF A CHILDREN'S HOME 235
 1930?R C.A. 7.7 99 percentile 1st grade.
 8 year M B.A. 7.0 1A reading poor.
 M.A. 7.3 1st grade arithmetic
@@ -572,8 +573,8 @@ Porteus Maze?Mental Age 4
 Goddard FB?Mental Age 5.8
 Army Designs?Mental Age 7.5
 Diagnosis: Normal with high I.Q.
-THE PERSONNEL OF A CHILDREN'S HOME 241
 Recommendation: Remain in Home.
+
 1929?G C.A. 7.6 10 percentile IB grade
 6 year F B.A. 7.0
 M.A. 8.0
@@ -600,6 +601,7 @@ Case 25?M. b. Sept. 28, 1921.
 I.Q. 97.5 20 percentile
 Porteus Maze?Mental Age 8
 Goddard FB?Mental Age 7.8
+
 Diagnosis: Normal. Nervous high strung temperament.
 Recommendation : Rest period during day. Remain in Home
 until return to parents.
@@ -608,7 +610,6 @@ until return to parents.
 I.Q. 120.6 90 percentile
 Healy A?(1) 80", (2) 90", (3) 10"; B (1) 225",
 (2) 32"
-242 THE PSYCHOLOGICAL CLINIC
 Dearborn FB?(1) 185", 80 percentile; (2) 165",
 50 percentile
 Memory Span AV?5, 50 percentile; R?4, 90 percentile ; L?6 on 2d

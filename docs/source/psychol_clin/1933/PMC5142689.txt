@@ -7,7 +7,8 @@ Vol. XXII, No. 1 March-May, 1933
 PROMETHEAN CONSTELLATIONS
 PART I
 
-By Henry E. Starr, Ph.D.
+:Author:  Henry E. Starr, Ph.D.
+
 Read of the Department of Psychology and Director of the Psychological and
 Mental Hygiene Clinic of Eutgers University
 Consulting psychologists are increasingly being called upon to
@@ -17,6 +18,7 @@ are applying to them for first aid. Many quite severe cases are
 being referred to them for study and treatment by honest and
 capable physicians who have first assured themselves by thorough
 examination that there is no detectable organic basis for the disorder.
+
 The responsibility thus entailed is great. "We need especially
 to be on our guard against permitting ourselves to slip into the
 morass of a lop-sided cult.2 As psychologists, presumably acquainted with the basic principles of psychology, familiar with the
@@ -26,7 +28,6 @@ broad psychonomic lines.3 As Witmer has pointed out, it is imposi Read at the an
 2 A not unlikely danger. Cf. Starr, H. E. Certain Phases in the Psychology of Psychologists, Psychol. Clin., 1932, 21, 69-76.
 3 The term '' psychonomic'' is employed in the Witmerian sense as denoting "what is in conformity to a fundamental or universal law of thought.
 The orientation of the c].'nical psychologist is, or at least ought to be, psy1 1
-2 THE PSYCHOLOGICAL CLINIC
 sible to make adequate interpretations of human behavior "without having had instruction in the psychological diagnosis of normal
 mentality, personality and will."4 In that sentence, perhaps, is
 the key to the inadequacy of much of modern psychopathically
@@ -39,6 +40,7 @@ University. They are clinical and empirical findings based upon
 the scientific study of both normal and abnormal individuals and
 they point definitely to certain conclusions important to the adequate understanding and treatment not alone of such as may
 seriously require orthogenic aid but of human beings in general.
+
 During the past four years, approximately 1,000 individuals
 have been examined at the Rutgers Clinic. In most cases some attempt has been made to study the personality from the six points
 of view required by the psychonomic orientation. In many instances, prolonged analyses have been conducted, involving dream
@@ -49,7 +51,6 @@ because of obvious symptomatology in a particular case, expect to
 find an (Edipus complex, he sedulously avoided steering in that or
 any other direction. Nor was an analysis necessarily terminated
 when an expected complex appeared. That is, of course, an
-?
 chonomic. . . . Psychonomics is the body of fundamental laws or axiomatic
 truths involved in the psycho-analytic interpretation of human behavior. The
 term is more inclusive than the word 'psycho-analysis' which in its Freudian
@@ -65,8 +66,8 @@ Diagnosis and the Psychonomic Orientation of Analytic Science. Psychol.
 Clin., 1925, 16, 1-18. Reprinted in Clinical Psychology, edited by R. A.
 Brotemarkle, University of Pennsylvania Press and Oxford University Press,
 Philadelphia and London, 1931.
+
 4 Quoted from article cited in preceding foot-note.
-PROMETHEAN CONSTELLATIONS 3
 egregious error of technique to which we all are liable unless definitely on our guard against it. When, in the course of analytic
 exploration, the particular kind of complex anticipated does appear, it is all too easy to stop the analysis. Obviously, the patient
 should be encouraged to continue his associations beyond the point
@@ -74,6 +75,7 @@ of the initial appearance of any particular complex or constellation. One can al
 leads definitely through it and beyond to some quite different and
 more deeply seated and disturbing element. Let me illustrate
 with a case from the clinic files.5
+
 L. was a junior in college when his family physician sent him
 to us because of a marked anxiety neurosis, complicated by specific
 phobias. "Without any suggested lead from the examiner, the trail
@@ -87,6 +89,7 @@ root cause of his disorder was the repression of a strongly motivated
 constellation urging in the direction of that which the famous
 "Brother Lawrence" spoke of as "the habitual sense of God's
 presence.''6
+
 As a child, L. had been quite sympathetic toward all animate
 things and empathetic toward the inanimate. "An universal livingness in nature," " a feeling with and into things," "an ever
 present spiritual being"?emotionalized ideas such as these, early
@@ -98,12 +101,12 @@ certain psycho-analysts by whom, I understand, it is not unusual for a patient
 to be given an encouraging booklet on the subject even before exploratory
 analysis, I have selected a case who displayed a homo-sexual symptomatology?
 as the result of reading such a tract.
+
 6 ffloge, on Abrege de la Vie du Frere Laurent de la Resurrection. In
 Recueil de Divers Traites de Theologie Mystique qui entrent dans la Celebre
 Dispute du Quietisme qui s'agite presentement en France. Cologne, 1699.
 There are several translations into English under the title of "The Practice
 of the Presence of God," by Brother Lawrence (Nicholas Herman).
-4 THE PSYCHOLOGICAL CLINIC
 cal classes. He was sent to church. He was sent "to seek God"
 in conformity with the standards of his group. An intensely
 anthropomorphic concept was forced upon him. His earlier feelings, ideas, satisfactions and ideals were tabooed. "God couldn't
@@ -138,7 +141,6 @@ social group, whether that be family, church or college, and which
 are consequently repressed by social taboo. These ideals are not
 always, or even most frequently, specifically religious, in the usual
 sense of the word, or involving reference to the same name by which
-PROMETHEAN CONSTELLATIONS 5
 the Supreme or the Supernal may be called. Many times it is not
 "God," but "Truth," "Social Justice," "Integrity," "Mercy,"
 around which clusters the Promethean constellation. But always
@@ -147,6 +149,7 @@ the direction of a " preferred perfection.''7 For example, a compulsion neurosis
 termed the "rechannelling of the libido" attending the relatively
 simple expedient of the patient taking a course in analytical chemistry, wherein he had his first experience with the accurate and
 impartial methods of a scientific laboratory.
+
 It is true that many of our cases revealed a disordered repression of some phase of sexuality or of an overweening "will to
 power." Probably many of the corresponding complexes are
 present to some degree in each of us. I would not gloss over that
@@ -170,10 +173,10 @@ to assist the individual to attain his ontic norm and so to be his
 Higher Self. We can the better do this if we realize, in each individual case, that the ontic norm is itself largely determined by
 7 For Witmer's introduction of the phrase '' preferred perfection,'' see
 his article cited above.
+
 8 '' Orthogenics in the field of human psychology is defined by whatever is
 considered normal in the development of human personality and character.
 The orthogenic treatment includes any agency known to science likely to develop, preserve or restore personal competency."?Witmer, previous citation.
-6 THE PSYCHOLOGICAL CLINIC
 Promethean constellations and that these constellations, at least
 in many instances, are so extensive and organized that their integration constitutes a Higher Self.
 The conclusions presented in this paper should not seem too
@@ -187,6 +190,7 @@ But they are implicit in the psychonomic orientation of Witmer.
 The "instinct-emotion" systematizing of McDougall is quite suggestive. The "anagogic" concepts of Silberer are illuminating.
 And a similar trend of thought is increasingly manifest in the later
 writing of Jung, much of which is distinctly psychonomic.
+
 But, why multiply references to the moderns ? The conclusions
 are a restatement in new terms of a very old truth. The novelty
 consists but in the fact that they represent the scientific postanalytic confirmation of a pre-analytic generalization?an olden

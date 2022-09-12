@@ -1,11 +1,12 @@
 Statistical Results of an Eight-Year Testing Program of a Psychological Clinic in a Charity Hospital
 ======================================================================================================
 
-By Persis White Simmons, Ph.D. 1
+:Author:  Persis White Simmons, Ph.D. 1
 The Psychological Clinic of the Indiana University Medical
 Center was opened February, 1923,2 under the direction of the late
 Herman H. Young, professor of Clinical Psychology at Indiana
 University.
+
 It was the desire of President W. L. Bryan, Dr Charles P.
 Emerson, Dean of the Medical School, Dr Frank Hutchins, Head
 of the Department of Nervous and Mental Diseases, Robert E.
@@ -19,6 +20,7 @@ The purpose of this paper is to present the data from the routine psychometric e
 charity. The work covers an eight-year period. During this time
 the work was first under the direction of Herman H. Young and
 later under the direction of Mary H. Young.
+
 Although the work was done in a hospital clinic, no individual
 was given a psychological examination when he was acutely ill.
 Each examination was made when the individual was able to leave
@@ -28,16 +30,18 @@ to the examination and even begged to be "next." It was possible
 to establish exceptionally fine rapport with practically every child.
 i Assistant Director of Research, Psychological Clinic, Indiana University
 Hospitals, 1928-1931.
+
 2 Young, H. H. The Psychological Clime, Indiana University, Indiana
 University News Letter, 1928, 11, 1-8.
 128
-STATISTICAL RESULTS OF TESTING PROGRAM 129
+
 The routine examinations which are tabulated here do not include the entire program of the clinic. Coincident with the testing program, recommendations were made in regard to the disposition of the cases and psychological research was directed in the
 field of speech, the training of spastics, behavior and personality
 problems. We are concerned here, however, only with the trend
 of the test scores secured over a period of eight and one-half years,
 on over two thousand individuals that came from homes of inferior
 economic status.
+
 The Stanford Revision of the Binet-Simon Intelligence Scale
 The Stanford Revision of the Binet-Simon Intelligence Scale
 could be given to only 2315 of the total number of 2558 cases. Age,
@@ -60,6 +64,7 @@ Age Cases
 16 22
 Older than 16 68
 Total 2315
+
 The frequency at the different ages does not vary significantly.
 From ages five through fifteen it is practically the same at each
 age. Below five and above fifteen years of age there are fewer
@@ -71,7 +76,7 @@ agencies. The few cases below five years of age may be due to the
 fact that most children below six are not yet in school and to the
 fact that unusual physical or psychological development is not so
 noticeable to the layman when a child is very young.
-130 THE PSYCHOLOGICAL CLINIC
+
 Table I shows the I.Q.3 distribution of the experimental cases
 from age five through age fourteen. The I.Q.'s have been grouped
 in intervals of ten. The percentage of cases which occurs at each
@@ -84,6 +89,7 @@ Any arbitrary unit of I.Q.'s may be compared and it will be
 noted that the I.Q.'s of the experimental group are definitely inferior to those of the control group.
 For example, consider the units in which approximately one
 third of the I.Q. 's of the control group occurred:
+
 31.3 per cent of the I.Q.'s of the control group, were lower than 96.
 69.3 per cent of the I.Q.'s of the experimental group were lower than 96.
 33.9 per cent of the I.Q.'s of the control group were between 96 and 105.
@@ -94,6 +100,7 @@ and 105.
 Consider the range between I.Q. 86 and I.Q. 115.
 77.1 per cent of the control group were in this range.
 47.5 per cent of the experimental group were in this range.
+
 The distribution of the control group above and below this
 range is comparatively equal, but the distribution of the experimental group is definitely weighted at the lower extremity.
 11.2 per cent of the I.Q.'s of the control group were below 86.
@@ -108,7 +115,7 @@ reference in mental and educational measurements, The Educational Outloolc,
 and for the sake of clarity '1 I.Q.'' is used in this article.
 4 Terman, L. M. The measurement of intelligence, New York, Houghton
 Mifflin Co., 1916, p. 66.
-STATISTICAL RESULTS OF TESTING PROGRAM 131
+
 94.7 per cent of the control group were in this range.
 69.0 per cent of the experimental group were in this range.
 Again, the distribution of the control group above and below
@@ -128,8 +135,10 @@ Table II presents the I.Q. range and the quartiles for each age.
 The ages have been grouped in twelve-month units; for example, 3
 includes all children 3 years 0 months of age to 3 years 11 months
 of age, inclusive.
+
 The median I.Q. at any given age is lower than the approximate
 median I.Q. of the control group, 100.
+
 In the control group, the distribution of I.Q.'s at each age from
 5 to 14 was symmetrical. The middle fifty per cent of the I.Q. 's of
 the cases fell approximately between 93 and 108; that is, Qx was approximately 93 and Q, was approximately 108.
@@ -153,11 +162,13 @@ the control group were "left-over retardates" and "below average
 in intelligence.'' They would, therefore, be expected to have lower
 test scores than the younger children of the control group who were
 more truly an "unselected" group.
+
 Both Table I and Table II show that one conclusion is clearly
 Table I
 Intelligence Quotient Distribution
 Stanford Revision, Binet-Simon Intelligence Scale
 Ages 5 to 14 Inclusive
+
 I.Q.
 Range
 Experimental Group
@@ -333,7 +344,7 @@ Older than 16 ..
 91
 93
 83
-STATISTICAL RESULTS OF TESTING PROGRAM 133
+
 evident: the test scores of the experimental cases are definitely
 and consistently inferior, from ages 4 to 15, to the test scores of
 the control group. In fact, the average I.Q. for the entire experimental group is 84.2, which is 15.8 points lower than the
@@ -346,6 +357,7 @@ Medical Center Group is that the criteria for social classification
 used by the teachers who selected Terman's ' inferior social class
 included a social group above the level that would be declared
 "indigent" by a court.
+
 It is a justifiable prediction, on the basis of the results obtained
 at the Medical Center, that individuals who are dependent on
 charity will as a group rank inferior to an unselected group on the
@@ -357,18 +369,21 @@ scores were made by this group than by the control group. Only
 24 per cent of the experimental cases had I.Q.'s above 100, whereas
 approximately 50 per cent of the control group had I.Q.'s above
 100.
-Results of the Witmer Formboard
+
+Results of the Witmer Formboard\
+
 The Witmer Formboard was given to one thousand nine hundred sixteen of the experimental group. Those who were crippled
 in any manner were eliminated from this study. One thousand
 eight hundred seventy-three were under sixteen years of age. The
 decile rankings of the first trial records of these cases were computed according to the standardization of H. H. Young and M. H.
 Young.6
+
 The number of cases in each decile and for each age group is
 given in Table III. There was a negligible sigma difference between the scores of the boys and those of the girls and the results
 were, therefore, combined in one table. The chronological ages
 5 Terman, L. M. Op. tit., p. 72.
 6 Young, H. H., & Young, M. H. The Witmer formboard?first trial records, Psycliol. Clin., 1923, 15, 85-92.
-134 THE PSYCHOLOGICAL CLINIC
+
 Table III
 Age-Decile Distribution of Experimental Group on Witmer Formboard
 Age
@@ -535,10 +550,12 @@ Total
 151
 13
 1916
+
 Note: Young's standardization of Witmer Formboard used.
 are indicated in the first column. The deciles are indicated across
 the top of the table. The figures appearing in the table are the
 number of cases found in each age-decile unit.
+
 In order to compare the test performances of the experimental
 group with those of an unselected group, the unselected cases examined by the Youngs will be referred to as the control group.
 In the standardization of the control group, the zero column represented the longest time record for each age. In this table it
@@ -554,10 +571,10 @@ cases at any given age. The time records of the experimental
 group do not conform to the distribution for the control group?
 there is a preponderance of cases in the 0 column as will be noted
 from either Table III or Table IV.
+
 Table IV indicates the percentage of experimental cases which
 occurred in each age-decile unit. It indicates the respective percentages for the figures which appear in Table III.
 7 Indicated as 100 by Young.
-STATISTICAL RESULTS OF TESTING PROGRAM 135
 Table IV
 Experimental Group
 Percentage of Cases in Each Decile for Each Age on Witmer Formboard
@@ -722,6 +739,7 @@ Adult
 100.0
 100.0
 100.0
+
 Note: Young's standardization of Witmer Formboard used.
 The inferiority of the time records of the experimental group
 is evidenced by the zero column: e.g., at four years of age the time
@@ -733,7 +751,10 @@ poorest time record of the control group. Although there were
 instances in which individuals of the experimental group did as
 well as those of the control group, more of the time records of the
 experimental group fall in the lower deciles.
+
 Psychological Conclusions
+--------------------------
+
 The psychological diagnosis or conclusion for each case was
 made according to the Herman H. Young modification of the Goddard classification. The Young classification is not based on the
 I.Q. alone, but is an index of the ability of the child, inferred by
@@ -743,8 +764,9 @@ is, the ultimate limit of possibility of development of abilities. It
 is a prediction of the complexity and proficiency of performances
 which could be expected of the individual in the most favorable
 environment.
+
 8 See 3, p. 16.
-136 THE PSYCHOLOGICAL CLINIC
+
 Table V gives the classification which was used and the number of cases for each clinical conclusion. Here again, we find a
 large percentage of the experimental cases to be of inferior ulopoda. Seventeen and four tenths per cent were classified as
 Table V
@@ -774,7 +796,10 @@ group 63.8 per cent could not be expected to compete satisfactorily
 with the average of their respective age groups. Only 21.5 per
 cent were of "average normal mental ability"; and 14.7 per cent
 were above "average."
+
 Summary
+---------
+
 1. Age did not affect the frequency of cases between the ages
 of five and fifteen.
 2. The Binet Test performances of the group as a whole were

@@ -1,8 +1,9 @@
 A Pre-School Character Rating Chart
 ===================================
 
-K. M. Banham Bridges
+:Author: K. M. Banham Bridges
 Psychologist, McGill University Nursery School
+
 The educational function of the nursery school differs considerably from that of the primary or secondary school. Nursery
 school education is concerned mainly with the development of
 character, of social behavior and of emotional adjustment and only
@@ -25,14 +26,16 @@ children's characters and follow their character development. This
 rating chart is described in the following paragraphs together with
 a few results obtained from its application in the McGill University
 Nursery School.
+
 The chart was made at the suggestion of the senior teacher,
 Miss G. A. Watkins, and was intended as a practical device to
 serve temporarily in the absence of more exact methods for measuring the components of character. Throughout the period of
 experimentation with this character rating chart, Miss Watkins
 cooperated closely, offering suggestions and criticisms based on
 her long experience with pre-school children thus taking a considerable part in the devising of the chart.
-62 THE PSYCHOLOGICAL CLINIC
+
 Method of Construction of the Chart
+
 Since the aim in making the character chart was to create
 something which would be practical and useful to nursery school
 teachers who had had little or no training in psychology, there
@@ -46,6 +49,7 @@ usually colored by moral and social evaluation. Parents and
 teachers not trained in scientific methods can scarcely be relied
 upon to make unbiased statements or judgments with regard to
 children's behavior.
+
 In order to meet the above difficulties it was decided to make
 a rating chart which would utilize the normal tendencies, to give
 opinions and to evaluate, rather than have them as interfering factors in a more scientifically exact measuring scale. To offset the
@@ -56,6 +60,7 @@ in the chart, as it was found by actual experiment that there was
 less difference in the meanings they ascribed to the more common
 though vague terms of popular speech than to the more definite
 but less familiar terms of the psychologist.
+
 Lists of adjectives and statements describing children's character and behavior were drawn up by the writer and Miss Watkins.
 From these items were selected all those which would tell something it was desirable to know about a child's character, apart
 from intelligence and skill. Although some of the items indicated
@@ -65,9 +70,6 @@ adjectives qualifying behavior, such as "affectionate," "rough,"
 "trustworthy," and statements about behavior such as "plays
 alone," "shows off intrusively," which could not be put satisfactorily into adjective form. Synonyms and statements describing
 similar aspects of character were eliminated, also phrases describing character types rather than traits. Long phrases were shortened so as to fit into a compact form or chart.
-1 See Chap, vii, "Judging Human Character," by H. L. Hollingworth.
-Appleton, 1922.
-PRESCHOOL CHARACTER RATING 63
 Finally, fifty concise items were selected which described
 different aspects of a child's character of which the teachers desired to have some estimate. These were arranged as alternative
 statements or characteristics in paired opposites, the more socially
@@ -77,6 +79,7 @@ was later changed to personal) and emotional. The first half of
 the social group contained items referring to a child's relation with
 other children and the second half contained items referring to
 his relation with adults.
+
 Twenty duplicate charts were typed, one for each child in
 the McGill University Nursery School. The members of the school
 staff who came into frequent contact with the children then rated
@@ -97,6 +100,7 @@ child. After a few trials it was found necessary to omit from the
 average the score of any rater who had marked ? against ten or
 more items, as such scores were too unreliable and were found to
 vary considerably from the scores of other raters.
+
 After several ratings had been made at intervals of one or
 two months conferences were held with the staff and the chart was
 revised. Some of the items were eliminated as being too ambiguous
@@ -105,19 +109,21 @@ been considerable variation in scoring among the staff the items
 were carefully checked in order to detect ambiguities in meaning.
 The social desirability of the alternative characteristics in each item
 was considered by the staff, and the items were again arranged so
-64 THE PSYCHOLOGICAL CLINIC
 that, in the opinion of all, the first alternative represented the more
 desirable characteristic. Tendencies of the staff to be biased in
 their ratings of different children were noticed, but when the estimates of all four raters were pooled these tendencies were seen to
 be counterbalanced to some extent. The revised form was used
 again in the Nursery School, ratings being made on the children
 at intervals of one or two months.
+
 Below is a sample of the Character Rating Chart in its final
 form together with the directions for rating and scoring the chart
 to be given to each rater. The columns at the side of the chart
 are used for markings by four raters, more may be added if desired.
-McGILL PRE-SCHOOL CHARACTER RATING CHART
+
 Directions for Rating
+----------------------
+
 Which characteristic predominates? From your personal observation,
 not from someone else's report, mark (1) if the left hand and (0) if the
 right hand characteristic applies more nearly in each case. Mark both (1)
@@ -125,10 +131,14 @@ and (0) if both apply equally well, and mark (-) if neither is applicable.
 Mark (-) also against the item where no observation has been made.
 Do not look at the marks of other raters. Cover them with a strip of
 paper before marking each chart.
+
 Directions for Scoring
+-----------------------
+
 Score one point for each (1) and half a point for each (1 0) marked
 by a single rater and add the total number of points, disregarding an odd
 half point.
+
 Find the percentage score by dividing the total number of points
 (multiplied by 100) by fifty minus the number of items marked (-).
 -r, . Total score (items marked (1) X 100
@@ -136,8 +146,11 @@ Percentage score = - v ' ??- .
 50?items omitted (marked (?))
 The Character Rating Score for each child is the average of the percentage scores of all rates. If any rater has marked 10 or more items (?),
 his or her score is not included in the average.
+
 McGill Pre-School Character Rating Chart
+
 DateSOCIAL
+
 1. Plays with others or plays alone
 2. Leaves others alone or interferes
 3. Gentle or rough with others
@@ -175,7 +188,10 @@ Personal
 33. Not destructive or destructive
 34. Original or not original in play
 35. Imaginative or unimaginative
+
 Emotional
+-----------
+
 36. Cheerful or grave
 37. Not variable or variable in mood
 38. Spontaneous or restrained
@@ -194,8 +210,10 @@ Emotional
 Score
 Average % score Number scored
 % score
-66 THE PSYCHOLOGICAL CLINIC
+
 Results
+---------
+
 All the children in the McGill Nursery School were rated on
 the chart seven times between March, 1927, and April, 1928, by
 four raters: the teachers in charge of each group, the psychologist
@@ -216,11 +234,13 @@ the tables the results obtained when the first form was used are
 marked I, and when the second form was used they are marked II.
 All scores here presented are per cent scores brought to the nearest
 whole number.
+
 The scores of individual children varied considerably, ranging
 between 31 and 94 per cent, with the majority falling between
 60 and 80 per cent. The average scores for each school group and
 for the whole school are shown below in Table I. There were
 Table I. Summary of Character Rating Scores
+
 Date
 Group A Av. Group B Av. School Av
 I. March, 1927..
@@ -263,7 +283,7 @@ I and II Average.
 66
 71
 69
-PRE-SCHOOL CHARACTER RATING 67
+
 equally high and equally low scores in the two school groups though
 the majority of scores in Group A were lower than most of the
 scores in Group B. This difference is shown in the average scores
@@ -282,6 +302,7 @@ with age and school attendance. The slight drop in the scores from
 May to October and December to January is probably due to the
 above mentioned factors, admittance of new children and promotions from Group A to Group B.
 Age Differences
+
 There was a noticeable correspondence between Character
 Rating Score and age. Taking the results of all seven ratings, between March, 1927, and April, 1928, together, the average score
 for children between two years and four months and two years
@@ -289,6 +310,7 @@ eleven months was 60 per cent. The average score for three year
 olds, between three years and three years eleven months, was sixtydght; and the average for four year olds, between four and five
 years, was 76 per cent. This age difference was noticeable even
 m half year stages as may be seen from Table II.
+
 The scores should be read across the columns and not down
 them, for in many instances scores in the same age group for
 the different months represent ratings on different children. The
@@ -298,7 +320,7 @@ and skills. One would expect that character ratings would not
 correlate so highly with age as do intelligence test results. The
 scores on the Character Rating Chart indicate individual differences rather than age differences.
 It will be noticed, however, that the average scores for the
-68 THE PSYCHOLOGICAL CLINIC
+
 Table II. Average Scores in Half-Year Age Groups.
 Month
 2 to 2-5
@@ -378,6 +400,7 @@ I and II Average. .
 64
 74
 78
+
 children between three and three and a half years old are higher
 than the scores for children between three and a half and four
 years of age. This may be accounted for perhaps in the following
@@ -389,6 +412,7 @@ group. Thus a child of three years and five months about to graduate from Group 
 with the younger children, whereas a child only a month older
 in Group B would be scored low as a result of comparison with
 older children in the group.
+
 Moreover, the problem of adjustment is harder for the younger
 child in the group than for the older child. One kind of character
 trait may be brought out when a child has to compete with others
@@ -400,10 +424,12 @@ scores of these two age groups obtained December, 1927, to April,
 this period, while there were two very poorly adjusted children in
 the three and a half to four year group. Since there was only an
 average of four children in a half-year age group an extreme in
-PRE-SCHOOL CHARACTER RATING 69
 any one child's score was bound to make a noticeable effect on
 the group average.
+
 Effect of Promotion in School
+-------------------------------
+
 The average of the scores of the eight children who were
 promoted from Group A to Group B during the year was found
 for the months before and after promotion. Before promotion
@@ -411,7 +437,10 @@ the average score was 69 per cent and after promotion the average
 score of the same children was 66 per cent. This slight drop in
 the score may be accounted for in the same way as the drop in
 the average score of the three and a half year age group.
+
 Effect of Length of Attendance at School
+-----------------------------------------
+
 The scores of the children in Group A and B obtained from all
 the ratings were tabulated according to the number of months since
 the admission of each child to the school, regardless of the age of
@@ -430,6 +459,7 @@ Group A at three and a half years and who had been in the school
 several months. In addition to these was an equal number of
 older children between four and five years of age who had been
 m the school a year or more.
+
 The results for Group B showed an increase in score after
 six months' attendance at school. But the results for Group A
 showed no increase in score with length of school attendance.
@@ -439,7 +469,6 @@ the school longest were for the most part older than those more recently admitte
 time spent at school is probably due to the fact that differences
 in score due to school attendance were entirely obscured by the
 large individual differences in scores. As previously mentioned,
-TO THE PSYCHOLOGICAL CLINIC
 the scores in Table I show a slight increase due to the combined
 effect of school attendance and monthly increase in age. Table III
 below shows the average scores arranged according to school attendance in three month intervals.
@@ -463,7 +492,10 @@ Group B
 80
 67
 76
+
 Comparison With Intelligence Test Results
+-------------------------------------------
+
 The character rating scores obtained in May and in December,
 1927, were compared with the Stanford-Binet Intelligence Quotients of the children and also with their median scores on the
 Stutsman performance tests. The character rating scores were
@@ -472,6 +504,7 @@ showed practically no relation to performance test scores. The coefficient of co
 character scores and the Stanford-Binet Intelligence Quotients in
 May was + -39 and in December, -f- .67. The coefficient of correlation between character scores and median performance scores
 in May was .123 and in December -f- .003.
+
 The reason for the correlation of character ratings with Stanford-Binet Intelligence Quotients will probably be apparent to
 those who have worked with the Binet tests at the lower age levels.
 In order to do his best on a Binet test a child must be fairly well
@@ -487,19 +520,22 @@ of intelligence. It is obvious, however, that both intelligence tests
 and character ratings are measuring in part the same things, for
 character and intelligence can never be entirely separated.
 The performance test situation is somewhat different from the
-PRE-SCHOOL CHARACTER RATING 71
 Binet test situation. The child is freer to do as he chooses with the
 material. The tasks that are set for him to do are more in accordance with his spontaneous interests, and he is not required
 to repeat so many words. A timid or negativistic child might do
 fairly well on the performance tests and yet be scored low on
 the Binet tests and the Character Rating Chart.
+
 Comparison of Sexes
+--------------------
+
 The average scores of the girls and the boys in Groups A and
 B were found for all seven ratings. These are presented in Table
 IV. As may be seen, the scores show almost a negligible difference
 in favor of the girls. This difference is probably so slight as to
 be due entirely to chance or individual differences in such a small
 number of cases.
+
 Table IV. Average Character Scores According to Sex
 Girls
 Boys
@@ -520,7 +556,10 @@ Average
 67
 72
 70
+
 Comparison With Order of Merit Rating by the Staff
+----------------------------------------------------
+
 In the absence of any means of testing the reliability of the
 Character Rating Chart, the scores for March, 1927, and January,
 1928, were compared with order-of-merit ratings of the children
@@ -533,13 +572,13 @@ By allotting marks according to rank a final order of merit list
 was drawn up which comprised the pooled ratings of the four members of the staff. This list was compared with the rank order of
 the children obtained later according to the character rating scores.
 In both March and January there was very close agreement between these lists. In January the coefficient of correlation, by the
-72 THE PSYCHOLOGICAL CLINIC
 rank difference method, for Group A was -f- -99 and for Group B
 -{- .98. These results indicate very strongly that in marking the
 children on the Character Rating Chart the raters were wittingly
 or unwittingly comparing each child with the others in his group
 in respect to each item, and in this way they arrived at an order
 of merit rating of the children.
+
 The ratings of the different members of the staff agreed fairly
 closely. The average coefficient of correlation, according to the
 rank difference method, between the ratings of different raters
@@ -548,7 +587,10 @@ towards the end of the school term than at the beginning. This
 was probably due to the fact that by the end of the term the raters
 had had more time to observe the children and therefore knew them
 better.
+
 Conclusions
+-------------
+
 The Character Rating Chart described in this article has shown
 its usefulness in roughly differentiating pre-school children in a
 group with regard to general character. The staff of the McGill
@@ -558,6 +600,7 @@ children. It also showed them more clearly than they could guess
 unaided where the stronger and the weaker points in a child's
 character lay; in his social behavior, in his personal characteristics,
 or in his emotional control.
+
 The numerical scores obtained by the McGill Nursery School
 staff could be treated in no way as exact measurements, as they
 were determined by the personal opinions of raters who were comparing each child with his associates. As the children in the school

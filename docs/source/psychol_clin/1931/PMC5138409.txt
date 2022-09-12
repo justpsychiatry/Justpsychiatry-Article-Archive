@@ -1,7 +1,7 @@
 Interest and Ability in Heading
 ================================
 
-Arthur I. Gates. New York.
+:Author: Arthur I. Gates. New York.
 The Macmillan Company. 1930. vii -j- 264 pp.
 In keeping step -vvitli the movement of scientific method in education,
 Perhaps no one has distinguished himself in the publication of material relating
@@ -12,6 +12,7 @@ specific nature of problems relating to reading, to the extent that in the realm
 two of his volumes appeared as summaries of his investigations up until that
 time: The Improvement of Heading (Macmillan) and New Methods in Primary
 Reading (Teachers College).
+
 This new volume acts in a dual capacity. Its primary purpose seems that
 ?f presenting the results of experimental work in relation to such problems as
 the interest children show in various types of material which they read, the
@@ -23,6 +24,7 @@ Purpose which the book fulfills is that it supplements in a logical way the
 Author's preceding volumes, in that it emphasizes certain facts not stressed
 in these earlier works, and summarizes the principles set forth in all three
 Volumes in a clear and convincing way.
+
 The experiments described in this book were all performed on children in
 the primary grades. Those dealing with the rate at which new words should
 to introduced into reading material show rather convincingly that dull pupils
@@ -40,12 +42,12 @@ If the child must have the development of comprehension retarded by emphasis
 on word recognition and drill on similar fundamentals, he will be obviously the
 loser. Hence, it is entirely satisfactory, shows the author, to teach reading
 by emphasis upon comprehension itself, since our object in teaching the subject is for this ultimate goal. For those cases which seem ill suited to these
-96 THE PSYCHOLOGICAL CLINIC
 methods (and anyone who approaches reading problems from the clinical angle
 will appreciate the author's viewpoint here) Gates would suggest diagnostic
 testing based on standardized procedure, for only in this way can diagnosis
 of a differential sort be made. Having diagnosed the case, the next step is
 an appropriate remedial training.
+
 In order to maintain the interest of the pupils it is vital that reading
 material be made up of a variety of types, basically suited to the child s
 appreciation. Gates shows that in the final analysis these elements are of
@@ -56,6 +58,7 @@ difficulty. Children must not be bored with the easiness of material, nor must
 they be overwhelmed with its complexity. Moralness, and what adults term
 humor seem to have a decidedly negative effect in maintaining the child's
 interest.
+
 "What they (children) like is a little surprise, a little life, some animal
 characters, some conversation, and a bit of plot. They have also decided that
 there are a few things in the literature handed out to them that they dislike."

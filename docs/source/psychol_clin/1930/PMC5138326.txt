@@ -5,8 +5,9 @@ The Psychological Clinic
 Copyright, 1930, by Lightner Witmer, Editor
 Vol. XIX, No. 7 December, 1930
 
-By Clark L. Hull
+:Author: Clark L. Hull
 Yale University
+
 The object of this paper is to discuss the significance of aptitude
 testing as a technique in solving problems of vocational guidance.
 The method proposed is one so flexible in character as to make
@@ -32,7 +33,7 @@ many. It is most unfortunate that the notion has become current
 that the scholastic type of intelligence is the only form of intelligence or desirable aptitude.
 1 An address given at the meeting of the National Vocational Guidance
 Association, Feb. 21, 1930, Atlantic City, N.J.
-202 THE PSYCHOLOGICAL CLINIC
+
 It is too often assumed if a child is known to have a mediocre
 aptitude for school learning that he is necessarily mediocre in everything else. This is very far from being the case. By way of illustration I should like you to consider the case of Jim Goodwell. Jim
 Goodwell was a classmate of mine in grammar school. We used to
@@ -45,6 +46,7 @@ recitation the person who had been at the head the day before
 would be at the foot. As the first word came along Jim would always
 get ready to move down; even before the word reached him. The
 same general picture obtained throughout all of his school work.
+
 But in the years since our school days Jim has forgotten all
 about his tribulations in the grade school. He has become a prosperous farmer. He owns broad acres of land and large barns and has
 much money in the bank. I suppose that in this world's goods Jim
@@ -56,6 +58,7 @@ I may recall that Goldsmith was never able to master mathematics.
 Even the great Napolean was regarded by his Latin teacher as a
 boy without intellectual gifts and when he took his final examinations at the Military Academy, he is said to have passed them only
 "after a fashion."
+
 In this connection I recall the case which Walter Dill Scott
 likes to relate concerning his dumb salesman. It seems that Scott
 was trying to develop intelligence tests which would enable him to
@@ -69,12 +72,12 @@ question was a large and jovial individual, overflowing with the
 milk of human kindness. His job was selling pickles to small retail
 grocers. He would go to the grocery store and engage the wife of
 the grocer in conversation, inquiring about the ills of the children
-VOCATIONAL APTITUDES 203
 and showing genuine interest in the family. Then he would talk
 pickles to them and they would buy all that the trade would stand.
 But the man was so feeble in his scholastic capacities, that the Company was forced to send along with him an assistant to take down
 the orders. However in the capacity to sell pickles the man was a
 kind of genius.
+
 This lack of correlation between academic aptitude and vocational success is so marked that when university students have been
 told by the Dean, for the last time, that they must withdraw because of defective aptitude for university studies, I have uniformly
 been able to counsel them with the greatest optimism. I assure them
@@ -84,6 +87,7 @@ such cases the ordinary course is for the boy to apprentice himself
 in the arts of buying cheap and selling dear; in the course of a few
 years wealth accumulates; in due time he may even look forward to
 becoming President of the Kiwanis Club!
+
 It is clear, I think, that every person has a certain potentiality
 for every possible vocation in the world. Probably in no two of
 these many potential aptitudes is any man exactly alike. The question arises at this point as to the manner in which the numerous
@@ -95,6 +99,7 @@ for a given person the greater part of his potentialities lie in a middle
 range, whereas a few scatter out in the direction of comparatively
 high ability and a corresponding scattering tails off in the direction
 of very low ability.
+
 From the point of view of vocational guidance a further very
 pertinent question arises at this point: How much better is the average person's best aptitude than his worst?how many times more
 efficient is his aptitude at the upper extreme than his aptitude falling at the lower extreme? Here, the experimental evidence is not as
@@ -104,7 +109,6 @@ is somewhere between and 3 times as great as his weakest. If this
 ratio turns out to be true of vocational aptitudes in general, as it
 probably will, it becomes a matter of tremendous individual and
 social significance that each person should pursue the vocation which
-204 THE PSYCHOLOGICAL CLINIC
 lies at his highest extreme of efficiency rather than the one which
 lies at the lowest extreme. It is the job of vocational guidance to
 see that this is done. To put the matter in a different way; it is the
@@ -112,6 +116,7 @@ job of vocational guidance to indicate to the youth seeking vocational advice th
 greatest potentiality of success. This involves something more than
 vocational prognosis. It requires differential prognosis,?a very
 different thing.
+
 To accomplish differential vocational prognosis in any adequate manner, many things must be done. In the first place, we
 must know which are the type aptitudes. It is quite evident that
 many of the almost innumerable vocations of the world will turn
@@ -135,12 +140,12 @@ type occupations each individual is best endowed to pursue. Without further prel
 in comparable quantitative terms his potential aptitude for every
 single one of these type vocations. This is what I described above
 as differential aptitude prognosis.
+
 If we were to proceed upon the current practices in the matter
 of aptitude testing this would necessarily involve the construction
 of a battery of tests for each type occupation. If there were fifty
 type occupations there would need be fifty aptitude test batteries.
 Please observe what this would involve. Probably no person could
-VOCATIONAL APTITUDES 205
 be tested on more than two aptitude test batteries in the course of
 a day and do himself justice; one in the morning and one in the afternoon. At this rate it would require twenty-five days of the subject's
 time, to say nothing of the time required of an expert examiner to
@@ -180,7 +185,6 @@ would need to be 50 aptitude forecasting formulae developed; one
 for each vocation. The development of these prediction formulae is
 a somewhat technical matter and involves considerable experimental
 as well as mathematical analysis. Indeed, it is a fair sized research
-206 THE PSYCHOLOGICAL CLINIC
 problem. But once the prediction formulae for the various vocations
 have been developed all that is necessary in order to obtain differential forecasts is to substitute the test scores first in one formula,
 then in another and so on until in the end there will be obtained a
@@ -194,6 +198,7 @@ which his potentiality is weakest. These may be carefully avoided.
 He may then examine the list to find those vocations in which his
 potentiality appears to be greatest. From the latter list he may consult his interests, tastes and the opportunities of his particular location and status in life and make a choice which will no longer be due
 essentially to chance as is often the case at present.
+
 It will be at once obvious to everyone familiar with the present
 state of vocational guidance that the picture which I have painted
 is very far from present realization. What I have tried to do is to
@@ -208,6 +213,7 @@ from the test scores of the universal aptitude test battery, each
 equation probably involving a major research. Moreover, there
 must be extensive research carried on which will widen the range of
 our aptitude tests.
+
 The pressing need for the wider sampling of traits which will
 assist in making aptitude forecasts is evident upon considering the
 efficiency of present-day aptitude tests. It is the habit of psychologists to report the validity of their tests in terms of the correlation
@@ -215,7 +221,6 @@ coefficient. This coefficient is a decimal ranging from .00 to 1.00.
 Most aptitude tests at present yield a correlation coefficient with the
 aptitude predicted, ranging from +.45 to +.65. Most persons who
 are not technically engaged in aptitude testing quite naturally take
-VOCATIONAL APTITUDES 207
 this value as a statement of aptitude forecasting efficiency. Nothing
 could be more misleading. The actual forecasting efficiency of a test
 battery correlating + .45 with a criterion is only about 10%, whereas
@@ -232,6 +237,7 @@ constitution on the one hand, and temperamental and emotional
 traits on the other, to aptitudes. These fields of investigation arc
 difficult and very laborious, but there is reason to hope that ultimately we shall be able to tap sources of vocational potentialities
 which are at present entirely ignored.
+
 I should like to cite one particular approach to this with which
 I had been more recently concerned. It is the matter of suggestibility. There is a very widespread belief that for a person to be
 suggestible is an unfortunate thing. In my laboratory, we have
@@ -259,6 +265,7 @@ light of present practices, but I submit to you: Would it not be
 worth spending a week or even a month of the time of a youth if
 by so doing he minimize the danger of choosing a vocation which is
 even a little less advantageous than his best?
+
 Fortunately a part of this program is already completed. Once
 the test scores from a universal battery such as that sketched above
 are available there is the very considerable task of substituting them
@@ -281,7 +288,6 @@ which the formula had been constructed. The final form of the machine's design i
 the name of the vocation in question. These predictions will be
 made automatically by the machine one after another without any
 attention whatever from the operator. When the last of the 50 predictions has been made and recorded by the machine it will ring a
-VOCATIONAL APTITUDES 209
 bell calling the operator who will take out the card. It may then
 be presented to the person seeking vocational guidance. He maylook down this series of comparable quantitative aptitude predictions and choose his vocation rationally as previously indicated.
 No doubt this all sounds very much like an extravagant Utopian
@@ -292,6 +298,7 @@ cost of some $3000. The money was furnished by the National
 Research Council. This machine is really able to make aptitude
 forecasts although the automatic recording attachment has not
 yet been constructed.
+
 To sum up the situation: We know something of the problems
 which are facing us and we know a good deal about how these problems must be solved. I believe I have indicated to you fairly accurately what the nature of the ultimate development will be. The
 program is essentially one of experimental research. The goal will

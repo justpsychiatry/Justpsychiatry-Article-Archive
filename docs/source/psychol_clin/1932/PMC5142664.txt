@@ -1,8 +1,10 @@
 A Study of Behavior Problems
 =============================
 
-By Georgian a S. Mendenhall
+:Author:  Georgian a S. Mendenhall
+
 Introduction
+
 In the summer of 1929 a study of five hundred children in the
 public schools who presented behavior problems was begun. The
 group was composed of children who because of their unconformed
@@ -29,19 +31,21 @@ observe the individual while he is solving a concrete problem. The
 subject's output is judged in terms of analytic discrimination, comprehension of the problem, learning ability (trainability, educability, and organizability), distribution of attention, and planfulness.
 School proficiency was measured by means of tests based on the City
 Courses of Study in reading, arithmetic, spelling, geography, and
-77
-78 THE PSYCHOLOGICAL CLINIC
 history. The child's own story was gathered in, bit by bit, as he
 chose to tell it. Much light was thrown upon the home conditions,
 the immediate environment, the child's friends, pastimes, likes and
 dislikes. Verification of the story was made in the school office by
 the Attendance Officer and Social Worker.
+
 The study as it finally developed can be divided into three parts:
 first, a general analysis of the group considering such factors as
 sex differences, racial composition, age and grade at which disciplinary problems develop, causes of disciplinary problems; second,
 the mental status of the disciplinary group; third, illustrative case
 studies.
+
 General Analysis of the Group
+-------------------------------
+
 The educational procedure in special classes is different from the
 procedure in the regular grades. The pressure of academic standards is not so great, therefore the teacher has an opportunity to
 discover the cause of non-conformed behavior and frequently to
@@ -57,7 +61,10 @@ upon their return as visitors impress upon us their intellectual
 superiority, "I was not 0. B., you know, I was 0. D. I was not
 dumb, I was bad." The records of several of these boys were consulted, only to find that they had been 0. B. after all. Society had
 apparently taught them that it was worse to be "dumb" than bad.
+
 Sex Differences
+-------------------
+
 It has already been noted that boys greatly outnumber girls
 among children examined because of disciplinary problems. What
 is the cause of this difference? The accusations against the boys
@@ -65,7 +72,6 @@ represent violations of school discipline, conflict with authority,
 maladjustment to school work. Wickman (13) states that boys are
 considered to be notoriously more difficult to manage than girls,
 with the result that incidence of reported problems among them is
-A STUDY OF BEHAVIOR PROBLEMS 79
 greater than among girls, for example, ten problems per boy and
 only six per girl. Boys are more aggressive than girls and thus
 increase their chances of annoying the adult. Evidently teachers'
@@ -78,6 +84,7 @@ at teacher," "constantly disrupting class," "uses profane and
 obscene language." Similar records for girls read "hard,"
 "tough," "incorrigible," "menace to other children," "insidious
 moral influence," "flippant."
+
 In disciplinary groups, however, the behavior of both boys and
 girls is described as aggressive. It is interesting to note that Table
 II shows a higher percentage of girls than of boys becoming disciplinary problems in the first three grades, due probably to the
@@ -94,20 +101,22 @@ are very non-conformed and frustrating, but who are guilty of no
 sex delinquencies are placed in "Backward" classes with the hope
 that in such classes the difficulties will "clear up."
 Racial Composition
+
 An analysis of the racial backgrounds of our cases reveals the
 following facts. (1) Of the boys 83.5 per cent were white and 16.5
 per cent were colored; of the girls 75 per cent were white and 25
 per cent were colored. (2) Of the entire group of boys (including
-80 THE PSYCHOLOGICAL CLINIC
 colored) 65 per cent were what Jones (7) calls "Mixed Americans,"
 that is, both their parents were born in this country, and 35 per
 cent had parents one or both of whom were of foreign birth; of the
 girls 71 per cent were "Mixed Americans," and 29 per cent had one
 or both parents born in a foreign country.
+
 Age and Grade at Which Disciplinary Problems Develop
 Table I shows the distribution of ages at which the children in
 the group become disciplinary problems. The mode for boys is 14
 years although there is little difference between 13 and 14, and for
+
 Table I
 Ages at Which Children Become Disciplinary Problems
 No. of Boys
@@ -158,6 +167,7 @@ Total.
 15
 1
 500
+
 girls it is definitely 15. It is interesting to note that the increase
 to 15 years is relatively steady with a decline after 15. The median
 for the age at which disciplinary problems develop is 13 years and
@@ -165,13 +175,14 @@ for the age at which disciplinary problems develop is 13 years and
 with reference to age distribution point very definitely to the preadolescent and the adolescent periods of life for consideration of
 behavior problems. This factor will be discussed further in the
 following section.
+
 Table II indicates the number of children becoming disciplinary
 in each school grade. The mode for boys is the 5th grade, although
 the number of cases in the 4th grade is very nearly as large. In
 the case of the girls the 6th grade is the mode, although there is very
 little difference among the 4th, 5th, 6th and 7th grades. The 5th
 grade is the median for both boys and girls.
-A STUDY OF BEE AVI OB PROBLEMS 81
+
 Table II
 School Grade at Which Children Become Disciplinary Problems
 Grade
@@ -218,11 +229,15 @@ Total.
 17
 5
 500
+
 School Retardation
+-------------------
+
 Table III shows the amount of retardation and acceleration in
 three academic subjects. The results of the tests of school proficiency proved arithmetic to be the most difficult subject for this
 group. These children can acquire the four fundamental processes
 of arithmetic in a mechanical fashion, but the ability to apply these
+
 Table III
 Percentage of Group Retarded or Accelerated in Grade Attainment
 Arithmetic
@@ -284,6 +299,7 @@ Grades Accelerated
 38.00
 31.00
 3.00
+
 processes to mathematical abstraction and to problem solving is
 decidedly limited. Spelling is shown to be slightly more difficult
 than reading. Except in reading among the boys more than fifty
@@ -291,10 +307,10 @@ per cent of the cases were in actual proficiency from one to five
 grades below the average of the grades in which they were located
 at the time they became disciplinary problems. In all subjects
 sixty-five per cent of the girls were below the average of their school
-82 THE PSYCHOLOGICAL CLINIC
 grade. In 110 ease was there acceleration of more than two grades.
 The girls appear to be inferior to the boys in school achievement,
 but both groups are seriously retarded.
+
 In seeking a cause for this school retardation we need go no
 further than the data to be presented later in the discussion of the
 mental status of the disciplinary group. The results of the Binet
@@ -302,6 +318,7 @@ Simon test, interpreted in terms of Terman's classification, show
 that 13 per cent of the boys and 18 per cent of the girls fall in the
 definitely feebleminded group, and that 24 per cent of the boys and
 31 per cent of the girls are of borderline intelligence.
+
 The coefficient of correlation between age and school grade for
 this group is less than is usually found in an unselected group. The
 coefficient between the two factors is .54 ? .02 for the boys, and
@@ -309,10 +326,12 @@ coefficient between the two factors is .54 ? .02 for the boys, and
 the probable error of the difference of the two r's shows that there
 is a greater degree of relation between the two factors in the case
 of the girls than in the case of the boys.
+
 The coefficient of correlation between grade and I.Q. is .27 ? .03
 for the boys, and .18 db .06 for the girls. While the regression is
 non-linear there is a slight degree of relationship for boys, but no
 such relationship for girls.
+
 It is difficult to determine whether school retardation is a result
 or a cause of unconformed behavior. However, when we consider
 the low mental status of our group it seems reasonable to suppose
@@ -320,7 +339,10 @@ that much of the school retardation discovered is due to a lack of
 ability, and consequently that the school failure incident to this
 lack of ability is a cause of the behavior problem in some cases at
 least.
+
 Causative Factors
+--------------------
+
 The data on the age at which these children become disciplinary
 problems have indicated already the influence of adolescence. No
 fixed date can be given for the beginning of the adolescent period;
@@ -332,7 +354,7 @@ found the period from 12 years, 9 months to 13 years, 6 months to
 be the most important one. The present study shows 65 per cent
 of the boys and 70 per cent of the girls to be between the ages of 13
 and 16 years.
-A STUDY OF BEHAVIOR PROBLEMS 83
+
 Jane Addams (1) states that from two to three times as much
 incorrigibility occurs between the ages of 13 and 16 years as at any
 other period of life. There is an insistent demand for excitement
@@ -341,9 +363,11 @@ adolescent ages. "William Bolitho (3) says that, despite the opinion
 of good adults, almost all children prefer the Chicago slums to any
 gravelled play yards. It is the hackneyed fable of the lap-dog and
 the mongrel. 'Round the Loop is mystery?shadows and smells?
+
 ashpans?cats prowling?the eternally interesting traffic stream.
 Near the stockyards, the grass stands high in waste plots, concealing
 many a tempting horde of iron and tin.
+
 Case studies report, for boys and girls, the following: Stays out
 all night; slept under a porch; slept in freight cars; neighborhood
 nuisance; bunks in the woods; truant; runs away; collects and sells
@@ -356,11 +380,13 @@ repast. Not one of them needed the food, and not one regretted
 the episode, though the parental punishment was severe. How was
 the affair discovered ? One of the gang who had missed connections
 with them ''squealed."
+
 Of the boys' group, 24 per cent are recorded as belonging to
 gangs which were reported as "bad," "destructive of property,"
 'stealing automobiles, and dismantling them," "looting empty
 houses," and what not,?"loafing on street corners and annoying
 girls," "drunken parties with girls present."
+
 The adolescent type of girl, such as this study represents, is a
 serious problem. We find her described as "hard as nails,"
 "violent tempered," "hyperexcitable," "stayed out until three
@@ -370,7 +396,6 @@ Pearson (11) questions whether the physiological changes accompanying puberty ar
 to show that where sexuality is accepted in a matter of fact way,
 the physiological changes of puberty do not seem to be accompanied
 by the instability of the adolescent, for such instability is not found
-84 THE PSYCHOLOGICAL CLINIC
 in primitive girls. He asks whether the emphasis laid on the relation between sexual development and adolescent difficulties is not
 partly an attempt on the part of parents and teachers to shift responsibilities to the shoulders of the children, and partly the outgrowth of our own feelings about sex.
 "Bad homes" indicates no control?father and mother separated
@@ -383,6 +408,7 @@ response, the emotional conflicts, that are likely to come out of such
 environments. In many cases bad homes themselves are but symptomatic of serious mental ills. In our group at least 64 per cent of
 boys and 58 per cent of girls came from what are described as bad
 homes.
+
 The percentage of troubles arising from the colored group is
 comparatively low, 16 per cent, but it represents the feelings of
 inferiority and the paranoiac trends that arise within a group that
@@ -397,13 +423,13 @@ mother of another boy was declared by him to be a chronic invalid
 because the child was unwilling that the teacher should see his
 mother with her head done up in a shawl and all her old-fashioned
 clothes.
+
 Truancy ranks high as a causative factor in school retardation
 and also very high as a contributing factor to other forms of delinquencies and misbehavior. Considerable property has been destroyed and much petty stealing has been carried on while children
 have truanted. Truancy is generally recognized to be more of a
 boys' than a girls' problem as 72 per cent of boys, as against 35 per
 cent of girls in our group will substantiate. The consensus of
 opinion is that the causes of truancy are very complex and difficult
-A STUDY OF BEHAVIOR PROBLEMS 85
 to get at; judging from the high percentage of bad homes, it looks
 as if it were safe to conclude that they are an important factor.
 Personality difficulties stand very high as contributing factors to
@@ -414,7 +440,10 @@ paranoiac, psychopathic, or manifested feelings of inferiority and
 superiority. These types of behavior are not mutually exclusive.
 A very small number of cases presented serious behavior disorders
 that were referable to encephalitis.
+
 Mental Status of the Disciplinary Group
+---------------------------------------
+
 It will be remembered that we have said an attempt is made to
 distinguish between children who are merely backward and those
 whose maladjustment is complicated by disciplinary difficulties. It
@@ -422,9 +451,13 @@ is often thought that the disciplinary group includes children from
 all levels of intelligence, the bright along with the dull. The mental
 status of these five hundred children thus becomes an important
 problem.
+
 Intelligence Quotient
+----------------------
+
 The group has a wide range in chronological age which makes it
 much easier to use the Intelligence Quotient in determining the
+
 Table IV
 Distribution of I.Q.'s
 IQ- Boys Girls Total
@@ -463,6 +496,7 @@ Percentiles Boys Girls
 80  94.3 81.6
 90  101.8 96.9
 100  127.5 112.5
+
 mental status of the group than some other measure which is not
 equated for age. The distribution of Intelligence Quotients is given
 in Table IV, and the percentiles in Table Y. It will be seen first
@@ -475,11 +509,13 @@ the distribution. The results indicate very definitely that the disciplinary gro
 children. Approximately ninety per cent of our group are inferior
 to the median of an unselected group, that is, have Intelligence
 Quotients less than 100.
+
 According to Terman's classification on the basis of Intelligence
 Quotient the disciplinary cases would fall into the following groups:
 Per cent of boys
 Per cent of girls
 Feebleminded
+
 13
 18
 Borderline
@@ -500,12 +536,17 @@ criterion of normality is a social one, and while many of these cases
 never make a successful social adjustment the failure can not be
 attributed solely to lack of intelligence. Nevertheless these results
 point to a marked deficiency in our group.
-A STUDY OF BEHAVIOR PROBLEMS 87
+
 Memory Span
+------------
+
 Auditory. The results for the auditory memory span test will
 be found in Table VI. In comparing the results for this disciplinary group with the memory span of a normal group of children we
 may use the standards of Humpstone as well as the standards in the
+
 Table VI
+---------
+
 Auditory Memory Span
 Per cent of each group having auditory memory span less than or equal to the
 given memory span
@@ -639,6 +680,7 @@ G
 100
 Boys 400
 Girls 100
+
 individual tests of the Binet-Simon Scale, and also the Witmer Diagnostic Standards at different age levels. In the disciplinary group
 there are only two children 7 years of age and only two 8 years of
 age; the numbers here are not sufficient to make any comparison
@@ -649,7 +691,6 @@ than 5. At 10 years of age the Humpstone median is 6, the BinetSimon standard is
 Standards is also 6; 82 per cent of the disciplinary boys and 44 per
 cent of the disciplinary girls have less than this median. At 11 and
 12 years of age we use the Humpstone standards ? the median is 6.
-88 THE PSYCHOLOGICAL CLINIC
 In the disciplinary group at 11 years 64 per cent of the boys have
 less than the median, and 67 per cent of the girls; at 12 years, 48
 per cent of the boys and 57 per cent of the girls. At 13 years
@@ -666,6 +707,7 @@ appears from these results that the younger children in the disciplinary group d
 below the median for the normal group. At the higher levels, however, the disciplinary group tends to be inferior.
 Visual. In the visual memory span the standards for comparison are not as complete as is the case with the auditory memory span
 since this is a less widely used test. The results for the disciplinary group will be found in Table VII. A general comparison
+
 Table VII
 Visual Memory Span
 Per cent of each group having visual memory span less than or equal to given
@@ -812,12 +854,13 @@ No. of cases
 100
 Boys 400
 Girls 100
-A STUDY OF BEHAVIOR PROBLEMS 89
+
 shows that the visual memory span of the disciplinary group is
 slightly below that of the normal group as shown in the Witmer
 Diagnostic Standards. As is the case with normal children, in the
 disciplinary group we find that the visual memory span is higher
 than the auditory from 9 years upwards.
+
 Reverse. (Table VIII.) According to the Binet-Simon Scale
 Table VIII
 Reverse Memory Span
@@ -954,6 +997,7 @@ G
 100
 100
 100
+
 a 9 year old child should have a reverse memory span of 4. Various studies of the Binet Scale, however, indicate that this is by
 far the most difficult test at the 9 year level. In the disciplinary
 group 90 per cent of the boys and 40 per cent of the girls at this age
@@ -965,13 +1009,15 @@ memory span of 3, which is one less than the median memory span
 for normal children. If we group those 12, 13, 14, and 15 years of
 age we find the median memory span and also the mode to be 4.
 This again is one less than required by the Binet standards. The
-90 THE PSYCHOLOGICAL CLINIC
 16 and 17 year olds also have a median and mode of 4; the normal
 memory span for this age according to the Binet standards is 6.
 There is a suggestion in these results that the disciplinary group
 differs from an unselected group more in reverse memory span than
 in auditory or visual.
+
 Performance Tests
+-------------------
+
 While time scores were available for the performance tests used
 in the clinical examinations, they were very difficult to evaluate.
 It is the qualitative nature of the performance on these tests rather
@@ -983,6 +1029,7 @@ and are not strictly measurable. The ratings were made on a five
 point scale by trained and experienced examiners. In studying the
 results the scale has been transcribed in terms of ten points in order
 to take care of "plus" and "minus" values.
+
 In an attempt to show the relation existing between these factors
 the ratings were correlated; intercorrelations were determined.
 These are shown in Table IX. It will be noted that in all cases
@@ -1006,7 +1053,7 @@ for the boys, and in the single case (judgment-learning) where the
 regression is non-linear, they are equal. "With the boys the relationships are slight between energy and all other categories. In
 all other cases there is some degree of relationship. In the case of
 judgment-learning, while the regression is non-linear an examination of the correlation shows that there is a higher degree of relationship than the "r" would indicate.
-A STUDY OF BEHAVIOR PROBLEMS 91
+
 Illustrative Case Studies *
 adele?Manic-D epressiv e
 Referred from a Vocational School for emotional instability and
@@ -1018,6 +1065,7 @@ paid little heed to them. Adele came and went as she pleased. She
 was referred to a psychiatrist for an examination but the family
 refused to permit it because such clinics were only for insane and
 totally irresponsible people.
+
 When Adele entered the disciplinary class to which she was sent,
 she cursed and swore and said she would not remain with such
 "nuts." Her only response to every request was, "I can't do that
@@ -1027,6 +1075,7 @@ imprint a rosy kiss upon your cheek; just as suddenly the atmosphere was cleared
 all the boys in the school, transferring her affections to the University students whom she liked very much better, she said. She told
 the students that she was a teacher in the school?a teacher of Art,
 and not a pupil.
+
 We carried her along until she was sixteen, when she vanished
 for several years. Recently she returned, embraced us in the usual
 manner and hysterically described her social successes.
@@ -1040,15 +1089,16 @@ Dearborn: (1) 6', sup. 10?inf. 80.
 (2) 3' 24", sup. 10?inf. 80.
 School Proficiency: 8th grade.
 Prognosis: Doubtful.
+
 * In these case studies the test results are compared where possible with
 the superiority-inferiority percentages of the Witmer Diagnostic Standards.
 "Sup. 20?inf. 40" should be read "Superior to 20 per cent and inferior
 to 40 per cent." The standards used in each case are given in italics: 6
 year, Easby Grave (5); 10 year, Murphy (9); 15 year, Learning (8).
-92 THE PSYCHOLOGICAL CLINIC
 Howard?Emotionally Short?Hyper-Excitable
 Referred as "simply impossible" in classroom; will not work
 and will not let anyone else work.
+
 Howard's father is at liis wits' end to know what to do with
 him. The father and mother are separated and the boy is forced
 to live with his father and a woman whom he calls "aunt" when
@@ -1061,6 +1111,7 @@ according to the father. The boy insists that there is so much quarreling in the
 to come from to buy the coal and pay for the electric light that he
 wishes he could pull out. He would rather eat bread and water in
 peace in jail than all the good food he gets at home.
+
 Howard was admitted to a disciplinary class from a third grade.
 There is apparently no approach to him; the teachers have been
 wonderfully considerate, only to be met with violent abuse. There
@@ -1070,6 +1121,7 @@ the farm of its poultry by swinging the hatchet on their necks and
 building fires under the chicken coops. Whenever opportunity
 affords, he maims or kills. He has been proved to be an inveterate
 liar.
+
 There is very little hope of improvement in the boy unless he
 can be separated from the home entirely and placed under firm
 understanding discipline with no hope of escape. He does not seem
@@ -1082,9 +1134,9 @@ School Proficiency: 3d grade; omnivorous reader.
 Prognosis: Bad.
 genevieve?Feebleminded?Self-supporting
 Referred because of truancy.
+
 Genevieve's mother died when she was only nine years old.
 Because of very bad home conditions and waywardness, she was
-A STUDY OF BEHAVIOR PROBLEMS 93
 placed by her aunt in an asylum. Here she says she was forced to
 scrub floors from morning till night. She never had a chance to go
 to school because they said she "couldn't learn nothing." Her
@@ -1098,10 +1150,12 @@ a similar offense against Genevieve. She "hollered," she said, until
 the neighbors came to the rescue. Since that time she has guarded
 a younger sister very carefully against the father's advances and
 threatens to kill him if he touches her.
+
 Genevieve was a forlorn, scrawny, gaunt, gauche girl, of whom
 everybody made fun. She certainly was funny-looking, since her
 clothes were collected from many sources and were of many sizes
 and hues.
+
 At thirteen, she was still in 3d grade but her school failure and
 her truancy forced her into a disciplinary class. She fell into the
 hands of a very understanding teacher who gave her some becoming
@@ -1124,7 +1178,6 @@ have been relieved of the need for financial aid. This girl, who
 might have been a burden on the community, is a self-respecting,
 happy young woman, not only supporting herself, but three other
 members of her family. Her friends urge her to go into a factory
-94 THE PSYCHOLOGICAL CLINIC
 where she will have a higher social status. Genevieve wavers, but
 her feeling of security in her present home has dominated so far.
 She has a violent complex against men and says that when a man
@@ -1138,11 +1191,13 @@ Reverse 3.
 Formboard: (1) 45"; (2) 37".
 Healy A: (1) F; (2) 15"; (3) 10".
 Dearborn: (1) F, inf. 90; (2) F, inf. 90; (3) 3' 10".
+
 School Proficiency: Inferior 3d grade. Very vague concepts.
 Prognosis: Questionable. The question that arises is what she will
 do if her teacher withdraws her supervision. She has assumed
 the responsibility of the children and will persist so long as they
 need her.
+
 francis?Inferiority Feelings
 Referred, at thirteen years of age, because of truancy, obscene
 language, classroom nuisance. Francis was a most ineffectual looking boy, poorly developed physically, lean and lank and quite hollow-chested. His face wore a most unhappy expression, scarcely
@@ -1150,6 +1205,7 @@ ever was there a trace of a smile. There was probably good reason
 for this since home conditions were bad, the father drank very
 heavily, and beat up the family. The parents finally separated and
 the children were forced to care for themselves.
+
 Francis was sent to a religious correctional institution for a
 year, with the hope that his behavior would be improved. Upon his
 release he was sent to a parochial school. Here he 'sassed' the
@@ -1162,7 +1218,6 @@ said his father was a gentleman whether we believed it or not, and
 that when he got out of school he'd show us what he'd do. At sixteen he left school and became a corner loafer. One night he was
 picked up trying to rob a store. He resisted the police and was
 sent up for three years.
-A STUDY OF BEHAVIOR PROBLEMS 95
 C.A. 15 years; M.A. 13-10; I.Q. 90.
 Memory Span: Auditory 9, sup. 70?inf. 1.
 15 year M: Visual 8, sup. 20?inf. 40.
@@ -1172,6 +1227,7 @@ Healy A: (1) 18"; (2) 6".
 Dearborn: (1) 2' 35", sup. 30?inf. 60.
 (2) 1' 29", sup. 30?inf. 60.
 School Proficiency: Fair 5th grade.
+
 His learning ability was good; memory spans were all adequate
 for school progress; speed and accuracy characterized his performances. Discrimination and distribution of attention were
 good. His defect was one of personality and his behavior probably
@@ -1179,9 +1235,11 @@ a defense mechanism. While he seemed to need sympathy and
 understanding, he resented any apparent display of such attitude.
 Prognosis: Bad. Prison treatment will scarce increase his opinion
 of himself or give him any additional confidence.
+
 robert?A Spoiled Child
 Referred at six years by the school, for kicking, scratching and
 general disobedience.
+
 Robert's home was good, but the control was injudicious. Both
 parents had been married before, so there were two sets of children,
 three step-brothers and three step-sisters. Robert was the baby of
@@ -1194,6 +1252,7 @@ The boy was an attractive, healthy little fellow, very energetic
 and restless. He had superior intellectual ability which was not
 being used to capacity either at home or at school. He has begun to
 learn early in life that'' whom the Lord loveth, he chasteneth.''
+
 C.A. 6-9; M.A. 7-9; I.Q. 115.
 Memory Span: Auditory 6, sup. 60?inf. 1.
 6 year M: Visual 5, sup. 30?inf. 30.
@@ -1205,7 +1264,9 @@ Formboard: (1) 54", sup. 30?inf. 60.
 HealyA: (1) 25"; (2) 10".
 Dearborn: (1) 270"; (2) 290".
 School Proficiency: 1st grade. Recommendation of incidental promotion as boy is not working up to capacity.
+
 Prognosis: Good.
+
 prince?An Ego-Centric Personality
 Referred at twelve years of age because he was a '' smart Aleck''
 and bullied younger children.
@@ -1222,9 +1283,11 @@ here dirty kids." When he is met, strolling in the hall or loafing
 on the playground during classroom periods, the question "Why
 are you here,'' elicits the response,??'' I didn't like the lesson or the
 teacher, so I left."
+
 On the playground, if he wants something, he takes it, particularly if the children are smaller than himself. Rarely does he
 follow a plan outlined for him, because he always knows a better
 one.
+
 He wants to be a printer and has considerable skill. He is
 greatly interested in detail, and has a good eye for form. Much
 of the school printing is turned over to him to do and is well done.
@@ -1233,10 +1296,10 @@ he has no language complexities. He failed in the fables and could
 not arrange the jumbled sentences. The tests record him as observant, although judgment is poor. He does not discriminate
 between the important and the unimportant. He has good mechanical ability, but deficient intellectual ability.
 C.A. 14-2; M.A. 10-9; I.Q. 76.
+
 Memory Span: Auditory 6, sup. 1?inf. 70.
 15 year M: Visual 7, sup. 1?inf. 70.
 Reverse 3.
-A STUDY OF BEHAVIOR PROBLEMS 97
 Formboard: (1) 25"; (2) 18"; (3) 16".
 Healy A: (1) 37"; (2) 5"; (3) 5".
 Dearborn: (1) 1' 28", sup. 60?inf. 30; (2) 50", snp. 60?inf. 30.
@@ -1248,6 +1311,7 @@ grade, James was placed in an O.B. class. He was reported as
 mentally dull but having sufficient ability to be taught the fundamentals. However, he made little school progress. His behavior
 was so erratic and non-conformed that he was sent to a disciplinary
 class.
+
 James has been in and out of at least six schools since that time
 and the report is always the same,?"simply impossible," "a perfect nuisance in the classroom." When it becomes necessary to
 live with "Slickem" (a name conceded him by his pals), it can be
@@ -1255,15 +1319,18 @@ done, if one does not take Slickem seriously. Let him "say his
 say" and speak his mind. He has no respect for anybody; whatever he thinks, he says. If your dignity suffers, so much the worse
 for you. Any remonstrance elicits?"I must speak out my mind,
 mussin' I?"
+
 His tall, thin, lanky, loosely hung together body shambles along
 into school, regardless of time. It is of no avail to question his
 tardiness or his irregularity of attendance. He is a happy golucky irresponsible colored youth with a peculiar egg-shaped head
 and mongoloid eyes.
+
 Slickem is not a dependent. He shines shoes on Sundays at
 the Ferries earning from three to five dollars. He carries out the
 ashes all winter long and makes considerable income thereby.
 "When there ain't no ashes, times is hard, an' I don't eats so
 much.''
+
 Accused of stealing money from the Red Cross, he replied?
 '' Don't I roll the bones and pick chickens?why should I steal from
 the pore?" He has been arrested for stealing copper spouts and
@@ -1273,15 +1340,16 @@ in court on a charge of having stolen more than $300 worth of goods.
 His naivete and the continuous vaudeville performance have almost
 disrupted the court. The "seven screws loose" in his head have
 won for him a parole; since which period, he stole his 'daid' uncle's
-98 THE PSYCHOLOGICAL CLINIC
 shoes. Every time lie is alone, his uncle 'hants' him, so he's sticking close to his teachers for a while.
 The classroom holds absolutely no interest for Slickem. He
 will not learn and will not let others do so. He carries on a disjointed conversation with himself all the time. He walks in and
 out of the classroom at his pleasure, a law unto himself.
+
 His summation of his teachers' worth to society is illuminating
 and his evaluation of their personalities is reducing. "Poor Feeb"
 restores their confidence. One cannot drive, but one can jolly
 Slickem if one has to try to teach him.
+
 C.A. 13-8 ;M.A. 9-10; I.Q. 72.
 Memory Span: Auditory 7, sup. 90?inf. 1.
 10 year M: Visual 7, sup. 30?inf. 20.
@@ -1292,6 +1360,7 @@ Dearborn: (1) F, inf. 90; (2) 4' 3", inf. 90; (3) 2' 12".
 Prognosis: Probably bad.
 manse?Paranoic Personality
 Referred for insolence, refusal to work, and truancy.
+
 The whole family is declared to be "psychopathic." The
 mother and another brother are always in and out of some hospital.
 There is always something the matter,?a pain in the head, a pain
@@ -1311,13 +1380,13 @@ He is melancholic and introspective. He has some talent for Art
 but when given a chance for instruction in an art school, he threw
 it up because he overheard a teacher say, '' These youngsters think
 they know it all." His one desire now is to go to a school of
-A STUDY OF BEHAVIOR PROBLEMS 99
 dramatics. Since the family is poverty stricken, the possibilities
 are slight, and the gods are against once more. Manse is tall and
 thin with quite a lithe body. Despite the poverty in the home, he
 is beautifully dressed. The girls regard him as a "shiek." He is
 quite supercilious with them, permitting them to admire him at
 a distance.
+
 Two younger brothers are also in disciplinary classes. They are
 erratic, nervous, violent tempered and lacking in control. All have
 sufficient intellectual ability. Dick, another brother in the same
@@ -1333,9 +1402,11 @@ Dearborn: (1) 4' 21", sup. 30?inf. 60.
 (3) 1' 27".
 School Proficiency: Good 5th grade.
 Prognosis: Questionable.
+
 mary?Emotional Conflict: Stealing
 Referred from second grade at twelve years of age because of
 stealing.
+
 Mary's home was very bad. The house was too small to afford
 any comfort; everybody was on top of everybody else, and Mary,
 at twelve had to sleep in bed with a fourteen year old brother and
@@ -1345,12 +1416,12 @@ very lightly. Mary knew she was "dumb" and her mirror told
 her she was very ugly?so did the family and some of her friends.
 She was hyper-sensitive about her looks, and she craved the attention other girls received from the boys, but the boys would have
 none of her.
+
 Mary was very suggestible. She was told where she could get
 three dollars and how she would be received as a good sport if she'd
 deliver the goods. She did?the attention and the praise led her
 into quite a bit of pilfering until one day she landed eighteen dollars for the gang?receiving five cents as a reward, and a trip to
 court. Her sad little story interested the court; it was realized
-100 THE PSYCHOLOGICAL CLINIC
 that the persons with whom Mary spends her time will determine
 her future, and placement will be made on that basis.
 C.A. 12-3; M.A. 9-3; I.Q. 75.
@@ -1388,7 +1459,7 @@ had a pick on him"?though he couldn't read 6th grade text well
 and had but a poor 4th grade proficiency in arithmetic.
 C.A. 14-8; M.A. 14-0; I.Q. 95.
 Memory Span: Auditory 7, sup. 20?inf. 50.
-A STUDY OF BEHAVIOR PROBLEMS 101
+
 15 year M: Visual 8, sup. 20?inf. 40.
 Reverse 5.
 Pormboard: (1) 40"; (2) 20"; (3) 13".
@@ -1402,6 +1473,7 @@ blanche?No Home Supervision
 Referred at thirteen years from a vocational class in a Junior
 High School because of defiance, bad influence in classroom, took
 girls out of school to meet men.
+
 Blanche is socially and physically mature for a girl of thirteen
 years. She hates school and resents having been sent to "this
 H . . . hole"?the disciplinary class in which she now is. Her
@@ -1419,6 +1491,7 @@ is constantly interrupting classroom activities, and uses most profane and obsce
 from the father's side of the house; if she had known as much
 before she married him as she does now, she'd be better off. He
 had served a long sentence in jail.
+
 Blanche's I.Q. is 85, probably sufficient to carry her through
 socially as she is most attractive,?violet blue eyes and lovely fair
 hair.
@@ -1438,6 +1511,7 @@ Prognosis: Doubtful.
 joan?"The Child of Flame"
 Referred, at eight years, for non-conformity?corrupts children
 in regular class.
+
 Because of very bad home conditions, Joan had been removed
 from her home and placed, by the court, with foster parents who
 were much too old for the responsibility of an eight year old child.
@@ -1448,12 +1522,14 @@ jealous of Joan's fondness for the old man. Every act of Joan's
 was misinterpreted. She could not sit on her foster father's lap;
 she could not greet with affection any male member of the household, for the minister of the church had said she was "a child of
 flame and would need much watching.''
+
 She was supposed to have had improper contacts with older
 men and boys and to have exposed herself in the class room. Even
 animals were said not to have escaped. She had been placed under
 hospital care and given the purging influence of frequent prayer
 meetings and attendance at Sunday School, but both seemed to have
 failed.
+
 She was an irritating little soul in the classroom. She did
 wrong not maliciously but because she was extremely restless and
 energetic and had an overweening desire for approbation. She
@@ -1467,14 +1543,15 @@ meek" and when questioned as to why she did not go out to play
 with other little children, she stood humbly before you and narrated
 a long list of offenses, always adding, "My mother says I'm a
 show-off.''
+
 She was a wiry, elfin-like creature with such a funny little old
-A STUDY OF BEHAVIOR PROBLEMS 103
 face, absolutely devoid of any feeling so far as we could tell. When
 her mother deemed it advisable to send her away to some younger
 friend of hers for a while, she packed her up bag and baggage and
 moved to another city without regrets or anticipation. In this
 other city, the report comes back, that she is still '' showing off.''
 C.A. 8-3; M.A. 8-3; I.Q. 100.
+
 Memory Span: Auditory 5, sup. 1?inf. 50.
 10 year F: Visual 4, inf. 100.
 Reverse 3, inf. 70.
@@ -1485,14 +1562,17 @@ Prognosis: Bad.
 ione?Epilepsy
 Referred for frequent attacks of epilepsy and non-conformed
 behavior.
+
 In 1925, Ione was removed from a 3d grade class to a class for
 backward children because of her poor mental ability and nonconformed behavior. Here she started fights with the other children and frequently hurt them. In 1927, her behavior was so much
 worse that she was referred to a psychiatrist who said that she was
 developing mild mental symptoms and that her epilepsy was perhaps secondary to encephalitis, since, during the epidemic of 19171918, she had a period of lethargy. Exclusion from school was
 recommended.
+
 Ione was very loquacious and sexually precocious. She pursued
 the boys, jumping on them whenever she met them, and at one
 time hurt one quite badly.
+
 After an absence from school of several years, Ione's mother
 asked that she be returned to school. She said that the girl had
 improved in health very much and also in behavior. Ione's medical
@@ -1505,7 +1585,6 @@ an attractive, well-formed child, with black curly hair and piercing
 eyes. Physically she is very mature; she has "it," and needs much
 watching in her contacts with the boys. Her school work is showing
 marked deterioration and is very uneven. She is very malicious
-104 THE PSYCHOLOGICAL CLINIC
 and unforgiving, carrying a grudge for weeks. She and a postencephalitic case spend their time trying to hurt each other.
 She loves excitement and has been known to call in the police
 for punishment administered by the father. She would feign an
@@ -1513,6 +1592,7 @@ attack for any sharp rebuke for her misconduct in school, though
 she never had a typical seizure since her readmission. The mother
 has asked for placement because the girl has practically broken up
 her home life.
+
 C.A. 10-1; M.A. 8-9; I.Q. 86.
 Memory Span: Auditory 6, sup. 40?inf. 10.
 10 year F: Visual 7, sup. 30?inf. 20.
@@ -1533,6 +1613,7 @@ sickly child, always extremely nervous and given to violent temper
 tantrums, especially at night. He cannot get on at all with other
 children, either at home or at school. Children seem to excite him
 greatly.
+
 At three years of age he had pneumonia; at four years, whooping-cough; at five years, chicken pox; and at six years, measles.
 He is a very unattractive looking child, with an awkward gait showing a slight limp. He hangs his head most of the time and, if you
 succeed in getting him to look you in the eyes, there is a silly embarrassed expression on his face.
@@ -1541,6 +1622,7 @@ excluded for about a year when an appeal was made for his readmission. A social 
 much poverty and the stress of a large family. The mother's attiA STUDY OF BEHAVIOR PROBLEMS 105
 tude was very antagonistic to Albert. She beat him unmercifully,
 then the father beat the mother, and so the story runs.
+
 Albert, since his re-admission to a new school, is behaving much
 better. It is difficult to keep him in a classroom, any attempt to do
 so ends in a violent outburst of profane and obscene language. He
@@ -1576,7 +1658,7 @@ struck on the head by a piece of cement, which the mother feels may
 be the cause of the deafness. At three years of age, twice within
 the same year, Isolde underwent tonsillectomy; at five years, one
 of the hospitals referred her for placement.
-106 THE PSYCHOLOGICAL CLINIC
+
 Isolde was an attractive, brown skinned little girl with piercing
 light blue eyes, and was beautifully groomed. She was totally deaf
 and had no speech. She dragged her feet and bent her knees as she
@@ -1586,6 +1668,7 @@ clothing and that of others; any effort to check her is met with howls
 and screams. At home she had her own way, or she bumped her
 head against the wall or threw herself to the floor, screaming and
 crying.
+
 When the radio tones were harsh, she screamed and stamped her
 feet; when they were soft, she sat down near the radio and remained
 there for a long time quite content. Isolde made candy, mixed the
@@ -1600,13 +1683,16 @@ her in any of her actions met with howls and screams. Exclusion
 from school was finally requested because teacher and children
 were worn out with her temper tantrums. At times she was as mild
 as a May morn, but these times were too occasional.
+
 Her clinical examination showed some trainability, since she
 reduced the time on the Witmer Formboard from 81" on the first
 trial to 45" on the third. She was so distractible that no other
 performances could be observed. She was finally excluded from
 school, after a trial of six months, as of "limited mentality and
 psychopathic behavior."
+
 henry?Feelings of Inferiority
+
 Referred for truancy, bad attitude, and refusal to work.
 Henry's face always presented a scowl, but then Henry had no
 real home, no mother who was willing to claim him. He had been
@@ -1615,7 +1701,6 @@ for. Finally he was placed in a home by the court, with other
 children whose mothers came to see them at least once a week.
 Henry's mother never came, but the children were always willing
 to share their candy, oranges and other good things with Henry.
-A STUDY OF BEHAVIOR PROBLEMS 107
 Pride made him refuse. A temper tantrum, followed by a whipping, finished the Sabbath for Henry.
 Is it any wonder that he hated the world and all herein? He
 hated school; he hated the teachers and he would not work. His
@@ -1626,6 +1711,7 @@ he was placed in a new home and sent to a disciplinary class. Here
 his temper tantrums were many and violent. He fought everybody
 and everything. In time, Henry learned that none of these things
 was of any avail and that nobody minded.
+
 He was defiant and surly; somebody was always pickin' on him
 ?'' I don't want to. I ain't a goin' to " met almost every request.
 One day, an argument arose as to whether one of the children in his
@@ -1634,6 +1720,7 @@ my mammy could make me sit down if I didn't want to.'' Henry
 was aloof, reading a book in the corner of the room?suddenly a
 growling, "Y-e-a-h?" issued forth, "That's you mammy you talkin'
 about, but when Miss says 'sit down,' you squats!"
+
 Slowly but surely he is gaining some self-control and is frequently pointed to as the model of the class. All of Henry's responses are very slow,?no coaxing, no praising or scolding can
 speed him up. In his own time and in his own way he arrives, and
 you wait. He is learning to conceal his feelings about his mother.
@@ -1646,14 +1733,15 @@ HealyA: (1) 11"; (2) 10"; (3) 11".
 Dearborn: (1) 4'48", sup. 20?inf. 70.
 (2) 2' 53", sup. 20?inf. 70.
 (3) 2'43".
+
 School Proficiency: Good 5th grade.
 Prognosis: Fair, if psychopathic tendency can be met properly.
 eugene?Racial Antagonism,
 Referred for impudence, defiance, disturbing influence in class,
 truancy.
+
 Eugene was placed in a Sight-Saving Class for "corneal
 opacity," which resulted in poor vision. His behavior was very
-108 THE PSYCHOLOGICAL CLINIC
 bad. When the teacher placed him. in the front of the room where
 he could see the board, he refused to take the place, remarking, '' I
 like it better here." Any rebuke from the teacher brought forth
@@ -1665,12 +1753,14 @@ walked in and out of the classroom at his leisure, stole food and
 money. The family was uncooperative, perhaps, but they frankly
 admitted that they did not know what to do with him. He frequently stayed out all night and refused to tell of his whereabouts,
 remarking, "What I do out of school is my business."
+
 Though he was a dirty boy, he had much personality and a very
 winsome smile. His heroic midnight prowls held the children spellbound. On one occasion, he had the colored and white groups
 thoroughly aligned against each other, because the teacher had
 dared to rebuke a colored child for some minor offense. He has
 been in five different schools and the report is always the same. His
 intellectual level is as low as his I.Q. would indicate.
+
 C.A. 14-3; M.A. 8-9; I.Q. 61.
 Memory Span: Auditory 5, inf. 90.
 15 year M: Visual 6, sup. 1?inf. 90.
@@ -1682,15 +1772,16 @@ Dearborn: (1) 5', sup. 10?inf. 80.
 (3) 2' 5".
 School Proficiency: Scarce that of 2d grade.
 Prognosis: Bad.
+
 ralph?Emotional Conflict
 Referred, at nine years, because of incorrigibility?struck
 teacher in the face.
+
 Ralph is a behavior problem at home and at school. His parents
 are religious fanatics and would not permit the boy to enter into
 any kind of sports. Their constant request was that the boy spend
 much time in meditation and prayer. The near neighbors and the
 parents held seances with him, sang and prayed and worked themselves into a frenzy, urging the devil to come out of him.
-A STUDY OF BEHAVIOR PROBLEMS 109
 Ralph was a born tramp and non-conformist, his one idea being
 to live in the open and to get away from people. People were dnmb
 anyhow, he said, they never understood anything. He hopped
@@ -1703,6 +1794,7 @@ was the leader of a gang of unsavory character. One of his favorite
 haunts was the slaughter-house, where he reveled in the misery of
 the animals. All the animals were cowards except the lambs; "they
 acted like they thought, 'What's the use?' "
+
 He had much executive ability and could carry on the office
 procedure as intelligently and efficiently as any in charge. He
 reacted very violently to girls and was reported to have indulged in
@@ -1710,6 +1802,7 @@ perverted sex activities, and was subject to maniacal outbursts. He
 was employed after school, but was so erratic in his behavior that
 he was fired. He hated the "guy that thought up school" and
 wished that he might live out in the open.
+
 When he was sixteen, he joined the Army and is now living on
 the plains of Wyoming where "The cow boys is got the movies
 skinned a mile!"
@@ -1729,7 +1822,6 @@ The parents have not made or cared to make any adjustments to the
 new country. Only the children spoke English and constantly took
 advantage of their parents because of that superiority. There was
 no home control and Michael and his brother went to school or not as
-110 THE PSYCHOLOGICAL CLINIC
 suited their pleasure. They stole chickens on the railroad, fruit
 from the merchants, and whatever else they could get their hands
 on. Bored by school and seeking adventure, Michael ran away to
@@ -1747,6 +1839,7 @@ became interested. Michael's personality had developed amazingly ; he was gracio
 for himself a non-commissioned officer's place in the Navy. This
 is quite amazing in view of the fact that his I.Q. is only 81. His
 psychological examination conceded him a Borderline Mentality.
+
 C.A. 13-0; M.A. 10-6; I.Q. 81.
 Memory Span: Auditory 5, sup. 1?inf. 50.
 10 year M: Visual 5, inf. 90.
@@ -1765,20 +1858,22 @@ bed, and, as she expressed it, "That ain't so hot." The seventy-one
 year old father was a scapegrace, and the mother was an ignorant,
 worn-out soul who had raised, quite unsuccessfully, twenty-two
 children.
+
 Eve and her sister, at the tender ages of six and seven, were
 kidnapped and badly abused. Since that time, Eve was always
 afraid of people, and especially men, whom she hated. She was
-A STUDY OF BEHAVIOR PROBLEMS 111
 very excitable and childish in her responses. Frequently there was
 quite a dissociation between the past and the present, after which
 time she was nervous and unmanageable. She had been under
 treatment for a thyroid condition for several years, but it had been
 discontinued for some time. Nobody cared.
+
 Eve had no interest in school work and was simply biding her
 time until she was sixteen. Whenever the classroom work was just
 a little bit beyond her ken, she became silly and giggly, and quite
 stubborn. She would do household work of any kind just so long
 as the tasks assigned her were quite explicit.
+
 C.A. 15-1; M.A. 9-5; I.Q. 62.
 Memory Span: Auditory 5, inf. 99.
 15 year F: Visual 6, inf. 90.
@@ -1790,7 +1885,9 @@ Dearborn: (1) 4'15", sup. 30?inf. 60.
 (3) 3'20".
 School Proficiency: Will probably never finish sixth grade.
 Prognosis: Bad?unless under constant supervision.
+
 marion?A Defense
+
 Marion was referred, at ten years of age, for bus transportation,
 because she could not walk to school. She was a dainty wee mite
 of a girl, with violet blue eyes, an exquisite skin and soft brown
@@ -1800,15 +1897,16 @@ and Marion responded with an appreciative smile. Everything ran
 on smoothly for several years. Marion was promoted from class to
 class. There was much praise and admiration from the teachers
 and much satisfaction on the part of the child.
+
 She suffered from infantile paralysis of one leg, and had a
 clubfoot.
+
 At thirteen, an operation was deemed advisable, and in less than
 a year, another operation. Results were not so satisfactory. The
 physical pain and the disappointment were too much for her. She
 was no longer sweet and docile; she was petulant and supercilious.
 Her attention turned itself upon boys; love epistles were written
 to them; obscene notes were passed to girls; stories most alluring
-112 THE PSYCHOLOGICAL CLINIC
 about "Prince Charming V' goodness to her,?his generous boxes of
 candy, gorgeous bunches of flowers, dances, theatre, were all enthralling to her simple minded listeners. Lessons began to lose
 interest. What was the approval of her teacher to the recognition
@@ -1818,11 +1916,13 @@ more the teacher disapproved, the more she put it on, and the
 greater acclaim from her group. The mother's attitude was that
 anything Marion wanted to do was all right with her and that the
 teachers were all a bunch of old maids, anyhow.
+
 Impudence and defiance became the order of the day. She
 walked out of the classroom when she wished and brooked no questions as to "why" or "where." During a psychological examination, she gave as a reason for her conduct that she loved to make
 fools of people. "When I get a job," she said, "I will overlook
 many things because I will be getting paid to"?"now the teachers
 will have to."
+
 Her tests showed that she worked well at her age level and that
 her intellectual ability was sufficient to earn her living were it not
 for her serious physical handicap.
@@ -1836,24 +1936,29 @@ Dearborn: (1) 4' 35", sup. 20?inf. 70.
 (2) 2' 42", sup. 20?inf. 70.
 (3) 1' 49".
 Prognosis: Fair.
+
 Conclusions
+
 1. Problem Children are both Disciplinary and Backward, both
 types are non-intellectual and are not mutually exclusive.
 2. Both backward and disciplinary groups show considerable
 school retardation; this retardation is due to mental defect retardation, emotional attitudes, disinterest, inadequate effort and
 environmental factors.
+
 3. The mentally retarded may be and often are socially normal;
 "socially normal" is dependent upon a social criterion; some of
 the mentally normal are not "socially normal"; I.Q. is but one
 factor in a social judgment.
-A STUDY OF BEHAVIOR PROBLEMS 113
 4. Instruction must be kept simple, practical, concrete, at the
 level of intelligence to be taught and preparatory for life.
 5. Boys showed a greater range of intellectual ability than the
 girls as measured by the various tests.
 6. The adolescent age is the period of greatest maladjustment in
 school.
+
 Bibliography
+--------------
+
 1. Add am s, Jane. The spirit of youth and the city streets. New York,
 Macmillan, 1909.
 2. Baldwin, Bird T. Physical growth and school progress. Bulletin, Bureau

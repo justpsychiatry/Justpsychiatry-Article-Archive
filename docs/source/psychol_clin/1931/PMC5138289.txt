@@ -1,7 +1,7 @@
 A Clinical Study of a Severe Case of Reading Disability in a Left-Handed Child who was Taught to Read by a Combined Graphomotor and Voco-Motor Method
 ======================================================================================================================================================
 
-By T. W. Richards, M.S.
+:Author: T. W. Richards, M.S.
 Clinic Teacher, The Psychological Clinic, University of Pennsylvania
 The definite interest sliown recently in problems of handedness
 and particularly in those of the relationship, now generally accepted,
@@ -10,6 +10,7 @@ m the orthogenic procedure that seems best adapted for those individuals whose d
 within the sphere of these problems. Studies by Orton1 and Monroe2 would indicate that there is a basis for the assumption that
 tendencies to mirror writing and reading in reverse fashion, i.e.,
 from right to left, correlate to a definite extent with handedness.
+
 These tendencies are more evident in left-handed than they are in
 right-handed individuals, and their incidence seems greatest in those
 cases where dominance of either right or left is not clear cut, particularly the type of child who has been "trained over" to the use
@@ -18,6 +19,7 @@ the left. A study3 of the problem by Lord, Carmichael, and Dearborn in 1925 sugg
 relies upon kinaestlietic cues in learning to read might very possibly encounter difficulty when expected, as he is in the public
 schools, to conform to the dextrad pattern which holds throughout
 m a civilization composed largely of right-handed individuals.
+
 Dearborn asserts in a more recent paper4
 In writing and reading (in our language) the movements of the hand and
 eye are dextrad. It is this sequence from left to right which has to be followed
@@ -25,13 +27,13 @@ to build up the correct visual and kinaesthetic images of words. This is the
 natural and easiest movement of the right-handed?away from the center of the
 'Orton, S. T., "Word-Blindness" in School Children. Arcii. of Neur.
 and Psyciiiat., 1925. Vol. XIV, pp. 581-615.
+
 3 Monroe, Marion, Methods for Diagnosis and Treatment of Cases of
 Reading Disability. Genetic Psychol. Mono. Vol. IV. 1928, Nos. 4-5.
 "Lord, E. E., Carmichael, L., and Dearborn, W. F., Special Disabilities
 in Learning to Bead and Write. Harvard Mono, in Ed. Series I, Vol. II, No. 1.
 ?Dearborn, W. F., The Nature of Special Abilities and Disabilities.
 Sen. and Soc. Vol. XXXI, 1930, pp. 632-636.
-286 THE PSYCHOLOGICAL CLINIC
 body. Left-handed and left-eyed children have a preference for the other direction, i.e., sinistrad. . . . Some of them even write a mirrored hand, and in
 reading confuse the reversible letters "b" and "d," etc., or reverse the sequence of letters as in reading "god" for "dog" or "on" for "no". ? ? ?
 There is uncertainty about the correct sequence of letters in words because of
@@ -47,6 +49,7 @@ training which embraces these factors. With most of the teaching
 of reading in the public schools based on a visual method of presentation, or at best a combination of the visual and auditory, it is not
 to be wondered that such a child should be retarded in comparison
 with his classmates.
+
 An illustration of this viewpoint was borne out rather strikingly in the case of a child who received about fifty-six hours of
 diagnostic teaching distributed over six weeks, in the Psychological
 Clinic during the summer school of 1930. The child, Louise, aged
@@ -65,16 +68,17 @@ children indicate that she is socially well adjusted, and that she
 possesses qualities of leadership. Although she had had no training
 the child danced very well. Indeed, the most striking thing in the
 clinical picture was the extremely graceful bearing and poise that
-READING DISABILITY 287
 was always evident, suggesting an emotional maturity far in advance of the child's age. She seemed to be left-handed in all types of
 movements, such as opening the door, catching an article thrown to
 her, handing articles to another person, and the finer ones, such as
 writing, etc.
+
 In the psychological examination Louise's work on performance tests approximated the median for six-year-old girls, while her
 discernment spans placed her, at the same age level, superior to 90
 per cent for the audito-vocal span, and superior to 99 per cent in the
 visual and reverse spans. Her Intelligence Quotient on the Stanford Revision of the Binet-Simon Scale was 114. Her school proficiency was rated 1A in arithmetic and in writing, but she had
 practically no proficiency in reading.
+
 The peculiarities in Louise's reading are worthy of note. The
 tendency to read from right to left had been reported by the mother
 before the child was examined. It was noticed again in testing her
@@ -94,11 +98,11 @@ correct and in the correct sequence, but short words sucli as dog and
 boy were spelled in correct sequence but with a mixture of correctly
 written and reversed letters. When asked to write the numbers
 from one to ten she wrote
+
 dC8e
 It was clear that word recognition was the stumbling block in
 reading which factor was undoubtedly influenced by the facilitated
 right-to-left eye movements. Certainly the results of the examination did not suggest a "mirror-mindedness," nor a consistent tendency to reversal. It was clear that poor habits of eye movements
-288 THE PSYCHOLOGICAL CLINIC
 and analytical approach to the elements of words had been integrated into the reading situation. The obvious procedure was to
 determine what approach might best be used in establishing a correct habit-complex for this child who had been obviously immune
 to the teaching procedure common in the public schools. She was
@@ -109,6 +113,7 @@ a better performance in reading than did Louise, if she were not
 hindered by a special deficiency or an anomalous capacity for learning. She was recommended to the clinic teacher for periodic observation, and was subsequently assigned to be taught by a student
 in the course in diagnostic education conducted by Dr Lightner
 Witmer.
+
 The teaching procedure adopted for the case of Louise consisted
 at first in having her see the word printed and written, then in having her copy the word in writing, and finally, in having her write
 the word several times without looking at the original. She was
@@ -123,6 +128,7 @@ for her to write it, and ultimately to read it. When confronted with
 a new word she would analyze its elements as best she could, write
 the word, say it, and finally be able to read it. We became gradually convinced that the most efficient way for this child to learn to
 read consisted in a method involving these steps:
+
 (1) getting the grapho-motor image of the strange word by
 writing it or a voco-motor image by saying it, which led to
 (2) learning the sound of the word or of its elements, as associated with the kinaesthetic image, and finally
@@ -148,6 +154,7 @@ value of the task at hand always motivated a splendid cooperation
 on her part. We could see nothing of the "sense of inferiority" in
 this child because of her handicap, unless it was indicated in the
 Probably compensatory social manner.
+
 The independence from the necessity of copying new words increased each day, until by the end of the teaching period the child
 was able to glance at an entirely new word, analyze it for herself, and
 reproduce it correctly with very little in her overt reaction to suggest a kinaesthetic or an auditory process involved. She was able
@@ -163,7 +170,7 @@ be an original cause for the condition, the confusion which might
 result from a "changing over" process, i.e., teaching her to write
 with her right hand, might further increase the imaginal confusion
 in a field wherein she had manifested great difficulty.
-290 THE PSYCHOLOGICAL CLINIC
+
 The prognosis for the case rests, we believe, on the fact that
 Louise will require thorough understanding on the part of her teacher. Not only must her weakness be understood, but her strength must
 be appreciated and utilized in teaching her to read. The enthusiasm

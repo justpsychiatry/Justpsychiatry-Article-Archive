@@ -5,8 +5,9 @@ The Psychological Clinic
 Copyright, 1931, by Lightner Witmer, Editor
 Vol. XX, No. 3 May> 1931
 
-By T. W. Richards, M.S.
+:Author: T. W. Richards, M.S.
 Clinic Teacher, The Psychological Clinic, University of Pennsylvania
+
 I. David
 David's early history is an interesting one. He was born after
 a pregnancy of only six months; during the pregnancy the mother
@@ -20,6 +21,7 @@ a second year, not much more hopeful. During the third year the
 child began to pick up. He learned to walk at three years, he
 Sained weight much more rapidly, he grew stronger. At four he
 "Was completely broken of enuretic habits.
+
 We learned from the family history that the maternal grandParents were alive and that the paternal grandparents were dead.
 The paternal grandfather had died of influenza, the paternal grandmother of angina pectoris. The health of David's parents was
 good. The eldest child, David's only living sibling, fourteen years
@@ -27,17 +29,17 @@ good. The eldest child, David's only living sibling, fourteen years
 a*id in good health. A second child, a boy, had died of diphtheria
 at the age of three. David was the third and youngest child of
 the family.
+
 It is at once apparent from the medical history that David got
 to a bad start. It was almost a miracle and probably a misfortune that he survived the first year of his life, and the fact that
 he developed from such a delicate infant into the physical specimen
-65
-66 THE PSYCHOLOGICAL CLINIC
 we had before us for psychological examination was nothing short
 of remarkable. There is in the boy's appearance a suggestion of
 malnutrition, but when examined at the age of eight years and one
 month his weight was equal to the median for boys of nine and his
 height was equal to the median for boys of ten. Of the anthropometric measures taken, only the head girth of 47.5 cms. was subnormal. This head girth is so decidedly inferior as to raise grave
 suspicions.
+
 Psychologically, the history reveals evidence of retardation almost from the start. David did not learn to talk until he was five
 years old, and even now his speech is mutilated very noticeably
 with an infantile type of enunciation. School was not considered
@@ -52,6 +54,7 @@ no matter how simple, and to maintain his attention on a specific
 thing for any length of time as compared with the others in her
 group. It was this teacher who referred the case to the clinic for
 examination.
+
 David was examined by Dr Murphy in July, 1930. The quantitative results as shown in the record of the boy's performance on
 the tests were generally poor. His time on the "Witmer formboard
 as compared with norms for first grade children was, on the first
@@ -63,12 +66,13 @@ He gave an auditory memory span of four on the third trial, which
 is inferior to sixty per cent, and a visual span of four, inferior to
 but forty per cent, but a lack of ability to give any reverse span
 placed him inferior to fifty per cent.
+
 On the Stanford Revision of the Binet-Simon Scale, David was
 given a mental age of six, and an Intelligence Quotient of 74, but
 subsequent testing, six months later, yielded an Intelligence Quotient of only 66. In this later testing he was unable to pass two
 tests for which he was given credit in the earlier trial?counting
 thirteen pennies and describing the pictures.
-STUDIES IN DIAGNOSTIC EDUCATION G7
+
 It was evident from the results of the examination that David
 could not be given a higher rating than borderline mentality.
 There was little evidence that the boy would ever develop to the
@@ -102,12 +106,13 @@ by placement in an expensive home for exceptional children. W ith
 a family pride which precluded dependence upon the state, jet not
 in a position to pay the price of expert private attention, the question of doing what was right for the boy and for themselves was a
 real one to the parents.
+
 It was in an attempt in part to answer these questions, to determine the degree of trainability, of educability, precisely of mental status, that clinic teaching at least for the fall term was recommended.
-68 THE PSYCHOLOGICAL CLINIC
 David was placed for teaching from October until the early part
 of January under Miss Margaret Shank, a student teacher in the
 course in orthogenic teaching. He received, in all, seventeen hours
 of teaching.
+
 David learned very little during this time. His teacher found
 in the early part of her teaching that the boy could recognize letters printed on the blackboard and that he could pick them out of
 groups of letters printed each on a cardboard square, and mixed up
@@ -117,6 +122,7 @@ his telephone number. It was in one of these first periods of
 teaching that he was tested a second time and received the Intelligence Quotient of 66 mentioned above. His memory span,
 auditory and reverse, was the same as in July, though soon after
 this test he gave a reverse span of two.
+
 An attempt was made first of all to teach David to read. The
 method adopted by his teacher was one which included the assignment of two or three words each day, having the boy write them in
 his note-book, read them as he had written them, spell them, and
@@ -137,7 +143,6 @@ In oral spelling David was lost. Asked to spell a given word
 he would invariably write it on the blackboard or on paper. He
 had little or no auditory imagery which was of service to him, in
 spite of the fact that he was sometimes echolalic in his responses.
-STUDIES IN DIAGNOSTIC EDUCATION 69
 He had built up a kinesthetic-visual habit in spelling, and it was
 impossible for us to carry it over into the auditory field.
 His knowledge of arithmetic when his teaching began consisted
@@ -155,6 +160,7 @@ accomplished only after constant application through the three
 months of contact with him, but it definitely indicated some ability
 to grasp the units presented and to organize them intellectually in
 the required pattern.
+
 From the results of the clinic teaching in the case of David, Dr.
 Murphy concluded that the boy was feebleminded beyond doubt.
 The reports from his first teacher, from the parents, from the physician, the psychological examination, and now the report of the
@@ -172,7 +178,6 @@ intellectually, that is, David showed some trainability but no educability. His 
 can never educate himself. For instance, he can spell some words
 I can give him, but he does not comprehend the meaning.' Hence,
 although he was efficient in a small measure, he had so little appreciation of ends to be sought that the efficiency was poorly directed.
-70 THE PSYCHOLOGICAL CLINIC
 His dependence upon his mother and teacher was so great that it
 was impossible to determine what sort of motivation David possessed. That it was infantile there is no question. He wished only
 to please those who became most gratified when he performed in a
@@ -180,6 +185,7 @@ certain fashion in preference to others. His extreme distractibility,
 characterized by an infantile flow of questions at all times, as well
 as by excess movement, did not permit of persistent, well-motivated
 effort of a sustained sort.
+
 The possibility that David will ever take a place in life independent of others is negligible. Prognosis for his case is unfavorable, for he will always need supervision. He may learn simple
 tasks: sweeping, washing dishes perhaps, shovelling snow, and in
 this way he may become a useful member of the household. The
@@ -187,7 +193,9 @@ educational recommendation would, however, include his placement
 in a school for backward children where he will learn to get along
 with others, and where he can develop as far as possible the low
 order of ability which he possesses.
+
 II. Martha
+
 Martha was an unusual child among unusual children. Such a
 distinction placed her for a considerable period of time under the
 supervision of the department of Clinic Teaching, as much because
@@ -200,6 +208,7 @@ girl a clear picture of her physical condition, and we knew that our
 task was to determine, in short, what mental ability there was to
 work with, and whether a training program could be established
 which would bring satisfactory results.
+
 Martha's parents, too, were unusual. The mother had undergone an operation so that she might have children. We never saw
 very much of the father but from what we could learn directly from
 the mother and from our own observation of her behavior toward
@@ -210,7 +219,7 @@ with the case developed. There had been an earlier child, a boy,
 who had died of measles at the age of six and shortly after a
 severe fall. Later conclusions pointed to some form of encephalitis,
 ?"sleeping sickness," the mother told us.
-STUDIES IN DIAGNOSTIC EDUCATION 71
+
 In tlie first month of her pregnancy with Martha the mother had
 fallen. At the time of birth, the child was delivered by the head
 nurse in the lying-in hospital. The cord was twisted about the
@@ -227,6 +236,7 @@ the bed at night at two-and-a-half. She did not walk until four.
 Her tonsils were removed at two years. During childhood she was
 often constipated, but the only diseases she had were measles and
 one attack of bronchial pneumonia.
+
 An examination by the University Hospital at the age of fi\e
 years and three months?five months preceding her examination at
 the Psychological Clinic?revealed the fact that Martha had a right
@@ -238,6 +248,7 @@ at the hospital that the child had been examined at the city hospital
 a year before their own examination, but no report concerning this
 original examination and the treatment that may have followed was
 ever received by us.
+
 A recommendation was made at the Hospital that Martha attend
 a Seashore Home for some time. This suggestion was carried out
 during the summer that followed, a short time before the child "was
@@ -247,11 +258,11 @@ so for her mother that it seemed wisest to send her home after tin ee
 Weeks. The discovery, soon afterward, that she had been suffering
 from a tooth suggested to her mother that this may have explained
 m part her restlessness while in the home.
+
 Martha's parents were extremely anxious about her future and
 although both the hospital and the Psychological Clinic believed
 the mother to be intelligent and interested in a practical way in
 her child, it was evident that she could not comprehend the nature
-72 THE PSYCHOLOGICAL CLINIC
 of the case. It was her dream, her anxious belief, that Martha
 might some day pass through high school and college. She seemed
 to understand the necessity, mentioned in turn by the family
@@ -266,12 +277,14 @@ was suggested to the mother as a further solution of her problem
 that she have another child, but the fear that in the condition of
 this unfortunate little girl there was too much of an hereditary nature dispelled from her mind almost immediately the advisability
 of such a step.
+
 Here was a problem. What was there to do with a child, physically handicapped in such a way that she could not be other than
 a burden to her parents for many years to come, perhaps forever?
 What could be done with parents so keenly interested, so fond of
 children, so hopeful that in the present condition of their child,
 tragic as it was, there was still hope that she would develop as
 other children do ?
+
 Late in the summer session of 1930 Dr Murphy examined
 Martha in the Psychological Clinic. It was impossible to accomplish very much in the way of objective measurement. On the
 Stanford Revision of the Binet-Simon Test the child responded
@@ -287,7 +300,7 @@ over five minutes she did manage to replace correctly each block
 as it was handed to her. Her attention had constantly to be directed to the detail upon which she was working. She matched
 colors, and "when pressed to it handed to the examiner the block
 asked for."
-STUDIES IN DIAGNOSTIC EDUCATION 73
+
 Martha was an extremely pleasant little girl. Throughout the
 examination she seemed tremendously interested in going from one
 to another of the tests, on and on, to the new tiling. Tiring quickly
@@ -321,8 +334,8 @@ enough, eager for attention, willing to use her mutilated language
 in asking for a desired object. Never negativistic, yet headstrong ?
 willing to submit, yet only because submission would bring her out
 where she wanted to be. Clearly she was spoiled.
+
 Clinic teaching was recommended for the purpose of further observation and a more analytic diagnosis.
-74 THE PSYCHOLOGICAL CLINIC
 Martha was given about eight hours of teaching under Miss
 Sylvia Lenson. The teaching covered a period of about six weeks
 during the fall term following the summer school in which Martha
@@ -342,6 +355,7 @@ shown to other children. An only child, the sole object of parental
 affection, calling out by her condition more than the usual sympathy, the child learned literally to run ragged over others. Even
 the hospital reported that in the week spent in the observation ward
 she demanded constantly the attention of nurses and physicians.
+
 Her teacher adopted a strict attitude toward Martha. She
 resolved that nothing should be started which could not be completed within the hour. Starting with the Wallin pegs, proceeding
 from there to the Witmer formboard, the child learned a better
@@ -359,13 +373,13 @@ time her teacher felt that a new set of material might profitably be
 introduced into the teaching procedure. The Witmer cylinders
 were used. Although obviously she failed in her first trial with
 this test the teacher reports: "On the fifth trial of the cylinders I
-STUDIES IN DIAGNOSTIC EDUCATION 75
 had a perfectly terrible time to finish it. She would throw the
 blocks around, get up and start to walk away and do everything in
 her power to make herself a general nuisance. In the following
 Weeks we continued to work on the cylinders and she improved in
 that she knew how to complete it. But she showed no signs of attention or discernment and was always trying to force the large
 cylinders into small recesses and vice versa.''
+
 The teacher noted in addition that Martha definitely knew her
 colors, that is, red, blue, yellow and green. She could with some
 help count to twelve, and when the teaching was discontinued after
@@ -379,6 +393,7 @@ the child, and the movement could not be transferred successfully
 to writing on paper. I11 her cut-out work (though her mother here
 stated that she thought the child quite adept) there was little or
 110 semblance of form in what she produced.
+
 In addition to these simple tasks, Martha's teacher stressed better walking. The child had each day to walk a certain distance
 with her heels down, a task possible of execution but ignored because it was so little stressed except in the Clinic. Here the child
 showed a slight tendency to improve, and we believe that were
@@ -390,6 +405,7 @@ unsuccessful, yet the improvement in her walking suggested that
 the child could learn a task more simple than that, and the fact that
 she was so well trained to obey the suggestion on the part of another that she wipe her mouth indicated that perhaps she would
 be further trainable in this habit.
+
 The teacher reports: "During the last two hours of clinic teaching, I tried to do a bit of reviewing. I gave her both the Witmer
 formboard and the Cylinders. Her performances were qualita76 THE PSYCHOLOGICAL CLINIC
 tively far better than they had ever been. She went about doing
@@ -426,13 +442,13 @@ of control and directing power that it was not productive. She
 was ever active, physically and mentally. Quick to respond to a
 pleasant situation, alert to an environment that might furnish a
 temporary source of entertainment, there was some degree of intelligence manifested. This, we believe, was her long suit, though in
-STUDIES IN DIAGNOSTIC EDUCATION 77
 the face of her physical handicap and the tremendous exertion that
 would be required to compensate for it, the suit was not long
 enough. Efficiency was impossible from a physical standpoint,
 and to develop that type of efficiency which is characterized by
 mental production would assume a degree of mentality which was
 not hers in the first place.
+
 We could do little more for Martha at present. She was too
 young to profit from schooling, too strange in her behavior to be
 left alone. The chance that she would ever be able to shift for
@@ -456,6 +472,7 @@ shoulders of her parents. In the fulfillment of this last recommendation would s
 have to become an individual, to become independent in any way,
 and to divorce herself from the level of the three-year-old, whose
 life is so entirely self-contained.
+
 III. Freda
 Freda came to us late in the spring of 1930. Her mother had
 learned of the work of the Psychological Clinic with problem children in one of the radio programs offered by the Department of
@@ -463,9 +480,9 @@ Psychology during that year. Freda had been having difficulty in
 school, particularly with arithmetic, and in the opinion of the
 school the progress she was making at the time did not indicate
 normal promotion through the grades above.
+
 The marriage of which Freda was the only child was a second
 one for both of her parents, who were born in Germany. The
-78 THE PSYCHOLOGICAL CLINIC
 father, a baker who had been in the same place of business for
 eighteen years and thus must have been a steady sort of man, had
 had three children by his first marriage. These ranged in age from
@@ -474,6 +491,7 @@ as a nurse, had to spend most of her time away from home. Another of Freda's hal
 children, all of them feebleminded. The health of both parents
 at the time of Freda's examination in the clinic was described as
 good.
+
 Freda was eight years old when examined. Her mother told
 us that her birth was normal, and that the child had always been
 in good health, although she had been inclined to "nervousness."
@@ -491,6 +509,7 @@ grade to grade, they gave her consistent marks of failure in arithmetic. Freda's
 in spite of the fact that she was promoted; and because she believed Freda's ability to be greater than would be judged by her
 marks, that she was capable of better work than she was doing, she
 brought the child to us for our opinion.
+
 In the psychological examination made by Dr Murphy, Freda
 proved herself to be inferior in general competency to about seventy per cent of children at her age, superior, however, to ten
 per cent. In both of her trials on the Witmer formboard she was
@@ -501,7 +520,6 @@ children, and again in the lowest decile of children at ten. On the
 two trials of the Dearborn formboard Freda proved herself to be
 inferior respectively to eighty and ninety-nine per cent of girls
 ten years of age. Compared with first grade children as regards
-STUDIES IN DIAGNOSTIC EDUCATION 79
 her memory span, with an auditory forward span of five the child
 was inferior to twenty per cent, and with a visual span of six inferior to but one per cent. These spans as compared with the norms
 for girls at ten years of age are inferior respectively to fifty and
@@ -511,6 +529,7 @@ and to ninety-nine per cent of girls at ten years. The inferiority
 of her rating on this test as compared with her ratings on the test
 for forward span will be emphasized further, for it proved to be
 of significance from the diagnostic point of view.
+
 On the Stanford Revision of the Binet-Simon Scale Freda was
 found to have a mental age of six and one-half years, which, with
 a chronological age of eight years, gave her an Intelligence Quotient of 81.
@@ -519,6 +538,7 @@ second grade ability in reading and spelling, although the need for
 drill Avas evident in her performance with the latter. She had so
 little ability in arithmetic, however, that it could not be granted
 even a first grade rating.
+
 The psychological examination, the results of which Ave have
 listed above, indicated that Freda was of normal mentality, but
 that she was inferior to at least 60 per cent of children at her age.
@@ -538,8 +558,6 @@ by a boy's coat, and her whole appearance was that of a boy rather
 than a girl. Her mother knows that (Freda) looks like a boy.
 She says that (Freda) will not wear girl's clothes or have her hair
 grow. She refuses to play with dolls or girls. She plays cowboys
-V
-80 THE PSYCHOLOGICAL CLINIC
 and Indians, also soldiers. Slie likes guns and wants to be a
 soldier. When asked about her appearance (Freda) says, 'I am not
 going to let my hair grow'; 'I won't wear ruffles'; 'Girls are
@@ -556,10 +574,12 @@ it merited further observation. Certainly the diagnosis of homosexual tendency, 
 should be made to develop in the child the interests of a girl, to
 guard against the increasing influence of a dangerous trait in the
 girl's personality.
+
 In October, as had been recommended in May, Freda was enrolled for clinic teaching, two one-hour periods per week. She was
 placed under Mr. Harold Susskind and Mr. John Bernheimer.
 The child attended clinic regularly for about seven weeks, receiving
 in all thirteen teaching hours.
+
 Freda's teachers also noticed the striking similarity of her appearance to that of a boy. We read in their report: "Her appearance . . . was striking. Of normal height . . . and weight . . .
 the most arresting feature was her phenomenal resemblance to a
 boy. When (Freda) was presented to her teachers, both immediately thought her a boy. Her hair was cut in a boy-bob. She wore
@@ -589,6 +609,7 @@ so until she had had thirteen practice trials. Even after this successful perfor
 degree of certainty, as if she knew what she was supposed to do.
 She seemed to lack what her teachers termed the ability to "reason
 backwards.''
+
 Her teachers sought further to develop this diagnostic point by
 presenting to Freda a list of ten three-digit numbers, reading them
 as, for instance, two-forty-six, five-thirty-nine, four-seventy-five, and
@@ -607,12 +628,12 @@ conscious intention, as required in the organization of units in a
 specific way for the reverse span, or for the utilization of letters in
 a specific way for spelling words. She was able, however, to give
 back instantly a relatively long series of discrete units, in the same
-82 THE PSYCHOLOGICAL CLINIC
 order, as she had demonstrated in her performances with the forward spans. Auditory perseveration was not entirely lacking but
 there was a lack of auditory imagery. This deficit in imagery, plus
 her demonstrated lack of ability to organize, was so evident
 throughout all of our contact with Freda that it seemed entirely
 reasonable so to explain her difficulty in arithmetic.
+
 Very little was accomplished in the attempt to teach Freda
 subtraction. She profited to some degree from drill in counting,
 in simple addition combinations, and very slightly in subtracting
@@ -640,7 +661,6 @@ companions, manner of behavior, and so on, although she denied
 this when the child was first examined. When asked what she did
 when Freda dressed in boy's clothes, as she often did, the mother
 answered, '41 say, ' Off mit dem pants.' " It was found that in the
-STUDIES IN DIAGNOSTIC EDUCATION 83
 neighborhood in which Freda lived there were many more boys
 than girls, and that for a girl fundamentally as sociable as Freda
 there was little to do but join in with the boys in their games, if
@@ -660,6 +680,7 @@ with these precepts while in clinic she was punished severely, for
 it was soon recognized that the child was far more responsive to the
 discipline of the traditional German home than she was to the rational exposition of her errors in order to bring about an intellectual
 appreciation and penitence.
+
 One day about three weeks after the teaching began, Freda
 burst out in anger over an error she had blunderingly made in one
 of her problems, with " . . . damn it!" Punishment was immediate. She grew penitent, was silent for a moment, and then burst
@@ -692,6 +713,7 @@ normal and healthy, rather than disintegrated by the stimulation
 of a pattern which was not rightly hers, and the conformity to
 which could have resulted only in misunderstanding and grief as
 she grew older.
+
 Freda was unquestionably not of the intellectual type. For her
 capability there is a future of sewing and cooking and housewifery,
 ?the responsibility, perhaps, of motherhood. She will never read

@@ -1,7 +1,7 @@
 The Field of Psychodietetics
 =============================
 
-By Martin F. Fritz, Ph.D.
+:Author: Martin F. Fritz, Ph.D.
 Associate Professor of Psychology, Iowa State College, Ames, Iowa
 Although physicians, physiologists and biochemists have, in
 recent years, given a great deal of consideration to diet and nutrition, psychologists have given this field but little attention. Less
@@ -17,6 +17,7 @@ psychologists with a good background of training in biochemistry
 will turn their attention to this field and develop the psychological
 phases until they compare favorably with the contributions made
 by other investigators.
+
 It would seem desirable to have some term which would refer
 to the psychological phases of dietary situations. To meet this
 need we may coin the term psychodietetics. Wood and Weeks (8)
@@ -29,11 +30,10 @@ speaking, the term psychodietetics may be used to cover not only
 those cases where diet is a factor in the direct causation of mental
 * Paper read before the Section on Clinical Psychology of the American
 Psychological Association, The University of Chicago, September 12, 1933.
-12 181
-182 THE PSYCHOLOGICAL CLINIC
 phenomena but also where behavior has a dietary expression as,
 for example, in the ease of food fads due to peculiar notions on
 the part of the individual.
+
 Among the diseases now definitely attributed to dietary defects
 or deficiencies are certain ones which involve mental or neurological symptoms. Pernicious anemia, pellagra, sprue, nightblindness
 and beriberi are diseases which have dietary significance and are
@@ -56,6 +56,7 @@ the higher mental processes, would be very valuable. The etiology
 of pernicious anemia cannot be taken up at this time, except to say
 it is very doubtful that defective diet is the cause, although diet
 does seem to be the cure.
+
 Pellagra, one of the deficiency diseases, is found mostly in the
 Southern states where it is sufficiently prevalent to constitute an
 important problem. It has been referred to as the disease of the
@@ -67,7 +68,6 @@ high degree of frequency. It has been argued that pellagra does
 not directly cause but merely uncovers the psychosis, but if this is
 true it would seem to be a rather efficient agent for uncovering
 psychoses. This malady awaits a thorough investigation from the
-THE FIELD OF PSYCHODIETETICS 183
 psychological angle. Concerning the question of the etiology of
 pellagra, it seems that a vitamin Gr deficiency is the most favored
 hypothesis at the present time. It is interesting to note that almost from the very beginning of the study of this disease, it has
@@ -78,6 +78,7 @@ United States. Investigators have reported that it bears certain
 resemblances to both pellagra and pernicious anemia and that it
 is sometimes confused with these two maladies. The alleged presence of mental symptoms makes sprue a disease of psychological
 interest.
+
 Nutritional nightblindness, to be differentiated from idiopathic
 nightblindness or retinitis pigmentosa, is a disorder which was
 known to the ancients and, what is even more interesting, they
@@ -102,10 +103,10 @@ Acrodynia is a children's disease which has come to occupy the
 attention of pediatricians in recent years. The patients are said
 to present such a picture of abject misery that a case once seen will
 never be forgotten. Fortunately, acrodynia does not seem to be
-184 THE PSYCHOLOGICAL CLINIC
 very common. Besides the evident pain and misery, there is photophobia and paresthesia. Some investigators have considered diet
 an important factor both in causation and treatment but this is not
 accepted by all clinicians.
+
 Migraine is an old affliction and few disorders have had so many
 etiological explanations. That it is a neurosis has been suggested
 but apparently this hypothesis has not greatly aided in its treatment. In recent years the supporters of food allergy have claimed
@@ -120,6 +121,7 @@ body, there does not seem to be any deterioration of mentality as
 in the case of epilepsy. It is even a prevalent idea that only individuals of superior intellect are subject to migraine but this has
 been sharply challenged. Psychological tests should prove to be
 of value in settling this point.
+
 The mental features of epilepsy are familiar to psychologists
 and so will not be given special consideration. This disease, known
 since antiquity, has provoked a great variety of treatments directed toward supposed causes ranging from spirits to physical
@@ -136,7 +138,6 @@ by some, that epilepsy is a disorder of metabolism is correct, then
 we may have some hopes that dietary treatment will be of benefit.
 It seems to be widely accepted that brain lesions may lead to
 epileptic seizures, in which case diet could hardly be expected to
-THE FIELD OF PSYCHODIETETICS 185
 have any influence. The suggestion has been made that infantile
 convulsions might be controlled by eliminating offending proteins
 from the diet and in this way avoiding future cases of epilepsy.
@@ -149,11 +150,13 @@ nervous sensitivity would be considered a part of the greater general tissue irr
 this hypothesis can be verified it would open the way for studies
 on a possible relationship between personality and food. It is evident that there are excellent opportunities for cooperative research
 to be carried on by allergists and psychologists.
+
 Maurer and Tsai (5, 6) report pronounced bad effects upon
 the learning ability of white rats when vitamin B is withheld during the nursing period only. These findings do not necessarily conflict with those of Fritz (3) who found but little effect on mature
 rats even with a combination of salt defectiveness and vitamin B
 deficiency. That vitamin B deficiency results in nervous degeneration is hardly open to question, but what the psychological effects
 may be has received little attention.
+
 It has been supposed for a number of years that intestinal
 toxemia is responsible for a great many alarming symptoms including profound mental effects. Some physicians, and no doubt
 the majority of the public, believe thoroughly in the horrible effects of intestinal toxemia. A few have flatly challenged these
@@ -166,10 +169,11 @@ However, if it is as prevalent as is generally thought and the
 nervous and mental symptoms are as profound as it is often
 claimed, then there can be no doubt that scientific information
 would be of the greatest practical value.
+
 It seems very probable, judging from rather careful experimental work, that vitamin B deficiency will result in anorexia.
 Clinically, it is found that feeding infants a high vitamin B diet
 stimulates appetite.
-186 THE PSYCHOLOGICAL CLINIC
+
 It is not possible at this time to take up all of the situations
 which should receive consideration in a discussion on psychodietetics. Some of these can only be mentioned. Neurasthenia,
 hyperexeitability, "nervousness," sexual virility and fatigability
@@ -188,8 +192,10 @@ withhold treatment just to find out what will happen. It must be
 recognized that the clinician is treating to cure and not performing an experiment. More laboratory work is needed and a partial solution may lie in the experimental use of animals.
 Only a few specific references to literature have been made m
 this paper since a review and fairly complete bibliography on psychodietetics up to 1933 will be published later.
-\
+
 References
+------------
+
 1. Balyeat, R. M. The general health and mental activity of allergic children, Amer. J. Dis. Child., 1929, 37, 1193-7.
 2. Donaldson, A. N. Relation of constipation to intestinal intoxication, J.
 Amer. Med. Asso., 1922, 78, 884-8.

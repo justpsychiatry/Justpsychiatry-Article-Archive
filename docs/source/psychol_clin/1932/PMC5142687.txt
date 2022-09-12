@@ -4,9 +4,11 @@ The Relationship of Psychological Tests in the First Grade to School Progress: A
 The Psychological Clinic
 Copyright, 1933, by Lightner Witmer, Editor
 Vol. XXI, No. 3 September-November, 1932
-By T. W. Richards
+:Author:  T. W. Richards
+
 Part I
 Introduction and Scope of Investigation
+
 In 1924 Easby-Grave 1 published the results of an investigation
 of 500 first grade children in Philadelphia. The object of her
 study was to determine standards for certain psychological tests
@@ -27,10 +29,9 @@ or in 8B (in the case of schools operating on the 8-4 plan). These
 Intelligence Quotients are derived from scores made on the Philadelphia Group Test of Mental Ability, and are used by the Philadelphia Schools for the purpose of classification of pupils into
 ability groups in the Junior and Senior High Schools throughout
 the city.
+
 i C. Easby-Grave, Tests and Norms at the Six Year Old Performance
 Level. Psycliol. Clin., 1924, 15, 261-300.
-137
-138 THE PSYCHOLOGICAL CLINIC
 As the result of investigating records throughout the school
 system 326, or 78 per cent, of the original 416 cases were traced.
 It was decided arbitrarily to limit the group to be used for purposes
@@ -56,7 +57,10 @@ to use their files. My greatest debt of gratitude is to Dr Miles
 Murphy, without whose interest and willingness on every occasion
 to give helpful suggestions this study would never have been
 completed.
+
 School Progress
+----------------
+
 As an indication of progress in school, the Progress Index was
 used, which is described by Freden in his comprehensive study 2
 of age-grade and progress statistics in the school systems of Iowa.
@@ -70,13 +74,13 @@ in twelve semesters receives the quotient of 8/12 x 100, or 66.7, etc.
 Fifteen, or 6.6 per cent of the group of 229 cases traced through
 2 G. Freden, Age-Grade and Progress Indices for the Public Elementary
 Schools of Iowa. University of Iowa Studies in Education, 1927, 4, No. 4.
-PSYCHOLOGICAL TESTS IN FIRST GRADE 139
 twelve or more semesters of school, are excluded from the group
 correlated with the test scores given in the first grade because they
 spent at least some time in a special class for backward children
 (called in the Philadelphia Schools Orthogenic Backward Classes).
 In Table 1 appears the distribution of Progress Indices for the
 remaining 214 cases.
+
 Table 1
 Distribution of Progress Indices
 Index Frequency
@@ -95,6 +99,7 @@ Average  90.68 ? .77
 S.D  11.27
 Variability  12.43
 Skewness  ?.43
+
 There seem to be no studies in the literature which meet the
 precise conditions of our experiment; no group could be located
 with which we might compare this distribution. Freden3 reports
@@ -114,25 +119,31 @@ entire group studied by Knight and Manuel and found it to be
 3 G. Freden, Age-Grade and Progress Indices for the Public ElementarySchools of Iowa. University of Iowa Studies in Education, 1927, No. 4.
 4 J. Knight and H. T. Manuel, Age of School Entrance and Subsequent
 School Kecord. Sch. and Soe., 1930, 32, 24-26.
-140 THE PSYCHOLOGICAL CLINIC
 97.18. Our own average of 90.7 is not the index of average progress, but the average index for the group. It is seen to be lower
 than the averages either for a group composed entirely of elementary school pupils throughout Iowa (therefore more similar to
 our own group) or for a group composed entirely of high school
 graduates. Whether or not the differences between these averages
 are significant cannot be determined.
+
 Figure 1 shows graphically the distribution of Progress Indices.
 The fact that the average Progress Index is but 90.7 might
 indicate that the schools are rather more prone to retard children
 than to give them double promotions. If this is the case the tendency fits in with the theory that the retarded child is given educationally more consideration at present than is the accelerated child.
+
 Progress Index
+-----------------
+
 Fig. 1. Curve showing distribution of Progress Indices. The area of
 the curve is divided into three sections, to show the approximate portions of
 the area included by the Low, Middle and High Groups.
-PSYCHOLOGICAL TESTS IN FIRST GRADE 141
+
 Philadelphia Group Test of Mental Ability
+------------------------------------------
+
 As mentioned above, an attempt was made in the investigation
 of records to obtain for each child the I.Q. given in 6B or in 8B,
 through the use of the Philadelphia Group Test of Mental Ability.
+
 I.Q.s for only 135 cases were obtained. These distributed as in
 Table 2.
 Table 2
@@ -155,7 +166,9 @@ Average  102.48 ? 1.39
 S.D  16.17
 Variability  15.8
 Skewness  ?.18
+
 Part II
+
 Comparison of Follow-up Groups with Original First-grade
 Group of 500
 In order to determine whether or not the groups followed up
@@ -171,9 +184,10 @@ variability and skewness of each. Using Pearson's6 formula for
 s After the groups had been isolated, it was found necessary to exclude
 two cases from. Group IV, the OB group. The computations for the groups
 were recalculated.
+
 c K. Pearson, Note on the Significant or Non-Significant Character of a
 Sub-Sample Drawn from a Sample. Biometrilca, 1906-7, pp. 181-183.
-142 THE PSYCHOLOGICAL CLINIC
+
 Table 3
 Distribution of Easby-Grave I.Q.s, Groups E-G, I, II, III and IV
 I.Q.
@@ -282,10 +296,12 @@ Skewness
 9.44
 9.82
 -1.55
+
 the computation of sigma differences between averages of group
 and sub-group, the differences between the averages of the smaller
 groups and that of the Easby-Grave group, with the reliability of
 these differences, are given in Table 4.
+
 Table 4
 Differences Between Averages of I.Q. Groups: Between Easby-Grave
 Distribution of 500 First Grade Children, and Sub-Groups
@@ -311,12 +327,12 @@ I
 II
 III
 E-G
+
 The differences between the Easby-Grave group of 500 and
 each of the sub-groups are significant. The fact that the whole
 group of 229 cases followed up should differ so significantly from
 the Easby-Grave group is rather difficult to explain. The dropfile system in the Philadelphia Schools is designed to permit of
 quite as ready check-up on retarded children as on those who
-PSYCHOLOGICAL TESTS IN FIRST GRADE 143
 progress normally or better, so that if the relationship between
 school progress and I.Q. is assumed pre-analytically, the criticism
 that we have here a selected group of brighter pupils because of
@@ -328,18 +344,22 @@ in three Philadelphia Public Schools. The approximate percentages of the group o
 these three schools are listed below, with the percentages of our
 group of 229 secured from the same schools. The slight difference
 Easby-Grave 500 229 followed up
+
 School A  48% 60%
 School B  28% 23%
 School C  16% 17%
 Other Schools  8% 0%
 Total  100% 100%
+
 in percentages may account for some lack of balance in the selection
 of cases from different schools, although there is no evidence for
 this assumption. The fact that the group of OB pupils is composed
 of but 13 cases may suggest that statistical differences are unreliable. From the point of view of the process of selection which
 created it, however (largely mental deficiency and school retardation), the difference between its average and that for a normal
 group should be definite and significant.
+
 Part III
+
 Interrelationships of Tests within the Total Group
 Followed Up
 The tests selected for correlation with school progress and with
@@ -351,7 +371,6 @@ The distribution of I.Q.s has been discussed in the foregoing
 paragraphs.
 The distributions for memory span appear in Table 5. The
 auditory span appears to distribute about normally. In regard
-144 THE PSYCHOLOGICAL CLINIC
 Table 5
 Distribution of Memory Spans
 Span
@@ -409,6 +428,7 @@ Skewness.
 1.07
 39.78
 -.18
+
 to the visual and reverse spans, it was felt that the score of 0 was
 illegitimate, since it indicated not the total lack of ability tested,
 but the inability to give evidence of that ability on the test in
@@ -417,6 +437,7 @@ question. If we adopt this theoretical viewpoint and discard all
 assumes a more normal shape, though with a tendency to bimodality,
 at spans 4 and 5; the curve for reverse span closely approximates
 that of normal distribution.
+
 The Witmer formboard. The most striking aspect of these distributions is the marked skewness. For purposes of greater clearness the curve has been drawn for the first and second trials, in Fig.
 2. The close approximation to normal distribution at the negative
 end of the curve and the stretching out of cases at the positive
@@ -432,7 +453,7 @@ of the larger groups. This made it necessary to extend the highest interval
 in the finer calibration to 124". Since there were no cases in this interval
 of scores above 2', it seemed legitimate to consider this a practical distribution
 of cases completing the test in less than 2'.
-PSYCHOLOGICAL TESTS IN FIRST GRADE 145
+
 The Witmer cylinders. This distribution appears not to be
 normal, particularly in the first trial. Fifty-one per cent of the
 total group pass the cylinders on the first trial, 87 per cent pass
@@ -445,18 +466,20 @@ quantitative measurement is concerned. The fact that it offers
 such a definite problem for these children, however, is further
 support for the opinion that it is a good test for qualitative clinical
 use.
+
 In intercorrelating the tests, the Pearson formula for r was used
 with all data except those for the memory spans. In the case of
 memory spans, where the series is not continuous but discrete, and
 Time-score in seconds
+
 pSjOOiOeMOiCDCOOt^-^'-i
 <N <M <N r?I H ,-H i-H [
 I I II I I I IC ?o
 miOlOlOlOlOlOTtf 1-1
 LQ <M OS <0 CO O blO
+
 Fig. 2. Curve showing distribution of time scores for the Witmer formboard: Solid line 1st trial, dash 2nd. Line drawn at 124" to show effect
 of cutting time limit to 124".
-146 THE PSYCHOLOGICAL CLINIC
 the range narrow, it seemed advisable at first to use Pearson's coefficient of mean square contingency described by Rugg,8 perhaps
 more clearly by Garrett.9 In the course of the statistical computation, however, it seemed wisest to discard all coefficients thus
 obtained. Yule's10 criticism that as the fineness of the classification is varied, the coefficients are not comparable one with the
@@ -467,6 +490,7 @@ correlations) seemed to justify such a step. The size of the coefficients of con
 the scatter of cases, and in every case the coefficients of contingency
 were appreciably higher than the Pearson coefficients.
 The correlations secured appear in Table 6. For the Witmer
+
 Table 6
 Pearson Coefficients Secured in Intercorrelations of Stanford-Binet
 I.Q., and Performance Tests
@@ -480,6 +504,7 @@ Witmer formboard 1st (5') with Witmer cylinders 1st  +.067 =fc .062
 Witmer formboard 1st (124") with Witmer cylinders 1st  +.195 ? .061
 Witmer cylinders 1st with 2nd  +.289 ? .059
 Average of coefficients of intercorrelation  +.206
+
 formboard, there seems a slight relationship with I.Q., but the only
 coefficient of reasonable magnitude is that secured with second
 trial. The very slight correlation with the cylinders, together with
@@ -494,7 +519,7 @@ s H. O. Rugg, Statistical Methods Applied to Education. Boston, Houghton-Mifflin
 Longmans Green, 1926, pp. 195?203.
 10 G. U. Yule, An Introduction to the Theory of Statistics, London, 1919,
 p. 66.
-PSYCHOLOGICAL TESTS IN FIRST GRADE 147
+
 is little evidence tliat the cylinders distribute normally at this level,
 contrary to the assumption of normal distribution within the
 variables for the Pearson formula. It is for those reasons unlikely
@@ -504,9 +529,11 @@ Coefficients of correlation between I.Q. and other tests are low.
 The abilities required to do well on the Stanford-Binet seem unrelated at this grade-level to those required in performance tests;
 the highest coefficient here obtained is but -f- .230, that with the
 five-minute formboard.
+
 Memory spans. For the purpose of showing relative frequency
 among memory spans, tables of percentage relationships are given
 (Tables 7, 8, 9). The relationship is evident, but somewhat slighter
+
 Table 7
 Percentage Relationship Between Visual and Auditory Memory Spans:
 Percentage of Total Auditory Group in Each Visual Category
@@ -612,7 +639,7 @@ Total
 100.0
 100.0
 100.6
-148 THE PSYCHOLOGICAL CLINIC
+
 Table 9
 Percentage Relationship Between Auditory and Reverse Memory Spans:
 Percentage of Total Reverse Group in Each Auditory Category
@@ -652,6 +679,7 @@ Total
 16.3
 7.9
 1.8
+
 100.9
 than might be expected from tests which suggest by their verynature a high correlation.
 Generally, it seems safe to state that the tests used by EasbyGrave at the first-grade level intercorrelate poorly. If the object
@@ -663,27 +691,33 @@ or not the memory span tests are closely related to the other tests
 used has not been determined. The spans themselves seem to be
 related to each other. Probably they measure an ability common
 to each test, though to what extent cannot be stated.
+
 Part IV
+
 The Relationship Between First-grade Tests and School
+
 Progress
+
 The results for Group II, or that group composed of 214 cases
 for whom Progress Indices were calculated, were used in correlating
 test scores given in the first grade by Easby-Grave with the criterion
 of school progress. The coefficients secured for the Stanford-Binet
 and the performance tests, appear in Table 10.
+
 Table 10
+
 Pearson Coefficients Indicating the Relationship Between School Progress and First-Grade Psychological Tests
 r PE
 School progress with I.Q  +.413 ? .039
 School progress with Witmer formboard, 1st trial (5')  + .069 ? .046
 School progress with Witmer formboard, 1st trial (124")  +.165 ? .047
 School progress with Witmer cylinders, 1st trial  ?.024 ? .065
-PSYCHOLOGICAL TESTS IN FIRST GRADE 149
 It will be seen that the relationship as demonstrated by the
 coefficients between school progress and time scores on performance
 tests is negligible. The coefficient of -f- -413 secured in correlating
 the Stanford-Binet with school progress suggests a definite positive
 relationship, although not of high degree.
+
 Seeking further to study the relationship between school progress and the tests used by Easby-Grave at the first-grade level, a
 method was devised by which the group was divided into three
 sub-groups, on the basis of Progress Indices. Those children who
@@ -695,6 +729,7 @@ for the group (90.7) as those with Indices of 100 or better were
 superior to it. The groups as divided on the basis of Progress
 Index, with the number of cases and percentage of that number
 in each, were as follows:
+
 Group A (superior group) 74 cases; 35%; Indices of 100 plus.
 Group B (middle group) 97 cases; 45%; Indices from 81.4 to 100.
 Group C (inferior group) 43 cases; 20%; Indices of 81.4 minus.
@@ -706,6 +741,7 @@ less; Group C is composed of those children who in about twenty
 semesters were able to complete eight grades or less. Between the
 two groups is a group of children (Group B) who vary in rate of
 progress roughly between Indices 80 and 100.
+
 The distributions of Groups A, B and C. for the I.Q. appear
 in Table 11. The results for memory spans and performance tests
 are not tabulated but the reliabilities of the differences between the
@@ -715,10 +751,11 @@ averages to its sigma is above 3, since there is for such a ratio
 practical certainty that it exists (or is greater than 0). Those
 differences which seem actual have been indicated by an asterisk,
 on the basis of probability of their occurrence.
+
 The findings in regard to differences between Groups A, B and
 C should be interpreted very cautiously. There is much overlapping on all tests, least marked, perhaps, on the I.Q., greatest
 on the performance tests. For I.Q. the differences are more reliable
-150 THE PSYCHOLOGICAL CLINIC
+
 Table 11
 Showing Distribution of Stanford-Binet 1st Grade I.Q.s for Three
 Groups of School Progbess Indices
@@ -826,6 +863,7 @@ Witmer cylinders. .
 3.24
 .66
 .29
+
 Note: Asterisk indicates difference is reliable.
 than for any other of the tests. Differences between groups for
 the memory span are real, though not as reliable as those for the
@@ -833,7 +871,6 @@ I.Q. As one might expect, for I.Q. and memory spans, differences
 between Groups A and C are more significant than those between
 A and B or B and C. There seem to be no reliable differences between averages for groups in the performance tests. (It must be
 remembered that these tests, particularly the cylinders, do not seem
-PSYCHOLOGICAL TESTS IN FIRST GRADE 151
 to distribute normally at this grade-level. The statistical measures
 secured therefrom should, therefore, be interpreted with caution.)
 In general, the results of the statistical analysis of differences
@@ -843,6 +880,7 @@ correlation already secured. The I.Q., which correlates best with
 the Progress Index, differentiates best for superiority in school
 progress. Memory spans seem to differentiate better than do timescores on performance tests, which for our groups differentiate
 not at all.
+
 There seems to be little in the literature with which we might
 compare the results secured in this part of our study. Ziegler,11
 in studying the relationship between attendance and various factors
@@ -866,11 +904,12 @@ school system. Average overageness is the weighted average of the overageness fo
 Toops and Pintner13 found a positive relationship between agegrade status and intelligence, working with a large group of children and using a series of mental tests. They divided their data
 into four classes: school retarded and below median in mentality,
 11 C. W. Ziegler, School Attendance as a Factor in School Progress.
+
 Teach. Coll. Contrib. to Ed., No. 297, 1928, p. 63.
 12 G. Freden, loc. cit.
 is II. A. Toops and R. Pintner, Mentality and School Progress, Jour.
 Educ. Psychol., 1919, 10, 253-262.
-152 THE PSYCHOLOGICAL CLINIC
+
 school retarded and above median in mentality, school advanced
 and below median in mentality, and school advanced and above
 median in mentality. They found an association coefficient by
@@ -878,6 +917,7 @@ using Yule's formula,14 of -(-85. This coefficient is of course not
 comparable to our own, but suggests a positive relationship, which
 suggestion is borne out for I.Q. and perhaps for memory spans in
 our own study.
+
 Hart,15 using our own method of calculating the index of progress showed the graphic relationship between intelligence and school
 progress to be obliquely S-shaped.
 "... mental test ability . . . was determined from the results of Army
@@ -885,6 +925,7 @@ Alpha National Intelligence and Stanford Binet tests. Some . . . took
 only the Alpha test; others took some combination of two of the three
 tests, and some . . . took all three. The results were reduced to quotients showing the mental-test achievement relative to the norm for the
 age."
+
 He reports for this scatter a Pearson coefficient of -f- .84.
 St. John,16 although he did not use indices of any sort for
 school progress, calculated the number and percentage of children
@@ -895,6 +936,7 @@ derived from scores on the Stanford-Binet, Dearborn A and C
 results of a group of more than 700 children who had had but
 the first four years of school. His results would justify him in
 stating that
+
 '1 The data on the general relations between I.Q. and progress through
 the grades show consistently and unmistakeably a positive correlation.
 Pupils with high I.Q.s are almost the only ones who succeed in gaining
@@ -904,14 +946,15 @@ have low I.Q.s. Belatively few pupils of average I.Q. and none above
 average become, during the period of record, retarded or overage in
 grade; and those who become accelerated by skipping grades, with very
 few exceptions, have high I.Q.s."
+
 Interpreting our own findings in relation to those mentioned
 above, it must be kept in mind that none of these studies was of
 G. U. Yule, Theory of Statistics, 1912, London, Griffin, pp. 37-39.
 is H. Hart, School Progress and Mental Test Ability. Sell, and Soc., 1925,
 21, 181-182.
+
 16 C. W. St. John, Educational Achievement in Kelation to Intelligence.
 Earv. Stud, in Educ., 1930, 15, Cambridge, Harv. Univ. Press.
-PSYCHOLOGICAL TESTS IN FIRST GRADE 153
 a follow-up character. The Easby-Grave tests were given when
 those in the group followed up were in the first grade, while the
 intelligence tests given in each of these other studies were (with
@@ -925,11 +968,13 @@ school progress and the Philadelphia Group Test of Mental Ability,
 given at a period slightly before the calculation of indices and
 thus more comparable to the results of the studies mentioned above
 was -|- .554 P.E. ? .040.
+
 To conclude the statistical analysis of data related to the problem of the relationship between tests in the first grade and subsequent school progress, it seems safe to state:
 (1) That there is a positive relationship between score on the
 "intellectual" tests,?the Stanford-Binet and the memory spans?
 and school progress in terms of the ratio of accomplishment to the
 time allowed for such accomplishment.
+
 (2) The correlation between performance tests scores and the
 Progress Index is negligible. Evidently, the ability required for
 successful progress through the grades is not measured in the first
@@ -937,24 +982,28 @@ grade by the Witmer formboard and the Witmer cylinders, although
 reliability of the statistical measures secured for the performance
 tests may be lowered by the skewness of their distributions at this
 grade-level.
+
 (3) The findings of this section seem to agree generally with
 those of other investigators.
+
 (4) Although there is an actual correlation between first grade
 I.Q. and memory span tests, and school progress, the use of the
 tests as sole indices for purposes of predicting school progress
 should be extremely cautious.
+
 Part V
+
 The Relation Between First Grade Tests and the Results of
 the Philadelphia Group Test in 6b and 8b
 "We shall deal summarily with the results secured in this part
 of the experiment. In dealing with the data regarding the relationship between results of psychological tests at the first grade
-154 THE PSYCHOLOGICAL CLINIC
 level and those secured in the higher grades, certain factors concerning the raw data should be kept in mind.
 (1) Although the I.Q.s derived from test scores on the Philadelphia Group Test of Mental Ability (referred to hereafter as
 PTMA) were made by children when in either 6B or 8B and not
 at a constant chronological age, the comparison with StanfordBinet I.Q.s given in the first grade should be suggestive, since
 the data in the first grade were also secured with regard to grade
 rather than age constancy.
+
 (2) I.Q.s for the PTMA are the result of a group test, and
 are being compared with those for an individual test.
 (3) The group of children who receive I.Q.s on the PTMA is
@@ -962,6 +1011,7 @@ representative only of those children who pass through the 6A or
 8A grades, and should, from the point of view of school standing,
 be regarded rather more as a Junior High School Group than an
 elementary school group.
+
 The Pearson coefficients secured in correlating the PTMA with
 the Stanford Binet and performance tests appear in Table 13.
 Table 13
@@ -987,9 +1037,9 @@ The difference between the averages, 102.48 and 108.04, is 5.56, with
 a P.E. of ? 1.309. The difference appears to be a fairly reliable
 one, and in favor of the first grade. Variability of I.Q. is seen to
 be slightly greater at the upper grade level.
+
 Although the results of this part of the investigation fall within
 the discussion of the constancy of the I.Q., certain features merit
-PSYCHOLOGICAL TESTS IN FIRST GRADE 155
 consideration of extreme caution both in the interpretation of the
 data here presented and in comparison with the findings of other
 investigators within this field of interest. It may be reemphasized
@@ -1006,6 +1056,7 @@ grade and the PTMA in the sixth and eighth grades, and school
 progress, and, on the other hand, that between the two measures
 of intelligence. The coefficients named, in relation to each other,
 are as follows:
+
 1st grade I.Q. with school progress  r ? +.413 P.E. ? .039
 6th-8th grade I.Q. with school progress  r ? +-554 P.E. ? .040
 1st grade I.Q. with 6th-8th grade I.Q.18 v = +-604 P.E. ? .038
@@ -1021,24 +1072,28 @@ through the grades, they measure additional factors not implied
 in school progress.
 The conclusions to this part of the investigation would appear
 to be as follows:
+
 (1) There is an actual relationship between the I.Q. given in the
 first grade on the Stanford-Binet and that given in the 6B and
 17 T. G. Foran, A Supplementary Review of the Constancy of the Intelligence Quotient, Cath. Univ. of Amer., Educ. Ees. Bull., 1929, 4, No. 9.
 is Compare the coefficient of + .70 secured by Farson. M. E. Farson,
 A Report on the Examination of One Hundred 6B Children in Philadelphia
 Schools. Psychol. Clin., 1928, 17, 128-152.
-156 THE PSYCHOLOGICAL CLINIC
+
 8B grades on the Philadelphia Group Test of Mental Ability. The
 coefficient secured when the tests are correlated indicates slight
 predictive value for the first grade test.
+
 (2) The relationship between the 6B and 8B test and the first
 grade test is greater than that between either test and school progress over twelve or more semesters of school.
 (3) There is a difference of approximately 6 points between the
 average for the I.Q. in the first grade and that for 6B and 8B.
 This difference appears to be a true one.
+
 (4) The I.Q. secured on the group test in 6B and SB appears
 to be slightly more variable than that secured on the individual
 test in the first grade.
+
 (5) These findings are not strictly comparable to those found
 in studies of the constancy of the I.Q. because no attempt was made
 so to control conditions as to eliminate factors other than growth
@@ -1051,7 +1106,9 @@ environmental conditions, attendance in school, and the like, which
 have received no consideration in this investigation, have tended
 to lower the reliability of the correlations between first-grade test
 results, school progress and later mental status.
+
 Part VI
+
 Studies of Special Class Pupils
 It will be recalled from the discussion in Parts I and II that
 thirteen children in the total group followed up were placed ultimately in special class. As no index for most of these children
@@ -1060,9 +1117,9 @@ they were placed in a group by themselves (Group IV).
 Certain material regarding the examination by Easby-Grave
 and those given later by the Division of Special Education is presented in case study form in some detail in Table 14. In the first
 column of the table appear the results of the Easby-Grave examination, with any supplementary remarks of a qualitative sort which
-PSYCHOLOGICAL TESTS IN FIRST GRADE 157
 were at that time recorded. In the five columns to the right appear
 the follow-up data secured.
+
 It is extremely difficult to draw conclusions of a general nature
 from the material in Table 14. Because the group was composed
 of thirteen cases, statistical calculations are practically worthless.
@@ -1080,6 +1137,7 @@ in OB until the close of the investigation. One child (the superior
 boy) spent only one term in OB, and at the close of the study was
 in 10A, one year ahead of schedule, while another was transferred
 from OB to a disciplinary class.
+
 A comparison of test results, both quantitative and qualitative,
 between the original examination and those by the Division of
 Special Education indicates, above all, the lack of harmony between conclusions made. No one of the thirteen children was reported in the first grade study as being especially inferior or
@@ -1097,7 +1155,7 @@ is that there should be much more research of a clinical, individual
 nature in respect to those children who need special attention in
 school, before conclusions as to the prognostic nature of tests as
 such can be validated.
-158 THE PSYCHOLOGICAL CLINIC
+
 Table 14
 Case
 (1)
@@ -1302,10 +1360,11 @@ efficiency, but poor ability
 to deal with abstract ideas.
 Very limited intellectual
 ability.
+
 Note: For abbreviations in Table 14: C.A. chronological age; M.A. mental age; Aud., Vis., and Rev. memory spans; W.F.B.
 Witmer formboard; W.Cyl. Witmer cylinders; H-A, Healy A; D.F.B. Dearborn formboard (Witmer modification); OB, orthogenic
 backward, or special class for backward children. School proficiency is measured by use of the Philadelphia Public School proficiency test. Unless otherwise indicated, the Stanford-Binet was used in securing I.Q.
-160 THE PSYCHOLOGICAL CLINIC
+
 Table 14?Continued
 Case
 1st Grade
@@ -1494,7 +1553,7 @@ the Junior High School at
 Temple University. At
 close of investigation he
 was in 10A in a Philadelphia high school.
-162 THE PSYCHOLOGICAL CLINIC
+
 Table 14?Continued
 Case
 1st Grade
@@ -1992,7 +2051,7 @@ Wants to be a carpenter.
 He should be allowed to
 leave school as soon as the
 law permits.
-PSYCHOLOGICAL TESTS IN FIRST GRADE 167
+
 Table 14?Continued
 Case
 1st Grade
@@ -2099,7 +2158,7 @@ discriminations. Good
 willingness and persistence.
 Imagery poor. Vocabulary very poor. Needs to
 have number concept established. Concrete material should be used for this.
-168 THE PSYCHOLOGICAL CLINIC
+
 Table 14?Continued
 Case
 1st Grade
@@ -2210,10 +2269,13 @@ work with his hands;
 should make a good plumber, painter, paperhanger.
 Very poor at following
 written or oral directions."
-PSYCHOLOGICAL TESTS IN FIRST GRADE 169
+
 Summary
+----------
+
 As the result of the data presented in this investigation, these
 conclusions are indicated:
+
 (1) The attempt to follow up by means of school records 416
 children who had been given psychological tests in the first grade
 resulted in the accumulation of data for 78 per cent of the cases.
@@ -2228,6 +2290,7 @@ one grade more or less than nine in ten years of schooling.
 found to be superior to the original group of 500 first-grade children. The selection thus shown to be operative was difficult of
 explanation. It is possible that the children followed-up represented the superior schools of those used in the first-grade standardization. This, however, is not indicated in the results, and is
 only a possible explanation.
+
 (3) The inclusion of zero scores in reverse and visual memory
 span tests lead to a tendency of bimodality in distribution. It
 would seem that the score of "0" should represent an inability to
@@ -2241,6 +2304,7 @@ quantitative measurement on this test, the time limit may well be
 reduced without injuring the normal distribution of time-scores.
 The children thus eliminated may, however, be of greatest interest
 in qualitative clinical study.
+
 (5) The Witmer cylinders test, since it does not distribute in
 normal fashion for children at the first grade level, is a poorly
 calibrated instrument of quantitative measurement at that level.
@@ -2248,7 +2312,6 @@ calibrated instrument of quantitative measurement at that level.
 between the first trials of the performance tests and any other tests.
 The first trial of the Witmer formboard correlates to some degree
 with the second trial; this is not true of the trials on the cylinders.
-170 THE PSYCHOLOGICAL CLINIC
 (7) Auditory, visual and reverse memory spans appear to
 relate to each other to a fairly high degree. Probably they measure common factors.
 (8) For the purposes of measuring relatively unrelated traits,
@@ -2259,6 +2322,7 @@ I.Q. and school progress, as well as between memory spans and
 school progress. The relationship of the former is somewhat
 greater. There is no such relationship between performance tests
 and school progress.
+
 (10) The relationship stated in (9) is not of sufficiently high
 degree to warrant accurate prediction for school progress solely on
 the basis of the first grade test scores used in this study.
@@ -2274,7 +2338,10 @@ two levels is open to question.
 (14) The type of examination given in the first grade to the
 children who achieved special class status in the schools at any
 time did not warrant prediction of such placement.
+
 Bibliography
+--------------
+
 Easby-Grave, C.: Tests and Norms at the Six Year Old Performance Level.
 Psychol. Clin., 1924, 15, 261-300.
 Farson, M. R.: A Report on the Examination of One Hundred 6B Children

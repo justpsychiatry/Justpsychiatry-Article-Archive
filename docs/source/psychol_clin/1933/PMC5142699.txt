@@ -1,7 +1,7 @@
 A Study of Criminal Conversations
 ==================================
 
-By Norman Powell
+:Author:  Norman Powell
 Classification Clinic, Sing Sing Prison
 The first quantitative study of the content of adult conversations appears to have been made by H. T. Moore 2 in 1922. Since
 that time conversation has become, as Gardner Murphy states in
@@ -12,13 +12,16 @@ of their essential interests and thoughts. It is felt that the present
 investigation is significant in that it gives at least an indication as
 to what the incarcerated criminal thinks about and throws some
 light on the criminal mind.
+
 Evidence is presented here concerning four questions:
 1. What is the relative popularity of subjects in a criminal
 population ?
+
 2. What is the relationship between the subject under discussion and the age, race, occupational level, and time in the institution of the speaker?
 3. How does this institutional group compare with extrainstitutional groups?
 4. Is there a tendency for given conversational topics to have
 larger or smaller discussion groups ?
+
 The technique employed here is the sampling method, analyzing
 485 bits of conversations among inmates in Sing Sing Prison. All
 data were gathered and tabulated by an inmate assistant in our
@@ -32,8 +35,7 @@ E. Lawes, Warden, and to Dr W. H. Thayer, Commissioner of Correction for
 encouragement of research at Sing Sing Prison. I am deeply indebted to inmate 85183 for his sincere and energetic assistance in carrying out this study.
 2 Moore, H. T., Further Data Concerning Sex Differences, J. Abn. and
 Soc. Psychol., 1922, 17, 210-214.
-61
-62 THE PSYCHOLOGICAL CLINIC
+
 snatches of conversations, a schedule for topical classification was
 drawn up prior to the investigation. The inmate was given practice in the classification and tabulation of imaginary snatches of
 conversation until it was felt that the possibility of error had been
@@ -44,6 +46,7 @@ the number in the group were recorded. All records were taken
 during recreation periods?all of Saturday afternoon, April 8th,
 1933 and the entire next day, Sunday. The population was entirely unaware of the progress of the experiment.
 Conversations were classified under the following fifteen headings. Edited somewhat, a sample is given for each topical division:
+
 1. Home.?My family lives in New York.
 2. Weather.?This is a fine day.
 3. Institution.?I got a "report" yesterday for smoking.
@@ -70,6 +73,7 @@ added, a total of 22 per cent is obtained. A decided trend is thus
 observable. The criminal population is most interested in becoming a non-institutional population and in re-establishing contact
 with the outside world, but these interests are not nearly so powerful and omnipresent as might have been expected.
 Some of the results of the study of 500 conversations in ColumA STUDY OF CRIMINAL CONVERSATIONS 63
+
 Table 1
 Relative Popularity of Topics
 Subjects
@@ -229,6 +233,7 @@ m
 3
 0
 3
+
 Subjects
 Home
 Weather
@@ -481,6 +486,7 @@ n
 3
 5
 2
+
 bus, Ohio, which Landis and Burtt3 published in 1924 are comparable to ours. Business and money are about sixteen times as
 popular a topic in their civilian group as it is in our criminal
 group; sports and amusements are twice as popular, while weather
@@ -490,15 +496,17 @@ as a whole. Business people and students outside discuss financial
 matters about ten times as frequently as the business and professional group in Sing Sing. The outside group discusses sports
 and amusements nineteen times as often, health about eight times
 as often, and the weather just as often.
+
 Similarly, in the industrial group, finance is much more popular as a conversational topic among extra-institutional workers?43
 per cent as against 1 per cent in our group of skilled and semiskilled workers, sports and amusements are about the same, and
 the weather is nine times as popular inside as outside?18 per
 cent as against 2 per cent.
+
 If, then, it is assumed that the extra-institutional conversations
 of inmates in these two groups would have approximated those
 3 Landis, M. H., & Burtt, H. E., A Study of Conversation, J. Corny.
 Psychol1924, 4, 81-90.
-A STUDY OF CRIMINAL CONVERSATIONS 65
+
 Table 2
 Comparison between Landis & Burtt and Sing Sing Groups
 Group as a Whole
@@ -546,9 +554,11 @@ No. of cases.
 164
 47
 154
+
 found by Landis and Burtt, it may be said that, measured by conversations, the business and professional group is, on the whole,
 more affected by incarceration than the industrial group, indicating that the more intelligent the individual the greater is the
 influence exercised by institutionalization.
+
 Unfortunately, non-institutional results are not available with
 which to compare our group with respect to the influences of race
 and age. However, an internal analysis of our group with reference to race reveals that home, most popular in the white group,
@@ -565,7 +575,6 @@ seen that the order for the Negroes resembles the order for the
 mixed group more closely than the order for the whites resembles
 the mixed. In other words, the addition of whites to the Negro
 group affects the conversation less than the addition of Negroes to
-66 THE PSYCHOLOGICAL CLINIC
 a white group. Employing a similar technique of analysis with
 our group divided into three age levels, we find that the youngest
 group resembles the oldest group more than the middle group resembles the oldest. With regard to occupation, it is found that the
@@ -574,12 +583,14 @@ group, and only a slight resemblance to the business and professional group. If 
 intellectual level, it may be said that the conversations of those of
 average intelligence resemble the stupid more closely than they
 resemble the conversations of the bright.
+
 With respect to analysis by length of time in institution, it is
 found that whereas home leads in conversations of persons less
 than one year in the institution, it drops to ninth place with those
 who have been in Sing Sing from one to two years and rises again
 to sixth place with those who have been in Sing Sing for more
 than three years, giving a reversed J-shaped curve. There is a
+
 Table 3
 Relationship Between Subject under Discussion, and Age, Eace, Occupational Level, and Time in Institution of the Speaker i
 Race
@@ -598,6 +609,7 @@ Occupation
 Skilled and Semiskilled Labor
 Business and Professional .26 .18
 Skilled and Semiskilled   .74
+
 1 The probable errors for the several correlation coefficients are relatively
 large and quite meaningless. According to H. E. Garrett in his Statistics in
 Psychology and Education (pp. 142-145) the probable error measures only errors
@@ -605,7 +617,7 @@ arising from a defective sampling of a population. The probable errors in this
 case, then, indicate exactly nothing. The population here is the number of
 topical divisions of the conversations and, presumably, constitutes a complete
 sampling.
-A STUDY OF CRIMINAL CONVERSATIONS 67
+
 slight unreliable trend with increasing stay in Sing Sing for a decrease in the number of conversations relating to release from the
 institution. Three groups divided according to increasing length
 of time in the institution have 24, 23, and 21 per cent of their respective conversations relate to getting out of Sing Sing. All
@@ -625,6 +637,7 @@ it is seen that the distribution for Home is much narrower than
 that for Economics and that there is a distinctly greater spread
 in the distribution of the discussion groups for Economics. The
 data for each topic are itemized in Table 4.
+
 In conclusion, two points should be stressed. (1) The differences between civilian and criminal conversations are very great.
 Table 4
 Size of Discussion Group and Conversational Topic
@@ -646,7 +659,7 @@ Health 2 .28
 Religion  2 .38
 1 Refers to median number of individuals engaging in particular subject of
 conversation.
-68 THE PSYCHOLOGICAL CLINIC
+
 These differences are larger than any yet obtained between a criminal and non-criminal group. Though the obtained differences are
 almost certainly due to the incarceration itself, it is possible that
 some are true differences. (2) Analysis of conversations of inmates with special reference to time in institution may prove a

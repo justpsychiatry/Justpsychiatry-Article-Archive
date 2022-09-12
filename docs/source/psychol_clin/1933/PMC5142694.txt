@@ -1,7 +1,7 @@
 Concerning School Psychologists
 ===============================
 
-By Rose G. Anderson
+:Author:  Rose G. Anderson
 Psychological Service Center, New York City
 At a recent New York dinner meeting of the Association of
 Consulting Psychologists, the topic "Every School Should Have
@@ -19,18 +19,18 @@ school psychologist. The result of the meeting was not a greater
 mutual basis for cooperation, but a raising of issues which must be
 met before a desirable quality of cooperation is possible. The school
 psychologist was placed on the defensive.
+
 There are two ways of meeting this situation. The school psychologist may uphold his ego by picking flaws in the arguments of
 the school-men. There were loop-holes enough in their criticism,
 if we turn our attention to them exclusively, to enable us to convince ourselves that a vigorous educational campaign for school
 people as to the value of the school psychologist is the fundamental
 need.
+
 We can, for example, point out a number of things to the school
 principal who emphatically asserted that he had no need of us because he was more able to adjust his own problems than any clinic
 he had consulted. We can suggest that his whole argument convinced us that his inability to be helped by the psychologists or
 psychiatrists he had consulted lay in his own reaction patterns
 1 Read at the annual meeting of the Association of Consulting Psychologists, University of Pennsylvania, Philadelphia, May 6, 1933.
-41
-42 THE PSYCHOLOGICAL CLINIC
 rather than in their incapacity to help him. We could also explain
 that the case he cited?curing the sex-delinquent girl by reading the Bible to her?illustrates one of the fundamental differences
 between the approach of the lay person and the psychologist,
@@ -39,6 +39,7 @@ has been content when the socially unacceptable manifestation of
 the cause has been eliminated although the root of the difficulty
 has been untouched and may in fact be more firmly entrenched by
 the method of treatment.
+
 This same principal asserted that the number of problem cases
 in his school was so insignificant that they were hardly worthy of
 consideration. Yet he gave us the figures of problems coming to his
@@ -60,14 +61,16 @@ times, and day-dreaming no times. When asked to specify the number of such probl
 unsocial, and withdrawing, that one-fourth, 218 compared with 2,
 showed traits of over-sensitiveness, and nearly a third were daydreamers. So we hesitate to accept the estimated per cent as representing the proportion of children in this school who need help in
 making a more satisfactory adjustment.
+
 A case in point is a high school boy recently referred for study
 by his tutor. This boy, submissive and retiring, is mal-adjusted
 2"Wickman, E. K., Children's Behavior and Teachers' Attitudes. New
 York, Commonwealth Fund Publications, 1928.
-CONCERNING SCHOOL PSYCHOLOGISTS 43
+
 both educationally and emotionally. The tutor had visited the
 school to get information to help him in his work with the boy and
 had found that his teachers hardly know who he is.
+
 The school principal asserts that his experience in consulting
 with specialists on problem cases has been unsatisfactory because
 he has been able to get only a diagnosis with no help as to what can
@@ -79,6 +82,7 @@ importance of such problems mentioned above, shyness, withdrawing, over-sensitiv
 helping the child showing these and other unfavorable traits in the
 earlier years, we could be more helpful than after these traits have
 developed to a morbid degree.
+
 A school official states that the solution of the whole problem is
 for every teacher to be a psychologist. No one deplores more than
 the psychologist the meagerness of this part of the teacher's training. Where teachers lack such training, much of the value of the
@@ -89,6 +93,7 @@ measures. Contrary to the implication that such training of teachers would make 
 psychologist, our experience is that such teachers are on the whole
 most eager to utilize the help and suggestions which the psychologist can give and the readiest to recognize their own limitations
 to handle their problems unassisted.
+
 This does not exhaust the possibilities of the suggested method
 of meeting the situation. But if we are primarily interested in
 our own growth and increased usefulness, is this approach the most
@@ -101,9 +106,9 @@ of his reaction pattern." As a step toward this end a careful
 analysis of his life history is necessary. Dr Martin states that
 "the life history narrative is at once diagnostic and therapeutic."
 Might it not be profitable to examine more closely into the life
-44 THE PSYCHOLOGICAL CLINIC
 history of the school psychologist ? Are there handicapping qualities in his reaction pattern ? Might such an analysis prove to have
 diagnostic and therapeutic features?
+
 With exceptions, notably Dr Witmer's clinic, the clinical psychologist was first employed in the institution for the feeble-minded,
 the first research centers in the development and use of intelligence
 tests. He was next used in the public schools where his function
@@ -118,6 +123,7 @@ this identification of the psychologist with the problems of subnormality, which
 and is tests, and the distinctive result of the test is an I.Q., we have
 the concept of the psychologist as a 'tester' who attaches a label
 and passes on.
+
 In the earlier years of the development of intelligence tests,
 there was on the part of the psychologist himself and still is in
 many instances, an exaggerated importance attached to the purely
@@ -138,6 +144,7 @@ children have been returned to the teacher too often merely labelled
 maining in the grade continuing to be as active problems as previously. The chief result is an exasperated and thwarted teacher
 who naturally projects some of her irritation on the psychologist
 for failing to relieve her of such problems.
+
 "With the development of group-tests, testing has become the
 popular thing and since tests are relatively easy to administer after
 a course or two or "even observing a test or two," much of the
@@ -147,6 +154,7 @@ label, often erroneous, to a child. Standards have not been established for the 
 school psychologists. The result has been a lack of respect for and
 a limited conception of the contribution which the psychologist can
 make to school problems.
+
 Inherent then in the development of the applications of psychology to school problems has been the tendency to stress diagnosis, and to put too exclusive reliance and emphasis on testing
 techniques. In instances where objective test results have been at
 variance with other known facts and these results have been dogmatically upheld without attempting to relate them to or reconcile
@@ -156,6 +164,7 @@ common sense and judgment will go further than the psychologist's
 findings. This same feeling has arisen when the child has been
 studied by a clinic outside of the school, not conversant with the
 intricacy and urgency of school problems.
+
 The school principal is right in demanding more than a diagnosis. The future of the school psychologist rests upon his demonstrated ability, to make a real contribution to the adjustment of the
 problem as diagnosed. In many instances the contribution of the
 testing techniques is a negative one, i.e., it shows where the difficulty does not lie. Although important and even in these instances
@@ -191,6 +200,7 @@ well as the supervised experience should not be given through the
 kind of situation where work is to be done and where realities are
 dealt with rather than problematical situations and theoretical
 solutions.
+
 Experience in supervising the prescribed practice work of students who had completed their required courses for the M.A. degree
 led me to the conclusion that they were well versed in the generalizations which can be made in many situations, but were quite
 unaware of the many exceptions to these generalizations and that
@@ -199,7 +209,6 @@ that their verbal responses would indicate their adequacy to administer a test, 
 proved not to be a robot, responding according to pre-conceived expectations, their lack of resources in adapting themselves would
 have been amusing had it not been appalling in view of the fact
 that these individuals after 30 hours of such practise work are
-CONCERNING SCHOOL PSYCHOLOGISTS 47
 supposedly prepared to go out, and have gone out, to do independent work.
 Summarizing briefly, we conclude that there are handicapping
 qualities in the reaction pattern of the school psychologist. Some of

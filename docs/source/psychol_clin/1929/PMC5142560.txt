@@ -1,7 +1,8 @@
 The Function of the Psycho-Biochemistry Laboratory
 ===================================================
 
-Max Trumpee, Ph.D.
+:Author: Max Trumpee, Ph.D.
+
 In charge of Psycho-biochemistry Laboratory, Psychological Clinic
 University of Pennsylvania
 There has been a rapid multiplication of specialism in all sciences since the "World War. This has enormously extended our
@@ -9,6 +10,7 @@ detailed knowledge in the laboratory and in the clinic. The available data have 
 Society for the Advancement of Science, it was stated that we now
 need abstractors of abstracts and reviewers of reviews. It now
 becomes essential to inter-relate the data gathered in the specialties.
+
 This furnishes a fertile field for mutual advances. This need has
 been recognized by the establishment of the pioneer Psychobiochemistry Laboratory in the Psychological Clinic of the University of Pennsylvania, in September, 1924.
 The inter-relationship of physiology and psychology is becoming more evident. The recent example of Pavlov and others
@@ -22,23 +24,25 @@ was impressed upon the writer by the papers presented this summer
 at the sessions of the XHIth International Congress of Physiology.
 A number of the papers were as important to the psychologist as
 to the physiologist.
+
 By making a biochemical approach to clinical cases as well as
 by research along experimental lines, Psychology can make its contributions more comprehensive. In this way the diagnosis, prognosis and treatment of Clinic cases, especially those with metabolic
 etiology, will be better understood. Furthermore it will serve to
 rule out organic disease as a predisposing or actually exciting cause
 of a given mental disturbance. A vast unexplored field lies in the
 chronic forms of poisoning both exogenous and endogenous which
-PSYCHO-BIOCHEMISTRY LABORATORY 193
 affect in varying degrees the mental processes. This is assuming
 increasing importance in the industrial field. The problem of
 fatigue in industry as well as in school, necessitates at least in part
 a biochemical approach.
+
 It has been observed in this Clinic over a period of years that
 many of the problem children of school age were apathetic, phlegmatic and even lethargic, without any apparent physiologic or
 metabolic defects. By studies made in our Psycho-biochemistry
 Laboratory it had been found from analysis of the alveolar air and
 the hydrogen-ion concentration of the saliva that many of these
 cases were overloaded with carbon-dioxide.1
+
 It is known to students of acid-base equilibrium2 of the blood
 that the lungs daily excrete the carbon-dioxide equivalent of twenty
 to forty liters of normal acid, while the kidneys excrete daily the
@@ -62,9 +66,10 @@ On all subjects showing a tolerance for carbon-dioxide rebreathing tests were pe
 of Fatigue. Amer. Jour. Psych., July, 1922, p. 394.
 Concomitants of High Alveolar Carbon Dioxide. Psychological Clinic,
 March, 1928.
+
 2 Leffman-Trumper. Compend of Chemistry, 7tli Edition, p. 233.
 ? Henderson and Haggard, 1925. Noxious Gases and Respiration.
-194 THE PSYCHOLOGICAL CLINIC
+
 were given) and the extent of their tolerance determined. This
 type of inefficient breathing afforded an explanation of some of the
 fatigue or toxic symptoms which brought these cases to the Clinic.
@@ -94,10 +99,11 @@ fixed in type and the blood compensation automatic, the medication
 has merely a transitory effect. I therefore contend that the proper
 therapy should be daily, extended inhalations of oxygen with minimum physical exertion, in order that the blood shall not continue
 to compensate by producing an oversupply of red cells and hemoglobin. Nervous excitement and mental worry have been suggested
-4 Trumper, Max. Hemato-Bespiratory Compensation. 1928.
+
+|4 Trumper, Max. Hemato-Bespiratory Compensation. 1928.
 B Trumper, Max. Spirograms and Their Significance. International
-Clinics, June, 1929.
-PSYCHO-BIOCHEMISTRY LABORATORY 195
+Clinics, June, 1929.|
+
 as the exciting cause in some of these cases. The point I wish to
 emphasize, however, is the marked fatigue symptoms of the cases
 studied which illustrate once again the inter-relationsliip of Psychology and Biochemistry and demonstrate the ways in which the

@@ -5,9 +5,13 @@ The Psychological Clinic
 Copyright, 1931, by Lightner Witmer, Editor
 Vol. XX, No. 5 October, 1931
 THE PSYCHOLOGICAL MANIFESTATIONS OF POST
-By Elizabeth Davies, M.A., and T. W. Eichaeds, M.S.
+:Author: Elizabeth Davies, M.A., and T. W. Eichaeds, M.S.
+
 The Psychological Clinic, University of Pennsylvania
+
 Introduction
+-------------
+
 Kecently we have had opportunity in the Psychological Clinic
 to observe five cases which were referred for examination because
 of school retardation following a history of chorea, or of what is
@@ -27,22 +31,25 @@ and their sensitiveness, whereas all these are symptoms of the disease. They
 have difficulty in concentrating; their attention is fleeting. To remain in
 school is very dangerous for them because of the added nervous strain and
 frequent heart complications.2
+
 i Wallin, J. E. W., Clinical and Abnormal Psychology. New York.
 Houghton Mifflin Co. 1927.
 - Bentley, Inez A., and Bronislaw, Onuf. The Work of the Medical Inspectors of Ungraded Classes. Ungraded, Vol. 11, p. 108.
-129
-130 THE PSYCHOLOGICAL CLINIC
+
 For a description of the medical aspects of chorea the reader is
 referred to any standard text of nervous diseases, particularly
 those of children. The psychological factors of the clinical picture,
 which concern us here, have been indicated briefly by Bronner,3
 who has this to say:
+
 The irregular mental functioning of chorea must be interpreted in the
 light of the nervous disturbance. The findings on tests are often curiously
 bizarre and may lead to fallacious conclusions concerning special defect if the
 fact of the disease is not taken into account. Clinical psychologists should
 remember that in rare cases the only sign of chorea may be the mental disturbance and that some authorities contend that in every case mental functioning is at some time affected.
+
 George
+
 The first case which came to our attention was that of George,
 aged thirteen years and six months, who was brought to the Clinic
 in February, 1931, by his aunt because of retardation in school due
@@ -64,13 +71,14 @@ older brother had, since his removal into the home of the aunt,
 worked as an errand boy, it was difficult for him to find work and
 the little family leaned for its income upon the bustling, energetic
 3 Bronner, Augusta F. The Psychology of Special Abilities and Disabilities. Boston, Mass. Little Brown & Co. 1917. P. 31.
-MANIFESTATIONS OF POST-CIIOREIC CONDITIONS 131
+
 aunt, who did cleaning about the city as often as she could find
 such work. The poverty of the home in which he lived until he
 was seven, and the unfortunate circumstances which befell the new
 and better home, provided George with a generally poor social environment, probably leading to lack of proper nutrition and, also,
 to a dearth of healthy social contacts basic to the development of
 normal emotional life.
+
 The first signs of George's present illness were noted in January, 1927, when he was nine years old and in the third grade. He
 began to drop food and eating utensils, which behavior was followed soon after by peculiar motions of the face, right arm and
 right leg. He became restless in school, annoying the misunderstanding teacher, who reproved him for his inability to keep still.
@@ -95,11 +103,11 @@ in the home. The strain on the boy which would result from such
 a move seemed too great, so he was placed for institutional observation two months longer. Since his return from this institution, in
 September, 1930, there had been some slight improvement, but it
 was felt that he should not return to the regular school routine.
-132 THE PSYCHOLOGICAL CLINIC
 Further treatment as part of the hospital's out-patient contact
 made for some gain in weight. "When the hospital referred the case
 to the Psychological Clinic there was nothing further to report on
 the boy's condition.
+
 The problem which George now presented was psychological as
 well as medical. Should the boy be replaced in school, in a routine which twice had proved too great a strain! Here was a boy,
 now thirteen years of age, who had completed but two and a half
@@ -109,6 +117,7 @@ now be able to stand the strain ? How much work could he stand ?
 It was with these questions in mind that George was referred
 to the clinic for examination. He was examined by Dr Miles
 Murphy in February of this year.
+
 It was reported that, according to a psychological examination
 made at the hospital, the boy had been given an Intelligence Quotient (Stanford Revision of the Binet-Simon) of 73, and a memory
 span of 6 audito-vocal, 7 visual, and 3, and occasionally 4, reverse.
@@ -127,11 +136,11 @@ trained to spell quite easily by the use of an auditory method. His
 visual imagery seemed to be poor. In arithmetic he had forgotten
 most of the fundamental number combinations. The principle of
 borrowing was completely forgotten.
+
 During the examination there was no sign of "nervousness" or
 abnormality of behavior in any way. To the examiner he seemed
 to be "very poor physical material" generally. He lacked the
 vitality characteristic of a boy of thirteen in good health. There
-MANIFESTATIONS OF POST-CHOBEIC CONDITIONS 133
 was an absence of general tonicity. Whether due to a poor intellectual and social environment, or to a weak physical basis, the
 boy was inferior intellectually probably to eighty per cent of boys
 his age. Intermittent schooling, poor environmental background,
@@ -150,6 +159,7 @@ of the orthopedic classes of the public schools, where his inadequacy for the no
 plan for the present, for it would be necessary to determine how
 much the boy could stand before a definite placement in school was
 effected.
+
 George was accordingly assigned for clinic teaching to Miss
 Marguerite C. MacLennan, in March of the past year. He received,
 from this time until May, about fifteen hours of teaching.
@@ -164,7 +174,6 @@ to a cause, and to determine whether or not they are a result of the
 disease (chorea) or to the fact that at some times more than at
 others, more is expected in the way of household duties at home.
 . . . Does this fund of energy vary decidedly from day to day ? It
-134 THE PSYCHOLOGICAL CLINIC
 seems wholly possible,?and yet as the hour spent in clinic passed
 he never gave evidence of fatigue brought about by the work unless
 he came in at the beginning of it with that ' day after the night before' look." She concludes, however, that George probably "does
@@ -181,6 +190,7 @@ In arithmetic, where he had most difficulty, George showed least
 improvement. His teacher devoted most of the time in this subject to an attempt to teach subtraction through drill methods, but
 the boy was so poorly motivated and so prone wholly to disregard
 his homework that little could be accomplished.
+
 A Binet examination was given in the last hour of teaching,
 with the result that George was given an Intelligence Quotient of
 69. His teacher says in reference to this index: "This I. Q. does
@@ -197,19 +207,22 @@ in no sense was there a suggestion that he was even bordering on
 the abnormal. Special education was obviously to be recommended.
 Though the boy needed constant supervision in order that a recurrence of the chorea might be foreseen and avoided, nevertheless his
 mentality would warrant further education. That he could cover
-MANIFESTATIONS OF POST-CIIOREIC CONDITIONS 135
 tlie work of tlie fourth grade could safely be predicted, but the
 process of this acquisition would need, necessarily, to be long,
 tedious, and careful because of the liability to relapse of the weakened nervous condition. AVere such a program to be followed out,
 there might be a chance that abilities hidden by the lack of disposable energy might crop out and lend a more hopeful aspect to
 the psychological picture.
+
 Sylvia
+-------
+
 The case of Sylvia, a little Jewish girl of nine years and one
 month, illustrates quite clearly the emotional component of the
 clinical picture of chorea. Her pre-scliool history appeared to be
 quite normal and revealed nothing significant. At one year she
 walked, talked and was clean. During the pre-scliool period she
 suffered mild cases of measles and whooping cough.
+
 Sylvia entered first grade at the age of six and a half years. She
 was a bit afraid during the first few days, but she soon conformed
 and progressed well in the grade. Her marks were excellent and
@@ -235,7 +248,6 @@ of her fear of school. She told us a few things about the child's life
 since her removal from school the preceding October. We learned
 that Sylvia had never slept alone. The parents claimed that she
 was not a discipline problem, which seemed doubtful. Since she
-136 THE PSYCHOLOGICAL CLINIC
 did not go to school, she spent the whole day reading, writing and
 playing school, we were told, and she pretended always that she
 was the teacher. After school, she played with children of her own
@@ -243,10 +255,12 @@ age. She would not go out of doors alone, however, except to visit
 one little girl. Otherwise, the children had to come to her home to
 play. If her mother "insisted" upon her returning to school, she
 hung her head, refused to answer and began to tremble.
+
 The psychological examination gave her an Intelligence Quotient of 106. Her auditory memory span was 5, the reverse 4, and
 the visual 6. In the performance tests she showed good coordination, precise hand movements and slow rate of discharge. At that
 time, her school proficiency measures were found to be 3B for reading, IB for spelling, and 2B for arithmetic. Her writing was
 judged large, legible and irregular.
+
 Dr Morris S. Viteles, who examined Sylvia, recommended that
 a neurological examination be made. The following procedure was
 recommended as the result of this examination: No discussion of
@@ -257,6 +271,7 @@ more social contacts and, finally, when these instructions had been
 carried out, she was to be informed that she would return to school
 at a given time. In the report of the neurological examination
 nothing was said about chorea.
+
 A school visit, made about a month after her examination in
 the clinic, revealed that the adjustment in first grade was difficult,
 that the mother had to accompany her to school and stay with her
@@ -271,7 +286,7 @@ Sylvia first appeared for clinic teaching soon after the school
 visit, under the impression that she was coming back to play more
 games. No attempt whatever was made to determine where teaching should begin, as such an approach was impossible due to the
 nature of the case.
-MANIFESTATIONS OF POST-CHOREIC CONDITIONS 137
+
 It had been stated that Sylvia was an omnivorous reader. This
 was proved a fact. The best approach to school work that did not
 blatantly proclaim itself as such seemed to be through the medium
@@ -299,6 +314,7 @@ Miss Davis, University Hospitable, 34th and Spruce Streets. She
 informed us that she was coming to the hospital and that her
 teacher was her nurse. This idea was a figment of her mother's
 imagination.
+
 With the advent of the Easter vacation, Sylvia was given an
 extra amount of home work which she agreed she should have in
 view of the holiday and, after that time, no mention was ever made
@@ -308,12 +324,12 @@ progress was the introduction of the word school into the spelling
 words. There was no emotional manifestation of any sort and although this word was stressed and repeated, she showed no signs
 of dislike.
 The next week, Sylvia read a story entitled: "What Is School
-138 THE PSYCHOLOGICAL CLINIC
 Without a Teacher?" She liked it and said so. That same day,
 she appeared before a class in psychology. To all the questions
 concerning school, which spared her not at all, she replied truthfully and in a straightforward manner. Her mother told us
 proudly that day that Sylvia had informed the family that she was
 going to a place that was just like school.
+
 Knowing this, Sylvia was asked how she liked this school and
 she decided that she liked it very much. "We then agreed that
 school would not be school without tests and so we indicated Tuesday as our day for arithmetic tests and Wednesday that for our
@@ -325,10 +341,12 @@ fourth grade, as her best friend was there now and they had started
 together. The impossibility of her going into that grade because
 of her long absence was pointed out, but she appeared only half
 convinced of the correctness of the view.
+
 More severe methods were adopted with her in insisting that
 she learn her multiplication tables without error. The desired procedure was demonstrated to her and the work the next day indicated that the talk had taken root. Further development was reflected when she requested that she have her tests on certain days
 because she expected to be absent on the regular ones and did not
 wish to miss them.
+
 Out of twenty-five possible teaching hours, Sylvia had been
 present for ten. By the end of the teaching period, which finished
 with the end of the term, we had formed our judgment on the case
@@ -365,6 +383,7 @@ We suggested to the mother one day that a few judicious thrashings
 might do Sylvia a world of good. This was met with great indignation and the assurance that such a thing would be impossible, as
 Sylvia was too delicate physically and her feelings were too easily
 wounded.
+
 On the last day that Sylvia was here, the mother was asked how
 she felt about Sylvia going back to school for the month of June
 in order that she might be admitted to summer school. The principal had refused to allow Sylvia to go to summer school if she did
@@ -375,6 +394,7 @@ When we suggested that Sylvia's teacher in the clinic call on the
 principal, she hastened to dissuade us, claiming that the principal
 was a harsh, unsympathetic man Avho did not understand Sylvia
 and who frightened her out of her wits.
+
 Still not being satisfied that all the evidence had been gathered
 in the case, we visited the principal of Sylvia's school. It seemed
 wisest simply to present the whole program to him. It was felt
@@ -382,7 +402,6 @@ that in spite of his definitely expressed aversion and disgust at the
 R s in general and Sylvia in particular, his statements were
 not an exaggeration of the truth. He claimed that Sylvia had been
 treated for the last time as a privileged character. While she was
-140 THE PSYCHOLOGICAL CLINIC
 in school, her mother was allowed to sit in the room with her for a
 whole month, a privilege which was not extended to any other child
 within the principal's experience. On one occasion that Sylvia
@@ -401,6 +420,7 @@ her. Every time she began to act nastily, I would put her in a
 room by herself until she was ready to come back and behave
 decently." In our opinion the principal would be glad if he had
 nothing more to do with Sylvia and her family.
+
 Our observation of Sylvia and her reactions in the clinic led to
 beliefs similar to those which the principal seemed to hold. Sylvia
 was a spoiled child who had found an easy means to gain her own
@@ -420,7 +440,7 @@ state she was producing in herself, but certainly the development
 of fear of school was the path of least resistance and it was a sure
 means of winning the sympathy of the family. As it was, the fear
 was blamed on the influence of other children.
-MANIFESTATIONS OF POST-CIIOREIC CONDITIONS 141
+
 Being at home suited her beautifully and being at the clinic,
 though it was school, was quite as pleasant, as she was the center
 of attention and the sole object of the teacher's efforts. She was
@@ -433,7 +453,10 @@ however, has served to show her up as a fraud. All the insistence
 upon delicate physical condition and sensitive feelings is only putting off the evil day when Sylvia must be brought face to face with
 herself or where all concerned will have a more serious problem
 confronting them.
+
 Ruth
+------
+
 Ruth, the third in this group of cases, came to us in January,
 as had George and Sylvia, because of retardation in school. Her
 history is similar in some respects to those of the two other cases
@@ -453,13 +476,14 @@ eight years of age she had chicken pox, and at ten years she had
 chorea. We were unable to get a report on the precise proportions
 of Ruth's attack of chorea, but were told by her mother that the
 child had to spend two months in bed.
+
 Although other factors contributed, no doubt, to the retardation in school, it is only reasonable that the periodical absences
-142 THE PSYCHOLOGICAL CLINIC
 from school which were caused by these illnesses might explain
 the difficulty. At the time of our contact with Ruth, slightly under
 twelve years of age, the child had done well to attain fifth grade
 standing. Her mother complained that Ruth had particular difficulty in arithmetic, reading, and geography, and she stated, also,
 that Ruth was a '' slow thinker.''
+
 When she was examined at the age of eleven years and nine
 months, Ruth was somewhat advanced in physical development.
 She had menstruated '' for a few months,'' she was tall for her age
@@ -489,8 +513,8 @@ hope that had been held out by the family physician, that with
 adolescence and approaching maturity the "nervousness" would
 gradually disappear, it was not disappearing, and the mental and
 physical health of the child needed expert attention.
+
 Ruth was examined by Dr Miles Murphy. The results of her
-MANIFESTATIONS OF POST-CHOBEIC CONDITIONS 143
 psychological examination originally, and subsequently during lier
 period of clinic teaching, indicated her to be normal in every way,
 with no special abilities or disabilities beyond the lack of energy
@@ -517,12 +541,13 @@ reasoning problems. Her handwriting was legible. It was evident
 that Ruth needed drill on fundamentals,?work which she had,
 no doubt, missed or had had to pass over sketchily, because of her
 frequent and long absences on account of illness.
+
 Dr Murphy felt that a complete medical examination was necessary, as the first step, to be followed by a period of clinic teaching in order further to determine the extent of and reason for her
 educational retardation, as well as to observe the effect on her emotional and physical condition of working the girl to a greater extent than she was being pushed in school.
 An examination in the clinic at the hospital indicated that Ruth
-144 THE PSYCHOLOGICAL CLINIC
 had an ethmoid inflammation, and that there was a slight tubercular
 condition. No mention was made of chorea.
+
 Soon after this examination, Ruth was admitted for clinic
 teaching. She was placed under Miss Edith Lobis, a student
 teacher in the course in diagnostic education, and received about
@@ -542,11 +567,13 @@ of the fourth and fifth grades. Her teacher was confident that as
 far as school work in and of itself was concerned there would, in
 September, be no difficulty in resuming the fifth grade, to which
 she had been promoted in February.
+
 It was from the point of view of the clinical picture of the personality that we were interested in Ruth, for although there are
 many elements in the case that were common to those of Sylvia and
 George, it differed to a sufficient degree to warrant description.
 A few quotations from the report of the teacher will suffice to give
 her impression of this strange girl.
+
 "... Ruth is living in a world of grown-ups; she speaks like an
 adult on such commonplace topics as the weather and her illness.
 She conducts herself with the grace of an adult and has 'put away
@@ -558,6 +585,7 @@ looks as if she had not the energy to stand up straight. . . . She
 has no vitality, she is always tired although she never takes strenuMANIFESTATIONS OF POST-CHOREIC CONDITIONS 145
 ous exercise and lias from nine to ten hours' sleep every niglit and
 a nap during the day.
+
 "Ruth is exceeding^ self-conscious about her health. She is
 constantly using her poor health as an excuse for sliding out from
 under some task. She says she cannot play because she might hurt
@@ -569,11 +597,15 @@ gives; her. There is a certain amount of prestige that comes to her
 when she must be excused from some task which is occupying the
 attention of the other children. Ruth ... is proud of the reputation she makes for herself because ' she is sick' and gets away with
 a lot of things." 4
+
 As a final recommendation, it was suggested that Ruth certainly
 should be able to take her place in the fifth grade in the fall. With
 a complete rehabilitation of her body she should store up energy
 sufficient, perhaps, to carry her through school in the fall.
+
 Betty
+------
+
 Betty came to us in February, brought by her mother and
 grandmother because of "school retardation." But one month
 short of twelve years in age, and in the sixth grade, there was no
@@ -591,13 +623,13 @@ began to twist her head around in a peculiar fashion. Evidently
 the first signs were not so outstanding in the eyes of the parents as
 to demand medical attention, for Betty went to school the following year. It was not until she was a few months past eight years
 of age that she was examined by a physician, who reported to us
-146 THE PSYCHOLOGICAL CLINIC
 later that he then saw the child "with quite a severe attack of
 chorea; almost continuous muscular seizures. She gradually improved and got well as far as I know. Did not see her again until
 (about eighteen months later) in a similar condition. She had,
 at this time, an anemia . . . and negative kidney findings. Saw
 her only twice and was informed by her grandparents that she was
 doing nicely. Have not seen her since."
+
 More than two years after her last visit to the physician Betty
 came to us for examination. It is interesting to note what was recorded by the tester in regard to the child's personality. "Betty
 is an attractive girl. . . . She was very reserved and cold during
@@ -611,6 +643,7 @@ Betty apparently gets along well with children her own age. She
 is the champion checker player of her neighborhood. She showed
 few signs of nervousness during the examination. There was little
 or no twitching of the head or neck.''
+
 In school Betty was said to be inattentive, and negligent in regard to her work. It was evident that the child was having difficulty generally, though arithmetic was especially hard for her.
 On the performance material Betty did well, displaying, however, more efficiency than intelligence. On the Stanford Revision
 of the Binet-Simon Test, Betty received a mental age of ten years
@@ -623,10 +656,11 @@ the fourteen-year-level as that for comprehension, giving sixty
 words in three minutes, and the twelve-year-level vocabulary. At
 this upper level she failed also the similarities and the fables. Her
 interpretation of pictures, however, was excellent.
+
 Betty's school proficiency was estimated by her examiner to be
 poor fifth grade generally, but very low in arithmetic. Her comprehension in reading was poor, and oral reading was jerky, in
 that she read words rather than phrases or sentences.
-MANIFESTATIONS OF POST-CIIOREIC CONDITIONS 147
+
 Dr Witmer, who examined Betty, felt that the child should be
 enrolled for a few periods of clinic teaching. It was a question
 whether or not she should be promoted from the sixth grade, in
@@ -649,6 +683,7 @@ was said. . . . Only with the greatest difficulty could I persuade
 her to talk and ask questions. If I indicated that there was a mistake 011 her paper she would look at the paper for about a minute
 and make no move to locate the error. Often the mistakes were due
 to carelessness and guessing."
+
 After about four weeks of teaching, during which Betty remained wholly detached and disinterested, she suddenly took a
 change of heart. A smile occasionally appeared; her mother told
 us that she took a new interest in her work; her teacher noted an
@@ -660,7 +695,6 @@ Dr Witmer had marked suddenly appeared to be characterized by
 a new element: one of dependence upon appreciation of a personal
 sort. Betty grew to have confidence in her teacher, and so endeavored more heartily to do well for him.
 As the result of our teaching in the case of Betty, we felt that
-148 THE PSYCHOLOGICAL CLINIC
 it would be far better to promote the child on trial to the seventh
 grade, with the alternative of demoting her to the sixth should she
 prove incompetent, than to place her again in the sixth grade
@@ -676,6 +710,7 @@ adapted socially, because she had a pleasant personality on the
 whole, because she was pretty, and soon, we knew, to become interested in boys who would admire her for her social graces far
 more quickly than for her intellectual prowess, it was logical that
 she attend school at least through the eighth grade.
+
 In the case of Betty we find again the listlessness and indifference of the post-choreic, yet, as in the cases of Sylvia and Ruth, it
 lacks the "nervousness" present in so many of these cases. There
 is the suggestion that the nervousness is symptomatic of mild continuation of chorea, perhaps that there is a greater tendency to
@@ -683,7 +718,10 @@ relapse, or that the chorea was more acute. Again, the disease may
 have manifested itself rather more psychically in the cases of Ruth,
 Sylvia, and Betty, than it did in the case of George, and of Ronald,
 whom we have yet to see.
+
 Ronald
+------
+
 In the case of Ronald we find well illustrated the "nervousness"
 which characterizes the choreic child, yet it is singular in that the
 boy's behavior had none of the signs of malnutrition, listlessness and
@@ -695,9 +733,9 @@ that time indicated normal progress until the boy was about three,
 when he first started to blink his eyes in a nervous way. This
 blinking has, since that time, continued to be a prominent symptom
 in the clinical picture.
+
 The family background in the case of Ronald was good. Both
 parents were healthy, though soon after Ronald's first examination
-MANIFESTATIONS OF POST-CHOIiEIC CONDITIONS 149
 the father, who had been employed as a clerk, developed an arthritic
 condition. This suggestion of rheumatism in connection with the
 case is interesting. In addition, as a sidelight to a later educational development of the case, it might be mentioned that both
@@ -709,6 +747,7 @@ a victim of '' stroke and kidney trouble,'' we were told, and died at
 died, at 63. The cause of his death was not revealed. The sisters
 of the mother had "died early?each had kidney, intestinal and
 heart trouble."
+
 Conditions at Ronald's birth were normal. He was a first and
 has been an only child. We learned from the parents that he walked
 at thirteen months, and talked and was broken of enuretic habits
@@ -719,6 +758,7 @@ that the blinking of the eyes was first noticed. He was examined
 medically at that time, but health and vision were considered fair
 enough to preclude any measures such as the prescription of glasses
 for the boy.
+
 At seven, two months prior to his examination by Dr Twitmyer, Ronald was known definitely to be suffering from chorea.
 The physician who at that time examined the boy felt the exaggerated blinking and the general picture of nervousness and muscular
 twitching to indicate an acute chorea. He was unable, however,
@@ -736,17 +776,18 @@ smoke, "fitli" for fish, "teef" for teeth, "fumb" for thumb, and
 '' lily'' for fly. Dr Twitmyer explained to the mother that it would
 probably be necessary for her to take a few minutes of her time to
 correct him, but that he would grow out of the stammer himself,
-150 TEE PSYCHOLOGICAL CLINIC
 and the case was dismissed from the speech clinic as self-corrective.
 "We heard nothing of Ronald from that time until two and a
 half years later, in March of the past year. He was brought to
 the clinic again, now a boy of nine years and ten months, by his
 school principal because of "reading difficulties."
+
 During the period between his examinations in the clinic,
 Ronald had managed to progress to the 4B grade, but he was now
 repeating this grade. Regarding the medical history, nothing unusual had occurred; the blinking of eyes had continued, and seemed
 to reach its height always in the spring, but there had been no
 relapse definitely of chorea.
+
 Ronald was examined this time in the mental clinic, by Dr.
 Arthur Phillips. On the performance material Ronald proved to
 be generally inferior to about fifty per cent of boys in the fifth
@@ -786,6 +827,7 @@ was imperative that he must learn if there was to be future progress
 in school. Here was a boy, above the average in mentality?a finelooking and well-behaved little chap, with a specific difficulty in
 reading, not only requiring remedial treatment, but in itself difficult of diagnosis. An intensive period of clinic teaching during
 the coming summer session was recommended.
+
 Ronald received about twenty hours of teaching during the
 summer session under Miss Amber Showers. As has been intimated
 above, his was a problem in reading, and was treated accordingly.
@@ -816,7 +858,10 @@ other cases: he was anxious to get to the clinic, get his work over
 with, and scoot down the street to the trolley for home. A healthy
 emotional background was reflected throughout; Ronald was a wellbrought-up gentleman, in spite of his haircut, which he described
 as "criminal, though some kids call it a convict."
+
 Summary
+--------
+
 In summarizing briefly the case studies we have here presented
 we are obliged at once to recognize the fact that they have few
 common elements, and we are tempted to feel that the differences

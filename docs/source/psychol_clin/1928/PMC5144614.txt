@@ -5,12 +5,14 @@ The Psychological Clinic
 Copyright, 1928, by Lightner Witmer, Editor
 Vol. XVII, No. 1
 March, 1928
+:Author:  Henry E. Starr, Ph.D.
 
-By Henry E. Starr, Ph.D.
 (From the Psyclioiiochemical Laboratory and Clinic of the Department of
 Psychology of the University of Pennsylvania)
 Eeceivea for publication February 18, 1928
+
 Introductory
+
 In a former study of the metabolic etiology of stammering,1
 I stated that the salivary pH and its determinants in the case
 of lethargic stammerers, indicated the importance of the role of
@@ -29,16 +31,17 @@ for the determination of the carbon dioxide content of alveolar air
 considered as an Index of Fatigue and of Emotional Excitation and applied
 to a Study of the Metabolic Etiology of Stammering. Am. J. Psychol. 1922,
 xxxiii, 394-418.
+
 2 Starr, Henry E. The Determination of the Hydrogen Ion Concentration of Human Mixed Saliva. J. Biol. Chem. 1922, liv, 43-54.
 Starr, Henry E. Variations in the Hydrogen Ion Concentration of
 Human Mixed Saliva. J. Biol. Chem. 1922, liv, 55-64.
-2 THE PSYCHOLOGICAL CLINIC
 is that of Fridericia.3 This method, while not the most delicate,
 is sufficiently exact, in experienced hands, for the purposes of this
 research and for general clinical use. It was employed throughout
 the present study and to minimize errors arising from the personal
 factor of the analyst, all of the determinations reported in this
 paper were made by the same individual.
+
 For more than two years the Fridericia method has been a
 part of the regular psychobiochemical examination given at intervals to stammerers undergoing treatment in the Speech Clinic
 of this University. Almost without exception, subjects displaying
@@ -52,9 +55,6 @@ C02 diminishes. And para passu, usually comes correction of
 stammering. When ready for dismissal as "cured," the alveolar
 carbon dioxide tension approximates normal average values.4
 The high correlation just indicated was so apparent that, in
-* See Fridericia, L. S. Berl. Tclin. Woch. 1914, li, 1268.
-Poulton, Brit. Med. J. 1915, ii, 392.
-4 The Speech Clinic of the University of Pennsylvania, under the direction of Dr E. B. Twitmyer, has been curing stammerers of various types
 for more than a quarter of a century. Today many public schools of the
 better grade are conducting classes for the correction of speech defects,
 and conducting them successfully. It is, therefore, somewhat amusing to
@@ -68,14 +68,16 @@ first six weeks of her life are gravely recorded and apparently accepted as
 quite veracious by the writer of the article. After a psychoanalytic consideration, he concludes with a solemn warning against regarding all stammerers
 as solely oral erotics, reminding the reader that he must also be on the
 watch for anal and urinary erotism.
+
 Those interested in the curiosa of stammering literature are referred
 to L. Pierce Clark, M.D., New York, "A Study of the Psychogenesis of
 Stammerers," Jnl. Nerv. and Ment. Dis. 1926, lxiii, 238-245.
-HIGH ALVEOLAR CARBON DIOXIDE 3
 1926, the writer reported on it briefly before the American Psychological Association.5
 Since then, the evidence has been cumulative and conclusive,
 involving several factors not heretofore reported.
+
 Experimental
+
 The Fridericia method requires a certain amount of intelligent
 co-operation on the part of the subject, who, without either holding his breath or taking a preliminary deep breath, must blow
 into the apparatus when told to do so by the examiner. It is
@@ -87,6 +89,7 @@ blowing when told to do so. In all cases where there was any
 doubt as to the actuality of co-operation of the subject, or the
 validity of the findings, the results have been excluded from this
 report.
+
 Fifty determinations made upon thirty-five normal college
 men are reported as controls. For although the literature upon
 alveolar carbon dioxide is replete with "normals," the "normals"
@@ -100,23 +103,25 @@ in this study were all ?' well'' from the point of view of pathology,
 according to preliminary medical examination. In addition, the
 normals, herein regarded as such, were so diagnosed by competent
 clinical psychologists?not mere psychometrists.
+
 Fifty determinations of alveolar carbon dioxide tension of
 19 cured stammerers, originally of the sub-breathing type, are
 included in this report. The criteria for the diagnosis of "cured"
 in this research are that the patients so regarded themselves, were
 so diagnosed in the Speech Clinic, and after the lapse of a year
 or more have not returned to the Clinic for further treatment
+
 5 Starr, Henry E. Physiological Chemistry in the Service of Psychology
 as illustrated by Determinations of Alveolar Carbon Dioxide Tension and the
 Hemoglobin Content of the Blood, correlated with Clinical Diagnoses. Abstr.
-in Psychol. Bui. 1927, xxiv, 186-187.
-4 THE PSYCHOLOGICAL CLINIC
+
 which they are urged to do in ease of a relapse. As a matter
 of fact, subjects who do relapse are not slow to accept this invitation to return for further treatment. A chart (No. 4) showing
 the "rise and fall" of such a patient is presented in this article.
 One hundred alveolar carbon dioxide tensions of an equal
 number of sub-breathing stammerers at the time of their initial
 examination are also included in this study.
+
 To ascertain whether or not a high blood content of C02
 does, per se, promptly and invariably produce stammering, six
 normal subjects were placed and kept on a high carbohydrate
@@ -128,10 +133,12 @@ referred to in the present paper had any idea that their habits of
 speech might be affected, but were under close observation to
 detect any indication of incipient stammering. The element of
 suggestion was thereby eliminated.
+
 In every instance, the specimens of alveolar air were taken
 about 3 p.m., i.e., after the normal rise in alveolar C02 following
 the ingestion of the midday meal, and before the evening meal
 was taken.7
+
 Inasmuch as it is the partial pressure or tension of the alveolar
 C02 which closely approximates that of the arterial blood, it is
 therefore a more direct and definite indication of the conditions
@@ -141,6 +148,7 @@ by the usual formula of Tension = volume per cent X (barometric pressure ? 40), 
 is when the Fridericia method is properly conducted. The tension
 8 The qualitative test was that of Benedict, the osazone test being employed for confirmation. When both yielded positive results, Benedict's
 quantitative method was employed.
+
 7 That digestive activity is accompanied generally by a rise in alveolar
 CO, was pointed out by Higgins, Am. J. Physiol. 1914, xxxiv, 114. For a
 confirmatory and illustrative table of findings on six normal subjects, see
@@ -148,16 +156,23 @@ Starr, Henry E., J. Biol. Chern., 1922, liv, 57, Table 1. The rise as shown
 in that table may range from 0.0 per cent to 0.6 per cent.?Cf. subject
 GXT, alveolar COa 20 mins. before eating was 5.45 per cent, 40 mins. after
 eating, 6.05 per cent.
+
 HIGH ALVEOLAR CARBON DIOXIDE 5
 or partial pressure thus calculated is, of course, in terms of millimeters of mercury.8 The 40 mm. deducted in the equation are for
 tension of water vapor at body temperature.
+
 Results
+---------
+
 The results obtained in the studies just indicated are presented
 in the following Charts. In the charts the value of the nearest
 whole number is taken in each case and the plotting done in terms
 of relative frequency, except, of course, in the individualistic
 Charts 4 and 5.
+
 Discussion
+------------
+
 Charts 1, 2 and 3, with Table 1, indicate quite clearly that
 while virtually all of the alveolar C02 values are within the physiologically normal limits, there is a very definite range characteristic
 of each group. The Normals tend toward the lower limits 'and the
@@ -171,6 +186,7 @@ treatment. The subject, R.A., came to the Speech Clinic in December, 1925, disch
 on a prolonged summer vacation and had a relapse. He returned
 to the Clinic for treatment in September and was again speaking
 normally in December, 1926.
+
 Chart 5 illustrates well the increase and decrease in carbon
 dioxide tension in response to dietetic changes as above described.
 It also illustrates an unsuccessful attempt to produce an experi* See Henderson and Morriss, J. Biol. Chem. 1917, xxxi, 217.
@@ -184,6 +200,7 @@ doubt that his assumption of approximate constancy of barometric pressure in
 the course of his experiments was justified. It is to be regretted, however,
 that he has set a precedent which is a dangerous assumption for lesser lights
 to make.
+
 THE PSYCHOLOGICAL CLINIC
 IQ.
 n_r
@@ -213,6 +230,7 @@ Maximum   52 57 60
 Median   41 45 50
 Mode   41 46 49
 Mean   40.50 44.76 50.29
+
 mental stammer by a brief period of overloading the system with
 C02. In each of the normal cases thus experimented upon there
 did result an uncomfortable lassitude and in several a certain
@@ -225,9 +243,11 @@ improves under treatment?largely by means of intensive breathing exercises?his a
 the partial pressure of carbon dioxide in the blood. His improvement is not alone in his speech. His behavior throughout becomes more vigorous. His alertia is increased and he becomes more
 active. Not until such a point is reached is he amenable to simple
 speech training.
+
 We have, then, in the alveolar carbon dioxide determination
 a means of ascertaining the treatment required by any subject
 who is identified as a "sub-breather."9
+
 The value of the determination as an index is not affected by
 the problem of whether or not it is the carbon dioxide per se which
 does the damage. The partial pressure of C02 may be merely
@@ -237,20 +257,23 @@ used in this paper, embraces both slow and shallow breathing, with occasional
 deep inspirations, high alveolar C02 and a tendency toward lethargy. Another part of the picture is a distinctly low salivary pH. In 1922 I stated
 that this group constituted about 74 per cent of the stammerers applying
 to the Clinic for treatment. After six years further study, I believe 80
+
 per cent to be a closer estimate. (See Starr, H. E. Am. J. Psychol, xxxiii
 pp. 415-416.)
-THE PSYCHOLOGICAL CLINIC
+
 Chart 4
 Fluctuations of Alveolar Carbon Dioxide concomitant with variations in speech
 of K.A.
+
 5 lp
 Chart 5
 The Alveolar Carbon Dioxide tension of a normal subject, upon a diet overloaded with carbohydrate, but, otherwise adequate. (Determinations
 made at 3 to 4 p.m. each day.)
+
 Chart 5
+
 The Alveolar Carbon Dioxide tension of a normal subject, upon a diet overloaded with carbohydrate, but, otherwise adequate. (Determinations
 made at 3 to 4 p.m. each day.)
-HIGH ALVEOLAR CARBON DIOXIDE 9
 metabolic factor which is of primary etiological importance. Undoubtedly the question of adequacy of oxygenation is involved.
 The role of oxygen in the metabolic etiology of stammering, however, constitutes a separate research from that reported upon in
 this paper. It is now being attacked from several angles in this
@@ -260,6 +283,7 @@ elaboration within the organism of a toxin or toxins which may
 specifically attack certain parts of the nervous mechanism of
 speech. This paper, however, is limited to a consideration of the
 role of carbon dioxide.
+
 It is a physiological truism that, speaking somewhat broadly,
 rate of breathing is under neural control, largely a function of
 the vagus; depth of breathing is under hormone control?and
@@ -277,13 +301,13 @@ are faced squarely by a group, with high partial pressure of arterial carbon dio
 shallowly, with only an occasional deep inspiration. As a matter
 of fact their respiration appears to resemble the apneustic breathing described by Lumsden, or rather a mean between pneumotaxic
 and apneustic.
+
 In the typical sub-breather's lethargic behavior, liable to
 imbalance, however, there may be noted what might well be interpreted as the toxic effects of excessive amounts of carbon dioxide.
 The same is true, albeit to a lesser degree, of the normals who
 became lethargic on a high carbohydrate diet, with concomitantly
 high alveolar C02. For while carbon dioxide is a powerful respira10 The results will soon be published as the doctorate thesis of Max
 Trumper under the caption: "A Hemato-Kespiratory Study of 100 Consecutive Cases of Stammering."
-10 THE PSYCHOLOGICAL CLINIC
 tory stimulant, yet in excessive amounts it is recognized as a
 general depressent. It appears not improbable, then, that the
 apparent anomaly of the behavior of the sub-breathing stammerer
@@ -301,6 +325,7 @@ He is in a mental haze of lowered receptivity. Obviously his resistance to modif
 until breathing exercises or diet or both have begun to show definite
 results in terms of reduction of partial pressure of alveolar CO?
 can any improvement in speech take place.
+
 To this theory may be objected the fact that certain stammerers who present the general syndrome of the sub-breather do well
 in certain branches of athletics. Instead of conflicting with the
 general thesis, however, these particular cases appear confirmatory.
@@ -316,7 +341,6 @@ tolerate a greater accumulation of C02 and other products of
 fatigue than can a normal individual.11 Consequently, their endurance in athletic contests, whether boxing, wrestling, or playing
 u The products of fatigue tend to increase the blood hydrion concentration, to unusually high values of which the respiratory center miist be
 relatively insensitive if it is relatively insensitive to carbon dioxide stimulation, which amounts at least indirectly to the same thing.
-HIGH ALVEOLAR CARBON DIOXIDE 11
 tennis, croquet or ping-pong, would necessarily be greater than
 that of a normal person. A careful study of the "superiority"
 of these sub-breathers in any athletic contest has shown that what
@@ -325,6 +349,7 @@ A more difficult problem now presents itself. Of two individuals with equally hi
 does one stammer and the other speak without stammering ? There
 are at least two answers to this question just as there are at least
 two types involved.
+
 As to the first group, obviously lethargic sub-breathers: they
 are so lethargic to the extreme that they make but little attempt
 to speak. If they tried to speak more than they do?they would
@@ -341,6 +366,7 @@ or if a single one of them was, none having developed an experimental' stammer, 
 alveolar C02 reaches a certain tension and one who doesn't stammer
 when his alveolar C02 reaches the same value. That such a fundamental difference does exist is indicated by the overlapping in
 Charts 1, 2, and 3.
+
 It is obvious that further investigation must be made of factors of predisposition and compensation. One form of metabolic
 compensation will be considered in the forthcoming report of
 the Hemato-Respiratory studies (10) of Trumper. A possible
@@ -350,23 +376,28 @@ as excessive carbon dioxide tension may depress clarity of kinasethetic imagery,
 voco-motor individual with a relatively insensitive pneumotaxic
 respiratory center, would be predisposed to stammering. A definite
 conclusion must await the results of further research.
-12 THE PSYCHOLOGICAL CLINIC
+
 Summary and Conclusion
+-----------------------
+
 1. The alveolar carbon dioxide tension values of 50 determinations of 35 normal controls, 50 determinations of 19 cured former
 stammerers, and 100 determinations of 100 sub-breathing stammerers, are presented graphically in terms of relative frequency.
 2. Charts illustrative of C02 tension values of stammerers
 under treatment and of normals on a high carbohydrate diet are
 included.
+
 3. It is evident that sub-breathing stammerers, constituting
 about 80 per cent of the stammerers applying to the Speech Clinic
 for treatment, have characteristically high arterial carbon dioxide
 partial pressure. As progress toward cure is made, this partial
 pressure is lowered.
+
 4. The findings of this research indicate that there is relative
 insensitivity of the pneumotaxic respiratory center of the subbreathing stammerer, resulting in excessive carbon dioxide, deficit
 of oxygen, and probable elaboration of toxins in the blood stream.
 Studies of specificity of action, predisposition and compensation
 are now in progress in this laboratory.
+
 5. The results of this present study render it obvious that the
 first step in the treatment of the sub-breathing stammerer should
 be training in adequate habits of breathing. A specific diet

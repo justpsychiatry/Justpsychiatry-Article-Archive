@@ -1,7 +1,8 @@
 Further Data on the Stanford-Binet VIII- and IX-Year Tests
 ============================================================
 
-By J. E. Wallace Wallin
+:Author:  J. E. Wallace Wallin
+
 Division of Special Education and Mental Hygiene,
 Department of Public Instruction, State of Delaware
 The discussions of Madden and Stoke 1 recall similar statistical
@@ -19,19 +20,20 @@ have been published only for the VIII- and IX-year tests, based on
 and backward), and almost one-fourth as mentally deficient.4 The
 data have been classified in a considerable variety of ways in order
 to measure the influence of various factors.5
+
 1 E. Madden, A note on the eight and nine year levels of the StanfordBinet, School and Soc., 1932, 36, 576. M. Stoke, The eight and nine year
 levels of the Stanford-Binet scale, School and Soc., 1933, 37, 459-461.
 2 J. E. Wallace Wallin, Experimental studies of mental defectives: A
 critique of the Binet-Simon tests and a contribution to the psychology of
 epilepsy, Baltimore, Warwick & York, 1912; The mental health of the school
 child, Yale University Press, 1914, pp. 182-208.
+
 3 J. E. Wallace Wallin, The individual tests in the Binet-Simon scale,
 Psychol. Clin., 1917, 11, 79-85. Only the results for the weight test were published.
 4 J. E. Wallace Wallin, A statistical study of the individual tests in ages
 VIII and IX in the Stanford-Binet scale, Ment. Meas. Monog., 1929, No. 6.
 s However, the material that has appeared in print was greatly abbreviated for the sake of economy of printing by an assistant of the Mental Measurement Monographs. The condensation and alteration eliminate some of
 the more detailed and subtle analyses of the original. The original tabula94
-STANFORD-BINET VIII- AND IX-YEAB TESTS 95
 The following comments will be limited to a comparison of
 Stoke's, Madden's and my own results for the individual tests in
 the VIII- and IX-year levels of the Stanford-Binet. Stoke's data
@@ -46,6 +48,7 @@ chronologically and those who had a Binet test age of VIII (about
 75 cases), and for the Binet IX-year level only those are included
 who were nine-years old chronologically and those with a Binet
 age of IX (about 60 cases). A few comparisons will, however, be
+
 Table I
 Percentage op Successes in the Binet VIII-year Tests
 Stoke
@@ -84,7 +87,9 @@ Vocabulary
 71.2
 88.6
 59.2
+
 * Madden's figures have been converted into percentages on the assumption that all of the 92 children were given each test.
+
 Table II
 Percentage of Successes in the Binet IX-year Tests
 Stoke
@@ -123,19 +128,21 @@ Rhymes
 68.5
 92.5
 74.5
+
 tion for the different Binet ages can be made available to anyone who desires
 to analyze the data.
-96 THE PSYCHOLOGICAL CLINIC
 made between the results for these normal groups and the results
 for subnormals and mental deficients.6
 A study of the percentages of successful responses in tables I
 and II reveals the following.
+
 1. The results agree in showing a large range of difference between the highest and lowest percentage of passes in each age level,
 as shown by the following figures: for the VHI-year tests, Stoke,
 42 per cent; Madden, 53.3 per cent; and Wallin, chronological
 series, 28.9 per cent; and Binet series, 31.2 per cent; for the IXyear tests, Stoke, 30 per cent; Madden, 43.4 per cent; and "VVallin,
 both series 26.4 per cent. The range is the greatest in Madden's
 and the least in Wallin's series.
+
 2. In spite of certain discrepancies, the results of the three investigations are in fairly close agreement on certain tests. All find
 the ball-and-field and vocabulary tests the most difficult in the
 VHI-year level, and the weight test in age IX. Except for a onestep difference in the case of Madden, the date and reverse digit
@@ -147,6 +154,7 @@ applies to only the Wallin Binet age series so far as the vocabulary
 test is concerned. Making change is easier than five tests in age
 VIII according to Madden's and four according to Wallin's results. The sentence test is easier than any VHI-year tests in Wallin's results and easier than four YHI-year tests in Madden's results.
 VHI-year Tests
+
 IX-year Tests
 Counting
 Backward;
@@ -170,8 +178,8 @@ Field;
 Wallin
 (Chronological
 age)
+
 6 For the detailed performance of children of other ages (from chronological and Binet ages four to sixteen) and of subnormals and mental deficients, see the original monograph.
-STANFORD-BINET VIII- AND IX-YEAB TESTS 97
 4. On the assumption that a test passed by 50 per cent of the
 pupils of a given chronological age is standard for that age (the
 assumption on which the Stanford-Binet tests are standardized)
@@ -333,6 +341,7 @@ None;
 Stokes
 None;
 Stokes
+
 6. It is obvious from the data presented above that the tests
 for these ages at least (VIII and IX) in the Stanford-Binet are in
 need of thorough revision. As early as 1918 after daily use of the
@@ -340,6 +349,7 @@ scale in the clinical examination of many hundreds of cases, the
 writer issued a plea for the thorough revision of the scale not only
 so far as concerns the accuracy of the standardization but also the
 administrative procedure of many tests.7
+
 7. In spite of the apparent inaccuracy of the VHI-and IX-year
 tests, the analysis we have elsewhere made seems to show that most
 of these tests possess considerable differential value.8
@@ -351,7 +361,6 @@ occur in intelligence tests findings, namely the fact that subjects
 of the Binet-Simon scale, Psychol. Clin., 1918, 12, 1-15.
 8 J. E. Wallace Wallin, A statistical study of the individual tests in ages
 VIII and IX in the Stanford-Binet scale, p. 13.
-STANFORD-BINET VIII- AND IX-YEAR TESTS 99
 of the same intelligence (Binet) level but of different degrees of
 brightness, and younger and brighter subjects and older and duller
 subjects of the same Binet age may react quite differently to the
@@ -384,7 +393,6 @@ assumed to represent symmetrical distributions of cases, may, in
 9 See, however, J. E. Wallace Wallin, Experimental studies of mental defectives, a critique of the Binet-Simon tests and a contribution to the psychology of epilepsy; The measurement of mental traits in normal and epileptic
 school children, Miami Univ. Bull., 1923, Ser. 21, No. 8; and Problems of
 subnormality, Yonkers, N. Y., World Book Co., 1917, pp. 350-381.
-100 THE PSYCHOLOGICAL CLINIC
 point of fact, be based on highly skewed distributions, more especially when the standards are based on a very limited selection of
 subjects.10 From our data it appears that the norms will be unequally affected for different tests according as the groups are
 weighted with inferior or superior subjects. The "unselected"
@@ -401,6 +409,7 @@ On the basis of our findings it is reasonable to assume that the
 Stanford-Binet scale is a less valid measure of intelligence for
 adults, whether normal or abnormal, than for children whether
 normal or abnormal.
+
 Must we not give more consideration to the nature of the human
 samples on whose reactions we attempt to establish national
 norms ?11

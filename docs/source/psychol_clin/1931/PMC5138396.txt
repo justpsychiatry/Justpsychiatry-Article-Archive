@@ -2,12 +2,13 @@ Mental Measurement of Pre-school Children
 ===========================================
 
 REVIEWS
-By Rachel Stutsman.
+:Author: Rachel Stutsman.
 New York: World Book Co. 1930.
 The research, instituted at the Merrill-Palmer School, a preliminary report of which was published in Genetic Psychology Monographs, January 1926,
 lias eventuated in the Merrill-Palmer Scale for the mental testing of pre-school
 children. To the presentation of the research and the resulting scale, this
 volume is devoted.
+
 The book falls into three parts. Part one is devoted to the problems and
 history of the mental testing of pre-school children. The difficulty and importance of an early diagnosis of general mental defects, special disabilities,
 superior special ability from the standpoint of educational treatment and
@@ -26,6 +27,7 @@ marked differentiation between age groups, range of groups small enough to
 yield a high positive correlation between the score and age of the child within
 the group, adequate sampling, size of group sufficiently large to render conclusions statistically valid, ease of scoring constitute the large order on the
 formal side.
+
 Part two is devoted to the Merrill-Palmer Research, showing in what way
 and how far the aims and principles adopted and described above were attained. The preliminary experiment in which seventy-nine tests were tried
 out, thirty-six of which were retained, the standardization of the scale and the
@@ -38,14 +40,14 @@ children of a chronological age of over 63 months and under 24 months.
 Difficulty in securing the large number of cases required appears as the deciding factor in choosing six-month intervals rather than two- or one-month
 intervals which are admitted to be highly desirable at this age level where
 mental growth is rapid.
+
 Two types of tests were used, seventeen all-or-none tests in wldcli the child
-30
-REVIEWS 31
 either succeeds or fails and thirty-eight variable-score tests. The median score
 in each age group is considered "par," and the variable-score tests are made
 to yield seventy-six all-or-none elements, giving a battery of ninety-three tests.
 The tests are arranged in order of difficulty, and a gross score on a point scale
 is given.
+
 The method of treatment of omissions and refusals appears to be both
 reasonable and satisfactory. The counting of a test refused or omitted for
 some reason indiscriminately as either a success or a failure is highly unsatisfactory as well as is a total disregard of the refusal or omission. The
@@ -55,6 +57,7 @@ this level.'' The assumption that the child would have succeeded in a refused
 ?r omitted test below his level of attainment on the whole scale is based upon
 the judgment that such failures are due to personality deviations. The solution, obviously, admits a subjective element into objective scoring, but it
 niigl<t be difficult to provide a more acceptable scheme.
+
 Adequate tables of norms are presented. Total scores are translated into
 Wental-age-norms. Interpretation on the score by standard deviation in terms
 of score value or mental-age value and by percentile rank according to exact
@@ -80,16 +83,17 @@ being a part of the battery as "the difference between complete success and
 complete failure would alter the score by only six points out of a possible 93."
 On the other hand the correlation between two tests, the Seguin Formboard
 and the Action Agency test, is only .086 ? .081.
+
 Part three is a guide for administering the scale, includes instruction for
 the computation of the total score and the use of norms, as well as a guide for
 personality observations. The 93 test elements are derived from 3G tests
 classified as follows: language, 3; all-or-none tests, 17; formboards and
 picture puzzles, 7; other tests of motor coordination, 9. Personality ratings
-32 THE PSYCHOLOGICAL CLINIC
 on eleven traits, employing the familiar five point scaJe are provided for.
 Attention to qualitative observations as well as to quantitative ratings is
 especially commendable in the study of egocentric children of the pre-school
 age.
+
 Part four consists of illustrative case studies. The point of view in this
 chapter is essentially clinical. The folly of attempting a clinical diagnosis
 after a single hour of examination, and solely by a quantitative rating on a
@@ -101,6 +105,7 @@ Stanford-Binet scores, individuals who do well or poorly in either type of
 test. This last fact confirms the findings of Dr Rebecca Learning i who found
 four types of children, those who do well or poorly on both or either the
 verbal and non-verbal type of test.
+
 Arthur Phillips
 i Learning, R. E., Tests and Norms for Vocational Guidance at the
 Fifteen-Year-Old Performance Level. Psychological Clinic, Vol. 14, 1922,

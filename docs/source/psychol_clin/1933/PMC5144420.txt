@@ -4,8 +4,8 @@ Vocational Guidance Toward the Higher Professions with Special Reference to its 
 The Psychological Clinic
 Copyright, 1933, by Lightner Witmer, Editor
 Vol. XXI, No. 4 December, 1932-February, 1933
+:Author:  Leon Walther
 
-By Leon Walther
 Institut Jean Jacques Bousseau, Geneva, Switzerland
 Although vocational guidance with reference to the trades has
 made marked progress during recent years, vocational guidance
@@ -19,6 +19,7 @@ largely routine and are generally determined for him, but in the
 former, he is more nearly free to select the means for realizing
 his ambition, and that this freedom exacts a higher degree of
 intelligence.
+
 But the proof of this assumption is lacking. In order to be
 able to prove it, we should need to have grouped all the human
 activities according to the degrees of intelligence concerned in their
@@ -29,8 +30,7 @@ book, Orientation Professionnelle a L'Universite et Ses Bases Psychologiques,
 now being published under the auspices of the Institut J. J. Eousseau.
 i Memoirs of the National Academy of Sciences. Vol. 25. Psychological
 Examining in the United States Army. Washington, 1921.
-213
-214 THE PSYCHOLOGICAL CLINIC
+
 of occupations arranged by Fryer,2 and so on; but we need many
 more.
 As a means of determining the general intelligence, or mental
@@ -46,15 +46,18 @@ If the candidate possesses a mental development below his
 chronological age (I.Q. below 90), we direct him toward industrial
 work carried on as part of some trade, the operations of which are
 largely automatic and limited in scope.
+
 If the subject possesses an average amount of intelligence (I.Q.
 90 to 110), we direct him toward a trade or an occupation the fundamentals of which he can learn in a vocational school.
 If his mental development exceeds the average (I.Q. above 110),
 we encourage him toward higher studies in polytechnic schools or
 universities.
+
 We are conscious all the time that this procedure embodies an
 easy-going hypothesis regarding work, which can be justified only
 after we have determined with precision the degree of intelligence
 required by each of the occupational activities.
+
 Thus, a certain degree of intelligence seems to be indispensable
 for embracing a higher profession. And, to the first question
 stated at the opening of my remarks, we can respond that a person
@@ -69,7 +72,7 @@ between the fields of engineering, medicine and law merely by say2 Fryer, D. Voc
 s Toops, H., and Edgerton, G. Manuscript, Ohio State University.
 * Zyve, D. H. Stanford Scientific Aptitude Test. Stanford University
 Press, 1929.
-VOCATIONAL GUIDANCE 215
+
 ing that a person with a high degree of intelligence will be able
 to become an engineer, one with a lower intelligence can become a
 physician, and one still lower a lawyer. That which differentiates
@@ -82,6 +85,7 @@ to be incommensurate with each other, and not overlapping. But
 are these differences of an intellectual nature, or otherwise? In
 order to obtain a clearer view, let us pause a moment and consider
 the special aptitudes.
+
 As opposed to general intelligence, or general aptitude, we may
 place integral intelligence, which exhibits itself in empirical manifestations as a special aptitude. To know how to apply one's intelligence in the abstract rather than in the concrete is indeed
 an aptitude?whether one applies it to the invention of a machine
@@ -103,7 +107,7 @@ may belong to the "comprehension" type. Comprehension and
 invention are important complex operations, each one a series of
 more simple operations of a sort that Claparede has designated
 "the internal technique" of intelligence. To formulate a question
-216 THE PSYCHOLOGICAL CLINIC
+
 it is necessary to know how to observe. The formulation of an
 hypothesis presupposes also observation, memory, imagination, and
 an aptitude for '' putting two and two together.'' Then, the verification of an hypothesis necessitates reason, deduction, and criticism of the solution found.
@@ -127,12 +131,14 @@ absence of imagination, of memory, or some other isolated mental
 function rather than one of the intellectual activities? Or are the
 higher occupations differentiated by the degree to which each one
 of these isolated functions is implicated?
+
 In examining the existing monographs on the higher professions
 one is forced to the conclusion that the aptitudes which the authors
 of these monographs claim necessary are almost always the same.
 For example, good judgment is demanded of a minister as often as
 of a lawyer or a naturalist. As to the degree to which a mental
 aptitude is necessary, no one specifies.
+
 This brings us to the conclusion that success in a given higher
 profession is conditioned only in part by integral intelligence, and
 by the preponderance of certain mental elements which compose
@@ -140,9 +146,9 @@ it. But, at the present time, we know very few of these elements.
 Furthermore, investigation in this domain is rendered exceedingly
 difficult by a fact that we have already pointed out: the great variety of outlets which any given field offers. This hinders us in
 finding criteria for evaluating success in the field. Besides, the
-VOCATIONAL GUIDANCE 217
 substitution or the compensation of one aptitude for another occurs
 frequently in these professions.
+
 Accordingly, although the degree of general intelligence may
 determine the choice of a general field of work, it cannot help one
 in narrowing down his choice among the ramifications of a given
@@ -157,6 +163,7 @@ his vocational activity than are the aptitudes. These attitudes may
 represent specifically intellectual bonds in which affectivity enters
 only slightly. These attitudes have been designated by Claparede5
 as psychotropic or nootropic: mental orientation.
+
 But the attitudes can be strongly impregnated with affectivity
 which bears upon the intellect. In this case we are in the presence
 of a bent, an inclination. "All the tendencies," says Ribot, "express the needs of the individual, whether they be physical or
@@ -178,9 +185,10 @@ are characterized by the inclusion of a factor above all intellectual.
 It should not be confounded with those of the domain of sentiments
 (such as egoism or sympathy), or of the will (such as authority
 or docility).
+
 s Claparede, E. Comment diagnostiquer les Aptitudes chez les Ecoliera.
 Paris, 1927.
-218 THE PSYCHOLOGICAL CLINIC
+
 Thus Ostwald,6 thinking of the rapidity with which the human
 mind reacts toward certain diverse problems which are imposed
 by the various conditions of life, distinguishes two distinct types
@@ -191,6 +199,7 @@ phlegmatic. The first type will lean toward activities where he
 can use his specific tendencies; he will become the man of action?a
 teacher, for example. The second will seek the activities of an
 investigator or philosopher.
+
 But individuals of opposite nature can react in opposite ways
 even in the same occupational situation. Thus Poincare7 finds
 among mathematicians two kinds of mentality. Those in one group
@@ -219,7 +228,7 @@ about us, we seek to withdraw within ourselves and reflect. Certain
 7 Poincare, H. La valeur de science. Paris, 1908.
 8 Piorkowski, C. Beitrage zur psychologischen Methodologie der wirtschaftlichen Berufseignung. Leipzig, 1915.
 9 Binet, A. Les idees modernes sur les enfants. Paris, 1927.
-VOCATIONAL GUIDANCE 219
+
 of us are inclined toward the external world, others toward the
 internal. It is this which constitutes in the sciences, for example,
 the two great families of observers and theoreticians."
@@ -231,6 +240,7 @@ Ostwald, holds the thesis that each one of these types involves different aptitu
 or that of official, he will be capable especially of recognizing, comparing, making distinctions and classifying. The technician, on
 the contrary, will succeed in the active careers: inventor, teacher,
 lawyer, etc.
+
 But it is not only the intellectual attitudes which play an important part in the choice of a vocation for the individual. The
 affective element also exerts its influence. The affective attitudes,
 which we call penchants or inclinations, push the individual toward
@@ -252,7 +262,6 @@ While these examples illustrate inclinations conditioned by the
 sense of touch, there are other instances which show how the individual seeks to satisfy his sensations of a visual, auditory or gustatory nature. It is a well-known fact that not only artists but also
 10 Jung, C. Psychologisclie Typen. Zurich, 1921.
 11 Lipmann, W. Psyehologie der Berufe. Berlin, 1922.
-220 THE PSYCHOLOGICAL CLINIC
 house-painters, sign-painters, and workers in dyeing establishments
 find particular pleasure in being surrounded with all sorts of colors.
 In the field of sound, it is not only the performing musicians who
@@ -261,6 +270,7 @@ in instrument factories by the insatiable desire to satisfy their ear.
 Among the workers in perfumeries may be found a number to
 whom the olfactory sensations aroused in their daily work bring
 the keenest pleasure.
+
 Another category of vocational inclinations is determined by
 the sexual instinct. According to Freud, the different human occupations are only manifestations of this instinctive activity.
 Though somewhat exaggerated, this point of view can be defended,
@@ -289,12 +299,13 @@ their purpose the sublimation of erotic or criminal impulses. This
 is accomplished by a sort of narrowing down of antisocial instincts
 in the direction of activities socially useful. The pharmacist and
 i2 Stekel, W. Arch, f. Kriminal-Anthropologic und Kriminalistik. Leipzig, 1911.
-VOCATIONAL GUIDANCE 221
 the surgeon are sometimes examples of these tendencies. Stekel12
 thinks that some men choose these professions in order to obtain
 satisfaction for their criminal impulses.
+
 The fourth group illustrates the fetichism which we discussed
 above.
+
 The fifth consists of men whose vocations constitute a form of
 protection against their eriminal tendencies. Thus a man with a
 strong bent toward crime becomes a detective or a judge, in the
@@ -314,11 +325,13 @@ incline toward submissiveness (underlings and servants).
 Among other inclinations might be cited that of continually
 running risks, curiosity, a bent toward organizing, which we find
 in politicians and industrial leaders.
+
 This enumeration of tendencies is not complete, but it has served
 as a classification of important attitudes which must be taken into
 consideration in giving vocational guidance, though they have been
 only meagerly investigated and although their application in the
 case of any individual entails great difficulties.
+
 Just as intellectual attitudes influence the behavior of the individual toward his environment, so do the inclinations. It is in
 activity that they seek and find their satisfaction regardless of
 the occupation in which this activity occurs. The activity factor
@@ -329,7 +342,6 @@ their crystallization in the occupation of surgeon. Suppose for
 the moment that a person manifests a tendency toward cruelty?
 sadism; although he suppresses the external manifestation of it, he
 13 Baumgarten, C. Les inclinations professionnelles. Milan, 1922.
-222 THE PSYCHOLOGICAL CLINIC
 finds satisfaction in it. In consequence, it is necessary that lie
 should engage in an activity that will give scope for this desire.
 Opportunity exists in a number of occupations, such as those of
@@ -344,11 +356,13 @@ circle, he will select the profession of surgeon rather than that of
 butcher. But if he is obliged, for one reason or another, to select
 a different occupation among those we enumerated, he will find
 in it, other things being equal, the same satisfaction.
+
 In order to examine thoroughly the problem of vocational inclinations, it will be necessary not only to establish a list of existing
 inclinations, but also to discover to what extent certain bents can
 realize themselves in different occupations. That is to say, to
 study not only the inclinations in relation to the occupations, but
 also the occupations in relation to the inclinations.
+
 It is thus that Watts14 in subscribing to the theories of MacDougall thinks that "for many occupations an emotional accommodation having its roots in instinctive impulsions is a greater need
 than any other." He designates three principal occupations:
 shepherd, hunter and grower. The gardener, the herder, the
@@ -366,7 +380,6 @@ divers qualities which impelled them toward different occupations.
 Both the intellectual and affective attitudes are strong enough
 to resist external obstacles. Sometimes, it is true, the inner im14 Watts, F. Die Psychologischen Probleme der Industrie. Berlin, 1919.
 is Schmoller, F. Grundriss der allgemeine Volkswirtscliaft. 1919.
-VOCATIONAL GUIDANCE 223
 pulsions do not seem clear even to the individual himself, or he
 may misinterpret them, so that he stumbles into an occupation in
 which his earnings are insufficient and from which he makes frequent changes without finding the satisfaction he craves. Sometimes the individual fastens his interest successively on a series
@@ -377,6 +390,7 @@ years old, the boys changed their occupational choice between six
 and nine times during their childhood. But in most of these cases
 the change was purely external. The basis of their occupational
 drive remained the same.
+
 Some persons deceive themselves when they speak of their desire
 for a given occupation. They should rather speak of the specific
 activity that will give them satisfaction. It is incorrect, in giving
@@ -396,17 +410,19 @@ rather than on the "what." Suppose that he desired to become
 a locomotive engineer. The question then to be asked is: "In what
 way do you think of this occupation; what is there about the work
 that attracts you?"
+
 The attitude factor is so important for the social orientation
 of the individual that we should begin with it in giving vocational
 guidance. Only after examining the attitudes should we search
 for aptitudes. Then the difficulty of determining whether there
 is harmony between attitude and aptitude, between inclination and
 aptitude, disappears.
+
 Let us suppose that we are counseling an individual in whom
 we have discovered a real curiosity. We should regard more than
 is Kramer, C. Kindliche Phantasien iiber Berufswahl. Heilen & Bilden
 von Adler, 1914.
-224 THE PSYCHOLOGICAL CLINIC
+
 merely the intellectual direction (psychotropic) this inclination
 takes. We find, let us say, that it is abstract rather than concrete.
 Then we should inquire concerning the aptitude, first ascertaining
@@ -429,6 +445,7 @@ vocational objective. Alfred Adler has shown how strong inclinations in a given 
 Where there is a feeling of inferiority certain compensatory mechanisms arise which not only nullify the defects in question, but
 actually overcompensate. Thus the stammerer Demosthenes became a brilliant orator, and Byron, afflicted with lameness, became
 a remarkable sportsman.
+
 Thus the attitudes are structural elements of human personality,
 and, so long as this personality does not change in its constitutive
 elements, the attitudes do not change. Furthermore, the attitudes
@@ -442,17 +459,19 @@ Several attitudes of different and even contrary nature may exist
 together. But the justification for speaking of one alone comes
 from the fact that frequently one or a complex of attitudes may
 predominate within the individual.
-VOCATIONAL GUIDANCE 225
+
 The co-existence of two rival inclinations often gives opportunity for happy combinations through which the counselor can
 guide the individual in a direction that will satisfy both: for
 example, an interest in traveling and in practicing medicine would
 suggest the occupation of marine surgeon; a liking for colors and
 a necessity for outdoor life might be combined in the occupation
 of wagon painter.
+
 To summarize:
 In answer to the question, "Does it matter who enters the higher
 occupations?" the facts lead us to reply that intelligence is the
 determining factor.
+
 As to which one of the professions an individual will succeed
 best in, the facts point to the conclusion that it is the attitudes
 rather than the aptitudes that determine this. The attitudes which
@@ -466,5 +485,6 @@ individual toward vocational success in harmony with his inclinations. These spe
 others; substitution and over-compensation do not function over
 a scale so wide as they do within the higher professions. Furthermore, the general aptitudes are concerned in the trades to a less
 extent.
+
 On the one hand is general intelligence; on the other, pronounced attitudes: these make for success in a given profession.
 This is the conclusion to which the facts force us.

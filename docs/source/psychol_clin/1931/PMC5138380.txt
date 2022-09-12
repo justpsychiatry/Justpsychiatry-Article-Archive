@@ -5,9 +5,10 @@ The Psychological Clinic
 Copyright, 1931, by Liglitner Witmer, Editor
 Vol. XIX, No. 8 January, 1931
 the performance level of children in the
+:Author: Carl L. Altmaier,
 
-By Carl L. Altmaier,
 Instructor in Psychology, University of Pennsylvania
+
 Introduction
 "The differential diagnosis in clinical psychology is a quantitative
 diagnosis which puts the individual in the group to which he belongs,
@@ -23,12 +24,13 @@ a comprehensive survey of individual performances so that a comparison of the pe
 the standards of performance of a number of children. A number
 of studies have been made, and several sets of standards have been
 determined which have proved satisfactory in clinical diagnosis.
+
 The studies of Learning, Easby-Grave, and Murphy have supplied
 norms of performance which are continually being used in the Psychological Clinic. Comparison can be made with these norms, and
 an individual ranked in terms of relative superiority-inferiority.
 1 Lightner Witmer, Psychological Diagnosis and the Psychonomic Orientation of Analytic Science. The Psychological Clinic, January-February, 1925,
 Vol. XYI, Nos. 1-2, page 5.
-234 THE PSYCHOLOGICAL CLINIC
+
 1'A psychological diagnosis,'' according to Witmer, " is an interpretation of the observed performances of human beings."2 The
 function of the clinical diagnostician is not only to use quantitative
 instruments. Tests do not have such reliability that it is possible
@@ -51,7 +53,9 @@ the performance of a group of children in the sixth grade that will
 have bearing upon clinical diagnosis. This requires the determination of the amount of performance, which will represent the proficiency of the children selected. Proficiency is demonstrated ability
 in a competitive event. This study presents a picture of the proficiency of children in the sixth grade in public school. The group
 is a sampling of all sixth grade children.
+
 The Group
+
 The sixth grade is the last grade in the elementary school system. The child who completes this grade can continue in the Junior
 High School, or can go to work. The community feels that he has
 sufficient proficiency to take care of himself in a limited or minimum
@@ -59,7 +63,6 @@ sufficient proficiency to take care of himself in a limited or minimum
 3 Lightner Witmer, ibid., page 8.
 * Miles Murphy, The Ten Year Level of Competency. The Psychological
 Clinic. May-June 1928, Vol. XVII, Nos. 2-3, page 37.
-SIXTH GRADE PERFORMANCE LEVEL 235
 fashion. In the public schools in Pennsylvania children who pass
 the sixth grade may secure a working permit even though they are
 not sixteen years of age. The child is considered to have developed
@@ -67,12 +70,14 @@ sufficient efficiency, and to have reached that proficiency level at
 which he can leave school and go to work, although he is not yet
 considered capable of taking his place in society and maintaining
 entirely his own support.
+
 Four hundred cases have been selected in two of the schools of
 the Philadelphia district. These schools are located in the West
 Philadelphia section, and include children who come from the average, or modal family, the sixty per cent median modal family. The
 families are not of the very poor class, nor are they of a high social
 class. Each child was asked the occupation of his father, and the
 occupations with the corresponding frequency of each are as follows:
+
 Clerks, twenty-four; Carpenters, twenty-one; Tailors, seventeen;
 Manufacturers (manual work), thirteen; Machinists, twelve;
 Plumbers, ten; Painters, ten; Grocers, nine; Mechanics, nine;
@@ -123,12 +128,12 @@ the group in the fifth grade, for it allowed too much opportunity
 for chance solutions. The time limit for the Dearborn Formboard
 in this investigation was reduced to five minutes, which becomes
 the uniform time for the three performance tests.
+
 Procedure
 The investigation was undertaken through the inspiration of
 Dr Lightner Witmer, and its successful completion has been due
 to his helpful criticisms and suggestions. Dr Miles Murphy aided in
 the carrying out of the work. He took an active part in the examination of a number of cases. The investigation was begun in
-SIXTH GRADE PERFORMANCE LEVEL 237
 the latter part of October, 1927, and continued until the first part
 of March, 1928, and its careful and successful completion was furthered by the staff of examiners who generously gave of their time.
 The following conducted the examinations: Dr Miles Murphy, Instructor in Psychology at the University of Pennsylvania, Edward
@@ -140,11 +145,13 @@ Student in Psychology, and the writer. All of these examiners had
 had considerable experience in the theory and practice of mental
 testing, and were very familiar with all the procedures and the tests
 that were used.
+
 The four hundred cases were examined as they were found in
 the individual rooms. There were one hundred and eighty-nine
 boys and two hundred and eleven girls. There were one hundred
 and eighty-six children in the Six A Grade and two hundred and
 fourteen in the Six B Grade.
+
 The manner of conducting the examinations was similar to that
 followed in "The Ten Year Level of Competency." The writer
 was one of the examiners in the previous investigation, as were Dr.
@@ -159,10 +166,11 @@ Span Tests, two others gave the Binet-Simon Tests. A face sheet
 was used for each child, upon which were placed the date of examination, name, address, age, date of birth, father's occupation, and
 spaces for recording the length of time required for the performance
 of each test, and the score on the Binet-Simon Tests. No major attention was paid to the qualitative aspect of the performance.
+
 Treatment of Results
+
 The range of chronological ages of the children in this group
 is from nine years and seven months to sixteen years and three
-238 THE PSYCHOLOGICAL CLINIC
 months. The group is composed of a number of children of several
 different chronological ages. It is of interest to know whether the
 performance of the group as a whole is representative of any particular age group found within the whole. A number of age subgroups have been selected from this main group which will indicate
@@ -184,6 +192,7 @@ group with the performances of different age sub-groups, the children of the age
 have been selected. It will be possible to determine whether the
 performance of the sixth grade is representative of the performance
 of any of these age sub-groups.
+
 There are one hundred and eighty-nine boys and two hundred
 and eleven girls in the entire group. A comparison of the data obtained from the boys with that obtained from the girls will make
 it possible to determine whether there are any differences between
@@ -209,6 +218,7 @@ whether this group is different in performance, or whether it is similar in perf
 same for both groups a sixty per cent median modal age group can
 be used for an investigation of this sort, instead of the larger number of cases in the entire group. This will lead to saving of time
 and effort.
+
 There are involved in this data a number of groups of children
 in the sixth grade. Forty-three Cases, 10 years of age; 164 Cases,
 11 years of age; 96 Cases, 12 years of age; 43 Cases, 13 years of age;
@@ -219,10 +229,12 @@ B Grade. There are 6 Cases, 9 years of age; 11 Cases, 15 years of
 age; and 1 Case, 16 years of age. These three latter groups are
 composed of too few cases to be useful for purposes of statistical
 treatment.
+
 The data or results obtained from these children include Chronological Age, Mental Age, Intelligence Quotient, Memory Span:
 Auditory, Visual, and Reverse, Witmer Formboard: first and second
 trial, Witmer Cylinders: first and second trial, and Dearborn Formboard: first and second trial. The proficiency of each group will
 be represented by the results in these tests.
+
 From the data the following measures have been calculated:
 the average or mean of the distributions, indicating the central tendency; the skewness, showing the correspondence of the curves to
 the normal probability curve; the standard deviation or sigma of
@@ -231,11 +243,11 @@ variability of the groups; the probable error of the averages, showing the relia
 the sigma difference, indicating the significance of the difference
 between the averages of any two groups. This last measure shows
 the number of chances in one hundred that the difference between
-240 THE PSYCHOLOGICAL CLINIC
 any two averages is a true difference. These measures have been
 determined from the frequency tables of distribution. In the
 Memory Span results the scores are in discrete series. In each case
 the curve of the distribution has been determined.
+
 The formulae used for the calculation of the average of the distribution, the standard deviation or sigma of the distribution, the
 skewness, the coefficient of variation, the probable error of the average, the sigma of the average, and the sigma difference, are given in
 "Statistics in Psychology and Education," by Henry E. Garrett.
@@ -243,6 +255,7 @@ The short method was used for the average of the distribution and
 for the sigma of the distribution. The formula used for the median,
 short method, is found in "The Fundamentals of Statistics," by L.
 L. Thurstone.
+
 In order to determine the significance of the difference between
 the entire group and a sub-group the following formula was used:
 , / E2 CTV 2n\ n (M ? m)2
@@ -268,9 +281,9 @@ will be classed as performance tests, because muscular and motor
 manipulations are involved to a greater extent than in the former.
 This classification is arbitrary, but useful for purposes of discussion
 in this study. Motor responses are involved in all of the tests used,
-SIXTH GRADE PERFORMANCE LEVEL 241
 as are organization and discernment, but the preponderance of these
 factors is greater in one group than in the other.
+
 The results of all tests have been arranged in decile tables which
 are found on pages 256-257 so that ready comparison can be made
 with any individual performance, and a subject rated in terms of
@@ -281,6 +294,7 @@ Y, where A is the individual, X and Y the groups to which he is
 related. The results shown in these tables can be readily compared
 with the results shown in the tables which have been determined
 for other levels. The writer, in another study, will make a comparison of this group with other groups in terms of these decile ratings.
+
 Analysis of Results
 Entire Group
 The children of ten, eleven, twelve, thirteen, and fourteen years
@@ -304,9 +318,10 @@ require the child to use intelligence. The Dearborn Formboard has
 not been definitely located with reference to an age group. No
 failures are made on the Witmer Formboard, 1.5% of the children
 fail on the Witmer Cylinders, first trial, and 22.5% fail on the
-242 THE PSYCHOLOGICAL CLINIC
+
 Dearborn Formboard, first trial, in the entire group of sixth grade
 children.
+
 The curve of the distribution shows a skewness of + .71 and + .39
 on the first and second trials, respectively, of the Witmer Cylinders,
 and +.56 and +.82 on the first and second trials of the Dearborn
@@ -327,6 +342,7 @@ the Binet-Simon I. Q's, and of the forward memory span test apEntire Group =?
 SIXTH GRADE PERFORMANCE LEVEL 243
 proach that of a normal curve more nearly than do the performance
 test scores.
+
 The distribution of Mental Age and Intelligence Quotient scores
 in the entire group approach the normal curve of distribution. The
 skewness in the former is + .13, in the latter + .08. This indicates
@@ -335,6 +351,7 @@ The curves of distribution of the entire group and the chronological
 age sub-groups in Intelligence Quotient are shown in Chart I. There
 is a slight tendency toward the lower scores. The average Intelligence Quotient for the group is 93.1, median 92.6. According to
 Terman the average Intelligence Quotient should be 100.
+
 It has been pointed out by some that there is a greater possibility of making a high Intelligence Quotient at the earlier ages
 than at the later. The younger child has the chance to make a
 score in many more tests, for there are opportunities at every age
@@ -358,11 +375,12 @@ grade to secure an average Intelligence Quotient of 100. A corrective formula of
 10.8% would bring the average in this group up to 100. This is
 only slightly higher than the correction suggested by Maxfield.
 0 J. E. W. Wallin, Clinical and Abnormal Psychology, p. 154.
-244 THE PSYCHOLOGICAL CLINIC
+
 Since the entire group tends to resemble the twelve year group in
 the sixth grade, the findings of this study augment the proposal
 of Maxfield regarding some correction of the Intelligence Quotient
 for children over ten years of age.
+
 A prefatory note to Chapter V of the The Twenty-seventh
 Yearbook of the National Society for the Study of Education suggests the advisability of investigating further the tendency of the
 Intelligence Quotient at the higher ages to be less than 100. This
@@ -386,15 +404,16 @@ It is practically certain that the true average is included by ? 4
 P.E. Av. The small probable error shown demonstrates the reliability of these measures. It will be observed that the average results
 for the entire group show the highest degree of reliability of all of
 the groups.
+
 It may fairly be suggested that the ten year old children in this
 group are advanced, and that the fourteen year old children are
 8 Harold Ellis Jones, Director of Research, Institute of Child Welfare,
 Berkeley, Calif., A First Study of Parent-Child Resemblance in Intelligence.
 The Twenty-Seventh Yearbook of the National Society for the Study of Education, Nature and Nurture. Part I, Public School Publishing Company,
 Bloomington, Illinois, Chapter V, page 67.
+
 7 N. D. M. Hirsch, A Summary of Some of the Results from an Experimental Study of the East Kentucky Mountaineers. Proceedings of the National
 Academy of Science, Vol. 13, 1927, pp. 18-21.
-SIXTH GRADE PERFORMANCE LEVEL 245
 retarded. If this is so, ten year old children would be expected to
 show superiority to the fourteen year old children in test scores.
 It is found that the ten year old children are superior to the fourteen year old children in intellectual tests. The difference in averages is significant in the Intelligence Quotient. The fourteen year
@@ -409,7 +428,9 @@ because of the growth increment, physiological development, and
 added experience are slightly superior in tests primarily requiring
 niotor efficiency. The fourteen year old children are slightly inferior to the ten year old children in the Dearborn Formboard.
 This is a formboard test, but requires the use of intellectual processes more than the other formboards do.
+
 The Median Modal Age Group
+
 The median modal age group has been selected by eliminating
 the upper twenty per cent and the lower twenty per cent from the
 original age distribution. This will remove those who are the
@@ -428,7 +449,7 @@ This group does not show as great approximation to the normal
 curve of distribution in all tests as is found in the entire group, but
 the difference in amount of skewness of the curves for the two groups
 is slight.
-246 THE PSYCHOLOGICAL CLINIC
+
 The median modal age group in the sixth grade is very slightly
 superior to the entire group in intellectual tests, but the difference
 in averages is not a significant one. This group is composed of
@@ -436,12 +457,14 @@ children who are very slightly younger, and therefore very slightly
 advanced. They are slightly superior in intellectual tests. The
 difference between the averages in these tests for the two groups is
 not statistically significant.
+
 In performance tests there is no significant difference between
 the averages of the results for the two groups. In some cases the
 entire group is superior, and in others the median modal age group
 is superior. In no one test is there any significant difference between the average scores. The median modal age group in the
 sixth grade is not significantly different from the entire group in
 performance tests.
+
 When the P.E. Av. of the two groups is compared it is seen
 that the degree of reliability is approximately the same in both
 groups. In the Witmer Cylinders and the Dearborn Formboard
@@ -451,11 +474,14 @@ a significant difference from the entire group in the results of the
 tests. There is a small but significant difference in chronological
 age, the entire group being on the average 2.6 months older. Either
 of these groups can be used as a standard of performance.
+
 Sex Differences
+
 The girls in the sixth grade are slightly younger than the boys.
 The difference in average chronological ages is small, being only
 2.6 months, and as can be seen from the tables of results this difference is not statistically significant. The girls are very slightly
 more homogeneous in chronological age.
+
 The boys are very slightly superior to the girls in the intellectual tests, but at no point is there a significant difference between
 the average scores of the two groups. In general, the boys tend
 to be superior to the girls in performance tests, and in several instances there is a significant difference in the average scores in
@@ -465,7 +491,6 @@ Dearborn Formboard the boys are superior. This is a significant
 superiority. It is probably due in part to greater motor skill of the
 boys in manual operations. The boys usually demonstrate a slightly
 greater competitive spirit in tests, and this will aid in the more
-SIXTH GRADE PERFORMANCE LEVEL 247
 rapid completion of the performance tests. Boys are less prone to
 give up when the problem causes difficulty. The girls work in a
 more perfunctory way, and when obstacles are met show less stability than the boys. The girls tend to "blow up" more readily
@@ -473,6 +498,7 @@ when under pressure. The difference between the boys and girls
 in performance tests is due to greater motor skill on the part of the
 boys in this kind of manual operation, and a temperament better
 adjusted to success in performance tests.
+
 The sigma of the distribution and coefficient of variability are
 smaller in Mental Age and Intelligence Quotient for the girls. They
 are slightly more homogeneous than boys in intellectual tests. In
@@ -485,11 +511,13 @@ groups is compared. The skewness is seen to be similar for both
 groups, and is similar to that shown in the entire group. This
 illustrates that the groups are fairly representative of the boys and
 girls in the sixth grade.
+
 The results obtained from the boys and girls have been compared to those obtained from the entire group. Both of these groups
 are very similar to the entire group in chronological age. The
 boys are very slightly older, and the girls are very slightly younger
 than the entire group, but the differences between the averages are
 not significant in either case.
+
 In intellectual tests the boys and girls are similar to the entire
 group. The boys tend to be very slightly superior to the entire
 group, and the girls tend to be very slightly inferior to the entire
@@ -500,13 +528,15 @@ The girls tend to be slightly inferior to the entire group in
 performance tests. The differences between the averages is significant in the Witmer Formboard, first trial, Witmer Cylinders,
 second trial, and the Dearborn Formboard. The boys are superior
 to the entire group in performance tests. In the Witmer Formboard first trial and Dearborn Formboard the differences in averages are significant.
-248 THE PSYCHOLOGICAL CLINIC
 The amount of skewness is similar in both groups to that shown
 in the entire group. The sigma of the distribution and the coefficient of variability are similar. These two groups show approximately the same amount of homogeneity. They are both representative of the entire group. The probable error of the averages is
 approximately the same for the boys and girls as it is for the entire
 group. The averages of the results for the boys and girls show the
 same degree of reliability as is found in the entire group.
+
 Six A Grade and Six B Grade
+----------------------------
+
 The Six A Grade is the first half of the sixth grade. When a
 child passes this grade he is promoted to Six B, the second half of
 the sixth grade. When the results of these two groups are compared
@@ -515,6 +545,7 @@ the children in the Six B grade. The difference in average ages
 between these two groups is 8.2 months. This is a significant difference. The skewness and coefficient of variability show that the
 Six A grade is slightly more homogeneous in chronological age than
 the Six B grade.
+
 The average Mental Age of the children in the Six A grade is
 130.7 months, and of the Six B grade is 136.2 months. This is a
 difference of 5.5 months in favor of the Six B group. This superiority of the Six B children in Mental Age is a significant superiority. This latter group is 8.2 months older than the Six A
@@ -527,11 +558,11 @@ second trial. The Six B group shows superiority in manual performances.
 When the P.E.Av. of these two groups is compared it can be
 seen that the tests have a high degree of reliability for both of these
 groups.
+
 It will be observed that the children in the Six A Grade are
 younger than those in the entire group, and the difference between
 the averages is significant. The children in Six B are older than
 those in the entire group and this difference is also a significant one.
-SIXTH GRADE PERFORMANCE LEVEL 249
 The Six B children are older than the children in the Six A Grade
 and are also older than the children in the entire group. In the
 results of all tests there is very little difference between the entire
@@ -540,6 +571,7 @@ In Mental Age the children in Six A are inferior to those in
 the entire group, and the differences between the averages is significant. The Six B children are slightly superior to those in the
 entire group in Mental Age, but the difference between the averages in this case is not significant. There is no noticeable difference between the entire group and the Six A and Six B grades in
 the other intellectual tests.
+
 In the performance tests there is very little difference between
 these two divisions of the grade and the entire group. The children
 in Six A grade are very slightly inferior to the entire group in performance tests. This difference in average scores is significant only
@@ -551,7 +583,9 @@ the same degree of variability as is found in the entire group.
 These two groups are representative of the entire group in test
 scores. They show differences in chronological age. The test results for the Six A grade and the Six B grade show the same degree
 of reliability as is found in the entire group.
+
 General Discussion
+
 This group is fairly representative of all children in the sixth
 grade in public school. There is a wide distribution of chronological ages in a group of this sort. Some of the children are advanced in school progress, others are retarded. All children in the
 grade are of normal mentality. On the basis of a social criterion
@@ -562,9 +596,9 @@ the opinion that any of the children in this group were feebleminded. Some are d
 stress may force them below the level of social competency. A few
 showed signs of emotional instability and can be called psychopathic
 inferiors. None at the time of the examination were considered
-250 THE PSYCHOLOGICAL CLINIC
 abnormal. This is a group which might be expected in any school
 system.
+
 Successful behavior is the product of organization and discernment, intelligence and efficiency, motivation and control. Those
 who are most successful possess these attributes in the greatest abundance. The ten year old children demonstrate superiority in those
 tests which require the use of organization and discernment, the
@@ -587,14 +621,16 @@ with the same competitive spirit, the same assurance, or the same
 abandon. After they have tried the test out a little they gain confidence. On the second trial they are not so afraid of making mistakes, and proceed more in the spirit of competition. The girls
 usually show greater improvement on the second trial than the boys
 do.
+
 Conclusions
+-------------
+
 1. All performance tests used are too easy for this group.
 2. The Stanford Revision of the Binet-Simon Tests is too difficult for children in the sixth grade to secure an average Intelligence Quotient of 100. The average Intelligence Quotient for the
 group is 93.1.
 3. The sixth grade cannot be definitely called an age level, but
 it more nearly represents the twelve year level than any other.
 4. The median modal age group in the sixth grade is not significantly different from the entire group in performance.
-SIXTH GRADE PERFORMANCE LEVEL 251
 5. There are significant sex differences in the Dearborn Formboard, but not in other tests.
 6. The Six A Grade and Six B Grade are not significantly different from the entire group in test results.
 7. The Six A Grade is significantly lower than the Six B Grade
@@ -602,14 +638,19 @@ in Mental Age, but not in other tests.
 8. The ten year old children are significantly superior to the
 fourteen year old children in Mental Age, Intelligence Quotient,
 and Memory Span.
+
 BIBLIOGRAPHY
+----------------
+
 Easby-Grave, Charlotte. Tests and Norms at the Six Year Old Performance
 Level. The Psychological Clinic, 1924, 15, pp. 261-300.
 Garrett, Henry E. Statistics in Psychology and Education. New York.
 Longmans, Green and Co., 1926.
+
 Hirsch, N. D. M. A Summary of Some of the Besults from an Experimental
 Study of the East Kentucky Mountaineers. Proceedings of the National
 Academy of Sciences. 1927, 13, pp. 18-21.
+
 Jones, Harold Ellis. A First Study of Parent-Child Resemblance in Intelligence. The Twenty-Seventh Yearbook of the National Society for the
 Study of Education, Nature and Nurture, Part I, Chapter V.
 Leaming, Rebecca E. Tests and Norms for Vocational Guidance at the Fifteen Year Old Performance Level. The Psychological Clinic, 1922, 14, pp.
@@ -624,7 +665,7 @@ Mifflin Co., 1927.
 Wither, Lightner. Psychological Diagnosis and the Psychonomic Orientation
 of Analytic Science. The Psychological Clinic, 1925, 16, pp. 1-18.
 Thurstone, L. L. The Fundamentals of Statistics. New York. The Macmillan Co., 1928.
-252 THE PSYCHOLOGICAL CLINIC
+
 Table I
 Chronological Age
 No. of
@@ -2026,7 +2067,7 @@ F(61)
 249
 F
 F(16)
-SIXTH GRADE PERFORMANCE LEVEL 257
+
 Sixth Grade?60% Median Modal Age Group (240 Cases)
 C.A.
 M.A.

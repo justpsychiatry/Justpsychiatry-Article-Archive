@@ -4,9 +4,10 @@ Small Head Size Associated with Mental Defect
 The Psychological Cl inic
 Copyright, 1932, by Lightner Witmer, Editor
 Vol. XX, No. 7 December, 1931
- *
-By R. L. Jenkins, M.D.
+:Author: R. L. Jenkins, M.D.
+
 Institute for Juvenile Research, Chicago
+
 In indexing the data of over five thousand consecutive case
 records from the Institute for Juvenile Research, Dr Luton Ackerson 1 notes that the question of microcephalus appears thirty-one
 times. The case records of these thirty-one children were selected
@@ -17,6 +18,7 @@ In the consideration of any deviation from the norm, such as
 small head size, one is interested in the degree of deviation. In
 order to determine the degree of deviation, it is necssary to determine first the norm, and in this particular instance the selection
 of a norm presents considerable difficulty.
+
 The simplest method of classification of head size is an absolute one. Thus, Tredgold 2 and others have used seventeen inches
 as the limit of microcephalus. An individual whose head size, on
 completion of development, falls below this circumference is classified as microcephalic.
@@ -27,7 +29,6 @@ No. 196.
 because of paucity of cases.
 2 A. F. Tredgold, Mental Deficiency (Wm. Wood & Co., 1929), p. 204.
 193
-194 THE PSYCHOLOGICAL CLINIC
 development. Absolute head size therefore will not serve as a
 criterion of deviation from the norm.
 A second possibility of determining degree of deviation which
@@ -39,6 +40,7 @@ may possibly have his head growth arrested at an earlier age than
 the normal. By this method of classification, therefore, such a
 microcephalic would become more widely deviate with approach to
 maturity.
+
 Tredgold and others have stated that the intelligence of microcephalics is roughly proportional to the head size. In twenty-five
 cases of our children with small heads upon whom a measurement
 of head circumference was available,3 the correlation between intelligence quotient and head circumference was -f- .220 ? .128.
@@ -49,6 +51,7 @@ cases, and the measurement of head circumference is somewhat
 influenced by the amount of hair. The size of the correlation
 coefficients indicates, despite these sources of error, that any relationship between head size and intelligence in this group of cases
 is very slight if indeed it exists at all.
+
 For purposes of convenience in this paper, all cases with a head
 circumference of 44 cm. or less, who are also more than 10 per cent
 under the mean head circumference for their age, will be considered
@@ -60,9 +63,11 @@ deviates and five unclassified (head circumference not recorded),
 s One case was discovered and added to the series after these calculations were made. It is not. included among these twenty-five.
 4 Mean head circumference for age taken from Ales Hrdlicka, Anthropological Investigation on One Thousand White and Colored Children of Both
 Sexes. (New York: Wynkoop Hallenbeck Crawford Co.)
-SMALL HEAD SIZE AND MENTAL DEFECT 195
 ranging in age from 1 year, 9 months to 11 years, 9 months. Fourteen are idiots, four are imbeciles and five are morons.
+
 Physical Defects
+----------------
+
 Of the extreme deviates, two had a left divergent strabismus.
 One of these was blind, emaciated, and helpless with a diplegia.
 Another had a marked visual defect and a history suggestive of
@@ -74,6 +79,7 @@ fracture, and congenital heart disease. The remaining two, a pair
 of microcephalic brothers, displayed adherent ear lobules, and
 short incurving little fingers. One of these had almond-shaped
 eyes.
+
 Among the moderate deviates there were six cases of spastic
 paralysis ? diplegia or paraplegia. Two were blind and six
 showed visual defect to less degree. Eleven had strabismus. One
@@ -87,22 +93,26 @@ Cardiac disease, congenital or acquired, was diagnosed in five
 cases. Four cases were recorded as having cyanosis of the extremities. Enlarged tonsils and carious teeth were the rule. One child
 had a webbing of the hands and feet. One had undescended
 testes. One was obese.
+
 We see a striking number and variety of major defects exhibited by this group. Most of these children fell short of normal
 height and weight. Kyphosis and scoliosis were frequent.
 Two moderate deviates were left-handed.
+
 A definite history of convulsions was obtained in two of the
 extreme deviates and five of the moderate deviates.
 It is interesting to note that of twenty-six Wassermann reactions
 recorded, all were negative. Wassermann reactions were available
 on five extreme deviates (two tests in one case), thirteen moderate
-196 TEE PSYCHOLOGICAL CLINIC
 deviates (two tests in one case), and on five parents and one brother
 of moderate deviates. All the serological evidence regarding lues
 as a factor in these cases is therefore negative.
+
 Prenatal and Natal Factors
+
 There were no significant differences between the ages of the
 parents of these children and those of parents of Institute children
 in general.
+
 The age of both parents was available in twenty-three of the
 microcephalic cases. The mean difference in the ages of the
 parents of the twenty-three microcephalics was 3.1 years, while the
@@ -119,6 +129,7 @@ Five, or 16 per cent of the series studied, were only children while
 were first-born. The mean birth position was 2.3 while that for
 the controls was 2.6. These discrepancies are probably explained
 by the younger age of the group with small heads.
+
 The average time intervening between the birth of the preceding child and the child of this series was 3.3 years while that for
 761 control cases was 2.9 years. Of course none of these differences
 are statistically significant with so few cases in the group of children with small heads.
@@ -126,9 +137,9 @@ In five cases the pregnancy was described as difficult or uncomfortable, or the 
 one month before the birth of the child. In eleven cases the pregnancy was described as comfortable or normal. There were two
 cases of prolonged or difficult labor and one forceps delivery recorded. One mother fell on the sidewalk a month before delivery.
 Three infants were resuscitated with difficulty at birth.
+
 The reported birth weights in eleven cases range from 2y2 lbs.
 to 12 lbs., and average 7 lbs., 6 oz. Three cases perhaps deserve individual mention.
-SMALL HEAD SIZE AND MENTAL DEFECT 197
 One extremely deviate idiot girl was the second to be born of
 a pair of twins. The other twin, a girl, was (according to the family) normal (age 3 years, 11 months). At birth the patient
 weighed 2y2 lbs. and the normal twin 5 lbs. The pregnancy went
@@ -141,9 +152,13 @@ to be 12 lbs. The head was described as "swollen at the back."
 The child was unable to nurse for two weeks. This was the case
 in which the mother had pneumonia less than one month before
 the birth of the child.
+
 In no case is there record of the treatment of the uterus with
 x-ray or radium during pregnancy.
+
 Heredity
+---------
+
 The investigation, from the case histories, of the heredity of
 this group of patients was unsatisfactory. In some cases few
 data were obtained. Most of the parents of these patients were
@@ -153,24 +168,28 @@ defectives in their family. The histories on this point reveal only
 a few alcoholics, a few unstable personalities, an aunt with amenorrhea and sterility, another affected with a tic, an uncle who was an
 epileptic, and a sibling with epilepsy. One child had a sibling who
 died at nine weeks of hydrocephalus.
+
 There were six Jewish families among the group?not a disproportionate number for the Institute population.
 In four cases one or more siblings of the patient had been
 examined at the Institute. These cases seemed to offer better
 promise of study of small head size and mental defect with relation
 to their possible familial character. They are, therefore, reported.
+
 Case Studies
 I
 A. A. and B. A., microcephalic brothers, were examined at ages
 11 years, 9 months and 7 years, 0 months, respectively. They were
 referred by their school for lack of progress.
-198 THE PSYCHOLOGICAL CLINIC
+
 The biparietal diameter recorded for A. A. is 13 cm., that for
 B. A. is 12 cm. The occipitofrontal diameter for A. A. was 14.5,
 that for B. A. 14. The circumference of A. A.'s head was 43.7,
 that of B. A. 42. A. A. 's head circumference is 14 per cent below
 the average for his age, B. A.'s 19 per cent.
+
 A. A. had an intelligence quotient of 33, B. A. an intelligence
 quotient of 41.
+
 A. A. was 5.6 inches under the average height, B. A. 4.3 inches.
 A. A. was 6 lbs. underweight for his height and age, B. A. 1.5 lb.
 Both displayed Harrison's groove, submerged, cryptic (A. A.), or
@@ -180,32 +199,37 @@ B. A. is recorded as having clammy extremities. Both had negative Wassermann rea
 A. A. had been observed to masturbate when he was small. He was
 thought to have stopped. He was given to protective lying. B. A.
 told lies both protective and fantastic.
+
 The parents of A. A. and B. A. are described as dull, hardworking Polish folk of peasant background. The father was a railroad
 laborer, the mother worked out three hours daily, cleaning a
 library. The mother, 36 years of age at time of examination of
 the children, stated she had seven years of education in Poland.
 The father, 40 years of age, had "several years" schooling in
 Poland. Both were "strong and well."
+
 A. A. and B. A. were the first and third children, respectively,
 in a family of four children. The second child was a boy in the
 fourth grade (one year retarded). He was described as a fine boy
 and no trouble. This was confirmed by a neighbor woman who
 acted as interpreter. The fourth child was a boy 17^ months old,
 who was walking and beginning to talk.
+
 All the relatives were in Poland and little was known about
 them. The grandparents were all dead. Two maternal aunts, four
 maternal uncles and one paternal uncle in Poland were described as
 "strong and well."
+
 Both children were born easily at term and breast fed (A. A.,
 11 months, B. A., 1 year). A. A. weighed 9 lbs. at birth, B. A., 8
 lbs. A. A. walked at 13 months and talked at 5 years. B. A.
 walked at 1 year and talked at 4 or 5 years. Both had their first
 tooth at 6 months.
+
 The parents planned to put these boys into a circus.
-SMALL HEAD SIZE AMD MENTAL DEFECT 199
 Here we have two microcephalic defectives of strikingly similar
 development, born of dull parents with a sibling evidently of much
 more nearly normal, if not normal, intelligence between them.
+
 II
 D. E., F. E., and G. E., sisters, were examined at different times.
 D. E., the eldest, was examined in 1923 at the age of 11 years, 6
@@ -220,6 +244,7 @@ these children died in 1918. In 1919 they were placed in an orphan
 asylum. In 1923 D. E. was committed to a state institution for
 the feeble-minded. The father remarried the following year and
 took the remaining children home. The records for F. E. and G.
+
 E. are more full than that for D. E.
 D. E. had a biparietal diameter of 13 cm., F. E. a diameter of
 13.5 cm., and G. E. a diameter of 12.6 cm. The occipito-frontal
@@ -229,19 +254,21 @@ for F. E., and 46.2 for G. E. D. E.'s head circumference was 6
 per cent below the average for her age, F. E.'s, 9 per cent and G.
 E.'s, 10 per cent. The notation of microcephalic appearance occurs
 on the records for D. E. and G. E.
+
 The intelligence quotient of D. E. was 57 (54 after several
 years at a state school for the feeble-minded), that for F. E. was
 69 (63 on point scale performance) and that for G. E. 67 (67 also
 on point scale performance).
+
 D. E. was 3 inches below the average height for her age and 1
 lb. above the mean weight for her age and height. She had an
 opacity of the pupil of the left eye, due to an old injury, enlargement of the cervical lymph glands and perspiration of the hands
 and feet. The tonsils had been excised. The hemoglobin was 75
 per cent and the red cell count 4,750,000. The leucocytes numbered
 9,000 and there was a slight lymphocytosis (41%).
+
 F. E. measured 4.9 inches below the average height for her
 age and 11 lbs. over the standard weight. She is recorded as having had carious teeth, high palate, infected tonsils and adenoids
-200 THE PSYCHOLOGICAL CLINIC
 enlargement of cervical lymph glands, bilaterally enlarged epitrochlear glands and cyanosis of extremities. Her vision was defective (right eye 3/10, left eye 4/10). There was evidence of nailbiting. The thyroid was enlarged (1+) and the eyes are described
 as of Mongoloid type. The red cell count was 4,400,000.
 G. E. was one inch below average height and 8 lbs. underweight
@@ -256,12 +283,14 @@ of the right apex was slightly impaired. The red cell count was
 D. E. had been in an orphan asylum four years at the time of
 examination. There were no behavior difficulties and she was reported to work very well under supervision. She was committed
 to a state institution for the feeble-minded.
+
 F. E. had a language deficiency. She was in the fifth grade (two
 years retarded). Her scholarship was poor. She had remained out
 till midnight four nights during the week preceding the examination and refused to tell where she had been. During the psychiatric
 interview she admitted soliciting boys and men on the streets for
 sex intercourse to secure money. She was committed to a state
 institution for the feeble-minded.
+
 G. E. was in a special room in school. She ran away from home
 at every opportunity. She had no playmates but dogs. She also
 was a sex delinquent. She Avas placed in a fine boarding home. In
@@ -273,10 +302,10 @@ she was a detriment to the other children. She was then tried in
 two more foster homes. After re-examination at the end of the
 year, a commitment to a state institution for the feeble-minded
 was advised and carried out.
+
 The parents of these children were born in Czecho-Slovakia.
 The father was a steel clipper who had held the same job for
 21 years. His health was good. The mother was in good health
-SMALL HEAD SIZE AND MENTAL DEFECT 201
 (except for excessive drinking) until the time of lier death from
 pneumonia. This drinking was taken up subsequent to the birth
 of D. E. Very little information was obtained about the family.
@@ -288,8 +317,10 @@ second, a boy, was reported by an orphan asylum to be dull and
 backward and later reported by his father to be "a good boy"
 in the "fifth or sixth grade." The youngest child, a boy, was
 adopted.
+
 Here we have three children in a family in whom small head
 size is associated with mental deficiency.
+
 Ill
 J. L. and K. L., sister and brother, were examined in 1924 and
 1926, respectively. J. L. at the age of 16 years, 1 month was referred by the Board of Education in order to find a suitable institution. K. L. was examined at the age of 3 years, 3 months. He
@@ -300,6 +331,7 @@ was average for her age. Skull measurements are not recorded
 for K. L. The head was small. He has been described as microcephalic by a dispensary.
 J. L. lias an intelligence quotient of 51. K. L. was an idiot
 (intelligence quotient probably below 10).
+
 J. L. was 5 inches below average height for her age and 42*4
 lbs. over the average weight for her height and age. She had
 carious teeth, separation of the upper and lower incisors, asymmetry
@@ -313,10 +345,11 @@ would become a sex delinquent. The child was placed in a private
 school for defective children. She was later removed to a state
 institution for defectives, where she was paroled to her home. She
 worked in a candy factory at $12.00 a week.
-202 THE PSYCHOLOGICAL CLINIC
+
 The parents were Jews born in Russia. There was no history
 of mental disease or defect in the family, according to the parents.
 The father seemed a bright, intelligent man.
+
 No developmental history of J. L. was obtained.
 The mother had pneumonia less than one month before the
 birth of K. L. This was the 12 lb. (?) "blue" baby born spontaneously, in a badly asphyxiated condition after a two-hour labor.
@@ -325,6 +358,7 @@ hours. The head was "swollen at back" and the infant could not
 nurse for two weeks. Convulsions set in at 2 months and lasted
 2 years, sometimes as many as 10 or 15 attacks occurring in one
 day.
+
 J. L. and K. L. were the first and third children, respectively,
 in a family of three children. The second child, a boy, was in the
 third grade before nine years of age and was described by the
@@ -334,6 +368,7 @@ X. Z. and Y. Z., brothers, were examined at different times in
 1920. X. Z. was referred by his father for convulsive attacks and
 examined at the age of 14 years, 4 months. Y. Z. was referred by
 the Juvenile Court because of feeble-mindedness.
+
 X. Z. had a biparietal head diameter of 14.5 cm., an occipitofrontal diameter of 17.8 cm. and a circumference of 52.9 cm.
 This is 2y2% below the average for his age. The measurements
 for Y. Z. were not recorded, but he was described as microcephalic.
@@ -342,13 +377,15 @@ The intelligence quotient of X. Z. was 87, that of Y. Z. was about
 upper incisors. Y. Z. displayed a spastic paralysis of all extremities with contractures and atrophy, Harrison's groove and
 Hutchinson teeth. X. Z. was not a behavior problem. Both children had epileptic attacks. Y. Z. was born spontaneously after
 a difficult labor.
+
 The mother was sexually promiscuous before and after marriage and was divorced for extra-marital sex relations. She had
 two miscarriages, one before and one after the birth of these two
 children. She was addicted to the use of alcohol. The parents
 were both native-born, the supposed father apparently a normal
 individual. A paternal uncle was epileptic.
-SMALL HEAD SIZE AND MENTAL DEFECT 203
+
 Discussion
+
 It will have been noted that the preceding case reports fall into
 two categories. First, we have the pair of truly microcephalic
 brothers. When only eight children of truly microcephalic head
@@ -370,13 +407,17 @@ size and mental defect associated as factors of hereditary tendency.
 It seems probable that the primary character in these cases is the
 familial tendency to cerebral hypoplasia and that the small head
 size is the secondary concomitant character.
+
 Each of the second two families contains an idiot sibling with
 small head size and another sibling of normal head size. One of
 these was an imbecile. The other fell a little below average intelligence, but had convulsive seizures. A condition of infantile
 cerebral palsv seems probable in the case of each idiot. Here
 the primary factor was acquired cerebral damage and we see no
 evidence of familial tendency of the small head size.
+
 Summary
+----------
+
 Records of thirty-one children of small head size were selected
 from the files of the Institute for Juvenile Research. Study of
 these records revealed all the children to be mentally defective.
@@ -384,18 +425,22 @@ There was a striking frequency of severe physical and neurological
 defect among this group. It was not possible to demonstrate any
 statistically significant differences between this group and the general Institute population in regard to birth position, age of parents
 at birth, or other items of this character. The Wassermann reaction
-204 THE PSYCHOLOGICAL CLINIC
 was negative in the cases of nineteen of these children and six of
 their relatives who were tested. Four of the series were Mongolian
 defectives and should be considered generically different from the
 remainder.
+
 Two families are cited in which there seems to have been a
 primary cerebral hypoplasia with associated small head size on
 an hereditary basis.
+
 Two families are cited in which infantile cerebral palsy was
 apparently responsible for small head size in one sibling while the
 unaffected child had a head of normal size.
+
 Conclusions
+------------
+
 Small head size may be associated with mental defect apparently due to a primary cerebral hypoplasia, with mental defect
 due to infantile cerebral palsy or with mental defect due to Mongolism.
 There is indication that small head size associated with mental

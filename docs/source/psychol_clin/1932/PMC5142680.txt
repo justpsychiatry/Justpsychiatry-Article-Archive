@@ -2,8 +2,9 @@ Industrial Psychology
 ======================
 
 REVIEWS
-By Morris S. Viteles. New York: W. W.
+:Author:  Morris S. Viteles. New York: W. W.
 Norton & Company, Inc. 1932.
+
 It is a far cry from the early literature of psychology in its industrial
 and business applications to the masterly resume of contemporary literature
 in the field of psychotechnology which characterizes the volume Industrial
@@ -13,6 +14,7 @@ Yet the volume under examination is at once a tribute to the validity of the
 problems to which Miinsterberg gave so much of his time and the progress
 which has been made in the scientific exploration of the problems involved in
 relating the science of human behavior to industry and business.
+
 A paragraph in the preface of the book describes the author's aim very
 concisely. "The guiding principle in the selection of material for this volume
 has been the desire to present a comprehensive picture of modern industrial
@@ -24,6 +26,7 @@ which psychotechnologists in Germany, France, Italy, and England have made.
 The introduction of so much material from these sources not only gives a
 more comprehensive view of the situation but introduces the student to personalities and techniques about which he would most likely have no information were he dependent entirely upon earlier texts on industrial psychotechnique.
 The subject matter is divided into three sections.
+
 Section I deals with the foundations of industrial psychology. The first
 five chapters in this section do much more than give a history of the development of this phase of the science of psychology. They reveal the economic,
 social, and psychological foundations upon which industrial psychotechnique
@@ -37,12 +40,10 @@ application to industrial problems in the form of illustrations and graphs to
 relate them effectively to the industrial field. Doctor Yiteles assumes, and
 rightly so, that the serious student of industrial psychology should already
 have acquired statistical and experimental tools with which to work intelligently in the field. In treating the subject matter from this point of view,
-the writer has eliminated the necessity of introducing a text book on statistics into the volume under discussion, and at the same time has indicated
-208
-REVIEWS 209
-by implication, if nothing more, that industrial psychotechnology is a field
+the writer has eliminated the necessity of introducing a text book on statistics into the volume under discussion, and at the same time has indicatedby implication, if nothing more, that industrial psychotechnology is a field
 which requires for its mastery the most complete training in statistical and
 experimental psychology that it is possible for the student to secure.
+
 In doing this Doctor Yiteles has done the cause of industrial psychology
 a great service, for it is evident that one of the serious criticisms frequently
 made of so-called "applied psychology" is that it is superficial and unscientific in character, not worthy of the serious scientific interest of a trained
@@ -75,6 +76,7 @@ While the author does not consider that it is necessary to give up the concept
 of fatigue in spite of the difficulties attendant upon its adequate description
 and use in industrial psychology, he does point out the dangers and limitations
 of this concept.
+
 The chapter on the elimination of fatigue contains an excellent analysis
 of methods employed in industry to control the environment as well as the
 physiological factors which affect work out-put and the selection of research
@@ -86,16 +88,18 @@ is very conservative in his evaluation of the experimental material available
 for use in such discussions. In view of the tremendous literature available
 particularly on the use and effectiveness of financial incentives this section is
 perhaps less effective in its choice of material than any other in the book.
+
 The last chapter, which deals with the problems of supervision and management,
-210 THE PSYCHOLOGICAL CLINIC
 is a logical conclusion for a text of this kind. However, as it is handled by
 the author it seems somewhat of an anti-climax. This may be due to the
 paucity of carefully done work on the problem, but it does not add very much
 to the literature concerning the problem.
+
 To one who is convinced beforehand, as the reviewer is, of the validity
 and promise of the psychotechnical field for the psychologist, Industrial
 Psychology by Doctor Yiteles reinforces the faith that is in him and furnishes a tangible proof of the progress already made in controlling the human
 factor in industry.
+
 The book is brilliantly written and the author's style is as pleasing as
 his scholarship is thorough and complete. Individuals who are interested in
 acquiring a more complete bibliography of the source material in the field
@@ -103,4 +107,5 @@ will be gratified with the liberal use which Doctor Yiteles has made of bibliogr
 page to page and in his acknowledgments at the end of the volume. This is
 the best survey of the field of industrial psychology that has yet been written.
 S. N. Stevens
+
 Northwestern University

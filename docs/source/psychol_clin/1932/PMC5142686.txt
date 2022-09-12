@@ -1,10 +1,12 @@
 School Maladjustments of Some Mentally Superior Patients in a Psychiatric Clinic
 ================================================================================
 
-By E. L. Schott, Ph.D.
+:Author:  E. L. Schott, Ph.D.
 Psychologist, Division of Neuropsychiatry,
 Henry Ford Hospital,
+
 Detroit
+
 In recent years since the development of standardized intelligence tests has given educators a means of classifying their students
 according to mental ability the individual of superior mentality
 has become the object of considerable interest and special study.
@@ -20,6 +22,7 @@ superiority and immaturity in other phases of development. Various correctional 
 this direction have left in the school population many gifted pupils
 who are sufficiently maladjusted to cause them to be referred to
 a psychiatric clinic for individual guidance.
+
 For this study we took in alphabetical order from our test files
 in the Division of Neuropsychiatry of the Henry Ford Hospital the
 records of 400 patients who had been examined at various times
@@ -32,10 +35,9 @@ of Neuropsychiatry, Henry Ford Hospital, Detroit, and the writer is indebted
 to him and to Jack H. Schott for assistance in revising the manuscript.
 i Hollingworth, L. S., The Child of Very Superior Intelligence as a Special
 Problem of Social Adjustment. Ment. Hyg., 1931, 15, 3-16.
-202
-SCHOOL MALADJUSTMENTS 203
 with the Stanford-Binet Test and that they were listed as "in
 school" at the time of their study by the clinic.
+
 Of the 400 patients thus selected 241 are boys and 159 are girls;
 that is, of the group approximately 60 per cent are boys and 40
 per cent are girls. The I.Q.s of this group show a moderately
@@ -49,6 +51,7 @@ number, with I.Q.'s of 110 and above. Of these, 46 are boys and
 the same as in the larger group (60 to 40). They ranged in age
 from 6 to 25 years, the median being 11 years, and in school placement from the first grade to the senior year in college, with the
 median at the sixth grade.
+
 Although of school age and of the same general range of intelligence these patients are not strictly comparable to the school population as a whole because selective factors are operating in bringing
 them to our attention. An analysis of the sources from which they
 were referred shows that only 20 per cent of the 77 mentally superior patients are referred by social agencies and schools; 12 per
@@ -58,19 +61,22 @@ private patients by their families, by the patients themselves or
 by their private physicians. This indicates that on the average
 the group is superior in economic status to a group with similar
 intelligence in the general school population.
+
 In this group of 77 mentally superior patients we find 48 cases
 (62 per cent of the 77) with school maladjustments prominent
 among the complaints made about their behavior. In a group of
 176 mentally average patients (with I.Q.s from 90 to 110 as determined in our clinic) the number with school maladjustments is
 estimated to be about 40 per cent.
+
 Since we found that our mentally superior patients became involved in school difficulties about one and one half times as often
 as our mentally average patients we were interested in discovering
 what types of school maladjustments are characteristic of these
 superior individuals.
+
 In a recent report on behavior problems studied in the Institute
 2 Terman, L. M., The Measurement of Intelligence. Houghton Mifflin Co.
 1916, p. 78.
-204 THE PSYCHOLOGICAL CLINIC
+
 of Juvenile Research in Chicago, John Levy 3 lias stated that, regardless of economic status, personality problems generally increase
 while social problems decrease as intelligence rises. For purposes
 of comparison with Dr Levy's findings we grouped the school maladjustments of our mentally superior patients in categories similar
@@ -91,6 +97,7 @@ of maladjustments exceeds the total number of maladjusted patients. For example 
 In our group of 48 mentally superior patients with school maladjustments we find personality and emotional difficulties predominating. They are three times as frequent as academic difficulties, five times as frequent as physiological disorders, and ten
 times as frequent as delinquency. We had only two cases in which
 sex problems were known to be factors in school maladjustment.
+
 These findings are in general agreement with Levy's conclusions
 mentioned above. That is, in our mentally superior patients, personality problems have increased markedly over social problems.
 Levy suggests that personality problems are a more mature expression of maladjustment than resistance to organized authority
@@ -99,7 +106,6 @@ possible explanation of the difference noted above is that the more
 intelligent individual realizes the folly of overt resistance to the
 3 Levy, J., A Quantitative Study of the Relationship between Intelligence
 and Economic Status as Factors in the Etiology of Children's Behavior Problems. Am. J. Orthopsychiat., 1930-31, 1, 152-162.
-SCHOOL MALADJUSTMENTS 205
 demands of society and he stops short of delinquency in seeking
 emotional outlets. In other words he knows much more accurately
 than the less intelligent individual how far he can go without involving himself in serious trouble with constituted authority. For
@@ -132,12 +138,12 @@ complained that he was subjected to constant pressure and surveillance and he wa
 to achieve perfection that he revolted and truanted constantly.
 These are exceptional cases and here the school maladjustment
 constitutes the major problem, which is comparatively simple.
+
 A more typical case of general personality maladjustment is
 that of an adolescent girl whose superior intelligence (I.Q. 123)
 was in large part responsible for her impatience with the more
 formal and superficial demands of society. Her earlier gestures
 of defiance so frightened her mother that the relationship between
-206 THE PSYCHOLOGICAL CLINIC
 them became strained. While both felt the situation keenly, neither
 would make advances to restore the bond of affection and confidence
 which previously existed. The patient's attitude of defiance gradually carried over from the home to the school where she became
@@ -150,6 +156,7 @@ she became sullen and stubborn in her reactions to everyone. By
 the time she was brought to the clinic her mental reactions were
 becoming definitely morbid. After the parents and school authorities were contacted and the patient made several visits to the psychiatric clinic, sufficient adjustment was brought about to enable her
 to carry her high school work to completion.
+
 The individual aspect of most personality problems suggests
 that in many cases of mentally superior individuals presenting
 school problems the school maladjustment is only one manifestation
@@ -166,15 +173,18 @@ than for an unselected cross section of the school population because
 in the economically superior classes from which most of our patients
 are drawn, families probably are generally smaller than the average
 for the city.
+
 These considerations may have some bearing on the question of
 why the school's efforts in the direction of individual analysis and
 special education, over a number of years, have failed to eliminate
 problems of maladjustment in mentally superior pupils. The explanation may lie, at least partially, in the school's inability to
 control the home situations. To educators this view is more consoling than encouraging. It implies that the cause of such maladjustment is not primarily in the school, but is probably where the
 school can hardly reach it. In such cases educators may appeal
-SCHOOL MALADJUSTMENTS 207
 to the psychiatric clinic, which offers a neutral ground for the resolution of family conflicts and the reshaping of parental attitudes.
+
 Summary
+--------
+
 The study of these 400 neuropsychiatric patients who were
 drawn from the school population shows a moderately normal distribution of intelligence quotients with approximately 20 per cent
 of the entire number rating as superior (I.Q. of 110 and up). Of

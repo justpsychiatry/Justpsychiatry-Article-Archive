@@ -1,9 +1,9 @@
 Foreign Born Parentage and Social Maladjustment
 ===============================================
+.. admonition:: About the author
+      Joseph Miller, 
+      Director of Guidance, City Schools of Willces-Barre, Pennsylvania
 
-:Author: Joseph Miller
-
-Director of Guidance, City Schools of Willces-Barre, Pennsylvania
 Two recent studies of delinquency, '' Delinquency Areas, 1 and
 ''Five Hundred Criminal Careers,' 2 again demonstrate that certain
 factors in their environment cause children of foreign born parents
@@ -16,7 +16,7 @@ the homes of the foreign born and a different cultural background
 which may make the child feel out of place in his community and
 cause him to rebel. Perhaps the most important of these factors,
 however, is the lack of knowledge of the English language in the
-home. 1 v
+home. 
 
 The lives of many of these parents are confined to their own
 national group and they are too busy earning a living and raising
@@ -24,7 +24,6 @@ a family to learn the language of the country to which they have
 come to live. So it happens that they live in America for decades
 without becoming members of the American English speaking community. They continue to live the life of the country from which
 they came, keeping its language, customs and feasts.
-
 The child of such parents often does not learn an}7 English
 before entering school. Knowing little or nothing of the language
 spoken by the other children and the teacher, lie begins to feel out
@@ -39,12 +38,12 @@ child into being retiring and shy or whether they will cause him to
 assert himself by becoming boisterous and a bully, depends on his
 1 Clifford E. Shaw and Frederick W. Forbaugli: Delinquency Areas.
 1 Sheldon and Eleanor T. Glueck: Five Hundred Criminal Careers.
-
 previous experience and training and on his physical condition.
 Either of these attitudes will make it difficult for him to make
 friends. He may come to feel resentful toward the school as a
 whole. He does not feel at home there since he achieves little of
 either academic or social success because of his language difficulties.
+
 Little is therefore necessary to make a truant of him and truancy
 of course easily leads to other delinquencies. He feels different
 from the group in any event, and consequently does not mind increasing this difference by uneonformed behavior.
@@ -71,7 +70,7 @@ the basis for the mental attitude of the gangster. He can bully his
 own world and he also wants to impress and bully the people whom
 he considers superior and of whom he is really afraid. Such delinquent children of foreign born parents form one of the most difficult problems for the psychologist. So many links are missing in
 their upbringing that it is difficult, to re-educate them. They have
-to be given a new point of viewr, a new sense of proportion, a new
+to be given a new point of viewer, a new sense of proportion, a new
 attitude to life. Either their whole families have to be readjusted
 or they have to be taken out. of their home and placed in a new
 environment.
@@ -80,9 +79,7 @@ Two cases described below may illustrate the points already
 stated. The first is a girl, Catherine, thirteen years old, in the eighth
 grade of public school.
 
-Problem. Sex delinquency.
---------------------------
-
+:Problem: Sex delinquency.
 Family situation. The family is Russian. The parents came
 to this country nineteen years ago. The father is a grocer and also
 works in the mines. The mother is a suspicious, frightened little
@@ -101,7 +98,6 @@ her parents cannot associate with American born parents and there
 are few Russians in their neighborhood, Catherine is forced to pick
 her friends among boys and girls whose parents do not care or are
 unable to supervise their activities.
-
 The mother nags persistently and complains in an ineffectual
 way, and Catherine responds with growls and such remarks as,
 " Vou don't understand anything anyway." The father seems to
@@ -117,13 +113,13 @@ pupil in the class. She was definitely the leader of a small group of
 girls, but was principally interested in boys. In the classroom she
 was always writing notes, usually to boys. She played in the school
 orchestra and was captain of the girls' volleyball team. She expressed a desire to become a teacher.
+22 THE PSYCHOLOGICAL CLINIC
 Mental test. On the Binet-Simon test, Catherine obtained an
 Intelligence Quotient of 97. On a non-verbal test, the Healy Picture
 Completion Test II, Catherine scored twenty years or over. The
 difference between the very high score on the non-verbal scale and
 the mere average on the Binet-Simon test illustrates the language
 handicap.
-
 Personality. The girl is a well developed, strong child, always
 clean and well dressed. She wears much cheap jewelry and makes an
 effort to appear sophisticated. She is frank to an extreme. She
@@ -136,23 +132,27 @@ sport." She takes all the blame and is anxious not to cause her
 boy friends any trouble. She will never tell a lie to protect herself.
 She can be very resentful when treated harshly but is friendly and
 responsive with the person she likes. In Kenneth, her present boy
-friend, she was most impressed by his indisputably American parentage and name. "His name is Kenneth," she reported, "can you
-spell it?"
+friend, she was most impressed by his indisputably American parentage and name. 
+
+    "His name is Kenneth," she reported, "can you spell it?"
 
 Events leading up to discovery of delinquency. A few months
 ago Catherine met Kenneth, eighteen years old. He was an insignificant looking boy, weak, smaller than Catherine, and most of
 the time out of work. The two became friendly and at one time
+
 Kenneth took Catherine in his car to a neighboring state for a weekend trip. The girl's parents knew nothing of this trip. They knew
 only that she had stayed out two nights and punished her for it. A
 teacher who went through Catherine's desk found notes telling of
 this trip and other proposed trips. These notes also indicated sex
 experiences. The matter was referred to the guidance department.
+
 The girl was seen and admitted sexual intercourse since the age of
 nine. She was given a thorough explanation of sex and it was arranged that one of the visiting teachers should keep in close touch
 with her. While the investigation was still in progress the parents
 who were alarmed but obviously failed to grasp the interest of the
 guidance department in this matter, found a note in the girl's desk,
 which they thought indicated a plan to run away again with Kenneth. They called in the police. The girl was taken by the police to the
+
 detention ward for women. After this experience it was felt that
 it would be best to send Catherine to Sleighton Farms particularly
 as the girl preferred this solution to a return to her parents' suspicions and the strained school atmosphere.
@@ -166,8 +166,10 @@ training.
 The second case is a boy, David. He is eleven years old and in
 the sixth grade of public school.
 
-Problem. Stealing at home and unruly in school.
+Problem
+--------
 
+ Stealing at home and unruly in school.
 Family situation. The father owns two drygoods stores. One
 of these is connected with the family's home. The home is clean,
 well furnished but is situated in a poor neighborhood on a busy
@@ -183,19 +185,25 @@ eastern Europe. For example the father's favorite hiding place for
 his money is under his pillow, the mother's in a cup on the pantry
 shelf.
 
-Mental test. David's Intelligence Quotient is 104. The boy
+Mental test. 
+------------
+
+David's Intelligence Quotient is 104. The boy
 lacks concentration, makes little effort and tries to "bluff."
 School report. He is generally very poor in his school work;
 is failing in several subjects. The teacher complains that he docs
 not pay attention and is very disturbing in class. Talks constantly.
 Personality. The boy is a tall, thin, weak looking youngster.
 His features are very characteristic of his race. He is usually untidy in appearance. His manner is pleasant and friendly, he reacts quickly, is good at "repartee" and likes to play little jokes
-even with very new acquaintances and teachers. His jokes are ne\ er
-malicious or impertinent. However he is obviously used to being
+even with very new acquaintances and teachers. His jokes are neither malicious or impertinent. However he is obviously used to being
 the center of attention at home and to being admired and coddled
 and nagged and scolded constantly. He has been ill with asthma
 since he was a baby, which of course tended to increase the importance of his position in the family.
-Problem. The parents asked the guidance department for advice, because, as they said, they felt helpless in solving David's difficulties. He was considered queer in both the public and Hebrew
+
+Problem.
+--------
+
+The parents asked the guidance department for advice, because, as they said, they felt helpless in solving David's difficulties. He was considered queer in both the public and Hebrew
 school, because he talked incessantly and behaved childishly. At
 home he was disobedient, often came home as late as midnight and
 even if at home, he could not be induced to go to bed before eleven
@@ -213,25 +221,24 @@ them things and tomorrow they will hit you."
 
 David threatened suicide twice when not allowed to have his
 own way and once was found to carry a bottle of iodine.
-Causes of problem. (1) Feeling of inferiority based on the
-foreign origin and customs of parents, (2) the boy's position in
-the family which led to his being pampered and made dependent?
-weak parental control, (3) his poor personal appearance and poor
-health, (4) lack of free time for recreation due to Hebrew school
-after public school hours, (5) poor understanding of the value of
-money?David was never given any allowance.
+Causes of problem. 
+
+(1) Feeling of inferiority based on the foreign origin and customs of parents, 
+(2) the boy's position in the family which led to his being pampered and made dependent? weak parental control,  
+(3) his poor personal appearance and poor health, 
+(4) lack of free time for recreation due to Hebrew school after public school hours, 
+(5) poor understanding of the value of money?David was never given any allowance.
 
 Treatment. The following factors had to be considered when
-planning treatment: (1) David's inability to associate with the other
-children due to his personality difficulties, (2) his great desire for
-the companionship of these children, which led him to stealing, (3)
-his lack of free time in which to acquire a more successful social
-method, (4) his irresponsibility and lack of systematic eating and
-sleeping habits.
+planning treatment: 
 
-The parents were co-operative and with their help it was arFOREIGN BORN PARENTAGE 25
-ranged that the boy be required to go to Hebrew school only twice
-a week. For the remaining afternoons supervised recreation uas
+(1) David's inability to associate with the other children due to his personality difficulties, 
+(2) his great desire for the companionship of these children, which led him to stealing, 
+(3) his lack of free time in which to acquire a more successful social method, 
+(4) his irresponsibility and lack of systematic eating and sleeping habits.
+
+The parents were co-operative and with their help it was arranged that the boy be required to go to Hebrew school only twice
+a week. For the remaining afternoons supervised recreation has
 planned in which clubs and co-operative games were included.
 David was transferred to another school, where there were more
 children of foreign born parents and where he would be made to
@@ -247,20 +254,11 @@ in school was soon marked and although he still voiced objections
 from time to time, he did go to bed on the hour agreed. There lia\e
 been no serious complaints about David since then and he seems to
 be improving steadily even in his social adjustment.
-
 What remedies would then be suggested to improve the situation
 of children of foreign born parents? The ones which the author
-suggests are outlined below. 1. Give these children better informed parents. This can be accomplished by using the immigration laws in such a way that 110 larger number of immigrants will
-flock in than can be successfully assimilated and educated, and then,
-too, an extension of schemes of adult education, including the teaching of the English language. 2. Educate the community. Gi\c
-the American community and particularly the teachers a new point
-of view toward the foreign born and instruct children about
-the importance of the cultures and the meaning of the customs of
-the various countries from which the immigrants come and the contributions they can make to American life and culture. Ilien the
-child of foreign born parents would be made more welcome and
-it would be easier for him to feel himself a full member of the community into which he has been born. 3. AVatcli for the fiist
-signs of social maladjustment in school and from the very beginning
-enlist the help of the school psychologist and the visiting teachei
-in order to make the child feel at home in school and well adjusted
-in his own home. 4. Restrict the number of hours spent by children in national schools after public school hours. The added stiain
-has often been found to cause difficulties.
+suggests are outlined below. 
+
+1. Give these children better informed parents. This can be accomplished by using the immigration laws in such a way that 110 larger number of immigrants will flock in than can be successfully assimilated and educated, and then, too, an extension of schemes of adult education, including the teaching of the English language. 
+2. Educate the community. Give the American community and particularly the teachers a new point of view toward the foreign born and instruct children about the importance of the cultures and the meaning of the customs of the various countries from which the immigrants come and the contributions they can make to American life and culture. Ilien the child of foreign born parents would be made more welcome and it would be easier for him to feel himself a full member of the community into which he has been born. 
+3. AVatcli for the fiist signs of social maladjustment in school and from the very beginning enlist the help of the school psychologist and the visiting teachei in order to make the child feel at home in school and well adjusted in his own home. 
+4. Restrict the number of hours spent by children in national schools after public school hours. The added stiain has often been found to cause difficulties.

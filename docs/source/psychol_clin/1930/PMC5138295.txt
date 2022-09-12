@@ -1,8 +1,9 @@
 Measuring General Intelligence by Interview
 =============================================
 
-By Donald Snedden
+:Author: Donald Snedden
 Harvard University Graduate School of Education
+
 By means of a standardized interview, experimentally developed, it was found possible to measure general intelligence with a
 high degree of reliability ( + .96) and with a substantial degree of
 validity (+ .82).2 The interview took an average time of 9.33 minutes. The experimental group had a standard deviation of about
@@ -31,11 +32,12 @@ course, be answered in various ways, depending on the particular
 1 Read at the annual meeting of the National Vocational Guidance Association, Atlantic City, Feb. 21, 1930.
 2 Snedden, A Study in Disguised Intelligence Tests. Teachers' College
 Bureau of Publication. 1928.
-132 TEE PSYCEOLOGICAL CLINIC
+
 situation in which the interview is used. However, aside from all
 that, it seems perfectly fair to answer it in general by saying, "We
 wish to obtain through the interview data, important for our purposes, which cannot be more efficiently and effectively secured in
 any other way.''
+
 In what specific interview situations, then, would it be the case
 that data on the verbal intelligence of the subject could not be obtained through regular tests better than through a disguised interview test? Not, certainly, in the well conducted vocational guidance situation. It is perfectly possible to obtain such test scores as
 are desired in any vocational guidance organization worthy of the
@@ -49,6 +51,7 @@ It is true that in the employment situation, as in all situations where
 it is desired to obtain a "verbal intelligence" rating, there are several factors to keep in mind. The first of these is the curious lay
 association of the word '' intelligence'' with '' sanity.'' In somewhat
 the same way "mental ability" has unfortunate connotations.
+
 However, it has been found relatively easy to get parents to do a
 "vocabulary" test in order to compare the results with tests of
 their children, while to coax the same parents to co-operate in an
@@ -59,17 +62,18 @@ test the "Scholastic Aptitude Test." It is unfortunate that most
 of the published tests have their titles so clearly displayed. Much
 may be accomplished, as everyone knows, by choosing one's words
 carefully.
+
 Another factor of some importance, occasionally overlooked, is
 that a reasonably good index of "general mental ability" can be
 obtained from the educational record, about which it is always legitimate to ask. The highest grade reached is, of course, of importance,
 but often of more significance is the age-grade relationship. The
-GENERAL INTELLIGENCE 133
 fact that individual A left school at the sixth grade means something, but the fact that A was 16 when he finished the sixth grade
 presents an entirely different pictures from that of A finishing the
 sixth grade at 12 y^ars of age. Of course, in individual cases the
 age-grade relationship may be unfair to use as an index because of
 certain factors, such as much sickness and consequent school absence.
 This, however, is somewhat unusual.
+
 Still another possibility, in estimating the intelligence of adult,
 or child, subjects, is that of adapting the technique reported by Dr.
 David Levy3 in 1925. This has not been standardized for adults but,
@@ -95,7 +99,7 @@ from the more quantitative techniques. The case under discussion
 s Levy, D. M. A Method for Determining the Mental Ago During the
 Physical Examination. Archives of Neurology and PsycJiiatry. 1924. v. 11.
 p. GG9 ff.
-134 THE PSYCHOLOGICAL CLINIC
+
 (Measurement of Intelligence through Interviews) is one in point.
 The writer found it possible, in his own experimental work, to do
 this job of interview intelligence measurement reasonably well. The

@@ -1,8 +1,9 @@
 The Incidence of Feeblemindedness Among Cases Examined in the Psychological Clinic of the University of Pennsylvania
 =====================================================================================================================
 
-By Miles Murphy
+:Author:  Miles Murphy
 University of Pennsylvania
+
 The records of the Psychological Clinic at the University of
 Pennsylvania show that 10,168 individuals have been examined
 in this clinic since it was founded in 1896. Of this numbei 9,043,
@@ -10,6 +11,7 @@ or 89 per cent, have been examined during the twenty year period
 from 1912 to 1931 inclusive. The present study is an investigation
 of the incidence of feeblemindedness among the cases examined
 during this period.
+
 Certain cases out of this total of more than nine thousand had
 to be eliminated, however, for reasons to be given. At the present
 time the work of the Psychological Clinic really comprises three
@@ -25,6 +27,7 @@ we are concerned, and thus make it not strictly comparable with
 the first. It is obvious that with the beginning of the vocational
 guidance clinic a different group of persons was attracted to the
 services of the Psychological Clinic.
+
 It was also necessary to exclude those cases in which a speech
 diagnosis alone was made with no reference to the mental status
 of the subject. This exclusion eliminates an additional 1,237 cases.
@@ -32,8 +35,6 @@ It is to be noted that this figure does not give any indication of the
 number of cases actually receiving a speech examination. Many of
 the individuals examined in the speech clinic have been given a
 mental examination as well, and in those cases the complete diagnosis includes both a diagnosis of the speech condition and also a
-49
-50 THE PSYCHOLOGICAL CLINIC
 diagnosis of general mental status. Since the present study is one
 of general mental diagnoses, the speech cases receiving a mental
 examination are included. It is highly probable that most of the
@@ -44,10 +45,12 @@ number of cases remaining for consideration in this investigation
 is thus reduced to 6,958. The records of these cases were examined
 in the files of the Psychological Clinic in order to determine the
 incidence of feeblemindedness.1
+
 Of this group 60 per cent were diagnosed as having normal
 mentality; 29 per cent were diagnosed as feebleminded; 4 per cent
 were diagnosed as of borderline mentality; and in 7 per cent of
 the cases diagnosis was deferred.
+
 A feebleminded person, as considered by examiners in this clinic,
 is one who because of mental defect, either congenital or appearing
 early in life, is unable to take his place in society without external
@@ -60,6 +63,7 @@ additional information. In case this information is secured, diagnosis is subseq
 as deferred are those in which for some reason or another the
 recommendation for further study was not carried out, and final
 diagnosis could not be made.
+
 In many of the cases of feeblemindedness the degree of mental
 deficiency, that is of imbecility or idiocy, was given. This practice
 was not, however, sufficiently uniform to render this material suitable for investigation. The type of mental deficiency was also
@@ -69,10 +73,11 @@ type of feeblemindedness is quite definite and also quite easily
 recognized so that it is noted in the case record. Of the 2,036
 feebleminded individuals among those investigated, 154, or 7.5 per
 cent, were classified as Mongolians.
+
 1 The writer is greatly indebted to Miss Olive Norman and to Miss Mary
 Kinsey, members of the Clinic staff, for assistance in compiling the results
 of the study.
-INCIDENCE OF FEEBLEMINDEDNESS 51
+
 We do not intend to imply that the incidence of feeblemindedness in our group throws any light upon the problem of the incidence of this condition in the general population. The estimates
 in this latter respect vary all the way from about one half of one
 per cent to five or six per cent. The primary purpose of the present
@@ -302,11 +307,11 @@ No. Per cent
 normal, feebleminded, borderline, and in which diagnosis was
 deferred. The incidence of feeblemindedness from year to year
 is shown graphically in Figure 1.
+
 Examination of the data reveals a general decrease in the
 incidence of feeblemindedness among clinic cases during the period.
 There is one outstanding exception?an increase during years 1916,
 1917 and 1918, for which it is difficult to account. The highest
-52 THE PSYCHOLOGICAL CLINIC
 incidence occurred in 1917 when almost exactly half of the individuals examined were diagnosed as feebleminded. The lowest
 incidence was reached in 1931 when slightly less than twelve per
 cent of the cases were diagnosed as feebleminded. During the past
@@ -332,11 +337,11 @@ in the realm of conjecture. We need hardly say that there is no
 Fig. 1. Per cent of cases diagnosed feebleminded from 1912 to 1931
 * *
 Fig. 1. Per cent of cases diagnosed feebleminded from 1912 to 1931
-INCIDENCE OF FEEBLEMINDEDNESS 53
 reason whatever to believe that the decrease in the incidence of
 feeblemindedness among cases examined in the Psychological Clinic
 points to any actual decrease in the number of feebleminded in the
 general population.
+
 In part the change in the clinic population is due to the presence
 of other agencies through which feebleminded individuals are discovered. In 1912 at the beginning of the period of our study,
 although the Psychological Clinic had been in operation for sixteen
@@ -353,6 +358,7 @@ employ psychologists, and the delinquent feebleminded are likely
 to come to their attention; several hospitals also provide service in
 clinical psychology in medical cases where a problem of mental
 abnormality is suspected.
+
 We believe, however, that the chief reason for the decrease in
 the frequency with which the diagnosis of feeblemindedness is
 encountered in clinic cases is to be found in the attitude of the
@@ -370,10 +376,9 @@ Psychological Clinic. It might be pointed out here that if cases
 brought to the vocational guidance clinic were included in our
 study the decrease in the incidence of feeblemindedness would be
 even more marked than it is now. During the past ten years there
-5
-54 THE PSYCHOLOGICAL CLINIC
 has also been a very great increase in the number of definitely
 superior children brought to the clinic.
+
 When the Psychological Clinic was founded at this University,
 one of the stimulating situations was the need for the mental
 analysis of normal children not succeeding in adjustment to school
@@ -385,7 +390,9 @@ acted as a social agency in examining children suspected of mental
 deficiency and in making a differential diagnosis. We further
 believe that at the present time with the emphasis upon normal, but
 maladjusted, and incidentally often superior children, it is returning more nearly to the original intention of its foundation.
+
 Summary
+-------
 From 1912 to 1931, 6,958 individuals received mental examinations in the Psychological Clinic for whom records were available.
 Of this number 2,036, or 29 per cent, were diagnosed as feebleminded. Of the feebleminded group 154, or 7.5 per cent, were of
 the Mongolian type. There was during the period in general a

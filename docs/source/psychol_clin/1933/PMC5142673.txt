@@ -1,12 +1,13 @@
 The Reaction of Native White Convicts to the Bernreuter Personality Inventory
 =============================================================================
 
-By James Hargan
+:Author:  James Hargan
 Psychologist, Sing Sing Prison
 The Bernreuter Personality Inventory was recently administered to 100 consecutive native white admissions to Sing Sing
 Prison, having a mental age of twelve years or more. The results
 when compared with the adult norms set forth by Bernreuter in
 his manual for the administration of the tests show the following:
+
 Normal Adult
 Bl-N B2-I
 B3-I B4-D
@@ -41,6 +42,7 @@ Median
 84
 52
 9
+
 The two groups may also be compared by showing the percentages of Sing Sing Admissions falling into the upper and lower
 quartiles as judged by adult norms.
 Upper Quartile Lower Quartile
@@ -48,6 +50,7 @@ Bl-N  15 per cent 16 per cent
 B2-S  38 " " 17 " "
 B3-1  12 " " 41 " "
 B4-D  14 " " 26 " "
+
 These figures would indicate, according to Bernreuter's interpretation, that on Bl-N the convict is not so likely to show great
 emotional instability or neurotic tendencies as the average adult,
 nor on the other hand is he so likely to be very well balanced emotionally. In this instance it is the normal who goes to one extreme
@@ -59,9 +62,8 @@ extraversion. He is less imaginative, worries less, and is a man
 of action rather than day dreams. On B4-D the convict group
 shows about the same percentage of submissive types as the normal
 group with a somewhat lower percentage of dominant types.
+
 These figures should be, as Warden Lewis E. Lawes points out
-138
-bernbeuter PERSONALITY INVENTORY 139
 in his book "Life and Death in Sing Sing," distinctly reserved in
 interpretation to the convict group, and not be taken necessarily
 as characterizing the "criminal" group. While it would be interesting to apply psychological tests to unapprehended criminals, this
@@ -69,6 +71,7 @@ is impossible, and our figures must continue to be based merely on
 the group that finds itself incarcerated.
 The percentages of each answer were calculated for the individual questions of the Personality Inventory as shown in Table I.
 Another system of scoring was attempted, that of correct and
+
 Table I
 Answers to Individual Questions in Bernreuter Inventory
 Question
@@ -585,13 +588,14 @@ No
 2
 6
 3
-140 THE PSYCHOLOGICAL CLINIC
+
 incorrect responses. If more than fifty per cent of the group answered "Yes" to a question, the correct answer was judged to be
 "Yes," and any one who answered otherwise received a red mark
 to show that his opinion was at variance with the crowd. Naturally
 every one is out of step now and then; the matter becomes important only when one individual shows marked deviation from
 the average. The distribution of unconventional responses is shown
 in Table II.
+
 Table II
 Number of Unconventional Responses
 Responses Cases
@@ -612,6 +616,7 @@ Responses Cases
 Average  39.40
 P.E. of Average 78
 P.E. of Distribution  7.76
+
 It would seem that this method provides a measure of eccentricity for those whose number of peculiar responses is greater
 than one probable error above the mean, and of group-mindedness
 for those whose score is more than one probable error below the
@@ -620,12 +625,14 @@ entire group and then adding up these percentage values for the
 125 questions. The individual who uniformly answers with the
 majority should have a high score while the eccentric will secure
 only a low score.
+
 The Bernreuter Personality Inventory appears to have distinct
 value when applied to native white inmates with sufficient mental
 age (twelve years or more) so that there is no trouble with reading the questions. Experimental conditions permitting, further
 work will be done upon the Inventory at Sing Sing to study its
 relation with psychiatric diagnoses, with crime groups, and with
 the disciplinary types who appear in Warden's Court.
+
 Appreciation is expressed to Warden Lewis E. Lawes, and Dr.
 Amos T. Baker, Director of the Classification Clinic, Sing Sing
 Prison, for their encouragement of research.

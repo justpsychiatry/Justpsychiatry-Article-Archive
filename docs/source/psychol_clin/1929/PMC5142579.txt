@@ -1,11 +1,13 @@
 The Accuracy of the Abbreviated Stanford-Binet Intelligence Scale
 ==================================================================
 
-Fowler D. Brooks, Assistant Professor of Education,
+:Author: Fowler D. Brooks, Assistant Professor of Education,
 Johns Hopkins University
+
 Whenever it is impassible or impracticable to give all the tests
 of the Stanford-Binet at each age level tested, an abbreviated scale,
 formed by omitting two tests at each age, may be used.1
+
 How accurate is this abbreviated scale?
 One way of answering this question is to compare individuals'
 IQ's on the complete scale with their IQ's derived by considering
@@ -18,11 +20,13 @@ difference in accuracy of the long form over the abbreviated form
 is probably due to the relative general difficulty of the starred and
 unstarred tests. At any rate, our procedure is subject to error to
 the extent that this assumption does not hold.
+
 We have data from 575 individuals, chronological ages 6 to 17
 years inclusive, who were given the Stanford-Binet scale. Their
 record blanks were then rescored, the two unstarred tests being
 omitted and the starred ones being given the appropriate values.
 The two sets of IQ's were then compared.
+
 The group as a whole is below normal, the average IQ being 90.
 The IQ's of the older children are less than those of the younger
 ones, as may be seen in Table I, the average IQ's being 96 at ages
@@ -32,13 +36,15 @@ are normal, and at the older ages are skewed at the lower IQ's. The
 distribution for the entire group shows an undue proportion of
 lower IQ's being in distinct contrast with that given by Terman for
 905 unselected children, ages 5 to 14 years.
+
 1 Each test of the abbreviated scale is indicated on the record booklets
 by an asterisk.
-18 THE PSYCHOLOGICAL CLINIC
+
 Table I
 MEANS AND STANDARD DEVIATIONS OF STANFORD BINET IQ'S
 OF PUPILS OF EACH AGE GROUP FROM SIX TO SEVENTEEN YEARS.
 Age Number of Mean IQ S.D.
+
 Cases
 6 13 107.1 16.8
 7 50 99.0 12.8
@@ -53,6 +59,7 @@ Cases
 16 45 79.4 15.5
 17 13 79.3 17.6
 Total 575 89.7 18.7
+
 Our results show that the abbreviated scale is very accurate,
 that IQ's from it are from 2 to 4 points less accurate than those
 from the complete form, and that the median short-form IQ is less
@@ -60,6 +67,7 @@ than that on the complete form. These facts are shown in Tables
 II and III from which it appears that abbreviated IQ's differ from
 the complete-form IQ's by amounts varying from ?33 to +31
 points, the twenty-five percentiles of the differences range from
+
 Table II
 THE RANGE, THE FIRST, SECOND, AND THIRD QUARTILIES, AND
 THE Q OF THE DIFFERENCES BETWEEN IQ'S ON THE STANFORD
@@ -80,11 +88,12 @@ Age N Range Qx Qa Q Median
 17 13 ? 7 to 3 ?6.37 .92 3.65 ?1.50
 12
 13
-STANFORD-BINET INTELLIGENCE SCALE 19
+
 around ?6 to ?3 points and the seventy-five percentiles from .5
 to nearly 3 points. Considering signs, the range of the middle
 fifty per cent of the differences is from 4 to 7 points of IQ;
 hut disregarding signs it is from 2!/2 to 6 points.
+
 Table III
 the range, the first, second, and third quartiles, and
 THE Q OF THE DIFFERENCES BETWEEN IQ'S ON THE
@@ -104,11 +113,13 @@ Differences
 15 33 2.41 1.28 3.71 1.22
 16 45 3.46 1.73 5.94 2,11
 17 13 2.50 1.08 6.38 2.65
+
 The relative standings of individuals on the abbreviated scale
 are essentially the same as on the complete scale, the ten correlations
 between "long?" and "short-form" IQ's at all ages from 7 to 16
 being uniformly high and positive, ranging from .93 to .98 and
 averaging .96 (See Table IV).
+
 Table IV
 CORRELATION BETWEEN IQ'S FROM STANFORD BINET AND
 ABBREVIATED STANFORD BINET SCALES
@@ -123,13 +134,14 @@ ABBREVIATED STANFORD BINET SCALES
 14 54 .971
 15 33 .966
 16 45 .946
-20 THE PSYCHOLOGICAL CLINIC
+
 Is the magnitude of the differences in IQ on the two scales related to the degree of intelligence? Are the IQ's of the brighter,
 average, or duller individuals affected most by the omission of two
 tests at each age? The correlations (Table V) give some evidence
 that the omitted tests have greater effect upon the IQ's of the
 brighter pupils than upon those of the duller ones since the average
 of the coefficients is .35.
+
 Table V
 CORRELATION BETWEEN IQ AND THE AMOUNT OF DIFFERENCE
 BETWEEN STANFORD BINET AND ABBREVIATED
@@ -146,17 +158,21 @@ Age N Pearson r
 15 33 .601
 16 45 .453
 Mean .347
+
 Conclusions. Our data on 575 individuals indicate the following :
 1. The abbreviated Stanford-Binet scale gives IQ's from 2 to
 4 points less accurate than those from the complete scale.
 2. Abbreviated IQ's average somewhat less than those from
 the complete scale.
+
 3. Individuals' relative standings (or ranks) are nearly the
 same on both scales the average of the correlations computed for
 each chronological age from seven to sixteen years being .96.
+
 4. There is a slight tendency for the abbreviated scale to be
 less accurate with the brighter individuals, the average correlations
 of IQ with differences between "long?" and "short-form" IQ's
 being .35.
+
 5. Accordingly the abbreviated scale is almost as accurate
 as the complete scale, whether it be used to determine an individual's IQ or the relative mental standings of a group.

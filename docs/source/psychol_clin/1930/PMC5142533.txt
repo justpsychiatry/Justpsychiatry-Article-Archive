@@ -6,9 +6,10 @@ Copyright, 1930, by Lightner Witmer, Editor
 Vol. XVIII, No. 8
 January, 1930
 
-By Max Trumper, Ph.D.
+:Author: Max Trumper, Ph.D.
 In charge of Psycho-biochemistry Laboratory, Psychological Clinic,
 University of Pennsylvania
+
 The importance of making biochemical studies of cases that
 come to the Psychological Clinic has been shown in a previous
 paper. The results obtained have been made possible by the perfecting of rapid but accurate chemical methods requiring but a few
@@ -29,9 +30,6 @@ sugar content of successive samples of blood drawn fifteen minutes
 apart are attributed to the excitation of the vegetative nervous system and to psychic influences. These authorities report also that
 subcutaneous injection of one mg. of neutral atropine sulphate immediately before taking the sample by finger puncture annuls the
 variations of sugar content from the above mentioned causes. In
-* This is the second of a series of articles on the subject of Psycho-biochemistry to be published in this Journal. This article is based on an address
-delivered before the Northern Medical Association of Philadelphia on November 18, 1929.
-230 THE PSYCHOLOGICAL CLINIC
 1919 the biochemical methods had not been perfected; there was
 not a single book published on blood chemistry and only two pamphlets were available. Now all biochemical works contain data on
 blood chemistry and the information so gained is being utilized and
@@ -41,6 +39,7 @@ of the saliva, of the alveolar air, of the oxygen consumption, or by
 rebreathing tests and cardio-respiratory tests. These tests are well
 adapted to use in a Psychological Clinic because they do not cause
 physical discomfort or mental strain to the patient.
+
 Previous to the World War, clinical laboratories confined themselves chiefly to the study of secretions and excretions in diseased
 conditions. The biochemical methods were too cumbersome and
 inexact to be used regularly in the Psychological Clinic and the
@@ -56,6 +55,7 @@ neither displaced the necessity nor lessened the value of the ordinary clinical 
 laboratory should be used as an adjunct to the general clinical
 examination, being in itself an aid to diagnosis rather than a sole
 means to that end.
+
 We all know the tendency of the specialist to place undue
 emphasis on the value of his own subject. This applies to the
 medical as well as to the psychological specialists. For example,
@@ -65,13 +65,13 @@ the all too frequent removal of appendices when the discomfort is
 caused by inter-costal neuralgia. For this reason the Psycho-biochemist must be on his guard, especially in the Psychological Clinic,
 against the assumption that his laboratory findings make unnecessary a case history, obtained by thorough psychological and physical
 examinations. It would be a waste of time to ask each psychologist
-PSYCHO-BIOCHEMISTRY 231
 to be his own chemist but it is essential that the Psycho-biochemist
 know the significance as well as the limitations of his tests, especially
 in their application to the cases that come before the Clinic. On
 the other hand, the Clinical Psychologist should not neglect the
 findings of the Psycho-biochemist since such laboratory tests supply
 information which forms an important supplement to clinical evidence.
+
 Significance of Psycho-biochemical Findings
 First: Give information clarifying a doubtful case. Many of
 the cases that come to the Clinic present a picture of undernourishment, malnutrition or anemia. Blood sugar and blood count studies
@@ -85,6 +85,7 @@ defect but to a lack of proper cell nutrition. Some of these cases
 also show mild but typical symptoms of anoxemia readily confirmed
 in the laboratory by determining the oxygen-carrying capacity of the
 blood and the arterial and venous saturation.
+
 Second: Confirm or deny a tentative diagnosis. Without the
 aid of the laboratory it is extremely difficult to distinguish between
 sub-thyroid activity and a chronic deep seated infection. In the
@@ -98,10 +99,10 @@ child became interested in her surroundings and was playful for
 the first time. Her appetite improved and her general appearance
 was better. The infection has not been eradicated as yet as it will
 require more prolonged and perhaps more intensive treatment. It
-232 THE PSYCHOLOGICAL CLINIC
 occurs to me that a good plan would be to give cases of this type
 mental tests before and after treatment to determine the degree of
 restitution of the mental faculties.
+
 Third: Make more certain treatment and prognosis. What is
 generally called irritability of muscles, nerves and glands seems to
 be influenced basically by the balance between sodium and potassium as opposed to calcium and magnesium. This relationship is
@@ -121,6 +122,7 @@ therapy with or without parathyroid hormone. The spasmodic
 jerky movements usually attributed to mere nervousness may also
 be due to calcium deficiency. Thus we see the need of laboratory
 data in the treatment and prognosis of these cases.
+
 Fourth: Decide between alternative views. In cases of unstable personalities with no gross pathology the hyper-excitability
 closes approximates the hyper-activity seen in Hyperthyroidism.
 The only way to differentiate these cases is to do frequent Basal
@@ -134,6 +136,7 @@ reclining chair at an angle of about 45 degrees. This position was
 not only restful but made it possible for the subject to read some
 non-exciting literature and served to direct his attention away from
 the metabolic test.
+
 An additional diagnostic aid in these cases is the determination
 of the vital capacity because as Rabinowitch of Montreal (Vital
 Capacity in Hyperthyroidism, Arch. Int. Med. 1923, 31, 910.) has
@@ -146,9 +149,11 @@ young and free from pathology and the anatomic breathing mechanism is not fixed 
 following extended breathing exercises. Here the laboratory is of
 aid by helping to decide between alternative views and assists in
 following the cases.
+
 Fifth: In a limited number of cases?make the diagnosis: Mental retardation due to continued and persistent absorption of exogenous or endogenous toxins, can often be suspected but is conclusively proven by biochemical methods. Specific conditions like
 chronic lead poisoning, chronic carbon monoxide gas poisoning present many psychic features whose unraveling is by way of the laboratory. Finally, Encephalitis with its problem and behaviour syndromes often presents a typical history but at times is dependent for
 its diagnosis primarily on the sugar content of the spinal fluid.
+
 Limitations of Psycho-biochemical Findings
 First: In some tests the so-called normal range is very wide.
 Thus the basal metabolic rate of the same case may have increased
@@ -183,6 +188,7 @@ of bromine is so sensitive that one part of bromine can be detected in
 early cases of bromism which previously were reported as negative.
 Formerly we had to wait until the mental and physical symptoms
 became marked before this diagnosis could be made.
+
 Fourth: Many chemical changes that occur in mental disease
 are not pathognomonic and may also be present under normal
 conditions. For example, there are many mental conditions which
@@ -190,7 +196,10 @@ are associated with acidosis in varying degrees. The chemical change
 taking place here with the presence of acetone is the result of the
 absence of sufficient carbohydrate in the diet. This may also be
 found normally when the diet lacks carbohydrates.
+
 Psycho-biochemical Possibilities
+-----------------------------------
+
 Psychology needs biochemical assistance since the processes of
 thinking as well as the transmission of impulses through the nerves
 are associated with chemical changes. The cases seen in the Clinic
@@ -200,6 +209,7 @@ Rate apparently caused by the mental state of the subject. Xlllth International 
 PSYCHO-BIOCHEMISTRY 235
 sociated with behaviour are discovered the so-called instances of
 spontaneous cure will be greatly reduced.
+
 Years ago observant clinicians noted some curious facts about
 immunity and spontaneous cure. One of the most recent examples
 has been that infectious diseases, particularly those accompanied by
@@ -212,6 +222,7 @@ recently Loevenhart has demonstrated and Leake has confirmed
 the stimulating cffect created by brief periods of inhalation of a mixture of 30% carbon dioxide with oxygen inducing mental clarity
 and intelligent responses in certain cases of dementia prtecox catatonia. These favorable effects are only of ten to fifteen minutes
 duration.)
+
 Another group of phenomena involving intrinsic bodj7
 mechanisms centres at the present time in the problem of epilepsy.
 The cause of idiopathic epilepsy is unknown. Many theories have
@@ -228,6 +239,7 @@ carbohydrates are reduced to a minimum and fats increased with the
 view of increasing the hydrogen-ion concentration of the body tissues
 and presumably of the sensitive brain tissue, the irritation of which
 occasions the attack.
+
 The utilization of a mechanism antagonistic to another specific
 condition offers a fertile field of inquiry to the Psycho-biocliemical
 laboratory. It seems to me in this regard that a study of possibly

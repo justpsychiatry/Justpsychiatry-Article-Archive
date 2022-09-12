@@ -1,8 +1,9 @@
 The Interest Inventory in College Vocational C4uidance1
 ========================================================
 
-By Karl M. Cowdery
+:Author: Karl M. Cowdery
 Stanford University
+
 This paper includes a discussion of a number of items of varying degrees of importance, associated with the applied rather than
 with the theoretical or developmental aspects of interest measurement and its interpretation.
 I. In counselling students, and in discussing the ratings available from interest blanks, one of the chief problems is to make clear
@@ -13,6 +14,7 @@ classifications of conative reactions which help the individual to
 the highest expression of capacities and aptitudes. The latter, in
 turn, need to be directly identified and measured in other ways,
 and by other tests.
+
 In the original Stanford study, following earlier work by
 Freyd, Moore and Ream, at the Carnegie Institute of Technology,
 in which classifications were made of interests in terms of those
@@ -31,7 +33,7 @@ additional engineering students, relative success is not predicted
 with any degree of accuracy by relative standing above the critical
 level of interest scores. Only the categorical classification is significant.
 'Read at the annual meeting of the National Vocational Guidance Association, Atlantic City, Feb. 20-22, 1930.
-GO THE PSYCHOLOGICAL CLINIC
+
 It may be asked, "Just what is the significance of a high positive score as compared with a somewhat lower score 011 the same
 side of the critical level?" By the nature of the scoring device high
 scores represent an accumulation of evidence of the validity of the
@@ -41,6 +43,7 @@ score, the chances are just even that the subject's attitudes are or
 arc not typical of the profession concerned. To mean anything, a
 score must be accompanied by information as to the critical score
 and the probable error of estimate of a single score.
+
 In guidance, the vocational counsellor is therefore limited to
 employing these interest scores as confirmatory evidence of one
 phase of fitness and likelihood of success in a profession without
@@ -50,6 +53,7 @@ aptitude or the Thurstone so-called vocational guidance tests for
 the evidence of special ability for engineering; to some of the indices of Crawford at Yale, Brolyer at Princeton, and Thorndike and
 others at Columbia for evidence of specific aptitudes for law and
 for other professions.
+
 II. The experience of our vocational counsellor at Stanford
 University,2 leads him to conclude that if a student asks the question "Am I fitted for profession A?" the first evidence to be evaluated comes from school grades in the preparatory subjects of that
 profession, and, in a few cases, from scores on available suitable general and specific capacity tests. The evidence of a positive or negative or non-committal interest classification rating is probably next
@@ -58,11 +62,12 @@ needs to have developed the necessary inclinations and sources of
 "drive" and satisfactions which will permit him to use his abilities to the maximum or to persist in overcoming any discovered deficiencies in the necessary ability and training. Third, and possibly less important because more easily controlled, evidence is to be
 sought of the opportunities, possibly limited by other personality
 traits, for using the capacities under the motivation of his interests.
+
 III. For the student not yet concerned with a specific profession, but at the stage of actively wondering what his abilities
 2 Mr. C. Gilbert Wrenn, working under the joint auspices of the faculty
 Vocational Guidance Committee of which Dr Strong is chairman, and of
 the Registrar's office, Dr J. Pearce Mitchell, Registrar.
-THE INTEREST INVENTORY G1
+
 and inclinations arc, Mr. Wrenn describes the Strong series of interest ratings as practically the only available comprehensive basis
 for helping the subject to narrow his field. To date, with the relatively cumbersome method of scoring worked out by the author and
 improved by Dr Strong, ratings have been rather expensive. In
@@ -73,6 +78,7 @@ the relative ratings on these there usually appear one or two, rarely
 more, which give indications of significant inclination. Such a
 finding focuses the attention of the student on the group of occupations in which it is profitable for him and the counsellor to seek
 the more direct evidences of ability and opportunity.
+
 With the imminent availability of fast mechanical scoring,
 as worked out by Rulon at Minnesota and adapted by Strong, ratings 011 from nineteen to twenty-five occupations will be available
 for the present cost of two or three. Such service will provide
@@ -91,14 +97,17 @@ in the first few weeks of the second three months are of further
 growth in the demand for service started two years or more ago
 when a few interest ratings and interpretations were provided by
 the Registrar's Office.
+
 Summary
+-------
+
 The evidence to date is that the interest inventory has a strictly
 categorical classificatory function, that size of score on the CowderyStrong technique is an index of the statistical significance of the
 classification, rather than a direct measure of degree of aptitude.
-62 THE PSYCHOLOGICAL CLINIC
 It is to be hoped that further research on the part of Dr Strong
 and of others will reveal evidence of further relationships, possibly
 indirect, but of still richer import.
+
 The interest inventory serves as supplementary and confirmatory evidence to accompany other and more direct indications of
 general and special abilities in cases where students are concerned
 with their total fitness for only one or two professions.

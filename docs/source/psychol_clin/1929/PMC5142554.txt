@@ -1,7 +1,8 @@
 Psychological Classification Versus Clinical Diagnosis
 =======================================================
 
-By Ruth A. Prouty, M.A.
+:Author: Ruth A. Prouty, M.A.
+
 Psychologist, Wrentham State School, Wrentham, Massachusetts
 The question of the validity of the I.Q. for diagnostic purposes has
 been a pertinent one ever since the use of mental tests to guage mental development became widespread. The tendency has been to accept the Intelligence Quotient as sufficient for a diagnosis of the mental condition of a retarded or subnormal child. When a child has
@@ -28,7 +29,7 @@ I.Q. of the child in successive examinations remained in the same
 psychological classification of idiot, imbecile, moron or borderline,
 or if the diagnosis changed when the I.Q. changed considerably,
 passing from one classification to another.
-214 THE PSYCHOLOGICAL CLINIC
+
 The present study made use of the Intelligence Quotients of
 1,136 children in residence. This study could not include those children who had not been re-examined, those who because of deafness
 have been given a mental rating on the basis of performance tests,
@@ -41,6 +42,7 @@ results. These first examinations were divided into two groups, the
 children under sixteen, 554 in number, and those over sixteen, 582
 in number, since this age is the chronological age used in obtaining
 the I.Q. of the adults.
+
 Table I.
 Classification of the Total Number of I.Q. 's Studied
 Classification Under 16 Over 16
@@ -54,9 +56,11 @@ I.Q. 's fall in the borderline and dull normal groups are placed in a
 State School. Their clinical diagnosis is one of feeble-mindedness. Because of their incapacity to adjust themselves to their environment, and their conflict with the laws of society, they have
 been placed where they can have twenty-four hour supervision and
 specialized training.
+
 The following table shows the total number of children divided
 into three groups according to the constancy or variability of the
 I.Q.
+
 Table II.
 Constancy and Variability of the I.Q.
 TJnder 16 Over 16 Total
@@ -64,9 +68,9 @@ number per cent number per cent number per cent
 Constant   270 49 452 78 722 63
 Increase  50 9 107 18 157 14
 Decrease  234 42 23 4 257 23
-PSYCHOLOGICAL CLASSIFICATION 215
 The distribution of the 722 cases which show a constant I.Q. is
 given in Table III according to psychological classification.
+
 Table III.
 Constant I.Q.s
 Under 16 Over 16 Total
@@ -75,12 +79,14 @@ number per cent number per cent number per cent
 50-69   87 32 161 36 248 35
 26-49   96 36 209 46 305 42
 25 under   76 28 56 12 132 18
+
 The larger percentage of constant I.Q.'s in the older group is
 readily understood. The effect of constancy is produced in part
 because the chronological age remains a constant quantity in the
 I.Q. reckoning. With children under sixteen the Intelligence Quotient in successive examinations can show more variability as there
 are two variable elements in its production?the chronological age
 and the mental age.
+
 It was a matter of interest that in those cases where the I.Q. did
 not vary more than four points, there was nevertheless a frequent
 change in the psychological classification. For instance, the I.Q.
@@ -99,7 +105,7 @@ The I.Q. decreased in 257 of the total number of children as
 shown in Table IV. Most of these 257 children, or 91%, were under
 sixteen, showing that the tendency for the I.Q. to decrease is ten
 times as marked in the younger group as among the older children.
-216 THE PSYCHOLOGICAL CLINIC
+
 Table IV.
 Decrease in I.Q.
 Classification Under 16 Over 16
@@ -108,12 +114,14 @@ number per cent number per cent
 50-69   99 42 10 43
 26-49   79 34 9 39
 25 below  28 12 2 9
+
 Of the whole number of younger children 234 or 42% showed
 a decrease in I.Q. As 49% of this younger group were shown to
 have a constant I.Q., it is demonstrated that the tendency of these
 children is almost equally divided between decrease and constancy
 in the I.Q. The amounts of decrease are shown in the following
 table.
+
 Table V.
 Amount of Decrease in I.Q.?Children Under 16
 5-10 11-15 16-20 Over 20 Total
@@ -137,13 +145,13 @@ showed a gradual lowering to the present I.Q. of 59. The twenty
 children who showed decreases of from sixteen to twenty points,
 show one of three tendencies. Either the last mental age was about
 the same as the first, or it was somewhat lower, showing a stopping
-PSYCHOLOGICAL CLASSIFICATION 217
 off in development, or there is such a slow rate of mental development that the physical age has far outstripped the mental. An example of the latter is that of a girl who gained only sixteen months in
 mental rating over a period of six years and seven months. There
 is little decrease in I.Q. among the older children. Only 23, or 9%,
 of these children demonstrated a lowered I.Q. In all these cases
 the decrease was less than fifteen points, and in only one case was it
 more than ten points.
+
 A decrease in I.Q. where the chronological age remains a constant quantity, means a loss in mental age rating. These results show
 that few of the older children fail in tests which they previously
 passed. In other words, there is very little mental deterioration
@@ -155,6 +163,7 @@ a girl whose I.Q. dropped ten points. She was very excited and
 talkative during the examination. At times she displayed much
 nervous energy, and at other times she seemed dreamy.
 A study was made of the increase in I.Q. shown in Table VI.
+
 Table VI.
 Increase in I.Q.
 Under 16 Over 16
@@ -165,6 +174,7 @@ number per cent number per cent
 25 below  9 18 5 5
 There is little tendency toward increase found with the younger
 group as shown in Table VII.
+
 Table VII.
 Amount of Increase in I.Q.?Children Under 16
 5-10 11-15 16-20 Over SO Total
@@ -194,6 +204,7 @@ them in a lower classification, as they have all the tendencies and
 characteristics of children at the lower level.
 The following table shows increase in the I.Q. of children whose
 first test was given at sixteen or after.
+
 Table YIII.
 Amount of Increase in I.Q.?Children Over 16
 5-10 11-15 16-20 Over 20 Total
@@ -202,12 +213,12 @@ Amount of Increase in I.Q.?Children Over 16
 26-49   32 2 0 0 34
 25 under  4 0 1 0 5
 Total  93 11 2 1 107
+
 What is true of these children seems to hold for some of the
 younger children who were not far from sixteen at the time of their
 first examination; namely, a continuous steady gain shown by steady
 increase in mental age rating and a steady rise in the I.Q. Many of
 these children have the I.Q. of the first test in either the high grade
-PSYCHOLOGICAL CLASSIFICATION 219
 moron classification or borderline and dull normal group. As an
 example of this, we have a girl whose I.Q. when she was seventeen
 years old was 77. It went up to 83, and now that she is twentythree, her I.Q. is 90 with a mental age of fourteen years, five months.
@@ -222,13 +233,17 @@ well as their greater development by comparison with other members of their grou
 placed in the community proved to be poor parole risks, shows that
 their clinical diagnosis of feeble-mindedness holds. They were unable to use their increased powers of judgment and comprehension
 for their adaptation to society.
+
 Summary
+---------
+
 The psychological classification is frequently at variance with
 the clinical diagnosis, but is nevertheless a pertinent factor to be
 considered in the cross section of the child's clinical picture. The
 value of the I.Q. is qualitative rather than quantitative. It is a
 clue or guiding factor among other factors necessary for correct
 diagnosis.
+
 The child's I.Q. should be withheld as a numerical value and
 only the clinical diagnosis divulged. This is already done by some
 social agencies, and is much fairer to the child involved.
@@ -240,15 +255,16 @@ The I.Q. is apparently constant in a large number of these children. It is found
 variable in the reckoning of the I.Q. for children over sixteen. Where
 it is to be considered a constant there is frequently a change from
 one psychological classification to another. This is shown where
-220 THE PSYCHOLOGICAL CLINIC
 an I.Q. is located near the borderline of another group. The gradation between the groups is not a hard and fast division, but an imperceptible shading from one group to another. Many children
 have I.Q.s varying between the different classifications, and a child
 who is clinically a member of one group may have an I.Q. of another group. Thus the I.Q. may be a temporary one and prove to
 be misleading.
+
 The I.Q.s for the younger children show a tendency to remain
 at the same level, or to drop lower and lower, due to very slow improvement. There is little real mental deterioration as shown by the
 Binet test among the older children, as the I.Q. has dropped in a very
 small number of cases.
+
 There is little tendency for increase in I.Q. among the younger
 children, where a gain in mental age more than commensurate with
 their chronological age would be necessary. Nursery children sometimes show a rapid gain which is not continuous, and which does not
@@ -258,6 +274,7 @@ possibly beyond, twenty years, which results in an increased I.Q. An
 improvement in I.Q. confirming a general improvement, may lead to
 the child's being placed on parole. The clinical diagnosis of feeblemindedness would still hold true, inasmuch as such a child still continues to need much supervision in the management of his affairs,
 and is sometimes returned from the community.
+
 The conclusion drawn is that the clinical diagnosis deals with
 the child from all possible angles. The I.Q. represents only one of
 these angles and therefore cannot in itself along be considered a reliable index on which to base a true diagnosis. The I.Q. is subject

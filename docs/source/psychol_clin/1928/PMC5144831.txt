@@ -5,9 +5,9 @@ The Psychological Clinic
 Copyright, 1928, by Lightner Witmer, Editor
 Vol. XVII, Nos. 4-5
 September-October, 1928
-AN ANALYTIC STUDY OF ONE CLASS IN HIGH SCHOOL
-Anna Eleanora Biddle
+:Author: Anna Eleanora Biddle
 Counsellor, South Philadelphia High School for Girls
+
 Part I
 The Psychological Clinic of the University of Pennsylvania,
 under the direction of Dr Lightner Witmer, is establishing norms
@@ -19,7 +19,10 @@ of all the girls in a ninth grade is undertaken to add to the data
 already collected in regard to the high school group, to test the
 norms already established, and to add another set of norms, based
 upon the reverse memory span for digits.
+
 Procedure
+----------
+
 All the examinations were made by the writer, who is a counselor in the high school and a student in the Psychological Clinic.
 Since the school is run on three overlapping shifts, from 8:30 to
 4:30, with the freshmen reporting on the latest shift, it was possible
@@ -29,12 +32,15 @@ it in one term of 100 days, but as a school organization is a human
 ?fte and not mechanical, such an arrangement of time and duties
 proved to be impracticable and all the cases were not finished until
 well into the second term.
+
 Part I is a statement of the results of the tests made in the 9th
 grade, with the school histories of all individuals for the succeeding
 two years. Part II will be completed in 1929 and will contain the
 conclusions based on the complete four years' progress.
-98 THE PSYCHOLOGICAL CLINIC
+
 The Group
+------------
+
 In September, 1925, the names of 428 girls appeared on the promotion lists from the eighth grades in the surrounding schools and
 thus automatically became enrolled in the high school. Those over
 sixteen years of age who did not report during the first three days
@@ -45,13 +51,16 @@ had moved during the summer and were transferred to other
 schools. Consequently only 274 children actually came and received a program of studies; sixty-nine of these left during the
 first term before a Binet test could be given them, so the number
 included in this study is 205, less than half the number which
-"officially" entered.
+"officially" entered.\
+
 Their chronological ages at entrance range from twelve years,
 two months to seventeen years, eight months. The median is fourteen years, two months. The modal 60 per cent group ranges from
 thirteen years, six months to fifteen years, one month.
+
 Table 1. Chronological Age Distribution
 September, 1925
 Decile Age. Years and Months
+
 1 12-2?13-2
 2 13-2?13-6
 3 13-6?13-8
@@ -62,6 +71,7 @@ Decile Age. Years and Months
 8 14-8?15-0
 9 15-1?15-5
 10 15-6?17-8
+
 Fourteen girls were foreign born, but only three of them had
 attended school in a foreign country. In 166 cases both parents
 were born in a non-English-speaking country (Russia and Italy
@@ -69,9 +79,9 @@ predominating) and a foreign language was spoken at home. Eight
 girls had one parent who was born in a foreign country. Thus
 84 per cent of the group have a distinctly non-English background.
 Ten girls were colored.
+
 In 13 per cent of the cases the fathers were deceased or too
 ill to work, and the family was supported by the mother or older
-ANALYTIC STUDY OF HIGH SCHOOL CLASS 99
 brothers and sisters. Many of them "sew by coats" or pants at
 home. In only two cases was outside relief known to be given.
 In 34 per cent, the fathers were engaged in some buying and selling
@@ -105,10 +115,10 @@ Learning in her investigation of the fifteen year level. The procedure followed 
 the University of Pennsylvania Clinic. The performance tests were
 the Witmer Formboard, the Witmer Cylinders, Healy A, and the
 Dearborn Formboard, a first and second trial being given for each
-100 THE PSYCHOLOGICAL CLINIC
 test. The Stanford Revision of the Binet Tests (starred ones
 only), and the Memory Span,?audito-vocal, visual and reverse,?
 and the Memory Span for syllables, were also used.
+
 ' Table 2. Height and Weight
 Decile
 Height
@@ -143,6 +153,7 @@ Weight
 97.5 - 94.0
 94.0 - 87.75
 87.25- 73.25
+
 In addition some group tests were given for immediate grouping, because in no large high school can "grouping by ability"
 wait upon individual testing. These were the Morgan Group Test
 of Mental Ability, and the Monroe Silent Reading Test for the
@@ -153,12 +164,18 @@ omitted, but records were kept of the actual school progress of each
 child, in terms of final marks and number of credits. A chart of
 height, weight and physical characteristics, was made by the
 teachers in the Physical Education Department.
+
 Physical Characteristics
+---------------------------
+
 The distribution of height and weight by deciles is found in
 Table No. 2. Except in two individuals, cases No. 10 and 17, there
 were no physical defects of any significance. These are discussed
 later.
+
 Discussion
+-----------
+
 Performance Tests
 The time ratings for the Witmer Cylinders for both the first
 and second trials are greater for this group than those given as
@@ -271,7 +288,6 @@ Dearborn Formboard
 (2 cases)
 Time given in seconds.
 F = Failure.
-102 THE PSYCHOLOGICAL CLINIC
 to do so at the first trial. It then becomes a test of motor response
 and coordination, in which this group is less proficient than any
 other high school group. The same kind of results is shown in the
@@ -284,6 +300,7 @@ obtained by noting the difference in time between the first and
 second trials. In this test, the ratings for the group are better
 than the norms made by Dr Learning, both for the first and second
 trials.
+
 No standards have been established at this age for the Witmer
 Formboard, a four-year-old test. It could have been omitted, but
 was used for a preliminary "warming up" before the Dearborn
@@ -295,7 +312,10 @@ Practically all the individuals attacked the performance tests
 with interest and pleasure. They represented something new.
 Praise and encouragement at the end of the first trial always
 brought forth a noticeable response.
+
 Binet Tests
+------------
+
 The Binet-Simon Scale is too long to be a part of the testing
 program in a large school, but it was given here as an important
 item in a battery of tests. It is criticised as being a test of language
@@ -303,13 +323,13 @@ ability rather than of intelligence. If that is true, one might
 expect this group to present rather poor results. Moreover, one
 must remember that it is more difficult to obtain a high I.Q. at this
 age level, than at the nine and ten year level.
+
 The Intelligence Quotients range from 131.76 to 68.30. Fifteen
 per cent of the group have I.Q.'s below 80, which Termain claims
 to indicate "borderline deficiency," and 32% are between 80 and
 90, indicating "dullness." A little more than 1% are below 70,
 definite "feeblemindedness," and only 24% have an I.Q. of 100
 or more. The Median for the group is 90, the modal 60% ranges
-ANALYTIC STUDY OF HIGH SCHOOL CLASS 103
 from 81.94 to 100.55. Comparing these results with the norms
 for high school girls established at the Pennsylvania Laboratory
 we find this group is inferior. There, the I.Q. s range from 144
@@ -317,7 +337,10 @@ to 69, the median is 104, and the middle 60 per cent ranges from
 92 to 116, which is much superior to the group under discussion.
 This may be due to the fact that in this study all the members
 Table 4. Binet and Morgan Group Tests
+
 Deciles
+-------
+
 1
 2
 3
@@ -362,7 +385,9 @@ Age2
 12.4-11.8
 11.8-11.3
 11.3- 9.8
+
 1 Age expressed in years and months.
+
 2 Age expressed in years and tenths of years, (decimals)
 the entering group were included whereas in all other investigations the cases were taken "hit or miss" fashion, and many of
 those who weight the lower end of the scale had been eliminated.
@@ -372,6 +397,7 @@ Binet Intelligence Quotients" and concludes that "the lower limit
 tragedy lies in trying to give a uniform program of high school
 education to the lower limits and the upper limits of such a widely
 extended scale.
+
 A chart showing the numbers passing the individual tests
 ?f the Binet at the different age levels is found in Table No. 13.
 Twenty girls failed to pass all the tests at the ten year level, nineteen had a basal age above twelve, while one hundred sixty-six
@@ -381,7 +407,7 @@ level of the individual than does the mental age. A distribution
 ?f basal ages is given in Table No. 14. The median basal age level
 is twelve years and the median mental age is thirteen years six
 months.
-104 THE PSYCHOLOGICAL CLINIC
+
 The greatest number of failures in any Binet Test above the
 twelve year level occurred in the vocabulary tests, and the arithmetic test at the fourteen year level. In the latter test there were
 six more failures than in the vocabulary test. The Monroe Silent
@@ -433,10 +459,12 @@ Comprehension
 9th grade Norm.
 Rate?83
 Comprehension?23
+
 Memory Span
+------------
+
 What abilities are tested in the memory span test? Many investigators have worked in this field, most of them discussing the
 audito-vocal and the visual forward memory span, and not the reverse span. Whipple says it primarily tests the capacity for reproduction after a single presentation. Humpstone says it is a test
-ANALYTIC STUDY OF HIGH SCHOOL CLASS 105
 of associability. Brotemarkle claims that it uses the numerous
 mental factors of the attentional, imaginal, and associational fields.
 Starr, in 1923, made a very intensive study of the memory span,
@@ -447,6 +475,7 @@ These competencies, she states, as a minimum, include attention,
 comprehension, imageability, associability and retentivity. Surely,
 even for the minimum, discrimination or differentiation should be
 added.
+
 Table 6. Binet Vocabulary Test
 9 year
 10 year
@@ -469,6 +498,7 @@ Total
 54
 23
 77
+
 The reverse span differs from the forward in that it is normally
 one or two digits shorter, and that it indicates the presence of
 greater amounts of these competencies, and consequently a more
@@ -480,6 +510,7 @@ greater in intensity in order to allow complete discrimination, or
 differentiation, of each unit in the series, and then a sufficiency of
 comprehension to permit a reorganization and reassembling of
 these units in a reversed sequence.
+
 But the memory span performance is too complicated for a
 detailed study of the competencies concerned. The value of the
 test lies in the fact that it calls into play all of the individual's
@@ -488,6 +519,7 @@ particular complexus is most essential to social adequacy, the diag106 THE PSYCH
 nostie value of the audito-vocal digit memory span is thereby augmented." McCaulley, in a recent study, shows that the " reverse
 span is more highly diagnostic than the forward span,'' and states
 that " it is a reliable educability test.''
+
 Ability to reverse five digits is claimed by Binet to belong to
 the twelve year level, and ability to reverse six, to the sixteen year
 level. A reverse span of seven is included in the test for the superior
@@ -555,7 +587,10 @@ Syllables
 20-18
 18-18
 18-10
+
 School Progress
+-----------------
+
 Final marks are given at the end of each term on a five point
 scale, represented by E, G, F, P, and D. E is excellent, over 90,
 and D is deficient, under 60. 70 is a passing grade but numerical
@@ -564,7 +599,6 @@ letters were translated into a numerical equivalent which could
 only grossly approximate the actual grade, and the average for
 each term obtained. Such results cannot be very satisfactory as
 there is too large a range represented by the letters. The number
-ANALYTIC STUDY OF HIGH SCHOOL CLASS 107
 of credits earned seems to be a more reliable index of progress than
 the term average. See Table No. 9. One credit is given for each
 hour per week of prepared work satisfactorily completed, and onehalf credit for unprepared work (art, physical training, household arts, chorus and typewriting.) Twenty credits are necessary
@@ -578,6 +612,7 @@ give a child a subject for the third time after she has failed it
 twice. The school is conducted on the Dalton Plan, modified to
 suit its particular conditions. This not only offers increased opportunity for individual instruction in a socialized environment, but
 permits each indivdual to proceed at a pace which better approximates her optimal rate.
+
 Table 8. Reverse Memory Span
 Digits
 Girls who
@@ -613,6 +648,7 @@ Total
 11
 3
 205
+
 Sixty-five girls took the academic course, planning to go to
 normal school or to college, but fifteen dropped out entirely during
 the first two years, and eighteen more changed their minds, and are
@@ -622,7 +658,6 @@ At the end of the fourth term, 136 girls, 66 per cent of the
 original 205, are in regular classes, but only sixty-six of them, 32 per
 cent, have finished successfully four terms of work. See Table No.
 10. Sixty-nine girls have dropped out, twelve of them transferred
-108 THE PSYCHOLOGICAL CLINIC
 to other schools, ten left to go to work, seventeen who became
 sixteen years of age voluntarily stopped. The remaining twentyeight were failing miserably, some of them for the second time,
 and were much discouraged, but because they were not yet sixteen
@@ -637,6 +672,7 @@ look for a job. They represent a range of I.Q. from 87 to 68, and 50
 per cent have a reverse memory span of four, one has three, all the
 others have five, except one, who has six. She has an I.Q. of 84,
 Table 9. Decile Distribution of Averages and Credits?4 Terms*
+
 Decile
 Average
 Credits
@@ -675,6 +711,7 @@ Credits
 60 " 10b 160 " graduation.
 80 ? 11a
 100 ? lib
+
 and earned only 2\ credits in one term. Of the ten who left to
 go to work, five were doing successful high school work and five
 were doing extremely poor work. Four of these who dropped "over
@@ -683,7 +720,6 @@ of credits. It is a ruling of the Board of Education that if a girl
 over sixteen years of age fails to pass 50 per cent of her work in one
 year she may be dismissed at the discretion of the principal. Both
 these girls were colored. One had an I.Q. of 88, and a reverse
-ANALYTIC STUDY OF HIGH SCHOOL CLASS 109
 Table 10. Reverse Memory Span, School Average, and Credits,* op the
 136 Who Stayed 4 Terms
 Average
@@ -744,7 +780,7 @@ lib
 40-59 = 10a
 60-79 = 10b
 80-99 = Ha
-110 THE PSYCHOLOGICAL CLINIC
+
 memory span of six. Her basal age was twelve, and she passed no
 tests above this level except memory span tests. She failed the
 Dearborn Formboard, and showed very little planfulness, or discrimination in any of the tests. She was imitative and trainable.
@@ -790,6 +826,7 @@ Credits
 1
 3
 1
+
 All the members of this group display strong motivation in
 the direction of their greatest ambition. All but one come from
 very poor homes and the whole family has a great struggle to get
@@ -797,6 +834,7 @@ along. They are determined to graduate. They dig in their toes
 and stick grimly. The last girl, No. 10, who lacks only half a
 credit of being in 11 A, has a history of paralysis, her speech is
 thick and she drags one foot. Her body is small and under nourTable 12. 9 Girls with Reverse Memory Span of 4 Promoted to 11A (80 Credits)
+
 Case No.
 9
 10
@@ -851,9 +889,10 @@ average for for the
 86 89
 81 72
 73 75
-112 THE PSYCHOLOGICAL CLINIC
+
 ished. In spite of all handicaps she has persevered, going to summer school both years, making up science conditions in club periods,
 and attending "restoration classes" in English.
+
 It must be remembered that in the High School every effort is
 made to classify students on the basis of ability. After the first
 term this is possible only in those subjects where there are parallel
@@ -870,6 +909,7 @@ motivation and for the formation of good intellectual habits.
 Six girls with a reverse memory span of six and seven failed of
 being promoted even to 10b in four terms. They are interesting
 cases and may be analyzed further:
+
 Cases Nos. 11 and 12. They became friendly the latter part
 of the third term. The former is very evidently the leader. She
 is of Italian parentage, extremely good-looking, with charming
@@ -887,11 +927,11 @@ complete failure. The two girls cut school and classes, and were
 intelligent enough to '' get away with it,'' or took their punishment
 submissively, even charmingly, when caught. Being reported to
 their parents had no lasting effect, and poor marks alarmed them
-ANALYTIC STUDY OF HIGH SCHOOL CLASS 113
 not at all. They were required to present their final reports for
 the fourth term to the counselor on the last day, and she made
 one final effort to secure a change in motivation for the coming
 year.
+
 No. 13. Her parents were born in Russia, and since coming
 here have established themselves in a good business and prospered.
 They have allowed their only child to do as she pleases, and so far
@@ -900,6 +940,7 @@ of the group, and her basal age is fourteen. She had an auditovocal memory span 
 eighth grade at thirteen and one half years of age. In four terms
 she has failed almost half her work,?her teachers say she is
 lazy.''
+
 No. 14 is the second child in an extremely poor Russian Jewish
 family. She entered at exactly thirteen years of age, with the
 Table 13. Number of Correct Answers in the Binet Tests
@@ -907,7 +948,6 @@ i iO
 S^Orrci
 AUJ
 Tat*.
-114 THE PSYCHOLOGICAL CLINIC
 strong determination to graduate and work in an offiee. Her I.Q.
 is 109, due largely to the points earned by a high auditory-vocal
 and reverse memory span. Her basal age is twelve, and her vocabulary is just barely at the twelve year level. Her definitions were
@@ -920,6 +960,7 @@ the fourth term, however, she failed history, and science also. She
 is attempting only minimum requirements, and failing, in the same
 time limits in which other girls of apparently no better ability are
 succeeding in doing maximum work.
+
 No. 15 is also a Russian Jewess. She entered at fifteen and
 one half years of age, planning to stay and graduate. Her I.Q. is
 85, and reverse memory span six, the only test she passed above the
@@ -927,6 +968,7 @@ fourteen year level. Her performance tests showed good planfulness and discrimin
 term, passed them on the second trial, but failed the 9b work twice.
 She may try them for the third time when she presents a report
 with no failures in any subject.
+
 No. 16 is a Russian Jewess, entering at fourteen years of
 age, planning to become a teacher. Her I.Q. is 97, with auditory
 vocal and reverse span of seven, which were the only tests she
@@ -939,12 +981,12 @@ course was almost a complete failure; so she gave up the idea of
 going to Normal School and tried the Commercial Course. The
 next two terms were successful, but in the fourth term she earned
 only 10!/2 credits.
+
 Very evidently a good reverse span alone is not sufficient for
 predicting academic success, many other factors must be considered.
 There were two girls with a reverse span of three. One was
 put in the Special Course after the first term, but she did not finish
 even that work. The other is described as follows:
-ANALYTIC STUDY OF HIGH SCHOOL CLASS 115
 No. 17 is a girl with reverse memory span of three, who earned
 forty-three credits in four terms, a trifle more than 50 per cent of
 the number required. She is of Italian parentage, very unattractive in appearance, so short and stout that she approaches deformity. She did not walk until almost eight years of age due to
@@ -957,7 +999,6 @@ Table 14. Number of Cases in Each Basal Age. Binet Test
 5?
 WkX
 lo IT_ '4fbaSa' foe
-116 THE PSYCHOLOGICAL CLINIC
 brought forth only vague, indefinite and often contradictoryanswers. She was then almost eighteen years old, and outwardly
 showed no effects of this earlier affliction, whatever it may have
 been. She stated her ambition to be a teacher in an habitually
@@ -978,6 +1019,7 @@ she was rather a pathetic object. Fortunately the counselor could
 point to the good marks she had consistently gained in art, sewing,
 and gym, and give a gentle push in the direction she should have
 been guided years before.
+
 At the end of the fourth term, another girl dropped out also.
 She was failing and saw very little prospects of success. Because of
 failure in English she could not begin Stenography with the other
@@ -988,19 +1030,22 @@ memory span of five. Two others with insufficient credits but who
 were not yet fifteen years of age, were placed in the Special Course.
 One had an I.Q. of 89 and reverse span of four, and the other had
 an I. Q. of 85 and reverse span of five.
+
 Girls who voluntarily drop out because of failure or who are
 forced to drop, represent failure on the part of the School system,
 somewhere. As Inglis, in his Principles of Secondary Education,
 has said, "we have failed to adapt instruction to the varying capacities of those whom we have encouraged to attend the high
 school." The high school's obligation lies in excluding those of
 lower intellectual ability, or, in affording them the sort of education suited to their capacities and their needs.
-ANALYTIC STUDY OF HIGH SCHOOL CLASS 117
 One hundred and thirty girls, then, are ready for the fifth
 term, representing 63 per cent of the number1 who started two years
 before. Twenty-nine of them have a reverse memory span of four,
 46 per cent of the number with that span who entered, though only
 nine of them can be called successful.
+
 Conclusions
+-------------
+
 Conclusions made at the end of two years' progress can be only
 partial ones, and may be changed at the end of the next two years.
 1. The Fifteen-year-Level represents a wide range of variability.
@@ -1033,7 +1078,6 @@ Rubinow, I. M. M. D. Medical Factors in Family Case Work, Survey, March
 15, 1924.
 1 The number (205) which is included in this study, 30^% of the total
 number who started (428).
-118 THE PSYCHOLOGICAL CLINIC
 Sherman, W. D. A Study of the Achievement of the Grad. Class of the
 Grover Cleveland High School, St. Louis. School Review Vol. 34.
 Skaggs, E. B. The Correlation of General Intelligence Tests and School

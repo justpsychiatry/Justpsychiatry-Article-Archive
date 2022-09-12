@@ -5,7 +5,8 @@ The Psychological Clinic
 Copyright, 1930, by Lightner Witmer, Editor
 Vol. XVIII, No. 9
 February, 1930
-By Gordon L. Riley, M.A.
+:Author:  Gordon L. Riley, M.A.
+
 Research Psychologist, The Training School at Tineland, New Jersey
 Dr Heinis, of Geneva, presented in the Journal of Educational
 Psychology (1926) a formula for describing mental growth. The
@@ -13,6 +14,7 @@ index derived from this formula he calls the personal coefficient.
 x
 The formula is Y ?4.29 where e is the base of the natural
 (l-e6.675)
+
 logarithm, x is the life age and Y is the test age. This is based upon
 three sets of test data covering almost the entire span of childhood.
 The tests used were group tests having unequal steps in contrast to
@@ -28,6 +30,7 @@ Heinis confirms these mathematical conclusions by the results of
 applying his formula to Kuhlmann's retest data of subnormals.
 The present study is a further check upon this conclusion, a comparison of the predictive value of the I.Q. and P.C. for superior
 and subnormal children.
+
 The data consist of 30 cases from Baldwin and Stecker's "Mental Growth Curves of Superior and Normal Children,'' 200 cases from
 Doll's "Growth of Intelligence," and 50 cases from the clinical files
 of The Training School. These children had 011 the Stanford Binet
@@ -38,10 +41,12 @@ These data were given the usual treatment to bring out the relative reliability 
 the constancy of the two indices, second, comparing the test score
 obtained with those predicted from the initial test indices and third,
 making graphic comparisons of individual cases.
+
 Table I gives a summary of the test results. Column (3) gives
 the life ages at initial test, (4) test ages, (5) I.Q. from this test,
 and (6) the personal coefficient from it. Then the same data arc
 given for the final test.
+
 Table I
 TEST RESULTS
 Author Cases
@@ -52,10 +57,12 @@ Doll   40 9.4 6.1 64 79 13.4 7.5 56 78
 Baldwin  30 8.1 9.6 118 108 11.6 15.0 130 109
 V.T.S. file ... 50 11.0 6.5 61 77 14.0 7.6 54 77
 From this table it is evident that while in each case the I.Q.
+
 suffers considerable variation, 8 to 16 points, the P.C. remains constant or changes one or two points. The mean of the I.Q. difference
 is 11 points, and for the P.C. it is 1. This average change is just
 about twice that usually allowed in testing, while for all practical
 purposes the change in P.C. is not appreciable.
+
 In Table II are given the arithmetic means of the final test, results and those mental ages predicted by the two indices from the
 Table II
 FINAL TEST RESULTS COMPARED TO THOSE PREDICTED BY
@@ -66,7 +73,7 @@ Doll   7.1 9.2 7.4 2.1 .3
 Doll   7.5 9.0 7.7 1.5 .2
 Baldwin  15.0 13.7 14.8 1.3 .2
 V.T.S  7.6 8.5 7.6 .9 0
-A COMPARISON 263
+
 initial tests. Column (1) gives the source of the data, (2) the final
 mental ages, (3) the mental age predicted by the initial I.Q., (4) the
 mental age predicted by the initial P.C., (5) the difference between
@@ -75,12 +82,14 @@ In each case the results favor the prognostic value of the P.O.
 as against that of the I.Q. On the average for these cases the I.Q.
 prediction shows a discrepancy of 1.5 years, while that for the P.O.
 is .2 year.
+
 Table III presents the constancy of the indices in somewhat more
 detail and for comparative purposes a similar summary on the constancy of the I.Q. for normals. Column (1) gives the author, (2)
 the index, (3) the number of cases, (4) the percentage of cases whose
 final index differs from the initial one by more than 10 points, (5)
 the range of the middle fifty per cent, (6) the arithmetical mean of
 the deviations, and (7) the correlation of the first and final indices.
+
 Table III
 INITIAL AND FINAL INDICES COMPARED
 Author
@@ -130,6 +139,7 @@ Mean
 3.0
 12.7
 5.2
+
 In this table the I.Q. shows much greater variability by all the
 statistical methods employed. The P.C. also shows some fluctuations
 but its results are comparable to the normal studies and so shows
@@ -141,11 +151,11 @@ for the subnormal I.Q.'s 40 per cent, and for the P.C.'s 7.5 per cent.
 From the tests of the feeble-minded a number of mental growth
 curves were drawn for individual cases. In addition to plotting the
 actual test results, curves based on initial I.Q.'s and P.C.'s were also
-264 THE PSYCHOLOGICAL CLINIC
 drawn. A quantitative expression of this check is difficult. In most
 of the cases (over 80 per cent) the P.O. curves ran closer to the actual
 test results than the I.Q. The exceptions are the "improving" child
 and the "potential" type of feeble-mindedness.
+
 Below are given tables giving life age, mental age, I.Q., and
 P.C. for two cases over a period of several years. These cases were
 chosen at random. Fourteen years is taken as the adult level in
@@ -158,6 +168,7 @@ this type presents a small but ever present group. They seem to be
 an exception to the successful application of the P.C. Case M.F.
 is an ordinary high-grade case, showing slight fluctuations, with the
 P.C. presenting less variation than the I.Q.
+
 Table IV
 C.F.
 M.F.
@@ -225,6 +236,7 @@ P.C.
 86
 85
 85
+
 The quantitative results may be summarized as follows:
 1. First and final P.C.'s correlate 6 to 12 points higher than
 those of the I.Q.
@@ -235,13 +247,16 @@ to the test result, on the average, than that predicted by the I.Q.
 4. The limits of the middle 50 per cent and arithmetic mean
 of the differences between initial and final P.C. 's is less than the same
 for the I.Q.
-A COMPARISON 265
+
 5. The mean difference in I.Q.'s between the first and final test
 is 11 points and for the P.C. 1.
 In conclusion it may be said that although the number of cases
 is small and there are individual exceptions, all the methods of treatment consistently show the superiority of the P.C. over the I.Q. as
 an instrument of prediction for superior or subnormal children.
+
 Bibliography
+---------------
+
 Anderson, Meta. A Study of the Data on the Results Gathered from Repeated
 Mental Examinations of ZOO Defective Children Attending Special
 Schools over a Period of Eight Years. Journal of Applied Psychology,

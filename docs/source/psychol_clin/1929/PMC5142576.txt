@@ -1,8 +1,9 @@
 Account of a Fainting Epidemic in a High School
 ================================================
 
-Willard C. Olson, Assistant Professor of Educational Psychology
+:Author: Willard C. Olson, Assistant Professor of Educational Psychology
 University of Minnesota
+
 A number of studies have been reported in the literature on
 epidemics of tremor, jumping, spasmodic coughing, hysterical convulsions, fainting, and similar disorders. Burnham has reported
 the results of a survey of such epidemics in The Normal Mind.1
@@ -25,19 +26,22 @@ reported that in ten years of experience with the institution not
 over three cases of fainting had occurred. The occurrence of nine
 cases within the space of one month thus became a matter of considerable concern?particularly since it was uncertain how long
 such an epidemic might continue.
+
 The series of fainting episodes was initiated by three girls in
 the assembly hall when a flashlight picture was taken. At least one
 of the three is known to have fainted previously. The pictures were
 taken on the tenth day of November. Between that time and December 6, six additional girls fainted. Apparently in all instances
 except one there was a complete loss of consciousness without convulsions, and the girls were taken to the rest room for recovery.
+
 1 Burnham, William H. The Normal Mind. New York: D. Appleton and
 Company, 1924. Chapter XI.
-FAINTING EPIDEMIC IN A HIGH SCHOOL 35
+
 In the case of the exception there is a question as to whether the
 girl actually lost consciousness. The symptoms appeared to be
 those of nausea produced by work in the biological laboratory. In
 no instance was there a coincidence between the fainting spell and
 the menstrual period.
+
 In view of the beneficial effects of vacations upon epidemics
 previously reported, the writer counseled that no immediate attempt
 be made to deal with the problem directly. Additional cases were
@@ -45,6 +49,7 @@ to be referred to the home and a physician and made the subject
 of immediate study. In this instance the intervention of an enforced vacation due to deep snow and the Christmas vacation immediately thereafter apparently sufficed to break the epidemic, for
 no additional cases were reported during the remainder of the
 school year.
+
 Unfortunately, an exact chronology of the cases was not kept
 and an exact description of the situation and symptoms was not
 wade at the time of each occurrence. The lack of such a record
@@ -69,12 +74,12 @@ juniors, and two were seniors. The nine girls ranged in age from
 fourteen years and three months to seventeen years and eight
 months. The mean age was fifteen years and ten months. The
 results of five group intelligence tests were available for each child
-36 THE PSYCHOLOGICAL CLINIC
 in the school. The mean intelligence quotient on the five tests was
 determined for each of the nine girls. The values so determined
 varied between 108 and 137 with 120 as the mean. This may be
 compared with the mean intelligence quotient of 120 for the students of the school as a whole and the theoretical mean of 100 for
 the generality of the population.
+
 Table I. Characteristics of High School Girls Involved in the Epidemic.
 Number of
 Case Symptoms Admitted
@@ -90,6 +95,7 @@ Number Grade Age I.Q. Reported Fainting
 9 12 17-8 123 4 Yes
 Means 15-10 120 6.1
 * No data.
+
 About six months after the occurrence of the epidemic the
 students in the high school were given an abbreviated form of the
 Woodworth-Mathews Personal Data Sheet2. The questionnaire is
@@ -102,12 +108,12 @@ that the mean number of symptomatic responses for this group
 was 6.1 as compared to 4.5 for all other girls in the school (Table
 II). The difference cannot be considered as highly significant
 (D-^P.E.d = 2.4).
+
 One item in the questionnaire, "Have you ever fainted
 away?", is of particular interest for our purpose. Six of the
 seven girls in the fainting group answered in the affirmative to this
 2 Published by C. H. Stoelting Co., Chicago, 111. The abbreviation consisted in the use of the items numbered 72, 71, 30, 4, 12, 14, 15, 21, 25, 27, 29,
 31, 34, 39, 40, 49, 50, 61, 67, 42, 59, 65, 56, and 13 in the original form.
-FAINTING EPIDEMIC IN A HIGH SCHOOL 37
 question. The seventh who replied in the negative, was the case
 of doubtful diagnosis at the time of the epidemic. The reports thus
 offer some slight evidence for the validity of this particular item
@@ -118,9 +124,12 @@ in the high school reveal 31 girls or 28% who report having fainted
 at some time or other. The difference in the percentage reporting fainting in the epidemic group as compared to the general
 group of girls would be considered significant by the usual tests
 (D-v-P.E.d=6.2).
+
 Table II. Characteristics of Fainting and Non-Fainting Groups on tiie
 Abbreviated Woodworth-Mathews Personal Data Sheet.
+
 Girls Boys
+
 Fainted* Reported Non- Total Reported Non- Total
 in School Fainting Fainting Girls Fainting Fainting Boys
 N
@@ -136,17 +145,21 @@ group is 3.2 times the probable error of the difference, and the
 difference between those who report having fainted and the nonfainting group is 4.6 times the probable error of the difference.
 It should be pointed out, however, that a large part of each difference is accounted for by the presence of the fainting symptom
 itself.
+
 The cases involved in the foregoing comparisons are too few
 to establish with a high degree of certainty the significance of the
 differences found. It is, however, suggestive that the differentiation
 is always in the expected direction.
+
 Summary
+--------
+
 Nine girls in a high school enrolling 135 girls and 135 boys
 fainted during the course of one month. Their mean age was 15
 years and 10 months and their mean intelligence quotient was 120.
-38 THE PSYCHOLOGICAL CLINIC
 They represented a random sample of the student body in intelligence, although they were superior as compared to the general
 population.
+
 An abbreviated form of the Woodworth-Mathews Personal
 Data Sheet, given six months after the event, failed to give a
 marked differentiation between the fainting group and the other
@@ -154,6 +167,7 @@ girls in the school. The differences found, however, were in the
 expected direction. The truthfulness with which the girls replied
 to the question, "Have you ever fainted away?" offers suggestive
 evidence for the validity of the report on this item.
+
 The epidemic reported emphasizes the need for readily available psychological and medical service to study and treat such
 personality problems as they arise. The factors of importance
 for the mental hygiene of the girls concerned can only be reached

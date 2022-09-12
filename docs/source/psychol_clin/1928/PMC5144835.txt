@@ -2,12 +2,14 @@ The Ten-Year Level of Competency
 =================================
 
 The Psychological Clinic
-Copyright, 1928, by Lightner Witmer, Editor
+Copyright, 1928, 
+:Author:  Lightner Witmer, Editor
 Vol. XVII, Nos. 2-3
 May-June, 1928
-
 Miles Murphy, University of Pennsylvania
+
 Introduction
+
 Learning1 has determined the standards of performance for
 the fifteen year age level. This level, which Learning points out
 must not be restricted by arbitrary limits of chronological age,
@@ -16,7 +18,8 @@ begins to be considered a unit member of society. Easby-Grave2
 has determined standards for the six year old performance level.
 At this age level "the criterion of competency is the child's congenital and potential ability to respond to educational and other
 stimuli with some change of behavior directed toward a definable
-level of social proficiency.''
+level of social proficiency.
+
 The standards determined by these investigations have been
 used successfully for purposes of diagnosis at the Psychological
 Clinic of the University of Pennsylvania. The results of the study
@@ -32,8 +35,8 @@ decided to investigate the competency of an intermediate age level,
 and for such a study the ten year level seems a logical one.
 1 Leahing, K. E., Tests and Norms for Vocational Guidance at the Fifteen Tear Old Performance Level. Psychological Clinic, 1923, vol. 14, pp.
 193-220.
+
 2 Easby-Grave, Charlotte, Tests and Norms at the Six Year Old Performance Level. Psychological Clinic, 1924, vol. 15, pp. 261-300.
-34 THE PSYCHOLOGICAL CLINIC
 In the study of an age level one of the first problems demanding consideration is the selection of a group of children to serve
 as subjects for the tests which are to be used. In the present
 study the problem was to secure a group of children who would
@@ -46,6 +49,7 @@ system were chosen, although the chronological ages of the children so chosen ra
 elementary schools. In the regular course of school progress these
 children should be approximately ten years old; actually, as reference to the table of chronological age will show, they varied in
 age from eight to seventeen years.
+
 A single precedent is admittedly an inadequate justification
 for such chronological heterogeneity in a group which purports
 to represent the ten year level. A further analysis of the problems involved in the selection of cases for study at a given age
@@ -63,7 +67,6 @@ group might be limited by taking children who are ten and not
 eleven years old, or those who are between nine and one-half and
 ten and one-half years of age. There is no particular justification
 for such arbitrary procedure, and besides some children falling
-TEN YEAR LEVEL OF COMPETENCY 35
 into the category decided upon might be missed?those in institutions for the feebleminded, for example. The difficulty involved
 in drawing so definite a line of chronological demarcation is so
 great as to make it a matter of serious question whether the end
@@ -83,6 +86,7 @@ hillside or with another tree growing by the stream whatever its
 been living by the stream of knowledge?if so weak a figure will
 bear extension?for a much longer time. Six grades in school
 surely provide some intellectual nourishment.
+
 It must always be remembered that the purpose of this investigation is to secure standards which can be used for the purpose of diagnosis. Most children brought to a psychological clinic
 are brought for the determination of mental status, and if that
 status is to be determined by the method of comparison, than
@@ -129,7 +133,6 @@ age levels he is seen to be more like the six than the fifteen. The
 difference between the ten and the fifteen year old is also preanalytic; the difference between the ten and the six year old is postanalytic.
 The differences existing between these three age levels can be
 explained more definitely by reference to the efficiency of each.
-TEN YEAR LEVEL OF COMPETENCY 37
 The word "efficiency" is used with two meanings. In one sense
 it refers to the relation between an effect produced and the energy
 expended in producing it. This is a specific mechanical concept.
@@ -137,6 +140,7 @@ In another and more general sense, efficiency is the ability or power
 to produce effects, that is, effectability. It is in this latter sense
 that the corresponding adjective is used in the philosophical term
 "efficient cause."
+
 The six year level is the level of human competency. It is
 only at this age that the child is fully born; his potential abilities
 are demonstrable as they are not at an earlier age. Six year old
@@ -161,6 +165,7 @@ the vagaries of promotion in the schools leads one to attach less
 significance to this one grade of difference than would at first
 seem necessary. The ten year old, therefore, is one who has supraliminal human efficiency, liminal intellectual efficiency and subliminal social efficiency.
 Procedure
+
 The group of subjects who were tested in this study consisted
 of 500 children in the 5A and 5B Grades. Of these 500 children
 272 were in the schools of a township lying just a few miles out38 THE PSYCHOLOGICAL CLINIC
@@ -179,6 +184,7 @@ of farmers. Practically all social levels are represented in this
 group. Not quite 10 per cent were colored. Every Fifth Grade
 pupil of the township was tested and of the entire number 135
 were boys and 137 were girls.
+
 The remaining 228 cases came from two of the public schools
 of Philadelphia. These two schools were chosen because taken
 together they appeared to give a fair cross section of the population of the city, and they were geographically convenient to the
@@ -197,13 +203,13 @@ cent, were colored. Beyond this no effort was made in the direction of racial an
 work. The colored children, however, constitute a somewhat more
 definite group, and it is planned to discuss their results in a subsequent paper.
 This investigation was conducted under the direction of Dr.
-TEN YEAR LEVEL OF COMPETENCY 39
 Lightner Witmer and through his inspiration. To those who are
 acquainted with his orientation in psychology my indebtedness to
 him will be apparent throughout both the prosecution of the work
 and its discussion. This study is only a small part of the work
 which he has conceived for the purpose of determining diagnostic
 criteria at different age levels.
+
 The group of persons who assisted in the necessarily extended
 and tedious labor required for the actual testing included: Mr.
 Carl Altmaier, Assistant in Psychology; three members of the staff
@@ -215,6 +221,7 @@ trained in the theory and practice of mental testing.
 The study was begun in October of 1926 and was completed
 in February of 1927. The writer was present at all the examinations and saw each child personally some time during the course of
 his examination.
+
 In selecting the battery of tests to be employed in an investigation of this kind there are two important desiderata. First,
 the number of tests must be large enough and sufficiently varied to
 provide a reasonably accurate index of the subject's performance.
@@ -232,7 +239,7 @@ Witmer Cylinders, Dearborn Formboard; audito-vocal memory
 span forward, visual-vocal memory span forward, audito-vocal
 memory span reverse; the Stanford Revision of the Binet-Simon
 Intelligence Scale; and an arithmetic test.
-40 THE PSYCHOLOGICAL CLINIC
+
 Three of these tests, viz., the Witmer Formboard, the Witmer
 Cylinders and the Dearborn Formboard, are commonly known as
 performance tests. This term, while it may be a useful one in distinguishing these tests from others, certainly is neither definite
@@ -254,6 +261,7 @@ to give that ability a name which will be inclusive, restrictive and
 descriptive, intelligible to himself and others, is one of the most
 difficult, and also most important, tasks confronting the clinical
 psychologist.
+
 The starred tests of the Stanford Revision of the Binet-Simon
 Intelligence Scale were used. A few exceptions, however, were
 made. At the nine year level the test of making change was substituted for the test involving the judgment of lifted weights for
@@ -263,8 +271,8 @@ test of naming sixty words in three minutes, and for the same
 reason. At the fourteen year level the audito-vocal memory span
 of seven digits was substituted for the arithmetic test because an
 arithmetic test was already included in the battery.
+
 The Arithmetic Test was based on an analysis of the subject
-TEN YEAR LEVEL OF COMPETENCY 41
 matter of Fifth Grade Arithmetic in a number of large school systems. It was composed of the following five problems: Add 2783,
 9814, 5379 and 1647; Multiply 534 by 675; Divide 59706 by 31;
 Add 4/7 and y7; If a man buys an automobile for $3,000 and sells
@@ -275,6 +283,7 @@ examples of the fundamental operations were not printed as given
 above but in the conventional arrangement for such problems.
 Each child was given a copy of these problems and allowed ten
 minutes in which to solve them.
+
 When a child came to the examining room an individual face
 sheet was made out for him, and on this face sheet all the data were
 placed. Certain items of information were secured before the
@@ -286,6 +295,7 @@ his father's occupation. With this information secured the actual
 testing proceeded. The school history, i.e., age upon entering
 school, grades repeated and grades skipped, was obtained from the
 school cards.
+
 One examiner gave the Witmer Formboard, the Witmer Cylinders and the Dearborn Formboard and the three memory span
 tests. A second examiner gave the Binet-Simon test. Insofar as
 possible the tests were given in the order mentioned.
@@ -299,7 +309,6 @@ most cases the child is ready for the second trial within a very
 short time. For the second trial the blocks are removed in a
 standard manner in order to present exactly the same problem to
 each child. The blocks are placed in the tray in three neat piles.
-42 THE PSYCHOLOGICAL CLINIC
 The hexagon, the isosceles triangle, the semicircle and the star are
 placed on the first pile; the diamond, the oblong and the equilateral triangle are placed on the second; the square, the circle,
 the oval, and the cross on the third. While the examiner is removing the blocks as indicated he says to the child, "Now I am
@@ -324,6 +333,7 @@ correct position. If he does not, the examiner says further, "No,
 that is not right. Fix the blocks so they are all level with the
 top." If this final suggestion is not sufficient to produce a correct solution within the time limit the child is taught how the test
 should be solved. In any case a second trial is given.
+
 The Dearborn3 Formboard has been described as #lc. The
 model of the board used in this investigation is smaller in size
 than the Dearborn Formboard in common use. The board measures 7% inches by 11 inches, and the forms are approximately
@@ -331,9 +341,6 @@ than the Dearborn Formboard in common use. The board measures 7% inches by 11 in
 but the proportions of the larger board are maintained exactly.
 The smaller board is now used exclusively in the Psychological
 Clinic at the University of Pennsylvania. It is much more convenient to handle and to move about; the blocks, being smaller,
-3 Dearborn, W. F., Anderson, J. E., and Christiansen, A. O., Formboard and Construction Test of Mental Ability, Journal op Educational
-Psychology, 1916, vol. 7, pp. 445-458.
-TEN YEAR LEVEL OF COMPETENCY 43
 are more readily manipulated by younger children. Whether the
 smaller board is easier of solution than the larger has not been
 determined. The larger board was used in the investigation of the
@@ -346,6 +353,7 @@ four blocks. They belong back in this board; you may move these
 blocks in the board around any way you want to, but if you do
 it right all the blocks will fit back in the board and all the empty
 spaces will be filled."
+
 Dearborn's original method of setting the board was to remove the horizontal halves of the diamond and the oval, and the
 vertical halves of the rectangle and the hexagon. This procedure
 left remaining in the unfilled recesses of the board horizontal
@@ -357,6 +365,7 @@ blocks were not placed in the board at the end of this time limit
 the performance was scored a failure, and the child was taught
 how to do the test. The teaching was always done with the minimum amount of instruction 011 the part of the examiner. In all
 cases two trials were given.
+
 The tests of memory span followed, and in all cases the memory span was determined separately from the Binet. This was
 done because the series of digits given for the several tests of
 memory span at different age levels in the Binet are open to some
@@ -365,6 +374,7 @@ sometimes occurs twice in the same series. Moreover the process
 of giving the Binet?the most time consuming test in the battery
 at best?is somewhat facilitated if the child's memory span is
 known before the test is begun.
+
 The audito-vocal memory span forward was given first. The
 Humpstone series of digits and two modifications of it were used.
 These series are devised to eliminate the occurrence of numbers
@@ -378,11 +388,13 @@ rate of one per second, without rhythm or grouping. The test began with a series
 correctly a series of a given length he was given a second trial
 with another series of the same length. The score was the number
 of digits in the longest series repeated correctly.
+
 The visuo-vocal memory span test followed the audito-vocal
 forward. The Stoelting cards were used. The examiner held the
 card before the child saying, "Now I want you to read these numbers, and after you have finished I will ask you to say the numbers. '' The test began with a series of four digits. The score was
 the number of digits in the longest series repeated correctly, only
 one trial being given at each length of series.
+
 The last of the memory span tests was the audito-vocal reverse.
 For this test series of digits were employed which had not yet been
 used in the examination. The examiner said, "This time I want
@@ -392,7 +404,10 @@ span is rather difficult for some children to grasp, and the instructions are gi
 say?" The child in most cases responds correctly to this question
 and the examination may proceed. The method of scoring was the
 same as that used for the audito-vocal forward.
+
 Treatment of Results
+--------------------
+
 It has been pointed out earlier in this report that the subjects
 showed a very wide range in chronological age?from 8 years and
 11 months to 17 years and 3 months to be exact. It seemed desirable to secure a group for special study which would be more
@@ -403,7 +418,6 @@ suggestion in the following manner. The mean of the chronological ages of the 50
 varied most from this mean was eliminated from the group. A new
 mean was then secured for the remaining 499 cases, and again the
 case varying most from the mean was eliminated. This procedure
-TEN YEAR LEVEL OF COMPETENCY 45
 was repeated two hundred times, and there remained 300 cases
 or 60 per cent of the original group. Of these 300 children 149
 were boys and 151 were girls. Of the 200 cases removed from
@@ -427,23 +441,23 @@ that the individual is in a group of a per cent superior to b per
 cent and inferior to c per cent. For example, a child who completes the Dearborn Formboard in two minutes is in a group of
 10 per cent superior to 80 per cent and inferior to 10 per cent,
 that is, in regard to his performance on this one test.
+
 Discussion of Results
+-----------------------
+
 The Witmer Formboard has been standardized previously4 at
 the four year level; 50 per cent of children at the four year level
 would be expected to complete the test within five minutes, and
 50 per cent would be expected to fail. To the four year old this
 test presents a new problem and its solution therefore demands intelligence. In the case of the ten year old the solution of the Witmer Formboard is a display of efficiency rather than a demonstration of intelligence. The results secured by the use of this test
 will have very little diagnostic value at the ten year level, but it
-is useful in helping the child to become adjusted to the testing
-process. The relatively easy solution of this test, which seems to
-be little more than an interesting game, wins the child's coopera4 Young, Herman H. The Witmer Formboard. Psychological Clinic,
-1916, vol. 10, pp.
-46 THE PSYCHOLOGICAL CLINIC
-tion and gives him some confidence in his ability to succeed in the
+is useful in helping the child to become adjusted to the testing process. The relatively easy solution of this test, which seems to
+be little more than an interesting game, wins the child's cooperation and gives him some confidence in his ability to succeed in the
 competitions to follow. It was noted sometimes, however, that
 superior children were bored by the simplicity of the test and upon
 its completion looked up at the examiner rather disappointedly,
 as if to say, "Why don't you give me something hard?"
+
 The results show that all of the children complete the test on
 the first trial in less than one minute, and only 2.6 per cent require more than forty seconds. Those children who did not complete the test so quickly in most cases became confused in the two
 triangles which, as previous investigators have pointed out, is the
@@ -463,6 +477,7 @@ only 42.4 per cent of the girls complete the test in less than twentyfive second
 than boys complete the test in less than twenty seconds. The sex
 difference does not appear to be a significant one for the Witmer
 Formboard.
+
 Comparison with the results at the six year level shows a
 very marked difference in performance on this test. Of the First
 Grade children 2.6 per cent failed to complete the test in five
@@ -472,11 +487,11 @@ Easby-Grave thinks that the really superior performances among
 her subjects were those which required less than thirty seconds
 on the first trial and less than twenty seconds on the second trial.
 These superior performances amounted to 4.6 per cent on the first
-TEN YEAR LEVEL OF COMPETENCY 47
 trial and 1.6 per cent on the second. Turning to our own results
 we find that 46 per cent completed the test in less than thirty
 seconds on the first trial, and 36 per cent completed it in less than
 twenty seconds on the second trial.
+
 The Witmer Cylinders5 present much more of a problem
 for the ten year old. The number of failures among our subjects
 is low, but there is a very considerable range in the time required
@@ -486,6 +501,7 @@ Many children solved this test the first time purely by trial and
 error, and some did not comprehend the problem even on the second trial. It must be remembered that a test of this kind may
 be solved by luck. These qualitative aspects of a performance are
 of great importance in a clinical examination.
+
 This is a test at the six year level. Approximately 50 per
 cent of children at that level succeed in solving the test within
 five minutes and a similar number fail. Only 3.4 per cent of our
@@ -508,9 +524,7 @@ group. It is a matter of regret that a qualitative analysis of his
 performance on the Cylinders cannot be given. He was tested
 early in the investigation and his failure excited no remark since
 it was expected that a number of children would fail similarly.
-E Paschal, F. C. The Witmer Cylinders, 1918, The Hershey Press Co.,
-Hershey, Pa.
-48 THE PSYCHOLOGICAL CLINIC
+
 There is, as previous investigators have found, a sex difference
 in favor of the boys. Only 1.2 per cent of the boys fail to complete the test while 5.6 per cent of the girls, or more than four times
 as many, fail. The difference is equally significant for the superior
@@ -544,8 +558,6 @@ dimension. It makes no difference which end of a cylinder is
 placed in the recess first, while the turning of a block over instead
 of around is often the one necessity for success in solving the
 Dearborn. The two forms which cause the most trouble for the
-8 Op. cit., p. 199.
-TEN YEAR LEVEL OF COMPETENCY 49
 child in solving the Dearborn Formboard are the hexagon and the
 diamond, which difficulty is partly due to the factor of discrimination. The most difficult of all the forms in this test is the diamond,
 particularly the problem of placing the two right angled triangles
@@ -558,6 +570,7 @@ The introduction of an additional dimension complicates a problem very considera
 the concept of the fourth dimension and the difficulty which even
 superior minds experience in its comprehension substantiate this
 statement without further comment.
+
 Of the entire group 9.2 per cent fail to complete the Dearborn Formboard within the time limit of ten minutes. On the second trial this number is reduced to 2.8 per cent. The time limit of
 ten minutes seems to be too long. The test becomes a very time
 consuming one especially if the subject fails on both trials. Moreover with such a long time limit there is a larger opportunity for
@@ -583,6 +596,7 @@ ten year level is less than the median for the girls at the fifteen
 year level. When the sexes are compared separately the difference
 amounts to about one minute. This is for the median, at higher
 and lower deciles the difference is less marked.
+
 Within our own results the sex difference is more pronounced
 than in any of the previous tests. There were more than three
 times as many failures among the girls, 14.4 per cent, as against
@@ -614,11 +628,14 @@ the more intelligence required for a superior performance, the
 greater is the sex difference in favor of the boys. Whether this
 summarization represents a universal or a general situation is quite
 another matter, but it does demand consideration.
-TEN YEAR LEVEL OF COMPETENCY 51
+
 Memory Span
+------------
+
 The writer plans to publish subsequently a paper devoted
 to the analysis of the memory span test results. The discussion of
 these results is therefore somewhat abbreviated here.
+
 When the results of the memory span tests in the present investigation are compared with the results of the six year level significant differences are noted. The greatest difference is in the
 visual-vocal memory span, the next greatest is in the reverse, and
 the least of all is in the audito-vocal. 92.2 per cent of our subjects have a visual-vocal memory span of six or more while only
@@ -650,7 +667,7 @@ of the subjects at the fifteen year level have a visual span of more
 than 8 while only 6.4 per cent of our subjects have spans of that
 length. These last are the really superior visual memory spans at
 the ten year level.
-52 THE PSYCHOLOGICAL CLINIC
+
 The reverse memory span test was given at the six year level
 but not at the fifteen. Of the six year olds 42.4 per cent failed
 to comprehend the concept of the reverse. None of our subjects
@@ -675,17 +692,17 @@ a span of three. The really inferior audito-vocal memory spans
 at the ten year level are those of less than five, 5.2 per cent. At
 the six year level 33.2 per cent of the children had audito-vocal
 memory spans of less than five.
+
 At the fifteen year level at least 70 per cent of the cases had
 an auditory memory span of more than six, and less than 1 per cent
 had an auditory span of less than five.
+
 The one case with an audito-vocal memory span of three deserves special notice. It is commonly believed that a memory span
 of three at this age level is of itself an indication of feeblemindedness, and indeed most of the children having such spans as they
 are seen in the psychological clinic, are feebleminded. The child
 in question was a boy 10 years and 8 months old doing satisfactory
 work in school. He had an Intelligence Quotient of 90 and completed the non-verbal performance tests in approximately the
 median time. Because of the theoretical importance of this case the
-7 This contention was advanced by Anna Spiesman Starr (see bibliography) and seems to be supported by our results.
-TEN YEAR LEVEL OF COMPETENCY 53
 boy was given a more thorough examination several weeks after he
 first took the tests. Out of six trials of four digits he repeated
 only one correctly. His span was undoubtedly three. He was
@@ -709,7 +726,10 @@ high results were obtained only by grouping. It may well be that
 many of our subjects at the ten year level did not have true
 spans of more than three. This one boy happened to give a test
 span equal to his true span.
+
 Binet-Simon Test
+----------------
+
 The following tables show first the basal age for all of the
 subjects, and second the number of children passing each test in the
 Table 1. Basal Age.
@@ -745,8 +765,9 @@ Total
 187
 16
 10
+
 8 Oberly, H. S. A Comparison of the Spans of "Attention" and Memory. American Journal of Psychology, 1928, vol. 40, 295-302.
-54 THE PSYCHOLOGICAL CLINIC
+
 Table 2.
 Age Test Maleg Females Total
 Level No.
@@ -784,7 +805,7 @@ XVIII 1 0 0 0
 3 5 6 11
 4 0 2 2
 5 0 0 0
-TEN YEAR LEVEL OF COMPETENCY 55
+
 entire series. It is apparent that the tests of a given age level
 are not of equal difficulty. At the Nine Year Level the reverse
 memory span of four is very much more difficult than the other
@@ -821,7 +842,6 @@ mental development of the average ten year old provided he passes
 the tests in the Binet-Simon scale to give him such a mental age
 whether his chronological age is eight or eighteen. Among the
 five hundred children tested in this investigation there was a boy
-56 THE PSYCHOLOGICAL CLINIC
 ten years and three months of age who had a mental age of exactly
 sixteen years. A colored boy who was sixteen years and eleven
 months of age had a mental age of ten and one-half years. To say
@@ -853,10 +873,11 @@ age the individual undergoes the most profound changes in motivation which canno
 growth. To leave such factors out of the concept of mental age
 just because they are difficult of testing is to restrict one's self
 dangerously. While these factors of motivation cannot be tested
-TEN YEAR LEVEL OF COMPETENCY 57
 adequately the experienced examiner using the clinical method
 may discern and evaluate them.
+
 Arithmetic Test
+
 In scoring the Arithmetic Test twenty points were allowed for
 each problem solved correctly. If the method was correct but a
 minor error was made in calculation fifteen points were allowed;
@@ -869,7 +890,9 @@ division; 308, the addition of fractions; 234, the reading problem.
 These results are for solution securing a score of twenty points.
 It is seen that the division problem was the most difficult. All
 manner of methods were used in attacking this problem. The results in all of the problems are not very gratifying.
+
 The Median Modal Age Group
+
 In the discussion of the treatment of results it was explained
 that a median modal age group of 300 children was secured in
 an objective manner. The test results for this group have been
@@ -893,6 +916,7 @@ and the group as a whole is in this test. 48.4 per cent of the entire group have
 according to the theory underlying this test, is what should be expected or approximately that. In the median modal age group, on
 the other hand, 65 per cent of the cases have an Intelligence
 Quotient of 100 or more.
+
 In the test of non-verbal performance?the Witmer Formboard, the Witmer Cylinders, and the Dearborn Formboard?the
 differences between the two groups are very small. In memory
 span there is a small but consistent difference in favor of the median
@@ -901,7 +925,10 @@ group and 63 per cent in the median modal age group. Of the
 entire group 13.8 per cent have a reverse span of more than four,
 in the median modal age group this number is increased to 17
 per cent.
+
 Conclusions
+--------------
+
 1. The ten year age level shows significant differences when
 compared with the six year level and the fifteen year level.
 2. The most pronounced sex differences are found in the results for the Witmer Cylinders and the Dearborn Formboard.
@@ -919,7 +946,6 @@ the entire group in Intelligence Quotient, but not in no-verbal performance test
 Bibliography
 Dearborn, W. F., Anderson, J. E., Christiansen, A. O. Formboard and
 Construction Tests of Mental Ability. Journal op Educational Psychology, 1916, 7, 445-458.
-TEN YEAR LEVEL OF COMPETENCY 59
 Easby-Grave, Charlotte. Tests and Norms at the Six Year Old Performance
 Level. Psychological Clinic, 1924, 15, 261-300.
 Humpstone, H. J. Some Aspects of the Memory Span Test?A Study in
@@ -945,6 +971,7 @@ Ibid. Intelligence?A Definition. Psychological Clinic, 1922, 14, 65.
 Ibid. Psychological Diagnosis and the Psychonomic Orientation of Analytic
 Science. Psychological Clinic, 1925, 16, 1.
 Ten Year Level?Entire Group. 500 Cases.
+
 C.A.
 17-3
 15-2

@@ -1,10 +1,11 @@
 The Correlation of the Reverse Audito-Vocal Digit Memory Span With the General Intelligence and Other Mental Abilities of 308 Prisoners of the Eastern State Penitentiary of Pennsylvania
 ==========================================================================================================================================================================================
 
-By Franklyn D. Fry, University of Pennsylvania
+:Author: Franklyn D. Fry, University of Pennsylvania
 The purpose of this study is to determine the amount of correlation, if any, between the reverse audito-vocal digit memory span
 and the following: (1) General intelligence, (2) Vocabulary, (3)
 Interpretation of fables, (4) Chronological age.
+
 The Intelligence Quotient obtained by means of the Stanford
 Revision of the Binet-Simon Tests was used as a measure of general
 intelligence. The reverse audito-vocal digit memory span, the vocabulary, and the ability to interpret fables were measured by the
@@ -26,9 +27,10 @@ have passed the test for four digits in reverse order which is located
 at the nine-year level, but this would be an assumption and not an
 established fact. The study is thus confined to 308 cases of whom
 227 were white and 81 colored.
+
 1 Terman, L. M., The Measurement of Intelligence. Now York: Houghton
 Mifflin Co., 1916.
-REVERSE DIGIT MEMORY SPAN 157
+
 The score for the reverse audito-vocal digit memory span was
 the number of digits which could be produced correctly in reverse
 order on one presentation of the stimulus. The vocabulary score
@@ -40,6 +42,7 @@ stated in general terms. Since all of the subjects were adults the
 nearest birthday was taken as the chronological age. The results
 for the various tests and for the chronological age are shown in the
 following tables.
+
 Table i
 Keverse Audito-Vocal Digit Memory Stan
 White Colored Total
@@ -101,12 +104,13 @@ Mean  31.7 30.7 31.5
 Minimum  16 18 16
 S. D 10.624 9.130 10.247
 33.462 29.759 32.564
+
 Table VI shows the percentage of eases which were superior,
 normal and subnormal for each test. It is to be noted that the terms
 "normal" and "subnormal" are used in a very specific and not in
 a general sociological sense. Normal cases pass the tests at the
 "Average Adult" level; subnormal do not.
-REVERSE DIGIT MEMORY SPAN 159
+
 Table vi
 Percentages
 Ability Score Class White Colored Total
@@ -122,6 +126,7 @@ Voc. 75-100 Superior 11.5 0.0 8.4
 I. F. 8 Superior* 29.1 11.1 24.4
 & Normal
 0-7 Subnormal 70.9 88.9 75.7
+
 * There is no test for subjects of superior intelligence in the interpretation of fables therefore this score includes both the superior and the normal.
 The proportion of these subjects who are subnormal in regard
 to the different abilities tested is a clear demonstration of the
@@ -129,6 +134,7 @@ relation between mental retardation and delinquency. In Table VII
 will be found the percentages of cases falling in the various classes
 of intelligence according to Terman's classification. It will be noted
 that 22% of the white and 59% of the colored are definitely feebleminded if judged solely on the basis of the Intelligence Quotient.
+
 Table vii
 Percentages of General Intelligence
 I. Q. Intelligence White Colored Total
@@ -137,6 +143,7 @@ I. Q. Intelligence White Colored Total
 80-89 Dullard 21.2 13.6 19.2
 70-79 Borderline 30.0 16.0 26.3
 Below 70 Feebleminded 22.4 59.3 32.1
+
 The colored group of prisoners have a lower score in every test
 than have the white group. This is due not to racial inferiority as
 many believe but to the fact that racial prejudice prevents the
@@ -151,6 +158,7 @@ fitness. Consequently many of the whites secure positions which require a higher
 the gratification of such desires are encountered, these persons sooner or later fail to comply with the regulations of society and fall into
 the toils of the law. This explains in part why 75.3% of the colored
 and only 52.4% of the white are of borderline or feebleminded intelligence.
+
 The colored below the borderline level of intelligence must
 compete in the labor market not only with the white of an equal
 level but also with the colored of a higher level of intelligence who
@@ -163,6 +171,7 @@ Association of Philadelphia, found in the survey which he completed in May, 1929
 employed in Philadelphia were engaged in unskilled occupations.
 In Table VIII are given the coefficients of correlation calculated
 by the Pearson product moment method.
+
 For the colored group there is a high degree of correlation between general intelligence and the reverse digit memory span, vocabulary and interpretation of fables, but for the white group there is
 a high degree of correlation between general intelligence and the
 reverse digit memory span only. Vocabulary depends both upon
@@ -170,7 +179,7 @@ native ability and education. The fables used in the interpretation of fables te
 factors which operate in the interpretation of the fables. These
 1 The Philadelphia Tribune Publishing Co., Philadelphia.
 ? Mr. S. L. Wade, Secretary of Research Department of Armstrong Association, Philadelphia.
-REVERSE DIGIT MEMORY SPAN 161
+
 Table VIII.
 Coefficients of Correlation
 Correlatives
@@ -260,6 +269,7 @@ C.A.
 ?0.019
 ?0.038
 + 0.038
+
 three factors are vocabulary, the ability to deal with abstractions
 and the ability to make generalizations the latter two being largely
 native abilities. Thus the results in both the vocabulary and the
@@ -278,7 +288,6 @@ exists in the city of Philadelphia, especially since much of the
 increase in the colored population of Philadelphia for the past
 fifteen years has been due to migration from the South.
 The coefficient of correlation of the reverse digit memory span
-162 THE PSYCHOLOGICAL CLINIC
 with general intelligence is rather high for both the white and the
 colored, +.736 ?.021 for the white +.829 ?.023 for the colored.
 Thus the coefficient of correlation of the reverse digit memory span,
@@ -293,6 +302,7 @@ variability of the reverse digit memory span is .131 smaller than
 that of general intelligence, while the correlation for the reverse
 digit memory span with general intelligence is rather high, +.752
 ?.016.
+
 With respect to the reverse digit memory span and vocabulary
 there is a high degree of correlation for the colored group,
 + .744 ?.033; a decided degree of correlation for both groups, taken
@@ -305,16 +315,17 @@ When the reverse digit memory span is compared with the
 interpretation of fables the coefficient of correlation closely parallels, being slightly lower than that of the reverse digit memory
 span with vocabulary. This is true for the white, the colored, and
 for the group as a whole.
+
 There is no correlation between chronological age and vocabulary because these subjects have not availed themselves of experiences essential to the increase of vocabulary. There is no correlation between chronological age and either the reverse digit memory
 span or general intelligence because these are native abilities which
 have reached full maturity in the adult. The interpretation of
 fables depends both upon vocabulary and native ability which latter
 has likewise matured by the time adult life is attained.
+
 Some contend that the memory span is affected by an individual's imaginal type. Ilumpstone says,4 "Some imagination is
 required. The subject must have enough imageability to get perceptions of the stimuli. If auditory imageability, for instance, were
 'Ilumpstone, H. J. Some Aspects of the Memory Span, Philadelphia:
 The Psychological Clinic, Press 1917.
-REVERSE DIGIT MEMORY SPAN 163
 entirely wanting, there could be no response to the auditory presentation." MeCaulley states, "Likewise, in giving digits in reverse order several methods are used. Some individuals depend on
 their good visual imagery, and by closing their eyes, or staring
 raptly before him, they rapidly 'read' the digits in reverse order
@@ -344,11 +355,13 @@ and age levels." The reverse digit memory span has diagnostic
 value in differentiating the two extreme groups, the upper and the
 lower, but it has no value as an intelligence test which will differentiate by small degrees the intelligence of one individual from
 that of another.
+
 8 MeCaulley, Selinda. A Study of the Relative Values of the AuditoVocal Digit Memory Span and the Reserve Span as Diognostic Tests. Psychological Clinic, 1928, vol. 1G, pp. 277-291.
 a Brotemarkle, R. A. Some Memory Span Problems. Psychological Clinic
 1923, vol. 15, pp. 229-258.
-164 THE PSYCHOLOGICAL CLINIC
+
 Conclusions
+
 1. There is a high degree of positive correlation between the
 reverse audito-vocal digit memory span and general intelligence.
 2. The coefficient of correlation between the reverse auditovocal digit memory span and general intelligence for the colored
@@ -364,6 +377,7 @@ but when the extent of the vocabulary is highly influenced by the
 educational factor as is the case with the white subjects included in
 this study there is a lower degree of correlation between it and the
 reverse audito-vocal digit memory span.
+
 4. There is a decided degree of correlation between the reverse
 audito-vocal digit memory span and the interpretation of fables for
 the colored but a lower degree for the white group of prisoners.
@@ -376,10 +390,12 @@ and, the fact that the correlation between the reverse digit memory
 span and vocabulary for both the white and the colored parallels
 that between the reverse digit memory span and the interpretation
 of fables for both the white and the colored.
+
 5. There is no correlation of general intelligence nor any of
 the more specific mental abilities considered in this study with
 chronological age because all these abilities have attained their full
 maturity when adult life is reached.
+
 6. When one result, which is due to a native ability only, is
 compared with another result, which is due to the combination of a
 native ability and an educational factor, the degree of correlation

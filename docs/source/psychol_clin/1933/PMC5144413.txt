@@ -1,7 +1,7 @@
 Intelligence Test Ratings and Trainability of Nurses
 =====================================================
 
-By J. L. Rosenstein
+:Author:  J. L. Rosenstein
 Assistant Director
 The Herman E. Young Foundation for Research in Clinical Psychology
 Indianapolis, Indiana
@@ -32,13 +32,14 @@ The second study was undertaken as a sort of follow-up on the
 first to see whether or not any significant changes had occurred in
 i Young, Herman H. Intelligence Eatings and Success of Nurses in Training. J. of Appl. Psychol., 1924, 8, 377-389.
 260
-INTELLIGENCE TEST RATINGS OF NURSES 261
+
 the type of individual who made up the personnel of the nurse's
 training group. Young's study was made by comparing the Training School credits received with the intelligence test results of 101
 students who were given the Indiana University Mental Survey
 Test Schedule D as employed by W. F. Book,2 and as employed by
 0. H. Williams 3 in his Indiana State Mental Survey of recruits
 to the teaching profession.
+
 Since the intelligence tests now in use have not reached such a
 degree of perfection that their results may be used unqualifiedly as
 indicators of the degree of intelligence or the quality of the number
@@ -46,6 +47,7 @@ of varied abilities which the members of a group possess, a study
 must necessarily consist in comparisons of individuals within the
 same group or of individuals in different groups having a common
 point or basis of similarity.
+
 In the present study nurses are compared with other nurses in
 the same group as to scholastic ratings, efficiency, and intelligence
 test results. Because all nurses in training must have a high school
@@ -53,6 +55,7 @@ education and since first year college students are of approximately
 the same age it was decided to compare these nurses in training
 with college students. The nurses are given the psychological examination after they have been in the training school about six
 months.
+
 In order to make comparisons more simple the groups of both
 nurses and college students were divided into percentile groups
 according to standards on the American Council of Education
@@ -66,20 +69,23 @@ groups; the one comprised of individuals who did better than and
 the other worse than 50 per cent of all individuals taking the A.C.E.
 Tests. In a general way the 50th percentile may be thought of as
 the average.
+
 Further on in this paper the writer will attempt to explain
 what he considers a more efficient means of describing what he calls
 2 Book, W. F. Intelligence of High School Seniors, New York: The Macmillan Co., 1922.
 a Williams, O. H. A Mental Survey of the Kecruits to the Teaching Profession of a State, Dissertation for Doctor's Degree, Department of Psychology,
 Indiana University, 1924.
-262 THE PSYCHOLOGICAL CLINIC
+
 "Nurse's Trainability" by expressing it in the form of a "Nurse's
 Trainability Quotient.''
+
 Because of various changes in the system of keeping records, it
 was not possible to get all the records of all the nurses as the writer
 would have liked, but a record of all school activities of 156 nurses
 was obtained upon which to base a comparison with the college
 students. There were 2358 college students of which 988 were
 women and 1370 were men.
+
 Comparison of Nurses and College Students in Intelligence Test
 Ratings and Scholastic Credit Points Earned
 The records made by the nurses and college students were
@@ -88,6 +94,7 @@ A.C.E. Tests given students on entrance to college. Curve 1 on the
 Chart shows the median or average group of college students (men
 and women) with their test percentile rating compared to the number of scholastic credits obtained. Curve 2 gives the same results
 for nurses.
+
 In comparing these two charts one notes that the lowest percworld C,or"l  fAMbarudv*,?.b#y?? CumS
 test Perc?*t//ts J test fczentilts
 T-V.C?lle<)6 Hen a n* doum C.U. College Vi/om??
@@ -103,7 +110,7 @@ cr0
 1
 r-K.
 3?
-INTELLIGENCE TEST RATINGS OF NURSES 263
+
 centile of nurses rates at least 1 full credit point (out of a possible
 total of 3) above the average for college students. "Which means
 at least 33% per cent scholastic superiority of this group of nurses
@@ -111,6 +118,7 @@ over the same group of college students as classified by the intelligence test p
 the upper percentile of nurses is .2 of a credit point above that of
 the upper percentile for college students, showing a slight advantage again for the nurses group. In fact, at no point of the curve
 does the college group reach the nurses group.
+
 This same superiority seems to hold over the group of college
 men (Curve 4) taken separately, but on comparing the nurses
 group with college women only (Curve 3) we find the differences
@@ -126,6 +134,7 @@ higher credit points than college men and women in the same percentile group on 
 Scholastic Record and Efficiency Record of Nurses
 In Table I, we find that the earned scholastic credit median of
 nurses is in the group 1.8 to 1.99; well above the actual credit
+
 Table I
 Credit Points Earned by Nurses and College Students
 Credit Points Earned
@@ -198,10 +207,11 @@ No. of Cases
 75
 45
 36
-264 THE PSYCHOLOGICAL CLINIC
+
 median of 1.4 to 1.59. There are 113 out of 156 nurses whose
 scholastic record is above 1.59 with 14 lower than 1.4 and 29 at
 median level.
+
 A system of efficiency records on practical work has been introduced into the nurse's training school by Mrs. Ethel P. Clark, the
 director. Every nurse while in training is rated by each of her
 instructors and head nurses on personality, professional fitness,
@@ -263,6 +273,7 @@ Immature
 Self Centered
 Aggressiveness
 Insincerity
+
 Each instructor or head nurse rates the students on all of these
 factors by indicating whether they possess them in a high degree,
 fair degree or weak degree. Since the student nurse is on a constantly rotating service, after a couple of years she has a rating on
@@ -271,17 +282,18 @@ worked. These ratings therefore furnish a reliable index of the
 student's success in practical work and provide the best available
 basis for determining a student nurse's probable success in the field
 of nursing after graduation.
+
 In Table I, we find the efficiency record median or average to be
 just exactly the same as that of the scholastic record median, namely
 1.8 to 1.99. There were 117 nurses out of 156 receiving credit
 higher than 1.59 and 25 receiving lower than 1.40 with 14 at median
 level 1.4 to 1.59.
+
 A comparison of the scholastic and efficiency records actually
 shows that only three students cause the difference between identical figures in the scholastic median and efficiency median.
 Comparison of Psychological Test and Nursing Records
 On comparing the psychological test record with that of the
 efficiency record, we find little of any significance. Those students
-INTELLIGENCE TEST RATINGS OF NURSES 265
 in the lowest percentile group in the psychological test had practically the same credit rating as those in the highest percentile;
 there being a difference of only .4 of a credit point between the
 0-9 percentile group and the 90-99 percentile group.
@@ -302,13 +314,17 @@ the 25th percentile on the psychological test ratings, and 75 per
 cent were below the 50th percentile of the psychological test
 ratings, showing a high degree of correlation between low scholastic
 ratings and low psychological test results.
+
 Comparison of Scholastic Credits of College Students and Nurses
 In Table I we note comparisons of scholastic credits of both the
 college students and nurses in training. The median or average
 for the college student lies between 1.19 and 1.2 credit points and
 for the nurse's group between 1.8 and 1.99, a superiority of nurses
 over college students of .79 credit point out of a possible total of 3.
+
 The Nurse's Trainability Quotient
+---------------------------------
+
 At the Nurse's Training School of Indiana University a credit
 point system is used in grading the quality of work done by a
 student. Thus a three point system is used with 3 as the highest
@@ -319,7 +335,7 @@ of a student's work must necessarily entail some combination and
 correlation of both the efficiency record on practical work and
 record in theoretical studies. To date this has been expressed individually in some such way as: Efficiency Record on Practical Work
 ?2.4: Theoretical Studies?2.3.
-266 TEE PSYCEOLOGICAL CLINIC
+
 The writer has felt that a better and more efficient means of expressing these records would be welcome, and so has developed the
 "Nurse's Trainability Quotient" as a device for such a purpose.
 The greatest number of credit points a nurse may earn in her
@@ -335,6 +351,7 @@ For example: A student earns 2.1 credit points on her efficiency
 record for practical work and 1.8 credit points on theoretical
 studies; then
 "'1 X 100 = 65 = Trainability Quotient.
+
 b
 Therefore, 65 equals T.Q. or 65 equals Trainability Per Cent.
 The formula would be:
@@ -343,7 +360,10 @@ Thus all records made in efficiency on practical work and theoretical studies co
 an easily understood per cent. This T.Q. idea is felt to be of such
 value that another study has been begun to correlate the scholastic
 results with intelligence test results on the basis of T.Q.'s.
+
 Summary
+-----------
+
 The Indiana University Training School employs a probationary
 period of six months in the selection of its students. Students who
 do not qualify during this period are dropped from the rolls. All
@@ -353,9 +373,11 @@ process of selection in completing a high school course; a process of
 selection by personal interview and physical examination before
 admission to the training school and the selective process of a period
 of probation at the training school.
+
 1. The lowest percentile group of nurses in training on the InINTELLIGENCE TEST RATINGS OF NURSES 267
 telligence Test rates at least one full credit point above the average
 for the University students.
+
 2. This group shows superiority in scholastic efficiency of at
 least 33V3 per cent over college students of the same group as classified by Intelligence Tests scores.
 3. The lowest group of nurses on the Intelligence percentile
@@ -377,11 +399,14 @@ This study indicates that the A.C.E. Tests as given at the Indiana University an
 are of definite value. In the course of an hour it so distributed the
 members of the group that in checking up the following facts were
 apparent:
+
 1. The students rating highest on the Intelligence Test received
 the highest averages in both theoretical and practical studies.
 2. Nurses in general earn more and higher credit points than
 college men and women in the same percentile group on the A.C.E.
+
 Intelligence Test ratings.
+
 3. The records on A.C.E. Tests are of little value in predicting
 efficiency records in practical work.
 4. The credit points earned on theoretical work vary directly

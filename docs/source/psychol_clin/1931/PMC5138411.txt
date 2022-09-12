@@ -1,8 +1,9 @@
 Restlessness in a Delinquent Group 
 ===================================
 
-By Lowell S. Selling, A.M., M.S., M.D.
+:Author: Lowell S. Selling, A.M., M.S., M.D.
 Institute for Juvenile Eesearch, Chicago
+
 In an attempt to derive a solidarity of ideas from the predications of many writers, Selling 1 showed that in a group of children
 brought to clinics for the investigation of the feeble-minded, there
 was some tendency for the brighter children to be more restless.
@@ -27,14 +28,13 @@ middle group, that is, the group of average restlessness. These
 seven cases were distributed as follows:
 Hyperactive: I.Q. 69, 83, 89, 104
 Hypoactive: I.Q. 60, 78, 99
+
 This seems to show that the variations in restlessness extend
 throughout the whole range, and that, while there are differences
 * Studies from the Institute for Juvenile Research, Chicago; Series C,
 No. 183.
 1 Lowell S. Selling, "Psychomotor Activity and Feeblemindedness," The
 Psychological Clinic, vol. XIX, No. 9, pp. 275-284.
-92
-RESTLESSNESS IN A DELINQUENT GROUP 93
 in restlessness in such a group as the one above, the majority of
 cases are not abnormal in their hyperactivity.
 The discrepancy between the findings in this group and the
@@ -45,6 +45,7 @@ comes to the eye of the casual observer, while the former group is
 a section of a more or less inconspicuous group of society. In addition the mathematics1 of the earlier study tends to give a much
 higher result than either the inspection of the distribution or the
 Present study would indicate.
+
 In conclusion we may say:
 1. Restlessness in a group composed of persons such as delinquents does not tend to be an outstanding trait.
 2. The findings in such a group do not agree with those of a

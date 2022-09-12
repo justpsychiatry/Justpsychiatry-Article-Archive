@@ -1,8 +1,9 @@
 An Investigation of the Adjustment of the Feebleminded in the Community
 =========================================================================
 
-By Clara Harrison Town, Ph.D.
+:Author: Clara Harrison Town, Ph.D.
 Director, Dept. of Psychology, Children's Aid Society, Buffalo, N. Y.
+
 The problems of "what it is best to do for the feebleminded''
 and "how best to do it" have been commanding public attention
 since, in the early years of the nineteenth century, a difference of
@@ -27,11 +28,11 @@ recognizing in feeblemindedness of all degrees a social inefficiency
 resulting from a mental insufficiency, and they all stress the permanency of the condition. The experience of a century of work led
 to the clearly formulated conclusion that the feebleminded are
 incapable of self-directed lives.
+
 At this time began the attempt to ascertain the incidence of
 feebleminded persons in the population. This attempt is still in
 process. The first authentic facts were published by a British
-42
-ADJUSTMENT OF FEEBLEMINDED 43
+
 Royal Commission in 1908, which placed the proportion of feebleminded in Great Britain at 3.28 to each one thousand of the population, or a little more than three-tenths of one per cent. The latest
 authentic figures also come from Great Britain in a study published in 1929, entitled, "Investigation to Ascertain the Number of
 Feebleminded. Report of Mental Deficiency Committee, Being a
@@ -52,6 +53,7 @@ It is recognized that the advance in diagnostic methods has
 resulted in the detection of higher and higher types of feeblemindedness, and the hope has grown that perhaps the accepted definitions are faulty, and that the high grades of feeblemindedness
 may be not as incapable of being trained to social adequacy as the
 definitions imply.
+
 The Replacement of Feebleminded into the Community
 As a result, schools in all parts of the country are segregating
 their feebleminded children in small groups and by individual
@@ -62,7 +64,6 @@ this replacing plan, but his favorable opinion of community replacements was alw
 long and adequate training and subsequent continual supervision.
 In 1924 he stated that he "believed it had been demonstrated that
 many defectives who had no innately vicious character defects and
-44 TIIE PSYCHOLOGICAL CLINIC
 had been given habits of obedience, protected from evil companions,
 and taught to Avork during the formative periods of their lives,
 usually behave well if they are given continuous, friendly supervision."
@@ -71,6 +72,7 @@ less close supervision. His parole system is virtually a system of
 trial replacement made after shorter or longer periods of residence.
 Dr Bernstein is of the opinion that this method has resulted in a
 fair amount of success.
+
 As replacement in the community without close supervision after
 long or short stabilization periods in institutions is now the New
 York State policy, since it is a radical departure from all former
@@ -81,7 +83,9 @@ of its application should be available. Such knowledge should
 include the actual details of the lives after discharge of an unselected group of consecutive discharges. In order to secure such
 information to use as a guide in our work with the feebleminded,
 the study described in this article was undertaken.
+
 Do the Feebleminded Succeed in the Community?
+
 The study was made possible through the cooperation of Dr.
 Bernstein, the Superintendent of the Rome State School, and Mr.
 Pollock, the Commissioner of the Department of Public Welfare of
@@ -91,12 +95,12 @@ secured data concerning reasons and dates of admissions and discharges, early hi
 We endeavored from the collated results to discover the proportion of the total group of feebleminded replaced into the community which proved capable either wholly or in part of adaptation
 to community life. To judge the degree of adaptation we used
 three criteria:
+
 1. Ability to support self.
 2. Ability to regulate life without assistance either financial or
 supervisory from family or from agency.
 3. Ability to live without infringing upon the law to the extent of
 arrest or commitment to some type of correctional institution.
-ADJUSTMENT OF FEEBLEMINDED 45
 We avoided too high or too low standards of adaptability by
 recognizing grades within the criteria chosen. For example, under
 ability to support self, we differentiated self-support during a six
@@ -113,11 +117,13 @@ the United States. The parentage, however, is not so largely
 American; 49 of the American born are of foreign parentage, and
 23 are of mixed American and foreign parentage. Only 47 of the
 American born are of American born parents.
+
 The Influence of Sex and Marital Status upon Adjustment
 The first grouping of our individuals shows that the men far
 outnumber the women (88 to 48). This is interesting as it may
 indicate a greater tendency to replace feebleminded men in the community than to replace women. Dr Fernald was of the opinion
 that the replacement of men was more successful.
+
 The sub-grouping of the men and women into unmarried and
 married also brings out an interesting fact. Of the 88 men only 9,
 or 10.02 per cent, married. Of the 48 women, 28, or 58.03 per cent,
@@ -125,6 +131,7 @@ married. The nine married men earned from $16 to $24 per week.
 None of the 28 married women were self-supporting before marriage. It would seem that inability to support self leads towards
 marriage in the case of feebleminded women and away from it in
 the case of feebleminded men.
+
 It, is also of interest to note that the sex life of the women who
 married is much more irregular than the sex life of the women who
 did not marry. In the group of 20 unmarried women, we find
@@ -134,13 +141,14 @@ in 16, sex offenses in 18, prostitution in 4, 8 illegitimate children
 and 7 separations. Furthermore, in the unmarried women group
 we find but 2 court records and one term in a correctional institution ; while among the married group we have 8 court records and
 6 prison records.
-46 THE PSYCHOLOGICAL CLINIC
+
 It seems clear from our records that the women who married are
 of a more unstable type than the women who did not marry.
 Twelve of our unstable women were apparently stabilized by marriage, though not in every case by a first marriage. Thirteen of
 the unstable women remained unstable in spite of marriage.
 All of the married men were of unstable type and only one was
 stabilized by marriage.
+
 Incidence of Complete Self-Support and Self-Supervision
 Considering the group as a whole, men, women?married and
 unmarried?we find that at the time of the investigation only 22
@@ -159,19 +167,23 @@ criteria of adaptation. These are all men and only one is married.
 This finding is startling and makes us wonder at the easy credulity of those who believe that because such hosts of feebleminded
 are returned to the community it is the part of wisdom that they
 should be.
+
 We have closely studied the data concerning these 8 men, hoping to discover some common reason for their successful adaptation,
 which is so conspicuous in contrast to the partial or non-adaptation
 of the other 128 feebleminded returned to the community.
 "We thought there might be a correlation between the time spent
 in Home and success, but one of the 8 had spent but 2 months there,
 another but 7 months.
+
 We thought that they might have been especially selected by the
 superintendent as being potentially able to make good in the community, but we found that 3 ran away, 3 were placed on parole and
 only 2 discharged at the time of leaving Rome.
+
 There was a possibility that they were emotionally stable inADJUSTMENT OF FEEBLEMINDED 47
 dividuals who had never given trouble by behavior, but we found
 that 6 had been serious behavior problems before their commitment
 to Rome.
+
 It seemed possible that the environmental conditions to which
 they Avere returned might have been particularly favorable, but
 only one man returned to a really stabilizing environment (he entered the United States Army, and has served almost continuously
@@ -191,29 +203,33 @@ In fact, from a survey of the experiences of these 8 men we
 find no common element which explains their success, and we are
 inclined to think the successful adaptation is due to a combination
 of fortuitous circumstances.
+
 Partial Self-Support and Self-Supervision
 Nine persons, all single men, and all but one living with their
 families, were found to be self-supporting under supervision. Their
 earnings vary from $6 to $26 per week, and they are all steady
 workers under constant spurring and supervision.
+
 Three of these men have criminal records (disorderly conduct,
 stealing and assault) and 4 more have given offense by sexual practices. Only 2 of this group have fully met the ethical standards
 set by our study.
+
 Eighteen persons, 10 single men and 8 married women, were
 found to be partly self-supporting. Not one of the 10 men has been
 a constant or steady worker. "When working their wages ranged
 from $6 to $22 per week. Six were in prison at the time of the
 investigation. The 8 married women, at some time since their
 discharge, have contributed from $3 to $13 per week towards the
-48 THE PSYCHOLOGICAL CLINIC
 family income. Three are now separated from their husbands.
 One is in prison, not for the first or second time. Her offenses were
 stealing and sexual immorality. Only one of the 8 women meets
 our behavior requirements.
+
 To sum up, the independently self-supporting, the self-supporting under supervision and the partly self-supporting number in
 all 49, or 36.06 per cent of the total group. Deducting from the 49
 the flagrant behavior problems, we have 19 individuals or 14 per
 cent of the entire group ivho have been wholly or partially selfsupporting and who have met our ethical standards.
+
 The Totally Unsuccessful Group
 Eighty-seven individuals, or 63.04 per cent of the entire group,
 have been absolute failures from an economic point of vieiv.
@@ -232,6 +248,7 @@ alcoholism, vagrancy and sex offenses). Five men, 2 single and 3
 married, live away from home and are totally dependent. Two of
 these men were in prison at the time of the investigation, 2 others
 had served terms in the Erie County Penitentiary.
+
 Twelve of the group are married women. Of these, 3 have
 criminal records, 7 are sexually immoral, 5 have venereal disease,
 one is divorced, one is married to a criminal and one is married to
@@ -239,13 +256,15 @@ an alcoholic. Four are prostitutes, all suffering from lues; one has
 been twice married, one is divorced, 2 have served prison terms, one
 has several children, legitimate and illegitimate, and one other has
 one child.
+
 Eight of the group are at present lost to us. Four of the 8 have
 criminal records (vagrancy, sex offenses, disorderly conduct), one
-ADJUSTMENT OF FEEBLEMINDED 49
 has served a term in prison and 2 have served terms in correctional
 institutions.
+
 Relation Between Length of Residence in the Institution and
 Adjustment in the Community
+
 Just as we studied the data concerning the eight successful men,
 we studied the data concerning the whole group, to ascertain the
 relation between the degree of economic success: independent selfsupport, self-support with supervision, partial self-support and
@@ -310,27 +329,32 @@ Housewives, not earning
 9-11
 6- 8
 7-12
+
 Further Data on Sex and Marital Status
 We further sub-divided our data into four groups: the mimarried men, the unmarried women, the married men and the
 married women.
-50 THE PSYCHOLOGICAL CLINIC
+
 In the group of 79 unmarried men we found that 22 were supporting themselves either with or without supervision, that 10
 were partially supporting themselves, and that 48 were economic
 failures. The ages of these men varied from 11 to 43 years, their
 mental ages varied from 2 to 13 years. Their wages ranged from
 $7.50 to $26 per week, with the exception of one man who makes
 $35 per week as a railroad fireman.
+
 Of the 22 self-supporting men, 6 have criminal records, 6 have
 given offense by their sexual practices and one lias a prison record.
 Of the 10 partially self-supporting men, 6 are now in prison and
 one other has a prison record.
+
 Of the non-self-supporting, 16 have criminal records and 5 have
 prison records.
+
 Of the 9 married men, 5 were found to be supporting their
 families and 4 not supporting them. Two have criminal records,
 one a prison record, one is known to be a sex pervert. The men
 make from $16 to $24 a week and in the various families there are
 10 illegitimate children.
+
 Of the 20 unmarried women, 4 are independently self-supporting, 16 are not self-supporting; 8 of these have been recommitted.
 The ages of the group vary from 7 to 48. The wages of the four
 wage earners vary from $10 to $16 per week. Two have criminal
@@ -340,12 +364,14 @@ Of the group of 28 married women, ranging in age from 21 to
 contribute more or less toward their own support. None of the 28
 has ever been totally self-supporting, either before or after marriage. Eight have criminal records, 6 prison records, 4 are prostitutes, 16 have venereal disease. Three have been married more
 than once and 7 have been separated.
+
 This group has produced 22 legitimate children and 8 illegitimate chilren. The same group produced, before commitment to
 Rome, 10 legitimate children and 5 illegitimate children. Eighteen
 of the group had given trouble by sexual conduct before commitment to Rome, and 18 have given trouble by sexual conduct since
 discharge from Rome. Five had practised prostitution before commitment to Rome and 4 have practised it since discharge from
+
 Rome.
-ADJUSTMENT OF FEEBLEMINDED 51
+
 Why Replacement into the Community Fails
 The one hundred and thirty-six persons have now told their
 story and it is not a cheering one. We, the responsible members of
@@ -356,6 +382,7 @@ miserable and poverty-stricken lives and 4 lives of prostitution.
 Could we have done better, or is failure due to the fact that
 there is for the feebleminded no alternative to miserable living in
 the community but permanent institutional care?
+
 We think there may be an alternative, but that it lies in a training and supervisory program radically different from any that has
 as yet been attempted. The training of the feebleminded dates
 back over a century, and therefore has reached a higher level of
@@ -365,6 +392,7 @@ the supervision of the feebleminded must differ from the training
 and the supervision of normal persons as fundamentally as the
 feebleminded and their requirements differ from normal persons
 and their requirements.
+
 Both training and supervision must be based upon and built up
 in harmony with certain fundamental limitations and assets which
 are inseparable from the feebleminded condition. These may be
@@ -381,7 +409,6 @@ and is easily led by any proposal lying within the scope of his comprehension. I
 Moreover, not only are the ideas of the feebleminded lacking in
 controlling force, they are limited in number and vai'iety, and this
 limitation also has a mental compensation which is a practical asset.
-52 THE PSYCHOLOGICAL CLINIC
 The lively play of imagination of a normal person brings before
 him many possible ways of spending his time, he wishes to try
 them out, grows tired and restive when held down to a monotonous
@@ -391,7 +418,9 @@ expected to make effort to overcome new obstacles which he cannot
 easily comprehend. He works best and most happily when working automatically, when doing something he has become habituated
 to doing, when he is conscious of doing well and knows he will be
 appreciated. Such are the basic mental limitations and the compensatory mental assets which are common to the feebleminded.
+
 An Alternative Program
+
 The realization of these limitations and assets is invaluable in
 planning and putting into effect both a training and a supervisory
 program. Such a system recognizes the futility of striving for a
@@ -400,6 +429,7 @@ There are many things that the feebleminded can be taught to
 make and to make well?hammocks, lace, knitted and crocheted
 articles, cake, bread, muffins, pies, candy, and much they enjoy the
 praise success brings to them.
+
 It is possible by a slow and patient method consisting of much
 repetition, producing greater and greater accuracy, to train a feebleminded child to do some one of these things supremely well, to
 produce a really well-made, saleable article. Such success builds
@@ -414,12 +444,12 @@ specialized a training, but at least a training in making certain
 things. When the child leaves the public school, however, there is
 no place for him to put into practice what he has learned at school,
 he is much in the position that a trained typist would be in a city
-ADJUSTMENT OF FEEBLEMINDED 53
 without typewriters. He perhaps knows how to make reed baskets,
 brooms or brushes, but 110 one will employ him to make them. The
 Poor child, deprived of the school regime, and with nothing else to
 turn to, and lacking the initiative to make new adaptations, idles
 away his time and gets into difficulties.
+
 What is needed seems to be an Industrial Plant into which those
 trained in the special classes could be graduated, where those who
 had learned to make good rugs, baskets, toys, cake, candies or what
@@ -431,6 +461,7 @@ those above mentioned and more are at present taught in one or
 another special school) are vocational in character. The plant, of
 course, would have to be directed by persons experienced in dealing
 with the feebleminded.
+
 Many of the more capable feebleminded would by such a plan
 be kept usefully and gainfully employed, and be made happy by
 the fact that they were self-supporting. Moreover, they would be
@@ -438,6 +469,7 @@ kept out of harm's way during the major part of every day. Those
 who had good homes could return to them at night and those who
 had not could live in a colony home in which their earnings would
 probably pay their way.
+
 Such a plant and colony is a suggestion of a type of supervision
 which might well prove successful with many of the school-trained,
 high-grade feebleminded of our cities. Such a supervision would
@@ -446,6 +478,7 @@ the individual life, but a supervision integral in school and vocational trainin
 of the day's events, the day's business and behavior, and would
 therefore be more intimately and immediately related to it than the
 closest supervision by a visitor.
+
 Such a plant and colony would be in reality the creation of a
 community for feebleminded within the community rather than an
 adaptation of the feebleminded to life under existent conditions.
@@ -453,6 +486,7 @@ However, it would be far from institutional segregation and would
 result in changing many of the high-grade feebleminded who now
 lead altogether miserable, wholly or partially dependent lives into
 useful, self-supporting, self-respecting individuals.
+
 The idea of an industrial plant for the feebleminded is not en54 THE PSYCHOLOGICAL CLINIC
 tirely new. For some years London has successfully conducted
 an industrial institution. The London institutions for the feebleminded are distinctly differentiated in regard to intake and
@@ -461,6 +495,7 @@ a custodial institution for the lower grade of feebleminded and an
 industrial institution for those capable of productive work. The
 London industrial institution differs from the plant which we propose in being residential and in being entirely dissociated from the
 work of the London day schools for mental defectives.
+
 Our idea is to make the industrial plant the crown of the public
 school work for mental defectives, the place to which the special
 schools would graduate their capable workers. It would make

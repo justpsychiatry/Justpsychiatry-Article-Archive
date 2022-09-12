@@ -1,10 +1,9 @@
 The Respiratory Significance of Blood Counts
 =============================================
 
-:Author: Max Trumper, Ph.D.
+By Max Trumper, Ph.D.
 In charge of Psyclio-biochemistry Laboratory, Psychological Clinic,
 University of Pennsylvania
-
 Normally we give breathing no thought. No doubt the inexhaustible abundance of air and the automatic character of respiration account for this. But when we consider as Professor Brubaker
 has stated, that "we are standing at the bottom of an ocean of air
 7 miles high at a pressure of 15 pounds to the square inch," and
@@ -15,7 +14,6 @@ by inspection. "A doubling of the volume breathed per minute is
 scarcely or not at all noticeable either by the breather himself or
 by the casual observer and it may even escape the careful observer
 unless he measures it.''
-
 To obtain accurate quantitative data some measuring device is
 essential. Pneumographic tracings show the excursions of the
 thoracic and abdominal walls, but do not indicate the volume of
@@ -24,25 +22,25 @@ Metabolism apparatus because, although primarily designed for determining the ba
 themselves readily to the calculation of volume per breath or tidal
 ventilation, the respiratory rate, total ventilation per minute and
 the oxygen dilution factor.
-
 In the average resting male adult about 500 cc. of air is inspired
 with each breath and almost the same volume is expired with each
 breath. This is known as the tidal ventilation.
-
 The rate of respiration taken by itself is not a true index of the
 actual ventilation of the lungs. An increased rate with increased
 tidal air results in a high minute ventilation, while the same increased respiratory rate with shallow breathing may indicate subnormal or low minute ventilation. Clinically we are in the habit of
 recording the respiratory rate and disregarding entirely the very
 important factor of the depth of respiration. As a specific example
+* This paper was presented before the section 011 General Medicine of the
+College of Physicians on December 23, 1929, and discussed by Professors Albert
+P. Brubaker, L. Napoleon Boston, Stanley P. Eeimann and Dr D. R. Meranze.
+8 THE PSYCHOLOGICAL CLINIC
 a patient with pneumonia having a respiratory rate of 30 with a
 tidal volume of 300 ec. is not anoxemic whereas another patient
 with the same respiratory rate but with a tidal volume of only 150
 is in serious danger of anoxemia.
-
 The total minute ventilation is the product of the respiratory
 rate multiplied by the average volume per breath. This represents
 the amount of pumping of the pulmonary bellows.
-
 Authorities agree that the volume per breath of the normal individual at rest is from 10 to 12 per cent of the normal vital capacity.
 The vital capacity is the greatest amount of air that can be expired
 after a maximum inspiration. The vital capacity varies with height,
@@ -50,7 +48,6 @@ weight, sex, age and skin area. The advantage of a large vital capacity is that 
 Thus the bellows or lungs have less work to do. From the standpoint of symptoms it is the functional or vital capacity rather than
 the anatomical or total capacity of the lungs that is of interest to
 the Clinician.
-
 This paper is concerned with the Respiratory Significance of
 Blood Counts and with the previous facts pertaining to respiration
 in mind we will turn briefly to the subject of blood counts.
@@ -59,7 +56,7 @@ approximately 5,000,000 per c.mm. The normal range is from
 4,500,000 to 6,000,000 and some authorities extend the normal range
 to 6,400,000. In women the limits of the normal range are approximately from 4,300,000 to 5,300,000.
 The effects of altitude, of congenital and acquired heart conditions, of acute and chronic pulmonary lesions and of any condition
-of temporary anoxemia on the hemoglobin and erythrocyte findings
+of temporary anoxemia on the haemoglobin and erythrocyte findings
 have been widely recognized. According to my findings in a group
 of 76 young adult males all free from gross pathology, THAT INDIVIDUAL WHO SHOWS A SO-CALLED HIGH NORMAL RED
 CELL COUNT (from 6 to 6,500,000) DOES SO AS A RESULT OF
@@ -67,19 +64,17 @@ INEFFICIENT BREATHING, and conversely THAT INDIVIDUAL WHO SHOWS A LOW NORMAL RED
 (4,500,000 to 5,000,000) DOES SO AS A RESULT OF EFFICIENT BREATHING. This correlation as far as I am aware is
 presented for the first time and may be construed as a principle
 of physiologic compensation.
-
 General procedure: Evidence of this correlation was obtained
 in the following manner. Basal metabolic rate, volume per breath,
+SIGNIFICANCE OF BLOOD COUNTS 9
 respiratory rate, ventilation per minute, hemoglobin estimations by
 the Sahl-Leitz and Newcomer methods, erythrocyte count, red cell
 volume and vital capacity were obtained.
-
 I secured in each case at least two breathing curves, using a
 standard graphic Sanborn Metabolism apparatus, under the standard conditions required for basal metabolic determinations. To prevent the hypothesis of the existence of a hemato-respiratory correlation from influencing the counting of the cells and estimating the
 hemoglobin, this work was transferred to my assistant in the laboratory. The calculating of the tidal ventilation and the total ventilation per minute was given to someone outside the laboratory.
 All the cases were grouped according to their type of breathing:
 (a) shallow or inefficient; (b) deep or efficient; (c) average.
-
 In the following table Group A comprises shallow breathers,
 with a volume per breath of 16 per cent, a total minute ventilation
 of 11 per cent, and an oxygen dilution factor of 25 per cent, below
@@ -103,8 +98,8 @@ This particular compensatory mechanism is definite and } et has
 not heretofore been observed, nor have any clinical inferences been
 made. Therefore, a wide range (four and one-half to six and onehalf million red cells for males has been accepted as normal foi
 the red-cell count.
-
 In Group B it can be seen that the total ventilation per minute,
+10 THE PSYCHOLOGICAL CLINIC
 volume per breath and the dilution factor are all larger than in
 group A. Thus group B demonstrates more efficient breathing and
 should not require any compensatory rise in red cells or hemoglobin.
@@ -112,7 +107,6 @@ Such is the case. On the other hand, in group A, the hemoglobin and
 red cells are high, because more hemoglobin and red cells are needed
 to compensate for the low volume per breath, total ventilation and
 oxygen dilution factor.
-
 The age and respiratory rate of all three groups are so much
 alike that no differentiation need be made in this respect.
 Finally, group C stands midway between group A and B in
@@ -127,7 +121,6 @@ is 24. Thus, in any instance where the total ventilation is not quite
 sufficient to supply the metabolic demand for oxygen, the dilution
 factor will usually be low, with the consequent compensatory rise in
 the hemoglobin and red cells.
-
 On examining group A it will be noted that the average diluting
 factor is 24, the lowest of the three groups while the red cell count
 averaged 6,224,000 which is the highest of the three groups. Thus
@@ -135,7 +128,6 @@ the high red cell count compensated for the low dilution factor.
 Group C is the largest group and stands midway in hematologic
 as well as respiratory findings, again confirming the principle of
 physiologic compensation.
-
 Thus it becomes evident that in normal individuals a red cell
 count may lie between ^/2 and 6V2 millions per c.mm. If the count
 is about 4i/o to 5 millions, other things being equal, the breathing
@@ -145,9 +137,9 @@ shallow compensated by a high red count and high hemoglobin.
 In other cases of shallow breathing, periodic deep breaths were
 taken in a more or less successful attempt to assist in the compensation. Likewise, many cases showing low vital capacity compensate by an increase in the depth of breathing. "Where the
 compensation was adequate, the red cell count and hemoglobin
+SIGNIFICANCE OF BLOOD COUNTS 11
 were normal, where inadequate the erythrocytes and hemoglobin
 were increased.
-
 Discussion of Paper by Dr Max Trumper
 "The Respiratory Significance of Blood Counts"
 Bij L. Napoleon Boston, M.D.
@@ -156,7 +148,6 @@ rational conception of polycythemia and this fundamental contribution provides f
 conservative or compensatory vital reaction on the part of the individual, an automatic attempt to make up for the deficient oxygenation of the tissues by increase in the number of red cells, which are
 the oxygen-carriers of the blood. Vaquez called special attention
 to this condition in 1892 and Osier in 1903.
-
 Dr Trumper has given us a method of precision through which
 we may estimate the degree of pulmonary ventilation and has
 further shown that this has to do materially with an increase in
@@ -167,12 +158,10 @@ air causes incomplete aeriation; to congenital cardiac disease where
 the venous blood is polluted by the arterial stream; to Ayerza's disease where there is supposed to be leuitic involvement of the pulmonary tissue and vessels; and to the rather common polycythemia
 of both cardiac and pulmonary origin, as well as to polycythemia
 vera of Vaquez-Quiserne and Osier.
-
 Lintz (International Clinics, Vol. V, Dec., 1927) found through
 autopsy studies that individuals with small hearts and comparatively
 narrow blood vessels had large lungs and that those with relatively
 well developed heart and blood vessels have relatively small lungs.
-
 In acute infections where cyanosis is conspicuous it will be
 found upon examination that physical signs are present suggesting
 underfunction of the lungs. Thus the polycythemia may be a terminal stage in acute pneumonic processes. In congenital cyanosis
@@ -182,7 +171,6 @@ The blood making organs in response to the lack of oxygen
 voluntarily produce an abnormal number of red cells, six to ten mil12 THE PSYCHOLOGICAL CLINIC
 lions; the color index is low. The viscosity of the blood is often increased; whereas coaguability or clotting time is prolonged to fifteen minutes or more, while the number of blood platelets remains
 normal. Basal metabolic rate is ordinarily increased.
-
 These cases present, as a rule, cyanosis, hemoptysis, clubbing of
 the fingers, recurrent attacks of epistaxis, anemic infarcts and thromboses. Sweating, headache, vertigo, tinitus, dyspneoa, gastric discomfort, gastric acliylis, mental dullness and loss of memory are
 late symptoms. Hand in hand with these findings the blood pressure is low, except in aged subjects when it may be high. Clinicians

@@ -1,10 +1,13 @@
 A Comparison of Orthogenic Backward Children and Regular Grade Children at the Six-Year Performance Level
 ==========================================================================================================
 
-By Mabel R. F arson
+:Author: Mabel R. F arson
 Supervisor of Mental Examinations, Division of Special Education,
 Philadelphia Public Schools
+
 The Problem
+-------------
+
 A question which is frequently put to members of the Division of
 Special Education of The Board of Public Education, School District of Philadelphia, by visiting psychologists and educators is an
 inquiry as to how placement of children in Orthogenic Backward
@@ -13,6 +16,7 @@ frequently the question takes the form, "What is the range of Intelligence Quoti
 "With how low an Intelligence Quotient do you permit children
 to enter the Orthogenic Backward Classes and what is the upper
 limit ?''
+
 It has never been the belief of this Division that placement of
 children in these special classes, to which for convenience we shall
 subsequently refer as 0. B. classes, should be made upon so arbitrary and so narrowly definitive a basis as some particular psychometric measure. The selection of children for special educational
@@ -27,9 +31,6 @@ children are then given psychological tests and their performances
 are analyzed from both qualitative and quantitative points of view
 to determine their abilities and their defects. The examiners critically interpret and evaluate the performances of the children and
 make judgments as to whether or not their competency is so limited as to make special educational treatment advisable. Since it
-149
-10
-150 THE PSYCHOLOGICAL CLINIC
 has never been the policy of this Division to use "Intelligence
 Quotients with a sooth-sayer's finality,"1 no definite Intelligence
 Quotient limitations for children in 0. B. classes have ever been
@@ -37,6 +38,7 @@ set. Placement has always been made on the basis of the pedagogical needs of the
 the city would show the range of Intelligence Quotients to be
 great, including some cases of relatively high Intelligence Quotients in which some specific mental defect or defects in personality, motivation or adjustment was responsible for failure to gain
 adequate proficiency in school.
+
 A desire to define in some way this group, which has been
 judged as having inferior competency to the extent of rendering
 its members incapable of profiting by the instruction offered in the
@@ -54,6 +56,7 @@ grade group. The only previous comparative study of children in
 the regular grades and in the 0. B. classes of the Philadelphia
 Schools was embodied in McCaulley's 2 study in which she compared the memory spans of regular grade children with those of
 children in the 0. B. classes.
+
 The standards of performance which were available for purposes of comparison had to be taken into consideration. The Witmer Diagnostic Standards, compiled as the result of investigations
 of competency at different significant age levels, afforded the most
 satisfactory means of comparison. It was necessary, however, to
@@ -63,7 +66,7 @@ deferring comparisons at other levels for some future date.
 analytic diagnosis, Psychol. Clin., 1925, 16, 1-18.
 2 S. McCaulley, A study of the relative values of the audito-vocal forward memory span and the reverse span as diagnostic tests, Psychol. Clin.,
 1928, 16, 277-291.
-A COMPARISON OF CHILDREN 151
+
 The six year level of competency presented a logical choice as
 a basis for the first comparison of the children comprising the 0. B.
 group and the regular grade group of children. Witmer has
@@ -74,11 +77,13 @@ are on the table," i.e., that his congenital competency has sufficiently develop
 There was available at this level for purposes of comparison the
 results of Easby-Grave's4 investigation which constituted the six
 year level of the Witmer Diagnostic Standards.
+
 It was decided then to make this first attempt to define the
 0. B. group by comparing with the six year Diagnostic Standards
 the performances of a group of children in 0. B. classes, selected
 on the same basis as that used by Easby-Grave in establishing the
 Diagnostic Standard.
+
 Method of Procedure
 For this particular investigation, there were selected 500 children who were in the 1A and IB grades when they were referred
 for psychological examinations, and who as the result of such
@@ -95,10 +100,6 @@ Special Education are few in number because it is difficult to find
 in any locality enough children who need and can profit by this
 type of training. As the name implies, a restoration class is a
 class in which educationally retarded children are given specific
-3 L. Witmer, The problem of educability, Psychol. Clin., 1919 12 174178.
-4 c. Easby-Grave, Tests and norms at the six year old performance level
-Psychol. Clin., 1924, 15, 261-300. '
-152 THE PSYCHOLOGICAL CLINIC
 teaching with the aim of speeding up their school accomplishments,
 thus enabling them to return to the normal grade for their age.
 Sometimes children who are real restoration cases are placed in
@@ -115,6 +116,7 @@ every case which filled the requirements for this investigation and
 which had been examined in the years from September, 1927 to
 June, 1930 was used. A few earlier cases which had been examined by the writer and which were found in these files were also
 included.
+
 Because of the method of assembling cases, children were
 culled from many different schools, and varied environmental conditions. When it was estimated that about 500 cases had been
 chosen, a count showed that this indiscriminate choice had resulted
@@ -136,7 +138,6 @@ child. Many teachers show a decided reluctance to recommend
 for special educational treatment the dull but infantile and winning, or the shy, timid and rather attractive little girl because of
 their belief that the O. B. classes of their particular community
 are not socially desirable for such little girls. It is not unusual to
-A COMPARISON OF CHILDREN 153
 hear such remarks as, "She is too nice a child to be placed in an
 0. B. class."
 A classification of the group on a racial basis shows that 95, or
@@ -150,6 +151,7 @@ they have had little or no school opportunities. Their chronological ages range 
 Fourteen of these cases were ten or more years old when examined. Obviously these cases contribute to the greater chronological
 age of the 0. B. group as compared with the regular grade group
 of the Easby-Grave study.
+
 An analysis according to the nationality of the parents shows
 that 90 boys and 48 girls, a total of 138 children or 27.6 per cent of
 the group, are of foreign parentage. Particular nationalities are
@@ -161,6 +163,7 @@ Lithuania & Latvia  7
 Germany  7
 Ireland  3
 Greece  2
+
 Armenia, Ukrania, Hungary, Austria  1 each
 The percentage of children of foreign parentage is not so great
 in the O. B. group as in the regular grade children whom EasbyGrave used for her study. She took children from five Philadelphia schools, two of which were located in a neighborhood where
@@ -174,7 +177,6 @@ of the father's occupation. Perhaps in some cases the occupations
 ranked a little high because there was no way of knowing, when a
 child said his father was a carpenter or a plumber, for example
 whether he was a skilled mechanic or merely a helper. The occus Figures of June, 1931.
-154 THE PSYCHOLOGICAL CLINIC
 pations of the parents were classified as well as could be done from
 the descriptive terms used by the children according to Taussig's
 5 point scale.
@@ -183,6 +185,7 @@ Class I?Laborers, unskilled and untrained manual workers ... 83 34
 Class II?Factory and mill workers doing the simpler operations and semi-skilled workers  94 38.5
 Class III?Skilled workmen   55 22.5
 Class IV?Clerks, salesmen, shopkeepers, etc  12 5
+
 All twelve cases listed in Class IV were shopkeepers except one
 man, the father of twin boys, both of whom were included in this
 study, who was a druggist. While the source of these results is
@@ -195,6 +198,7 @@ economic and social order. It must be taken into consideration
 that some of the backward children of professional people, the
 higher grade shopkeepers, etc., are sent to private schools when they
 encounter difficulty in keeping up to grade standards.
+
 It is apparent that a large percentage of this typical group of
 0. B. children suffer an environmental handicap. Not only do
 their homes fail to provide cultural advantages but they also in
@@ -202,6 +206,7 @@ many cases do not furnish the opportunities for acquirement of
 even the minimum intellectual development necessary to build an
 adequate background for the introduction of school work nor for
 the development of satisfactory motivation patterns.
+
 In the matter of language development many of the children are
 seriously handicapped. They enter school with greatly restricted
 vocabularies and consequently poor comprehension of English.
@@ -209,19 +214,20 @@ Concepts of both concrete and abstract words which occur in school
 readers must often be developed before any attempt is made to
 teach the recognition of the printed word. The poor comprehension
 of language also influences the Binet I.Q.
+
 The psychological examinations, the records of which were used
 for this study, were made with a view to determining the best educational treatment for the children involved. They represent the
 general run of cases of the psychological clinic of the Division of
 Special Education and when the examinations were made it was
 not planned to treat the results statistically. Consequently this
 study differs from the investigations made in establishing the age
-A COMPARISON OF CHILDREN 155
 level norms in that there was no previous definite selection of a
 battery of tests to which every child was subjected. The children
 were given those of the available tests which would enable the
 examiner to make a judgment of their competency and permit
 such an analysis of their performance as would lead to definite
 recommendations for educational treatment.
+
 The Division of Special Education maintains a central clinic
 to which children may be brought for examination by parents,
 teachers or interested parties; most of the cases, however, were
@@ -245,17 +251,18 @@ which have been noted by the school physician. Since the children
 coming to the central clinic do not bring their registration and
 medical cards, such information as seems pertinent is obtained
 from the person accompanying the child.
+
 A brief social history is obtained from the child himself in the
 schools or from the person accompanying him to the central clinic.
 An effort is made to determine the members of the household, the
 occupations of the parents, and whether or not any social agency
 has contacts with the family.
+
 The time which the child requires to do the performance tests
 is recorded on this Individual Clinical Record Sheet. His mental
 age, his I.Q., his memory spans, audito-vocal, visual and reverse
 and his proficiency in the various school subjects are also noted on
 this record. In addition this sheet contains a list of eighty-eight
-156 THE PSYCHOLOGICAL CLINIC
 personality qualities and the particular qualities checked in each
 case give an indication of the child's personality, the maturity level
 of his general orientation and his manner of response.
@@ -275,6 +282,7 @@ some variations of standardized procedure and directions were
 necessary in order to elicit the best and most significant performance from the child, variations necessitated by peculiarities in personality such as shyness and timidity, stubbornness, fear, etc., or
 by a language handicap or marked mental deficiency accompanied
 by limited comprehension, and so forth.
+
 The usual procedure of the examiner is to begin the examination with the Witmer Form Board, because of the interest which
 it arouses, because it is usually easy enough to be successfully accomplished, and has been found to be a good means of establishing
 rapport with young children. Of the 500 children whose records
@@ -291,13 +299,13 @@ where the tray would be in the regular formboard.
 For the reasons previously stated, only a limited number of
 children had the opportunity to do the Witmer Cylinder Test,
 68 children, 38 boys and 30 girls, had one trial on this test, 67
-A COMPARISON OF CHILDREN 157
 children, 38 boys and 29 girls, had two trials and 61 children, 35
 boys and 26 girls, performed the test three times. The test is
 usually given to younger children with the directions used for the
 Easby-Grave investigation, which differs from the standardized
 directions in calling attention to the smoothness of the top when
 the blocks are properly placed.
+
 The Healy A test is presented in the following manner: the
 blocks are removed without permitting the child to see the completed test and are arranged so that they are not seen in the correct relationship for placing. Then the child is told to ''put all the
 blocks back so that they all fit in and there are no spaces left.'' A
@@ -316,6 +324,7 @@ are used and the procedure is that used by Easby-Grave. The digit
 memory span tests, audito-vocal, visual-vocal and reverse, were
 given to all the 500 children who constituted this sampling of O. B.
 children.
+
 Every child also was given the starred series of the Stanford
 Revision of the Binet-Simon Tests. No substitutions of tests were
 made as in the Easby-Grave study.
@@ -326,7 +335,6 @@ Gray Oral Reading Check Tests and a check on counting and recognition of phonic 
 Results
 The results are shown in the Decile Tables following the discussion. To facilitate comparison with the results for the EasbyGrave regular grade group, these latter results are given in
 parentheses.
-158 THE PSYCHOLOGICAL CLINIC
 Chronological Age
 The purpose of this investigation is to indicate what 0. B. children are like by comparing their performances with those of regular grade children at some particular functioning level. When
 the functioning level is defined somewhat loosely as competency to
@@ -336,6 +344,7 @@ this level at a somewhat greater chronological age than the normal
 child. The chronological ages of the 0. B. group, ranged from 5
 years, 10 months to 14 years, 10 months with a median age of 7
 years, 11 months.
+
 A comparison of the tables of the Easby-Grave investigation
 and the 0. B. group shows that the 0. B. group is older. The
 differences in the ages of two groups at corresponding decile levels, varies from 6 months to 46 months and the average
@@ -360,7 +369,6 @@ Then too, in some quarters there is a reluctance to recommend
 children for special classes until they have been "tried out" in
 the grades, with the result that children who are not capable of
 profiting by regular grade instruction are permitted to waste several terms in the grade, forming bad habits of attention and work,
-A COMPARISON OF CHILDREN 159
 before they are referred for examination. There is however a
 rapidly growing tendency on the part of first grade teachers to
 refer for psychological examinations their problem children in the
@@ -368,7 +376,9 @@ first term of school, to determine whether they can be handled in
 the grade or whether they need special educational treatment.
 Early selection of those who need special pedagogical procedure is
 an economical measure for both the child and the school system.
+
 Witmer Form Board
+
 The Witmer Formboard is a significant test for the younger
 children in our group. It is of more importance from a diagnostic
 point of view than is apparent from the quantitative comparison
@@ -384,6 +394,7 @@ at which it is standardized "the number of individuals who succeed do not more t
 that the Formboard test does not provide enough novel elements
 nor make great enough demands on the originality of this group
 to excite a display of intelligence.
+
 A comparison of the results of the 0. B. group and the regular
 grade group of the Easby-Grave investigation shows that there is
 a more extensive distribution in time results for the 0. B. group,
@@ -397,7 +408,6 @@ As is to be expected, the inferior children show the greatest deviation from the
 In the 0. B. group there are 3.6 per cent failures on the first
 trial as contrasted to 2.6 per cent failures in the regular grade
 e L. Witmer, Intelligence?a definition, Psychol. Clin., 1922, 14, 65-67
-160 THE PSYCHOLOGICAL CLINIC
 group. On the second trial, there is a one per cent failure in the
 0. B. group and no failures in the regular grade group. On the
 third trial there are 1.2 per cent failures in the 0. B. group. (The
@@ -405,6 +415,7 @@ regular grade children did not have a third trial.)
 The following table shows the differences between the regular
 grade and the 0. B. group at each decile level above the zero and
 one per cent points, where failures are recorded for both groups.
+
 Table 1
 Witmer Form Board. First and Second Trials
 First Trial Second Trial
@@ -428,6 +439,7 @@ represents approximately the superior 20 per cent. Of these only
 20, or 18 per cent are below the median in chronological age and
 90, or 82 per cent are above the median. There is thus shown a relation between age and formboard ability which not even "backwardness" or inability to progress adequately in school is great
 enough to offset.
+
 Many of these older children do the Witmer Formboard so
 easily and quickly that their performances throw little or no light
 on the cause of their difficulty in school. It can be noted for these
@@ -436,10 +448,10 @@ which strikes more nearly at their chronological age level, shows
 that if their chronological ages are considered, they are relatively
 inefficient. There are some younger children also whose perform7 H. H. Young, Physical and mental factors involved in the formboard
 test, Psychol. Clin., 1916, 10, 149-167.
-A COMPARISON OF CHILDREN 161
 ances fall in the best 20 per cent group and for such children their
 performances provide a display of abilities which can be utilized
 in teaching them.
+
 The children who encounter difficulties in solving the Formboard Test frequently reveal in their performances some of the
 specific defects which handicap them in school. In such cases an
 analysis of the performance is of value. For example, does he
@@ -465,12 +477,12 @@ dealt with adequately only in a relatively small group where the
 rate of progress can be adjusted to the capability of the child and
 does not need to be dictated by the arbitrary demands of a course
 of study.
+
 Sometimes the child's errors lead one to suspect inferior visual
 imagery, i.e., he does not hold the image of the block which he has
 picked up, while he is looking for the correct recess. Some of the
 children reveal poor muscular coordination in the difficulty they
 encounter in placing the blocks in their appropriate recesses. In
-162 THE PSYCHOLOGICAL CLINIC
 such eases the necessity is indicated for blackboard work as the
 earliest work in writing because the larger size of the writing makes
 less demands on the coordination, and is an effective means of preparing the way for ultimately better writing on paper. Simple
@@ -485,6 +497,7 @@ other material lying about, etc., show marked defects in concentration since thi
 instruction is thus shown and the need for specific efforts to build
 up better habits of attention as the first step in the learning process
 is pointed out.
+
 Some knowledge as to the vitality, the degree of maturity and
 the personality of the child is gained from an observance of his
 performance on this test. Some of the 0. B. group show in their
@@ -494,6 +507,7 @@ often gives some indication as to these defects as does also their
 lack of enthusiasm with however perfect willingness to do what is
 asked of them, their slow rate of movement, and in some instances,
 the increased time on the third trial.
+
 A comparatively large proportion of the 0. B. group at this
 level are infantile in their general reactions and sometimes this
 trait is displayed in their manner of patting the blocks after they
@@ -502,10 +516,10 @@ urging, or in their babyish dependence as they appeal to the examiner or the par
 timid child, the poised child and the hyper-excitable child likewise
 reveal something of their personalities as they do this test.
 Witmer Cylinder Test
+
 The norms established for the Witmer Cylinder Test by Paschall
 show that, as in the Formboard, there is a positive relation between
 chronological age and time required to do the test. The number
-A COMPARISON OF CHILDREN 163
 of children in onr group who did this test is so small that the results are probably not very significant.
 Easby-Grave's results show that 47.6 per cent of the regular
 grade group fail on the first trial of the Witmer Cylinder Test
@@ -537,6 +551,7 @@ limit has expired, saying, "It's too hard" or "I can't do it," etc.
 a resumption of effort whereas others must be urged to go on. It
 is not at all unusual for children at this level to appeal to the examiner for help.
 Healy Construction Test A
+
 The Healy Construction Test A presents too difficult a problem
 to be a test of intelligence for children of the six-year level. Terman in his Revision of Binet-Simon Tests places the Healy A at
 164 THE PSYCHOLOGICAL CLINIC
@@ -544,6 +559,7 @@ the ten-year level (Alternative Test 3?to be solved three times in
 five minutes). The Lowe, Shimberg, Wood Norms give median
 and quartile rankings for each chronological age from 9 to 17 years
 inclusive.
+
 Of the 464 0. B. children at the six year level who took the
 Healy A Test, 348 or 75 per cent of them failed on the first trial.
 It is of some advantage, however, to observe a child's reactions
@@ -558,6 +574,7 @@ urged to continue, ask to be permitted to stop several times before
 the time limit has expired. Such performances contribute to an
 adequate knowledge of the child which is vital from an educational
 point of view.
+
 The Healy A is particularly significant as a learning test for
 children of this level. There are 29.1 per cent failures on the second trial as compared to 75 per cent failures on the first trial.
 Only 10.4 per cent failed on the third trial. There were 24 cases
@@ -580,6 +597,7 @@ school instruction, some knowledge of the child's powers of visual
 imagery is important because of the part this ability plays in learning to read.
 A COMPARISON OF CHILDREN 165
 Memory Span
+
 The results of the memory span tests for this group show a
 negligible sex difference which concurs with the findings of other
 investigators. The performance of this representative group of
@@ -590,6 +608,7 @@ for the six-year level by Easby-Grave shows that the regular grade
 group has an auditory memory span one digit higher at each decile
 level except the 20th and 30th percentiles where the span is the
 same for both groups.
+
 Another method of comparison, as shown in the following table,
 perhaps makes the difference in the audito-vocal memory span more
 apparent. The median and modal audito-vocal memory span for
@@ -610,17 +629,18 @@ Digits Reg. Grade O. B.
 7   7.8 .4
 8  1.6
 9 2
+
 The inferiority of the 0. B. group in auditory memory span is
 even greater than is apparent from an inspection of the comparative tables. All investigations with this test have shown that there
 is a direct relation between memory span and chronological age,
 and since the 0. B. children are older, they should be expected to
 do better.
+
 This test measuring as it does the number of discrete elements
 which an individual is able to grasp in any one act of attention
 reveals one of the contributing factors to the demonstrated inability of the 0. B. group to make adequate progress in the regular
 grades. The experience of members of the Division of Special
-11
-166 THE PSYCHOLOGICAL CLINIC
+
 Education has led to the belief that a memory span of 3 is not great
 enough to enable a child to do the work of a first grade in a regular
 first grade except in rare cases where some marked compensating
@@ -628,6 +648,7 @@ ability is present. Of the group used for this study 18.2 per cent
 have an auditory memory span of 3 and 1.4 per cent have an auditory memory span of only 2. Considering the age and the repetitions of grade of many of the children, it seems probable that a
 still larger number may have had auditory memory spans of only
 3 when they first entered school.
+
 The results which have been outlined indicate that the auditory
 memory span test is highly significant from a diagnostic point of
 view and that it is of value in indicating pedagogical procedure.
@@ -649,12 +670,12 @@ grade rate because of the small amount of work taken at any one
 time. The limitation imposed by a poor memory span must constantly be borne in mind, in giving directions for work, and in
 planning the teaching both as to amount to be covered and method
 of instruction.
+
 Attention has frequently been called to the fact that it is probable that no one has a true memory span of more than 5, considering the true memory span as the number of discrete elements which
 an individual is able to grasp in a. single coherence. Some of the
 children of the 0. B. group and more than half of the regular grade
 group at the six year level repeated 5 digits or more. It is probable
 that many of these children had a true memory span of 3 and that
-A COMPARISON OF CHILDREN 167
 none had a true memory span of more than 4. Their results on
 the memory span test (unless echolalia) were achieved by grouping. In such cases, each group becomes a unit and the individual
 constituents of the group lose their identity as discrete elements.
@@ -673,6 +694,7 @@ because what seems to her to be one step may in reality be two or
 three for handicapped pupils. In planning lessons the teacher finds
 it necessary to analyze the material into its most fundamental units,
 to avoid this difficulty.
+
 For the visual-vocal memory span, Easby-Grave found that the
 median and the mode was 4 in the regular grade group, one less
 than the median and mode for the audito-vocal span. With the
@@ -682,6 +704,7 @@ this group. However, it must also be noted that an inability to
 give a visual span occurs almost as frequently as the modal span
 of 4.
 Table 3
+
 Percentage in Regular Grade and O. B. Group Obtaining a Given VisualVocal-Digit Memory Span
 Digits Reg. Grade O. B.
 F   17.0 25.8
@@ -696,10 +719,10 @@ G    11.0 6.8
 Though the median and the mode of the two groups are the
 same, 42 per cent of the 0. B. group have visual memory spans
 of less than 4, as contrasted with the 23.4 per cent who fall below
-168 TEE PSYCEOLOGICAL CLINIC
 this level in the regular grade group. The 0. B. group, however,
 is slightly less inferior in the visual than in the auditory memory
 span.
+
 At the six year level the reverse memory span is not as significant a diagnostic test as it is at higher levels. A comparison of
 the frequency distributions of the two groups shows less difference
 in the scores for the reverse memory span than in the case of the
@@ -713,6 +736,7 @@ F  42.4 55.4
 3 31.0 14.2
 4  7.2 1.6
 5 6 0
+
 It is significant that for approximately half of the children both
 in the regular grade group and in the 0. B. group the reverse
 memory span is too complex a problem. It may be assumed that
@@ -722,7 +746,10 @@ their age is taken into consideration the reverse memory spans of
 the 0. B. groups are inferior to the age level norms established by
 the Binet Scale, their inferiority in this respect cannot be held
 accountable for their lack of school success at the six year level.
+
 The Binet Scale
+---------------
+
 The Binet Scale is included in the battery of tests given to
 children who are failing in school because it gives a quantitative
 measure of the child's general proficiency level and if subjected to
@@ -735,7 +762,6 @@ The quality of his response as well as its quantitative measure gives
 some idea of the child's degree of intellectual complexity. From a
 diagnostic point of view, the information gained from an analysis
 of the child's performance is of more value than the mere Intelligence Quotient.
-A COMPARISON OF CHILDREN 169
 At the six year level the I.Q. is not in itself a reliable measure
 of competency any more than is any other single test used in this
 battery. In the discussion of the performance tests it was pointed
@@ -744,6 +770,7 @@ to or better than the average of the regular grade group, on these
 tests, who, however, showed marked defects in memory span and
 in intellectual ability which rendered them incapable of competing
 in the regular grades.
+
 The diagnostic significance of the I.Q. and other test results may
 be illustrated by a few brief clinical studies of cases in our group.
 Elizabeth was 6 years of age, and had been in school only one
@@ -763,6 +790,7 @@ which are not frequently confused. On the Healy A, Elizabeth
 failed on her first trial. She was taught how to do the test but
 failed again on the second trial. The third trial required 24 seconds and was accomplished with one error. The fourth trial took
 22 seconds.
+
 The child had an auditory memory span of 4, which was satisfactory for her age. The reverse memory span was too complex
 for her. On the Binet Scale she had a basal age of 6. At the 7
 year level she passed the test requiring a description of pictures.
@@ -770,9 +798,9 @@ It was noted that her response was slow and that her expression
 was dull. In the one month she had been in school, she had learned
 to recognize 3 digits?1, 5 and 3?which was the extent of her
 school accomplishment.
+
 The significant items of Elizabeth's performance were her inferior visual discriminability, her poor learning ability (as shown
 on performance tests and in the class-room) and her slowness of
-170 THE PSYCHOLOGICAL CLINIC
 response. On the psychological analysis chart she was rated on a
 5 point scale as follows: ability to profit by experience 2, ability
 to solve problems 2, discrimination 2, visual imagery 2, learning
@@ -781,6 +809,7 @@ ability 2, and muscular coordination 2. The recommendation was:
 inferior learning ability, Elizabeth will not be able to make normal
 progress in a first grade. It is, therefore, advisable to place her
 in an 0. B. Class."
+
 Eleanor was 6 years 11 months of age and had an I.Q. of 98.
 She was spending her third term in a 1A grade. Her school proficiency consisted of being able to count to 29 and to recognize a
 few sight words. She knew no phonics, was of course unable to
@@ -808,7 +837,6 @@ to 12. He had not the slightest concept of number combinations,
 recognized no sight words and knew no phonic elements.
 At this examination "Walter achieved an I.Q. of 91. His memory spans were auditory 5, visual 4, reverse 2. His time on performance tests was as follows:
 Witmer Form Board (1) 45 sec., (2) 40 sec., (3) 28 sec.
-A COMPARISON OF CHILDREN 171
 Ilealy A (1) Failure, (2) 18 sec., (3) 37 sec., (4) 27 sec.
 On the Binet he had a basal age of 6 years.
 At the seven year level he could tell how many fingers he had
@@ -818,11 +846,13 @@ Walter's performance on all tests at this time was within the
 limits of the 60 per cent median-modal group of first grade children. An attempt to teach him was made. He had no number concept but it was possible to teach him number combinations by
 developing them concretely. He also learned sight words with
 drill.
+
 As a result of this examination, Walter was placed in an 0. B.
 class. An analysis of his performance, too lengthy to be reproduced
 here, was sent to the school. It was stated in this report that the
 boy was very slow to grasp any problem which was at all complex
 and that he needed considerable drill in order to learn.
+
 Five years later, Walter was re-examined by the writer. He
 was now 12 years 8 months of age and was still in an 0. B. class.
 He was clean, polite, cooperative and well conformed, and displayed good social qualities.
@@ -832,6 +862,7 @@ he made an obvious effort to do well. He comprehended what he
 had read. His spelling was inferior 2A-2B work. In arithmetic
 he did 4A addition, 3B subtraction, 3A multiplication and 2B
 division.
+
 His record for performance tests was:
 Witmer Form Board (1) 23 sec., (2) 20 sec., (3) 17 sec.
 Healy A (1) 42 sec., (2) 9 sec., (3) 6 sec.
@@ -843,19 +874,21 @@ years of age he gave adequate responses for only 10 words. He had
 a basal age of 8 years; at the 9 year level he gave the date and
 sentences for three given words, and at the 10 year level named 28
 words in one minute.
+
 At Walter's first examination, his performance from a quantitative point of view placed him in the median-modal group of
-172 THE PSYCHOLOGICAL CLINIC
 first grade children. His subsequent school achievement, however,
 corroborated the diagnosis made in his case. His poor school progress cannot be blamed on inefficient teaching since in the same 0. B.
 class, there were other children whose original test performances
 were not as good as Walter's, who made much greater progress in
 school subjects.
+
 As further examples, there were Raymond, whose I.Q. dropped
 from 88 in 1925 to 73 in 1932, Freddie, whose I.Q. decreased from
 90 in 1927 to 75 in 1932, and Bill, whose I.Q. was 87 in 1926 and
 74 in 1931. Our experience leads us to believe that many of the
 cases used for this investigation would show a similar drop in I.Q.
 upon re-examination.
+
 As Altmaier 8 pointed out, investigators have noted that the
 I.Q. decreases as children reach the higher chronological age levels.
 The consensus of opinion of those quoted by Altmaier was that the
@@ -870,6 +903,7 @@ with many 0. B. children, the drop in I.Q. is not only absolute but
 is also relative, i.e., children fall from a place near the median
 level at the age of 6 or 7 years to the poorest 20 per cent group at
 the age of 12 or 14 years.
+
 A decrease in the I.Q. as a child gets older is in some measure
 inherent in the structure of the Binet Scale. Cases such as those
 cited, however, show a much greater decrease which obviously must
@@ -883,7 +917,6 @@ explanation may lie in the fact that many of these children show
 normal or adequate ability to acquire social competency and that
 s C. L. Altmaier, The performance level of children in the sixth grade in
 two Philadelphia public schools, Psychol. Clin., 1931, 19, 233-257.
-A COMPARISON OF CHILDREN 173
 it is only after they have enrolled in school that the element of
 intellect enters into the situation and that in the competition to
 increase intellectual development, their inferior ability is first displayed. This premise, however, would imply that such a differentiation in abilities measured was intrinsic in the tests of the
@@ -900,6 +933,7 @@ level to 56 points at the 100 per cent level with an average difference for the 
 greatest differences are at the lower decile levels, whereas with the
 Binet Scale the greatest differences occur at the upper decile levels,
 as the following table shows.
+
 Table 5
 Intelligence Quotient
 100th percentile?Regular grade group?55.9 points better
@@ -919,11 +953,11 @@ chronological age and his "mental age" with the result that in the
 score represented by an I.Q., he is not at an advantage because
 of his greater chronological age as is the case with the performance
 tests.
+
 Another element which is an influence in the greater difference
 in I.Q. is that many of the children of the 0. B. group at the six
 year level labor under a handicap in taking the test. With those
 children whose comprehension of English is limited, the handicap
-174 THE PSYCHOLOGICAL CLINIC
 is obvious. It has been shown that the 0. B. group is drawn from
 a social level in which the home training is negligible. In better
 homes children are taught at an early age to tell how many fingers
@@ -934,7 +968,10 @@ their response a failure. Fond parents usually take great pride
 in teaching their children to count at an early age but in many
 homes of a lower social level, a child never has this experience
 until he goes to school.
+
 Summary of Quantitative Results
+----------------------------------
+
 Theoretically one might suppose that the quantitative results of
 the 0. B. group would be comparable to those of the lowest 20 per
 cent of the normal group with perhaps some exceptions.
@@ -944,24 +981,28 @@ group fall in the lowest 20 per cent of the regular grade
 group, considering high chronological age to represent inferiority.
 2. Mental Age. More than 50 per cent of the 0. B. group fall in
 the lowest 20 per cent.
+
 3. Intelligence Quotient. More than 80 per cent of the 0. B. group
 fall in the lowest 20 per cent and all the I.Q.'s fall below
 the median of the regular grade group.
 4. Memory Span.
+
 Auditory. 70 per cent of the 0. B. group are comparable to
 the lowest 20 per cent.
+
 Visual. 40 per cent of the 0. B. group are comparable to the
 lowest 20 per cent.
 Reverse. Two groups show almost the same results.
 5. Witmer Form Board.
+
 First Trial. Only slightly more than 20 per cent of the 0. B.
 group fall in lowest 20 per cent of regular grade group.
 Second Trial. 40 per cent of the 0. B. group fall in the lowest
 20 per cent of the regular grade group.
+
 Summary of Qualitative Observations
 The qualitative analyses of the performances of the children
 whose records were used for this investigation, show that deficiencies
-A COMPARISON OF CHILDREN 175
 of various types contribute to their inability to make adequate
 progress in school. These may be classified under the general headings of Social Factors, Physical Factors, Personality Defects, General Retardation and Specific Mental Defects.
 Social Factors. The classification of the occupations of the
@@ -973,6 +1014,7 @@ the homes offer nothing in the way of cultural advantages. In a
 great many cases, the children receive nothing by precept or training in the way of developing adequate motivation toward school
 and learning though with another portion of the group great stress
 is placed on academic education.
+
 Some children in their comparatively brief school careers have
 had many changes of address which bespeaks a certain instability
 in the home life. In some cases it is noted on the record that the
@@ -980,10 +1022,12 @@ child is neglected or even mal-treated in the home. All too often
 the environment of the child is very poor from the standpoint of
 play facilities and the contacts offered him in his attempts to
 satisfy his gregarious tendencies.
+
 Physical Factors. Immaturity is the most frequently occurring
 defect noted under this heading. This term is used to denote children who are small, thin and retarded in their physical development. Deficient energy ranks second in the defects in the physical
 category. Frequently this lack of energy is referable to a physical
 condition.
+
 Some specific physical defects occur in the group. There are
 some orthopedic defects due to birth injuries and anterior poliomyelitis. One of these children has since been transferred to an
 Orthopedic Class but in the other cases, the defects were not considered grave enough by the Division of School Medical Inspection
@@ -997,20 +1041,24 @@ Defective phonation occurs most frequently. In conjunction with
 this defect one frequently finds that the speech is infantile in man176 THE PSYCHOLOGICAL CLINIC
 ner and content. The child makes, with mutilation, snch remarks
 as, "Me like to play."
+
 In this sampling of 0. B. children at the six year level there
 occur two cases of hydrocephalus, two cases of microcephalus and
 one case of epilepsy.
+
 Personality Defects. Infantilism is the most frequently occurring of the handicapping characteristics listed in the category of
 personality. An estimate that the child's general orientation and
 emotional response is infantile is made in 20 per cent of the cases
 of the group studied. Nervous and emotional instability is shown
 in a small number of cases.
+
 Other defects occurring in a small number of cases, listed in
 the order of their frequency of occurrence are: lack of initiative,
 shyness, dullness and lack of animation, restlessness, suggestibility,
 hyper-excitability, apathy, timidity, stolidity, negativism, uncontrolled and undisciplined behavior, temper-tantrums, lack of selfconfidence.
 General Retardation. The consistent inferiority of performance on all tests indicates the general retardation of the 0. B.
 group.
+
 Specific Mental Defects. One of the most outstanding of the
 specific mental defects encountered in the 0. B. group is the limited memory span. As pointed out in the discussion, 72.4 per cent
 of the 0. B. group have memory spans less than the median of the
@@ -1027,12 +1075,12 @@ read. Poor auditory imagery, which makes it very difficult for the
 child to learn by a phonic method; poor visual imagery, which
 causes the child to have difficulty in retaining a picture of the
 phonic elements, and in learning sight words; poor distribution of
-A COMPARISON OF CHILDREN 177
 attention and inferior discriminability are specific defects which
 contribute to this problem. Sometimes the situation is further
 complicated by defects of attention. Training in good habits of
 attention is one of the primary problems in 0. B. classes.
 Conclusions
+
 1. At the six year performance level, children selected for
 placement in 0. B. classes are older than the regular grade children functioning at this level.
 2. On tests, both those employing concrete and language and
@@ -1048,21 +1096,24 @@ to explore competency in diverse fields because children at this
 level fail to make adequate progress in school for different reasons.
 No single type of test is adequate to call forth a display of this
 diversity of abilities.
+
 5. In order to determine whether children should be removed
 from the regular grade and placed in 0. B. classes, why they fail,
 and what are the best methods of teaching them, a qualitative
 analysis of their performance on tests is more important than the
 quantitative measures.
+
 6. For purposes of analysis, the Witmer Form Board, Witmer
 Cylinder, Healy A, Memory Spans and Binet Tests are significant
 at the six year level.
 7. It is possible to select upon their admission to school a certain number of children who can never function adequately in the
 regular grades.
+
 8. Factors contributing to school failure at the six year level
 fall into the general categories of Social Factors, Physical Factors,
 Defects of Personality, General Retardation and Specific Mental
 Defects.
-178 THE PSYCHOLOGICAL CLINIC
+
 Orthogenic Backward Group?Six Year Level
 Total Cases
 %

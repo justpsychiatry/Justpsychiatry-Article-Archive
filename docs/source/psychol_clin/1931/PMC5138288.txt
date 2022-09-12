@@ -1,7 +1,7 @@
 A Case Study of Dextral Training of a Left-Handed Boy and its Effect on Speech, Reading And Writing
 =====================================================================================================
 
-By Leo Bernard Fagan, Ph.D. State University of Iowa
+:Author: Leo Bernard Fagan, Ph.D. State University of Iowa
 Charles was brought to the Clinic by his mother who explained
 that lie was making poor progress in school because of a reading
 disability and slight stuttering. He is a white American, age ten
@@ -18,6 +18,7 @@ Mechanical interests and reports him to have scored in the superior
 levels in tests of mechanical ability given by the University of Iowa
 College of Engineering. The mother is a college graduate of high
 grade personality adjustment and achievement.
+
 The psychometric tests indicate a mental age of nine years and
 four months on the Stanford-Binet, with a chronological age of ten
 years and two months, giving an Intelligence Quotient of 92. On
@@ -32,14 +33,15 @@ hundred and eighty-five characters he took twenty-three minutes.
 His reading from the Gray Oral Reading Test verified his mother's
 statements relative to omitting, supplying, and misreading words.
 He made fourteen mistakes in the first paragraph, six in the second,
-292 THE PSYCHOLOGICAL CLINIC
 two in the third, eight in the fourth, three in the fifth, eight in the
 sixth, and ten in the seventh.
+
 The school ratings for the second semester of the school year
 1929-30, grade 4B which he failed this year, are as follows: Deportment, medium; Spelling, failed; Reading, poor; Writing, poor;
 Arithmetic, failed; Language, medium; Music, good; Drawing,
 medium. These teacher ratings give a good descriptive picture of
 the boy's scholastic difficulties.
+
 The psychometric findings indicate adequate intelligence for
 low average scholastic success and the probability of average achievement in mechanics if he continues in that direction under proper
 tutelage. His school retardation may be analyzed into the special
@@ -53,6 +55,7 @@ directed the boy in these activities. His speech disability has not
 been sufficiently severe to interfere with his classroom, playground
 or home activities; he does not think his speech differs from that of
 other boys.
+
 The developmental and educational histories indicate the following facts: parturition and birth were normal; he began to talk
 at fifteen months and to walk at seventeen months of age; he was
 taught to read and write with his left hand by his mother beginning at age four years; he entered school at age five and was forced
@@ -64,12 +67,14 @@ stuttering in way of omitting, supplying and misreading words;
 his mother submits that his writing with the right hand after five
 years of penmanship is not of better quality than his left-hand
 writing before dextral usage was imposed.
+
 In view of the negation of the physical, neurological examinaDEXTRAL TRAINING 293
 tions, and medical history and the very obvious influence of the
 change in handedness on his speech, reading and writing we changed
 him back to the native manual expression with accessory remedial
 exercises to restore the original neurological patterns and functions
 that subserved normality in his organism.
+
 This shift to the left hand is for all preferential major manual
 functions, especially for writing which may be thought of as graphic
 speech. In this case, as in other motor lead shift cases, the imposition of writing on the right hand has developed the latent reaction

@@ -4,8 +4,10 @@ The Determination of Laterality
 The Psychological Clinic
 Copyright, 1934,'Jby Lightner Witmer, Editor
 Vol. XXII, No. 3 September-November, 1933
-By Edwin B. Twitmyer and Yale Nathanson
+:Author: Edwin B. Twitmyer and Yale Nathanson
+
 University of Pennsylvania
+
 The emphasis which has been given to speech correction during
 the past decade and the attempt to determine etiological factors of
 stammering cause the periodic revival of the question of cerebral
@@ -32,7 +34,6 @@ a few minutes and in which little apparatus is needed. Thirtyfive hundred school
 were given a simple tapping and aiming test. This was done by
 placing a 22 mm. circle in the center of a sheet of paper and the
 9 141
-142 THE PSYCHOLOGICAL CLINIC
 child was instructed to bring the hand from the side in a full swing
 attempting to place a mark in the center of the circle in which was
 a smaller circle 2 mm. in diameter. This was done for each hand
@@ -62,7 +63,6 @@ cortical dominance. The preliminary survey established the suitability of the te
 at the conclusion of this paper. These tests are being presented at
 this time to afford an opportunity for a standard procedure in the
 1 T-N-51 and T-N-52 will appear in the next issues of this journal.
-THE DETERMINATION OF LATERALITY 143
 determination of complete bodily behavior, to ascertain whether
 there exists cerebral dominance per se, or whether it is a matter of
 habit, training or unaccounted for muscular development.2 The
@@ -72,6 +72,7 @@ of the test. Pages seven and eight, not here included, consisted of
 one sheet marked "Right Hand," and the second sheet marked
 '' Left Hand.'' In the center of the sheets were drawn two concentric circles, one 20 mm. and one 2 mm. in diameter. The instructions appearing on page six were followed and the scores of mean
 distance from the center of the smaller circle computed.
+
 The determination of dominant ear and eye function requires
 laboratory apparatus and is, therefore, not so easily accomplished.
 The authors are insistent that dominance, particularly for activities at higher levels of integration, should be determined early in
@@ -91,10 +92,12 @@ establishment of a technique to determine definite eye, ear and
 2 Clias. A. Selzer. Lateral Dominance and Visual Fusion, 1933, Harvard
 Monographs in Educ. No. 12, Harvard Univ. Press, Cambridge, pp. 119. This
 monograph contains a presentation of existing theories, a battery of tests and
+
 bibliography.
+--------------
+
 3 Edwin B. Twitmyer and Yale Nathanson. Correction of Defective
 Speech, 1932, Phila., P. Blakiston's Sons & Co., Inc., p. xv.
-144 THE PSYCHOLOGICAL CLINIC
 bodily laterality as a criterion for the persistence in training of the
 preferred side should eliminate the serious error of whimsical
 change and make possible certain school adjustments where these
@@ -145,8 +148,8 @@ it? Right Left
 cheeks or nose or running your hand through your hair
 which hand do you use? Right Left
 10. Do you bite your nails? Yes No
-THE DETERMINATION OF LATERALITY 145
 (Page 2)
+
 11. If you do bite your nails, is there a preferred hand? Which? Right Left
 12. Do you know, if as a young child you sucked your thumb? Yes No
 If you did was it the Right Left
@@ -166,6 +169,7 @@ necessitated additional use of the other? Yes No
 of injury, degree of seriousness and period of incapacity.)
 Write your answer at the end of the questionnaire under
 Comments.
+
 19. If you wear a wrist watch on which arm is it worn? Right Left
 20. If you carry your watch in your vest pocket which hand do you
 use to withdraw it to see the time? Right Left
@@ -205,7 +209,6 @@ desk with which hand do you close it? Right Left
 41. With which hand do you play tennis; Right Left
 42. In chopping wood which hand is closer to the cutting end of the
 axC!> Right Left
-146 THE PSYCHOLOGICAL CLINIC
 43. In drinking a glass of water, other than at meal time, which
 hand is used to hold the glass? Right Left
 44. In tying a four-in-hand tie which hand is used to hold the
@@ -254,7 +257,6 @@ particulars under Comments.)
 71. Which is your better ear? Right Left
 (In event of any ear defect kindly indicate briefly particulars
 under Comments.)
-THE DETERMINATION OF LATERALITY 147
 72. If you smoke do you habitually keep pipe, cigar or cigarette
 on Right 1
 Left I of Mouth
@@ -303,13 +305,13 @@ Finish Both Sheets, A and B, then measure the distance of the ten dots on
 Sheet A from the smaller circle and divide by ten. Do the same for Sheet B for the
 Left Hand. Mark scores on sheets where indicated. Make measurements in
 millimeters.
+
 The questionnaire for females differs from the questionnaire for males by
 the substitution of the following questions:
 20. If you use lip stick, with which hand do you apply it? Right Left
 30. When ironing, which hand is used? Right T fw
 36. With which hand do you cut bread? Right T
 37. With which hand do you button your coat? Right Left
-148 THE PSYCHOLOGICAL CLINIC
 38. Which hand do you use to powder your nose? Right Left
 39. With which hand do you sew? Right Left
 40. Which hand holds the needle when threading it? Right Left

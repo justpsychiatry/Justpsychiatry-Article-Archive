@@ -2,6 +2,7 @@ The Variability of I.Q.'S for Psychopaths Retested with in Fifteen Days
 =======================================================================
 
 Charles A. Ford
+
 State Bureau of Juvenile Research, Columbus, Ohio
 This matter of I.Q. variability was a problem much more alive
 a few years ago than at the present time, yet it still seems to be an
@@ -32,7 +33,6 @@ Bureau, and are compiled to show the variability of the I.Q. of
 psychopaths (so diagnosed) who were tested two or three times
 within a fifteen-day period while residents at the Bureau. Its
 further purpose is to show the relationship of this variability to
-200 THE PSYCHOLOGICAL CLINIC
 sex, chronological age, percentage of psychopathy, and mental level
 as indicated by a Stanford-Binet I.Q. A total of forty-two cases
 have been found which fit into this specialized group. Fifteen of
@@ -51,6 +51,7 @@ however, the diagnosis of psychopathy means 30 or more per cent
 of psychopathic function as determined by Dr Mateer's1 "Ten
 Points of Psychopathy,'' which was almost invariably used at the
 Bureau at that time. This percentage is also indicated in the tables.
+
 Table I
 Chronological Psychopathic I.Q. I.Q.
 Age Function First Test Second Test
@@ -73,6 +74,7 @@ Age Function First Test Second Test
 17- 8 50 63 73 (3)
 15- 7 60 62 68 (11)
 9-11 30 61 59 (2)
+
 1 Mateer, Florence, The Unstable Child (1924), particularly chapter 10.
 VARIABILITY OF I.Q.S 201
 Table I shows the variability of I.Q.s for boys and Table II,
@@ -82,6 +84,7 @@ time between the tests, the mental level as measured by a Stanford
 I.Q., or the age of the case. From these data, it seems as though tests
 of psychopaths that are repeated any time within a fifteen-day period
 are apt to vary in either direction and in any amount.
+
 Table II
 Chronological Psychopathic I.Q. I.Q.
 Age Function First Test Second Test
@@ -97,10 +100,12 @@ Age Function First Test Second Test
 14- 4 60 64 68 (3)
 16- 8 50 57 58 (3)
 16-11 50 49 53 (7)
+
 Note: The figures in parentheses in Tables I and II indicate the number
 of days elapsing between the two tests.
 t Amount of psychopathy not expressed as a percentage.
 * This is a Goddard Binet I.Q.
+
 Table III shows both the boys and the girls who have been
 tested three times within the period, and who are not included among
 those in Tables I and II. These cases serve to show further how
@@ -117,6 +122,7 @@ there are two increases, a constant. In short, one cannot predict
 just what will happen to an individual's I.Q. by repeating the test
 three times within a short period.
 202 THE PSYCHOLOGICAL CLINIC
+
 Table III
 Chronological Psychopathic I.Q. l.Q. l.Q.
 Age Sex Function First Test Second Test Third Test
@@ -140,6 +146,7 @@ in these cases, the internal variations of the test are very great.
 For instance, take the third case listed on Table III whose I.Q. on
 successive tests ran 89, 89, 90. In arriving at these I.Q.s, the compilation of successes is quite different. The summaries of years and
 months earned is shown in Table IV.
+
 Table IY
 Months earned
 Year Test 1 Test 2 Test 3
@@ -155,6 +162,7 @@ the rule, at least, as far as the psychopaths in this study are concerned. They 
 it may not be evident from their I.Q., it is evident from an analysis
 of the test itself. However, this paper is concerned only with I.Q.
 variability, so further discussion of this point will not be made.
+
 Table V shows the frequency of the variations of I.Q.s by sex.
 VARIABILITY OF I.Q.S 203
 These data include the results of the second test as found in Table
@@ -170,6 +178,7 @@ and the second a Stanford. With this one exception, the girls vary
 between minus 3 and plus 11, whereas the boys vary from minus
 10 to plus 21. Thirty-eight per cent of the total distribution, regardless of sex, varies more than five points of I.Q. on the second
 test, the median of the distribution being at plus 5.
+
 Table V
 Variation Males Females Total
 minus 10 to minus 6 4 0 4
@@ -191,9 +200,9 @@ go up or down as the second or third. We do not have the data to
 show this, but it is certainly plausible in the light of the performance
 on the third tests, which do not necessarily follow the trend of variability of the second. Obviously, this only applies to tests given
 very close together, or, in other words, it is their daily performance
-204 THE PSYCHOLOGICAL CLINIC
 which is variable and this can only be shown by repeating tests in
 short periods of time.
+
 The data show that no definite relationship exists between the
 percentage of psychopathy and the variation. In each of the groups
 both increases and decreases are found, and if the data were more
@@ -201,13 +210,16 @@ extensive, it seems as though the variation might be as great in
 any one group as any other. Certainly from these data it is evident
 that the variations do not get larger as the percentage increases and
 equally small variations are to be found in all the groups.
+
 Conclusions
+
 1. Psychopaths (as diagnosed) vary their I.Q. from minus 13
 to plus 22 points when re-tested within a fifteen-day period. Over
 half of them vary less than plus or minus 5 points, however.
 2. A decidedly higher proportion increase than decrease.
 3. A higher percentage of boys than girls decrease on second
 tests.
+
 4. The variability is not a function of age, length of time between tests, percentage of psychopathy, nor mental level as evidenced
 by the I.Q. on the tests themselves.
 5. Practice effect does not explain the variability because of

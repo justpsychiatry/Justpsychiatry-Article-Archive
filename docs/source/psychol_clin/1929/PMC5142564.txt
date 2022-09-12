@@ -8,7 +8,7 @@ May-June, 1929
 validating the clinical method in vocational
 GUIDANCE
 
-By Morris S. Viteles, Ph.D.
+:Author: Morris S. Viteles, Ph.D.
 Assistant Professor of Psychology,
 University of Pennsylvania
 In 1921 there was organized, as a part of the Psychological
@@ -16,6 +16,7 @@ Clinic of the University of Pennsylvania, a Vocational Guidance
 Clinic1 the purpose of which is to apply psychological principles
 and techniques?primarily those of clinical psychology?in helping the individual to '' prepare for, enter upon, and make progress
 ln an occupation."
+
 Since 1921 there have been annually examined in the Clinic
 approximately 150 individuals, ranging in age from 14 to maturity,
 presenting problems of vocational adjustment. In this Clinic is
@@ -25,6 +26,7 @@ been described in detail elsewhere,2 but a brief reference to it seems
 necessary as an introduction to this sketchy description of a study
 designed to determine objectively the validity of this method as an
 approach in vocational guidance.
+
 The chief feature of the clinical method is the shifting away
 from the consideration of the group as a unit of guidance, and an
 insistence upon the complete study of the individual as essential
@@ -32,15 +34,18 @@ to adequate vocational guidance. This complete study of the individual for purpo
 approach" in guidance. The aim of the clinical approach, or the
 1 Viteles, Morris S., A Psychological Clinic for Vocational Guidance, Voc.
 Quid. Mag., Vol. IV, No. 2, November, 1925.
+
 2 Viteles, Morris S., The Clinical Approach in Vocational Guidance, Voc.
 Guid. Mag., Vol. VII, No. 1, October, 1928.
-70 THE PSYCHOLOGICAL CLINIC
+
 purpose of the clinical examination is that of fitting together into
 a complete whole the various data bearing upon the life,?or more
 specifically in this case,?the vocational adjustment of the individual.
 In preparing such complete study of the individual for the
 purpose of guidance, at least eight factors must be considered.
+
 These include:
+
 1. The vocational interests of the individual.
 2. His competency, or ability to profit from training in
 the occupation or occupations entered, and to attain
@@ -52,6 +57,7 @@ success therein.
 7. His vocational experience.
 8. The social and economic factors affecting his life and
 of importance in guidance.
+
 In connection with certain of these, such as interest and competency, it is possible for objective tests to be employed in completing the analysis. In the case of others, the interview and the
 social investigation of family life and individual history must be
 depended upon to secure the necessary information. Each of these
@@ -62,6 +68,7 @@ it has been the aim to make the decision, or counsel as definite as
 possible, that is, to send each individual away with as definite a
 program as it has been possible to formulate following a review
 and weighting of each of these factors.
+
 The purpose of the study to be described here was to determine
 just how satisfactory this advice has been; to determine the extent
 to which the individual has been helped through the application of
@@ -70,7 +77,6 @@ has been to investigate the validity of this clinical method in vocational adjus
 The study has taken the form of follow-up in connection with
 which each individual who has received advice has been personally
 visited, and information concerning his progress obtained on a
-VALIDATING THE CLINICAL METHOD 71
 schedule designed to reveal facts of significance in gauging the
 Progress of the individual towards vocational adjustment. The
 nature of the items upon which information was sought and the
@@ -79,6 +85,7 @@ import of the items can readily he discerned from an examination
 ?f the data obtained in this way can perhaps be best illustrated by
 presenting in detail a few of the completed schedules. There is,
 for example, the case of I.R., presented in Schedule I below.
+
 Schedule I
 PSYCHOLOGICAL CLINIC
 University of Pennsylvania
@@ -88,13 +95,17 @@ Date of Exam.: 1-12-24
 Address: Date of Follow-up: 2-15-26
 Referred by: J. W. S.
 Source of Information: J. W. S.
+
 Diagnosis: Normal Mentality
+
 ^commendation: Complete 8tli grade academic work, after which he should
 learn watch repairing trade. This would not appear harmful to one
 suffering from his physical defect. Return to this clinic in one year.
 (Health condition consists of chronic pulmonary T.B., potentially active,
 with cardiac hypertrophy.)
+
 PRESENT STATUS
+
 I. If Attending School:
 A. School Record
 1. Name of school
@@ -120,7 +131,9 @@ A.
 a. Grades covered: 8 A & 8 B c. Repetitions: None
 b. Character of work: None d. Conditions: None
 B. Occupational Experience
+
 From-To Position Firm Earnings
+
 Separation
 Cause
 7-10-24? Office Boy Dr Goods $10.00 a wk. Discharged
@@ -140,10 +153,12 @@ jobs, he was placed with a jewelry concern where he is still working and getting
 along very well. I.R. did not work from October, 1924 until February, 1925,
 when he was sent to his present position. He never made an attempt to secure
 a job on his own initiative.
+
 This represents a case in which after a few unsatisfactory
 trials in other fields, the recommendation was followed and resulted in a satisfactory adjustment. In contrast with this is the
 case of H.H. in which the recommendation has not been followed
 (Schedule II).
+
 Schedule II
 PSYCHOLOGICAL CLINIC
 University of Pennsylvania
@@ -160,7 +175,9 @@ VALIDATING THE CLINICAL METHOD 73
 type of organization which gives thorough training to its apprentices, and
 undertakes to develop with care boys accepted as apprentices.
 Present Status
+
 I. If Attending School :
+
 A. School Record
 1. Name of school
 2. Grade
@@ -171,8 +188,11 @@ A. School Record
 7. Reasons for course changes
 8. Remarks
 B. Jobs Held During Summer and After School Hours
+
 Separation
+
 From-To Position Firm Hrs. Earnings Cause
+
 1. Remarks
 II. If Working
 A.
@@ -183,7 +203,9 @@ from school:
 a. Grades covered c. Repetitions
 b. Character of work d. Conditions
 B. Occupational Experience
+
 Separation
+
 Frorn-To Position Firm Earnings Cause
 Shortly Pasting Hat $12.00 a wk.
 after ex- leather Factory
@@ -191,17 +213,20 @@ aaination bands in
 till hats
 Present
 date
+
 C. Supplementary School Training (School Attended, Courses taken, etc)
 ?til. To What Extent Was Recommendation Followed: Recommendation was
 not followed.
+
 IV. if Followed, Why Not? The idea didn't especially appeal to the
 boy, and besides, he wanted to work at S's hat factory to be with another
 boy, a friend of his.
+
 V. Supplementary Data (Use reverse side of sheet if necesary).
-74 THE PSYCHOLOGICAL CLINIC
 There is no chance of any advancement in that hat factory, so H.H. would
 like to change his position now. If he does, his mother says she will write to the
 Psychological Clinic about it.
+
 However, such a citation of cases is unsatisfactory as the sole
 method of evaluating clinical techniques, although this has often
 been practically the only type of evidence offered in favor of accomplishments on the part of psychiatrists, social workers, clinical
@@ -211,12 +236,14 @@ case of those who have sought advice in the Vocational Guidance
 Clinic as a means of validating the clinical method. A brief survey
 of results obtained in such a preliminary statistical study of one
 group is presented below.
+
 The group consists of 91 individuals seen in the Vocational
 Guidance Clinic during the academic year (1923-1924). They were
 followed up approximately two and one-half years after the visit
 to the Clinic. No follow-up could be made in the case of 16 of these,
 either because they had left the city or for other reasons, so that
 there remain 75 concerning whom information is available.
+
 As a first step in this statistical study the proportion following
 the advice given in the Clinic was determined. This represents one
 measure of the value of the clinical method as well as of other
@@ -232,8 +259,7 @@ making, it was considered that the advice had been partially followed. Applying 
 or 79 per cent, had accepted and acted upon the advice given in the
 Vocational Guidance Clinic. In the case of 16, or 21 per cent, the
 advice was not followed.
-\
-VALIDATING THE CLINICAL METHOD 75
+
 It seemed interesting to examine the reasons given for failing
 to follow the advice.3 In 8 of the cases, the subject lost interest
 in the vocation recommended partly on the basis of his interests at
@@ -254,29 +280,35 @@ records there is aroused the general impression that those who
 followed the advice are more satisfactorily adjusted than those who
 failed to do so. However, this impression may very readily be
 biased.
+
 An attempt has been made to check this impression by means
 ?f a necessarily sketchy comparison of progress in school and at
 work of those who acted upon the advice with those who failed to
 act upon the clinical recommendation.
+
 Of those who were examined, 35 were still attending school at
 the time of the follow-up. (It must be recalled that advice in many
 instances takes the form of a recommendation of a particular course
 in. school.)
+
 Of 23 who followed the recommendation, 2, or 4.3 per cent, have
 failed or repeated one or more grades between the date of the
 examination and the date of the follow-up.
+
 Of the 4 who 'partially followed the recommendation, 1, or 25
 per cent, has failed in school.
+
 Of the 8 who failed to follow the recommendation, 3, or 35.7 per
 eent, have failed in school during this time.
 In the case of conditions, 2, or 8.7 per cent, of those who followed
 3 In some cases more than one reason is given for the failure to follow the
 Clinic's recommendation.
-76 THE PSYCHOLOGICAL CLINIC
+
 the recommendation have been conditioned in individual subjects;
 1, or 25 per cent, of those who partially followed the recommendation, and 1, or 12 per cent, of those who failed to follow the recommendation. The low figure for conditions in the case of those who failed
 to follow the recommendation may be associated with the greater
 number of repetitions.
+
 An interesting fact has appeared in the case of wages. Information on wages was available in the case of 24 who have left school.
 Of these, the 10 who followed the recommendation are making an
 average weekly wage of $13.35. Those who partially followed the
@@ -286,6 +318,7 @@ glance, it would therefore seem profitable not to follow the recommendations mad
 that blind alley jobs often pay a higher initial wage than those
 offering an opportunity for advancement, and that, in many instances, the recommendation was for an apprenticeship or placement in a job with low initial wages offering opportunities for
 training.
+
 An attempt was made to analyze the changes in jobs during the
 period covered by the follow-up, but the length of time is too short
 to make these figures significant. Of those who have left school
@@ -305,7 +338,6 @@ pointed out that the writer does not consider this follow-up as fulfilling all t
 method. It is felt, for example, that it is necessary to cover a longer
 period of time before the exact value of guidance through this method
 can be determined. Much more information about changes in wages
-VALIDATING THE CLINICAL METHOD 77
 through a long period of time, about changes in jobs, etc., must be
 obtained. The influence of such factors as changes in the economic
 circumstances of the family, in health, in interest, must be submitted to more detailed analysis. Moreover, in a final evaluation it

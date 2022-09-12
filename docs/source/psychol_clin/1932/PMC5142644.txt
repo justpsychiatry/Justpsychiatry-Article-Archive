@@ -1,12 +1,13 @@
 Testing the Ocular Dominance of Infants
 ========================================
 
-By Norma V. Scheidemann
+:Author:  Norma V. Scheidemann
 University College, University of Southern California
 and
 Gladys E. Robinette
 Director and Teacher of Child Development, John Muir Pre-School,
 Pasadena, California
+
 The normal individual by nature is either right or left-sided.
 One side of the body seems to be used in preference to the other
 so that the individual is dextro-expert in regard to hand, eye, foot,
@@ -31,8 +32,7 @@ observe which eye the subject uses in fixating the object.
 When the writers found this test wholly satisfactory in testing
 1 Gould, G. M., Right-Handedness and Left-Handedness, J. B. Lippincott
 Company, 1908, pp. 18-20.
-G2
-OCULAR DOMINANCE OF INFANTS 63
+
 kindergarten and pre-school children, they wondered whether it
 would be possible to discover the eyedness of infants. After some
 experimentation a satisfactory method of procedure was developed
@@ -55,6 +55,7 @@ through the hole that permitted the use of only one eye was taken
 to indicate that the light was fixated. In this case the child used
 his right eye. At varying intervals nine more trials were made;
 in each the child used his right eye.
+
 Work with a twenty-seven months old child proved successful
 after the attempts on two preceding days were unsuccessful. In
 this case the child used her left eye. Repeated trials on three succeeding days found this child always used her left eye. She also
@@ -62,6 +63,7 @@ reached for the light with her left hand, and tried to brush the card
 away with her left hand. When the mother was informed of this,
 she said that the child eats with her left hand and shows preference
 for it in many ways.
+
 Efforts with infants twenty-four, twenty-three, and twenty-one
 months of age respectively proved to be successful, but no results
 were obtained with infants sixteen, twelve, and six months of age.

@@ -1,7 +1,8 @@
 The Relation Between Intelligence and Age of Walking in Normal and Feebleminded Children
 ==========================================================================================
 
-By Miles Murphy
+:Author: Miles Murphy
+
 University of Pennsylvania
 It is generally recognized that feebleminded children are retarded in beginning to walk. Among the first references to this
 retardation is a report on the age of walking in 111 cases of mentally deficient children given by Ireland.1 Of these children Ireland says, ''The average time before the child began to walk was
@@ -15,6 +16,7 @@ found that for his feebleminded group the mean age of walking
 was 25.08 months, the median was 21.06 months with a semi-interquartile range of 7.56. For his normal group Mead found the
 mean age of walking to be 13.88 months. The median was 13.54
 months, with a semi-interquartile range of 1.06.
+
 Additional information, varying from the results of empirical
 observation to the findings of statistical study, is available on the
 age at which normal children begin to walk. Holt and Howland 3
@@ -25,13 +27,13 @@ to walk at 10 months and many others not until 17 or 18 months,
 although showing no sign of disease." Demoor 4 says, "One can
 1 Ireland, W. W. The mental affections of children, Philadelphia, P.
 Blakiston's Sons, 2d ed., 1900, p. 328.
+
 2 Mead, C. D. The age of walking and talking in relation to general intelligence. Ped. Sem., 1913, 20, 460-484.
 3 Holt, L. E., and Howland, J. The diseases of infancy and childhood
 New York, D. Appleton & Co., 8th ed., 1925.
 4 Demoor, J. Die anormalen Kinder und ihre erzieliliche Behandlung in
 Haus und Schule, Altenburg, Oskar Bonde, 1901.
-187
-188 THE PSYCHOLOGICAL CLINIC
+
 not say at what age children should begin to walk. Weight,
 physique and sex have a great influence on the time. Nevertheless,
 it can be asserted that a normal child should begin to walk between
@@ -62,15 +64,17 @@ attributed the difference to the fact that his own group consisted
 of "schoolable" cases while Ireland's group was made up of
 5 Gesell, A. The mental growth of the pre-school child, New York, The
 Macmillan Co., 1926, p. 75.
+
 e Yariot, G. Sur les facteurs normaux et morbides qui peuvent avancer
 ou retarder le debut de la marche bipede chez les jeunes enfants, Bull. Sf Mem.
 Soc. Med., 1927, 51, 353-361.
+
 7 Terman, L. M. Genetic studies of genius, Vol. I, Mental and physical
 traits of a thousand gifted children, Stanford University Press, 1925, p. 187.
 s Smith, M. E., Lecker, G., Dunlap, J. W., & Cureton, E. E. The effects
 of race, sex, and environment on the age at which children walk, J. Genet.
 Psycliol., 1930, 38, 489-498.
-INTELLIGENCE AND AGE OF WALKING 189
+
 "idiots." It is quite probable that Mead's group was superior to
 Ireland's, but the designation "idiots" should not be taken too
 seriously since the term idiot has been used in a less specific sense,
@@ -79,6 +83,7 @@ on the age of walking in 155 feebleminded children, divides the
 group on the basis of teachers' estimates of mental capacity into
 Good, Medium and Bad. The mean age of walking for these groups
 is respectively 1.5 years, 1.8 years, and 2.2 years.
+
 There are likewise a few reports on the relation between intelligence and age of walking in normal children. Abt, Adler and
 Bartelme10 determined the correlation between I.Q. and age of
 walking in 1000 cases, 500 boys and 500 girls. They found a coefficient of correlation (Pearson) of ? .36, ? .03 for the boys and
@@ -88,6 +93,7 @@ correlation of .19 between age of walking and a group of tests including tapping
 were so expressed that early walking received a high score or rating.
 Unfortunately we have had access not to the original, but only to
 a brief abstract of Aoki's work.
+
 It is quite evident from the information now available that
 feebleminded children, when compared as a group with normal
 children, are strikingly retarded in beginning to walk. There is
@@ -97,12 +103,13 @@ interest to the clinical psychologist. The present study is an attempt to study 
 relation between intelligence and age of walking in each group.
 The study is based first upon the records of all children examined in the Psychological Clinic of the University of Pennsylvania from January 1, 1926 to June 30, 1932 whom the psychologo Lapage, C. P. Feeblemindedness in children of school age, Manchester,
 at the University Press, 1911, p. 80.
+
 10 Abt, I. A., Adler, H. M., & Bartelme, P. The relationship between the
 onset of speech and intelligence, J. Amer. Med. Assoc., 1929, 93, 1351-1355.
 11 Aoki, S. Significance of first walking in child's development, Shiuri
 Kenkyu (Psychological Studies), Vol. 21, No. 1, Abstract in Psycliol. Abs
 1927, 1, 97.
-190 THE PSYCHOLOGICAL CLINIC
+
 ical examiners diagnosed as feebleminded, a total of 408 cases. A
 case history is obtained for each individual examined in the Clinic,
 and one item of information included in this history is the age of
@@ -126,6 +133,7 @@ group was 106. When feebleminded children are eliminated, as is
 naturally the case with this group, the Clinic population seems to
 be slightly superior. A tabulation of the data just as found in the
 records is shown in Table I.
+
 No doubt it will be objected at once that the data upon which
 our investigation is based are open to error with the feebleminded
 and normal cases alike. First, the situation in question, that is,
@@ -138,8 +146,10 @@ record. Finally, the observation and subsequent reports are made
 by untrained observers who may not always have in mind a standard performance when giving their report. By age of first walking we mean the age at which the child first took steps alone, but
 we can not be sure that this can be held constant in the minds of
 all our observers.
+
 Unfortunately, these objections can not be entirely overcome.
 However, we can say that for any large number of cases of feebleminded children the report of parents is the only information availINTELLIGENCE AND AGE OF WALKING 191
+
 Table I
 Age of Walking in Feebleminded and Normal Groups
 Age in Months Feebleminded Normal
@@ -178,11 +188,13 @@ Age in Months Feebleminded Normal
 66  1 0
 72  4 1
 Total  362 350
+
 able on the age of first walking. This important developmental
 step usually takes place in the home with parents the only observers. Even if it were possible to determine by much more accurate
 observation the age at which a group of unselected children begin
 to walk, the percentage of feebleminded children is so small as to
 make the resulting group extremely limited.
+
 As far as our own data with respect to feebleminded children
 are concerned we may say that if it is true, as the antecedent evidence indicates, that feebleminded children are retarded in beginning to walk, then it is likely that this retardation will impress
 itself upon the attention of parents and lead to more careful observation than would be the case with a normal child. It might
@@ -190,6 +202,7 @@ be added, purely as a psychological conjecture, that any inaccuracy in the repor
 creasing rather than increasing the age reported for first walking.
 Differences discovered between the normal and feebleminded thus
 would tend to be conservative.
+
 Inspection of the results for the feebleminded group as shown
 in Table I, reveals still another difficulty to be encountered in our
 data. It will be noticed that the distribution is bimodal, if not
@@ -211,6 +224,7 @@ cases to accumulate at the half-year periods: 42 cases at 18 months,
 47 cases at 2 years, 33 cases at 2^ years, 47 cases at 3 years, etc.
 After 18 months 76 per cent of the cases are reported to walk at
 either year or half-year intervals.
+
 The fact that the results for normal children differ so much
 from the results for feebleminded children raises a problem in the
 statistical treatment of the data. The nature of the results for
@@ -222,16 +236,17 @@ process is, of course, impossible with the normal children since
 more than 60 per cent of the cases begin to walk between the ages
 of 12 and 17 months. The results for the normal group are treated
 therefore in intervals of one month.
+
 Of the feebleminded group 63.2 per cent were boys, and 36.8 per
 cent were girls; of the normal group, 68.9 per cent were boys, and
 31.1 per cent were girls. It is characteristic of the clinic population to show more boys than girls, although it will be noticed that
-INTELLIGENCE AND AGE OF WALKING 193
 the preponderance of boys is not quite so great among the feebleminded. Statistical analysis revealed no significant difference between boys and girls. In both groups the mean age of walking
 was slightly lower for boys than for girls. This result is of some
 interest in the light of the findings of Smith et al., but since the
 difference was not even equal to its sigma in either case, we can not
 consider it of any significance. The results of our study are consequently presented in this paper without differentiating between
 the two sexes.
+
 Still another problem arises in connection with the treatment
 of the data. Smith et al. in treating their results discarded all
 cases which did not walk until after the age of 21 months as being
@@ -247,6 +262,7 @@ a normal group with a feebleminded group we can not arbitrarily
 eliminate certain cases from our normal group, at the same time
 we would like, as far as we can, to make our normal group comparable with the groups involved in previous study. We therefore give our results both with the atypical cases walking at more
 than 22 months eliminated, and with those cases included.
+
 In comparing the feebleminded and normal we find the following results:
 Mean
 Median
@@ -275,13 +291,14 @@ months discarded)
 47.95
 34.02
 20.06
+
 It is scarcely necessary to point out that the difference between
 the feebleminded and normal groups is a reliable one. "When all
 cases are included the difference is 16 times its sigma; when the
 atypical cases are eliminated the difference is 18 times its sigma
 Of the feebleminded group 87.6 per cent walk at an age later than
 the median age for the normal group.
-194 THE PSYCHOLOGICAL CLINIC
+
 It should be noted that both distributions are skewed positively,
 and to that extent our findings are open to possible error. It will
 be noticed that our results do not differ greatly from those of Mead
@@ -290,6 +307,7 @@ who found a mean of 25.08 for the feebleminded and a mean of
 and "bright, normal" children. In both Mead's groups the median
 is less than the mean, and it would seem that the distribution of
 age of walking tends to be positively skewed.
+
 A further problem which concerns us is the relation between
 intelligence and age of walking in the normal group. An I.Q. on
 the Stanford Revision of the Binet-Simon Tests is available for all
@@ -315,7 +333,7 @@ for Group I, 109.7 for Group II, and 93.2 for Group III. The
 significance of these differences may be analyzed as follows:
 12 Fisher, E. A. Statistical methods for research workers, Edinburgh,
 Oliver & Boyd, 4th ed., 1932.
-INTELLIGENCE AND AGE OF WALKING 195
+
 Groups
 Difference
 er difference
@@ -333,12 +351,14 @@ I and III..
 1.2
 6.6
 3.9
+
 Group III is significantly inferior to Groups I and II. This is
 also shown by the fact that 77 per cent of Group II and 71 per cent
 of Group I have I.Q.'s above the median of Group III. Group II
 is superior to Group I, but this appears to be a chance variation.
 While these results are not to be considered as conclusive, they suggest that children accelerated in walking are not a relatively superior group, but that children retarded in walking are significantly
 inferior.
+
 The relation between intelligence and age of walking can be
 studied now in the feebleminded group. In 254 cases of this group
 we have a Stanford-Binet I.Q. In the remaining cases no I.Q was
@@ -346,6 +366,7 @@ secured. The coefficient of correlation between age of walking and
 I.Q. is ? .23, ? .04. This coefficient is very nearly the same as
 that found for the normal group, and the remarks made concerning
 that coefficient are applicable here.
+
 If we divide the feebleminded group into sub-groups as we did
 the normal group, we find 84 cases walking before 18 months, 118
 cases walking at ages from 18 to 35 months inclusive, and 53 cases
@@ -353,6 +374,7 @@ walking at 3 years or over. We shall refer to these groups as
 Group A, Group B and Group C respectively. The mean I.Q. of
 Group A is 58.81; of Group B, 54.88; and of Group C, 48.8. The
 significance of these differences may be analyzed as follows:
+
 Groups
 Difference
 a difference
@@ -370,11 +392,11 @@ A and C.
 1.8
 2.5
 3.9
+
 Group C is certainly inferior to Group A and probably inferior to
 Group B; we are not justified, however, in saying that the difference between Groups A and B is due to factors other than chance.
 Another means of studying the relationship between the degree
 of mental defect and age of walking is available. In 283 cases the
-196 THE PSYCHOLOGICAL CLINIC
 diagnosis carried with it an estimate of the degree of mental deficiency on the Barr Classification. In 79 cases no statement was
 made of the degree of deficiency. Of the remaining cases 31 were
 diagnosed as high grade imbeciles, 59 as middle grade imbeciles,
@@ -387,12 +409,14 @@ for the comparison of the sub-group with the total group of which it
 is a part. We can say then that the cases in which the degree of
 defect is estimated, do not constitute a selected group from the
 view-point of age of walking.
+
 If we return then to the groups mentioned we find the following
 results. The mean age of walking for the high grade imbeciles is
 21.58 months; for the middle grade imbeciles, 24.05 months; for
 the low grade imbeciles, 25.35 months; for the idio-imbeciles, 32.17
 months. The average age of walking, it is seen, increases as we pass
 from the milder to the more severe degrees of defect. The differences between these classes may be analyzed as follows:
+
 Classes
 Difference
 a difference
@@ -422,12 +446,14 @@ LGI and II....
 .75
 3.68
 3.14
+
 The idio-imbecile group is significantly inferior to all other groups,
 it would appear from these results. The differences between the
 other groups, however, are not statistically reliable. Additional
 significance, however, attaches to these results since there is in
 every instance an increase in age of walking as we go from a less
 pronounced to a more pronounced degree of defect.
+
 Before leaving this problem attention should be called to the
 fact that while, in comparing sub-groups, the differences are frequently not statistically reliable, nevertheless, in all instances except one (sub-groups I and II in the normal group) we find the
 subgroups differentiated in that direction which indicates retardaINTELLIGENCE AND AGE OF WALKING 197
@@ -448,7 +474,10 @@ by the lack of muscular tone and coordination characteristic of
 Mongolianism. Our results seem to agree with those of other investigators. Ordahl13 found the median age of walking in 159
 Mongolians to be 37 months. Ivuenzel14 found Mongolians walking about 8 months later than a control group of other feebleminded
 children.
+
 Summary
+--------
+
 The mean age of walking in 362 feebleminded children was
 26.65 months; in 350 normal children, 14.99 months. The correlation between age of walking and I.Q. was ? .19, ? .035 for the
 normal group, and ? .23, =t .04 in 254 feebleminded cases for whom
@@ -456,6 +485,7 @@ an I.Q. was available. Normal children not walking before 18
 months are significantly inferior in I.Q. to those walking before that
 age. Idio-imbeciles are significantly later in walking than the less
 pronounced degrees of mental deficiency.
+
 is Ordahl, G. Birth rank of Mongolians, J. Hered., 1927, 18, 429-431.
 i-i Kuenzel, M. W. A survey of Mongolian traits, Tr. School Bull., 1929,
 26, 49-58.

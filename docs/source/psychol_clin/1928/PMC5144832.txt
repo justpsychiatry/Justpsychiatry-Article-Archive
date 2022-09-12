@@ -3,6 +3,7 @@ The Relation of Fenuresis to Intelligence, to Conduct and Personality Problems, 
 
 Luton Ackerson and Muriel Highlander,
 Institute for Juvenile Research, Chicago.
+
 This article gives the results of a preliminary statistical study
 of some aspects of enuresis or bed-wetting in 3,000 consecutive
 clinic cases. These cases were children of both sexes, over three
@@ -19,6 +20,7 @@ specifically the age at which bed-wetting ceased. The remaining
 were still enuretic at the time of examination, together with a small
 number of cases in which the history reports a former enuresis but
 is indefinite as to its time of ceasing.
+
 Thus, among our 3,000 cases, which are fairly representative
 of the intake of a children's behavior clinic, over one-fifth of the
 cases have a history of enuresis persisting into and beyond the
@@ -31,7 +33,6 @@ non-enuretic groups. The fact is conspicuous that enuresis is present in all ran
 1 Studies from the Institute for Juvenile Research, Chicago. Herman
 M. Adler, M.D., Director. Series C. No. 140. Portions of this paper were
 read at the Fifth Annual Meeting of the American Orthopsychiatry Association at New York, February 24-25, 1928.
-120 THE PSYCHOLOGICAL CLINIC
 differences in I.Q. which do exist, however, are in favor of the nonenuretics. The average I.Q. of the enuretic group is 74.6 and of
 the non-entireties, 77.5. This difference is small but "statistically
 significant." This relation may also be shown by the familiar
@@ -50,6 +51,7 @@ between about 65 I.Q. to about 95 I.Q. the proportion of enuretics
 is less than one-fifth. At the upper end of our I.Q. ranges we
 find again that the incidence of enuresis rises. Above 95 I.Q., the
 ' Biometrika, 1909, VII, pp. 96-105.
+
 COMPARISON OF THE IQ.5 OF THE ENURETIC AND KON-ENUKETIC GROUPS,
 N= 3000
 500
@@ -86,12 +88,13 @@ OOOOQOQOOOO
 Intelligence Quotient
 FIGURE 1
 FIGURE 1
-RELATION OF ENURESIS TO INTELLIGENCE 121
+
 proportion is over one-fourth. Therefore, if we consider only the
 lower half of the distribution we find a correlation of negative
 sign, i.e. the lower the intelligence quotient, the greater the tendency toward enuresis; but within the upper half, the correlation
 shows an interesting reversal of sign, i.e. at these levels, the higher
 the I.Q. the greater the tendency toward enuresis.
+
 Now a biserial-r coefficient states the general tendency over
 the distribution as a whole, with the result that the force of a negative correlation in one portion of the distribution may become
 neutralized by a positive correlation in another portion. In cases
@@ -106,6 +109,7 @@ If, on the other hand, these two groups, the enuretic and nonenuretic, should ha
 respect to intelligence quotient with no overlapping whatsoever
 (which is obviously not true of our data) the value of such a coefficient would be unity, denoting a complete class divergence or
 heterogeneity.
+
 Upon our data the value of such a two-row mean square contingency is .129 ? -012, a value which is low, but nevertheless
 large enough in relation to its probable error to assure us that these
 groups are not homogeneous with respect to I.Q. This coefficient
@@ -147,9 +151,9 @@ problems are listed stealing, truancy from home or from school,
 lying, fighting, incorrigibility, destruetiveness, and the like; sex
 delinquency, masturbation and other sex offenses; and such undesirable habit problems as bed-wetting, thumb-sucking, finicky
 food habits, laziness, or talking out loud in school.
+
 A behavior item is considered to be a "personality problem"
 if in an exaggerated form it usually indicates a psychiatric diag? Journal of Delinquency, 1920, V, pp. 41-55.
-RELATION OF ENURESIS TO INTELLIGENCE 123
 nosis of psychosis or psychopathy or similar mental disorder.
 Thus, among the personality problems are listed apprehensiveness,
 abused or injured feeling or attitude, day-dreaming, sleeplessness,
@@ -173,6 +177,7 @@ tendencies. Furthermore, the fact that the personality-total yields
 only the low correlations of .16 and .11 with the criterion of arrest
 or commitment indicates that these behavior items show a meaningful differentiation into conduct problems and personality problems
 on the criterion of social attitude toward them.
+
 In Figures 2 and 3 are shown the frequency distributions of
 the conduct-totals and personality-totals among our 3,000 cases who
 have passed their third birthday. It will be noted that the curves
@@ -189,7 +194,9 @@ cients are both positive in sign and of sufficient magnitude in comparison with 
 within our clinic population the enuretic patients as a group show
 a slightly larger number of conduct and personality problems than
 the non-enuretic patients. The correlation with the personalitytotal is somewhat larger than with the conduct-total. Whether
-this indicates that bed-wetting is associated with personality aberFREQUENCY"DISTRIBUTION OF CONDUCT PROBLEMS
+this indicates that bed-wetting is associated with personality aber
+
+FREQUENCY"DISTRIBUTION OF CONDUCT PROBLEMS
 N = 3000
 15 20 25 30 35 40 45 50
 Number of Conduct Problems
@@ -199,7 +206,7 @@ N= 3000
 15 20 25 *30 35 40 45 .50
 Number of Personality Problems
 FIGURE 3
-RELATION OF ENURESIS TO INTELLIGENCE 125
+
 rations to a greater degree than with conduct disorders cannot be
 answered definitely at this time since the difference between the
 coefficients of .131 and .109 is probably not "statistically significant" upon our preliminary group of 3,000 cases.
@@ -258,6 +265,7 @@ Totals
 3000
 100%
 rt = .053? .027 rt = .068?.024
+
 In Table 1 are shown the tetrachoric or four-fold correlations
 with two other factors, underweight condition and discord between parents. The tables are read in this manner: of the total
 3,000 cases, 704 cases or 23% were enuretic, and 2,296 cases or 77%
@@ -268,12 +276,13 @@ norms, and 599 cases or 20% of the total showed no marked underweight. Of the no
 were underweight, and 2,000 cases or 67% of the total showed no
 marked underweight. The magnitude of this relationship is expressed in the Pearson tetrachoric correlation coefficient6 of .053
 rt .027.
+
 In the next table, which shows the correlation of enuresis with
 a case record notation of discord between parents, we find that in
 80 per cent of the cases there was no notation of discord between
 " Philosophical Transactions, Royal Society, London, Series A, 1900,
 CXCY, pp. 1-47.
-126 THE PSYCHOLOGICAL CLINIC
+
 parents, and in 20 per cent there was a positive history of discord
 between parents. Here again the relative incidence of bedwetting is about equal for both groups, with a slight apparent
 superiority for the group with discord between parents. This relation is expressed in the tetrachoric correlation of .068 ? -024.
@@ -305,6 +314,7 @@ r = .037 ?.047
 r= - .034 ?.047
 bis-r = .129 ?.071
 bis-r = ? . 123 ? .065
+
 At the beginning of this article mention was made of a group
 of 206 cases no longer actively enuretic whose age of ceasing was
 definitely noted in the case histories. A separate study was made
@@ -314,10 +324,12 @@ enuresis than a child who establishes dry habits at, say, four
 years, so that we may have here a measure of relative severity of
 enuresis. The correlations of this measure with the five factors
 which have just been discussed are shown in Table 2. These coefficients are too low in relation to their probable errors to permit any interpretation beyond the fact of their small size.
+
 Conclusions
+------------
+
 About 23 per cent of a representative group of 3,000 clinic
 cases had a history of enuresis continuing beyond the third birthday.
-RELATION OF ENURESIS TO INTELLIGENCE 127
 As measured by its presence or absence among 3,000 cases,
 enuresis showed a small negative correlation with intelligence
 quotient, i.e., the enuretic group showed a slightly lower average
@@ -326,6 +338,7 @@ who would be rated among the mentally defective by psychometric
 findings. There was a low positive correlation with both the number of conduct problems and the number of personality problems,
 but no significant correlation with underweight condition or with
 discord between parents.
+
 As measured by the age of the establishing of dry habits
 among 206 cases formerly enuretic, enuresis showed no significant
 correlation with intelligence quotient, with the total numbers of conduct problems and personality problems, or with underweight condition or with discord between parents.

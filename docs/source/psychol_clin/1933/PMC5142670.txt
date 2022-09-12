@@ -1,8 +1,9 @@
 Another Attempt at Measures of Extra Version Introversion
 ==========================================================
 
-By Charles S. Roberts and V. E. Fisher
+:Author: Charles S. Roberts and V. E. Fisher
 New York University
+
 Introduction
 In his study of personality types Jung1 concluded that a
 "type" was dependent upon the presence of a definite attitude
@@ -28,10 +29,10 @@ total exclusion of the other, Jung contends, never occurs. It is
 obvious, therefore, that there are degrees of extraversion and introversion, depending upon the relative dominance of one or the other
 i Jung, C. G. Psychological types, New York, Harcourt Brace & Co.,
 1923.
-MEASURES OF EXTRAVERSION-INTROVERSION 89
 mechanism. Every individual possesses both mechanisms, and it is
 the relative predominance of one or the other which determines the
 type.
+
 Jung has defined these two attitude types 2 in terms of libidinal
 movement, i.e., extraversion as "an outward turning of the libido"
 (p. 542), and introversion as "a turning inwards of the libido
@@ -41,6 +42,7 @@ between introversion and extraversion resides in the relative emphasis given to 
 subject and object, considered biologically, is always a relation of
 adaptation, since every relation between subject and object presupposes mutually modifying effects from either side. These modifications constitute adaptation. The typical attitudes to object,
 therefore, are adaptation processes" (p. 414).
+
 Since extraversion means an outward turning of the libido, it
 is evident that the facilitation of adaptation to an objective situation is a function of extraversion. With the increase in the degree of extraversion there is an accompanying increase in the
 facilitation of such adaptation, until a certain point is reached
@@ -53,6 +55,7 @@ libido, results, in a lack of adaptation to objects. As the degree of
 introversion increases the facility of such adaptation decreases, to
 the point where the individual fruitlessly struggles to defend himself against the influence of the object. This gives us the psychasthenic syndrome (p. 479); with its compulsions, obsessions,
 phobias, feelings of fatigue, extreme sensitivity, etc.
+
 The interest of American psychologists in Jung's conception of
 introversion-extraversion appears to have been chiefly practical
 rather than theoretical. The result has been the construction by
@@ -62,13 +65,13 @@ intuition, and if one of these functions habitually prevails, a corresponding
 type results. There are, therefore, thinking, feeling, sensation and intuitive
 types, which, moreover, may be introverted or extraverted according to the relation to the object.
 6
-90 THE PSYCHOLOGICAL CLINIC
 reuter, and others) of "Personality Inventories," based either
 wholly or in part upon "logical" inferences drawn from their
 understanding?or perhaps misunderstanding?of Jung's concept.
 The usual method for the construction of these tests has been
 to glean from various sources (psychiatric literature, personal observation, etc.) a list of situations and reaction-traits which, presumably, when evaluated by an individual reveal his degree of
 introversion.
+
 Needless to say, such tests are not even theoretically valid, because :
 1. The test does not place the subject in an actual situation but
 requires him only to imagine it; in doing the test the individual
@@ -84,6 +87,7 @@ to the conscious processes?tend to distort his feelings and judgment.
 6. At least certain of these different tests give a wholly insignificant coefficient of correlation with each other, indicating, of
 course, that they are either of low validity or reliability.3
 Present Study: Apparatus, Procedure, Subjects, etc.
+
 Fully realizing the uncertain and exploratory nature of this
 whole field, the present writers have, nevertheless, attempted still
 one more approach to measures of introversion-extraversion. They
@@ -92,16 +96,17 @@ adaptability to an unlearned objective situation on the sensory 3 Weber and Maij
 of .230 with a probable error of .075 between the Conklin Introvert Eatio and
 the Laird test, Schedule C: 2 (weighted). "The experimental differentia of
 introversion and extroversion," Ped. Sem., 1929, 36, 571-579.
-MEASURES OF EXTBAVEBSION-INTROVEBSION 91
 motor level. In other words, if the extraverted individual is
 characterized by a greater facility in responding overtly to the
 cues provided by his objective environment, it should be possible
 experimentally to demonstrate that fact.
+
 The apparatus consisted of an adaptation of Snoddy's Mirror
 Tracing device.4 The star, six pointed, measured 48" in circumference ; the path was 5/32", symmetrically notched with 36 notches
 on each side. The notches measured 2/16" deep and 3/16" wide.
 The subjects total time for tracing the star was recorded;
 errors or contacts were disregarded.
+
 In addition to the mirror tracing test each subject was required to fill out a Bernreuter inventory.
 Before the subject did either the mirror tracing or the inventory test, he was interviewed by the experimenter for thirty to
 sixty minutes. His attitude toward life and himself was brought
@@ -111,6 +116,7 @@ representing extreme extraversion and ten as extreme introversion.
 The subject then filled out a Bernreuter "Personality Inventory,"
 having been first cautioned to answer the questions truthfully; and
 lastly he did the mirror tracing test.
+
 All subjects were students in good standing at New York
 University.
 Results and Conclusions
@@ -129,7 +135,7 @@ both sides." Snoddy, George S., Readings in experimental psychology?edited
 by W. L. Valentine. Reading, 33, p. 424. Also An experimental analysis of
 a case of trial and error learning in the human subject, Psychol. Monog., 1920
 Vol. 28, No. 2, pp. 78.
-92 THE PSYCHOLOGICAL CLINIC
+
 Table I
 Subject
 Time on Star
@@ -256,17 +262,18 @@ Did not complete
 10
 5.678
 2.951
+
 Correlation (Pearson's) between Personal Judgment Rating and:
 1. Time on Star 915 ? P.E. .018
 2. Scores on Bernreuter 317 ? P.E. .101
 Correlation between Scores on Bernreuter and:
 3. Time on Star -  ? .248 ? P.E. .106
+
 a negative one of .248 with a probable error of .106. This correlation is too low to be of any significance, and may very well be the
 result of chance. Between the Personal Judgment Ratings and
 the Bernreuter there is a positive correlation of .317 with a probable error of .101. This correlation is also too low to be significant.
 A significant correlation exists between the Personal Judgment
 Ratings and the time in the Mirror Tracing Test. This correlation
-MEASURES OF EXTRAVERSION-INTROVERSION 93
 is a positive one of .915 with a probable error of .018. This is a
 significant correlation because it is so high and because the probable error is so low. It strongly indicates that the two are measuring the same thing.
 Now there can be no question but that the Mirror Tracing

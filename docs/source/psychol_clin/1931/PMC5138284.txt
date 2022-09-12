@@ -4,8 +4,8 @@ Speed and Accuracy of the Feebleminded on Performance Tests
 The Psychological Clinic
 Copyright, 1931, by Lightner Witmer, Editor
 Vol. XIX, No. 9 February, 1931
+:Author: W. E. McClure, Ph.D.
 
-By W. E. McClure, Ph.D.
 Director of The Juvenile Adjustment Agency, Toledo, Ohio.
 If mental age were the only factor which influences one's scores
 m speed and accuracy on performance tests, the inference could be
@@ -25,15 +25,18 @@ The same tests were given to a group of 41 normal 9-year-old
 boys. They were selected on the basis of their mental and chronological ages. They ranged chronologically from 8 years 10 months to
 9 years 2 months, and mentally from 8 years 6 months to 9 years
 6 months.
+
 The Stanford-Binet Test was used to determine their general
 intelligence. The feebleminded subjects had an average I.Q. of 56,
 while the average for the normal boys was 100.
+
 The feebleminded subjects were selected from among the inmates of two institutions for the feebleminded, The Ohio State Institution and The Oklahoma State Institution. The normal boys
 Were selected from the public schools of two cities in Oklahoma,
 Norman and Oklahoma City.
+
 The tests employed in this study are well known and need no
 explanation. Eleven of them are contained in the Pintner-Paterson
-266 THE PSYCHOLOGICAL CLINIC
+
 Table I
 The chronological ages of 41 feebleminded subjects
 Age Number
@@ -50,6 +53,7 @@ Age Number
 28 1
 42 1
 50 1
+
 Total 41
 Scale of Performance Tests1 and were administered and scored
 according to the directions given by Pintner and Paterson. The
@@ -58,24 +62,28 @@ Profile Test were scored on the basis of both speed and accuracy of
 performance. The Seguin Form Board and the Feature Profile
 Test were scored on the basis of speed, and the Knox Cube Test
 was scored on the basis of accuracy.
+
 The Computation of Comparable Scores
 The results of the various tests could not be compared with each
 other until the raw scores had been converted into comparable scores.
 The formula for computing Kelley's Z-scores3 was used, which is
 as follows:
+
 X-M
 Z =
 Sigma
 In this formula "Z" is the standard score, "X" the raw score,
 "M" the arithmetic mean of the total number of scores on each
 1 Pintner, E. and Paterson, D. G., A Scale of Performance Tests. D.
+
 Appleton and Company.
+
 'Hewes, A., Standardization of the Whipple-Healy Tapping Test. JAppl. Psychol., 1922, 6, 113-119.
 * Kelley, T. L., Statistical Method, p. 115, Macmillan.
-FEEBLEMINDED PERFORMANCE TESTS 267
 test made by both the normal and feebleminded subjects, and
 'Sigma" is the standard deviation from the mean of the total
 dumber of scores on each test.
+
 Kelley makes the following statement regarding the Z-scores:
 "Such measures as these may be called 'standard scores' as they
 are measures of deviation expressed in terms of standard deviation."
@@ -83,6 +91,7 @@ Table II presents the mean raw score, the P.E. of the mean raw
 score and the mean Z-score made by each of the two groups of subjects on the tests measuring speed and accuracy of performance.
 The raw scores made on the tests marked "Time" represent the
 number of seconds required to perform the tests.
+
 Table II
 This table shows the mean raw score, the P.E. of the mean raw score
 and the mean Z-score made on each test by the normals and the feebleminded.
@@ -254,21 +263,22 @@ ZScore
 + .310
 + .019
 * Whipple-Healy Tapping Test.
-268 THE PSYCHOLOGICAL CLINIC
 Included in this group of tests is the Whipple-Healy Tapping Test
 which is marked "Speed." The raw score made on this test represents the number of "taps" made in 30 seconds. The tests in
 Table II measuring accuracy (most of them are listed twice because
 they measured both speed and accuracy) are indicated by "Errors,"
 "Moves," or "Scores."
+
 Speed of Performance: Normal Versus Feebleminded Subjects
 In Figure 1, as well as in all the following figures, the tests
 are represented on the horizontal axis and the mean Z-score for
+
 Figure 1
 Showing the difference between the normal and feebleminded subjects in their
 performance on tests measuring speed.
-.70 /\
-.60 /
-Normal   '
+.70 
+.60 
+Normal 
 1 \
 .40 / \
 \
@@ -310,7 +320,6 @@ o P* ft
 ? Oft
 5 g 3
 pt< S
-FEEBLEMINDED PERFORMANCE TESTS 269
 each test is represented on the vertical axis. The performance of the
 normals is represented by the unbroken line while the performance
 of the feebleminded subjects is represented by the broken line. The
@@ -318,14 +327,16 @@ straight line extending horizontally from '' .00 " represents the mean
 performance by the total of 82 normal and feebleminded subjects.
 Figure 1 shows that the feebleminded subjects are superior to
 Figure 2
+
 Showing the difference between the normal and feebleminded subjects in their
 performance on tests measuring accuracy.
-270 THE PSYCHOLOGICAL CLINIC
+
 the normal boys on 9 of the 11 tests measuring speed of performance.
 The mean Z-score of these 11 tests (the mean of the means) for the
 feebleminded is .17, while for the normals it is ?.20. Thus, the
 mean difference between the normals and the feebleminded in speed
 of performance is .37 of one standard deviation.
+
 Accuracy of Performance: Normal Versus Feebleminded Subjects
 Figure 2 shows that the normals are superior to the feebleminded on 7 of the 10 tests measuring accuracy of performance.
 The mean Z-score of these 10 tests (the mean of the means) for the
@@ -334,6 +345,7 @@ mean difference between the normals and the feebleminded in accuracy of performa
 The Effect of Age on Speed and Accuracy of Performance
 To determine roughly the effect of age on speed and accuracy
 of performance, the mean scores of the 20 younger feebleminded
+
 Table III
 This table shows the mean Z-score of the^groupof 20 youngerfeebleminded
 subjects and of the group of 21 older feebleminded subjects on each test.
@@ -404,12 +416,13 @@ Whipple-Healy Tapping-Errors
 -.139
 + .139
 -.037
-FEEBLEMINDED PERFORMANCE TESTS 271
+
 subjects were compared with the mean scores of 21 older ones. The
 20 younger ones ranged in age from 16 to 18 years, the mean being
 17.0 years. The 21 older ones ranged in age from 19 to 50 years, the
 mean being 24.3 years. Table III shows the mean Z-scores of these
 two groups of feebleminded subjects.
+
 The results which are presented graphically in Figures 3 and
 4 show the younger group superior to the older group in both speed
 Figure 3
@@ -417,7 +430,6 @@ Showing the difference between the younger and older feebleminded subjects
 in speed of performance.
 Younger F.M. group
 Older F.M. group ?
-272 THE PSYCHOLOGICAL CLINIC
 and accuracy. On the speed tests the younger group was superior
 on all but one out of the 11, while on the accuracy tests they were
 superior on 8 of the 10.
@@ -467,20 +479,22 @@ ft o
 ?
 > S3
 fa
-FEEBLEMINDED PERFORMANCE TESTS 273
 is .33 for the younger group and ?.09 for the older group. The
 difference between the two groups is .42 of one standard deviation.
 The mean Z-score of the means of the 10 tests measuring accuracyis .06 for the younger group and ?.27 for the older group, making
 a difference of .33 of one standard deviation.
+
 Improvement in Speed of Performance on the Sequin Form Board
 Are normal individuals more easily motivated than the feebleminded? The results of the three trials on the Seguin Form Board
 might lead to such a conclusion.
+
 The directions require that the Seguin Form Board be given
 three times to each subject. On the first trial the tester says, "Let
 us see how quickly you can put the blocks in place." No further
 motivation is permitted. On each of the second and third trials,
 however, the subject is urged and encouraged in every way to make
 the best possible record.
+
 Table IY shows the time in seconds it took the normals and
 feebleminded to perform the test on each of the three trials. On
 the first trial the feebleminded performed it in 6.40 seconds less
@@ -490,9 +504,11 @@ the third trial was 19.13 seconds, which was an improvement of
 8 seconds over the first trial. The average time for the normals
 on the third trial was 25.72 seconds, which was an improvement of
 almost 8 seconds.
+
 Table IV
 The time required by the normal and feebleminded groups to perform the
 Seguin Form Board on each of the three trials.
+
 Normals Feebleminded
 Mean time Mean time
 in seconds in seconds
@@ -504,7 +520,7 @@ group on the second trial over the first, on the third trial over the
 second, and on the third trial over the first. On the second the improvement of the normals over the first trial was 16 per cent and
 the improvement of the feebleminded was 26 per cent. The improvement on the third trial over the second was 9 per cent for the
 normals and 5 per cent for the feebleminded. The improvement on
-274 THE PSYCHOLOGICAL CLINIC
+
 Table V
 The percent of improvement on the Seguin Form Board by the normal
 and feebleminded groups shown on the second and third trial over the first.
@@ -514,6 +530,7 @@ Normals 16% 9% 23%
 Feebleminded 26% 5% 30%
 the third trial over the first was 23 per cent for the normals and 30
 per cent for the feebleminded.
+
 The data in Table V indicate that the normals were motivated
 to work more nearly up to their limit of speed on the first trial than
 the feebleminded by the words, "Let us see how quickly you can
@@ -529,7 +546,10 @@ stimulus which motivated the subjects on the first trial elicited
 greater speed from the normals than from the feebleminded because
 the former improved on the second and third trials over the first by
 a smaller per cent than did the latter.
+
 Summary
+-------
+
 1. The feebleminded subjects whose mean age was 20.7 years
 chronologically and 9 years mentally showed a superiority of .37
 of one standard deviation in speed of performance on a group of
@@ -537,6 +557,7 @@ standard form board tests over the normal 9-year old boys.
 2. The normal boys showed a superiority of .16 one standard
 deviation over the feebleminded group in accuracy of performance
 on the same tests.
+
 3. The group of 20 younger feebleminded subjects with a mean
 chronological age of 17 years showed a superiority of .42 of one
 standard deviation in speed of performance and .33 of one standard

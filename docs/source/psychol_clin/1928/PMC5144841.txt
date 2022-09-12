@@ -1,21 +1,24 @@
 A Comparative Study of Audito-Vocal Digit Spans
 ===============================================
 
-By Mary H. Young
+:Author:  Mary H. Young
 I. Historical Statement
 A. FORWARD DIGIT SPAN
 Jacobs1 in 1887 seems to have originated the use of the immediate reproduction of a series of letters, digits, words and other
 material as a mental test. Since that time many variations of his
 tests have been used.
+
 The digit span test was employed in the original Binet-Simon2
 tests and has since been employed in the different revisions of the
 Binet by somewhat shifting the age norms. The Binet tests use
 the forward and backward reproduction of digits.
+
 Humpstone3 employed the group test method necessitating the
 immediate written reproduction of a series of digits presented at
 the rate of about 6 digits per 5 seconds at an even rate of speed.
 Standards were worked out for children ranging in age from 6 to
 18 and for college men and women.
+
 In the Psychological Clinic at the University of Pennsylvania,
 under the direction of Dr Witmer, memory span tests have been
 employed for many years in all of the case studies.
@@ -25,6 +28,7 @@ the correct response in one out of three trials as the memory span
 score. In referring to this work Humpstone4 states that Ide's
 averages for both age and grade are higher than those in his own
 study.
+
 B. DIGIT LEARNING SPAN TEST
 In the use of the digit span test for diagnostic purposes, it was
 sometimes Dr Witmer's practice to repeat a series of digits upon
@@ -34,7 +38,7 @@ pp. 75-79.
 3 Binet-Simon Tests. L'Annee Psychologique. 1905. xii, pp. 191-244.
 3 Humpstone, H. J. Some Aspects of Memory Span. A Study in Associability. Psychological Clinical Press, Philadelphia, Pennsylvania, 1917.
 'Ibid.
-AUDITO-VOCAL DIGIT SPANS 171
+
 greater than his digit span. This practice suggested to the writer
 the possibility of working out a standard procedure for determining what might be called the child's "learning span." This was
 first done in 1921 when the writer made a study of five hundred
@@ -101,12 +105,15 @@ these children did this on the fifth, sixth, seventh or eighth repetition. Since
 beyond ther digit spans within 8 trials or failed entirely after 15
 trials it appears to have been a waste of time to have given any one
 more than 8 trials.
+
 The evidence furnished by the children who learned one digit
 beyond their digit spans within 8 trials or failed entirely after 15
 trials beyond their digit spans indicated that 10 trials would be
 sufficient to determine a child's learning span.
 IV. Method of Procedure
+
 A. FORWARD DIGIT SPAN :
+
 The foregoing series of digits constitute the test material for
 the digit span test. When a child came for the test, the examiner
 said to him, "I am going to read some numbers. Listen carefully.
@@ -192,7 +199,7 @@ on the "B" series, he was given the "C" series of the same length.
 Thus, in the case of failure, the child was given three trials on
 that length. His score was the number of digits in the longest
 series which he repeated correctly.
-AUDITO-VOCAL DIGIT SPANS 175
+
 B. LEARNING SPAN TEST :
 When the child failed the A, B, C series of a given length,
 the "C" series was repeated to him a second time immediately
@@ -206,7 +213,9 @@ next higher "A" series was presented. Thus, the successive "A"
 series were repeated until one was reached where the child failed on
 ten trials. The longest series of digits learned on ten or less trials
 was taken as the learning span.
+
 C. REVERSE DIGIT SPAN TEST:
+
 Immediately after the digit span and the learning span had
 been obtained, the reverse span was secured in the following manner:
 The examiner said to the child, '' I am going to read some more
@@ -227,10 +236,10 @@ for giving the digit memory span. In this way, each set of series
 of equal length was presented to the child until he failed all three,
 that is, the A, B and C series of the same length. The largest number of digits a child repeated backwards correctly was taken as the
 reverse digit span.
+
 It is to be noted that the examiner must form the habit of
 saying the digits at the uniform rate of six in five seconds, in a
 monotonous tone of voice, without rhythm or grouping. Only
-176 THE PSYCHOLOGICAL CLINIC
 Table 1?Age-Grade Distribution of Cases
 Age
 Grade
@@ -420,6 +429,7 @@ II III IV V VI
 3 8 19 7
 4 9 1
 5
+
 Table 6?Reverse Span-Age-Grade Distribution of Cases
 R.D.S.
 6 years
@@ -463,13 +473,15 @@ II III IV V VI Total
 8 19 10 37
 2 3 5
 1 1
-AUDITO-VOCAL DIGIT SPANS 179
+
 such assistance as is mentioned in the directions for giving the test
 should be offered, if results are to be comparable. Examiners must
 be careful not to give hints to the child by habits of lip movements
 or attitudes suggesting the correct digit. A moderate amount of
 encouragement without giving away the correct response is desirable and permissible.
+
 Summary of Results
+
 I. The mode in digit span for 4 and 5 year old children is
 4 digits; for 6, 7, 8, 9, and 10 year old children is 5 digits and for
 all children irrespective of age is 5 digits.
@@ -720,7 +732,7 @@ R.D.S.
 16 >82 < 2
 1.6 >98 < .4
 .4>99.6< 0
-182 THE PSYCHOLOGICAL CLINIC
+
 VI. Reverse Digit Span in relation to Digit Span.
 Of all children with a Digit Span of 3, 27 per cent earned Reverse Digit Spans;
 Of all children with a Digit Span of 4, 69 per cent earned Reverse Digit Spans;
@@ -729,8 +741,9 @@ Of all children with a Digit Span of 6, 97 per cent earned Reverse Digit Spans;
 Of all children with a Digit Span of 7, 99 per cent earned Reverse Digit Spans;
 Of all children with a Digit Span of 8, 98 per cent earned Reverse Digit Spans.
 Digit Spans 2 and 9 produced reverse digit spans in 100 per cent
-of their cases but in the former there were only a total of 2 and in
+of their cases but in the former, there were only a total of 2 and in
 the latter a total of 11 cases.
+
 Irrespective of digit span, the reverse digit spans fell as follows : 10 per cent at 0; 13 per cent at 2; 46 per cent at 3; 24 per
 cent at 4; 6 per cent at 5, and 1 per cent at a reverse span of 6.
 VII. Reverse span increases with age.
@@ -755,8 +768,10 @@ The nine and ten year old children have no cases at the minimum
 learning span and only a few cases at the learning span of 4, while
 two cases fall at the learning span of 15. Most of the nine and
 ten year cases have a learning span between 5 and 10 digits.
-ATJDITO-VOCAL DIGIT SPANS 183
+
 Bibliography
+--------------
+
 Binett-Simon Tests. L'Annee Psychologique. 1905. xii, pp. 191-244.
 Brotemarkle, B. A. Some Memory Span Problems?An Analytical Study at
 the College-Adult Level. The Psychological, Clinic, 1924, vol. 15, no. 8,

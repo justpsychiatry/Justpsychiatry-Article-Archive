@@ -1,12 +1,15 @@
 An Analysis of the Binet Test of Naming Words
 =============================================
 
-By Edna Willis McElwee
+:Author:  Edna Willis McElwee
+
 New Yorlc City Schools
+
 Several years ago Terman 1 made a study of the Binet test of
 naming words. He was interested in the number of words given,
 the speed with which the words were given and the relation between
 the number of words and mental age.
+
 The purpose of this study was to analyze the responses given by
 children to the Binet test of naming words first as to the natuie
 of the words and then as to their association sequence.
@@ -19,6 +22,7 @@ The actual responses given by the children were taken down
 in shorthand by the examiner. An alphabetical tabulation was
 then prepared, making it possible to ascertain how many times each
 word was repeated by the group.
+
 The words occurring most frequently are given in the order
 of their frequency in the following table. The table also shows
 the per cent of the entire group giving each word.
@@ -41,8 +45,7 @@ haPPy 34 watch.'. 23 wire 20
 light 33 box 23
 i Terman, Lewis M., Some Data on the Binet Test of Naming Words,
 J. of Educ. Psychol., 1911, 2, 29-35.
-59
-60 THE PSYCHOLOGICAL CLINIC
+
 It is significant that with the exception of happy (a word used
 to illustrate the test) all the words are names of concrete objects
 within the child's experience. Many of these objects were visible
@@ -58,6 +61,7 @@ One of these associations groups might be followed by another or
 they might be intermingled or they might be connected in some way.
 List I. An association group of things to wear followed by a
 group of parts of the body.
+
 dress eyes
 shoes neck
 stockings face
@@ -86,7 +90,7 @@ purple cork
 red red
 yellow pen
 pink paper
-BINET TEST OF NAMING WORDS 61
+
 List V. An association group not of things in the same class,
 but where there is a logical sequence between each word and the
 following word.
@@ -94,7 +98,10 @@ old telephone
 young wires
 people lights
 house electricity
+
 Summary
+--------
+
 The Binet test of naming words was given to 200 public school
 children in Cleveland, Ohio. The actual responses of the children
 were taken down in short hand. Almost all of the words given

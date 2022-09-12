@@ -1,12 +1,13 @@
 Delinquency and Primogeniture1
 ===============================
 
-By Clairette P. Armstrong, Ph.D.
+:Author:  Clairette P. Armstrong, Ph.D.
 Psychologist, Children's Court, New YorJc City
 This study of delinquency and primogeniture is an investigation
 of the frequency of first-born children among groups of delinquent
 boys aged 8 to 15 years, examined in the clinic of the Children's
 Court of New York City.
+
 To cope with the problem of juvenile delinquency, to locate
 specific, deleterious factors, the total gestalt of the delinquent child
 must be dissected and closely scrutinized. Certain factors may be
@@ -15,6 +16,7 @@ with another. Such factors occur in combination with others.
 Since delinquencies are various, several different types are studied
 from the viewpoint of one possibly determining factor in certain
 types of delinquency?primogeniture.
+
 The groups are: first, 215 boys arraigned for various offenses;
 second, 649 boys who in legal parlance, without just cause and without the consent of parents, guardian or other custodian, desert home
 or place of abode; third, 60 boys, "incorrigible, ungovernable,
@@ -24,15 +26,15 @@ prior to 1928 were reckoned together in Court reports and furnished between 50 p
 fourth and last group consists of 67 boys charged with forcible
 entry into premises to steal or damage property, comprising about
 2 per cent of cases.
+
 Only children are found in each group. They are 7 per cent of
 the assorted delinquents, 12 per cent of the home-deserters, 12 per
 cent of the ungovernables and 1 per cent of the boys charged with
 forcible entry.
+
 Table I demonstrates ordinal position in the fraternity and reliability of primogeniture. A regular numerical progression is
 followed by the 200 assorted delinquents, after the first and secondborn whose number is identical, 28 per cent of the group, then 19
 i Eead at the annual meeting of the Association of Consulting Psychologists, University of Pennsylvania, Philadelphia, May 6, 1933.
-48
-DELINQUENCY AND PRIMOGENITURE 49
 per cent for third-born, etc. The 568 home-deserters form a regular
 numerical progression, with 33 per cent first-born, 27 per cent
 second, 16 per cent third, etc. The 53 ungovernables also are
@@ -44,12 +46,14 @@ show a trend but it is not a reliable method of judging primogeniture. Normal ex
 the three-child family, etc. Therefore if ordinal position plays a
 role with delinquents, over half the culprits from two-child families would be expected to be oldest, over a third from three-child
 families, etc.
+
 "With the assorted delinquents theoretical expectancy of primogeniture is surpassed2 only in the two, four, and five-child families,
 although the coefficients are too small to insure reliability.3
 The home-deserters are more often first-born than normal expectancy demands up to families of seven children. However it is
 only in the three-child family that reliability is insured. That the
 chances of primogeniture are many is shown in two and five-child
 families, and but few in four and six-child families.
+
 With the other groups though the number of cases is small,
 trends are indicated. With the ungovernables, theoretical expectancy of first-born is actually surpassed only in two, four, and fivechild families, and reliability is established only in the four-child
 family. In the two-child family there is strong possibility of primogeniture and slight possibility in the five-child. In the three and
@@ -57,6 +61,7 @@ six-child families there are fewer children than normal expectancy.
 With the forcible entry group, only in the three and seven-child
 families are there more children than theoretical expectancy, but
 reliability is slight.
+
 To sum up: It is only in offenses against the home that there is
 reliability of primogeniture of delinquents, with the home-deserters
 in the three-child and with the ungovernables in the four-child
@@ -65,11 +70,11 @@ in the two-child family; with the home-deserters in the five-child
 family and some possibility in the four and six-child families ; and
 2K. J. Holzinger, Statistical Methods for Students in Education, p. 248
 s H. E. Garrett, Statistics in Psychology and Education, p. 136.
-50 TEE PSYCEOLOGICAL CLINIC
 with the ungovernables in the five-child family. Boys charged with
 forcible entry show a slight tendency to be oldest in the three and
 seven-child families, and assorted delinquents in the two, four, and
 five-child families.
+
 C. Rosenow4 found reliability of primogeniture of problem
 children in the two-child family but not definitely borne out in the
 three-child family. He concluded that first-born children from
@@ -226,9 +231,10 @@ per cent
 1.0
 649 (568)
 100
+
 4 C. Rosenow, Incidence of First-born among Problem Children, Fed. Sem.
 and J. of Genet. Psychol., 1930, 37, 145?151.
-DELINQUENCY AND PRIMOGENITURE 51
+
 Table I?Continued.
 Number of
 Children in
@@ -315,8 +321,10 @@ per cent
 100
 1.3
 1.08
+
 small families present problems to child guidance clinics more
 frequently than other children from such families.
+
 Wile and Noetzel5 state the case as follows: 4' Granting that in
 our group of explosive and withdrawn children there is a larger
 number of older children one is not able to state that their condition is due entirely to the fact of being first children. One cannot assume that it is due to the fact that they are the children upon
@@ -324,7 +332,7 @@ whom the parents gain their first experience. Nor can it be stated
 dogmatically that the difficulties which brought them to the clinic
 s I. S. Wile and Elinor Noetzel, A Study of Birth Order and Behavior
 J. Soc. Psychol., 1931, 7, 52-71. '
-52 THE PSYCHOLOGICAL CLINIC
+
 would not have arisen had they been middle children. . . . Our
 studies suggest however that ordinal position is not an especiallysignificant factor in fixing a personality type or in establishing
 definite forms of difficulty in adjustment or in determining dominant attitudes in human relations.''
@@ -334,6 +342,7 @@ reliability of primogeniture may be ascertained, is unfortunate.
 Likewise it might be pointed out that obviously no one factor can
 fix a personality type, a delinquent; it is always one factor in relation to another, a concomitancy of factors that mold the delinquent,
 with certain factors having more weight than others.
+
 It may be concluded that there is sufficient evidence to demonstrate not only a reliability of primogeniture in certain size families but also a tendency more or less marked in other size families,
 among delinquents arraigned in the Children's Court of New York
 City on charges involving offenses against the home, however it may

@@ -4,10 +4,12 @@ An Analytical and Comparative Study of the Binet-Simon Test Responses of 1,306 P
 The Psychological Clinic
 Copyright, 1932, by Lightner Witmer, Editor
 Vol. XXI, No. 1 March-May, 1932
+:Author:  Arthur Phillips
 
-By Arthur Phillips
 Formerly Executive Officer, The Psychological Clinic, University of Pennsylvania
+
 Introduction
+
 In 1896 Binet and Simon published an article entitled "La
 Psycliologie Individuelle"1 in which the authors contended for the
 testing of complex mental functions, maintaining that the simpler
@@ -29,8 +31,6 @@ the use of nonsense syllables what has come to be known as the
 1 Binet, Alfred, and Simon, Tli. La psycliologie individuelle. L'Annee
 rsycliologique, Vol. I.
 2 Binet, Alfred. L'etude experimentale de 1'intelligence.
-1 1
-2 THE PSYCHOLOGICAL CLINIC
 memory span, but which more accurately may be described as a
 comprehension-discernment span. This in itself was a departure
 from the simpler analytical laboratory experiments oi the experimentalists. A further departure was brought about when he was
@@ -48,6 +48,7 @@ of Paris to assist in devising a test to separate out from the school
 population subnormal children for purposes of instruction. The
 result of this effort on the part of Binet and his collaborator Simon
 was the formation of the scale of 1905.
+
 This introduction serves to call to our attention that the l^inetSimon test is a battery of individual tests that aims to explore the
 complex mental process or processes that an individual is ca c
 upon to use in his everyday contact with life situations. Just w ia
@@ -68,7 +69,7 @@ It is a measure of proficiency demonstrated and to some degree
 measured at a particular time and place upon the basis of which
 an estimate is made of the child's ability to advance further along
 the curve of progress.
-RESPONSES OF SCHOOL CHILDREN 3
+
 The Binet-Simon Test is used in the Psychological Clinic of the
 University of Pennsylvania, founded by Lightner Witmer in 1896,
 the year of the appearance of Binet's article on individual psychology. It serves a valuable purpose as a tool for preliminary
@@ -87,6 +88,7 @@ Secondly, it is of value when careful and accurate analysis is made
 of the tests passed and failed by the subject. Such analysis often
 reveals the presence of a personal defect, ability, talent, or shows
 the influence of home and social background.
+
 When a child passes tests in advance of his chronological age
 the question is often raised in the mind of the examiner whether
 these tests located at the higher levels indicate that the child has
@@ -105,7 +107,6 @@ secondary, but to the clinical psychologist they are of primary importance. For 
 and in this performance at this particular time and place. It was
 such considerations that led to one aspect of this study, an attempt
 to break up the battery of Binet-Simon tests (Stanford Revision)
-4 THE PSYCHOLOGICAL CLINIC
 and to grade them according to their difficulty both with reference
 to each other and with reference to a zero point of difficulty.
 As developed, the study falls into three parts or objectives:
@@ -113,16 +114,21 @@ As developed, the study falls into three parts or objectives:
 passing the test and acceleration and retardation in school work.
 (2) To arrange the tests according to the degree of difficulty as
 shown by the percentage of passes of each test.
+
 (3) To show the development of ability to pass the several
 tests from the third grade to the fifth grade and from the fifth
 grade to the sixth grade.
+
 The Sources of Data
+--------------------
+
 The sources of data of this study are the Binet-Simon responses
 of 1,306 Philadelphia school children. Four hundred and six of
 these children were in the third grade, 500 in the fifth grade, 400
 in the sixth grade. Their Binet-Simon performances were part
 of three investigations conducted recently by the Psychological
 Clinic of the University of Pennsylvania.
+
 Third grade. The Eight Year Level of Competency, Genevieve McDermottMurpliy (an unpublished Mss. in Department of Psychology,
 University of Pennsylvania).
 Fifth grade. The Ten Year Level of Competency, Miles Murphy, Psychol.
@@ -130,7 +136,10 @@ Clinic, 1928, 17, 33-60.
 Sixth grade. The Performance Level of Children in the Sixth Grade in Two
 Philadelphia Public Schools, Carl L. Altmaier, Jr., Psychol.
 Clinic, 1931, 19, 233-257.
+
 Procedure
+---------
+
 First, a statistical study of each group was made giving the
 mean, the standard deviation, the skewness, the Pearson Coefficient
 of Variation (V), probable error of the average. These measures
@@ -140,7 +149,9 @@ age in each case of two years, and for the Intelligence Quotient of
 both of these groups and for two sub-groups, both of which represent a single chronological age. These groups are subsequently
 referred to as Groups III, II, and I respectively. These statistics
 are given in Table I.
+
 RESPONSES OF SCHOOL CHILDREN
+
 Table I
 Third Grade
 Chron. Age
@@ -260,8 +271,10 @@ I.Q. 104.7
 252
 117
 35
+
 Note: Figures for the chronological age are in months.
 Second, each grade was divided into the following snb-groups:
+
 Grade 3 Grade 5 Grade 6
 Group Age Group Age Group Age
 A 7-6 to 8-5 A 8-11 to 9-5 A 9-6 to 10-5
@@ -269,6 +282,7 @@ B 8-6 to 9-5 B 9-6 to 10-5 B 10-6 to 11-5
 C   9-6 to 10-5 C 10-6 to 11-5 C 11-6 to 12-5
 D 10-6 to 11-5 D 11-6 to 12-5 D 12-6 to 13-5
 E 12-6 to 13-5 E 13-6 to 14-5
+
 Tables were prepared for each group showing the number of
 cases in the group, the number of passes, and the percentage of
 passes. These tables will be used in a study of the relative difficulty of the separate tests in the various age groups which represent
@@ -276,11 +290,11 @@ children accelerated, normal or retarded one, two, or three years
 (Tables II, III, and IV). The percentages in these tables are
 based upon the actual number of cliilcfcen taking each separate test
 and are calculated accordingly.
+
 Third, out of each grade were taken three groups. In the
 third grade these groups represent the children in the grade who
 are eight years of age, the age of normal expectancy as to a child's
 reaching the grade; in the fifth grade these groups represent the
-6 THE PSYCHOLOGICAL CLINIC
 children in the grade who are ten years of age; in the sixth grade
 these groups represent the children who are eleven years of age.
 These groups represent three efforts to obtain an order of difficulty
@@ -291,6 +305,7 @@ each test with reference to every other test and with reference to
 an absolute zero of difficulty. The percentages in these tables are
 based on the assumption that the child is able to pass all the tests
 prior to his own basal age.
+
 Group I in these tables represents children who are within two
 months of the age represented by the group. In the third grade
 the eight-year group is comprised of all the children between 7-10
@@ -318,13 +333,16 @@ group, 68.26 per cent of which represents the age of normal expectancy of the gr
 These three groups, therefore, represent eight-, ten- and elevenyear-old children taken according to the various methods that have
 been proposed for defining the age of a child. Terman's method
 is to take a child within two months of a birthday; Thorndike and
-RESPONSES OF SCHOOL CHILDREN 7
 others, six months preceding to six months succeeding;3 while still
 other investigators take the child from one birthday to another.
 I
+
 Retardation and the Tests
+----------------------------
+
 The first objective of the study is to show the relation between
 percentage of successes in passing a test and acceleration or retardation in school work. Table II presents four third grade groups.
+
 Table II
 Third Grade. Number and Per Cent of Successes
 Test No.
@@ -633,15 +651,17 @@ No.
 0
 0
 0
+
 ?? Thorndike, Edward L. The Significance of the Binet Mental Ages
 Psychol. Clinic, 1914, 8, 185-189.
-8 THE PSYCHOLOGICAL CLINIC
+
 Group A consists of those who are rightly placed in grade on the
 assumption that children enter the first grade sometime between
 five years and six months and six years and six months. Group B
 consists of those who are one year retarded; group C of those who
 are two years retarded; group D of those who are three years
 retarded. Tables III and IV present five groups in the fifth and
+
 Table III
 Fifth Grade. Number and Per Cent of Successes
 Test
@@ -885,12 +905,15 @@ No.
 0
 0
 0
+
 sixth grades respectively. Group A in each grade includes those
 who are one year accelerated; group B, those who are rightly
 placed as to grade; group C, those who are one year retarded;
 group D, those who are two years retarded, and group E, those
 who are three years retarded. It will be noted that in the third
+
 RESPONSES OF SCHOOL CHILDREN
+
 Table IV
 Sixth Grade. Number and Per Cent of Successes
 Test
@@ -1162,6 +1185,7 @@ No.
 0
 0
 0
+
 grade there is no accelerated group. There were only three pupils
 in this grade who were younger than seven years and six months.
 In each of the grades, third, fifth, and sixth, we have eliminated
@@ -1169,12 +1193,15 @@ from the study pupils who are retarded four years and over because
 in each year there are too few cases for valid comparison. The
 elimination reduced the number of children studied to eight hundred and eighty-six. Four hundred and ten children in the three
 grades were retarded four years and over.
+
 Third Grade
+-----------
+
 Seven Year Tests. In group A, 51 out of 113, or 45 per cent, took
 the seven-year tests; in group B, 82 out of 190, or 43 per cent; in
 group C, 35 out of 74, or 47 per cent; and in group D, 6 out of 17,
 or 35 per cent.
-10 THE PSYCHOLOGICAL CLINIC
+
 As only 6 of group D took the tests, it may well be left out of
 consideration. The only failures in the group were two failures
 in differences. In the other three groups, picture description shows
@@ -1182,6 +1209,7 @@ a decrease from group to group. Differences show also some effect
 of retardation although groups B and C pass the tests with approximately the same percentage. In copying the diamond, group
 A has the lowest percentage of passes. The difference between the
 three groups is not large.
+
 The two tests that seem to show greatest effect of retardation
 at the seven-year level are picture description and differences.
 Fingers shows very little difference in any of the groups. By the
@@ -1194,6 +1222,7 @@ in the third grade. There were only ten failures out of the 174
 cases under consideration, or 5.7 per cent. Differences is passed
 by all but 10.9 per cent of the 174 cases; pictures by all but 6.3
 per cent.
+
 Eight Year Tests. Of the eight-year tests, two tests show an
 increase from age to age, and, therefore, with degree of retardation ; comprehension?third degree, and vocabulary 20. The effect
 of age and experience in these two cases is thus illustrated. While
@@ -1206,12 +1235,12 @@ of age and schooling on vocabulary. Counting backwards and
 similarities show in the main a tendency to receive a decreasing
 number of passes with degree of retardation though with exceptions. Group C exceeds group B in counting backwards by 1.7
 per cent, and in similarities, by .9 per cent.
+
 Nine Year Tests. All the tests in this group with one or two
 exceptions to be noted show a very slight decrease in percentage
 from group to group. The exceptions are date and reverse attention span four, where the difference between groups A and B is
 very slight and that difference is in favor of group B. In the
 main, however, these four tests show a tendency to receive a decreasing number of passes with increasing retardation in school.
-RESPONSES OF SCHOOL CHILDREN 11
 Ten Year Tests. Of the four tests in this group, audito-vocal
 attention span six best shows the effect of retardation, being a
 decrease from 50.4 per cent in group A to 35.2 per cent in group D.
@@ -1224,6 +1253,7 @@ more likely to be familiar than younger children. This is probably
 one of the tests where it is most difficult to separate between native
 and acquired ability. Comprehension, fourth degree, shows an increase from the first to second groups, then a slump in the third
 group, then an increase in the fourth group.
+
 Twelve Year Tests. In vocabulary 40 only 5 children out of
 394 passed the test. None of group A succeeded in passing, only
 one of group D and two of group B and group C. In dissected sentences, the number of passes increases with age although
@@ -1243,10 +1273,10 @@ with the degree of retardation. Similarities (three things) shows
 no great variation among groups B, C, and D. Group A, however,
 is inferior to all of them. The ability to note similarities is a congenital ability that develops with age. The figures seem to bear
 this out.
+
 Fourteen Year Tests. Vocabulary 50 was passed by only one
 member of the entire grade. This child is two years behind grade.
 Problems of fact is passed by only eight, one in group A, one in
-12 THE PSYCHOLOGICAL CLINIC
 group B, four in group C and two in group D. Audito-voeal attention span seven shows no great differences between the groups with
 the exception of the most retarded group. While the attention
 span tests in this grade prove to be good indices of retardation, we
@@ -1257,7 +1287,10 @@ passed this test. This leads to the reflection that other things
 besides congenital ability enter into the situation in determining a
 child's grade in school. Lateness in entrance, physical condition
 and motivation are complicating factors.
+
 Fifth and Sixth Grades
+-----------------------
+
 Nine Year Tests. In the accelerated group A, eight out of seventeen subjects took the nine-year tests. Of these eight, six passed
 all the tests and two failed date. The percentages of passes of date,
 making change, and three words in sentence in groups B, C, and D
@@ -1274,17 +1307,18 @@ that given by the other three tests in this group. The number of
 passes decreases from 100 per cent in group A to 52.9 per cent in
 group E. It is safe to conclude that a potent cause of retardation
 is a deficit in attention span.
+
 The sixth grade repeats the story as far as date, making change,
 and three words are concerned, though the effect of retardation is
 shown strikingly in group E. The reverse attention span four
 presents a slightly different picture from that of the fifth grade.
 The percentages grade down from 77.7 to 35.2, with the exception
 that group C excels all with a percentage of 86.7.
+
 Ten to Eighteen Year Tests. These tests appeared to fall into
 five general classes:
 (1) Those tests which show a decreasing percentage of passes
 from group A to group E.
-RESPONSES OF SCHOOL CHILDREN 13
 (2) Those tests Avhich show a decreasing percentage of passes
 from group B to group E, group A not proving to be superior to
 group B.
@@ -1297,6 +1331,7 @@ B, C, and D.
 (5) Two tests that show no definite tendency in either grade.
 (6) One test which is passed by only two of the entire group
 in fifth grade and by only one in the sixth grade.
+
 1. The first class consists of the following attention span tests:
 audito-vocal attention span six and seven, reverse attention span
 four and five in both grades, and comprehension, fourth degree, in
@@ -1313,6 +1348,7 @@ to increase with age. The conclusion is inescapable that the presence of the qua
 span, audito-vocal and reverse, is a powerful factor in acceleration
 while a deficit is an equally potent factor in retardation in school
 work.
+
 It is significant also that the other two attention span tests for
 digits passed by members of these two grades, reverse attention
 span six and audito-vocal attention span eight, are not passed by
@@ -1323,7 +1359,6 @@ A passed audito-vocal attention span eight, while seven of group
 B, four of group C and two of group D succeeded in making a total
 of thirteen successes out of two hundred and fifty-two cases. Six
 digits reverse was passed by two out of nineteen of group A, by
-14 THE PSYCHOLOGICAL CLINIC
 three of group B, seven of group C, and one of group D, making
 a total of thirteen passes out of two hundred and fifty-two cases.
 The failure of any in group A, fifth grade, to pass either of these
@@ -1331,6 +1366,7 @@ tests and any in group A, sixth grade, to pass audito-vocal attention span eight
 with age. Audito-vocal eight, reverse attention span six, are beyond the reach of the group A children in the fifth and sixth grades,
 with the exception of two successes in reverse attention span six
 in the sixth grade.
+
 On the contrary, we find among the older children in groups
 B, C, and D a number of passes. The failure of group A is due
 to the fact that attention span is a function of age. The fact that
@@ -1342,6 +1378,7 @@ make an investigation of each single case. It is safe to conclude
 that the causes of retardation are numerous and that there are
 many reasons why a child with a superior intellectual structure
 fails to make school progress.
+
 2. There are four tests which show a decrease in percentage of
 passes from group B to group E. They are (1) Absurdities, (2)
 Dissected Sentences, (3) Problems of Fact, (4) Enclosed Boxes.
@@ -1358,9 +1395,9 @@ as dissected sentences. Only one in group A in the fifth grade
 and four in the sixth pass this test. Enclosed boxes shows a decreasing number of successes with degree of retardation. There
 are, however, no passes in group E of either grade and there is
 only one pass in group A in the sixth grade.
+
 3. The tests in group three include those which tell a fairly
 consistent story of decrease in percentage of successes with degree
-RESPONSES OF SCHOOL CHILDREN 15
 of retardation, with, however, certain exceptions that are to be
 noted in all the tests of this group. Group A is inferior to group
 B in percentage of passes. In both grades vocabulary 30 decreases
@@ -1369,6 +1406,7 @@ E. The exception is in the fifth grade where group D excels group
 C. In vocabulary 40 there is a decreasing percentage of successes
 with degree of retardation with the exception that group C and
 group B in the fifth grade are approximately equal.
+
 In vocabulary 50 there are seventeen passes in the fifth grade
 and fourteen in the sixth grade; in vocabulary 65, only one.
 Vocabulary is one of the essential tools which boys and girls
@@ -1380,6 +1418,7 @@ to all groups in the fifth grade, and to all but group E in the sixth
 grade. In vocabulary 40, group A is inferior to all groups except
 groups D and E in the fifth grade, and to all but D and E in the
 sixth grade.
+
 The vocabulary test is presumed to correlate with the BinetSimon battery as a whole very closely. As the Binet-Simon Test
 is undoubtedly based in the main upon what boys and girls learn
 in school it would be expected that success in vocabulary should
@@ -1391,6 +1430,7 @@ who are retarded three years are able to succeed in school work and
 to make advanced standing despite the relative deficit of vocabulary.
 It would appear therefore that a good attention span more than
 compensates for a relatively poor vocabulary.
+
 Terman says, "The vocabulary test has a far higher value than
 any other single test in the scale. . . . Our statistics show that in
 a large majority of cases the vocabulary test alone can give us an
@@ -1398,7 +1438,6 @@ I.Q. within ten per cent of that secured by the entire scale. . . .
 Many experiments . . . have proved its value as a test of intelligence."4 The average I.Q. in our groups decreases with age.
 Accelerated groups have the highest average and the decrease is
 4 Terman, L. M. The Measurement of Intelligence, p. 231.
-16 THE PSYCHOLOGICAL CLINIC
 unbroken down to the three-year retardates. The coefficient of
 correlation between vocabulary and I.Q. in group B, fifth grade,
 is 0.55 db .04. In this group there are 154 cases. Even this correlation is not high enough to be significant. It is only 17 per cent
@@ -1423,6 +1462,7 @@ picture of gradual decrease from the youngest to the oldest groups
 with the exception of slight superiority of group C over group B.
 In the sixth grade the story is the same with the exception that
 group A has a lower percentage than groups B and C.
+
 4. There are two tests in which groups A and E have the least
 percentage of passes, while there is no marked difference in the
 three middle groups: fables (score 4) and similarities (three
@@ -1435,12 +1475,15 @@ E bring up the rear in both grades. There is not much difference
 between the three middle groups in the fifth grade though group C
 exceeds all groups. In the sixth grade there is a decreasing percentage of passes from group B to group E.
 RESPONSES OF SCHOOL CHILDREN 17
+
 In president and king, there were 22 successes in the fifth
 ;, 42 in the sixth grade. In fables (score 8), there were 45
 sses in the fifth grade and 46 in the sixth. No definite tendis shown in the percentage of successes in either test.
 Repeating the thoughts of a passage heard. Only two sucs are recorded in the fifth grade and these are in group B; in
 ixth grade only one, and this one in group B.
+
 Summary
+--------
 lie tests that consistently show decrease in percentage of passes
 degree of retardation are:
 Third grade Fifth grade Sixth grade
@@ -1475,13 +1518,16 @@ Of the three grades, the third alone shows an increase in percentage of passes w
 tests are: Comprehension, third degree; vocabulary 20, dissected
 sentences, similarities, three things. In the last named test, howex er, group B is slightly inferior to group A.
 2
-18 THE PSYCHOLOGICAL CLINIC
 II
+
 Order of Difficulty
+-----------------------
+
 The second objective of this study is to arrange the separate
 tests according to the degree of difficulty as shown by the percentage
 of passes of each test. Tables of order of difficulty were prepared
 for each grade. Table V gives the order of difficulty of the third
+
 Table V
 Order of Difficulty. Third Grade
 Group I?Age 7-10 to 8-1
@@ -1750,6 +1796,7 @@ P.E.V.
 9.75
 9.75
 10.05
+
 RESPONSES OF SCHOOL CHILDREN 19
 grade; Table VI, of the fifth grade; Table VII, of the sixth grade.
 Group I in each grade consists of those children who are within
@@ -2291,23 +2338,28 @@ P.E.V.
 8.50
 8.55
 10.05
+
 six months succeeding the birthday. Group III in the third grade
 consists of children between the ages of seven years and six months
 and nine years and five months; in grade five, children between
 nine years and six months and eleven years and five months; in
 grade six, of children between ten years and six months and twelve
 years and five months.
+
 RESPONSES OF SCHOOL CHILDREN 21
+
 The statistics for these last three groups for both chronological
 age and I.Q. are given in Table I. In each group 68.26 per cent
 of the cases fall approximately between ages eight to nine, ten to
 eleven, and eleven to twelve.
+
 In these tables three methods of defining a given chronological
 age level are used: in the first case, two months before and two
 months after a birthday; in the second case, six months before and
 six months after a birthday, and in the third case, from birthday
 to birthday. In each grade group II includes cases in group I
 and group III cases in group II.
+
 As in all the grades and all the groups the tests run from zero
 difficulty where there are 100 per cent passes to a maximum difficulty where there are 100 per cent failures, it was decided to express the value of each test in terms of P.E. value according to the
 methods suggested by Garrett.4 The P.E. distance of each problem
@@ -2321,6 +2373,7 @@ the P.E. value, the greater is the difficulty of the test. The point
 of median difficulty is 5.95. The point of maximum difficulty is
 11.90. The percentage of passes and P.E. values are given for
 each test in Tables V, VI, and VII.
+
 Finally an average P.E. value for groups I, II, and III in each
 grade was obtained. This average is presumed to express as accurately as the data at hand will permit the relative difficulty of
 the tests for an eight year old child in the third grade, a ten year
@@ -2335,8 +2388,10 @@ fifth column the average P.E. value of the fifth and sixth grades
 and the sixth column the P.E. difference between the separate tests.
 This sixth column shows that the tests grade up by unequal steps,
 the steps varying from P.E. value .06 to P.E. value 1.21.
+
 * Garrett, H. E., Statistics in Psychology an-d Education, p. 103.
 22 THE PSYCHOLOGICAL CLINIC
+
 Table VIII
 Order of Difficulty
 Average P.E. Values of Three Eight Year Old Groups (Third Grade)
@@ -2447,12 +2502,14 @@ P.E.V. Dif.
 .23
 1.82
 .10
+
 We will consider first the order of difficulty of the tests at the
 different age levels for each grade, using as a basis group III, age
 7-6 to 9-5, of whom 68.26 per cent fall between ages 8.3 and 9.2,
 the mean being 105.4 months, P.E. av. .14. The mean I.Q. for
 the group is 104, P.E. av. .44.
 I. The Third Grade.?Cases 303.
+
 In the seven year tests the order of difficulty is: (1) fingers,
 (2) picture description, (3) copying a diamond, (4) differences.
 The P.E. difference between the first and second tests is .75, between the second and third, .30, and between the third and fourth,
@@ -2463,7 +2520,7 @@ the diamond; and sixteen fail to pass differences. Differences is
 decidedly the most difficult test of the group.
 In the eight year tests the order of difficulty is: (1) counting
 20-0, (2) comprehension, third degree, (3) similarities, two things.
-RESPONSES OF SCHOOL CHILDREN 23
+
 Table IX
 Order of Difficulty
 Average P.E. Values of Tests of Three Ten Year Old Groups (Fifth Grade)
@@ -2631,12 +2688,16 @@ Fifth grade?331 cases
 .75
 .36
 1.21
+
 Sixth grade?252 cases
+----------------------
+
 (4) vocabulary twenty. The P.E. difference between the first and
 second tests is 1.06, between the second and third, .66, and between
 the third and fourth, .05. Counting backwards is decidedly the
 easiest test of the group. Similarities and vocabulary twenty are
 of approximately equal difficulty.
+
 In the nine year tests the order of difficulty is: (1) three words
 in a sentence, (2) date, (3) making change, (4) reverse attention
 span four. The P.E. difference between the first and second tests
@@ -2646,10 +2707,10 @@ decidedly more difficult than any other test in this group. Starr
 found that 25 per cent of her seven and eight year old normal
 children had a reverse attention span of four.J Of our group
 40.9 per cent reach this score.
+
 In the ten year tests the order of difficulty is: (1) audito-vocal
 attention span six, (2) absurdities, (3) comprehension, fourth des Starr, Anna S., The Diagnostic Value of the Audito-Vocal Digit Memory
 Span, Psych. Clinic, 1923, 15, 61-84.
-24 THE PSYCHOLOGICAL CLINIC
 gree, (4) vocabulary thirty. The P.E. difference between the first
 and second tests is .53, between the second and third, .23, and between the third and fourth, .88. The interesting thing about
 audito-vocal attention span six is that its P.E. value places it close
@@ -2663,6 +2724,7 @@ attention span six is the test that separates eight year old children
 in the third grade into two groups, 50 per cent above and 50 per
 cent below the median. Of Starr's normal 7-8 year old children
 28 per cent pass this test.6
+
 In the tivelve year tests the order of difficulty is: (1) fables
 (score four), (2) picture interpretation, (3) similarities (three
 things), (4) dissected sentences, (5) reverse attention span five,
@@ -2674,19 +2736,23 @@ variation between these tests is so slight as to mark them of about
 equal difficulty. Vocabulary 40 stands out very markedly as the
 most difficult test of this level for our group. Only two of the
 303 subjects pass the test.
+
 In the fourteen year tests the order of difficulty is as follows:
 (1) audito-vocal attention span seven, (2) problems of fact. The
 P.E. difference between the first and second tests is 1.75. Two
 subjects passed problems of fact, and 26 individuals succeeded in
 passing audito-vocal attention span seven, or 8.5 per cent. In
 Starr's group 3 per cent received this score.
+
 In the sixteen year tests one individual passed fables (score
 eight).
 In the eighteen year tests six individuals passed audito-vocal
 attention span eight.
 e ibid.
-RESPONSES OF SCHOOL CHILDREN 25
+
 Summary
+----------
+
 Some of the tests at a higher level are easier for our group than
 those located at a lower level. Counting backwards at the eight
 year level is easier than differences at the seven. Placing three
@@ -2715,6 +2781,7 @@ most difficult of the nine year tests. Starr found that 64 per cent
 of her 9-10 year old normal children passed this test. 88.1 per
 cent of our fifth grade group and 89.6 per cent of our eleven year
 olds in the sixth grade succeeded in passing it.
+
 Putting three words in a sentence is easier than date and making
 change for both fifth and third grade pupils but the difference in
 difficulty is greater in the fifth grade. Date and making change
@@ -2722,7 +2789,7 @@ depend more upon life situations, upon knowledge acquired outside
 of school. Date would appear to depend more particularly upon
 the necessity that the child is under of knowing the date. Even
 among adults there is some difficulty occasionally in saying precisely
-26 THE PSYCHOLOGICAL CLINIC
+
 what day of the month it is, a difficulty that is testified to by the
 fact that even business men keep calendars on their desks. Making
 change, on the other hand, is a test at which facility is acquired
@@ -2739,6 +2806,7 @@ In the ten year tests the order of difficulty is: (1) absurdities,
 second tests is .56, between the second and third, .35, and between
 the third and fourth, .66. The ten year old tests prove to be much
 better graded than the nine year tests.
+
 It is interesting to note that audito-vocal attention span six is
 the most difficult of the ten year tests for the fifth grade group and
 the easiest for the third grade. Humpstone shows that the median
@@ -2761,13 +2829,13 @@ instead of being last. Vocabulary increases with age and schooling.
 In the two years intervening between these two grades, vocabulary
 thirty has decreased in difficulty more rapidly than audito-vocal
 attention span six, and the reason for this we would attribute to
-RESPONSES OF SCHOOL CHILDREN 27
 the influence of experience and schooling in vocabulary increase.
 Another indication of the effect of schooling and life experience
 on vocabulary is in the great increase in percentage of passes between the third and fifth grades. The percentage of our third
 grade pupils is 10.8; of the fifth grade the percentage is 82.7, a
 striking increase in two years. Vocabulary develops rapidly, while
 attention span ability lags.
+
 In the twelve year tests the order of difficulty is: (1) fables
 (score four), (2) dissected sentences, (3) similarity, three things,
 (4) picture interpretation, (5) vocabulary forty, (6) reverse attention span five. The P.E. difference between the first and second
@@ -2786,6 +2854,7 @@ Reverse attention span five is the most difficult test of the group.
 Starr reports 20 per cent of her 9-10-11 year old normals as passing
 it. 19.3 per cent of our fifth grade group and 27.5 per cent of our
 sixth grade group are credited with success.
+
 In the fourteen year tests the order of difficulty is: (1) problems
 of fact, (2) audito-vocal attention span seven, (3) president and
 king, (4) vocabulary fifty. The P.E. difference between the first
@@ -2795,7 +2864,6 @@ group 8.5 per cent passed the audito-vocal attention span seven test,
 whereas 16.3 per cent of the ten year old children passed it. Of
 156 children, age 9-6 to 10-5, 21.1 per cent are credited with success. Audito-vocal attention span seven is the point, then, that
 marks off the upper quintile of ten year old fifth grade children.
-28 THE PSYCHOLOGICAL CLINIC
 Just as audito-vocal attention span six is at the median of third
 grade children, audito-vocal attention span seven is approximately
 at the 80 per cent line for ten year old fifth grade children. Starr
@@ -2804,6 +2872,7 @@ this test. Vocabulary fifty is passed by 3.0 per cent of our ten
 year old fifth grade children. Seventeen children passed this test
 out of the entire group of 331 cases. There are no passes at the
 third grade level.
+
 In the sixteen year tests the order of difficulty in the three tests
 passed by this group is: (1) fables (score eight), (2) enclosed boxes,
 (3) reverse attention span six. Fables is passed by 33, enclosed
@@ -2812,7 +2881,10 @@ Of the eighteen year tests the only ones passed by this group
 were audito-vocal attention span eight, which was passed by nine,
 and giving the thoughts of a passage heard, which was passed by
 only two.
+
 Summary
+-----------
+
 Absurdities at the ten year level is easier for this group than
 reverse attention span four at the nine year level. Fables (score
 four), twelve year level, is easier than audito-vocal attention span
@@ -2826,6 +2898,7 @@ In the nine year tests the order of difficulty is: (1) making
 change, (2) date, (3) three words, (4) reverse attention span four.
 The P.E. difference between three words and reverse attention span
 four is .90.
+
 The variations between the first three tests in this grade, as in
 the fifth grade, are not significant. Out of an entire group of 252,
 two failed at making change, four failed to name the date, eight in
@@ -2839,6 +2912,7 @@ tween the third and fourth, .10. Absurdities in both fifth and sixth
 grades is of equal difficulty. Audito-vocal attention span six is
 easier for the sixth grade group than for the fifth, the P.E. difference being .72, thus showing gradual increase in attention span
 in one year.
+
 Vocabulary thirty is more difficult for our sixth graders than
 for the fifth graders, the P.E. difference being .30. The reason
 for this inferiority of the sixth grade over the fifth grade in vocabulary must be looked for in the difference between the two groups.
@@ -2848,6 +2922,7 @@ is 5.8. This inferiority, as indicated by a difference in I.Q., finds
 its most marked expression at this point. The mean I.Q. for the
 entire sixth grade is 93.1, P.E. .5, that for the fifth grade, 99.1,
 P.E. .5.
+
 In the twelve year tests the order of difficulty is: (1) dissected
 sentences, (2) fables (score four), (3) picture interpretation, (4)
 similarities, three things, (5) vocabulary forty, (6) reverse attention span five. The P.E. difference between the first and second
@@ -2865,12 +2940,13 @@ The more rapid development in arranging dissected sentences as
 compared with picture interpretation, noted between the ages eight
 and ten, is apparent here also in the interval of one year, though
 the actual difference is small.
+
 Similarities was passed by 56.7 per cent of the group, and pictures by 59.1 per cent. The percentage of passes of vocabulary
 forty in this grade is 38.4, which is 8.9 per cent higher than with
 the ten year olds. This reverses the situation that we found with
 vocabulary thirty.
+
 In the fourteen year tests the order of difficulty is: (1) problems
-30 TEE PSYCHOLOGICAL CLINIC
 of fact, (2) audito-vocal attention span seven, (3) president and
 king, (4) vocabulary fifty. The P.E. difference between the first
 and second tests is .30, between the second and third, .60, and between the third and fourth, .70. The P.E. difference between problems of fact and audito-vocal attention span seven is approximately
@@ -2882,6 +2958,7 @@ old subjects. In vocabulary thirty we found the eleven year olds
 inferior to the ten year olds; in vocabulary forty and vocabulary
 fifty they are superior. A detailed study of the vocabularies of the
 two groups will be given in a later section.
+
 Of the sixteen year tests, those passed by this group are, in
 order of difficulty: (1) fables (score eight), (2) enclosed boxes,
 (3) reverse attention span six. The P.E. difference between the
@@ -2894,7 +2971,10 @@ At the eighteen year test level the two tests having passes to
 their credit are audito-vocal attention span eight, passed by eleven
 of the 252, and repeating the thoughts of a passage heard, passed
 by one.
+
 Summary
+----------
+
 Absurdities at the ten year level is easier for this group than
 reverse attention span four at the nine year level. None of the
 twelve year old tests is easier for our eleven year olds than the
@@ -2905,8 +2985,9 @@ at the fourteen year level. Audito-vocal attention span eight,
 eighteen year level, is easier than reverse attention span six. There
 are eleven passes of audito-vocal attention span eight, and ten passes
 of reverse attention span six.
-RESPONSES OF SCHOOL CHILDREN 31
+
 Discussion
+
 In the decision of the question of whether a test is located at
 the proper age level, there are several methods that may be employed.
 The first is the method used by Binet: "If the percentage of passes
@@ -2917,6 +2998,7 @@ if children of a given age who, on other grounds, were known to
 be bright passed more frequently than children of the same age
 who were known to be dull, then the test was judged a satisfactory
 test of intelligence." 7
+
 In practice the application of the principle resulted in the
 placing of a test at a year where it was "passed by two-thirds to
 three-fourths of unselected children." There is no valid objection
@@ -2936,6 +3018,7 @@ level of a child of six. The criticism that may be directed against
 this method is largely one of the grossness of the measure. Knowing the modal performance of children of a given age, we have, as
 a result, three classifications: modal, superior to the mode, and
 inferior to the mode.
+
 A second method for locating a test at a given age level is
 that of Terman. Terman,8 on grounds which he did not disclose,
 says, "We had already become convinced for reasons too involved
@@ -2945,7 +3028,7 @@ of passes which an individual test ought to show in a given year
 in order to be considered standard for that year." Consequently,
 7 Terman, op. cit., p. 47.
 8 Terman, op. cit., pp. 53-54.
-32 THE PSYCHOLOGICAL CLINIC
+
 Terman adopted as his guiding principle an arrangement of tests
 and a standard of scoring which would cause the median age of
 the unselected children of each age group to coincide with the
@@ -2966,6 +3049,7 @@ or grade group there are tests at higher levels that are easier than
 tests at lower levels. The scale stands under the criticism of being
 a battery of tests of graded difficulty, it is true, from age level to
 age level, but not from test to test.
+
 The third method is that adopted by Lightner Witmer of the
 University of Pennsylvania, and used in the Psychological Clinic.
 Dr Witmer's judgment is that a test is satisfactorily located when
@@ -2984,7 +3068,6 @@ justification from the clinical point of view. Clinical psychology,
 being a psychology of the individual, must employ as refined a
 measure as possible. Binet's modal child, we have seen, divides
 children into three groups; it is a rough measure. Terman's I.Q.
-RESPONSES OF SCHOOL CHILDREN 33
 also fails of precision when used for clinical purposes. The difference between I.Q. 90 and I.Q. 140 is great enough to set of? or
 classify children receiving these I.Q.'s. But just what precisely is
 the difference between I.Q. 95 and I.Q. 105? In order to locate
@@ -2999,6 +3082,7 @@ demarcated as a test at the age level where it makes such a division.
 The first question that a clinician must answer is, where is this
 child with reference to the median or with reference to a test that
 has median value ?
+
 Assuming that a test is satisfactorily located when it is passed
 by 75 per cent of the children of a given age level, the following
 tests are too easy for children in the third grade of the public schools
@@ -3017,15 +3101,13 @@ the percentage of passes is 50.4. Reverse attention span four is
 passed by 40.9 per cent in Group III and by 39.8 per cent in Group
 II. It therefore lies on the line which separates the two superior
 quintiles from the three inferior quintiles.
+
 In the fifth grade, assuming that a test is satisfactorily located
 if passed by 75 per cent, we must include among those tests that are
 too easy for our fifth grade group, age 9?6 to 11?5, 68.26 per cent
 of whom fall between the ages 10.02 to 11.02, the following tests:
 at the nine year level, making change, date, three words, and reverse
-attention span four; at the ten year level, absurdities, vocabulary
-3
-34 THE PSYCHOLOGICAL CLINIC
-thirty, and comprehension (fourth degree). Assuming that a test
+attention span four; at the ten year level, absurdities, vocabulary thirty, and comprehension (fourth degree). Assuming that a test
 is satisfactorily located if 50 per cent pass, we must add to this
 group two more, audito-vocal attention span six at the ten year
 level, and fables (score four) at the twelve year level. There are
@@ -3049,6 +3131,7 @@ the twelve year group, and vocabulary forty, which has 18.4 per
 cent less passes in the fifth grade group than the test next above it,
 picture interpretation, and in the sixth grade has 18.3 per cent less
 passes than similarities.
+
 Ill
 Effect of Grades on the Test
 The impressive fact that emerges in comparing the percentage
@@ -3057,11 +3140,11 @@ of the sixth grade over the fifth is the enormous gain in ability to
 pass the tests in the two year interval between the third and fifth
 grades and the meagre gain in the one year interval between the
 fifth and sixth grades.
+
 In the nine year tests, the percentage of passes by third grade
 children is so large that no great percentage of increase could be
 expected. The fifth grade and sixth grade children with few exceptions pass date, making change, and three words. With reverse
 attention span four the gain per cent of the fifth grade over the
-RESPONSES OF SCHOOL CHILDREN 35
 third grade is 115. A gain per cent of 1.7 is shown between the
 fifth and sixth grades. The range in reverse attention span among
 normal children from ages six to fifteen has been shown by Starr
@@ -3102,7 +3185,6 @@ than five digits.9 By this standard, 60 per cent of fifth grade
 children and 80 per cent of sixth grade children have reached their
 9 Martin, Pauline R., and Fernberger, Samuel W. Improvement in
 Memory Span. Amer. Jour. Psyclvol., 1929, 41, 91-94.
-36 THE PSYCHOLOGICAL CLINIC
 maximum immediate reproductive attention span. As far as the
 ability which is involved in this test is concerned these children are
 all on deck intellectually. It is not however to be supposed that
@@ -3120,6 +3202,7 @@ six is? necessary for successful high school work.10 As far as attention span is
 possible to make a prognosis of high school success for approximately 60 and 80 per cent of these fifth grade and sixth grade children respectively in the public schools of Philadelphia. The possession of such a span does not imply successful high school work
 but not to possess such a span would be a sure guarantee of failure
 to do high school work.
+
 Absurdities and comprehension (fourth degree) show approximately the same percentage of gain between the third and fifth
 grades and also between the fifth and sixth grades, the gain between the latter two grades in both tests being insignificant as
 compared with the vast gain between the two former. Absurdities
@@ -3130,6 +3213,7 @@ ability has so far developed that the test is nearly always passed. 11
 32.3 per cent of Group III and 30.9 per cent of Group II, third
 grade; 90.9 per cent of Group III and 95.5 per cent of Group II,
 fifth grade, pass the test.
+
 Twelve Year Tests. We meet again the same contrast between
 the gain per cent of passes between the third and fifth grades and
 between the fifth and sixth. Reverse attention span five makes a
@@ -3138,7 +3222,6 @@ a gain of 1.6 per cent in the one year interval, duplicating the
 Learning, Rebecca E. Tests and Norms for Vocational Guidance at
 the Fifteen Year Old Performance Level. Psychol. Clinic, 1922, 14, 193-220.
 11 Terman, op. cit., p. 258.
-RESPONSES OF SCHOOL CHILDREN 37
 situation with reverse attention span four. The development of
 ability to pass the four tests at this level that exploit the analyticsynthetic intellect follows this ascending order: (1) picture interpretation, (2) fables, (3) similarities, (4) dissected sentences, the
 gain in the two year period being 352, 364, 530, 779 per cent respectively. The gains per cent between the fifth and the sixth
@@ -3147,6 +3230,7 @@ per cent more than double picture interpretation and fables and
 nearly one and one-half times similarities in the two year interval.
 Above the ten year level the passes are too few to form the basis
 of a comparison.
+
 It is impossible to present any adequate picture of the effect
 of grade on vocabulary by comparison of the percentage of scores
 of the various vocabulary tests involved in this study, vocabulary
@@ -3183,6 +3267,7 @@ P.E. av.
 .24
 .23
 .37
+
 It will be noted that the mean vocabulary for grade three is
 21.1 words, P.E. av. .24. The mean for grade five is 34.9 words,
 P.E. av. .23. For sixth grade the mean is 35.6 words, P.E. av. .37.
@@ -3192,14 +3277,15 @@ The gain of the sixth grade over the fifth is .7 word, which is a
 gain per cent of .02. As with the other tests, the gain in vocabulary
 is very striking between the third and the fifth grades and barely
 noticeable between the fifth and sixth grades.
+
 The range is from 4 to 40 words in the third grade, from 10 to
 60 in the fifth grade, and from 10 to 58 in the sixth grade. The
-38 THE PSYCHOLOGICAL CLINIC
 following table presents the number and per cent passing the vocabulary test in five groups: (1) those having a vocabulary under 20,
 (2) those having a vocabulary from 20 to 29, (3) those having a
 vocabulary from 30 to 39, (4) those having a vocabulary from 40
 to 49, and (5) those having a vocabulary from 50 to 60.
 Vocabulary Table B
+
 III
 No.
 %
@@ -3246,6 +3332,7 @@ No.
 303
 331
 252
+
 The mode for the third grade is vocabulary 20 to 29, which is
 passed by 52.1 per cent of the third graders. A superior 10.8 per
 cent score between 30 and 39; less than 1 per cent score between 40

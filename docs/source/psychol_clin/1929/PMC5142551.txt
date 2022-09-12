@@ -1,13 +1,15 @@
 The Nature Of G, AS Seen by the Clinical Psychologist
 ======================================================
 
-By J. E. Wallace Wallin
+:Author: J. E. Wallace Wallin
+
 Baltimore Department of Education and Johns Hopkins University
 These remarks are written from the standpoint of a psychoclinical practitioner who has given nearly all his time for almost two
 decades to the practical problems of psychological, educational, and
 social diagnosis and to the organization and administration of systems of corrective and developmental work for handicapped children. The writer suspects that the reason the presiding officer asked
 him to participate in this symposium was that he wished to have the
 point of view of the psychological practitioner presented.
+
 The point of view of most psychological practitioners is similar
 to that of the practical engineer. The latter avails himself of the
 researches of the chemists and physicists which bear on his practical
@@ -21,6 +23,7 @@ not know whether these questions are capable of experimental solution, is satisf
 accords to the academic or speculatively-inclined chemists, physicists
 and metaphysicians the exclusive prerogrative of wrestling with
 fundamental problems of ontology.
+
 Similarly the clinical practitioners in psychology who are making extensive use of the scales or tests of intelligence have not been
 much concerned with questions pertaining to the ultimate nature
 of the quality or the function they are alleged to measure; that is,
@@ -29,7 +32,9 @@ factor is voluntary attention (Burt), good judgment (Binet), general adaptabilit
 Gates, Dearborn), a common fund of intellectual or mental energy
 JEead in the symposium on the nature of G at the Ninth International
 Congress of Psychology, New Haven, September 5, 1929.
+
 THE NATURE OF G 197
+
 (Spearman), a general verbal factor (Kelley), a process of educing
 relations and correlates (Spearman), a combining activity (Ebbinghaus), or a highly complex, integrated, and sensitive cortical organization (possibly Washburn). He has not been vitally concerned
 with the question as to whether all intellectual activities consist of
@@ -57,7 +62,6 @@ measures, whether of intellectual, motor, emotional, or character
 traits, are far from perfect, that they are affected by the personality
 characteristics of the examiner and by the influences of the physical
 and social environment as well as by native endowment (which the
-198 THE PSYCHOLOGICAL CLINIC
 writer emphasized prematurely as early as 1911), that many recommendations in the field of educational, psychiatric, psychological,
 vocational, and social guidance are still frequently based on opinion
 rather than scientific measurement, that much that passes for scientific guidance in the field of psychiatry, psychology, and education

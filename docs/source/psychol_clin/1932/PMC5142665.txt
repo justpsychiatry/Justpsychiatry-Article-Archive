@@ -5,7 +5,8 @@ The Psychological Clinic
 Copyright, 1932, by Lightner Witmer, Editor
 Vol. XXI, No. 2 June-August, 1932
 
-By Henry E. Starr, Ph.D.
+:Author:  Henry E. Starr, Ph.D.
+
 Bead of the Department of Psychology and Director of the Psychological and
 Mental Hygiene Clinic of Butgers University
 Many of yon are aware of tlie fact that there is a strong feeling
@@ -23,11 +24,8 @@ the times in other sciences, at least maintaining an intelligent interest in suc
 they feel that they have a more nearly adequate perspective of the
 field than is possible for others whose purview is more restricted. I
 for one freely grant both their ability and their right to criticize.
+
 And I grant it the more readily because I venture to differ with
-* Read at the annual meeting of the Association of Consulting Psj chol
-ogists, at Columbia University, May 7, 1932.
-69
-70 THE PSYCHOLOGICAL CLINIC
 them in their suggested solution of the problems involved. I do
 not believe that those of us who are sympathetic with the development of psychology as a science need be called upon at this time to
 support a third national psychological association. I have frankly
@@ -46,6 +44,7 @@ and untried society. It is quite evident, however, that we should
 seriously consider the present state of psychology and psychologists in order to ascertain something of the factors which have led
 many superior individuals within our ranks to register such despair
 as is indicated by a '' third party'' movement.
+
 First and perhaps foremost, the bane of many of us is the curse
 of credulity. Most of us have discarded the dogmatic theology of
 the past. Somewhere, probably during relatively early adolescence,
@@ -64,7 +63,7 @@ become worshippers of a narrow creedal system, whether of Freud,
 Watson, Pavlov, Kohler or another. And we accept the utterance
 o the godlet with the blind and slavish obedience of a bigoted
 zealot at the feet of his high priest.
-THE PSYCHOLOGY OF PSYCHOLOGISTS 71
+
 Now I would in no manner or degree, seek to belittle the contributions to a science of psychology made by any of the individuals
 I have named. Freud has given us an appreciation of the importance of sexual libido, Watson has done the same for animal
 psychology, Pavlov for the conditioned reflex and Kohler for configurations. Each of them has, of course, done much more. But
@@ -86,6 +85,7 @@ Associationists of last century. Nevertheless, the "discovery" that
 'association" holds in the mental as well as in the overtly physical
 realm is brought out as a new thing?with all the pomp and flourish of a stage magician taking a rabbit from a hat?in which it had
 been reposing beforehand in full view of the audience.
+
 It is this sort of thing which makes us appear as credulous dupes
 to our critics. This ignorance of what has been done in psychology
 by previous generations! As if nothing were worth consideration
@@ -97,7 +97,7 @@ argues not greatly one way or the other in this connection and "\ve
 can at least know something of what has been done in our science
 before our little day if we familiarize ourselves with such splendid
 summaries as those given us by Murphy and Boring.
-72 THE PSYCHOLOGICAL CLINIC
+
 There is another danger for which the creed of the conditioned
 reflex can serve as a warning. We need to realize that a given scientific principle may serve splendidly to explain certain phenomena
 without necessarily being applicable to other equally important
@@ -113,6 +113,7 @@ have developed if but one reagent or a single precipitant were religiously insis
 filtrate after its addition were immediately discarded as containing
 nothing more. Such an attitude suggests monomania rather than
 science.
+
 Simple chemical analogy may throw light upon yet another unscientific dogma in certain psychological sects. The dictum has
 gone forth with pontifical unctuousness that "Whatever exists,
 exists in some amount and can be measured." Perhaps so. Perhaps the imponderable is necessarily the non-existent. It has not
@@ -123,6 +124,7 @@ that after we know what is present in a given chemical compound,
 we can then proceed to determine its percentage composition. Frequently the most that the analytical chemist can do is to report
 this or that element or substance as present to the amount of a
 "trace." Ofttimes the "trace" is of the utmost importance.
+
 Some day, perhaps, analytical psychology may be as exact a science
 as is analytical chemistry. One would hardly insist seriously that
 such is as yet the case. Nevertheless, the dogmatic edict above
@@ -133,7 +135,6 @@ and a veritable epidemic of rabid insistence upon quantitative
 studies. Measurements are carried far beyond the decimal point
 and the resultant numbers studied by abstruse statistical methods.
 And between such sets of figures, minute coefficients of correlation
-THE PSYCHOLOGY OF PSYCHOLOGISTS 73
 are laboriously calculated. But?just what is it that is measured?
 By all means let us measure. But let us first know something of
 what it is that we would measure?and why. Or at the least, let
@@ -141,6 +142,7 @@ us not assume an attitude of smug superiority toward those of our
 critics who would have psychologists learn something of scientific
 technique from such natural sciences as chemistry and physics?
 even by analogy.
+
 Turning now somewhat more specifically to consultant psychology, it is evident that we need to employ tests which will be of
 genuine value in aiding us to understand the individual whom we
 are examining. In each individual case we need familiarity with a
@@ -164,12 +166,13 @@ aptitude for many things varies from day to day?pari passu with
 the condition of his digestion, to cite a single factor frequently important. And so if the clinical study of an individual is to be
 thorough, should the examiner not have flexible as well as stable
 tests?
+
 Another catch-word in connection with the tests just mentioned
 is employed when they are described enthusiastically as being
 validated.'' A careful study of the data supplied in the book,
 however, indicates that the "validation" is simply a matter of correlation with subjective estimates. No new thing in our "quantitative science." But let us recognize it for what it is?an exceedingly
 questionable procedure.
-74 THE PSYCHOLOGICAL CLINIC
+
 If you ask me how the makers of the test could have bettered it,
 I shall not pretend to say. The purpose of this paper is simply to
 point out a few phases of the psychology of psychologists that
@@ -200,9 +203,9 @@ The physicist frankly admits his inability to predict the behavior
 of an electron even in his laboratory under experimentally controlled conditions. Yet many a psychologist feels inferior because
 he can not always predict with 100 per cent accuracy the behavior
 of some client out on the highways of life.
+
 The same sort of shamefaced attitude is also in evidence with
 many when it is necessary to refer to phenomena suggesting certain
-THE PSYCHOLOGY OF PSYCHOLOGISTS 75
 of the older problems of psychology. You are no doubt familiar
 with the trite and hackneyed expression that '' Psychology first lost
 its ' soul,' then lost its ' mind' and is now rapidly losing ' consciousness.' " True enough, in its way. But one of these days, some
@@ -217,6 +220,7 @@ did the original unaltered passage. Similarly, turn to American
 made modern books on "personality" and substitute therein "soul"
 for "personality"?and they will frequently sound like the writings of a medieval saint. It seems that certain ideas persist through
 many changes of fashions of speech.
+
 At all events, we need not be ashamed to be familiar with the
 old writings. Human nature is not a new thing and its observation
 was, perchance, as carefully done by certain of our predecessors as
@@ -226,6 +230,7 @@ Someone must have understood something of human behavior in
 those days. Something of psychology might be found in the records
 they have left us. And even hieroglyphics may be deciphered with
 patience and perseverance.
+
 Finally, many of us have a definitely mechanistic, materialistic
 bias. "We need to be sceptical even of that, if we would avoid this
 curse of credulity in the omniscience of the latter day godlets. It
@@ -238,7 +243,6 @@ more impressive the presentation, the greater the need of scientific
 questioning. It is only a system conscious of its own weakness or
 error which opposes free investigation of itself, whether that system
 be the creed of a group or the complex of an individual. The truly
-76 THE PSYCHOLOGICAL CLINIC
 scientific mind is not too credulous even of the reports of the sense
 modalities. If we, as psychologists, can and do maintain this attitude of open-minded and wholesome scepticism toward the unproven, characteristic of the natural sciences, our critics will have
 little to urge justly against us. And instead of a third national

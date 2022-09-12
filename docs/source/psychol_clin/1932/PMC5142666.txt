@@ -1,8 +1,11 @@
 The Selection of Candidates for Trade School From a Group of Subnormal Italian Girls
 ====================================================================================
 
-By Edna Willis McElwee
+:Author:  Edna Willis McElwee
+
 New York City Schools
+----------------------
+
 Each year some of the brighter fifteen year old girls in the ungraded classes of New York City, who show ability in hand work,
 are given an opportunity to enter the Manhattan Trade School.
 In previous years the selection of the girls, in a great measure,
@@ -14,10 +17,12 @@ girls in their early teens. It discovers the ability of the girl to deal
 with things and mechanisms. It tests her manipulative or manual
 skill. There are five groups of tests: simple assemblying, hard assemblying, pasting, sewing and cutting. There are eleven parts
 with a possible score of 110 points.
+
 The purpose of this study was to determine whether the same
 selection of candidates was made with and without the assemblying
 test among the battery of tests given to ungraded girls desiring to
 enter trade school.
+
 As the majority of the girls in the ungraded classes are Italian,
 it was decided to limit this study to an unselected group of Italian
 girls. Sixty-five Italian girls who were fourteen years of age were
@@ -28,7 +33,6 @@ the Haggerty Reading Examination Sigma I and the Woody McCall Mixed Fundamentals
 The range of Binet I.Q.s was from 50 to 75 with a median I.Q.
 of 65. The range of scores on the reading test was from zero to 5A
 with a median grade achievement of 3A. The range on the aritli133
-134 THE PSYCHOLOGICAL CLINIC
 metic test was from zero to 7 A with a median grade achievement
 of 4A. The range on the assemblying test was from zero to 73 with
 an average score of 36. Twenty-five per cent of the girls had a
@@ -43,6 +47,7 @@ scores was from zero to 63. Exactly half of them made a higher
 assemblying score than the average of the entire group and seven
 of them made a higher score than the norm for fourteen year old
 girls.
+
 Emily T. Burr1 has found in her vocational work with girls in
 New York City that 50 points on the Girls Mechanical Assemblying
 Test is a minimum score upon which placement in an industrial
@@ -52,19 +57,24 @@ Using the Product Moment formula, the correlation between
 the scores on the assembling test and the Binet I.Q. was .27 ? .07;
 between the assemblying test and reading .33 ? .08; and between
 the assemblying test and arithmetic .42 ?.07.
+
 An interesting comparison is made between these correlations
 and those found by Toops 21 for normal fourteen year old girls.
 His correlation between the assemblying test and intelligence was
 .34; between the assemblying test and reading .31; and between
 the assemblying test and arithmetic .27.
+
 For tests of educational achievement he used the ThorndikeMcCall Reading Test and the Thorndike-McCall Arithmetical Problem Solving Test. His test of intelligence was a combination of
 the scores on the reading and arithmetic tests.
 1 Burr, Emily T. The Vocational Adjustment of Mental Defectives.
 Psychol. Clinic, 1931, 20, 55-64.
+
 2 Toops, Herbert A. Tests for Vocational Guidance of Children Thirteen
 to Sixteen. Teachers College Contribution to Education. No. 136.
-NOTES AND COMMENT 135
+
 Conclusion
+-----------
+
 The findings of this study show that:
 (1) Measures of intelligence and educational achievement can
 not be substituted for the Girls Mechanical Assemblying Test as a

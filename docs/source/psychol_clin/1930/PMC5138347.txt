@@ -1,7 +1,7 @@
 The Psychological Examination of Interests for Guidance
 =========================================================
 
-By Douglas Fryer
+:Author: Douglas Fryer
 Associate Professor of Psychology, New York University
 The practical worker in clinic or guidance bureau has longrecognized the existence of a factor in human adjustment which he
 has called interest. There has been a considerable period of scientific
@@ -9,6 +9,7 @@ description of this factor. Recently, within the last ten years in
 fact, interests have been submitted to measurement. Such measurement of interests gives every promise of contributing to the happy
 and efficient adjustment of the individual. The day of contented
 reliance upon judgements of interests alone is past.
+
 However, there is still a place for the judgment of interests,
 as there may always be. An analogy between the psychological
 examination of interests and the psychological examination of abilities may be drawn. The clinical psychologist believes that a psychological examination of abilities is incomplete without rating scales
@@ -19,20 +20,23 @@ scale. So, too, the clinical psychologist would administer tests and
 measures of interests and add to his results the judgments of the
 Subject under examination, and those of his employer, teacher,
 parents, and friends.
+
 A psychological examination of interests, then, would include
 data from all possible sources: the results of information tests, the
 results of free association tests, the inventory measures, and in addition, the judgment of leading interests from various sources. All
 results of the psychological examination of interests would be viewed
 in their relation. The best prediction in the psychological examination of interests lies where there is agreement between tests and
 judgments of interests.
+
 The Role of Judgment in the Psychological Examination
 op Interests
+
 The role of judgment in the estimation of interests is fairly
 familiar to every one. Judgments are collected from friends, em'Address delivered at the aimual meeting of the National Vocational
 Guidance Association, Atlantic City, Feb. 20-22, 1930.
-PSYCHOLOGICAL EXAMINATION 35
 ployer, teacher, parents, and from the individual himself. Probably
 the source of judgment most widely used is the Subject under examination.
+
 Various devices have been prepared to inform the Subject, so
 that he may be better prepared to make a judgment of his interests. These orientation devices are found in every vocational guidance clinic, and, though similar, are usually adapted to a local
 situation. Frank Parson's book, "Choosing A Vocation," is an
@@ -45,6 +49,7 @@ the rating scale. In Kitson's Rating Scale for Teachers,3 for instance, the teac
 He is asked to choose a vocation of greatest interest, a vocation of
 second interest, and so on, and then to give the point value of the
 vocation in which he is working.
+
 The Use of Psychological Measures of Interests
 The Interest Inventory
 The inventory represents the leading attempt at measurement
@@ -59,9 +64,10 @@ the Subject's inventory to the interests of members of a certain
 social or occupational group. Scoring keys have been developed for
 2 "Analysis of Work Interests," a four-page folder, distributed by C. H.
 Stoelting Company, Chicago, Illinois.
+
 'Kitson, II. D.: Measuring the Interests of TeacJiers in Their Work.
 Teachers' College Record, 1928, XXX, 28-33.
-36 THE PSYCHOLOGICAL CLINIC
+
 approximately twenty professions and occupational groups by E.
 K. Strong to be used with his inventory, the Vocational Interest
 Blank.4 The scoring key for each occupation scores high the interests which have been found to be common to individuals in that
@@ -79,7 +85,9 @@ of items, and hence improves his qualitative judgment of his own
 interests. It is the best single measuring device by which to examine
 subjective interests. But it has its limitations. The less valid estimates of teachers, parents, counselors, and so on, can add to our
 knowledge of subjective interests in the psychological examination.
+
 Information Tests of Interests
+
 Objective interests represent a field of interest expression almost
 entirely neglected even in the psychological examination by the
 best clinics and guidance bureaus. Interests have not been described
@@ -90,12 +98,12 @@ examination of interests, he will tap in all possible sources, and
 he will not neglect an attempt to measure what arc thought of as
 objective interests, whatever their relation may be to subjective
 interests.
+
 4 The Vocational Interest Blank by E. K. Strong is distributed by the
 Stanford University Press, Stanford, California. Scoring keys for the following occupations are 011 sale: advertiser, architect, artist, chemist, engineer,
 fanner, journalist (newspaper editor), lawyer, life insurance salesman, medical
 man, minister, personnel man, psychologist, public accountant, purchasing agent,
 real estate salesman, school teacher and administrator, vacuum cleaner salesman, Y.M.C.A. secretary.
-PSYCHOLOGICAL EXAMINATION 37
 Tests of information, for the purpose of indicating objective
 interests, have been prepared to measure information in certain
 specialized fields, for example in the field of mechanics, in professional fields, etc. They test information by true-false answers, by
@@ -110,7 +118,10 @@ of these information tests show a high correlation with subjective
 interests, but, as indicated above, they represent a new field of
 interest expression not heretofore measured in the psychological
 examination.
+
 Association Tests in the Measurement of Interests
+--------------------------------------------------
+
 The objective test most highly thought of as a measure of interests is one employing the free association method, in which the
 Subject is asked to respond, when the stimulus word is given, with
 the first word that comes to mind. This test is the result of the work
@@ -130,8 +141,10 @@ a Liberal Arts College. J. of App. Psychol., 1924, VIII, 245-255.
 Children, Vol. I, Genetic Studies of Genius, Chap. XVI (455-483) "lests of
 Intellectual, Social, and Activity Interests" by Jessie B. Wyman. Stanford
 University Press, 1925. Scoring keys arc unpublished.
-38 THE PSYCHOLOGICAL CLINIC
+
 Experimental Devices Undergoing Development
+--------------------------------------------
+
 The interest inventory with occupational scoring keys, the information tests for various fields of activities, and the Wyman Free
 Association Test would all seem to be useful measures in the psychological examination of interests. But there are other experimental
 devices which are in the process of development, with various degrees of promise. A unique development of the interest inventory
@@ -141,6 +154,7 @@ of interest. Another, similar investigation, by P. P. Brainard10 is
 under way at the University of Michigan. The purpose is to use
 functional interest groups in the professions and occupations as the
 units of vocational adjustment.
+
 The early efforts11 to score the interest inventory for success
 and failure have been continued at the University of Minnesota?
 in this case for success and failure in college work. Donald G.
@@ -148,6 +162,7 @@ Paterson and Marian M. Jacobsen have for their purpose in this
 study the prediction of educational achievement, insofar as interests determine success.
 The early work of Moore and Freyd12 upon the social-mechanical interests has also been continued at the University of Minnesota
 by Ruth M. Hubbard.13
+
 At New \ ork University, Alfred J. Marrow is studying universal interests, to determine the degree of universality of the interests of people. The development of inventories and tests for the
 measurement of the interests of gifted children, the comparison of
 these interests with those of non-superior children, by Lewis M. Ter10 See Brainard, P. P.: Interest Tests in Vocational Guidance, Voc. Guid.
@@ -162,13 +177,15 @@ Freyd, Max: The Personalities of the Socially and Mechanically Inclined.
 Psychol. Mono., 1924, 33, Chap. III.
 13 See Hubbard, Ruth M.: A Measurement of Mechanical Interests. Ped.
 Sem. and J. of Gen. Psychol., 1928, 35, 229-254.
-PSYCHOLOGICAL EXAMINATION 39
 man and his associates, have contributed to the evaluation of measurement devices for the psychological examination.14
 These arc some of the leading experimental projects aiming at
 measurement. One or more of these may become a valuable contribution to the psychological examination of interests. There arc,
 of course, other aspects to the interest problem besides their measurement in the psychological examination. There are such problems as the permanence of interests, their relation to abilities, etc.,
 also undergoing investigation at the present time.
+
 The Nature of Interests
+-----------------------
+
 For a moment let us leave the problems of measurement and
 examine the interests we are studying. For some years the author
 made it his purpose, in an attempt not to be led away into the abstract, to ask various individuals to make records of their interests.
@@ -183,6 +200,7 @@ analysis of the interests. The detail of the interest history would
 appear to be an indication of its accuracy. The purpose in mentioning such retrospective study is not to draw final conclusions as
 to its validity, etc., but to illustrate by these autobiographies the
 psychological thing which we are studying.
+
 As an example, there is the case of a man with extremely varied
 interests?a man who is now definitely committed to a career of college teaching. However, between the ages of thirty-five and fortyfive, after writing the interest autobiography, mentioned here, his
 teaching field has shifted from history into economic history and
@@ -193,7 +211,7 @@ environment for producing the variety of interests which he mentions in writing 
 "See Terman, L. M. et al: Mental and Physical Traits of a Thousand
 Gifted Children. Vol. I, Genetic Studies of Genius, Stanford, University Press,
 1925, 648 p.
-40 THE PSYCHOLOGICAL CLINIC
+
 A classification of interests, taken from his history, illustrates
 very well what is found in many interest histories.
 Interests Expressed in Interest Autobiography
@@ -251,6 +269,7 @@ Aversions
 1. Going to elementary school.
 2. Took and passed secondary school examinations and never entered.
 3. '' Home life unsatisfactory?fled.''
+
 A more fundamental general interest stands out in this genetic
 history, besides these detailed interests specifically mentioned. It
 is one that seems to include many of the detailed interests. It is
@@ -268,10 +287,10 @@ Latin because his brother was "contemptuous of classics." His social success in 
 in conversation, in learning languages, in conversing in foreign languages?led him at the age of 25 to have a "belief in his literary
 ability." lie did not try to make any practical use of it, but he
 felt he had it.
+
 His brother, who became an economist, represents the personality interest which led the Subject into science. This interest was
 fostered by other personality influences?the president of a college,
 the professor of biology, and the professor of sociology. AN itliout
-42 THE PSYCHOLOGICAL CLINIC
 these personality influences, it is easy to conceive that the mechanical interests might have kept this man in some occupation requiring
 skilled work with his hands?his wider interests being satisfied by
 reading and discussion. As it is, his occupation is confined to dealing with ideas, and his abilities with and interest in concrete things
@@ -297,13 +316,16 @@ of mental life, is doing little more than the child who tries to collect all the
 Much better it would be to accept the estimate offered by the Subject. An analysis of the nature of interests leads us to the conclusion that the psychological examination of interests is equal in
 difficulty, equal in time consumption, and equal in importance to
 the examination of abilities.
+
 An Outline of A Psychological Examination of Interests
 The psychological examination of interests investigates personality from a certain point of view?that of the Subject's interests.
 In this examination the clinician is concerned with two things:
-PSYCHOLOGICAL EXAMINATION 43
 (1) with tlie genetic interest history to date of examination and (2)
 with a cross-section study of present interests.
+
 The Genetic Interest History
+-----------------------------
+
 Ideally, the genetic interest history would be a part of the developmental record of the individual, from babyhood, throughout
 childhood and adolescence, into adulthood. Providing an interest
 history has been kept, the cross-section study is simply a process
@@ -312,6 +334,7 @@ now kept by parents or teachers. We are just being educated to
 keep cumulative records of abilities. To add to this a cumulative
 record of interests is perhaps the next step in understanding the
 development of an individual.
+
 In the usual work of a clinic today the genetic interest history
 is assembled at the same time as the cross-section study of present
 interests is made. By interview and questionnaire methods, past
@@ -321,6 +344,7 @@ kept throughout the period of development, but a genetic history of
 interests is absolutely necessary to the understanding of interest
 trends, and it should always be made out in the psychological
 examination of interests.
+
 The genetic history includes a record of interests in all fields.
 These may be summarized for practical purposes, under the headings of vocational, educational, and social. It should reach back
 into earliest memories and extend to the time of the present study.
@@ -334,13 +358,16 @@ well involve all fields of interests, although the early ones would
 be purely social and activity interests. It was such stimulation as
 this that enabled the recall of the detailed interest autobiographies
 mentioned above.
+
 Cross-Section of Present Interests
+-----------------------------------
+
 A cross-section study of present interests involves the use of
 all available measures and rating-scales of interests. It is well to
-44 THE PSYCHOLOGICAL CLINIC
 err here in testing too much instead of too little. If time permits
 the use of only one measure, Strong's Vocational Interest Blank
 is undoubtedly the best one for vocational purposes.
+
 The interest inventory has other uses in the psychological examination than that of measurement. A survey of the items marked
 in the inventory will suggest trends of interests. Where there is
 continual indifference or dislike of people, this will show in the
@@ -356,11 +383,13 @@ What is wanted is information of
 1. Present Enjoyments: in work, study, play, religion, reading, and so on;
 2. Present Dissatisfactions (Troubles) : in work, study, play,
 religion, reading, and so on.
+
 Information upon these topics is pieced together into the "own
 story." If the same technique is used in securing the estimates
 from teachers, parents, and employers, as is used in studying the
 Sxibjcct's interests, the validity of the interest judgment should be
 greatly increased.
+
 The Interest Profile
 An interest profile can be of assistance in prognosis and in
 making recommendations. It can be made out for the several fields
@@ -372,13 +401,13 @@ of interests there is probably a higher validity in allowing for
 greater error. This is particularly true when the results of other
 sources than rating scales, inventories, and tests arc included, for
 example: the self estimates of the "own story," "parents' estimates," "friends' estimates," "employers' estimates," "teachers'
-PSYCHOLOGICAL EXAMINATION 45
 estimates," and the estimate of the counselor from the interest autobiography.
 There is presented below, in the form of a chart, an interest
 profile of a hypothetical Subject, John Doe. Strong likes and dislikes
 are marked with an asterisk (#). The interests of John Doe are
 classified into the three major fields of activity:? Educational, Vocational, and Social. The source of the information for John Doe's
 interests is indicated for each item.
+
 Interests Profile of John Doe
 June 1, 1929
 Sex: male; Age: 18; Education: Secondary School Grad.; Occupation: none
@@ -413,7 +442,7 @@ Stocks & Bonds?Bio. People?Fd. Est. "Parties?Pt. Est.
 Abbreviations: Autobiography (Bio.), Estimate (Est.), Free Association
 (I'.A.), Friend (Fd.), Information (I), Interests (Ite.), Inventory (Inv.),
 Own Story (Own Sty.), Parents (Ft.), Teacher (Toll.), Test (T.).
-46 THE PSYCHOLOGICAL CLINIC
+
 There is conflicting evidence in this profile. The measures of
 interests are not always consistent. This, we assume, is the fault
 of the measures used, which is a reason why a large number of
@@ -431,20 +460,22 @@ the results of a psychological examination of interests. The psychological exami
 the psychological examination of abilities. It involves prediction
 from the results secured. It also involves recommendations for
 training or rehabilitation.
+
 The traditional use of interest judgments has been to predict
 future interests, present or future abilities, and success or achievement. Recommendations for developing an interested life, seem
 not to have been attempted.
+
 Differences exist in the point of view of research in this field.
 Some investigators wish to use the inventory as a predictor of abilities?as, in fact, another measure of abilities. This attempt has
 failed. Specific interests are not predictors of specific abilities, although they may frequently be found together. This, of course, is
 unimportant when we have plenty of well-established measures of
 abilities.
+
 Other investigators aim at achievement and hope to find an
 influence of interests upon achievement. While it would seem that
 this relation is present, it is not as high a relation as that found
 between abilities and achievement. It seems probable that interests
 do determine achievement slightly, and particularly over a long
-PSYCHOLOGICAL EXAMINATION 47
 period of time, but the extent of this relationship is still to be determined.
 Abilities are correlated with achievement and success, and an
 adjustment of the individual according to his abilities is valuable

@@ -5,9 +5,10 @@ The Psychological Clinic
 Copyright, 1930, by Lightner Witmer, Editor
 Vol. XIX, No. 5 October, 1930
 
-By Samuel W. Ferxberger
+:Author: Samuel W. Ferxberger
 Professor of Psychology, University of Pennsylvania and Editor of the Journal
 of Experimental Psychology.
+
 The author of this article has no personal axe to grind. He is
 an experimental psychologist of the laboratory type. lie has never
 been interested in the practice of clinical psychology and it is doubtful if he ever will be. He thinks that he can speak on this topic,
@@ -19,6 +20,7 @@ The present article grows out of a request from Dr Bronson
 Crothers to express my opinion with regard to mental hygiene in
 connection with the White House Conference on Child Health and
 Protection.
+
 As one surveys the field of mental hygiene today, its practice
 is in the hands of a group with curiously divergent training and
 most divergent interests. One finds the practice largely in the
@@ -35,7 +37,7 @@ who is a specialist in experimental psychology, has touched upon a tender spot
 in the professional equipment and training of psychiatrists, psychologists and
 educators who are at present engaged in the promotion and practice of mental
 hygiene. Ligiitner Witmer, Editor.
-138 THE PSYCHOLOGICAL CLINIC
+
 cases, each criticizes the points of view of the other groups. The
 result seems to be a conflict of cross purposes which, I believe, cannot
 but be harmful to this highly valuable movement. And no one, I
@@ -48,12 +50,14 @@ and the points of view of several sciences or of several sciences and
 other arts. Thus medicine is an art which takes contributions from
 the sciences of anatomy, physiology, pharmacology, toxicology and
 what not besides.
+
 The next problem, then, is to determine the minimum list of
 sciences and arts necessary for the adequate accomplishment of mental hygiene. On this question there will, undoubtedly, be differences of opinion. It is doubtful if this minimum list would fail to
 include the following: medicine, psychology, sociology and education. Undoubtedly some individuals would extend the list. It
 is because these four sciences and arts do contribute and must contribute to mental hygiene, which would seem to be the reason why
 individuals with a background of any of these four systematic fields
 are to be found in the movement.
+
 But it would seem that one of the difficulties with mental
 hygiene up to the present time is that most workers have had adequate training in only one of these disciplines and that this training has given a one-sided emphasis to their work. Hence the physician has emphasized the medical aspects without an adequate knowledge of mental and behaviorial processes, normal or abnormal. The
 psychiatrist has emphasized the abnormal aspects. And neither have
@@ -68,9 +72,9 @@ with a personal incident. Recently, while attending a psychiatric
 clinic of Dr Charles W. Burr at the University of Pennsylvania,
 he remarked to me: "One trouble with psychiatry is due to you
 psychologists. If you would only define the normal for us,
-TRAINING OF MENTAL IIYGIENISTS 139
 our job would be easy." Whereupon I told him that I was quite
 willing to define the normal which I did in the following terms:
+
 "A normal individual is one in whom you, Dr Burr, are not professionally interested as a psychiatrist." But this much we can
 say: the normal is not to be conceived as an average individual
 (I'homme may en of Quetelet) but must be conceived as a range showing great individual variability within itself. And the abnormal
@@ -83,9 +87,11 @@ get along or make a living in his community. So an individual
 might well be feebleminded in an industrial city but not feebleminded on a farm ten miles away. And similarly, an individual
 may be a subject for the mental hygienist in the same industrial
 city and not on the farm ten miles away.
+
 But the mental hygiene movement is capable of further analysis and the result of this shows that it involves at least three types
 of individuals necessary for its complete formulation. These types
 may be defined as follows:
+
 1. Individuals interested in the diagnosing of normal and of
 deviated individuals, who are also able to make recommendations
 in those cases of deviation that may be saved for return to normal.
@@ -102,10 +108,10 @@ the three different types of job. Just what proportions of each is
 ideal must be eventually determined empirically. But it seems possible to indicate apriori and in general what some of these relations
 may be. One thing is certain, all three groups of workers must
 have enough background of sociology to guarantee a sociological approach whether they be diagnostician, corrector or disseminator. In
-140 THE PSYCHOLOGICAL CLINIC
 any phase of mental hygiene the sociological aspects must never be
 lost. I am therefore assuming the sociological background for all
 three groups.
+
 For the diagnostician, the emphasis must be on the medical
 and psychological aspects in relatively equal proportions and with
 less emphasis on educational training. I do not conceive that this
@@ -115,6 +121,7 @@ in all fields of psychology. It should be training in the points of
 view, the methods of these two disciplines with special training in
 those fields of medicine and psychology which have a bearing on the
 work at hand.
+
 For the corrector, the emphasis must be on education with particular regard to teaching in specialized education (not only the
 training of the mentally deficient but training in corrective speech,
 corrective motor control, the simpler industrial operations and what
@@ -132,6 +139,7 @@ efficient service. And the attitude of the diagnosticians and of the
 special trainers should always be that of the research worker, always striving to determine new facts and new methods. The disseminator, on the other hand, must have a much more philosophical
 attitude of collecting, coordinating, evaluating and expressing the results handed to him by the other two groups. His research will consist largely in the determination of better methods of expressing and
 of disseminating his material.
+
 It may be that there are some individuals who are already adequately trained in the diversity of disciplines analyzed above and
 who therefore approach the ideal of one or another of these types.
 If so, the mental hygiene movement is in so far fortunate. But
@@ -139,6 +147,7 @@ certainly there are many individuals at present occupied with menTRAINING OF MEN
 tal hygiene who are lacking in parts of this essential training. And
 I know of few fields of human endeavor where success so depends
 on adequate personnel.
+
 What groups today seem most nearly to approach the ideals
 for these three kinds of job in the matter of training? The consideration of this point is of a certain importance inasmuch as it may
 indicate on what existing groups it might be most efficient to build.
@@ -154,6 +163,7 @@ of medicine. My basis for the choice of the clinical psychologist as
 approaching the ideal diagnostician rather than the physician, is
 because it is my experience that the clinical psychologist most frequently has a better medical background than the physician has a
 background of psychology.
+
 The special class teacher most nearly approaches the ideal for
 the corrective trainer. But the usual special class teacher today does
 not have the sociological approach nor the fundamental knowledge of
@@ -163,22 +173,26 @@ who by appearance and temperament, by a knowledge of the methods of education an
 anything of which he has specialists knowledge. He exists, here and
 there in the community, and his training must consist in the special
 sociological, medical and psychological knowledge which he must disseminate.
+
 Summary
+--------
+
 1. The plural?mental hygienists?in the title was used consciously. By this we meant to express the idea that the mental
 hygiene movement, for complete realization, must have at least
 three sorts of individuals: (a) diagnosticians, whose duty is to
 diagnose normal and deviated subjects and to suggest the plan of
 rehabilitation for the deviates; (b) corrective rehabilitators, who
 will carry through this training and (c) disseminators, who will
-142 THE PSYCHOLOGICAL CLINIC
 spread the knowledge of mental hygiene in an attempt to anticipate
 deviation.
+
 2. Mental hygiene is conceived as an art or technicology and
 not a science and, as in the case of every art, it is dependent upon
 the coordination of materials, methods and points of view of several
 other arts and sciences. The minimum list of these fundamental
 disciplines for mental hygiene are medicine, psychology, sociology
 and education.
+
 3. Although all three types of persons, defined in section 1
 above, must have training in all of the fundamental sciences and
 arts, the relative emphasis will be different for the different groups.
@@ -189,6 +203,7 @@ somewhat less emphasis on medicine and psychology. And Group
 3, the disseminators, must emphasize education in their training with
 enough medicine and psychology to be able to evaluate and clearly
 express the findings of the other two groups.
+
 4. The author fails to find, at present, any existing group
 (there may be individuals of course)?physicians, pediatricians,
 psychiatrists, psychologists, sociologists or educators?who have this

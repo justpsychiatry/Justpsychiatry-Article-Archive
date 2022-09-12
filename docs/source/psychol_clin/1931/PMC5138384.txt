@@ -4,7 +4,7 @@ Clinical Problems in the Vocational Guidance of the Mentally Deficient 1
 The Psychological Clinic
 Copyright, 1931, by Lightner Witmer, Editor
 Vol. XX, No. 2 April, 1931
-By Morris S. Viteles, Ph.D.
+:Author: Morris S. Viteles, Ph.D.
 University of Pennsylvania
 It is to a playwright and a poet, the inimitable W. S. Gilbert, to
 whom we must go for the simplest resolution of the clinical problems
@@ -14,6 +14,7 @@ involved in the vocational guidance of the mentally deficient.
 That's born into the world alive,
 Is either a little liberal
 Or else a little conservative."
+
 ?"Iolanthe," W. S. Gilbert.
 In these few lines, Gilbert has pithily expressed a prevalent
 attitude not only toward liberalism and conservatism but toward
@@ -29,15 +30,16 @@ assumptions that this group can be treated as a whole, that there is
 little need for making within this group the fine differentiations,
 the clear cut discriminations of mental make-up which are required
 m the vocational guidance of the normal.
+
 1 Read at the annual meeting of the National Vocational Guidance Association?joint meeting with the staff of the Vineland Training School,
 "V inoland, New Jersey, February 22, 1930.
-34 THE PSYCHOLOGICAL CLINIC
 Individual Differences Among the Mentally Deficient
 As a matter of fact, the outstanding clinical problem in the vocational guidance of the mentally deficient, as in the vocational
 guidance of the normal, is that of determining the respects in which
 each mentally deficient differs from others and to make these differences, as in the case of the normal, the basic factors in giving
 aid in selecting, preparing for, entering upon, and progressing in
 a career.
+
 The situation with respect to individual differences within the
 mentally deficient group has been well stated by Wallin.2
 "From these and other considerations we reach the conclusion
@@ -52,6 +54,7 @@ idiocy to high-grade feeblemindedness; in that it may be caused
 by a great variety of etiological factors, hereditary and acquired,
 and in that the underlying brain defect (pathology) may differ
 greatly.
+
 "Let us remember that there are pronounced differences in
 physique, disposition, attitude, emotivity, energy, application, and
 in social and moral traits between feebleminded children even of
@@ -67,13 +70,14 @@ Between feebleminded, as between normal individuals, diversity,
 unevenness, and variation are the rule and not uniformity, symmetry, and sameness. Hence descriptions of the feebleminded
 must be largely restricted to generalizations respecting the average
 2 J. E. Wallace "Wallin, The Education of Handicapped Children, Iloughton Mifflin Co., 1924, 58-59.
-GUIDANCE OF MENTALLY DEFICIENT 35
 or most frequent representatives of the different grades or physical
 types. Owing to the demonstrated existence of 'individual differences,' in the mode of origin (pathogenesis), in the underlying
 brain defect (pathology), and in the manifestations (symptomatology), there is no simple, single, or infallible test of feeblemindedness such as demanded by the assumption that it is due to the
 absence of a unit trait."
+
 Case Studies from the Psychological Clinic op the University
 of Pennsylvania
+
 The significance of these differences among the mentally deficient, particularly as they affect vocational guidance, may be
 illustrated by a brief reference to two or three cases examined in
 the Psychological Clinic within the course of a single month.
@@ -83,6 +87,7 @@ exemplifies the danger of a pre-analytic diagnosis on the basis of
 general appearance. She has a pretty face which lights up expressively as she speaks. She responds very acceptably to the demands of an everyday, casual conversation. Socially she has proven
 acceptable to girls of her age. She has a cheerful, helpful disposition,?evidenced in her readiness to do any of the tasks assigned
 to her in the household and in the school.
+
 From her appearance and from a casual conversation with her,
 not even a practiced clinician would surmise that after more than
 six years of school training she has not achieved first grade proficiency in school subjects. As a matter of fact, an examination of
@@ -93,6 +98,7 @@ guidance of a trained teacher in the Psychological Clinic resulted in
 no noticeable improvement in her ability to read, although it did
 lead to the conclusion that she could probably advance to a greater
 Proficiency in the field of arithmetic.
+
 A review of the data obtained in the course of the psychological
 examination reveals an Intelligence Quotient of 58. The forward
 niemory span is four. In the course of the first examination, it was
@@ -101,6 +107,7 @@ in interesting her in attempting this task, partly because of the
 difficulty she apparently experienced in comprehending the direc36 THE PSYCHOLOGICAL CLINIC
 tions. After some instruction at a later date she managed to give
 a reverse span of two digits.
+
 An analytic study over a period of weeks brought into focus the
 high degree of distractibility,?distractibility which, however,
 seemed to be associated with an unwillingness to concentrate attention upon a task in which the girl expects failure. In tasks of a
@@ -121,6 +128,7 @@ The presence of these "practical" abilities was evidenced not
 only in the Clinic, but in the samples of sewing and embroidery
 brought by the mother and in the account of the household duties
 which she has proved capable of doing.
+
 The clinical picture in this case is definitely one of mental
 deficiency on the intellectual scale, that is, with respect to the ability
 to profit from instruction on the three R's. On the scale of socioeconomic competency, this girl cannot be described as being mentally deficient, or even as being markedly handicapped by mental
@@ -132,7 +140,6 @@ of age. In this case the dwarfed stature, the small head, the unhealthy hue of t
 deficiency which was readily confirmed in the Psychological Clinic.
 Not only is Miriam's appearance in distinct contrast with that
 of the girl described above, but her facial expression extends as far
-GUIDANCE OF MENTALLY DEFICIENT 37
 in the direction of dullness as that of Rose extends in the direction
 ?f liveliness. The same differences are present with respect to
 Personality. It is difficult to engage her in conversation. She is
@@ -148,6 +155,7 @@ school in June 1929 it would have been necessary for her to repeat
 the sixth grade a third time. Her school work was always poor,
 her conduct good. Her present proficiency in reading, writing and
 arithmetic is at about the fourth grade level.
+
 On the Stanford Revision of the Binet-Simon test, Miriam obtains an Intelligence Quotient of 64.5, somewhat above that of Rose.
 The forward memory span is seven, and the reverse span is four.
 On the performance tests used in the course of the examination
@@ -167,7 +175,7 @@ feeblemindedness, a criterion of social competency, the first cannot
 he described as feebleminded, the second must be so designated.
 From the viewpoint of individual differences the variation between these two is in no sense different in character and in extent
 from that found in samples of so-called normal human beings.
-38 THE PSYCHOLOGICAL CLINIC
+
 Factors to be Considered in Guidance
 The purpose in presenting these cases is not only to illustrate
 the significance of individual differences among the mentally deficient, but also to lead on to the discussion of the second clinical
@@ -180,17 +188,20 @@ vocational guidance for the mentally deficient is that of determining not only t
 building up a complete picture of the total situation in which the
 individual finds himself, a picture which constitutes the sole sound
 basis of adequate guidance.
+
 It is impossible to undertake a lengthy discussion of this particular problem. What has been said elsewhere, by the author,3
 concerning the importance of health, social and economic circumstances, appearance of individual, etc., in the guidance of the
 normal is applicable in the discussion of the guidance of the mentally deficient. Another case from the records of the Psychological
 Clinic of the University of Pennsylvania may serve to bring into
 relief this particular problem.
+
 The subject, in this case, is a boy thirteen years of age at the
 time of the original examination, fifteen years of age at the time
 of the second examination. A detailed statement of school history,
 social history, etc., will be omitted. It is sufficient to state that at
 the time of the last examination his school proficiency was at the
 fifth grade level.
+
 At the time of the original examination his Intelligence Quotient
 was 71, at the time of the re-examination 72.6.
 A strict adherence to the Terman classification favors, of course,
@@ -203,7 +214,7 @@ that the boy is sufficiently endowed with the elements of motor
 ability to be able to earn his living at one of a number of semiskilled trades, in spite of his low intellectual level. In addition
 3 Viteles, Morris S., The Clinical Approach in Vocational Guidance, Voc.
 Guid. Mag., Vol. VII, No. 1, October, 1928, pp. 1-8.
-GUIDANCE OF MENTALLY DEFICIENT 39
+
 lie has been uniformly conformed in his behavior. These qualities,
 combined with the judgment he has exhibited in his daily life in
 school and in the home, suggest that he will also be capable of supervising his own conduct. However, in spite of these advantages,
@@ -215,7 +226,10 @@ Maintaining production standards on the type of semi-skilled job on
 which he will have to be employed. In other words, in this case,
 the competency which he possesses to maintain himself in a semiskilled occupation cannot be put to use because of the health condition. If he could earn his living through the exercise of intellectual competency the health condition would be a minor consideration, but under the circumstances which do exist, it becomes a major
 item in the situation and will make self-support practically impossible.
+
 The Limitations of Mental Age
+------------------------------
+
 There is just one more phase of the problem to which a brief
 reference must be made before bringing this paper to a close. It
 is an aspect of the problem which is touched upon, by implication,
@@ -234,12 +248,13 @@ year level and unskilled laborers at the 8 year level. According to
 this author, in respect to vocational labor at least "with a mental
 age rating obtained" it is safe to advise the use of the table as a
 guide for employees selection.
-40 THE PSYCHOLOGICAL CLINIC
+
 The fallacy of such conclusions concerning mental age has been
 demonstrated in a number of experimental investigations. Even a
 limited experience in the application of clinical methods in vocational guidance will reveal the impracticability and invalidity of
 such a criterion of vocational success in the guidance of even a
 mentally deficient.
+
 There are other numerous problems which deserve discussion in
 this connection. Much can be said about the importance of job
 analysis as a preliminary in the guidance of the mentally defective.
@@ -249,7 +264,10 @@ borderline deficients, for the mentally deficients with specialized
 skills so necessary in supplementing the guidance process. However, the limitation of space permits only a few more words in the
 nature of a summary of what is perhaps the essential problem raised
 in this discussion.
+
 The Psychologist as "Prophet"
+----------------------------
+
 In their final analysis, the clinical problems in the vocational
 guidance of the mentally deficient, as in the guidance of the normal,
 resolve themselves into a single problem, that of making an analytic
@@ -263,16 +281,18 @@ the facts and to arrive at what is not only a statement of present
 status, but of a prophecy of future status in this complex world of
 ours. It is not strange if, as a prophet, he falls into error and actually is forced to be as pessimistic about his accomplishments as
 Job himself.
+
 During such pessimistic moments the clinical examiner may raise
 many questions concerning his own competency as a prophet, not
 only facing, but, perhaps, magnifying the difficulties involved. At
 other times, perhaps, he is too prone to fall back on the note with
 which Mr. Underbill of the United States House of Representatives
-GUIDANCE OF MENTALLY DEFICIENT 41
 ended a debate on a Bill providing for the psychologist in the
 Juvenile Court in the District of Columbia.
+
 The author quotes from the Congressional Record 1921, Vol. 61,
 Part 8, Pages 7670-7687.
+
 "Mr. King. I see that this bill provides for the appointment
 of a psychologist at a salary of $2,000 per annum. Would the
 gentleman, as a matter of information, answer one oi two questions

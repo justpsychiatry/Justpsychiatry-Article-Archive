@@ -1,7 +1,8 @@
 A Study of the Reading Attainment of Children in Ungraded Classes
 ==================================================================
 
-By Edna Willis McElwee
+:Author: Edna Willis McElwee
+
 Department of Ungraded Classes, New York City
 Some of the children who find their way into ungraded schools
 have been retarded in their school progress because of reading disability. It is known that success in all other school subjects is
@@ -12,6 +13,7 @@ This study presents an analysis of the reading attainment of
 random sampling of the children admitted to ungraded classes
 during one school year. All nationalities were represented, but
 the majority were Italian.
+
 The 450 boys and 350 girls in the study were in the first four
 grades of school. Their chronological age range was from eight
 to fourteen years. Their I. Q. range on the Stanford-Binet examination was from 50 to 75. The range of their mental ages was
@@ -22,6 +24,7 @@ zero to 4A with a median reading grade of IB. Approximately 25
 per cent of the entire group (203 children) had a total reading
 disability. Of that number 53 had a mental age of seven, eight or
 nine years.
+
 Further analysis shows that approximately 17 per cent of
 the entire group (137 children) were reading above expectation,
 considering their mental age. As the reading norms used were
@@ -32,8 +35,7 @@ or below seven years, six months. On this basis the 57 children with a mental ag
 2B or above were reading above expectation. In the same way 26
 children with a mental age of five years, 35 with a mental age of
 six years and 19 with a mental age of eight years were reading
-205
-206 THE PSYCHOLOGICAL CLINIC
+
 Table I
 Tabulation of the Mental Ages and Reading Grades of 800 Entrants
 (450 Boys and 350 Girls) Who Were Admitted to the Ungraded
@@ -157,9 +159,11 @@ Total
 210
 78
 800
+
 above expectation. Many of these were the older children in the
 study, who were unable to read as well as the average child in the
 grade in which they had been placed.
+
 An inspection was made of the school record cards of the entrants who were thirteen years of age at the time they were examBEADING ATTAINMENT OF CHILDREN 207
 ined for admission to the ungraded classes. The original group
 included slightly more than 100 such children, but it was possible
@@ -167,6 +171,7 @@ to find complete record cards for only 44 of them. Some of them
 had changed schools frequently; some had come from other cities;
 some had been discharged because of ill health; some were late in
 entering; and some were of foreign birth.
+
 The entire group of 44 children entered the 1A grade between
 the ages of six and seven years, but they soon fell behind in their
 classes. After four terms in school 17 children were still in the
@@ -179,6 +184,7 @@ At the close of each school term those children in ungraded
 classes who have greatly improved in educational attainment are
 promoted to the regular grades or to opportunity classes. In Table
 II the reading attainment of 44 children, thirteen years of age, who
+
 Table II
 Comparison of Reading Attainment of 44 Thirteen-Year-Old Children
 Admitted to Ungraded Classes with the Reading Attainment of
@@ -253,9 +259,9 @@ Zero.
 0
 0
 0
+
 were promoted from ungraded classes during the same school year,
 is compared with the reading attainment of the 44 thirteen-yearold children who were admitted to the ungraded classes.
-208 THE PSYCHOLOGICAL CLINIC
 In selecting this group of 44 children from the number of those
 promoted from ungraded classes for comparison with those admitted to ungraded classes, an effort was made to have two groups
 whose intelligence quotients were as nearly equal as possible. The

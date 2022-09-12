@@ -1,7 +1,7 @@
 Informational Content of Children in the First Four Grades 
 ============================================================
 
-By Helen Wiltshire
+:Author: Helen Wiltshire
 The Central Clinic, Cincinnati
 Although the investigation of general information in children
 has interested relatively few research workers, those who have contributed have concerned themselves, chiefly, either with the information possessed by the child on entering school, or with the
@@ -9,7 +9,10 @@ pupil sufficiently advanced to be able to read the questions from a
 questionnaire. No single means has been offered of measuring the
 child's acquisition during the period from the entrance of school
 to the third or fourth grade.
+
 Historical Background
+------------------------
+
 Early investigations on children's information started in Germany shortly after individual differences began to be studied, and
 following Herbart's doctrine of the apperceptive mass, thus precipitating, in 1869, an inquiry as to the knowledge possessed by
 10,000 children on entering school in an effort to plan for their
@@ -29,13 +32,12 @@ Cincinnati Public Schools, for permission to select children from the city
 schools; to Dr Mabel Fernald for suggestions and assistance in the choice
 of the urban cases; and to the numerous school principals and teachers whose
 splendid cooperation facilitated the collection of the data.
-198
-INFORMATIONAL CONTENT OF CHILDREN 199
 above mentioned studies, as a rule, the children were questioned
 either singly or in small groups, on a series of items dealing with
 objects seen, either of local or universal interest. The boys demonstrated themselves more widely informed in the majority of instances.
 Whipple (10) constructed a Range of Information Test (1909)
 for denoting the fields with which high school students are familiar.
+
 Revision and later standardizations by Smith include norms for
 college students. Pressey and Shively (4) gave a selected vocabulary test covering various fields to 56 fifth grade pupils, hoping
 to find some indication of the extent of the child's experience as
@@ -46,6 +48,7 @@ questionnaire to superior and control groups from the 3rd grade
 through the 12th, and noted in the controls progressive increase
 with age, also a superiority of boys over girls except at years 9
 and 12.
+
 Eastman (1), working at the Wayne Psychopathic Clinic in
 Detroit, reported on 100 questions chiefly of local interest, which
 were adaptable for use with delinquents and adults. She found
@@ -55,6 +58,7 @@ Also, the median scores by ages lowered progressively as the mental age decrease
 inferior child as doing better if he came from a superior home, but
 with the normal or superior child, the environment made little
 difference.
+
 Weeks (9) devised a vocabulary test for 7th and 8th grade
 pupils which consisted of three lists of 50 words each. The multiple choice method of answering was used.
 Probst (5) found a significant difference in the information of
@@ -66,7 +70,6 @@ forms, A and B, for urban and rural groups respectively. Grade
 progress was consistent and smooth. Although the author does
 not consider the content of the test as favoring the boys, they did
 excel in the rural group except for a brief pre-adolescent period.
-200 THE PSYCHOLOGICAL CLINIC
 The urban group was not differentiated. The rural pupils were
 found to be one year retarded when measured by the urban test,
 also the urban were retarded on the rural test, so she concluded
@@ -75,7 +78,10 @@ Sangren (6) reported median scores for ages 5, 6 and 7 years
 on 6 types of material, including nature study, vocabulary, numbers, social and civic information, household utensils and language
 and literature. The test was devised in a large measure to determine what young children know on entering school and to set up
 some standards of promotion and placement.
+
 Nature of the Present Study
+----------------------------
+
 The present study reports a standardization of a series of information questions given orally to 400 school children in the first
 four grades. The test used was the Scaled Information Test,
 Form A, devised by Lowe and Shimberg, published by C. H.
@@ -95,7 +101,6 @@ many. A great number of the children came from farm homes.
 The schools were township schools and were located in or near villages, and the children came in buses, for the most part.
 The urban schools were selected with the assistance of the Psychological Laboratory of the Vocation Bureau on the basis of cultural background and ability. The children came partly from a
 downtown section and partly from a hilltop suburb. The schools
-INFORMATIONAL CONTENT OF CHILDREN 201
 were those whose first grade children in previous years had scored
 near the median of the entire Cincinnati group on the PintnerCunningham Group Intelligence Test.
 With both groups, only cases were used on which it was possible to verify the birthdates at the Bureau of Vital Statistics, and
@@ -104,6 +109,7 @@ of the children had had Stanford Binet examinations, but the bulk
 of the data were scores from the Pintner Cunningham Group Test
 given as a matter of routine, both in the city and county, to all
 first grade pupils.
+
 Two distributions were prepared for each grade in order to
 select cases which yielded normal distribution curves with respect
 to age and to mental test scores. An effort was made to have as
@@ -112,7 +118,10 @@ number coming within the normal age for grade, and within the
 "normal" intellectual limits. On the basis of these two distributions, age and intelligence per grade, the final lists were evolved.
 No special effort was made to eliminate negro children, but not
 more than two were included in this group of subjects.
+
 Experimental Procedure
+-----------------------
+
 The examinations were all made by the writer and the work
 was done during the second semester, 1932, except for 10 cases
 completed the following October. The children were seen alone
@@ -124,6 +133,7 @@ question was stated, repeated if the child seemed slow in getting
 the significance, but no other help was afforded. The answers were
 recorded on the back of the file cards containing the child's personal data. The time required was about five minutes per pupil,
 which did not tax the child's attention.
+
 The results were scored according to the key accompanying the
 Scaled Information Test.
 Results
@@ -191,11 +201,13 @@ IV
 .69
 .62
 .64
+
 Mean Intelligence Quotients of the group fall well within the
 classification of average, as Table 2 shows. Variations within the
 average range occur, but are probably not greatly significant here,
 inasmuch as the test used was merely a rough indication of the
 group level.
+
 Table 2
 Intelligence Quotients for Each Grade
 Grade
@@ -236,6 +248,7 @@ IV.
 13.52
 15.52
 14.31
+
 It will be observed in Table 3 that the number of questions answered correctly by both the rural and urban children increases by
 grade and that there is a slight, though consistent tendency in favor
 of the urban group.
@@ -279,7 +292,7 @@ IV.
 2.12
 2.39
 2.21
-INFORMATIONAL CONTENT OF CHILDREN 203
+
 The following distribution chart shows the number of children
 making the various scores on the test in the rural and urban
 groups. The amount of overlapping evident would seem to minimize the significance of the differences between the means of the
@@ -446,6 +459,7 @@ Total No.
 6
 3
 100
+
 From Table 5, it will be observed that the boys are a fraction
 of a year older than the girls, consistently, although this discrepancy is very slight, and probably not great enough to be of significance.
 Table 5
@@ -506,7 +520,7 @@ Sigma
 .70
 .62
 .64
-204 THE PSYCHOLOGICAL CLINIC
+
 When the subjects are divided as to sex, the mean Intelligence
 Quotients are all within the average range, although the girls are
 appreciably higher, except in Grade 3 (Table 6). It is interesting
@@ -541,6 +555,7 @@ IV.
 13.96
 to compare the findings with the ability to answer the information
 questions as shown in Table 7, where the girls do less well. This
+
 Table 7
 The Number of Questions Answered Correctly by Sex and Grade
 Grade
@@ -578,12 +593,14 @@ over the girls' at all ages. Table 9 reveals, however, a distribution
 with a considerable amount of overlapping between the male and
 female groups, and shows that in the majority of year levels studied, some boys make as low scores as the girls, but the highest scores
 are usually made by the male group.
+
 There is very little difference between the rural and urban
 groups, apparently, although the margin is, as a rule, weighted in
 favor of the urban group.
+
 The difference between the rural and urban groups in ability
 to answer the questions on Form A might be explained, according
-INFORMATIONAL CONTENT OF CHILDREN 205
+
 Table 8
 The Number of Questions Answered Correctly by Sex and Age
 Age
@@ -639,6 +656,7 @@ Mean Sigma
 2.56
 2.58
 3 cases were discarded in this table, being outside the 5 yr. levels here tabulated.
+
 Table 9
 The Number of Children Making the Various Scores on the Test by
 Sex and Age
@@ -757,13 +775,14 @@ Total
 2
 23
 52
+
 to Shimberg, by the characteristic " different'' backgrounds of the
 children, the discrepancy in scores being less in this study due
 (1) to the relatively close proximity of the Hamilton County
 schools to Cincinnati, thereby drawing from a less isolated country
 section than did Shimberg; and (2) to the well organized school
 system provided in this section, which is probably of as high a
-206 THE PSYCHOLOGICAL CLINIC
+
 Table 10
 The Number of Questions Answered Correctly in Rural-Urban Groups
 by Age
@@ -821,6 +840,7 @@ tendency is interesting. There does, moreover, appear to be some
 relationship between home background and the acquisition of information such as this test measures, and it is possible that the
 rural pupils, as a group, are less favored than the urban in this
 regard.
+
 Conclusions
 1. The ability to answer certain information questions increases
 by grade, in both the rural and urban groups, and the urban pupils

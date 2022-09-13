@@ -2,7 +2,12 @@ Old Age
 ========
 
 :Author: Simone de Beauvoir
-Weidenfeld/Andr6 Deutsch, ?4.50
+Weidenfeld Andre Deutsch
+
+.. meta::
+   :Description: This book is a tribute to her energy in researching the sociological, psychological and anthropological aspects of old age?historically and in the present day
+   :Keywords: Victor Hugo, old age, Bertrand Russell, Welcome Trust
+...   
 
 In his sixty-fifth year George Sanders
 took his own life, leaving a note saying that he was bored. Writing in her

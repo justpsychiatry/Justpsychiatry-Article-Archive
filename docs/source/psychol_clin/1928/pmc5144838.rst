@@ -32,13 +32,13 @@ the family goes calling.
 As an example of his intellectual curiosity, when four years
 old he demonstrated an interest in numbers and spoke much of
 millions and billions. He had no accurate conception of the significance of these amounts because he could not yet handle the common small numbers with facility. One day he said to his father:
-"There isn't anything more than a billion, is there?"
-"Yes, there is."
-"Oh, father, you're only joking; there couldn't be anything
-more than a billion."
-"Yes, there is."
-"Oh, father, really? What is it?"
-"It's a trillion."
+
+    "There isn't anything more than a billion, is there?"
+    "Yes, there is."
+    "Oh, father, you're only joking; there couldn't be anything more than a billion."
+    "Yes, there is."
+    "Oh, father, really? What is it?"
+    "It's a trillion."
 
 Tommy's curiosity was naturally aroused by this exceedingly
 fascinating information and he inquired whether there might not
@@ -47,9 +47,12 @@ anything now. He was told that there were still higher numbers
 and the series was continued on up to a decillion, where the youthful imagination seemed willing to rest.
 He reflected a few moments and then said seriously, "When
 I get big I'm going to have a decillion silver dollars." His grandmother had previously given him a silver dollar as a present.
-"Yes, but there isn't enough silver in the world to make that
-many dollars," his father replied.
-"But suppose there would be."
+
+"Yes, but there isn't enough silver in the world to make that many dollars," 
+
+his father replied.
+
+    "But suppose there would be."
 
 "Well, even if there would be enough silver, there wouldn't be
 enough room on the earth to put the money," said the father.
@@ -92,7 +95,7 @@ Tommy continued in this condition characterized by an unwillingness to commit hi
 about six weeks, after which time he was persuaded that a positive statement in regard to a question asked him would not make
 him responsible for facts beyond his knowledge. He recovered
 slowly, but completely, it seemed, until the condition recurred
-about November, 1927. Since then every statement of fact or
+about `November, 1927`. Since then every statement of fact or
 answer to a question is invariably followed by an interrogative, '' is
 it?" "Don't I?" etc. Coincidentally, he has never, according
 to the knowledge of his parents, knowingly given a promise. He is
@@ -225,11 +228,11 @@ will you? Ask him to bless father, mother, D., and especially H. Help me to slee
 me strong and healthy, and help me to be a good boy.
 Amen.''
 
-"Oh Lord watch over me while I do my rest?and
-help me to sleep late in the morning?and the next? and
-the next. Oh Lord help me to recover power to speak out.
-Make me grateful to others. Father send an angel from
-thy host to lift me up to dwell with thee forever if I
-should die while the night is on. Oh Lord bless father,
-mother, D. and H. and make Tommy a good boy.
-Amen.''
+    "Oh Lord watch over me while I do my rest?and
+    help me to sleep late in the morning?and the next? and
+    the next. Oh Lord help me to recover power to speak out.
+    Make me grateful to others. Father send an angel from
+    thy host to lift me up to dwell with thee forever if I
+    should die while the night is on. Oh Lord bless father,
+    mother, D. and H. and make Tommy a good boy.
+    Amen."

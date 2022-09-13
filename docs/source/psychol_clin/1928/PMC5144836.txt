@@ -1,12 +1,29 @@
 A Pre-School Character Rating Chart
 ===================================
 
+.. meta::
+    :Reference Type:  Journal Article
+    :Author: Bridges, K. M. B.
+    :Year: 1928
+    :Title: A Pre-School Character Rating Chart
+    :Journal: Psychol Clin
+    :Volume: 17
+    :Issue: 2-3
+    :Pages: 61-72
+    :1928/05/01: Epub Date
+    :Date: May-Jun
+    :PMCID: PMC5144836:
+    :Accession Number: 28909747
+    :Author Address: Psychologist, McGill University Nursery School.
+    :Language: eng
+
+
 :Author: K. M. Banham Bridges
   :affiliation: Psychologist, McGill University Nursery School
 
 The educational function of the nursery school differs considerably from that of the primary or secondary school. Nursery
 school education is concerned mainly with the development of
-character, of social behavior and of emotional adjustment and only
+character, of social behaviour and of emotional adjustment and only
 to a lesser degree with the imparting of information and training
 in manual and linguistic skills. In schools for older children the
 educational aims are the same but the emphasis is reversed and
@@ -28,7 +45,7 @@ a few results obtained from its application in the McGill University
 Nursery School.
 
 The chart was made at the suggestion of the senior teacher,
-Miss G. A. Watkins, and was intended as a practical device to
+Miss GA Watkins, and was intended as a practical device to
 serve temporarily in the absence of more exact methods for measuring the components of character. Throughout the period of
 experimentation with this character rating chart, Miss Watkins
 cooperated closely, offering suggestions and criticisms based on
@@ -318,7 +335,9 @@ they represent ratings for the same children. From these comparisons it will be 
 with age and school attendance. The slight drop in the scores from
 May to October and December to January is probably due to the
 above mentioned factors, admittance of new children and promotions from Group A to Group B.
+
 Age Differences
+---------------
 
 There was a noticeable correspondence between Character
 Rating Score and age. Taking the results of all seven ratings, between March, 1927, and April, 1928, together, the average score

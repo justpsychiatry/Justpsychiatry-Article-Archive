@@ -1,10 +1,12 @@
 The Functions of the, Brain
 ============================
 
-167
-:Type: REVIEWS.
-:author: David Ferrier, M.D., F.R.S.
-London : Smith, Elder, & Co.
+
+
+:Type:REVIEWS
+:author:David Ferrier, M.D., F.R.S.
+
+London Smith, Elder, & Co.
 
 Dr Ferrier is well known as an indefatigable and painstaking
 cerebral physiologist, and in his recent work we have a detailed
@@ -12,8 +14,7 @@ and comprehensive account of all that is known relating to the
 functions of the nervous system. He also furnishes us with the
 particulars of the experiments which he has recently made,
 with the view of elucidating some of the most difficult problems
-in physiology. He has moreover, in common with other phy-
-siological psychologists, had the presumption to suppose that
+in physiology. He has moreover, in common with other physiological psychologists, had the presumption to suppose that
 the recent researches and conflicting experiments made both in
 this country and on the Continent, with regard to the precise
 centres of sensation and motion, warrant us in inferring that the
@@ -22,7 +23,7 @@ admitting the credit due to Dr Ferrier for his unwearied
 industry, we are at a loss to understand the exaggerated and
 unqualified praise which has been accorded to him by the
 medical press. One recent reviewer in the Lancet asserts that
-Dr Ferrier "has thrown a flood of light" on his subject. \\ e
+Dr Ferrier "has thrown a flood of light" on his subject. He
 fail to see this, and fear that the flood of light existed only in
 the imagination of the writer. We are glad to find, howevei,
 that Dr Ferrier himself does not speak in so confident a man-

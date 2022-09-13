@@ -11,4 +11,6 @@ This is a collection of articles in the field of psychiatry and psychology trans
     
     
     
-:Copyrights: The copyrights of individual articles vary; some articles are in the public domain, others open-access commercial use, or open-access non-commercial use. please check the original article for copyright information of each article while we are working to add them here. 
+:Copyrights: The copyrights of individual articles vary; some articles are in the public domain, others open-access commercial use, or open-access non-commercial use. Please check the original article for copyright information of each article while we are working to add them here. 
+
+`Justpsychiatry Article Archive <https://justpsychiatry.co.uk/>`_

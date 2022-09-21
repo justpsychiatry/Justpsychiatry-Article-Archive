@@ -3,11 +3,18 @@ Matrix Tests
 
 
 :Author: JOHN C. RAVEN
- :qualification: M.Sc
- :affiliation: Research Department, Royal Eastern Counties Institution, Colchester
+:Qualification: M.Sc
+:Affiliation: Research Department, Royal Eastern Counties Institution, Colchester
+
+Citation:
+--------
+
+Raven, J. C. (1940). Matrix Tests. Mental Health, 1(1), 10-18. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5092702/
+
 
 Methods of Measuring Mental Ability
 -----------------------------------
+
 The simplest method of assessing mental ability is, of course, to ask questions, award marks and to compare the marks gained by one person with the marks gained
 by others. Its simplicity, range of application and possible refinements are the
 chief assets of this method and its chief defect is that the marking, however
@@ -16,22 +23,21 @@ classified according to their ability to please the examiner and though this inv
 mental ability, training is also essential.
 
 A more reliable method of assessing mental ability is to use a standard group of
-problems which persons of average ability, without previous training, are just able to solve at a given age and of such a nature that persons of more than average ^
-are able to solve them at an earlier age; while those of less than average ability
+problems which persons of average ability, without previous training, are just able to solve at a given age and of such a nature that persons of more than average are able to solve them at an earlier age; while those of less than average ability
 if they solve them at all, succeed only at a later age. Such a series of problems, ea
-of which can be marked simply as solved or unsolved, provides a means o asse^*
-a person's mental development at any given age and thence the rate at w ic ev
-ment is taking place. This method leads naturally to the conception of
-ages " and " intelligence quotients". It has the merit of showing teexen which a bright young child and an older duller child are mentally similar and, at the
+of which can be marked simply as solved or unsolved, provides a means to assess
+a person's mental development at any given age and thence the rate at which evment is taking place. 
+This method leads naturally to the conception of
+ages" and "**intelligence quotients**". It has the merit of showing teexen which a bright young child and an older duller child are mentally similar and, at the
 same time, the way in which they are fundamentally different. rovi e a Pf
-is neither deliberately coached nor abnormally prevented from acquiring su C1?
-general information, mental age increases steadily with chronologica age w le
-intelligence quotient remains relatively constant throughout life. e me o
+is neither deliberately coached nor abnormally prevented from acquiring 
+general information, mental age increases steadily with chronological age
+intelligence quotient remains relatively constant throughout life. 
 therefore considered a means of measuring innate ability. It has two serious 1
-advantages. The first is that one can give no satisfactory definition o * e a 11 ^
-measured. The second is that one can never be sure that testees have had equa
+advantages. The first is that one can give no satisfactory definition 
+measured. The second is that one can never be sure that testees have had equal
 opportunities for acquiring the necessary general information. The tings o
-everyday life vary from place to place and so do language and educationa aci i ies.
+everyday life vary from place to place and so do language and educational aci i ies.
 
 To overcome the difficulty the problems used have been made numerous an
 varied, but whilst this decreases the effect of any one unsuitable test it increases
@@ -43,24 +49,26 @@ be familiar, or, on the contrary, with material which no one is likely to have
 encountered. To ensure that the ability measured can be clearly defined some tests
 are made entirely verbal, others non-verbal; some are designed to measure the rate
 of mental work, others measure only the accuracy of thinking.
+
 Each method has its advantages and limitations. The superintendent of an
 institution finds mental ages convenient when grouping defectives for supervision.
 A teacher finds tests of school attainments useful when placing scholars in suitable
 classes. When individuals are to be selected for special training or occupation,
 tests of innate ability and specific aptitude are needed. But a test is useful only
 in so far as its reliability is known and the ability it measures is definable.
+
 Tests of Eduction
+-----------------
+
 The work of Spearman (1927) may appear an abstract statistical controversy
-concerning " g " and " s but his great contribution to practical mental testing
-is his clear enunciation of the laws of " eduction " or " noegenesis . He has
+concerning **g** and **s** but his great contribution to practical mental testing
+is his clear enunciation of the laws of "eduction" or "noegenesis". He has
 shown that the whole qualitative development of creative mental activity is a continuous process of?
+
 1. Apprehending the characters of experience,
 2. Educing relations between the characters apprehended, and
-3. The creation of correlates bearing specific relationships to experienced
-characters.
-r
-12
-MENTAL HEALTH
+3. The creation of correlates bearing specific relationships to experienced characters.
+
 The more mental activity is studied, the more clearly these three phases of
 eduction, interacting one upon the other, are seen to be the characteristic qualities
 experienced in all mental processes which are in any way " rational " original
@@ -68,6 +76,7 @@ experienced in all mental processes which are in any way " rational " original
 purely "instinctive", "habitual", "reproductive"; in other words, repetitive.
 It follows that what is needed is a good test of eduction and good tests of repetitive
 ability.
+
 To determine the best tests of eduction, testees have been trained to educe
 relations of different complexity (Spearman, 1927). The causes of failure and
 conditions of success have been studied. It has been shown that verbal (Stephenson,
@@ -77,11 +86,13 @@ means of estimating a person's innate eductive ability. Perceptual tests, such a
 those shown in Figs. 1 to 4, may appear useless artistic stunts or obscure mathematical
 problems but, upon investigation, success in solving them is found to depend upon
 the ability for logical thought which is the essential factor in all intelligent conduct.
-According to the type of problem employed and the method of testing adopted such
-tests can be used to measure either the rate or the accuracy of eduction. " Progressive
-Matrices "* is a series of such tests designed to measure the accuracy of eduction.
-Progressive Matrices
 
+According to the type of problem employed and the method of testing adopted such
+tests can be used to measure either the rate or the accuracy of eduction. Progressive
+Matrices is a series of such tests designed to measure the accuracy of eduction.
+
+Progressive Matrices
+--------------------
 Progressive Matrices consists of sixty perceptually presented tests. Each test
 consists of a design or " matrix " from which part has been removed. The testee
 has to examine the matrix and decide which of the pieces given below is the right one
@@ -106,7 +117,7 @@ discrimination does not affect success, dark patterns are used on a light ground
 * H. K. Lewis & Co. Ltd., London. (Sets A, B, C, D and E.)
 t Board Form of Sets A and B, obtainable from the Research Dept., Royal Eastern Counties
 Institution, Colchester.
-MENTAL HEALTH 13
+
 <?> <?>
 Example 1
 i> ffl
@@ -121,8 +132,7 @@ Za) A
 A
 Example 4
 From article published in Brit. Journal Med. Psychol., 1936
-14
-MENTAL HEALTH
+
 To prevent manipulation, the gap and the insets are asymmetrical. The advantage
 of the Board Form of the test is that it is almost irresistible to young children. The
 disadvantage is that it is difficult to make and therefore expensive.
@@ -175,9 +185,10 @@ of relations as a whole without clearly perceiving that explicit relations exist
 figures. It was for this reason that the writer liked the name " Matrix Test ".
 PROGRESSIVE MATRICES
 In the form of boards for little children
-MENTAL HEALTH
-15
+
 Score Comparisons
+-----------------
+
 For experimental work sixty-five problems were used. In Table I the mean
 scores for interesting groups of adults and children are shown. The scores of the
 university students showed little correlation with their individual scholastic attainments, but the difference between the mean score for the group of students and the
@@ -262,36 +273,47 @@ score significantly below normal. On the other hand one child classified as dull
 obtained a score of+2o*and enquiries showed that the child was genuinely intelligent,
 but extremely backward.
 
-.. list-table:: Table II
+.. list-table:: Table II Physically Defective Children
   :widths: 10 10 10 10 10 10
 
-  * - Physically Defective Children
+  * - (empty cell)
     - Normal.
     - Backward.
     - Dull.
-Total. Mean <x score.
-Intercurrent Disease ..
-Neurological Conditions
-Congenital Abnormalities
-32
-15
-15
-43
-23
-25
-+ 0.35
-+ 0-1
-+ 0-05
-Total
-Mean Standard score
-62
-+ 0-4
-15
-+ 0-5
-14
-1-0
-91
--0-2
+    - Total. 
+    - Mean score.
+  * - Intercurrent Disease
+    - 32
+    - 9
+    - 2
+    - 43
+    - +0.35
+  * - Neurological Conditions
+    - 15
+    - 2
+    - 6
+    - 43
+    - +0.1
+  * - Congenital Abnormalities
+    - 15
+    - 4
+    - 6
+    - 25
+    - +0.05
+  * - Total
+    - 62
+    - 15
+    - 14
+    - 91
+    - —
+  * - Mean Standard score
+    - +0.4
+    - +0.5
+    - -1.0
+    - —
+    - +0.2
+
+
 A revised and standardized series of sixty matrices and the Terman Merrill
 Revision of the Binet Scale was given to 131 children referred to a child guidance
 clinic; 57 were sent for examination before emigration and 74 were referred to the
@@ -301,7 +323,8 @@ average mental ability. The children referred on account of psychological diffic
 contained eighteen cases of school failure, twenty-four cases of anti-social conduct,
 twenty-four cases of unsatisfactory habits such as enuresis, and eight cases of emotional
 abnormalities, fears, etc.
-For comparative purposes Terman I.Q.s and Matrix Test scores were each
+
+For comparative purposes Terman IQs and Matrix Test scores were each
 converted into percentile ratings. According to both scales the group contained a
 rather low percentage of children of average ability, and rather high percentages of
 exceptionally dull and exceptionally bright children.
@@ -310,27 +333,29 @@ The correlation between the two test ratings is shown in Table III. There is
 considerable agreement between Terman and Matrix Test classifications, but in
 eight cases the ratings differ by more than one class. The case notes of these eight
 children are striking.
-Three children obtained Terman I.Q.s of over 130 but only average Matrix
+
+Three children obtained Terman IQs of over 130 but only average Matrix
 Test scores. All three had attended secondary schools, had proved failures,
 and had reacted by anti-social behaviour. All three showed exceptional verbal
 fluency.
+
 One child, examined before emigration, obtained a Terman I.Q. of 96, but
 from his Matrix Test score he appeared intellectually defective. Unfortunately
 no case notes are available.
+
 The remaining four cases were all children under 10| years of age who were
 about to emigrate. Their Matrix Test scores indicated that they were of superior
-mental ability but their Terman I.Q.s ranged from 90 to 109. One child had
+mental ability but their Terman IQs ranged from 90 to 109. One child had
 recently come from Cornwall, another from Scotland while a third was Irish.
 All four were slow in following instructions and concerning one child the writer
-received these notes. His " mother hates him and told me that she would do
-anything to get rid of him . . . and hoped to have him classed as subnormal
-mentally so that she might have him put away permanently? She tried to produce
-this condition in him by keeping him shut up in a bedroom. He was not allowed
-to go to school . . . any normal child subjected to the treatment this boy
-has received would show the effects of it."
+received these notes. His 
 
-.. list-table:: Table III.
-Terman Percentile Class.
+    "mother hates him and told me that she would do anything to get rid of him . . . 
+    and hoped to have him classed as subnormal mentally so that she might have him put away permanently. 
+    She tried to produce this condition in him by keeping him shut up in a bedroom. He was not allowed to go to school . . . 
+    any normal child subjected to the treatment this boy has received would show the effects of it."
+
+.. list-table:: Table III. Terman Percentile Class.
 I.Qs.
 128 and over
 112 to 127
@@ -347,20 +372,24 @@ Totals
 30
 19
 131
+
 A testee's ability is estimated by comparing his score on the Matrix Tests with the scores
-obtained by other testees of the same age. Thus he can be classed as :
-A?" Intellectually superior " if his score exceeds that of 95 per cent, of the testees of his own
-age group.
-B?" Definitely above average " if his score exceeds that of 75 per cent.
-C?" Average ability " if his score lies between that obtained by 25 to 75 per cent.
-D?" Definitely below average " if his score is exceeded by 75 per cent, of testees o is age
-group.
-t" Intellectually defective " if his score is exceeded by 95 per cent.
+obtained by other testees of the same age. Thus he can be classed as:
+
+1. Class A. **Intellectually superior** if his score exceeds that of 95 per cent, of the testees of his own age group.
+2. Class B **Definitely above average** if his score exceeds that of 75 per cent.
+3. Class C **Average ability** if his score lies between that obtained by 25 to 75 per cent.
+4. Clss D **Definitely below average** if his score is exceeded by 75 per cent, of testees o is age group.
+5. Class t **Intellectually defective** if his score is exceeded by 95 per cent.
+
 Commentary
+----------
+
 To meet the difficulties and shortcomings experienced when using other mental
 tests a series of Progressive Matrices has been prepared and standardized. It is independent of language and training but is in no sense a " performance test
-It measures eductive ability which is definable and the essential creative factor
+It measures educative ability which is definable and the essential creative factor
 in intelligent conduct.
+
 The scores of testees have been shown to differentiate children and adults into
 five classes according to whether a person is intellectually defective, dull, normal,
 bright or of superior intellectual ability. The standard series fails to differentiate
@@ -368,38 +397,41 @@ between individuals within these groups but the efficient range of each matrix i
 (Raven, 1939) and it is a simple matter to design further series of matrices which
 can be used to differentiate between persons of approximately equal ability and to
 measure either the rate or the clearness of eduction.
+
 The test provides a reliable means of differentiating between backwardness due
 to disorganized schooling and backwardness due to mental impairment.
+
 An interesting finding during the experimental work merits further investigation.
 The scores of feeble-minded adults resemble those of a child of eight years or less,
 but remain characteristically unlike those of an average person of more than nine
-years. Psychologically they may be described as " intellectually defective ".
-" Intellectual defect " can be diagnosed directly from test results and may be defined
+years. Psychologically they may be described as **intellectually defective**.
+"Intellectual defect" can be diagnosed directly from test results and may be defined
 as the permanent inability to form comparisons and reason by analogy. It does not
 necessarily occur in all persons certified as mentally defective, but it is probably the
-chief cause of social failure. " Intellectual defect " may exist in persons who, from
+chief cause of social failure. "Intellectual defect" may exist in persons who, from
 good repetitive ability, make stable social adjustments. In such cases the certification
 of mental defect would be unwarranted, but the diagnosis of intellectual defect would
 be justified.
+
 A somewhat similar state of affairs is found to exist at the opposite extreme of
 ability. A certain superficial brightness and verbal fluency appears to account for
 a high Terman Merrill I.Q. and for early school success, but superior intellectual as
 well as repetitive ability appears essential if scholastic success and social stability are
 to be maintained.
+
 Matrix Tests have been designed in accordance with psychological principles.
 Even if these principles are disputed, the results show that in practice the tests work
 as they should; and this, in the end, is what matters.
-The writer is indebted to Dr. L. S. Penrose and Dr. L. G. Fildes for much helpful
+
+The writer is indebted to Dr. L. S. Penrose and Dr LG Fildes for much helpful
 assistance and criticism. Thanks are also due to the Child Guidance Council.
 The work was carried out under the auspices of the Medical Research Council and
 the Darwin Trust.
-Alexander, W. P., 1935. "Intelligence, Concrete and Abstract." Brit. J. Psychol. Monog.
-Suppl., No. 19.
-Dawson, S., 1931. "Intelligence and Disease." Spe. Rep. Ser., Med. Res. Coun., London,
-No. 182. H.M. Stationery Office.
-Raven, J. C., 1939. "The R.E.C.I. Research Series of Perceptual Tests; An experimental
-survey." Brit. J. Med. Psychol., XVIII, 1.
-Spearman, C., 1927. The Nature of Intelligence and Principles of Cognition. Macmillan & Co.,
-Stephenson, W., 1931. "Tetrad differences for verbal and non-verbal subtests." Amer. JEduc. Psychol. 22.
+
 REFERENCES
-London.
+----------
+1. Alexander, W. P., 1935. "Intelligence, Concrete and Abstract." Brit. J. Psychol. Monog. Suppl., No. 19. Dawson, S., 1931. 
+2. "Intelligence and Disease." Spe. Rep. Ser., Med. Res. Coun., London, No. 182. H.M. Stationery Office. Raven, J. C., 1939. 
+3. "The R.E.C.I. Research Series of Perceptual Tests; An experimental survey." Brit. J. Med. Psychol., XVIII, 1. Spearman, C., 1927. 
+4. The Nature of Intelligence and Principles of Cognition. Macmillan & Co., Stephenson, W., 1931. 
+5. "Tetrad differences for verbal and non-verbal subtests." Amer. JEduc. Psychol. 22.

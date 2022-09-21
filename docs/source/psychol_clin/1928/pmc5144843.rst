@@ -1,14 +1,19 @@
 Orthogenic Cases
 =================
 
-The Psychological Clinic
-Copyright, 1929, by Lightner Witmer, Editor
+.. meta::
+    :Authors: Emma Repplier Witmer; Lightner Witmer
+    :Journal: The Psychological Clinic
+    :Keywords: Orthogenic, cases, george, intellectual disability
+
 Vol. XVII, Nos. 6 - 7
 November - December, 1928
 
-XVI?George: Mentally Restored to Normal but
-Intellectually Deficient
-:Author:  Emma Repplier Witmer and Lightner Witmer, Ph.D.
+George: Mentally Restored to Normal but Intellectually Deficient
+----------------------------------------------------------------
+
+:Authors:  Emma Repplier Witmer; Lightner Witmer
+:Degrees: Ph.D.
 
 One of the most appealing ages in children is surely between
 four and five years, when a little of the adorable quality of infancy
@@ -41,7 +46,7 @@ rest without apparent mastication. He drank water from a nursing
 bottle, and it was his custom, as reported by his mother, to take
 such a bottle filled with milk to bed with him.. He had no control
 over his sphincters, wore diapers, and had to be changed a dozen
-times a day. If left alone, he would smear the fseces over himself,
+times a day. If left alone, he would smear the faeces over himself,
 on the wall, and even put them in his mouth. Such was George
 on June 21, 1918, when, at the age of four years and seven months,
 he entered Dr Witmer's School of Observation and Diagnostic
@@ -72,27 +77,27 @@ be found out at one examination and in consequence of one attempt to teach. If t
 more about a child's potential abilities the more he tries to develop
 whatever ability the child has or, in other words, he discovers
 how educable a child is by observing the response he makes to a
-prescribed course of educational treatment. The aim of diagnostic
+prescribed course of educational treatment. 
+
+The aim of diagnostic
 teaching is to use whatever ability a child has most of, in order
 to get him to take the next step forward in the right direction.
 George's best ability was his sense of order?an orderliness amounting almost to a passion, and very nearly his only talent.
-His history was as follows: He was born in November, 1913,
-and, until he was a year and a half old, he was apparently normal.
-His mother reported that he had begun to walk and say a few
-words. In the summer of 1915, he began to chew wood. He chewed
-the edge of window sills, the edges of doors, and would pick up
-chips and trash from the hearth and eat them. It is not surprising
-that from this time he was never a well child. He had diarrhea
-and vomiting. When he was two years old, he stopped walking.
-He was taken to a well known children's specialist, who diagnosed
-the case as nervousness and anasmia, and prescribed cod-liver oil
-and iron. After taking one dose of this, he vomited for a whole
-day; after that he stopped talking entirely. He was nearly four
-years old when he learned to walk all over again, but he said
-nothing intelligible except'' mamma.'' What had hit him remained
-a mystery?a touch of infantile paralysis, of encephalitis, an arrested development due to poisoning and malnutrition??the exact
-cause will probably never be known?only the tragic results were
-there for all to see.
+His history was as follows: 
+
+.. hlist::
+
+- He was born in November, 1913, and, until he was a year and a half old, he was apparently normal.
+- His mother reported that he had begun to walk and say a few words. 
+- In the summer of 1915, he began to chew wood. 
+- He chewed the edge of window sills, the edges of doors, and would pick up chips and trash from the hearth and eat them. 
+- It is not surprising that from this time he was never a well child. He had diarrhoea and vomiting. 
+- When he was two years old, he stopped walking.
+- He was taken to a well known children's specialist, who diagnosed the case as nervousness and anaemia, and prescribed cod-liver oil and iron. 
+- After taking one dose of this, he vomited for a whole day; after that he stopped talking entirely. 
+- He was nearly four years old when he learned to walk all over again, but he said nothing intelligible except ''mamma.'' 
+- What had hit him remained a mystery. a touch of infantile paralysis, of encephalitis, an arrested development due to poisoning and malnutrition. 
+- The exact cause will probably never be known. only the tragic results were there for all to see.
 
 George had apparently little or no play instinct. He would
 take handfuls of blocks out of a box and put them back again.
@@ -125,7 +130,7 @@ pieces. He hated doing it, and for a long time the only evidence
 that he knew how the pieces went was that he never by any chance
 put them together right. Even after he had fitted the pieces properly many times, he would again and again put the head of the
 cat on upside down. This stubbornness of George's was more than
-obstinacy. It was not even the "noble firmness of the mule." It
+obstinacy. It was not even the **"noble firmness of the mule."** It
 was stronger than he was. It was a pathological state, an exaggerated resistance to suggestion from without, which is called
 "negativism." It was always lying in readiness those first days.
 The moment anyone tried to get his full attention the fight was on.
@@ -153,12 +158,12 @@ though he was not always certain which was which, and though
 he could neither name nor sound most of the letters.
 
 He had now been at the school six months. By this time, he
-had made some improvement in his behavior. He ate and digested
+had made some improvement in his behaviors. He ate and digested
 better, and he was house-broken. Physically, there was no reason
 why George should not talk, and his performance with puzzles and
 letters tends to establish the fact that he was not feebleminded. He
 apparently lacked one of the essential characteristics of a human
-being?a desire to talk. For the first month of his stay, he could
+being a desire to talk. For the first month of his stay, he could
 not be induced to even try to imitate a sound. After two months,
 he could say, o-oo-ah-bah-no. For two weeks, liis teacher, Miss 0.,
 had tried in vain to get him to say ee. At the end of six months, the
@@ -169,8 +174,11 @@ And, added to his very real difficulty in making a sound, was his
 negativism. He hated and opposed this work with every fibre of
 his nervous, jerky little body. After nine months of training, he
 could say I and Do, but not I do. About this time, Miss 0. wrote
-in her notes: "Today I feel that there is only one word to use
-as far as George's speech is concerned?and that is 'impossible.' "
+in her notes: 
+
+    "Today I feel that there is only one word to use as far as George's speech is concerned 
+    and that is 'impossible.' "
+
 Yet the daily grind went on, and, imperceptibly, with slippings
 back and creepings forward, infinitesimal progress did take place,
 though to his teacher this progress seemed so doubtful that she
@@ -184,17 +192,21 @@ it against his teeth. With b and p, he also had great difficulty.
 After putting his lips together to make the sounds, he couldn't
 open them, and finally exploded the sound with violence, getting
 red in the face with the effort. After he had been in the school
-thirteen months, his teacher wrote, '' If anyone asked me this morning about his talking, I should say he would never talk. The only
-words he uses voluntarily are 'morning' and 'hello.' He never
-points to anything and names it. He knows Don's name well, rooms
-with him and hears it constantly repeated, yet he has never called
-him." Just one month after this seemingly justified prophecy,
+thirteen months, his teacher wrote:
+
+.. pull-quote::
+
+    "If anyone asked me this morning about his talking, I should say he would never talk. The only
+    words he uses voluntarily are 'morning' and 'hello.' He never points to anything and names it. 
+    He knows Don's name well, rooms with him and hears it constantly repeated, yet he has never called him." 
+
+Just one month after this seemingly justified prophecy,
 when out walking, he pointed to and named, "car, boy, lady, baby,
 horse, and man." At this time he said his first complete sentence
 without assistance. In answer to the question, "What do you
 see?" he replied, "I see a ball." He had now fifty-five words in
 his vocabulary. A month later, he surprised his teacher by saying
-very slowly " au-to-mo-beel." He then asked how to spell it. It
+very slowly **au-to-mo-beel**.  He then asked how to spell it. It
 was written on a piece of paper, and he put it in his desk, and after158 THE PSYCHOLOGICAL CLINIC
 wards learned it without help. When out walking another day, he
 made his first spontaneous and complete sentence, "I like that
@@ -207,8 +219,10 @@ elliptic masterpiece. He omitted articles and prepositions, used inverted word o
 he would only say the key words which clarified the situation, discarding all adjectives, adverbs, pronouns, articles, and conjunctions.
 For instance, he ran in one day, crying, '' Tooth-my-out." When
 asked who did it, he replied, '' Me-cry-pull-bleed,'' thereby covering
-all the major points. "Little Boy Blue," he would recite thus:
-'' Boy Blue-blow horn, Sheep-meadow; cow-corn.''
+all the major points. 
+
+    "Little Boy Blue," he would recite thus:
+    |"Boy Blue-blow horn, Sheep-meadow; cow-corn."
 
 George's handicaps were many, one of the chief ones being his
 defective motor control. Right and left arm drill took two months
@@ -268,7 +282,7 @@ around in different arrangements, following his teacher's example,
 but he was not able to make the designs by himself. At this time,
 though he could match red and green perfectly, and even say the
 two words in a fashion, he refused as a rule to give red or green
-?n command. This work bored him and seemed to deepen his
+in command. This work bored him and seemed to deepen his
 resistance.
 
 George's attention, when he came and for a long time afterwards, was as distractible and fleeting as a monkey's. It was pos160 THE PSYCHOLOGICAL CLINIC
@@ -302,7 +316,9 @@ concerned. The first time he played parcheesi, he was able to transfer his visua
 did very well, though in counting the spaces, his fingers would go
 faster than his tongue. His memory was constantly improving.
 On March 18, 1921, he was given a spelling review of 92 words of
-two to seven letters, and missed only six. In October, 1921, he
+two to seven letters, and missed only six. 
+
+In October, 1921, he
 memorized a poem of eight lines in ten minutes. The following
 month, he learned to name the first four days of the week in succession. A four letter word was learned generally in four repetitions. After a month's drilling on days of the week, he surprised
 his teacher by applying his newly acquired knowledge, and announced, "Friday, Miss A." on her arrival that morning.
@@ -328,13 +344,17 @@ and shape, offered the least difficulty. Nevertheless, he opposed
 this phase of his instruction with all the will he possessed. Given
 this pathological resistance and a very poor and fleeting attention,
 it was not surprising that his teacher was often in despair, and
-the improvement almost imperceptible. It took him half a year
+the improvement almost imperceptible. 
+
+It took him half a year
 to put together his first word, cow, with these wooden letters. It
 took him two weeks to make the big advance from one word to
 two?cow, cat. Even after he had given every proof of knowing
 the name t, and after he had used this letter in the formation of
 words, it took ten days to make him pick out the letter t from a pile
-of letters on the table. The transition from wooden to small cardboard letters was made without difficulty, and again later to printed
+of letters on the table. 
+
+The transition from wooden to small cardboard letters was made without difficulty, and again later to printed
 ones. After nine months, he could spell with cardboard letters the
 words cat, rat, hat, on, cow, boy, pig, man, see, and eye, but only
 three of these could he pronounce, and then very imperfectly. At
@@ -344,7 +364,7 @@ daily in Monroe's Primer, and, what is more remarkable, he showed
 evidence of liking it. He read very slowly and painstakingly in
 a voice devoid of inflection or expression. It took a little over a
 Month's drilling for him to read "The Little Red Hen," but his
-next story, '' The Gingerbread Boy,'' he learned to read perfectly in
+next story, "**The Gingerbread Boy,**" he learned to read perfectly in
 fifteen days, showing how rapidly his reading ability improved.
 The absence of resistance, and his growing interest in reading
 helped to overcome his handicaps of poor attention and deficient
@@ -464,7 +484,9 @@ corner and the corner was the chimney corner and the Prince went
 into the little red house. No one was in the house. A dark big bed
 was in the house " It reminds one a little of the most iconoclastic type of modern literature?say an extract from Gertrude
 Stein. In spite of its repetition and incoherence, it does show a
-greatly increased vocabulary and some imagination. In the spring
+greatly increased vocabulary and some imagination. 
+
+In the spring
 of 1922,'he was given four objects to weave into a story?fox, duck,
 blue sky, pond, and he produced the following: "I saw a little red
 fox. I saw a little red duck. I saw a blue sky. I saw a pond and
@@ -489,7 +511,11 @@ like the plus sign, and asked "and?"
 Without ever appearing alert, George developed a very keen
 observation. We find traces of this in his diary: "Friday afternoon I went with Miss A. to get my arctics. My arctics are 3Y. I
 can put my arctics on all myself.'' One day, coming in for dinner,
-he said, "I smell fish. I hate fish. I love ham. Ham on Wednesday." Very little escaped him that went on in the school. He not
+he said, 
+
+    "I smell fish. I hate fish. I love ham. Ham on Wednesday." 
+
+Very little escaped him that went on in the school. He not
 only knew where his own things were, but the whereabouts of all the
 other children's belongings. He could generally tell you which of
 the maids had her day out, what teacher was on duty, where any
@@ -588,9 +614,11 @@ Question?"What did David do?" Answer?"King Saul,
 King of Israel, became ill. David played his harp. He said to
 David he was well again."
 
-Question?"What did David do then?" Answer?"Went
-home. The servants said he sang away the King's sorrows. The
-King said I can never go to sleep.''
+    **Question:**"What did David do then?" 
+    |  **Answer?**"Went home." 
+
+The servants said he sang away the King's sorrows. The King said I can never go to sleep.''
+
 Question?"What did David do when he went home?" Answer?"His father said?I am troubled about your brother. Take
 some food and visit your brother, and he hurried away."
 This shows a great advance over his first effort with the '' Goose

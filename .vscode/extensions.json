@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "sygene.auto-correct",
-        "ms-azuretools.vscode-azurecognitivesearch"
+        "ms-azuretools.vscode-azurecognitivesearch",
+        "notZaki.pandocciter"
     ]
 }

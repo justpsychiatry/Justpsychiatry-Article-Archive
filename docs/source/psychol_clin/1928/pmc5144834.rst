@@ -1,23 +1,22 @@
 A Case of Congenital Word-Blindness Showing its Social Implications
 ====================================================================
 
-:Authoer: Charles K Ford
+:Author: Charles K Ford
 
-Ohio State Bureau of Juvenile Research
+:Institute: Ohio State Bureau of Juvenile Research
+
 The matter of congenital word blindness lias been recognized
 since Dr Morgan first reported a case in 1896 and so named it because of its similarity to aphasic word blindness. Since this time
 many cases of reading disorders have been reported, some of which
 are included in the bibliography appended. Three main factors
 appear to be common to the congenitally word blind. (1) They
-cannot read words although they can read other symbols as music
+cannot read words, although they can read other symbols as music
 and letters; (2) they have no other outstanding mental or physical
 defect, and (3) they can be taught to read when the correct method
 is found.
 
-There has been no homogeneity to the technique of diagnosis
-nor methods of teaching. For the most part diagnosis is dependent
-upon the subjective judgment of the examiner as to the purity of
-the defect and the degree of disability. Many that are so diagnosed have a very simple reading vocabulary, others recognize no
+There has been no homogeneity in the diagnosis technique or teaching methods. For the most part, diagnosis is dependent
+upon the examiner's subjective judgment as to the defect's purity and the degree of disability. Many that are so diagnosed have a very simple reading vocabulary, others recognize no
 words. Objective data have rarely been reported to show the purity
 of the defect.
 
@@ -27,12 +26,11 @@ is the highest estimate of its incidence we have found in the
 literature, but any who are familiar with school clinic examinations know that reading defects account for a sizeable number
 of retardates.
 
-Despite the fact that the condition is well known and found
-rather regularly in school clinics the school implications have not
-been the subject matter of any of the articles. Three main ideas
+Even though the condition is well known and regularly found in school clinics, the school implications have not
+been the subject of any of the articles. Three main ideas
 are involved in presenting the following case. The first is to
-present a case study showing definitely the conditions surrounding
-the case both as a matter of history and measured results. The
+present a case study showing the conditions surrounding
+the case as a matter of history and measured results. The
 second is to give a technique in the examinations of the congenital
 word blind. The third is to show that the described condition is
 a cause of severe school and social maladjustment.
@@ -64,25 +62,25 @@ good health and does not use alcohol. He is a foreman in the
 machine shop of a steel mill and works nights. There were no
 domestic troubles between the father and Paul's mother.
 
-Mother: Died in 1921 of tuberculosis at the age of twentyfour or five. The illness followed an attack of influenza, lasted
+Mother: Died in 1921 of tuberculosis at the age of twenty-four or five. The illness followed an attack of influenza, lasted
 but three months and there was no coughing. She was of Irish
-descent but native born. No history is available concerning her
+descent but native-born. No history is available concerning her
 school and industrial competency, although all evidence seems to
 show she was of normal intelligence and thoroughly capable. She
 was reared, at least partially, in an orphanage. She had done
 some housework. She is also described as being fond of reading.
-Step-mother: About thirty-one years old; is native born.
+Step-mother: About thirty-one years old; is native-born.
 Finished high school and attended business college. The father
 says that he "has the best wife you ever saw." She is said to
 like Paul but is disappointed in him. Her own children are well
 cared for physically and are "taught to have good manners."
 Half-siblings: Dorothy, aged four, and Gordon, aged three.
-No information concerning them available.
+No information concerning them is available.
 
-Neighborhood: Described by the court as a good residential
-district, close to car line, school and churches. The step-grandCONGENITAL WORD-BLINDNESS 75
-father disagrees in this judgment however, and says he wouldn't
-want to rear his children in the neighborhood as there are many
+Neighbourhoods: Described by the court as a good residential
+district, close to the car line, schools and churches. The step
+father disagrees in this judgment, however, and says he wouldn't
+want to rear his children in the neighbourhood as there are many
 questionable children thereabout.
 
 Economic Status: Nothing definite known but everything
@@ -113,37 +111,36 @@ The father and step-mother handle him more wisely than the
 grandmother " The step-mother says, "I tried to train Paul
 in the right way; sent him to Sunday School, and tried to interest
 him in Boy Scout work, sent him to camp, but he was sent home
-on account of breaking rules. When he did wrong in Park
-School, we decided to change his schools, and allow him to board
+on account of breaking the rules. When he did wrong in Park
+School, we decided to change his schools and allow him to board
 with his father's family."
 
 The grandmother's home offers the possibility of many associates and Paul gets acquainted rather easily. He does not choose
-older boys for companions except his fourteen year old uncle,
+older boys for companions except his fourteen-year-old uncle,
 whose association is of doubtful value.
 
 He seems to hold his grandparents and his home in high esteem and makes no complaint about the conditions. They are good
 to him, supply his wants and allow him much leisure time. He
-is particularly fond of his father. The other side of the story as
+is particularly fond of his father. The other side of the story 
 obtained through agencies is that the grandmother is weary of
-caring for him and feels that he should be with the father. She
+caring for him and feels he should be with the father. She
 may be a trifle indulgent with the lad in some respects but has
 allowed the idea that he is dumb, backward or lazy to grow up
 within the home.
 
 He freely admits these charges and says he was sent here
-for lying, stealing, being bad and playing truant. For some time,
-he has been stealing at home and using the money to hire saddle
-horses. He also admits much stealing from stores near his home.
-He takes particular delight in the out-of-doors and when truant
+for lying, stealing, being bad and playing truant. He has been stealing at home and using the money to hire saddle
+horses for some time. He also admits much stealing from stores near his home.
+He takes particular delight in the out-of-doors and when truant,
 spends his time tramping in the woods and fields. After school and
 on Saturdays, he works on a small truck farm near his home and
 earns $1.25 a day. Above all else he is fond of horses and spends
 all his money to hire them for rides. His parents report the following factors that seem to hold a clinical interest. He is easy
 to manage and tries hard to please. He is often troublesome,
 starts fights but usually holds his own in them. He holds spite and
-is vindictive. He is not well liked by children his own age and
+is vindictive. He is not well-liked by children his own age and
 sex and is not kind to them. He does not enjoy group play; probably doesn't know how to play with a group but does know how
-to play by himself. He lies not only to protect himself, but when
+to play by himself. He lies to protect himself and when
 the truth would be better. He also steals and runs away from
 home frequently. He is interested in things which younger children find pleasure in. They also report him as shy, moody, easily
 led, indifferent to the affairs of life, poor in memory, and that it is
@@ -190,16 +187,14 @@ In what subjects does he do his poorest??"Reading, spelling."
 Why do you think he failed the grades he did??"Laziness. Lack
 of attention, interest, memory."
 
-In an accompanying letter the principal says, "There is ... .
-something radically wrong with his mental attitude and ability.
+In an accompanying letter, the principal says, "There is something radically wrong with his mental attitude and ability.
 No one who has had him in school has been able to fathom the
 difficulty.''
 
-That Paul has made himself a problem to the school, there
-can be no doubt. He admits this freely, but undoubtedly there were
+There can be no doubt that Paul has made himself a problem to the school. He admits this freely, but undoubtedly there were
 mitigating circumstances as normal boys leading normal lives and
 with average teachers are not serious problems. The problem then
-is to determine the cause of the mal-adjustment.
+is to determine the cause of the maladjustment.
 
 Previous Psychological Examinations:
 

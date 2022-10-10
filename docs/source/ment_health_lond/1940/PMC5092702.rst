@@ -1,10 +1,19 @@
 Matrix Tests
-=============
+############
+
+.. meta::
+  :Author: JOHN C. RAVEN
+  :Description: IQ measures the mental ability of a person at any given age by scoring them on a standard set of problems that people of average ability, without prior training, are able to solve at a given age. 
+  :Keywords: matrix tests, raven's progressive matrices, SPM, CPM, IQ, IQ tests
+  :Date: January, 1940
+  
 
 
 :Author: JOHN C. RAVEN
-:Qualification: M.Sc
+:Degrees: M.Sc
 :Affiliation: Research Department, Royal Eastern Counties Institution, Colchester
+:Date: January, 1940
+:Journal: Mental health London
 
 Citation:
 --------
@@ -427,6 +436,8 @@ The writer is indebted to Dr. L. S. Penrose and Dr LG Fildes for much helpful
 assistance and criticism. Thanks are also due to the Child Guidance Council.
 The work was carried out under the auspices of the Medical Research Council and
 the Darwin Trust.
+
+:Copyrights: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License, which permits non-commercial use and redistribution provided that the original author and source are credited.
 
 REFERENCES
 ----------

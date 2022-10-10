@@ -1,7 +1,10 @@
 Stanford Binet "Indicators" of Mechanical Ability
 ==================================================
 
-:Author: G. Riley, Research Fellow, The Training School, Vineland, N.J.
+:Author: G. Riley
+:Role: Research Fellow
+:Affiliation: The Training School, Vineland, N.J.
+
 One of the common practices in clinical psychology is the use
 of the results from one test to indicate the advisability and the
 direction of further testing. The development of this method is
@@ -11,12 +14,12 @@ presence of mechanical ability.
 
 The theory that general intelligence and mechanical ability are
 distinct traits is consistently confirmed by the low correlations found
-between tests of intelligence and mechanical ability. Almost all of
+between tests of intelligence and mechanical ability. Most of
 these studies are based on the total score or verbal "pencil and
 paper" type of intelligence test. Because of the variety of tests
 in the Stanford Binet, which presumably taps many functions, some
 might be sufficiently prognostic of the presence of mechanical ability
-to be of practical clinical value. The Stanford Binet has the
+to be of practical clinical value. The Stanford Binet has a
 further advantage in that it is more frequently used as the base
 of a test battery than any other test.
 
@@ -43,11 +46,12 @@ in three boxes containing thirty-three common mechanical objects.
 There are to be put together correctly, as rapidly as possible. The
 time is cumulative for each box and the score is from zero to ten for
 each object.
+
 The reliability and validity of this test are comparable to the
 Results obtained for intelligence tests. The correlation of odd and
 even items raised by Brown's formula gives a reliability coefficient
 for the total scale of plus 94. The criterion of mechanical ability
-used was the quality of the boy's work in shop graded in a semi?bjective way against certain standard objects. This correlation
+used was the quality of the boy's work in shop graded in a semi objective way against certain standard objects. This correlation
 was plus 55.
 
 The subjects of this study were sixty-five boys from the Hennepin County Probation Office. The usual procedure in giving an

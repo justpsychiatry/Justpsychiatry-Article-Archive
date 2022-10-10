@@ -1,11 +1,19 @@
 James Mentally Deficient and Socially Retarded
 ===============================================
 
-:Author: Arthur Phillips, Clinic Teacher
-The Psychological Clinic, University of Pennsylvania
-Prepared by the possession of two notebooks and a reader for
-real work, James presented himself (on the opening day of summer school at the University of Pennsylvania, July, 1929) to the
-department of diagnostic education of the Psychological Clinic.
+.. meta::
+    :Author:  Arthur Phillips
+    :Keywords: James, intellectual disability, clinical case, social retardation
+    :Description: Prepared by the possession of two notebooks and a reader for real work, James presented himself (on the opening day of summer school at the University of Pennsylvania, July, 1929) to the department of diagnostic education of the Psychological Clinic.
+
+
+:Author: Arthur Phillips
+:Role: Clinic Teacher
+:Affiliation: The Psychological Clinic, University of Pennsylvania
+
+.. Attention::
+    
+    Prepared by the possession of two notebooks and a reader for real work, James presented himself (on the opening day of summer school at the University of Pennsylvania, July, 1929) to the department of diagnostic education of the Psychological Clinic.
 
 Upon an uncritical observer, James would make a favorable impression. Although not of athletic proportions, he is fairly well
 developed. His smile is animated; his interest in his surroundings,
@@ -17,10 +25,13 @@ This was not his first appearance at the Psychological Clinic,
 nor did he come for his first period of clinic teaching. On November 20, 1926, when he was one month short of ten years of age, his
 mother brought him to the clinic for mental examination. He had
 been referred by the Superior of a parochial school. Her brief
-note stated, " James has been a pupil in our first grade. His conduct
-has been good, and while he attends regularly, he does not grasp the
-matter taught. I hope that you may be able to improve the boy's
-condition." At the time, however, James, was enrolled in an Orthogenic Backward Class of the Public Schools, to which he had
+note stated, 
+
+    "James has been a pupil in our first grade. 
+    His conduct has been good, and while he attends regularly, he does not grasp the matter taught. 
+    I hope that you may be able to improve the boy's condition." 
+
+At the time, however, James, was enrolled in an Orthogenic Backward Class of the Public Schools, to which he had
 gone from the parochial school which he entered at the age of
 seven. He was presumed to be doing second grade work. His
 conduct at the public school is again described as good; his work,
@@ -34,8 +45,9 @@ eighth grade. He was a printer. The third son had completed the
 third year in high school. He was doing engineering work. Then
 comes James. His medical history states that his delivery at birth
 was difficult. He was breast-fed for about six weeks. At eight
-months, he had gastroenteritis. A nurse came from a nearby hospital every week from that time on for four years with profesJAMES 187
-sional services. James walked at two years and talked at four
+months, he had gastroenteritis. 
+
+A nurse came from a nearby hospital every week from that time on for four years with professional services. James walked at two years and talked at four
 years. Up to his fourth year, he used sign language exclusively.
 The physician who attended him in his first illness warned the
 parents to expect about two years retardation. Measles is the only
